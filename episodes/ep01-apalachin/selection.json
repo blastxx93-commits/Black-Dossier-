@@ -1,0 +1,46 @@
+{
+  "_info": "Escolhas do Claude para o EP01. Arquivos relativos a assets/ep01-apalachin/ (branch assets). pick = usar; alt = reserva; status pending = aguardando 2a busca; none = sem imagem real utilizavel, vira plano grafico (document/statement/timeline) ou imagem IA marcada.",
+  "shots": {
+    "ch00_country_road":      {"pick": "ch00_country_road/4_loc.jpg", "status": "provisorio", "why": "unica paisagem real; 1-3 sao capas de livro"},
+    "ch00_cars_1957":         {"pick": "ch00_cars_1957/4_commons.jpg", "alt": ["ch00_cars_1957/2_loc.jpg"]},
+    "ch00_apalachin_meeting": {"pick": null, "status": "none", "why": "resultado era o Buffalo Central Terminal, nao Apalachin"},
+    "ch00_pasture_woods":     {"pick": null, "status": "pending", "why": "1-4 eram capas de livro"},
+    "ch00_state_trooper":     {"pick": null, "status": "pending"},
+
+    "ch01_hoover_portrait":   {"pick": "ch01_hoover_portrait/3_commons.jpg", "alt": ["ch01_hoover_portrait/1_commons.jpg"]},
+    "ch01_g_men_1930s":       {"pick": "ch01_g_men_1930s/1_commons.jpg", "alt": ["ch01_g_men_1930s/3_commons.jpg"], "why": "4 evitado: arma em destaque"},
+    "ch01_dillinger":         {"pick": "ch01_dillinger/2_commons.jpg", "alt": ["ch01_dillinger/3_commons.jpg"]},
+    "ch01_kefauver_hearing":  {"pick": "ch01_kefauver_hearing/2_commons.jpg", "alt": ["ch01_kefauver_hearing/1_commons.jpg"]},
+    "ch01_frank_costello":    {"pick": "ch01_kefauver_hearing/1_commons.jpg", "alt": ["ch01_frank_costello/2_commons.jpg"], "why": "openverse 1 e 3 sao OUTRO Frank Costello (secretario de imprensa) - nao usar"},
+    "ch01_tv_1950s":          {"pick": "ch01_tv_1950s/1_commons.jpg", "why": "familia diante da TV; generico, sem legenda de lugar"},
+
+    "ch02_southern_tier_farm":{"pick": "ch02_southern_tier_farm/2_loc.jpg", "alt": ["ch02_southern_tier_farm/3_loc.jpg"], "why": "fazenda em Spencer, NY - mesma regiao (Southern Tier)"},
+    "ch02_castellammare":     {"pick": "ch02_castellammare/1_commons.jpg", "alt": ["ch02_castellammare/3_openverse.jpg"]},
+    "ch02_prohibition":       {"pick": "ch02_prohibition/1_commons.jpg"},
+    "ch02_bottling_plant":    {"pick": "ch02_bottling_plant/2_openverse.jpg", "why": "linha de engarrafamento antiga; generico, sem marca"},
+    "ch02_stone_house_hill":  {"pick": "ch02_stone_house_hill/2_loc.jpg", "why": "pintura de fazenda no interior de NY; 1 e 4 sao partituras"},
+    "ch02_carmine_galante":   {"pick": null, "status": "pending"},
+
+    "ch03_central_park_west": {"pick": "ch03_central_park_west/1_commons.jpg", "why": "vista de dentro do 146 Central Park West"},
+    "ch03_tropicana_vegas":   {"pick": null, "status": "none", "why": "so fotos modernas; usar plano 'document' do papel no bolso de Costello"},
+    "ch03_vito_genovese":     {"pick": "ch03_vito_genovese/1_commons.jpg"},
+    "ch03_lucky_luciano":     {"pick": "ch03_lucky_luciano/1_commons.jpg", "alt": ["ch03_lucky_luciano/3_commons.jpg"], "why": "openverse 2 era uma joaninha"},
+    "ch03_albert_anastasia":  {"pick": null, "status": "pending", "why": "so retrato; nunca cena do crime"},
+    "ch03_park_sheraton":     {"pick": null, "status": "none", "why": "resultados eram hoteis de Niagara e Detroit"},
+    "ch03_havana_1950s":      {"pick": "ch03_havana_1950s/1_commons.jpg", "why": "Havana atual com carro classico - atmosfera, sem legenda de data"},
+    "ch03_garment_district":  {"pick": null, "status": "none", "why": "resultados sem relacao"},
+    "ch03_russell_bufalino":  {"pick": null, "status": "pending"},
+
+    "ch04_motel_1950s":       {"pick": "ch04_motel_1950s/1_commons.jpg", "alt": ["ch04_motel_1950s/2_loc.jpg"], "why": "motel anos 50 real; sem legenda de lugar (nao e o Parkway Motel)"},
+    "ch04_butcher_shop":      {"pick": "ch04_butcher_shop/1_commons.jpg", "why": "acougue de 1950 (Finlandia) - generico, sem legenda"},
+
+    "ch05_police_roadblock":  {"pick": null, "status": "none", "why": "fotos sao de policia finlandesa, 1955 - enganoso; usar timeline/statement"},
+    "ch05_carlo_gambino":     {"pick": "ch05_carlo_gambino/1_commons.jpg"},
+    "ch05_joseph_profaci":    {"pick": "ch05_joseph_profaci/1_loc.jpg", "why": "Profaci em audiencia; LoC - conferir direitos na pagina"}
+  },
+  "rules_applied": [
+    "Identidade conferida pelo titulo do arquivo, nao so pela imagem",
+    "Imagem generica nunca recebe legenda de lugar/data que nao e dela",
+    "Nada de arma em destaque nem cena de crime"
+  ]
+}
