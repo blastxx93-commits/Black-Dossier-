@@ -114,6 +114,9 @@ def search_loc(q):
         imgs = [u.split("#")[0] for u in it.get("image_url", []) if u]
         if not imgs:
             continue
+        fmt = " ".join(it.get("original_format") or []).lower()
+        if fmt and not any(k in fmt for k in ("photo", "print", "drawing", "poster")):
+            continue  # skip books, manuscripts, maps: they come back as title pages
         rights = it.get("rights_advisory") or it.get("rights") or ""
         rights = " ".join(rights) if isinstance(rights, list) else str(rights)
         if rights and BAD_LICENSE.search(rights) and "no known" not in rights.lower():
