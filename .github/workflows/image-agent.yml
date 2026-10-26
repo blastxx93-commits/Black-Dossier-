@@ -41,7 +41,7 @@ jobs:
         run: python3 agent/search_images.py "${{ inputs.episode }}" --out assets_out --only "${{ inputs.only }}" --budget 35
 
       - name: Publicar no branch assets
-        if: always()
+        if: ${{ !cancelled() }}
         env:
           EP: ${{ inputs.episode }}
           ONLY: ${{ inputs.only }}
