@@ -1,0 +1,290 @@
+[     0s] ep01-apalachin: 40 planos, limite 35.0 min
+[     0s] ch00_country_road: 'rural country road autumn New York'
+[     1s]     commons: 0 candidatos em 1.0s
+[     1s]     loc: 12 candidatos em 0.1s
+[     1s]     openverse: 0 candidatos em 0.2s
+[     4s]     falhou download (loc) em 0.0s
+[     4s]     falhou download (loc) em 0.0s
+[     4s]     falhou download (loc) em 0.0s
+[     4s]     falhou download (loc) em 0.0s
+[     4s]     falhou download (loc) em 0.0s
+[     4s]     falhou download (loc) em 0.0s
+[     4s]     falhou download (loc) em 0.0s
+[     4s]     falhou download (loc) em 0.0s
+[     4s]     falhou download (loc) em 0.0s
+[     4s]     commons: 0 candidatos em 0.3s
+[     4s]     loc: 12 candidatos em 0.1s
+[     4s]     openverse: 1 candidatos em 0.0s
+[     5s]   -> 4 imagens
+[     5s] ch00_cars_1957: '1957 Cadillac'
+[     5s]     commons: 12 candidatos em 0.4s
+[     6s]     loc: 5 candidatos em 0.0s
+[     6s]     openverse: 9 candidatos em 0.0s
+[     8s]   -> 4 imagens
+[     8s] ch00_apalachin_meeting: 'Apalachin meeting 1957'
+[     9s]     commons: 1 candidatos em 0.3s
+[     9s]     loc: 0 candidatos em 0.0s
+[    43s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[    43s]     openverse: 0 candidatos em 34.0s
+[    44s]     commons: 1 candidatos em 0.4s
+[    44s]     loc: 0 candidatos em 0.0s
+[    44s]     openverse: 0 candidatos em 0.0s
+[    44s]   -> 1 imagens
+[    44s] ch00_pasture_woods: 'cow pasture edge of woods autumn'
+[    44s]     commons: 0 candidatos em 0.4s
+[    44s]     loc: 12 candidatos em 0.0s
+[    44s]     openverse: 0 candidatos em 0.0s
+[    45s]     falhou download (loc) em 0.0s
+[    46s]     falhou download (loc) em 0.0s
+[    47s]   -> 4 imagens
+[    47s] ch00_state_trooper: 'New York State Police trooper 1950s'
+[    48s]     commons: 0 candidatos em 0.3s
+[    48s]     loc: 0 candidatos em 0.0s
+[    82s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[    82s]     openverse: 0 candidatos em 34.1s
+[    82s]     commons: 0 candidatos em 0.4s
+[    82s]     loc: 0 candidatos em 0.0s
+[    82s]     openverse: 0 candidatos em 0.1s
+[    82s]   -> 0 imagens
+[    82s] ch01_hoover_portrait: 'J. Edgar Hoover'
+[    83s]     commons: 10 candidatos em 0.5s
+[    83s]     loc: 12 candidatos em 0.0s
+[   117s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[   117s]     openverse: 0 candidatos em 34.1s
+[   118s]     falhou download (loc) em 0.1s
+[   119s]     falhou download (loc) em 0.1s
+[   120s]   -> 3 imagens
+[   120s] ch01_g_men_1930s: 'FBI agents 1930s'
+[   120s]     commons: 3 candidatos em 0.2s
+[   120s]     loc: 5 candidatos em 0.0s
+[   120s]     openverse: 0 candidatos em 0.0s
+[   132s]     falhou download (loc) em 0.0s
+[   133s]   -> 4 imagens
+[   133s] ch01_dillinger: 'John Dillinger wanted poster'
+[   133s]     commons: 2 candidatos em 0.4s
+[   133s]     loc: 1 candidatos em 0.0s
+[   133s]     openverse: 0 candidatos em 0.0s
+[   135s]     commons: 6 candidatos em 0.6s
+[   135s]     loc: 12 candidatos em 0.0s
+[   135s]     openverse: 11 candidatos em 0.0s
+[   146s]   -> 3 imagens
+[   146s] ch01_kefauver_hearing: 'Kefauver Committee hearing 1951'
+[   147s]     commons: 11 candidatos em 0.5s
+[   147s]     loc: 0 candidatos em 0.0s
+[   147s]     openverse: 0 candidatos em 0.0s
+[   150s]   -> 4 imagens
+[   150s] ch01_frank_costello: 'Frank Costello'
+[   150s]     commons: 9 candidatos em 0.7s
+[   150s]     loc: 8 candidatos em 0.0s
+[   150s]     openverse: 11 candidatos em 0.0s
+[   150s]     falhou download (loc) em 0.0s
+[   151s]     falhou download (loc) em 0.0s
+[   152s]   -> 3 imagens
+[   152s] ch01_tv_1950s: '1950s family watching television'
+[   153s]     commons: 3 candidatos em 0.7s
+[   153s]     loc: 0 candidatos em 0.0s
+[   187s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[   187s]     openverse: 0 candidatos em 34.1s
+[   189s]     commons: 0 candidatos em 0.5s
+[   195s]     loc: 2 candidatos em 5.8s
+[   203s]     openverse: 0 candidatos em 8.0s
+[   203s]     falhou download (loc) em 0.0s
+[   203s]   -> 3 imagens
+[   203s] ch02_southern_tier_farm: 'dairy farm New York 1950s'
+[   203s]     commons: 0 candidatos em 0.2s
+[   203s]     loc: 0 candidatos em 0.0s
+[   203s]     openverse: 0 candidatos em 0.0s
+[   204s]     commons: 11 candidatos em 0.5s
+[   204s]     loc: 8 candidatos em 0.0s
+[   204s]     openverse: 1 candidatos em 0.0s
+[   235s]     falhou download (openverse) em 30.0s
+[   265s]     falhou download (commons) em 30.0s
+[   270s]   -> 4 imagens
+[   270s] ch02_castellammare: 'Castellammare del Golfo'
+[   271s]     commons: 12 candidatos em 0.5s
+[   271s]     loc: 0 candidatos em 0.0s
+[   271s]     openverse: 9 candidatos em 0.0s
+[   302s]     falhou download (openverse) em 30.0s
+[   304s]   -> 4 imagens
+[   304s] ch02_prohibition: 'Prohibition bootlegging 1920s'
+[   305s]     commons: 6 candidatos em 0.8s
+[   305s]     loc: 5 candidatos em 0.0s
+[   305s]     openverse: 12 candidatos em 0.0s
+[   337s]     falhou download (commons) em 30.0s
+[   339s]   -> 4 imagens
+[   339s] ch02_bottling_plant: 'soda bottling plant 1950s'
+[   339s]     commons: 1 candidatos em 0.4s
+[   339s]     loc: 0 candidatos em 0.0s
+[   339s]     openverse: 2 candidatos em 0.0s
+[   371s]     falhou download (openverse) em 30.0s
+[   371s]     commons: 2 candidatos em 0.7s
+[   371s]     loc: 12 candidatos em 0.0s
+[   371s]     openverse: 0 candidatos em 0.0s
+[   376s]   -> 4 imagens
+[   376s] ch02_stone_house_hill: 'stone farmhouse on hill New York'
+[   377s]     commons: 8 candidatos em 0.7s
+[   377s]     loc: 12 candidatos em 0.0s
+[   377s]     openverse: 2 candidatos em 0.0s
+[   380s]   -> 4 imagens
+[   380s] ch02_carmine_galante: 'Carmine Galante'
+[   381s]     commons: 3 candidatos em 0.3s
+[   381s]     loc: 1 candidatos em 0.0s
+[   381s]     openverse: 3 candidatos em 0.0s
+[   411s]     falhou download (commons) em 30.0s
+[   411s]     falhou download (loc) em 0.0s
+[   441s]     falhou download (openverse) em 30.0s
+[   471s]     falhou download (commons) em 30.0s
+[   501s]     falhou download (openverse) em 30.0s
+[   531s]     falhou download (commons) em 30.0s
+[   561s]     falhou download (openverse) em 30.0s
+[   561s]   -> 0 imagens
+[   561s] ch03_central_park_west: 'Central Park West 1950s'
+[   563s]     commons: 2 candidatos em 2.7s
+[   563s]     loc: 10 candidatos em 0.1s
+[   598s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[   598s]     openverse: 0 candidatos em 34.2s
+[   601s]   -> 4 imagens
+[   601s] ch03_tropicana_vegas: 'Tropicana Las Vegas 1957'
+[   601s]     commons: 2 candidatos em 0.3s
+[   601s]     loc: 0 candidatos em 0.0s
+[   635s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[   635s]     openverse: 0 candidatos em 34.1s
+[   637s]     commons: 4 candidatos em 0.3s
+[   637s]     loc: 0 candidatos em 0.1s
+[   637s]     openverse: 7 candidatos em 0.1s
+[   667s]     falhou download (commons) em 30.0s
+[   698s]     falhou download (commons) em 30.0s
+[   699s]   -> 4 imagens
+[   699s] ch03_vito_genovese: 'Vito Genovese'
+[   699s]     commons: 7 candidatos em 0.5s
+[   699s]     loc: 1 candidatos em 0.0s
+[   699s]     openverse: 4 candidatos em 0.1s
+[   702s]   -> 3 imagens
+[   702s] ch03_lucky_luciano: 'Lucky Luciano'
+[   703s]     commons: 8 candidatos em 0.5s
+[   703s]     loc: 7 candidatos em 0.0s
+[   703s]     openverse: 6 candidatos em 0.0s
+[   703s]     falhou download (loc) em 0.1s
+[   734s]     falhou download (commons) em 30.0s
+[   734s]     falhou download (loc) em 0.2s
+[   764s]     falhou download (openverse) em 30.0s
+[   765s]   -> 3 imagens
+[   765s] ch03_albert_anastasia: 'Albert Anastasia'
+[   765s]     commons: 8 candidatos em 0.6s
+[   765s]     loc: 5 candidatos em 0.0s
+[   765s]     openverse: 1 candidatos em 0.0s
+[   795s]     falhou download (commons) em 30.0s
+[   795s]     falhou download (loc) em 0.1s
+[   825s]     falhou download (openverse) em 30.0s
+[   855s]     falhou download (commons) em 30.0s
+[   856s]     falhou download (loc) em 0.0s
+[   886s]     falhou download (commons) em 30.0s
+[   886s]     falhou download (loc) em 0.0s
+[   916s]     falhou download (commons) em 30.0s
+[   916s]     falhou download (loc) em 0.0s
+[   946s]     falhou download (commons) em 30.0s
+[   946s]     falhou download (loc) em 0.0s
+[   976s]     falhou download (commons) em 30.0s
+[  1006s]     falhou download (commons) em 30.0s
+[  1036s]     falhou download (commons) em 30.0s
+[  1036s]   -> 0 imagens
+[  1036s] ch03_park_sheraton: 'Park Sheraton Hotel New York'
+[  1036s]     commons: 6 candidatos em 0.7s
+[  1050s]     loc: 4 candidatos em 13.3s
+[  1084s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[  1084s]     openverse: 0 candidatos em 34.2s
+[  1085s]     falhou download (loc) em 0.0s
+[  1115s]     falhou download (commons) em 30.0s
+[  1115s]     falhou download (loc) em 0.2s
+[  1145s]     falhou download (commons) em 30.0s
+[  1147s]   -> 4 imagens
+[  1147s] ch03_havana_1950s: 'Havana casino 1950s'
+[  1148s]     commons: 2 candidatos em 0.3s
+[  1148s]     loc: 0 candidatos em 0.6s
+[  1182s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[  1182s]     openverse: 0 candidatos em 34.1s
+[  1212s]     falhou download (commons) em 30.0s
+[  1242s]     falhou download (commons) em 30.0s
+[  1243s]     commons: 9 candidatos em 0.3s
+[  1243s]     loc: 0 candidatos em 0.2s
+[  1277s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[  1277s]   ! api.openverse.org desligado nesta execucao (3 falhas seguidas)
+[  1277s]     openverse: 0 candidatos em 34.1s
+[  1307s]     falhou download (commons) em 30.0s
+[  1337s]     falhou download (commons) em 30.0s
+[  1367s]     falhou download (commons) em 30.0s
+[  1397s]     falhou download (commons) em 30.0s
+[  1427s]     falhou download (commons) em 30.0s
+[  1457s]     falhou download (commons) em 30.0s
+[  1487s]     falhou download (commons) em 30.0s
+[  1517s]     falhou download (commons) em 30.0s
+[  1518s]   -> 1 imagens
+[  1518s] ch03_garment_district: 'New York garment district 1950s'
+[  1519s]     commons: 0 candidatos em 0.4s
+[  1522s]     loc: 1 candidatos em 3.1s
+[  1522s]     openverse: 0 candidatos em 0.0s
+[  1565s]     commons: 0 candidatos em 0.6s
+[  1568s]     loc: 12 candidatos em 3.2s
+[  1568s]     openverse: 0 candidatos em 0.0s
+[  1568s]     falhou download (loc) em 0.0s
+[  1568s]     falhou download (loc) em 0.0s
+[  1568s]     falhou download (loc) em 0.0s
+[  1569s]     falhou download (loc) em 0.0s
+[  1569s]   -> 2 imagens
+[  1569s] ch03_russell_bufalino: 'Russell Bufalino'
+[  1569s]     commons: 2 candidatos em 0.5s
+[  1570s]     loc: 0 candidatos em 1.0s
+[  1570s]     openverse: 0 candidatos em 0.0s
+[  1600s]     falhou download (commons) em 30.0s
+[  1630s]     falhou download (commons) em 30.0s
+[  1630s]   -> 0 imagens
+[  1630s] ch04_motel_1950s: '1950s roadside motel'
+[  1631s]     commons: 1 candidatos em 0.4s
+[  1634s]     loc: 0 candidatos em 3.5s
+[  1634s]     openverse: 0 candidatos em 0.0s
+[  1664s]     falhou download (commons) em 30.0s
+[  1665s]     commons: 1 candidatos em 0.5s
+[  1673s]     loc: 8 candidatos em 7.9s
+[  1673s]     openverse: 0 candidatos em 0.0s
+[  1680s]     falhou download (loc) em 0.2s
+[  1681s]   -> 4 imagens
+[  1681s] ch04_butcher_shop: 'butcher shop 1950s'
+[  1683s]     commons: 8 candidatos em 2.0s
+[  1683s]     loc: 0 candidatos em 0.6s
+[  1683s]     openverse: 0 candidatos em 0.0s
+[  1713s]     falhou download (commons) em 30.0s
+[  1743s]     falhou download (commons) em 30.0s
+[  1773s]     falhou download (commons) em 30.0s
+[  1803s]     falhou download (commons) em 30.0s
+[  1833s]     falhou download (commons) em 30.0s
+[  1863s]     falhou download (commons) em 30.0s
+[  1893s]     falhou download (commons) em 30.0s
+[  1895s]     commons: 0 candidatos em 0.6s
+[  1908s]     loc: 8 candidatos em 12.7s
+[  1908s]     openverse: 0 candidatos em 0.0s
+[  1910s]   -> 4 imagens
+[  1910s] ch05_police_roadblock: 'police roadblock 1950s'
+[  1910s]     commons: 0 candidatos em 0.4s
+[  1931s]     loc: 0 candidatos em 20.5s
+[  1931s]     openverse: 0 candidatos em 0.0s
+[  1931s]     commons: 12 candidatos em 0.5s
+[  1965s]   ! www.loc.gov: HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out. (read timeout=15)
+[  1965s]     loc: 0 candidatos em 34.1s
+[  1965s]     openverse: 0 candidatos em 0.0s
+[  1971s]   -> 4 imagens
+[  1971s] ch05_carlo_gambino: 'Carlo Gambino'
+[  1972s]     commons: 7 candidatos em 0.7s
+[  1975s]     loc: 0 candidatos em 3.3s
+[  1975s]     openverse: 0 candidatos em 0.0s
+[  2006s]     falhou download (commons) em 30.0s
+[  2036s]     falhou download (commons) em 30.0s
+[  2066s]     falhou download (commons) em 30.0s
+[  2096s]     falhou download (commons) em 30.0s
+[  2098s]   -> 2 imagens
+[  2098s] ch05_joseph_profaci: 'Joseph Profaci'
+[  2098s]     commons: 1 candidatos em 0.5s
+[  2111s]     loc: 1 candidatos em 13.1s
+[  2111s]     openverse: 0 candidatos em 0.0s
+[  2141s]     falhou download (commons) em 30.0s
+[  2142s]   -> 1 imagens
+[  2145s] fim: 89 imagens
