@@ -1,0 +1,77 @@
+name: Agente de imagens
+
+# Dispare pelo celular: Actions -> "Agente de imagens" -> Run workflow.
+# Resultado vai para o branch "assets" (pasta do episódio) e aparece no resumo da execução.
+on:
+  workflow_dispatch:
+    inputs:
+      episode:
+        description: "Pasta do episódio (ex.: ep01-apalachin)"
+        required: true
+        default: "ep01-apalachin"
+      only:
+        description: "Opcional: só estes planos, separados por vírgula"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: image-agent-${{ inputs.episode }}
+  cancel-in-progress: false
+
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependências
+        run: pip install -r agent/requirements.txt
+
+      - name: Buscar imagens
+        run: python3 agent/search_images.py "${{ inputs.episode }}" --out assets_out --only "${{ inputs.only }}"
+
+      - name: Publicar no branch assets
+        env:
+          EP: ${{ inputs.episode }}
+          ONLY: ${{ inputs.only }}
+        run: |
+          git config user.name "black-dossier-agent"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git ls-remote --exit-code --heads origin assets >/dev/null; then
+            git fetch --depth=1 origin assets
+            git worktree add -B assets ../assets-wt origin/assets
+          else
+            git worktree add --orphan -b assets ../assets-wt
+          fi
+          mkdir -p "../assets-wt/$EP"
+          if [ -z "$ONLY" ]; then
+            # full run replaces the episode folder
+            rm -rf "../assets-wt/$EP"
+            cp -r "assets_out/$EP" "../assets-wt/$EP"
+          else
+            # partial run: replace only the requested shots, refresh sheets/report
+            for d in assets_out/$EP/*/; do
+              s=$(basename "$d"); rm -rf "../assets-wt/$EP/$s"; cp -r "$d" "../assets-wt/$EP/$s"
+            done
+            cp assets_out/$EP/contact_sheet_*.jpg "../assets-wt/$EP/" 2>/dev/null || true
+            cp "assets_out/$EP/report.md" "../assets-wt/$EP/report_parcial.md"
+            if [ -f "../assets-wt/$EP/credits.csv" ]; then
+              tail -n +2 "assets_out/$EP/credits.csv" >> "../assets-wt/$EP/credits.csv"
+            else
+              cp "assets_out/$EP/credits.csv" "../assets-wt/$EP/credits.csv"
+            fi
+          fi
+          cd ../assets-wt
+          git add -A
+          git commit -m "Imagens: $EP ${ONLY:+(planos: $ONLY)}" || { echo "Nada novo"; exit 0; }
+          git push origin assets
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          echo "Folhas de contato: https://github.com/${{ github.repository }}/tree/assets/$EP" >> "$GITHUB_STEP_SUMMARY"

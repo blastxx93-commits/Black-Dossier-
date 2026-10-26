@@ -1,0 +1,53 @@
+{
+  "defaults": {"n": 4, "sources": ["commons", "loc", "openverse"]},
+  "shots": [
+    {"id": "ch00_country_road", "query": "rural country road autumn New York", "alt": ["dirt road farm hill autumn"], "note": "hook: estrada de terra subindo o morro"},
+    {"id": "ch00_cars_1957", "query": "1957 Cadillac", "alt": ["1950s Lincoln automobile", "1957 Imperial car"], "note": "hook: carros pretos de luxo"},
+    {"id": "ch00_apalachin_meeting", "query": "Apalachin meeting 1957", "alt": ["Apalachin New York 1957 mafia"], "note": "hook: o encontro / a casa"},
+    {"id": "ch00_pasture_woods", "query": "cow pasture edge of woods autumn", "alt": ["farm field woods fence autumn"], "note": "hook: fuga pelos pastos"},
+    {"id": "ch00_state_trooper", "query": "New York State Police trooper 1950s", "alt": ["state trooper 1950s patrol car"], "note": "hook: o trooper"},
+
+    {"id": "ch01_hoover_portrait", "query": "J. Edgar Hoover", "alt": ["J. Edgar Hoover 1950s"], "n": 3},
+    {"id": "ch01_g_men_1930s", "query": "FBI agents 1930s", "alt": ["Bureau of Investigation agents 1930s"]},
+    {"id": "ch01_dillinger", "query": "John Dillinger wanted poster", "alt": ["John Dillinger"], "n": 3},
+    {"id": "ch01_kefauver_hearing", "query": "Kefauver Committee hearing 1951", "alt": ["Estes Kefauver hearing organized crime"]},
+    {"id": "ch01_frank_costello", "query": "Frank Costello", "alt": ["Frank Costello 1951 Kefauver"], "n": 3},
+    {"id": "ch01_tv_1950s", "query": "1950s family watching television", "alt": ["1951 television set living room"]},
+
+    {"id": "ch02_southern_tier_farm", "query": "dairy farm New York 1950s", "alt": ["Tioga County New York farm"]},
+    {"id": "ch02_castellammare", "query": "Castellammare del Golfo", "alt": ["Castellammare del Golfo harbor"]},
+    {"id": "ch02_prohibition", "query": "Prohibition bootlegging 1920s", "alt": ["Prohibition agents destroying barrels"]},
+    {"id": "ch02_bottling_plant", "query": "soda bottling plant 1950s", "alt": ["soft drink bottling line vintage"]},
+    {"id": "ch02_stone_house_hill", "query": "stone farmhouse on hill New York", "alt": ["stone house countryside 1950s"]},
+    {"id": "ch02_carmine_galante", "query": "Carmine Galante", "n": 2},
+
+    {"id": "ch03_central_park_west", "query": "Central Park West 1950s", "alt": ["Central Park West apartment building"]},
+    {"id": "ch03_tropicana_vegas", "query": "Tropicana Las Vegas 1957", "alt": ["Las Vegas Strip 1950s"]},
+    {"id": "ch03_vito_genovese", "query": "Vito Genovese", "n": 3},
+    {"id": "ch03_lucky_luciano", "query": "Lucky Luciano", "n": 3},
+    {"id": "ch03_albert_anastasia", "query": "Albert Anastasia", "n": 3, "note": "só retrato; nunca foto da cena do crime"},
+    {"id": "ch03_park_sheraton", "query": "Park Sheraton Hotel New York", "alt": ["Park Central Hotel Seventh Avenue"]},
+    {"id": "ch03_havana_1950s", "query": "Havana casino 1950s", "alt": ["Havana 1950s street"]},
+    {"id": "ch03_garment_district", "query": "New York garment district 1950s", "alt": ["garment district hand trucks New York"]},
+    {"id": "ch03_russell_bufalino", "query": "Russell Bufalino", "n": 2},
+
+    {"id": "ch04_motel_1950s", "query": "1950s roadside motel", "alt": ["vintage motel sign 1950s"]},
+    {"id": "ch04_butcher_shop", "query": "butcher shop 1950s", "alt": ["vintage butcher meat counter"]},
+
+    {"id": "ch05_police_roadblock", "query": "police roadblock 1950s", "alt": ["state police car 1950s"]},
+    {"id": "ch05_carlo_gambino", "query": "Carlo Gambino", "n": 3},
+    {"id": "ch05_joseph_profaci", "query": "Joseph Profaci", "n": 2},
+    {"id": "ch05_santo_trafficante", "query": "Santo Trafficante Jr.", "n": 2},
+    {"id": "ch05_sam_giancana", "query": "Sam Giancana", "n": 2},
+
+    {"id": "ch06_police_barracks", "query": "state police barracks 1950s", "alt": ["police station 1950s interior"]},
+
+    {"id": "ch07_newspaper_press", "query": "newspaper printing press 1950s", "alt": ["newsstand 1950s New York"]},
+    {"id": "ch07_fbi_building", "query": "FBI headquarters Justice Department building 1950s", "alt": ["Robert F. Kennedy Department of Justice building"]},
+    {"id": "ch07_rfk_mcclellan", "query": "Robert F. Kennedy McClellan Committee", "alt": ["Robert Kennedy 1957 Senate"], "n": 3},
+    {"id": "ch07_courthouse", "query": "Foley Square courthouse New York", "alt": ["Thurgood Marshall United States Courthouse"]},
+
+    {"id": "ch08_croswell", "query": "Edgar Croswell", "alt": ["Edgar Croswell state police sergeant"], "n": 2},
+    {"id": "ch08_valachi_1963", "query": "Joseph Valachi 1963 Senate", "alt": ["Joseph Valachi"], "n": 3, "note": "teaser do EP02"}
+  ]
+}

@@ -27,6 +27,19 @@ python3 engine/render.py episodes/ep01-apalachin/episode.json --preview   # 960x
 python3 engine/render.py episodes/ep01-apalachin/episode.json             # 1080p final
 ```
 
+## Agente de imagens (nuvem)
+Busca imagens livres para cada plano do roteiro em Wikimedia Commons, Library of Congress e Openverse.
+Só aceita domínio público, CC0, CC BY e CC BY-SA (nada de NC/ND), com mínimo de 800 px.
+
+1. Os planos de cada episódio ficam em `episodes/<ep>/shots.json` (id, busca, buscas alternativas, quantidade).
+2. Pelo celular: GitHub → repositório → **Actions** → **Agente de imagens** → **Run workflow** → nome da pasta do episódio.
+   Para refazer só alguns planos, preencha "only" com os ids separados por vírgula.
+3. O resultado vai para o branch **assets**, pasta do episódio: imagens por plano, `contact_sheet_*.jpg`
+   (miniaturas numeradas para escolher), `credits.csv` (licença e autor de cada arquivo) e `report.md`.
+4. Escolha pela folha de contato (ex.: "hoover_portrait 2") e o Claude monta a edição com essas.
+
+Planos sem resultado aparecem no relatório: esses viram imagem gerada por IA ou arquivo enviado por você.
+
 ## O que enviar para editar
 - Áudios da narração (MP3/WAV), nomeados ch00_hook, ch01 … ch08.
 - Imagens: domínio público (Library of Congress, FBI Vault, NARA, Wikimedia Commons) ou geradas por IA. Nomeie pelo plano do roteiro (ex.: farm_dusk.jpg).
