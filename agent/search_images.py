@@ -33,22 +33,46 @@ PER_SOURCE = 12      # results asked from each source per query
 OK_LICENSE = re.compile(r"public\s*domain|pd[\s-]|^pd$|cc0|cc[\s-]?by(?![\s-]?nc)(?![\s-]?nd)|no known restriction", re.I)
 BAD_LICENSE = re.compile(r"\bnc\b|non[\s-]?commercial|\bnd\b|no[\s-]?deriv|fair use|all rights reserved|copyright", re.I)
 
+LOG = []
+T0 = time.time()
+
+
+def log(msg):
+    line = f"[{time.time() - T0:6.0f}s] {msg}"
+    LOG.append(line)
+    print(line, flush=True)
+
+
 S = requests.Session()
 S.headers["User-Agent"] = UA
 
 
-def get_json(url, params=None, tries=3):
+FAILS = {}           # consecutive failures per source host
+DEAD = set()         # hosts switched off for the rest of the run
+MAX_FAILS = 3
+
+
+def get_json(url, params=None, tries=2):
+    host = url.split("/")[2]
+    if host in DEAD:
+        return None
+    last = "?"
     for k in range(tries):
         try:
-            r = S.get(url, params=params, timeout=30)
+            r = S.get(url, params=params, timeout=15)
             if r.status_code == 429:
-                time.sleep(10 * (k + 1)); continue
+                last = "429 rate limit"; time.sleep(8 * (k + 1)); continue
             r.raise_for_status()
+            FAILS[host] = 0
             return r.json()
         except Exception as e:
             last = e
-            time.sleep(2 * (k + 1))
-    print(f"  ! {url}: {last}", flush=True)
+            time.sleep(2)
+    FAILS[host] = FAILS.get(host, 0) + 1
+    log(f"  ! {host}: {str(last)[:160]}")
+    if FAILS[host] >= MAX_FAILS:
+        DEAD.add(host)
+        log(f"  ! {host} desligado nesta execucao ({MAX_FAILS} falhas seguidas)")
     return None
 
 
@@ -121,9 +145,9 @@ SOURCES = {"commons": search_commons, "loc": search_loc, "openverse": search_ope
 
 # ------------------------------------------------------------ download
 def fetch_image(url):
-    for k in range(3):
+    for k in range(2):
         try:
-            r = S.get(url, timeout=60)
+            r = S.get(url, timeout=(10, 40))
             if r.status_code == 429:
                 time.sleep(10 * (k + 1)); continue
             r.raise_for_status()
@@ -195,7 +219,7 @@ def contact_sheets(ep_dir, rows, per_sheet=8):
 
 
 # ------------------------------------------------------------ main
-def run(ep, out_root, only=None):
+def run(ep, out_root, only=None, budget_min=35):
     spec_path = os.path.join("episodes", ep, "shots.json")
     spec = json.load(open(spec_path))
     defaults = spec.get("defaults", {})
@@ -203,20 +227,31 @@ def run(ep, out_root, only=None):
     os.makedirs(ep_dir, exist_ok=True)
     credits, rows, missing, seen = [], [], [], set()
     shots = [s for s in spec["shots"] if not only or s["id"] in only]
-    print(f"[agent] {ep}: {len(shots)} planos", flush=True)
+    log(f"{ep}: {len(shots)} planos, limite {budget_min} min")
+    skipped = []
 
     for s in shots:
+        if time.time() - T0 > budget_min * 60:
+            skipped.append(s["id"])
+            continue
         sid, want = s["id"], s.get("n", defaults.get("n", 4))
         sources = s.get("sources", defaults.get("sources", list(SOURCES)))
         queries = [s["query"]] + s.get("alt", [])
-        print(f"[agent] {sid}: {queries[0]!r}", flush=True)
+        log(f"{sid}: {queries[0]!r}")
         shot_dir = os.path.join(ep_dir, sid)
         os.makedirs(shot_dir, exist_ok=True)
         files = []
         for q in queries:
             if len(files) >= want:
                 break
-            cands = interleave([SOURCES[src](q) for src in sources if src in SOURCES])
+            per = []
+            for src in sources:
+                if src in SOURCES:
+                    t = time.time()
+                    res = SOURCES[src](q)
+                    log(f"    {src}: {len(res)} candidatos em {time.time() - t:.1f}s")
+                    per.append(res)
+            cands = interleave(per)
             for c in cands:
                 if len(files) >= want:
                     break
@@ -224,8 +259,10 @@ def run(ep, out_root, only=None):
                 if not c["url"] or key in seen:
                     continue
                 seen.add(key)
+                t = time.time()
                 im = fetch_image(c["url"])
                 if im is None:
+                    log(f"    falhou download ({c['source']}) em {time.time() - t:.1f}s")
                     continue
                 name = f"{len(files) + 1}_{c['source']}.jpg"
                 fp = os.path.join(shot_dir, name)
@@ -236,7 +273,7 @@ def run(ep, out_root, only=None):
         if not files:
             missing.append(sid)
         rows.append((sid, files))
-        print(f"  -> {len(files)} imagens", flush=True)
+        log(f"  -> {len(files)} imagens")
 
     with open(os.path.join(ep_dir, "credits.csv"), "w", newline="") as fh:
         w = csv.DictWriter(fh, fieldnames=["file", "shot", "source", "license", "author", "title", "page", "url", "query"])
@@ -246,7 +283,12 @@ def run(ep, out_root, only=None):
 
     lines = [f"# Imagens — {ep}", "",
              f"- Planos: {len(shots)} · imagens baixadas: {len(credits)} · sem resultado: {len(missing)}",
-             f"- Folhas de contato: {', '.join(os.path.basename(p) for p in sheets)}", ""]
+             f"- Folhas de contato: {', '.join(os.path.basename(p) for p in sheets)}"]
+    if skipped:
+        lines.append(f"- Limite de tempo atingido; ficaram para a próxima execução: {', '.join(skipped)}")
+    if DEAD:
+        lines.append(f"- Fontes que falharam e foram desligadas: {', '.join(sorted(DEAD))}")
+    lines.append("")
     if missing:
         lines += ["## Sem resultado (gerar por IA ou enviar)", ""] + [f"- `{m}`" for m in missing] + [""]
     lines += ["## Por plano", "", "| plano | imagens |", "|---|---|"]
@@ -255,6 +297,8 @@ def run(ep, out_root, only=None):
               "Itens da Library of Congress marcados 'verificar' precisam de uma olhada na página antes de usar."]
     report = "\n".join(lines) + "\n"
     open(os.path.join(ep_dir, "report.md"), "w").write(report)
+    log(f"fim: {len(credits)} imagens")
+    open(os.path.join(ep_dir, "agent_log.txt"), "w").write("\n".join(LOG) + "\n")
     if os.environ.get("GITHUB_STEP_SUMMARY"):
         open(os.environ["GITHUB_STEP_SUMMARY"], "a").write(report)
     print(report)
@@ -266,6 +310,6 @@ if __name__ == "__main__":
     ap.add_argument("episode")
     ap.add_argument("--out", default="assets_out")
     ap.add_argument("--only", default="")
+    ap.add_argument("--budget", type=float, default=35, help="minutos de busca antes de parar e publicar")
     a = ap.parse_args()
-    n = run(a.episode, a.out, set(x for x in a.only.split(",") if x) or None)
-    sys.exit(0 if n else 1)
+    run(a.episode, a.out, set(x for x in a.only.split(",") if x) or None, a.budget)

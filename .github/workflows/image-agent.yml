@@ -36,13 +36,17 @@ jobs:
         run: pip install -r agent/requirements.txt
 
       - name: Buscar imagens
-        run: python3 agent/search_images.py "${{ inputs.episode }}" --out assets_out --only "${{ inputs.only }}"
+        timeout-minutes: 42
+        continue-on-error: true
+        run: python3 agent/search_images.py "${{ inputs.episode }}" --out assets_out --only "${{ inputs.only }}" --budget 35
 
       - name: Publicar no branch assets
+        if: always()
         env:
           EP: ${{ inputs.episode }}
           ONLY: ${{ inputs.only }}
         run: |
+          if [ ! -d "assets_out/$EP" ]; then echo "Nada para publicar"; exit 0; fi
           git config user.name "black-dossier-agent"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           if git ls-remote --exit-code --heads origin assets >/dev/null; then
@@ -63,6 +67,7 @@ jobs:
             done
             cp assets_out/$EP/contact_sheet_*.jpg "../assets-wt/$EP/" 2>/dev/null || true
             cp "assets_out/$EP/report.md" "../assets-wt/$EP/report_parcial.md"
+            cp "assets_out/$EP/agent_log.txt" "../assets-wt/$EP/agent_log.txt" 2>/dev/null || true
             if [ -f "../assets-wt/$EP/credits.csv" ]; then
               tail -n +2 "assets_out/$EP/credits.csv" >> "../assets-wt/$EP/credits.csv"
             else
