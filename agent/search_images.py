@@ -90,7 +90,7 @@ def search_commons(q):
     data = get_json("https://commons.wikimedia.org/w/api.php", {
         "action": "query", "format": "json", "generator": "search",
         "gsrsearch": f"{q} filetype:bitmap", "gsrnamespace": 6, "gsrlimit": PER_SOURCE,
-        "prop": "imageinfo", "iiprop": "url|size|extmetadata", "iiurlwidth": MAX_SIDE})
+        "prop": "imageinfo", "iiprop": "url|size|extmetadata", "iiurlwidth": 1920})  # standard size: served from cache
     out = []
     pages = (data or {}).get("query", {}).get("pages", {})
     for p in sorted(pages.values(), key=lambda p: p.get("index", 99)):
@@ -108,7 +108,7 @@ def search_commons(q):
 
 def search_loc(q):
     data = get_json("https://www.loc.gov/photos/", {"q": q, "fo": "json", "c": PER_SOURCE,
-                                                    "fa": "online-format:image"})
+                                                    "fa": "original-format:photo, print, drawing"})
     out = []
     for it in (data or {}).get("results", []):
         imgs = [u.split("#")[0] for u in it.get("image_url", []) if u]
@@ -144,10 +144,16 @@ SOURCES = {"commons": search_commons, "loc": search_loc, "openverse": search_ope
 
 
 # ------------------------------------------------------------ download
+DL_FAILS = {}
+
+
 def fetch_image(url):
+    host = url.split("/")[2] if "//" in url else ""
+    if DL_FAILS.get(host, 0) >= 4:       # host keeps failing: stop waiting on it
+        return None
     for k in range(2):
         try:
-            r = S.get(url, timeout=(10, 40))
+            r = S.get(url, timeout=(8, 20))
             if r.status_code == 429:
                 time.sleep(10 * (k + 1)); continue
             r.raise_for_status()
@@ -157,9 +163,11 @@ def fetch_image(url):
                 return None
             if max(im.size) > MAX_SIDE:
                 im.thumbnail((MAX_SIDE, MAX_SIDE), Image.LANCZOS)
+            DL_FAILS[host] = 0
             return im
         except Exception:
             time.sleep(2 * (k + 1))
+    DL_FAILS[host] = DL_FAILS.get(host, 0) + 1
     return None
 
 
