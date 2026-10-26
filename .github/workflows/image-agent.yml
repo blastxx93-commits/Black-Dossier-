@@ -65,7 +65,11 @@ jobs:
             for d in assets_out/$EP/*/; do
               s=$(basename "$d"); rm -rf "../assets-wt/$EP/$s"; cp -r "$d" "../assets-wt/$EP/$s"
             done
-            cp assets_out/$EP/contact_sheet_*.jpg "../assets-wt/$EP/" 2>/dev/null || true
+            # partial sheets get their own names so the full-run sheets stay intact
+            stamp=$(date -u +%m%d-%H%M)
+            for f in assets_out/$EP/contact_sheet_*.jpg; do
+              [ -f "$f" ] && cp "$f" "../assets-wt/$EP/parcial_${stamp}_$(basename "$f")"
+            done
             cp "assets_out/$EP/report.md" "../assets-wt/$EP/report_parcial.md"
             cp "assets_out/$EP/agent_log.txt" "../assets-wt/$EP/agent_log.txt" 2>/dev/null || true
             if [ -f "../assets-wt/$EP/credits.csv" ]; then
