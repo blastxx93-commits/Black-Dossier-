@@ -99,9 +99,11 @@ def paper_texture(ctx, seed=1):
     return img.filter(ImageFilter.GaussianBlur(ctx.px(1)))
 
 
-def load_image(ctx, src, cover_w, cover_h):
+def load_image(ctx, src, cover_w, cover_h, focus=(0.5, 0.5)):
+    """Cover-crop to the frame. focus = (x, y) 0..1: which part of the photo to keep
+    when it has to be cut (e.g. (0.5, 0.2) keeps the top of a portrait-format photo)."""
     img = Image.open(ctx.path(src)).convert("RGB")
-    return ImageOps.fit(img, (cover_w, cover_h), Image.LANCZOS)
+    return ImageOps.fit(img, (cover_w, cover_h), Image.LANCZOS, centering=tuple(focus))
 
 
 def wrap(draw, text, fnt, max_w):
@@ -148,7 +150,7 @@ def shot_image(ctx, s, n):
     """Ken Burns move on a still. move: in | out | left | right | up | down | static"""
     over = 1.18
     W2, H2 = int(ctx.W * over), int(ctx.H * over)
-    img = load_image(ctx, s["src"], W2, H2)
+    img = load_image(ctx, s["src"], W2, H2, s.get("focus", (0.5, 0.5)))
     move = s.get("move", "in")
     z0, z1 = {"in": (1.0, over * 0.9), "out": (over * 0.9, 1.0)}.get(move, (1.06, 1.06))
     dx0 = dy0 = dx1 = dy1 = 0.0
@@ -282,6 +284,28 @@ def shot_chapter(ctx, s, n):
         yield im
 
 
+def silhouette(pw, ph):
+    """Unknown-subject placeholder: man in a fedora, drawn large then downsampled for smooth edges."""
+    k = 3
+    W, H = pw * k, ph * k
+    im = Image.new("RGB", (W, H), (58, 54, 51))
+    g = Image.new("L", (W, H), 0)
+    d = ImageDraw.Draw(g)
+    cx = W / 2
+    d.ellipse([cx - W * .44, H * .60, cx + W * .44, H * 1.30], fill=255)        # shoulders
+    d.rectangle([cx - W * .08, H * .52, cx + W * .08, H * .64], fill=255)       # neck
+    d.ellipse([cx - W * .15, H * .26, cx + W * .15, H * .57], fill=255)         # head
+    d.ellipse([cx - W * .30, H * .265, cx + W * .30, H * .325], fill=255)       # hat brim
+    d.rounded_rectangle([cx - W * .16, H * .13, cx + W * .16, H * .30], radius=W * .06, fill=255)  # crown
+    d.rectangle([cx - W * .16, H * .262, cx + W * .16, H * .272], fill=150)     # hat band
+    g = g.filter(ImageFilter.GaussianBlur(k))
+    im.paste((24, 21, 21), (0, 0, W, H), g)
+    t = Image.new("L", (W, H), 0)                                                 # faint "?" watermark
+    ImageDraw.Draw(t).text((cx, H * .40), "?", fill=40, anchor="mm", font=font("impact", int(H * .18)))
+    im.paste((70, 64, 60), (0, 0, W, H), t)
+    return im.resize((pw, ph), Image.LANCZOS)
+
+
 def shot_dossier(ctx, s, n):
     """Character file: photo clipped to a folder, name, role, optional stamp."""
     bg = paper_texture(ctx, seed=hash(s["name"]) % 1000)
@@ -289,14 +313,10 @@ def shot_dossier(ctx, s, n):
     pw, ph = ctx.px(520), ctx.px(660)
     px_, py_ = ctx.px(180), (ctx.H - ph) // 2
     if s.get("photo"):
-        photo = load_image(ctx, s["photo"], pw, ph)
+        photo = load_image(ctx, s["photo"], pw, ph, s.get("focus", (0.5, 0.3)))
         photo = ImageOps.grayscale(photo).convert("RGB")
     else:
-        photo = Image.new("RGB", (pw, ph), (60, 55, 52))
-        pd = ImageDraw.Draw(photo)  # silhouette placeholder
-        pd.ellipse([pw * .3, ph * .18, pw * .7, ph * .5], fill=(25, 22, 22))
-        pd.rectangle([pw * .15, ph * .55, pw * .85, ph], fill=(25, 22, 22))
-        pd.polygon([(pw * .22, ph * .2), (pw * .78, ph * .2), (pw * .62, ph * .1), (pw * .38, ph * .1)], fill=(25, 22, 22))
+        photo = silhouette(pw, ph)
     shadow = Image.new("RGBA", (pw + ctx.px(40), ph + ctx.px(40)), (0, 0, 0, 0))
     ImageDraw.Draw(shadow).rectangle([ctx.px(20), ctx.px(26), pw + ctx.px(20), ph + ctx.px(26)], fill=(0, 0, 0, 120))
     shadow = shadow.filter(ImageFilter.GaussianBlur(ctx.px(12)))
@@ -421,6 +441,8 @@ _vig = {}
 
 
 def vignette_soft(ctx, im):
+    if im.size != (ctx.W, ctx.H):  # zoom crops can round 1 px off
+        im = im.resize((ctx.W, ctx.H), Image.BICUBIC)
     key = (ctx.W, ctx.H)
     if key not in _vig:
         m = Image.new("L", (ctx.W // 4, ctx.H // 4), 0)
@@ -547,6 +569,8 @@ def render(ep_path, preview=False):
         xf = int(s.get("xfade", 0.5 if s["type"] == "image" else 0) * fps)
         gen = SHOTS[s["type"]](ctx, s, nf)
         for i, fr in enumerate(gen):
+            if fr.size != (W, H):
+                fr = fr.resize((W, H), Image.BICUBIC)
             if prev_last is not None and i < xf:
                 fr = Image.blend(prev_last, fr, ease((i + 1) / (xf + 1)))
             if i < s.get("fade_in", 0) * fps:

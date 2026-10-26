@@ -1,0 +1,278 @@
+{
+ "output": "BlackDossier_EP01_hook_teste.mp4",
+ "fps": 24,
+ "music": [
+  {
+   "file": "sfx/drone.wav",
+   "start": 0,
+   "gain": -21,
+   "fade_in": 3,
+   "fade_out": 2.5
+  }
+ ],
+ "chapters": [
+  {
+   "audio": "hook.wav",
+   "lead_in": 0,
+   "tail": 1.6,
+   "shots": [
+    {
+     "type": "typewriter",
+     "text": "NOVEMBER 14, 1957\nAPALACHIN, NEW YORK",
+     "dur": 4.72,
+     "fixed": true,
+     "fade_in": 0.6,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -9,
+       "at": 0.2
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "img/ch02_southern_tier_farm_2_loc.jpg",
+     "move": "in",
+     "dur": 5.73,
+     "fixed": true,
+     "caption": "Southern Tier, New York"
+    },
+    {
+     "type": "image",
+     "src": "img/ch02_stone_house_hill_2_loc.jpg",
+     "move": "right",
+     "dur": 1.8,
+     "fixed": true,
+     "focus": [
+      0.9,
+      0.5
+     ]
+    },
+    {
+     "type": "image",
+     "src": "img/ch00_cars_1957_4_commons.jpg",
+     "move": "left",
+     "dur": 1.3,
+     "fixed": true,
+     "xfade": 0.25
+    },
+    {
+     "type": "image",
+     "src": "img/ch00_cars_1957_2_loc.jpg",
+     "move": "in",
+     "dur": 1.3,
+     "fixed": true,
+     "xfade": 0.25
+    },
+    {
+     "type": "typewriter",
+     "text": "NEW YORK \u00b7 NEW JERSEY \u00b7 OHIO\nILLINOIS \u00b7 TEXAS\nCALIFORNIA \u00b7 FLORIDA",
+     "size": 58,
+     "dur": 6.84,
+     "fixed": true,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -11
+      }
+     ]
+    },
+    {
+     "type": "dossier",
+     "name": "Vito Genovese",
+     "label": "GUEST",
+     "photo": "img/ch03_vito_genovese_1_commons.jpg",
+     "focus": [
+      0.5,
+      0.15
+     ],
+     "fields": {
+      "City": "New York"
+     },
+     "dur": 2.5,
+     "fixed": true,
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -14
+      }
+     ]
+    },
+    {
+     "type": "dossier",
+     "name": "Carlo Gambino",
+     "label": "GUEST",
+     "photo": "img/ch05_carlo_gambino_1_commons.jpg",
+     "focus": [
+      0.5,
+      0.3
+     ],
+     "fields": {
+      "City": "New York"
+     },
+     "dur": 2.5,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Joseph Profaci",
+     "label": "GUEST",
+     "photo": "img/ch05_joseph_profaci_1_loc.jpg",
+     "focus": [
+      0.5,
+      0.3
+     ],
+     "fields": {
+      "City": "Brooklyn"
+     },
+     "dur": 2.47,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "img/ch00_country_road_4_loc.jpg",
+     "move": "in",
+     "dur": 5.8,
+     "fixed": true,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -10,
+       "at": 4.0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "img/ch02_southern_tier_farm_3_loc.jpg",
+     "move": "left",
+     "dur": 5.2,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "img/ch02_southern_tier_farm_4_commons.jpg",
+     "move": "up",
+     "dur": 5.15,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Edgar Croswell",
+     "label": "SERGEANT",
+     "fields": {
+      "Agency": "N.Y. State Police"
+     },
+     "dur": 5.0,
+     "fixed": true,
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -14
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "img/ch01_g_men_1930s_1_commons.jpg",
+     "move": "out",
+     "focus": [
+      0.5,
+      0.35
+     ],
+     "dur": 3.85,
+     "fixed": true
+    },
+    {
+     "type": "black",
+     "dur": 2.4,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "img/ch01_hoover_portrait_3_commons.jpg",
+     "move": "in",
+     "focus": [
+      0.5,
+      0.25
+     ],
+     "dur": 5.0,
+     "fixed": true,
+     "caption": "J. Edgar Hoover, FBI Director"
+    },
+    {
+     "type": "image",
+     "src": "img/ch01_hoover_portrait_1_commons.jpg",
+     "move": "down",
+     "focus": [
+      0.5,
+      0.12
+     ],
+     "dur": 4.53,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "The Mafia was real.",
+     "dur": 1.3,
+     "fixed": true,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -6
+      }
+     ]
+    },
+    {
+     "type": "statement",
+     "text": "And it was national.",
+     "dur": 1.38,
+     "fixed": true,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -8
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "img/ch07_courthouse_1_commons.jpg",
+     "move": "in",
+     "focus": [
+      0.5,
+      0.4
+     ],
+     "dur": 3.98,
+     "fixed": true
+    },
+    {
+     "type": "black",
+     "dur": 1.9,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "Apalachin",
+     "subtitle": "The day the Mafia was exposed",
+     "file": "FILE No. 001",
+     "stamp": "CLASSIFIED",
+     "dur": 3.5,
+     "fade_out": 0.8,
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -12
+      },
+      {
+       "file": "sfx/stamp.wav",
+       "gain": -4,
+       "at": 0.9
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
