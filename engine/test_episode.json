@@ -1,0 +1,26 @@
+{
+  "output": "engine_test.mp4",
+  "fps": 24,
+  "music": [{"file": "audio/music.wav", "start": 0, "gain": -14}],
+  "chapters": [
+    {
+      "audio": "audio/ch0.wav", "lead_in": 1.0,
+      "shots": [
+        {"type": "typewriter", "text": "NOVEMBER 14, 1957\nAPALACHIN, NEW YORK", "dur": 4, "fade_in": 0.5, "sfx": [{"file": "sfx/typewriter.wav", "gain": -10}]},
+        {"type": "image", "src": "img/farm.jpg", "move": "in", "dur": 5, "caption": "McFall Road, Apalachin"},
+        {"type": "image", "src": "img/woods.jpg", "move": "left", "dur": 4},
+        {"type": "statement", "text": "The Mafia was real.", "dur": 3, "fixed": true, "sfx": [{"file": "sfx/hit.wav", "gain": -4}]},
+        {"type": "title", "title": "Apalachin", "subtitle": "The day the Mafia was exposed", "file": "FILE No. 001", "stamp": "CLASSIFIED", "dur": 3, "sfx": [{"file": "sfx/whoosh.wav", "gain": -8}]}
+      ]
+    },
+    {
+      "audio": "audio/ch1.wav", "lead_in": 1.2,
+      "shots": [
+        {"type": "chapter", "num": 5, "title": "The roadblock", "dur": 2.5, "fixed": true},
+        {"type": "dossier", "name": "Vito Genovese", "label": "SUBJECT 01", "fields": {"Family": "Genovese", "City": "New York", "Status": "Detained"}, "stamp": "DETAINED", "dur": 3},
+        {"type": "counter", "to": 58, "label": "men identified", "dur": 2.5},
+        {"type": "timeline", "items": [["MAY 1959", "Indicted"], ["DEC 1959", "20 convicted", true], ["NOV 1960", "Reversed on appeal"]], "dur": 3, "fade_out": 0.5}
+      ]
+    }
+  ]
+}

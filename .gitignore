@@ -1,0 +1,12 @@
+# media and renders stay out of git
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.m4a
+*.jpg
+*.jpeg
+*.png
+*.webp
+__pycache__/
+*.pyc
