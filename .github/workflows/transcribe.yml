@@ -1,0 +1,40 @@
+name: Transcrever narração
+
+# Lê os áudios em assets/<ep>/audio e grava os tempos de cada palavra em assets/<ep>/words.
+on:
+  workflow_dispatch:
+    inputs:
+      episode:
+        description: "Pasta do episódio (ex.: ep01-apalachin)"
+        required: true
+        default: "ep01-apalachin"
+
+permissions:
+  contents: write
+
+jobs:
+  transcribe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: main
+      - uses: actions/checkout@v4
+        with:
+          ref: assets
+          path: assets
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install faster-whisper==1.1.1
+      - name: Transcrever
+        run: python3 main/agent/transcribe.py "assets/${{ inputs.episode }}/audio" "assets/${{ inputs.episode }}/words"
+      - name: Publicar
+        run: |
+          cd assets
+          git config user.name "black-dossier-agent"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "${{ inputs.episode }}/words"
+          git commit -m "Tempos das palavras: ${{ inputs.episode }}" || exit 0
+          git push origin HEAD:assets
