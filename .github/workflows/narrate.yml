@@ -21,10 +21,6 @@ on:
 permissions:
   contents: write
 
-concurrency:
-  group: assets-${{ inputs.episode }}
-  cancel-in-progress: false
-
 jobs:
   narrate:
     runs-on: ubuntu-latest
@@ -55,16 +51,16 @@ jobs:
       - name: Transcrever (tempo de cada palavra)
         if: ${{ hashFiles(format('out/{0}/audio/*.mp3', inputs.episode)) != '' }}
         run: python3 main/agent/transcribe.py "out/${{ inputs.episode }}/audio" "out/${{ inputs.episode }}/words"
+      - name: Guardar cópia (backup)
+        if: ${{ !cancelled() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: saida-${{ inputs.episode }}-${{ github.run_id }}
+          path: out/${{ inputs.episode }}
+          retention-days: 7
+          if-no-files-found: ignore
       - name: Publicar
         if: ${{ !cancelled() }}
         run: |
           EP="${{ inputs.episode }}"
-          [ -d "out/$EP" ] || { echo "Nada para publicar"; exit 0; }
-          mkdir -p "assets/$EP"
-          cp -r out/$EP/. "assets/$EP/"
-          cd assets
-          git config user.name "black-dossier-agent"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A "$EP"
-          git commit -m "Narração + tempos das palavras: $EP" || exit 0
-          git pull --rebase origin assets && git push origin HEAD:assets
+          bash main/agent/publish_assets.sh "out/$EP" "$EP" "Narração + tempos das palavras: $EP"

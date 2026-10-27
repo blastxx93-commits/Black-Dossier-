@@ -81,6 +81,6 @@ jobs:
           cd ../assets-wt
           git add -A
           git commit -m "Imagens: $EP ${ONLY:+(planos: $ONLY)}" || { echo "Nada novo"; exit 0; }
-          git push origin assets
+          for k in 1 2 3 4 5; do git push origin assets && break; git fetch origin assets && git rebase origin/assets || { git rebase --abort; sleep 5; }; sleep $((k*5)); done
           echo "" >> "$GITHUB_STEP_SUMMARY"
           echo "Folhas de contato: https://github.com/${{ github.repository }}/tree/assets/$EP" >> "$GITHUB_STEP_SUMMARY"
