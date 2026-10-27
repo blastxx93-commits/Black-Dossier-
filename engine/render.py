@@ -418,18 +418,34 @@ def shot_timeline(ctx, s, n):
 
 
 def shot_video(ctx, s, n):
-    """Pull frames from a video clip (stock / archival)."""
-    cmd = ["ffmpeg", "-v", "error", "-ss", str(s.get("start", 0)), "-i", ctx.path(s["src"]),
-           "-vf", f"scale={ctx.W}:{ctx.H}:force_original_aspect_ratio=increase,crop={ctx.W}:{ctx.H},fps={ctx.fps}",
+    """Archival / stock clip.
+    fit: "blur" (default) keeps the whole picture and fills the sides with a blurred copy (4:3 film);
+         "crop" fills the frame by cropping. Short clips loop instead of freezing; "speed" < 1 slows it."""
+    W, H, fps = ctx.W, ctx.H, ctx.fps
+    speed = s.get("speed", 1.0)
+    slow = f"setpts={1 / speed:.4f}*PTS," if speed != 1.0 else ""
+    if s.get("fit", "blur") == "crop":
+        vf = f"{slow}scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},fps={fps}"
+    else:
+        vf = (f"{slow}fps={fps},split[a][b];"
+              f"[a]scale={W // 4}:{H // 4}:force_original_aspect_ratio=increase,crop={W // 4}:{H // 4},"
+              f"boxblur=8:2,scale={W}:{H},eq=brightness=-0.12[bg];"
+              f"[b]scale={W}:{H}:force_original_aspect_ratio=decrease[fg];"
+              f"[bg][fg]overlay=(W-w)/2:(H-h)/2")
+    cmd = ["ffmpeg", "-v", "error", "-stream_loop", "-1", "-ss", str(s.get("start", 0)), "-i", ctx.path(s["src"]),
+           "-filter_complex" if ";" in vf else "-vf", vf,
            "-frames:v", str(n), "-f", "rawvideo", "-pix_fmt", "rgb24", "-"]
     p = subprocess.Popen(cmd, stdout=subprocess.PIPE)
-    size = ctx.W * ctx.H * 3
+    size = W * H * 3
     last = blank(ctx)
+    cap = caption_layer(ctx, s["caption"]) if s.get("caption") else None
     for _ in range(n):
         buf = p.stdout.read(size)
         if len(buf) == size:
-            last = Image.frombytes("RGB", (ctx.W, ctx.H), buf)
-        yield last  # hold last frame if clip is short
+            last = Image.frombytes("RGB", (W, H), buf)
+            if cap:
+                last.paste(cap, (0, 0), cap)
+        yield last
     p.stdout.close(); p.wait()
 
 
