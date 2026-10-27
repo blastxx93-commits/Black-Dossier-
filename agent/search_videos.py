@@ -50,9 +50,13 @@ FF = ffmpeg()
 
 
 def get_json(url, params=None):
-    for k in range(2):
+    last = "?"
+    for k in range(4):
         try:
+            time.sleep(1.0)
             r = S.get(url, params=params, timeout=25)
+            if r.status_code == 429:
+                last = "429"; time.sleep(10 * (k + 1)); continue
             r.raise_for_status()
             return r.json()
         except Exception as e:
@@ -66,35 +70,44 @@ def strip_html(s):
 
 
 # ------------------------------------------------------------ sources
-def search_archive(q, rows=8):
-    query = (f"({q}) AND mediatype:movies AND (collection:(prelinger OR universal_newsreels OR fedflix) "
-             f"OR licenseurl:(*publicdomain* OR *zero* OR *licenses/by/* OR *licenses/by-sa/*))")
+def _archive_query(query, rows):
     data = get_json("https://archive.org/advancedsearch.php", {
         "q": query, "fl[]": ["identifier", "title", "licenseurl", "collection", "year"],
-        "rows": rows, "output": "json", "sort[]": "downloads desc"})
-    out = []
-    for d in (data or {}).get("response", {}).get("docs", []):
-        cols = set(d.get("collection") if isinstance(d.get("collection"), list) else [d.get("collection")])
-        lic = d.get("licenseurl") or ""
-        if BAD_LIC.search(lic):
+        "rows": rows, "output": "json"})
+    if data is None:
+        return []
+    if "error" in data:
+        log(f"    archive erro: {str(data['error'])[:120]}")
+    return data.get("response", {}).get("docs", [])
+
+
+def search_archive(q, rows=6):
+    docs = _archive_query(f"({q}) AND mediatype:movies AND collection:(prelinger OR universal_newsreels OR fedflix)", rows)
+    docs += _archive_query(f"({q}) AND mediatype:movies AND licenseurl:*publicdomain*", 4)
+    out, ids = [], set()
+    for d in docs:
+        if d["identifier"] in ids:
             continue
-        if not (cols & PD_COLLECTIONS or OK_LIC.search(lic)):
+        ids.add(d["identifier"])
+        cols = d.get("collection") or []
+        cols = set(cols if isinstance(cols, list) else [cols])
+        lic = d.get("licenseurl") or ""
+        if BAD_LIC.search(lic) or not (cols & PD_COLLECTIONS or OK_LIC.search(lic)):
             continue
         meta = get_json(f"https://archive.org/metadata/{d['identifier']}")
         if not meta:
             continue
-        files = meta.get("files", [])
-        vids = [f for f in files if f.get("name", "").lower().endswith(".mp4")]
+        vids = [f for f in meta.get("files", []) if f.get("name", "").lower().endswith(".mp4")]
         if not vids:
-            vids = [f for f in files if f.get("name", "").lower().endswith((".ogv", ".mpeg", ".mpg", ".avi"))]
+            vids = [f for f in meta.get("files", []) if f.get("name", "").lower().endswith((".ogv", ".mpeg", ".mpg", ".avi", ".mov"))]
         if not vids:
             continue
-        # prefer the biggest derivative under ~1.5 GB (best picture without huge originals)
         vids.sort(key=lambda f: int(f.get("size") or 0))
         pick = [f for f in vids if int(f.get("size") or 0) < 1.5e9] or vids
         f = pick[-1]
-        length = float(f.get("length") or 0) if re.match(r"^[0-9.]+$", str(f.get("length") or "")) else 0
-        licname = "Public domain (" + ", ".join(sorted(cols & PD_COLLECTIONS)) + ")" if cols & PD_COLLECTIONS else lic
+        ln = str(f.get("length") or "")
+        length = float(ln) if re.match(r"^[0-9.]+$", ln) else 0
+        licname = ("Public domain (" + ", ".join(sorted(cols & PD_COLLECTIONS)) + ")") if cols & PD_COLLECTIONS else lic
         out.append({"source": "archive", "url": f"https://archive.org/download/{d['identifier']}/{requests.utils.quote(f['name'])}",
                     "title": (d.get("title") or "")[:150], "license": licname,
                     "page": f"https://archive.org/details/{d['identifier']}", "length": length})
@@ -145,9 +158,12 @@ def cut_clip(url, length, clip, out_path, where=0.35):
            "-an", "-vf", "scale=-2:1080:flags=lanczos,fps=24", "-c:v", "libx264", "-preset", "veryfast", "-crf", "18",
            "-pix_fmt", "yuv420p", "-movflags", "+faststart", out_path]
     try:
-        subprocess.run(cmd, check=True, timeout=300)
+        r = subprocess.run(cmd, timeout=300, capture_output=True, text=True)
     except Exception as e:
         log(f"    corte falhou: {str(e)[:120]}")
+        return None
+    if r.returncode != 0:
+        log(f"    corte falhou ({url.split('/')[-1][:50]}): {r.stderr.strip()[-200:]}")
         return None
     if not os.path.exists(out_path) or os.path.getsize(out_path) < 50_000:
         return None
