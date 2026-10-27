@@ -2,9 +2,12 @@
  "_info": "Escolhas do Claude para o EP01. Arquivos relativos a assets/ep01-apalachin/ (branch assets). pick = usar; alt = reserva; status pending = aguardando 2a busca; none = sem imagem real utilizavel, vira plano grafico (document/statement/timeline) ou imagem IA marcada.",
  "shots": {
   "ch00_country_road": {
-   "pick": "ch00_country_road/4_loc.jpg",
-   "status": "provisorio",
-   "why": "unica paisagem real; 1-3 sao capas de livro"
+   "pick": "ai/ch00_country_road_1.jpg",
+   "alt": [
+    "ai/ch00_country_road_2.jpg"
+   ],
+   "source": "ai",
+   "why": "estrada subindo o morro, como no roteiro"
   },
   "ch00_cars_1957": {
    "pick": "ch00_cars_1957/4_commons.jpg",
@@ -13,19 +16,28 @@
    ]
   },
   "ch00_apalachin_meeting": {
-   "pick": null,
-   "status": "none",
-   "why": "resultado era o Buffalo Central Terminal, nao Apalachin"
+   "pick": "ai/ch00_apalachin_meeting_1.jpg",
+   "alt": [
+    "ai/ch00_apalachin_meeting_2.jpg"
+   ],
+   "source": "ai",
+   "why": "carro no meio da estrada puxa o olho para a casa; a 2 fica de reserva para o cap. 5"
   },
   "ch00_pasture_woods": {
-   "pick": null,
-   "status": "none",
-   "why": "LoC voltou a trazer capas de livro nas duas rodadas"
+   "pick": "ai/ch00_pasture_woods_1.jpg",
+   "alt": [
+    "ai/ch00_pasture_woods_2.jpg"
+   ],
+   "source": "ai",
+   "why": "movimento de corrida mais forte"
   },
   "ch00_state_trooper": {
-   "pick": null,
-   "status": "none",
-   "why": "resultado era um retorno de estrada (Southern State Pkwy), nao um trooper"
+   "pick": "ai/ch00_state_trooper_1.jpg",
+   "alt": [
+    "ai/ch00_state_trooper_2.jpg"
+   ],
+   "source": "ai",
+   "why": "chapeu campaign e botas de montaria = uniforme da NY State Police"
   },
   "ch01_hoover_portrait": {
    "pick": "ch01_hoover_portrait/3_commons.jpg",
@@ -96,9 +108,10 @@
    "why": "vista de dentro do 146 Central Park West"
   },
   "ch03_tropicana_vegas": {
-   "pick": null,
-   "status": "none",
-   "why": "so fotos modernas; usar plano 'document' do papel no bolso de Costello"
+   "pick": "ai/ch03_tropicana_vegas_1.jpg",
+   "alt": [],
+   "source": "ai",
+   "why": "unica opcao; letreiros com texto embaralhado de IA ficam em movimento rapido e com zoom no centro"
   },
   "ch03_vito_genovese": {
    "pick": "ch03_vito_genovese/1_commons.jpg"
@@ -116,18 +129,24 @@
    "why": "resultados eram Santa Anastasia e outra pessoa - usar dossier com silhueta"
   },
   "ch03_park_sheraton": {
-   "pick": null,
-   "status": "none",
-   "why": "resultados eram hoteis de Niagara e Detroit"
+   "pick": "ai/ch03_park_sheraton_1.jpg",
+   "alt": [
+    "ai/ch03_park_sheraton_2.jpg"
+   ],
+   "source": "ai",
+   "why": "predio de esquina com marquise, mais parecido com o hotel real; sem legenda de nome"
   },
   "ch03_havana_1950s": {
    "pick": "ch03_havana_1950s/1_commons.jpg",
    "why": "Havana atual com carro classico - atmosfera, sem legenda de data"
   },
   "ch03_garment_district": {
-   "pick": null,
-   "status": "none",
-   "why": "resultados sem relacao"
+   "pick": "ai/ch03_garment_district_1.jpg",
+   "alt": [
+    "ai/ch03_garment_district_2.jpg"
+   ],
+   "source": "ai",
+   "why": "composicao mais limpa"
   },
   "ch03_russell_bufalino": {
    "pick": null,
@@ -146,9 +165,12 @@
    "why": "acougue de 1950 (Finlandia) - generico, sem legenda"
   },
   "ch05_police_roadblock": {
-   "pick": null,
-   "status": "none",
-   "why": "fotos sao de policia finlandesa, 1955 - enganoso; usar timeline/statement"
+   "pick": "ai/ch05_police_roadblock_1.jpg",
+   "alt": [
+    "ai/ch05_police_roadblock_2.jpg"
+   ],
+   "source": "ai",
+   "why": "duas viaturas atravessadas e o Cadillac parado: exatamente a cena narrada"
   },
   "ch05_carlo_gambino": {
    "pick": "ch05_carlo_gambino/1_commons.jpg"
@@ -168,9 +190,12 @@
    "why": "so tumulo e local de outro crime - nao usar"
   },
   "ch06_police_barracks": {
-   "pick": null,
-   "status": "none",
-   "why": "cadeia finlandesa de 1956 / colecoes sem relacao"
+   "pick": "ai/ch06_police_barracks_1.jpg",
+   "alt": [
+    "ai/ch06_police_barracks_2.jpg"
+   ],
+   "source": "ai",
+   "why": "maquina de escrever e telefone em primeiro plano, homens esperando no banco"
   },
   "ch07_newspaper_press": {
    "pick": "ch07_newspaper_press/2_commons.jpg",
@@ -210,6 +235,7 @@
  "rules_applied": [
   "Identidade conferida pelo titulo do arquivo, nao so pela imagem",
   "Imagem generica nunca recebe legenda de lugar/data que nao e dela",
-  "Nada de arma em destaque nem cena de crime"
+  "Nada de arma em destaque nem cena de crime",
+  "Imagens de IA: nenhuma recebe legenda de lugar real; marcar 'conteudo alterado ou sintetico' no upload"
  ]
 }
