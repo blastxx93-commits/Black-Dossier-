@@ -81,9 +81,10 @@ def _archive_query(query, rows):
     return data.get("response", {}).get("docs", [])
 
 
-def search_archive(q, rows=6):
-    docs = _archive_query(f"({q}) AND mediatype:movies AND collection:(prelinger OR universal_newsreels OR fedflix)", rows)
-    docs += _archive_query(f"({q}) AND mediatype:movies AND licenseurl:*publicdomain*", 4)
+def search_archive(q, rows=8, years=None):
+    era = f" AND year:[{years[0]} TO {years[1]}]" if years else ""
+    docs = _archive_query(f"({q}) AND mediatype:movies AND collection:(prelinger OR universal_newsreels OR fedflix){era}", rows)
+    docs += _archive_query(f"({q}) AND mediatype:movies AND licenseurl:*publicdomain*{era}", 4)
     out, ids = [], set()
     for d in docs:
         if d["identifier"] in ids:
@@ -114,7 +115,7 @@ def search_archive(q, rows=6):
     return out
 
 
-def search_commons(q, rows=10):
+def search_commons(q, rows=10, years=None):
     data = get_json("https://commons.wikimedia.org/w/api.php", {
         "action": "query", "format": "json", "generator": "search", "gsrsearch": f"{q} filetype:video",
         "gsrnamespace": 6, "gsrlimit": rows, "prop": "imageinfo", "iiprop": "url|size|extmetadata|mediatype"})
@@ -229,7 +230,7 @@ def run(ep, out_root, only=None, budget_min=40):
                 break
             cands = []
             for src in s.get("sources", dfl.get("sources", list(SOURCES))):
-                res = SOURCES[src](q)
+                res = SOURCES[src](q, years=s.get("years", dfl.get("years")))
                 log(f"  {sid} / {src}: {len(res)} filmes para {q!r}")
                 cands += res
             for c in cands:
