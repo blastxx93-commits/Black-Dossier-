@@ -47,8 +47,13 @@ jobs:
           FISH_API_KEY: ${{ secrets.FISH_API_KEY }}
           FISH_VOICE_ID: ${{ secrets.FISH_VOICE_ID }}
           FISH_MODEL: ${{ vars.FISH_MODEL }}
-        run: python3 agent/tts.py "${{ inputs.episode }}" --out ../out --only "${{ inputs.only }}" --speed "${{ inputs.speed }}"
+        continue-on-error: true
+        run: |
+          mkdir -p "../out/${{ inputs.episode }}"
+          set -o pipefail
+          python3 agent/tts.py "${{ inputs.episode }}" --out ../out --only "${{ inputs.only }}" --speed "${{ inputs.speed }}" 2>&1 | tee "../out/${{ inputs.episode }}/tts_log.txt"
       - name: Transcrever (tempo de cada palavra)
+        if: ${{ hashFiles(format('out/{0}/audio/*.mp3', inputs.episode)) != '' }}
         run: python3 main/agent/transcribe.py "out/${{ inputs.episode }}/audio" "out/${{ inputs.episode }}/words"
       - name: Publicar
         if: ${{ !cancelled() }}
