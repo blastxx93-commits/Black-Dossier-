@@ -1,0 +1,5 @@
+{"prison":  {"file": "vid/cellblock.mp4", "start": 0},
+ "prison2": {"file": "vid/cellblock.mp4", "start": 3},
+ "cell":    {"file": "vid/cellblock.mp4", "start": 1.5},
+ "typewriter": {"file": "vid/newsroom.mp4", "start": 0},
+ "newspaper":  {"file": "vid/journal_american.mp4", "start": 0}}

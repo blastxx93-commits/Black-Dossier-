@@ -147,7 +147,13 @@ def probe_length(url):
     return int(m.group(1)) * 3600 + int(m.group(2)) * 60 + float(m.group(3)) if m else 0
 
 
-def cut_clip(url, length, clip, out_path, where=0.35):
+def mean_brightness(path, t):
+    r = subprocess.run([FF, "-v", "error", "-ss", f"{t}", "-i", path, "-frames:v", "1", "-vf", "scale=64:-2,format=gray",
+                        "-f", "rawvideo", "-"], capture_output=True)
+    return sum(r.stdout) / max(1, len(r.stdout))
+
+
+def cut_clip(url, length, clip, out_path, where=0.35, _retry=0):
     if not length:
         length = probe_length(url)
     if length and length < clip + 4:
@@ -167,6 +173,14 @@ def cut_clip(url, length, clip, out_path, where=0.35):
         log(f"    corte falhou ({url.split('/')[-1][:50]}): {r.stderr.strip()[-200:]}")
         return None
     if not os.path.exists(out_path) or os.path.getsize(out_path) < 50_000:
+        return None
+    # reject clips that open dark (fades, leaders, night titles): retry later in the film
+    dark = [t for t in (0.5, clip / 2, clip - 1) if mean_brightness(out_path, t) < 14]
+    if dark and _retry < 2 and length:
+        log(f"    trecho escuro em {start:.0f}s, tentando mais adiante")
+        return cut_clip(url, length, clip, out_path, min(0.85, where + 0.2), _retry + 1)
+    if len(dark) >= 2:
+        os.remove(out_path)
         return None
     return start
 
