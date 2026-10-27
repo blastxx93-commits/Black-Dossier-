@@ -1,0 +1,235 @@
+[     0s] ep02-valachi: 27 planos, limite 35.0 min
+[     0s] valachi_portrait: 'Joseph Valachi'
+[     1s]     commons: 5 candidatos em 0.7s
+[     2s]     loc: 5 candidatos em 0.9s
+[    36s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[    36s]     openverse: 0 candidatos em 34.2s
+[    37s]     falhou download (loc) em 0.2s
+[    38s]     falhou download (loc) em 0.1s
+[    39s]   -> 4 imagens
+[    39s] valachi_senate: 'Joseph Valachi Senate hearing 1963'
+[    40s]     commons: 5 candidatos em 0.7s
+[    42s]     loc: 3 candidatos em 1.8s
+[    48s]     openverse: 0 candidatos em 6.2s
+[    50s]   -> 4 imagens
+[    50s] mcclellan: 'John L. McClellan senator'
+[    52s]     commons: 11 candidatos em 1.8s
+[    55s]     loc: 12 candidatos em 2.7s
+[    89s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[    89s]     openverse: 0 candidatos em 34.1s
+[    90s]     falhou download (loc) em 0.2s
+[    91s]     falhou download (loc) em 0.2s
+[    92s]   -> 3 imagens
+[    92s] rfk_1963: 'Robert F. Kennedy attorney general 1963'
+[    93s]     commons: 12 candidatos em 0.8s
+[   104s]     loc: 12 candidatos em 11.1s
+[   138s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[   138s]     openverse: 0 candidatos em 34.1s
+[   140s]   -> 3 imagens
+[   140s] jfk_1963: 'John F. Kennedy 1963 portrait'
+[   141s]     commons: 12 candidatos em 0.9s
+[   146s]     loc: 12 candidatos em 4.8s
+[   180s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[   180s]   ! api.openverse.org desligado nesta execucao (3 falhas seguidas)
+[   180s]     openverse: 0 candidatos em 34.1s
+[   181s]   -> 2 imagens
+[   181s] maranzano: 'Salvatore Maranzano'
+[   181s]     commons: 0 candidatos em 0.1s
+[   181s]     loc: 0 candidatos em 0.3s
+[   181s]     openverse: 0 candidatos em 0.0s
+[   181s]   -> 0 imagens
+[   181s] masseria: 'Joe Masseria'
+[   182s]     commons: 8 candidatos em 0.7s
+[   182s]     loc: 0 candidatos em 0.2s
+[   182s]     openverse: 0 candidatos em 0.0s
+[   184s]   -> 2 imagens
+[   184s] bonanno: 'Joseph Bonanno'
+[   185s]     commons: 6 candidatos em 1.4s
+[   188s]     loc: 1 candidatos em 3.0s
+[   188s]     openverse: 0 candidatos em 0.0s
+[   189s]     falhou download (loc) em 0.2s
+[   190s]   -> 3 imagens
+[   190s] reina: 'Gaetano Reina'
+[   191s]     commons: 2 candidatos em 0.7s
+[   192s]     loc: 0 candidatos em 1.0s
+[   192s]     openverse: 0 candidatos em 0.0s
+[   233s]     falhou download (commons) em 30.1s
+[   233s]   -> 1 imagens
+[   233s] strollo: 'Anthony Strollo'
+[   234s]     commons: 0 candidatos em 0.8s
+[   234s]     loc: 0 candidatos em 0.3s
+[   234s]     openverse: 0 candidatos em 0.0s
+[   234s]     commons: 0 candidatos em 0.6s
+[   235s]     loc: 0 candidatos em 0.4s
+[   235s]     openverse: 0 candidatos em 0.0s
+[   235s]   -> 0 imagens
+[   235s] genovese: 'Vito Genovese'
+[   235s]     commons: 7 candidatos em 0.6s
+[   236s]     loc: 1 candidatos em 0.8s
+[   236s]     openverse: 0 candidatos em 0.0s
+[   268s]     falhou download (commons) em 30.1s
+[   298s]     falhou download (commons) em 30.1s
+[   328s]     falhou download (commons) em 30.1s
+[   329s]   -> 3 imagens
+[   329s] luciano: 'Lucky Luciano'
+[   329s]     commons: 8 candidatos em 0.6s
+[   334s]     loc: 7 candidatos em 4.6s
+[   334s]     openverse: 0 candidatos em 0.0s
+[   334s]     falhou download (commons) em 0.0s
+[   334s]     falhou download (loc) em 0.1s
+[   335s]     falhou download (loc) em 0.0s
+[   335s]     falhou download (commons) em 0.0s
+[   335s]     falhou download (loc) em 0.2s
+[   335s]     falhou download (commons) em 0.0s
+[   336s]     falhou download (loc) em 1.3s
+[   336s]     falhou download (commons) em 0.0s
+[   336s]     falhou download (loc) em 0.0s
+[   336s]     falhou download (commons) em 0.0s
+[   336s]     falhou download (loc) em 0.0s
+[   337s]     falhou download (loc) em 0.0s
+[   337s]   -> 3 imagens
+[   337s] atlanta_pen: 'Atlanta Federal Penitentiary'
+[   338s]     commons: 0 candidatos em 0.4s
+[   340s]     loc: 8 candidatos em 2.2s
+[   340s]     openverse: 0 candidatos em 0.0s
+[   340s]     falhou download (loc) em 0.2s
+[   341s]     falhou download (loc) em 0.3s
+[   341s]     falhou download (loc) em 0.1s
+[   341s]     falhou download (loc) em 0.2s
+[   341s]     falhou download (loc) em 0.1s
+[   341s]     falhou download (loc) em 0.0s
+[   341s]     falhou download (loc) em 0.0s
+[   342s]     commons: 0 candidatos em 0.1s
+[   348s]     loc: 5 candidatos em 6.2s
+[   348s]     openverse: 0 candidatos em 0.0s
+[   350s]   -> 3 imagens
+[   350s] sing_sing: 'Sing Sing prison'
+[   351s]     commons: 11 candidatos em 0.9s
+[   351s]     loc: 12 candidatos em 0.7s
+[   351s]     openverse: 0 candidatos em 0.0s
+[   352s]     falhou download (loc) em 0.1s
+[   353s]   -> 3 imagens
+[   353s] east_harlem: 'East Harlem 1910s street'
+[   354s]     commons: 0 candidatos em 0.7s
+[   357s]     loc: 0 candidatos em 3.6s
+[   357s]     openverse: 0 candidatos em 0.0s
+[   358s]     commons: 0 candidatos em 0.7s
+[   360s]     loc: 1 candidatos em 2.2s
+[   360s]     openverse: 0 candidatos em 0.0s
+[   361s]     commons: 0 candidatos em 0.7s
+[   362s]     loc: 9 candidatos em 0.9s
+[   362s]     openverse: 0 candidatos em 0.0s
+[   362s]     falhou download (loc) em 0.2s
+[   363s]     falhou download (loc) em 0.0s
+[   363s]     falhou download (loc) em 0.0s
+[   364s]     falhou download (loc) em 0.0s
+[   364s]   -> 2 imagens
+[   364s] new_york_1920s: 'New York street 1920s'
+[   364s]     commons: 9 candidatos em 0.8s
+[   365s]     loc: 10 candidatos em 1.0s
+[   365s]     openverse: 0 candidatos em 0.0s
+[   365s]     falhou download (commons) em 0.0s
+[   366s]     falhou download (loc) em 0.2s
+[   367s]     falhou download (loc) em 0.2s
+[   371s]   -> 3 imagens
+[   371s] coney_island_1930s: 'Coney Island 1930s'
+[   371s]     commons: 10 candidatos em 0.4s
+[   374s]     loc: 4 candidatos em 2.7s
+[   374s]     openverse: 0 candidatos em 0.0s
+[   375s]     falhou download (commons) em 0.0s
+[   375s]     falhou download (loc) em 0.0s
+[   375s]     falhou download (commons) em 0.0s
+[   375s]     falhou download (commons) em 0.0s
+[   375s]     falhou download (loc) em 0.1s
+[   375s]     falhou download (commons) em 0.0s
+[   375s]     falhou download (commons) em 0.0s
+[   375s]     falhou download (commons) em 0.0s
+[   375s]     falhou download (commons) em 0.0s
+[   375s]     falhou download (commons) em 0.0s
+[   375s]     falhou download (commons) em 0.0s
+[   377s]     commons: 12 candidatos em 1.7s
+[   380s]     loc: 0 candidatos em 3.2s
+[   380s]     openverse: 0 candidatos em 0.0s
+[   380s]   -> 3 imagens
+[   380s] capitol_1960s: 'United States Capitol 1963'
+[   381s]     commons: 11 candidatos em 0.8s
+[   384s]     loc: 12 candidatos em 2.4s
+[   384s]     openverse: 0 candidatos em 0.0s
+[   390s]     falhou download (loc) em 6.1s
+[   390s]     falhou download (commons) em 0.0s
+[   391s]     falhou download (loc) em 0.2s
+[   391s]     falhou download (loc) em 0.0s
+[   392s]   -> 3 imagens
+[   392s] senate_caucus_room: 'Senate Caucus Room hearing'
+[   401s]     commons: 8 candidatos em 9.3s
+[   418s]     loc: 12 candidatos em 17.1s
+[   418s]     openverse: 0 candidatos em 0.0s
+[   419s]     falhou download (loc) em 0.0s
+[   420s]   -> 3 imagens
+[   420s] us_marshals: 'United States Marshals 1960s'
+[   421s]     commons: 8 candidatos em 1.0s
+[   422s]     loc: 1 candidatos em 0.8s
+[   422s]     openverse: 0 candidatos em 0.0s
+[   422s]     falhou download (loc) em 0.0s
+[   424s]   -> 3 imagens
+[   424s] tv_1960s: 'family watching television 1960s'
+[   424s]     commons: 2 candidatos em 0.7s
+[   426s]     loc: 0 candidatos em 1.3s
+[   426s]     openverse: 0 candidatos em 0.0s
+[   428s]     commons: 9 candidatos em 1.4s
+[   477s]   ! www.loc.gov: HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out.
+[   477s]     loc: 0 candidatos em 48.8s
+[   477s]     openverse: 0 candidatos em 0.0s
+[   478s]   -> 3 imagens
+[   478s] slot_machines: 'slot machines destroyed 1930s'
+[   479s]     commons: 11 candidatos em 0.9s
+[   480s]     loc: 6 candidatos em 1.1s
+[   480s]     openverse: 0 candidatos em 0.0s
+[   480s]     falhou download (loc) em 0.0s
+[   480s]     falhou download (commons) em 0.0s
+[   481s]     falhou download (loc) em 0.0s
+[   481s]     falhou download (loc) em 0.0s
+[   482s]   -> 3 imagens
+[   482s] numbers_racket: 'policy slips numbers racket'
+[   483s]     commons: 1 candidatos em 0.9s
+[   492s]     loc: 6 candidatos em 9.4s
+[   492s]     openverse: 0 candidatos em 0.0s
+[   492s]     falhou download (commons) em 0.0s
+[   492s]     falhou download (loc) em 0.0s
+[   492s]     falhou download (loc) em 0.0s
+[   493s]     commons: 5 candidatos em 0.8s
+[   494s]     loc: 10 candidatos em 1.0s
+[   494s]     openverse: 0 candidatos em 0.0s
+[   496s]     falhou download (commons) em 0.0s
+[   496s]     falhou download (commons) em 0.0s
+[   496s]     falhou download (commons) em 0.0s
+[   496s]   -> 2 imagens
+[   496s] peter_maas: 'Peter Maas journalist'
+[   497s]     commons: 8 candidatos em 0.9s
+[   502s]     loc: 7 candidatos em 5.3s
+[   502s]     openverse: 0 candidatos em 0.0s
+[   505s]     falhou download (commons) em 0.0s
+[   505s]   -> 2 imagens
+[   505s] la_tuna: 'La Tuna Federal Correctional Institution'
+[   507s]     commons: 0 candidatos em 1.2s
+[   508s]     loc: 3 candidatos em 1.3s
+[   508s]     openverse: 0 candidatos em 0.0s
+[   508s]     falhou download (loc) em 0.0s
+[   509s]     commons: 1 candidatos em 0.9s
+[   511s]     loc: 12 candidatos em 2.7s
+[   511s]     openverse: 0 candidatos em 0.0s
+[   511s]     falhou download (commons) em 0.0s
+[   512s]     falhou download (loc) em 0.4s
+[   512s]     falhou download (loc) em 0.0s
+[   513s]   -> 2 imagens
+[   513s] park_avenue_1960s: 'Park Avenue New York 1960s'
+[   514s]     commons: 10 candidatos em 0.8s
+[   515s]     loc: 0 candidatos em 0.7s
+[   515s]     openverse: 0 candidatos em 0.0s
+[   517s]   -> 3 imagens
+[   517s] hudson_river: 'Hudson River 1920s'
+[   517s]     commons: 0 candidatos em 0.5s
+[   519s]     loc: 10 candidatos em 1.3s
+[   519s]     openverse: 0 candidatos em 0.0s
+[   520s]   -> 2 imagens
+[   522s] fim: 68 imagens
