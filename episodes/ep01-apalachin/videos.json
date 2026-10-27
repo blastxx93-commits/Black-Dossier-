@@ -1,0 +1,17 @@
+{
+ "defaults": {"n": 3, "clip": 12},
+ "shots": [
+  {"id": "v_kefauver_hearing", "query": "Kefauver crime committee", "alt": ["Kefauver hearing 1951", "Frank Costello hearing"]},
+  {"id": "v_fbi_gmen_1930s", "query": "FBI G-Men 1930s", "alt": ["Federal Bureau of Investigation 1930s newsreel", "FBI agents training"]},
+  {"id": "v_new_york_1950s", "query": "New York City 1950s street", "alt": ["Manhattan traffic 1950s", "New York 1957"]},
+  {"id": "v_cars_1957", "query": "1957 Cadillac commercial", "alt": ["1950s automobile commercial", "new car 1957"]},
+  {"id": "v_prohibition", "query": "Prohibition bootleg liquor raid", "alt": ["prohibition newsreel", "speakeasy raid"]},
+  {"id": "v_farm_1950s", "query": "dairy farm 1950s", "alt": ["farm life 1950s film", "rural America 1950s"]},
+  {"id": "v_newspaper_press", "query": "newspaper printing press 1950s", "alt": ["newspaper production film", "how a newspaper is made"]},
+  {"id": "v_police_1950s", "query": "police patrol car 1950s", "alt": ["state trooper 1950s", "highway patrol film 1950s"]},
+  {"id": "v_courtroom", "query": "courtroom 1950s film", "alt": ["trial courtroom newsreel"]},
+  {"id": "v_las_vegas_1950s", "query": "Las Vegas 1950s", "alt": ["Las Vegas strip neon 1950s"]},
+  {"id": "v_typewriter", "query": "typewriter typing close up", "alt": ["office typewriter 1950s"]},
+  {"id": "v_washington_dc", "query": "Washington D.C. 1950s", "alt": ["Capitol Washington 1950s newsreel"]}
+ ]
+}

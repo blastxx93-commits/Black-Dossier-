@@ -1,0 +1,58 @@
+name: Agente de vídeos
+
+# Busca filmes de arquivo livres (Internet Archive + Wikimedia Commons) e recorta clipes curtos.
+# Resultado no branch assets: <ep>/video/<plano>/*.mp4 + video_contact_sheet_*.jpg + video_credits.csv
+on:
+  workflow_dispatch:
+    inputs:
+      episode:
+        description: "Pasta do episódio (ex.: ep02-valachi)"
+        required: true
+      only:
+        description: "Opcional: só estes planos, separados por vírgula"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: assets-${{ inputs.episode }}
+  cancel-in-progress: false
+
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: main
+      - uses: actions/checkout@v4
+        with:
+          ref: assets
+          path: assets
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests pillow imageio-ffmpeg
+      - name: Buscar vídeos
+        continue-on-error: true
+        working-directory: main
+        run: |
+          mkdir -p "../out/${{ inputs.episode }}"
+          set -o pipefail
+          python3 agent/search_videos.py "${{ inputs.episode }}" --out ../out --only "${{ inputs.only }}" --budget 42 2>&1 | tee "../out/${{ inputs.episode }}/video_run.txt"
+      - name: Publicar
+        if: ${{ !cancelled() }}
+        run: |
+          EP="${{ inputs.episode }}"
+          [ -d "out/$EP" ] || { echo "Nada para publicar"; exit 0; }
+          mkdir -p "assets/$EP"
+          cp -r out/$EP/. "assets/$EP/"
+          cd assets
+          git config user.name "black-dossier-agent"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A "$EP"
+          git commit -m "Vídeos: $EP" || exit 0
+          git pull --rebase origin assets && git push origin HEAD:assets
