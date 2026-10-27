@@ -29,8 +29,14 @@ jobs:
           python-version: "3.12"
       - run: pip install faster-whisper==1.1.1
       - name: Transcrever
-        run: python3 main/agent/transcribe.py "assets/${{ inputs.episode }}/audio" "assets/${{ inputs.episode }}/words"
+        continue-on-error: true
+        run: |
+          mkdir -p "assets/${{ inputs.episode }}/words"
+          ls -la "assets/${{ inputs.episode }}/audio" > "assets/${{ inputs.episode }}/words/transcribe_log.txt" 2>&1
+          set -o pipefail
+          python3 main/agent/transcribe.py "assets/${{ inputs.episode }}/audio" "assets/${{ inputs.episode }}/words" 2>&1 | tee -a "assets/${{ inputs.episode }}/words/transcribe_log.txt"
       - name: Publicar
+        if: ${{ !cancelled() }}
         run: |
           cd assets
           git config user.name "black-dossier-agent"
