@@ -1,0 +1,2737 @@
+{
+ "output": "BlackDossier_EP01_Apalachin.mp4",
+ "fps": 24,
+ "music": [
+  {
+   "file": "trilha.wav",
+   "start": 0,
+   "gain": -21,
+   "fade_in": 4,
+   "fade_out": 5
+  }
+ ],
+ "chapters": [
+  {
+   "audio": "audio/ch00_hook.wav",
+   "lead_in": 0,
+   "tail": 1.6,
+   "shots": [
+    {
+     "type": "typewriter",
+     "text": "NOVEMBER 14, 1957\nAPALACHIN, NEW YORK",
+     "size": 60,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "fade_in": 0.6,
+     "dur": 2.98,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch02_southern_tier_farm/2_loc.jpg",
+     "move": "in",
+     "caption": "Southern Tier, New York",
+     "dur": 5.72,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_country_road_1.jpg",
+     "move": "in",
+     "dur": 1.74,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_apalachin_meeting_2.jpg",
+     "move": "right",
+     "dur": 4.54,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch00_cars_1957/4_commons.jpg",
+     "move": "left",
+     "xfade": 0.2,
+     "dur": 0.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch00_cars_1957/2_loc.jpg",
+     "move": "in",
+     "xfade": 0.2,
+     "dur": 0.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch00_cars_1957/3_openverse.jpg",
+     "move": "right",
+     "xfade": 0.2,
+     "dur": 1.16,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "NEW YORK · NEW JERSEY · OHIO\nILLINOIS · TEXAS\nCALIFORNIA · FLORIDA",
+     "size": 58,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 7.7,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_apalachin_meeting_1.jpg",
+     "move": "in",
+     "dur": 3.74,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Vito Genovese",
+     "label": "GUEST",
+     "fields": {
+      "City": "New York"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "photo": "a/ch03_vito_genovese/1_commons.jpg",
+     "focus": [
+      0.5,
+      0.15
+     ],
+     "dur": 1.78,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Joseph Profaci",
+     "label": "GUEST",
+     "fields": {
+      "City": "Brooklyn"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "photo": "a/ch05_joseph_profaci/1_loc.jpg",
+     "focus": [
+      0.5,
+      0.3
+     ],
+     "dur": 1.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_country_road_2.jpg",
+     "move": "in",
+     "dur": 2.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_state_trooper_2.jpg",
+     "move": "left",
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 2.14,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_pasture_woods_1.jpg",
+     "move": "in",
+     "dur": 5.08,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_pasture_woods_2.jpg",
+     "move": "right",
+     "dur": 2.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_pasture_woods_1.jpg",
+     "move": "left",
+     "dur": 4.88,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch05_police_roadblock_2.jpg",
+     "move": "in",
+     "dur": 2.22,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_state_trooper_1.jpg",
+     "move": "in",
+     "dur": 1.92,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Edgar Croswell",
+     "label": "SERGEANT",
+     "fields": {
+      "Agency": "N.Y. State Police"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 2.68,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_apalachin_meeting_2.jpg",
+     "move": "right",
+     "dur": 3.66,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch01_hoover_portrait/3_commons.jpg",
+     "move": "in",
+     "focus": [
+      0.5,
+      0.25
+     ],
+     "caption": "J. Edgar Hoover, FBI Director",
+     "dur": 3.66,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch01_hoover_portrait/1_commons.jpg",
+     "move": "down",
+     "focus": [
+      0.5,
+      0.12
+     ],
+     "dur": 1.94,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "The Mafia was real.",
+     "size": 150,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.0
+      }
+     ],
+     "dur": 1.42,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "And it was national.",
+     "size": 150,
+     "dur": 0.82,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch07_courthouse/1_commons.jpg",
+     "move": "in",
+     "focus": [
+      0.5,
+      0.4
+     ],
+     "dur": 2.42,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Almost nobody went to prison.",
+     "size": 120,
+     "dur": 2.0,
+     "fixed": true
+    },
+    {
+     "type": "black",
+     "dur": 2.36,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "Apalachin",
+     "subtitle": "The day the Mafia was exposed",
+     "file": "FILE No. 001",
+     "stamp": "CLASSIFIED",
+     "fade_out": 0.8,
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/stamp.wav",
+       "gain": -19,
+       "at": 0.9
+      }
+     ],
+     "dur": 3.033,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch01.wav",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "chapter",
+     "num": 1,
+     "title": "The man who said it didn't exist",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 3.52,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_apalachin_meeting_1.jpg",
+     "move": "out",
+     "dur": 5.02,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch01_hoover_portrait/3_commons.jpg",
+     "move": "in",
+     "focus": [
+      0.5,
+      0.25
+     ],
+     "caption": "J. Edgar Hoover",
+     "dur": 2.52,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch07_fbi_building/3_commons.jpg",
+     "move": "up",
+     "focus": [
+      0.5,
+      0.4
+     ],
+     "caption": "Department of Justice, Washington",
+     "dur": 5.36,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch01_g_men_1930s/3_commons.jpg",
+     "move": "left",
+     "dur": 2.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch01_dillinger/3_commons.jpg",
+     "move": "in",
+     "focus": [
+      0.5,
+      0.35
+     ],
+     "caption": "John Dillinger",
+     "dur": 3.36,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "DILLINGER\nBABY FACE NELSON\nPRETTY BOY FLOYD",
+     "size": 64,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 3.54,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch01_g_men_1930s/1_commons.jpg",
+     "move": "out",
+     "focus": [
+      0.5,
+      0.35
+     ],
+     "dur": 3.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch01_hoover_portrait/1_commons.jpg",
+     "move": "down",
+     "focus": [
+      0.5,
+      0.12
+     ],
+     "dur": 3.38,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_apalachin_meeting_2.jpg",
+     "move": "right",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch01_hoover_portrait/2_commons.jpg",
+     "move": "in",
+     "focus": [
+      0.4,
+      0.3
+     ],
+     "dur": 5.58,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_state_trooper_2.jpg",
+     "move": "left",
+     "dur": 2.78,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "COMMUNISTS\nSPIES\nSUBVERSIVES",
+     "size": 72,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 6.1,
+     "fixed": true
+    },
+    {
+     "type": "black",
+     "dur": 1.38,
+     "fixed": true
+    },
+    {
+     "type": "document",
+     "text": "FEDERAL BUREAU OF NARCOTICS\n\nMEMORANDUM\n\nSubject: Network of Sicilian and Italian-American criminals moving heroin, money and favors across state lines.",
+     "stamp": "CONFIDENTIAL",
+     "dur": 10.66,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "1950 – 1951\nU.S. SENATE",
+     "size": 70,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 3.2,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch01_kefauver_hearing/2_commons.jpg",
+     "move": "in",
+     "caption": "Kefauver Committee, 1951",
+     "dur": 1.38,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch01_tv_1950s/1_commons.jpg",
+     "move": "in",
+     "dur": 5.74,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Frank Costello",
+     "label": "WITNESS",
+     "fields": {
+      "City": "New York"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "photo": "a/ch01_frank_costello/2_commons.jpg",
+     "focus": [
+      0.5,
+      0.3
+     ],
+     "dur": 2.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch01_kefauver_hearing/2_commons.jpg",
+     "move": "in",
+     "focus": [
+      0.5,
+      0.95
+     ],
+     "dur": 8.92,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "A nationwide crime syndicate did exist.",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.0
+      }
+     ],
+     "dur": 4.18,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch07_fbi_building/1_commons.jpg",
+     "move": "in",
+     "focus": [
+      0.5,
+      0.4
+     ],
+     "dur": 2.88,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "WHY?",
+     "size": 110,
+     "dur": 2.78,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch01_hoover_portrait/3_commons.jpg",
+     "move": "out",
+     "focus": [
+      0.5,
+      0.25
+     ],
+     "dur": 6.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch01_hoover_portrait/2_commons.jpg",
+     "move": "in",
+     "focus": [
+      0.4,
+      0.3
+     ],
+     "dur": 4.12,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch07_fbi_building/3_commons.jpg",
+     "move": "up",
+     "focus": [
+      0.5,
+      0.4
+     ],
+     "dur": 7.78,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_apalachin_meeting_1.jpg",
+     "move": "in",
+     "dur": 2.44,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_state_trooper_1.jpg",
+     "move": "in",
+     "dur": 3.2,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch02.wav",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "chapter",
+     "num": 2,
+     "title": "The bottler on McFall Road",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 3.1,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch02_southern_tier_farm/2_loc.jpg",
+     "move": "in",
+     "caption": "Southern Tier, New York",
+     "dur": 4.9,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "AP-UH-LAY-KIN",
+     "size": 90,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 2.1,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch02_southern_tier_farm/3_loc.jpg",
+     "move": "left",
+     "dur": 4.42,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_country_road_2.jpg",
+     "move": "in",
+     "dur": 2.22,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Joseph Barbara",
+     "label": "THE HOST",
+     "fields": {
+      "Born": "1905, Sicily",
+      "Business": "Canada Dry distributor"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 2.18,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch02_castellammare/1_commons.jpg",
+     "move": "in",
+     "caption": "Castellammare del Golfo, Sicily",
+     "dur": 5.82,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch02_castellammare/4_commons.jpg",
+     "move": "right",
+     "dur": 1.36,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch02_castellammare/3_openverse.jpg",
+     "move": "in",
+     "dur": 3.2,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "BROOKLYN · BUFFALO",
+     "size": 80,
+     "dur": 5.29,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch02_prohibition/1_commons.jpg",
+     "move": "in",
+     "dur": 6.73,
+     "fixed": true
+    },
+    {
+     "type": "document",
+     "text": "SUBJECT: BARBARA, JOSEPH\nBORN: 1905, CASTELLAMMARE DEL GOLFO\n\nARRESTS: MORE THAN ONE\nNAMED IN: SERIOUS INVESTIGATIONS\nCONVICTIONS: NOTHING STUCK",
+     "stamp": "FILE",
+     "dur": 6.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch02_bottling_plant/2_openverse.jpg",
+     "move": "in",
+     "dur": 8.06,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_apalachin_meeting_2.jpg",
+     "move": "right",
+     "dur": 5.98,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_apalachin_meeting_1.jpg",
+     "move": "in",
+     "dur": 7.02,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch03_central_park_west/1_commons.jpg",
+     "move": "left",
+     "dur": 3.94,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_apalachin_meeting_2.jpg",
+     "move": "in",
+     "dur": 4.64,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Somebody noticed.",
+     "size": 150,
+     "dur": 1.2,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Edgar Croswell",
+     "label": "SERGEANT",
+     "fields": {
+      "Agency": "N.Y. State Police"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 4.3,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_state_trooper_1.jpg",
+     "move": "in",
+     "dur": 8.34,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_state_trooper_2.jpg",
+     "move": "left",
+     "dur": 7.6,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "\"...the big mobster in the area.\"",
+     "size": 58,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 3.3,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_country_road_1.jpg",
+     "move": "in",
+     "dur": 1.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch05_police_roadblock_1.jpg",
+     "move": "in",
+     "dur": 8.4,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Carmine Galante",
+     "label": "SUBJECT",
+     "fields": {
+      "Family": "Bonanno",
+      "City": "Brooklyn"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "photo": "a/ch02_carmine_galante/1_commons.jpg",
+     "focus": [
+      0.5,
+      0.25
+     ],
+     "dur": 4.3,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "Why would a Brooklyn gangster be leaving\na soft drink distributor's house?",
+     "size": 50,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 4.72,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_country_road_2.jpg",
+     "move": "in",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_apalachin_meeting_1.jpg",
+     "move": "in",
+     "dur": 5.124,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch03.wav",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "chapter",
+     "num": 3,
+     "title": "1957. The year the underworld shook",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 4.84,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_apalachin_meeting_1.jpg",
+     "move": "in",
+     "dur": 5.16,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch03_park_sheraton_2.jpg",
+     "move": "left",
+     "dur": 2.68,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch03_central_park_west/1_commons.jpg",
+     "move": "left",
+     "dur": 5.12,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Frank Costello",
+     "label": "BOSS",
+     "fields": {
+      "City": "New York"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "photo": "a/ch01_frank_costello/2_commons.jpg",
+     "focus": [
+      0.5,
+      0.3
+     ],
+     "dur": 5.78,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch01_kefauver_hearing/2_commons.jpg",
+     "move": "in",
+     "caption": "Kefauver Committee, 1951",
+     "dur": 6.62,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "MAY 2, 1957\nCENTRAL PARK WEST",
+     "size": 60,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 3.02,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch03_central_park_west/1_commons.jpg",
+     "move": "left",
+     "dur": 3.64,
+     "fixed": true
+    },
+    {
+     "type": "black",
+     "dur": 5.16,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "He survived.",
+     "size": 150,
+     "dur": 1.32,
+     "fixed": true
+    },
+    {
+     "type": "document",
+     "text": "Found in Costello's pocket:\n\nA slip of paper.\nHandwritten figures.\n\nLater traced to the earnings of a new Las Vegas casino.",
+     "stamp": "EVIDENCE",
+     "dur": 7.777,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch03_tropicana_vegas_1.jpg",
+     "move": "in",
+     "focus": [
+      0.5,
+      0.6
+     ],
+     "dur": 4.763,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch01_frank_costello/2_commons.jpg",
+     "move": "in",
+     "focus": [
+      0.5,
+      0.3
+     ],
+     "dur": 8.6,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Vito Genovese",
+     "label": "SUBJECT",
+     "fields": {
+      "Family": "Luciano family",
+      "City": "New York"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "photo": "a/ch03_vito_genovese/1_commons.jpg",
+     "focus": [
+      0.5,
+      0.15
+     ],
+     "dur": 3.86,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch03_vito_genovese/1_commons.jpg",
+     "move": "in",
+     "focus": [
+      0.5,
+      0.15
+     ],
+     "dur": 5.22,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch03_lucky_luciano/1_commons.jpg",
+     "move": "in",
+     "caption": "Charles 'Lucky' Luciano",
+     "dur": 1.84,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "OCTOBER 25, 1957",
+     "size": 60,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 4.76,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Albert Anastasia",
+     "label": "BOSS",
+     "fields": {
+      "City": "New York"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 3.78,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch03_park_sheraton_1.jpg",
+     "move": "in",
+     "dur": 7.26,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Never solved.",
+     "size": 150,
+     "dur": 1.84,
+     "fixed": true
+    },
+    {
+     "type": "timeline",
+     "items": [
+      [
+       "MAY 1957",
+       "Costello shot"
+      ],
+      [
+       "OCT 1957",
+       "Anastasia killed"
+      ],
+      [
+       "NOV 1957",
+       "Apalachin"
+      ]
+     ],
+     "dur": 4.06,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_apalachin_meeting_2.jpg",
+     "move": "right",
+     "dur": 2.14,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Carlo Gambino",
+     "label": "SUBJECT",
+     "fields": {
+      "City": "New York"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "photo": "a/ch05_carlo_gambino/1_commons.jpg",
+     "focus": [
+      0.5,
+      0.3
+     ],
+     "dur": 5.68,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch03_havana_1950s/1_commons.jpg",
+     "move": "left",
+     "dur": 1.32,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "HAVANA · NARCOTICS · TRUCKING",
+     "size": 60,
+     "dur": 1.56,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch03_garment_district_1.jpg",
+     "move": "in",
+     "dur": 2.46,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch03_vito_genovese/1_commons.jpg",
+     "move": "in",
+     "focus": [
+      0.5,
+      0.15
+     ],
+     "dur": 4.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_apalachin_meeting_1.jpg",
+     "move": "in",
+     "dur": 6.08,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_apalachin_meeting_2.jpg",
+     "move": "right",
+     "dur": 5.08,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Joseph Barbara",
+     "label": "THE HOST",
+     "fields": {
+      "Born": "1905, Sicily",
+      "Business": "Canada Dry distributor"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 2.0,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Russell Bufalino",
+     "label": "ORGANIZER",
+     "fields": {
+      "Region": "Pennsylvania"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 5.96,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "THURSDAY\nNOVEMBER 14, 1957",
+     "size": 60,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 4.34,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch00_cars_1957/4_commons.jpg",
+     "move": "left",
+     "dur": 7.36,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_state_trooper_1.jpg",
+     "move": "in",
+     "dur": 3.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch04_motel_1950s/1_commons.jpg",
+     "move": "in",
+     "dur": 4.33,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch04.wav",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "chapter",
+     "num": 4,
+     "title": "Room reservations",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 2.17,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "NOVEMBER 13, 1957\nVESTAL, NEW YORK",
+     "size": 60,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 3.71,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch04_motel_1950s/1_commons.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch04_motel_1950s/2_loc.jpg",
+     "move": "left",
+     "dur": 3.26,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Joseph Barbara Jr.",
+     "label": "THE SON",
+     "fields": {},
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 5.06,
+     "fixed": true
+    },
+    {
+     "type": "document",
+     "text": "PARKWAY MOTEL, VESTAL, N.Y.\nNovember 13, 1957\n\nRooms reserved: several\nFor: out-of-town guests",
+     "stamp": "NOTED",
+     "dur": 4.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_state_trooper_2.jpg",
+     "move": "left",
+     "dur": 6.04,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Joseph Barbara",
+     "label": "THE HOST",
+     "fields": {
+      "Born": "1905, Sicily",
+      "Business": "Canada Dry distributor"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 2.54,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Carmine Galante",
+     "label": "VISITOR, 1956",
+     "fields": {
+      "Family": "Bonanno"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "photo": "a/ch02_carmine_galante/1_commons.jpg",
+     "focus": [
+      0.5,
+      0.25
+     ],
+     "dur": 2.48,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch04_butcher_shop/1_commons.jpg",
+     "move": "in",
+     "dur": 7.82,
+     "fixed": true
+    },
+    {
+     "type": "counter",
+     "to": 200,
+     "label": "pounds of steaks and chops",
+     "prefix": "~",
+     "suffix": "",
+     "dur": 2.92,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch04_motel_1950s/1_commons.jpg",
+     "move": "in",
+     "dur": 1.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch04_butcher_shop/1_commons.jpg",
+     "move": "in",
+     "dur": 1.92,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_apalachin_meeting_2.jpg",
+     "move": "right",
+     "dur": 3.84,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "No crime. No warrant.",
+     "size": 130,
+     "dur": 2.98,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_state_trooper_1.jpg",
+     "move": "in",
+     "dur": 2.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_country_road_1.jpg",
+     "move": "in",
+     "dur": 3.728,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch05.wav",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "chapter",
+     "num": 5,
+     "title": "The roadblock",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 1.72,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_state_trooper_1.jpg",
+     "move": "in",
+     "dur": 3.76,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "SGT. EDGAR CROSWELL\nTPR. VINCENT VASISKO\nTWO U.S. TREASURY AGENTS",
+     "size": 52,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 4.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_country_road_1.jpg",
+     "move": "in",
+     "dur": 2.78,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_apalachin_meeting_1.jpg",
+     "move": "in",
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0
+      }
+     ],
+     "dur": 2.26,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch00_cars_1957/4_commons.jpg",
+     "move": "left",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch00_cars_1957/2_loc.jpg",
+     "move": "in",
+     "dur": 2.22,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_apalachin_meeting_2.jpg",
+     "move": "right",
+     "dur": 5.7,
+     "fixed": true
+    },
+    {
+     "type": "document",
+     "text": "PLATES OBSERVED, McFALL ROAD\n\nNEW YORK\nNEW JERSEY\nOHIO\nILLINOIS\nTEXAS\nCALIFORNIA\nFLORIDA",
+     "dur": 3.46,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "12:40 PM",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 2.2,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_apalachin_meeting_2.jpg",
+     "move": "right",
+     "dur": 7.32,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_apalachin_meeting_1.jpg",
+     "move": "in",
+     "dur": 4.04,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_state_trooper_2.jpg",
+     "move": "left",
+     "dur": 3.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch05_police_roadblock_1.jpg",
+     "move": "in",
+     "dur": 4.96,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "1:20 PM",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 3.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch05_police_roadblock_2.jpg",
+     "move": "in",
+     "dur": 8.453,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "EMANUELE ZICARI\nDOMINICK ALAIMO",
+     "size": 64,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 3.027,
+     "fixed": true
+    },
+    {
+     "type": "black",
+     "dur": 1.76,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "They ran.",
+     "size": 170,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.0
+      }
+     ],
+     "dur": 0.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_pasture_woods_1.jpg",
+     "move": "in",
+     "dur": 7.82,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_pasture_woods_2.jpg",
+     "move": "right",
+     "dur": 3.86,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_pasture_woods_1.jpg",
+     "move": "left",
+     "dur": 4.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch05_police_roadblock_1.jpg",
+     "move": "in",
+     "dur": 2.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_state_trooper_2.jpg",
+     "move": "left",
+     "dur": 5.48,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch06_police_barracks_1.jpg",
+     "move": "in",
+     "dur": 3.86,
+     "fixed": true
+    },
+    {
+     "type": "counter",
+     "to": 58,
+     "label": "men identified",
+     "prefix": "",
+     "suffix": "",
+     "dur": 3.5,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "ATTENDED: ~100\nIDENTIFIED: 58\nESCAPED: DOZENS",
+     "size": 64,
+     "dur": 5.08,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Sam Giancana",
+     "label": "ESCAPED?",
+     "fields": {
+      "City": "Chicago"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 5.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch06_police_barracks_2.jpg",
+     "move": "left",
+     "dur": 2.88,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Vito Genovese",
+     "label": "DETAINED",
+     "fields": {
+      "City": "New York"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/stamp.wav",
+       "gain": -19,
+       "at": 1.2
+      }
+     ],
+     "photo": "a/ch03_vito_genovese/1_commons.jpg",
+     "focus": [
+      0.5,
+      0.15
+     ],
+     "stamp": "DETAINED",
+     "dur": 3.61,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Carlo Gambino",
+     "label": "DETAINED",
+     "fields": {
+      "City": "New York"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/stamp.wav",
+       "gain": -19,
+       "at": 1.2
+      }
+     ],
+     "photo": "a/ch05_carlo_gambino/1_commons.jpg",
+     "focus": [
+      0.5,
+      0.3
+     ],
+     "stamp": "DETAINED",
+     "dur": 5.13,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Joseph Profaci",
+     "label": "DETAINED",
+     "fields": {
+      "City": "Brooklyn"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/stamp.wav",
+       "gain": -19,
+       "at": 1.2
+      }
+     ],
+     "photo": "a/ch05_joseph_profaci/1_loc.jpg",
+     "focus": [
+      0.5,
+      0.3
+     ],
+     "stamp": "DETAINED",
+     "dur": 3.46,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Santo Trafficante",
+     "label": "DETAINED",
+     "fields": {
+      "City": "Tampa / Havana"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 2.72,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Joseph Civello",
+     "label": "DETAINED",
+     "fields": {
+      "City": "Dallas"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 3.16,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Russell Bufalino",
+     "label": "ORGANIZER",
+     "fields": {
+      "Region": "Pennsylvania"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 1.92,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Joseph Barbara",
+     "label": "THE HOST",
+     "fields": {
+      "Born": "1905, Sicily",
+      "Business": "Canada Dry distributor"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 1.98,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_state_trooper_1.jpg",
+     "move": "in",
+     "dur": 5.14,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch06_police_barracks_2.jpg",
+     "move": "left",
+     "dur": 3.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch06_police_barracks_1.jpg",
+     "move": "in",
+     "dur": 4.215,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch06.wav",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "chapter",
+     "num": 6,
+     "title": "Visiting a sick friend",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 3.14,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch06_police_barracks_1.jpg",
+     "move": "in",
+     "dur": 3.96,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "WHY ARE YOU IN APALACHIN?",
+     "size": 70,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 1.56,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch06_police_barracks_2.jpg",
+     "move": "left",
+     "dur": 7.68,
+     "fixed": true
+    },
+    {
+     "type": "document",
+     "text": "STATEMENT\n\n\"Came to visit Joe Barbara.\nHeard he was sick.\"",
+     "stamp": "RECORDED",
+     "dur": 8.16,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Joseph Barbara",
+     "label": "THE HOST",
+     "fields": {
+      "Health": "Heart attack, 1956"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 2.98,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_apalachin_meeting_2.jpg",
+     "move": "right",
+     "dur": 8.18,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "OLIVE OIL IMPORTER\nDRESS MANUFACTURER\nRESTAURANT OWNER\nTAXI COMPANY OPERATOR",
+     "size": 54,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 8.58,
+     "fixed": true
+    },
+    {
+     "type": "counter",
+     "to": 275,
+     "label": "arrests",
+     "prefix": "",
+     "suffix": "+",
+     "dur": 6.92,
+     "fixed": true
+    },
+    {
+     "type": "counter",
+     "to": 100,
+     "label": "convictions",
+     "prefix": "",
+     "suffix": "+",
+     "dur": 1.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch06_police_barracks_1.jpg",
+     "move": "in",
+     "dur": 2.3,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Not a crime.",
+     "size": 150,
+     "dur": 7.78,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_pasture_woods_2.jpg",
+     "move": "right",
+     "dur": 4.4,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Edgar Croswell",
+     "label": "SERGEANT",
+     "fields": {
+      "Agency": "N.Y. State Police"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 5.1,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "No charge.",
+     "size": 150,
+     "dur": 2.66,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch00_cars_1957/4_commons.jpg",
+     "move": "out",
+     "dur": 3.94,
+     "fixed": true
+    },
+    {
+     "type": "black",
+     "dur": 1.42,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "It wasn't.",
+     "size": 150,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.0
+      }
+     ],
+     "dur": 1.637,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch07.wav",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "chapter",
+     "num": 7,
+     "title": "The fallout",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 2.42,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch07_newspaper_press/2_commons.jpg",
+     "move": "in",
+     "dur": 6.38,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_apalachin_meeting_1.jpg",
+     "move": "in",
+     "dur": 1.94,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_apalachin_meeting_2.jpg",
+     "move": "right",
+     "dur": 3.02,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch01_tv_1950s/1_commons.jpg",
+     "move": "in",
+     "dur": 5.52,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch00_cars_1957/3_openverse.jpg",
+     "move": "right",
+     "dur": 5.46,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "...what exactly were they part of?",
+     "size": 56,
+     "dur": 1.96,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch07_fbi_building/3_commons.jpg",
+     "move": "up",
+     "focus": [
+      0.5,
+      0.4
+     ],
+     "dur": 3.0,
+     "fixed": true
+    },
+    {
+     "type": "document",
+     "text": "FEDERAL BUREAU OF NARCOTICS\n\nFILES ON:\nGenovese · Gambino · Profaci\nTrafficante · Bufalino · ...",
+     "stamp": "ON FILE",
+     "dur": 3.76,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch01_hoover_portrait/1_commons.jpg",
+     "move": "down",
+     "focus": [
+      0.5,
+      0.12
+     ],
+     "dur": 3.42,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch01_hoover_portrait/3_commons.jpg",
+     "move": "in",
+     "focus": [
+      0.5,
+      0.25
+     ],
+     "dur": 2.78,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "NOVEMBER 27, 1957",
+     "size": 80,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 4.1,
+     "fixed": true
+    },
+    {
+     "type": "document",
+     "text": "FEDERAL BUREAU OF INVESTIGATION\nNovember 27, 1957\n\nTO: ALL FIELD OFFICES\nRE: TOP HOODLUM PROGRAM\n\nIdentify the leading racketeers in your territory. Gather intelligence on them, systematically.",
+     "stamp": "DIRECTIVE",
+     "dur": 12.74,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch07_fbi_building/1_commons.jpg",
+     "move": "in",
+     "focus": [
+      0.5,
+      0.4
+     ],
+     "dur": 7.76,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch07_fbi_building/3_commons.jpg",
+     "move": "up",
+     "focus": [
+      0.5,
+      0.4
+     ],
+     "dur": 4.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch01_g_men_1930s/1_commons.jpg",
+     "move": "out",
+     "focus": [
+      0.5,
+      0.35
+     ],
+     "dur": 6.84,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch07_fbi_building/3_commons.jpg",
+     "move": "up",
+     "focus": [
+      0.5,
+      0.4
+     ],
+     "dur": 2.52,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch07_rfk_mcclellan/1_commons.jpg",
+     "move": "in",
+     "caption": "Robert F. Kennedy, Senate counsel",
+     "dur": 11.1,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch07_rfk_mcclellan/2_loc.jpg",
+     "move": "out",
+     "dur": 4.38,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch06_police_barracks_2.jpg",
+     "move": "left",
+     "dur": 4.38,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch07_courthouse/1_commons.jpg",
+     "move": "in",
+     "focus": [
+      0.5,
+      0.4
+     ],
+     "caption": "Foley Square, New York",
+     "dur": 4.84,
+     "fixed": true
+    },
+    {
+     "type": "document",
+     "text": "UNITED STATES v. BUFALINO et al.\n\nCHARGE: Conspiracy to obstruct justice\n(lying about the purpose of the meeting)",
+     "dur": 6.52,
+     "fixed": true
+    },
+    {
+     "type": "counter",
+     "to": 20,
+     "label": "men convicted",
+     "prefix": "",
+     "suffix": "",
+     "dur": 2.68,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "3 TO 5 YEARS\n13 FINED $10,000 EACH",
+     "size": 60,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 6.98,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch07_courthouse/3_commons.jpg",
+     "move": "up",
+     "focus": [
+      0.5,
+      0.4
+     ],
+     "dur": 1.9,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "It didn't last.",
+     "size": 150,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.0
+      }
+     ],
+     "dur": 1.48,
+     "fixed": true
+    },
+    {
+     "type": "timeline",
+     "items": [
+      [
+       "MAY 1959",
+       "Indicted"
+      ],
+      [
+       "DEC 1959",
+       "20 convicted",
+       true
+      ],
+      [
+       "NOV 1960",
+       "All reversed"
+      ]
+     ],
+     "dur": 6.72,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch07_courthouse/4_commons.jpg",
+     "move": "in",
+     "focus": [
+      0.5,
+      0.4
+     ],
+     "dur": 5.38,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch07_courthouse/1_commons.jpg",
+     "move": "out",
+     "focus": [
+      0.5,
+      0.4
+     ],
+     "dur": 4.88,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch07_newspaper_press/2_commons.jpg",
+     "move": "in",
+     "dur": 4.96,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "No one went to prison for Apalachin.",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.0
+      }
+     ],
+     "dur": 4.14,
+     "fixed": true
+    },
+    {
+     "type": "black",
+     "dur": 2.995,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch08.wav",
+   "lead_in": 0,
+   "tail": 2.5,
+   "shots": [
+    {
+     "type": "chapter",
+     "num": 8,
+     "title": "The trooper who woke a nation",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 3.02,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_apalachin_meeting_1.jpg",
+     "move": "in",
+     "dur": 3.86,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_country_road_2.jpg",
+     "move": "in",
+     "dur": 2.04,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch06_police_barracks_1.jpg",
+     "move": "in",
+     "dur": 3.38,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Joseph Barbara",
+     "label": "THE HOST",
+     "fields": {
+      "Born": "1905, Sicily",
+      "Business": "Canada Dry distributor"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 4.46,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch02_bottling_plant/2_openverse.jpg",
+     "move": "in",
+     "dur": 5.26,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Joseph Barbara",
+     "label": "THE HOST",
+     "fields": {
+      "Died": "June 1959"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/stamp.wav",
+       "gain": -19,
+       "at": 1.2
+      }
+     ],
+     "stamp": "DECEASED",
+     "dur": 3.16,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_country_road_1.jpg",
+     "move": "out",
+     "dur": 2.72,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Vito Genovese",
+     "label": "SUBJECT",
+     "fields": {
+      "City": "New York"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "photo": "a/ch03_vito_genovese/1_commons.jpg",
+     "focus": [
+      0.5,
+      0.15
+     ],
+     "dur": 5.76,
+     "fixed": true
+    },
+    {
+     "type": "counter",
+     "to": 15,
+     "label": "years in prison",
+     "prefix": "",
+     "suffix": "",
+     "dur": 6.32,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch03_vito_genovese/1_commons.jpg",
+     "move": "out",
+     "focus": [
+      0.5,
+      0.15
+     ],
+     "dur": 2.4,
+     "fixed": true
+    },
+    {
+     "type": "black",
+     "dur": 5.22,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Never proven.",
+     "size": 150,
+     "dur": 1.44,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Edgar Croswell",
+     "label": "SERGEANT",
+     "fields": {
+      "Agency": "N.Y. State Police"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 1.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch07_newspaper_press/2_commons.jpg",
+     "move": "in",
+     "dur": 3.86,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_state_trooper_1.jpg",
+     "move": "in",
+     "dur": 2.68,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch04_motel_1950s/1_commons.jpg",
+     "move": "in",
+     "dur": 1.96,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch04_butcher_shop/1_commons.jpg",
+     "move": "in",
+     "dur": 2.06,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch01_hoover_portrait/3_commons.jpg",
+     "move": "in",
+     "focus": [
+      0.5,
+      0.25
+     ],
+     "dur": 5.52,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_apalachin_meeting_2.jpg",
+     "move": "right",
+     "dur": 5.24,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "NO WRITTEN RECORDS.\nNO PUBLIC FACES.\nA CODE OF SILENCE.",
+     "size": 60,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 4.02,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ch00_pasture_woods_1.jpg",
+     "move": "in",
+     "dur": 5.58,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch01_tv_1950s/1_commons.jpg",
+     "move": "in",
+     "dur": 4.96,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch07_fbi_building/3_commons.jpg",
+     "move": "up",
+     "focus": [
+      0.5,
+      0.4
+     ],
+     "dur": 3.6,
+     "fixed": true
+    },
+    {
+     "type": "black",
+     "dur": 2.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch08_valachi_1963/2_commons.jpg",
+     "move": "in",
+     "focus": [
+      0.5,
+      0.3
+     ],
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ch08_valachi_1963/1_commons.jpg",
+     "move": "in",
+     "caption": "Joseph Valachi, U.S. Senate, 1963",
+     "focus": [
+      0.5,
+      0.3
+     ],
+     "dur": 7.78,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "ITS RANKS.\nITS RITUALS.\nITS NAME.",
+     "size": 72,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 3.02,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Joseph Valachi",
+     "label": "NEXT FILE",
+     "fields": {
+      "Family": "Genovese",
+      "Testimony": "1963"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "photo": "a/ch08_valachi_1963/1_commons.jpg",
+     "focus": [
+      0.5,
+      0.3
+     ],
+     "dur": 5.28,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "Valachi",
+     "subtitle": "Next on Black Dossier",
+     "file": "FILE No. 002",
+     "stamp": "NEXT",
+     "sfx": [
+      {
+       "file": "sfx/stamp.wav",
+       "gain": -19,
+       "at": 0.9
+      }
+     ],
+     "dur": 8.66,
+     "fixed": true
+    },
+    {
+     "type": "black",
+     "fade_in": 0,
+     "dur": 4.089,
+     "fixed": false,
+     "fade_out": 1.5
+    }
+   ]
+  }
+ ]
+}
