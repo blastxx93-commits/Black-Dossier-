@@ -1,0 +1,415 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Doc,Inter SemiBold,44,&H0000E6FF,&H0000E6FF,&H00000000,&H96000000,0,0,0,0,100,100,0.5,0,1,2.4,1.2,2,200,200,62,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.05,Doc,,0,0,0,,November 14th, 1957.
+Dialogue: 0,0:00:03.10,0:00:04.77,Doc,,0,0,0,,A cold, gray Thursday,
+Dialogue: 0,0:00:04.82,0:00:08.77,Doc,,0,0,0,,in a farming town so small that most\NAmericans had never heard its name.
+Dialogue: 0,0:00:08.82,0:00:10.51,Doc,,0,0,0,,Up a muddy country road,
+Dialogue: 0,0:00:10.56,0:00:15.05,Doc,,0,0,0,,behind a stone house on a hill,\Nsit dozens of long, black cars.
+Dialogue: 0,0:00:15.10,0:00:15.85,Doc,,0,0,0,,Cadillacs.
+Dialogue: 0,0:00:15.90,0:00:16.65,Doc,,0,0,0,,Lincolns.
+Dialogue: 0,0:00:16.70,0:00:17.81,Doc,,0,0,0,,Imperials.
+Dialogue: 0,0:00:17.86,0:00:19.87,Doc,,0,0,0,,Their license plates read New York...
+Dialogue: 0,0:00:19.92,0:00:20.83,Doc,,0,0,0,,New Jersey...
+Dialogue: 0,0:00:20.88,0:00:21.89,Doc,,0,0,0,,Ohio...
+Dialogue: 0,0:00:21.94,0:00:22.75,Doc,,0,0,0,,Illinois...
+Dialogue: 0,0:00:22.80,0:00:23.55,Doc,,0,0,0,,Texas...
+Dialogue: 0,0:00:23.60,0:00:24.53,Doc,,0,0,0,,California...
+Dialogue: 0,0:00:24.58,0:00:25.51,Doc,,0,0,0,,Florida.
+Dialogue: 0,0:00:25.56,0:00:29.25,Doc,,0,0,0,,Inside, around a barbecue\Npit and a mountain of steaks,
+Dialogue: 0,0:00:29.30,0:00:32.53,Doc,,0,0,0,,stand some of the most powerful\Ncriminals in the United States.
+Dialogue: 0,0:00:32.58,0:00:34.59,Doc,,0,0,0,,And then, someone looks\Ndown the driveway...
+Dialogue: 0,0:00:34.64,0:00:37.27,Doc,,0,0,0,,and sees a car that should not be there.
+Dialogue: 0,0:00:37.32,0:00:41.43,Doc,,0,0,0,,Within minutes, men in silk suits and\Nhandmade shoes are running across cow
+Dialogue: 0,0:00:41.48,0:00:42.35,Doc,,0,0,0,,pastures.
+Dialogue: 0,0:00:42.40,0:00:43.81,Doc,,0,0,0,,Crashing through the brush.
+Dialogue: 0,0:00:43.86,0:00:45.25,Doc,,0,0,0,,Disappearing into the woods.
+Dialogue: 0,0:00:45.30,0:00:50.13,Doc,,0,0,0,,Bosses who commanded small armies,\Nscrambling through the mud like schoolboys.
+Dialogue: 0,0:00:50.18,0:00:54.27,Doc,,0,0,0,,And waiting for them at the bottom of\Nthe hill is one stubborn state trooper,
+Dialogue: 0,0:00:54.32,0:00:56.95,Doc,,0,0,0,,a man the FBI had ignored for years.
+Dialogue: 0,0:00:57.00,0:00:58.95,Doc,,0,0,0,,The meeting never even really began.
+Dialogue: 0,0:00:59.00,0:01:00.61,Doc,,0,0,0,,But by the end of that day,
+Dialogue: 0,0:01:00.66,0:01:04.27,Doc,,0,0,0,,the most powerful lawman in America\Nwould be forced to face something he had
+Dialogue: 0,0:01:04.32,0:01:06.21,Doc,,0,0,0,,brushed aside for decades.
+Dialogue: 0,0:01:06.26,0:01:07.63,Doc,,0,0,0,,The Mafia was real.
+Dialogue: 0,0:01:07.68,0:01:08.45,Doc,,0,0,0,,And it was national.
+Dialogue: 0,0:01:08.50,0:01:10.87,Doc,,0,0,0,,And the strangest part of this story?
+Dialogue: 0,0:01:10.92,0:01:12.87,Doc,,0,0,0,,Almost nobody went to prison for it.
+Dialogue: 0,0:01:12.92,0:01:14.73,Doc,,0,0,0,,This is Black Dossier.
+Dialogue: 0,0:01:14.78,0:01:15.23,Doc,,0,0,0,,And this...
+Dialogue: 0,0:01:15.28,0:01:16.42,Doc,,0,0,0,,is Apalachin.
+Dialogue: 0,0:01:19.24,0:01:21.78,Doc,,0,0,0,,Chapter One. The Man Who\NSaid It Didn'T Exist.
+Dialogue: 0,0:01:21.83,0:01:25.64,Doc,,0,0,0,,To understand why one afternoon in\Nthe countryside mattered so much,
+Dialogue: 0,0:01:25.69,0:01:29.32,Doc,,0,0,0,,you first have to understand the man\Nwho ran American law enforcement.
+Dialogue: 0,0:01:29.37,0:01:31.32,Doc,,0,0,0,,By 1957, J.
+Dialogue: 0,0:01:31.37,0:01:34.68,Doc,,0,0,0,,Edgar Hoover had led the Bureau\Nfor more than thirty years.
+Dialogue: 0,0:01:34.73,0:01:37.18,Doc,,0,0,0,,He had built its legend in the 1930s,
+Dialogue: 0,0:01:37.23,0:01:40.54,Doc,,0,0,0,,chasing bank robbers and\Nkidnappers across the Midwest.
+Dialogue: 0,0:01:40.59,0:01:40.99,Doc,,0,0,0,,Dillinger.
+Dialogue: 0,0:01:41.04,0:01:42.82,Doc,,0,0,0,,Baby Face Nelson.
+Dialogue: 0,0:01:42.87,0:01:44.08,Doc,,0,0,0,,Pretty Boy Floyd.
+Dialogue: 0,0:01:44.13,0:01:47.00,Doc,,0,0,0,,His agents were heroes in\Nnewsreels and comic books.
+Dialogue: 0,0:01:47.05,0:01:47.98,Doc,,0,0,0,,The G-Men.
+Dialogue: 0,0:01:48.03,0:01:51.36,Doc,,0,0,0,,But on one subject, Hoover\Nwas strangely quiet.
+Dialogue: 0,0:01:51.41,0:01:54.26,Doc,,0,0,0,,When people spoke of a\Nnational crime organization,
+Dialogue: 0,0:01:54.31,0:01:58.80,Doc,,0,0,0,,a secret brotherhood with families in\Nevery major city, Hoover pushed back.
+Dialogue: 0,0:01:58.85,0:02:00.44,Doc,,0,0,0,,Gangs existed, of course.
+Dialogue: 0,0:02:00.49,0:02:01.88,Doc,,0,0,0,,Racketeers existed.
+Dialogue: 0,0:02:01.93,0:02:05.72,Doc,,0,0,0,,But in his view, they were local\Nproblems, for local police.
+Dialogue: 0,0:02:05.77,0:02:07.70,Doc,,0,0,0,,The FBI had bigger enemies.
+Dialogue: 0,0:02:07.75,0:02:08.52,Doc,,0,0,0,,Communists.
+Dialogue: 0,0:02:08.57,0:02:09.44,Doc,,0,0,0,,Spies.
+Dialogue: 0,0:02:09.49,0:02:10.62,Doc,,0,0,0,,Subversives.
+Dialogue: 0,0:02:10.67,0:02:11.82,Doc,,0,0,0,,The Cold War.
+Dialogue: 0,0:02:11.87,0:02:13.20,Doc,,0,0,0,,Not everyone agreed.
+Dialogue: 0,0:02:13.25,0:02:15.32,Doc,,0,0,0,,At the Federal Bureau of Narcotics,
+Dialogue: 0,0:02:15.37,0:02:18.87,Doc,,0,0,0,,agents had been warning for years\Nabout a network of Sicilian and
+Dialogue: 0,0:02:18.92,0:02:23.86,Doc,,0,0,0,,Italian-American criminals moving heroin,\Nmoney and favors across state lines.
+Dialogue: 0,0:02:23.91,0:02:26.36,Doc,,0,0,0,,And in 1950 and 1951,
+Dialogue: 0,0:02:26.41,0:02:30.52,Doc,,0,0,0,,a Senate committee led by Estes Kefauver\Ntook the question to television.
+Dialogue: 0,0:02:30.57,0:02:33.46,Doc,,0,0,0,,Millions of Americans\Nwatched gangsters testify.
+Dialogue: 0,0:02:33.51,0:02:36.98,Doc,,0,0,0,,One of them, Frank Costello,\Nrefused to let his face be filmed.
+Dialogue: 0,0:02:37.03,0:02:39.70,Doc,,0,0,0,,So the cameras showed only his hands.
+Dialogue: 0,0:02:39.75,0:02:42.56,Doc,,0,0,0,,Nervous, restless hands,\Ndrumming the table,
+Dialogue: 0,0:02:42.61,0:02:45.90,Doc,,0,0,0,,folding paper, while he dodged\Nquestion after question.
+Dialogue: 0,0:02:45.95,0:02:50.08,Doc,,0,0,0,,The Kefauver Committee concluded that\Na nationwide crime syndicate did exist.
+Dialogue: 0,0:02:50.13,0:02:52.96,Doc,,0,0,0,,And still, the FBI kept its distance.
+Dialogue: 0,0:02:53.01,0:02:55.74,Doc,,0,0,0,,Historians have argued\Nfor decades about why.
+Dialogue: 0,0:02:55.79,0:02:58.06,Doc,,0,0,0,,Some point to Hoover's\Nobsession with statistics,
+Dialogue: 0,0:02:58.11,0:03:01.98,Doc,,0,0,0,,and his fear of long, messy\Ncases that might never be won.
+Dialogue: 0,0:03:02.03,0:03:06.10,Doc,,0,0,0,,Others point to his worry that agents\Nworking near the mob could be corrupted.
+Dialogue: 0,0:03:06.15,0:03:09.46,Doc,,0,0,0,,Whatever the reason,\Nby the autumn of 1957,
+Dialogue: 0,0:03:09.51,0:03:13.12,Doc,,0,0,0,,the most famous law enforcement agency\Nin the world knew remarkably little
+Dialogue: 0,0:03:13.17,0:03:16.32,Doc,,0,0,0,,about the men who would soon gather\Non a hill in upstate New York.
+Dialogue: 0,0:03:16.37,0:03:18.65,Doc,,0,0,0,,But one state trooper knew a great deal.
+Dialogue: 0,0:03:20.45,0:03:22.62,Doc,,0,0,0,,Chapter Two. The Bottler On Mcfall Road.
+Dialogue: 0,0:03:22.67,0:03:27.52,Doc,,0,0,0,,Apalachin sits in New York's Southern\NTier, close to the Pennsylvania border.
+Dialogue: 0,0:03:27.57,0:03:29.62,Doc,,0,0,0,,Locals pronounce it ap-uh-LAY-kin.
+Dialogue: 0,0:03:29.67,0:03:34.04,Doc,,0,0,0,,In the 1950s it was rolling hills,\Ndairy farms, and quiet roads.
+Dialogue: 0,0:03:34.09,0:03:38.44,Doc,,0,0,0,,And on one of those roads, McFall\NRoad, lived a man named Joseph Barbara.
+Dialogue: 0,0:03:38.49,0:03:42.16,Doc,,0,0,0,,Barbara was born in 1905\Nin Castellammare del Golfo,
+Dialogue: 0,0:03:42.21,0:03:44.26,Doc,,0,0,0,,a coastal town in western Sicily.
+Dialogue: 0,0:03:44.31,0:03:45.62,Doc,,0,0,0,,That town matters.
+Dialogue: 0,0:03:45.67,0:03:48.82,Doc,,0,0,0,,It produced an entire\Ngeneration of American mafiosi.
+Dialogue: 0,0:03:48.87,0:03:52.48,Doc,,0,0,0,,The men who would later lead powerful\Nfamilies in Brooklyn and Buffalo traced
+Dialogue: 0,0:03:52.53,0:03:54.11,Doc,,0,0,0,,their roots to the same harbor.
+Dialogue: 0,0:03:54.16,0:03:56.38,Doc,,0,0,0,,Barbara came to America young.
+Dialogue: 0,0:03:56.43,0:03:58.58,Doc,,0,0,0,,During Prohibition he\Nworked in bootlegging,
+Dialogue: 0,0:03:58.63,0:04:00.84,Doc,,0,0,0,,in Pennsylvania and upstate New York.
+Dialogue: 0,0:04:00.89,0:04:03.12,Doc,,0,0,0,,Over the years he was\Narrested more than once,
+Dialogue: 0,0:04:03.17,0:04:05.84,Doc,,0,0,0,,and his name came up in\Nserious investigations.
+Dialogue: 0,0:04:05.89,0:04:07.44,Doc,,0,0,0,,But nothing stuck.
+Dialogue: 0,0:04:07.49,0:04:12.00,Doc,,0,0,0,,By the 1950s, Joseph Barbara looked\Nlike a respectable businessman.
+Dialogue: 0,0:04:12.05,0:04:15.50,Doc,,0,0,0,,He held the local distributorship\Nfor Canada Dry soft drinks.
+Dialogue: 0,0:04:15.55,0:04:17.30,Doc,,0,0,0,,He owned a large estate on a hill,
+Dialogue: 0,0:04:17.35,0:04:21.48,Doc,,0,0,0,,with a stone house, a big garage,\Nand plenty of space for guests.
+Dialogue: 0,0:04:21.53,0:04:23.34,Doc,,0,0,0,,And he had a lot of guests.
+Dialogue: 0,0:04:23.39,0:04:26.40,Doc,,0,0,0,,Barbara was known in the\Nunderworld as a generous host.
+Dialogue: 0,0:04:26.45,0:04:29.84,Doc,,0,0,0,,His estate was quiet, private,\Nfar from New York City,
+Dialogue: 0,0:04:29.89,0:04:32.44,Doc,,0,0,0,,and far from the eyes\Nof big-city detectives.
+Dialogue: 0,0:04:32.49,0:04:35.66,Doc,,0,0,0,,For years, it had been used for\Ngatherings of men from across the region,
+Dialogue: 0,0:04:35.71,0:04:37.08,Doc,,0,0,0,,and beyond.
+Dialogue: 0,0:04:37.13,0:04:38.28,Doc,,0,0,0,,Somebody noticed.
+Dialogue: 0,0:04:38.33,0:04:42.58,Doc,,0,0,0,,His name was Edgar Croswell, a sergeant\Nwith the New York State Police.
+Dialogue: 0,0:04:42.63,0:04:44.76,Doc,,0,0,0,,Croswell was not a celebrity detective.
+Dialogue: 0,0:04:44.81,0:04:46.44,Doc,,0,0,0,,He was a working investigator,
+Dialogue: 0,0:04:46.49,0:04:50.92,Doc,,0,0,0,,stationed nearby, who had become\Nquietly obsessed with Joseph Barbara.
+Dialogue: 0,0:04:50.97,0:04:53.62,Doc,,0,0,0,,Barbara's official record\Nhad been clean for years.
+Dialogue: 0,0:04:53.67,0:04:57.38,Doc,,0,0,0,,But Croswell didn't buy the image\Nof the friendly soft drink man.
+Dialogue: 0,0:04:57.43,0:04:58.52,Doc,,0,0,0,,As he later put it,
+Dialogue: 0,0:04:58.57,0:05:01.82,Doc,,0,0,0,,he simply had a feeling that Barbara\Nwas the big mobster in the area.
+Dialogue: 0,0:05:01.87,0:05:03.42,Doc,,0,0,0,,So he watched.
+Dialogue: 0,0:05:03.47,0:05:08.72,Doc,,0,0,0,,In 1956, Croswell pulled over a car\Nthat had just left the Barbara estate.
+Dialogue: 0,0:05:08.77,0:05:11.82,Doc,,0,0,0,,Behind the wheel was a man\Nwith a long record in New York:
+Dialogue: 0,0:05:11.87,0:05:16.12,Doc,,0,0,0,,Carmine Galante, a rising figure\Nin the Bonanno family of Brooklyn.
+Dialogue: 0,0:05:16.17,0:05:19.52,Doc,,0,0,0,,Why would a Brooklyn gangster be leaving\Na soft drink distributor's house in
+Dialogue: 0,0:05:19.57,0:05:20.84,Doc,,0,0,0,,rural New York?
+Dialogue: 0,0:05:20.89,0:05:23.18,Doc,,0,0,0,,Croswell kept asking that question.
+Dialogue: 0,0:05:23.23,0:05:25.84,Doc,,0,0,0,,Nobody above him seemed very\Ninterested in the answer.
+Dialogue: 0,0:05:25.89,0:05:30.03,Doc,,0,0,0,,But the following year, the underworld\Nitself would give Croswell his chance.
+Dialogue: 0,0:05:30.89,0:05:35.80,Doc,,0,0,0,,Chapter Three. 1957. The\NYear The Underworld Shook.
+Dialogue: 0,0:05:35.85,0:05:39.52,Doc,,0,0,0,,To understand why so many bosses\Nwould travel hundreds of miles to a
+Dialogue: 0,0:05:39.57,0:05:43.64,Doc,,0,0,0,,farmhouse, you need to know what\Nhappened in New York in 1957.
+Dialogue: 0,0:05:43.69,0:05:47.64,Doc,,0,0,0,,For years, the city's underworld had\Nbeen run by an uneasy balance of powerful
+Dialogue: 0,0:05:47.69,0:05:48.76,Doc,,0,0,0,,men.
+Dialogue: 0,0:05:48.81,0:05:51.24,Doc,,0,0,0,,One of the most powerful\Nwas Frank Costello,
+Dialogue: 0,0:05:51.29,0:05:54.54,Doc,,0,0,0,,the same man whose hands had\Nappeared on national television.
+Dialogue: 0,0:05:54.59,0:05:57.20,Doc,,0,0,0,,Costello was called the Prime\NMinister of the Underworld.
+Dialogue: 0,0:05:57.25,0:06:01.16,Doc,,0,0,0,,He preferred deals to violence,\Nand politicians to gunmen.
+Dialogue: 0,0:06:01.21,0:06:03.92,Doc,,0,0,0,,On the night of May 2nd, 1957,
+Dialogue: 0,0:06:03.97,0:06:07.82,Doc,,0,0,0,,Costello walked into the lobby of his\Napartment building on Central Park West.
+Dialogue: 0,0:06:07.87,0:06:10.90,Doc,,0,0,0,,A man stepped out of the\Nshadows and fired a single shot.
+Dialogue: 0,0:06:10.95,0:06:12.98,Doc,,0,0,0,,The bullet grazed Costello's head.
+Dialogue: 0,0:06:13.03,0:06:14.30,Doc,,0,0,0,,He survived.
+Dialogue: 0,0:06:14.35,0:06:18.36,Doc,,0,0,0,,In his pocket, police found a slip\Nof paper with handwritten figures.
+Dialogue: 0,0:06:18.41,0:06:22.08,Doc,,0,0,0,,They would later be traced to the earnings\Nof a brand-new casino in Las Vegas,
+Dialogue: 0,0:06:22.13,0:06:22.87,Doc,,0,0,0,,the Tropicana.
+Dialogue: 0,0:06:22.92,0:06:26.84,Doc,,0,0,0,,A small piece of paper,\Nsuggesting a very large secret.
+Dialogue: 0,0:06:26.89,0:06:29.54,Doc,,0,0,0,,Costello refused to name his attacker.
+Dialogue: 0,0:06:29.59,0:06:31.10,Doc,,0,0,0,,But the message was clear.
+Dialogue: 0,0:06:31.15,0:06:32.38,Doc,,0,0,0,,Someone wanted him out.
+Dialogue: 0,0:06:32.43,0:06:35.44,Doc,,0,0,0,,And soon, Costello\Nstepped back from power.
+Dialogue: 0,0:06:35.49,0:06:39.30,Doc,,0,0,0,,The man most widely believed to\Nbe behind it was Vito Genovese.
+Dialogue: 0,0:06:39.35,0:06:41.66,Doc,,0,0,0,,Ambitious, patient, and ruthless,
+Dialogue: 0,0:06:41.71,0:06:44.78,Doc,,0,0,0,,Genovese had waited years to take\Ncontrol of what had once been Lucky
+Dialogue: 0,0:06:44.83,0:06:46.36,Doc,,0,0,0,,Luciano's family.
+Dialogue: 0,0:06:46.41,0:06:51.12,Doc,,0,0,0,,Then, on October 25th,\N1957, came a second shock.
+Dialogue: 0,0:06:51.17,0:06:54.90,Doc,,0,0,0,,Albert Anastasia, boss of one of\NNew York's most feared families,
+Dialogue: 0,0:06:54.95,0:06:58.68,Doc,,0,0,0,,was killed in the barbershop of the\NPark Sheraton Hotel in Manhattan.
+Dialogue: 0,0:06:58.73,0:07:02.16,Doc,,0,0,0,,It was one of the most notorious\Ngangland killings of the century.
+Dialogue: 0,0:07:02.21,0:07:04.00,Doc,,0,0,0,,The case was never solved.
+Dialogue: 0,0:07:04.05,0:07:08.06,Doc,,0,0,0,,In just six months, the balance of\Npower in New York had been shattered.
+Dialogue: 0,0:07:08.11,0:07:10.20,Doc,,0,0,0,,There were questions that needed answers.
+Dialogue: 0,0:07:10.25,0:07:12.28,Doc,,0,0,0,,Who would control Anastasia's family?
+Dialogue: 0,0:07:12.33,0:07:13.74,Doc,,0,0,0,,Who would sit at the table?
+Dialogue: 0,0:07:13.79,0:07:17.20,Doc,,0,0,0,,What would happen to the lucrative\Ncasino interests in Havana, Cuba?
+Dialogue: 0,0:07:17.25,0:07:18.76,Doc,,0,0,0,,To the narcotics trade?
+Dialogue: 0,0:07:18.81,0:07:21.22,Doc,,0,0,0,,To the trucking business in\Nthe city's garment district?
+Dialogue: 0,0:07:21.27,0:07:25.82,Doc,,0,0,0,,According to most accounts, Vito\NGenovese wanted a national meeting.
+Dialogue: 0,0:07:25.87,0:07:29.06,Doc,,0,0,0,,A gathering where bosses from across\Nthe country could recognize the new
+Dialogue: 0,0:07:29.11,0:07:31.90,Doc,,0,0,0,,order, settle disputes, and move on.
+Dialogue: 0,0:07:31.95,0:07:34.10,Doc,,0,0,0,,The meeting needed a host who was trusted,
+Dialogue: 0,0:07:34.15,0:07:36.98,Doc,,0,0,0,,discreet, and far away from the city.
+Dialogue: 0,0:07:37.03,0:07:38.98,Doc,,0,0,0,,Joseph Barbara offered his home.
+Dialogue: 0,0:07:39.03,0:07:43.28,Doc,,0,0,0,,The arrangements were reportedly overseen\Nby Russell Bufalino of Pennsylvania,
+Dialogue: 0,0:07:43.33,0:07:44.94,Doc,,0,0,0,,Barbara's close associate.
+Dialogue: 0,0:07:44.99,0:07:49.28,Doc,,0,0,0,,The date was set: Thursday,\NNovember 14th, 1957.
+Dialogue: 0,0:07:49.33,0:07:52.43,Doc,,0,0,0,,Bosses from New York, Pennsylvania, Ohio,
+Dialogue: 0,0:07:52.48,0:07:56.64,Doc,,0,0,0,,Illinois, Florida, Texas, and\Nbeyond began making plans.
+Dialogue: 0,0:07:56.69,0:08:00.54,Doc,,0,0,0,,But the man they should have worried\Nabout wasn't in New York or Chicago.
+Dialogue: 0,0:08:00.59,0:08:03.97,Doc,,0,0,0,,He was standing in a motel\Nlobby, about ten miles away.
+Dialogue: 0,0:08:05.88,0:08:07.04,Doc,,0,0,0,,Chapter Four. Room Reservations.
+Dialogue: 0,0:08:07.09,0:08:10.75,Doc,,0,0,0,,On November 13th, the\Nday before the meeting,
+Dialogue: 0,0:08:10.80,0:08:14.65,Doc,,0,0,0,,Sergeant Croswell was at the Parkway\NMotel in the nearby town of Vestal,
+Dialogue: 0,0:08:14.70,0:08:16.69,Doc,,0,0,0,,on an unrelated police matter.
+Dialogue: 0,0:08:16.74,0:08:21.01,Doc,,0,0,0,,While he was there, he noticed a familiar\Nyoung man crossing the parking lot.
+Dialogue: 0,0:08:21.06,0:08:22.83,Doc,,0,0,0,,It was Joseph Barbara Junior,
+Dialogue: 0,0:08:22.88,0:08:26.07,Doc,,0,0,0,,the son of the man Croswell\Nhad been watching for years.
+Dialogue: 0,0:08:26.12,0:08:28.27,Doc,,0,0,0,,The younger Barbara was reserving rooms.
+Dialogue: 0,0:08:28.32,0:08:29.15,Doc,,0,0,0,,Several of them.
+Dialogue: 0,0:08:29.20,0:08:30.87,Doc,,0,0,0,,For out-of-town guests.
+Dialogue: 0,0:08:30.92,0:08:33.19,Doc,,0,0,0,,For most police officers,\Nthat would mean nothing.
+Dialogue: 0,0:08:33.24,0:08:34.80,Doc,,0,0,0,,Families book rooms.
+Dialogue: 0,0:08:34.85,0:08:36.91,Doc,,0,0,0,,Businesses host visitors.
+Dialogue: 0,0:08:36.96,0:08:39.45,Doc,,0,0,0,,But Croswell knew who Joseph Barbara was.
+Dialogue: 0,0:08:39.50,0:08:41.93,Doc,,0,0,0,,And he knew who had\Nvisited that house before.
+Dialogue: 0,0:08:41.98,0:08:43.55,Doc,,0,0,0,,Then came another detail.
+Dialogue: 0,0:08:43.60,0:08:44.99,Doc,,0,0,0,,Around the same time,
+Dialogue: 0,0:08:45.04,0:08:48.25,Doc,,0,0,0,,Croswell learned that a large meat order\Nhad been placed with a local butcher
+Dialogue: 0,0:08:48.30,0:08:49.75,Doc,,0,0,0,,for the Barbara home.
+Dialogue: 0,0:08:49.80,0:08:52.67,Doc,,0,0,0,,Roughly two hundred pounds\Nof steaks and chops.
+Dialogue: 0,0:08:52.72,0:08:54.47,Doc,,0,0,0,,Rooms for out-of-town guests.
+Dialogue: 0,0:08:54.52,0:08:56.39,Doc,,0,0,0,,A feast big enough for an army.
+Dialogue: 0,0:08:56.44,0:09:00.23,Doc,,0,0,0,,At the home of a man Croswell\Nbelieved was a regional crime boss.
+Dialogue: 0,0:09:00.28,0:09:01.91,Doc,,0,0,0,,Croswell didn't have a crime.
+Dialogue: 0,0:09:01.96,0:09:03.21,Doc,,0,0,0,,He didn't have a warrant.
+Dialogue: 0,0:09:03.26,0:09:05.81,Doc,,0,0,0,,What he had was a hunch,\Nand a pair of eyes.
+Dialogue: 0,0:09:05.86,0:09:08.70,Doc,,0,0,0,,So the next morning, he\Ndecided to go and take a look.
+Dialogue: 0,0:09:09.47,0:09:11.26,Doc,,0,0,0,,Chapter Five. The Roadblock.
+Dialogue: 0,0:09:11.31,0:09:15.02,Doc,,0,0,0,,On November 14th, Croswell\Nset out with his partner,
+Dialogue: 0,0:09:15.07,0:09:18.06,Doc,,0,0,0,,Trooper Vincent Vasisko,\Nand two agents from the U.S.
+Dialogue: 0,0:09:18.11,0:09:19.26,Doc,,0,0,0,,Treasury Department.
+Dialogue: 0,0:09:19.31,0:09:22.04,Doc,,0,0,0,,They drove up McFall\NRoad in an unmarked car.
+Dialogue: 0,0:09:22.09,0:09:24.30,Doc,,0,0,0,,What they saw stopped them cold.
+Dialogue: 0,0:09:24.35,0:09:27.96,Doc,,0,0,0,,Parked around Barbara's property\Nwere dozens of expensive cars.
+Dialogue: 0,0:09:28.01,0:09:30.30,Doc,,0,0,0,,Big, dark, freshly polished.
+Dialogue: 0,0:09:30.35,0:09:32.52,Doc,,0,0,0,,License plates from all over the country.
+Dialogue: 0,0:09:32.57,0:09:35.12,Doc,,0,0,0,,In a town where most\Npeople drove pickup trucks,
+Dialogue: 0,0:09:35.17,0:09:38.22,Doc,,0,0,0,,it looked like a luxury car showroom\Nhad landed in a cow pasture.
+Dialogue: 0,0:09:38.27,0:09:41.68,Doc,,0,0,0,,The officers began writing\Ndown license numbers.
+Dialogue: 0,0:09:41.73,0:09:43.88,Doc,,0,0,0,,At around twenty to one in the afternoon,
+Dialogue: 0,0:09:43.93,0:09:47.09,Doc,,0,0,0,,someone inside the house noticed\Nthe unmarked car in the driveway.
+Dialogue: 0,0:09:47.14,0:09:51.20,Doc,,0,0,0,,According to later court records,\Nit was Barbara's wife who saw it.
+Dialogue: 0,0:09:51.25,0:09:53.54,Doc,,0,0,0,,Word spread through the\Nproperty in seconds.
+Dialogue: 0,0:09:53.59,0:09:55.24,Doc,,0,0,0,,Croswell knew what came next.
+Dialogue: 0,0:09:55.29,0:09:56.66,Doc,,0,0,0,,He called for backup.
+Dialogue: 0,0:09:56.71,0:09:58.60,Doc,,0,0,0,,More troopers raced to the area,
+Dialogue: 0,0:09:58.65,0:10:01.84,Doc,,0,0,0,,and the police set up a roadblock\Non the road below the estate,
+Dialogue: 0,0:10:01.89,0:10:04.10,Doc,,0,0,0,,the only practical way out by car.
+Dialogue: 0,0:10:04.15,0:10:07.34,Doc,,0,0,0,,Then, at about twenty past\None, the exodus began.
+Dialogue: 0,0:10:07.39,0:10:11.08,Doc,,0,0,0,,Some of the guests jumped into\Ntheir cars and drove down the hill,
+Dialogue: 0,0:10:11.13,0:10:12.84,Doc,,0,0,0,,straight into the roadblock.
+Dialogue: 0,0:10:12.89,0:10:15.79,Doc,,0,0,0,,The first car to arrive carried\Ntwo men from the region,
+Dialogue: 0,0:10:15.84,0:10:18.82,Doc,,0,0,0,,Emanuele Zicari and Dominick Alaimo.
+Dialogue: 0,0:10:18.87,0:10:20.58,Doc,,0,0,0,,Others chose a different escape.
+Dialogue: 0,0:10:20.63,0:10:21.48,Doc,,0,0,0,,They ran.
+Dialogue: 0,0:10:21.53,0:10:22.32,Doc,,0,0,0,,Picture it.
+Dialogue: 0,0:10:22.37,0:10:24.04,Doc,,0,0,0,,Men who controlled unions,
+Dialogue: 0,0:10:24.09,0:10:26.18,Doc,,0,0,0,,casinos and entire city districts,
+Dialogue: 0,0:10:26.23,0:10:29.30,Doc,,0,0,0,,sprinting across open fields\Nin tailored overcoats.
+Dialogue: 0,0:10:29.35,0:10:31.66,Doc,,0,0,0,,Expensive shoes sinking into mud.
+Dialogue: 0,0:10:31.71,0:10:33.16,Doc,,0,0,0,,Hats lost in the brush.
+Dialogue: 0,0:10:33.21,0:10:35.28,Doc,,0,0,0,,Some headed for the woods along the creek,
+Dialogue: 0,0:10:35.33,0:10:38.06,Doc,,0,0,0,,hoping to slip away and\Ncatch a ride on a back road.
+Dialogue: 0,0:10:38.11,0:10:39.28,Doc,,0,0,0,,Some of them made it.
+Dialogue: 0,0:10:39.33,0:10:40.30,Doc,,0,0,0,,Many did not.
+Dialogue: 0,0:10:40.35,0:10:41.30,Doc,,0,0,0,,One by one,
+Dialogue: 0,0:10:41.35,0:10:44.78,Doc,,0,0,0,,the troopers stopped cars and gathered\Nthe men who came stumbling out of the
+Dialogue: 0,0:10:44.83,0:10:45.78,Doc,,0,0,0,,trees.
+Dialogue: 0,0:10:45.83,0:10:49.64,Doc,,0,0,0,,Every one of them was taken to the state\Npolice barracks for identification.
+Dialogue: 0,0:10:49.69,0:10:53.14,Doc,,0,0,0,,By the end of the day, the police\Nhad identified fifty-eight men.
+Dialogue: 0,0:10:53.19,0:10:56.58,Doc,,0,0,0,,Estimates suggest that around a\Nhundred had come to the meeting.
+Dialogue: 0,0:10:56.63,0:10:58.22,Doc,,0,0,0,,Dozens escaped on foot.
+Dialogue: 0,0:10:58.27,0:11:00.88,Doc,,0,0,0,,Among the names later linked\Nto those who got away,
+Dialogue: 0,0:11:00.93,0:11:04.12,Doc,,0,0,0,,writers have often mentioned\NSam Giancana of Chicago.
+Dialogue: 0,0:11:04.17,0:11:07.00,Doc,,0,0,0,,But the men who were caught\Nwere extraordinary enough.
+Dialogue: 0,0:11:07.05,0:11:10.61,Doc,,0,0,0,,Vito Genovese, the man at the\Ncenter of New York's power struggle.
+Dialogue: 0,0:11:10.66,0:11:14.68,Doc,,0,0,0,,Carlo Gambino, soon to become one of\Nthe most powerful bosses in American
+Dialogue: 0,0:11:14.73,0:11:15.74,Doc,,0,0,0,,history.
+Dialogue: 0,0:11:15.79,0:11:19.20,Doc,,0,0,0,,Joseph Profaci and Joseph\NMagliocco of Brooklyn.
+Dialogue: 0,0:11:19.25,0:11:21.92,Doc,,0,0,0,,Santo Trafficante, with\Nhis interests in Havana.
+Dialogue: 0,0:11:21.97,0:11:25.08,Doc,,0,0,0,,Joseph Civello, representing Dallas.
+Dialogue: 0,0:11:25.13,0:11:27.00,Doc,,0,0,0,,Russell Bufalino, the organizer.
+Dialogue: 0,0:11:27.05,0:11:28.98,Doc,,0,0,0,,And their host, Joseph Barbara.
+Dialogue: 0,0:11:29.03,0:11:30.64,Doc,,0,0,0,,In a single afternoon,
+Dialogue: 0,0:11:30.69,0:11:34.12,Doc,,0,0,0,,a state trooper in a small town\Nhad done what the FBI had not.
+Dialogue: 0,0:11:34.17,0:11:37.72,Doc,,0,0,0,,He had put names, faces and\Naddresses to a national network.
+Dialogue: 0,0:11:37.77,0:11:39.10,Doc,,0,0,0,,Now came the hard part.
+Dialogue: 0,0:11:39.15,0:11:41.13,Doc,,0,0,0,,Explaining what they were all doing there.
+Dialogue: 0,0:11:43.05,0:11:45.08,Doc,,0,0,0,,Chapter Six. Visiting A Sick Friend.
+Dialogue: 0,0:11:45.13,0:11:49.04,Doc,,0,0,0,,At the barracks, the troopers asked\Neach man the same simple question.
+Dialogue: 0,0:11:49.09,0:11:50.60,Doc,,0,0,0,,Why are you in Apalachin?
+Dialogue: 0,0:11:50.65,0:11:52.38,Doc,,0,0,0,,And one by one, these men,
+Dialogue: 0,0:11:52.43,0:11:54.82,Doc,,0,0,0,,from different cities, different families,
+Dialogue: 0,0:11:54.87,0:11:58.28,Doc,,0,0,0,,different businesses, gave\Nremarkably similar answers.
+Dialogue: 0,0:11:58.33,0:12:00.48,Doc,,0,0,0,,They had come to visit an old friend.
+Dialogue: 0,0:12:00.53,0:12:02.50,Doc,,0,0,0,,Joseph Barbara had a heart condition.
+Dialogue: 0,0:12:02.55,0:12:04.16,Doc,,0,0,0,,They had heard he was unwell.
+Dialogue: 0,0:12:04.21,0:12:06.44,Doc,,0,0,0,,They stopped by to see how he was doing.
+Dialogue: 0,0:12:06.49,0:12:09.42,Doc,,0,0,0,,It was true that Barbara had suffered\Na heart attack the year before.
+Dialogue: 0,0:12:09.47,0:12:12.20,Doc,,0,0,0,,But the idea that dozens of men had all,
+Dialogue: 0,0:12:12.25,0:12:16.32,Doc,,0,0,0,,by coincidence, chosen the same Thursday\Nto check on his health was hard to
+Dialogue: 0,0:12:16.37,0:12:17.60,Doc,,0,0,0,,take seriously.
+Dialogue: 0,0:12:17.65,0:12:20.18,Doc,,0,0,0,,Some described themselves as businessmen.
+Dialogue: 0,0:12:20.23,0:12:21.56,Doc,,0,0,0,,Olive oil importers.
+Dialogue: 0,0:12:21.61,0:12:23.04,Doc,,0,0,0,,Dress manufacturers.
+Dialogue: 0,0:12:23.09,0:12:24.30,Doc,,0,0,0,,Restaurant owners.
+Dialogue: 0,0:12:24.35,0:12:26.18,Doc,,0,0,0,,Taxi company operators.
+Dialogue: 0,0:12:26.23,0:12:28.46,Doc,,0,0,0,,Together, according to later reports,
+Dialogue: 0,0:12:28.51,0:12:31.74,Doc,,0,0,0,,the men had criminal histories adding\Nup to more than two hundred and
+Dialogue: 0,0:12:31.79,0:12:35.00,Doc,,0,0,0,,seventy-five arrests and\Nover one hundred convictions.
+Dialogue: 0,0:12:35.05,0:12:37.30,Doc,,0,0,0,,And yet, the officers\Nfaced a real problem.
+Dialogue: 0,0:12:37.35,0:12:40.10,Doc,,0,0,0,,Attending a barbecue was not a crime.
+Dialogue: 0,0:12:40.15,0:12:42.22,Doc,,0,0,0,,Visiting a friend was not a crime.
+Dialogue: 0,0:12:42.27,0:12:45.08,Doc,,0,0,0,,Driving across state\Nlines was not a crime.
+Dialogue: 0,0:12:45.13,0:12:49.48,Doc,,0,0,0,,Running from a party was embarrassing,\Nbut it was not, by itself, a crime.
+Dialogue: 0,0:12:49.53,0:12:50.88,Doc,,0,0,0,,Croswell had their names.
+Dialogue: 0,0:12:50.93,0:12:52.12,Doc,,0,0,0,,He had their faces.
+Dialogue: 0,0:12:52.17,0:12:54.58,Doc,,0,0,0,,He had their addresses\Nand their license plates.
+Dialogue: 0,0:12:54.63,0:12:57.24,Doc,,0,0,0,,What he didn't have was\Na charge that would hold.
+Dialogue: 0,0:12:57.29,0:13:01.18,Doc,,0,0,0,,So, after they were identified and\Nquestioned, the men were released.
+Dialogue: 0,0:13:01.23,0:13:02.60,Doc,,0,0,0,,It looked like a defeat.
+Dialogue: 0,0:13:02.65,0:13:03.51,Doc,,0,0,0,,It wasn't.
+Dialogue: 0,0:13:04.16,0:13:06.65,Doc,,0,0,0,,Chapter Seven. The Fallout.
+Dialogue: 0,0:13:06.70,0:13:09.63,Doc,,0,0,0,,The next morning, the\Nstory was everywhere.
+Dialogue: 0,0:13:09.68,0:13:13.03,Doc,,0,0,0,,Newspapers across the country\Nran it on their front pages.
+Dialogue: 0,0:13:13.08,0:13:14.97,Doc,,0,0,0,,Reporters raced to Apalachin.
+Dialogue: 0,0:13:15.02,0:13:17.99,Doc,,0,0,0,,Photographers stood outside\Nthe stone house on the hill.
+Dialogue: 0,0:13:18.04,0:13:22.01,Doc,,0,0,0,,And Americans who had dismissed the\Nword "Mafia" as a movie cliché started
+Dialogue: 0,0:13:22.06,0:13:23.51,Doc,,0,0,0,,asking a question:
+Dialogue: 0,0:13:23.56,0:13:26.37,Doc,,0,0,0,,If all these men from all\Nthese cities knew each other,
+Dialogue: 0,0:13:26.42,0:13:28.97,Doc,,0,0,0,,and all came to the same\Nhouse on the same day...
+Dialogue: 0,0:13:29.02,0:13:30.93,Doc,,0,0,0,,what exactly were they part of?
+Dialogue: 0,0:13:30.98,0:13:33.93,Doc,,0,0,0,,The pressure landed squarely on the FBI.
+Dialogue: 0,0:13:33.98,0:13:37.69,Doc,,0,0,0,,The Federal Bureau of Narcotics\Nhad files on many of these men.
+Dialogue: 0,0:13:37.74,0:13:41.11,Doc,,0,0,0,,The FBI, by many accounts,\Nhad surprisingly little.
+Dialogue: 0,0:13:41.16,0:13:43.89,Doc,,0,0,0,,It was an embarrassment\NHoover could not ignore.
+Dialogue: 0,0:13:43.94,0:13:47.99,Doc,,0,0,0,,Within two weeks, on November 27th, 1957,
+Dialogue: 0,0:13:48.04,0:13:51.73,Doc,,0,0,0,,the Bureau sent out a directive expanding\Nwhat became known as the Top Hoodlum
+Dialogue: 0,0:13:51.78,0:13:52.93,Doc,,0,0,0,,Program.
+Dialogue: 0,0:13:52.98,0:13:56.49,Doc,,0,0,0,,Field offices across the country were\Ntold to identify the leading racketeers
+Dialogue: 0,0:13:56.54,0:14:00.73,Doc,,0,0,0,,in their territory and to gather\Nintelligence on them, systematically.
+Dialogue: 0,0:14:00.78,0:14:03.65,Doc,,0,0,0,,Historians still debate\Nhow new this really was.
+Dialogue: 0,0:14:03.70,0:14:08.49,Doc,,0,0,0,,The FBI had a smaller version of\Nthe program on paper since 1953.
+Dialogue: 0,0:14:08.54,0:14:12.73,Doc,,0,0,0,,But after Apalachin, the effort\Nchanged in scale and seriousness.
+Dialogue: 0,0:14:12.78,0:14:14.23,Doc,,0,0,0,,In the years that followed,
+Dialogue: 0,0:14:14.28,0:14:17.93,Doc,,0,0,0,,agents would use informants and hidden\Nmicrophones to listen inside the mob's
+Dialogue: 0,0:14:17.98,0:14:19.57,Doc,,0,0,0,,own meeting places.
+Dialogue: 0,0:14:19.62,0:14:21.19,Doc,,0,0,0,,Washington reacted too.
+Dialogue: 0,0:14:21.24,0:14:24.43,Doc,,0,0,0,,In the Senate, a young\Nlawyer named Robert F.
+Dialogue: 0,0:14:24.48,0:14:27.97,Doc,,0,0,0,,Kennedy, chief counsel of the committee\Ninvestigating labor racketeering,
+Dialogue: 0,0:14:28.02,0:14:31.09,Doc,,0,0,0,,saw Apalachin as proof of\Nwhat he had been arguing.
+Dialogue: 0,0:14:31.14,0:14:33.19,Doc,,0,0,0,,A national conspiracy existed.
+Dialogue: 0,0:14:33.24,0:14:36.41,Doc,,0,0,0,,He would carry that conviction with him\Nwhen he became Attorney General a few
+Dialogue: 0,0:14:36.46,0:14:37.57,Doc,,0,0,0,,years later.
+Dialogue: 0,0:14:37.62,0:14:39.21,Doc,,0,0,0,,As for the men themselves,
+Dialogue: 0,0:14:39.26,0:14:41.95,Doc,,0,0,0,,the government tried to make\NApalachin a criminal case.
+Dialogue: 0,0:14:42.00,0:14:46.79,Doc,,0,0,0,,In May 1959, a federal grand jury\Nindicted a group of the attendees.
+Dialogue: 0,0:14:46.84,0:14:48.79,Doc,,0,0,0,,The charge was not attending the meeting.
+Dialogue: 0,0:14:48.84,0:14:53.31,Doc,,0,0,0,,It was conspiracy to obstruct justice,\Nby lying about why they had been there.
+Dialogue: 0,0:14:53.36,0:14:55.99,Doc,,0,0,0,,That December, twenty men were convicted.
+Dialogue: 0,0:14:56.04,0:14:59.01,Doc,,0,0,0,,They received prison sentences\Nof three to five years,
+Dialogue: 0,0:14:59.06,0:15:02.97,Doc,,0,0,0,,and thirteen of them were also\Nfined ten thousand dollars each.
+Dialogue: 0,0:15:03.02,0:15:04.87,Doc,,0,0,0,,Prosecutors called it a landmark.
+Dialogue: 0,0:15:04.92,0:15:06.35,Doc,,0,0,0,,It didn't last.
+Dialogue: 0,0:15:06.40,0:15:08.75,Doc,,0,0,0,,On November 28th, 1960,
+Dialogue: 0,0:15:08.80,0:15:12.09,Doc,,0,0,0,,the United States Court of Appeals\Nfor the Second Circuit reversed every
+Dialogue: 0,0:15:12.14,0:15:13.07,Doc,,0,0,0,,conviction.
+Dialogue: 0,0:15:13.12,0:15:14.57,Doc,,0,0,0,,The reasoning was simple.
+Dialogue: 0,0:15:14.62,0:15:17.49,Doc,,0,0,0,,The government admitted it could not\Nprove what the meeting had actually been
+Dialogue: 0,0:15:17.54,0:15:18.45,Doc,,0,0,0,,about.
+Dialogue: 0,0:15:18.50,0:15:20.85,Doc,,0,0,0,,And if you cannot prove\Nwhat the meeting was for,
+Dialogue: 0,0:15:20.90,0:15:23.33,Doc,,0,0,0,,you cannot prove that\Nthe men lied about it.
+Dialogue: 0,0:15:23.38,0:15:27.09,Doc,,0,0,0,,Even some commentators who wanted the\Nmob behind bars agreed the charge had
+Dialogue: 0,0:15:27.14,0:15:28.29,Doc,,0,0,0,,been a stretch.
+Dialogue: 0,0:15:28.34,0:15:32.43,Doc,,0,0,0,,So, in the end, no one went to\Nprison for attending Apalachin.
+Dialogue: 0,0:15:32.48,0:15:34.54,Doc,,0,0,0,,But that was never really the point.
+Dialogue: 0,0:15:36.33,0:15:38.45,Doc,,0,0,0,,Chapter Eight. The\NTrooper Who Woke A Nation.
+Dialogue: 0,0:15:38.50,0:15:42.31,Doc,,0,0,0,,The meeting at Apalachin was supposed\Nto bring order to the underworld.
+Dialogue: 0,0:15:42.36,0:15:44.35,Doc,,0,0,0,,Instead, it brought daylight.
+Dialogue: 0,0:15:44.40,0:15:47.73,Doc,,0,0,0,,For the men involved, the\Nconsequences came in other ways.
+Dialogue: 0,0:15:47.78,0:15:52.19,Doc,,0,0,0,,Joseph Barbara, the host, found his\Nbusiness life collapsing under scrutiny.
+Dialogue: 0,0:15:52.24,0:15:55.15,Doc,,0,0,0,,He faced tax trouble,\Nlost his liquor license,
+Dialogue: 0,0:15:55.20,0:15:57.45,Doc,,0,0,0,,and saw his legitimate business suffer.
+Dialogue: 0,0:15:57.50,0:16:00.61,Doc,,0,0,0,,In June 1959, he died of a heart attack.
+Dialogue: 0,0:16:00.66,0:16:03.33,Doc,,0,0,0,,His estate on McFall Road was later sold.
+Dialogue: 0,0:16:03.38,0:16:07.63,Doc,,0,0,0,,Vito Genovese, the man many believe\Ncalled the meeting, did reach the top.
+Dialogue: 0,0:16:07.68,0:16:09.09,Doc,,0,0,0,,But not for long.
+Dialogue: 0,0:16:09.14,0:16:14.07,Doc,,0,0,0,,In 1959, he was convicted in a federal\Nnarcotics case and sentenced to fifteen
+Dialogue: 0,0:16:14.12,0:16:15.41,Doc,,0,0,0,,years in prison.
+Dialogue: 0,0:16:15.46,0:16:17.81,Doc,,0,0,0,,He would die behind bars a decade later.
+Dialogue: 0,0:16:17.86,0:16:21.19,Doc,,0,0,0,,Some in the underworld have long\Nwhispered that the case against him was
+Dialogue: 0,0:16:21.24,0:16:23.03,Doc,,0,0,0,,helped along by his own rivals.
+Dialogue: 0,0:16:23.08,0:16:24.47,Doc,,0,0,0,,That has never been proven.
+Dialogue: 0,0:16:24.52,0:16:26.27,Doc,,0,0,0,,And Sergeant Edgar Croswell?
+Dialogue: 0,0:16:26.32,0:16:30.13,Doc,,0,0,0,,He became, for a time, one of the\Nmost famous policemen in America.
+Dialogue: 0,0:16:30.18,0:16:32.81,Doc,,0,0,0,,A small-town investigator\Nwho trusted his instincts,
+Dialogue: 0,0:16:32.86,0:16:36.83,Doc,,0,0,0,,followed a few rooms in a motel and\Na meat order from a local butcher,
+Dialogue: 0,0:16:36.88,0:16:40.55,Doc,,0,0,0,,and exposed something the most powerful\Npolice agency in the country had
+Dialogue: 0,0:16:40.60,0:16:42.35,Doc,,0,0,0,,downplayed for decades.
+Dialogue: 0,0:16:42.40,0:16:46.23,Doc,,0,0,0,,The men at Apalachin had spent their\Nlives building an organization designed
+Dialogue: 0,0:16:46.28,0:16:47.59,Doc,,0,0,0,,to stay invisible.
+Dialogue: 0,0:16:47.64,0:16:48.79,Doc,,0,0,0,,No written records.
+Dialogue: 0,0:16:48.84,0:16:50.15,Doc,,0,0,0,,No public faces.
+Dialogue: 0,0:16:50.20,0:16:51.61,Doc,,0,0,0,,A code of silence.
+Dialogue: 0,0:16:51.66,0:16:54.53,Doc,,0,0,0,,And it all came undone\Nbecause a few dozen men,
+Dialogue: 0,0:16:54.58,0:16:57.19,Doc,,0,0,0,,in a moment of panic, ran into the woods.
+Dialogue: 0,0:16:57.24,0:17:00.99,Doc,,0,0,0,,After that day, the word\N"Mafia" was no longer a rumor.
+Dialogue: 0,0:17:01.04,0:17:02.15,Doc,,0,0,0,,It was a headline.
+Dialogue: 0,0:17:02.20,0:17:05.75,Doc,,0,0,0,,And the people hunting it now knew\Nexactly whose names to write down.
+Dialogue: 0,0:17:05.80,0:17:07.99,Doc,,0,0,0,,But the biggest blow was still to come.
+Dialogue: 0,0:17:08.04,0:17:09.21,Doc,,0,0,0,,Six years later,
+Dialogue: 0,0:17:09.26,0:17:13.39,Doc,,0,0,0,,a low-level soldier from Vito Genovese's\Nown family would sit in front of a
+Dialogue: 0,0:17:13.44,0:17:15.75,Doc,,0,0,0,,Senate committee, with\Ntelevision cameras rolling,
+Dialogue: 0,0:17:15.80,0:17:19.05,Doc,,0,0,0,,and do something no made\Nman had ever done in public.
+Dialogue: 0,0:17:19.10,0:17:21.77,Doc,,0,0,0,,He would describe the\Norganization from the inside.
+Dialogue: 0,0:17:21.82,0:17:22.71,Doc,,0,0,0,,Its ranks.
+Dialogue: 0,0:17:22.76,0:17:23.31,Doc,,0,0,0,,Its rituals.
+Dialogue: 0,0:17:23.36,0:17:24.79,Doc,,0,0,0,,Its name.
+Dialogue: 0,0:17:24.84,0:17:26.69,Doc,,0,0,0,,His name was Joseph Valachi.
+Dialogue: 0,0:17:26.74,0:17:27.19,Doc,,0,0,0,,And that...
+Dialogue: 0,0:17:27.24,0:17:30.07,Doc,,0,0,0,,is a story for the next Black Dossier.
+Dialogue: 0,0:17:30.12,0:17:33.33,Doc,,0,0,0,,If you want to see it, subscribe\Nand turn on notifications.
+Dialogue: 0,0:17:33.38,0:17:35.95,Doc,,0,0,0,,And tell me in the comments: which family,
+Dialogue: 0,0:17:36.00,0:17:38.73,Doc,,0,0,0,,which boss, or which\Ncase should we open next?
+Dialogue: 0,0:17:38.78,0:17:40.20,Doc,,0,0,0,,I'll see you in the next file.

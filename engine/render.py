@@ -181,7 +181,7 @@ def caption_layer(ctx, text):
     im = Image.new("RGBA", (ctx.W, ctx.H), (0, 0, 0, 0))
     d = ImageDraw.Draw(im)
     f = font("mono", ctx.px(30))
-    x, y = ctx.px(90), ctx.H - ctx.px(150)
+    x, y = ctx.px(90), ctx.px(80)  # top-left: the bottom of the frame belongs to the subtitles
     tw = d.textlength(text.upper(), font=f)
     d.rectangle([x - ctx.px(18), y - ctx.px(14), x + tw + ctx.px(18), y + ctx.px(48)], fill=(0, 0, 0, 150))
     d.rectangle([x - ctx.px(18), y - ctx.px(14), x - ctx.px(12), y + ctx.px(48)], fill=BRAND["red"] + (255,))
@@ -557,7 +557,11 @@ def render(ep_path, preview=False):
     grade = ep.get("grade", {})
     vf = (f"eq=contrast={grade.get('contrast', 1.08)}:saturation={grade.get('saturation', 0.72)}:gamma={grade.get('gamma', 0.97)},"
           f"colorbalance=rs=0.04:bs=-0.03:rh=0.02:bh=-0.02,"
-          f"noise=alls={grade.get('grain', 9)}:allf=t,vignette=angle=PI/4.5,format=yuv420p")
+          f"noise=alls={grade.get('grain', 9)}:allf=t,vignette=angle=PI/4.5")
+    if ep.get("subtitles"):
+        sub = ctx.path(ep["subtitles"]).replace("\\", "/").replace(":", "\\:").replace("'", "\\'")
+        vf += f",subtitles='{sub}'" + (":original_size=1920x1080" if preview else "")
+    vf += ",format=yuv420p"
     vcmd = ["ffmpeg", "-y", "-v", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(fps), "-i", "-",
             "-i", wav, "-vf", vf, "-c:v", "libx264", "-preset", "veryfast" if preview else "medium",
             "-crf", "26" if preview else "18", "-c:a", "aac", "-b:a", "256k", "-movflags", "+faststart", "-shortest", out]

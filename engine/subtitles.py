@@ -59,6 +59,35 @@ def two_lines(text):
     return best
 
 
+ASS_HEADER = """[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Doc,Inter SemiBold,44,&H0000E6FF,&H0000E6FF,&H00000000,&H96000000,0,0,0,0,100,100,0.5,0,1,2.4,1.2,2,200,200,62,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+"""
+
+
+def srt_to_ass(srt_path, ass_path):
+    """Yellow documentary subtitles: Inter SemiBold, 44 px at 1080p, black outline + soft shadow."""
+    def t(x):
+        h, m, rest = x.split(":"); sec, ms = rest.split(",")
+        return f"{int(h)}:{m}:{sec}.{ms[:2]}"
+    ev = []
+    for b in open(srt_path).read().strip().split("\n\n"):
+        l = b.split("\n")
+        a, z = l[1].split(" --> ")
+        ev.append(f"Dialogue: 0,{t(a)},{t(z)},Doc,,0,0,0,,{'\\N'.join(l[2:])}")
+    open(ass_path, "w").write(ASS_HEADER + "\n".join(ev) + "\n")
+
+
 def main(ep_path, script_dir, out_path):
     ep = json.load(open(ep_path))
     base = os.path.dirname(os.path.abspath(ep_path))
@@ -95,7 +124,8 @@ def main(ep_path, script_dir, out_path):
             lines.append(f"{n}\n{fmt(offset + lead + start)} --> {fmt(offset + lead + end)}\n{two_lines(text)}\n")
         offset += sum(s["dur"] for s in chap["shots"])
     open(out_path, "w").write("\n".join(lines))
-    print(f"{n} legendas -> {out_path}")
+    srt_to_ass(out_path, os.path.splitext(out_path)[0] + ".ass")
+    print(f"{n} legendas -> {out_path} (+ .ass para queimar no video)")
 
 
 if __name__ == "__main__":
