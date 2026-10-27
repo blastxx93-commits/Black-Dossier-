@@ -172,14 +172,14 @@ def cut_clip(url, length, clip, out_path, where=0.35, _retry=0):
     if r.returncode != 0:
         log(f"    corte falhou ({url.split('/')[-1][:50]}): {r.stderr.strip()[-200:]}")
         return None
-    if not os.path.exists(out_path) or os.path.getsize(out_path) < 50_000:
+    if not os.path.exists(out_path):
         return None
     # reject clips that open dark (fades, leaders, night titles): retry later in the film
     dark = [t for t in (0.5, clip / 2, clip - 1) if mean_brightness(out_path, t) < 14]
     if dark and _retry < 2 and length:
         log(f"    trecho escuro em {start:.0f}s, tentando mais adiante")
         return cut_clip(url, length, clip, out_path, min(0.85, where + 0.2), _retry + 1)
-    if len(dark) >= 2:
+    if len(dark) >= 2 or os.path.getsize(out_path) < 50_000:
         os.remove(out_path)
         return None
     return start
