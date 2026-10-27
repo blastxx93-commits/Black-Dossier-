@@ -1,0 +1,16 @@
+{
+ "model": "black-forest-labs/flux-1.1-pro-ultra", "raw": true, "n": 1,
+ "style": ", 1950s documentary photograph, black and white with slight sepia tone, film grain, muted, realistic",
+ "shots": [
+  {"id": "ai_prison_yard", "prompt": "Federal penitentiary yard in 1962, high stone walls and a guard tower, a few inmates in gray uniforms seen from far behind, construction materials and pipes stacked near a wall, overcast"},
+  {"id": "ai_initiation_table", "prompt": "Dim room in 1930, a wooden table lit by a single lamp, an old revolver and a dagger lying on the table, several men in dark suits standing around it, their faces lost in shadow"},
+  {"id": "ai_prison_cell", "prompt": "Small prison cell at night in the early 1960s, a man sitting on a narrow cot seen from behind, a barred window throwing stripes of light on the wall"},
+  {"id": "ai_capitol_marshals", "prompt": "A black government sedan arriving at the United States Capitol steps in September 1963, a line of men in dark suits and hats forming a guard, seen from behind and far away"},
+  {"id": "ai_hearing_room_cameras", "prompt": "Large ornate Senate hearing room in 1963 seen from the back, rows of spectators, bulky television cameras on tripods, a witness table far away under bright lights"},
+  {"id": "ai_bronx_restaurant", "prompt": "Small Italian restaurant on a Bronx street at night in 1953, warm light in the window, an empty sidewalk, a parked 1950s sedan, no readable signs"},
+  {"id": "ai_park_avenue_rain", "prompt": "Park Avenue in New York on a rainy night in October 1964, wet pavement reflecting streetlights, a vintage car at the curb with its door open, a lone figure walking away under an umbrella"},
+  {"id": "ai_handwritten_pages", "prompt": "Stack of handwritten pages on a metal prison desk, a pencil and a small lamp, 1960s, close up, shallow depth of field"},
+  {"id": "ai_tv_living_room", "prompt": "1963 living room seen from behind a family sitting on a sofa, a black and white television set glowing with a congressional hearing on screen, blurred"},
+  {"id": "ai_harlem_1910s", "prompt": "East Harlem street around 1915, tenement buildings with fire escapes, pushcarts and immigrant families, children playing, seen from a distance"}
+ ]
+}

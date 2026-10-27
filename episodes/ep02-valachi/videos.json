@@ -1,0 +1,20 @@
+{
+ "defaults": {"n": 3, "clip": 12, "years": [1920, 1970]},
+ "shots": [
+  {"id": "v_prison", "query": "prison", "alt": ["penitentiary", "prison yard", "convicts"], "years": [1935, 1965]},
+  {"id": "v_prison_cell", "query": "prison cell", "alt": ["jail", "inmates"], "years": [1935, 1965]},
+  {"id": "v_ny_1920s", "query": "New York City", "alt": ["Manhattan street", "New York traffic"], "years": [1920, 1935]},
+  {"id": "v_tenement", "query": "tenement", "alt": ["slums New York", "immigrants New York"], "years": [1920, 1940]},
+  {"id": "v_police_raid_1930s", "query": "police raid", "alt": ["gangsters", "racketeers", "crime"], "years": [1925, 1940]},
+  {"id": "v_coney_island", "query": "Coney Island", "years": [1925, 1945]},
+  {"id": "v_washington", "query": "Washington Capitol", "alt": ["United States Capitol", "Washington D.C."], "years": [1950, 1966]},
+  {"id": "v_senate_hearing", "query": "Senate hearing", "alt": ["congressional hearing", "Senate committee"], "years": [1950, 1966]},
+  {"id": "v_tv_family", "query": "television family", "alt": ["watching television", "TV set"], "years": [1950, 1966]},
+  {"id": "v_newspaper", "query": "newspaper", "alt": ["printing press newspaper", "newsstand"], "years": [1945, 1966]},
+  {"id": "v_night_city", "query": "city at night", "alt": ["night traffic neon", "rain night street"], "years": [1950, 1966]},
+  {"id": "v_atlanta", "query": "Atlanta", "years": [1945, 1966]},
+  {"id": "v_texas_desert", "query": "desert highway Texas", "alt": ["El Paso"], "years": [1945, 1972]},
+  {"id": "v_typewriter_office", "query": "typewriter", "alt": ["office typing"], "years": [1940, 1966]},
+  {"id": "v_courthouse", "query": "courthouse", "alt": ["trial", "judge"], "years": [1945, 1970]}
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "defaults": {"n": 3, "sources": ["commons", "loc", "openverse"]},
+ "shots": [
+  {"id": "valachi_portrait", "query": "Joseph Valachi", "alt": ["Joe Valachi 1963"], "n": 4},
+  {"id": "valachi_senate", "query": "Joseph Valachi Senate hearing 1963", "alt": ["Valachi testifying"], "n": 4},
+  {"id": "mcclellan", "query": "John L. McClellan senator", "alt": ["Senator McClellan 1963"]},
+  {"id": "rfk_1963", "query": "Robert F. Kennedy attorney general 1963", "alt": ["Robert Kennedy 1962"]},
+  {"id": "jfk_1963", "query": "John F. Kennedy 1963 portrait", "n": 2},
+  {"id": "maranzano", "query": "Salvatore Maranzano", "n": 2},
+  {"id": "masseria", "query": "Joe Masseria", "alt": ["Giuseppe Masseria"], "n": 2},
+  {"id": "bonanno", "query": "Joseph Bonanno", "alt": ["Joe Bonanno mobster"], "n": 3},
+  {"id": "reina", "query": "Gaetano Reina", "n": 2},
+  {"id": "strollo", "query": "Anthony Strollo", "alt": ["Tony Bender Strollo"], "n": 2},
+  {"id": "genovese", "query": "Vito Genovese", "n": 3},
+  {"id": "luciano", "query": "Lucky Luciano", "n": 3},
+  {"id": "atlanta_pen", "query": "Atlanta Federal Penitentiary", "alt": ["United States Penitentiary Atlanta"]},
+  {"id": "sing_sing", "query": "Sing Sing prison", "alt": ["Sing Sing Ossining 1920s"]},
+  {"id": "east_harlem", "query": "East Harlem 1910s street", "alt": ["Italian Harlem pushcart", "East Harlem tenement"]},
+  {"id": "new_york_1920s", "query": "New York street 1920s", "alt": ["Lower East Side 1920s"]},
+  {"id": "coney_island_1930s", "query": "Coney Island 1930s", "alt": ["Coney Island boardwalk 1931"]},
+  {"id": "capitol_1960s", "query": "United States Capitol 1963", "alt": ["United States Capitol 1960s"]},
+  {"id": "senate_caucus_room", "query": "Senate Caucus Room hearing", "alt": ["Russell Senate Office Building caucus room"]},
+  {"id": "us_marshals", "query": "United States Marshals 1960s", "alt": ["deputy U.S. marshals"]},
+  {"id": "tv_1960s", "query": "family watching television 1960s", "alt": ["television set 1963"]},
+  {"id": "slot_machines", "query": "slot machines destroyed 1930s", "alt": ["slot machine raid New York LaGuardia"]},
+  {"id": "numbers_racket", "query": "policy slips numbers racket", "alt": ["numbers game Harlem"]},
+  {"id": "peter_maas", "query": "Peter Maas journalist", "n": 2},
+  {"id": "la_tuna", "query": "La Tuna Federal Correctional Institution", "alt": ["Anthony Texas prison"], "n": 2},
+  {"id": "park_avenue_1960s", "query": "Park Avenue New York 1960s", "alt": ["Park Avenue night rain"]},
+  {"id": "hudson_river", "query": "Hudson River 1920s", "n": 2}
+ ]
+}
