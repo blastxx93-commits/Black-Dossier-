@@ -100,7 +100,7 @@ def main():
         sid = sh["id"]
         if only and sid not in only:
             continue
-        n = sh.get("n", spec.get("n", 2))
+        n = sh.get("n", spec.get("n", 1))
         if not a.force and a.existing and os.path.exists(os.path.join(a.existing, f"{sid}_1.jpg")):
             log.append(f"| `{sid}` | já existia, pulado |"); continue
         prompt = sh["prompt"].rstrip(". ") + style + GUARD

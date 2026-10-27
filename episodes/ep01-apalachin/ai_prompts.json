@@ -2,52 +2,43 @@
  "model": "black-forest-labs/flux-1.1-pro-ultra",
  "raw": true,
  "style": ", 1950s documentary photograph, black and white with slight sepia tone, film grain, overcast light, muted, realistic",
- "n": 2,
+ "n": 1,
  "shots": [
   {
    "id": "ch00_apalachin_meeting",
-   "prompt": "Stone farmhouse on a hilltop in rural upstate New York, November 1957, about a dozen long black 1950s sedans parked on the grass around it, small barbecue smoke rising behind the house, seen from the bottom of a muddy driveway",
-   "n": 2
+   "prompt": "Stone farmhouse on a hilltop in rural upstate New York, November 1957, about a dozen long black 1950s sedans parked on the grass around it, small barbecue smoke rising behind the house, seen from the bottom of a muddy driveway"
   },
   {
    "id": "ch00_pasture_woods",
-   "prompt": "Several men in dark overcoats and fedoras running across a muddy cow pasture toward a line of bare autumn woods, seen from far behind, no faces visible, wooden fence in foreground",
-   "n": 2
+   "prompt": "Several men in dark overcoats and fedoras running across a muddy cow pasture toward a line of bare autumn woods, seen from far behind, no faces visible, wooden fence in foreground"
   },
   {
    "id": "ch00_state_trooper",
-   "prompt": "1950s New York State Police patrol car parked on a rural country road, a uniformed trooper standing beside it seen from behind, campaign hat, bare trees, cold gray afternoon",
-   "n": 2
+   "prompt": "1950s New York State Police patrol car parked on a rural country road, a uniformed trooper standing beside it seen from behind, campaign hat, bare trees, cold gray afternoon"
   },
   {
    "id": "ch00_country_road",
-   "prompt": "Narrow muddy dirt road climbing a hill between farm fields in rural New York, late autumn, bare trees, stone wall along the side, empty, early afternoon",
-   "n": 2
+   "prompt": "Narrow muddy dirt road climbing a hill between farm fields in rural New York, late autumn, bare trees, stone wall along the side, empty, early afternoon"
   },
   {
    "id": "ch05_police_roadblock",
-   "prompt": "1950s police roadblock on a narrow country road: two state police cars angled across the road, a long black Cadillac stopped in front of them, troopers seen from behind, overcast November afternoon",
-   "n": 2
+   "prompt": "1950s police roadblock on a narrow country road: two state police cars angled across the road, a long black Cadillac stopped in front of them, troopers seen from behind, overcast November afternoon"
   },
   {
    "id": "ch06_police_barracks",
-   "prompt": "Interior of a small 1950s state police barracks: wooden desk with a typewriter and a black telephone, wooden bench along the wall, several men in expensive overcoats sitting on the bench seen from behind, fluorescent light",
-   "n": 2
+   "prompt": "Interior of a small 1950s state police barracks: wooden desk with a typewriter and a black telephone, wooden bench along the wall, several men in expensive overcoats sitting on the bench seen from behind, fluorescent light"
   },
   {
    "id": "ch03_park_sheraton",
-   "prompt": "Grand 1950s Manhattan hotel facade on Seventh Avenue, tall brick building with a canopy entrance, vintage cars and pedestrians on the sidewalk, no readable signs",
-   "n": 2
+   "prompt": "Grand 1950s Manhattan hotel facade on Seventh Avenue, tall brick building with a canopy entrance, vintage cars and pedestrians on the sidewalk, no readable signs"
   },
   {
    "id": "ch03_garment_district",
-   "prompt": "New York garment district street in the 1950s, workers pushing rolling racks of clothes along a crowded sidewalk, delivery trucks, tall loft buildings, no readable signs",
-   "n": 2
+   "prompt": "New York garment district street in the 1950s, workers pushing rolling racks of clothes along a crowded sidewalk, delivery trucks, tall loft buildings, no readable signs"
   },
   {
    "id": "ch03_tropicana_vegas",
-   "prompt": "Las Vegas casino strip at night in 1957, glowing neon signs (blurred, unreadable), vintage cars on the boulevard, desert hills dark in the background",
-   "n": 2
+   "prompt": "Las Vegas casino strip at night in 1957, glowing neon signs (blurred, unreadable), vintage cars on the boulevard, desert hills dark in the background"
   }
  ]
 }

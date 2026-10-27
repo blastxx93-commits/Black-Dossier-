@@ -49,7 +49,7 @@ Segredos: `FISH_API_KEY`, `FISH_VOICE_ID`. Opcional (variável): `FISH_MODEL` (p
 ## Agente de imagens IA (Replicate / Flux)
 Gera as cenas sem foto livre a partir de `episodes/<ep>/ai_prompts.json` (prompt por plano + estilo do canal).
 GitHub → Actions → **Gerar imagens IA** → Run workflow. Resultado: `ai/<plano>_<n>.jpg` + `ai_contact_sheet_*.jpg`.
-Padrão: Flux 1.1 Pro Ultra, 16:9 (~2752x1536), 2 opções por plano. Pula planos que já têm imagem.
+Padrão: Flux 1.1 Pro Ultra, 16:9 (~2752x1536), 1 opção por plano (economia; para refazer uma cena, rode de novo só com ela em "only" + "force"). Pula planos que já têm imagem.
 Regra: nunca rosto reconhecível de pessoa real (o agente reforça isso em todo prompt).
 Segredo: `REPLICATE_API_TOKEN`.
 
