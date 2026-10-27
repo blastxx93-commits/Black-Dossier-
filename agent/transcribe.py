@@ -4,7 +4,8 @@
 Usage: python3 agent/transcribe.py <audio_dir> <out_dir> [--model small.en]
 Writes <out_dir>/<name>.words.json: [{"w": "Apalachin", "s": 12.34, "e": 12.91}, ...]
 """
-import argparse, glob, json, os
+import argparse, glob, json, os, subprocess
+import numpy as np
 from faster_whisper import WhisperModel
 
 ap = argparse.ArgumentParser()
@@ -16,7 +17,10 @@ os.makedirs(a.out_dir, exist_ok=True)
 model = WhisperModel(a.model, device="cpu", compute_type="int8")
 for path in sorted(glob.glob(os.path.join(a.audio_dir, "*.mp3")) + glob.glob(os.path.join(a.audio_dir, "*.wav"))):
     name = os.path.splitext(os.path.basename(path))[0]
-    segs, info = model.transcribe(path, language="en", word_timestamps=True, beam_size=5,
+    pcm = subprocess.run(["ffmpeg", "-v", "error", "-i", path, "-ac", "1", "-ar", "16000", "-f", "f32le", "-"],
+                         check=True, capture_output=True).stdout
+    audio = np.frombuffer(pcm, dtype=np.float32)  # decode ourselves: avoids PyAV version issues
+    segs, info = model.transcribe(audio, language="en", word_timestamps=True, beam_size=5,
                                   vad_filter=False, condition_on_previous_text=True)
     words = []
     for seg in segs:
