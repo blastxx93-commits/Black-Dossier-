@@ -1,0 +1,2286 @@
+{
+ "output": "BlackDossier_EP02_Valachi.mp4",
+ "fps": 24,
+ "music": [
+  {
+   "file": "trilha.wav",
+   "start": 0,
+   "gain": -21,
+   "fade_in": 4,
+   "fade_out": 5
+  }
+ ],
+ "chapters": [
+  {
+   "audio": "audio/ch00_hook.flac",
+   "lead_in": 0,
+   "tail": 1.6,
+   "shots": [
+    {
+     "type": "typewriter",
+     "text": "JUNE 1962\nATLANTA FEDERAL PENITENTIARY",
+     "size": 60,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "fade_in": 0.6,
+     "dur": 4.24,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/vid/cellblock.mp4",
+     "fit": "blur",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.56,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_prison_cell_1.jpg",
+     "move": "in",
+     "dur": 2.1,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_prison_yard_1.jpg",
+     "move": "left",
+     "dur": 3.88,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/vid/cellblock.mp4",
+     "fit": "blur",
+     "start": 3,
+     "xfade": 0.35,
+     "dur": 2.08,
+     "fixed": true
+    },
+    {
+     "type": "black",
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "dur": 1.06,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "NOT A HIT MAN.\nNOT A MOBSTER.\nTHE WRONG MAN.",
+     "size": 64,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 7.3,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Joseph Valachi",
+     "label": "SOLDIER",
+     "fields": {
+      "Family": "Genovese",
+      "Years": "30"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "photo": "a/valachi_portrait/3_commons.jpg",
+     "focus": [
+      0.5,
+      0.25
+     ],
+     "dur": 8.82,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/genovese/1_commons.jpg",
+     "move": "in",
+     "focus": [
+      0.5,
+      0.15
+     ],
+     "dur": 1.82,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/rfk_1963/2_loc.jpg",
+     "move": "in",
+     "caption": "Attorney General Robert F. Kennedy",
+     "focus": [
+      0.5,
+      0.3
+     ],
+     "dur": 2.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_prison_cell_1.jpg",
+     "move": "in",
+     "dur": 2.94,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "He talks.",
+     "size": 170,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.0
+      }
+     ],
+     "dur": 0.98,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_capitol_marshals_1.jpg",
+     "move": "out",
+     "dur": 3.92,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_hearing_room_cameras_1.jpg",
+     "move": "in",
+     "dur": 1.32,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/valachi_portrait/2_commons.jpg",
+     "move": "out",
+     "focus": [
+      0.5,
+      0.4
+     ],
+     "dur": 1.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/valachi_portrait/3_commons.jpg",
+     "move": "in",
+     "focus": [
+      0.5,
+      0.3
+     ],
+     "dur": 3.22,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Cosa Nostra.",
+     "size": 170,
+     "dur": 1.54,
+     "fixed": true
+    },
+    {
+     "type": "black",
+     "dur": 2.78,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "Valachi",
+     "subtitle": "The man who named the Mafia",
+     "file": "FILE No. 002",
+     "stamp": "TOP SECRET",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/stamp.wav",
+       "gain": -19,
+       "at": 0.9
+      }
+     ],
+     "fade_out": 0.8,
+     "dur": 3.312,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch01.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "chapter",
+     "num": 1,
+     "title": "A boy from East Harlem",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 2.28,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_harlem_1910s_1.jpg",
+     "move": "in",
+     "caption": "East Harlem, New York",
+     "dur": 4.98,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_harlem_1910s_1.jpg",
+     "move": "left",
+     "dur": 8.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ep01/park_sheraton_ai.jpg",
+     "move": "left",
+     "dur": 3.24,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "THE MINUTEMEN\nSMASH. GRAB. GONE.",
+     "size": 70,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 8.32,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ep01/park_sheraton_ai.jpg",
+     "move": "left",
+     "dur": 2.22,
+     "fixed": true
+    },
+    {
+     "type": "document",
+     "text": "NEW YORK POLICE DEPARTMENT\n\nVALACHI, JOSEPH\n\n1921 — grand larceny\n1923 — attempted burglary\nSentence: Sing Sing",
+     "stamp": "ARREST RECORD",
+     "dur": 7.22,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/sing_sing/3_loc.jpg",
+     "move": "in",
+     "caption": "Sing Sing prison",
+     "dur": 3.26,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/vid/cellblock.mp4",
+     "fit": "blur",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.84,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_prison_cell_1.jpg",
+     "move": "in",
+     "dur": 8.44,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_prison_cell_1.jpg",
+     "move": "in",
+     "dur": 5.26,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "It sharpened it.",
+     "size": 130,
+     "dur": 3.08,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_harlem_1910s_1.jpg",
+     "move": "right",
+     "dur": 8.04,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_initiation_table_1.jpg",
+     "move": "in",
+     "dur": 6.72,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "NEW YORK\n1929",
+     "size": 90,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 4.56,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Joe Valachi",
+     "label": "RECRUIT",
+     "fields": {
+      "Age": "26"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 3.534,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch02.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "chapter",
+     "num": 2,
+     "title": "The war of 1930",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 2.94,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ep01/park_sheraton_ai.jpg",
+     "move": "left",
+     "dur": 5.98,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Joe Masseria",
+     "label": "BOSS",
+     "fields": {
+      "Title": "'Joe the Boss'"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "photo": "a/masseria/1_commons.jpg",
+     "focus": [
+      0.5,
+      0.3
+     ],
+     "dur": 5.76,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Salvatore Maranzano",
+     "label": "BOSS",
+     "fields": {
+      "Origin": "Castellammare del Golfo"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 5.86,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ep01/castellammare.jpg",
+     "move": "in",
+     "caption": "Castellammare del Golfo, Sicily",
+     "dur": 4.16,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "THE CASTELLAMMARESE WAR\n1930 – 1931",
+     "size": 64,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 2.52,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_bronx_restaurant_1.jpg",
+     "move": "in",
+     "dur": 6.18,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Gaetano Reina",
+     "label": "BOSS",
+     "fields": {
+      "Racket": "Ice, the Bronx"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 10.68,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Reina: killed, 1930.",
+     "size": 110,
+     "dur": 4.46,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "1932\nVALACHI MARRIES CARMELA REINA",
+     "size": 56,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 4.44,
+     "fixed": true
+    },
+    {
+     "type": "black",
+     "dur": 3.29,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Salvatore Maranzano",
+     "label": "HIS SIDE",
+     "fields": {},
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 2.69,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_initiation_table_1.jpg",
+     "move": "in",
+     "dur": 9.1,
+     "fixed": true
+    },
+    {
+     "type": "counter",
+     "to": 40,
+     "label": "men in the room",
+     "prefix": "~",
+     "suffix": "",
+     "dur": 2.14,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_initiation_table_1.jpg",
+     "move": "in",
+     "focus": [
+      0.6,
+      0.75
+     ],
+     "dur": 5.56,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_initiation_table_1.jpg",
+     "move": "out",
+     "dur": 4.6,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Joe Bonanno",
+     "label": "REMEMBER THIS NAME",
+     "fields": {},
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 3.76,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "\"You live by the gun and the knife,\nand you die by the gun and the knife.\"",
+     "size": 50,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 10.37,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "A made man.",
+     "size": 150,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.0
+      }
+     ],
+     "dur": 2.15,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/masseria/2_commons.jpg",
+     "move": "down",
+     "caption": "Daily News, 1931",
+     "focus": [
+      0.5,
+      0.1
+     ],
+     "dur": 6.5,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "CAPO DI TUTTI CAPI\nBOSS OF ALL BOSSES",
+     "size": 70,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 5.34,
+     "fixed": true
+    },
+    {
+     "type": "counter",
+     "to": 5,
+     "label": "months",
+     "prefix": "",
+     "suffix": "",
+     "dur": 1.88,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Salvatore Maranzano",
+     "label": "BOSS",
+     "fields": {},
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/stamp.wav",
+       "gain": -19,
+       "at": 1.2
+      }
+     ],
+     "stamp": "KILLED 1931",
+     "dur": 8.7,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ep01/luciano.jpg",
+     "move": "in",
+     "caption": "Charles 'Lucky' Luciano",
+     "focus": [
+      0.5,
+      0.3
+     ],
+     "dur": 2.61,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ep01/park_sheraton_ai.jpg",
+     "move": "left",
+     "dur": 9.19,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/genovese/1_commons.jpg",
+     "move": "in",
+     "focus": [
+      0.5,
+      0.15
+     ],
+     "dur": 2.114,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch03.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "chapter",
+     "num": 3,
+     "title": "Thirty years a soldier",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 2.24,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "1931 → 1959",
+     "size": 100,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 6.54,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Anthony Strollo",
+     "label": "CAPO",
+     "fields": {
+      "Alias": "Tony Bender"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 4.02,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_bronx_restaurant_1.jpg",
+     "move": "in",
+     "dur": 6.42,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_bronx_restaurant_1.jpg",
+     "move": "in",
+     "dur": 5.14,
+     "fixed": true
+    },
+    {
+     "type": "black",
+     "dur": 2.92,
+     "fixed": true
+    },
+    {
+     "type": "document",
+     "text": "FEDERAL BUREAU OF NARCOTICS\n\nVALACHI, JOSEPH\n\nSuspected of involvement in multiple homicides, 1930s–1950s.",
+     "stamp": "CONFIDENTIAL",
+     "dur": 9.72,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"I just go out and kill for them.\"",
+     "size": 100,
+     "dur": 1.72,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/valachi_portrait/1_commons.jpg",
+     "move": "left",
+     "focus": [
+      0.6,
+      0.5
+     ],
+     "dur": 8.14,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/valachi_portrait/3_commons.jpg",
+     "move": "out",
+     "focus": [
+      0.5,
+      0.3
+     ],
+     "dur": 6.18,
+     "fixed": true
+    },
+    {
+     "type": "timeline",
+     "items": [
+      [
+       "1930",
+       "The war"
+      ],
+      [
+       "1930",
+       "The initiation"
+      ],
+      [
+       "1931",
+       "Luciano rises"
+      ]
+     ],
+     "dur": 6.66,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/genovese/2_loc.jpg",
+     "move": "out",
+     "focus": [
+      0.5,
+      0.2
+     ],
+     "dur": 3.92,
+     "fixed": true
+    },
+    {
+     "type": "black",
+     "dur": 4.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/genovese/1_commons.jpg",
+     "move": "in",
+     "focus": [
+      0.5,
+      0.15
+     ],
+     "dur": 6.21,
+     "fixed": true
+    },
+    {
+     "type": "document",
+     "text": "ANNA GENOVESE v. VITO GENOVESE\n\nSuit for separate maintenance\n1952",
+     "dur": 9.43,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "JUNE 18, 1953\nTHE BRONX",
+     "size": 70,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 2.68,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_bronx_restaurant_1.jpg",
+     "move": "in",
+     "dur": 4.8,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "He never left.",
+     "size": 140,
+     "dur": 1.98,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/valachi_portrait/1_commons.jpg",
+     "move": "left",
+     "focus": [
+      0.6,
+      0.5
+     ],
+     "dur": 6.2,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_prison_cell_1.jpg",
+     "move": "in",
+     "dur": 6.198,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch04.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "chapter",
+     "num": 4,
+     "title": "The kiss",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 2.54,
+     "fixed": true
+    },
+    {
+     "type": "document",
+     "text": "UNITED STATES v. VALACHI\n\nNarcotics violation\nSentence: 15 years\n1959",
+     "stamp": "CONVICTED",
+     "dur": 6.9,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Vito Genovese",
+     "label": "BOSS",
+     "fields": {
+      "Sentence": "15 years"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/stamp.wav",
+       "gain": -19,
+       "at": 1.2
+      }
+     ],
+     "photo": "a/genovese/1_commons.jpg",
+     "focus": [
+      0.5,
+      0.15
+     ],
+     "stamp": "CONVICTED",
+     "dur": 10.74,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/vid/cellblock.mp4",
+     "fit": "blur",
+     "start": 0,
+     "xfade": 0.35,
+     "caption": "Atlanta, Georgia",
+     "dur": 4.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/vid/cellblock.mp4",
+     "fit": "blur",
+     "start": 3,
+     "xfade": 0.35,
+     "dur": 11.56,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/genovese/2_loc.jpg",
+     "move": "out",
+     "focus": [
+      0.5,
+      0.2
+     ],
+     "dur": 10.38,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_prison_cell_1.jpg",
+     "move": "in",
+     "dur": 5.54,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "\"A rotten apple has to be\nremoved from the barrel.\"",
+     "size": 54,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/genovese/1_commons.jpg",
+     "move": "in",
+     "focus": [
+      0.5,
+      0.15
+     ],
+     "dur": 2.86,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "The kiss of death.",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.0
+      }
+     ],
+     "dur": 2.18,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/vid/cellblock.mp4",
+     "fit": "blur",
+     "start": 1.5,
+     "xfade": 0.35,
+     "dur": 4.08,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_prison_yard_1.jpg",
+     "move": "right",
+     "dur": 1.96,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Joseph DiPalermo",
+     "label": "THE SUSPECT",
+     "fields": {},
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 6.32,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Anthony Strollo",
+     "label": "CAPO",
+     "fields": {
+      "Last seen": "April 1962"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/stamp.wav",
+       "gain": -19,
+       "at": 1.2
+      }
+     ],
+     "stamp": "MISSING",
+     "dur": 9.66,
+     "fixed": true
+    },
+    {
+     "type": "black",
+     "dur": 2.58,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_prison_yard_1.jpg",
+     "move": "in",
+     "dur": 4.02,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "JUNE 1962",
+     "size": 100,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 4.84,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_prison_yard_1.jpg",
+     "move": "in",
+     "focus": [
+      0.85,
+      0.7
+     ],
+     "dur": 2.14,
+     "fixed": true
+    },
+    {
+     "type": "black",
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.1
+      }
+     ],
+     "dur": 1.76,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "JOHN SAUPP\nNO TIES TO THE MAFIA",
+     "size": 70,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 8.1,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "The wrong man.",
+     "size": 150,
+     "dur": 2.34,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "MURDER CHARGE\nA PRICE ON HIS HEAD\nLIFE BEHIND BARS",
+     "size": 60,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 6.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_prison_cell_1.jpg",
+     "move": "in",
+     "dur": 2.402,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch05.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "chapter",
+     "num": 5,
+     "title": "The deal",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 2.18,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_prison_cell_1.jpg",
+     "move": "in",
+     "dur": 2.58,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/vid/cellblock.mp4",
+     "fit": "blur",
+     "start": 1.5,
+     "xfade": 0.35,
+     "dur": 10.96,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_capitol_marshals_1.jpg",
+     "move": "out",
+     "dur": 5.74,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "William Hundley",
+     "label": "JUSTICE DEPT.",
+     "fields": {
+      "Job": "Keep him alive"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 4.89,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/vid/newsroom.mp4",
+     "fit": "blur",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.11,
+     "fixed": true
+    },
+    {
+     "type": "counter",
+     "to": 100000,
+     "label": "the price on his head",
+     "prefix": "$",
+     "suffix": "",
+     "dur": 5.66,
+     "fixed": true
+    },
+    {
+     "type": "document",
+     "text": "UNITED STATES v. VALACHI\n\nKilling of John Saupp, Atlanta, 1962\n\nSentence: LIFE",
+     "stamp": "SENTENCED",
+     "dur": 5.34,
+     "fixed": true
+    },
+    {
+     "type": "timeline",
+     "items": [
+      [
+       "1930",
+       "The war"
+      ],
+      [
+       "1930",
+       "The ceremony"
+      ],
+      [
+       "1931-62",
+       "Who answered to whom"
+      ]
+     ],
+     "dur": 7.18,
+     "fixed": true
+    },
+    {
+     "type": "black",
+     "dur": 1.88,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/vid/journal_american.mp4",
+     "fit": "blur",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.42,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Cosa Nostra.",
+     "size": 170,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.0
+      }
+     ],
+     "dur": 1.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/rfk_1963/2_loc.jpg",
+     "move": "in",
+     "caption": "Attorney General Robert F. Kennedy",
+     "focus": [
+      0.5,
+      0.3
+     ],
+     "dur": 9.98,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/rfk_1963/3_commons.jpg",
+     "move": "in",
+     "focus": [
+      0.5,
+      0.3
+     ],
+     "dur": 2.76,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "\"The biggest single intelligence\nbreakthrough yet in combating\norganized crime and racketeering\nin the United States.\"",
+     "size": 46,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 8.2,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_handwritten_pages_1.jpg",
+     "move": "right",
+     "dur": 2.82,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_tv_living_room_1.jpg",
+     "move": "in",
+     "dur": 2.36,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_capitol_marshals_1.jpg",
+     "move": "out",
+     "dur": 3.58,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_hearing_room_cameras_1.jpg",
+     "move": "in",
+     "dur": 3.295,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch06.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "chapter",
+     "num": 6,
+     "title": "Live from the Senate",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 2.46,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/senate_caucus_room/1_commons.jpg",
+     "move": "in",
+     "focus": [
+      0.5,
+      0.35
+     ],
+     "caption": "U.S. Senate subcommittee",
+     "dur": 8.18,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_hearing_room_cameras_1.jpg",
+     "move": "in",
+     "dur": 2.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/rfk_1963/2_loc.jpg",
+     "move": "in",
+     "caption": "Attorney General Robert F. Kennedy",
+     "focus": [
+      0.5,
+      0.3
+     ],
+     "dur": 4.74,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/mcclellan/3_commons.jpg",
+     "move": "in",
+     "caption": "Sen. John L. McClellan",
+     "focus": [
+      0.5,
+      0.2
+     ],
+     "dur": 2.68,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "\"The existence of such a criminal\norganization as Cosa Nostra\nis frightening.\"",
+     "size": 50,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 5.18,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_capitol_marshals_1.jpg",
+     "move": "out",
+     "dur": 1.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/valachi_portrait/3_commons.jpg",
+     "move": "in",
+     "focus": [
+      0.5,
+      0.3
+     ],
+     "caption": "Joseph Valachi, September 1963",
+     "dur": 7.68,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/valachi_portrait/2_commons.jpg",
+     "move": "out",
+     "focus": [
+      0.5,
+      0.4
+     ],
+     "dur": 1.78,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/valachi_senate/4_commons.jpg",
+     "move": "right",
+     "focus": [
+      0.4,
+      0.4
+     ],
+     "dur": 4.38,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "BOSS\n│\nCAPOREGIME\n│\nSOLDIER",
+     "size": 60,
+     "dur": 7.78,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "THE COMMISSION",
+     "size": 100,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 3.68,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/valachi_senate/4_commons.jpg",
+     "move": "right",
+     "focus": [
+      0.4,
+      0.4
+     ],
+     "dur": 5.28,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/bonanno/3_commons.jpg",
+     "move": "in",
+     "caption": "Chart shown to the Senate, 1963",
+     "focus": [
+      0.5,
+      0.3
+     ],
+     "dur": 4.18,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_initiation_table_1.jpg",
+     "move": "in",
+     "dur": 7.14,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/valachi_portrait/1_commons.jpg",
+     "move": "left",
+     "focus": [
+      0.6,
+      0.5
+     ],
+     "dur": 10.12,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_tv_living_room_1.jpg",
+     "move": "in",
+     "dur": 1.98,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/genovese/2_loc.jpg",
+     "move": "out",
+     "focus": [
+      0.5,
+      0.2
+     ],
+     "dur": 7.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/valachi_portrait/2_commons.jpg",
+     "move": "out",
+     "focus": [
+      0.5,
+      0.4
+     ],
+     "dur": 13.08,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/valachi_portrait/3_commons.jpg",
+     "move": "in",
+     "focus": [
+      0.5,
+      0.3
+     ],
+     "dur": 5.42,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/mcclellan/3_commons.jpg",
+     "move": "in",
+     "caption": "Sen. John L. McClellan",
+     "focus": [
+      0.5,
+      0.2
+     ],
+     "dur": 8.96,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"Once you are in, you can't get out.\"",
+     "size": 100,
+     "dur": 2.18,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"They will hunt you.\"",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.0
+      }
+     ],
+     "dur": 1.36,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_tv_living_room_1.jpg",
+     "move": "in",
+     "dur": 8.44,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ep01/meeting_ai.jpg",
+     "move": "in",
+     "dur": 6.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/valachi_portrait/3_commons.jpg",
+     "move": "in",
+     "focus": [
+      0.5,
+      0.3
+     ],
+     "dur": 3.238,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch07.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "chapter",
+     "num": 7,
+     "title": "What changed, and what didn't",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 3.82,
+     "fixed": true
+    },
+    {
+     "type": "black",
+     "dur": 2.86,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Not a single boss went to prison.",
+     "size": 100,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.0
+      }
+     ],
+     "dur": 2.4,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/valachi_portrait/1_commons.jpg",
+     "move": "left",
+     "focus": [
+      0.6,
+      0.5
+     ],
+     "dur": 6.28,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_initiation_table_1.jpg",
+     "move": "in",
+     "dur": 5.28,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "William Hundley",
+     "label": "JUSTICE DEPT.",
+     "fields": {},
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 6.72,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "\"The most overrated thing\nsince the Communist Party.\"",
+     "size": 56,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 3.06,
+     "fixed": true
+    },
+    {
+     "type": "black",
+     "dur": 2.06,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "NOVEMBER 22, 1963\nDALLAS",
+     "size": 80,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 4.81,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/jfk_1963/1_commons.jpg",
+     "move": "down",
+     "focus": [
+      0.5,
+      0.2
+     ],
+     "dur": 3.59,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/rfk_1963/3_commons.jpg",
+     "move": "in",
+     "focus": [
+      0.5,
+      0.3
+     ],
+     "dur": 8.82,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/valachi_portrait/2_commons.jpg",
+     "move": "out",
+     "focus": [
+      0.5,
+      0.4
+     ],
+     "dur": 7.48,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "NEW YORK · DETROIT · CHICAGO\nTAMPA · BUFFALO",
+     "size": 60,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 7.52,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/senate_caucus_room/1_commons.jpg",
+     "move": "in",
+     "focus": [
+      0.5,
+      0.35
+     ],
+     "dur": 3.72,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/senate_caucus_room/1_commons.jpg",
+     "move": "in",
+     "focus": [
+      0.5,
+      0.35
+     ],
+     "dur": 3.88,
+     "fixed": true
+    },
+    {
+     "type": "timeline",
+     "items": [
+      [
+       "1968",
+       "Court-ordered wiretaps"
+      ],
+      [
+       "1970",
+       "RICO"
+      ],
+      [
+       "1971",
+       "Witness protection"
+      ]
+     ],
+     "dur": 10.88,
+     "fixed": true
+    },
+    {
+     "type": "document",
+     "text": "RACKETEER INFLUENCED AND\nCORRUPT ORGANIZATIONS ACT\n\nTitle IX, Organized Crime Control Act of 1970",
+     "dur": 6.22,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/bonanno/3_commons.jpg",
+     "move": "in",
+     "caption": "Chart shown to the Senate, 1963",
+     "focus": [
+      0.5,
+      0.3
+     ],
+     "dur": 5.16,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_prison_cell_1.jpg",
+     "move": "in",
+     "dur": 6.88,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "1971\nWITNESS SECURITY PROGRAM",
+     "size": 64,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 4.97,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_park_avenue_rain_1.jpg",
+     "move": "in",
+     "dur": 6.39,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/bonanno/3_commons.jpg",
+     "move": "in",
+     "caption": "Chart shown to the Senate, 1963",
+     "focus": [
+      0.5,
+      0.3
+     ],
+     "dur": 8.18,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "GENOVESE\nGAMBINO\nLUCCHESE\nBONANNO\nCOLOMBO",
+     "size": 64,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 5.76,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "The Five Families.",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.0
+      }
+     ],
+     "dur": 3.06,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/valachi_portrait/3_commons.jpg",
+     "move": "in",
+     "focus": [
+      0.5,
+      0.3
+     ],
+     "dur": 2.3,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/valachi_senate/4_commons.jpg",
+     "move": "right",
+     "focus": [
+      0.4,
+      0.4
+     ],
+     "dur": 2.856,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch08.flac",
+   "lead_in": 0,
+   "tail": 2.5,
+   "shots": [
+    {
+     "type": "chapter",
+     "num": 8,
+     "title": "The last soldier",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 1.98,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_prison_cell_1.jpg",
+     "move": "in",
+     "dur": 3.98,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/vid/cellblock.mp4",
+     "fit": "blur",
+     "start": 1.5,
+     "xfade": 0.35,
+     "dur": 8.52,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_handwritten_pages_1.jpg",
+     "move": "right",
+     "dur": 4.1,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "THE REAL THING",
+     "size": 90,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 6.86,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "THE VALACHI PAPERS\nPeter Maas, 1968",
+     "size": 70,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 8.98,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "1972\nA HOLLYWOOD FILM",
+     "size": 70,
+     "dur": 3.98,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Vito Genovese",
+     "label": "BOSS",
+     "fields": {
+      "Died": "In federal custody"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/stamp.wav",
+       "gain": -19,
+       "at": 1.2
+      }
+     ],
+     "photo": "a/genovese/1_commons.jpg",
+     "focus": [
+      0.5,
+      0.15
+     ],
+     "stamp": "DIED 1969",
+     "dur": 10.42,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "APRIL 3, 1971\nLA TUNA, TEXAS",
+     "size": 70,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 7.06,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Joseph Valachi",
+     "label": "SOLDIER",
+     "fields": {
+      "Died": "April 3, 1971"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/stamp.wav",
+       "gain": -19,
+       "at": 1.2
+      }
+     ],
+     "photo": "a/valachi_portrait/3_commons.jpg",
+     "focus": [
+      0.5,
+      0.25
+     ],
+     "stamp": "DECEASED",
+     "dur": 3.42,
+     "fixed": true
+    },
+    {
+     "type": "counter",
+     "to": 100000,
+     "label": "never collected",
+     "prefix": "$",
+     "suffix": "",
+     "dur": 2.34,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/valachi_portrait/3_commons.jpg",
+     "move": "in",
+     "focus": [
+      0.5,
+      0.3
+     ],
+     "dur": 5.32,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/genovese/1_commons.jpg",
+     "move": "in",
+     "focus": [
+      0.5,
+      0.15
+     ],
+     "dur": 4.98,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/valachi_portrait/1_commons.jpg",
+     "move": "left",
+     "focus": [
+      0.6,
+      0.5
+     ],
+     "dur": 2.26,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_initiation_table_1.jpg",
+     "move": "in",
+     "dur": 7.44,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_initiation_table_1.jpg",
+     "move": "in",
+     "focus": [
+      0.6,
+      0.75
+     ],
+     "dur": 2.2,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Joe Bonanno",
+     "label": "BOSS",
+     "fields": {
+      "Family": "Bonanno"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 1.04,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/bonanno/3_commons.jpg",
+     "move": "in",
+     "caption": "Chart shown to the Senate, 1963",
+     "focus": [
+      0.5,
+      0.3
+     ],
+     "dur": 6.3,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_park_avenue_rain_1.jpg",
+     "move": "in",
+     "dur": 6.12,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Vanished.",
+     "size": 170,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.0
+      }
+     ],
+     "dur": 1.94,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "\"KIDNAPPED.\"",
+     "size": 100,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 1.76,
+     "fixed": true
+    },
+    {
+     "type": "counter",
+     "to": 19,
+     "label": "months missing",
+     "prefix": "",
+     "suffix": "",
+     "dur": 4.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/bonanno/3_commons.jpg",
+     "move": "in",
+     "caption": "Chart shown to the Senate, 1963",
+     "focus": [
+      0.5,
+      0.3
+     ],
+     "dur": 5.28,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "Bonanno",
+     "subtitle": "Next on Black Dossier",
+     "file": "FILE No. 003",
+     "stamp": "NEXT",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/stamp.wav",
+       "gain": -19,
+       "at": 0.9
+      }
+     ],
+     "dur": 10.42,
+     "fixed": true
+    },
+    {
+     "type": "black",
+     "dur": 4.208,
+     "fixed": false,
+     "fade_out": 1.5
+    }
+   ]
+  }
+ ],
+ "subtitles": "BlackDossier_EP02_Valachi_EN.ass"
+}
