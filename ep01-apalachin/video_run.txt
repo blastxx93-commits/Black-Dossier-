@@ -1,33 +1,92 @@
-[     0s] ep01-apalachin: 3 planos de video
-[     3s]   v_fbi_gmen_1930s / archive: 0 filmes para 'FBI G-Men 1930s'
-[     5s]   v_fbi_gmen_1930s / commons: 0 filmes para 'FBI G-Men 1930s'
-[     9s]   v_fbi_gmen_1930s / archive: 0 filmes para 'Federal Bureau of Investigation 1930s newsreel'
-[    10s]   v_fbi_gmen_1930s / commons: 0 filmes para 'Federal Bureau of Investigation 1930s newsreel'
-[    18s]   v_fbi_gmen_1930s / archive: 4 filmes para 'FBI agents training'
-[    20s]   v_fbi_gmen_1930s / commons: 4 filmes para 'FBI agents training'
-[    32s]     + 1_archive.mp4 de 'Clips From "Your FBI," 1970\'s' a partir de 564s
-[    44s]     + 2_archive.mp4 de 'FBI Film: The Hostile Intelligence Threat' a partir de 167s
-[    54s]     + 3_archive.mp4 de '"The Hostile Intelligence Threat" 1980\'s Cold War FBI Traini' a partir de 149s
-[    69s]   v_new_york_1950s / archive: 8 filmes para 'New York City 1950s street'
-[    70s]   v_new_york_1950s / commons: 0 filmes para 'New York City 1950s street'
-[    80s]     + 1_archive.mp4 de 'To Market, To Market' a partir de 425s
-[    93s]     + 2_archive.mp4 de 'Bunker Hill 1956' a partir de 372s
-[   107s]     + 3_archive.mp4 de 'Opportunities Unlimited' a partir de 357s
-[   111s]   v_prohibition / archive: 0 filmes para 'Prohibition bootleg liquor raid'
-[   113s]   v_prohibition / commons: 0 filmes para 'Prohibition bootleg liquor raid'
-[   119s]   v_prohibition / archive: 3 filmes para 'prohibition newsreel'
-[   121s]   v_prohibition / commons: 0 filmes para 'prohibition newsreel'
-[   132s]     + 1_archive.mp4 de '[Fox Hour Promotional Film]' a partir de 203s
-[   143s]     + 2_archive.mp4 de 'Al Smith Hails End of Dry Law, 1933/11/13' a partir de 16s
-[   158s]     + 3_archive.mp4 de 'Newsreel Clip 1933' a partir de 69s
+[     0s] ep01-apalachin: 12 planos de video
+[     4s]   v_kefauver_hearing / archive: 1 filmes para 'Kefauver crime committee'
+[     5s]   v_kefauver_hearing / commons: 0 filmes para 'Kefauver crime committee'
+[    16s]     + 1_archive.mp4 de 'The Turning Point 1952 ★★★★ CC: Crime Film-Noir [1:25:25]' a partir de 1794s
+[    26s]   v_kefauver_hearing / archive: 6 filmes para 'Kefauver'
+[    28s]   v_kefauver_hearing / commons: 0 filmes para 'Kefauver'
+[    47s]     + 2_archive.mp4 de 'News Magazine of the Screen, The (Vol. 7, Issue 2)' a partir de 443s
+[    71s]     + 3_archive.mp4 de 'In Our Hands, Part 1: How We Got What We Have' a partir de 441s
+[    92s]   v_fbi_gmen_1930s / archive: 12 filmes para 'FBI'
+[    93s]   v_fbi_gmen_1930s / commons: 10 filmes para 'FBI'
+[   107s]     + 1_archive.mp4 de 'Forbidden Journey: Larry Moyer Goes to China, 1957' a partir de 812s
+[   119s]     + 2_archive.mp4 de 'Bookkeeping and Accounting' a partir de 220s
+[   138s]     + 3_archive.mp4 de 'Fire and Police Service' a partir de 217s
+[   155s]   v_new_york_1950s / archive: 11 filmes para 'New York City'
+[   158s]   v_new_york_1950s / commons: 10 filmes para 'New York City'
+[   171s]     + 1_archive.mp4 de 'News Highlights of 1960, 1960/12/31' a partir de 109s
+[   181s]     + 2_archive.mp4 de 'Remarkable New Aid To Navigation, 1937/05/12' a partir de 79s
+[   196s]     + 3_archive.mp4 de 'Reds Withdraw. Cut Down Troops in East Germany, 1956/06/25' a partir de 127s
+[   198s]   v_cars_1957 / archive: 0 filmes para '1957 Cadillac commercial'
+[   200s]   v_cars_1957 / commons: 1 filmes para '1957 Cadillac commercial'
+[   218s]     + 1_commons.mp4 de 'Detroit Today and Tomorrow - Detroit Clearing House and the ' a partir de 559s
+[   230s]   v_cars_1957 / archive: 7 filmes para '1950s automobile commercial'
+[   232s]   v_cars_1957 / commons: 3 filmes para '1950s automobile commercial'
+[   250s]     + 2_archive.mp4 de 'Corvair in Action, The' a partir de 136s
+[   263s]     + 3_archive.mp4 de 'Our Shrinking World' a partir de 218s
+[   267s]   v_prohibition / archive: 0 filmes para 'Prohibition bootleg liquor raid'
+[   268s]   v_prohibition / commons: 0 filmes para 'Prohibition bootleg liquor raid'
+[   273s]   v_prohibition / archive: 2 filmes para 'prohibition newsreel'
+[   275s]   v_prohibition / commons: 1 filmes para 'prohibition newsreel'
+[   285s]     + 1_archive.mp4 de '[Fox Hour Promotional Film]' a partir de 203s
+[   296s]     + 2_archive.mp4 de 'Al Smith Hails End of Dry Law, 1933/11/13' a partir de 16s
+[   307s]     + 3_commons.mp4 de '1933-11 Industry Booms After Repeal of Prohibition.ogv' a partir de 28s
+[   314s]   v_farm_1950s / archive: 3 filmes para 'dairy farm 1950s'
+[   315s]   v_farm_1950s / commons: 0 filmes para 'dairy farm 1950s'
+[   327s]     + 1_archive.mp4 de 'The Key to Dairy-Farm Sanitation' a partir de 492s
+[   340s]     + 2_archive.mp4 de 'Yankee Story, The' a partir de 674s
+[   360s]     + 3_archive.mp4 de '[Petaluma Chicken Promotional Film]' a partir de 78s
+[   365s]   v_newspaper_press / archive: 2 filmes para 'newspaper printing press 1950s'
+[   367s]   v_newspaper_press / commons: 0 filmes para 'newspaper printing press 1950s'
+[   378s]     + 1_archive.mp4 de 'Anyone at All: Safety in the Community' a partir de 471s
+[   398s]     + 2_archive.mp4 de 'Day of Thanksgiving, A' a partir de 262s
+[   416s]   v_newspaper_press / archive: 11 filmes para 'newspaper production film'
+[   417s]   v_newspaper_press / commons: 8 filmes para 'newspaper production film'
+[   433s]     + 3_archive.mp4 de 'Dateline: Long Island' a partir de 602s
+[   441s]   v_police_1950s / archive: 4 filmes para 'police patrol car 1950s'
+[   443s]   v_police_1950s / commons: 1 filmes para 'police patrol car 1950s'
+[   459s]     + 1_archive.mp4 de 'Freedom of the American Road (Part II)' a partir de 295s
+[   480s]     + 2_archive.mp4 de 'Signal 30 (Part I)' a partir de 274s
+[   493s]     + 3_archive.mp4 de 'Freeway Driving' a partir de 129s
+[   505s]   v_courtroom / archive: 8 filmes para 'courtroom 1950s film'
+[   507s]   v_courtroom / commons: 0 filmes para 'courtroom 1950s film'
+[   526s]     + 1_archive.mp4 de 'American Maker' a partir de 284s
+[   538s]     + 2_archive.mp4 de '[Caroline Mission]' a partir de 214s
+[   565s]     + 3_archive.mp4 de 'Black Marketing' a partir de 228s
+[   570s]   v_las_vegas_1950s / archive: 2 filmes para 'Las Vegas 1950s'
+[   571s]   v_las_vegas_1950s / commons: 1 filmes para 'Las Vegas 1950s'
+[   589s]     + 1_archive.mp4 de 'Operation Cue (1955)' a partir de 319s
+[   600s]     + 2_archive.mp4 de 'Helldorado (The Sheriff of Cochise)' a partir de 532s
+[   600s]     corte falhou (Admissibilit%C3%A9_des_sources_sur_Wikip%C3%A9dia.): es_sources_sur_Wikip%C3%A9dia.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   603s]   v_las_vegas_1950s / archive: 0 filmes para 'Las Vegas strip neon 1950s'
+[   605s]   v_las_vegas_1950s / commons: 0 filmes para 'Las Vegas strip neon 1950s'
+[   616s]   v_typewriter / archive: 6 filmes para 'typewriter typing close up'
+[   618s]   v_typewriter / commons: 1 filmes para 'typewriter typing close up'
+[   639s]     + 1_archive.mp4 de 'Consumers Want to Know (Part I)' a partir de 303s
+[   651s]     + 2_archive.mp4 de "Today's Chicks" a partir de 381s
+[   669s]     + 3_archive.mp4 de 'Consumers Want to Know (Part II)' a partir de 315s
+[   684s]   v_washington_dc / archive: 9 filmes para 'Washington D.C. 1950s'
+[   685s]   v_washington_dc / commons: 1 filmes para 'Washington D.C. 1950s'
+[   716s]     + 1_archive.mp4 de 'Special Days in February' a partir de 194s
+[   737s]     + 2_archive.mp4 de 'Welcome Guest in the House, A' a partir de 497s
+[   757s]     + 3_archive.mp4 de 'Telegram for America' a partir de 409s
 # Videos — ep01-apalachin
 
-- Planos: 3 · clipes: 9 · sem resultado: 0
-- Folhas: video_contact_sheet_1.jpg
+- Planos: 12 · clipes: 35 · sem resultado: 0
+- Folhas: video_contact_sheet_1.jpg, video_contact_sheet_2.jpg, video_contact_sheet_3.jpg, video_contact_sheet_4.jpg
 
 | plano | clipes |
 |---|---|
+| `v_kefauver_hearing` | 3 |
 | `v_fbi_gmen_1930s` | 3 |
 | `v_new_york_1950s` | 3 |
+| `v_cars_1957` | 3 |
 | `v_prohibition` | 3 |
+| `v_farm_1950s` | 3 |
+| `v_newspaper_press` | 3 |
+| `v_police_1950s` | 3 |
+| `v_courtroom` | 3 |
+| `v_las_vegas_1950s` | 2 |
+| `v_typewriter` | 3 |
+| `v_washington_dc` | 3 |
 
