@@ -54,6 +54,12 @@ def card(num, title):
     return {"type": "chapter", "num": num, "title": title, "sfx": [fx("whoosh")]}
 
 
+def subscribe(text="SUBSCRIBE", sub="New file every week"):
+    """CTA card in the channel style (after the hook and at the end)."""
+    return {"type": "title", "title": text, "subtitle": sub, "file": "BLACK DOSSIER", "stamp": "OPEN FILE",
+            "sfx": [fx("whoosh"), fx("stamp", 0.9)]}
+
+
 def black():
     return {"type": "black"}
 
@@ -90,7 +96,23 @@ def audio_dur(p):
                                           "-of", "csv=p=0", p]).strip())
 
 
-def build_episode(chapters, output, music="trilha.wav", music_gain=-21, final_fade=1.5):
+def check_no_repeats(ep, allow=()):
+    """Rule of the channel: no image, clip or AI scene may appear twice in an episode."""
+    seen, dup = {}, []
+    for ci, c in enumerate(ep["chapters"]):
+        for s in c["shots"]:
+            for k in ("src", "photo"):
+                f = s.get(k)
+                if not f or f in allow:
+                    continue
+                if f in seen:
+                    dup.append(f"{f}  (cap. {seen[f]} e cap. {ci})")
+                else:
+                    seen[f] = ci
+    return dup
+
+
+def build_episode(chapters, output, music="trilha.wav", music_gain=-21, final_fade=1.5, allow_repeat=()):
     out = {"output": output, "fps": 24,
            "music": [{"file": music, "start": 0, "gain": music_gain, "fade_in": 4, "fade_out": 5}],
            "chapters": []}
@@ -99,4 +121,7 @@ def build_episode(chapters, output, music="trilha.wav", music_gain=-21, final_fa
         sys.stderr.write(f"{c.name}: {len(c.cues)} planos, alinhamento {c.matched:.0%}"
                          + (f", NAO ACHEI: {c.misses}" if c.misses else "") + "\n")
     out["chapters"][-1]["shots"][-1]["fade_out"] = final_fade
+    dup = check_no_repeats(out, allow_repeat)
+    if dup:
+        sys.exit("IMAGENS REPETIDAS (regra do canal):\n  " + "\n  ".join(dup))
     return out

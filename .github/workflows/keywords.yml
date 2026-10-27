@@ -1,0 +1,34 @@
+name: Palavras-chave
+
+# Puxa as sugestões de busca do YouTube para o tema do episódio (demanda real) e publica no branch assets.
+on:
+  workflow_dispatch:
+    inputs:
+      episode:
+        description: "Pasta do episódio (ex.: ep03-bonanno)"
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  keywords:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: Buscar termos
+        continue-on-error: true
+        working-directory: main
+        run: python3 agent/keywords.py "${{ inputs.episode }}" --out ../out
+      - name: Publicar
+        if: ${{ !cancelled() }}
+        run: |
+          EP="${{ inputs.episode }}"
+          bash main/agent/publish_assets.sh "out/$EP" "$EP" "Palavras-chave: $EP"
