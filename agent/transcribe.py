@@ -4,7 +4,7 @@
 Usage: python3 agent/transcribe.py <audio_dir> <out_dir> [--model small.en]
 Writes <out_dir>/<name>.words.json: [{"w": "Apalachin", "s": 12.34, "e": 12.91}, ...]
 """
-import argparse, glob, json, os, subprocess
+import argparse, glob, json, os, shutil, subprocess
 import numpy as np
 from faster_whisper import WhisperModel
 
@@ -14,10 +14,14 @@ ap.add_argument("out_dir")
 ap.add_argument("--model", default="small.en")
 a = ap.parse_args()
 os.makedirs(a.out_dir, exist_ok=True)
+FFMPEG = shutil.which("ffmpeg")
+if not FFMPEG:  # newer runners ship without ffmpeg
+    import imageio_ffmpeg
+    FFMPEG = imageio_ffmpeg.get_ffmpeg_exe()
 model = WhisperModel(a.model, device="cpu", compute_type="int8")
 for path in sorted(glob.glob(os.path.join(a.audio_dir, "*.mp3")) + glob.glob(os.path.join(a.audio_dir, "*.wav"))):
     name = os.path.splitext(os.path.basename(path))[0]
-    pcm = subprocess.run(["ffmpeg", "-v", "error", "-i", path, "-ac", "1", "-ar", "16000", "-f", "f32le", "-"],
+    pcm = subprocess.run([FFMPEG, "-v", "error", "-i", path, "-ac", "1", "-ar", "16000", "-f", "f32le", "-"],
                          check=True, capture_output=True).stdout
     audio = np.frombuffer(pcm, dtype=np.float32)  # decode ourselves: avoids PyAV version issues
     segs, info = model.transcribe(audio, language="en", word_timestamps=True, beam_size=5,
