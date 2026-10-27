@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "/home/runner/work/Black-Dossier-/Black-Dossier-/main/agent/tts.py", line 75, in <module>
+    main()
+  File "/home/runner/work/Black-Dossier-/Black-Dossier-/main/agent/tts.py", line 64, in main
+    wav = synth(key, voice, model, text, a.speed)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Black-Dossier-/Black-Dossier-/main/agent/tts.py", line 36, in synth
+    raise RuntimeError(f"Fish Audio {r.status_code}: {r.text[:300]}")
+RuntimeError: Fish Audio 402: {"status":402,"message":"Insufficient API credit. API credit is managed independently from platform credit. Please visit https://fish.audio/app/developers to view your API credit balance or add funds."}
