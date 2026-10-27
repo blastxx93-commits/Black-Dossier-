@@ -1,22 +1,25 @@
 total 6204
-drwxr-xr-x  2 runner runner   4096 Oct 27 11:05 .
-drwxr-xr-x 43 runner runner   4096 Oct 27 11:05 ..
--rw-r--r--  1 runner runner 460341 Oct 27 11:05 ch00_hook.mp3
--rw-r--r--  1 runner runner 723645 Oct 27 11:05 ch01.mp3
--rw-r--r--  1 runner runner 784557 Oct 27 11:05 ch02.mp3
--rw-r--r--  1 runner runner 919557 Oct 27 11:05 ch03.mp3
--rw-r--r--  1 runner runner 384093 Oct 27 11:05 ch04.mp3
--rw-r--r--  1 runner runner 910269 Oct 27 11:05 ch05.mp3
--rw-r--r--  1 runner runner 489717 Oct 27 11:05 ch06.mp3
--rw-r--r--  1 runner runner 903141 Oct 27 11:05 ch07.mp3
--rw-r--r--  1 runner runner 750213 Oct 27 11:05 ch08.mp3
+drwxr-xr-x  2 runner runner   4096 Oct 27 11:06 .
+drwxr-xr-x 43 runner runner   4096 Oct 27 11:06 ..
+-rw-r--r--  1 runner runner 460341 Oct 27 11:06 ch00_hook.mp3
+-rw-r--r--  1 runner runner 723645 Oct 27 11:06 ch01.mp3
+-rw-r--r--  1 runner runner 784557 Oct 27 11:06 ch02.mp3
+-rw-r--r--  1 runner runner 919557 Oct 27 11:06 ch03.mp3
+-rw-r--r--  1 runner runner 384093 Oct 27 11:06 ch04.mp3
+-rw-r--r--  1 runner runner 910269 Oct 27 11:06 ch05.mp3
+-rw-r--r--  1 runner runner 489717 Oct 27 11:06 ch06.mp3
+-rw-r--r--  1 runner runner 903141 Oct 27 11:06 ch07.mp3
+-rw-r--r--  1 runner runner 750213 Oct 27 11:06 ch08.mp3
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
 Traceback (most recent call last):
-  File "/home/runner/work/Black-Dossier-/Black-Dossier-/main/agent/transcribe.py", line 8, in <module>
-    from faster_whisper import WhisperModel
-  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/faster_whisper/__init__.py", line 2, in <module>
-    from faster_whisper.transcribe import BatchedInferencePipeline, WhisperModel
-  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/faster_whisper/transcribe.py", line 22, in <module>
-    from faster_whisper.utils import download_model, format_timestamp, get_end, get_logger
-  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/faster_whisper/utils.py", line 8, in <module>
-    import requests
-ModuleNotFoundError: No module named 'requests'
+  File "/home/runner/work/Black-Dossier-/Black-Dossier-/main/agent/transcribe.py", line 19, in <module>
+    segs, info = model.transcribe(path, language="en", word_timestamps=True, beam_size=5,
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/faster_whisper/transcribe.py", line 834, in transcribe
+    audio = decode_audio(audio, sampling_rate=sampling_rate)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/faster_whisper/audio.py", line 46, in decode_audio
+    with av.open(input_file, mode="r", metadata_errors="ignore") as container:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "av/container/core.py", line 479, in av.container.core.open
+TypeError: open() got an unexpected keyword argument 'metadata_errors'
