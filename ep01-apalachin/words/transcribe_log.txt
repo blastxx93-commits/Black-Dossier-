@@ -1,25 +1,22 @@
 total 6204
-drwxr-xr-x  2 runner runner   4096 Oct 27 11:07 .
-drwxr-xr-x 43 runner runner   4096 Oct 27 11:07 ..
--rw-r--r--  1 runner runner 460341 Oct 27 11:07 ch00_hook.mp3
--rw-r--r--  1 runner runner 723645 Oct 27 11:07 ch01.mp3
--rw-r--r--  1 runner runner 784557 Oct 27 11:07 ch02.mp3
--rw-r--r--  1 runner runner 919557 Oct 27 11:07 ch03.mp3
--rw-r--r--  1 runner runner 384093 Oct 27 11:07 ch04.mp3
--rw-r--r--  1 runner runner 910269 Oct 27 11:07 ch05.mp3
--rw-r--r--  1 runner runner 489717 Oct 27 11:07 ch06.mp3
--rw-r--r--  1 runner runner 903141 Oct 27 11:07 ch07.mp3
--rw-r--r--  1 runner runner 750213 Oct 27 11:07 ch08.mp3
+drwxr-xr-x  2 runner runner   4096 Oct 27 11:08 .
+drwxr-xr-x 43 runner runner   4096 Oct 27 11:08 ..
+-rw-r--r--  1 runner runner 460341 Oct 27 11:08 ch00_hook.mp3
+-rw-r--r--  1 runner runner 723645 Oct 27 11:08 ch01.mp3
+-rw-r--r--  1 runner runner 784557 Oct 27 11:08 ch02.mp3
+-rw-r--r--  1 runner runner 919557 Oct 27 11:08 ch03.mp3
+-rw-r--r--  1 runner runner 384093 Oct 27 11:08 ch04.mp3
+-rw-r--r--  1 runner runner 910269 Oct 27 11:08 ch05.mp3
+-rw-r--r--  1 runner runner 489717 Oct 27 11:08 ch06.mp3
+-rw-r--r--  1 runner runner 903141 Oct 27 11:08 ch07.mp3
+-rw-r--r--  1 runner runner 750213 Oct 27 11:08 ch08.mp3
 Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
-Traceback (most recent call last):
-  File "/home/runner/work/Black-Dossier-/Black-Dossier-/main/agent/transcribe.py", line 20, in <module>
-    pcm = subprocess.run(["ffmpeg", "-v", "error", "-i", path, "-ac", "1", "-ar", "16000", "-f", "f32le", "-"],
-          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/subprocess.py", line 548, in run
-    with Popen(*popenargs, **kwargs) as process:
-         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/subprocess.py", line 1026, in __init__
-    self._execute_child(args, executable, preexec_fn, close_fds,
-  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/subprocess.py", line 1955, in _execute_child
-    raise child_exception_type(errno_num, err_msg, err_filename)
-FileNotFoundError: [Errno 2] No such file or directory: 'ffmpeg'
+ch00_hook: 209 palavras, 76.6s
+ch01: 323 palavras, 120.5s
+ch02: 383 palavras, 130.6s
+ch03: 417 palavras, 153.1s
+ch04: 195 palavras, 63.9s
+ch05: 447 palavras, 151.6s
+ch06: 236 palavras, 81.5s
+ch07: 430 palavras, 150.4s
+ch08: 375 palavras, 124.9s
