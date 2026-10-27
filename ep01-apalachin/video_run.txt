@@ -1,144 +1,33 @@
-[     0s] ep01-apalachin: 12 planos de video
-[     0s]   v_kefauver_hearing / archive: 0 filmes para 'Kefauver crime committee'
-[     1s]   v_kefauver_hearing / commons: 0 filmes para 'Kefauver crime committee'
-[     2s]   v_kefauver_hearing / archive: 0 filmes para 'Kefauver hearing 1951'
-[     2s]   v_kefauver_hearing / commons: 0 filmes para 'Kefauver hearing 1951'
-[     3s]   v_kefauver_hearing / archive: 0 filmes para 'Frank Costello hearing'
-[     3s]   v_kefauver_hearing / commons: 0 filmes para 'Frank Costello hearing'
-[     4s]   v_fbi_gmen_1930s / archive: 0 filmes para 'FBI G-Men 1930s'
-[     4s]   v_fbi_gmen_1930s / commons: 0 filmes para 'FBI G-Men 1930s'
-[     5s]   v_fbi_gmen_1930s / archive: 0 filmes para 'Federal Bureau of Investigation 1930s newsreel'
-[     6s]   v_fbi_gmen_1930s / commons: 0 filmes para 'Federal Bureau of Investigation 1930s newsreel'
-[     6s]   v_fbi_gmen_1930s / archive: 0 filmes para 'FBI agents training'
-[     7s]   v_fbi_gmen_1930s / commons: 4 filmes para 'FBI agents training'
-[     7s]     corte falhou: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/imageio_ffmpeg/binaries/ffmpeg-linux-x86
-[     7s]     corte falhou: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/imageio_ffmpeg/binaries/ffmpeg-linux-x86
-[     7s]     corte falhou: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/imageio_ffmpeg/binaries/ffmpeg-linux-x86
-[     8s]     corte falhou: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/imageio_ffmpeg/binaries/ffmpeg-linux-x86
-[     8s]   v_new_york_1950s / archive: 0 filmes para 'New York City 1950s street'
-[     8s]   v_new_york_1950s / commons: 0 filmes para 'New York City 1950s street'
-[     9s]   v_new_york_1950s / archive: 0 filmes para 'Manhattan traffic 1950s'
-[     9s]   v_new_york_1950s / commons: 0 filmes para 'Manhattan traffic 1950s'
-[    10s]   v_new_york_1950s / archive: 0 filmes para 'New York 1957'
-[    11s]   v_new_york_1950s / commons: 4 filmes para 'New York 1957'
-[    11s]     corte falhou: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/imageio_ffmpeg/binaries/ffmpeg-linux-x86
-[    11s]     corte falhou: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/imageio_ffmpeg/binaries/ffmpeg-linux-x86
-[    11s]     corte falhou: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/imageio_ffmpeg/binaries/ffmpeg-linux-x86
-[    11s]     corte falhou: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/imageio_ffmpeg/binaries/ffmpeg-linux-x86
-[    12s]   v_cars_1957 / archive: 0 filmes para '1957 Cadillac commercial'
-[    12s]   v_cars_1957 / commons: 1 filmes para '1957 Cadillac commercial'
-[    13s]     corte falhou: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/imageio_ffmpeg/binaries/ffmpeg-linux-x86
-[    13s]   v_cars_1957 / archive: 0 filmes para '1950s automobile commercial'
-[    17s]   ! commons.wikimedia.org: 429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=195
-[    17s]   v_cars_1957 / commons: 0 filmes para '1950s automobile commercial'
-[    17s]   v_cars_1957 / archive: 0 filmes para 'new car 1957'
-[    21s]   ! commons.wikimedia.org: 429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=new
-[    21s]   v_cars_1957 / commons: 0 filmes para 'new car 1957'
-[    22s]   v_prohibition / archive: 0 filmes para 'Prohibition bootleg liquor raid'
-[    26s]   ! commons.wikimedia.org: 429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=Pro
-[    26s]   v_prohibition / commons: 0 filmes para 'Prohibition bootleg liquor raid'
-[    26s]   v_prohibition / archive: 0 filmes para 'prohibition newsreel'
-[    30s]   ! commons.wikimedia.org: 429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=pro
-[    30s]   v_prohibition / commons: 0 filmes para 'prohibition newsreel'
-[    30s]   v_prohibition / archive: 0 filmes para 'speakeasy raid'
-[    34s]   ! commons.wikimedia.org: 429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=spe
-[    34s]   v_prohibition / commons: 0 filmes para 'speakeasy raid'
-[    35s]   v_farm_1950s / archive: 0 filmes para 'dairy farm 1950s'
-[    39s]   ! commons.wikimedia.org: 429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=dai
-[    39s]   v_farm_1950s / commons: 0 filmes para 'dairy farm 1950s'
-[    39s]   v_farm_1950s / archive: 0 filmes para 'farm life 1950s film'
-[    44s]   ! commons.wikimedia.org: 429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=far
-[    44s]   v_farm_1950s / commons: 0 filmes para 'farm life 1950s film'
-[    44s]   v_farm_1950s / archive: 0 filmes para 'rural America 1950s'
-[    48s]   ! commons.wikimedia.org: 429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=rur
-[    48s]   v_farm_1950s / commons: 0 filmes para 'rural America 1950s'
-[    48s]   v_newspaper_press / archive: 0 filmes para 'newspaper printing press 1950s'
-[    52s]   ! commons.wikimedia.org: 429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=new
-[    52s]   v_newspaper_press / commons: 0 filmes para 'newspaper printing press 1950s'
-[    53s]   v_newspaper_press / archive: 0 filmes para 'newspaper production film'
-[    53s]   v_newspaper_press / commons: 8 filmes para 'newspaper production film'
-[    54s]     corte falhou: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/imageio_ffmpeg/binaries/ffmpeg-linux-x86
-[    54s]     corte falhou: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/imageio_ffmpeg/binaries/ffmpeg-linux-x86
-[    54s]     corte falhou: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/imageio_ffmpeg/binaries/ffmpeg-linux-x86
-[    54s]     corte falhou: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/imageio_ffmpeg/binaries/ffmpeg-linux-x86
-[    54s]     corte falhou: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/imageio_ffmpeg/binaries/ffmpeg-linux-x86
-[    55s]     corte falhou: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/imageio_ffmpeg/binaries/ffmpeg-linux-x86
-[    55s]     corte falhou: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/imageio_ffmpeg/binaries/ffmpeg-linux-x86
-[    55s]     corte falhou: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/imageio_ffmpeg/binaries/ffmpeg-linux-x86
-[    56s]   v_newspaper_press / archive: 0 filmes para 'how a newspaper is made'
-[    57s]   v_newspaper_press / commons: 10 filmes para 'how a newspaper is made'
-[    57s]     corte falhou: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/imageio_ffmpeg/binaries/ffmpeg-linux-x86
-[    57s]     corte falhou: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/imageio_ffmpeg/binaries/ffmpeg-linux-x86
-[    57s]     corte falhou: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/imageio_ffmpeg/binaries/ffmpeg-linux-x86
-[    57s]     corte falhou: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/imageio_ffmpeg/binaries/ffmpeg-linux-x86
-[    58s]     corte falhou: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/imageio_ffmpeg/binaries/ffmpeg-linux-x86
-[    58s]     corte falhou: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/imageio_ffmpeg/binaries/ffmpeg-linux-x86
-[    58s]     corte falhou: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/imageio_ffmpeg/binaries/ffmpeg-linux-x86
-[    58s]     corte falhou: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/imageio_ffmpeg/binaries/ffmpeg-linux-x86
-[    59s]     corte falhou: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/imageio_ffmpeg/binaries/ffmpeg-linux-x86
-[    59s]     corte falhou: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/imageio_ffmpeg/binaries/ffmpeg-linux-x86
-[    59s]   v_police_1950s / archive: 0 filmes para 'police patrol car 1950s'
-[    60s]   v_police_1950s / commons: 1 filmes para 'police patrol car 1950s'
-[    60s]     corte falhou: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/imageio_ffmpeg/binaries/ffmpeg-linux-x86
-[    60s]   v_police_1950s / archive: 0 filmes para 'state trooper 1950s'
-[    61s]   v_police_1950s / commons: 0 filmes para 'state trooper 1950s'
-[    61s]   v_police_1950s / archive: 0 filmes para 'highway patrol film 1950s'
-[    62s]   v_police_1950s / commons: 1 filmes para 'highway patrol film 1950s'
-[    62s]     corte falhou: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/imageio_ffmpeg/binaries/ffmpeg-linux-x86
-[    63s]   v_courtroom / archive: 0 filmes para 'courtroom 1950s film'
-[    64s]   v_courtroom / commons: 0 filmes para 'courtroom 1950s film'
-[    64s]   v_courtroom / archive: 0 filmes para 'trial courtroom newsreel'
-[    65s]   v_courtroom / commons: 1 filmes para 'trial courtroom newsreel'
-[    66s]     corte falhou: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/imageio_ffmpeg/binaries/ffmpeg-linux-x86
-[    66s]   v_las_vegas_1950s / archive: 0 filmes para 'Las Vegas 1950s'
-[    67s]   v_las_vegas_1950s / commons: 1 filmes para 'Las Vegas 1950s'
-[    67s]     corte falhou: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/imageio_ffmpeg/binaries/ffmpeg-linux-x86
-[    67s]   v_las_vegas_1950s / archive: 0 filmes para 'Las Vegas strip neon 1950s'
-[    68s]   v_las_vegas_1950s / commons: 0 filmes para 'Las Vegas strip neon 1950s'
-[    68s]   v_typewriter / archive: 0 filmes para 'typewriter typing close up'
-[    69s]   v_typewriter / commons: 1 filmes para 'typewriter typing close up'
-[    69s]     corte falhou: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/imageio_ffmpeg/binaries/ffmpeg-linux-x86
-[    69s]   v_typewriter / archive: 0 filmes para 'office typewriter 1950s'
-[    73s]   ! commons.wikimedia.org: 429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=off
-[    73s]   v_typewriter / commons: 0 filmes para 'office typewriter 1950s'
-[    73s]   v_washington_dc / archive: 0 filmes para 'Washington D.C. 1950s'
-[    78s]   ! commons.wikimedia.org: 429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=Was
-[    78s]   v_washington_dc / commons: 0 filmes para 'Washington D.C. 1950s'
-[    78s]   v_washington_dc / archive: 0 filmes para 'Capitol Washington 1950s newsreel'
-[    82s]   ! commons.wikimedia.org: 429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=Cap
-[    82s]   v_washington_dc / commons: 0 filmes para 'Capitol Washington 1950s newsreel'
+[     0s] ep01-apalachin: 3 planos de video
+[     3s]   v_fbi_gmen_1930s / archive: 0 filmes para 'FBI G-Men 1930s'
+[     5s]   v_fbi_gmen_1930s / commons: 0 filmes para 'FBI G-Men 1930s'
+[     9s]   v_fbi_gmen_1930s / archive: 0 filmes para 'Federal Bureau of Investigation 1930s newsreel'
+[    10s]   v_fbi_gmen_1930s / commons: 0 filmes para 'Federal Bureau of Investigation 1930s newsreel'
+[    18s]   v_fbi_gmen_1930s / archive: 4 filmes para 'FBI agents training'
+[    20s]   v_fbi_gmen_1930s / commons: 4 filmes para 'FBI agents training'
+[    32s]     + 1_archive.mp4 de 'Clips From "Your FBI," 1970\'s' a partir de 564s
+[    44s]     + 2_archive.mp4 de 'FBI Film: The Hostile Intelligence Threat' a partir de 167s
+[    54s]     + 3_archive.mp4 de '"The Hostile Intelligence Threat" 1980\'s Cold War FBI Traini' a partir de 149s
+[    69s]   v_new_york_1950s / archive: 8 filmes para 'New York City 1950s street'
+[    70s]   v_new_york_1950s / commons: 0 filmes para 'New York City 1950s street'
+[    80s]     + 1_archive.mp4 de 'To Market, To Market' a partir de 425s
+[    93s]     + 2_archive.mp4 de 'Bunker Hill 1956' a partir de 372s
+[   107s]     + 3_archive.mp4 de 'Opportunities Unlimited' a partir de 357s
+[   111s]   v_prohibition / archive: 0 filmes para 'Prohibition bootleg liquor raid'
+[   113s]   v_prohibition / commons: 0 filmes para 'Prohibition bootleg liquor raid'
+[   119s]   v_prohibition / archive: 3 filmes para 'prohibition newsreel'
+[   121s]   v_prohibition / commons: 0 filmes para 'prohibition newsreel'
+[   132s]     + 1_archive.mp4 de '[Fox Hour Promotional Film]' a partir de 203s
+[   143s]     + 2_archive.mp4 de 'Al Smith Hails End of Dry Law, 1933/11/13' a partir de 16s
+[   158s]     + 3_archive.mp4 de 'Newsreel Clip 1933' a partir de 69s
 # Videos — ep01-apalachin
 
-- Planos: 12 · clipes: 0 · sem resultado: 12
-- Folhas: 
-
-## Sem video livre (usar foto/IA)
-
-- `v_kefauver_hearing`
-- `v_fbi_gmen_1930s`
-- `v_new_york_1950s`
-- `v_cars_1957`
-- `v_prohibition`
-- `v_farm_1950s`
-- `v_newspaper_press`
-- `v_police_1950s`
-- `v_courtroom`
-- `v_las_vegas_1950s`
-- `v_typewriter`
-- `v_washington_dc`
+- Planos: 3 · clipes: 9 · sem resultado: 0
+- Folhas: video_contact_sheet_1.jpg
 
 | plano | clipes |
 |---|---|
-| `v_kefauver_hearing` | 0 |
-| `v_fbi_gmen_1930s` | 0 |
-| `v_new_york_1950s` | 0 |
-| `v_cars_1957` | 0 |
-| `v_prohibition` | 0 |
-| `v_farm_1950s` | 0 |
-| `v_newspaper_press` | 0 |
-| `v_police_1950s` | 0 |
-| `v_courtroom` | 0 |
-| `v_las_vegas_1950s` | 0 |
-| `v_typewriter` | 0 |
-| `v_washington_dc` | 0 |
+| `v_fbi_gmen_1930s` | 3 |
+| `v_new_york_1950s` | 3 |
+| `v_prohibition` | 3 |
 
