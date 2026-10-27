@@ -40,6 +40,19 @@ Só aceita domínio público, CC0, CC BY e CC BY-SA (nada de NC/ND), com mínimo
 
 Planos sem resultado aparecem no relatório: esses viram imagem gerada por IA ou arquivo enviado por você.
 
+## Agente de narração (Fish Audio)
+Gera a voz de cada capítulo a partir de `episodes/<ep>/narration/*.txt` e já transcreve palavra por palavra.
+GitHub → Actions → **Gerar narração** → Run workflow → pasta do episódio. Resultado no branch `assets`:
+`narration_audio/*.flac` (edição), `audio/*.mp3` e `words/*.words.json` (sincronia).
+Segredos: `FISH_API_KEY`, `FISH_VOICE_ID`. Opcional (variável): `FISH_MODEL` (padrão `s2.1-pro`).
+
+## Agente de imagens IA (Replicate / Flux)
+Gera as cenas sem foto livre a partir de `episodes/<ep>/ai_prompts.json` (prompt por plano + estilo do canal).
+GitHub → Actions → **Gerar imagens IA** → Run workflow. Resultado: `ai/<plano>_<n>.jpg` + `ai_contact_sheet_*.jpg`.
+Padrão: Flux 1.1 Pro Ultra, 16:9 (~2752x1536), 2 opções por plano. Pula planos que já têm imagem.
+Regra: nunca rosto reconhecível de pessoa real (o agente reforça isso em todo prompt).
+Segredo: `REPLICATE_API_TOKEN`.
+
 ## O que enviar para editar
 - Áudios da narração (MP3/WAV), nomeados ch00_hook, ch01 … ch08.
 - Imagens: domínio público (Library of Congress, FBI Vault, NARA, Wikimedia Commons) ou geradas por IA. Nomeie pelo plano do roteiro (ex.: farm_dusk.jpg).
