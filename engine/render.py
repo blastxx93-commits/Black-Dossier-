@@ -609,5 +609,86 @@ def render(ep_path, preview=False):
     return out
 
 
+def render_resumable(ep_path, seg_shots=20, final_preset="veryfast", final_crf="21"):
+    """Render in segments cached on disk, so an interrupted render resumes where it stopped.
+    Subtitles and the audio mix are applied in one final pass over the joined segments."""
+    ep = json.load(open(ep_path))
+    base = os.path.dirname(os.path.abspath(ep_path))
+    W, H = tuple(ep.get("size", [1920, 1080]))
+    fps = ep.get("fps", 24)
+    ctx = Ctx(W, H, fps, base)
+    timeline, audio, total = build_timeline(ep, ctx)
+    out = ctx.path(ep.get("output", "out.mp4"))
+    cache = os.path.join(base, ".render_cache")
+    os.makedirs(cache, exist_ok=True)
+    print(f"[render] {len(timeline)} shots, {total/60:.2f} min, {W}x{H}@{fps} (por partes)", flush=True)
+    wav = os.path.join(cache, "mix.wav")
+    if not os.path.exists(wav):
+        tmp = tempfile.mkdtemp(prefix="bd_")
+        mix_audio(ep, ctx, audio, timeline, total, wav + ".part.wav", tmp)
+        os.replace(wav + ".part.wav", wav)
+        shutil.rmtree(tmp, ignore_errors=True)
+    grade = ep.get("grade", {})
+    vf = (f"eq=contrast={grade.get('contrast', 1.08)}:saturation={grade.get('saturation', 0.72)}:gamma={grade.get('gamma', 0.97)},"
+          f"colorbalance=rs=0.04:bs=-0.03:rh=0.02:bh=-0.02,"
+          f"noise=alls={grade.get('grain', 9)}:allf=t,vignette=angle=PI/4.5,format=yuv420p")
+    segs = [timeline[i:i + seg_shots] for i in range(0, len(timeline), seg_shots)]
+    total_frames = sum(nf for _, nf, _ in timeline)
+    done = 0
+    files = []
+    for k, seg in enumerate(segs):
+        fp = os.path.join(cache, f"seg_{k:03d}.mp4")
+        last_png = os.path.join(cache, f"seg_{k:03d}_last.png")
+        files.append(fp)
+        nfr = sum(nf for _, nf, _ in seg)
+        if os.path.exists(fp) and os.path.exists(last_png):
+            done += nfr
+            print(f"[render] parte {k + 1}/{len(segs)} ja pronta", flush=True)
+            continue
+        prev_png = os.path.join(cache, f"seg_{k - 1:03d}_last.png")
+        prev_last = Image.open(prev_png).convert("RGB") if k and os.path.exists(prev_png) else None
+        part = fp + ".part.mp4"
+        vcmd = ["ffmpeg", "-y", "-v", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(fps), "-i", "-",
+                "-vf", vf, "-c:v", "libx264", "-preset", "veryfast", "-crf", "14", "-an", part]
+        p = subprocess.Popen(vcmd, stdin=subprocess.PIPE)
+        last = None
+        for (s, nf, start) in seg:
+            xf = int(s.get("xfade", 0.5 if s["type"] == "image" else 0) * fps)
+            for i, fr in enumerate(SHOTS[s["type"]](ctx, s, nf)):
+                if fr.size != (W, H):
+                    fr = fr.resize((W, H), Image.BICUBIC)
+                if prev_last is not None and i < xf:
+                    fr = Image.blend(prev_last, fr, ease((i + 1) / (xf + 1)))
+                if i < s.get("fade_in", 0) * fps:
+                    fr = Image.blend(blank(ctx), fr, (i + 1) / (s["fade_in"] * fps + 1))
+                if nf - i <= s.get("fade_out", 0) * fps:
+                    fr = Image.blend(blank(ctx), fr, (nf - i) / (s["fade_out"] * fps + 1))
+                p.stdin.write(fr.tobytes())
+                last = fr
+            prev_last = last
+            done += nf
+            print(f"[render] {done}/{total_frames} frames", flush=True)
+        p.stdin.close(); p.wait()
+        os.replace(part, fp)
+        last.save(last_png)
+        print(f"[render] parte {k + 1}/{len(segs)} salva", flush=True)
+    lst = os.path.join(cache, "list.txt")
+    open(lst, "w").write("".join(f"file '{f}'\n" for f in files))
+    fvf = "format=yuv420p"
+    if ep.get("subtitles"):
+        sub = ctx.path(ep["subtitles"]).replace("\\", "/").replace(":", "\\:").replace("'", "\\'")
+        fvf = f"subtitles='{sub}',format=yuv420p"
+    print("[render] juntando partes + audio + legendas...", flush=True)
+    subprocess.run(["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", lst, "-i", wav, "-vf", fvf,
+                    "-c:v", "libx264", "-preset", final_preset, "-crf", final_crf, "-c:a", "aac", "-b:a", "192k",
+                    "-movflags", "+faststart", "-shortest", out + ".part.mp4"], check=True)
+    os.replace(out + ".part.mp4", out)
+    print(f"[render] done -> {out}")
+    return out
+
+
 if __name__ == "__main__":
-    render(sys.argv[1], preview="--preview" in sys.argv)
+    if "--resume" in sys.argv:
+        render_resumable(sys.argv[1])
+    else:
+        render(sys.argv[1], preview="--preview" in sys.argv)
