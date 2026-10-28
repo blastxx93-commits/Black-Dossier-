@@ -130,6 +130,34 @@
    "raw": false,
    "style": ". Bold digital comic illustration for a YouTube thumbnail, thick clean ink outlines, cel shading, saturated colors, crisp and high contrast, bright clear daylight sky, composition: character on the LEFT third, large empty clean sky on the upper right for a title.",
    "prompt": "Waist-up portrait of an invented 1960s New York mafia boss, silver-haired, stern and secretive expression, dark charcoal overcoat over a navy suit, white shirt, deep red tie, grey fedora, standing on the left; behind him on the right Park Avenue in Manhattan in 1964 with its tall office towers and a big glass skyscraper at the end of the avenue, yellow 1960s taxis, a long black 1960s sedan with its back door open waiting at the curb"
+  },
+  {
+   "id": "ai_ocean_dark",
+   "prompt": "Dark cold ocean water at night seen from a boat, rope and an anchor chain disappearing into the black water, 1965, ominous"
+  },
+  {
+   "id": "ai_brooklyn_1965",
+   "prompt": "Brooklyn street corner in winter 1965, a social club with fogged windows, three men in overcoats and hats talking seen from far behind, parked 1960s sedans, steam from a manhole"
+  },
+  {
+   "id": "ai_book_desk",
+   "prompt": "A thick hardcover memoir with a plain dark cover lying on a wooden desk in a 1983 law office, a yellow legal pad with handwritten notes beside it, desk lamp, no readable text"
+  },
+  {
+   "id": "ai_prison_1985",
+   "prompt": "Long federal prison corridor in 1985, an elderly man in a cardigan seen from far behind walking slowly with a guard, cold fluorescent light"
+  },
+  {
+   "id": "ai_montreal_1964",
+   "prompt": "Old Montreal street at night in winter 1964, snow, stone buildings, street lamps, a 1960s police car parked, empty sidewalks"
+  },
+  {
+   "id": "ai_fbi_agent_desert",
+   "prompt": "A man in a white shirt and narrow tie standing next to a 1968 sedan on a dark desert road outside Tucson at night, seen from behind, the distant lights of the city, saguaro silhouettes"
+  },
+  {
+   "id": "ai_desert_dawn_1968",
+   "prompt": "Sonoran desert outside Tucson at dawn in 1968, saguaro cactus, a lonely two-lane road, a distant ranch house, soft light"
   }
  ]
 }
