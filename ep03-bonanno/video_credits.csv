@@ -1,55 +1,93 @@
 file,shot,source,license,author,title,page,start_sec,query
-video/v_rain_night/1_archive.mp4,v_rain_night,archive,Public domain (prelinger),,Tuesday in November,https://archive.org/details/Tuesdayi1945,357.1,rain night city
-video/v_rain_night/2_archive.mp4,v_rain_night,archive,Public domain (prelinger),,American Engineer (Part II),https://archive.org/details/American1956_2,145.0,rain night city
-video/v_rain_night/3_archive.mp4,v_rain_night,archive,Public domain (prelinger),,American Engineer (Part I),https://archive.org/details/American1956,195.3,rain night city
-video/v_park_avenue/1_archive.mp4,v_park_avenue,archive,Public domain (prelinger),,[UC Berkeley outtakes],https://archive.org/details/UC_Berkeley_outtakes,569.0,Park Avenue
-video/v_park_avenue/2_archive.mp4,v_park_avenue,archive,Public domain (prelinger),,Miracle on the Delaware,https://archive.org/details/Miracleo1955,200.0,Park Avenue
-video/v_park_avenue/3_archive.mp4,v_park_avenue,archive,Public domain (prelinger),,American Engineer (Part III),https://archive.org/details/American1956_3,185.3,Park Avenue
-video/v_taxi/1_archive.mp4,v_taxi,archive,Public domain (prelinger),,Flying Businessman,https://archive.org/details/Flying_Businessman,275.7,taxi New York
-video/v_taxi/2_archive.mp4,v_taxi,archive,Public domain (prelinger),,Letter to A Pilot,https://archive.org/details/0740_Letter_to_A_Pilot_21_27_50_01,481.7,taxi New York
-video/v_taxi/3_archive.mp4,v_taxi,archive,http://creativecommons.org/publicdomain/zero/1.0/,,62 12 18 The Jack Benny Program S 13e 12 Jack And The Crying Cab Driver,https://archive.org/details/621218TheJackBennyProgramS13e12JackAndTheCryingCabDriver,483.5,taxi New York
-video/v_car_night/1_archive.mp4,v_car_night,archive,Public domain (prelinger),,"News Magazine of the Screen, The (Vol. 7, Issue 3)",https://archive.org/details/0098_News_Magazine_of_the_Screen_The_Vol_7_Issue_3_10_00_44_00,456.5,car driving night
-video/v_car_night/2_archive.mp4,v_car_night,archive,Public domain (prelinger),,Two-Ford Freedom,https://archive.org/details/0807_Two-Ford_Freedom_07_20_49_00,36.1,car driving night
-video/v_car_night/3_archive.mp4,v_car_night,archive,Public domain (prelinger),,To the Fair,https://archive.org/details/0105_To_the_Fair_17_31_23_00,556.0,car driving night
-video/v_gw_bridge/1_archive.mp4,v_gw_bridge,archive,Public domain (prelinger),,"[Amateur film: Wathen collection: Greenwich Village, New York Snowstorm, and Coney Island]",https://archive.org/details/Wathenco1944,310.1,George Washington Bridge
-video/v_gw_bridge/2_archive.mp4,v_gw_bridge,archive,Public domain (universal_newsreels),,"Victorious Generals Welcomed, 1945/06/11",https://archive.org/details/1945-06-11_Victorious_Generals_Welcomed,154.7,George Washington Bridge
-video/v_gw_bridge/3_archive.mp4,v_gw_bridge,archive,Public domain (prelinger),,"Nation at Your Fingertips, The",https://archive.org/details/Nationat1951,228.6,George Washington Bridge
-video/v_sicily/1_archive.mp4,v_sicily,archive,Public domain (prelinger),,"[News Magazine of the Screen, January 1951]",https://archive.org/details/0098_News_Magazine_of_the_Screen_January_1951_10_22_33_00,404.7,Sicily
-video/v_sicily/2_archive.mp4,v_sicily,archive,Public domain (prelinger),,"[News Magazine of the Screen, January 1951]",https://archive.org/details/NewsMaga1951,402.5,Sicily
-video/v_sicily/3_archive.mp4,v_sicily,archive,Public domain (prelinger),,War Department Report,https://archive.org/details/200727_War_Department_Report,972.7,Sicily
-video/v_immigrants/1_commons.mp4,v_immigrants,commons,Public domain,Alfred C. Abadie,Emigrants (i.e. immigrants) landing at Ellis Island -.webm,https://commons.wikimedia.org/wiki/File:Emigrants_(i.e._immigrants)_landing_at_Ellis_Island_-.webm,51.3,immigrants arriving
-video/v_immigrants/2_commons.mp4,v_immigrants,commons,CC0,National Archives and Records Administration,Immigrant to America.ogv,https://commons.wikimedia.org/wiki/File:Immigrant_to_America.ogv,440.7,immigrants arriving
-video/v_immigrants/3_archive.mp4,v_immigrants,archive,https://creativecommons.org/publicdomain/mark/1.0/,,"Arrival of emigrants [i.e. immigrants], Ellis Island",https://archive.org/details/loc-film-00694368-arrival-of-emigrants-i-e-immigrants-ellis-island,79.6,Ellis Island
-video/v_prohibition/1_archive.mp4,v_prohibition,archive,Public domain (prelinger),,[Fox Hour Promotional Film],https://archive.org/details/0971FoxHourPromotionalFilm,203.1,prohibition
-video/v_prohibition/2_archive.mp4,v_prohibition,archive,Public domain (prelinger),,"Sensation Seekers, The",https://archive.org/details/6200_Sensation_Seekers_The_01_01_05_13,316.6,prohibition
-video/v_prohibition/3_archive.mp4,v_prohibition,archive,Public domain (universal_newsreels),,"Al Smith Hails End of Dry Law, 1933/11/13",https://archive.org/details/1933-11-13_Al_Smith_Hails_End_of_Dry_Law,15.6,prohibition
-video/v_ny_1930/1_archive.mp4,v_ny_1930,archive,Public domain (prelinger),,[Home Movies: Unidentified],https://archive.org/details/0930_HM_Unidentified_00_26_22_21,665.8,New York City
-video/v_ny_1930/2_archive.mp4,v_ny_1930,archive,Public domain (prelinger),,"[Home Movies: Laubscher Collection: Transcontinental Trip, 1930]",https://archive.org/details/6074_HM_Laubscher_Collection_Transcontinental_Trip_1930_23_10_55_00,430.8,New York City
-video/v_ny_1930/3_archive.mp4,v_ny_1930,archive,Public domain (prelinger),,Housing in Our Time,https://archive.org/details/0918_Housing_in_Our_Time_00_01_03_11,683.8,New York City
-video/v_wedding/1_archive.mp4,v_wedding,archive,Public domain (prelinger),,"Home Movie: 97477: St. Louis Area Family, Reel 9",https://archive.org/details/HMStLouisAreaFami97477,933.7,wedding
-video/v_wedding/2_archive.mp4,v_wedding,archive,Public domain (prelinger),,Community Development with Gunnison Homes,https://archive.org/details/0818_Community_Development_with_Gunnison_Homes_C09131_06_18_31_00,362.3,wedding
-video/v_wedding/3_archive.mp4,v_wedding,archive,Public domain (prelinger),,"Home Economics Story, The",https://archive.org/details/0159_Home_Economics_Story_The_E00036_01_16_28_00,526.9,wedding
-video/v_montreal/1_archive.mp4,v_montreal,archive,Public domain (universal_newsreels),,"Flood Relief. President Inspects Area and Speeds Aid, 1955/08/25",https://archive.org/details/1955-08-25_Flood_Relief,91.5,Montreal
-video/v_montreal/2_archive.mp4,v_montreal,archive,Public domain (prelinger),,"Captain Brown, Harbor Pilot",https://archive.org/details/0743_Captain_Brown_Harbor_Pilot_E00103_18_01_01_00,232.1,Montreal
-video/v_montreal/3_archive.mp4,v_montreal,archive,Public domain (prelinger),,Expo 67,https://archive.org/details/Expo_67,619.8,Montreal
-video/v_newspaper_press/1_archive.mp4,v_newspaper_press,archive,Public domain (prelinger),,Dateline: Long Island,https://archive.org/details/0515_Dateline_Long_Island_04_00_59_26,601.5,newspaper printing
-video/v_newspaper_press/2_archive.mp4,v_newspaper_press,archive,Public domain (prelinger),,Build Your Vocabulary,https://archive.org/details/BuildYou1948,222.8,newspaper printing
-video/v_newspaper_press/3_archive.mp4,v_newspaper_press,archive,Public domain (prelinger),,Our Enemy: The Japanese,https://archive.org/details/0228_Our_Enemy_The_Japanese_22_15_19_00,422.8,newspaper printing
-video/v_police_car/1_archive.mp4,v_police_car,archive,Public domain (prelinger),,"Dropout, The",https://archive.org/details/0763_Dropout_The_02_26_58_24,223.9,police
-video/v_police_car/2_archive.mp4,v_police_car,archive,Public domain (prelinger),,[Home movie: 098948: Michigan scenes late 1960s],https://archive.org/details/098948,327.8,police
-video/v_police_car/3_archive.mp4,v_police_car,archive,Public domain (prelinger),,Summer of '63,https://archive.org/details/0724_Summer_of_63_20_01_01_22,438.6,police
-video/v_brooklyn/1_archive.mp4,v_brooklyn,archive,Public domain (universal_newsreels),,"Space Progress. 'Man-In'Space' Capsule Recovery Successful, 1960/12/22",https://archive.org/details/1960-12-22_Space_Progress,67.9,Brooklyn
-video/v_brooklyn/2_archive.mp4,v_brooklyn,archive,Public domain (universal_newsreels),,"Reds Withdraw. Cut Down Troops in East Germany, 1956/06/25",https://archive.org/details/1956-06-25_Reds_Withdraw,126.5,Brooklyn
-video/v_brooklyn/3_archive.mp4,v_brooklyn,archive,Public domain (prelinger),,Give Yourself the Green Light,https://archive.org/details/GiveYour1954,468.0,Brooklyn
-video/v_courthouse/1_archive.mp4,v_courthouse,archive,Public domain (prelinger),,Vista Stock Shots: Entertainment,https://archive.org/details/0565_Vista_Stock_Shots_Entertainment,1454.3,courthouse
-video/v_courthouse/2_archive.mp4,v_courthouse,archive,Public domain (prelinger),,And Then There Were Four,https://archive.org/details/6045_And_Then_There_Were_Four_01_01_00_00,539.2,courthouse
-video/v_courthouse/3_archive.mp4,v_courthouse,archive,Public domain (prelinger),,"[Home Movies: C.A. Samsel Family, R2, DeQueen, Arkansas]",https://archive.org/details/6066_HM_C_A_Samsel_Family_R2_DeQueen_Arkansas_01_41_47_13,95.9,courthouse
-video/v_desert/1_archive.mp4,v_desert,archive,Public domain (prelinger),,Home Movie: 97406: San Francisco,https://archive.org/details/HMSanFrancisco97406,691.3,Arizona desert
-video/v_desert/2_archive.mp4,v_desert,archive,Public domain (prelinger),,Fashion Horizons,https://archive.org/details/0787_Fashion_Horizons_01_26_54_00,402.8,Arizona desert
-video/v_desert/3_archive.mp4,v_desert,archive,Public domain (prelinger),,"Home Movie: 97240: Scenes around Phoenix, Arizona and South Gate, California",https://archive.org/details/97240_hm_scenes_around_phoenix_arizona_and_south_gate_california,593.5,Arizona desert
-video/v_ship_sea/1_archive.mp4,v_ship_sea,archive,Public domain (prelinger),,"[Home Movies: Oregon, Montana]",https://archive.org/details/6275_HM_Oregon_Montana_01_00_36_03,687.3,fishing boat
-video/v_ship_sea/2_archive.mp4,v_ship_sea,archive,Public domain (prelinger),,"Chevrolet Leader News (Vol. 3, No. 1)",https://archive.org/details/Chevrole1937,193.5,fishing boat
-video/v_ship_sea/3_archive.mp4,v_ship_sea,archive,Public domain (prelinger),,"[Amateur film: Summers collection: San Francisco, California, 1941] (Part II)",https://archive.org/details/Summersc1941_2,165.2,fishing boat
-video/v_typewriter_office/1_archive.mp4,v_typewriter_office,archive,Public domain (prelinger),,City of Neighbors: Give Once for All,https://archive.org/details/0763_City_of_Neighbors_Give_Once_for_All_02_01_01_20,295.4,office typing
-video/v_typewriter_office/2_archive.mp4,v_typewriter_office,archive,Public domain (prelinger),,Consuming Women (Women as Consumers),https://archive.org/details/0769_Consuming_Women_Women_as_Consumers_18_00_58_00,74.5,office typing
-video/v_typewriter_office/3_archive.mp4,v_typewriter_office,archive,Public domain (prelinger),,Anyone at All: Safety in the Community,https://archive.org/details/0427_Anyone_at_All_Safety_in_the_Community_01_34_50_00,470.8,office typing
+video/c_crime_hearing/1_archive.mp4,c_crime_hearing,archive,Public domain (universal_newsreels),,"U.S. Jet Planes Go To Airforce of The Netherlands, 1955/12/19",https://archive.org/details/1955-12-19_US_Jet_Planes,14.6,Kefauver
+video/c_crime_hearing/2_archive.mp4,c_crime_hearing,archive,Public domain (universal_newsreels),,"U.S. Jet Planes Go To Airforce of The Netherlands, 1955/12/19",https://archive.org/details/1955-12-19_US_Jet_Planes,60.8,Kefauver
+video/c_crime_hearing/3_archive.mp4,c_crime_hearing,archive,Public domain (universal_newsreels),,"U.S. Jet Planes Go To Airforce of The Netherlands, 1955/12/19",https://archive.org/details/1955-12-19_US_Jet_Planes,107.0,Kefauver
+video/c_gangsters/1_archive.mp4,c_gangsters,archive,Public domain (universal_newsreels),,"G-Man Hoover Blasts Lenient Parole Boards, 1937/10/04",https://archive.org/details/1937-10-04_Hoover_Blasts_Parole_Boards,13.3,gangster
+video/c_gangsters/2_archive.mp4,c_gangsters,archive,Public domain (universal_newsreels),,"G-Man Hoover Blasts Lenient Parole Boards, 1937/10/04",https://archive.org/details/1937-10-04_Hoover_Blasts_Parole_Boards,55.5,gangster
+video/c_gangsters/3_archive.mp4,c_gangsters,archive,Public domain (universal_newsreels),,"G-Man Hoover Blasts Lenient Parole Boards, 1937/10/04",https://archive.org/details/1937-10-04_Hoover_Blasts_Parole_Boards,97.7,gangster
+video/c_gangsters/4_archive.mp4,c_gangsters,archive,Public domain (universal_newsreels),,"Senate Starts Racket Probe, 1933/10/25",https://archive.org/details/1933-10-25_Senate_Starts_Racket_Probe,21.2,gangster
+video/c_gangsters/5_archive.mp4,c_gangsters,archive,Public domain (universal_newsreels),,"Senate Starts Racket Probe, 1933/10/25",https://archive.org/details/1933-10-25_Senate_Starts_Racket_Probe,88.5,gangster
+video/c_liquor_raid/1_archive.mp4,c_liquor_raid,archive,Public domain (universal_newsreels),,"Al Smith Hails End of Dry Law, 1933/11/13",https://archive.org/details/1933-11-13_Al_Smith_Hails_End_of_Dry_Law,8.0,prohibition
+video/c_liquor_raid/2_archive.mp4,c_liquor_raid,archive,Public domain (universal_newsreels),,"Al Smith Hails End of Dry Law, 1933/11/13",https://archive.org/details/1933-11-13_Al_Smith_Hails_End_of_Dry_Law,22.2,prohibition
+video/c_liquor_raid/3_archive.mp4,c_liquor_raid,archive,Public domain (universal_newsreels),,"Al Smith Hails End of Dry Law, 1933/11/13",https://archive.org/details/1933-11-13_Al_Smith_Hails_End_of_Dry_Law,37.8,prohibition
+video/c_liquor_raid/4_archive.mp4,c_liquor_raid,archive,Public domain (universal_newsreels),,"Industry_Booms After Repeal of Prohibition, ca. 1933",https://archive.org/details/1933-11_Industry_Booms_After_Repeal_of_Prohibition,9.7,prohibition
+video/c_liquor_raid/5_archive.mp4,c_liquor_raid,archive,Public domain (universal_newsreels),,"Industry_Booms After Repeal of Prohibition, ca. 1933",https://archive.org/details/1933-11_Industry_Booms_After_Repeal_of_Prohibition,40.3,prohibition
+video/c_ny_1930s/1_archive.mp4,c_ny_1930s,archive,Public domain (universal_newsreels),,"President Asks Church Leaders, 1933/10/04",https://archive.org/details/1933-10-04_President_Asks_Church_Leaders,10.3,New York
+video/c_ny_1930s/2_archive.mp4,c_ny_1930s,archive,Public domain (universal_newsreels),,"President Asks Church Leaders, 1933/10/04",https://archive.org/details/1933-10-04_President_Asks_Church_Leaders,42.9,New York
+video/c_ny_1930s/3_archive.mp4,c_ny_1930s,archive,Public domain (universal_newsreels),,"President Asks Church Leaders, 1933/10/04",https://archive.org/details/1933-10-04_President_Asks_Church_Leaders,75.5,New York
+video/c_ny_1930s/4_archive.mp4,c_ny_1930s,archive,Public domain (universal_newsreels),,Extra! Special! Roosevelt Inaugurated 1933/03/05,https://archive.org/details/1933-03-05_Extra_Special_Roosevelt_Inaugurated,55.7,New York
+video/c_ny_1930s/5_archive.mp4,c_ny_1930s,archive,Public domain (universal_newsreels),,Extra! Special! Roosevelt Inaugurated 1933/03/05,https://archive.org/details/1933-03-05_Extra_Special_Roosevelt_Inaugurated,231.9,New York
+video/c_park_avenue_1930/1_archive.mp4,c_park_avenue_1930,archive,Public domain (prelinger),,Around the World in New York,https://archive.org/details/Aroundth1940,93.7,Park Avenue
+video/c_park_avenue_1930/2_archive.mp4,c_park_avenue_1930,archive,Public domain (prelinger),,Around the World in New York,https://archive.org/details/Aroundth1940,687.4,Park Avenue
+video/c_park_avenue_1930/3_archive.mp4,c_park_avenue_1930,archive,Public domain (prelinger),,From Dawn to Sunset (Part I),https://archive.org/details/FromDawn1937,64.7,Park Avenue
+video/c_park_avenue_1930/4_archive.mp4,c_park_avenue_1930,archive,Public domain (prelinger),,From Dawn to Sunset (Part I),https://archive.org/details/FromDawn1937,474.1,Park Avenue
+video/c_ny_1960s/1_archive.mp4,c_ny_1960s,archive,Public domain (prelinger),,To the Fair,https://archive.org/details/0105_To_the_Fair_17_31_23_00,190.6,New York City
+video/c_ny_1960s/2_archive.mp4,c_ny_1960s,archive,Public domain (prelinger),,To the Fair,https://archive.org/details/0105_To_the_Fair_17_31_23_00,794.3,New York City
+video/c_ny_1960s/3_archive.mp4,c_ny_1960s,archive,Public domain (prelinger),,To the Fair,https://archive.org/details/0105_To_the_Fair_17_31_23_00,1398.0,New York City
+video/c_ny_1960s/4_archive.mp4,c_ny_1960s,archive,Public domain (prelinger),,Junior High Schools in New York City,https://archive.org/details/junior_high_schools_in_nyc,147.5,New York City
+video/c_ny_1960s/5_archive.mp4,c_ny_1960s,archive,Public domain (prelinger),,Junior High Schools in New York City,https://archive.org/details/junior_high_schools_in_nyc,614.8,New York City
+video/c_ny_1960s/6_archive.mp4,c_ny_1960s,archive,Public domain (prelinger),,Junior High Schools in New York City,https://archive.org/details/junior_high_schools_in_nyc,1082.0,New York City
+video/c_night_city/1_archive.mp4,c_night_city,archive,Public domain (prelinger),,Our Community,https://archive.org/details/OurCommu1952,82.8,night traffic
+video/c_night_city/2_archive.mp4,c_night_city,archive,Public domain (prelinger),,Our Community,https://archive.org/details/OurCommu1952,345.1,night traffic
+video/c_night_city/3_archive.mp4,c_night_city,archive,Public domain (prelinger),,Our Community,https://archive.org/details/OurCommu1952,607.4,night traffic
+video/c_night_city/4_archive.mp4,c_night_city,archive,Public domain (prelinger),,Twenty-Four Hours of Progress (Part I),https://archive.org/details/TwentyFo1950,103.4,night traffic
+video/c_night_city/5_archive.mp4,c_night_city,archive,Public domain (prelinger),,Twenty-Four Hours of Progress (Part I),https://archive.org/details/TwentyFo1950,430.7,night traffic
+video/c_police_1960s/1_archive.mp4,c_police_1960s,archive,Public domain (prelinger),,"Dropout, The",https://archive.org/details/0763_Dropout_The_02_26_58_24,76.8,police
+video/c_police_1960s/2_archive.mp4,c_police_1960s,archive,Public domain (prelinger),,"Dropout, The",https://archive.org/details/0763_Dropout_The_02_26_58_24,562.9,police
+video/c_police_1960s/3_archive.mp4,c_police_1960s,archive,Public domain (universal_newsreels),,"Cyprus Riots, 1956/05/31",https://archive.org/details/1956-05-31_Cyprus_Riots,47.6,police
+video/c_police_1960s/4_archive.mp4,c_police_1960s,archive,Public domain (universal_newsreels),,"Cyprus Riots, 1956/05/31",https://archive.org/details/1956-05-31_Cyprus_Riots,349.1,police
+video/c_police_1960s/5_archive.mp4,c_police_1960s,archive,Public domain (prelinger),,Summer of '63,https://archive.org/details/0724_Summer_of_63_20_01_01_22,150.4,police
+video/c_fbi/1_archive.mp4,c_fbi,archive,Public domain (prelinger),,"Forbidden Journey: Larry Moyer Goes to China, 1957",https://archive.org/details/ForbiddenJourneyLarryMoyerGoesToChina1957,278.6,FBI
+video/c_fbi/2_archive.mp4,c_fbi,archive,Public domain (prelinger),,"Forbidden Journey: Larry Moyer Goes to China, 1957",https://archive.org/details/ForbiddenJourneyLarryMoyerGoesToChina1957,2042.8,FBI
+video/c_fbi/3_archive.mp4,c_fbi,archive,Public domain (prelinger),,"Child Molester, The",https://archive.org/details/0424_Child_Molester_The_01_00_05_00,147.2,FBI
+video/c_fbi/4_archive.mp4,c_fbi,archive,Public domain (prelinger),,"Child Molester, The",https://archive.org/details/0424_Child_Molester_The_01_00_05_00,1079.1,FBI
+video/c_fbi/5_archive.mp4,c_fbi,archive,Public domain (prelinger),,[Four Fugitive Communists Arraigned in San Francisco],https://archive.org/details/0381_Four_Fugitive_Communists_Arraigned_in_San_Francisco_12_42_02_08,8.0,FBI
+video/c_courthouse/1_archive.mp4,c_courthouse,archive,Public domain (universal_newsreels),,"Universal Newsreel Volume 35, Release 53, 06/28/1962",https://archive.org/details/200-UN-35-53,45.1,court
+video/c_courthouse/2_archive.mp4,c_courthouse,archive,Public domain (universal_newsreels),,"Universal Newsreel Volume 35, Release 53, 06/28/1962",https://archive.org/details/200-UN-35-53,330.9,court
+video/c_courthouse/3_archive.mp4,c_courthouse,archive,Public domain (universal_newsreels),,"H-Bomb Blast Exploded at 15,000 Feet Over Pacific, 1956/05/24",https://archive.org/details/1956-05-24_H-Bomb_Blast_Exploded,47.6,trial
+video/c_courthouse/4_archive.mp4,c_courthouse,archive,Public domain (universal_newsreels),,"H-Bomb Blast Exploded at 15,000 Feet Over Pacific, 1956/05/24",https://archive.org/details/1956-05-24_H-Bomb_Blast_Exploded,349.1,trial
+video/c_courthouse/5_archive.mp4,c_courthouse,archive,Public domain (universal_newsreels),,"Eichmann trial, 1961/04/13",https://archive.org/details/1961-04-13_Eichmann_trial,13.1,trial
+video/c_newspaper_press/1_archive.mp4,c_newspaper_press,archive,Public domain (prelinger),,Happy Motoring Ahead!,https://archive.org/details/0877_Happy_Motoring_Ahead__01_46_15_20,47.0,newspaper
+video/c_newspaper_press/2_archive.mp4,c_newspaper_press,archive,Public domain (prelinger),,Happy Motoring Ahead!,https://archive.org/details/0877_Happy_Motoring_Ahead__01_46_15_20,332.8,newspaper
+video/c_newspaper_press/3_archive.mp4,c_newspaper_press,archive,Public domain (prelinger),,Teenage Road-e-o,https://archive.org/details/0776_Teenage_Road-e-o_03_39_02_00,106.9,newspaper
+video/c_newspaper_press/4_archive.mp4,c_newspaper_press,archive,Public domain (prelinger),,Teenage Road-e-o,https://archive.org/details/0776_Teenage_Road-e-o_03_39_02_00,784.2,newspaper
+video/c_brooklyn/1_archive.mp4,c_brooklyn,archive,Public domain (prelinger),,World At Your Call,https://archive.org/details/WorldAtYourC,67.7,Brooklyn
+video/c_brooklyn/2_archive.mp4,c_brooklyn,archive,Public domain (prelinger),,World At Your Call,https://archive.org/details/WorldAtYourC,496.3,Brooklyn
+video/c_brooklyn/3_archive.mp4,c_brooklyn,archive,Public domain (universal_newsreels),,"Red Colonel. Top-Ranking Russian Spy Chief Captured, 1957/08/12",https://archive.org/details/1957-08-12_Red_Colonel,23.7,Brooklyn
+video/c_brooklyn/4_archive.mp4,c_brooklyn,archive,Public domain (universal_newsreels),,"Red Colonel. Top-Ranking Russian Spy Chief Captured, 1957/08/12",https://archive.org/details/1957-08-12_Red_Colonel,173.5,Brooklyn
+video/c_highway_bridge/1_archive.mp4,c_highway_bridge,archive,Public domain (prelinger),,"Challenge of Ideas, The (Part II)",https://archive.org/details/Challeng1961_2,28.7,George Washington Bridge
+video/c_highway_bridge/2_archive.mp4,c_highway_bridge,archive,Public domain (prelinger),,"Challenge of Ideas, The (Part II)",https://archive.org/details/Challeng1961_2,210.3,George Washington Bridge
+video/c_highway_bridge/3_archive.mp4,c_highway_bridge,archive,Public domain (prelinger),,"Ask Me, Don't Tell Me (B Roll)",https://archive.org/details/202814_Ask_Me_Dont_Tell_Me_B-Roll,711.3,George Washington Bridge
+video/c_highway_bridge/4_archive.mp4,c_highway_bridge,archive,Public domain (prelinger),,"Ask Me, Don't Tell Me (B Roll)",https://archive.org/details/202814_Ask_Me_Dont_Tell_Me_B-Roll,1203.8,George Washington Bridge
+video/c_sea_boat/1_archive.mp4,c_sea_boat,archive,Public domain (prelinger),,"[Amateur film: Summers collection: San Francisco, California, 1941] (Part I)",https://archive.org/details/Summersc1941,95.2,fishing boat
+video/c_sea_boat/2_archive.mp4,c_sea_boat,archive,Public domain (prelinger),,"[Amateur film: Summers collection: San Francisco, California, 1941] (Part I)",https://archive.org/details/Summersc1941,698.2,fishing boat
+video/c_sea_boat/3_archive.mp4,c_sea_boat,archive,Public domain (prelinger),,Here's Looking,https://archive.org/details/HeresLoo1939,61.7,fishing boat
+video/c_sea_boat/4_archive.mp4,c_sea_boat,archive,Public domain (prelinger),,Here's Looking,https://archive.org/details/HeresLoo1939,452.5,fishing boat
+video/c_immigrants/1_archive.mp4,c_immigrants,archive,Public domain (prelinger),,Immigration,https://archive.org/details/Immigrat1946,74.7,immigrants
+video/c_immigrants/2_archive.mp4,c_immigrants,archive,Public domain (prelinger),,Immigration,https://archive.org/details/Immigrat1946,548.1,immigrants
+video/c_immigrants/3_archive.mp4,c_immigrants,archive,Public domain (prelinger),,Immigration,https://archive.org/details/0249_Immigration_E00492_20_14_41_00,75.4,immigrants
+video/c_montreal/1_archive.mp4,c_montreal,archive,Public domain (universal_newsreels),,"Flood Relief. President Inspects Area and Speeds Aid, 1955/08/25",https://archive.org/details/1955-08-25_Flood_Relief,31.4,Montreal
+video/c_montreal/2_archive.mp4,c_montreal,archive,Public domain (universal_newsreels),,"Flood Relief. President Inspects Area and Speeds Aid, 1955/08/25",https://archive.org/details/1955-08-25_Flood_Relief,230.1,Montreal
+video/c_montreal/3_archive.mp4,c_montreal,archive,Public domain (prelinger),,Expo 67,https://archive.org/details/Expo_67,212.5,Montreal
+video/c_arizona/1_archive.mp4,c_arizona,archive,Public domain (prelinger),,Golden Horizons,https://archive.org/details/202274_Golden_Horizons,207.9,Arizona
+video/c_arizona/2_archive.mp4,c_arizona,archive,Public domain (prelinger),,Golden Horizons,https://archive.org/details/202274_Golden_Horizons,866.4,Arizona
+video/c_arizona/3_archive.mp4,c_arizona,archive,Public domain (prelinger),,Golden Horizons,https://archive.org/details/202274_Golden_Horizons,1524.9,Arizona
+video/c_arizona/4_archive.mp4,c_arizona,archive,Public domain (prelinger),,Roads to Romance (Northern Horizons / Land of Everlasting Hills),https://archive.org/details/2354_Roads_to_Romance_Northern_Horizons_Land_of_Everlasting_Hills_17_59_20_00,21.7,Arizona
+video/c_arizona/5_archive.mp4,c_arizona,archive,Public domain (prelinger),,Roads to Romance (Northern Horizons / Land of Everlasting Hills),https://archive.org/details/2354_Roads_to_Romance_Northern_Horizons_Land_of_Everlasting_Hills_17_59_20_00,90.4,Arizona
+video/c_explosion_fire/1_archive.mp4,c_explosion_fire,archive,Public domain (universal_newsreels),,"'Dead' A-Bomb Hits U.S. Town, 1958/03/13",https://archive.org/details/1958-03-13_Dead_A-Bomb_Hits_US_Town,13.9,bomb explosion
+video/c_explosion_fire/2_archive.mp4,c_explosion_fire,archive,Public domain (universal_newsreels),,"'Dead' A-Bomb Hits U.S. Town, 1958/03/13",https://archive.org/details/1958-03-13_Dead_A-Bomb_Hits_US_Town,101.7,bomb explosion
+video/c_explosion_fire/3_archive.mp4,c_explosion_fire,archive,Public domain (universal_newsreels),,"World Shocked. Reds Threaten H-Bomb Tests, 1961/08/31",https://archive.org/details/1961-08-31_World_Shocked,24.2,bomb explosion
+video/c_explosion_fire/4_archive.mp4,c_explosion_fire,archive,Public domain (universal_newsreels),,"World Shocked. Reds Threaten H-Bomb Tests, 1961/08/31",https://archive.org/details/1961-08-31_World_Shocked,66.6,bomb explosion
+video/c_tv_studio/1_archive.mp4,c_tv_studio,archive,Public domain (prelinger),,American Engineer (Part I),https://archive.org/details/American1956,67.0,television studio
+video/c_tv_studio/2_archive.mp4,c_tv_studio,archive,Public domain (prelinger),,American Engineer (Part I),https://archive.org/details/American1956,491.1,television studio
+video/c_tv_studio/3_archive.mp4,c_tv_studio,archive,Public domain (prelinger),,American Maker,https://archive.org/details/American1960,97.5,television studio
+video/c_prison/1_archive.mp4,c_prison,archive,Public domain (prelinger),,Our Prisons,https://archive.org/details/0561_Our_Prisons_12_16_16_00,467.0,prison
+video/c_prison/2_archive.mp4,c_prison,archive,Public domain (prelinger),,Our Prisons,https://archive.org/details/0561_Our_Prisons_12_16_16_00,790.3,prison
+video/c_prison/3_archive.mp4,c_prison,archive,Public domain (prelinger),,Booked for Safekeeping (Part I),https://archive.org/details/Bookedfo1960,138.6,prison
+video/c_reporters/1_archive.mp4,c_reporters,archive,Public domain (universal_newsreels),,"Laos Crisis. Kennedy-Gromyko Voice Peace Hopes, 1961/03/27",https://archive.org/details/1961-03-27_Laos_Crisis,24.0,reporters
+video/c_reporters/2_archive.mp4,c_reporters,archive,Public domain (universal_newsreels),,"Laos Crisis. Kennedy-Gromyko Voice Peace Hopes, 1961/03/27",https://archive.org/details/1961-03-27_Laos_Crisis,176.3,reporters
+video/c_reporters/3_archive.mp4,c_reporters,archive,Public domain (universal_newsreels),,"Kennedy on Telstar. Europe /sees News Conference, 1962/07/23",https://archive.org/details/1962-07-23_Kennedy_on_Telstar,9.3,press conference
+video/c_reporters/4_archive.mp4,c_reporters,archive,Public domain (universal_newsreels),,"Kennedy on Telstar. Europe /sees News Conference, 1962/07/23",https://archive.org/details/1962-07-23_Kennedy_on_Telstar,68.1,press conference
+video/c_telephone/1_archive.mp4,c_telephone,archive,Public domain (prelinger),,Story Without End,https://archive.org/details/StoryWit1950,133.5,telephone
+video/c_telephone/2_archive.mp4,c_telephone,archive,Public domain (prelinger),,Story Without End,https://archive.org/details/StoryWit1950,979.0,telephone
+video/c_telephone/3_archive.mp4,c_telephone,archive,Public domain (prelinger),,Achievement USA,https://archive.org/details/Achievem1955,73.8,telephone
