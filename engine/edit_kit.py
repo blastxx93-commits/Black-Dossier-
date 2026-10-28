@@ -121,6 +121,9 @@ def build_episode(chapters, output, music="trilha.wav", music_gain=-21, final_fa
         sys.stderr.write(f"{c.name}: {len(c.cues)} planos, alinhamento {c.matched:.0%}"
                          + (f", NAO ACHEI: {c.misses}" if c.misses else "") + "\n")
     out["chapters"][-1]["shots"][-1]["fade_out"] = final_fade
+    pretos = [f"cap. {ci}" for ci, c in enumerate(out["chapters"]) for s in c["shots"] if s["type"] == "black"]
+    if pretos:
+        sys.exit("TELA PRETA (regra do canal: preencher com imagem gerada):\n  " + "\n  ".join(pretos))
     dup = check_no_repeats(out, allow_repeat)
     if dup:
         sys.exit("IMAGENS REPETIDAS (regra do canal):\n  " + "\n  ".join(dup))
