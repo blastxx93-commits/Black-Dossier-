@@ -166,6 +166,54 @@
   {
    "id": "ai_office_door_1931",
    "prompt": "Frosted glass office door in a 1931 Manhattan skyscraper, slightly ajar, a fedora silhouette visible through the glass, papers scattered on the marble floor outside, dramatic shadows, no readable text"
+  },
+  {
+   "id": "ai_shadow_badge",
+   "prompt": "Long shadow of a man in a fedora cast on an adobe wall at night in 1968 Arizona, a small metal badge glinting in his hand, no face visible"
+  },
+  {
+   "id": "ai_dossier_folder",
+   "prompt": "A thick black leather dossier folder tied with string lying on a dark wooden desk under a green banker's lamp, 1964, cigarette smoke, no readable text"
+  },
+  {
+   "id": "ai_case_files",
+   "prompt": "Two stacks of typewritten case files side by side on a desk in a dim 1963 office, one stack lit by a lamp, the other in shadow, text unreadable and blurred"
+  },
+  {
+   "id": "ai_empty_chair",
+   "prompt": "An empty leather chair at the head of a long dark table in a private room in 1963, other chairs occupied by men in dark suits seen from behind, faces in shadow"
+  },
+  {
+   "id": "ai_two_shadows",
+   "prompt": "Two men in overcoats and hats stepping out of a dark doorway onto a rainy Manhattan sidewalk at night in 1964, seen from far behind, faces in shadow"
+  },
+  {
+   "id": "ai_shot_fired",
+   "prompt": "Rainy Park Avenue sidewalk at night in 1964, a man in a long coat crouching behind a parked car, a bright muzzle flash reflected in the puddles, seen from far away, no faces"
+  },
+  {
+   "id": "ai_wet_newspaper",
+   "prompt": "A crumpled newspaper lying in a puddle on a New York street at night in 1964, a street lamp reflected in the water, headline blurred and unreadable"
+  },
+  {
+   "id": "ai_press_steps",
+   "prompt": "Crowd of press photographers with flash cameras on the stone steps of a Manhattan federal courthouse in 1966, seen from behind, flashes going off"
+  },
+  {
+   "id": "ai_arrest_tucson",
+   "prompt": "Two police cars with lights on parked outside a small stucco house in Tucson at night in 1969, officers seen from far away, saguaro silhouettes"
+  },
+  {
+   "id": "ai_old_hands",
+   "prompt": "An old man's wrinkled hands resting on a closed leather notebook on a wooden table, warm desert light through a window, 1980s Tucson, face not visible"
+  },
+  {
+   "id": "ai_window_desert",
+   "prompt": "Silhouette of an elderly man seen from behind standing at a window looking out at the Arizona desert at dusk, room dark, 1990s"
+  },
+  {
+   "id": "ai_prisoner_window",
+   "prompt": "Small window in an old farmhouse room at night, moonlight falling on an empty iron bed and a wooden chair, a man's hat on the chair, 1964"
   }
  ]
 }
