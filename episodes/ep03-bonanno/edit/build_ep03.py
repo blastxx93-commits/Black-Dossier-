@@ -162,7 +162,7 @@ c.at("kept him there for weeks", ai("ai_farm_room_1.jpg", "in"))
 c.at("And when a reporter asked him", ai("ai_tv_studio_1983_1.jpg", "in", caption="Television interview, 1983"))
 c.at("My dear cousin", say("\"My dear cousin.\"", 130))
 c.at("Stefano Magaddino. The ruler of Buffalo", img("nyc_1931/3_loc.jpg", "up", cap="Buffalo, New York"))
-c.at("It is a perfect story", ai("ai_wet_newspaper_1.jpg", "in"))
+c.at("It is a perfect story", img("magaddino/2_commons.jpg", "down", cap="Newspaper, 1921"))
 c.at("There is only one problem", say("Only one problem.", 140))
 chapters.append(c)
 

@@ -66,7 +66,11 @@
      "fixed": true
     },
     {
-     "type": "black",
+     "type": "video",
+     "src": "a/video/c_sea_boat/4_archive.mp4",
+     "fit": "blur",
+     "start": 0,
+     "xfade": 0.35,
      "sfx": [
       {
        "file": "sfx/hit.wav",
@@ -209,7 +213,9 @@
      "fixed": true
     },
     {
-     "type": "black",
+     "type": "image",
+     "src": "a/ai/ai_shadow_badge_1.jpg",
+     "move": "in",
      "dur": 2.42,
      "fixed": true
     },
@@ -228,7 +234,9 @@
      "fixed": true
     },
     {
-     "type": "black",
+     "type": "image",
+     "src": "a/ai/ai_dossier_folder_1.jpg",
+     "move": "in",
      "dur": 1.68,
      "fixed": true
     },
@@ -727,7 +735,9 @@
      "fixed": true
     },
     {
-     "type": "black",
+     "type": "image",
+     "src": "a/ai/ai_case_files_1.jpg",
+     "move": "in",
      "dur": 6.24,
      "fixed": true
     },
@@ -907,7 +917,9 @@
      "fixed": true
     },
     {
-     "type": "black",
+     "type": "image",
+     "src": "a/ai/ai_empty_chair_1.jpg",
+     "move": "in",
      "dur": 3.02,
      "fixed": true
     },
@@ -1176,7 +1188,9 @@
      "fixed": true
     },
     {
-     "type": "black",
+     "type": "image",
+     "src": "a/ai/ai_two_shadows_1.jpg",
+     "move": "in",
      "dur": 3.56,
      "fixed": true
     },
@@ -1188,7 +1202,9 @@
      "fixed": true
     },
     {
-     "type": "black",
+     "type": "image",
+     "src": "a/ai/ai_shot_fired_1.jpg",
+     "move": "in",
      "sfx": [
       {
        "file": "sfx/hit.wav",
@@ -1335,7 +1351,10 @@
      "fixed": true
     },
     {
-     "type": "black",
+     "type": "image",
+     "src": "a/magaddino/2_commons.jpg",
+     "move": "down",
+     "caption": "Newspaper, 1921",
      "dur": 1.56,
      "fixed": true
     },
@@ -1378,12 +1397,7 @@
        "at": 0.9
       }
      ],
-     "dur": 8.92,
-     "fixed": true
-    },
-    {
-     "type": "black",
-     "dur": 2.626,
+     "dur": 11.546,
      "fixed": false
     }
    ]
@@ -1625,7 +1639,9 @@
      "fixed": true
     },
     {
-     "type": "black",
+     "type": "image",
+     "src": "a/ai/ai_press_steps_1.jpg",
+     "move": "in",
      "dur": 1.61,
      "fixed": true
     },
@@ -1844,7 +1860,9 @@
      "fixed": true
     },
     {
-     "type": "black",
+     "type": "image",
+     "src": "a/ai/ai_arrest_tucson_1.jpg",
+     "move": "in",
      "dur": 3.96,
      "fixed": true
     },
@@ -1913,7 +1931,9 @@
      "fixed": true
     },
     {
-     "type": "black",
+     "type": "image",
+     "src": "a/ai/ai_old_hands_1.jpg",
+     "move": "in",
      "dur": 4.138,
      "fixed": false
     }
@@ -2108,8 +2128,17 @@
      "fixed": true
     },
     {
-     "type": "black",
-     "dur": 8.5,
+     "type": "image",
+     "src": "a/ai/ai_window_desert_1.jpg",
+     "move": "in",
+     "dur": 1.12,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_prisoner_window_1.jpg",
+     "move": "in",
+     "dur": 7.38,
      "fixed": true
     },
     {
