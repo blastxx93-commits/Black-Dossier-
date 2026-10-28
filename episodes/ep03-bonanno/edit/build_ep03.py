@@ -53,8 +53,6 @@ c.at("the man behind them will not be", black())
 c.at("He will be an FBI agent", say("An FBI agent.", 150))
 c.at("This is Black Dossier", black())
 c.at("is the file of the boss who vanished", title("The Boss Who Vanished", "Joe Bonanno · 1964", "FILE No. 001", "CLASSIFIED"))
-c.at("If you like true Mafia stories", subscribe())
-c.at("Now, let's open the file", black())
 chapters.append(c)
 
 # ---------------------------------------------------------------- CH 1 (cold open: Maranzano's murder)
@@ -166,6 +164,12 @@ c.at("My dear cousin", say("\"My dear cousin.\"", 130))
 c.at("Stefano Magaddino. The ruler of Buffalo", img("nyc_1931/3_loc.jpg", "up", cap="Buffalo, New York"))
 c.at("It is a perfect story", black())
 c.at("There is only one problem", say("Only one problem.", 140))
+chapters.append(c)
+
+# ---------------------------------------------------------------- MID-VIDEO CTA (right after the cliffhanger)
+c = ch("ch04_cta", 0.4)
+c.at(0, subscribe("SUBSCRIBE", "One second before the answer"))
+c.at("Now, the problem", black())
 chapters.append(c)
 
 # ---------------------------------------------------------------- CH 5

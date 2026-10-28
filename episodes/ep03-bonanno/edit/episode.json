@@ -250,33 +250,7 @@
        "at": 0.9
       }
      ],
-     "dur": 2.08,
-     "fixed": true
-    },
-    {
-     "type": "title",
-     "title": "SUBSCRIBE",
-     "subtitle": "New file every week",
-     "file": "BLACK DOSSIER",
-     "stamp": "OPEN FILE",
-     "sfx": [
-      {
-       "file": "sfx/whoosh.wav",
-       "gain": -27,
-       "at": 0.0
-      },
-      {
-       "file": "sfx/stamp.wav",
-       "gain": -19,
-       "at": 0.9
-      }
-     ],
-     "dur": 6.94,
-     "fixed": true
-    },
-    {
-     "type": "black",
-     "dur": 3.122,
+     "dur": 4.55,
      "fixed": false
     }
    ]
@@ -1377,6 +1351,39 @@
       }
      ],
      "dur": 2.686,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch04_cta.flac",
+   "lead_in": 0,
+   "tail": 0.4,
+   "shots": [
+    {
+     "type": "title",
+     "title": "SUBSCRIBE",
+     "subtitle": "One second before the answer",
+     "file": "BLACK DOSSIER",
+     "stamp": "OPEN FILE",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/stamp.wav",
+       "gain": -19,
+       "at": 0.9
+      }
+     ],
+     "dur": 8.92,
+     "fixed": true
+    },
+    {
+     "type": "black",
+     "dur": 2.626,
      "fixed": false
     }
    ]
