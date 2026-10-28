@@ -6,7 +6,7 @@ Definidas pelo dono do canal em 27/10/2026. O Claude segue estas regras em todo 
 - Nenhuma imagem, clipe ou cena de IA aparece duas vezes no mesmo vídeo (nem com outro corte ou zoom).
 - A montagem é bloqueada automaticamente se houver repetição (`engine/edit_kit.py` verifica antes de gerar o vídeo).
 - Para cobrir ~16–18 min sem repetir: mais fotos reais e clipes de arquivo por episódio, cartelas de texto (datas, citações, números) e
-  1 cena de IA por momento que não tem foto. Custo de IA sobe para ~20–30 imagens (~US$1,20–1,80 por episódio).
+  1 cena de IA por momento que não tem foto. Custo de IA sobe para ~20–30 imagens (~US$1,20–1,80 por episódio), mais ~US$0,06 da thumbnail ilustrada.
 
 ## 2. CTA depois do hook e no final
 - **Depois do hook** (antes do capítulo 1), uma frase curta, ~8–10 s, sem quebrar o clima. Modelo:
@@ -27,12 +27,22 @@ Definidas pelo dono do canal em 27/10/2026. O Claude segue estas regras em todo 
 - Até ~60 caracteres; sempre 3 opções para teste A/B.
 - Exemplos: "The Mafia Boss Who Vanished for 19 Months" · "The Man Who Told the FBI Everything" · "Why the Mafia Feared This Prison Kiss".
 
-## 5. Thumbnail: padrão fixo do canal (`engine/thumbnail.py`)
-- 1280×720, foto ou cena em preto e branco/sépia ocupando a direita, painel escuro à esquerda.
-- Texto em 2 linhas, no máximo 4 palavras: linha 1 branca, linha 2 **amarela** (#E5C428), fonte grossa.
-- Faixa vermelha embaixo do texto, rodapé com o ano/lugar em fonte de máquina de escrever.
-- Topo: "BLACK DOSSIER · FILE 00X" em vermelho. Carimbo vermelho no canto inferior direito.
-- Sempre um rosto ou objeto forte do lado direito; nunca texto em cima do rosto.
+## 5. Thumbnails: sempre 2 por episódio, para teste A/B
+Cada episódio sai com **duas** thumbnails em estilos diferentes, para o teste A/B do YouTube ("Testar e comparar").
+
+**A — Ilustrada (estilo quadrinho)** · `engine/thumbnail_comic.py`
+- Ilustração gerada pelo agente de IA: mafioso **fictício** à esquerda (terno risca de giz, chapéu, gravata vermelha),
+  cenário de época à direita (Nova York, Little Italy, carros antigos), céu claro e cores vivas.
+- Título grande em serifa preta no céu, à direita: 1 palavra forte + datas/ano (ex.: "MAFIA / 1891 – 1992").
+- Nunca rosto de pessoa real nem de personagem de filme (Don Corleone, etc.): o personagem é inventado e representa a época.
+- Prompt com `"guard": "fictional"` e `"raw": false` no ai_prompts.json (1 imagem, ~US$0,06).
+
+**B — Realista (dossiê sépia)** · `engine/thumbnail.py`
+- Foto real de arquivo em sépia à direita, painel escuro à esquerda.
+- Até 4 palavras: linha 1 branca, linha 2 **amarela** (#E5C428), faixa vermelha, rodapé com ano/lugar em máquina de escrever.
+- Topo "BLACK DOSSIER · FILE 00X" em vermelho, carimbo no canto inferior direito. Nunca texto em cima do rosto.
+
+As duas contam a mesma promessa do título, cada uma do seu jeito.
 
 ## 6. Palavras-chave com demanda
 - Antes de fechar título, descrição e tags, o agente `Palavras-chave` (GitHub) puxa as sugestões de busca do YouTube
