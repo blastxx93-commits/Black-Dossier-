@@ -6,5 +6,5 @@
 
 | plano | resultado |
 |---|---|
-| `ai_brooklyn_1965` | 1 de 1 |
-| `ai_fbi_agent_desert` | 1 de 1 |
+| `ai_badges_corridor` | 1 de 1 |
+| `ai_office_door_1931` | 1 de 1 |

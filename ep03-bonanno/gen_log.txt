@@ -1,5 +1,5 @@
-ai_brooklyn_1965_1: 2752x1536
-ai_fbi_agent_desert_1: 2752x1536
+ai_badges_corridor_1: 2752x1536
+ai_office_door_1931_1: 2752x1536
 # Imagens IA — ep03-bonanno
 
 - Modelo: `black-forest-labs/flux-1.1-pro-ultra`
@@ -8,6 +8,6 @@ ai_fbi_agent_desert_1: 2752x1536
 
 | plano | resultado |
 |---|---|
-| `ai_brooklyn_1965` | 1 de 1 |
-| `ai_fbi_agent_desert` | 1 de 1 |
+| `ai_badges_corridor` | 1 de 1 |
+| `ai_office_door_1931` | 1 de 1 |
 
