@@ -2,6 +2,16 @@
 
 Definidas pelo dono do canal em 27/10/2026. O Claude segue estas regras em todo episódio.
 
+## 0. Episódios independentes e retenção
+- Os antigos EP01 (Apalachin) e EP02 (Valachi) **não serão publicados**. O canal começa no caso Bonanno = **FILE 001**.
+- Cada vídeo é independente: nada de "no último episódio", "o homem do nosso último arquivo" ou gancho para o próximo tema.
+- Foco total em retenção:
+  - hook começa no meio da ação (o momento mais forte), sem biografia;
+  - 2–3 perguntas abertas no hook, pagas ao longo do vídeo (a maior reviravolta é prometida no hook e entregue no fim);
+  - toda virada de capítulo termina com um mini-gancho;
+  - frases curtas e contexto comprimido;
+  - CTA depois do hook curto (~6 s).
+
 ## 1. Imagens e vídeos: nada repetido
 - Nenhuma imagem, clipe ou cena de IA aparece duas vezes no mesmo vídeo (nem com outro corte ou zoom).
 - A montagem é bloqueada automaticamente se houver repetição (`engine/edit_kit.py` verifica antes de gerar o vídeo).
