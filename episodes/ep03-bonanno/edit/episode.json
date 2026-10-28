@@ -125,16 +125,11 @@
      "fixed": true
     },
     {
-     "type": "typewriter",
-     "text": "FBI\nNO TRACE",
-     "size": 90,
-     "sfx": [
-      {
-       "file": "sfx/typewriter.wav",
-       "gain": -24,
-       "at": 0.1
-      }
-     ],
+     "type": "video",
+     "src": "a/video/c_gangsters/1_archive.mp4",
+     "fit": "blur",
+     "start": 0,
+     "xfade": 0.35,
      "dur": 2.1,
      "fixed": true
     },
@@ -302,67 +297,16 @@
        "at": 0.0
       }
      ],
-     "dur": 3.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/bonanno/3_commons.jpg",
-     "move": "in",
-     "caption": "FBI chart: the Joseph Bonanno family",
-     "focus": [
-      0.5,
-      0.12
-     ],
-     "dur": 4.94,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/ep02/castellammare_old.jpg",
-     "move": "in",
-     "caption": "Castellammare del Golfo, Sicily",
-     "dur": 6.52,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/castellammare/1_commons.jpg",
-     "move": "left",
-     "dur": 3.3,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/ai/ai_castellammare_1905_1.jpg",
-     "move": "out",
-     "dur": 2.58,
+     "dur": 2.4,
      "fixed": true
     },
     {
      "type": "video",
-     "src": "a/video/v_car_night/1_archive.mp4",
+     "src": "a/video/c_brooklyn/2_archive.mp4",
      "fit": "blur",
      "start": 0,
      "xfade": 0.35,
-     "dur": 2.7,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/ai/ai_fishing_boat_1924_1.jpg",
-     "move": "in",
-     "dur": 2.1,
-     "fixed": true
-    },
-    {
-     "type": "video",
-     "src": "a/video/v_ship_sea/2_archive.mp4",
-     "fit": "blur",
-     "start": 5.5,
-     "xfade": 0.35,
-     "caption": "Florida",
-     "dur": 1.22,
+     "dur": 5.74,
      "fixed": true
     },
     {
@@ -372,49 +316,125 @@
      "start": 0,
      "xfade": 0.35,
      "caption": "New York",
-     "dur": 1.78,
+     "dur": 3.22,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "SEPTEMBER 10, 1931\n230 PARK AVENUE",
+     "size": 64,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 3.36,
      "fixed": true
     },
     {
      "type": "image",
-     "src": "a/prohibition/1_commons.jpg",
+     "src": "a/ai/ai_maranzano_office_1.jpg",
      "move": "in",
-     "caption": "Prohibition, 1920s",
-     "dur": 1.56,
+     "dur": 2.3,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_badges_corridor_1.jpg",
+     "move": "in",
+     "dur": 4.64,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "They are killers.",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.0
+      }
+     ],
+     "dur": 1.14,
      "fixed": true
     },
     {
      "type": "dossier",
      "name": "Salvatore Maranzano",
-     "label": "BOSS",
+     "label": "BOSS OF ALL BOSSES",
      "fields": {
-      "Origin": "Castellammare del Golfo"
+      "Date": "Sept. 10, 1931"
      },
      "sfx": [
       {
        "file": "sfx/whoosh.wav",
        "gain": -27,
        "at": 0.0
+      },
+      {
+       "file": "sfx/stamp.wav",
+       "gain": -19,
+       "at": 1.2
       }
      ],
-     "dur": 3.84,
+     "stamp": "KILLED",
+     "dur": 6.16,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_office_door_1931_1.jpg",
+     "move": "in",
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.6
+      }
+     ],
+     "dur": 1.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ep02/luciano_mug.jpg",
+     "move": "in",
+     "caption": "Charles 'Lucky' Luciano",
+     "focus": [
+      0.7,
+      0.4
+     ],
+     "dur": 3.44,
      "fixed": true
     },
     {
      "type": "video",
-     "src": "a/video/v_sicily/2_archive.mp4",
+     "src": "a/video/c_gangsters/4_archive.mp4",
      "fit": "blur",
      "start": 0,
      "xfade": 0.35,
-     "dur": 1.66,
+     "dur": 3.04,
+     "fixed": true
+    },
+    {
+     "type": "counter",
+     "to": 26,
+     "label": "years old",
+     "prefix": "",
+     "suffix": "",
+     "dur": 3.82,
      "fixed": true
     },
     {
      "type": "dossier",
-     "name": "Joe Masseria",
-     "label": "THE ENEMY",
+     "name": "Joseph Bonanno",
+     "label": "NEW BOSS",
      "fields": {
-      "Title": "'Joe the Boss'"
+      "Since": "1931",
+      "Born": "Sicily, 1905"
      },
      "sfx": [
       {
@@ -423,12 +443,23 @@
        "at": 0.0
       }
      ],
-     "photo": "a/ep02/masseria.jpg",
-     "focus": [
-      0.5,
-      0.3
-     ],
-     "dur": 4.96,
+     "dur": 3.4,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_fishing_boat_1924_1.jpg",
+     "move": "in",
+     "dur": 2.58,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_liquor_raid/5_archive.mp4",
+     "fit": "blur",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.54,
      "fixed": true
     },
     {
@@ -442,38 +473,15 @@
        "at": 0.1
       }
      ],
-     "dur": 2.56,
+     "dur": 2.88,
      "fixed": true
     },
     {
      "type": "image",
-     "src": "a/ai/ai_maranzano_office_1.jpg",
+     "src": "a/hotel_astor/2_loc.jpg",
      "move": "in",
-     "dur": 4.26,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/ep02/luciano_mug.jpg",
-     "move": "in",
-     "caption": "Charles 'Lucky' Luciano",
-     "focus": [
-      0.7,
-      0.4
-     ],
-     "dur": 3.28,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/hotel_astor/1_loc.jpg",
-     "move": "in",
-     "caption": "New York",
-     "focus": [
-      0.25,
-      0.5
-     ],
-     "dur": 2.25,
+     "caption": "Times Square, New York",
+     "dur": 3.3,
      "fixed": true
     },
     {
@@ -487,42 +495,35 @@
        "at": 0.1
       }
      ],
-     "dur": 7.25,
+     "dur": 4.2,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_sicily/1_archive.mp4",
+     "fit": "blur",
+     "start": 7,
+     "xfade": 0.35,
+     "dur": 1.78,
      "fixed": true
     },
     {
      "type": "image",
-     "src": "a/hotel_astor/2_loc.jpg",
+     "src": "a/prohibition/1_commons.jpg",
      "move": "in",
-     "caption": "Times Square, New York",
-     "dur": 2.14,
+     "dur": 2.1,
      "fixed": true
     },
     {
-     "type": "dossier",
-     "name": "Joseph Bonanno",
-     "label": "NEW BOSS",
-     "fields": {
-      "Since": "1931",
-      "Seat": "The Commission"
-     },
-     "sfx": [
-      {
-       "file": "sfx/whoosh.wav",
-       "gain": -27,
-       "at": 0.0
-      }
+     "type": "image",
+     "src": "a/bonanno/3_commons.jpg",
+     "move": "in",
+     "caption": "FBI chart: the Joseph Bonanno family",
+     "focus": [
+      0.5,
+      0.12
      ],
-     "dur": 3.48,
-     "fixed": true
-    },
-    {
-     "type": "counter",
-     "to": 26,
-     "label": "years old",
-     "prefix": "",
-     "suffix": "",
-     "dur": 6.28,
+     "dur": 1.82,
      "fixed": true
     },
     {
@@ -541,7 +542,14 @@
        "Still standing"
       ]
      ],
-     "dur": 6.8,
+     "dur": 2.4,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "No prison.\nNo bullets.",
+     "size": 120,
+     "dur": 1.88,
      "fixed": true
     },
     {
@@ -555,30 +563,14 @@
        "at": 0.1
       }
      ],
-     "dur": 3.74,
-     "fixed": true
-    },
-    {
-     "type": "video",
-     "src": "a/video/v_sicily/1_archive.mp4",
-     "fit": "blur",
-     "start": 0,
-     "xfade": 0.35,
-     "dur": 3.86,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/ai/ai_cheese_factory_1.jpg",
-     "move": "in",
-     "dur": 4.08,
+     "dur": 3.06,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/brooklyn_1960s/3_commons.jpg",
      "move": "right",
-     "dur": 1.7,
+     "dur": 1.48,
      "fixed": true
     },
     {
@@ -588,7 +580,7 @@
      "start": 0,
      "xfade": 0.35,
      "caption": "Montreal",
-     "dur": 1.38,
+     "dur": 1.3,
      "fixed": true
     },
     {
@@ -596,7 +588,7 @@
      "src": "a/ai/ai_desert_dawn_1968_1.jpg",
      "move": "in",
      "caption": "Tucson, Arizona",
-     "dur": 3.6,
+     "dur": 2.44,
      "fixed": true
     },
     {
@@ -608,7 +600,7 @@
       0.6,
       0.3
      ],
-     "dur": 5.16,
+     "dur": 4.02,
      "fixed": true
     },
     {
@@ -620,28 +612,23 @@
       0.5,
       0.2
      ],
-     "dur": 2.66,
+     "dur": 1.24,
      "fixed": true
     },
     {
-     "type": "typewriter",
-     "text": "1963",
-     "size": 120,
-     "sfx": [
-      {
-       "file": "sfx/typewriter.wav",
-       "gain": -24,
-       "at": 0.1
-      }
-     ],
-     "dur": 2.86,
+     "type": "video",
+     "src": "a/video/c_crime_hearing/2_archive.mp4",
+     "fit": "blur",
+     "start": 4,
+     "xfade": 0.35,
+     "dur": 2.28,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/ai/ai_envelope_contract_1.jpg",
      "move": "in",
-     "dur": 4.111,
+     "dur": 3.788,
      "fixed": false
     }
    ]
@@ -863,16 +850,11 @@
      "fixed": true
     },
     {
-     "type": "typewriter",
-     "text": "THE TARGETS\nKNEW EVERYTHING.",
-     "size": 70,
-     "sfx": [
-      {
-       "file": "sfx/typewriter.wav",
-       "gain": -24,
-       "at": 0.1
-      }
-     ],
+     "type": "video",
+     "src": "a/video/c_telephone/2_archive.mp4",
+     "fit": "blur",
+     "start": 0,
+     "xfade": 0.35,
      "dur": 3.22,
      "fixed": true
     },
@@ -1265,23 +1247,18 @@
      "fixed": true
     },
     {
-     "type": "image",
-     "src": "a/ai/ai_missing_board_1.jpg",
-     "move": "in",
+     "type": "video",
+     "src": "a/video/c_fbi/5_archive.mp4",
+     "fit": "blur",
+     "start": 0,
+     "xfade": 0.35,
      "dur": 2.32,
      "fixed": true
     },
     {
-     "type": "typewriter",
-     "text": "HIS OWN SOLDIERS\nSEARCHED TOO.",
-     "size": 70,
-     "sfx": [
-      {
-       "file": "sfx/typewriter.wav",
-       "gain": -24,
-       "at": 0.1
-      }
-     ],
+     "type": "image",
+     "src": "a/ai/ai_missing_board_1.jpg",
+     "move": "in",
      "dur": 2.26,
      "fixed": true
     },
@@ -1300,6 +1277,15 @@
      "fixed": true
     },
     {
+     "type": "video",
+     "src": "a/video/c_night_city/5_archive.mp4",
+     "fit": "blur",
+     "start": 2.5,
+     "xfade": 0.35,
+     "dur": 1.84,
+     "fixed": true
+    },
+    {
      "type": "typewriter",
      "text": "GEORGE WASHINGTON BRIDGE\n\u2192 NEW JERSEY",
      "size": 64,
@@ -1310,7 +1296,7 @@
        "at": 0.1
       }
      ],
-     "dur": 4.6,
+     "dur": 2.76,
      "fixed": true
     },
     {
@@ -1491,11 +1477,11 @@
     },
     {
      "type": "video",
-     "src": "a/video/v_immigrants/3_archive.mp4",
+     "src": "a/video/c_brooklyn/3_archive.mp4",
      "fit": "blur",
      "start": 0,
      "xfade": 0.35,
-     "caption": "New York",
+     "caption": "Brooklyn",
      "dur": 3.58,
      "fixed": true
     },
@@ -1568,7 +1554,11 @@
      "fixed": true
     },
     {
-     "type": "black",
+     "type": "video",
+     "src": "a/video/c_gangsters/3_archive.mp4",
+     "fit": "blur",
+     "start": 0,
+     "xfade": 0.35,
      "sfx": [
       {
        "file": "sfx/hit.wav",
@@ -1655,7 +1645,7 @@
     },
     {
      "type": "video",
-     "src": "a/video/v_immigrants/1_commons.mp4",
+     "src": "a/video/c_sea_boat/2_archive.mp4",
      "fit": "blur",
      "start": 0,
      "xfade": 0.35,
@@ -1764,16 +1754,18 @@
      "fixed": true
     },
     {
-     "type": "typewriter",
-     "text": "THE WAR\nIS OVER",
-     "size": 100,
+     "type": "image",
+     "src": "a/ai/ai_old_man_desert_1.jpg",
+     "move": "in",
      "dur": 2.16,
      "fixed": true
     },
     {
-     "type": "image",
-     "src": "a/ai/ai_old_man_desert_1.jpg",
-     "move": "in",
+     "type": "video",
+     "src": "a/video/c_police_1960s/5_archive.mp4",
+     "fit": "blur",
+     "start": 4.8,
+     "xfade": 0.35,
      "dur": 3.8,
      "fixed": true
     },
@@ -1792,7 +1784,11 @@
      "fixed": true
     },
     {
-     "type": "black",
+     "type": "video",
+     "src": "a/video/c_explosion_fire/3_archive.mp4",
+     "fit": "blur",
+     "start": 0,
+     "xfade": 0.35,
      "sfx": [
       {
        "file": "sfx/hit.wav",
@@ -1811,11 +1807,11 @@
      "fixed": true
     },
     {
-     "type": "counter",
-     "to": 20,
-     "label": "bombs, 1968 \u2013 1969",
-     "prefix": "~",
-     "suffix": "",
+     "type": "video",
+     "src": "a/video/c_explosion_fire/1_archive.mp4",
+     "fit": "blur",
+     "start": 0,
+     "xfade": 0.35,
      "dur": 4.64,
      "fixed": true
     },
