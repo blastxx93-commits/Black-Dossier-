@@ -1,0 +1,46 @@
+# Imagens IA — ep03-bonanno
+
+- Modelo: `black-forest-labs/flux-1.1-pro-ultra`
+- Imagens geradas: 22
+- Folhas: ai_contact_sheet_1.jpg, ai_contact_sheet_2.jpg, ai_contact_sheet_3.jpg, ai_contact_sheet_4.jpg
+
+| plano | resultado |
+|---|---|
+| `ai_park_rain` | 1 de 1 |
+| `ai_grab_arm` | 1 de 1 |
+| `ai_shot_pavement` | 1 de 1 |
+| `ai_car_away` | 1 de 1 |
+| `ai_car_floor` | 1 de 1 |
+| `ai_farmhouse` | 1 de 1 |
+| `ai_farm_room` | 1 de 1 |
+| `ai_castellammare_1905` | 1 de 1 |
+| `ai_fishing_boat_1924` | 1 de 1 |
+| `ai_maranzano_office` | 1 de 1 |
+| `ai_commission_table` | 1 de 1 |
+| `ai_cheese_factory` | 1 de 1 |
+| `ai_wedding_1956` | 1 de 1 |
+| `ai_envelope_contract` | 1 de 1 |
+| `ai_colombo_phone` | 1 de 1 |
+| `ai_magliocco_house` | 1 de 1 |
+| `ai_subpoena` | 1 de 1 |
+| `ai_newsroom_1964` | 1 de 1 |
+| `ai_missing_board` | 1 de 1 |
+| `ai_troutman_street` | 1 de 1 |
+| `ai_troutman_shells` | 1 de 1 |
+| `ai_foley_square_1966` | 1 de 1 |
+| `ai_tucson_house` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_tucson_house` | 0 de 1 |
+| `ai_patio_rubble` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_patio_rubble` | 0 de 1 |
+| `ai_bomb_garage` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_bomb_garage` | 0 de 1 |
+| `ai_memoir_typewriter` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_memoir_typewriter` | 0 de 1 |
+| `ai_tv_studio_1983` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_tv_studio_1983` | 0 de 1 |
+| `ai_courtroom_1986` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_courtroom_1986` | 0 de 1 |
+| `ai_old_man_desert` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_old_man_desert` | 0 de 1 |
+| `ai_rain_empty_corner` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_rain_empty_corner` | 0 de 1 |
