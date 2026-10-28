@@ -242,9 +242,13 @@ def shot_title(ctx, s, n):
     """Episode title card on paper, with stamp."""
     bg = paper_texture(ctx, seed=7)
     d = ImageDraw.Draw(bg)
-    ft = font("impact", ctx.px(170))
     fs = font("type", ctx.px(46))
     title = s["title"].upper()
+    size = 170
+    ft = font("impact", ctx.px(size))
+    while d.textlength(title, font=ft) > ctx.W * 0.86 and size > 60:  # never let the title run off the frame
+        size -= 6
+        ft = font("impact", ctx.px(size))
     tw = d.textlength(title, font=ft)
     d.text(((ctx.W - tw) / 2, ctx.H * 0.33), title, font=ft, fill=BRAND["ink"])
     sub = s.get("subtitle", "")
