@@ -1,0 +1,121 @@
+[     0s] ep03-bonanno: 18 planos de video
+[    12s]   v_rain_night / archive: 5 filmes para 'rain night city'
+[    14s]   v_rain_night / commons: 10 filmes para 'rain night city'
+[    43s]     + 1_archive.mp4 de 'Tuesday in November' a partir de 357s
+[    63s]     + 2_archive.mp4 de 'American Engineer (Part II)' a partir de 145s
+[    82s]     + 3_archive.mp4 de 'American Engineer (Part I)' a partir de 195s
+[    97s]   v_park_avenue / archive: 9 filmes para 'Park Avenue'
+[   100s]   v_park_avenue / commons: 10 filmes para 'Park Avenue'
+[   115s]     + 1_archive.mp4 de '[UC Berkeley outtakes]' a partir de 569s
+[   139s]     + 2_archive.mp4 de 'Miracle on the Delaware' a partir de 200s
+[   177s]     + 3_archive.mp4 de 'American Engineer (Part III)' a partir de 185s
+[   184s]   v_taxi / archive: 3 filmes para 'taxi New York'
+[   186s]   v_taxi / commons: 10 filmes para 'taxi New York'
+[   200s]     + 1_archive.mp4 de 'Flying Businessman' a partir de 276s
+[   212s]     + 2_archive.mp4 de 'Letter to A Pilot' a partir de 482s
+[   226s]     + 3_archive.mp4 de '62 12 18 The Jack Benny Program S 13e 12 Jack And The Crying' a partir de 484s
+[   243s]   v_car_night / archive: 11 filmes para 'car driving night'
+[   244s]   v_car_night / commons: 7 filmes para 'car driving night'
+[   258s]     + 1_archive.mp4 de 'News Magazine of the Screen, The (Vol. 7, Issue 3)' a partir de 457s
+[   276s]     + 2_archive.mp4 de 'Two-Ford Freedom' a partir de 36s
+[   289s]     + 3_archive.mp4 de 'To the Fair' a partir de 556s
+[   303s]   v_gw_bridge / archive: 10 filmes para 'George Washington Bridge'
+[   304s]   v_gw_bridge / commons: 0 filmes para 'George Washington Bridge'
+[   325s]     + 1_archive.mp4 de '[Amateur film: Wathen collection: Greenwich Village, New Yor' a partir de 310s
+[   337s]     + 2_archive.mp4 de 'Victorious Generals Welcomed, 1945/06/11' a partir de 155s
+[   345s]     trecho escuro em 479s, tentando mais adiante
+[   356s]     trecho escuro em 752s, tentando mais adiante
+[   442s]     + 3_archive.mp4 de 'Nation at Your Fingertips, The' a partir de 229s
+[   456s]   v_sicily / archive: 8 filmes para 'Sicily'
+[   457s]   v_sicily / commons: 10 filmes para 'Sicily'
+[   481s]     + 1_archive.mp4 de '[News Magazine of the Screen, January 1951]' a partir de 405s
+[   500s]     + 2_archive.mp4 de '[News Magazine of the Screen, January 1951]' a partir de 403s
+[   515s]     + 3_archive.mp4 de 'War Department Report' a partir de 973s
+[   517s]   v_immigrants / archive: 0 filmes para 'immigrants arriving'
+[   520s]   v_immigrants / commons: 10 filmes para 'immigrants arriving'
+[   533s]     + 1_commons.mp4 de 'Emigrants (i.e. immigrants) landing at Ellis Island -.webm' a partir de 51s
+[   545s]     + 2_commons.mp4 de 'Immigrant to America.ogv' a partir de 441s
+[   545s]     corte falhou (Ellis_Island_immigration_footage.ogv?utm_source=co): lis_Island_immigration_footage.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   546s]     corte falhou (Ellis_Island_video.ogv?utm_source=commons.wikimedi): ommons/c/c1/Ellis_Island_video.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   546s]     corte falhou (%27Vance_is_a_traitor%2C_Go_ski_in_Russia%27_-_Hun): ainst_JD_Vance_and_his_family.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   546s]     corte falhou (Ha%27apala_After_The_World_War_II_-_en.webm?utm_so): a_After_The_World_War_II_-_en.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   546s]     corte falhou (Ha%27apala_After_The_World_War_II_-_he.ogv?utm_sou): la_After_The_World_War_II_-_he.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   546s]     corte falhou (Ha%27apala_After_The_World_War_II_-_lad.webm?utm_s): _After_The_World_War_II_-_lad.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   547s]     corte falhou (Opleiding_voor_Joodse_emigranten_Weeknummer_51-36_): r_51-36_-_Open_Beelden_-_13120.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   547s]     corte falhou (Surreal_Old_Timey_Film_Of_New_York_City_In_1911.we): Film_Of_New_York_City_In_1911.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   551s]   v_immigrants / archive: 1 filmes para 'Ellis Island'
+[   553s]   v_immigrants / commons: 10 filmes para 'Ellis Island'
+[   567s]     + 3_archive.mp4 de 'Arrival of emigrants [i.e. immigrants], Ellis Island' a partir de 80s
+[   580s]   v_prohibition / archive: 8 filmes para 'prohibition'
+[   581s]   v_prohibition / commons: 0 filmes para 'prohibition'
+[   595s]     + 1_archive.mp4 de '[Fox Hour Promotional Film]' a partir de 203s
+[   606s]     trecho escuro em 201s, tentando mais adiante
+[   621s]     + 2_archive.mp4 de 'Sensation Seekers, The' a partir de 317s
+[   632s]     + 3_archive.mp4 de 'Al Smith Hails End of Dry Law, 1933/11/13' a partir de 16s
+[   658s]   v_ny_1930 / archive: 12 filmes para 'New York City'
+[   659s]   v_ny_1930 / commons: 0 filmes para 'New York City'
+[   672s]     + 1_archive.mp4 de '[Home Movies: Unidentified]' a partir de 666s
+[   684s]     + 2_archive.mp4 de '[Home Movies: Laubscher Collection: Transcontinental Trip, 1' a partir de 431s
+[   695s]     trecho escuro em 435s, tentando mais adiante
+[   708s]     + 3_archive.mp4 de 'Housing in Our Time' a partir de 684s
+[   728s]   v_wedding / archive: 12 filmes para 'wedding'
+[   730s]   v_wedding / commons: 10 filmes para 'wedding'
+[   740s]     trecho escuro em 436s, tentando mais adiante
+[   747s]     trecho escuro em 685s, tentando mais adiante
+[   759s]     + 1_archive.mp4 de 'Home Movie: 97477: St. Louis Area Family, Reel 9' a partir de 934s
+[   778s]     + 2_archive.mp4 de 'Community Development with Gunnison Homes' a partir de 362s
+[   810s]     + 3_archive.mp4 de 'Home Economics Story, The' a partir de 527s
+[   822s]   v_montreal / archive: 8 filmes para 'Montreal'
+[   824s]   v_montreal / commons: 10 filmes para 'Montreal'
+[   838s]     + 1_archive.mp4 de 'Flood Relief. President Inspects Area and Speeds Aid, 1955/0' a partir de 92s
+[   853s]     + 2_archive.mp4 de 'Captain Brown, Harbor Pilot' a partir de 232s
+[   868s]     + 3_archive.mp4 de 'Expo 67' a partir de 620s
+[   883s]   v_newspaper_press / archive: 9 filmes para 'newspaper printing'
+[   885s]   v_newspaper_press / commons: 10 filmes para 'newspaper printing'
+[   904s]     + 1_archive.mp4 de 'Dateline: Long Island' a partir de 602s
+[   924s]     + 2_archive.mp4 de 'Build Your Vocabulary' a partir de 223s
+[   937s]     + 3_archive.mp4 de 'Our Enemy: The Japanese' a partir de 423s
+[   957s]   v_police_car / archive: 12 filmes para 'police'
+[   958s]   v_police_car / commons: 10 filmes para 'police'
+[   972s]     + 1_archive.mp4 de 'Dropout, The' a partir de 224s
+[   986s]     + 2_archive.mp4 de '[Home movie: 098948: Michigan scenes late 1960s]' a partir de 328s
+[  1001s]     + 3_archive.mp4 de "Summer of '63" a partir de 439s
+[  1017s]   v_brooklyn / archive: 9 filmes para 'Brooklyn'
+[  1019s]   v_brooklyn / commons: 10 filmes para 'Brooklyn'
+[  1031s]     + 1_archive.mp4 de "Space Progress. 'Man-In'Space' Capsule Recovery Successful, " a partir de 68s
+[  1046s]     + 2_archive.mp4 de 'Reds Withdraw. Cut Down Troops in East Germany, 1956/06/25' a partir de 127s
+[  1065s]     + 3_archive.mp4 de 'Give Yourself the Green Light' a partir de 468s
+[  1082s]   v_courthouse / archive: 9 filmes para 'courthouse'
+[  1083s]   v_courthouse / commons: 0 filmes para 'courthouse'
+[  1098s]     trecho escuro em 679s, tentando mais adiante
+[  1116s]     trecho escuro em 1066s, tentando mais adiante
+[  1135s]     + 1_archive.mp4 de 'Vista Stock Shots: Entertainment' a partir de 1454s
+[  1147s]     + 2_archive.mp4 de 'And Then There Were Four' a partir de 539s
+[  1160s]     + 3_archive.mp4 de '[Home Movies: C.A. Samsel Family, R2, DeQueen, Arkansas]' a partir de 96s
+[  1177s]   v_desert / archive: 11 filmes para 'Arizona desert'
+[  1179s]   v_desert / commons: 10 filmes para 'Arizona desert'
+[  1191s]     trecho escuro em 323s, tentando mais adiante
+[  1202s]     trecho escuro em 507s, tentando mais adiante
+[  1211s]     + 1_archive.mp4 de 'Home Movie: 97406: San Francisco' a partir de 691s
+[  1227s]     + 2_archive.mp4 de 'Fashion Horizons' a partir de 403s
+[  1234s]     trecho escuro em 277s, tentando mais adiante
+[  1245s]     trecho escuro em 435s, tentando mais adiante
+[  1255s]     + 3_archive.mp4 de 'Home Movie: 97240: Scenes around Phoenix, Arizona and South ' a partir de 593s
+[  1272s]   v_ship_sea / archive: 11 filmes para 'fishing boat'
+[  1274s]   v_ship_sea / commons: 10 filmes para 'fishing boat'
+[  1287s]     + 1_archive.mp4 de '[Home Movies: Oregon, Montana]' a partir de 687s
+[  1306s]     + 2_archive.mp4 de 'Chevrolet Leader News (Vol. 3, No. 1)' a partir de 194s
+[  1326s]     + 3_archive.mp4 de '[Amateur film: Summers collection: San Francisco, California' a partir de 165s
+[  1346s]   v_typewriter_office / archive: 11 filmes para 'office typing'
+[  1348s]   v_typewriter_office / commons: 10 filmes para 'office typing'
+[  1363s]     + 1_archive.mp4 de 'City of Neighbors: Give Once for All' a partir de 295s
+[  1378s]     + 2_archive.mp4 de 'Consuming Women (Women as Consumers)' a partir de 75s
+[  1391s]     + 3_archive.mp4 de 'Anyone at All: Safety in the Community' a partir de 471s
