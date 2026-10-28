@@ -21,6 +21,9 @@ API = "https://api.replicate.com/v1"
 DEFAULT_MODEL = "black-forest-labs/flux-1.1-pro-ultra"
 GUARD = (" Nobody's face is recognizable; no real person's likeness; people only from behind or far away."
          " No text, no logos, no watermark.")
+# thumbnails: an invented illustrated character may show his face, but never a real person's likeness
+GUARD_FICTIONAL = (" The character is entirely fictional and must not resemble any real person, actor or film character."
+                   " No text, no letters, no logos, no watermark.")
 
 
 def session():
@@ -103,7 +106,8 @@ def main():
         n = sh.get("n", spec.get("n", 1))
         if not a.force and a.existing and os.path.exists(os.path.join(a.existing, f"{sid}_1.jpg")):
             log.append(f"| `{sid}` | já existia, pulado |"); continue
-        prompt = sh["prompt"].rstrip(". ") + style + GUARD
+        guard = GUARD_FICTIONAL if sh.get("guard", spec.get("guard")) == "fictional" else GUARD
+        prompt = sh["prompt"].rstrip(". ") + style + guard
         files = []
         for k in range(1, n + 1):
             inp = {"prompt": prompt, "aspect_ratio": "16:9", "output_format": "jpg",
