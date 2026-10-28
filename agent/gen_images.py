@@ -107,11 +107,11 @@ def main():
         if not a.force and a.existing and os.path.exists(os.path.join(a.existing, f"{sid}_1.jpg")):
             log.append(f"| `{sid}` | já existia, pulado |"); continue
         guard = GUARD_FICTIONAL if sh.get("guard", spec.get("guard")) == "fictional" else GUARD
-        prompt = sh["prompt"].rstrip(". ") + style + guard
+        prompt = sh["prompt"].rstrip(". ") + sh.get("style", style) + guard
         files = []
         for k in range(1, n + 1):
             inp = {"prompt": prompt, "aspect_ratio": "16:9", "output_format": "jpg",
-                   "safety_tolerance": 2, "raw": bool(spec.get("raw", True)), "seed": 1000 * k + len(sid)}
+                   "safety_tolerance": 2, "raw": bool(sh.get("raw", spec.get("raw", True))), "seed": 1000 * k + len(sid)}
             try:
                 url = predict(s, model, inp)
                 img = Image.open(io.BytesIO(requests.get(url, timeout=120).content)).convert("RGB")
