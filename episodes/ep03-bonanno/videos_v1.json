@@ -1,0 +1,23 @@
+{
+ "defaults": {"n": 3, "clip": 12, "years": [1920, 1970]},
+ "shots": [
+  {"id": "v_rain_night", "query": "rain night city", "alt": ["rainy street night", "New York rain"], "years": [1940, 1968]},
+  {"id": "v_park_avenue", "query": "Park Avenue", "alt": ["Manhattan traffic", "New York City street"], "years": [1955, 1968]},
+  {"id": "v_taxi", "query": "taxi New York", "alt": ["taxicab", "New York traffic night"], "years": [1950, 1968]},
+  {"id": "v_car_night", "query": "car driving night", "alt": ["highway night", "automobile night"], "years": [1950, 1968]},
+  {"id": "v_gw_bridge", "query": "George Washington Bridge", "alt": ["Hudson River bridge"], "years": [1940, 1968]},
+  {"id": "v_sicily", "query": "Sicily", "alt": ["Sicilian village", "Palermo"], "years": [1920, 1965]},
+  {"id": "v_immigrants", "query": "immigrants arriving", "alt": ["Ellis Island", "steamship immigrants"], "years": [1905, 1930]},
+  {"id": "v_prohibition", "query": "prohibition", "alt": ["bootleggers", "liquor raid", "speakeasy"], "years": [1920, 1933]},
+  {"id": "v_ny_1930", "query": "New York City", "alt": ["Manhattan 1930", "Times Square"], "years": [1928, 1935]},
+  {"id": "v_wedding", "query": "wedding", "alt": ["wedding reception", "ballroom dance"], "years": [1948, 1962]},
+  {"id": "v_montreal", "query": "Montreal", "alt": ["Canada city"], "years": [1950, 1968]},
+  {"id": "v_newspaper_press", "query": "newspaper printing", "alt": ["printing press", "newspapers"], "years": [1940, 1968]},
+  {"id": "v_police_car", "query": "police", "alt": ["police car", "New York police"], "years": [1950, 1968]},
+  {"id": "v_brooklyn", "query": "Brooklyn", "alt": ["Brooklyn street", "row houses"], "years": [1950, 1968]},
+  {"id": "v_courthouse", "query": "courthouse", "alt": ["court building", "federal court"], "years": [1950, 1968]},
+  {"id": "v_desert", "query": "Arizona desert", "alt": ["Tucson", "desert highway", "saguaro"], "years": [1940, 1970]},
+  {"id": "v_ship_sea", "query": "fishing boat", "alt": ["boat at sea", "ocean waves ship"], "years": [1920, 1960]},
+  {"id": "v_typewriter_office", "query": "office typing", "alt": ["typewriter", "FBI"], "years": [1940, 1968]}
+ ]
+}

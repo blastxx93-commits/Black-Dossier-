@@ -81,10 +81,20 @@ def _archive_query(query, rows):
     return data.get("response", {}).get("docs", [])
 
 
-def search_archive(q, rows=8, years=None):
+def search_archive(q, rows=8, years=None, collections=None, item=None):
     era = f" AND year:[{years[0]} TO {years[1]}]" if years else ""
-    docs = _archive_query(f"({q}) AND mediatype:movies AND collection:(prelinger OR universal_newsreels OR fedflix){era}", rows)
-    docs += _archive_query(f"({q}) AND mediatype:movies AND licenseurl:*publicdomain*{era}", 4)
+    if item:
+        docs = [{"identifier": item, "title": item, "collection": list(PD_COLLECTIONS)}]
+        meta = get_json(f"https://archive.org/metadata/{item}")
+        if meta:
+            md = meta.get("metadata", {})
+            docs = [{"identifier": item, "title": md.get("title", item), "collection": md.get("collection", []),
+                     "licenseurl": md.get("licenseurl", "")}]
+    else:
+        cols = " OR ".join(collections or ["prelinger", "universal_newsreels", "fedflix"])
+        docs = _archive_query(f"({q}) AND mediatype:movies AND collection:({cols}){era}", rows)
+        if not collections:
+            docs += _archive_query(f"({q}) AND mediatype:movies AND licenseurl:*publicdomain*{era}", 4)
     out, ids = [], set()
     for d in docs:
         if d["identifier"] in ids:
@@ -115,7 +125,9 @@ def search_archive(q, rows=8, years=None):
     return out
 
 
-def search_commons(q, rows=10, years=None):
+def search_commons(q, rows=10, years=None, collections=None, item=None):
+    if item:
+        return []
     data = get_json("https://commons.wikimedia.org/w/api.php", {
         "action": "query", "format": "json", "generator": "search", "gsrsearch": f"{q} filetype:video",
         "gsrnamespace": 6, "gsrlimit": rows, "prop": "imageinfo", "iiprop": "url|size|extmetadata|mediatype"})
@@ -153,10 +165,12 @@ def mean_brightness(path, t):
     return sum(r.stdout) / max(1, len(r.stdout))
 
 
-def cut_clip(url, length, clip, out_path, where=0.35, _retry=0):
+def cut_clip(url, length, clip, out_path, where=0.35, _retry=0, at=None):
     if not length:
         length = probe_length(url)
-    if length and length < clip + 4:
+    if at is not None:
+        start = float(at)
+    elif length and length < clip + 4:
         start = 0.0
         clip = max(3.0, length - 1)
     else:
@@ -176,7 +190,7 @@ def cut_clip(url, length, clip, out_path, where=0.35, _retry=0):
         return None
     # reject clips that open dark (fades, leaders, night titles): retry later in the film
     dark = [t for t in (0.5, clip / 2, clip - 1) if mean_brightness(out_path, t) < 14]
-    if dark and _retry < 2 and length:
+    if dark and _retry < 2 and length and at is None:
         log(f"    trecho escuro em {start:.0f}s, tentando mais adiante")
         return cut_clip(url, length, clip, out_path, min(0.85, where + 0.2), _retry + 1)
     if len(dark) >= 2 or os.path.getsize(out_path) < 50_000:
@@ -188,7 +202,7 @@ def cut_clip(url, length, clip, out_path, where=0.35, _retry=0):
 def frames(path, n=3):
     out = []
     for k in range(n):
-        r = subprocess.run([FF, "-v", "error", "-ss", f"{1 + k * 4}", "-i", path, "-frames:v", "1", "-vf", "scale=320:-2",
+        r = subprocess.run([FF, "-v", "error", "-ss", f"{1 + k * 3}", "-i", path, "-frames:v", "1", "-vf", "scale=320:-2",
                             "-f", "image2pipe", "-vcodec", "png", "-"], capture_output=True)
         if r.stdout:
             import io
@@ -239,12 +253,16 @@ def run(ep, out_root, only=None, budget_min=40):
         sdir = os.path.join(ep_dir, "video", sid)
         os.makedirs(sdir, exist_ok=True)
         files = []
-        for q in [s["query"]] + s.get("alt", []):
+        per_film = s.get("per_film", dfl.get("per_film", 1))
+        queries = [s.get("query", s.get("item", ""))] + s.get("alt", [])
+        for q in queries:
             if len(files) >= want:
                 break
             cands = []
-            for src in s.get("sources", dfl.get("sources", list(SOURCES))):
-                res = SOURCES[src](q, years=s.get("years", dfl.get("years")))
+            srcs = ["archive"] if s.get("item") else s.get("sources", dfl.get("sources", list(SOURCES)))
+            for src in srcs:
+                res = SOURCES[src](q, years=s.get("years", dfl.get("years")),
+                                   collections=s.get("collections", dfl.get("collections")), item=s.get("item"))
                 log(f"  {sid} / {src}: {len(res)} filmes para {q!r}")
                 cands += res
             for c in cands:
@@ -253,15 +271,26 @@ def run(ep, out_root, only=None, budget_min=40):
                 if c["url"] in seen:
                     continue
                 seen.add(c["url"])
-                fp = os.path.join(sdir, f"{len(files) + 1}_{c['source']}.mp4")
-                start = cut_clip(c["url"], c.get("length", 0), clip, fp, s.get("where", 0.35))
-                if start is None:
-                    continue
-                files.append(fp)
-                credits.append({"file": f"video/{sid}/{os.path.basename(fp)}", "shot": sid, "source": c["source"],
-                                "license": c["license"], "title": c["title"], "page": c["page"],
-                                "start_sec": round(start, 1), "author": c.get("author", ""), "query": q})
-                log(f"    + {os.path.basename(fp)} de {c['title'][:60]!r} a partir de {start:.0f}s")
+                # explicit times ("at"), or several points spread through the film ("per_film")
+                if s.get("at"):
+                    points = [("at", t) for t in s["at"]]
+                elif per_film > 1:
+                    points = [("where", 0.12 + 0.76 * k / (per_film - 1)) for k in range(per_film)]
+                else:
+                    points = [("where", s.get("where", 0.35))]
+                for kind, v in points:
+                    if len(files) >= want:
+                        break
+                    fp = os.path.join(sdir, f"{len(files) + 1}_{c['source']}.mp4")
+                    start = cut_clip(c["url"], c.get("length", 0), clip, fp, v if kind == "where" else 0.35,
+                                     at=v if kind == "at" else None)
+                    if start is None:
+                        continue
+                    files.append(fp)
+                    credits.append({"file": f"video/{sid}/{os.path.basename(fp)}", "shot": sid, "source": c["source"],
+                                    "license": c["license"], "title": c["title"], "page": c["page"],
+                                    "start_sec": round(start, 1), "author": c.get("author", ""), "query": q})
+                    log(f"    + {os.path.basename(fp)} de {c['title'][:60]!r} a partir de {start:.0f}s")
         if not files:
             missing.append(sid)
         rows.append((sid, files))
