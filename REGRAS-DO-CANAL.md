@@ -11,6 +11,7 @@ Definidas pelo dono do canal em 27/10/2026. O Claude segue estas regras em todo 
   - toda virada de capítulo termina com um mini-gancho;
   - frases curtas e contexto comprimido;
   - CTA depois do hook curto (~6 s).
+- **Duração: ~20 minutos a partir do FILE 002** (roteiro de ~2.900–3.000 palavras; a voz fala ~150 palavras/min). O FILE 001 (Bonanno) fica com ~14 min.
 
 ## 1. Imagens e vídeos: nada repetido
 - Nenhuma imagem, clipe ou cena de IA aparece duas vezes no mesmo vídeo (nem com outro corte ou zoom).
