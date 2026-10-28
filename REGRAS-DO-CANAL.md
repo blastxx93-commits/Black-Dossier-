@@ -10,7 +10,7 @@ Definidas pelo dono do canal em 27/10/2026. O Claude segue estas regras em todo 
   - 2–3 perguntas abertas no hook, pagas ao longo do vídeo (a maior reviravolta é prometida no hook e entregue no fim);
   - toda virada de capítulo termina com um mini-gancho;
   - frases curtas e contexto comprimido;
-  - CTA depois do hook curto (~6 s).
+  - CTA no meio do vídeo (logo após um gancho/cliffhanger) e no final.
 - **Duração: ~20 minutos a partir do FILE 002** (roteiro de ~2.900–3.000 palavras; a voz fala ~150 palavras/min). O FILE 001 (Bonanno) fica com ~14 min.
 
 ## 1. Imagens e vídeos: nada repetido
@@ -19,10 +19,11 @@ Definidas pelo dono do canal em 27/10/2026. O Claude segue estas regras em todo 
 - Para cobrir ~16–18 min sem repetir: mais fotos reais e clipes de arquivo por episódio, cartelas de texto (datas, citações, números) e
   1 cena de IA por momento que não tem foto. Custo de IA sobe para ~20–30 imagens (~US$1,20–1,80 por episódio), mais ~US$0,06 da thumbnail ilustrada.
 
-## 2. CTA depois do hook e no final
-- **Depois do hook** (antes do capítulo 1), uma frase curta, ~8–10 s, sem quebrar o clima. Modelo:
-  "Before we open this file: if you're into the real stories behind the American Mafia, subscribe and turn on notifications. Black Dossier releases a new file every week."
-- **No final**: CTA de inscrição + pergunta para os comentários + gancho do próximo episódio.
+## 2. CTA no meio e no final (atualizado 28/10/2026)
+- **Nada de CTA logo depois do hook.**
+- **No meio do vídeo** (~50%): logo depois de um cliffhanger de fim de capítulo, curto (~10 s), prometendo a resposta.
+  Modelo: "One second before the answer. If this file has you hooked, subscribe and turn on notifications. It's free, and it keeps these investigations coming. Now, ..."
+- **No final**: pergunta para os comentários + CTA de inscrição.
 - Na tela: cartela "SUBSCRIBE" no estilo do canal durante o CTA.
 
 ## 3. Texto sem repetição de palavras
