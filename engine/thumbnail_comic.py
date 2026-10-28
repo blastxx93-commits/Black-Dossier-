@@ -35,8 +35,8 @@ def make(src, out, l1, l2, cx=905, y1=40, maxw=620):
     for x, y, t, f in ((x1, y1, l1, f1), (x2, y2, l2, f2)):
         d.text((x, y), t, font=f, fill=(12, 12, 14, 255))
     # soft light halo so the title reads over the skyline
-    halo = txt.split()[3].filter(ImageFilter.MaxFilter(9)).filter(ImageFilter.GaussianBlur(10))
-    glow = Image.new("RGBA", im.size, (235, 244, 252, 0)); glow.putalpha(halo.point(lambda v: min(255, int(v * 0.85))))
+    halo = txt.split()[3].filter(ImageFilter.MaxFilter(15)).filter(ImageFilter.GaussianBlur(14))
+    glow = Image.new("RGBA", im.size, (235, 244, 252, 0)); glow.putalpha(halo.point(lambda v: min(255, int(v * 1.0))))
     im = Image.alpha_composite(Image.alpha_composite(im.convert("RGBA"), glow), txt).convert("RGB")
     im.save(out, quality=93)
     im.resize((320, 180), Image.LANCZOS).save(out.replace(".jpg", "_mini.jpg"), quality=90)

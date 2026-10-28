@@ -1,0 +1,2173 @@
+{
+ "output": "BlackDossier_FILE001_Bonanno.mp4",
+ "fps": 24,
+ "music": [
+  {
+   "file": "trilha.wav",
+   "start": 0,
+   "gain": -21,
+   "fade_in": 4,
+   "fade_out": 5
+  }
+ ],
+ "chapters": [
+  {
+   "audio": "audio/ch00_hook.flac",
+   "lead_in": 0,
+   "tail": 1.2,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/ai/ai_shot_pavement_1.jpg",
+     "move": "in",
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -21,
+       "at": 0.05
+      }
+     ],
+     "dur": 3.18,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "OCTOBER 1964\nPARK AVENUE, NEW YORK",
+     "size": 64,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 3.78,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_park_rain_1.jpg",
+     "move": "in",
+     "dur": 2.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_grab_arm_1.jpg",
+     "move": "in",
+     "dur": 5.22,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"Come on, Joe.\nMy boss wants to see you.\"",
+     "size": 90,
+     "dur": 2.66,
+     "fixed": true
+    },
+    {
+     "type": "black",
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -23,
+       "at": 0.0
+      }
+     ],
+     "dur": 3.29,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_car_away_1.jpg",
+     "move": "in",
+     "dur": 2.19,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Joseph Bonanno",
+     "label": "BOSS",
+     "fields": {
+      "Age": "59",
+      "Commission": "Since 1931"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/stamp.wav",
+       "gain": -19,
+       "at": 1.2
+      }
+     ],
+     "stamp": "MISSING",
+     "dur": 4.6,
+     "fixed": true
+    },
+    {
+     "type": "document",
+     "text": "UNITED STATES DISTRICT COURT\nSOUTHERN DISTRICT OF NEW YORK\n\nGRAND JURY SUBPOENA\n\nBONANNO, JOSEPH\nTo appear: October 21, 1964",
+     "stamp": "DRAMATIZATION",
+     "dur": 4.24,
+     "fixed": true
+    },
+    {
+     "type": "counter",
+     "to": 19,
+     "label": "months missing",
+     "prefix": "",
+     "suffix": "",
+     "dur": 2.42,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "FBI\nNO TRACE",
+     "size": 90,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 2.1,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_brooklyn_1965_1.jpg",
+     "move": "in",
+     "focus": [
+      0.52,
+      0.72
+     ],
+     "dur": 5.1,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_commission_table_1.jpg",
+     "move": "in",
+     "dur": 3.42,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "He had tried\nto kill them.",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.0
+      }
+     ],
+     "dur": 3.16,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/foley_square/1_commons.jpg",
+     "move": "up",
+     "caption": "Federal courthouse, Manhattan",
+     "dur": 4.02,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "\"I WAS KIDNAPPED.\"",
+     "size": 90,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 2.62,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_tucson_house_1.jpg",
+     "move": "in",
+     "dur": 3.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_bomb_garage_1.jpg",
+     "move": "in",
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -24,
+       "at": 0.2
+      }
+     ],
+     "dur": 3.96,
+     "fixed": true
+    },
+    {
+     "type": "black",
+     "dur": 2.42,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "An FBI agent.",
+     "size": 150,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.0
+      }
+     ],
+     "dur": 1.84,
+     "fixed": true
+    },
+    {
+     "type": "black",
+     "dur": 1.68,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "The Boss Who Vanished",
+     "subtitle": "Joe Bonanno \u00b7 1964",
+     "file": "FILE No. 001",
+     "stamp": "CLASSIFIED",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/stamp.wav",
+       "gain": -19,
+       "at": 0.9
+      }
+     ],
+     "dur": 2.08,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "SUBSCRIBE",
+     "subtitle": "New file every week",
+     "file": "BLACK DOSSIER",
+     "stamp": "OPEN FILE",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/stamp.wav",
+       "gain": -19,
+       "at": 0.9
+      }
+     ],
+     "dur": 6.94,
+     "fixed": true
+    },
+    {
+     "type": "black",
+     "dur": 3.122,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch01.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "chapter",
+     "num": 1,
+     "title": "The youngest boss in America",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 3.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/bonanno/3_commons.jpg",
+     "move": "in",
+     "caption": "FBI chart: the Joseph Bonanno family",
+     "focus": [
+      0.5,
+      0.12
+     ],
+     "dur": 4.94,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ep02/castellammare_old.jpg",
+     "move": "in",
+     "caption": "Castellammare del Golfo, Sicily",
+     "dur": 6.52,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/castellammare/1_commons.jpg",
+     "move": "left",
+     "dur": 3.3,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_castellammare_1905_1.jpg",
+     "move": "out",
+     "dur": 2.58,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_car_night/1_archive.mp4",
+     "fit": "blur",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.7,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_fishing_boat_1924_1.jpg",
+     "move": "in",
+     "dur": 2.1,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ship_sea/2_archive.mp4",
+     "fit": "blur",
+     "start": 5.5,
+     "xfade": 0.35,
+     "caption": "Florida",
+     "dur": 1.22,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ny_1930/3_archive.mp4",
+     "fit": "blur",
+     "start": 0,
+     "xfade": 0.35,
+     "caption": "New York",
+     "dur": 1.78,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/prohibition/1_commons.jpg",
+     "move": "in",
+     "caption": "Prohibition, 1920s",
+     "dur": 1.56,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Salvatore Maranzano",
+     "label": "BOSS",
+     "fields": {
+      "Origin": "Castellammare del Golfo"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 3.84,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_sicily/2_archive.mp4",
+     "fit": "blur",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 1.66,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Joe Masseria",
+     "label": "THE ENEMY",
+     "fields": {
+      "Title": "'Joe the Boss'"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "photo": "a/ep02/masseria.jpg",
+     "focus": [
+      0.5,
+      0.3
+     ],
+     "dur": 4.96,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "THE CASTELLAMMARESE WAR\n1930 \u2013 1931",
+     "size": 62,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 2.56,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_maranzano_office_1.jpg",
+     "move": "in",
+     "dur": 4.26,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ep02/luciano_mug.jpg",
+     "move": "in",
+     "caption": "Charles 'Lucky' Luciano",
+     "focus": [
+      0.7,
+      0.4
+     ],
+     "dur": 3.28,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/hotel_astor/1_loc.jpg",
+     "move": "in",
+     "caption": "New York",
+     "focus": [
+      0.25,
+      0.5
+     ],
+     "dur": 2.25,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "THE COMMISSION",
+     "size": 100,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 7.25,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/hotel_astor/2_loc.jpg",
+     "move": "in",
+     "caption": "Times Square, New York",
+     "dur": 2.14,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Joseph Bonanno",
+     "label": "NEW BOSS",
+     "fields": {
+      "Since": "1931",
+      "Seat": "The Commission"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 3.48,
+     "fixed": true
+    },
+    {
+     "type": "counter",
+     "to": 26,
+     "label": "years old",
+     "prefix": "",
+     "suffix": "",
+     "dur": 6.28,
+     "fixed": true
+    },
+    {
+     "type": "timeline",
+     "items": [
+      [
+       "1931",
+       "Boss at 26"
+      ],
+      [
+       "1940s",
+       "The empire grows"
+      ],
+      [
+       "1963",
+       "Still standing"
+      ]
+     ],
+     "dur": 6.8,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "\"JOE BANANAS\"",
+     "size": 100,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 3.74,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_sicily/1_archive.mp4",
+     "fit": "blur",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.86,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_cheese_factory_1.jpg",
+     "move": "in",
+     "dur": 4.08,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/brooklyn_1960s/3_commons.jpg",
+     "move": "right",
+     "dur": 1.7,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_montreal/3_archive.mp4",
+     "fit": "blur",
+     "start": 0,
+     "xfade": 0.35,
+     "caption": "Montreal",
+     "dur": 1.38,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_desert_dawn_1968_1.jpg",
+     "move": "in",
+     "caption": "Tucson, Arizona",
+     "dur": 3.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ep02/luciano_couple.jpg",
+     "move": "in",
+     "caption": "Lucky Luciano (died 1962)",
+     "focus": [
+      0.6,
+      0.3
+     ],
+     "dur": 5.16,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/genovese/1_loc.jpg",
+     "move": "in",
+     "caption": "Vito Genovese, federal prisoner",
+     "focus": [
+      0.5,
+      0.2
+     ],
+     "dur": 2.66,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "1963",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 2.86,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_envelope_contract_1.jpg",
+     "move": "in",
+     "dur": 4.111,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch02.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "chapter",
+     "num": 2,
+     "title": "The contract",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 2.06,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/valachi_chart/2_loc.jpg",
+     "move": "in",
+     "caption": "1963: charts of the Mafia families",
+     "dur": 3.74,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Carlo Gambino",
+     "label": "BOSS",
+     "fields": {
+      "Family": "Gambino"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "photo": "a/gambino/1_commons.jpg",
+     "focus": [
+      0.5,
+      0.35
+     ],
+     "dur": 1.2,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Tommy Lucchese",
+     "label": "BOSS",
+     "fields": {
+      "Family": "Lucchese"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "photo": "a/lucchese/1_commons.jpg",
+     "focus": [
+      0.45,
+      0.3
+     ],
+     "dur": 1.28,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Stefano Magaddino",
+     "label": "BOSS",
+     "fields": {
+      "City": "Buffalo",
+      "Relation": "Bonanno's cousin"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "photo": "a/magaddino/1_commons.jpg",
+     "focus": [
+      0.5,
+      0.35
+     ],
+     "dur": 4.74,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "CANADA \u00b7 ARIZONA \u00b7 CALIFORNIA",
+     "size": 62,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 4.62,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/gambino/3_commons.jpg",
+     "move": "down",
+     "focus": [
+      0.5,
+      0.2
+     ],
+     "dur": 4.56,
+     "fixed": true
+    },
+    {
+     "type": "black",
+     "dur": 6.24,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Strike first.",
+     "size": 150,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.0
+      }
+     ],
+     "dur": 2.06,
+     "fixed": true
+    },
+    {
+     "type": "document",
+     "text": "TARGETS\n\n1. CARLO GAMBINO\n2. TOMMY LUCCHESE\n3. STEFANO MAGADDINO\n4. FRANK DESIMONE",
+     "stamp": "DRAMATIZATION",
+     "dur": 8.74,
+     "fixed": true
+    },
+    {
+     "type": "counter",
+     "to": 4,
+     "label": "bosses marked for death",
+     "prefix": "",
+     "suffix": "",
+     "dur": 4.82,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Joseph Magliocco",
+     "label": "BOSS",
+     "fields": {
+      "Family": "Profaci"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 9.48,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Joe Colombo",
+     "label": "CAPTAIN",
+     "fields": {
+      "Age": "40"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 6.08,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_colombo_phone_1.jpg",
+     "move": "in",
+     "dur": 1.82,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "A gamble\nwith his life.",
+     "size": 120,
+     "dur": 2.86,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Or a shortcut\nto the top.",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.0
+      }
+     ],
+     "dur": 2.54,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "THE TARGETS\nKNEW EVERYTHING.",
+     "size": 70,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 3.22,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "SUMMONED.",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 3.26,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_magliocco_house_1.jpg",
+     "move": "in",
+     "dur": 7.78,
+     "fixed": true
+    },
+    {
+     "type": "counter",
+     "to": 50000,
+     "label": "fine",
+     "prefix": "$",
+     "suffix": "",
+     "dur": 3.76,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Joe Colombo",
+     "label": "NEW BOSS",
+     "fields": {},
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/stamp.wav",
+       "gain": -19,
+       "at": 1.2
+      }
+     ],
+     "stamp": "PROMOTED",
+     "dur": 3.84,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Joseph Magliocco",
+     "label": "BOSS",
+     "fields": {
+      "Died": "December 1963"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/stamp.wav",
+       "gain": -19,
+       "at": 1.2
+      }
+     ],
+     "stamp": "DECEASED",
+     "dur": 2.5,
+     "fixed": true
+    },
+    {
+     "type": "black",
+     "dur": 3.02,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "He never came.",
+     "size": 150,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.0
+      }
+     ],
+     "dur": 3.26,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "SILENCE.",
+     "size": 110,
+     "dur": 3.312,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch03.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "chapter",
+     "num": 3,
+     "title": "Nowhere to run",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 2.78,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "A declaration\nof war.",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.0
+      }
+     ],
+     "dur": 2.88,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_montreal_1964_1.jpg",
+     "move": "in",
+     "caption": "Montreal, 1964",
+     "dur": 8.26,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/bordeaux_prison/2_commons.jpg",
+     "move": "in",
+     "caption": "Bordeaux Prison, Montreal",
+     "dur": 4.54,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "EXPELLED\nFROM CANADA",
+     "size": 80,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 1.54,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_typewriter_office/1_archive.mp4",
+     "fit": "blur",
+     "start": 8.5,
+     "xfade": 0.35,
+     "caption": "New York",
+     "dur": 2.9,
+     "fixed": true
+    },
+    {
+     "type": "document",
+     "text": "THE COMMISSION\n\nRe: BONANNO, JOSEPH\n\nRemoved as head of the family.\nRecognized in his place:\nGASPAR DiGREGORIO",
+     "stamp": "DRAMATIZATION",
+     "dur": 5.44,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Gaspar DiGregorio",
+     "label": "NEW BOSS",
+     "fields": {
+      "Chosen by": "The Commission"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 6.22,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "HIS BEST MAN.",
+     "size": 100,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 7.12,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/foley_square/3_commons.jpg",
+     "move": "up",
+     "caption": "Federal courts, Manhattan",
+     "dur": 5.66,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Two courts.",
+     "size": 150,
+     "dur": 4.9,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "PRISON.\nOR THE CEMETERY.",
+     "size": 80,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 3.12,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "OCTOBER 20, 1964",
+     "size": 90,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 5.74,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "One night left.",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.0
+      }
+     ],
+     "dur": 2.231,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch04.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "chapter",
+     "num": 4,
+     "title": "The night on Park Avenue",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 2.96,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "NEAR MIDNIGHT\nLIGHT RAIN",
+     "size": 80,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 8.14,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "PARK AVENUE\n& 36TH STREET",
+     "size": 90,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 2.78,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "William P. Maloney",
+     "label": "HIS LAWYER",
+     "fields": {
+      "Witness": "The only one"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 7.7,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_rain_empty_corner_1.jpg",
+     "move": "in",
+     "dur": 4.4,
+     "fixed": true
+    },
+    {
+     "type": "black",
+     "dur": 3.56,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"Come on, Joe.\"",
+     "size": 140,
+     "dur": 3.18,
+     "fixed": true
+    },
+    {
+     "type": "black",
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.6
+      }
+     ],
+     "dur": 6.86,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "GONE.",
+     "size": 130,
+     "dur": 4.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_newsroom_1964_1.jpg",
+     "move": "in",
+     "dur": 3.72,
+     "fixed": true
+    },
+    {
+     "type": "document",
+     "text": "EXTRA\n\nMAFIA CHIEF\nSEIZED ON PARK AVENUE\n\nGunmen force Bonanno into car",
+     "stamp": "DRAMATIZATION",
+     "dur": 3.3,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_missing_board_1.jpg",
+     "move": "in",
+     "dur": 2.32,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "HIS OWN SOLDIERS\nSEARCHED TOO.",
+     "size": 70,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 2.26,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "His version.",
+     "size": 140,
+     "dur": 2.7,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_car_floor_1.jpg",
+     "move": "in",
+     "dur": 5.34,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "GEORGE WASHINGTON BRIDGE\n\u2192 NEW JERSEY",
+     "size": 64,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 4.6,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Peter Magaddino",
+     "label": "CAPTOR?",
+     "fields": {
+      "Relation": "Cousin"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 5.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_farmhouse_1.jpg",
+     "move": "in",
+     "dur": 3.02,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_farm_room_1.jpg",
+     "move": "in",
+     "dur": 1.82,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_tv_studio_1983_1.jpg",
+     "move": "in",
+     "caption": "Television interview, 1983",
+     "dur": 5.52,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"My dear cousin.\"",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.0
+      }
+     ],
+     "dur": 1.44,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/nyc_1931/3_loc.jpg",
+     "move": "up",
+     "caption": "Buffalo, New York",
+     "dur": 5.14,
+     "fixed": true
+    },
+    {
+     "type": "black",
+     "dur": 1.56,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Only one problem.",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.0
+      }
+     ],
+     "dur": 2.686,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch05.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "chapter",
+     "num": 5,
+     "title": "Nineteen months",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 2.44,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "RELEASED?",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 3.82,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Joseph Bonanno",
+     "label": "BOSS",
+     "fields": {},
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/stamp.wav",
+       "gain": -19,
+       "at": 1.2
+      }
+     ],
+     "stamp": "WHEREABOUTS UNKNOWN",
+     "dur": 5.32,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Gone.",
+     "size": 170,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.0
+      }
+     ],
+     "dur": 0.72,
+     "fixed": true
+    },
+    {
+     "type": "timeline",
+     "items": [
+      [
+       "Oct 1964",
+       "Vanishes"
+      ],
+      [
+       "1965",
+       "Rumors"
+      ],
+      [
+       "May 1966",
+       "Returns"
+      ]
+     ],
+     "dur": 3.96,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_ocean_dark_1.jpg",
+     "move": "in",
+     "dur": 3.88,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_immigrants/3_archive.mp4",
+     "fit": "blur",
+     "start": 0,
+     "xfade": 0.35,
+     "caption": "New York",
+     "dur": 3.58,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Gaspar DiGregorio",
+     "label": "THE COMMISSION'S MAN",
+     "fields": {},
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 7.4,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Bill Bonanno",
+     "label": "THE SON",
+     "fields": {
+      "Side": "Loyalists"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 1.6,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "THE BANANA WAR",
+     "size": 100,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 2.36,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_troutman_street_1.jpg",
+     "move": "in",
+     "caption": "Troutman Street, Brooklyn",
+     "dur": 7.06,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "A trap.",
+     "size": 160,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.0
+      }
+     ],
+     "dur": 3.65,
+     "fixed": true
+    },
+    {
+     "type": "black",
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -21,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -24,
+       "at": 0.35
+      }
+     ],
+     "dur": 3.15,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_troutman_shells_1.jpg",
+     "move": "in",
+     "dur": 3.44,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Not one man was hit.",
+     "size": 110,
+     "dur": 1.62,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/foley_square/2_loc.jpg",
+     "move": "in",
+     "caption": "Foley Square, Manhattan",
+     "dur": 3.58,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_foley_square_1966_1.jpg",
+     "move": "in",
+     "dur": 5.94,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "MAY 17, 1966\nALIVE.",
+     "size": 90,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 5.22,
+     "fixed": true
+    },
+    {
+     "type": "black",
+     "dur": 1.61,
+     "fixed": true
+    },
+    {
+     "type": "document",
+     "text": "FBI SURVEILLANCE\n\nSubjects: MAGADDINO family\nBuffalo, N.Y.\n1964 \u2013 1965",
+     "stamp": "DRAMATIZATION",
+     "dur": 10.59,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Staged?",
+     "size": 170,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.0
+      }
+     ],
+     "dur": 8.84,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_immigrants/1_commons.mp4",
+     "fit": "blur",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.84,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "He was back.",
+     "size": 140,
+     "dur": 5.314,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch06.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "chapter",
+     "num": 6,
+     "title": "Bombs in the desert",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 3.22,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "1966 \u2013 1968\nBROOKLYN \u00b7 QUEENS",
+     "size": 70,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 7.53,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Gaspar DiGregorio",
+     "label": "BOSS",
+     "fields": {},
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/stamp.wav",
+       "gain": -19,
+       "at": 1.2
+      }
+     ],
+     "stamp": "WOUNDED",
+     "dur": 4.25,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Paul Sciacca",
+     "label": "NEW BOSS",
+     "fields": {
+      "Chosen by": "The Commission"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "A heart attack.",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.0
+      }
+     ],
+     "dur": 1.42,
+     "fixed": true
+    },
+    {
+     "type": "document",
+     "text": "TO THE COMMISSION\n\nRetirement.\nLeaves New York.\nMoves to Tucson, Arizona.\n\n1968",
+     "stamp": "DRAMATIZATION",
+     "dur": 7.64,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "THE WAR\nIS OVER",
+     "size": 100,
+     "dur": 2.16,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_old_man_desert_1.jpg",
+     "move": "in",
+     "dur": 3.8,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "JULY 21, 1968\nTUCSON, ARIZONA",
+     "size": 70,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 3.22,
+     "fixed": true
+    },
+    {
+     "type": "black",
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.1
+      }
+     ],
+     "dur": 7.12,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_patio_rubble_1.jpg",
+     "move": "in",
+     "dur": 5.98,
+     "fixed": true
+    },
+    {
+     "type": "counter",
+     "to": 20,
+     "label": "bombs, 1968 \u2013 1969",
+     "prefix": "~",
+     "suffix": "",
+     "dur": 4.64,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Nobody was killed.",
+     "size": 120,
+     "dur": 2.94,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "WHO?",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 1.92,
+     "fixed": true
+    },
+    {
+     "type": "black",
+     "dur": 3.96,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_fbi_agent_desert_1.jpg",
+     "move": "in",
+     "dur": 2.78,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "David Hale",
+     "label": "FBI SPECIAL AGENT",
+     "fields": {
+      "Office": "Tucson",
+      "Beat": "Organized crime"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "MAKE THEM BELIEVE\nTHEY ARE ATTACKING\nEACH OTHER.",
+     "size": 60,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 5.24,
+     "fixed": true
+    },
+    {
+     "type": "document",
+     "text": "THE BOMBERS: convicted\n\nTHE AGENT: left the FBI\nNever tried",
+     "dur": 5.72,
+     "fixed": true
+    },
+    {
+     "type": "timeline",
+     "items": [
+      [
+       "1963",
+       "The Commission"
+      ],
+      [
+       "1964-68",
+       "A mob war"
+      ],
+      [
+       "1968",
+       "An FBI agent's bombs"
+      ]
+     ],
+     "dur": 7.3,
+     "fixed": true
+    },
+    {
+     "type": "black",
+     "dur": 4.138,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch07.flac",
+   "lead_in": 0,
+   "tail": 2.5,
+   "shots": [
+    {
+     "type": "chapter",
+     "num": 7,
+     "title": "The book that broke the Commission",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 3.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_memoir_typewriter_1.jpg",
+     "move": "in",
+     "dur": 3.9,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "A MAN OF HONOR\n1983",
+     "size": 90,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 1.58,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_book_desk_1.jpg",
+     "move": "in",
+     "dur": 7.73,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/valachi_chart/1_loc.jpg",
+     "move": "left",
+     "dur": 6.87,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "60 MINUTES\nCBS \u00b7 1983",
+     "size": 90,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 7.26,
+     "fixed": true
+    },
+    {
+     "type": "dossier",
+     "name": "Rudy Giuliani",
+     "label": "U.S. ATTORNEY",
+     "fields": {
+      "Office": "Manhattan"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      }
+     ],
+     "dur": 5.76,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/valachi_chart/3_loc.jpg",
+     "move": "in",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "THE COMMISSION CASE",
+     "size": 90,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 5.36,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_courtroom_1986_1.jpg",
+     "move": "in",
+     "dur": 4.74,
+     "fixed": true
+    },
+    {
+     "type": "counter",
+     "to": 100,
+     "label": "years in prison",
+     "prefix": "",
+     "suffix": "",
+     "dur": 2.26,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/federal_court_1980s/2_commons.jpg",
+     "move": "in",
+     "caption": "Manhattan",
+     "dur": 4.52,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_prison_1985_1.jpg",
+     "move": "in",
+     "dur": 3.24,
+     "fixed": true
+    },
+    {
+     "type": "counter",
+     "to": 14,
+     "label": "months behind bars",
+     "prefix": "",
+     "suffix": "",
+     "dur": 3.98,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "TUCSON, ARIZONA\n1986",
+     "size": 80,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 2.76,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/bonanno/1_commons.jpg",
+     "move": "in",
+     "dur": 5.52,
+     "fixed": true
+    },
+    {
+     "type": "typewriter",
+     "text": "1905 \u2013 2002",
+     "size": 100,
+     "sfx": [
+      {
+       "file": "sfx/typewriter.wav",
+       "gain": -24,
+       "at": 0.1
+      }
+     ],
+     "dur": 7.12,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "He never changed\nhis story.",
+     "size": 110,
+     "dur": 7.28,
+     "fixed": true
+    },
+    {
+     "type": "black",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Kidnapped\u2026\nor staged?",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.0
+      }
+     ],
+     "dur": 3.14,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "SUBSCRIBE",
+     "subtitle": "New file every week",
+     "file": "BLACK DOSSIER",
+     "stamp": "OPEN FILE",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/stamp.wav",
+       "gain": -19,
+       "at": 0.9
+      }
+     ],
+     "dur": 7.46,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "Case Closed",
+     "subtitle": "Joe Bonanno \u00b7 1905 \u2013 2002",
+     "file": "FILE No. 001",
+     "stamp": "CLOSED",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -27,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/stamp.wav",
+       "gain": -19,
+       "at": 0.9
+      }
+     ],
+     "dur": 3.832,
+     "fixed": false,
+     "fade_out": 1.5
+    }
+   ]
+  }
+ ],
+ "subtitles": "BlackDossier_FILE001_Bonanno_EN.ass"
+}
