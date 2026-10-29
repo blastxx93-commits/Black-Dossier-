@@ -17,6 +17,10 @@ on:
         description: "Velocidade da voz (1.0 = normal)"
         required: false
         default: "1.0"
+      voice:
+        description: "Opcional: ID de outra voz Fish Audio (vazio = voz padrão do canal)"
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -41,7 +45,7 @@ jobs:
         working-directory: main
         env:
           FISH_API_KEY: ${{ secrets.FISH_API_KEY }}
-          FISH_VOICE_ID: ${{ secrets.FISH_VOICE_ID }}
+          FISH_VOICE_ID: ${{ inputs.voice != '' && inputs.voice || secrets.FISH_VOICE_ID }}
           FISH_MODEL: ${{ vars.FISH_MODEL }}
         continue-on-error: true
         run: |
