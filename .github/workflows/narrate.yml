@@ -37,6 +37,8 @@ jobs:
         with:
           ref: assets
           path: assets
+          # only this episode's folder: the whole assets branch no longer fits on the runner disk
+          sparse-checkout: ${{ inputs.episode }}
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
