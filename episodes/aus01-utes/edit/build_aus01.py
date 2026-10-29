@@ -61,7 +61,64 @@ FALLBACK = {
 }
 
 
-def P(cat, move=None, cap=None, **kw):
+VIDEO_FOR = {
+    "g_ute_outback": ["v_ute_dirt_road", "v_outback_aerial", "v_4x4_offroad"],
+    "g_outback_road": ["v_outback_aerial", "v_road_train", "v_country_road"],
+    "g_red_dirt_road": ["v_ute_dirt_road", "v_outback_aerial"],
+    "g_bush_track": ["v_bush_track", "v_4x4_offroad"],
+    "g_beach_4wd": ["v_beach_4wd"],
+    "g_car_dealership": ["v_car_showroom", "v_salesman"],
+    "g_car_yard": ["v_dealer_lot_aerial"],
+    "g_motor_show": ["v_car_showroom"],
+    "g_car_terminal": ["v_port_cars", "v_car_carrier"],
+    "g_port_melbourne": ["v_car_carrier", "v_port_cars"],
+    "g_sydney_traffic": ["v_sydney", "v_highway_aerial"],
+    "g_melbourne_traffic": ["v_melbourne", "v_city_night", "v_highway_aerial"],
+    "g_fuel_station": ["v_fuel"],
+    "g_ev_charging": ["v_ev_charge"],
+    "g_caravan_tow": ["v_caravan"],
+    "g_farm_ute": ["v_farm_truck"],
+    "g_tradie": ["v_tradie"],
+    "g_country_town": ["v_country_road"],
+    "g_byd_store": ["v_car_showroom"],
+    "g_hilux_au": ["v_4x4_offroad"], "g_ranger_au": ["v_4x4_offroad"], "g_dmax_au": ["v_farm_truck"],
+    "g_triton_au": ["v_4x4_offroad"],
+}
+VID_TARGET = 0.40   # share of clips among footage (photos + clips); graphics are not counted
+COUNT = {"img": 0, "vid": 0}
+VPOOLS = {}
+
+
+def vpool(cat):
+    if cat not in VPOOLS:
+        VPOOLS[cat] = [f[2:] for f in sorted(glob.glob(f"a/video/{cat}/*.mp4")) if f"video/{cat}/{os.path.basename(f)}" not in SKIP]
+    return VPOOLS[cat]
+
+
+def V(cat, cap=None):
+    for c in VIDEO_FOR.get(cat, []):
+        while vpool(c):
+            f = vpool(c).pop(0)
+            if f in USED:
+                continue
+            USED.add(f)
+            COUNT["vid"] += 1
+            return K.vid(f, cap=cap, fit="crop")
+    return None
+
+
+def P(cat, move=None, cap=None, photo_only=False, **kw):
+    """Generic scene: a clip when the clip share is below target and one is available, else a photo."""
+    tot = COUNT["img"] + COUNT["vid"]
+    if not photo_only and (tot == 0 or COUNT["vid"] / tot < VID_TARGET):
+        v = V(cat, cap)
+        if v:
+            return v
+    COUNT["img"] += 1
+    return _photo(cat, move, cap, **kw)
+
+
+def _photo(cat, move=None, cap=None, **kw):
     """Next unused photo from a pool (or a related pool)."""
     for c in [cat] + FALLBACK.get(cat, []) + ["g_ute_outback", "g_outback_road", "g_car_yard", "g_motor_show"]:
         if c not in POOLS:
@@ -81,6 +138,7 @@ def M(cat, n, **kw):
     """A specific photo of a model pool (by its number on the contact sheet)."""
     f = [x for x in glob.glob(f"a/{cat}/{n}_*") if os.path.splitext(x)[1].lower() in (".jpg", ".jpeg", ".png")][0][2:]
     USED.add(f)
+    COUNT["img"] += 1
     if f in POOLS.get(cat, []):
         POOLS[cat].remove(f)
     return f
@@ -168,7 +226,7 @@ c.at("see cars sitting everywhere", P("g_port_melbourne"))
 questions(c, ["Who's struggling?", "Who's cutting prices?", "Buy now – or trap?"],
           ["So which utes are feeling the squeeze", "Who's cutting prices", "is this the best time"])
 c.at("Stick around, because number one", {"type": "title", "title": "10 Utes Feeling the Pressure",
-     "subtitle": "Australia's 2026 ute slump", "tag": "#1 will surprise you", "bg": P("g_red_dirt_road")["src"],
+     "subtitle": "Australia's 2026 ute slump", "tag": "#1 will surprise you", "bg": P("g_red_dirt_road", photo_only=True)["src"],
      "trans": "zoom", "sfx": [fx("whoosh"), fx("hit", 0.6, -4)]})
 chapters.append(c)
 
@@ -373,7 +431,7 @@ c.at(0, P("g_bush_track"))
 c.at("If you learned something", cta("If this helped, hit like", "and subscribe for real Aussie car data"))
 questions(c, ["Which ute will be #1 in 5 years?"], ["drop a comment telling me"])
 c.at("Next up, we're looking at", {"type": "title", "title": "10 Car Brands in Serious Trouble", "subtitle": "Up next",
-     "tag": "next video", "bg": P("g_motor_show")["src"], "trans": "zoom", "sfx": [fx("whoosh")]})
+     "tag": "next video", "bg": P("g_motor_show", photo_only=True)["src"], "trans": "zoom", "sfx": [fx("whoosh")]})
 chapters.append(c)
 
 ep = K.build_episode(chapters, "AUS01_Utes_2026.mp4", music="trilha.wav", music_gain=-24, final_fade=0)
@@ -387,5 +445,6 @@ for ci, chap in enumerate(ep["chapters"]):
                 if s[k] in seen:
                     sys.exit(f"IMAGEM REPETIDA: {s[k]} (cap. {seen[s[k]]} e {ci})")
                 seen[s[k]] = ci
-sys.stderr.write(f"{sum(len(c['shots']) for c in ep['chapters'])} planos, {len(seen)} imagens diferentes\n")
+sys.stderr.write(f"{sum(len(c['shots']) for c in ep['chapters'])} planos, {len(seen)} arquivos diferentes; "
+                 f"fotos {COUNT['img']}, clipes {COUNT['vid']} ({COUNT['vid'] / max(1, COUNT['img'] + COUNT['vid']):.0%} de clipes)\n")
 print(json.dumps(ep, indent=1))

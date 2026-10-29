@@ -351,6 +351,99 @@
     "Victorian High Country 4WD"
    ],
    "n": 6
+  },
+  {
+   "id": "g2_dealer_au",
+   "query": "car dealership Australia",
+   "alt": [
+    "Toyota dealership Australia",
+    "Ford dealership Australia",
+    "Holden dealership"
+   ],
+   "n": 8
+  },
+  {
+   "id": "g2_dealer_brand",
+   "query": "Toyota dealership",
+   "alt": [
+    "Ford dealership",
+    "Mitsubishi dealership",
+    "Isuzu Ute dealership"
+   ],
+   "n": 8
+  },
+  {
+   "id": "g2_car_lot",
+   "query": "car lot",
+   "alt": [
+    "new cars parking lot",
+    "cars for sale row"
+   ],
+   "n": 8
+  },
+  {
+   "id": "g2_showroom",
+   "query": "car showroom interior",
+   "alt": [
+    "automobile showroom",
+    "car dealer showroom"
+   ],
+   "n": 8
+  },
+  {
+   "id": "g2_used_cars",
+   "query": "used car dealer",
+   "alt": [
+    "used car sales lot",
+    "second hand cars for sale"
+   ],
+   "n": 8
+  },
+  {
+   "id": "g2_motor_show",
+   "query": "motor show pickup truck",
+   "alt": [
+    "auto show pickup",
+    "motor show 2023",
+    "motor show 2024"
+   ],
+   "n": 8
+  },
+  {
+   "id": "g2_car_park_aerial",
+   "query": "car park aerial view",
+   "alt": [
+    "parking lot aerial",
+    "aerial view parked cars"
+   ],
+   "n": 8
+  },
+  {
+   "id": "g2_auto_terminal",
+   "query": "automobile terminal",
+   "alt": [
+    "vehicle import terminal",
+    "car storage compound"
+   ],
+   "n": 8
+  },
+  {
+   "id": "g2_ute_aus",
+   "query": "utility vehicle Australia",
+   "alt": [
+    "Australian ute",
+    "dual cab ute"
+   ],
+   "n": 8
+  },
+  {
+   "id": "g2_4wd_track",
+   "query": "four wheel drive track",
+   "alt": [
+    "4WD track Australia",
+    "off road track Victoria"
+   ],
+   "n": 8
   }
  ]
 }
