@@ -189,7 +189,45 @@ def search_pixabay(q, rows=8, years=None, collections=None, item=None):
     return out
 
 
-SOURCES = {"archive": search_archive, "commons": search_commons, "pexels": search_pexels, "pixabay": search_pixabay}
+def search_coverr(q, rows=8, years=None, collections=None, item=None):
+    """Coverr stock video (free to use). Needs env COVERR_API_KEY; skipped without it.
+    Coverr requires a download ping (PATCH /videos/:id/stats/downloads) for every clip kept."""
+    key = os.environ.get("COVERR_API_KEY", "").strip()
+    if item or not key:
+        return []
+    try:
+        time.sleep(0.5)
+        r = S.get("https://api.coverr.co/videos", params={"query": q, "page_size": rows, "urls": "true", "api_key": key},
+                  headers={"Authorization": f"Bearer {key}"}, timeout=25)
+        r.raise_for_status()
+        data = r.json()
+    except Exception as e:
+        log(f"  ! coverr: {str(e)[:140]}")
+        return []
+    out = []
+    for h in data.get("hits", []):
+        u = h.get("urls") or {}
+        url = u.get("mp4_download") or u.get("mp4")
+        if not url or h.get("is_vertical"):
+            continue
+        out.append({"source": "coverr", "url": url, "title": (h.get("title") or "")[:150],
+                    "license": "Coverr License (free to use)", "page": f"https://coverr.co/videos/{h.get('slug') or h.get('id')}",
+                    "length": float(h.get("duration") or 0), "author": "Coverr", "coverr_id": h.get("id")})
+    return out
+
+
+def coverr_ping(c):
+    key = os.environ.get("COVERR_API_KEY", "").strip()
+    if c.get("coverr_id") and key:
+        try:
+            S.patch(f"https://api.coverr.co/videos/{c['coverr_id']}/stats/downloads", params={"api_key": key},
+                    headers={"Authorization": f"Bearer {key}"}, timeout=15)
+        except Exception:
+            pass
+
+
+SOURCES = {"archive": search_archive, "commons": search_commons, "pexels": search_pexels, "pixabay": search_pixabay,
+           "coverr": search_coverr}
 
 
 # ------------------------------------------------------------ clips
@@ -331,6 +369,7 @@ def run(ep, out_root, only=None, budget_min=40):
                     if start is None:
                         continue
                     files.append(fp)
+                    coverr_ping(c)
                     credits.append({"file": f"video/{sid}/{os.path.basename(fp)}", "shot": sid, "source": c["source"],
                                     "license": c["license"], "title": c["title"], "page": c["page"],
                                     "start_sec": round(start, 1), "author": c.get("author", ""), "query": q})
