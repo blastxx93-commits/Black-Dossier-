@@ -190,10 +190,14 @@ def caption_layer(ctx, text):
 
 
 def shot_typewriter(ctx, s, n):
-    """Text typed letter by letter on black, with blinking cursor."""
+    """Text typed letter by letter, with blinking cursor. Over a darkened scene ("bg") so the screen is never black."""
     text = s["text"]
     f = font("type", ctx.px(s.get("size", 64)))
     base = blank(ctx)
+    if s.get("bg"):
+        from PIL import ImageEnhance, ImageFilter
+        bgi = load_image(ctx, ctx.path(s["bg"]), ctx.W, ctx.H, tuple(s.get("bg_focus", (0.5, 0.5)))).convert("RGB")
+        base = ImageEnhance.Brightness(bgi.filter(ImageFilter.GaussianBlur(ctx.px(3)))).enhance(0.40)
     d0 = ImageDraw.Draw(base)
     lines = wrap(d0, text, f, ctx.W * 0.8)
     full = "\n".join(lines)

@@ -121,6 +121,16 @@ def build_episode(chapters, output, music="trilha.wav", music_gain=-21, final_fa
         sys.stderr.write(f"{c.name}: {len(c.cues)} planos, alinhamento {c.matched:.0%}"
                          + (f", NAO ACHEI: {c.misses}" if c.misses else "") + "\n")
     out["chapters"][-1]["shots"][-1]["fade_out"] = final_fade
+    # typed cards sit on the nearest scene, darkened: never an empty black screen (channel rule)
+    for c in out["chapters"]:
+        imgs = [k for k, sh in enumerate(c["shots"]) if sh["type"] == "image"]
+        for k, sh in enumerate(c["shots"]):
+            if sh["type"] == "typewriter" and "bg" not in sh and imgs:
+                prev = [j for j in imgs if j < k]
+                j = prev[-1] if prev else min(imgs, key=lambda j: abs(j - k))
+                sh["bg"] = c["shots"][j]["src"]
+                if c["shots"][j].get("focus"):
+                    sh["bg_focus"] = c["shots"][j]["focus"]
     pretos = [f"cap. {ci}" for ci, c in enumerate(out["chapters"]) for s in c["shots"] if s["type"] == "black"]
     if pretos:
         sys.exit("TELA PRETA (regra do canal: preencher com imagem gerada):\n  " + "\n  ".join(pretos))
