@@ -1,0 +1,64 @@
+[     0s] aus01-utes: 12 planos, limite 35.0 min
+[     0s] m_ldv_t60: 'LDV T60'
+[     1s]     commons: 12 candidatos em 0.8s
+[    35s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[    35s]     openverse: 0 candidatos em 34.1s
+[    38s]   -> 4 imagens
+[    38s] m_kia_tasman: 'Kia Tasman'
+[    38s]     commons: 12 candidatos em 0.4s
+[    73s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[    73s]     openverse: 0 candidatos em 34.1s
+[    86s]   -> 4 imagens
+[    86s] m_vw_amarok: 'Volkswagen Amarok 2023'
+[    86s]     commons: 12 candidatos em 0.7s
+[   121s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[   121s]   ! api.openverse.org desligado nesta execucao (3 falhas seguidas)
+[   121s]     openverse: 0 candidatos em 34.1s
+[   124s]   -> 4 imagens
+[   124s] m_triton: 'Mitsubishi Triton 2024'
+[   124s]     commons: 12 candidatos em 0.6s
+[   124s]     openverse: 0 candidatos em 0.0s
+[   128s]   -> 4 imagens
+[   128s] m_dmax: 'Isuzu D-Max 2021'
+[   128s]     commons: 12 candidatos em 0.6s
+[   128s]     openverse: 0 candidatos em 0.0s
+[   160s]     falhou download (commons) em 30.1s
+[   190s]     falhou download (commons) em 30.1s
+[   220s]     falhou download (commons) em 30.1s
+[   221s]   -> 4 imagens
+[   221s] m_cannon_alpha: 'GWM Cannon Alpha'
+[   222s]     commons: 1 candidatos em 0.7s
+[   222s]     openverse: 0 candidatos em 0.0s
+[   223s]     commons: 1 candidatos em 0.7s
+[   223s]     openverse: 0 candidatos em 0.0s
+[   224s]     commons: 0 candidatos em 0.3s
+[   224s]     openverse: 0 candidatos em 0.0s
+[   224s]   -> 1 imagens
+[   224s] m_navara: 'Nissan Navara'
+[   225s]     commons: 12 candidatos em 0.8s
+[   225s]     openverse: 0 candidatos em 0.0s
+[   227s]   -> 4 imagens
+[   227s] m_byd_shark: 'BYD Shark'
+[   228s]     commons: 12 candidatos em 0.4s
+[   228s]     openverse: 0 candidatos em 0.0s
+[   261s]     falhou download (commons) em 30.1s
+[   262s]   -> 4 imagens
+[   262s] m_hilux: 'Toyota Hilux 2024'
+[   262s]     commons: 0 candidatos em 0.2s
+[   262s]     openverse: 0 candidatos em 0.0s
+[   263s]     commons: 9 candidatos em 0.7s
+[   263s]     openverse: 0 candidatos em 0.0s
+[   266s]   -> 4 imagens
+[   266s] m_ranger: 'Ford Ranger 2023'
+[   267s]     commons: 12 candidatos em 0.5s
+[   267s]     openverse: 0 candidatos em 0.0s
+[   270s]   -> 4 imagens
+[   270s] m_ranger_raptor: 'Ford Ranger Raptor'
+[   271s]     commons: 12 candidatos em 0.8s
+[   271s]     openverse: 0 candidatos em 0.0s
+[   274s]   -> 4 imagens
+[   274s] au_car_carrier_port: 'car carrier ship port Melbourne'
+[   275s]     commons: 12 candidatos em 1.0s
+[   275s]     openverse: 0 candidatos em 0.0s
+[   278s]   -> 4 imagens
+[   279s] fim: 45 imagens
