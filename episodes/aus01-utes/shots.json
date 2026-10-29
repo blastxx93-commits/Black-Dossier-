@@ -1,17 +1,356 @@
 {
-  "defaults": {"n": 4, "sources": ["commons", "openverse"]},
-  "shots": [
-    {"id": "m_ldv_t60", "query": "LDV T60", "alt": ["Maxus T60 pickup"], "note": "#10"},
-    {"id": "m_kia_tasman", "query": "Kia Tasman", "alt": ["Kia Tasman pickup"], "note": "#9"},
-    {"id": "m_vw_amarok", "query": "Volkswagen Amarok 2023", "alt": ["Volkswagen Amarok second generation"], "note": "#8"},
-    {"id": "m_triton", "query": "Mitsubishi Triton 2024", "alt": ["Mitsubishi Triton sixth generation", "Mitsubishi L200 2024"], "note": "#7"},
-    {"id": "m_dmax", "query": "Isuzu D-Max 2021", "alt": ["Isuzu D-Max third generation"], "note": "#6"},
-    {"id": "m_cannon_alpha", "query": "GWM Cannon Alpha", "alt": ["Great Wall Cannon Alpha", "GWM Poer King Kong"], "note": "#5"},
-    {"id": "m_navara", "query": "Nissan Navara", "alt": ["Nissan Navara D23", "Nissan Frontier"], "note": "#4"},
-    {"id": "m_byd_shark", "query": "BYD Shark", "alt": ["BYD Shark 6 pickup"], "note": "#3"},
-    {"id": "m_hilux", "query": "Toyota Hilux 2024", "alt": ["Toyota Hilux eighth generation", "Toyota Hilux Australia"], "note": "#2"},
-    {"id": "m_ranger", "query": "Ford Ranger 2023", "alt": ["Ford Ranger fourth generation", "Ford Ranger Raptor 2023"], "note": "#1"},
-    {"id": "m_ranger_raptor", "query": "Ford Ranger Raptor", "alt": ["Ranger Raptor 2023"], "note": "#8 comparação"},
-    {"id": "au_car_carrier_port", "query": "car carrier ship port Melbourne", "alt": ["vehicle import port Australia", "car terminal port cars parked"], "note": "contexto: carros no porto"}
+ "defaults": {
+  "n": 4,
+  "sources": [
+   "commons",
+   "openverse"
   ]
+ },
+ "shots": [
+  {
+   "id": "m_ldv_t60",
+   "query": "LDV T60",
+   "alt": [
+    "Maxus T60 pickup"
+   ],
+   "note": "#10"
+  },
+  {
+   "id": "m_kia_tasman",
+   "query": "Kia Tasman",
+   "alt": [
+    "Kia Tasman pickup"
+   ],
+   "note": "#9"
+  },
+  {
+   "id": "m_vw_amarok",
+   "query": "Volkswagen Amarok 2023",
+   "alt": [
+    "Volkswagen Amarok second generation"
+   ],
+   "note": "#8"
+  },
+  {
+   "id": "m_triton",
+   "query": "Mitsubishi Triton 2024",
+   "alt": [
+    "Mitsubishi Triton sixth generation",
+    "Mitsubishi L200 2024"
+   ],
+   "note": "#7"
+  },
+  {
+   "id": "m_dmax",
+   "query": "Isuzu D-Max 2021",
+   "alt": [
+    "Isuzu D-Max third generation"
+   ],
+   "note": "#6"
+  },
+  {
+   "id": "m_cannon_alpha",
+   "query": "GWM Cannon Alpha",
+   "alt": [
+    "Great Wall Cannon Alpha",
+    "GWM Poer King Kong"
+   ],
+   "note": "#5"
+  },
+  {
+   "id": "m_navara",
+   "query": "Nissan Navara",
+   "alt": [
+    "Nissan Navara D23",
+    "Nissan Frontier"
+   ],
+   "note": "#4"
+  },
+  {
+   "id": "m_byd_shark",
+   "query": "BYD Shark",
+   "alt": [
+    "BYD Shark 6 pickup"
+   ],
+   "note": "#3"
+  },
+  {
+   "id": "m_hilux",
+   "query": "Toyota Hilux 2024",
+   "alt": [
+    "Toyota Hilux eighth generation",
+    "Toyota Hilux Australia"
+   ],
+   "note": "#2"
+  },
+  {
+   "id": "m_ranger",
+   "query": "Ford Ranger 2023",
+   "alt": [
+    "Ford Ranger fourth generation",
+    "Ford Ranger Raptor 2023"
+   ],
+   "note": "#1"
+  },
+  {
+   "id": "m_ranger_raptor",
+   "query": "Ford Ranger Raptor",
+   "alt": [
+    "Ranger Raptor 2023"
+   ],
+   "note": "#8 compara\u00e7\u00e3o"
+  },
+  {
+   "id": "au_car_carrier_port",
+   "query": "car carrier ship port Melbourne",
+   "alt": [
+    "vehicle import port Australia",
+    "car terminal port cars parked"
+   ],
+   "note": "contexto: carros no porto"
+  },
+  {
+   "id": "g_ute_outback",
+   "query": "ute outback Australia",
+   "alt": [
+    "pickup outback Australia",
+    "four wheel drive outback"
+   ],
+   "n": 6
+  },
+  {
+   "id": "g_outback_road",
+   "query": "Stuart Highway",
+   "alt": [
+    "outback road Australia",
+    "Nullarbor road"
+   ],
+   "n": 6
+  },
+  {
+   "id": "g_red_dirt_road",
+   "query": "red dirt road Australia",
+   "alt": [
+    "Gibb River Road",
+    "Tanami Road"
+   ],
+   "n": 6
+  },
+  {
+   "id": "g_hilux_au",
+   "query": "Toyota Hilux Australia",
+   "alt": [
+    "Toyota Hilux outback",
+    "Hilux Northern Territory"
+   ],
+   "n": 6
+  },
+  {
+   "id": "g_ranger_au",
+   "query": "Ford Ranger Australia",
+   "alt": [
+    "Ford Ranger outback",
+    "Ford Ranger Wildtrak"
+   ],
+   "n": 6
+  },
+  {
+   "id": "g_dmax_au",
+   "query": "Isuzu D-Max Australia",
+   "alt": [
+    "Isuzu D-Max outback"
+   ],
+   "n": 6
+  },
+  {
+   "id": "g_triton_au",
+   "query": "Mitsubishi Triton Australia",
+   "alt": [
+    "Mitsubishi Triton outback"
+   ],
+   "n": 6
+  },
+  {
+   "id": "g_holden_ute",
+   "query": "Holden Ute",
+   "alt": [
+    "Holden Commodore ute",
+    "Holden VE Ute"
+   ],
+   "n": 6
+  },
+  {
+   "id": "g_falcon_ute",
+   "query": "Ford Falcon ute",
+   "alt": [
+    "Ford Falcon utility"
+   ],
+   "n": 6
+  },
+  {
+   "id": "g_car_dealership",
+   "query": "car dealership",
+   "alt": [
+    "new car dealership",
+    "car showroom"
+   ],
+   "n": 6
+  },
+  {
+   "id": "g_car_yard",
+   "query": "car yard Australia",
+   "alt": [
+    "used car yard",
+    "cars for sale lot"
+   ],
+   "n": 6
+  },
+  {
+   "id": "g_port_melbourne",
+   "query": "Port of Melbourne",
+   "alt": [
+    "Webb Dock Melbourne",
+    "Melbourne port containers"
+   ],
+   "n": 6
+  },
+  {
+   "id": "g_car_terminal",
+   "query": "car terminal port",
+   "alt": [
+    "vehicle terminal cars parked",
+    "new cars port parking"
+   ],
+   "n": 6
+  },
+  {
+   "id": "g_car_unloading",
+   "query": "car carrier unloading",
+   "alt": [
+    "ro-ro ship unloading cars"
+   ],
+   "n": 6
+  },
+  {
+   "id": "g_caravan_tow",
+   "query": "caravan towing Australia",
+   "alt": [
+    "caravan Australia highway",
+    "grey nomads caravan"
+   ],
+   "n": 6
+  },
+  {
+   "id": "g_beach_4wd",
+   "query": "4WD beach Fraser Island",
+   "alt": [
+    "K'gari beach four wheel drive",
+    "beach driving Australia"
+   ],
+   "n": 6
+  },
+  {
+   "id": "g_farm_ute",
+   "query": "farm ute Australia",
+   "alt": [
+    "sheep station Australia",
+    "Australian farm paddock"
+   ],
+   "n": 6
+  },
+  {
+   "id": "g_tradie",
+   "query": "tradesman ute",
+   "alt": [
+    "work ute tools",
+    "construction site Australia"
+   ],
+   "n": 6
+  },
+  {
+   "id": "g_sydney_traffic",
+   "query": "Sydney traffic",
+   "alt": [
+    "Sydney Harbour Bridge traffic",
+    "M4 Motorway Sydney"
+   ],
+   "n": 6
+  },
+  {
+   "id": "g_melbourne_traffic",
+   "query": "Melbourne traffic",
+   "alt": [
+    "Melbourne freeway",
+    "Hume Highway"
+   ],
+   "n": 6
+  },
+  {
+   "id": "g_fuel_station",
+   "query": "petrol station Australia",
+   "alt": [
+    "service station Australia",
+    "fuel pump diesel"
+   ],
+   "n": 6
+  },
+  {
+   "id": "g_ev_charging",
+   "query": "electric vehicle charging Australia",
+   "alt": [
+    "EV charging station",
+    "fast charger electric car"
+   ],
+   "n": 6
+  },
+  {
+   "id": "g_motor_show",
+   "query": "Melbourne Motor Show",
+   "alt": [
+    "Sydney Motor Show",
+    "Australian International Motor Show"
+   ],
+   "n": 6
+  },
+  {
+   "id": "g_byd_store",
+   "query": "BYD showroom",
+   "alt": [
+    "BYD dealership"
+   ],
+   "n": 6
+  },
+  {
+   "id": "g_road_train",
+   "query": "road train Australia",
+   "alt": [
+    "Australian outback truck"
+   ],
+   "n": 6
+  },
+  {
+   "id": "g_country_town",
+   "query": "Australian country town main street",
+   "alt": [
+    "rural town Australia street"
+   ],
+   "n": 6
+  },
+  {
+   "id": "g_parliament",
+   "query": "Parliament House Canberra",
+   "alt": [
+    "Australian Parliament House"
+   ],
+   "n": 6
+  },
+  {
+   "id": "g_bush_track",
+   "query": "Australian bush track four wheel drive",
+   "alt": [
+    "Victorian High Country 4WD"
+   ],
+   "n": 6
+  }
+ ]
 }
