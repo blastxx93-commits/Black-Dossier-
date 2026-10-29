@@ -42,7 +42,8 @@
       }
      ],
      "dur": 3.78,
-     "fixed": true
+     "fixed": true,
+     "bg": "a/ai/ai_shot_pavement_1.jpg"
     },
     {
      "type": "image",
@@ -189,7 +190,8 @@
       }
      ],
      "dur": 2.62,
-     "fixed": true
+     "fixed": true,
+     "bg": "a/foley_square/1_commons.jpg"
     },
     {
      "type": "image",
@@ -313,7 +315,8 @@
       }
      ],
      "dur": 3.36,
-     "fixed": true
+     "fixed": true,
+     "bg": "a/ai/ai_maranzano_office_1.jpg"
     },
     {
      "type": "image",
@@ -456,7 +459,8 @@
       }
      ],
      "dur": 2.88,
-     "fixed": true
+     "fixed": true,
+     "bg": "a/ai/ai_fishing_boat_1924_1.jpg"
     },
     {
      "type": "image",
@@ -478,7 +482,8 @@
       }
      ],
      "dur": 4.2,
-     "fixed": true
+     "fixed": true,
+     "bg": "a/hotel_astor/2_loc.jpg"
     },
     {
      "type": "video",
@@ -546,7 +551,12 @@
       }
      ],
      "dur": 3.06,
-     "fixed": true
+     "fixed": true,
+     "bg": "a/bonanno/3_commons.jpg",
+     "bg_focus": [
+      0.5,
+      0.12
+     ]
     },
     {
      "type": "image",
@@ -721,7 +731,8 @@
       }
      ],
      "dur": 4.62,
-     "fixed": true
+     "fixed": true,
+     "bg": "a/valachi_chart/2_loc.jpg"
     },
     {
      "type": "image",
@@ -854,7 +865,8 @@
       }
      ],
      "dur": 3.26,
-     "fixed": true
+     "fixed": true,
+     "bg": "a/ai/ai_colombo_phone_1.jpg"
     },
     {
      "type": "image",
@@ -942,7 +954,8 @@
      "text": "SILENCE.",
      "size": 110,
      "dur": 3.312,
-     "fixed": false
+     "fixed": false,
+     "bg": "a/ai/ai_empty_chair_1.jpg"
     }
    ]
   },
@@ -1007,7 +1020,8 @@
       }
      ],
      "dur": 1.54,
-     "fixed": true
+     "fixed": true,
+     "bg": "a/bordeaux_prison/2_commons.jpg"
     },
     {
      "type": "video",
@@ -1055,7 +1069,8 @@
       }
      ],
      "dur": 7.12,
-     "fixed": true
+     "fixed": true,
+     "bg": "a/bordeaux_prison/2_commons.jpg"
     },
     {
      "type": "image",
@@ -1084,7 +1099,8 @@
       }
      ],
      "dur": 3.12,
-     "fixed": true
+     "fixed": true,
+     "bg": "a/foley_square/3_commons.jpg"
     },
     {
      "type": "typewriter",
@@ -1098,7 +1114,8 @@
       }
      ],
      "dur": 5.74,
-     "fixed": true
+     "fixed": true,
+     "bg": "a/foley_square/3_commons.jpg"
     },
     {
      "type": "statement",
@@ -1147,7 +1164,8 @@
       }
      ],
      "dur": 8.14,
-     "fixed": true
+     "fixed": true,
+     "bg": "a/ai/ai_rain_empty_corner_1.jpg"
     },
     {
      "type": "typewriter",
@@ -1161,7 +1179,8 @@
       }
      ],
      "dur": 2.78,
-     "fixed": true
+     "fixed": true,
+     "bg": "a/ai/ai_rain_empty_corner_1.jpg"
     },
     {
      "type": "dossier",
@@ -1220,7 +1239,8 @@
      "text": "GONE.",
      "size": 130,
      "dur": 4.5,
-     "fixed": true
+     "fixed": true,
+     "bg": "a/ai/ai_shot_fired_1.jpg"
     },
     {
      "type": "image",
@@ -1287,7 +1307,8 @@
       }
      ],
      "dur": 2.76,
-     "fixed": true
+     "fixed": true,
+     "bg": "a/ai/ai_car_floor_1.jpg"
     },
     {
      "type": "dossier",
@@ -1433,7 +1454,8 @@
       }
      ],
      "dur": 3.82,
-     "fixed": true
+     "fixed": true,
+     "bg": "a/ai/ai_ocean_dark_1.jpg"
     },
     {
      "type": "dossier",
@@ -1550,7 +1572,8 @@
       }
      ],
      "dur": 2.36,
-     "fixed": true
+     "fixed": true,
+     "bg": "a/ai/ai_ocean_dark_1.jpg"
     },
     {
      "type": "image",
@@ -1636,7 +1659,8 @@
       }
      ],
      "dur": 5.22,
-     "fixed": true
+     "fixed": true,
+     "bg": "a/ai/ai_foley_square_1966_1.jpg"
     },
     {
      "type": "image",
@@ -1715,7 +1739,8 @@
       }
      ],
      "dur": 7.53,
-     "fixed": true
+     "fixed": true,
+     "bg": "a/ai/ai_old_man_desert_1.jpg"
     },
     {
      "type": "dossier",
@@ -1804,7 +1829,8 @@
       }
      ],
      "dur": 3.22,
-     "fixed": true
+     "fixed": true,
+     "bg": "a/ai/ai_old_man_desert_1.jpg"
     },
     {
      "type": "video",
@@ -1857,7 +1883,8 @@
       }
      ],
      "dur": 1.92,
-     "fixed": true
+     "fixed": true,
+     "bg": "a/ai/ai_patio_rubble_1.jpg"
     },
     {
      "type": "image",
@@ -1903,7 +1930,8 @@
       }
      ],
      "dur": 5.24,
-     "fixed": true
+     "fixed": true,
+     "bg": "a/ai/ai_fbi_agent_desert_1.jpg"
     },
     {
      "type": "document",
@@ -1977,7 +2005,8 @@
       }
      ],
      "dur": 1.58,
-     "fixed": true
+     "fixed": true,
+     "bg": "a/ai/ai_memoir_typewriter_1.jpg"
     },
     {
      "type": "image",
@@ -2005,7 +2034,8 @@
       }
      ],
      "dur": 7.26,
-     "fixed": true
+     "fixed": true,
+     "bg": "a/valachi_chart/1_loc.jpg"
     },
     {
      "type": "dossier",
@@ -2043,7 +2073,8 @@
       }
      ],
      "dur": 5.36,
-     "fixed": true
+     "fixed": true,
+     "bg": "a/valachi_chart/3_loc.jpg"
     },
     {
      "type": "image",
@@ -2097,7 +2128,8 @@
       }
      ],
      "dur": 2.76,
-     "fixed": true
+     "fixed": true,
+     "bg": "a/ai/ai_prison_1985_1.jpg"
     },
     {
      "type": "image",
@@ -2118,7 +2150,8 @@
       }
      ],
      "dur": 7.12,
-     "fixed": true
+     "fixed": true,
+     "bg": "a/bonanno/1_commons.jpg"
     },
     {
      "type": "statement",
