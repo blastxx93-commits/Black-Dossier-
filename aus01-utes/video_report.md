@@ -1,12 +1,7 @@
 # Videos — aus01-utes
 
-- Planos: 24 · clipes: 61 · sem resultado: 2
-- Folhas: video_contact_sheet_1.jpg, video_contact_sheet_2.jpg, video_contact_sheet_3.jpg, video_contact_sheet_4.jpg, video_contact_sheet_5.jpg, video_contact_sheet_6.jpg, video_contact_sheet_7.jpg
-
-## Sem video livre (usar foto/IA)
-
-- `v_melbourne`
-- `v_caravan`
+- Planos: 24 · clipes: 72 · sem resultado: 0
+- Folhas: video_contact_sheet_1.jpg, video_contact_sheet_2.jpg, video_contact_sheet_3.jpg, video_contact_sheet_4.jpg, video_contact_sheet_5.jpg, video_contact_sheet_6.jpg, video_contact_sheet_7.jpg, video_contact_sheet_8.jpg
 
 | plano | clipes |
 |---|---|
@@ -21,10 +16,10 @@
 | `v_port_cars` | 3 |
 | `v_highway_aerial` | 3 |
 | `v_sydney` | 3 |
-| `v_melbourne` | 0 |
-| `v_fuel` | 2 |
-| `v_ev_charge` | 1 |
-| `v_caravan` | 0 |
+| `v_melbourne` | 3 |
+| `v_fuel` | 3 |
+| `v_ev_charge` | 3 |
+| `v_caravan` | 3 |
 | `v_farm_truck` | 3 |
 | `v_tradie` | 3 |
 | `v_family_car` | 3 |
@@ -33,4 +28,4 @@
 | `v_contract` | 3 |
 | `v_money` | 3 |
 | `v_city_night` | 3 |
-| `v_bush_track` | 1 |
+| `v_bush_track` | 3 |
