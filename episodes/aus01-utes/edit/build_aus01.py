@@ -86,7 +86,8 @@ def fingerprint(path):
                 return None
             px = list(raw[:72])
         else:
-            px = list(Image.open(p).convert("L").resize((9, 8), Image.LANCZOS).getdata())
+            im = Image.open(p).convert("L").resize((9, 8), Image.LANCZOS)
+            px = [im.getpixel((x, y)) for y in range(8) for x in range(9)]
     except Exception:
         return None
     return sum(1 << (r * 8 + c) for r in range(8) for c in range(8) if px[r * 9 + c] > px[r * 9 + c + 1])
@@ -510,6 +511,31 @@ chapters.append(c)
 
 ep = K.build_episode(chapters, "AUS01_Utes_2026.mp4", music="trilha.wav", music_gain=-24, final_fade=0)
 ep["size"] = [1920, 1080]
+
+# no long holds: a shot over MAX_HOLD seconds keeps ~5 s and hands over to fresh footage of the chapter's subject
+MAX_HOLD, KEEP = 7.5, 5.0
+CTX = ["g_ute_outback", "g_car_yard", "g_car_yard", "g_car_dealership", "g_ranger_au", "g_ute_outback", "g_farm_ute",
+       "g_ute_outback", "g_car_dealership", "g_car_dealership", "g_ev_charging", "g_hilux_au", "g_ranger_au", "g_car_yard",
+       "g_bush_track"]
+NO_SPLIT = {"questions", "title"}
+splits = 0
+for ci, chap in enumerate(ep["chapters"]):
+    out = []
+    for s in chap["shots"]:
+        while s["dur"] > MAX_HOLD and s["type"] not in NO_SPLIT:
+            first = dict(s, dur=KEEP, fixed=True)
+            rest_dur = round(s["dur"] - KEEP, 3)
+            nxt = P(CTX[ci])
+            nxt = dict(nxt, dur=rest_dur, fixed=s.get("fixed", False))
+            for k in ("fade_out",):
+                if k in s:
+                    nxt[k] = s[k]; first.pop(k, None)
+            out.append(first)
+            s = nxt
+            splits += 1
+        out.append(s)
+    chap["shots"] = out
+sys.stderr.write(f"{splits} planos longos divididos\n")
 # title cards use a photo as background: count it as used in the no-repeat check
 seen = {}
 for ci, chap in enumerate(ep["chapters"]):
