@@ -127,7 +127,7 @@ c.at("The pressure came fast", doc("UNITED STATES v. GENOVESE et al.\n\nHeroin t
 c.at("Some historians believe", say("A setup?", 160))
 c.at("They were sent to the same", V("c_psychiatric/4_archive.mp4", 3))
 c.at("For the former fighter, it was an education", typer("NO FINGERPRINTS.\nNEVER SAY TOO MUCH.\nLET OTHERS TAKE THE BLAME.", 54))
-c.at("Genovese would never walk free", dossier("Vito Genovese", "BOSS", stamp="DIED 1969", Died="In federal custody"))
+c.at("Genovese would never walk free", typer("VITO GENOVESE\nDIED IN FEDERAL CUSTODY\n1969", 60))
 c.at("Gigante was luckier", ai("ai_letters_judge_1.jpg", "in"))
 c.at("He came home in the mid-1960s", V("c_village/4_archive.mp4", 0))
 c.at("His headquarters was a modest storefront", ai("ai_triangle_club_1.jpg", "in", focus=[0.35, 0.5]))

@@ -162,6 +162,174 @@
   {
    "id": "ai_sullivan_dusk",
    "prompt": "An empty Greenwich Village street at dusk in 2005, a shuttered small storefront social club with a plain closed metal gate, autumn leaves on the sidewalk, a single old man's slipper lying by the curb, no people, no signs, no letters"
+  },
+  {
+   "id": "ai_naples_ship",
+   "prompt": "Italian immigrant families on the deck of a steamship arriving in New York harbor in the 1910s, seen from behind, bundles and suitcases, skyline in the haze"
+  },
+  {
+   "id": "ai_watchmaker",
+   "prompt": "Close-up of an old watchmaker's hands repairing a pocket watch on a cluttered wooden workbench in the 1930s, magnifying loupe, small tools"
+  },
+  {
+   "id": "ai_bakery_1930s",
+   "prompt": "An Italian bakery storefront on a Greenwich Village street in the 1930s, bread in the window, women with shopping bags seen from behind, no signs, no letters"
+  },
+  {
+   "id": "ai_numbers_runner",
+   "prompt": "A teenage boy in a cap running down a tenement alley in the 1940s with a small paper envelope in his hand, seen from behind, laundry lines above"
+  },
+  {
+   "id": "ai_boxing_gym",
+   "prompt": "An old boxing gym in New York in the 1940s, heavy bags hanging, a young boxer seen from behind hitting a bag, sweat and dust in the light from high windows"
+  },
+  {
+   "id": "ai_sedan_club",
+   "prompt": "A black 1940s sedan parked outside a social club in Greenwich Village at night, a man in a long coat and hat standing by the door seen from behind"
+  },
+  {
+   "id": "ai_wedding_1950",
+   "prompt": "A bride and groom seen from far behind on the steps of a Catholic church in Greenwich Village in 1950, rice in the air, guests in hats"
+  },
+  {
+   "id": "ai_booking_1950s",
+   "prompt": "A New York police station booking desk in the early 1950s, a sergeant writing in a ledger, a young man in a jacket seen from behind standing at the desk"
+  },
+  {
+   "id": "ai_slot_machines",
+   "prompt": "A row of 1940s slot machines in a dim back room, cigarette smoke, a hand pulling a lever, no faces"
+  },
+  {
+   "id": "ai_nightclub_1950s",
+   "prompt": "A glamorous New York nightclub in the early 1950s, tables with white cloths, a band on stage, couples seen from behind, champagne glasses"
+  },
+  {
+   "id": "ai_tv_hearing_1951",
+   "prompt": "A 1951 American family living room, people seen from behind watching a small black and white television set showing a pair of hands on a hearing table"
+  },
+  {
+   "id": "ai_empty_witness_chair",
+   "prompt": "An empty witness chair pushed back from a Senate hearing table covered with microphones in 1951, papers scattered, cameras in the background"
+  },
+  {
+   "id": "ai_taxi_1957",
+   "prompt": "A 1950s checkered taxi driving at night along Central Park West, street lamps, the park wall, a car's headlights following behind"
+  },
+  {
+   "id": "ai_detectives_1957",
+   "prompt": "New York police detectives in fedoras and overcoats examining the entrance of an apartment building at night in 1957, seen from behind, flashlights"
+  },
+  {
+   "id": "ai_police_station_1957",
+   "prompt": "A New York police station front desk in 1957, a man in a suit and a lawyer seen from behind walking in, officers at desks"
+  },
+  {
+   "id": "ai_apalachin_roadblock",
+   "prompt": "State police cars blocking a country road in upstate New York in November 1957, troopers in campaign hats, men in suits walking toward the cars, autumn woods, seen from far"
+  },
+  {
+   "id": "ai_penitentiary_1960",
+   "prompt": "The high stone walls and gate of a federal penitentiary around 1960, a guard tower, a prison bus arriving, overcast sky"
+  },
+  {
+   "id": "ai_chess_cell",
+   "prompt": "Two inmates seen from behind playing chess on a stool in a prison cell around 1960, light through the bars"
+  },
+  {
+   "id": "ai_village_1965",
+   "prompt": "Sullivan Street in Greenwich Village in 1965, tenements, parked 1960s cars, old men on folding chairs outside a storefront seen from far"
+  },
+  {
+   "id": "ai_cards_espresso",
+   "prompt": "Close-up of playing cards, espresso cups and an ashtray on a worn table inside a social club in the 1970s, a hand laying down a card"
+  },
+  {
+   "id": "ai_small_town_police",
+   "prompt": "A small-town police station in New Jersey in 1969, two patrol cars parked outside, autumn trees"
+  },
+  {
+   "id": "ai_psych_exam",
+   "prompt": "A psychiatrist's hands holding a clipboard during an examination in the 1970s, a patient's slippers visible across the table, faces out of frame"
+  },
+  {
+   "id": "ai_slippers_sidewalk",
+   "prompt": "Worn house slippers and pajama legs shuffling along a New York sidewalk in the 1980s, close to the ground, a parked car behind"
+  },
+  {
+   "id": "ai_mother_window",
+   "prompt": "An elderly woman in black seen from behind looking down from a tenement window onto a Greenwich Village street, lace curtains"
+  },
+  {
+   "id": "ai_payphone",
+   "prompt": "A street pay phone on a Greenwich Village corner in the 1980s, the receiver hanging untouched, nobody around"
+  },
+  {
+   "id": "ai_mother_kitchen",
+   "prompt": "A small old-fashioned tenement kitchen in the 1980s, an oilcloth table with two coffee cups, a crucifix on the wall, a door slightly open, no people"
+  },
+  {
+   "id": "ai_back_room_meeting",
+   "prompt": "A dim back room in 1981, several men in suits seen from behind sitting around a table, one empty chair at the head, smoke in the lamp light"
+  },
+  {
+   "id": "ai_cigar_ashtray",
+   "prompt": "A thick cigar burning in a glass ashtray on a card table in an East Harlem social club in the 1980s, a fedora beside it"
+  },
+  {
+   "id": "ai_courthouse_1986",
+   "prompt": "Crowds of reporters and cameras on the steps of the federal courthouse in lower Manhattan in 1986, seen from far behind"
+  },
+  {
+   "id": "ai_informant",
+   "prompt": "A man in a windbreaker seen from behind sitting at a table across from two FBI agents in a bare room in 1987, a tape recorder on the table"
+  },
+  {
+   "id": "ai_trench_coats",
+   "prompt": "Silhouettes of several men in trench coats and fur hats waiting on a Manhattan sidewalk at dusk in December 1985, Christmas lights, seen from far behind"
+  },
+  {
+   "id": "ai_bensonhurst_1986",
+   "prompt": "A Brooklyn street in Bensonhurst in 1986, a social club storefront with a plain awning, parked cars, elevated train tracks in the background"
+  },
+  {
+   "id": "ai_hearing_1990s",
+   "prompt": "A federal courtroom during a competency hearing in the 1990s, a doctor seen from behind on the witness stand, lawyers at tables, wood paneling"
+  },
+  {
+   "id": "ai_jury_room",
+   "prompt": "An empty jury deliberation room in 1997, a long table with twelve chairs, notepads, a water pitcher, window blinds"
+  },
+  {
+   "id": "ai_prison_bus",
+   "prompt": "A federal prison transport bus driving through a gate in 1997, barbed wire, grey sky"
+  },
+  {
+   "id": "ai_prison_visit",
+   "prompt": "A prison visiting room in 2001, a glass partition with telephones, an old man in prison clothes seen from behind talking to a visitor, faces not visible"
+  },
+  {
+   "id": "ai_judge_bench_2003",
+   "prompt": "A federal judge's bench in Brooklyn in 2003 seen from the gallery, the judge far away and small, flags, wood paneling"
+  },
+  {
+   "id": "ai_church_flowers",
+   "prompt": "Flowers and candles in front of the altar of an old Catholic church in December 2005, empty pews, soft winter light"
+  },
+  {
+   "id": "ai_village_sunset",
+   "prompt": "Greenwich Village rooftops and water towers at sunset in 2005, the bell tower of an old church in the distance"
+  },
+  {
+   "id": "ai_pajamas_hanger",
+   "prompt": "Striped pajamas and a bathrobe folded on a prison hospital bed in 2005, a small window, cold light"
+  },
+  {
+   "id": "ai_old_photos",
+   "prompt": "Old black and white photographs of boxers and Greenwich Village streets scattered on a wooden table, faces too small to identify"
+  },
+  {
+   "id": "ai_typewriter_report",
+   "prompt": "An FBI agent's hands typing a surveillance report on an electric typewriter in the 1980s, a stack of photographs beside it, text unreadable"
   }
  ]
 }
