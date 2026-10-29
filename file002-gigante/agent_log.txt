@@ -1,0 +1,201 @@
+[     0s] file002-gigante: 25 planos, limite 35.0 min
+[     0s] gigante: 'Vincent Gigante'
+[     1s]     commons: 8 candidatos em 0.8s
+[     1s]     loc: 2 candidatos em 0.6s
+[    36s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[    36s]     openverse: 0 candidatos em 34.1s
+[    38s]     falhou download (loc) em 0.0s
+[    40s]   -> 6 imagens
+[    40s] costello: 'Frank Costello'
+[    41s]     commons: 8 candidatos em 1.2s
+[    42s]     loc: 8 candidatos em 1.0s
+[    76s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[    76s]     openverse: 0 candidatos em 34.1s
+[    77s]     falhou download (loc) em 0.1s
+[    78s]     falhou download (loc) em 0.1s
+[    78s]     falhou download (loc) em 0.1s
+[    81s]   -> 6 imagens
+[    81s] costello_hands: 'Frank Costello Kefauver hearing'
+[    81s]     commons: 0 candidatos em 0.6s
+[    85s]     loc: 1 candidatos em 3.5s
+[   114s]     openverse: 0 candidatos em 28.6s
+[   114s]     falhou download (loc) em 0.0s
+[   114s]     commons: 2 candidatos em 0.6s
+[   115s]     loc: 1 candidatos em 1.3s
+[   126s]     openverse: 0 candidatos em 10.2s
+[   126s]     commons: 0 candidatos em 0.6s
+[   127s]     loc: 1 candidatos em 0.4s
+[   138s]     openverse: 0 candidatos em 11.3s
+[   138s]   -> 0 imagens
+[   138s] genovese: 'Vito Genovese'
+[   138s]     commons: 7 candidatos em 0.5s
+[   139s]     loc: 1 candidatos em 0.4s
+[   173s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[   173s]     openverse: 0 candidatos em 34.1s
+[   176s]   -> 4 imagens
+[   176s] salerno: 'Anthony Salerno'
+[   177s]     commons: 10 candidatos em 1.7s
+[   178s]     loc: 6 candidatos em 0.5s
+[   212s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[   212s]     openverse: 0 candidatos em 34.1s
+[   213s]     falhou download (loc) em 0.0s
+[   216s]     falhou download (loc) em 1.3s
+[   217s]   -> 3 imagens
+[   217s] gotti: 'John Gotti'
+[   218s]     commons: 2 candidatos em 0.8s
+[   218s]     loc: 12 candidatos em 0.5s
+[   253s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[   253s]   ! api.openverse.org desligado nesta execucao (3 falhas seguidas)
+[   253s]     openverse: 0 candidatos em 34.1s
+[   253s]     falhou download (loc) em 0.0s
+[   254s]     falhou download (loc) em 0.0s
+[   254s]     falhou download (loc) em 0.0s
+[   254s]     falhou download (loc) em 0.0s
+[   254s]     falhou download (loc) em 0.0s
+[   254s]     falhou download (loc) em 0.0s
+[   254s]     falhou download (loc) em 0.0s
+[   254s]     falhou download (loc) em 0.0s
+[   254s]     falhou download (loc) em 0.0s
+[   254s]     falhou download (loc) em 0.0s
+[   254s]     falhou download (loc) em 0.0s
+[   254s]     falhou download (loc) em 0.0s
+[   255s]     commons: 2 candidatos em 0.5s
+[   255s]     loc: 2 candidatos em 0.4s
+[   255s]     openverse: 0 candidatos em 0.0s
+[   255s]   -> 2 imagens
+[   255s] castellano: 'Paul Castellano'
+[   256s]     commons: 9 candidatos em 0.7s
+[   256s]     loc: 2 candidatos em 0.3s
+[   256s]     openverse: 0 candidatos em 0.0s
+[   257s]     falhou download (loc) em 0.0s
+[   263s]     falhou download (loc) em 6.1s
+[   264s]   -> 3 imagens
+[   264s] gravano: 'Sammy Gravano'
+[   264s]     commons: 3 candidatos em 0.4s
+[   265s]     loc: 3 candidatos em 0.3s
+[   265s]     openverse: 0 candidatos em 0.0s
+[   265s]     falhou download (loc) em 0.0s
+[   296s]     falhou download (commons) em 30.1s
+[   297s]     commons: 3 candidatos em 0.6s
+[   299s]     loc: 4 candidatos em 2.0s
+[   299s]     openverse: 0 candidatos em 0.0s
+[   299s]   -> 2 imagens
+[   299s] sparks: 'Sparks Steak House'
+[   299s]     commons: 9 candidatos em 0.4s
+[   338s]   ! www.loc.gov: HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out.
+[   338s]     loc: 0 candidatos em 39.1s
+[   338s]     openverse: 0 candidatos em 0.0s
+[   340s]   -> 2 imagens
+[   340s] majestic: 'Majestic apartments Central Park West'
+[   340s]     commons: 0 candidatos em 0.5s
+[   387s]   ! www.loc.gov: HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out.
+[   387s]     loc: 0 candidatos em 47.0s
+[   387s]     openverse: 0 candidatos em 0.0s
+[   389s]     commons: 12 candidatos em 1.5s
+[   392s]     loc: 12 candidatos em 3.0s
+[   392s]     openverse: 0 candidatos em 0.0s
+[   422s]     falhou download (commons) em 30.1s
+[   424s]   -> 3 imagens
+[   424s] central_park_west: 'Central Park West 1950s'
+[   426s]     commons: 2 candidatos em 2.3s
+[   427s]     loc: 10 candidatos em 1.0s
+[   427s]     openverse: 0 candidatos em 0.0s
+[   428s]   -> 2 imagens
+[   428s] sullivan_street: 'Sullivan Street Greenwich Village'
+[   429s]     commons: 12 candidatos em 0.5s
+[   475s]   ! www.loc.gov: HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out.
+[   475s]     loc: 0 candidatos em 45.8s
+[   475s]     openverse: 0 candidatos em 0.0s
+[   482s]   -> 4 imagens
+[   482s] st_anthony: 'Saint Anthony of Padua church Sullivan Street'
+[   482s]     commons: 0 candidatos em 0.7s
+[   483s]     loc: 1 candidatos em 0.8s
+[   483s]     openverse: 0 candidatos em 0.0s
+[   483s]     falhou download (loc) em 0.0s
+[   484s]     commons: 12 candidatos em 1.0s
+[   485s]     loc: 2 candidatos em 0.8s
+[   485s]     openverse: 0 candidatos em 0.0s
+[   487s]   -> 2 imagens
+[   487s] washington_square: 'Washington Square Park 1950s'
+[   487s]     commons: 12 candidatos em 0.6s
+[   488s]     loc: 4 candidatos em 0.8s
+[   488s]     openverse: 0 candidatos em 0.0s
+[   518s]     falhou download (commons) em 30.1s
+[   520s]   -> 3 imagens
+[   520s] village_1950s: 'Greenwich Village 1950s'
+[   521s]     commons: 10 candidatos em 0.7s
+[   521s]     loc: 12 candidatos em 0.5s
+[   521s]     openverse: 0 candidatos em 0.0s
+[   528s]   -> 4 imagens
+[   528s] boxing_1940s: 'boxing match 1940s'
+[   528s]     commons: 12 candidatos em 0.4s
+[   529s]     loc: 4 candidatos em 0.5s
+[   529s]     openverse: 0 candidatos em 0.0s
+[   560s]     falhou download (commons) em 30.1s
+[   560s]     falhou download (loc) em 0.0s
+[   561s]   -> 3 imagens
+[   561s] kefauver: 'Estes Kefauver'
+[   561s]     commons: 11 candidatos em 0.7s
+[   562s]     loc: 12 candidatos em 0.6s
+[   562s]     openverse: 0 candidatos em 0.0s
+[   562s]     falhou download (commons) em 0.0s
+[   562s]     falhou download (loc) em 0.1s
+[   562s]     falhou download (commons) em 0.0s
+[   562s]     falhou download (loc) em 0.2s
+[   562s]     falhou download (commons) em 0.0s
+[   562s]     falhou download (loc) em 0.1s
+[   563s]     falhou download (loc) em 0.2s
+[   564s]     falhou download (loc) em 0.2s
+[   565s]   -> 3 imagens
+[   565s] tropicana: 'Tropicana Las Vegas 1957'
+[   565s]     commons: 2 candidatos em 0.6s
+[   566s]     loc: 0 candidatos em 0.3s
+[   566s]     openverse: 0 candidatos em 0.0s
+[   567s]   -> 2 imagens
+[   567s] brooklyn_court: 'United States Courthouse Brooklyn'
+[   568s]     commons: 12 candidatos em 0.8s
+[   621s]   ! www.loc.gov: HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out.
+[   621s]     loc: 0 candidatos em 53.3s
+[   621s]     openverse: 0 candidatos em 0.0s
+[   623s]   -> 3 imagens
+[   623s] springfield_mcfp: 'Medical Center for Federal Prisoners Springfield'
+[   624s]     commons: 2 candidatos em 0.9s
+[   625s]     loc: 12 candidatos em 0.7s
+[   625s]     openverse: 0 candidatos em 0.0s
+[   626s]   -> 2 imagens
+[   626s] psych_hospital: 'psychiatric hospital 1970s'
+[   627s]     commons: 12 candidatos em 0.6s
+[   628s]     loc: 2 candidatos em 1.0s
+[   628s]     openverse: 0 candidatos em 0.0s
+[   628s]     falhou download (commons) em 0.0s
+[   629s]   -> 2 imagens
+[   629s] nyc_1957: 'New York City 1957'
+[   630s]     commons: 4 candidatos em 0.6s
+[   630s]     loc: 12 candidatos em 0.6s
+[   630s]     openverse: 0 candidatos em 0.0s
+[   630s]     falhou download (commons) em 0.0s
+[   632s]   -> 3 imagens
+[   632s] nyc_1980s: 'New York City 1980s street'
+[   633s]     commons: 12 candidatos em 0.5s
+[   634s]     loc: 3 candidatos em 1.0s
+[   634s]     openverse: 0 candidatos em 0.0s
+[   635s]   -> 3 imagens
+[   635s] weinstein: 'Jack B. Weinstein judge'
+[   636s]     commons: 3 candidatos em 0.6s
+[   637s]     loc: 2 candidatos em 0.6s
+[   637s]     openverse: 0 candidatos em 0.0s
+[   637s]     falhou download (commons) em 0.0s
+[   637s]     falhou download (loc) em 0.1s
+[   637s]     falhou download (commons) em 0.0s
+[   637s]     falhou download (loc) em 0.0s
+[   637s]   -> 1 imagens
+[   637s] fbi_hq: 'FBI New York field office'
+[   638s]     commons: 6 candidatos em 0.9s
+[   641s]     loc: 12 candidatos em 2.2s
+[   641s]     openverse: 0 candidatos em 0.0s
+[   641s]     falhou download (commons) em 0.0s
+[   641s]     falhou download (commons) em 0.0s
+[   641s]     falhou download (loc) em 0.0s
+[   641s]     falhou download (commons) em 0.0s
+[   642s]   -> 2 imagens
+[   644s] fim: 70 imagens
