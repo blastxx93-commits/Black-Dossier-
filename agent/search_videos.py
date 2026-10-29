@@ -145,7 +145,51 @@ def search_commons(q, rows=10, years=None, collections=None, item=None):
     return out
 
 
-SOURCES = {"archive": search_archive, "commons": search_commons}
+def search_pexels(q, rows=8, years=None, collections=None, item=None):
+    """Pexels stock video (free to use, Pexels license). Needs env PEXELS_API_KEY; skipped without it."""
+    key = os.environ.get("PEXELS_API_KEY", "").strip()
+    if item or not key:
+        return []
+    try:
+        time.sleep(0.5)
+        r = S.get("https://api.pexels.com/videos/search", params={"query": q, "per_page": rows, "orientation": "landscape",
+                  "size": "medium"}, headers={"Authorization": key}, timeout=25)
+        r.raise_for_status()
+        data = r.json()
+    except Exception as e:
+        log(f"  ! pexels: {str(e)[:140]}")
+        return []
+    out = []
+    for v in data.get("videos", []):
+        files = [f for f in v.get("video_files", []) if f.get("width") and f["width"] >= 1280 and f.get("file_type") == "video/mp4"]
+        if not files:
+            continue
+        f = min(files, key=lambda f: abs(f["width"] - 1920))
+        out.append({"source": "pexels", "url": f["link"], "title": (v.get("url", "").rstrip("/").split("/")[-1])[:150],
+                    "license": "Pexels License (free to use)", "page": v.get("url", ""), "length": float(v.get("duration") or 0),
+                    "author": (v.get("user") or {}).get("name", "")[:100]})
+    return out
+
+
+def search_pixabay(q, rows=8, years=None, collections=None, item=None):
+    """Pixabay stock video (free to use, Pixabay Content License). Needs env PIXABAY_API_KEY; skipped without it."""
+    key = os.environ.get("PIXABAY_API_KEY", "").strip()
+    if item or not key:
+        return []
+    data = get_json("https://pixabay.com/api/videos/", {"key": key, "q": q[:100], "per_page": max(3, rows), "safesearch": "true"})
+    out = []
+    for h in (data or {}).get("hits", []):
+        vids = h.get("videos", {})
+        f = vids.get("large") if (vids.get("large") or {}).get("url") else vids.get("medium")
+        if not f or not f.get("url") or (f.get("width") or 0) < 1280:
+            continue
+        out.append({"source": "pixabay", "url": f["url"], "title": (h.get("tags") or "")[:150],
+                    "license": "Pixabay Content License (free to use)", "page": h.get("pageURL", ""),
+                    "length": float(h.get("duration") or 0), "author": (h.get("user") or "")[:100]})
+    return out
+
+
+SOURCES = {"archive": search_archive, "commons": search_commons, "pexels": search_pexels, "pixabay": search_pixabay}
 
 
 # ------------------------------------------------------------ clips

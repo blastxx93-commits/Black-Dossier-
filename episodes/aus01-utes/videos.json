@@ -1,0 +1,200 @@
+{
+ "defaults": {
+  "n": 3,
+  "clip": 8,
+  "sources": [
+   "pexels",
+   "pixabay",
+   "commons",
+   "archive"
+  ]
+ },
+ "shots": [
+  {
+   "id": "v_ute_dirt_road",
+   "query": "pickup truck driving dirt road",
+   "alt": [
+    "4x4 driving dirt road",
+    "off road truck dust"
+   ]
+  },
+  {
+   "id": "v_outback_aerial",
+   "query": "Australian outback aerial",
+   "alt": [
+    "desert road aerial",
+    "red desert drone"
+   ]
+  },
+  {
+   "id": "v_4x4_offroad",
+   "query": "pickup truck off road",
+   "alt": [
+    "4x4 off road mud",
+    "off road vehicle river crossing"
+   ]
+  },
+  {
+   "id": "v_beach_4wd",
+   "query": "4x4 driving on beach",
+   "alt": [
+    "beach driving car sand"
+   ]
+  },
+  {
+   "id": "v_dealer_lot_aerial",
+   "query": "cars parked lot aerial",
+   "alt": [
+    "car dealership lot drone",
+    "parking lot new cars"
+   ]
+  },
+  {
+   "id": "v_car_showroom",
+   "query": "car showroom",
+   "alt": [
+    "car dealership interior",
+    "new car dealer"
+   ]
+  },
+  {
+   "id": "v_salesman",
+   "query": "car salesman customer",
+   "alt": [
+    "buying a car dealership",
+    "car keys handover"
+   ]
+  },
+  {
+   "id": "v_car_carrier",
+   "query": "car carrier ship port",
+   "alt": [
+    "ro-ro ship cars loading",
+    "car transport ship"
+   ]
+  },
+  {
+   "id": "v_port_cars",
+   "query": "cars port terminal",
+   "alt": [
+    "vehicle terminal port",
+    "car export port"
+   ]
+  },
+  {
+   "id": "v_highway_aerial",
+   "query": "highway traffic aerial",
+   "alt": [
+    "freeway traffic drone",
+    "motorway traffic"
+   ]
+  },
+  {
+   "id": "v_sydney",
+   "query": "Sydney traffic",
+   "alt": [
+    "Sydney city street",
+    "Sydney Harbour Bridge traffic"
+   ]
+  },
+  {
+   "id": "v_melbourne",
+   "query": "Melbourne city traffic",
+   "alt": [
+    "Melbourne street tram cars"
+   ]
+  },
+  {
+   "id": "v_fuel",
+   "query": "fuel pump refuelling car",
+   "alt": [
+    "gas station refuel",
+    "diesel pump"
+   ]
+  },
+  {
+   "id": "v_ev_charge",
+   "query": "electric car charging",
+   "alt": [
+    "EV charging cable",
+    "charging station car"
+   ]
+  },
+  {
+   "id": "v_caravan",
+   "query": "caravan road trip",
+   "alt": [
+    "camper trailer towing",
+    "towing caravan highway"
+   ]
+  },
+  {
+   "id": "v_farm_truck",
+   "query": "farm pickup truck",
+   "alt": [
+    "farmer pickup truck field",
+    "rural road truck sheep"
+   ]
+  },
+  {
+   "id": "v_tradie",
+   "query": "construction worker truck tools",
+   "alt": [
+    "tradesman loading truck",
+    "builder pickup truck"
+   ]
+  },
+  {
+   "id": "v_family_car",
+   "query": "family road trip car",
+   "alt": [
+    "family loading car boot"
+   ]
+  },
+  {
+   "id": "v_road_train",
+   "query": "road train truck outback",
+   "alt": [
+    "truck desert highway"
+   ]
+  },
+  {
+   "id": "v_country_road",
+   "query": "country road driving",
+   "alt": [
+    "rural road driving car",
+    "road trip driving pov"
+   ]
+  },
+  {
+   "id": "v_contract",
+   "query": "signing contract",
+   "alt": [
+    "signing documents pen",
+    "signing car purchase"
+   ]
+  },
+  {
+   "id": "v_money",
+   "query": "counting money cash",
+   "alt": [
+    "australian dollars",
+    "calculator finance"
+   ]
+  },
+  {
+   "id": "v_city_night",
+   "query": "city traffic night",
+   "alt": [
+    "car lights night street timelapse"
+   ]
+  },
+  {
+   "id": "v_bush_track",
+   "query": "forest dirt road 4x4",
+   "alt": [
+    "bush track driving"
+   ]
+  }
+ ]
+}

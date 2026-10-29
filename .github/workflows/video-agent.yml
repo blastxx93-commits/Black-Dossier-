@@ -1,6 +1,7 @@
 name: Agente de vídeos
 
-# Busca filmes de arquivo livres (Internet Archive + Wikimedia Commons) e recorta clipes curtos.
+# Busca filmes livres (Internet Archive + Wikimedia Commons; Pexels e Pixabay se os segredos PEXELS_API_KEY /
+# PIXABAY_API_KEY existirem) e recorta clipes curtos.
 # Resultado no branch assets: <ep>/video/<plano>/*.mp4 + video_contact_sheet_*.jpg + video_credits.csv
 on:
   workflow_dispatch:
@@ -36,6 +37,9 @@ jobs:
       - name: Buscar vídeos
         continue-on-error: true
         working-directory: main
+        env:
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
         run: |
           mkdir -p "../out/${{ inputs.episode }}"
           set -o pipefail
