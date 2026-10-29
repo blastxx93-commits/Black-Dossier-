@@ -1,169 +1,63 @@
-[     0s] aus01-utes: 28 planos, limite 35.0 min
-[     0s] g_ute_outback: 'ute outback Australia'
-[     1s]     commons: 2 candidatos em 0.8s
+[     0s] aus01-utes: 10 planos, limite 35.0 min
+[     0s] g2_dealer_au: 'car dealership Australia'
+[     1s]     commons: 10 candidatos em 1.2s
 [    35s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
 [    35s]     openverse: 0 candidatos em 34.3s
-[    37s]     commons: 0 candidatos em 0.5s
-[    71s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
-[    71s]     openverse: 0 candidatos em 34.1s
-[    72s]     commons: 2 candidatos em 0.9s
-[   106s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
-[   106s]   ! api.openverse.org desligado nesta execucao (3 falhas seguidas)
-[   106s]     openverse: 0 candidatos em 34.1s
-[   107s]   -> 4 imagens
-[   107s] g_outback_road: 'Stuart Highway'
-[   108s]     commons: 11 candidatos em 0.5s
-[   108s]     openverse: 0 candidatos em 0.0s
-[   122s]   -> 6 imagens
-[   122s] g_red_dirt_road: 'red dirt road Australia'
-[   122s]     commons: 8 candidatos em 0.6s
-[   122s]     openverse: 0 candidatos em 0.0s
-[   136s]   -> 6 imagens
-[   136s] g_hilux_au: 'Toyota Hilux Australia'
-[   137s]     commons: 12 candidatos em 0.7s
-[   137s]     openverse: 0 candidatos em 0.0s
-[   169s]     falhou download (commons) em 30.0s
-[   170s]   -> 6 imagens
-[   170s] g_ranger_au: 'Ford Ranger Australia'
-[   171s]     commons: 11 candidatos em 0.6s
-[   171s]     openverse: 0 candidatos em 0.0s
-[   201s]     falhou download (commons) em 30.0s
-[   204s]   -> 6 imagens
-[   204s] g_dmax_au: 'Isuzu D-Max Australia'
-[   205s]     commons: 11 candidatos em 0.5s
-[   205s]     openverse: 0 candidatos em 0.0s
-[   208s]   -> 6 imagens
-[   208s] g_triton_au: 'Mitsubishi Triton Australia'
-[   209s]     commons: 12 candidatos em 0.9s
-[   209s]     openverse: 0 candidatos em 0.0s
-[   215s]   -> 6 imagens
-[   215s] g_holden_ute: 'Holden Ute'
-[   216s]     commons: 12 candidatos em 0.5s
-[   216s]     openverse: 0 candidatos em 0.0s
-[   223s]   -> 6 imagens
-[   223s] g_falcon_ute: 'Ford Falcon ute'
-[   224s]     commons: 12 candidatos em 1.1s
-[   224s]     openverse: 0 candidatos em 0.0s
-[   227s]   -> 6 imagens
-[   227s] g_car_dealership: 'car dealership'
-[   228s]     commons: 11 candidatos em 0.7s
-[   228s]     openverse: 0 candidatos em 0.0s
-[   259s]     falhou download (commons) em 30.0s
-[   289s]     falhou download (commons) em 30.0s
-[   291s]     falhou download (commons) em 0.0s
-[   291s]     falhou download (commons) em 0.0s
-[   292s]   -> 6 imagens
-[   292s] g_car_yard: 'car yard Australia'
-[   293s]     commons: 11 candidatos em 1.0s
-[   293s]     openverse: 0 candidatos em 0.0s
-[   294s]     falhou download (commons) em 0.0s
-[   295s]     falhou download (commons) em 0.0s
-[   296s]     falhou download (commons) em 0.0s
-[   298s]   -> 6 imagens
-[   298s] g_port_melbourne: 'Port of Melbourne'
-[   300s]     commons: 12 candidatos em 1.9s
-[   300s]     openverse: 0 candidatos em 0.0s
-[   301s]     falhou download (commons) em 0.0s
-[   304s]   -> 6 imagens
-[   304s] g_car_terminal: 'car terminal port'
-[   304s]     commons: 11 candidatos em 0.8s
-[   304s]     openverse: 0 candidatos em 0.0s
-[   306s]     falhou download (commons) em 0.0s
-[   308s]   -> 6 imagens
-[   308s] g_car_unloading: 'car carrier unloading'
-[   309s]     commons: 9 candidatos em 0.7s
-[   309s]     openverse: 0 candidatos em 0.0s
-[   310s]     falhou download (commons) em 0.0s
-[   313s]   -> 6 imagens
-[   313s] g_caravan_tow: 'caravan towing Australia'
-[   314s]     commons: 1 candidatos em 0.4s
-[   314s]     openverse: 0 candidatos em 0.0s
-[   314s]     falhou download (commons) em 0.0s
-[   316s]     commons: 9 candidatos em 2.3s
-[   316s]     openverse: 0 candidatos em 0.0s
-[   323s]   -> 6 imagens
-[   323s] g_beach_4wd: '4WD beach Fraser Island'
-[   324s]     commons: 5 candidatos em 0.9s
-[   324s]     openverse: 0 candidatos em 0.0s
-[   328s]     commons: 0 candidatos em 0.5s
-[   328s]     openverse: 0 candidatos em 0.0s
-[   329s]     commons: 11 candidatos em 1.3s
-[   329s]     openverse: 0 candidatos em 0.0s
-[   329s]   -> 6 imagens
-[   329s] g_farm_ute: 'farm ute Australia'
-[   330s]     commons: 4 candidatos em 0.8s
-[   330s]     openverse: 0 candidatos em 0.0s
-[   338s]     commons: 10 candidatos em 1.7s
-[   338s]     openverse: 0 candidatos em 0.0s
-[   339s]   -> 6 imagens
-[   339s] g_tradie: 'tradesman ute'
-[   340s]     commons: 1 candidatos em 1.1s
-[   340s]     openverse: 0 candidatos em 0.0s
-[   365s]   ! commons.wikimedia.org: 429 rate limit
-[   365s]     commons: 0 candidatos em 24.0s
-[   365s]     openverse: 0 candidatos em 0.0s
-[   366s]     commons: 12 candidatos em 1.2s
-[   366s]     openverse: 0 candidatos em 0.0s
-[   366s]     falhou download (commons) em 0.0s
-[   367s]     falhou download (commons) em 0.0s
-[   368s]     falhou download (commons) em 0.0s
-[   371s]   -> 6 imagens
-[   371s] g_sydney_traffic: 'Sydney traffic'
-[   372s]     commons: 10 candidatos em 1.2s
-[   372s]     openverse: 0 candidatos em 0.0s
-[   372s]     falhou download (commons) em 0.0s
-[   379s]   -> 6 imagens
-[   379s] g_melbourne_traffic: 'Melbourne traffic'
-[   381s]     commons: 10 candidatos em 1.8s
-[   381s]     openverse: 0 candidatos em 0.0s
-[   382s]     falhou download (commons) em 0.0s
-[   390s]   -> 6 imagens
-[   390s] g_fuel_station: 'petrol station Australia'
-[   391s]     commons: 12 candidatos em 0.8s
-[   391s]     openverse: 0 candidatos em 0.0s
-[   394s]   -> 6 imagens
-[   394s] g_ev_charging: 'electric vehicle charging Australia'
-[   396s]     commons: 12 candidatos em 1.1s
-[   396s]     openverse: 0 candidatos em 0.0s
-[   400s]   -> 6 imagens
-[   400s] g_motor_show: 'Melbourne Motor Show'
-[   402s]     commons: 12 candidatos em 2.5s
-[   402s]     openverse: 0 candidatos em 0.0s
-[   412s]   -> 6 imagens
-[   412s] g_byd_store: 'BYD showroom'
-[   412s]     commons: 12 candidatos em 0.4s
-[   412s]     openverse: 0 candidatos em 0.0s
-[   414s]     falhou download (commons) em 0.0s
-[   414s]     falhou download (commons) em 0.0s
-[   414s]     falhou download (commons) em 0.0s
-[   414s]     falhou download (commons) em 0.0s
-[   414s]     falhou download (commons) em 0.0s
-[   414s]     falhou download (commons) em 0.0s
-[   414s]     falhou download (commons) em 0.0s
-[   415s]     commons: 12 candidatos em 0.4s
-[   415s]     openverse: 0 candidatos em 0.0s
-[   416s]   -> 6 imagens
-[   416s] g_road_train: 'road train Australia'
-[   417s]     commons: 12 candidatos em 0.7s
-[   417s]     openverse: 0 candidatos em 0.0s
-[   417s]     falhou download (commons) em 0.0s
-[   418s]     falhou download (commons) em 0.0s
-[   420s]   -> 6 imagens
-[   420s] g_country_town: 'Australian country town main street'
-[   421s]     commons: 11 candidatos em 1.0s
-[   421s]     openverse: 0 candidatos em 0.0s
-[   421s]     falhou download (commons) em 0.0s
-[   421s]     falhou download (commons) em 0.0s
-[   423s]     falhou download (commons) em 0.0s
-[   427s]   -> 6 imagens
-[   427s] g_parliament: 'Parliament House Canberra'
-[   427s]     commons: 11 candidatos em 0.7s
-[   427s]     openverse: 0 candidatos em 0.0s
-[   431s]   -> 6 imagens
-[   431s] g_bush_track: 'Australian bush track four wheel drive'
-[   431s]     commons: 0 candidatos em 0.5s
-[   431s]     openverse: 0 candidatos em 0.0s
-[   432s]     commons: 0 candidatos em 0.5s
-[   432s]     openverse: 0 candidatos em 0.0s
-[   432s]   -> 0 imagens
-[   434s] fim: 160 imagens
+[    42s]   -> 8 imagens
+[    42s] g2_dealer_brand: 'Toyota dealership'
+[    48s]     commons: 0 candidatos em 5.9s
+[    82s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[    82s]     openverse: 0 candidatos em 34.1s
+[    87s]     commons: 3 candidatos em 5.0s
+[   121s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[   121s]   ! api.openverse.org desligado nesta execucao (3 falhas seguidas)
+[   121s]     openverse: 0 candidatos em 34.1s
+[   127s]     commons: 12 candidatos em 2.8s
+[   127s]     openverse: 0 candidatos em 0.0s
+[   142s]   -> 8 imagens
+[   142s] g2_car_lot: 'car lot'
+[   143s]     commons: 12 candidatos em 0.9s
+[   143s]     openverse: 0 candidatos em 0.0s
+[   149s]   -> 8 imagens
+[   149s] g2_showroom: 'car showroom interior'
+[   149s]     commons: 9 candidatos em 0.6s
+[   149s]     openverse: 0 candidatos em 0.0s
+[   156s]   -> 8 imagens
+[   156s] g2_used_cars: 'used car dealer'
+[   157s]     commons: 9 candidatos em 0.8s
+[   157s]     openverse: 0 candidatos em 0.0s
+[   173s]   -> 8 imagens
+[   173s] g2_motor_show: 'motor show pickup truck'
+[   175s]     commons: 12 candidatos em 2.6s
+[   175s]     openverse: 0 candidatos em 0.0s
+[   188s]   -> 8 imagens
+[   188s] g2_car_park_aerial: 'car park aerial view'
+[   191s]     commons: 10 candidatos em 3.6s
+[   191s]     openverse: 0 candidatos em 0.0s
+[   224s]     falhou download (commons) em 30.0s
+[   254s]     falhou download (commons) em 30.0s
+[   284s]     falhou download (commons) em 30.0s
+[   289s]     commons: 11 candidatos em 0.6s
+[   289s]     openverse: 0 candidatos em 0.0s
+[   290s]   -> 8 imagens
+[   290s] g2_auto_terminal: 'automobile terminal'
+[   292s]     commons: 10 candidatos em 2.7s
+[   292s]     openverse: 0 candidatos em 0.0s
+[   324s]     falhou download (commons) em 30.0s
+[   324s]     falhou download (commons) em 0.0s
+[   329s]   -> 8 imagens
+[   329s] g2_ute_aus: 'utility vehicle Australia'
+[   331s]     commons: 12 candidatos em 2.0s
+[   331s]     openverse: 0 candidatos em 0.0s
+[   335s]     falhou download (commons) em 0.0s
+[   335s]     falhou download (commons) em 0.0s
+[   341s]   -> 8 imagens
+[   341s] g2_4wd_track: 'four wheel drive track'
+[   342s]     commons: 0 candidatos em 1.0s
+[   342s]     openverse: 0 candidatos em 0.0s
+[   347s]     commons: 12 candidatos em 4.9s
+[   347s]     openverse: 0 candidatos em 0.0s
+[   348s]     falhou download (commons) em 0.0s
+[   352s]     falhou download (commons) em 0.0s
+[   361s]   -> 8 imagens
+[   362s] fim: 80 imagens
