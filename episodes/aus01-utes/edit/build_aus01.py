@@ -22,9 +22,50 @@ if os.path.exists("a/credits.csv"):
         CREDITS[os.path.basename(f)] = r
 
 
-def pool(cat):
+# best material first: Unsplash/Pixabay searches (h_*), then AI scenes, then the Commons pool itself
+H_FOR = {
+    "g_car_dealership": ["h_dealer_lot", "h_showroom", "h_salesman"], "g_car_yard": ["h_pickup_lot", "h_aerial_parking", "h_dealer_lot"],
+    "g_motor_show": ["h_showroom"], "g_car_terminal": ["h_cars_port", "h_aerial_parking"], "g_port_melbourne": ["h_cars_port"],
+    "g_ute_outback": ["h_ute_outback", "h_4x4_dirt"], "g_red_dirt_road": ["h_4x4_dirt", "h_outback_road"],
+    "g_outback_road": ["h_outback_road", "h_highway_au"], "g_bush_track": ["h_bush", "h_offroad"], "g_beach_4wd": ["h_beach_4x4"],
+    "g_tradie": ["h_tradie_ute"], "g_farm_ute": ["h_farm_pickup"], "g_caravan_tow": ["h_caravan"],
+    "g_sydney_traffic": ["h_sydney_road"], "g_melbourne_traffic": ["h_melbourne_road"], "g_fuel_station": ["h_fuel"],
+    "g_ev_charging": ["h_ev"], "g_country_town": ["h_country_town"], "g_byd_store": ["h_showroom"],
+    "g_hilux_au": ["h_offroad"], "g_ranger_au": ["h_ute_outback"], "g_dmax_au": ["h_farm_pickup"], "g_triton_au": ["h_4x4_dirt"],
+}
+AI_FOR = {
+    "g_car_yard": ["ai_dealer_yard_rows", "ai_yard_overstock", "ai_ute_rows_closeup"],
+    "g_car_dealership": ["ai_empty_showroom", "ai_dealer_flags", "ai_dealer_night", "ai_salesman_waiting", "ai_salesman_handshake"],
+    "g_car_terminal": ["ai_port_cars"], "g_port_melbourne": ["ai_port_cars"],
+    "g_ute_outback": ["ai_ute_outback", "ai_ute_red_dust", "ai_road_trip_ute"], "g_red_dirt_road": ["ai_ute_red_dust"],
+    "g_tradie": ["ai_tradie_ute"], "g_beach_4wd": ["ai_family_ute_beach"], "g_caravan_tow": ["ai_caravan_tow", "ai_ute_tow_boat"],
+    "g_farm_ute": ["ai_farm_ute"], "g_fuel_station": ["ai_diesel_pump"], "g_ev_charging": ["ai_ev_charging_ute"],
+    "g_sydney_traffic": ["ai_school_run"], "g_bush_track": ["ai_aussie_family_ute", "ai_road_trip_ute"],
+    "g_motor_show": ["ai_price_sticker"],
+}
+
+
+def _files(cat):
     files = sorted(glob.glob(f"a/{cat}/*.jpg") + glob.glob(f"a/{cat}/*.png") + glob.glob(f"a/{cat}/*.jpeg"))
     return [f[2:] for f in files if f"{cat}/{os.path.basename(f)}" not in SKIP]
+
+
+def pool(cat):
+    out = []
+    for h in H_FOR.get(cat, []):
+        out += _files(h)
+    for name in AI_FOR.get(cat, []):
+        out += [f[2:] for f in sorted(glob.glob(f"a/ai/{name}_*.jpg")) if f"ai/{os.path.basename(f)}" not in SKIP]
+    return out + _files(cat)
+
+
+def A(name, fallback_cat, move="in", cap=None):
+    """A specific AI scene when it exists, else a photo of the fallback pool."""
+    fs = [f[2:] for f in sorted(glob.glob(f"a/ai/{name}_*.jpg")) if f[2:] not in USED and f"ai/{os.path.basename(f)}" not in SKIP]
+    if fs:
+        USED.add(fs[0]); COUNT["img"] += 1
+        return K.img(fs[0], move, cap=cap)
+    return P(fallback_cat, move, cap)
 
 
 POOLS = {}
@@ -232,7 +273,7 @@ chapters.append(c)
 
 # ---------------------------------------------------------------- CH 1 context
 c = ch("ch01")
-c.at(0, P("g_car_dealership"))
+c.at(0, A("ai_dashboard_numbers", "g_car_dealership"))
 c.at("the 4x4 pick-up segment dropped", bars("4x4 ute sales", [["Jul 2025", 17351], ["Jul 2026", 14705, "red"]], "-15.2%", VF))
 c.at("And it's not a one-month blip", P("g_car_yard"))
 c.at("Across the first eight months of 2026", stat("-13.6%", "4x4 ute sales · Jan–Aug 2026", "FCAI VFACTS via CarsGuide", red=True))
@@ -414,10 +455,10 @@ c.at("the outgoing stock is often", P("g_car_terminal"))
 c.at("Third, think about resale", P("g_car_yard"))
 c.at("If you're buying a ute that's struggling", P("g_country_town"))
 c.at("And finally, deals change every month", P("g_motor_show"))
-c.at("always confirm the current drive-away price", say("Confirm the drive-away price.", "DRIVEAWAY", 130))
+c.at("always confirm the current drive-away price", A("ai_contract_signing", "g_car_dealership", cap="Before you sign|Get the drive-away price in writing"))
 c.at("A few more tips before you hit the yards", P("g_car_dealership"))
 c.at("If you have an ABN", stat("ABN", "ask about business pricing", None, count=False))
-c.at("Look at the build date", say("Check the build date.", "BUILD DATE", 150))
+c.at("Look at the build date", A("ai_compliance_plate", "g_car_yard", cap="Check the build date|Compliance plate"))
 c.at("And if you're thinking about a plug-in hybrid", P("g_ev_charging"))
 c.at("If you charge at home", P("g_melbourne_traffic"))
 c.at("If you tow heavy loads", P("g_caravan_tow"))
