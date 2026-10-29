@@ -1,96 +1,267 @@
-[     0s] file002-gigante: 18 planos de video
-[     1s]   c_costello / archive: 0 filmes para 'Costello'
-[     3s]   c_costello / archive: 0 filmes para 'Frank Costello'
-[     4s]   c_costello / archive: 0 filmes para 'underworld'
-[     5s]   c_kefauver / archive: 0 filmes para 'Kefauver'
-[     6s]   c_kefauver / archive: 0 filmes para 'crime committee'
-[     8s]   c_kefauver / archive: 0 filmes para 'crime probe'
-[     9s]   c_genovese / archive: 0 filmes para 'Genovese'
-[    10s]   c_genovese / archive: 0 filmes para 'narcotics ring'
-[    11s]   c_genovese / archive: 0 filmes para 'dope ring'
-[    12s]   c_apalachin / archive: 0 filmes para 'Apalachin'
-[    14s]   c_apalachin / archive: 0 filmes para 'gangland meeting'
-[    15s]   c_apalachin / archive: 0 filmes para 'crime convention'
-[    20s]   c_boxing / archive: 3 filmes para 'boxing'
-[    27s]     + 1_archive.mp4 de 'Churchill On Vacation, 1946/01/21' a partir de 58s
-[    35s]     + 2_archive.mp4 de 'Churchill On Vacation, 1946/01/21' a partir de 424s
-[    42s]     + 3_archive.mp4 de 'U. S. Will Keep Faith Says Byrnes, 1947/01/13' a partir de 53s
-[    51s]     + 4_archive.mp4 de 'U. S. Will Keep Faith Says Byrnes, 1947/01/13' a partir de 391s
-[    59s]     + 5_archive.mp4 de 'Reds Roll On In Germany, 1945/03/29' a partir de 53s
-[    67s]   c_village / archive: 5 filmes para 'Greenwich Village'
-[    79s]     + 1_archive.mp4 de 'Snob, The' a partir de 96s
-[    91s]     + 2_archive.mp4 de 'Snob, The' a partir de 707s
-[    97s]     + 3_archive.mp4 de 'Greenwich Village Sunday' a partir de 90s
-[   108s]     trecho escuro em 663s, tentando mais adiante
-[   117s]     + 4_archive.mp4 de 'Greenwich Village Sunday' a partir de 640s
-[   131s]     + 5_archive.mp4 de 'Greenwich Village Sunday' a partir de 90s
-[   134s]   c_little_italy / archive: 1 filmes para 'Italian feast'
-[   156s]     + 1_archive.mp4 de 'News Magazine of the Screen, The (Vol. 2, Issue 6)' a partir de 165s
-[   173s]     + 2_archive.mp4 de 'News Magazine of the Screen, The (Vol. 2, Issue 6)' a partir de 1214s
-[   176s]   c_little_italy / archive: 2 filmes para 'San Gennaro'
-[   188s]   c_little_italy / archive: 8 filmes para 'Little Italy'
-[   201s]     + 3_archive.mp4 de 'Despotism' a partir de 72s
-[   213s]     + 4_archive.mp4 de 'Despotism' a partir de 525s
-[   224s]   c_ny_night / archive: 8 filmes para 'New York at night'
-[   236s]     + 1_archive.mp4 de 'How Much Affection?' a partir de 143s
-[   248s]     + 2_archive.mp4 de 'How Much Affection?' a partir de 1046s
-[   255s]     + 3_archive.mp4 de 'Flying with Arthur Godfrey' a partir de 347s
-[   266s]     + 4_archive.mp4 de 'Flying with Arthur Godfrey' a partir de 2546s
-[   282s]     + 5_archive.mp4 de 'American Engineer (Part I)' a partir de 67s
-[   294s]   c_central_park / archive: 8 filmes para 'Central Park'
-[   324s]     + 1_archive.mp4 de 'Chance to Play, A' a partir de 135s
-[   342s]     + 2_archive.mp4 de 'Chance to Play, A' a partir de 993s
-[   349s]     + 3_archive.mp4 de '[Home Movies: Vacation to El Paso, L.A. and S.F., 3-11 to 20' a partir de 178s
-[   358s]     + 4_archive.mp4 de '[Home Movies: Vacation to El Paso, L.A. and S.F., 3-11 to 20' a partir de 1302s
-[   365s]   c_cadillac / archive: 5 filmes para 'Cadillac'
-[   373s]     trecho escuro em 189s, tentando mais adiante
-[   375s]     trecho escuro em 503s, tentando mais adiante
-[   382s]     + 1_archive.mp4 de "Game's the Same, The" a partir de 818s
-[   387s]     trecho escuro em 1384s, tentando mais adiante
-[   393s]     trecho escuro em 1337s, tentando mais adiante
-[   416s]     + 2_archive.mp4 de 'Corvair in Action, The' a partir de 47s
-[   429s]     + 3_archive.mp4 de 'Corvair in Action, The' a partir de 342s
-[   435s]     + 4_archive.mp4 de '[Home Movies: Croft Collection: Reel 80, House Ext and Int]' a partir de 123s
-[   448s]   c_police_ny / archive: 8 filmes para 'New York police'
-[   450s]     corte falhou (6045_And_Then_There_Were_Four_01_01_00_00.mp4): ening input file https://archive.org/download/6045_And_Then_There_Were_Four_01_01_00_00/6045_And_Then_There_Were_Four_01_01_00_00.mp4.
-Error opening input files: Server returned 5XX Server Error reply
-[   459s]     + 1_archive.mp4 de 'And Then There Were Four' a partir de 1356s
-[   466s]     + 2_archive.mp4 de 'Eisenhower Re-Elected, 1956/11/05' a partir de 46s
-[   473s]     + 3_archive.mp4 de 'Eisenhower Re-Elected, 1956/11/05' a partir de 339s
-[   481s]     + 4_archive.mp4 de "Don't Talk to Strangers" a partir de 96s
-[   490s]   c_las_vegas / archive: 6 filmes para 'Las Vegas'
-[   502s]     + 1_archive.mp4 de 'Operation Cue (1955)' a partir de 109s
-[   514s]     + 2_archive.mp4 de 'Operation Cue (1955)' a partir de 801s
-[   524s]     + 3_archive.mp4 de "Show 'Em the Road (Part I)" a partir de 95s
-[   544s]     + 4_archive.mp4 de "Show 'Em the Road (Part I)" a partir de 698s
-[   545s]   c_prison / archive: 0 filmes para 'federal prison'
-[   547s]   c_prison / archive: 0 filmes para 'penitentiary'
-[   549s]   c_prison / archive: 1 filmes para 'prisoners'
-[   557s]     + 1_archive.mp4 de 'Atom Sub. President Officiates At Laying Of Keel, 1952/06/16' a partir de 49s
-[   565s]     + 2_archive.mp4 de 'Atom Sub. President Officiates At Laying Of Keel, 1952/06/16' a partir de 358s
-[   577s]   c_psychiatric / archive: 8 filmes para 'mental hospital'
-[   585s]     + 1_archive.mp4 de "Idaho's State Hospitals" a partir de 168s
-[   593s]     + 2_archive.mp4 de "Idaho's State Hospitals" a partir de 1234s
-[   600s]     + 3_archive.mp4 de 'Back to Life' a partir de 218s
-[   609s]     + 4_archive.mp4 de 'Back to Life' a partir de 1600s
-[   634s]     + 5_archive.mp4 de 'Palmour Street' a partir de 166s
-[   640s]   c_courthouse / archive: 4 filmes para 'trial'
-[   649s]     + 1_archive.mp4 de 'Eichmann trial, 1961/04/13' a partir de 13s
-[   657s]     + 2_archive.mp4 de 'Eichmann trial, 1961/04/13' a partir de 96s
-[   667s]     + 3_archive.mp4 de 'U-2 Spy Trial. Ike Hits Powers Case Exploitation By Reds, 19' a partir de 29s
-[   673s]     + 4_archive.mp4 de 'U-2 Spy Trial. Ike Hits Powers Case Exploitation By Reds, 19' a partir de 215s
-[   684s]   c_tv_1950s / archive: 8 filmes para 'television'
-[   692s]     trecho escuro em 143s, tentando mais adiante
-[   699s]     trecho escuro em 381s, tentando mais adiante
-[   707s]     + 1_archive.mp4 de 'Nothing to Argue About' a partir de 619s
-[   715s]     + 2_archive.mp4 de 'Nothing to Argue About' a partir de 1047s
-[   729s]     + 3_archive.mp4 de 'American Engineer (Part III)' a partir de 64s
-[   742s]   c_hospital / archive: 8 filmes para 'hospital'
-[   752s]     + 1_archive.mp4 de 'Social Class in America' a partir de 107s
-[   758s]     + 2_archive.mp4 de 'Social Class in America' a partir de 783s
-[   773s]     + 3_archive.mp4 de 'Drug Addiction' a partir de 154s
-[   776s]   c_reporters / archive: 1 filmes para 'reporters'
-[   782s]     + 1_archive.mp4 de 'Laos Crisis. Kennedy-Gromyko Voice Peace Hopes, 1961/03/27' a partir de 24s
-[   788s]     + 2_archive.mp4 de 'Laos Crisis. Kennedy-Gromyko Voice Peace Hopes, 1961/03/27' a partir de 176s
-[   791s]   c_reporters / archive: 1 filmes para 'photographers'
-[   799s]     + 3_archive.mp4 de 'Reds Withdraw. Cut Down Troops in East Germany, 1956/06/25' a partir de 43s
+[     0s] file002-gigante: 4 planos de video
+[     3s]   c_costello / archive: 1 filmes para 'Costello'
+[     5s]   c_costello / commons: 10 filmes para 'Costello'
+[    14s]     + 1_archive.mp4 de 'Soldier Welfare Service Launched At Monster Rally, 1941/05/2' a partir de 25s
+[    22s]     + 2_archive.mp4 de 'Soldier Welfare Service Launched At Monster Rally, 1941/05/2' a partir de 105s
+[    31s]     + 3_archive.mp4 de 'Soldier Welfare Service Launched At Monster Rally, 1941/05/2' a partir de 186s
+[    41s]     + 4_commons.mp4 de '"Ireland\'s New Premier" - John Costello elected Taoiseach, F' a partir de 9s
+[    48s]     + 5_commons.mp4 de '"Ireland\'s New Premier" - John Costello elected Taoiseach, F' a partir de 38s
+[    49s]     trecho escuro em 67s, tentando mais adiante
+[    49s]     corte falhou (%22Ireland%27s_New_Premier%22_-_John_Costello_elec): ed_Taoiseach%2C_February_1948.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    49s]     corte falhou (Abbott_and_Costello_Go_to_Mars_Official_Trailer_%2): s_Official_Trailer_%281953%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    49s]     corte falhou (Abbott_and_Costello_Go_to_Mars_Official_Trailer_%2): s_Official_Trailer_%281953%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    50s]     corte falhou (Abbott_and_Costello_Go_to_Mars_Official_Trailer_%2): s_Official_Trailer_%281953%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    50s]     corte falhou (Dolores_Costello_-_Old_San_francisco_-_scenes_-_19): San_francisco_-_scenes_-_1927.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    50s]     corte falhou (Dolores_Costello_-_Old_San_francisco_-_scenes_-_19): San_francisco_-_scenes_-_1927.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    50s]     corte falhou (Dolores_Costello_-_Old_San_francisco_-_scenes_-_19): San_francisco_-_scenes_-_1927.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    50s]     corte falhou (Cosgrave_campaigns_in_1933_Irish_general_election.): n_1933_Irish_general_election.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    50s]     corte falhou (Cosgrave_campaigns_in_1933_Irish_general_election.): n_1933_Irish_general_election.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    51s]     corte falhou (Cosgrave_campaigns_in_1933_Irish_general_election.): n_1933_Irish_general_election.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    51s]     corte falhou (The_Magnificent_Ambersons_theatrical_trailer_%2819): theatrical_trailer_%281942%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    51s]     corte falhou (The_Magnificent_Ambersons_theatrical_trailer_%2819): theatrical_trailer_%281942%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    51s]     corte falhou (The_Magnificent_Ambersons_theatrical_trailer_%2819): theatrical_trailer_%281942%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    51s]     corte falhou (Africa_Screams.ogv?utm_source=commons.wikimedia.or): ia/commons/9/9c/Africa_Screams.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    51s]     corte falhou (Africa_Screams.ogv?utm_source=commons.wikimedia.or): ia/commons/9/9c/Africa_Screams.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    52s]     corte falhou (Africa_Screams.ogv?utm_source=commons.wikimedia.or): ia/commons/9/9c/Africa_Screams.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    52s]     corte falhou (Africa_Screams_%281949%29.webm?utm_source=commons.): /28/Africa_Screams_%281949%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    52s]     corte falhou (Africa_Screams_%281949%29.webm?utm_source=commons.): /28/Africa_Screams_%281949%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    52s]     corte falhou (Africa_Screams_%281949%29.webm?utm_source=commons.): /28/Africa_Screams_%281949%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    52s]     corte falhou (Multi-jet-propulsion-organized-by-clonal-developme): ial-siphonophore-ncomms9158-s2.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    52s]     corte falhou (Multi-jet-propulsion-organized-by-clonal-developme): ial-siphonophore-ncomms9158-s2.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    52s]     corte falhou (Multi-jet-propulsion-organized-by-clonal-developme): ial-siphonophore-ncomms9158-s2.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    53s]     corte falhou (Multi-jet-propulsion-organized-by-clonal-developme): ial-siphonophore-ncomms9158-s4.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    53s]     corte falhou (Multi-jet-propulsion-organized-by-clonal-developme): ial-siphonophore-ncomms9158-s4.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    53s]     corte falhou (Multi-jet-propulsion-organized-by-clonal-developme): ial-siphonophore-ncomms9158-s4.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    53s]     corte falhou (Multi-jet-propulsion-organized-by-clonal-developme): ial-siphonophore-ncomms9158-s6.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    53s]     corte falhou (Multi-jet-propulsion-organized-by-clonal-developme): ial-siphonophore-ncomms9158-s6.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    53s]     corte falhou (Multi-jet-propulsion-organized-by-clonal-developme): ial-siphonophore-ncomms9158-s6.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    55s]   c_costello / archive: 0 filmes para 'Frank Costello'
+[    56s]   c_costello / commons: 8 filmes para 'Frank Costello'
+[    57s]     corte falhou (Prime_Minister_Imran_Khan%27s_statement_denouncing): _comments_of_French_President.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    57s]     corte falhou (Prime_Minister_Imran_Khan%27s_statement_denouncing): _comments_of_French_President.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    57s]     corte falhou (Prime_Minister_Imran_Khan%27s_statement_denouncing): _comments_of_French_President.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    57s]     corte falhou (UN_should_declare_an_%27International_Day_to_Comba): e_Minister_Imran_Khan_at_UNGA.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    57s]     corte falhou (UN_should_declare_an_%27International_Day_to_Comba): e_Minister_Imran_Khan_at_UNGA.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    57s]     corte falhou (UN_should_declare_an_%27International_Day_to_Comba): e_Minister_Imran_Khan_at_UNGA.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    58s]     corte falhou (President_Donald_Trump_Greets_the_Prime_Minister_o): the_Commonwealth_of_Australia.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    58s]     corte falhou (President_Donald_Trump_Greets_the_Prime_Minister_o): the_Commonwealth_of_Australia.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    58s]     corte falhou (President_Donald_Trump_Greets_the_Prime_Minister_o): the_Commonwealth_of_Australia.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    58s]     corte falhou (President_Obama_Meets_with_Japanese_Prime_Minister): anese_Prime_Minister_Hatoyama.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    58s]     corte falhou (President_Obama_Meets_with_Japanese_Prime_Minister): anese_Prime_Minister_Hatoyama.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    58s]     corte falhou (President_Obama_Meets_with_Japanese_Prime_Minister): anese_Prime_Minister_Hatoyama.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    59s]     corte falhou (President_Donald_Trump_Greets_the_Prime_Minister_o): inister_of_the_United_Kingdom.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    59s]     corte falhou (President_Donald_Trump_Greets_the_Prime_Minister_o): inister_of_the_United_Kingdom.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    59s]     corte falhou (President_Donald_Trump_Greets_the_Prime_Minister_o): inister_of_the_United_Kingdom.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    59s]     corte falhou (Prime_Minister_Trudeau%27s_message_on_Nowruz_2018.): au%27s_message_on_Nowruz_2018.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    59s]     corte falhou (Prime_Minister_Trudeau%27s_message_on_Nowruz_2018.): au%27s_message_on_Nowruz_2018.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    59s]     corte falhou (Prime_Minister_Trudeau%27s_message_on_Nowruz_2018.): au%27s_message_on_Nowruz_2018.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    60s]     corte falhou (President_Donald_Trump_Participates_in_a_Bilateral): inister_of_the_United_Kingdom.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    60s]     corte falhou (President_Donald_Trump_Participates_in_a_Bilateral): inister_of_the_United_Kingdom.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    60s]     corte falhou (President_Donald_Trump_Participates_in_a_Bilateral): inister_of_the_United_Kingdom.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    60s]     corte falhou (Prime_Minister_Trudeau_and_the_Prime_Minister_of_t): _May%2C_deliver_joint_remarks.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    60s]     corte falhou (Prime_Minister_Trudeau_and_the_Prime_Minister_of_t): _May%2C_deliver_joint_remarks.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    60s]     corte falhou (Prime_Minister_Trudeau_and_the_Prime_Minister_of_t): _May%2C_deliver_joint_remarks.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    62s]   c_costello / archive: 0 filmes para 'crime hearing'
+[    63s]   c_costello / commons: 10 filmes para 'crime hearing'
+[    63s]     corte falhou (Hearing_on_Trump_Administration%27s_Response_to_Cr): s_Response_to_Crime_in_Cities.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    64s]     corte falhou (Hearing_on_Trump_Administration%27s_Response_to_Cr): s_Response_to_Crime_in_Cities.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    64s]     corte falhou (Hearing_on_Trump_Administration%27s_Response_to_Cr): s_Response_to_Crime_in_Cities.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    64s]     corte falhou (House_Judiciary_Committee_Hearing_on_Hate_Crimes_a): onalism_%28April_9%2C_2019%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    64s]     corte falhou (House_Judiciary_Committee_Hearing_on_Hate_Crimes_a): onalism_%28April_9%2C_2019%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    64s]     corte falhou (House_Judiciary_Committee_Hearing_on_Hate_Crimes_a): onalism_%28April_9%2C_2019%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    64s]     corte falhou (Full_Committee_Hearing_on_Hate_Crimes_and_the_Rise): Nationalism_-_April_9%2C_2019.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    65s]     corte falhou (Full_Committee_Hearing_on_Hate_Crimes_and_the_Rise): Nationalism_-_April_9%2C_2019.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    65s]     corte falhou (Full_Committee_Hearing_on_Hate_Crimes_and_the_Rise): Nationalism_-_April_9%2C_2019.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    65s]     corte falhou (Ted_Cruz_says_%22Let%27s_Stop_Attacking_Pedophiles): e_Response_to_Crime_in_Cities.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    65s]     corte falhou (Ted_Cruz_says_%22Let%27s_Stop_Attacking_Pedophiles): e_Response_to_Crime_in_Cities.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    65s]     corte falhou (Ted_Cruz_says_%22Let%27s_Stop_Attacking_Pedophiles): e_Response_to_Crime_in_Cities.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    65s]     corte falhou (Senate_Hearing_on_Flock_Cameras_%28September_23%2C): as_%28September_23%2C_2026%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    66s]     corte falhou (Senate_Hearing_on_Flock_Cameras_%28September_23%2C): as_%28September_23%2C_2026%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    66s]     corte falhou (Senate_Hearing_on_Flock_Cameras_%28September_23%2C): as_%28September_23%2C_2026%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    66s]     corte falhou (Adam_DeMarco_testifying_about_Lafayette_Square_pro): Lafayette_Square_protest_event.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    66s]     corte falhou (Adam_DeMarco_testifying_about_Lafayette_Square_pro): Lafayette_Square_protest_event.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    66s]     corte falhou (Adam_DeMarco_testifying_about_Lafayette_Square_pro): Lafayette_Square_protest_event.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    66s]     corte falhou (Oversight_of_the_Department_of_Homeland_Security_-): nd_Security_-_March_3%2C_2026.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    67s]     corte falhou (Oversight_of_the_Department_of_Homeland_Security_-): nd_Security_-_March_3%2C_2026.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    67s]     corte falhou (Oversight_of_the_Department_of_Homeland_Security_-): nd_Security_-_March_3%2C_2026.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    67s]     corte falhou (Lula_responde_a_declara%C3%A7%C3%B5es_do_president): 3%A3o_de_produtos_brasileiros.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    67s]     corte falhou (Lula_responde_a_declara%C3%A7%C3%B5es_do_president): 3%A3o_de_produtos_brasileiros.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    67s]     corte falhou (Lula_responde_a_declara%C3%A7%C3%B5es_do_president): 3%A3o_de_produtos_brasileiros.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    67s]     corte falhou (Oversight_of_the_Federal_Bureau_of_Investigation_-): gation_-_September_15%2C_2026.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    68s]     corte falhou (Oversight_of_the_Federal_Bureau_of_Investigation_-): gation_-_September_15%2C_2026.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    68s]     corte falhou (Oversight_of_the_Federal_Bureau_of_Investigation_-): gation_-_September_15%2C_2026.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    68s]     corte falhou (Complete_heated_exchange_between_Representative_Ma): _Greene_and_Dr._Anthony_Fauci.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    68s]     corte falhou (Complete_heated_exchange_between_Representative_Ma): _Greene_and_Dr._Anthony_Fauci.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    68s]     corte falhou (Complete_heated_exchange_between_Representative_Ma): _Greene_and_Dr._Anthony_Fauci.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    69s]   c_costello / archive: 0 filmes para 'underworld boss'
+[    71s]   c_costello / commons: 0 filmes para 'underworld boss'
+[    73s]   c_costello / archive: 1 filmes para 'racket'
+[    75s]   c_costello / commons: 10 filmes para 'racket'
+[    83s]     + 6_archive.mp4 de 'Senate Starts Racket Probe, 1933/10/25' a partir de 21s
+[    92s]     + 7_archive.mp4 de 'Senate Starts Racket Probe, 1933/10/25' a partir de 89s
+[   101s]     + 8_archive.mp4 de 'Senate Starts Racket Probe, 1933/10/25' a partir de 156s
+[   104s]   c_kefauver / archive: 1 filmes para 'Kefauver'
+[   105s]   c_kefauver / commons: 0 filmes para 'Kefauver'
+[   115s]     + 1_archive.mp4 de 'U.S. Jet Planes Go To Airforce of The Netherlands, 1955/12/1' a partir de 15s
+[   124s]     + 2_archive.mp4 de 'U.S. Jet Planes Go To Airforce of The Netherlands, 1955/12/1' a partir de 61s
+[   133s]     + 3_archive.mp4 de 'U.S. Jet Planes Go To Airforce of The Netherlands, 1955/12/1' a partir de 107s
+[   135s]   c_kefauver / archive: 0 filmes para 'Kefauver committee'
+[   136s]   c_kefauver / commons: 0 filmes para 'Kefauver committee'
+[   138s]   c_kefauver / archive: 1 filmes para 'Senate crime committee'
+[   140s]   c_kefauver / commons: 8 filmes para 'Senate crime committee'
+[   140s]     corte falhou (Sen._Van_Hollen_Speaks_to_Reporters_After_Returnin): er_Returning_from_El_Salvador.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   141s]     corte falhou (Sen._Van_Hollen_Speaks_to_Reporters_After_Returnin): er_Returning_from_El_Salvador.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   141s]     corte falhou (Sen._Van_Hollen_Speaks_to_Reporters_After_Returnin): er_Returning_from_El_Salvador.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   143s]   c_kefauver / archive: 1 filmes para 'crime investigating committee'
+[   145s]   c_kefauver / commons: 1 filmes para 'crime investigating committee'
+[   146s]   c_kefauver / archive: 0 filmes para 'Kefauver crime'
+[   148s]   c_kefauver / commons: 0 filmes para 'Kefauver crime'
+[   149s]   c_genovese / archive: 0 filmes para 'Genovese'
+[   151s]   c_genovese / commons: 10 filmes para 'Genovese'
+[   151s]     corte falhou (Making_Cappuccino_coffee.webm?utm_source=commons.w): 3/37/Making_Cappuccino_coffee.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   152s]     corte falhou (Making_Cappuccino_coffee.webm?utm_source=commons.w): 3/37/Making_Cappuccino_coffee.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   152s]     corte falhou (Prete_dannato_-_Sorelle_Pampini_-_Sermezzana.webm?): _Sorelle_Pampini_-_Sermezzana.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   152s]     corte falhou (Prete_dannato_-_Sorelle_Pampini_-_Sermezzana.webm?): _Sorelle_Pampini_-_Sermezzana.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   152s]     corte falhou (PreteTorello.webm?utm_source=commons.wikimedia.org): dia/commons/e/e6/PreteTorello.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   152s]     corte falhou (PreteTorello.webm?utm_source=commons.wikimedia.org): dia/commons/e/e6/PreteTorello.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   152s]     corte falhou (Pr%C3%AAte_%C3%A0_bondir.webm?utm_source=commons.w): a/a7/Pr%C3%AAte_%C3%A0_bondir.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   153s]     corte falhou (Pr%C3%AAte_%C3%A0_bondir.webm?utm_source=commons.w): a/a7/Pr%C3%AAte_%C3%A0_bondir.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   153s]     corte falhou (Un_pr%C3%AAt%C3%A9_pour_un_rendu_%281904%29.webm?u): 3%A9_pour_un_rendu_%281904%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   153s]     corte falhou (Un_pr%C3%AAt%C3%A9_pour_un_rendu_%281904%29.webm?u): 3%A9_pour_un_rendu_%281904%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   153s]     corte falhou (Enhanced-Development-of-Skeletal-Myotubes-from-Por): potent-Stem-Cells-srep41833-s3.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   153s]     corte falhou (Enhanced-Development-of-Skeletal-Myotubes-from-Por): potent-Stem-Cells-srep41833-s3.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   153s]     corte falhou (Enhanced-Development-of-Skeletal-Myotubes-from-Por): potent-Stem-Cells-srep41833-s2.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   153s]     corte falhou (Enhanced-Development-of-Skeletal-Myotubes-from-Por): potent-Stem-Cells-srep41833-s2.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   154s]     corte falhou (Enhanced-Development-of-Skeletal-Myotubes-from-Por): potent-Stem-Cells-srep41833-s6.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   154s]     corte falhou (Enhanced-Development-of-Skeletal-Myotubes-from-Por): potent-Stem-Cells-srep41833-s6.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   154s]     corte falhou (Enhanced-Development-of-Skeletal-Myotubes-from-Por): potent-Stem-Cells-srep41833-s4.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   154s]     corte falhou (Enhanced-Development-of-Skeletal-Myotubes-from-Por): potent-Stem-Cells-srep41833-s4.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   154s]     corte falhou (Enhanced-Development-of-Skeletal-Myotubes-from-Por): potent-Stem-Cells-srep41833-s5.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   154s]     corte falhou (Enhanced-Development-of-Skeletal-Myotubes-from-Por): potent-Stem-Cells-srep41833-s5.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   156s]   c_genovese / archive: 0 filmes para 'narcotics ring'
+[   157s]   c_genovese / commons: 0 filmes para 'narcotics ring'
+[   159s]   c_genovese / archive: 0 filmes para 'dope ring'
+[   160s]   c_genovese / commons: 0 filmes para 'dope ring'
+[   161s]   c_apalachin / archive: 0 filmes para 'Apalachin'
+[   163s]   c_apalachin / commons: 0 filmes para 'Apalachin'
+[   164s]   c_apalachin / archive: 0 filmes para 'gangland meeting'
+[   165s]   c_apalachin / commons: 0 filmes para 'gangland meeting'
+[   167s]   c_apalachin / archive: 0 filmes para 'crime convention'
+[   168s]   c_apalachin / commons: 4 filmes para 'crime convention'
+[   169s]     corte falhou (LBJ_and_Richard_Daley%2C_8-29-68_7.31P..webm?utm_s): chard_Daley%2C_8-29-68_7.31P..webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   169s]     corte falhou (LBJ_and_Richard_Daley%2C_8-29-68_7.31P..webm?utm_s): chard_Daley%2C_8-29-68_7.31P..webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   169s]     corte falhou (Entrevista_com_Grande_Otelo_em_junho_de_1967.webm?): Grande_Otelo_em_junho_de_1967.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   169s]     corte falhou (Entrevista_com_Grande_Otelo_em_junho_de_1967.webm?): Grande_Otelo_em_junho_de_1967.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   169s]     corte falhou (Trump_motorcade_leaves_NH_event_%28Donald%2C_Bedfo): rd%2C_cops%2C_police%2C_pd%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   169s]     corte falhou (Trump_motorcade_leaves_NH_event_%28Donald%2C_Bedfo): rd%2C_cops%2C_police%2C_pd%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
