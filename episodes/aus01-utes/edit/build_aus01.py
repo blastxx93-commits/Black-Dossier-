@@ -63,13 +63,43 @@ def A(name, fallback_cat, move="in", cap=None):
     """A specific AI scene when it exists, else a photo of the fallback pool."""
     fs = [f[2:] for f in sorted(glob.glob(f"a/ai/{name}_*.jpg")) if f[2:] not in USED and f"ai/{os.path.basename(f)}" not in SKIP]
     if fs:
-        USED.add(fs[0]); COUNT["img"] += 1
+        USED.add(fs[0]); is_dup(fs[0]); COUNT["img"] += 1
         return K.img(fs[0], move, cap=cap)
     return P(fallback_cat, move, cap)
 
 
 POOLS = {}
 USED = set()
+HASHES = []  # content fingerprints of everything used: the same photo under two names is still a repeat
+
+
+def fingerprint(path):
+    """64-bit difference hash of a photo, or of a clip's middle frame."""
+    from PIL import Image
+    import subprocess
+    p = path if os.path.isabs(path) else os.path.join("a", path)
+    try:
+        if p.lower().endswith(".mp4"):
+            raw = subprocess.run(["ffmpeg", "-v", "error", "-ss", "3", "-i", p, "-frames:v", "1", "-vf", "scale=9:8,format=gray",
+                                  "-f", "rawvideo", "-"], capture_output=True).stdout
+            if len(raw) < 72:
+                return None
+            px = list(raw[:72])
+        else:
+            px = list(Image.open(p).convert("L").resize((9, 8), Image.LANCZOS).getdata())
+    except Exception:
+        return None
+    return sum(1 << (r * 8 + c) for r in range(8) for c in range(8) if px[r * 9 + c] > px[r * 9 + c + 1])
+
+
+def is_dup(path):
+    h = fingerprint(path)
+    if h is None:
+        return False
+    if any(bin(h ^ o).count("1") <= 6 for o in HASHES):
+        return True
+    HASHES.append(h)
+    return False
 MOVES = ["in", "left", "out", "right", "in", "up", "out", "down"]
 _mv = [0]
 # related pools to fall back on when one runs dry (still never repeating a photo)
@@ -132,7 +162,9 @@ VPOOLS = {}
 
 def vpool(cat):
     if cat not in VPOOLS:
-        VPOOLS[cat] = [f[2:] for f in sorted(glob.glob(f"a/video/{cat}/*.mp4")) if f"video/{cat}/{os.path.basename(f)}" not in SKIP]
+        VPOOLS[cat] = [f[2:] for f in sorted(glob.glob(f"a/video/{cat}/*.mp4"))
+                       if f"video/{cat}/{os.path.basename(f)}" not in SKIP
+                       and not os.path.basename(f).endswith(("_archive.mp4", "_commons.mp4"))]  # old archive films: off-topic here
     return VPOOLS[cat]
 
 
@@ -140,7 +172,7 @@ def V(cat, cap=None):
     for c in VIDEO_FOR.get(cat, []):
         while vpool(c):
             f = vpool(c).pop(0)
-            if f in USED:
+            if f in USED or is_dup(f):
                 continue
             USED.add(f)
             COUNT["vid"] += 1
@@ -166,7 +198,7 @@ def _photo(cat, move=None, cap=None, **kw):
             POOLS[c] = pool(c)
         while POOLS[c]:
             f = POOLS[c].pop(0)
-            if f in USED:
+            if f in USED or is_dup(f):
                 continue
             USED.add(f)
             if move is None:
@@ -179,6 +211,7 @@ def M(cat, n, **kw):
     """A specific photo of a model pool (by its number on the contact sheet)."""
     f = [x for x in glob.glob(f"a/{cat}/{n}_*") if os.path.splitext(x)[1].lower() in (".jpg", ".jpeg", ".png")][0][2:]
     USED.add(f)
+    is_dup(f)
     COUNT["img"] += 1
     if f in POOLS.get(cat, []):
         POOLS[cat].remove(f)

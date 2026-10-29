@@ -258,7 +258,8 @@ def cut_clip(url, length, clip, out_path, where=0.35, _retry=0, at=None):
     else:
         start = max(8.0, (length or 120) * where)  # skip leaders and title cards
     cmd = [FF, "-v", "error", "-y", *ua(url), "-ss", f"{start:.1f}", "-i", url, "-t", f"{clip}",
-           "-an", "-vf", "scale=-2:1080:flags=lanczos,fps=24", "-c:v", "libx264", "-preset", "veryfast", "-crf", "18",
+           "-an", "-vf", "scale=-2:1080:flags=lanczos,fps=24", "-c:v", "libx264", "-preset", "veryfast",
+           "-crf", os.environ.get("CLIP_CRF", "23"),  # 23: light files so a big batch still publishes
            "-pix_fmt", "yuv420p", "-movflags", "+faststart", out_path]
     try:
         r = subprocess.run(cmd, timeout=300, capture_output=True, text=True)
