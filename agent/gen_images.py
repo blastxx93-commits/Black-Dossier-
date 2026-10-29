@@ -32,9 +32,15 @@ GEMINI_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
 GEMINI_MODEL = os.environ.get("GEMINI_IMAGE_MODEL", "").strip() or "gemini-2.5-flash-image"
 
 
+GEMINI_OFF = [False]
+
+
 def gemini_image(prompt, aspect="16:9"):
-    """One image from the Gemini API (generateContent with an image response). Returns a PIL image."""
+    """One image from the Gemini API (generateContent with an image response). Returns a PIL image.
+    A quota error (429 after retries) switches Gemini off for the rest of the run."""
     import base64
+    if GEMINI_OFF[0]:
+        raise RuntimeError("Gemini desligado nesta execução (sem cota)")
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
     body = {"contents": [{"parts": [{"text": prompt}]}],
             "generationConfig": {"responseModalities": ["IMAGE"], "imageConfig": {"aspectRatio": aspect}}}
@@ -42,6 +48,8 @@ def gemini_image(prompt, aspect="16:9"):
         r = requests.post(url, json=body, headers={"x-goog-api-key": GEMINI_KEY, "Content-Type": "application/json"}, timeout=180)
         if r.status_code in (429, 500, 503) and k < 2:
             time.sleep(20 * (k + 1)); continue
+        if r.status_code == 429:
+            GEMINI_OFF[0] = True
         if r.status_code >= 400:
             raise RuntimeError(f"Gemini {r.status_code}: {r.text[:300]}")
         for cand in r.json().get("candidates", []):
