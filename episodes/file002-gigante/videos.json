@@ -1,0 +1,23 @@
+{
+ "defaults": {"n": 4, "clip": 9, "per_film": 2, "years": [1940, 1970], "sources": ["archive"]},
+ "shots": [
+  {"id": "c_costello", "query": "Costello", "alt": ["Frank Costello", "underworld"], "collections": ["universal_newsreels"], "years": [1950, 1961], "n": 8, "per_film": 3},
+  {"id": "c_kefauver", "query": "Kefauver", "alt": ["crime committee", "crime probe"], "collections": ["universal_newsreels"], "years": [1950, 1952], "n": 6, "per_film": 3},
+  {"id": "c_genovese", "query": "Genovese", "alt": ["narcotics ring", "dope ring"], "collections": ["universal_newsreels"], "years": [1957, 1962], "n": 4, "per_film": 2},
+  {"id": "c_apalachin", "query": "Apalachin", "alt": ["gangland meeting", "crime convention"], "collections": ["universal_newsreels"], "years": [1957, 1959], "n": 4, "per_film": 2},
+  {"id": "c_boxing", "query": "boxing", "alt": ["prize fight", "boxers"], "collections": ["universal_newsreels"], "years": [1944, 1948], "n": 5, "per_film": 2},
+  {"id": "c_village", "query": "Greenwich Village", "alt": ["Washington Square", "Bohemians"], "collections": ["universal_newsreels", "prelinger"], "years": [1945, 1968], "n": 5, "per_film": 2},
+  {"id": "c_little_italy", "query": "Italian feast", "alt": ["San Gennaro", "Little Italy", "Mulberry Street"], "collections": ["universal_newsreels", "prelinger"], "years": [1940, 1968], "n": 4, "per_film": 2},
+  {"id": "c_ny_night", "query": "New York at night", "alt": ["Broadway lights", "Times Square night"], "collections": ["prelinger", "universal_newsreels"], "years": [1945, 1965], "n": 5, "per_film": 2},
+  {"id": "c_central_park", "query": "Central Park", "alt": ["Fifth Avenue", "Manhattan apartment"], "collections": ["universal_newsreels", "prelinger"], "years": [1945, 1965], "n": 4, "per_film": 2},
+  {"id": "c_cadillac", "query": "Cadillac", "alt": ["automobile 1956", "new cars"], "collections": ["prelinger"], "years": [1953, 1960], "n": 4, "per_film": 2},
+  {"id": "c_police_ny", "query": "New York police", "alt": ["police detectives", "police lineup"], "collections": ["universal_newsreels", "prelinger"], "years": [1950, 1965], "n": 4, "per_film": 2},
+  {"id": "c_las_vegas", "query": "Las Vegas", "alt": ["casino", "gambling"], "collections": ["prelinger", "universal_newsreels"], "years": [1952, 1962], "n": 4, "per_film": 2},
+  {"id": "c_prison", "query": "federal prison", "alt": ["penitentiary", "prisoners"], "collections": ["universal_newsreels", "fedflix"], "years": [1950, 1966], "n": 4, "per_film": 2},
+  {"id": "c_psychiatric", "query": "mental hospital", "alt": ["psychiatric", "mental illness"], "collections": ["prelinger", "fedflix"], "years": [1945, 1970], "n": 5, "per_film": 2},
+  {"id": "c_courthouse", "query": "trial", "alt": ["courtroom", "jury", "court house"], "collections": ["universal_newsreels"], "years": [1950, 1966], "n": 4, "per_film": 2},
+  {"id": "c_tv_1950s", "query": "television", "alt": ["TV audience", "watching television"], "collections": ["prelinger"], "years": [1950, 1958], "n": 3, "per_film": 2},
+  {"id": "c_hospital", "query": "hospital", "alt": ["emergency hospital", "ambulance"], "collections": ["prelinger", "universal_newsreels"], "years": [1950, 1962], "n": 3, "per_film": 2},
+  {"id": "c_reporters", "query": "reporters", "alt": ["photographers", "press"], "collections": ["universal_newsreels"], "years": [1955, 1966], "n": 3, "per_film": 2}
+ ]
+}

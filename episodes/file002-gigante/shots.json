@@ -1,0 +1,30 @@
+{
+ "defaults": {"n": 3, "sources": ["commons", "loc", "openverse"]},
+ "shots": [
+  {"id": "gigante", "query": "Vincent Gigante", "alt": ["Vincent Gigante 1957", "Chin Gigante", "Vincent Gigante Costello trial"], "n": 6},
+  {"id": "costello", "query": "Frank Costello", "alt": ["Frank Costello 1957", "Frank Costello Kefauver"], "n": 6},
+  {"id": "costello_hands", "query": "Frank Costello Kefauver hearing", "alt": ["Kefauver committee 1951", "Kefauver hearing New York"], "n": 4},
+  {"id": "genovese", "query": "Vito Genovese", "n": 4},
+  {"id": "salerno", "query": "Anthony Salerno", "alt": ["Fat Tony Salerno"], "n": 3},
+  {"id": "gotti", "query": "John Gotti", "alt": ["John Gotti FBI"], "n": 3},
+  {"id": "castellano", "query": "Paul Castellano", "n": 3},
+  {"id": "gravano", "query": "Sammy Gravano", "alt": ["Salvatore Gravano"], "n": 3},
+  {"id": "sparks", "query": "Sparks Steak House", "alt": ["Sparks Steak House Manhattan"], "n": 2},
+  {"id": "majestic", "query": "Majestic apartments Central Park West", "alt": ["The Majestic 115 Central Park West"], "n": 3},
+  {"id": "central_park_west", "query": "Central Park West 1950s", "alt": ["Central Park West night"], "n": 2},
+  {"id": "sullivan_street", "query": "Sullivan Street Greenwich Village", "alt": ["Sullivan Street New York", "Greenwich Village 1950s street"], "n": 4},
+  {"id": "st_anthony", "query": "Saint Anthony of Padua church Sullivan Street", "alt": ["St. Anthony of Padua Church Manhattan"], "n": 2},
+  {"id": "washington_square", "query": "Washington Square Park 1950s", "alt": ["Washington Square Arch"], "n": 3},
+  {"id": "village_1950s", "query": "Greenwich Village 1950s", "alt": ["Bleecker Street 1950s", "Little Italy New York 1950s"], "n": 4},
+  {"id": "boxing_1940s", "query": "boxing match 1940s", "alt": ["boxers 1946", "St. Nicholas Arena boxing"], "n": 3},
+  {"id": "kefauver", "query": "Estes Kefauver", "alt": ["Kefauver committee"], "n": 3},
+  {"id": "tropicana", "query": "Tropicana Las Vegas 1957", "alt": ["Tropicana hotel Las Vegas 1950s"], "n": 2},
+  {"id": "brooklyn_court", "query": "United States Courthouse Brooklyn", "alt": ["Eastern District of New York courthouse", "Cadman Plaza courthouse"], "n": 3},
+  {"id": "springfield_mcfp", "query": "Medical Center for Federal Prisoners Springfield", "n": 2},
+  {"id": "psych_hospital", "query": "psychiatric hospital 1970s", "alt": ["mental hospital corridor"], "n": 2},
+  {"id": "nyc_1957", "query": "New York City 1957", "alt": ["Manhattan street 1950s"], "n": 3},
+  {"id": "nyc_1980s", "query": "New York City 1980s street", "alt": ["Manhattan 1985"], "n": 3},
+  {"id": "weinstein", "query": "Jack B. Weinstein judge", "n": 2},
+  {"id": "fbi_hq", "query": "FBI New York field office", "alt": ["Jacob K. Javits Federal Building"], "n": 2}
+ ]
+}

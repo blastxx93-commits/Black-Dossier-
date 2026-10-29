@@ -1,0 +1,163 @@
+{
+ "model": "black-forest-labs/flux-1.1-pro-ultra",
+ "raw": true,
+ "n": 1,
+ "style": ", documentary photograph, black and white with slight sepia tone, film grain, muted, realistic",
+ "shots": [
+  {
+   "id": "ai_cadillac_night",
+   "prompt": "A black 1957 Cadillac pulling up behind a yellow taxi on Central Park West at night, apartment building entrance with an awning and doorman light, park trees across the street"
+  },
+  {
+   "id": "ai_lobby_1957",
+   "prompt": "Art Deco apartment building lobby in 1957 at night, marble walls and brass elevator doors, a big man in a dark suit seen from behind walking in, harsh overhead light"
+  },
+  {
+   "id": "ai_revolver_shadow",
+   "prompt": "The shadow of a raised revolver projected on a marble lobby wall, 1957, dramatic hard light, no person visible"
+  },
+  {
+   "id": "ai_lobby_aftermath",
+   "prompt": "A grey fedora lying on the marble floor of an empty apartment lobby at night in 1957, elevator doors open, no blood, no people"
+  },
+  {
+   "id": "ai_bathrobe_walk",
+   "prompt": "An elderly man seen from far behind shuffling down a Greenwich Village street in a ratty bathrobe, pajamas and slippers in the 1980s, tenement buildings, parked cars, face never visible"
+  },
+  {
+   "id": "ai_parking_meter",
+   "prompt": "Close detail of an old 1980s New York parking meter on a sidewalk, a blurred figure in a bathrobe standing next to it out of focus, face not visible"
+  },
+  {
+   "id": "ai_psychiatrist_office",
+   "prompt": "A psychiatrist's office in the 1970s, a leather couch, a desk with medical files and a notepad, diplomas on the wall, nobody in the room, afternoon light"
+  },
+  {
+   "id": "ai_courtroom_2003",
+   "prompt": "A federal courtroom in Brooklyn in 2003, wood paneling, the judge's bench in the distance, a defendant seen from far behind at the defense table, faces not visible"
+  },
+  {
+   "id": "ai_village_1930s",
+   "prompt": "Sullivan Street in Greenwich Village in the 1930s, brick tenements with fire escapes, pushcarts, laundry lines, children playing, seen from a distance"
+  },
+  {
+   "id": "ai_feast_street",
+   "prompt": "An Italian street feast in Greenwich Village in the 1940s at night, strings of lights arched over the street, crowds seen from above, food stands"
+  },
+  {
+   "id": "ai_boxing_ring",
+   "prompt": "A smoky boxing arena in 1946, two boxers in the ring seen from far behind the crowd, a referee, harsh ring lights"
+  },
+  {
+   "id": "ai_hospital_1940s",
+   "prompt": "A hospital corridor in New York in the 1940s, a nurse walking away, a worried family on a bench seen from behind"
+  },
+  {
+   "id": "ai_social_club",
+   "prompt": "Interior of a small Italian social club in Greenwich Village, old men in caps playing cards at a table seen from behind, espresso cups, a television in the corner, smoky light"
+  },
+  {
+   "id": "ai_hearing_hands",
+   "prompt": "Close-up of a man's hands nervously twisting a handkerchief on a hearing table covered with microphones in 1951, a glass of water, the face out of frame"
+  },
+  {
+   "id": "ai_dinner_1957",
+   "prompt": "A Manhattan restaurant table late at night in 1957, empty wine glasses, an ashtray, coats being put on, people seen from behind leaving"
+  },
+  {
+   "id": "ai_hospital_1957",
+   "prompt": "A hospital emergency room at night in 1957, a stretcher in a corridor, police officers in caps talking to a doctor seen from behind"
+  },
+  {
+   "id": "ai_casino_note",
+   "prompt": "A small handwritten note with columns of numbers on a hotel notepad lying on a dark table, 1957, numbers blurred and unreadable, a casino chip beside it"
+  },
+  {
+   "id": "ai_courtroom_1958",
+   "prompt": "A New York courtroom in 1958, a witness stand with a doorman's cap on the railing, the jury box seen from behind, wood paneling"
+  },
+  {
+   "id": "ai_prison_cell_1960",
+   "prompt": "A federal prison cell around 1960 with two narrow bunks, a small barred window, a chess board on a stool, nobody in the cell"
+  },
+  {
+   "id": "ai_letters_judge",
+   "prompt": "A stack of handwritten letters and envelopes tied with string on a judge's desk in 1964, handwriting blurred and unreadable"
+  },
+  {
+   "id": "ai_triangle_club",
+   "prompt": "A modest storefront social club on a Greenwich Village street in the 1970s, plain curtained window without any lettering, two men in cardigans standing outside seen from behind"
+  },
+  {
+   "id": "ai_psych_ward",
+   "prompt": "A long psychiatric hospital corridor in the 1970s, pale walls, a nurse's station, a figure in a bathrobe walking away in the distance"
+  },
+  {
+   "id": "ai_umbrella_shower",
+   "prompt": "An open black umbrella inside a tiled bathroom shower stall with the water running, steam, 1980s, nobody visible"
+  },
+  {
+   "id": "ai_chin_touch",
+   "prompt": "Close-up of a man's hand touching his own chin, wearing a pinky ring, the rest of the face cropped out of frame, dark social club background"
+  },
+  {
+   "id": "ai_townhouse_night",
+   "prompt": "An elegant brownstone townhouse on the Upper East Side of Manhattan at night in the 1980s, a dark sedan at the curb, a figure being helped up the steps seen from behind"
+  },
+  {
+   "id": "ai_fbi_surveillance",
+   "prompt": "Inside a parked car in the 1980s, a long-lens camera resting on the open window, pointed at a Greenwich Village street, an agent's hand on the camera, face not visible"
+  },
+  {
+   "id": "ai_harlem_club",
+   "prompt": "A social club storefront on a street in East Harlem in the 1980s, plain window, a cigar smoke haze, men in coats outside seen from far"
+  },
+  {
+   "id": "ai_wiretap",
+   "prompt": "A reel-to-reel tape recorder with headphones on a table in a 1980s FBI listening post, notepad, coffee cup, dim light"
+  },
+  {
+   "id": "ai_steakhouse_night",
+   "prompt": "A Manhattan steakhouse exterior on a December night in 1985, Christmas lights, police cars with lights flashing, crime scene tape, crowd seen from far, no bodies"
+  },
+  {
+   "id": "ai_car_bomb",
+   "prompt": "A wrecked car on a Brooklyn street in 1986, smoke rising, fire trucks and police in the distance, onlookers behind barricades, no people injured visible"
+  },
+  {
+   "id": "ai_medical_reports",
+   "prompt": "Tall stacks of psychiatric medical reports and legal binders on a lawyer's desk in the 1990s, text blurred and unreadable"
+  },
+  {
+   "id": "ai_wheelchair_court",
+   "prompt": "An empty wheelchair next to a defense table in a federal courtroom in 1997, legal pads and a pitcher of water, wood paneling"
+  },
+  {
+   "id": "ai_witness_stand",
+   "prompt": "An empty witness stand with a microphone in a federal courtroom in 1996, a United States seal on the wall, empty jury box"
+  },
+  {
+   "id": "ai_cassette_tape",
+   "prompt": "A cassette tape recorder playing on a metal table in a 2002 federal office, an evidence label on the tape, text unreadable"
+  },
+  {
+   "id": "ai_prison_hospital",
+   "prompt": "A long corridor in a federal prison medical center in the early 2000s, a hospital bed visible through a doorway, a guard far away"
+  },
+  {
+   "id": "ai_church_funeral",
+   "prompt": "A small Catholic church on a Greenwich Village street in December 2005, a black hearse at the curb, mourners in dark coats seen from far behind"
+  },
+  {
+   "id": "ai_empty_bathrobe",
+   "prompt": "An old bathrobe hanging on a hook on a door next to a pair of worn slippers on the floor, soft window light, empty room"
+  },
+  {
+   "id": "thumb_comic",
+   "guard": "fictional",
+   "raw": false,
+   "style": ". Bold digital comic illustration for a YouTube thumbnail, thick clean ink outlines, cel shading, saturated colors, crisp and high contrast, bright clear daylight sky, composition: character on the LEFT third, large empty clean sky on the upper right for a title.",
+   "prompt": "Waist-up portrait of an invented elderly New York mobster with a sly knowing smirk, wearing a faded blue bathrobe over pajamas and a grey fedora, one eyebrow raised, standing on the left; behind him on the right a sunny Greenwich Village street in the 1980s with brick tenements, fire escapes, an old church bell tower, a parking meter and a parked black sedan"
+  }
+ ]
+}
