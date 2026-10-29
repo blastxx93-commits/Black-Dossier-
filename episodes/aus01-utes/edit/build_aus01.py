@@ -33,15 +33,15 @@ MOVES = ["in", "left", "out", "right", "in", "up", "out", "down"]
 _mv = [0]
 # related pools to fall back on when one runs dry (still never repeating a photo)
 FALLBACK = {
-    "g_car_dealership": ["g_car_yard", "g_motor_show", "g_byd_store"],
-    "g_car_yard": ["g_car_dealership", "g_car_terminal", "au_car_carrier_port"],
-    "g_motor_show": ["g_car_dealership", "g_byd_store"],
-    "g_car_terminal": ["g_port_melbourne", "g_car_unloading", "au_car_carrier_port", "g_car_yard"],
-    "g_port_melbourne": ["g_car_terminal", "au_car_carrier_port", "g_car_unloading"],
-    "g_ute_outback": ["g_red_dirt_road", "g_outback_road", "g_bush_track", "g_hilux_au", "g_ranger_au"],
+    "g_car_dealership": ["g2_dealer_au", "g2_dealer_brand", "g2_showroom", "g_car_yard", "g_motor_show", "g_byd_store"],
+    "g_car_yard": ["g2_car_lot", "g2_used_cars", "g2_car_park_aerial", "g_car_dealership", "g_car_terminal", "au_car_carrier_port"],
+    "g_motor_show": ["g2_motor_show", "g2_showroom", "g_car_dealership", "g_byd_store"],
+    "g_car_terminal": ["g2_auto_terminal", "g_port_melbourne", "g_car_unloading", "au_car_carrier_port", "g_car_yard"],
+    "g_port_melbourne": ["g2_auto_terminal", "g_car_terminal", "au_car_carrier_port", "g_car_unloading"],
+    "g_ute_outback": ["g2_ute_aus", "g_red_dirt_road", "g_outback_road", "g_bush_track", "g_hilux_au", "g_ranger_au"],
     "g_outback_road": ["g_red_dirt_road", "g_road_train", "g_ute_outback"],
     "g_red_dirt_road": ["g_outback_road", "g_ute_outback", "g_bush_track"],
-    "g_bush_track": ["g_beach_4wd", "g_ute_outback", "g_red_dirt_road"],
+    "g_bush_track": ["g2_4wd_track", "g_beach_4wd", "g_ute_outback", "g_red_dirt_road"],
     "g_beach_4wd": ["g_bush_track", "g_ute_outback"],
     "g_tradie": ["g_farm_ute", "g_dmax_au", "g_hilux_au"],
     "g_farm_ute": ["g_country_town", "g_tradie", "g_ute_outback"],
@@ -53,7 +53,7 @@ FALLBACK = {
     "g_holden_ute": ["g_falcon_ute"],
     "g_falcon_ute": ["g_holden_ute"],
     "g_country_town": ["g_farm_ute", "g_outback_road"],
-    "g_byd_store": ["g_motor_show", "g_ev_charging"],
+    "g_byd_store": ["g2_motor_show", "g_motor_show", "g2_showroom", "g_ev_charging"],
     "g_hilux_au": ["m_hilux", "g_ute_outback"],
     "g_ranger_au": ["m_ranger", "g_ute_outback"],
     "g_dmax_au": ["m_dmax", "g_ute_outback"],
@@ -120,7 +120,7 @@ def P(cat, move=None, cap=None, photo_only=False, **kw):
 
 def _photo(cat, move=None, cap=None, **kw):
     """Next unused photo from a pool (or a related pool)."""
-    for c in [cat] + FALLBACK.get(cat, []) + ["g_ute_outback", "g_outback_road", "g_car_yard", "g_motor_show"]:
+    for c in [cat] + FALLBACK.get(cat, []) + ["g2_ute_aus", "g_ute_outback", "g_road_train", "g_outback_road", "g2_car_lot", "g_car_yard", "g2_motor_show", "g_motor_show"]:
         if c not in POOLS:
             POOLS[c] = pool(c)
         while POOLS[c]:
