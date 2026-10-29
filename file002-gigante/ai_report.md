@@ -1,91 +1,34 @@
 # Imagens IA — file002-gigante
 
 - Modelo: `black-forest-labs/flux-1.1-pro-ultra`
-- Imagens geradas: 41
-- Folhas: ai_contact_sheet_1.jpg, ai_contact_sheet_2.jpg, ai_contact_sheet_3.jpg, ai_contact_sheet_4.jpg, ai_contact_sheet_5.jpg, ai_contact_sheet_6.jpg, ai_contact_sheet_7.jpg
+- Imagens geradas: 0
+- Folhas: 
 
 | plano | resultado |
 |---|---|
-| `ai_cadillac_night` | já existia, pulado |
-| `ai_lobby_1957` | já existia, pulado |
-| `ai_revolver_shadow` | já existia, pulado |
-| `ai_lobby_aftermath` | já existia, pulado |
-| `ai_bathrobe_walk` | já existia, pulado |
-| `ai_parking_meter` | já existia, pulado |
-| `ai_psychiatrist_office` | já existia, pulado |
-| `ai_courtroom_2003` | já existia, pulado |
-| `ai_village_1930s` | já existia, pulado |
-| `ai_feast_street` | já existia, pulado |
-| `ai_boxing_ring` | já existia, pulado |
-| `ai_hospital_1940s` | já existia, pulado |
-| `ai_social_club` | já existia, pulado |
-| `ai_hearing_hands` | já existia, pulado |
-| `ai_dinner_1957` | já existia, pulado |
-| `ai_hospital_1957` | já existia, pulado |
-| `ai_casino_note` opção 1 | erro: falhou: Error generating image: NSFW content detected. |
-| `ai_casino_note` | 0 de 1 |
-| `ai_courtroom_1958` | já existia, pulado |
-| `ai_prison_cell_1960` | já existia, pulado |
-| `ai_letters_judge` | já existia, pulado |
-| `ai_triangle_club` | já existia, pulado |
-| `ai_psych_ward` | já existia, pulado |
-| `ai_umbrella_shower` | já existia, pulado |
-| `ai_chin_touch` | já existia, pulado |
-| `ai_townhouse_night` | já existia, pulado |
-| `ai_fbi_surveillance` | já existia, pulado |
-| `ai_harlem_club` | já existia, pulado |
-| `ai_wiretap` | já existia, pulado |
-| `ai_steakhouse_night` | já existia, pulado |
-| `ai_car_bomb` | já existia, pulado |
-| `ai_medical_reports` | já existia, pulado |
-| `ai_wheelchair_court` | já existia, pulado |
-| `ai_witness_stand` | já existia, pulado |
-| `ai_cassette_tape` | já existia, pulado |
-| `ai_prison_hospital` | já existia, pulado |
-| `ai_church_funeral` | já existia, pulado |
-| `ai_empty_bathrobe` | já existia, pulado |
-| `thumb_comic` | já existia, pulado |
-| `ai_sullivan_dusk` | já existia, pulado |
-| `ai_naples_ship` | 1 de 1 |
-| `ai_watchmaker` | 1 de 1 |
-| `ai_bakery_1930s` | 1 de 1 |
-| `ai_numbers_runner` | 1 de 1 |
-| `ai_boxing_gym` | 1 de 1 |
-| `ai_sedan_club` | 1 de 1 |
-| `ai_wedding_1950` | 1 de 1 |
-| `ai_booking_1950s` | 1 de 1 |
-| `ai_slot_machines` opção 1 | erro: falhou: Error generating image: NSFW content detected. |
-| `ai_slot_machines` | 0 de 1 |
-| `ai_nightclub_1950s` | 1 de 1 |
-| `ai_tv_hearing_1951` | 1 de 1 |
-| `ai_empty_witness_chair` | 1 de 1 |
-| `ai_taxi_1957` | 1 de 1 |
-| `ai_detectives_1957` | 1 de 1 |
-| `ai_police_station_1957` | 1 de 1 |
-| `ai_apalachin_roadblock` | 1 de 1 |
-| `ai_penitentiary_1960` | 1 de 1 |
-| `ai_chess_cell` | 1 de 1 |
-| `ai_village_1965` | 1 de 1 |
-| `ai_cards_espresso` | 1 de 1 |
-| `ai_small_town_police` | 1 de 1 |
-| `ai_psych_exam` | 1 de 1 |
-| `ai_slippers_sidewalk` | 1 de 1 |
-| `ai_mother_window` | 1 de 1 |
-| `ai_payphone` | 1 de 1 |
-| `ai_mother_kitchen` | 1 de 1 |
-| `ai_back_room_meeting` | 1 de 1 |
-| `ai_cigar_ashtray` | 1 de 1 |
-| `ai_courthouse_1986` | 1 de 1 |
-| `ai_informant` | 1 de 1 |
-| `ai_trench_coats` | 1 de 1 |
-| `ai_bensonhurst_1986` | 1 de 1 |
-| `ai_hearing_1990s` | 1 de 1 |
-| `ai_jury_room` | 1 de 1 |
-| `ai_prison_bus` | 1 de 1 |
-| `ai_prison_visit` | 1 de 1 |
-| `ai_judge_bench_2003` | 1 de 1 |
-| `ai_church_flowers` | 1 de 1 |
-| `ai_village_sunset` | 1 de 1 |
-| `ai_pajamas_hanger` | 1 de 1 |
-| `ai_old_photos` | 1 de 1 |
-| `ai_typewriter_report` | 1 de 1 |
+| `ai_gavel_1959` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_gavel_1959` | 0 de 1 |
+| `ai_rivals_shadow` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_rivals_shadow` | 0 de 1 |
+| `ai_whisper_walk` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_whisper_walk` | 0 de 1 |
+| `ai_consigliere_chair` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_consigliere_chair` | 0 de 1 |
+| `ai_fat_tony_back` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_fat_tony_back` | 0 de 1 |
+| `ai_windows_housing` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_windows_housing` | 0 de 1 |
+| `ai_jury_exit` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_jury_exit` | 0 de 1 |
+| `ai_prison_cell_2002` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_prison_cell_2002` | 0 de 1 |
+| `ai_lawyer_briefcase` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_lawyer_briefcase` | 0 de 1 |
+| `ai_tapes_stack` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_tapes_stack` | 0 de 1 |
+| `ai_mirror_robe` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_mirror_robe` | 0 de 1 |
+| `ai_reel_spinning` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_reel_spinning` | 0 de 1 |
+| `ai_rosary_hands` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_rosary_hands` | 0 de 1 |
