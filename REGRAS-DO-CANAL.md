@@ -1,6 +1,11 @@
-# Black Dossier — Regras do canal (valem a partir do EP03)
+# Black Dossier — Regras do canal
 
-Definidas pelo dono do canal em 27/10/2026. O Claude segue estas regras em todo episódio.
+Definidas pelo dono do canal (27–29/10/2026). O Claude segue estas regras em todo episódio.
+
+## Comunicação
+- Falar com o dono **sempre em português**, inclusive nas anotações entre uma etapa e outra.
+- Conteúdo do canal (roteiro, narração, legendas, títulos, descrição) em **inglês**.
+- O Claude escolhe sozinho as imagens e os clipes; mostra o hook antes de narrar quando houver mudança grande de formato.
 
 ## 0. Episódios independentes e retenção
 - Os antigos EP01 (Apalachin) e EP02 (Valachi) **não serão publicados**. O canal começa no caso Bonanno = **FILE 001**.
@@ -13,11 +18,26 @@ Definidas pelo dono do canal em 27/10/2026. O Claude segue estas regras em todo 
   - CTA no meio do vídeo (logo após um gancho/cliffhanger) e no final.
 - **Duração: ~20 minutos a partir do FILE 002** (roteiro de ~3.300–3.400 palavras; a voz da Fish fala ~170 palavras/min, medido no FILE 002). O FILE 001 (Bonanno) fica com ~14 min.
 
-## 1. Imagens e vídeos: nada repetido
+## 1. Imagens e vídeos: nada repetido, nada de tela preta
+- **Nunca tela preta**, nem como pausa dramática. Onde faltar imagem ou houver pausa, **preencher com imagem gerada por IA**.
+  A montagem é bloqueada se aparecer um plano preto, e os cartões de texto aparecem sobre a cena anterior escurecida.
+- **Mesclar clipes de vídeo com imagens** (fotos reais + cenas de IA): clipes nos momentos de movimento, sem precisar usar todos.
+  Clipes vêm de cinejornais e filmes de época em domínio público (Universal Newsreels, Prelinger), nunca de filmes de ficção.
+- **Ritmo**: ~3–5 s por plano; primeiro minuto com cortes rápidos (2,5–4 s); evitar a mesma tela parada por mais de ~8 s.
+- **1 imagem de IA por cena** (economia). Sem rosto de pessoa real gerado por IA: pessoas reais sem foto livre aparecem como
+  silhueta no dossiê; documentos encenados levam o carimbo "DRAMATIZATION". Sem cenas de violência gráfica ou vítimas.
+- Conferir toda imagem gerada: descartar e regerar as que tiverem texto inventado/errado, rosto de pessoa real ou objeto fora de época.
 - Nenhuma imagem, clipe ou cena de IA aparece duas vezes no mesmo vídeo (nem com outro corte ou zoom).
 - A montagem é bloqueada automaticamente se houver repetição (`engine/edit_kit.py` verifica antes de gerar o vídeo).
-- Para cobrir ~16–18 min sem repetir: mais fotos reais e clipes de arquivo por episódio, cartelas de texto (datas, citações, números) e
-  1 cena de IA por momento que não tem foto. Custo de IA sobe para ~20–30 imagens (~US$1,20–1,80 por episódio), mais ~US$0,06 da thumbnail ilustrada.
+- Para cobrir ~20 min sem repetir e com cortes rápidos são necessárias ~80–100 cenas de IA (~US$5–6 por episódio no Flux 1.1 Pro Ultra),
+  além das fotos reais e clipes de arquivo. Manter saldo no Replicate antes de começar.
+
+## 1b. Som, legendas e edição
+- Trilha sonora **baixa**, sem atrapalhar a narração (abaixa sozinha quando a voz entra).
+- Efeitos de transição **discretos**, com volume baixo.
+- Cenas **sincronizadas com a narração**: cada corte ancorado na frase que ele ilustra.
+- **Legendas amarelas**, estilo documentário de TV, tamanho moderado, gravadas no vídeo (+ arquivo .srt para o YouTube).
+- Entregar sempre: versão para celular (leve) e versão 1080p para o YouTube.
 
 ## 2. CTA no meio e no final (atualizado 28/10/2026)
 - **Nada de CTA logo depois do hook.**
@@ -50,7 +70,7 @@ Cada episódio sai com **duas** thumbnails em estilos diferentes, para o teste A
 - Prompt com `"guard": "fictional"` e `"raw": false` no ai_prompts.json (1 imagem, ~US$0,06).
 
 **B — Realista (dossiê sépia)** · `engine/thumbnail.py`
-- Foto real de arquivo em sépia à direita, painel escuro à esquerda.
+- Foto real de arquivo (ou objeto forte, como o chapéu caído) em sépia à direita, **com destaque e bem visível**, painel escuro à esquerda.
 - Até 4 palavras: linha 1 branca, linha 2 **amarela** (#E5C428), faixa vermelha, rodapé com ano/lugar em máquina de escrever.
 - Topo "BLACK DOSSIER · FILE 00X" em vermelho, carimbo no canto inferior direito. Nunca texto em cima do rosto.
 
