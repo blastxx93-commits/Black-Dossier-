@@ -1,0 +1,21 @@
+{
+ "model": "black-forest-labs/flux-1.1-pro-ultra", "raw": true, "n": 1,
+ "style": ", modern Australian documentary photograph, 2026, natural light, realistic, sharp, cinematic colour grade with warm highlights, no logos, no badges, no readable text, no brand names",
+ "shots": [
+  {"id": "ai_ute_outback", "prompt": "A modern white dual-cab ute with a tray driving on a red dirt road in the Australian outback at sunset, dust trail, wide shot"},
+  {"id": "ai_tradie_ute", "prompt": "An Australian tradie in hi-vis workwear loading tools into the tub of a modern dual-cab ute on a suburban building site, seen from behind"},
+  {"id": "ai_family_ute_beach", "prompt": "A modern dual-cab ute parked near an Australian beach car park with surfboards on the roof rack, family walking away toward the sand, morning"},
+  {"id": "ai_dealer_yard_rows", "prompt": "Rows and rows of new unregistered dual-cab utes parked tightly on an Australian car dealer lot, plastic seat covers, overcast sky, aerial view"},
+  {"id": "ai_port_cars", "prompt": "Thousands of new cars and utes parked in long rows at an Australian port terminal next to a large car carrier ship, aerial drone view"},
+  {"id": "ai_price_sticker", "prompt": "Close-up of a big bright yellow 'DRIVE AWAY' style price sign hanging on the windscreen of a new ute in a dealership, shallow depth of field, price digits blurred"},
+  {"id": "ai_empty_showroom", "prompt": "A quiet modern car dealership showroom in Australia with a single salesperson standing near a new ute, no customers, late afternoon light through glass"},
+  {"id": "ai_salesman_handshake", "prompt": "A car salesman and a customer shaking hands next to a new dual-cab ute in an Australian dealership yard, faces not visible, seen from the side and behind"},
+  {"id": "ai_caravan_tow", "prompt": "A modern dual-cab ute towing a large caravan along a coastal Australian highway, eucalyptus trees, wide shot"},
+  {"id": "ai_farm_ute", "prompt": "A dusty diesel dual-cab ute parked next to a farm gate and sheep paddock in rural New South Wales, golden hour"},
+  {"id": "ai_diesel_pump", "prompt": "A hand holding a diesel fuel nozzle at an Australian service station, a ute in the background, close-up"},
+  {"id": "ai_ev_charging_ute", "prompt": "A modern plug-in hybrid dual-cab ute charging at a home garage wall charger in an Australian suburb at dusk"},
+  {"id": "ai_compliance_plate", "prompt": "Close-up of a metal vehicle compliance plate inside a ute door frame, details softly blurred, macro photo"},
+  {"id": "ai_contract_signing", "prompt": "A buyer's hand signing a car purchase contract on a desk in a dealership office, car keys next to the paper, close-up, text not readable"},
+  {"id": "ai_road_trip_ute", "prompt": "A modern dual-cab ute with a rooftop tent driving through a winding road in the Australian bush, aerial view"}
+ ]
+}

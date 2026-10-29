@@ -1,0 +1,17 @@
+{
+  "defaults": {"n": 4, "sources": ["commons", "openverse"]},
+  "shots": [
+    {"id": "m_ldv_t60", "query": "LDV T60", "alt": ["Maxus T60 pickup"], "note": "#10"},
+    {"id": "m_kia_tasman", "query": "Kia Tasman", "alt": ["Kia Tasman pickup"], "note": "#9"},
+    {"id": "m_vw_amarok", "query": "Volkswagen Amarok 2023", "alt": ["Volkswagen Amarok second generation"], "note": "#8"},
+    {"id": "m_triton", "query": "Mitsubishi Triton 2024", "alt": ["Mitsubishi Triton sixth generation", "Mitsubishi L200 2024"], "note": "#7"},
+    {"id": "m_dmax", "query": "Isuzu D-Max 2021", "alt": ["Isuzu D-Max third generation"], "note": "#6"},
+    {"id": "m_cannon_alpha", "query": "GWM Cannon Alpha", "alt": ["Great Wall Cannon Alpha", "GWM Poer King Kong"], "note": "#5"},
+    {"id": "m_navara", "query": "Nissan Navara", "alt": ["Nissan Navara D23", "Nissan Frontier"], "note": "#4"},
+    {"id": "m_byd_shark", "query": "BYD Shark", "alt": ["BYD Shark 6 pickup"], "note": "#3"},
+    {"id": "m_hilux", "query": "Toyota Hilux 2024", "alt": ["Toyota Hilux eighth generation", "Toyota Hilux Australia"], "note": "#2"},
+    {"id": "m_ranger", "query": "Ford Ranger 2023", "alt": ["Ford Ranger fourth generation", "Ford Ranger Raptor 2023"], "note": "#1"},
+    {"id": "m_ranger_raptor", "query": "Ford Ranger Raptor", "alt": ["Ranger Raptor 2023"], "note": "#8 comparação"},
+    {"id": "au_car_carrier_port", "query": "car carrier ship port Melbourne", "alt": ["vehicle import port Australia", "car terminal port cars parked"], "note": "contexto: carros no porto"}
+  ]
+}
