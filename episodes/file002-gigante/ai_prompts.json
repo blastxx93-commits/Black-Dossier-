@@ -6,7 +6,7 @@
  "shots": [
   {
    "id": "ai_cadillac_night",
-   "prompt": "A black 1957 Cadillac pulling up behind a yellow taxi on Central Park West at night, apartment building entrance with an awning and doorman light, park trees across the street"
+   "prompt": "A black 1957 Cadillac pulling up behind a checkered 1950s taxi on a dark tree-lined avenue next to Central Park at night, an apartment building entrance with an awning, vintage street lamps, no signs, no letters"
   },
   {
    "id": "ai_lobby_1957",
@@ -26,7 +26,7 @@
   },
   {
    "id": "ai_parking_meter",
-   "prompt": "Close detail of an old 1980s New York parking meter on a sidewalk, a blurred figure in a bathrobe standing next to it out of focus, face not visible"
+   "prompt": "An old 1980s coin parking meter on a Greenwich Village sidewalk, slippers and the hem of a bathrobe of a person standing next to it, only the feet and legs visible, brick buildings behind, no text"
   },
   {
    "id": "ai_psychiatrist_office",
@@ -98,7 +98,7 @@
   },
   {
    "id": "ai_chin_touch",
-   "prompt": "Close-up of a man's hand touching his own chin, wearing a pinky ring, the rest of the face cropped out of frame, dark social club background"
+   "prompt": "Extreme close-up of a man's hand with a gold pinky ring rubbing his own jawline, only the hand and the edge of a stubbled jaw visible, mouth and eyes out of frame, smoky dark background"
   },
   {
    "id": "ai_townhouse_night",
@@ -118,7 +118,7 @@
   },
   {
    "id": "ai_steakhouse_night",
-   "prompt": "A Manhattan steakhouse exterior on a December night in 1985, Christmas lights, police cars with lights flashing, crime scene tape, crowd seen from far, no bodies"
+   "prompt": "A Manhattan street on a December night in 1985, a restaurant awning without any lettering, Christmas lights on a tree, 1980s police cars with flashing lights, police tape, onlookers far away, no signs, no letters"
   },
   {
    "id": "ai_car_bomb",
@@ -126,7 +126,7 @@
   },
   {
    "id": "ai_medical_reports",
-   "prompt": "Tall stacks of psychiatric medical reports and legal binders on a lawyer's desk in the 1990s, text blurred and unreadable"
+   "prompt": "Tall stacks of blank manila folders and plain bound reports on a lawyer's desk in the 1990s, no visible writing, no labels, no letters, desk lamp light"
   },
   {
    "id": "ai_wheelchair_court",
@@ -138,7 +138,7 @@
   },
   {
    "id": "ai_cassette_tape",
-   "prompt": "A cassette tape recorder playing on a metal table in a 2002 federal office, an evidence label on the tape, text unreadable"
+   "prompt": "A plain unlabeled black cassette tape and a small portable tape recorder on a bare metal table under harsh office light, 2002, absolutely no writing, no labels, no letters"
   },
   {
    "id": "ai_prison_hospital",
