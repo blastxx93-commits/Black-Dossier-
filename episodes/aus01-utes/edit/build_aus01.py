@@ -133,59 +133,66 @@ FALLBACK = {
 }
 
 
+# clips picked by hand from the contact sheet ("folder/number"): only footage that matches the line it covers
 VIDEO_FOR = {
-    "g_ute_outback": ["v_ute_dirt_road", "v_outback_aerial", "v_4x4_offroad"],
-    "g_outback_road": ["v_outback_aerial", "v_road_train", "v_country_road"],
-    "g_red_dirt_road": ["v_ute_dirt_road", "v_outback_aerial"],
-    "g_bush_track": ["v_bush_track", "v_4x4_offroad"],
-    "g_beach_4wd": ["v_beach_4wd"],
-    "g_car_dealership": ["v_car_showroom", "v_salesman"],
-    "g_car_yard": ["v_dealer_lot_aerial"],
-    "g_motor_show": ["v_car_showroom"],
-    "g_car_terminal": ["v_port_cars", "v_car_carrier"],
-    "g_port_melbourne": ["v_car_carrier", "v_port_cars"],
-    "g_sydney_traffic": ["v_sydney", "v_highway_aerial"],
-    "g_melbourne_traffic": ["v_melbourne", "v_city_night", "v_highway_aerial"],
-    "g_fuel_station": ["v_fuel"],
-    "g_ev_charging": ["v_ev_charge"],
-    "g_caravan_tow": ["v_caravan"],
-    "g_farm_ute": ["v_farm_truck"],
-    "g_tradie": ["v_tradie"],
-    "g_country_town": ["v_country_road"],
-    "g_byd_store": ["v_car_showroom"],
-    "g_hilux_au": ["v_4x4_offroad"], "g_ranger_au": ["v_4x4_offroad"], "g_dmax_au": ["v_farm_truck"],
-    "g_triton_au": ["v_4x4_offroad"],
+    "g_car_dealership": ["v_car_showroom/1", "v_car_showroom/2", "v_salesman/3", "v_dealer_lot_aerial/3"],
+    "g_car_yard": ["v_dealer_lot_aerial/3", "v_dealer_lot_aerial/1", "v_dealer_lot_aerial/2", "v_port_cars/2"],
+    "g_motor_show": ["v_car_showroom/1", "v_car_showroom/2"],
+    "g_car_terminal": ["v_car_carrier/2", "v_port_cars/1", "v_car_carrier/3", "v_port_cars/2"],
+    "g_port_melbourne": ["v_car_carrier/3", "v_car_carrier/2", "v_port_cars/1"],
+    "g_ute_outback": ["v_beach_4wd/1", "v_car_showroom/3", "v_outback_aerial/3", "v_outback_aerial/1"],
+    "g_red_dirt_road": ["v_car_showroom/3", "v_beach_4wd/1", "v_outback_aerial/3"],
+    "g_outback_road": ["v_road_train/2", "v_caravan/2", "v_country_road/1", "v_bush_track/2"],
+    "g_bush_track": ["v_bush_track/1", "v_beach_4wd/3", "v_country_road/3"],
+    "g_beach_4wd": ["v_beach_4wd/3", "v_beach_4wd/1"],
+    "g_sydney_traffic": ["v_sydney/1", "v_sydney/3", "v_sydney/2", "v_highway_aerial/1"],
+    "g_melbourne_traffic": ["v_melbourne/2", "v_melbourne/1", "v_city_night/1", "v_city_night/2", "v_melbourne/3",
+                            "v_highway_aerial/2", "v_highway_aerial/3", "v_city_night/3"],
+    "g_ev_charging": ["v_ev_charge/1", "v_ev_charge/3", "v_ev_charge/2"],
+    "g_caravan_tow": ["v_caravan/2"],
+    "g_farm_ute": ["v_farm_truck/1", "v_farm_truck/2"],
+    "g_tradie": ["v_tradie/1", "v_tradie/3", "v_tradie/2"],
+    "g_country_town": ["v_country_road/2", "v_country_road/3"],
+    "g_fuel_station": ["v_road_train/1", "v_ute_dirt_road/1"],
+    "g_hilux_au": ["v_beach_4wd/1", "v_outback_aerial/3"], "g_ranger_au": ["v_car_showroom/3", "v_road_train/2"],
+    "g_dmax_au": ["v_farm_truck/2", "v_farm_truck/1"], "g_triton_au": ["v_bush_track/1"],
+    "g_byd_store": ["v_ev_charge/2", "v_car_showroom/1"],
 }
 VID_TARGET = 0.40   # share of clips among footage (photos + clips); graphics are not counted
 COUNT = {"img": 0, "vid": 0}
-VPOOLS = {}
 
 
-def vpool(cat):
-    if cat not in VPOOLS:
-        VPOOLS[cat] = [f[2:] for f in sorted(glob.glob(f"a/video/{cat}/*.mp4"))
-                       if f"video/{cat}/{os.path.basename(f)}" not in SKIP
-                       and not os.path.basename(f).endswith(("_archive.mp4", "_commons.mp4"))]  # old archive films: off-topic here
-    return VPOOLS[cat]
+def clip_file(spec):
+    folder, n = spec.split("/")
+    fs = [f for f in sorted(glob.glob(f"a/video/{folder}/{n}_*.mp4"))
+          if not os.path.basename(f).endswith(("_archive.mp4", "_commons.mp4"))]  # old archive films: off-topic here
+    return fs[0][2:] if fs else None
 
 
-def V(cat, cap=None):
-    for c in VIDEO_FOR.get(cat, []):
-        while vpool(c):
-            f = vpool(c).pop(0)
-            if f in USED or is_dup(f):
-                continue
-            USED.add(f)
-            COUNT["vid"] += 1
-            return K.vid(f, cap=cap, fit="crop")
+# road / traffic / landscape footage that fits any "cars on Australian roads" line: used only as continuation b-roll
+GENERIC_CLIPS = ["v_highway_aerial/1", "v_highway_aerial/2", "v_highway_aerial/3", "v_country_road/1", "v_country_road/2",
+                 "v_country_road/3", "v_road_train/2", "v_road_train/1", "v_bush_track/1", "v_bush_track/2", "v_city_night/1",
+                 "v_city_night/2", "v_city_night/3", "v_melbourne/1", "v_melbourne/2", "v_melbourne/3", "v_sydney/1",
+                 "v_sydney/2", "v_sydney/3", "v_caravan/2", "v_beach_4wd/3", "v_outback_aerial/3", "v_outback_aerial/1",
+                 "v_farm_truck/1", "v_farm_truck/2", "v_ute_dirt_road/1", "v_car_carrier/3", "v_port_cars/1"]
+
+
+def V(cat, cap=None, generic=False):
+    for spec in VIDEO_FOR.get(cat, []) + (GENERIC_CLIPS if generic else []):
+        f = clip_file(spec)
+        if not f or f in USED or f"video/{spec.split('/')[0]}/{os.path.basename(f)}" in SKIP or is_dup(f):
+            continue
+        USED.add(f)
+        COUNT["vid"] += 1
+        return K.vid(f, cap=cap, fit="crop")
     return None
 
 
-def P(cat, move=None, cap=None, photo_only=False, **kw):
+def P(cat, move=None, cap=None, photo_only=False, generic=False, **kw):
     """Generic scene: a clip when the clip share is below target and one is available, else a photo."""
     tot = COUNT["img"] + COUNT["vid"]
     if not photo_only and (tot == 0 or COUNT["vid"] / tot < VID_TARGET):
-        v = V(cat, cap)
+        v = V(cat, cap, generic)
         if v:
             return v
     COUNT["img"] += 1
@@ -525,7 +532,7 @@ for ci, chap in enumerate(ep["chapters"]):
         while s["dur"] > MAX_HOLD and s["type"] not in NO_SPLIT:
             first = dict(s, dur=KEEP, fixed=True)
             rest_dur = round(s["dur"] - KEEP, 3)
-            nxt = P(CTX[ci])
+            nxt = P(CTX[ci], generic=True)
             nxt = dict(nxt, dur=rest_dur, fixed=s.get("fixed", False))
             for k in ("fade_out",):
                 if k in s:
