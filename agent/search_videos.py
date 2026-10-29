@@ -294,7 +294,9 @@ def run(ep, out_root, only=None, budget_min=40):
         if not files:
             missing.append(sid)
         rows.append((sid, files))
-    with open(os.path.join(ep_dir, "video_credits.csv"), "w", newline="") as fh:
+    # partial runs (--only) write their own credits file, so the full list is never overwritten
+    cred_name = "video_credits.csv" if not only else f"video_credits_parcial_{time.strftime('%m%d-%H%M')}.csv"
+    with open(os.path.join(ep_dir, cred_name), "w", newline="") as fh:
         w = csv.DictWriter(fh, fieldnames=["file", "shot", "source", "license", "author", "title", "page", "start_sec", "query"])
         w.writeheader(); w.writerows(credits)
     sheets = contact_sheets(ep_dir, rows)
