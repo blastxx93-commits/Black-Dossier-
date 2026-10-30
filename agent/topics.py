@@ -38,6 +38,8 @@ THEMES = {
     "utes": r"\bute|hilux|ranger|navara|triton|d-max|shark", "repairs / parts": r"repair|parts|service|warranty",
     "policy / tax": r"nves|efficiency standard|tax|tariff|government|rebate", "Chinese brands": r"chinese|china",
 }
+OFFTOPIC = re.compile(r"\bBESS\b|energy storage|powerwall|solar|spacecraft|share price|shares|stock market|robotaxi|"
+                      r"\bgrid\b|battery storage|mining|lithium price|f1\b|formula 1|supercars race|motogp", re.I)
 S = requests.Session(); S.headers["User-Agent"] = UA
 
 
@@ -109,7 +111,7 @@ def main():
     seen, fresh = set(), []
     for it in items:
         key = re.sub(r"\W+", "", it["title"].lower())[:90]
-        if not it["title"] or key in seen or (it["when"] and it["when"] < since):
+        if not it["title"] or key in seen or (it["when"] and it["when"] < since) or OFFTOPIC.search(it["title"]):
             continue
         seen.add(key); fresh.append(it)
     groups = defaultdict(list)
