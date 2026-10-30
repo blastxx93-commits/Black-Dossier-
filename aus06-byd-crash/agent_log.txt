@@ -1,0 +1,117 @@
+[     0s] aus06-byd-crash: 28 planos, limite 35.0 min
+[     0s] m_atto3: 'BYD Atto 3'
+[     0s]     commons: 12 candidatos em 0.4s
+[     1s]     pixabay: 12 candidatos em 0.1s
+[     4s]   -> 5 imagens
+[     4s] m_dolphin: 'BYD Dolphin'
+[     5s]     commons: 12 candidatos em 0.2s
+[     5s]     pixabay: 12 candidatos em 0.1s
+[     8s]   -> 5 imagens
+[     8s] m_seal: 'BYD Seal'
+[     8s]     commons: 12 candidatos em 0.3s
+[     8s]     pixabay: 12 candidatos em 0.1s
+[    11s]   -> 4 imagens
+[    11s] m_sealion6: 'BYD Sealion 6'
+[    11s]     commons: 12 candidatos em 0.3s
+[    11s]     pixabay: 12 candidatos em 0.1s
+[    14s]   -> 4 imagens
+[    14s] m_sealion7: 'BYD Sealion 7'
+[    14s]     commons: 12 candidatos em 0.4s
+[    14s]     pixabay: 12 candidatos em 0.1s
+[    16s]   -> 4 imagens
+[    16s] m_shark6: 'BYD Shark 6'
+[    17s]     commons: 12 candidatos em 0.2s
+[    17s]     pixabay: 12 candidatos em 0.1s
+[    20s]   -> 5 imagens
+[    20s] m_atto1: 'BYD Atto 1'
+[    20s]     commons: 12 candidatos em 0.3s
+[    21s]     pixabay: 12 candidatos em 0.2s
+[    22s]   -> 3 imagens
+[    22s] m_blade: 'BYD Blade battery'
+[    23s]     commons: 1 candidatos em 0.2s
+[    23s]     pixabay: 12 candidatos em 0.1s
+[    26s]   -> 4 imagens
+[    26s] m_byd_dealer: 'BYD dealership'
+[    26s]     commons: 12 candidatos em 0.6s
+[    26s]     pixabay: 12 candidatos em 0.1s
+[    29s]   -> 4 imagens
+[    29s] m_byd_logo_building: 'BYD Auto headquarters'
+[    29s]     commons: 5 candidatos em 0.4s
+[    30s]     pixabay: 12 candidatos em 0.2s
+[    32s]   -> 3 imagens
+[    32s] m_corolla: 'Toyota Corolla hybrid'
+[    32s]     commons: 12 candidatos em 0.4s
+[    32s]     pixabay: 12 candidatos em 0.1s
+[    34s]   -> 3 imagens
+[    34s] m_cx30: 'Mazda CX-30'
+[    34s]     commons: 12 candidatos em 0.3s
+[    35s]     pixabay: 12 candidatos em 0.2s
+[    36s]   -> 3 imagens
+[    36s] m_tesla_m3: 'Tesla Model 3'
+[    37s]     commons: 12 candidatos em 0.4s
+[    37s]     pixabay: 12 candidatos em 0.1s
+[    39s]   -> 3 imagens
+[    39s] h_car_crash: 'car accident rear end'
+[    39s]   ! unsplash: 403 Client Error: Forbidden for url: https://api.unsplash.com/search/photos?query=car+accident+rear+end&per_page=12&orientation=landscape&co
+[    39s]     unsplash: 0 candidatos em 0.6s
+[    39s]     pixabay: 12 candidatos em 0.1s
+[    43s]   -> 6 imagens
+[    43s] h_tow_truck: 'tow truck flatbed'
+[    44s]   ! unsplash: 403 Client Error: Forbidden for url: https://api.unsplash.com/search/photos?query=tow+truck+flatbed&per_page=12&orientation=landscape&conten
+[    44s]     unsplash: 0 candidatos em 0.5s
+[    44s]     pixabay: 12 candidatos em 0.1s
+[    48s]   -> 6 imagens
+[    48s] h_panel_beater: 'auto body repair shop'
+[    48s]   ! unsplash: 403 Client Error: Forbidden for url: https://api.unsplash.com/search/photos?query=auto+body+repair+shop&per_page=12&orientation=landscape&co
+[    48s]     unsplash: 0 candidatos em 0.5s
+[    48s]     pixabay: 12 candidatos em 0.1s
+[    52s]   -> 6 imagens
+[    52s] h_mechanic_ev: 'electric car mechanic'
+[    52s]     unsplash: 0 candidatos em 0.0s
+[    52s]     pixabay: 12 candidatos em 0.1s
+[    56s]   -> 5 imagens
+[    56s] h_bumper: 'damaged car bumper'
+[    56s]     unsplash: 0 candidatos em 0.0s
+[    56s]     pixabay: 12 candidatos em 0.1s
+[    60s]   -> 5 imagens
+[    60s] h_parking_sensor: 'car parking sensor'
+[    60s]     unsplash: 0 candidatos em 0.0s
+[    60s]     pixabay: 12 candidatos em 0.1s
+[    63s]   -> 4 imagens
+[    63s] h_insurance_form: 'insurance claim form'
+[    63s]     unsplash: 0 candidatos em 0.0s
+[    63s]     pixabay: 12 candidatos em 0.1s
+[    66s]   -> 5 imagens
+[    66s] h_warehouse: 'parts warehouse shelves'
+[    66s]     unsplash: 0 candidatos em 0.0s
+[    66s]     pixabay: 12 candidatos em 0.1s
+[    69s]   -> 5 imagens
+[    69s] h_cargo_plane: 'cargo plane loading'
+[    69s]     unsplash: 0 candidatos em 0.0s
+[    70s]     pixabay: 12 candidatos em 0.1s
+[    72s]   -> 3 imagens
+[    72s] h_calculator_bills: 'calculator bills'
+[    72s]     unsplash: 0 candidatos em 0.0s
+[    72s]     pixabay: 12 candidatos em 0.1s
+[    75s]   -> 4 imagens
+[    75s] h_ev_charging: 'electric car charging'
+[    75s]     unsplash: 0 candidatos em 0.0s
+[    75s]     pixabay: 12 candidatos em 0.1s
+[    78s]   -> 5 imagens
+[    78s] h_traffic_light: 'red traffic light cars'
+[    78s]     unsplash: 0 candidatos em 0.0s
+[    78s]     pixabay: 12 candidatos em 0.1s
+[    81s]   -> 4 imagens
+[    81s] h_wrecking_yard: 'car scrapyard'
+[    81s]     unsplash: 0 candidatos em 0.0s
+[    81s]     pixabay: 12 candidatos em 0.2s
+[    84s]   -> 4 imagens
+[    84s] h_battery_pack: 'electric vehicle battery pack'
+[    84s]     unsplash: 0 candidatos em 0.0s
+[    84s]     pixabay: 12 candidatos em 0.1s
+[    86s]   -> 4 imagens
+[    86s] h_phone_call: 'frustrated man phone call'
+[    86s]     unsplash: 0 candidatos em 0.0s
+[    87s]     pixabay: 12 candidatos em 0.2s
+[    89s]   -> 4 imagens
+[    92s] fim: 120 imagens
