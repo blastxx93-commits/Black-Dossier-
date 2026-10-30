@@ -1,0 +1,139 @@
+{
+ "defaults": {
+  "n": 3,
+  "clip": 8,
+  "sources": [
+   "coverr",
+   "pixabay",
+   "pexels"
+  ]
+ },
+ "shots": [
+  {
+   "id": "v_crash",
+   "query": "car crash",
+   "alt": [
+    "car accident"
+   ]
+  },
+  {
+   "id": "v_tow",
+   "query": "tow truck",
+   "alt": [
+    "car being towed"
+   ]
+  },
+  {
+   "id": "v_body_shop",
+   "query": "car body shop",
+   "alt": [
+    "auto body repair"
+   ]
+  },
+  {
+   "id": "v_spray",
+   "query": "car spray painting",
+   "alt": [
+    "car paint booth"
+   ]
+  },
+  {
+   "id": "v_mechanic",
+   "query": "car mechanic",
+   "alt": [
+    "auto repair shop"
+   ]
+  },
+  {
+   "id": "v_ev_charge",
+   "query": "electric car charging",
+   "alt": [
+    "ev charger"
+   ]
+  },
+  {
+   "id": "v_battery",
+   "query": "battery factory",
+   "alt": [
+    "lithium battery production"
+   ]
+  },
+  {
+   "id": "v_warehouse",
+   "query": "warehouse forklift",
+   "alt": [
+    "warehouse shelves"
+   ]
+  },
+  {
+   "id": "v_plane",
+   "query": "cargo plane",
+   "alt": [
+    "airplane cargo loading"
+   ]
+  },
+  {
+   "id": "v_traffic",
+   "query": "city traffic",
+   "alt": [
+    "traffic road australia"
+   ]
+  },
+  {
+   "id": "v_red_light",
+   "query": "traffic light red",
+   "alt": [
+    "cars stopped traffic light"
+   ]
+  },
+  {
+   "id": "v_phone",
+   "query": "man phone call frustrated",
+   "alt": [
+    "phone call office"
+   ]
+  },
+  {
+   "id": "v_paperwork",
+   "query": "filling form paperwork",
+   "alt": [
+    "signing document"
+   ]
+  },
+  {
+   "id": "v_laptop",
+   "query": "typing laptop",
+   "alt": [
+    "comparing prices online"
+   ]
+  },
+  {
+   "id": "v_money",
+   "query": "counting money",
+   "alt": [
+    "paying bill"
+   ]
+  },
+  {
+   "id": "v_photo_damage",
+   "query": "taking photo of car damage",
+   "alt": [
+    "smartphone photo car"
+   ]
+  },
+  {
+   "id": "v_driving",
+   "query": "driving car highway",
+   "alt": [
+    "electric car driving"
+   ]
+  },
+  {
+   "id": "v_calendar",
+   "query": "calendar",
+   "alt": [
+    "clock time passing"
+   ]
+  }
+ ]
+}

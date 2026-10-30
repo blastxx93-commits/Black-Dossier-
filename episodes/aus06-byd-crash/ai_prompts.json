@@ -1,0 +1,71 @@
+{
+ "model": "black-forest-labs/flux-1.1-pro-ultra",
+ "raw": true,
+ "n": 1,
+ "style": ", modern Australian documentary photograph, 2026, natural light, realistic, sharp, cinematic colour grade, no logos, no badges, no readable text, no brand names",
+ "shots": [
+  {
+   "id": "ai_rear_end",
+   "prompt": "A minor rear-end collision between two modern compact electric SUVs at a suburban Australian intersection, crumpled rear bumper, drivers standing beside the cars, faces not recognisable, daylight"
+  },
+  {
+   "id": "ai_flatbed_ev",
+   "prompt": "A modern white electric hatchback being loaded onto a flatbed tow truck on an Australian suburban street, generic unbranded design, overcast"
+  },
+  {
+   "id": "ai_quarantine",
+   "prompt": "A damaged electric car parked alone in a fenced quarantine area of an outdoor assessing yard, warning cones around it, away from other vehicles"
+  },
+  {
+   "id": "ai_hv_technician",
+   "prompt": "A technician wearing orange insulated high-voltage gloves and face shield working on an electric car in a workshop, orange cables visible"
+  },
+  {
+   "id": "ai_battery_lifted",
+   "prompt": "An electric car battery pack lowered on a hydraulic lift table underneath a car in a clean repair workshop"
+  },
+  {
+   "id": "ai_adas_calibration",
+   "prompt": "A car in a workshop in front of a large calibration target board used for driver assistance sensor calibration, clean bright lighting"
+  },
+  {
+   "id": "ai_bumper_sensors",
+   "prompt": "Close-up of a removed car rear bumper on a workbench showing parking sensors and wiring, workshop lighting"
+  },
+  {
+   "id": "ai_cars_waiting",
+   "prompt": "A crowded panel beater yard with many damaged modern cars waiting for repair, some covered in tarps, overcast Australian light"
+  },
+  {
+   "id": "ai_renewal_letter",
+   "prompt": "An insurance renewal letter and envelope on a kitchen table beside car keys and a cup of coffee, text not readable"
+  },
+  {
+   "id": "ai_compare_quotes",
+   "prompt": "A woman comparing car insurance quotes on a laptop at home, screen text not readable, evening lamp light"
+  },
+  {
+   "id": "ai_assessor",
+   "prompt": "An insurance assessor with a tablet inspecting a damaged electric SUV in a repair shop, faces not recognisable"
+  },
+  {
+   "id": "ai_dashboard_warning",
+   "prompt": "Close-up of a modern electric car digital dashboard with a glowing amber warning light, generic, no readable text"
+  },
+  {
+   "id": "ai_parts_shelves",
+   "prompt": "A large modern car parts warehouse in Australia with tall shelves, boxed parts and a worker with a scanner"
+  },
+  {
+   "id": "ai_battery_cells",
+   "prompt": "Close-up of rows of flat blade-shaped lithium iron phosphate battery cells in an open battery pack, studio lighting"
+  },
+  {
+   "id": "persona_worried",
+   "prompt": "Waist-up portrait of a fictional Australian man in his mid 30s with short sandy hair and light stubble, wearing a plain dark green t-shirt, worried stressed expression, frowning, holding a crumpled paper bill in one hand and looking straight at the camera",
+   "style": ", photorealistic studio portrait photograph, sharp focus on the face, even soft lighting, plain solid bright chroma green background #00FF00 filling the whole frame, no shadows on the background, no text, no logos",
+   "guard": "fictional",
+   "n": 2
+  }
+ ]
+}

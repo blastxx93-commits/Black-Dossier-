@@ -1,0 +1,281 @@
+{
+ "defaults": {
+  "n": 4,
+  "sources": [
+   "commons",
+   "pixabay"
+  ]
+ },
+ "shots": [
+  {
+   "id": "m_atto3",
+   "query": "BYD Atto 3",
+   "alt": [
+    "BYD Yuan Plus"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_dolphin",
+   "query": "BYD Dolphin",
+   "alt": [],
+   "n": 5
+  },
+  {
+   "id": "m_seal",
+   "query": "BYD Seal",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_sealion6",
+   "query": "BYD Sealion 6",
+   "alt": [
+    "BYD Song Plus DM-i"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_sealion7",
+   "query": "BYD Sealion 7",
+   "alt": [
+    "BYD Sea Lion 07"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_shark6",
+   "query": "BYD Shark 6",
+   "alt": [
+    "BYD Shark pickup"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_atto1",
+   "query": "BYD Atto 1",
+   "alt": [
+    "BYD Seagull"
+   ],
+   "n": 3
+  },
+  {
+   "id": "m_blade",
+   "query": "BYD Blade battery",
+   "alt": [
+    "lithium iron phosphate battery"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_byd_dealer",
+   "query": "BYD dealership",
+   "alt": [
+    "BYD store"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_byd_logo_building",
+   "query": "BYD Auto headquarters",
+   "alt": [
+    "BYD factory"
+   ],
+   "n": 3
+  },
+  {
+   "id": "m_corolla",
+   "query": "Toyota Corolla hybrid",
+   "alt": [],
+   "n": 3
+  },
+  {
+   "id": "m_cx30",
+   "query": "Mazda CX-30",
+   "alt": [],
+   "n": 3
+  },
+  {
+   "id": "m_tesla_m3",
+   "query": "Tesla Model 3",
+   "alt": [],
+   "n": 3
+  },
+  {
+   "id": "h_car_crash",
+   "query": "car accident rear end",
+   "alt": [
+    "car crash"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_tow_truck",
+   "query": "tow truck flatbed",
+   "alt": [
+    "car towing"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_panel_beater",
+   "query": "auto body repair shop",
+   "alt": [
+    "car body shop painting"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_mechanic_ev",
+   "query": "electric car mechanic",
+   "alt": [
+    "ev battery repair"
+   ],
+   "n": 5,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_bumper",
+   "query": "damaged car bumper",
+   "alt": [
+    "dented bumper"
+   ],
+   "n": 5,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_parking_sensor",
+   "query": "car parking sensor",
+   "alt": [
+    "reversing camera car"
+   ],
+   "n": 4,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_insurance_form",
+   "query": "insurance claim form",
+   "alt": [
+    "car insurance"
+   ],
+   "n": 5,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_warehouse",
+   "query": "parts warehouse shelves",
+   "alt": [
+    "warehouse logistics"
+   ],
+   "n": 5,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_cargo_plane",
+   "query": "cargo plane loading",
+   "alt": [
+    "air freight"
+   ],
+   "n": 3,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_calculator_bills",
+   "query": "calculator bills",
+   "alt": [
+    "paying bills"
+   ],
+   "n": 4,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_ev_charging",
+   "query": "electric car charging",
+   "alt": [],
+   "n": 5,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_traffic_light",
+   "query": "red traffic light cars",
+   "alt": [
+    "cars waiting traffic light"
+   ],
+   "n": 4,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_wrecking_yard",
+   "query": "car scrapyard",
+   "alt": [
+    "wrecked cars yard"
+   ],
+   "n": 4,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_battery_pack",
+   "query": "electric vehicle battery pack",
+   "alt": [],
+   "n": 4,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_phone_call",
+   "query": "frustrated man phone call",
+   "alt": [
+    "man on phone"
+   ],
+   "n": 4,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  }
+ ]
+}
