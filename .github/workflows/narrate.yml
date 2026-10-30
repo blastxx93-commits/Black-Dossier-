@@ -21,6 +21,10 @@ on:
         description: "Opcional: ID de outra voz Fish Audio (vazio = voz padrão do canal)"
         required: false
         default: ""
+      model:
+        description: "Opcional: modelo Fish Audio (ex.: s2.1-pro-free; vazio = padrão)"
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -48,7 +52,7 @@ jobs:
         env:
           FISH_API_KEY: ${{ secrets.FISH_API_KEY }}
           FISH_VOICE_ID: ${{ inputs.voice != '' && inputs.voice || secrets.FISH_VOICE_ID }}
-          FISH_MODEL: ${{ vars.FISH_MODEL }}
+          FISH_MODEL: ${{ inputs.model != '' && inputs.model || vars.FISH_MODEL }}
         continue-on-error: true
         run: |
           mkdir -p "../out/${{ inputs.episode }}"
