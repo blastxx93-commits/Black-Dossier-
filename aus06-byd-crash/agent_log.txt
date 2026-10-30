@@ -1,57 +1,21 @@
-[     0s] aus06-byd-crash: 13 planos, limite 35.0 min
-[     0s] m_byd2: 'BYD Seal U'
-[     0s]     commons: 12 candidatos em 0.5s
-[     1s]     pixabay: 12 candidatos em 0.2s
-[     5s]   -> 5 imagens
-[     5s] m_byd3: 'BYD Han'
-[     5s]     commons: 12 candidatos em 0.4s
-[     5s]     pixabay: 12 candidatos em 0.3s
-[     8s]   -> 4 imagens
-[     8s] m_byd4: 'BYD electric car'
-[     9s]     commons: 12 candidatos em 0.5s
-[     9s]     pixabay: 12 candidatos em 0.2s
-[    15s]   -> 6 imagens
-[    15s] h_damaged: 'damaged car'
-[    16s]     unsplash: 12 candidatos em 1.0s
+[     0s] aus06-byd-crash: 4 planos, limite 35.0 min
+[     0s] h_bills2: 'paying bills'
+[     1s]   ! unsplash: 403 Client Error: Forbidden for url: https://api.unsplash.com/search/photos?query=paying+bills&per_page=12&orientation=landscape&content_fil
+[     1s]     unsplash: 0 candidatos em 0.8s
+[     1s]     pixabay: 12 candidatos em 0.4s
+[     6s]   -> 6 imagens
+[     6s] h_insurance3: 'insurance documents'
+[     6s]   ! unsplash: 403 Client Error: Forbidden for url: https://api.unsplash.com/search/photos?query=insurance+documents&per_page=12&orientation=landscape&cont
+[     6s]     unsplash: 0 candidatos em 0.6s
+[     7s]     pixabay: 12 candidatos em 0.2s
+[    11s]   -> 6 imagens
+[    11s] h_road3: 'australia road'
+[    12s]   ! unsplash: 403 Client Error: Forbidden for url: https://api.unsplash.com/search/photos?query=australia+road&per_page=12&orientation=landscape&content_f
+[    12s]     unsplash: 0 candidatos em 0.6s
+[    12s]     pixabay: 12 candidatos em 0.2s
+[    16s]   -> 6 imagens
+[    16s] h_repair3: 'car repair shop'
+[    16s]     unsplash: 0 candidatos em 0.0s
 [    16s]     pixabay: 12 candidatos em 0.2s
-[    24s]   -> 8 imagens
-[    24s] h_workshop: 'auto repair shop'
-[    24s]     unsplash: 12 candidatos em 0.7s
-[    25s]     pixabay: 12 candidatos em 0.2s
-[    31s]   -> 8 imagens
-[    31s] h_mechanic2: 'mechanic'
-[    32s]     unsplash: 12 candidatos em 0.8s
-[    32s]     pixabay: 12 candidatos em 0.2s
-[    37s]   -> 6 imagens
-[    37s] h_insurance2: 'car insurance'
-[    38s]     unsplash: 12 candidatos em 0.8s
-[    38s]     pixabay: 12 candidatos em 0.2s
-[    42s]   -> 6 imagens
-[    42s] h_ev2: 'electric car'
-[    43s]     unsplash: 12 candidatos em 0.7s
-[    43s]     pixabay: 12 candidatos em 0.2s
-[    53s]   -> 8 imagens
-[    53s] h_carpark: 'car park'
-[    54s]   ! unsplash: 403 Client Error: Forbidden for url: https://api.unsplash.com/search/photos?query=car+park&per_page=12&orientation=landscape&content_filter=
-[    54s]     unsplash: 0 candidatos em 0.6s
-[    54s]     pixabay: 12 candidatos em 0.2s
-[    59s]   -> 6 imagens
-[    59s] h_road_au: 'australia road'
-[    59s]   ! unsplash: 403 Client Error: Forbidden for url: https://api.unsplash.com/search/photos?query=australia+road&per_page=12&orientation=landscape&content_f
-[    59s]     unsplash: 0 candidatos em 0.6s
-[    60s]     pixabay: 12 candidatos em 0.4s
-[    65s]   -> 6 imagens
-[    65s] h_spray: 'car spray painting'
-[    65s]   ! unsplash: 403 Client Error: Forbidden for url: https://api.unsplash.com/search/photos?query=car+spray+painting&per_page=12&orientation=landscape&conte
-[    65s]     unsplash: 0 candidatos em 0.6s
-[    67s]     pixabay: 12 candidatos em 1.8s
-[    72s]   -> 5 imagens
-[    72s] h_worried: 'worried man bills'
-[    72s]     unsplash: 0 candidatos em 0.0s
-[    72s]     pixabay: 12 candidatos em 0.2s
-[    76s]   -> 5 imagens
-[    76s] h_tow2: 'tow truck'
-[    76s]     unsplash: 0 candidatos em 0.0s
-[    76s]     pixabay: 12 candidatos em 0.2s
-[    80s]   -> 5 imagens
-[    81s] fim: 78 imagens
+[    21s]   -> 6 imagens
+[    21s] fim: 24 imagens
