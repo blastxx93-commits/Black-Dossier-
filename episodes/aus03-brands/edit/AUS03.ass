@@ -1,0 +1,352 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Doc,Inter SemiBold,44,&H0000E6FF,&H0000E6FF,&H00000000,&H96000000,0,0,0,0,100,100,0.5,0,1,2.4,1.2,2,200,200,62,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.86,0:00:00.83,Doc,,0,0,0,,Sixteen.
+Dialogue: 0,0:00:00.88,0:00:04.11,Doc,,0,0,0,,That's how many new Jeeps were sold\Nin the whole of Australia in September
+Dialogue: 0,0:00:04.16,0:00:05.63,Doc,,0,0,0,,2026.
+Dialogue: 0,0:00:05.68,0:00:06.87,Doc,,0,0,0,,Not sixteen a day.
+Dialogue: 0,0:00:06.92,0:00:07.94,Doc,,0,0,0,,Not sixteen a week.
+Dialogue: 0,0:00:07.99,0:00:10.91,Doc,,0,0,0,,Sixteen in a month\Nacross an entire country.
+Dialogue: 0,0:00:10.96,0:00:13.51,Doc,,0,0,0,,That same month, Jaguar sold zero.
+Dialogue: 0,0:00:13.56,0:00:16.59,Doc,,0,0,0,,Peugeot sold eighty-nine,\Nafter losing its importer.
+Dialogue: 0,0:00:16.64,0:00:18.75,Doc,,0,0,0,,Alfa Romeo sold twenty-one.
+Dialogue: 0,0:00:18.80,0:00:20.25,Doc,,0,0,0,,And it's not just the small names.
+Dialogue: 0,0:00:20.30,0:00:22.75,Doc,,0,0,0,,Subaru was down more\Nthan forty-two per cent.
+Dialogue: 0,0:00:22.80,0:00:25.23,Doc,,0,0,0,,Mitsubishi, down forty-one.
+Dialogue: 0,0:00:25.28,0:00:28.81,Doc,,0,0,0,,Nissan's boss has openly called\N2026 the brand's low point.
+Dialogue: 0,0:00:28.86,0:00:33.35,Doc,,0,0,0,,Meanwhile, a Chinese brand most Aussies\Ncouldn't name three years ago grew by
+Dialogue: 0,0:00:33.40,0:00:36.15,Doc,,0,0,0,,more than eight hundred\Nper cent in a single year.
+Dialogue: 0,0:00:36.20,0:00:39.37,Doc,,0,0,0,,Australia's car market is going through\Nthe biggest shake-up in its history
+Dialogue: 0,0:00:39.42,0:00:42.35,Doc,,0,0,0,,and it's happening right now, in 2026.
+Dialogue: 0,0:00:42.40,0:00:45.97,Doc,,0,0,0,,Today I'm counting down ten car brands\Nin serious trouble in Australia,
+Dialogue: 0,0:00:46.02,0:00:48.39,Doc,,0,0,0,,using the latest official sales figures.
+Dialogue: 0,0:00:48.44,0:00:50.53,Doc,,0,0,0,,And if one of these is\Nsitting in your driveway,
+Dialogue: 0,0:00:50.58,0:00:51.33,Doc,,0,0,0,,stay to the end,
+Dialogue: 0,0:00:51.38,0:00:54.17,Doc,,0,0,0,,because I'll explain exactly\Nwhat happens to your warranty,
+Dialogue: 0,0:00:54.22,0:00:58.54,Doc,,0,0,0,,your servicing and your resale value\Nif a brand pulls back or pulls out.
+Dialogue: 0,0:00:59.13,0:01:01.26,Doc,,0,0,0,,First, let's look at\Nwhat's actually happening,
+Dialogue: 0,0:01:01.31,0:01:05.14,Doc,,0,0,0,,because the numbers from\NSeptember 2026 are remarkable.
+Dialogue: 0,0:01:05.19,0:01:10.38,Doc,,0,0,0,,Australians bought 108,778\Nnew vehicles in September.
+Dialogue: 0,0:01:10.43,0:01:13.00,Doc,,0,0,0,,That's up slightly on\Nthe same month last year.
+Dialogue: 0,0:01:13.05,0:01:14.68,Doc,,0,0,0,,So the market isn't collapsing.
+Dialogue: 0,0:01:14.73,0:01:16.42,Doc,,0,0,0,,People are still buying cars.
+Dialogue: 0,0:01:16.47,0:01:18.82,Doc,,0,0,0,,What's changing is who\Nthey're buying from.
+Dialogue: 0,0:01:18.87,0:01:20.44,Doc,,0,0,0,,Look at the brands that grew.
+Dialogue: 0,0:01:20.49,0:01:22.38,Doc,,0,0,0,,BYD, up sixty-one per cent,
+Dialogue: 0,0:01:22.43,0:01:24.90,Doc,,0,0,0,,now Australia's second\Nbest-selling brand for the year.
+Dialogue: 0,0:01:24.95,0:01:27.67,Doc,,0,0,0,,Geely, up 870 per cent.
+Dialogue: 0,0:01:27.72,0:01:30.85,Doc,,0,0,0,,Omoda and Jaecoo, up 344 per cent.
+Dialogue: 0,0:01:30.90,0:01:33.66,Doc,,0,0,0,,Zeekr, up more than\Nsixteen hundred per cent.
+Dialogue: 0,0:01:33.71,0:01:35.05,Doc,,0,0,0,,Leapmotor more than doubled.
+Dialogue: 0,0:01:35.10,0:01:36.82,Doc,,0,0,0,,Now look at the other side.
+Dialogue: 0,0:01:36.87,0:01:39.38,Doc,,0,0,0,,Even big, established\Nnames went backwards.
+Dialogue: 0,0:01:39.43,0:01:41.95,Doc,,0,0,0,,Kia, down nineteen and a\Nhalf per cent in September.
+Dialogue: 0,0:01:42.00,0:01:44.01,Doc,,0,0,0,,Mazda, down nearly nineteen.
+Dialogue: 0,0:01:44.06,0:01:45.94,Doc,,0,0,0,,Hyundai, down twenty-two.
+Dialogue: 0,0:01:45.99,0:01:47.34,Doc,,0,0,0,,Among the top ten brands,
+Dialogue: 0,0:01:47.39,0:01:50.52,Doc,,0,0,0,,the only ones that grew were\NTesla and the Chinese brands.
+Dialogue: 0,0:01:50.57,0:01:51.74,Doc,,0,0,0,,There's another big shift too.
+Dialogue: 0,0:01:51.79,0:01:57.10,Doc,,0,0,0,,In September, electric vehicles made\Nup 24.2 per cent of all new car sales
+Dialogue: 0,0:01:57.15,0:02:00.14,Doc,,0,0,0,,more than petrol cars, for\Nthe second month in a row.
+Dialogue: 0,0:02:00.19,0:02:03.14,Doc,,0,0,0,,Petrol sales fell thirty-six\Nper cent year-on-year.
+Dialogue: 0,0:02:03.19,0:02:04.68,Doc,,0,0,0,,Diesel fell eighteen.
+Dialogue: 0,0:02:04.73,0:02:06.94,Doc,,0,0,0,,If your range is mostly petrol and diesel,
+Dialogue: 0,0:02:06.99,0:02:10.24,Doc,,0,0,0,,2026 is a very hard\Nyear to be selling cars.
+Dialogue: 0,0:02:10.29,0:02:11.74,Doc,,0,0,0,,And the market is crowded.
+Dialogue: 0,0:02:11.79,0:02:16.14,Doc,,0,0,0,,Around seventy brands are now fighting\Nfor roughly 1.2 million sales a year.
+Dialogue: 0,0:02:16.19,0:02:19.76,Doc,,0,0,0,,Every sale a new brand wins comes\Nout of someone else's pocket.
+Dialogue: 0,0:02:19.81,0:02:21.42,Doc,,0,0,0,,So why is this happening now?
+Dialogue: 0,0:02:21.47,0:02:23.94,Doc,,0,0,0,,There are three big\Nforces hitting at once.
+Dialogue: 0,0:02:23.99,0:02:25.08,Doc,,0,0,0,,The first is price.
+Dialogue: 0,0:02:25.13,0:02:29.00,Doc,,0,0,0,,Chinese brands arrived with well-equipped\Nhybrids and EVs at prices the
+Dialogue: 0,0:02:29.05,0:02:31.26,Doc,,0,0,0,,established brands struggle to match.
+Dialogue: 0,0:02:31.31,0:02:35.02,Doc,,0,0,0,,When a family can get a plug-in hybrid\NSUV with a big screen and a long
+Dialogue: 0,0:02:35.07,0:02:38.24,Doc,,0,0,0,,warranty for the same money\Nas a basic petrol SUV,
+Dialogue: 0,0:02:38.29,0:02:40.04,Doc,,0,0,0,,plenty of them are making the switch.
+Dialogue: 0,0:02:40.09,0:02:41.64,Doc,,0,0,0,,The second is fuel.
+Dialogue: 0,0:02:41.69,0:02:43.94,Doc,,0,0,0,,Petrol and diesel are\Nlosing share every month,
+Dialogue: 0,0:02:43.99,0:02:47.66,Doc,,0,0,0,,and the New Vehicle Efficiency\NStandard now pushes car makers to sell
+Dialogue: 0,0:02:47.71,0:02:49.96,Doc,,0,0,0,,lower-emission vehicles or pay penalties.
+Dialogue: 0,0:02:50.01,0:02:50.84,Doc,,0,0,0,,Brands with old,
+Dialogue: 0,0:02:50.89,0:02:55.92,Doc,,0,0,0,,thirsty ranges are being squeezed from\Nboth sides by buyers and by the rules.
+Dialogue: 0,0:02:55.97,0:02:58.08,Doc,,0,0,0,,The third is the sheer number of choices.
+Dialogue: 0,0:02:58.13,0:03:01.24,Doc,,0,0,0,,A few years ago, Australia\Nhad around fifty brands.
+Dialogue: 0,0:03:01.29,0:03:02.84,Doc,,0,0,0,,Now there are about seventy.
+Dialogue: 0,0:03:02.89,0:03:06.30,Doc,,0,0,0,,A dealer body boss has already\Nwarned that more brands will leave.
+Dialogue: 0,0:03:06.35,0:03:07.90,Doc,,0,0,0,,The pie isn't getting much bigger.
+Dialogue: 0,0:03:07.95,0:03:10.80,Doc,,0,0,0,,It's just being cut into\Nthinner and thinner slices.
+Dialogue: 0,0:03:10.85,0:03:12.24,Doc,,0,0,0,,So who's losing the most?
+Dialogue: 0,0:03:12.29,0:03:13.25,Doc,,0,0,0,,Let's count down.
+Dialogue: 0,0:03:14.93,0:03:15.86,Doc,,0,0,0,,Number ten: Deepal.
+Dialogue: 0,0:03:15.91,0:03:20.02,Doc,,0,0,0,,And this one proves it's not simply\Nold brands versus new Chinese brands.
+Dialogue: 0,0:03:20.07,0:03:23.16,Doc,,0,0,0,,Deepal is an electric brand\Nfrom Chinese giant Changan,
+Dialogue: 0,0:03:23.21,0:03:26.84,Doc,,0,0,0,,and it launched in Australia with\Nbig ambitions and a stylish range.
+Dialogue: 0,0:03:26.89,0:03:29.14,Doc,,0,0,0,,But 2026 has been brutal.
+Dialogue: 0,0:03:29.19,0:03:33.56,Doc,,0,0,0,,By the end of May, Deepal had\Nsold just 594 cars for the year.
+Dialogue: 0,0:03:33.61,0:03:37.94,Doc,,0,0,0,,In September, it sold sixty-three down\Nalmost thirty-four per cent on the same
+Dialogue: 0,0:03:37.99,0:03:38.76,Doc,,0,0,0,,month last year.
+Dialogue: 0,0:03:38.81,0:03:42.58,Doc,,0,0,0,,A big part of that was a\Nstop-sale order on the E07,
+Dialogue: 0,0:03:42.63,0:03:47.30,Doc,,0,0,0,,a quirky electric SUV with a ute-style\Ntray that was meant to grab attention.
+Dialogue: 0,0:03:47.35,0:03:48.90,Doc,,0,0,0,,Losing a key model to a stop-sale,
+Dialogue: 0,0:03:48.95,0:03:52.80,Doc,,0,0,0,,in your first years in a brand-new\Nmarket, is about as hard as it gets.
+Dialogue: 0,0:03:52.85,0:03:54.32,Doc,,0,0,0,,The lesson here is simple.
+Dialogue: 0,0:03:54.37,0:03:57.30,Doc,,0,0,0,,Being Chinese and electric doesn't\Nguarantee success in Australia.
+Dialogue: 0,0:03:57.35,0:04:01.43,Doc,,0,0,0,,The newcomers are fighting each other\Njust as hard as they're fighting Toyota.
+Dialogue: 0,0:04:02.29,0:04:07.06,Doc,,0,0,0,,At number nine: KGM the brand most\NAussies still know as SsangYong.
+Dialogue: 0,0:04:07.11,0:04:10.42,Doc,,0,0,0,,KGM changed its name after a\Nchange of ownership in Korea,
+Dialogue: 0,0:04:10.47,0:04:12.50,Doc,,0,0,0,,and it's been trying\Nto rebuild ever since.
+Dialogue: 0,0:04:12.55,0:04:16.68,Doc,,0,0,0,,But in September 2026 it\Nsold just 189 vehicles,
+Dialogue: 0,0:04:16.73,0:04:19.06,Doc,,0,0,0,,down thirty-seven per\Ncent on the year before.
+Dialogue: 0,0:04:19.11,0:04:22.80,Doc,,0,0,0,,That follows a twenty-four\Nper cent drop across 2025.
+Dialogue: 0,0:04:22.85,0:04:27.34,Doc,,0,0,0,,KGM's strength has always been tough,\Ngood-value SUVs and the Musso ute.
+Dialogue: 0,0:04:27.39,0:04:31.08,Doc,,0,0,0,,The problem is that this is\Nexactly the space where GWM,
+Dialogue: 0,0:04:31.13,0:04:36.13,Doc,,0,0,0,,LDV, BYD and now Chery are throwing\Neverything they've got more technology,
+Dialogue: 0,0:04:36.18,0:04:40.78,Doc,,0,0,0,,plug-in hybrids, longer warranties,\Nand very sharp drive-away prices.
+Dialogue: 0,0:04:40.83,0:04:42.88,Doc,,0,0,0,,Changing a brand's name is hard enough.
+Dialogue: 0,0:04:42.93,0:04:46.09,Doc,,0,0,0,,Doing it in the most crowded market\Nin its history is even harder.
+Dialogue: 0,0:04:47.69,0:04:48.37,Doc,,0,0,0,,Number eight: Alfa Romeo.
+Dialogue: 0,0:04:48.42,0:04:49.99,Doc,,0,0,0,,Beautiful cars.
+Dialogue: 0,0:04:50.04,0:04:51.33,Doc,,0,0,0,,Passionate fans.
+Dialogue: 0,0:04:51.38,0:04:52.23,Doc,,0,0,0,,Almost no buyers.
+Dialogue: 0,0:04:52.28,0:04:54.67,Doc,,0,0,0,,In September 2026,
+Dialogue: 0,0:04:54.72,0:04:58.93,Doc,,0,0,0,,Alfa Romeo sold twenty-one cars in\NAustralia, down almost sixty per cent.
+Dialogue: 0,0:04:58.98,0:05:02.85,Doc,,0,0,0,,Through the first five months of the\Nyear it managed fewer than two hundred.
+Dialogue: 0,0:05:02.90,0:05:06.45,Doc,,0,0,0,,Alfa sits inside Stellantis\NAustralia, alongside Fiat,
+Dialogue: 0,0:05:06.50,0:05:09.15,Doc,,0,0,0,,Jeep and the Chinese EV brand Leapmotor.
+Dialogue: 0,0:05:09.20,0:05:11.13,Doc,,0,0,0,,And that's the real question for Alfa.
+Dialogue: 0,0:05:11.18,0:05:13.73,Doc,,0,0,0,,How long can a global\Ncompany justify dealers,
+Dialogue: 0,0:05:13.78,0:05:17.75,Doc,,0,0,0,,parts, marketing and compliance for a\Nbrand selling a couple of hundred cars a
+Dialogue: 0,0:05:17.80,0:05:18.95,Doc,,0,0,0,,year in one market?
+Dialogue: 0,0:05:19.00,0:05:23.57,Doc,,0,0,0,,For now, Alfa Romeo is still here,\Nand existing owners are supported.
+Dialogue: 0,0:05:23.62,0:05:25.07,Doc,,0,0,0,,But with numbers like these,
+Dialogue: 0,0:05:25.12,0:05:29.12,Doc,,0,0,0,,its future in Australia will be decided\Nin Europe, not in Aussie showrooms.
+Dialogue: 0,0:05:30.01,0:05:31.96,Doc,,0,0,0,,At number seven: Suzuki.
+Dialogue: 0,0:05:32.01,0:05:35.18,Doc,,0,0,0,,And 2026 has been a rough\Nyear for the little brand.
+Dialogue: 0,0:05:35.23,0:05:37.14,Doc,,0,0,0,,Suzuki built its name here on small,
+Dialogue: 0,0:05:37.19,0:05:40.48,Doc,,0,0,0,,affordable, fun cars\Nthe Swift, the Vitara,
+Dialogue: 0,0:05:40.53,0:05:42.64,Doc,,0,0,0,,and of course the cult-favourite Jimny.
+Dialogue: 0,0:05:42.69,0:05:47.00,Doc,,0,0,0,,But by the end of May 2026, Suzuki\Nsales were down twenty-two per cent.
+Dialogue: 0,0:05:47.05,0:05:49.98,Doc,,0,0,0,,In September, they were\Ndown more than thirty-nine.
+Dialogue: 0,0:05:50.03,0:05:51.80,Doc,,0,0,0,,Part of it is safety ratings.
+Dialogue: 0,0:05:51.85,0:05:54.58,Doc,,0,0,0,,The new Fronx small SUV launched strongly,
+Dialogue: 0,0:05:54.63,0:05:58.48,Doc,,0,0,0,,then received a one-star ANCAP rating\Nafter a rear seatbelt failure in crash
+Dialogue: 0,0:05:58.53,0:05:58.94,Doc,,0,0,0,,testing.
+Dialogue: 0,0:05:58.99,0:06:03.54,Doc,,0,0,0,,Sales were halted while Suzuki's\Nengineers investigated and months later,
+Dialogue: 0,0:06:03.59,0:06:07.36,Doc,,0,0,0,,in March 2026, the investigation\Nwas still dragging on.
+Dialogue: 0,0:06:07.41,0:06:11.16,Doc,,0,0,0,,Suzuki's local boss even suggested\Nthat an earlier one-star result for the
+Dialogue: 0,0:06:11.21,0:06:14.80,Doc,,0,0,0,,Swift may have scared off as many\Nas one in five potential buyers.
+Dialogue: 0,0:06:14.85,0:06:18.68,Doc,,0,0,0,,That's the brand's own estimate, but it\Nshows how much a safety score matters.
+Dialogue: 0,0:06:18.73,0:06:19.97,Doc,,0,0,0,,The other part is price.
+Dialogue: 0,0:06:20.02,0:06:22.50,Doc,,0,0,0,,Suzuki relies on cheap small cars,
+Dialogue: 0,0:06:22.55,0:06:26.16,Doc,,0,0,0,,and that's exactly where Chinese rivals\Nnow offer similar or better equipment
+Dialogue: 0,0:06:26.21,0:06:27.00,Doc,,0,0,0,,for similar money.
+Dialogue: 0,0:06:27.05,0:06:30.67,Doc,,0,0,0,,Even the Jimny was down twelve\Nper cent in the first five months.
+Dialogue: 0,0:06:31.59,0:06:33.84,Doc,,0,0,0,,Number six: Volkswagen.
+Dialogue: 0,0:06:33.89,0:06:35.28,Doc,,0,0,0,,This one surprises people,
+Dialogue: 0,0:06:35.33,0:06:38.36,Doc,,0,0,0,,because Volkswagen is one of the\Nbiggest car makers on the planet.
+Dialogue: 0,0:06:38.41,0:06:40.84,Doc,,0,0,0,,But in Australia, it's shrinking fast.
+Dialogue: 0,0:06:40.89,0:06:46.10,Doc,,0,0,0,,VW sold about 29,000 vehicles in\N2025, down more than twenty per cent.
+Dialogue: 0,0:06:46.15,0:06:49.94,Doc,,0,0,0,,By the end of May 2026 it was\Ndown another seventeen per cent.
+Dialogue: 0,0:06:49.99,0:06:51.34,Doc,,0,0,0,,And in September,
+Dialogue: 0,0:06:51.39,0:06:57.30,Doc,,0,0,0,,Volkswagen sold 1,599 cars down almost\Nthirty-seven per cent on the same month
+Dialogue: 0,0:06:57.35,0:06:58.10,Doc,,0,0,0,,last year.
+Dialogue: 0,0:06:58.15,0:07:00.50,Doc,,0,0,0,,Look inside those numbers\Nand it gets worse.
+Dialogue: 0,0:07:00.55,0:07:03.78,Doc,,0,0,0,,In the first five months, the\NT-Roc was down fifty-six per cent.
+Dialogue: 0,0:07:03.83,0:07:06.12,Doc,,0,0,0,,The T-Cross, down forty-nine.
+Dialogue: 0,0:07:06.17,0:07:08.60,Doc,,0,0,0,,The Amarok ute, down\Nmore than thirty-three.
+Dialogue: 0,0:07:08.65,0:07:10.34,Doc,,0,0,0,,At a launch event in May,
+Dialogue: 0,0:07:10.39,0:07:12.27,Doc,,0,0,0,,Volkswagen's passenger\Ncar boss in Australia,
+Dialogue: 0,0:07:12.32,0:07:15.24,Doc,,0,0,0,,Piergiorgio Minto, said\Nsomething very telling.
+Dialogue: 0,0:07:15.29,0:07:16.62,Doc,,0,0,0,,Paraphrasing his point:
+Dialogue: 0,0:07:16.67,0:07:19.24,Doc,,0,0,0,,once you're selling fewer than\Nten thousand vehicles a year,
+Dialogue: 0,0:07:19.29,0:07:20.44,Doc,,0,0,0,,you're a niche brand.
+Dialogue: 0,0:07:20.49,0:07:23.20,Doc,,0,0,0,,And he made it clear Volkswagen\Ndoesn't want to be niche.
+Dialogue: 0,0:07:23.25,0:07:25.42,Doc,,0,0,0,,The brand admits it has\Nhad gaps in its range,
+Dialogue: 0,0:07:25.47,0:07:29.10,Doc,,0,0,0,,and that new models have often reached\NAustralia years after their global
+Dialogue: 0,0:07:29.15,0:07:30.12,Doc,,0,0,0,,debut.
+Dialogue: 0,0:07:30.17,0:07:34.18,Doc,,0,0,0,,There's a new-generation T-Roc and\Nmore hybrids and plug-ins on the way.
+Dialogue: 0,0:07:34.23,0:07:35.39,Doc,,0,0,0,,But the clock is ticking.
+Dialogue: 0,0:07:36.27,0:07:38.30,Doc,,0,0,0,,Quick one before we get into the top five.
+Dialogue: 0,0:07:38.35,0:07:42.10,Doc,,0,0,0,,If you're finding this useful, hit\Nsubscribe and turn on notifications.
+Dialogue: 0,0:07:42.15,0:07:45.34,Doc,,0,0,0,,Every week we break down what's really\Nhappening in the Australian car market,
+Dialogue: 0,0:07:45.39,0:07:49.22,Doc,,0,0,0,,using real 2026 sales data not rumours.
+Dialogue: 0,0:07:49.27,0:07:52.56,Doc,,0,0,0,,And tell me in the comments: do you\Nown one of the brands on this list?
+Dialogue: 0,0:07:52.61,0:07:53.80,Doc,,0,0,0,,Would you buy another one?
+Dialogue: 0,0:07:53.85,0:07:54.99,Doc,,0,0,0,,I read every comment.
+Dialogue: 0,0:07:55.71,0:07:57.66,Doc,,0,0,0,,Number five: Subaru.
+Dialogue: 0,0:07:57.71,0:08:00.52,Doc,,0,0,0,,Subaru has some of the most\Nloyal owners in the country,
+Dialogue: 0,0:08:00.57,0:08:03.22,Doc,,0,0,0,,especially in the bush and\Namong outdoor families.
+Dialogue: 0,0:08:03.27,0:08:05.64,Doc,,0,0,0,,But 2026 has been tough.
+Dialogue: 0,0:08:05.69,0:08:09.21,Doc,,0,0,0,,Sales for the first five months were\Ndown twenty-two per cent almost four
+Dialogue: 0,0:08:09.26,0:08:11.58,Doc,,0,0,0,,thousand fewer cars than the year before.
+Dialogue: 0,0:08:11.63,0:08:16.76,Doc,,0,0,0,,In September, Subaru sold 2,009 vehicles,\Ndown more than forty-two per cent.
+Dialogue: 0,0:08:16.81,0:08:22.00,Doc,,0,0,0,,To put that in perspective, Subaru\Nsold more than 46,000 cars in 2023.
+Dialogue: 0,0:08:22.05,0:08:24.05,Doc,,0,0,0,,Now it has slipped behind Geely,
+Dialogue: 0,0:08:24.10,0:08:27.68,Doc,,0,0,0,,Omoda Jaecoo and even\NBMW on the sales charts.
+Dialogue: 0,0:08:27.73,0:08:29.74,Doc,,0,0,0,,Subaru's importer says\Nthis is partly planned.
+Dialogue: 0,0:08:29.79,0:08:34.26,Doc,,0,0,0,,Managing director Blair Read described\Nit as a rationalisation of the range
+Dialogue: 0,0:08:34.31,0:08:36.90,Doc,,0,0,0,,the Liberty is gone,\NSTI models are paused,
+Dialogue: 0,0:08:36.95,0:08:40.60,Doc,,0,0,0,,and the Forester and Outback were\Nboth replaced within twelve months.
+Dialogue: 0,0:08:40.65,0:08:44.68,Doc,,0,0,0,,Subaru says it will have nine models\Nin showrooms by the end of 2026,
+Dialogue: 0,0:08:44.73,0:08:46.74,Doc,,0,0,0,,five of them hybrid or electric.
+Dialogue: 0,0:08:46.79,0:08:47.38,Doc,,0,0,0,,That's the plan.
+Dialogue: 0,0:08:47.43,0:08:51.72,Doc,,0,0,0,,But in a market where buyers are\Nrushing to cheaper electrified SUVs,
+Dialogue: 0,0:08:51.77,0:08:54.33,Doc,,0,0,0,,Subaru needs that new\Nrange to work and quickly.
+Dialogue: 0,0:08:56.13,0:08:57.16,Doc,,0,0,0,,At number four: Nissan.
+Dialogue: 0,0:08:57.21,0:09:00.60,Doc,,0,0,0,,Ten years ago, Nissan was one of\Nthe biggest players in Australia.
+Dialogue: 0,0:09:00.65,0:09:03.90,Doc,,0,0,0,,In 2012 it sold almost\Neighty thousand cars here.
+Dialogue: 0,0:09:03.95,0:09:07.62,Doc,,0,0,0,,In 2026, it's fighting for\Nsurvival on the sales charts.
+Dialogue: 0,0:09:07.67,0:09:08.98,Doc,,0,0,0,,To the end of July,
+Dialogue: 0,0:09:09.03,0:09:14.32,Doc,,0,0,0,,Nissan had delivered 15,445 vehicles\Ndown almost thirty-four per cent.
+Dialogue: 0,0:09:14.37,0:09:16.90,Doc,,0,0,0,,The Navara ute was down\Nforty-nine per cent.
+Dialogue: 0,0:09:16.95,0:09:20.36,Doc,,0,0,0,,The Qashqai was down a staggering\Nseventy-three and a half per cent.
+Dialogue: 0,0:09:20.41,0:09:23.76,Doc,,0,0,0,,Even the X-Trail, Nissan's\Nbest seller, was down fifteen.
+Dialogue: 0,0:09:23.81,0:09:27.22,Doc,,0,0,0,,In September, the brand was\Nstill down thirty per cent.
+Dialogue: 0,0:09:27.27,0:09:31.08,Doc,,0,0,0,,Nissan has already cut the Juke and\Nthe Pathfinder from its local range,
+Dialogue: 0,0:09:31.13,0:09:33.70,Doc,,0,0,0,,and the new Leaf has been\Npostponed indefinitely.
+Dialogue: 0,0:09:33.75,0:09:36.58,Doc,,0,0,0,,Globally, the company has been\Nthrough a massive restructure,
+Dialogue: 0,0:09:36.63,0:09:38.78,Doc,,0,0,0,,with factory closures and job cuts.
+Dialogue: 0,0:09:38.83,0:09:40.44,Doc,,0,0,0,,And here's the remarkable part.
+Dialogue: 0,0:09:40.49,0:09:43.18,Doc,,0,0,0,,Nissan's new Oceania boss, Steve Milette,
+Dialogue: 0,0:09:43.23,0:09:46.32,Doc,,0,0,0,,has said publicly that\N2026 is the low point,
+Dialogue: 0,0:09:46.37,0:09:49.12,Doc,,0,0,0,,and that he expects growth\Nto return from next year.
+Dialogue: 0,0:09:49.17,0:09:51.24,Doc,,0,0,0,,The plan includes hybrid X-Trails,
+Dialogue: 0,0:09:51.29,0:09:51.68,Doc,,0,0,0,,the new Patrol,
+Dialogue: 0,0:09:51.73,0:09:56.78,Doc,,0,0,0,,and possibly plug-in hybrid utes and\NSUVs built with Chinese partner Dongfeng.
+Dialogue: 0,0:09:56.83,0:09:59.26,Doc,,0,0,0,,When a brand's own boss\Ncalls this year the bottom,
+Dialogue: 0,0:09:59.31,0:10:01.73,Doc,,0,0,0,,you know just how hard 2026 has been.
+Dialogue: 0,0:10:03.41,0:10:04.51,Doc,,0,0,0,,Number three: Mitsubishi.
+Dialogue: 0,0:10:04.56,0:10:08.43,Doc,,0,0,0,,Mitsubishi used to be the smart value\Nchoice for Aussie families and tradies.
+Dialogue: 0,0:10:08.48,0:10:11.73,Doc,,0,0,0,,In 2018 it sold almost 85,000 cars here.
+Dialogue: 0,0:10:11.78,0:10:15.35,Doc,,0,0,0,,In 2024 it was the fifth\Nbest-selling brand in the country.
+Dialogue: 0,0:10:15.40,0:10:19.55,Doc,,0,0,0,,By the end of May 2026, Mitsubishi was\Ndown more than twenty-six per cent.
+Dialogue: 0,0:10:19.60,0:10:20.61,Doc,,0,0,0,,And in September,
+Dialogue: 0,0:10:20.66,0:10:25.93,Doc,,0,0,0,,it sold 2,769 vehicles down\Nforty-one and a half per cent.
+Dialogue: 0,0:10:25.98,0:10:26.95,Doc,,0,0,0,,What went wrong?
+Dialogue: 0,0:10:27.00,0:10:28.21,Doc,,0,0,0,,The range shrank.
+Dialogue: 0,0:10:28.26,0:10:31.55,Doc,,0,0,0,,The Pajero Sport and the Eclipse\NCross were dropped in 2025,
+Dialogue: 0,0:10:31.60,0:10:33.67,Doc,,0,0,0,,partly because of new safety rules.
+Dialogue: 0,0:10:33.72,0:10:36.19,Doc,,0,0,0,,The new ASX is now a rebadged Renault,
+Dialogue: 0,0:10:36.24,0:10:38.21,Doc,,0,0,0,,with a much higher starting price,
+Dialogue: 0,0:10:38.26,0:10:42.69,Doc,,0,0,0,,and it sold just 695 units in\Nthe first five months of 2026.
+Dialogue: 0,0:10:42.74,0:10:45.17,Doc,,0,0,0,,The Outlander, Mitsubishi's best seller,
+Dialogue: 0,0:10:45.22,0:10:49.03,Doc,,0,0,0,,now faces plug-in hybrid\Nrivals like the BYD Sealion 6.
+Dialogue: 0,0:10:49.08,0:10:52.91,Doc,,0,0,0,,In fact, the only Mitsubishi not going\Nbackwards this year has been the Triton
+Dialogue: 0,0:10:52.96,0:10:53.59,Doc,,0,0,0,,ute.
+Dialogue: 0,0:10:53.64,0:10:55.19,Doc,,0,0,0,,And here's the core problem.
+Dialogue: 0,0:10:55.24,0:10:57.39,Doc,,0,0,0,,Mitsubishi's whole identity was value.
+Dialogue: 0,0:10:57.44,0:10:58.81,Doc,,0,0,0,,But in 2026,
+Dialogue: 0,0:10:58.86,0:11:02.69,Doc,,0,0,0,,the value end of the market belongs\Nto Chinese brands with bigger ranges,
+Dialogue: 0,0:11:02.74,0:11:05.91,Doc,,0,0,0,,more technology, and in\Nmany cases lower prices.
+Dialogue: 0,0:11:05.96,0:11:11.09,Doc,,0,0,0,,A new boss started in January, and a new\NPajero and a small EV are on the way.
+Dialogue: 0,0:11:11.14,0:11:12.56,Doc,,0,0,0,,Mitsubishi needs them badly.
+Dialogue: 0,0:11:13.36,0:11:14.85,Doc,,0,0,0,,Number two: Jeep.
+Dialogue: 0,0:11:14.90,0:11:18.49,Doc,,0,0,0,,If you want to see what a long,\Nslow decline looks like, this is it.
+Dialogue: 0,0:11:18.54,0:11:19.47,Doc,,0,0,0,,Remember the hook?
+Dialogue: 0,0:11:19.52,0:11:23.77,Doc,,0,0,0,,Sixteen Jeeps sold in September\N2026, down eighty-five per cent.
+Dialogue: 0,0:11:23.82,0:11:26.05,Doc,,0,0,0,,Across the first eight months of the year,
+Dialogue: 0,0:11:26.10,0:11:29.23,Doc,,0,0,0,,Jeep sold just 378 vehicles in Australia.
+Dialogue: 0,0:11:29.28,0:11:33.05,Doc,,0,0,0,,Back in 2014, Jeep sold more\Nthan thirty thousand cars here.
+Dialogue: 0,0:11:33.10,0:11:36.63,Doc,,0,0,0,,That's a fall of around ninety-nine\Nper cent in just over a decade.
+Dialogue: 0,0:11:36.68,0:11:40.07,Doc,,0,0,0,,The once-popular Grand\NCherokee was axed in 2025.
+Dialogue: 0,0:11:40.12,0:11:43.97,Doc,,0,0,0,,The dealer network has shrunk from\Nmore than seventy to around forty-four,
+Dialogue: 0,0:11:44.02,0:11:47.65,Doc,,0,0,0,,and some dealers have said publicly they\Nfeared the brand was being run down.
+Dialogue: 0,0:11:47.70,0:11:51.59,Doc,,0,0,0,,But there's a twist, and it\Nonly came out in October 2026.
+Dialogue: 0,0:11:51.64,0:11:55.83,Doc,,0,0,0,,Jeep's parent company, Stellantis, has\Npartnered with Chinese giant Dongfeng.
+Dialogue: 0,0:11:55.88,0:11:59.03,Doc,,0,0,0,,Reports say future Jeep and Peugeot\Nmodels could be built in China,
+Dialogue: 0,0:11:59.08,0:12:00.81,Doc,,0,0,0,,in Dongfeng's Wuhan factory,
+Dialogue: 0,0:12:00.86,0:12:05.03,Doc,,0,0,0,,as plug-in hybrids or EVs\Naiming for sharper prices.
+Dialogue: 0,0:12:05.08,0:12:08.49,Doc,,0,0,0,,Stellantis says it will share Australian\Ndetails "at the appropriate time".
+Dialogue: 0,0:12:08.54,0:12:12.61,Doc,,0,0,0,,So the brand famous for American\Noff-roaders may end up being rescued by
+Dialogue: 0,0:12:12.66,0:12:14.01,Doc,,0,0,0,,Chinese manufacturing.
+Dialogue: 0,0:12:14.06,0:12:16.60,Doc,,0,0,0,,That tells you everything about\Nwhere this market is heading.
+Dialogue: 0,0:12:17.36,0:12:19.25,Doc,,0,0,0,,And number one: Peugeot.
+Dialogue: 0,0:12:19.30,0:12:21.07,Doc,,0,0,0,,In July 2026,
+Dialogue: 0,0:12:21.12,0:12:24.71,Doc,,0,0,0,,Inchcape the company that imported and\Ndistributed Peugeot in Australia for
+Dialogue: 0,0:12:24.76,0:12:28.15,Doc,,0,0,0,,almost a decade announced it\Nwas walking away from the brand.
+Dialogue: 0,0:12:28.20,0:12:29.77,Doc,,0,0,0,,The numbers explain why.
+Dialogue: 0,0:12:29.82,0:12:34.79,Doc,,0,0,0,,Peugeot sold just 373 vehicles\Nto the end of May 2026,
+Dialogue: 0,0:12:34.84,0:12:38.61,Doc,,0,0,0,,down thirty-five per cent, and more\Nthan half of those were commercial vans.
+Dialogue: 0,0:12:38.66,0:12:42.36,Doc,,0,0,0,,In all of 2025, it sold 1,350.
+Dialogue: 0,0:12:42.41,0:12:47.35,Doc,,0,0,0,,Back in 2007, Peugeot\Nsold 8,807 cars here.
+Dialogue: 0,0:12:47.40,0:12:50.47,Doc,,0,0,0,,And in September 2026,\Nit sold eighty-nine.
+Dialogue: 0,0:12:50.52,0:12:55.63,Doc,,0,0,0,,A facelifted 308 hatch was meant to\Narrive in the first half of 2026.
+Dialogue: 0,0:12:55.68,0:12:56.81,Doc,,0,0,0,,It never came.
+Dialogue: 0,0:12:56.86,0:12:58.85,Doc,,0,0,0,,Instead, right after the announcement,
+Dialogue: 0,0:12:58.90,0:13:02.70,Doc,,0,0,0,,Peugeot slashed prices across its\Npassenger range drive-away discounts from
+Dialogue: 0,0:13:02.75,0:13:06.81,Doc,,0,0,0,,six thousand dollars all\Nthe way up to $14,718.
+Dialogue: 0,0:13:06.86,0:13:11.61,Doc,,0,0,0,,The flagship 5008 GT hybrid\Ndropped by ten thousand dollars.
+Dialogue: 0,0:13:11.66,0:13:14.59,Doc,,0,0,0,,Stellantis insists Peugeot\Nis not leaving Australia.
+Dialogue: 0,0:13:14.64,0:13:17.83,Doc,,0,0,0,,It says the brand has a strong\Nfuture here and will continue after a
+Dialogue: 0,0:13:17.88,0:13:19.87,Doc,,0,0,0,,transition period of around a year.
+Dialogue: 0,0:13:19.92,0:13:23.81,Doc,,0,0,0,,And as we just saw, Peugeot is also\Npart of that new Dongfeng plan.
+Dialogue: 0,0:13:23.86,0:13:28.41,Doc,,0,0,0,,But Inchcape already dropped Peugeot's\Nsister brand, Citroën, back in 2024.
+Dialogue: 0,0:13:28.46,0:13:31.97,Doc,,0,0,0,,Losing your importer is the clearest\Nwarning sign a brand can get and that's
+Dialogue: 0,0:13:32.02,0:13:34.10,Doc,,0,0,0,,why Peugeot is number one on this list.
+Dialogue: 0,0:13:34.88,0:13:38.31,Doc,,0,0,0,,And a bonus, because this\None is almost unbelievable.
+Dialogue: 0,0:13:38.36,0:13:42.19,Doc,,0,0,0,,Jaguar sold zero cars in\NAustralia in September 2026.
+Dialogue: 0,0:13:42.24,0:13:42.97,Doc,,0,0,0,,Not a few.
+Dialogue: 0,0:13:43.02,0:13:43.79,Doc,,0,0,0,,Zero.
+Dialogue: 0,0:13:43.84,0:13:47.57,Doc,,0,0,0,,That's because Jaguar stopped selling\Nnew petrol cars here on the 31st of
+Dialogue: 0,0:13:47.62,0:13:52.51,Doc,,0,0,0,,December 2025, as it reinvents itself\Nas an all-electric luxury brand.
+Dialogue: 0,0:13:52.56,0:13:55.53,Doc,,0,0,0,,Its new EVs are expected to cost\Naround three hundred thousand dollars
+Dialogue: 0,0:13:55.58,0:13:59.35,Doc,,0,0,0,,locally, and there's still no\Nconfirmed Australian launch date.
+Dialogue: 0,0:13:59.40,0:14:03.41,Doc,,0,0,0,,Jaguar's local retailers are still\Nservicing cars and honouring warranties.
+Dialogue: 0,0:14:03.46,0:14:04.31,Doc,,0,0,0,,But for now,
+Dialogue: 0,0:14:04.36,0:14:07.55,Doc,,0,0,0,,a brand with nearly a century of\Nhistory is selling nothing new in this
+Dialogue: 0,0:14:07.60,0:14:08.40,Doc,,0,0,0,,country.
+Dialogue: 0,0:14:08.97,0:14:13.10,Doc,,0,0,0,,So what happens if you own a car from\Na brand that pulls back or pulls out?
+Dialogue: 0,0:14:13.15,0:14:16.08,Doc,,0,0,0,,First, the good news:\Nyou're not left on your own.
+Dialogue: 0,0:14:16.13,0:14:17.96,Doc,,0,0,0,,When Citroën stopped selling new cars,
+Dialogue: 0,0:14:18.01,0:14:21.30,Doc,,0,0,0,,its importer confirmed it would keep\Nhonouring warranties on cars already
+Dialogue: 0,0:14:21.35,0:14:22.28,Doc,,0,0,0,,sold.
+Dialogue: 0,0:14:22.33,0:14:24.70,Doc,,0,0,0,,Peugeot owners are being told\Nthe same during the transition,
+Dialogue: 0,0:14:24.75,0:14:29.46,Doc,,0,0,0,,and Jaguar retailers are still\Nservicing and honouring warranty claims.
+Dialogue: 0,0:14:29.51,0:14:31.56,Doc,,0,0,0,,Second, the law is on your side.
+Dialogue: 0,0:14:31.61,0:14:33.54,Doc,,0,0,0,,Under the Australian Consumer Law,
+Dialogue: 0,0:14:33.59,0:14:36.96,Doc,,0,0,0,,manufacturers and importers must make\Nspare parts and repair facilities
+Dialogue: 0,0:14:37.01,0:14:39.82,Doc,,0,0,0,,available for a reasonable\Ntime after you buy.
+Dialogue: 0,0:14:39.87,0:14:42.48,Doc,,0,0,0,,That doesn't disappear just\Nbecause sales slow down.
+Dialogue: 0,0:14:42.53,0:14:44.93,Doc,,0,0,0,,Third, the real risk is resale value.
+Dialogue: 0,0:14:44.98,0:14:48.84,Doc,,0,0,0,,Cars from brands that are shrinking or\Nlook like they might leave usually lose
+Dialogue: 0,0:14:48.89,0:14:50.00,Doc,,0,0,0,,value faster.
+Dialogue: 0,0:14:50.05,0:14:52.92,Doc,,0,0,0,,If you're buying one, use\Nthat to negotiate hard.
+Dialogue: 0,0:14:52.97,0:14:57.10,Doc,,0,0,0,,Some of the biggest discounts in 2026\Nhave come from exactly these brands.
+Dialogue: 0,0:14:57.15,0:15:00.72,Doc,,0,0,0,,And if you're selling, it may pay\Nto sell sooner rather than later.
+Dialogue: 0,0:15:00.77,0:15:03.40,Doc,,0,0,0,,Finally, before you buy any\Ncar from a smaller brand,
+Dialogue: 0,0:15:03.45,0:15:04.70,Doc,,0,0,0,,ask the dealer three things.
+Dialogue: 0,0:15:04.75,0:15:07.32,Doc,,0,0,0,,How long is the warranty,\Nand who backs it?
+Dialogue: 0,0:15:07.37,0:15:08.96,Doc,,0,0,0,,Where is the nearest service centre?
+Dialogue: 0,0:15:09.01,0:15:11.22,Doc,,0,0,0,,And how quickly can they get common parts?
+Dialogue: 0,0:15:11.27,0:15:14.02,Doc,,0,0,0,,The answers will tell you how\Nmuch risk you're taking on.
+Dialogue: 0,0:15:14.07,0:15:15.80,Doc,,0,0,0,,And one more thing worth remembering:
+Dialogue: 0,0:15:15.85,0:15:18.62,Doc,,0,0,0,,a struggling brand isn't\Nautomatically a bad car.
+Dialogue: 0,0:15:18.67,0:15:22.16,Doc,,0,0,0,,Some of the brands on this list\Nmake genuinely excellent vehicles.
+Dialogue: 0,0:15:22.21,0:15:26.32,Doc,,0,0,0,,A Subaru Forester or a Volkswagen Golf\Ndoesn't suddenly become a worse car
+Dialogue: 0,0:15:26.37,0:15:28.38,Doc,,0,0,0,,because fewer people are buying them.
+Dialogue: 0,0:15:28.43,0:15:30.66,Doc,,0,0,0,,But when sales fall, dealers close,
+Dialogue: 0,0:15:30.71,0:15:33.08,Doc,,0,0,0,,service networks shrink,\Nand resale values soften.
+Dialogue: 0,0:15:33.13,0:15:37.26,Doc,,0,0,0,,So the question isn't just "is this a\Ngood car?" It's "will this brand still
+Dialogue: 0,0:15:37.31,0:15:38.85,Doc,,0,0,0,,look after me in five years?
+Dialogue: 0,0:15:39.70,0:15:44.69,Doc,,0,0,0,,That's ten car brands in serious trouble\Nin Australia in 2026 plus one that's
+Dialogue: 0,0:15:44.74,0:15:46.63,Doc,,0,0,0,,currently selling nothing at all.
+Dialogue: 0,0:15:46.68,0:15:48.49,Doc,,0,0,0,,Which one do you think leaves first?
+Dialogue: 0,0:15:48.54,0:15:51.05,Doc,,0,0,0,,Tell me in the comments, and\NI'll pin the best answer.
+Dialogue: 0,0:15:51.10,0:15:52.45,Doc,,0,0,0,,If you got value from this,
+Dialogue: 0,0:15:52.50,0:15:53.73,Doc,,0,0,0,,hit like and subscribe,
+Dialogue: 0,0:15:53.78,0:15:55.97,Doc,,0,0,0,,because this shake-up\Nis only getting started,
+Dialogue: 0,0:15:56.02,0:15:58.15,Doc,,0,0,0,,and we'll be tracking every month of it.
+Dialogue: 0,0:15:58.20,0:16:01.25,Doc,,0,0,0,,And if you want to know what to do if\Nyour brand-new car turns out to be a
+Dialogue: 0,0:16:01.30,0:16:04.99,Doc,,0,0,0,,lemon, the next video shows how Aussies\Nare fighting back against faulty new
+Dialogue: 0,0:16:05.04,0:16:06.53,Doc,,0,0,0,,cars and winning.
+Dialogue: 0,0:16:06.58,0:16:07.38,Doc,,0,0,0,,See you there.

@@ -1,0 +1,2650 @@
+{
+ "output": "AUS03_Brands_In_Trouble_2026.mp4",
+ "fps": 24,
+ "music": [
+  {
+   "file": "trilha.wav",
+   "start": 0,
+   "gain": -29,
+   "fade_in": 4,
+   "fade_out": 5
+  }
+ ],
+ "chapters": [
+  {
+   "audio": "audio/ch00_hook.flac",
+   "lead_in": 0,
+   "tail": 0.6,
+   "shots": [
+    {
+     "type": "stat",
+     "value": "16",
+     "label": "new Jeeps sold in Australia \u00b7 September 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "FCAI VFACTS \u00b7 Sept 2026",
+     "color": "red",
+     "dur": 5.56,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Not a day. Not a week. A month.",
+     "highlight": "MONTH",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.3,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_jeep/1_commons.jpg",
+     "move": "in",
+     "dur": 1.98,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "0",
+     "label": "new Jaguars sold \u00b7 September 2026",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "FCAI VFACTS \u00b7 Sept 2026",
+     "color": "red",
+     "dur": 2.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_peugeot_5008/1_commons.jpg",
+     "move": "left",
+     "caption": "Peugeot|89 sales in September",
+     "dur": 3.08,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_alfa/1_commons.jpg",
+     "move": "right",
+     "caption": "Alfa Romeo|21 sales in September",
+     "dur": 3.66,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "-42.6%",
+     "label": "Subaru \u00b7 September 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "FCAI VFACTS \u00b7 Sept 2026",
+     "color": "red",
+     "dur": 2.5,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "-41.5%",
+     "label": "Mitsubishi \u00b7 September 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "FCAI VFACTS \u00b7 Sept 2026",
+     "color": "red",
+     "dur": 2.48,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"2026 is the low point.\"",
+     "highlight": "LOW POINT",
+     "size": 150,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.58,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "+870%",
+     "label": "Geely \u00b7 September 2026 vs 2025",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "FCAI VFACTS \u00b7 Sept 2026",
+     "dur": 7.34,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_parking/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.2,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_dealer/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.04,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_family_driveway_1.jpg",
+     "move": "in",
+     "dur": 4.86,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Your warranty?",
+      "Your servicing?",
+      "Your resale value?"
+     ],
+     "starts": [
+      0,
+      22,
+      46
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.9200000000000017
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.9200000000000017
+      }
+     ],
+     "dur": 2.82,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "10 Car Brands in Serious Trouble",
+     "subtitle": "Australia \u00b7 2026",
+     "tag": "real 2026 data",
+     "bg": "a/ai/ai_empty_dealer_day_1.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 3.135,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch01.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_chart/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.94,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "108,778",
+     "label": "new vehicles sold \u00b7 September 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "FCAI VFACTS \u00b7 Sept 2026",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_city/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.86,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_highway/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.42,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "What's changing is who they buy from.",
+     "highlight": "WHO",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 2.4,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Sept 2026 vs Sept 2025",
+     "items": [
+      [
+       "Zeekr",
+       1608
+      ],
+      [
+       "Geely",
+       870
+      ],
+      [
+       "Omoda Jaecoo",
+       344
+      ],
+      [
+       "Leapmotor",
+       106
+      ],
+      [
+       "BYD",
+       61
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "+",
+     "suffix": "%",
+     "source": "FCAI VFACTS \u00b7 Sept 2026",
+     "dur": 3.56,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_byd/1_commons.jpg",
+     "move": "in",
+     "caption": "BYD|#2 brand for 2026 so far",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_port/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_dealer/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.67,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Now the other side.",
+     "highlight": "OTHER SIDE",
+     "size": 150,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.33,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Sept 2026 vs Sept 2025",
+     "items": [
+      [
+       "Hyundai",
+       22.0,
+       "red"
+      ],
+      [
+       "Kia",
+       19.5,
+       "red"
+      ],
+      [
+       "Mazda",
+       18.9,
+       "red"
+      ],
+      [
+       "Toyota",
+       3.5,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "-",
+     "suffix": "%",
+     "source": "FCAI VFACTS \u00b7 Sept 2026",
+     "dur": 6.56,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_chinese_cars_lot_1.jpg",
+     "move": "out",
+     "dur": 4.58,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.72,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "24.2%",
+     "label": "EV share of new car sales \u00b7 September 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "FCAI / EVC",
+     "dur": 6.9,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "-36.2%",
+     "label": "petrol car sales \u00b7 Sept 2026 vs 2025",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "FCAI / EVC",
+     "color": "red",
+     "dur": 3.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_petrol/1_unsplash.jpg",
+     "move": "right",
+     "dur": 1.54,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_highway/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.56,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "~70",
+     "label": "brands fighting for ~1.2 million sales a year",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarExpert",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_highway/1_unsplash.jpg",
+     "move": "in",
+     "dur": 4.52,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Three forces, all at once.",
+     "highlight": "THREE",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.18,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_showroom_ev_crowd_1.jpg",
+     "move": "in",
+     "caption": "Force 1|Price",
+     "dur": 7.32,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_family_car/2_pixabay.jpg",
+     "move": "up",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_highway/2_pixabay.jpg",
+     "move": "up",
+     "dur": 3.78,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_petrol/2_pixabay.jpg",
+     "move": "out",
+     "caption": "Force 2|Fuel and new rules",
+     "dur": 3.9,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_chart/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_highway/3_unsplash.jpg",
+     "move": "out",
+     "dur": 6.98,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_dealer_clearance_1.jpg",
+     "move": "down",
+     "caption": "Force 3|Too many brands",
+     "dur": 6.92,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_luxury_empty_1.jpg",
+     "move": "in",
+     "dur": 5.06,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_port/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.9,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Who's losing the most?",
+     "highlight": "LOSING",
+     "size": 150,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.284,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch02.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 10,
+     "name": "Deepal",
+     "photo": "a/m_deepal/1_commons.jpg",
+     "credit": "Photo: Alexander Migl \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "-33.7% in Sept",
+     "sub": "Changan's electric brand",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_omoda/3_commons.jpg",
+     "move": "down",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_byd/3_commons.jpg",
+     "move": "in",
+     "dur": 2.76,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "594",
+     "label": "Deepal sales \u00b7 Jan\u2013May 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarExpert / VFACTS",
+     "color": "red",
+     "dur": 6.72,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "63",
+     "label": "Deepal sales \u00b7 September 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "FCAI VFACTS \u00b7 Sept 2026",
+     "color": "red",
+     "dur": 5.2,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_deepal/3_commons.jpg",
+     "move": "left",
+     "caption": "Stop-sale|E07 'multitruck'",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_port/1_unsplash.jpg",
+     "move": "left",
+     "dur": 3.54,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_empty_showroom/1_unsplash.jpg",
+     "move": "left",
+     "dur": 5.5,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Chinese and electric isn't a guarantee.",
+     "highlight": "GUARANTEE",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_parking/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.053,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch03.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 9,
+     "name": "KGM (SsangYong)",
+     "photo": "a/m_kgm/1_commons.jpg",
+     "credit": "Photo: Alexander-93 \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "-37% in Sept",
+     "sub": "New name, same fight",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_dealer/5_unsplash.jpg",
+     "move": "out",
+     "dur": 5.14,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "189",
+     "label": "KGM sales \u00b7 September 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "FCAI VFACTS \u00b7 Sept 2026",
+     "color": "red",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_dealer/6_pixabay.jpg",
+     "move": "right",
+     "dur": 5.3,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_kgm/3_commons.jpg",
+     "move": "right",
+     "dur": 4.54,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_geely/2_commons.jpg",
+     "move": "out",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_showroom/4_pixabay.jpg",
+     "move": "in",
+     "dur": 6.22,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_sale_sign/1_unsplash.jpg",
+     "move": "right",
+     "dur": 2.22,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "A new name in the most crowded market ever.",
+     "highlight": "CROWDED",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 6.117,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch04.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 8,
+     "name": "Alfa Romeo",
+     "photo": "a/m_alfa/3_commons.jpg",
+     "credit": "Photo: Matti Blume \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "21 sales in Sept",
+     "sub": "Beautiful cars, almost no buyers",
+     "dur": 5.34,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "21",
+     "label": "Alfa Romeo sales \u00b7 September 2026 (-59.6%)",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "FCAI VFACTS \u00b7 Sept 2026",
+     "color": "red",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_showroom/6_pixabay.jpg",
+     "move": "up",
+     "dur": 5.62,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_board_meeting_1.jpg",
+     "move": "in",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_highway/4_pixabay.jpg",
+     "move": "out",
+     "dur": 3.28,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_empty_showroom/3_unsplash.jpg",
+     "move": "up",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_highway/5_unsplash.jpg",
+     "move": "down",
+     "dur": 2.82,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_mechanic/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.12,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Decided in Europe, not in Aussie showrooms.",
+     "highlight": "EUROPE",
+     "size": 115,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.004,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch05.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 7,
+     "name": "Suzuki",
+     "photo": "a/m_suzuki_fronx/1_commons.jpg",
+     "credit": "Photo: TTTNIS \u00b7 CC0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "-39.3% in Sept",
+     "sub": "Small, cheap, fun \u2013 and under pressure",
+     "dur": 5.1,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_swift/1_commons.jpg",
+     "move": "left",
+     "dur": 5.3,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_jimny/1_commons.jpg",
+     "move": "in",
+     "dur": 2.16,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "-22%",
+     "label": "Suzuki sales \u00b7 Jan\u2013May 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarsGuide / VFACTS",
+     "color": "red",
+     "dur": 4.36,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "-39.3%",
+     "label": "Suzuki \u00b7 September 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "FCAI VFACTS \u00b7 Sept 2026",
+     "color": "red",
+     "dur": 2.98,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_crash_test_1.jpg",
+     "move": "out",
+     "dur": 4.84,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "1 STAR",
+     "label": "Fronx ANCAP rating \u00b7 rear seatbelt failure",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "ANCAP / carsales",
+     "color": "red",
+     "dur": 4.12,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_suzuki_fronx/3_commons.jpg",
+     "move": "right",
+     "caption": "Stop-sale|Investigation ongoing in March 2026",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_crash_test/2_pixabay.jpg",
+     "move": "in",
+     "dur": 3.42,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"Up to one in five buyers\" scared off",
+     "highlight": "ONE IN FIVE",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 7.44,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_crash_test/1_pixabay.jpg",
+     "move": "down",
+     "dur": 3.88,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_geely/3_commons.jpg",
+     "move": "in",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_crash_test/3_pixabay.jpg",
+     "move": "left",
+     "dur": 3.32,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "-12%",
+     "label": "Jimny sales \u00b7 Jan\u2013May 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarsGuide / VFACTS",
+     "color": "red",
+     "dur": 4.666,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch06.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 6,
+     "name": "Volkswagen",
+     "photo": "a/m_vw_golf/1_commons.jpg",
+     "credit": "Photo: Alexander-93 \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "-36.9% in Sept",
+     "sub": "One of the world's biggest car makers",
+     "dur": 6.7,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "~29,000",
+     "label": "VW sales in 2025 (down 20%+)",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "carsales",
+     "color": "red",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_sale_sign/3_unsplash.jpg",
+     "move": "out",
+     "dur": 2.74,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "-17%",
+     "label": "Volkswagen \u00b7 Jan\u2013May 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarsGuide / VFACTS",
+     "color": "red",
+     "dur": 3.84,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "1,599",
+     "label": "VW sales \u00b7 September 2026 (-36.9%)",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "FCAI VFACTS \u00b7 Sept 2026",
+     "color": "red",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_sale_sign/4_pixabay.jpg",
+     "move": "right",
+     "dur": 3.16,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Jan\u2013May 2026 vs 2025",
+     "items": [
+      [
+       "T-Roc",
+       55.9,
+       "red"
+      ],
+      [
+       "T-Cross",
+       49,
+       "red"
+      ],
+      [
+       "Amarok",
+       33,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "-",
+     "suffix": "%",
+     "source": "CarsGuide / VFACTS",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_highway/6_pixabay.jpg",
+     "move": "in",
+     "dur": 5.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_vw_troc/1_commons.jpg",
+     "move": "in",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_sydney/1_unsplash.jpg",
+     "move": "up",
+     "dur": 3.02,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Under 10,000 a year? You're niche.",
+     "highlight": "NICHE",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.82,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_chart/2_pixabay.jpg",
+     "move": "left",
+     "dur": 2.76,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_vw_troc/3_commons.jpg",
+     "move": "left",
+     "dur": 6.92,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.06,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "The clock is ticking.",
+     "highlight": "TICKING",
+     "size": 160,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 2.152,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch07.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "cta",
+     "text": "Real 2026 data. No rumours.",
+     "sub": "A new Aussie car video every week",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_sydney/2_pixabay.jpg",
+     "move": "out",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_sydney/3_unsplash.jpg",
+     "move": "down",
+     "dur": 4.1,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Own one of these brands?",
+      "Would you buy another?"
+     ],
+     "starts": [
+      0,
+      50
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 2.1199999999999974
+      }
+     ],
+     "dur": 3.36,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_highway/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 1.984,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch08.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 5,
+     "name": "Subaru",
+     "photo": "a/m_forester/1_commons.jpg",
+     "credit": "Photo: Alexander Migl \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "-42.6% in Sept",
+     "sub": "Loyal owners, falling sales",
+     "dur": 1.88,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_offroad/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_offroad_heritage_1.jpg",
+     "move": "in",
+     "dur": 2.98,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "-22.1%",
+     "label": "Subaru \u00b7 Jan\u2013May 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarExpert / VFACTS",
+     "color": "red",
+     "dur": 5.94,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "2,009",
+     "label": "Subaru sales \u00b7 September 2026 (-42.6%)",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "FCAI VFACTS \u00b7 Sept 2026",
+     "color": "red",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Subaru yearly sales",
+     "items": [
+      [
+       "2023",
+       46000
+      ],
+      [
+       "2024",
+       40604
+      ],
+      [
+       "2025",
+       39005,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "CarExpert",
+     "dur": 3.42,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_geely/1_commons.jpg",
+     "move": "right",
+     "dur": 5.68,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_outback/1_commons.jpg",
+     "move": "in",
+     "dur": 2.06,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"A rationalisation of the range.\"",
+     "highlight": "RATIONALISATION",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 7.28,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_forester/3_commons.jpg",
+     "move": "left",
+     "dur": 3.58,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "9",
+     "label": "Subaru models by end of 2026 \u00b7 5 hybrid or electric",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarExpert",
+     "dur": 6.14,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_geely/4_commons.jpg",
+     "move": "out",
+     "dur": 4.98,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_dealer/1_unsplash.jpg",
+     "move": "right",
+     "dur": 3.56,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch09.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 4,
+     "name": "Nissan",
+     "photo": "a/m_xtrail/1_commons.jpg",
+     "credit": "Photo: Alexander-93 \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "-33.7% to July",
+     "sub": "From ~80,000 a year to fighting for survival",
+     "dur": 5.32,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "79,747",
+     "label": "Nissan sales in 2012 \u00b7 6th place",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarExpert",
+     "dur": 7.02,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "15,445",
+     "label": "Nissan sales \u00b7 Jan\u2013Jul 2026 (-33.7%)",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarExpert / VFACTS",
+     "color": "red",
+     "dur": 6.7,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Jan\u2013Jul 2026 vs 2025",
+     "items": [
+      [
+       "Qashqai",
+       73.5,
+       "red"
+      ],
+      [
+       "Navara",
+       48.8,
+       "red"
+      ],
+      [
+       "X-Trail",
+       15.1,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "-",
+     "suffix": "%",
+     "source": "CarExpert / VFACTS",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_factory/4_pixabay.jpg",
+     "move": "left",
+     "dur": 4.44,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "-30%",
+     "label": "Nissan \u00b7 September 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "FCAI VFACTS \u00b7 Sept 2026",
+     "color": "red",
+     "dur": 3.46,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_qashqai/1_commons.jpg",
+     "move": "right",
+     "dur": 6.48,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_factory/2_pixabay.jpg",
+     "move": "in",
+     "dur": 5.08,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Its own boss calls 2026 the bottom.",
+     "highlight": "BOTTOM",
+     "size": 125,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_sydney/4_pixabay.jpg",
+     "move": "out",
+     "dur": 5.34,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_patrol/1_commons.jpg",
+     "move": "in",
+     "caption": "Coming|New Patrol, hybrid X-Trail",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_sydney/5_unsplash.jpg",
+     "move": "right",
+     "dur": 2.66,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_xtrail/3_commons.jpg",
+     "move": "left",
+     "dur": 5.805,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch10.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 3,
+     "name": "Mitsubishi",
+     "photo": "a/m_outlander/1_commons.jpg",
+     "credit": "Photo: Charles from Port Chester, New York \u00b7 CC BY 2.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "-41.5% in Sept",
+     "sub": "The value brand losing on value",
+     "dur": 5.84,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "84,944",
+     "label": "Mitsubishi sales in 2018 \u00b7 its best year",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarExpert",
+     "dur": 6.92,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "-26.4%",
+     "label": "Mitsubishi \u00b7 Jan\u2013May 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarsGuide / VFACTS",
+     "color": "red",
+     "dur": 4.2,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "2,769",
+     "label": "Mitsubishi sales \u00b7 September 2026 (-41.5%)",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "FCAI VFACTS \u00b7 Sept 2026",
+     "color": "red",
+     "dur": 6.38,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "What went wrong?",
+     "highlight": "WRONG",
+     "size": 160,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 2.28,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_empty_showroom/5_unsplash.jpg",
+     "move": "up",
+     "dur": 5.46,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_asx/1_commons.jpg",
+     "move": "right",
+     "caption": "New ASX|695 sold Jan\u2013May 2026",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_port/2_pixabay.jpg",
+     "move": "in",
+     "dur": 4.02,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_outlander/3_commons.jpg",
+     "move": "in",
+     "dur": 7.04,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_triton/1_commons.jpg",
+     "move": "left",
+     "dur": 3.86,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_zeekr/3_commons.jpg",
+     "move": "out",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_port/3_unsplash.jpg",
+     "move": "up",
+     "dur": 7.32,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_chart/3_pixabay.jpg",
+     "move": "down",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_port/4_pixabay.jpg",
+     "move": "out",
+     "dur": 2.526,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch11.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 2,
+     "name": "Jeep",
+     "photo": "a/m_jeep/3_commons.jpg",
+     "credit": "Photo: Alexander Migl \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "16 sales in Sept",
+     "sub": "A long, slow decline",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_outback/1_pixabay.jpg",
+     "move": "down",
+     "dur": 5.34,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "378",
+     "label": "Jeep sales \u00b7 Jan\u2013Aug 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarsGuide",
+     "color": "red",
+     "dur": 5.46,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Jeep sales in Australia",
+     "items": [
+      [
+       "2014",
+       30408
+      ],
+      [
+       "2024",
+       2377,
+       "red"
+      ],
+      [
+       "Jan\u2013Aug 2026",
+       378,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "delta": "-99%",
+     "source": "CarExpert / CarsGuide",
+     "dur": 7.4,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_grand_cherokee/1_commons.jpg",
+     "move": "in",
+     "caption": "Axed in 2025|Grand Cherokee",
+     "dur": 3.44,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "70+ \u2192 44",
+     "label": "Jeep dealerships in Australia",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarSauce",
+     "color": "red",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_outback/3_pixabay.jpg",
+     "move": "in",
+     "dur": 2.58,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Then came the twist.",
+     "highlight": "TWIST",
+     "size": 160,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.94,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_factory/3_pixabay.jpg",
+     "move": "in",
+     "caption": "October 2026|Stellantis + Dongfeng",
+     "dur": 3.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_zeekr/4_commons.jpg",
+     "move": "left",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_outback/5_pixabay.jpg",
+     "move": "left",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_outback/6_pixabay.jpg",
+     "move": "out",
+     "dur": 2.66,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_offroad/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_sydney/6_pixabay.jpg",
+     "move": "right",
+     "dur": 3.938,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch12.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 1,
+     "name": "Peugeot",
+     "photo": "a/m_peugeot_5008/3_commons.jpg",
+     "credit": "Photo: Alexander-93 \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "Importer walked away",
+     "sub": "The clearest warning sign",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_melbourne/1_unsplash.jpg",
+     "move": "in",
+     "dur": 5.72,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Peugeot sales in Australia",
+     "items": [
+      [
+       "2007",
+       8807
+      ],
+      [
+       "2025",
+       1350,
+       "red"
+      ],
+      [
+       "Jan\u2013May 2026",
+       373,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "The Beep / CarExpert",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_melbourne/2_pixabay.jpg",
+     "move": "up",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_melbourne/3_unsplash.jpg",
+     "move": "out",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_melbourne/4_pixabay.jpg",
+     "move": "down",
+     "dur": 4.2,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "89",
+     "label": "Peugeot sales \u00b7 September 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "FCAI VFACTS \u00b7 Sept 2026",
+     "color": "red",
+     "dur": 3.12,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_peugeot_308/1_commons.jpg",
+     "move": "right",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_melbourne/5_unsplash.jpg",
+     "move": "in",
+     "dur": 3.38,
+     "fixed": true
+    },
+    {
+     "type": "price",
+     "model": "Peugeot 5008 GT Premium Hybrid",
+     "old": "$69,990",
+     "new": "$59,990",
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.6
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.0
+      }
+     ],
+     "old_note": "drive-away before",
+     "new_note": "drive-away \u00b7 July 2026",
+     "save": "-$10,000",
+     "source": "The Beep",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ev/1_unsplash.jpg",
+     "move": "left",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ev/2_pixabay.jpg",
+     "move": "out",
+     "dur": 2.76,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_chart/5_pixabay.jpg",
+     "move": "out",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ev/3_unsplash.jpg",
+     "move": "right",
+     "dur": 7.2,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_closed/1_unsplash.jpg",
+     "move": "right",
+     "dur": 4.6,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Losing your importer is the clearest warning sign.",
+     "highlight": "WARNING",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 6.536,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch13.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "stat",
+     "value": "0",
+     "label": "new Jaguars sold in Australia \u00b7 September 2026",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "FCAI VFACTS \u00b7 Sept 2026",
+     "color": "red",
+     "tag": "bonus",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ev/4_pixabay.jpg",
+     "move": "in",
+     "dur": 3.84,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_dealer/2_pixabay.jpg",
+     "move": "in",
+     "caption": "31 December 2025|Last new petrol Jaguars sold",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ev/5_unsplash.jpg",
+     "move": "up",
+     "dur": 3.72,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "~$300,000",
+     "label": "expected price of Jaguar's new EVs in Australia",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Man of Many",
+     "dur": 6.84,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_service_centre_1.jpg",
+     "move": "up",
+     "dur": 4.06,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_dealer/3_unsplash.jpg",
+     "move": "out",
+     "dur": 5.635,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch14.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_road/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.06,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "You're not left on your own.",
+     "highlight": "NOT",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_mechanic/2_pixabay.jpg",
+     "move": "out",
+     "dur": 4.18,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_parts_shelf_1.jpg",
+     "move": "down",
+     "dur": 7.18,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Australian Consumer Law",
+     "highlight": "CONSUMER LAW",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.12,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_mechanic/1_pixabay.jpg",
+     "move": "in",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_mechanic/3_pixabay.jpg",
+     "move": "down",
+     "dur": 2.9,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_parking/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_mechanic/4_pixabay.jpg",
+     "move": "in",
+     "dur": 2.52,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_sale_sign/2_pixabay.jpg",
+     "move": "left",
+     "dur": 7.1,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_signing/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_mechanic/5_pixabay.jpg",
+     "move": "left",
+     "dur": 2.6,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Who backs the warranty?",
+      "Nearest service centre?",
+      "How fast are parts?"
+     ],
+     "starts": [
+      0,
+      62,
+      107
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 2.6199999999999974
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 4.460000000000001
+      }
+     ],
+     "dur": 9.32,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_city/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_mechanic/6_pixabay.jpg",
+     "move": "out",
+     "dur": 3.14,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_road/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.22,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_closed/2_pixabay.jpg",
+     "move": "out",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_keys/2_pixabay.jpg",
+     "move": "right",
+     "dur": 3.0,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"Will this brand still look after me in five years?\"",
+     "highlight": "FIVE YEARS",
+     "size": 105,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.392,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch15.flac",
+   "lead_in": 0,
+   "tail": 2.5,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_city/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.86,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Which brand leaves first?"
+     ],
+     "starts": [
+      0
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      }
+     ],
+     "dur": 4.42,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "If this helped, hit like",
+     "sub": "and subscribe \u2013 we're tracking every month of 2026",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_family_car/3_pixabay.jpg",
+     "move": "in",
+     "dur": 5.8,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "Aussies Are Fighting Back",
+     "subtitle": "Faulty new cars \u2013 and winning",
+     "tag": "next video",
+     "bg": "a/h_keys/1_unsplash.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 7.991,
+     "fixed": false,
+     "fade_out": 0
+    }
+   ]
+  }
+ ],
+ "size": [
+  1920,
+  1080
+ ],
+ "subtitles": "AUS03.ass"
+}

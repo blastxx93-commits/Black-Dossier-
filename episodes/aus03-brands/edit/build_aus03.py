@@ -38,7 +38,9 @@ RES = ["m_deepal/1", "m_deepal/3", "m_kgm/1", "m_kgm/3", "m_alfa/1", "m_alfa/3",
        "m_xtrail/1", "m_qashqai/1", "m_patrol/1", "m_outlander/1", "m_asx/1", "m_triton/1", "m_jeep/1", "m_jeep/3",
        "m_grand_cherokee/1", "m_peugeot_5008/1", "m_peugeot_308/1", "m_peugeot_5008/3", "m_geely/1", "m_zeekr/1", "m_byd/1",
        "m_omoda/1", "m_xtrail/3", "m_outlander/3"]
-A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FALLBACK, ["traffic", "dealer", "chinese"], reserved=RES)
+A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FALLBACK,
+        ["traffic", "dealer", "chinese", "ev", "port", "family", "outback", "used", "keys", "service", "board", "petrol", "money", "sale"],
+        reserved=RES)
 VF = "FCAI VFACTS · Sept 2026"
 chapters = []
 
