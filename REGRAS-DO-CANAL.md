@@ -69,3 +69,13 @@ As duas contam a mesma promessa do título, cada uma do seu jeito.
 - Edição: sem imagens repetidas (checagem por conteúdo), sem tela preta, nada estático, transições dinâmicas,
   cada plano preso à palavra da narração, meta de ~40% de clipes entre o material de imagem.
 - Ao publicar: marcar "conteúdo alterado ou sintético" quando houver cena realista feita por IA.
+
+### Títulos (padrão a partir do vídeo 4, inspirado em canais de notícias automotivas)
+- Fórmula: [Marca/assunto] Just [VERBO FORTE] in Australia — [consequência ou reação]!
+  Ex.: "Tesla Just CANCELLED the Cybertruck for Australia — 7 Years of Deposits Refunded!"
+- Outras formas que funcionam: "[Número] [coisa] in Australia — [consequência]"; "X Owners Waited MONTHS… — Here's What X Just Did".
+- 1 a 2 palavras em CAIXA ALTA (o verbo ou o número), travessão no meio, 60–90 caracteres, termina com "!" quando couber.
+- Palavras de impacto: JUST, CAUGHT, CANCELLED, AXED, RECALLED, PLUNGED, SLASHED, SHOCKED, DISASTER, SERIOUS TROUBLE.
+- Regra de ouro: o fato do título tem que ser verdadeiro e aparecer no vídeo com fonte. Nada de "fechou todas as lojas",
+  "PERMANENTLY CLOSED" ou incêndio que não aconteceu (risco de strike, desmonetização e processo).
+- Thumbnail: fundo com mais contraste e leve desfoque; persona masculina fictícia (IA) com a expressão do tema; texto curto.
