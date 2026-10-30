@@ -1,0 +1,2405 @@
+{
+ "output": "AUS01_Utes_2026.mp4",
+ "fps": 24,
+ "music": [
+  {
+   "file": "trilha.wav",
+   "start": 0,
+   "gain": -24,
+   "fade_in": 4,
+   "fade_out": 5
+  }
+ ],
+ "chapters": [
+  {
+   "audio": "audio/ch00_hook.flac",
+   "lead_in": 0,
+   "tail": 0.6,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_beach_4wd/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.41,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_tradie_ute/1_unsplash.jpg",
+     "move": "in",
+     "dur": 2.32,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_beach_4x4/1_unsplash.jpg",
+     "move": "left",
+     "dur": 1.65,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_outback_aerial/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 1.82,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Something has quietly broken.",
+     "highlight": "BROKEN",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.26,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "-15.2%",
+     "label": "4x4 ute sales \u00b7 July 2026 vs July 2025",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "FCAI VFACTS",
+     "color": "red",
+     "dur": 5.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ute_outback/1_unsplash.jpg",
+     "move": "out",
+     "caption": "July 2026|The Ranger lost the top spot",
+     "dur": 3.02,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "212",
+     "label": "new Navara sales \u00b7 July 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "FCAI VFACTS",
+     "color": "red",
+     "dur": 3.4,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_cars_port/2_pixabay.jpg",
+     "move": "right",
+     "dur": 3.68,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_car_carrier/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.12,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Who's struggling?",
+      "Who's cutting prices?",
+      "Buy now \u2013 or trap?"
+     ],
+     "starts": [
+      0,
+      55,
+      175
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 2.300000000000008
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 7.300000000000008
+      }
+     ],
+     "dur": 11.02,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "10 Utes Feeling the Pressure",
+     "subtitle": "Australia's 2026 ute slump",
+     "tag": "#1 will surprise you",
+     "bg": "a/h_4x4_dirt/1_unsplash.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 5.496,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch01.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/ai/ai_dashboard_numbers_1.jpg",
+     "move": "in",
+     "dur": 6.56,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "4x4 ute sales",
+     "items": [
+      [
+       "Jul 2025",
+       17351
+      ],
+      [
+       "Jul 2026",
+       14705,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "delta": "-15.2%",
+     "source": "FCAI VFACTS",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_highway_aerial/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_highway_aerial/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.76,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_dealer_lot_aerial/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 1.96,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "-13.6%",
+     "label": "4x4 ute sales \u00b7 Jan\u2013Aug 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "FCAI VFACTS via CarsGuide",
+     "color": "red",
+     "dur": 7.26,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_sydney_road/1_pixabay.jpg",
+     "move": "up",
+     "dur": 2.2,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "RECORD",
+     "label": "June 2026: biggest month ever for new car sales",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "FCAI VFACTS",
+     "tag": "all-time high",
+     "dur": 5.38,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_melbourne/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.24,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Just fewer utes.",
+     "highlight": "UTES",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 1.62,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "-13.1%",
+     "label": "diesel vehicle sales \u00b7 2026 so far",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "FCAI VFACTS via The Driven",
+     "color": "red",
+     "dur": 5.02,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ev/1_pixabay.jpg",
+     "move": "out",
+     "dur": 5.06,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_car_showroom/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.92,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "25",
+     "label": "different utes on sale in Australia",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarsGuide",
+     "dur": 3.72,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_showroom/1_unsplash.jpg",
+     "move": "down",
+     "dur": 6.5,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"Peak ute\"?",
+     "highlight": "PEAK UTE",
+     "size": 170,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.96,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_pickup_lot/1_unsplash.jpg",
+     "move": "in",
+     "dur": 2.94,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_car_carrier/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.36,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_dealer_lot/1_unsplash.jpg",
+     "move": "left",
+     "dur": 5.7,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"Excess inventory everywhere.\"",
+     "highlight": "EXCESS INVENTORY",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 2.58,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_port_cars/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "caption": "Car terminals|Stock waiting at the ports",
+     "dur": 2.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/g_parliament/2_commons.jpg",
+     "move": "out",
+     "caption": "NVES|New Vehicle Efficiency Standard",
+     "dur": 5.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_fuel/1_pixabay.jpg",
+     "move": "right",
+     "dur": 3.1,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_country_road/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.42,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/g_holden_ute/1_commons.jpg",
+     "move": "in",
+     "dur": 4.32,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_caravan/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.3,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_sydney_road/2_pixabay.jpg",
+     "move": "up",
+     "dur": 1.48,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_beach_4x4/3_unsplash.jpg",
+     "move": "out",
+     "dur": 1.96,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_road_train/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.56,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Interest rates. Cost of living.",
+     "highlight": "RATES LIVING",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 6.28,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "10 utes feeling it the most",
+     "highlight": "10",
+     "size": 150,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.887,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch02.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 10,
+     "name": "LDV T60 Max Pro",
+     "photo": "a/m_ldv_t60/2_commons.jpg",
+     "credit": "Photo: Andrew Priest from Fremantle, Australia \u00b7 CC BY 2.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "$2,000 off",
+     "sub": "Australia's cheapest dual-cab with a tub (late 2025)",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_highway_aerial/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.08,
+     "fixed": true
+    },
+    {
+     "type": "price",
+     "model": "LDV T60 Max Pro 4x4 auto",
+     "old": "$38,990",
+     "new": "$36,990",
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.6
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.0
+      }
+     ],
+     "old_note": "previous ABN drive-away price",
+     "new_note": "drive-away for ABN holders \u00b7 offer to 31 Dec 2025",
+     "save": "-$2,000",
+     "source": "Cars24 / Drive",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_bush_track/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_city_night/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.18,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ldv_t60/3_commons.jpg",
+     "move": "right",
+     "dur": 5.36,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ldv_t60/4_commons.jpg",
+     "move": "in",
+     "caption": "2026 update|Autonomous emergency braking added",
+     "dur": 6.96,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_dealer_lot_aerial/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_city_night/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.7,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_car_showroom/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.96,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_tradie_ute/2_pixabay.jpg",
+     "move": "down",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_city_night/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.213,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch03.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 9,
+     "name": "Kia Tasman",
+     "photo": "a/m_kia_tasman/1_commons.jpg",
+     "credit": "Photo: Bernard Spragg. NZ from Christchurch, Ne \u00b7 CC0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "Slow start",
+     "sub": "Kia's first ute, built with Australia in mind",
+     "dur": 2.62,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_kia_tasman/2_commons.jpg",
+     "move": "left",
+     "dur": 6.42,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_kia_tasman/3_commons.jpg",
+     "move": "in",
+     "dur": 5.08,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "382",
+     "label": "Tasman 4x4 sales \u00b7 May 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "FCAI VFACTS",
+     "color": "red",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_melbourne/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.7,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "4x4 sales \u00b7 July 2026",
+     "items": [
+      [
+       "HiLux",
+       4119
+      ],
+      [
+       "Tasman",
+       355,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "source": "FCAI VFACTS",
+     "dur": 7.02,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "11 HiLuxes for every Tasman",
+     "highlight": "11",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.12,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_kia_tasman/4_commons.jpg",
+     "move": "out",
+     "dur": 4.38,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "#3",
+     "label": "Kia's brand ranking \u00b7 July 2026",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "FCAI VFACTS",
+     "dur": 3.18,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_salesman/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_sydney/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.98,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_bush_track/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.643,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch04.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 8,
+     "name": "Volkswagen Amarok",
+     "photo": "a/m_vw_amarok/3_commons.jpg",
+     "credit": "Photo: Andrew Priest from Fremantle, Australia \u00b7 CC BY 2.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "271 sales in May",
+     "sub": "Ranger underneath, German badge",
+     "dur": 3.1,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_vw_amarok/1_commons.jpg",
+     "move": "left",
+     "caption": "Built with the Ranger|South Africa",
+     "dur": 6.02,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Same bones. German badge. Higher price.",
+     "highlight": "HIGHER PRICE",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.66,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "271",
+     "label": "Amarok sales \u00b7 May 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "FCAI VFACTS",
+     "color": "red",
+     "dur": 5.38,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_vw_amarok/2_commons.jpg",
+     "move": "in",
+     "caption": "New flagship|Amarok W600",
+     "dur": 6.88,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/g_holden_ute/2_commons.jpg",
+     "move": "in",
+     "dur": 4.36,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "+$1,300",
+     "label": "W600 price vs Ford Ranger Raptor",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarsGuide",
+     "dur": 6.26,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ranger_raptor/2_commons.jpg",
+     "move": "right",
+     "dur": 3.38,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_vw_amarok/4_commons.jpg",
+     "move": "out",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_sydney/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ranger_raptor/3_commons.jpg",
+     "move": "in",
+     "dur": 5.66,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_dealer_lot/2_pixabay.jpg",
+     "move": "left",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_sydney/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.54,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch05.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 7,
+     "name": "Mitsubishi Triton",
+     "photo": "a/m_triton/3_commons.jpg",
+     "credit": "Photo: Andrew Priest from Fremantle, Australia \u00b7 CC BY 2.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "Twin trouble",
+     "sub": "Bounced back in early 2026",
+     "dur": 6.34,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "1,747",
+     "label": "Triton 4x4 sales \u00b7 February 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "FCAI VFACTS",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_outback_aerial/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ute_dirt_road/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.52,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_triton/2_commons.jpg",
+     "move": "in",
+     "dur": 2.12,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Its biggest rival? Itself.",
+     "highlight": "ITSELF",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.82,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_triton/4_commons.jpg",
+     "move": "left",
+     "caption": "Same ute|Two badges",
+     "dur": 6.18,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_dealer_lot/3_unsplash.jpg",
+     "move": "out",
+     "dur": 6.82,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Triton 4x4 sales",
+     "items": [
+      [
+       "Feb 2026",
+       1747
+      ],
+      [
+       "Jul 2026",
+       1081,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "delta": "-38%",
+     "source": "FCAI VFACTS",
+     "dur": 4.94,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_dealer_lot_aerial/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.56,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_4x4_dirt/3_unsplash.jpg",
+     "move": "right",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ute_outback/3_unsplash.jpg",
+     "move": "out",
+     "dur": 3.495,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch06.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 6,
+     "name": "Isuzu D-Max",
+     "photo": "a/m_dmax/3_commons.jpg",
+     "credit": "Photo: Andrew Priest from Fremantle, Australia \u00b7 CC BY 2.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "Diesel loyalist",
+     "sub": "Third best-selling 4x4 ute in July 2026",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_farm_pickup/1_unsplash.jpg",
+     "move": "down",
+     "dur": 4.04,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_dmax/2_commons.jpg",
+     "move": "right",
+     "dur": 3.44,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "1,292",
+     "label": "D-Max 4x4 sales \u00b7 July 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "FCAI VFACTS",
+     "dur": 6.92,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_farm_truck/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.98,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_byd_shark/3_commons.jpg",
+     "move": "in",
+     "dur": 7.27,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Electrified utes are coming.",
+     "highlight": "ELECTRIFIED",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.73,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_showroom/3_unsplash.jpg",
+     "move": "in",
+     "caption": "Late 2026|Chery Stockman PHEV ute",
+     "dur": 4.28,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_road_train/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_dmax/4_commons.jpg",
+     "move": "out",
+     "dur": 3.74,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_farm_truck/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_farm_pickup/3_unsplash.jpg",
+     "move": "in",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_farm_pickup/5_unsplash.jpg",
+     "move": "left",
+     "dur": 2.939,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch07.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "cta",
+     "text": "Real sales data. No rumours.",
+     "sub": "A new Aussie car video every week",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ute_outback/4_pixabay.jpg",
+     "move": "out",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ute_outback/5_unsplash.jpg",
+     "move": "right",
+     "dur": 6.02,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "What ute do you drive?",
+      "Would you buy it again?"
+     ],
+     "starts": [
+      0,
+      51
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 2.16
+      }
+     ],
+     "dur": 4.2,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_car_showroom/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.292,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch08.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 5,
+     "name": "GWM Cannon Alpha",
+     "photo": "a/m_cannon_alpha/1_commons.jpg",
+     "credit": "Photo: Bernard Spragg. NZ from Christchurch, Ne \u00b7 CC0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "$4,000 off",
+     "sub": "One of the Chinese success stories",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_salesman/3_unsplash.jpg",
+     "move": "in",
+     "dur": 6.84,
+     "fixed": true
+    },
+    {
+     "type": "price",
+     "model": "GWM Cannon Alpha Ultra diesel",
+     "old": "$58,990",
+     "new": "$54,990",
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.6
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.0
+      }
+     ],
+     "old_note": "drive-away before the deal",
+     "new_note": "drive-away \u00b7 offer to 31 Oct 2026",
+     "save": "-$4,000",
+     "source": "CarsGuide",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_empty_showroom_1.jpg",
+     "move": "up",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_dealer_flags_1.jpg",
+     "move": "out",
+     "dur": 6.94,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_dealer_lot/5_unsplash.jpg",
+     "move": "up",
+     "dur": 4.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_showroom/4_pixabay.jpg",
+     "move": "out",
+     "dur": 5.52,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_port_cars/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.544,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch09.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 4,
+     "name": "Nissan Navara",
+     "photo": "a/m_navara/3_commons.jpg",
+     "credit": "Photo: Andrew Priest from Fremantle, Australia \u00b7 CC BY 2.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "212 sales in July",
+     "sub": "An Aussie favourite under pressure",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_dealer_night_1.jpg",
+     "move": "down",
+     "dur": 2.68,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "-21.6%",
+     "label": "Nissan sales \u00b7 2025",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarExpert / VFACTS",
+     "color": "red",
+     "dur": 5.66,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "-28%",
+     "label": "Navara sales \u00b7 2025",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarExpert / VFACTS",
+     "color": "red",
+     "dur": 3.18,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_navara/4_commons.jpg",
+     "move": "left",
+     "dur": 5.62,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "New Navara sales",
+     "items": [
+      [
+       "May 2026",
+       217
+      ],
+      [
+       "Jul 2026",
+       212,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "source": "FCAI VFACTS",
+     "dur": 7.38,
+     "fixed": true
+    },
+    {
+     "type": "price",
+     "model": "Nissan Navara (base)",
+     "old": "$53,348",
+     "new": "$49,990",
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.6
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.0
+      }
+     ],
+     "old_note": "before on-road costs",
+     "new_note": "drive-away \u00b7 offer ended 31 Aug 2026",
+     "save": "-$3,358",
+     "source": "CarsGuide",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_salesman_waiting_1.jpg",
+     "move": "in",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_salesman_handshake_1.jpg",
+     "move": "left",
+     "dur": 4.78,
+     "fixed": true
+    },
+    {
+     "type": "price",
+     "model": "Nissan Navara Pro-4X",
+     "old": "$68,418",
+     "new": "$63,990",
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.6
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.0
+      }
+     ],
+     "old_note": "plus on-road costs",
+     "new_note": "drive-away \u00b7 offer ended 31 Aug 2026",
+     "source": "CarsGuide",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/g_car_dealership/2_commons.jpg",
+     "move": "out",
+     "dur": 5.26,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "+$2,000",
+     "label": "loyalty bonus for existing Nissan owners",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarsGuide",
+     "dur": 4.82,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_showroom/6_pixabay.jpg",
+     "move": "down",
+     "dur": 4.94,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "A warning sign.",
+     "highlight": "WARNING",
+     "size": 170,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.774,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch10.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 3,
+     "name": "BYD Shark 6",
+     "photo": "a/m_byd_shark/1_commons.jpg",
+     "credit": "Photo: Bernard Spragg. NZ from Christchurch, Ne \u00b7 CC0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "Plug-in hybrid",
+     "sub": "The ute that shook up the segment",
+     "dur": 5.92,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "300+ KW",
+     "label": "plug-in hybrid power",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "dur": 5.72,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev_charge/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.7,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "-53.2%",
+     "label": "Shark sales \u00b7 March 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarExpert / VFACTS",
+     "color": "red",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev_charge/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.76,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "$57,900",
+     "label": "Shark 6 Premium drive-away \u00b7 Feb\u2013Mar 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "BYD offer",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ev/2_pixabay.jpg",
+     "move": "right",
+     "dur": 6.22,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "32,009",
+     "label": "Shark 6 utes recalled \u00b7 spare wheel assembly",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "BYD Australia",
+     "color": "red",
+     "tag": "recall",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ev/3_pixabay.jpg",
+     "move": "in",
+     "dur": 3.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_byd_shark/2_commons.jpg",
+     "move": "in",
+     "dur": 6.32,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/g_byd_store/4_commons.jpg",
+     "move": "in",
+     "dur": 7.46,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_pickup_lot/3_unsplash.jpg",
+     "move": "left",
+     "dur": 7.315,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch11.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 2,
+     "name": "Toyota HiLux",
+     "photo": "a/m_hilux/3_commons.jpg",
+     "credit": "Photo: Andrew Priest from Fremantle, Australia \u00b7 CC BY 2.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "-19.1% in May",
+     "sub": "For years it was untouchable",
+     "dur": 6.32,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "-25%",
+     "label": "Toyota sales \u00b7 early 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarExpert / VFACTS",
+     "color": "red",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_offroad/4_pixabay.jpg",
+     "move": "up",
+     "dur": 4.24,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "-19.1%",
+     "label": "HiLux \u00b7 May 2026 vs May 2025",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarExpert / VFACTS",
+     "color": "red",
+     "dur": 4.32,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "2,600",
+     "label": "fewer HiLuxes sold in 2026 so far",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "The Driven / VFACTS",
+     "color": "red",
+     "dur": 7.14,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_offroad/2_pixabay.jpg",
+     "move": "out",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_offroad/5_unsplash.jpg",
+     "move": "out",
+     "dur": 4.16,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "14",
+     "label": "HiLux electric utes delivered in May 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "The Driven",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_offroad/6_pixabay.jpg",
+     "move": "down",
+     "dur": 2.96,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "4x4 ute sales \u00b7 July 2026",
+     "items": [
+      [
+       "HiLux",
+       4119
+      ],
+      [
+       "Ranger",
+       3827
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "source": "FCAI VFACTS",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/g_hilux_au/1_commons.jpg",
+     "move": "in",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/g_hilux_au/2_commons.jpg",
+     "move": "left",
+     "dur": 3.68,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_hilux/4_commons.jpg",
+     "move": "in",
+     "dur": 2.04,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_country_road/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.006,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch12.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 1,
+     "name": "Ford Ranger",
+     "photo": "a/m_ranger/1_commons.jpg",
+     "credit": "Photo: Bernard Spragg. NZ from Christchurch, Ne \u00b7 CC0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "Even the king",
+     "sub": "Australia's best-selling vehicle",
+     "dur": 5.48,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ute_outback/2_pixabay.jpg",
+     "move": "right",
+     "dur": 5.78,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Even the king is discounting.",
+     "highlight": "KING",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 2.58,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "-$3,000",
+     "label": "selected Ranger 4x4 variants",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Ford Australia / CarExpert",
+     "tag": "+ free servicing",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/g_ranger_au/1_commons.jpg",
+     "move": "out",
+     "dur": 5.74,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ranger/2_commons.jpg",
+     "move": "right",
+     "dur": 5.38,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "1,600",
+     "label": "fewer Rangers sold in 2026 so far",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "The Driven / VFACTS",
+     "color": "red",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/g_ranger_au/2_commons.jpg",
+     "move": "right",
+     "dur": 4.7,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ranger_raptor/1_commons.jpg",
+     "move": "in",
+     "dur": 5.28,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ranger/4_commons.jpg",
+     "move": "left",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/g_ranger_au/4_commons.jpg",
+     "move": "in",
+     "dur": 3.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_cars_port/3_pixabay.jpg",
+     "move": "in",
+     "dur": 3.62,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "The real story of 2026.",
+     "highlight": "2026",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.681,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch13.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/h_salesman/1_unsplash.jpg",
+     "move": "up",
+     "dur": 2.41,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "It's a buyer's market.",
+     "highlight": "BUYERS",
+     "size": 150,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_aerial_parking/2_pixabay.jpg",
+     "move": "up",
+     "dur": 2.99,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_pickup_lot/5_unsplash.jpg",
+     "move": "out",
+     "dur": 1.84,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Check the run-out stock.",
+     "highlight": "RUNOUT",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 7.14,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_cars_port/6_pixabay.jpg",
+     "move": "down",
+     "dur": 3.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_pickup_lot/6_pixabay.jpg",
+     "move": "in",
+     "dur": 6.34,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_country_road/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/g_motor_show/2_commons.jpg",
+     "move": "left",
+     "dur": 6.48,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_contract_signing_1.jpg",
+     "move": "in",
+     "caption": "Before you sign|Get the drive-away price in writing",
+     "dur": 4.92,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_salesman/2_pixabay.jpg",
+     "move": "out",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_aerial_parking/3_unsplash.jpg",
+     "move": "out",
+     "dur": 2.96,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "ABN",
+     "label": "ask about business pricing",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_aerial_parking/4_pixabay.jpg",
+     "move": "down",
+     "dur": 3.22,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_aerial_parking/1_unsplash.jpg",
+     "move": "in",
+     "caption": "Check the build date|Compliance plate",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_aerial_parking/5_unsplash.jpg",
+     "move": "in",
+     "dur": 3.24,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev_charge/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.4,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_melbourne/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.88,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_caravan/1_unsplash.jpg",
+     "move": "right",
+     "dur": 5.46,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_4x4_dirt/4_pixabay.jpg",
+     "move": "in",
+     "dur": 4.28,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "The right ute beats the cheapest ute.",
+     "highlight": "RIGHT",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.733,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch14.flac",
+   "lead_in": 0,
+   "tail": 2.5,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_beach_4wd/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.28,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "If this helped, hit like",
+     "sub": "and subscribe for real Aussie car data",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_bush/1_pixabay.jpg",
+     "move": "left",
+     "dur": 4.04,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Which ute will be #1 in 5 years?"
+     ],
+     "starts": [
+      0
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      }
+     ],
+     "dur": 5.24,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "10 Car Brands in Serious Trouble",
+     "subtitle": "Up next",
+     "tag": "next video",
+     "bg": "a/g_motor_show/3_commons.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      }
+     ],
+     "dur": 11.691,
+     "fixed": false,
+     "fade_out": 0
+    }
+   ]
+  }
+ ],
+ "size": [
+  1920,
+  1080
+ ],
+ "subtitles": "AUS01.ass"
+}

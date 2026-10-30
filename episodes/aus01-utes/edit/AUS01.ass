@@ -1,0 +1,296 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Doc,Inter SemiBold,44,&H0000E6FF,&H0000E6FF,&H00000000,&H96000000,0,0,0,0,100,100,0.5,0,1,2.4,1.2,2,200,200,62,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.48,Doc,,0,0,0,,For fifteen years, Australia\Nhas been ute country.
+Dialogue: 0,0:00:03.53,0:00:09.27,Doc,,0,0,0,,Tradies, farmers, families, weekend\Ncampers everyone wanted a dual-cab.
+Dialogue: 0,0:00:09.32,0:00:12.41,Doc,,0,0,0,,But right now, something\Nhas quietly broken.
+Dialogue: 0,0:00:12.46,0:00:14.53,Doc,,0,0,0,,In July 2026,
+Dialogue: 0,0:00:14.58,0:00:19.77,Doc,,0,0,0,,sales of 4x4 utes fell more than\Nfifteen per cent in a single year.
+Dialogue: 0,0:00:19.82,0:00:22.79,Doc,,0,0,0,,Australia's best-selling\Nute lost its crown.
+Dialogue: 0,0:00:22.84,0:00:26.19,Doc,,0,0,0,,One brand-new ute sold barely\Ntwo hundred units in a month.
+Dialogue: 0,0:00:26.24,0:00:30.75,Doc,,0,0,0,,And one dealer boss says you can drive\Nto the ports and see cars sitting
+Dialogue: 0,0:00:30.80,0:00:31.99,Doc,,0,0,0,,everywhere.
+Dialogue: 0,0:00:32.04,0:00:34.29,Doc,,0,0,0,,So which utes are feeling the squeeze?
+Dialogue: 0,0:00:34.34,0:00:36.43,Doc,,0,0,0,,Who's cutting prices to move them?
+Dialogue: 0,0:00:36.48,0:00:39.29,Doc,,0,0,0,,And if you're shopping for a ute in 2026,
+Dialogue: 0,0:00:39.34,0:00:43.01,Doc,,0,0,0,,is this the best time in\Nyears to buy or a trap?
+Dialogue: 0,0:00:43.06,0:00:47.33,Doc,,0,0,0,,Stick around, because number one on this\Nlist is a ute nobody expected to see
+Dialogue: 0,0:00:47.38,0:00:48.18,Doc,,0,0,0,,here.
+Dialogue: 0,0:00:48.43,0:00:52.20,Doc,,0,0,0,,Let's start with the numbers,\Nbecause they tell the whole story.
+Dialogue: 0,0:00:52.25,0:00:55.06,Doc,,0,0,0,,According to the industry's\Nofficial VFACTS data,
+Dialogue: 0,0:00:55.11,0:01:01.36,Doc,,0,0,0,,the 4x4 pick-up segment dropped\Nfrom 17,351 sales in July
+Dialogue: 0,0:01:01.41,0:01:07.56,Doc,,0,0,0,,2025 to 14,705 in July 2026.
+Dialogue: 0,0:01:07.61,0:01:09.82,Doc,,0,0,0,,That's a fall of 15.2 per cent.
+Dialogue: 0,0:01:09.87,0:01:11.78,Doc,,0,0,0,,And it's not a one-month blip.
+Dialogue: 0,0:01:11.83,0:01:15.44,Doc,,0,0,0,,Across the first eight months of 2026,
+Dialogue: 0,0:01:15.49,0:01:19.04,Doc,,0,0,0,,4x4 ute sales were down 13.6 per cent.
+Dialogue: 0,0:01:19.09,0:01:21.24,Doc,,0,0,0,,Now here's the strange part.
+Dialogue: 0,0:01:21.29,0:01:25.84,Doc,,0,0,0,,June 2026 was the biggest single\Nmonth for new car sales in Australian
+Dialogue: 0,0:01:25.89,0:01:26.62,Doc,,0,0,0,,history.
+Dialogue: 0,0:01:26.67,0:01:28.86,Doc,,0,0,0,,So Aussies are still buying cars.
+Dialogue: 0,0:01:28.91,0:01:30.48,Doc,,0,0,0,,They're just buying fewer utes.
+Dialogue: 0,0:01:30.53,0:01:35.00,Doc,,0,0,0,,Diesel sales overall were down about\Nthirteen per cent through the first part
+Dialogue: 0,0:01:35.05,0:01:40.56,Doc,,0,0,0,,of the year as buyers moved into hybrids,\Nplug-in hybrids and electric SUVs.
+Dialogue: 0,0:01:40.61,0:01:43.48,Doc,,0,0,0,,At the same time, choice has exploded.
+Dialogue: 0,0:01:43.53,0:01:47.20,Doc,,0,0,0,,There are now around twenty-five\Ndifferent utes on sale in Australia.
+Dialogue: 0,0:01:47.25,0:01:49.68,Doc,,0,0,0,,Back in January 2025,
+Dialogue: 0,0:01:49.73,0:01:54.40,Doc,,0,0,0,,Toyota Australia's then-boss Sean Hanley\Nfloated the idea that Australia had
+Dialogue: 0,0:01:54.45,0:01:58.66,Doc,,0,0,0,,hit "peak ute" that more utes\Nwouldn't mean more ute buyers.
+Dialogue: 0,0:01:58.71,0:02:01.60,Doc,,0,0,0,,Eighteen months later, it\Nlooks like he had a point.
+Dialogue: 0,0:02:01.65,0:02:04.64,Doc,,0,0,0,,And when supply goes up\Nwhile demand goes down,
+Dialogue: 0,0:02:04.69,0:02:08.30,Doc,,0,0,0,,there's only one place for the\Npressure to land: the dealer's yard.
+Dialogue: 0,0:02:08.35,0:02:11.76,Doc,,0,0,0,,Mark Beitz, managing director\Nof the Bartons Motor Group,
+Dialogue: 0,0:02:11.81,0:02:15.24,Doc,,0,0,0,,told CarsGuide there was\Nexcess inventory everywhere,
+Dialogue: 0,0:02:15.29,0:02:17.48,Doc,,0,0,0,,with cars piled up at the ports.
+Dialogue: 0,0:02:17.53,0:02:19.90,Doc,,0,0,0,,Add the New Vehicle Efficiency Standard,
+Dialogue: 0,0:02:19.95,0:02:22.98,Doc,,0,0,0,,which pushes brands to sell\Nlower-emission vehicles,
+Dialogue: 0,0:02:23.03,0:02:26.08,Doc,,0,0,0,,and diesel utes have become\Nharder to make money on.
+Dialogue: 0,0:02:26.13,0:02:27.66,Doc,,0,0,0,,Why does this matter so much?
+Dialogue: 0,0:02:27.71,0:02:32.50,Doc,,0,0,0,,Because for a lot of Australians, the\Nute is no longer just a work vehicle.
+Dialogue: 0,0:02:32.55,0:02:36.82,Doc,,0,0,0,,It replaced the big family sedan\Nas the default car in the driveway.
+Dialogue: 0,0:02:36.87,0:02:40.12,Doc,,0,0,0,,It tows the boat, the\Ncaravan and the horse float.
+Dialogue: 0,0:02:40.17,0:02:43.56,Doc,,0,0,0,,It does the school run on Monday\Nand the beach on Saturday.
+Dialogue: 0,0:02:43.61,0:02:46.58,Doc,,0,0,0,,When a vehicle that important\Nstarts to slow down,
+Dialogue: 0,0:02:46.63,0:02:50.54,Doc,,0,0,0,,it tells you something about the\Nwhole economy about interest rates,
+Dialogue: 0,0:02:50.59,0:02:51.90,Doc,,0,0,0,,about cost of living,
+Dialogue: 0,0:02:51.95,0:02:55.40,Doc,,0,0,0,,and about how Aussies are\Nrethinking what they really need.
+Dialogue: 0,0:02:55.45,0:02:58.35,Doc,,0,0,0,,So let's count down the ten\Nutes feeling it the most.
+Dialogue: 0,0:02:59.22,0:03:03.27,Doc,,0,0,0,,Starting at number ten: the LDV T60.
+Dialogue: 0,0:03:03.32,0:03:05.97,Doc,,0,0,0,,LDV has always been the budget option,
+Dialogue: 0,0:03:06.02,0:03:08.37,Doc,,0,0,0,,and it's leaning into\Nthat harder than ever.
+Dialogue: 0,0:03:08.42,0:03:10.33,Doc,,0,0,0,,In late 2025,
+Dialogue: 0,0:03:10.38,0:03:16.58,Doc,,0,0,0,,LDV dropped the T60 Max Pro\N4x4 automatic to $36,990
+Dialogue: 0,0:03:16.63,0:03:19.47,Doc,,0,0,0,,drive-away for ABN holders.
+Dialogue: 0,0:03:19.52,0:03:21.55,Doc,,0,0,0,,That's a $2,000 cut,
+Dialogue: 0,0:03:21.60,0:03:26.17,Doc,,0,0,0,,and at the time it made the T60 the\Ncheapest dual-cab ute with a tub in the
+Dialogue: 0,0:03:26.22,0:03:26.91,Doc,,0,0,0,,country.
+Dialogue: 0,0:03:26.96,0:03:30.95,Doc,,0,0,0,,The T60 also picked up safety\Ngear that was missing before,
+Dialogue: 0,0:03:31.00,0:03:33.87,Doc,,0,0,0,,including autonomous emergency braking.
+Dialogue: 0,0:03:33.92,0:03:35.19,Doc,,0,0,0,,But here's the catch.
+Dialogue: 0,0:03:35.24,0:03:39.77,Doc,,0,0,0,,When the cheapest dual-cab in Australia\Nstill needs a discount to stand out,
+Dialogue: 0,0:03:39.82,0:03:43.57,Doc,,0,0,0,,that tells you how crowded the\Nbottom of the market has become.
+Dialogue: 0,0:03:43.62,0:03:47.03,Doc,,0,0,0,,Chinese rivals are now fighting\Nover the same budget buyer,
+Dialogue: 0,0:03:47.08,0:03:50.53,Doc,,0,0,0,,and LDV's price advantage\Nis shrinking every month.
+Dialogue: 0,0:03:50.58,0:03:54.35,Doc,,0,0,0,,If you just need a basic work\Nute with a tray and a warranty,
+Dialogue: 0,0:03:54.40,0:03:59.75,Doc,,0,0,0,,the T60 is still one of the cheapest\Nways in just check what resale looks like
+Dialogue: 0,0:03:59.80,0:04:00.92,Doc,,0,0,0,,before you sign.
+Dialogue: 0,0:04:01.67,0:04:04.36,Doc,,0,0,0,,Number nine is the Kia Tasman.
+Dialogue: 0,0:04:04.41,0:04:06.80,Doc,,0,0,0,,This was a big deal when it launched.
+Dialogue: 0,0:04:06.85,0:04:10.22,Doc,,0,0,0,,Kia's first ute, developed\Nwith Australia firmly in mind,
+Dialogue: 0,0:04:10.27,0:04:13.28,Doc,,0,0,0,,and backed by one of the\Nstrongest brands in the country.
+Dialogue: 0,0:04:13.33,0:04:15.86,Doc,,0,0,0,,But the sales haven't followed the hype.
+Dialogue: 0,0:04:15.91,0:04:21.74,Doc,,0,0,0,,In May 2026, the Tasman\N4x4 managed 382 sales.
+Dialogue: 0,0:04:21.79,0:04:24.56,Doc,,0,0,0,,In July, 355.
+Dialogue: 0,0:04:24.61,0:04:30.70,Doc,,0,0,0,,For comparison, the Toyota\NHiLux 4x4 did 4,119 that same
+Dialogue: 0,0:04:30.75,0:04:31.58,Doc,,0,0,0,,July.
+Dialogue: 0,0:04:31.63,0:04:34.70,Doc,,0,0,0,,That's more than eleven\NHiLuxes for every Tasman.
+Dialogue: 0,0:04:34.75,0:04:36.92,Doc,,0,0,0,,To be fair, it's early days,
+Dialogue: 0,0:04:36.97,0:04:41.42,Doc,,0,0,0,,and Kia overall is doing well it was\NAustralia's third best-selling brand in
+Dialogue: 0,0:04:41.47,0:04:42.26,Doc,,0,0,0,,July.
+Dialogue: 0,0:04:42.31,0:04:46.86,Doc,,0,0,0,,But in a slumping segment, a new ute\Ndoesn't get years to find its feet.
+Dialogue: 0,0:04:46.91,0:04:48.66,Doc,,0,0,0,,If those numbers don't climb,
+Dialogue: 0,0:04:48.71,0:04:53.24,Doc,,0,0,0,,expect to see sharper deals on Tasman\Nstock in your local Kia dealer.
+Dialogue: 0,0:04:53.29,0:04:57.20,Doc,,0,0,0,,For buyers, that could make the Tasman\None of the most interesting ute deals
+Dialogue: 0,0:04:57.25,0:04:58.87,Doc,,0,0,0,,of the next twelve months.
+Dialogue: 0,0:04:59.81,0:05:02.98,Doc,,0,0,0,,At number eight, the Volkswagen Amarok.
+Dialogue: 0,0:05:03.03,0:05:07.78,Doc,,0,0,0,,Underneath, the current Amarok is a\NFord Ranger built alongside it in South
+Dialogue: 0,0:05:07.83,0:05:09.00,Doc,,0,0,0,,Africa.
+Dialogue: 0,0:05:09.05,0:05:12.28,Doc,,0,0,0,,Same bones, German badge, higher price.
+Dialogue: 0,0:05:12.33,0:05:13.66,Doc,,0,0,0,,And that's the problem.
+Dialogue: 0,0:05:13.71,0:05:19.04,Doc,,0,0,0,,In May 2026, the Amarok\Nsold just 271 units.
+Dialogue: 0,0:05:19.09,0:05:24.20,Doc,,0,0,0,,Volkswagen's answer was to go\Nupmarket with the new Amarok W600,
+Dialogue: 0,0:05:24.25,0:05:28.36,Doc,,0,0,0,,developed with Walkinshaw a name Aussie\Ncar fans will know from the Holden
+Dialogue: 0,0:05:28.41,0:05:30.28,Doc,,0,0,0,,Special Vehicles days.
+Dialogue: 0,0:05:30.33,0:05:36.54,Doc,,0,0,0,,But the W600 is priced about $1,300\Nabove the Ford Ranger Raptor,
+Dialogue: 0,0:05:36.59,0:05:39.92,Doc,,0,0,0,,which is the most famous\Nperformance ute in the country.
+Dialogue: 0,0:05:39.97,0:05:41.38,Doc,,0,0,0,,It's a bold bet.
+Dialogue: 0,0:05:41.43,0:05:45.26,Doc,,0,0,0,,Volkswagen's product manager told the\Npress that innovation in the ute segment
+Dialogue: 0,0:05:45.31,0:05:47.16,Doc,,0,0,0,,has never been greater.
+Dialogue: 0,0:05:47.21,0:05:47.72,Doc,,0,0,0,,Maybe.
+Dialogue: 0,0:05:47.77,0:05:51.54,Doc,,0,0,0,,But it's hard to win buyers when your\Ncheaper cousin is sitting in the Ford
+Dialogue: 0,0:05:51.59,0:05:53.38,Doc,,0,0,0,,showroom across the road.
+Dialogue: 0,0:05:53.43,0:05:56.66,Doc,,0,0,0,,If you like the Ranger but\Nwant something a bit different,
+Dialogue: 0,0:05:56.71,0:06:01.02,Doc,,0,0,0,,a well-priced Amarok could still be a\Nsmart buy especially if the dealer is
+Dialogue: 0,0:06:01.07,0:06:02.15,Doc,,0,0,0,,keen to move it.
+Dialogue: 0,0:06:03.96,0:06:05.36,Doc,,0,0,0,,Number seven: the Mitsubishi Triton.
+Dialogue: 0,0:06:05.41,0:06:09.26,Doc,,0,0,0,,Now, the Triton isn't in\Ntrouble the way some others are.
+Dialogue: 0,0:06:09.31,0:06:11.62,Doc,,0,0,0,,After a quiet 2025,
+Dialogue: 0,0:06:11.67,0:06:14.40,Doc,,0,0,0,,it bounced back in early 2026,
+Dialogue: 0,0:06:14.45,0:06:20.40,Doc,,0,0,0,,posting 1,747 4x4 sales in\NFebruary and briefly fighting for
+Dialogue: 0,0:06:20.45,0:06:21.78,Doc,,0,0,0,,third place.
+Dialogue: 0,0:06:21.83,0:06:23.90,Doc,,0,0,0,,But here's why it's on this list.
+Dialogue: 0,0:06:23.95,0:06:27.72,Doc,,0,0,0,,Mitsubishi's biggest new\Nrival might be… Mitsubishi.
+Dialogue: 0,0:06:27.77,0:06:31.76,Doc,,0,0,0,,The brand-new Nissan Navara is\Nessentially a rebadged Triton,
+Dialogue: 0,0:06:31.81,0:06:33.90,Doc,,0,0,0,,tuned locally by Premcar.
+Dialogue: 0,0:06:33.95,0:06:36.04,Doc,,0,0,0,,So in showrooms across Australia,
+Dialogue: 0,0:06:36.09,0:06:40.72,Doc,,0,0,0,,the same basic ute is now competing\Nagainst itself under two badges.
+Dialogue: 0,0:06:40.77,0:06:45.66,Doc,,0,0,0,,By July, Triton 4x4 sales\Nhad slipped to 1,081.
+Dialogue: 0,0:06:45.71,0:06:49.56,Doc,,0,0,0,,When two brands split one ute's\Nbuyers in a shrinking market,
+Dialogue: 0,0:06:49.61,0:06:51.22,Doc,,0,0,0,,somebody ends up discounting.
+Dialogue: 0,0:06:51.27,0:06:52.48,Doc,,0,0,0,,And when that happens,
+Dialogue: 0,0:06:52.53,0:06:56.24,Doc,,0,0,0,,the buyer is usually the winner so\Nit's worth getting quotes on both the
+Dialogue: 0,0:06:56.29,0:06:58.77,Doc,,0,0,0,,Triton and the Navara before you choose.
+Dialogue: 0,0:06:59.65,0:07:02.80,Doc,,0,0,0,,At number six, the Isuzu D-Max.
+Dialogue: 0,0:07:02.85,0:07:05.70,Doc,,0,0,0,,The D-Max is the steady achiever tough,
+Dialogue: 0,0:07:05.75,0:07:08.76,Doc,,0,0,0,,simple, reliable, and loved in the bush.
+Dialogue: 0,0:07:08.81,0:07:12.12,Doc,,0,0,0,,In February it held onto\Nthird spot among utes,
+Dialogue: 0,0:07:12.17,0:07:19.12,Doc,,0,0,0,,and in July it was still the third\Nbest-selling 4x4 ute with 1,292 sales.
+Dialogue: 0,0:07:19.17,0:07:20.46,Doc,,0,0,0,,So why is it here?
+Dialogue: 0,0:07:20.51,0:07:23.10,Doc,,0,0,0,,Because the pressure is\Ncoming from underneath.
+Dialogue: 0,0:07:23.15,0:07:27.60,Doc,,0,0,0,,The BYD Shark 6 has been trading blows\Nwith the D-Max for that third spot,
+Dialogue: 0,0:07:27.65,0:07:30.37,Doc,,0,0,0,,and more electrified utes are on the way.
+Dialogue: 0,0:07:30.42,0:07:34.10,Doc,,0,0,0,,GAC has confirmed its ute\Nwill be electrified only,
+Dialogue: 0,0:07:34.15,0:07:38.38,Doc,,0,0,0,,and Chery's diesel-electric\NStockman is due in late 2026.
+Dialogue: 0,0:07:38.43,0:07:43.18,Doc,,0,0,0,,The D-Max is a diesel ute in a market\Nthat is slowly turning away from diesel.
+Dialogue: 0,0:07:43.23,0:07:46.92,Doc,,0,0,0,,It's not falling yet but it's\Nstanding on shifting ground.
+Dialogue: 0,0:07:46.97,0:07:51.12,Doc,,0,0,0,,For the farmers and tradies who just\Nwant a simple diesel that runs forever,
+Dialogue: 0,0:07:51.17,0:07:55.26,Doc,,0,0,0,,the D-Max is still a favourite\Nand with competition this fierce,
+Dialogue: 0,0:07:55.31,0:07:59.03,Doc,,0,0,0,,it may be easier to negotiate\Non than it was a few years ago.
+Dialogue: 0,0:07:59.79,0:08:02.54,Doc,,0,0,0,,Quick one before we get into the top five.
+Dialogue: 0,0:08:02.59,0:08:07.00,Doc,,0,0,0,,If you're finding this useful, hit\Nsubscribe and turn on notifications.
+Dialogue: 0,0:08:07.05,0:08:11.52,Doc,,0,0,0,,We break down what's really happening\Nin the Australian car market every week
+Dialogue: 0,0:08:11.57,0:08:14.44,Doc,,0,0,0,,using real sales data, not rumours.
+Dialogue: 0,0:08:14.49,0:08:15.88,Doc,,0,0,0,,And tell me in the comments:
+Dialogue: 0,0:08:15.93,0:08:20.08,Doc,,0,0,0,,what ute do you drive right now, and\Nwould you buy the same one again?
+Dialogue: 0,0:08:20.13,0:08:21.53,Doc,,0,0,0,,I read every comment.
+Dialogue: 0,0:08:22.30,0:08:25.95,Doc,,0,0,0,,Number five is the GWM Cannon Alpha.
+Dialogue: 0,0:08:26.00,0:08:30.15,Doc,,0,0,0,,GWM has been one of the big success\Nstories of the Chinese wave,
+Dialogue: 0,0:08:30.20,0:08:34.21,Doc,,0,0,0,,and the Cannon range has been a\Nreal player in the ute segment.
+Dialogue: 0,0:08:34.26,0:08:36.11,Doc,,0,0,0,,But look at the price tags.
+Dialogue: 0,0:08:36.16,0:08:39.09,Doc,,0,0,0,,As part of its\Neighteenth-birthday celebrations,
+Dialogue: 0,0:08:39.14,0:08:43.19,Doc,,0,0,0,,GWM cut $4,000 off the\NCannon Alpha Ultra diesel,
+Dialogue: 0,0:08:43.24,0:08:49.37,Doc,,0,0,0,,bringing it to $54,990 drive-away\Nuntil the end of October
+Dialogue: 0,0:08:49.42,0:08:51.15,Doc,,0,0,0,,2026.
+Dialogue: 0,0:08:51.20,0:08:55.65,Doc,,0,0,0,,A $4,000 cut on a large\Ndual-cab is serious money.
+Dialogue: 0,0:08:55.70,0:08:59.80,Doc,,0,0,0,,It shows that even the brands winning\Nmarket share have to fight hard to move
+Dialogue: 0,0:08:59.85,0:09:02.97,Doc,,0,0,0,,utes right now because\Nevery buyer they win,
+Dialogue: 0,0:09:03.02,0:09:06.04,Doc,,0,0,0,,they're winning off a competitor\Nwho is also discounting.
+Dialogue: 0,0:09:07.84,0:09:09.47,Doc,,0,0,0,,At number four, the Nissan Navara.
+Dialogue: 0,0:09:09.52,0:09:14.39,Doc,,0,0,0,,This one hurts, because the Navara has\Nbeen an Aussie favourite for decades.
+Dialogue: 0,0:09:14.44,0:09:17.06,Doc,,0,0,0,,Nissan as a brand had a rough 2025.
+Dialogue: 0,0:09:17.11,0:09:23.23,Doc,,0,0,0,,Sales fell 21.6 per cent, and\Nthe old Navara fell 28 per cent.
+Dialogue: 0,0:09:23.28,0:09:28.27,Doc,,0,0,0,,The new-generation Navara that Triton\Ntwin we mentioned was supposed to turn
+Dialogue: 0,0:09:28.32,0:09:28.85,Doc,,0,0,0,,it around.
+Dialogue: 0,0:09:28.90,0:09:33.91,Doc,,0,0,0,,But in May 2026 it managed 217 sales.
+Dialogue: 0,0:09:33.96,0:09:36.23,Doc,,0,0,0,,In July, 212.
+Dialogue: 0,0:09:36.28,0:09:38.55,Doc,,0,0,0,,So Nissan reached for the price lever.
+Dialogue: 0,0:09:38.60,0:09:40.09,Doc,,0,0,0,,Until the end of August,
+Dialogue: 0,0:09:40.14,0:09:45.67,Doc,,0,0,0,,the base Navara was offered\Nat $49,990 drive-away,
+Dialogue: 0,0:09:45.72,0:09:51.01,Doc,,0,0,0,,down from $53,348 before on-road costs.
+Dialogue: 0,0:09:51.06,0:09:57.84,Doc,,0,0,0,,The top Pro-4X dropped to\N$63,990 drive-away from
+Dialogue: 0,0:09:57.89,0:10:01.27,Doc,,0,0,0,,$68,418 plus on-roads.
+Dialogue: 0,0:10:01.32,0:10:06.09,Doc,,0,0,0,,Existing Nissan owners were offered\Na $2,000 loyalty bonus on top.
+Dialogue: 0,0:10:06.14,0:10:07.79,Doc,,0,0,0,,Those deals have now ended,
+Dialogue: 0,0:10:07.84,0:10:11.03,Doc,,0,0,0,,but they tell you exactly\Nhow hard Nissan is pushing.
+Dialogue: 0,0:10:11.08,0:10:13.93,Doc,,0,0,0,,A brand-new model being\Ndiscounted this heavily,
+Dialogue: 0,0:10:13.98,0:10:16.00,Doc,,0,0,0,,this early, is a warning sign.
+Dialogue: 0,0:10:17.89,0:10:20.23,Doc,,0,0,0,,Number three: the BYD Shark 6.
+Dialogue: 0,0:10:20.28,0:10:22.73,Doc,,0,0,0,,This is the ute that shook\Nup the whole segment.
+Dialogue: 0,0:10:22.78,0:10:25.91,Doc,,0,0,0,,A plug-in hybrid, more than 300 kilowatts,
+Dialogue: 0,0:10:25.96,0:10:28.45,Doc,,0,0,0,,priced right against the Ranger and HiLux.
+Dialogue: 0,0:10:28.50,0:10:31.59,Doc,,0,0,0,,It became Australia's\Nbest-selling plug-in hybrid and,
+Dialogue: 0,0:10:31.64,0:10:35.15,Doc,,0,0,0,,at its peak, the fourth most\Npopular ute in the country.
+Dialogue: 0,0:10:35.20,0:10:37.91,Doc,,0,0,0,,But 2026 has been bumpier.
+Dialogue: 0,0:10:37.96,0:10:44.91,Doc,,0,0,0,,In March, Shark sales dropped\N53.2 per cent to 1,314 deliveries.
+Dialogue: 0,0:10:44.96,0:10:51.25,Doc,,0,0,0,,BYD ran a drive-away deal at\N$57,900 for the Shark 6 Premium in
+Dialogue: 0,0:10:51.30,0:10:56.13,Doc,,0,0,0,,February and March, including\Nrego, CTP and stamp duty.
+Dialogue: 0,0:10:56.18,0:11:01.83,Doc,,0,0,0,,And then came a recall affecting 32,009\NShark 6 utes over possible abnormal
+Dialogue: 0,0:11:01.88,0:11:04.37,Doc,,0,0,0,,wear in the spare wheel assembly.
+Dialogue: 0,0:11:04.42,0:11:08.31,Doc,,0,0,0,,BYD told owners they could remove the\Nspare wheel if they wanted to keep
+Dialogue: 0,0:11:08.36,0:11:10.69,Doc,,0,0,0,,driving while waiting for the fix.
+Dialogue: 0,0:11:10.74,0:11:11.69,Doc,,0,0,0,,To be clear,
+Dialogue: 0,0:11:11.74,0:11:15.93,Doc,,0,0,0,,the Shark is still a big seller it\Nwas the third best-selling 4x4 pick-up
+Dialogue: 0,0:11:15.98,0:11:18.15,Doc,,0,0,0,,across the first half of the year.
+Dialogue: 0,0:11:18.20,0:11:21.51,Doc,,0,0,0,,But it shows that even the\Ndisruptor isn't immune.
+Dialogue: 0,0:11:21.56,0:11:24.64,Doc,,0,0,0,,Everyone in this segment is\Nfighting for a smaller pie.
+Dialogue: 0,0:11:25.39,0:11:28.20,Doc,,0,0,0,,Number two is the Toyota HiLux.
+Dialogue: 0,0:11:28.25,0:11:29.90,Doc,,0,0,0,,Yes, the HiLux.
+Dialogue: 0,0:11:29.95,0:11:31.78,Doc,,0,0,0,,For years it was untouchable.
+Dialogue: 0,0:11:31.83,0:11:33.82,Doc,,0,0,0,,In early 2026,
+Dialogue: 0,0:11:33.87,0:11:36.78,Doc,,0,0,0,,Toyota as a whole was\Ndown around 25 per cent,
+Dialogue: 0,0:11:36.83,0:11:41.02,Doc,,0,0,0,,which Toyota blamed on supply\Nproblems during model changeovers.
+Dialogue: 0,0:11:41.07,0:11:45.34,Doc,,0,0,0,,The HiLux was down 19.1 per\Ncent year-on-year in May.
+Dialogue: 0,0:11:45.39,0:11:47.06,Doc,,0,0,0,,Through the first part of the year,
+Dialogue: 0,0:11:47.11,0:11:52.48,Doc,,0,0,0,,about 2,600 fewer HiLuxes\Nfound homes compared to 2025.
+Dialogue: 0,0:11:52.53,0:11:54.46,Doc,,0,0,0,,There's also a product question.
+Dialogue: 0,0:11:54.51,0:11:58.94,Doc,,0,0,0,,The latest HiLux is a heavy\Nupdate rather than an all-new ute,
+Dialogue: 0,0:11:58.99,0:12:01.64,Doc,,0,0,0,,and rivals have been\Nquick to point that out.
+Dialogue: 0,0:12:01.69,0:12:04.36,Doc,,0,0,0,,Toyota also launched a HiLux electric ute,
+Dialogue: 0,0:12:04.41,0:12:08.40,Doc,,0,0,0,,but with a fairly short range it's\Na niche product only fourteen were
+Dialogue: 0,0:12:08.45,0:12:09.60,Doc,,0,0,0,,delivered in May.
+Dialogue: 0,0:12:09.65,0:12:11.30,Doc,,0,0,0,,Now, here's the twist.
+Dialogue: 0,0:12:11.35,0:12:13.44,Doc,,0,0,0,,In July 2026,
+Dialogue: 0,0:12:13.49,0:12:16.01,Doc,,0,0,0,,the HiLux actually beat the Ranger,
+Dialogue: 0,0:12:16.06,0:12:20.62,Doc,,0,0,0,,4,119 to 3,827,
+Dialogue: 0,0:12:20.67,0:12:23.28,Doc,,0,0,0,,likely because new stock finally arrived.
+Dialogue: 0,0:12:23.33,0:12:25.32,Doc,,0,0,0,,So the HiLux isn't dying.
+Dialogue: 0,0:12:25.37,0:12:29.50,Doc,,0,0,0,,But Toyota fighting stock shortages\Nwhile the whole segment shrinks means
+Dialogue: 0,0:12:29.55,0:12:31.43,Doc,,0,0,0,,every month is now a battle.
+Dialogue: 0,0:12:33.55,0:12:33.53,Doc,,0,0,0,,And number one.
+Dialogue: 0,0:12:33.58,0:12:37.81,Doc,,0,0,0,,The ute nobody expected on a\Nlist like this: the Ford Ranger.
+Dialogue: 0,0:12:37.86,0:12:39.69,Doc,,0,0,0,,Australia's best-selling vehicle.
+Dialogue: 0,0:12:39.74,0:12:42.05,Doc,,0,0,0,,The Aussie-engineered hero.
+Dialogue: 0,0:12:42.10,0:12:43.59,Doc,,0,0,0,,So why is it here?
+Dialogue: 0,0:12:43.64,0:12:46.17,Doc,,0,0,0,,Because even the king is discounting.
+Dialogue: 0,0:12:46.22,0:12:52.39,Doc,,0,0,0,,Ford has been offering $3,000 off\Nselected Ranger 4x4 variants including the
+Dialogue: 0,0:12:52.44,0:12:56.91,Doc,,0,0,0,,plug-in hybrid plus, in some\Nperiods, five free general services.
+Dialogue: 0,0:12:56.96,0:13:02.29,Doc,,0,0,0,,That's ahead of the updated\NMY26.5 range arriving.
+Dialogue: 0,0:13:02.34,0:13:08.05,Doc,,0,0,0,,Ford sold about 1,600 fewer Rangers in\Nthe first part of 2026 than the year
+Dialogue: 0,0:13:08.10,0:13:11.99,Doc,,0,0,0,,before, mostly in the\Nexpensive 4x4 grades.
+Dialogue: 0,0:13:12.04,0:13:17.27,Doc,,0,0,0,,And in July, it lost the monthly top\Nspot among 4x4 utes to the HiLux.
+Dialogue: 0,0:13:17.32,0:13:19.03,Doc,,0,0,0,,Think about what that means.
+Dialogue: 0,0:13:19.08,0:13:23.51,Doc,,0,0,0,,If the most popular ute in Australia\Nneeds a few thousand dollars off and free
+Dialogue: 0,0:13:23.56,0:13:28.89,Doc,,0,0,0,,servicing to keep moving, then every ute\Nbelow it is under even more pressure.
+Dialogue: 0,0:13:28.94,0:13:31.54,Doc,,0,0,0,,That's the real story of 2026.
+Dialogue: 0,0:13:32.50,0:13:34.98,Doc,,0,0,0,,So what should you do if you need a ute?
+Dialogue: 0,0:13:35.03,0:13:37.39,Doc,,0,0,0,,First, this is a buyer's market.
+Dialogue: 0,0:13:37.44,0:13:38.59,Doc,,0,0,0,,Dealers are carrying stock,
+Dialogue: 0,0:13:38.64,0:13:42.97,Doc,,0,0,0,,brands are running drive-away\Ndeals, and loyalty bonuses are back.
+Dialogue: 0,0:13:43.02,0:13:44.81,Doc,,0,0,0,,Don't pay sticker price.
+Dialogue: 0,0:13:44.86,0:13:47.09,Doc,,0,0,0,,Second, check the run-out stock.
+Dialogue: 0,0:13:47.14,0:13:53.23,Doc,,0,0,0,,When a new model year arrives like the\NMY26.5 Ranger the outgoing stock is
+Dialogue: 0,0:13:53.28,0:13:55.45,Doc,,0,0,0,,often where the best deals are.
+Dialogue: 0,0:13:55.50,0:13:57.71,Doc,,0,0,0,,Third, think about resale.
+Dialogue: 0,0:13:57.76,0:14:01.79,Doc,,0,0,0,,Heavy discounting on a new model\Ncan drag down used values later.
+Dialogue: 0,0:14:01.84,0:14:04.63,Doc,,0,0,0,,If you're buying a ute that's\Nstruggling to sell new,
+Dialogue: 0,0:14:04.68,0:14:07.29,Doc,,0,0,0,,expect it to be worth\Nless when you trade it in.
+Dialogue: 0,0:14:07.34,0:14:10.33,Doc,,0,0,0,,And finally, deals change every month.
+Dialogue: 0,0:14:10.38,0:14:13.61,Doc,,0,0,0,,Everything we've covered here was\Ncorrect when it was announced,
+Dialogue: 0,0:14:13.66,0:14:17.55,Doc,,0,0,0,,but always confirm the current drive-away\Nprice with the dealer before you
+Dialogue: 0,0:14:17.60,0:14:18.69,Doc,,0,0,0,,sign anything.
+Dialogue: 0,0:14:18.74,0:14:21.35,Doc,,0,0,0,,A few more tips before you hit the yards.
+Dialogue: 0,0:14:21.40,0:14:23.53,Doc,,0,0,0,,Ask for the drive-away price in writing,
+Dialogue: 0,0:14:23.58,0:14:26.65,Doc,,0,0,0,,so there are no surprises\Nwith on-road costs.
+Dialogue: 0,0:14:26.70,0:14:28.17,Doc,,0,0,0,,If you have an ABN,
+Dialogue: 0,0:14:28.22,0:14:33.25,Doc,,0,0,0,,ask about business pricing a lot of\Nthe sharpest ute deals in 2026 were for
+Dialogue: 0,0:14:33.30,0:14:34.87,Doc,,0,0,0,,ABN holders.
+Dialogue: 0,0:14:34.92,0:14:37.23,Doc,,0,0,0,,Look at the build date\Non the compliance plate,
+Dialogue: 0,0:14:37.28,0:14:41.07,Doc,,0,0,0,,because a ute that's been sitting in\Nthe yard for months is exactly the kind
+Dialogue: 0,0:14:41.12,0:14:43.11,Doc,,0,0,0,,of stock dealers want to move.
+Dialogue: 0,0:14:43.16,0:14:46.67,Doc,,0,0,0,,And if you're thinking about a\Nplug-in hybrid like the Shark 6,
+Dialogue: 0,0:14:46.72,0:14:50.51,Doc,,0,0,0,,work out how much of your driving\Ncould be done on electric power.
+Dialogue: 0,0:14:50.56,0:14:53.15,Doc,,0,0,0,,If you charge at home and do short trips,
+Dialogue: 0,0:14:53.20,0:14:56.39,Doc,,0,0,0,,the running costs can be\Nvery different from a diesel.
+Dialogue: 0,0:14:56.44,0:14:59.55,Doc,,0,0,0,,If you tow heavy loads\Nlong distances every week,
+Dialogue: 0,0:14:59.60,0:15:01.85,Doc,,0,0,0,,the maths might change completely.
+Dialogue: 0,0:15:01.90,0:15:06.13,Doc,,0,0,0,,Most importantly, don't let a big\Ndiscount talk you into the wrong ute.
+Dialogue: 0,0:15:06.18,0:15:10.04,Doc,,0,0,0,,The cheapest ute is the one that\Nactually fits how you live and work.
+Dialogue: 0,0:15:10.79,0:15:16.14,Doc,,0,0,0,,That's the ten utes feeling the\Nsqueeze in Australia's 2026 slump.
+Dialogue: 0,0:15:16.19,0:15:17.54,Doc,,0,0,0,,If you learned something,
+Dialogue: 0,0:15:17.59,0:15:22.52,Doc,,0,0,0,,give this video a like it really helps\Nthe channel reach more Aussie drivers.
+Dialogue: 0,0:15:22.57,0:15:24.72,Doc,,0,0,0,,Subscribe so you don't\Nmiss next week's video,
+Dialogue: 0,0:15:24.77,0:15:29.00,Doc,,0,0,0,,and drop a comment telling me which ute\Nyou think will be number one in five
+Dialogue: 0,0:15:29.05,0:15:30.42,Doc,,0,0,0,,years' time.
+Dialogue: 0,0:15:30.47,0:15:34.50,Doc,,0,0,0,,Next up, we're looking at why so many\Ncar brands are in serious trouble in
+Dialogue: 0,0:15:34.55,0:15:38.00,Doc,,0,0,0,,Australia right now and one of them\Nmight be sitting in your driveway.
+Dialogue: 0,0:15:38.05,0:15:39.65,Doc,,0,0,0,,I'll see you there.

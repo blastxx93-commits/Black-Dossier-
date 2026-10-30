@@ -24,10 +24,10 @@ R.BRAND.update({
     "white": (245, 245, 242), "black": (10, 10, 12), "ink": (10, 10, 12), "grey": (165, 165, 170),
 })
 B = R.BRAND
-R.FONT_CANDIDATES["impact"] = ["fonts/Anton-Regular.ttf", "fonts/BebasNeue-Regular.ttf",
+R.FONT_CANDIDATES["impact"] = ["fonts/InterDisplay-Black.otf", "fonts/Anton-Regular.ttf", "fonts/BebasNeue-Regular.ttf",
                                "/usr/share/fonts/opentype/inter/InterDisplay-Black.otf",
                                "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"]
-R.FONT_CANDIDATES["body"] = ["/usr/share/fonts/opentype/inter/Inter-SemiBold.otf",
+R.FONT_CANDIDATES["body"] = ["fonts/Inter-SemiBold.otf", "/usr/share/fonts/opentype/inter/Inter-SemiBold.otf",
                              "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"]
 font, ease, wrap = R.font, R.ease, R.wrap
 CHANNEL = os.environ.get("AUS_CHANNEL", "")
@@ -662,5 +662,116 @@ def render(ep_path, preview=False, seg_shots=16):
     return out
 
 
+# ---------------------------------------------------------------- split render (cloud: one machine per part)
+def _setup(ep_path, preview=False):
+    ep = json.load(open(ep_path))
+    base = os.path.dirname(os.path.abspath(ep_path))
+    W, H = (960, 540) if preview else tuple(ep.get("size", [1920, 1080]))
+    ctx = R.Ctx(W, H, ep.get("fps", 24), base)
+    timeline, audio, total = R.build_timeline(ep, ctx)
+    return ep, ctx, timeline, audio, total
+
+
+def plan_parts(timeline, n):
+    """Contiguous groups of shots with about the same number of frames each."""
+    total = sum(nf for _, nf, _ in timeline)
+    groups, cur, acc, k = [], [], 0, 1
+    for i, (_, nf, _) in enumerate(timeline):
+        cur.append(i); acc += nf
+        if acc >= total * k / n and len(groups) < n - 1:
+            groups.append(cur); cur = []; k += 1
+    groups.append(cur)
+    return groups
+
+
+def _frames(ctx, timeline, idxs, prev_last):
+    W, H, fps = ctx.W, ctx.H, ctx.fps
+    for idx in idxs:
+        s, nf, _ = timeline[idx]
+        prev_s = timeline[idx - 1][0] if idx else None
+        kind = pick_trans(prev_s, s, idx)
+        tf = int(TRANS_DUR.get(kind, 0) * fps) if kind and prev_last is not None else 0
+        tf = min(tf, max(0, nf // 2))
+        last = prev_last
+        for i, fr in enumerate(R.SHOTS[s["type"]](ctx, s, nf)):
+            if fr.size != (W, H):
+                fr = fr.resize((W, H), Image.BICUBIC)
+            if fr.mode != "RGB":
+                fr = fr.convert("RGB")
+            if i < tf:
+                fr = transition(ctx, kind, prev_last, fr, (i + 1) / (tf + 1))
+            last = fr
+            yield fr
+        prev_last = last
+
+
+def render_part(ep_path, k, n, out, preview=False):
+    ep, ctx, timeline, audio, total = _setup(ep_path, preview)
+    idxs = plan_parts(timeline, n)[k]
+    prev_last = None
+    if idxs and idxs[0] > 0:  # the shot before this part: only its last frame is needed for the transition
+        for fr in _frames(ctx, timeline, [idxs[0] - 1], None):
+            prev_last = fr
+    nfr = sum(timeline[i][1] for i in idxs)
+    print(f"[parte {k + 1}/{n}] planos {idxs[0]}–{idxs[-1]}, {nfr} quadros", flush=True)
+    p = subprocess.Popen(["ffmpeg", "-y", "-v", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{ctx.W}x{ctx.H}",
+                          "-r", str(ctx.fps), "-i", "-", "-vf", grade_vf(ep), "-c:v", "libx264", "-preset", "veryfast",
+                          "-crf", "17", "-an", out], stdin=subprocess.PIPE)
+    done = 0
+    for fr in _frames(ctx, timeline, idxs, prev_last):
+        p.stdin.write(fr.tobytes()); done += 1
+        if done % 480 == 0:
+            print(f"[parte {k + 1}/{n}] {done}/{nfr}", flush=True)
+    p.stdin.close(); p.wait()
+    if p.returncode or done != nfr:
+        sys.exit(f"parte {k + 1} falhou ({done}/{nfr} quadros)")
+    print(f"[parte {k + 1}/{n}] pronta -> {out}", flush=True)
+
+
+def render_audio(ep_path, out_wav):
+    ep, ctx, timeline, audio, total = _setup(ep_path)
+    tmp = tempfile.mkdtemp(prefix="aus_")
+    R.mix_audio(ep, ctx, audio, timeline, total, out_wav, tmp)
+    shutil.rmtree(tmp, ignore_errors=True)
+    print(f"[audio] {total / 60:.2f} min -> {out_wav}", flush=True)
+
+
+def join(ep_path, parts, wav, out, delivery=None):
+    """Joins the parts + mix + burned subtitles. delivery: also write a ~3.2 Mbps copy (fits a 500 MB upload)."""
+    ep = json.load(open(ep_path))
+    base = os.path.dirname(os.path.abspath(ep_path))
+    lst = out + ".list.txt"
+    open(lst, "w").write("".join(f"file '{os.path.abspath(f)}'\n" for f in parts))
+    fvf = "format=yuv420p"
+    if ep.get("subtitles"):
+        sub = os.path.join(base, ep["subtitles"]).replace("\\", "/").replace(":", "\\:").replace("'", "\\'")
+        fvf = f"subtitles='{sub}':fontsdir='{os.path.join(HERE_AUS, 'fonts')}',format=yuv420p"
+    subprocess.run(["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", lst, "-i", wav, "-vf", fvf,
+                    "-c:v", "libx264", "-preset", "veryfast", "-crf", "19", "-c:a", "aac", "-b:a", "192k",
+                    "-movflags", "+faststart", "-shortest", out], check=True)
+    if delivery:
+        subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", out, "-c:v", "libx264", "-preset", "veryfast", "-b:v", "3200k",
+                        "-maxrate", "4500k", "-bufsize", "9000k", "-pix_fmt", "yuv420p", "-c:a", "copy",
+                        "-movflags", "+faststart", delivery], check=True)
+    print(f"[join] pronto -> {out}" + (f" e {delivery}" if delivery else ""), flush=True)
+
+
+HERE_AUS = os.path.dirname(os.path.abspath(__file__))
+
 if __name__ == "__main__":
-    render(sys.argv[1], preview="--preview" in sys.argv)
+    a = sys.argv
+    if "--part" in a:                       # render_aus.py ep.json --part 3/6 out.mp4
+        k, n = map(int, a[a.index("--part") + 1].split("/"))
+        render_part(a[1], k - 1, n, a[a.index("--part") + 2], preview="--preview" in a)
+    elif "--audio" in a:                    # render_aus.py ep.json --audio mix.wav
+        render_audio(a[1], a[a.index("--audio") + 1])
+    elif "--join" in a:                     # render_aus.py ep.json --join mix.wav out.mp4 [--delivery small.mp4] part1.mp4 ...
+        i = a.index("--join")
+        wav, out = a[i + 1], a[i + 2]
+        rest = a[i + 3:]
+        dl = None
+        if "--delivery" in rest:
+            j = rest.index("--delivery"); dl = rest[j + 1]; rest = rest[:j] + rest[j + 2:]
+        join(a[1], rest, wav, out, dl)
+    else:
+        render(a[1], preview="--preview" in a)
