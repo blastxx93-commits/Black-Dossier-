@@ -1,0 +1,139 @@
+[     0s] aus09-ev-2027: 16 planos de video
+[     1s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=electric+car+charging&page_size=8&urls=true&api_key=e46f0775805a10
+[     1s]   v_ev_charge / coverr: 0 filmes para 'electric car charging'
+[     2s]   v_ev_charge / pixabay: 12 filmes para 'electric car charging'
+[     2s]   v_ev_charge / pexels: 0 filmes para 'electric car charging'
+[     7s]     + 1_pixabay.mp4 de 'charging plug, e auto, electric car, charging station, e mob' a partir de 8s
+[    15s]     + 2_pixabay.mp4 de 'automobile, ev, electric, sola, battery, charge, energy, ele' a partir de 0s
+[    23s]     + 3_pixabay.mp4 de 'electric vehicle charging, sustainable urban lifestyle, busi' a partir de 0s
+[    23s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=electric+car+driving&page_size=8&urls=true&api_key=e46f0775805a10c
+[    23s]   v_ev_drive / coverr: 0 filmes para 'electric car driving'
+[    25s]   v_ev_drive / pixabay: 10 filmes para 'electric car driving'
+[    25s]   v_ev_drive / pexels: 0 filmes para 'electric car driving'
+[    27s]     + 1_pixabay.mp4 de 'car, interior, vehicle, automobile, transport, dashboard, sp' a partir de 11s
+[    33s]     + 2_pixabay.mp4 de 'car, road, transportation, vehicle, driving, car on road, tr' a partir de 21s
+[    43s]     + 3_pixabay.mp4 de 'car, desert, driving, drone, sand, arial, tajikistan' a partir de 0s
+[    44s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=charging+station&page_size=8&urls=true&api_key=e46f0775805a10c2dd3
+[    44s]   v_charging_station / coverr: 0 filmes para 'charging station'
+[    45s]   v_charging_station / pixabay: 12 filmes para 'charging station'
+[    45s]   v_charging_station / pexels: 0 filmes para 'charging station'
+[    45s]     trecho escuro em 0s, tentando mais adiante
+[    52s]     + 1_pixabay.mp4 de 'electric vehicle charging, green energy technology, sustaina' a partir de 0s
+[    55s]     + 2_pixabay.mp4 de 'space station, universe, international space station, future' a partir de 0s
+[    60s]     + 3_pixabay.mp4 de 'space station, exoplanet, space, universe, international spa' a partir de 0s
+[    60s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=home+garage+car&page_size=8&urls=true&api_key=e46f0775805a10c2dd34
+[    60s]   v_home / coverr: 0 filmes para 'home garage car'
+[    62s]   v_home / pixabay: 12 filmes para 'home garage car'
+[    62s]   v_home / pexels: 0 filmes para 'home garage car'
+[    73s]     + 1_pixabay.mp4 de 'traffic, city, stop, road, car, bridge, river, urban' a partir de 8s
+[    79s]     + 2_pixabay.mp4 de 'rallye, car race, rally, drifting, dirt, dust, curve, speed,' a partir de 0s
+[    87s]     + 3_pixabay.mp4 de 'street, traffic, cars, city, night, view, car, skyscrapers, ' a partir de 8s
+[    88s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=office+worker+laptop&page_size=8&urls=true&api_key=e46f0775805a10c
+[    88s]   v_office / coverr: 0 filmes para 'office worker laptop'
+[    89s]   v_office / pixabay: 12 filmes para 'office worker laptop'
+[    89s]   v_office / pexels: 0 filmes para 'office worker laptop'
+[    93s]     + 1_pixabay.mp4 de 'business, office, laptop, communication, woman, computer, wo' a partir de 8s
+[    96s]     + 2_pixabay.mp4 de 'office, secretary, business, work, woman, businesswoman, peo' a partir de 8s
+[    99s]     trecho escuro em 8s, tentando mais adiante
+[   102s]     trecho escuro em 8s, tentando mais adiante
+[   108s]     + 3_pixabay.mp4 de 'laptop, typing, notebook, computer, work, office, hands, mal' a partir de 0s
+[   109s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=signing+contract&page_size=8&urls=true&api_key=e46f0775805a10c2dd3
+[   109s]   v_signing / coverr: 0 filmes para 'signing contract'
+[   110s]   v_signing / pixabay: 11 filmes para 'signing contract'
+[   110s]   v_signing / pexels: 0 filmes para 'signing contract'
+[   117s]     trecho escuro em 8s, tentando mais adiante
+[   124s]     trecho escuro em 8s, tentando mais adiante
+[   137s]     + 1_pixabay.mp4 de 'contract, agreement, firm, business, office, balance, attorn' a partir de 0s
+[   142s]     + 2_pixabay.mp4 de 'bird, sparrow, signing, animal' a partir de 8s
+[   144s]     trecho escuro em 8s, tentando mais adiante
+[   145s]     trecho escuro em 8s, tentando mais adiante
+[   149s]     + 3_pixabay.mp4 de 'money, crypto, cryptocurrency, bitcoin, ethereum, blockchain' a partir de 0s
+[   150s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=calculator&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa8
+[   150s]   v_calc / coverr: 0 filmes para 'calculator'
+[   151s]   v_calc / pixabay: 11 filmes para 'calculator'
+[   151s]   v_calc / pexels: 0 filmes para 'calculator'
+[   165s]     + 1_pixabay.mp4 de 'man, calculator, calculation, surprise, mathematics, figures' a partir de 8s
+[   170s]     + 2_pixabay.mp4 de 'money, budget, count, cash, counting, calculator, finance, m' a partir de 8s
+[   176s]     + 3_pixabay.mp4 de 'woman, cash, beautiful wallpaper, money, paper, business, wo' a partir de 0s
+[   177s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=counting+money&page_size=8&urls=true&api_key=e46f0775805a10c2dd344
+[   177s]   v_money / coverr: 0 filmes para 'counting money'
+[   178s]   v_money / pixabay: 12 filmes para 'counting money'
+[   178s]   v_money / pexels: 0 filmes para 'counting money'
+[   183s]     + 1_pixabay.mp4 de 'money, income, salary, dollars, counting cash, payment, coun' a partir de 8s
+[   187s]     + 2_pixabay.mp4 de 'money, income, salary, dollars, counting cash, payment, coun' a partir de 0s
+[   192s]     + 3_pixabay.mp4 de 'cash, bills, banknotes, income, business, currency, dollar, ' a partir de 0s
+[   192s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=city+traffic&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444a
+[   192s]   v_traffic / coverr: 0 filmes para 'city traffic'
+[   194s]   v_traffic / pixabay: 12 filmes para 'city traffic'
+[   194s]   v_traffic / pexels: 0 filmes para 'city traffic'
+[   198s]     trecho escuro em 8s, tentando mais adiante
+[   202s]     trecho escuro em 8s, tentando mais adiante
+[   209s]     + 1_pixabay.mp4 de 'traffic, city traffic, drone, transportation, crowd, driving' a partir de 0s
+[   213s]     + 2_pixabay.mp4 de 'seoul, traffic, cars, city, speed, lights, south korea, nigh' a partir de 0s
+[   226s]     + 3_pixabay.mp4 de 'sunset, canal, city, light, afternoon, houses, urban, traffi' a partir de 14s
+[   227s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=highway+driving&page_size=8&urls=true&api_key=e46f0775805a10c2dd34
+[   227s]   v_highway / coverr: 0 filmes para 'highway driving'
+[   228s]   v_highway / pixabay: 11 filmes para 'highway driving'
+[   228s]   v_highway / pexels: 0 filmes para 'highway driving'
+[   238s]     + 1_pixabay.mp4 de 'transport, traffic, highway, road, transportation, city, tra' a partir de 9s
+[   238s]     trecho escuro em 0s, tentando mais adiante
+[   244s]     + 2_pixabay.mp4 de 'road, driving, drive, vehicle, travel, roadway, transport, t' a partir de 0s
+[   251s]     + 3_pixabay.mp4 de 'highway, road, car, transportation, vehicle, driving, trees,' a partir de 11s
+[   252s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=fuel+pump&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85
+[   252s]   v_fuel / coverr: 0 filmes para 'fuel pump'
+[   253s]   v_fuel / pixabay: 11 filmes para 'fuel pump'
+[   253s]   v_fuel / pexels: 0 filmes para 'fuel pump'
+[   253s]     trecho escuro em 0s, tentando mais adiante
+[   257s]     + 1_pixabay.mp4 de 'oil, drilling, petroleum, rig, offshore, industry, platform,' a partir de 0s
+[   260s]     + 2_pixabay.mp4 de 'oil, rig, drilling, petroleum, offshore, industry, platform,' a partir de 0s
+[   278s]     + 3_pixabay.mp4 de 'road, fuel station, petrol pump, night road, night, highway,' a partir de 0s
+[   279s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=parliament&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa8
+[   279s]   v_parliament / coverr: 0 filmes para 'parliament'
+[   280s]   v_parliament / pixabay: 12 filmes para 'parliament'
+[   280s]   v_parliament / pexels: 0 filmes para 'parliament'
+[   288s]     + 1_pixabay.mp4 de 'bridge, parliament, people, ship, hungary, budapest, danube,' a partir de 8s
+[   295s]     trecho escuro em 8s, tentando mais adiante
+[   302s]     trecho escuro em 8s, tentando mais adiante
+[   311s]     + 2_pixabay.mp4 de 'big ben, london, clouds, cloudscape, landmark, historic, tow' a partir de 8s
+[   319s]     trecho escuro em 8s, tentando mais adiante
+[   327s]     trecho escuro em 8s, tentando mais adiante
+[   338s]     + 3_pixabay.mp4 de 'flag, norway, oslo, norway flag, scandinavia, europe, norweg' a partir de 8s
+[   339s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=dashboard+driving&page_size=8&urls=true&api_key=e46f0775805a10c2dd
+[   339s]   v_odometer / coverr: 0 filmes para 'dashboard driving'
+[   340s]   v_odometer / pixabay: 9 filmes para 'dashboard driving'
+[   340s]   v_odometer / pexels: 0 filmes para 'dashboard driving'
+[   341s]     trecho escuro em 0s, tentando mais adiante
+[   347s]     + 1_pixabay.mp4 de 'speed, meter, speedometer, dashboard, vehicle, competition, ' a partir de 0s
+[   350s]     trecho escuro em 8s, tentando mais adiante
+[   353s]     trecho escuro em 8s, tentando mais adiante
+[   357s]     trecho escuro em 8s, tentando mais adiante
+[   358s]     trecho escuro em 8s, tentando mais adiante
+[   370s]     + 2_pixabay.mp4 de 'car, driving, sunset, sunlight, lens, flare, drone, aerial, ' a partir de 0s
+[   371s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=car+dashboard&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444
+[   371s]   v_odometer / coverr: 0 filmes para 'car dashboard'
+[   372s]   v_odometer / pixabay: 12 filmes para 'car dashboard'
+[   372s]   v_odometer / pexels: 0 filmes para 'car dashboard'
+[   379s]     + 3_pixabay.mp4 de 'roulette wheel, game equipment, equipment, sign, indicator, ' a partir de 0s
+[   380s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=car+showroom&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444a
+[   380s]   v_dealer / coverr: 0 filmes para 'car showroom'
+[   381s]   v_dealer / pixabay: 11 filmes para 'car showroom'
+[   381s]   v_dealer / pexels: 0 filmes para 'car showroom'
+[   385s]     + 1_pixabay.mp4 de 'car, red, rotate, rotating, 360, showroom, red car, vehicle,' a partir de 0s
+[   390s]     + 2_pixabay.mp4 de 'car dealership success, new vehicle purchase, professional c' a partir de 0s
+[   396s]     + 3_pixabay.mp4 de 'porsche, vintage speedster, speedster, classic, classic cars' a partir de 18s
+[   396s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=car+carrier+ship&page_size=8&urls=true&api_key=e46f0775805a10c2dd3
+[   396s]   v_ship / coverr: 0 filmes para 'car carrier ship'
+[   398s]   v_ship / pixabay: 12 filmes para 'car carrier ship'
+[   398s]   v_ship / pexels: 0 filmes para 'car carrier ship'
+[   402s]     + 1_pixabay.mp4 de 'trucks, road, transport, highway, loading, car, shipping, tr' a partir de 8s
+[   406s]     + 2_pixabay.mp4 de 'trucks, transport, road, highway, carrier, trucking, displac' a partir de 21s
+[   410s]     + 3_pixabay.mp4 de 'ship, lake, clouds, heaven, shipping, cloud formation' a partir de 20s
+[   411s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=city+night+traffic&page_size=8&urls=true&api_key=e46f0775805a10c2d
+[   411s]   v_city_night / coverr: 0 filmes para 'city night traffic'
+[   412s]   v_city_night / pixabay: 12 filmes para 'city night traffic'
+[   412s]   v_city_night / pexels: 0 filmes para 'city night traffic'
+[   418s]     trecho escuro em 8s, tentando mais adiante
+[   424s]     trecho escuro em 8s, tentando mais adiante
+[   437s]     + 1_pixabay.mp4 de 'traffic, urban, night lights, city, night' a partir de 0s
+[   443s]     + 2_pixabay.mp4 de 'traffic flow, night view, urban, city' a partir de 0s
+[   448s]     + 3_pixabay.mp4 de 'city, hong kong, night, aerial view, cityscape, flight, traf' a partir de 27s
