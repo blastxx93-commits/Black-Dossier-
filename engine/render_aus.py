@@ -752,7 +752,7 @@ def join(ep_path, parts, wav, out, delivery=None):
         cmd = ["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", lst, "-i", wav, "-filter_complex", fc,
                "-map", "[full]", "-map", "1:a", "-c:v", "libx264", "-preset", "veryfast", "-crf", "19", "-c:a", "aac", "-b:a", "192k",
                "-movflags", "+faststart", "-shortest", out,
-               "-map", "[small]", "-map", "1:a", "-c:v", "libx264", "-preset", "veryfast", "-b:v", "3200k", "-maxrate", "4500k",
+               "-map", "[small]", "-map", "1:a", "-c:v", "libx264", "-preset", "veryfast", "-b:v", "2600k", "-maxrate", "3200k",
                "-bufsize", "9000k", "-c:a", "aac", "-b:a", "192k", "-movflags", "+faststart", "-shortest", delivery]
     else:
         cmd = ["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", lst, "-i", wav, "-vf", fvf,
