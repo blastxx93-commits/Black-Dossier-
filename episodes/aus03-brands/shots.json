@@ -1,0 +1,469 @@
+{
+ "defaults": {
+  "n": 4,
+  "sources": [
+   "commons",
+   "pixabay"
+  ]
+ },
+ "shots": [
+  {
+   "id": "m_deepal",
+   "query": "Deepal S07",
+   "alt": [
+    "Deepal E07",
+    "Changan Deepal"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_kgm",
+   "query": "KGM Torres",
+   "alt": [
+    "SsangYong Torres",
+    "SsangYong Musso"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_alfa",
+   "query": "Alfa Romeo Tonale",
+   "alt": [
+    "Alfa Romeo Giulia 2023",
+    "Alfa Romeo Stelvio"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_suzuki_fronx",
+   "query": "Suzuki Fronx",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_jimny",
+   "query": "Suzuki Jimny",
+   "alt": [
+    "Suzuki Jimny 2023"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_swift",
+   "query": "Suzuki Swift 2024",
+   "alt": [
+    "Suzuki Swift sixth generation"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_vw_troc",
+   "query": "Volkswagen T-Roc",
+   "alt": [
+    "Volkswagen T-Roc 2022"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_vw_golf",
+   "query": "Volkswagen Golf 8",
+   "alt": [
+    "Volkswagen Golf 2021"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_forester",
+   "query": "Subaru Forester 2025",
+   "alt": [
+    "Subaru Forester sixth generation"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_outback",
+   "query": "Subaru Outback 2025",
+   "alt": [
+    "Subaru Outback"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_xtrail",
+   "query": "Nissan X-Trail 2023",
+   "alt": [
+    "Nissan X-Trail e-Power"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_qashqai",
+   "query": "Nissan Qashqai 2024",
+   "alt": [
+    "Nissan Qashqai J12"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_patrol",
+   "query": "Nissan Patrol Y63",
+   "alt": [
+    "Nissan Patrol 2025"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_outlander",
+   "query": "Mitsubishi Outlander PHEV 2023",
+   "alt": [
+    "Mitsubishi Outlander 2022"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_asx",
+   "query": "Mitsubishi ASX 2023",
+   "alt": [
+    "Renault Captur 2024"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_triton",
+   "query": "Mitsubishi Triton 2024",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_jeep",
+   "query": "Jeep Compass 2022",
+   "alt": [
+    "Jeep Wrangler 2022",
+    "Jeep Avenger"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_grand_cherokee",
+   "query": "Jeep Grand Cherokee 2022",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_peugeot_5008",
+   "query": "Peugeot 5008 2024",
+   "alt": [
+    "Peugeot 5008"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_peugeot_308",
+   "query": "Peugeot 308 2022",
+   "alt": [
+    "Peugeot 308"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_jaguar",
+   "query": "Jaguar F-Pace",
+   "alt": [
+    "Jaguar Type 00",
+    "Jaguar I-Pace"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_geely",
+   "query": "Geely Starray",
+   "alt": [
+    "Geely EX5",
+    "Geely Galaxy"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_byd",
+   "query": "BYD Sealion 7",
+   "alt": [
+    "BYD Atto 3"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_zeekr",
+   "query": "Zeekr 7X",
+   "alt": [
+    "Zeekr X",
+    "Zeekr 001"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_omoda",
+   "query": "Omoda 5",
+   "alt": [
+    "Jaecoo J7"
+   ],
+   "n": 4
+  },
+  {
+   "id": "g_dealer_au",
+   "query": "car dealership Australia",
+   "alt": [
+    "car showroom Australia"
+   ],
+   "n": 6
+  },
+  {
+   "id": "g_motor_show",
+   "query": "motor show 2025",
+   "alt": [
+    "motor show 2024",
+    "auto show 2025"
+   ],
+   "n": 8
+  },
+  {
+   "id": "h_dealer",
+   "query": "car dealership",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_showroom",
+   "query": "car showroom",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_empty_showroom",
+   "query": "empty car showroom",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_sale_sign",
+   "query": "sale sign shop",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_closed",
+   "query": "closed sign shop",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_parking",
+   "query": "cars parked lot aerial",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_port",
+   "query": "car carrier ship port",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_highway",
+   "query": "highway traffic",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_sydney",
+   "query": "Sydney traffic",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_melbourne",
+   "query": "Melbourne city",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_ev",
+   "query": "electric car charging",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_petrol",
+   "query": "fuel pump",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_keys",
+   "query": "car keys hand",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_contract",
+   "query": "signing contract",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_mechanic",
+   "query": "car mechanic service",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_crash_test",
+   "query": "car crash test",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_seatbelt",
+   "query": "seatbelt car",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_factory",
+   "query": "car factory robots",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_money",
+   "query": "australian dollars",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_chart",
+   "query": "sales chart down",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_handshake",
+   "query": "business handshake",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_outback",
+   "query": "Australian outback road",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_family_car",
+   "query": "family car road trip",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_used_cars",
+   "query": "used cars for sale",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  }
+ ]
+}

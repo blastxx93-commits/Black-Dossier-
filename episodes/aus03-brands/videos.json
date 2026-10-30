@@ -1,0 +1,139 @@
+{
+ "defaults": {
+  "n": 3,
+  "clip": 8,
+  "sources": [
+   "coverr",
+   "pixabay",
+   "pexels"
+  ]
+ },
+ "shots": [
+  {
+   "id": "v_dealer",
+   "query": "car dealership",
+   "alt": [
+    "car showroom"
+   ]
+  },
+  {
+   "id": "v_salesman",
+   "query": "car salesman",
+   "alt": [
+    "buying a car"
+   ]
+  },
+  {
+   "id": "v_parking",
+   "query": "parking lot aerial",
+   "alt": [
+    "cars parked drone"
+   ]
+  },
+  {
+   "id": "v_port",
+   "query": "car carrier ship",
+   "alt": [
+    "port cars terminal"
+   ]
+  },
+  {
+   "id": "v_highway",
+   "query": "highway traffic aerial",
+   "alt": [
+    "freeway traffic"
+   ]
+  },
+  {
+   "id": "v_city",
+   "query": "city traffic night",
+   "alt": [
+    "city street cars"
+   ]
+  },
+  {
+   "id": "v_ev",
+   "query": "electric car charging",
+   "alt": [
+    "EV charging"
+   ]
+  },
+  {
+   "id": "v_fuel",
+   "query": "refuel car",
+   "alt": [
+    "gas pump"
+   ]
+  },
+  {
+   "id": "v_factory",
+   "query": "car factory",
+   "alt": [
+    "car assembly robots"
+   ]
+  },
+  {
+   "id": "v_crash_test",
+   "query": "car crash test",
+   "alt": [
+    "crash test dummy"
+   ]
+  },
+  {
+   "id": "v_keys",
+   "query": "car keys",
+   "alt": [
+    "handing car keys"
+   ]
+  },
+  {
+   "id": "v_money",
+   "query": "counting money",
+   "alt": [
+    "cash money"
+   ]
+  },
+  {
+   "id": "v_chart",
+   "query": "stock chart down",
+   "alt": [
+    "graph falling"
+   ]
+  },
+  {
+   "id": "v_road",
+   "query": "road trip driving",
+   "alt": [
+    "driving country road"
+   ]
+  },
+  {
+   "id": "v_offroad",
+   "query": "4x4 off road",
+   "alt": [
+    "off road driving"
+   ]
+  },
+  {
+   "id": "v_mechanic",
+   "query": "car mechanic",
+   "alt": [
+    "auto repair"
+   ]
+  },
+  {
+   "id": "v_signing",
+   "query": "signing document",
+   "alt": [
+    "contract signing pen"
+   ]
+  },
+  {
+   "id": "v_family",
+   "query": "family car",
+   "alt": [
+    "family road trip"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "model": "black-forest-labs/flux-1.1-pro-ultra",
+ "raw": true,
+ "n": 1,
+ "style": ", modern Australian documentary photograph, 2026, natural light, realistic, sharp, cinematic colour grade, no logos, no badges, no readable text, no brand names",
+ "shots": [
+  {
+   "id": "ai_empty_dealer_day",
+   "prompt": "A large modern Australian car dealership showroom in daytime with shiny new SUVs and not a single customer, one bored salesperson at a desk, wide shot"
+  },
+  {
+   "id": "ai_dealer_closing",
+   "prompt": "Workers removing large illuminated brand signage from the front of an Australian car dealership at dusk, letters on the ground, seen from far away, no readable text"
+  },
+  {
+   "id": "ai_dealer_clearance",
+   "prompt": "An Australian car dealership forecourt with big red CLEARANCE style banners without readable text and rows of discounted SUVs, sunny day"
+  },
+  {
+   "id": "ai_chinese_cars_lot",
+   "prompt": "A huge port storage yard full of brand-new colourful electric SUVs just unloaded from a car carrier ship in Australia, aerial view"
+  },
+  {
+   "id": "ai_old_vs_new",
+   "prompt": "A shiny new electric SUV parked beside an older petrol SUV with a FOR SALE sign without readable text in a suburban Australian driveway"
+  },
+  {
+   "id": "ai_board_meeting",
+   "prompt": "Executives in a glass boardroom looking at a large screen with falling sales bar charts, seen from behind, blurred text"
+  },
+  {
+   "id": "ai_crash_test",
+   "prompt": "A small SUV in a crash test facility moments after a frontal impact, crash test dummy visible, bright lights"
+  },
+  {
+   "id": "ai_offroad_heritage",
+   "prompt": "A classic boxy 4x4 off-roader parked alone on a red dirt outback track at sunset, nostalgic mood"
+  },
+  {
+   "id": "ai_service_centre",
+   "prompt": "A quiet car service centre in an Australian suburb with one car on a hoist and a technician, late afternoon"
+  },
+  {
+   "id": "ai_resale_value",
+   "prompt": "A used car sales yard in Australia with price tags on windscreens without readable text, a customer looking at an SUV, overcast"
+  },
+  {
+   "id": "ai_showroom_ev_crowd",
+   "prompt": "A busy modern electric car showroom in an Australian shopping centre packed with customers looking at new EVs, bright"
+  },
+  {
+   "id": "ai_parts_shelf",
+   "prompt": "A car dealer parts counter with boxed spare parts on shelves behind, a customer waiting, seen from behind"
+  },
+  {
+   "id": "ai_family_driveway",
+   "prompt": "An Australian family loading a mid-size SUV in a suburban driveway on a sunny Saturday morning, seen from behind"
+  },
+  {
+   "id": "ai_luxury_empty",
+   "prompt": "An empty luxury car showroom with polished floors and spotlights on an empty display podium, no car on it, moody"
+  }
+ ]
+}
