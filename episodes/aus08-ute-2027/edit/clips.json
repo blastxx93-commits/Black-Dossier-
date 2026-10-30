@@ -1,0 +1,12 @@
+{"ute": ["v_offroad/1", "v_pickup/3"],
+ "farm": ["v_farm/1", "v_farm/3", "v_farm/2"],
+ "tow": ["v_tow/1"],
+ "road": ["v_pickup/1", "v_outback/2", "v_dealer/3", "v_offroad/3"],
+ "diesel": ["v_exhaust/2", "v_exhaust/1"],
+ "lab": ["v_factory/1", "v_exhaust/3"],
+ "mine": ["v_mine/1", "v_construction/1", "v_mine/2"],
+ "money": ["v_money/1", "v_money/2"],
+ "ev": ["v_ev/1", "v_ev/3", "v_ev/2"],
+ "dealer": ["v_dealer/1"],
+ "ute_work": ["v_construction/3"],
+ "_generic": ["v_pickup/1", "v_pickup/3", "v_outback/2", "v_dealer/3", "v_offroad/3", "v_construction/1", "v_construction/3", "v_dealer/2", "v_highway/2"]}
