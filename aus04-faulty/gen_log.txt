@@ -1,0 +1,53 @@
+ai_owner_angry_dealer_1: Gemini falhou (Gemini 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and ), tentando Replicate
+ai_owner_angry_dealer_1: 2752x1536
+ai_car_on_hoist_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_car_on_hoist_1: 2752x1536
+ai_fault_diary_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_fault_diary_1: 2752x1536
+ai_tribunal_room_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_tribunal_room_1: 2752x1536
+ai_compliance_plate_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_compliance_plate_1: 2752x1536
+ai_recall_letter_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_recall_letter_1: 2752x1536
+ai_owner_news_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_owner_news_1: 2752x1536
+ai_rusty_panel_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_rusty_panel_1: 2752x1536
+ai_family_stranded_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_family_stranded_1: 2752x1536
+ai_dealer_empty_desk_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_dealer_empty_desk_1: 2752x1536
+ai_documents_tribunal_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_documents_tribunal_1: 2752x1536
+ai_resale_yard_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_resale_yard_1: 2752x1536
+persona_angry_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+persona_angry_1: 2752x1536
+persona_angry_2: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+persona_angry_2: 2752x1536
+# Imagens IA — aus04-faulty
+
+- Modelo: `gemini-2.5-flash-image`
+- Imagens geradas: 14
+- Folhas: ai_contact_sheet_1.jpg, ai_contact_sheet_2.jpg, ai_contact_sheet_3.jpg
+
+| plano | resultado |
+|---|---|
+| `ai_owner_angry_dealer` | 1 de 1 |
+| `ai_car_on_hoist` | 1 de 1 |
+| `ai_fault_diary` | 1 de 1 |
+| `ai_tribunal_room` | 1 de 1 |
+| `ai_compliance_plate` | 1 de 1 |
+| `ai_recall_letter` | 1 de 1 |
+| `ai_owner_news` | 1 de 1 |
+| `ai_rusty_panel` | 1 de 1 |
+| `ai_family_stranded` | 1 de 1 |
+| `ai_dealer_empty_desk` | 1 de 1 |
+| `ai_documents_tribunal` | 1 de 1 |
+| `ai_resale_yard` | 1 de 1 |
+| `persona_angry` | 2 de 2 |
+
