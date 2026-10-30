@@ -134,6 +134,90 @@
    "alt": [
     "car crash slow motion"
    ]
+  },
+  {
+   "id": "v_garage",
+   "query": "car repair garage",
+   "alt": [
+    "auto repair mechanic working"
+   ]
+  },
+  {
+   "id": "v_under_car",
+   "query": "mechanic under car",
+   "alt": [
+    "car lift garage"
+   ]
+  },
+  {
+   "id": "v_handshake",
+   "query": "business handshake",
+   "alt": [
+    "handshake office"
+   ]
+  },
+  {
+   "id": "v_writing",
+   "query": "writing notes notebook",
+   "alt": [
+    "hand writing pen paper"
+   ]
+  },
+  {
+   "id": "v_frustrated",
+   "query": "frustrated man",
+   "alt": [
+    "stressed man office"
+   ]
+  },
+  {
+   "id": "v_driving",
+   "query": "driving car interior",
+   "alt": [
+    "man driving car"
+   ]
+  },
+  {
+   "id": "v_highway",
+   "query": "highway aerial",
+   "alt": [
+    "motorway traffic aerial"
+   ]
+  },
+  {
+   "id": "v_city_cars",
+   "query": "cars city street",
+   "alt": [
+    "street traffic day"
+   ]
+  },
+  {
+   "id": "v_rust",
+   "query": "rusty car",
+   "alt": [
+    "old rusty car"
+   ]
+  },
+  {
+   "id": "v_paperwork",
+   "query": "paperwork office",
+   "alt": [
+    "documents desk"
+   ]
+  },
+  {
+   "id": "v_showroom",
+   "query": "car showroom",
+   "alt": [
+    "new cars dealership"
+   ]
+  },
+  {
+   "id": "v_wheel",
+   "query": "car wheel tyre",
+   "alt": [
+    "changing tire"
+   ]
   }
  ]
 }
