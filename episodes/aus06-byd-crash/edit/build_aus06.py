@@ -10,20 +10,20 @@ import aus_kit as A
 from aus_kit import P, photo, stat, bars, say, cta, title, ch, questions
 
 PHOTOS = {
-    "crash": ["ai:ai_rear_end", "h_bumper", "h_car_crash"],
-    "tow": ["ai:ai_flatbed_ev", "h_tow_truck"],
+    "crash": ["ai:ai_rear_end", "h_bumper", "h_car_crash", "h_damaged"],
+    "tow": ["ai:ai_flatbed_ev", "h_tow_truck", "h_tow2"],
     "quarantine": ["ai:ai_quarantine", "h_wrecking_yard"],
-    "hv": ["ai:ai_hv_technician", "h_mechanic_ev"],
+    "hv": ["ai:ai_hv_technician", "h_mechanic_ev", "h_mechanic2"],
     "battery": ["ai:ai_battery_lifted", "ai:ai_battery_cells", "h_battery_pack", "m_blade"],
     "sensors": ["ai:ai_bumper_sensors", "ai:ai_adas_calibration", "h_parking_sensor"],
-    "repairer": ["ai:ai_cars_waiting", "h_panel_beater"],
-    "assess": ["ai:ai_assessor", "h_insurance_form"],
+    "repairer": ["ai:ai_cars_waiting", "h_panel_beater", "h_workshop", "h_spray"],
+    "assess": ["ai:ai_assessor", "h_insurance_form", "h_insurance2"],
     "dash": ["ai:ai_dashboard_warning"],
     "parts": ["ai:ai_parts_shelves", "h_warehouse"], "plane": ["h_cargo_plane"],
-    "bills": ["ai:ai_renewal_letter", "h_calculator_bills"], "compare": ["ai:ai_compare_quotes"],
-    "phone": ["h_phone_call"], "byd": ["m_dolphin", "m_seal", "m_sealion6", "m_sealion7", "m_atto1"],
-    "dealer": ["m_byd_dealer", "m_byd_logo_building"], "traffic": ["h_traffic_light"], "writeoff": ["h_wrecking_yard"],
-    "ev": [],
+    "bills": ["ai:ai_renewal_letter", "h_calculator_bills", "h_worried"], "compare": ["ai:ai_compare_quotes"],
+    "phone": ["h_phone_call"], "byd": ["m_dolphin", "m_seal", "m_sealion6", "m_sealion7", "m_atto1", "m_byd2", "m_byd3", "m_byd4"],
+    "dealer": ["m_byd_dealer", "m_byd_logo_building", "m_byd4"], "traffic": ["h_traffic_light", "h_road_au", "h_carpark"], "writeoff": ["h_wrecking_yard"],
+    "ev": ["h_ev2"],
 }
 CLIPS = json.load(open(os.path.join(HERE, "clips.json")))
 GENERIC = CLIPS.pop("_generic", [])
@@ -47,14 +47,10 @@ c.at("a sensor light is flashing on the dash", P("dash"))
 c.at("no worries, the insurance will sort it out", say("\"No worries, insurance will sort it out.\"", "NO WORRIES", 110))
 c.at("But this is where a very different story begins", P("repairer"))
 c.at("It's everything that happens after it", say("The real problem starts AFTER the crash.", "AFTER", 115))
-c.at("The tow truck that has to take the car", P("tow"))
-c.at("The repairer that isn't certified", P("hv"))
-c.at("The battery check nobody can do", P("battery"))
-c.at("The wait for parts", P("parts"))
-c.at("the insurance renewal letter", P("bills"))
+questions(c, ["The tow", "The repairer", "The battery check", "The wait", "The renewal letter"],
+          ["The tow truck", "The repairer that", "The battery check", "The wait for parts", "the insurance renewal letter"])
 c.at("BYD is now one of the biggest car brands", photo("m_dolphin", 1, "in", cap="BYD|#2 brand in Australia · 2026"))
-questions(c, ["The tow", "The repair", "The wait", "The insurance bill"],
-          ["from the moment of impact", "insurers, repairers", "No scare stories", "the next insurance bill"])
+c.at("we're going to follow a BYD", P("byd"))
 c.at("Just what actually happens", title("BYD's Biggest Problem Starts AFTER the Crash", "Australia · 2026", "real 2026 data", "crash"))
 c.at("I'll give you a simple checklist", P("assess"))
 chapters.append(c)

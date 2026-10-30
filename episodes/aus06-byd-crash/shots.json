@@ -276,6 +276,150 @@
     "unsplash",
     "pixabay"
    ]
+  },
+  {
+   "id": "m_byd2",
+   "query": "BYD Seal U",
+   "alt": [
+    "BYD Song Plus"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_byd3",
+   "query": "BYD Han",
+   "alt": [
+    "BYD Tang"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_byd4",
+   "query": "BYD electric car",
+   "alt": [
+    "BYD Auto"
+   ],
+   "n": 6
+  },
+  {
+   "id": "h_damaged",
+   "query": "damaged car",
+   "alt": [
+    "car accident damage"
+   ],
+   "n": 8,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_workshop",
+   "query": "auto repair shop",
+   "alt": [
+    "car workshop mechanic"
+   ],
+   "n": 8,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_mechanic2",
+   "query": "mechanic",
+   "alt": [
+    "car mechanic working"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_insurance2",
+   "query": "car insurance",
+   "alt": [
+    "insurance documents"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_ev2",
+   "query": "electric car",
+   "alt": [
+    "electric vehicle"
+   ],
+   "n": 8,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_carpark",
+   "query": "car park",
+   "alt": [
+    "parking lot cars"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_road_au",
+   "query": "australia road",
+   "alt": [
+    "sydney traffic"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_spray",
+   "query": "car spray painting",
+   "alt": [
+    "car paint shop"
+   ],
+   "n": 5,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_worried",
+   "query": "worried man bills",
+   "alt": [
+    "stressed man paperwork"
+   ],
+   "n": 5,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_tow2",
+   "query": "tow truck",
+   "alt": [
+    "car towing"
+   ],
+   "n": 5,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
   }
  ]
 }
