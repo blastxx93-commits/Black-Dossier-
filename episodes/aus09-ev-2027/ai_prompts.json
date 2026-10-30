@@ -1,0 +1,59 @@
+{
+ "model": "black-forest-labs/flux-1.1-pro-ultra",
+ "raw": true,
+ "n": 1,
+ "style": ", modern Australian documentary photograph, 2026, natural light, realistic, sharp, cinematic colour grade, no logos, no badges, no readable text, no brand names",
+ "shots": [
+  {
+   "id": "ai_ev_driveway",
+   "prompt": "A modern electric SUV charging in the driveway of a suburban Australian brick house, cable plugged in, late afternoon, generic unbranded"
+  },
+  {
+   "id": "ai_lease_meeting",
+   "prompt": "A young Australian worker discussing a car lease with an adviser at an office desk, blank documents, faces not recognisable"
+  },
+  {
+   "id": "ai_premium_ev_showroom",
+   "prompt": "A sleek premium electric SUV on display in a minimalist showroom, white walls, generic unbranded design"
+  },
+  {
+   "id": "ai_kms_road",
+   "prompt": "A car driving along a Sydney motorway at dusk, light trails, wide shot, no signs readable"
+  },
+  {
+   "id": "ai_tax_papers",
+   "prompt": "A desk with blank tax forms, a calculator, a pen and an electric car key fob, shallow depth of field, no readable text"
+  },
+  {
+   "id": "ai_calendar_deadline",
+   "prompt": "A wall calendar with a red circle drawn around one date, blank numbers blurred, soft office light"
+  },
+  {
+   "id": "ai_regional_charger",
+   "prompt": "A public EV fast charger in a small regional Australian town main street, gum trees, blue sky"
+  },
+  {
+   "id": "ai_ev_queue",
+   "prompt": "Several electric cars waiting at a busy public charging station on a holiday weekend, wide shot, generic unbranded"
+  },
+  {
+   "id": "ai_courthouse",
+   "prompt": "The exterior of a grand stone courthouse building with columns, Canberra-style architecture, overcast"
+  },
+  {
+   "id": "ai_family_ev",
+   "prompt": "An Australian family loading bags into the boot of a white electric hatchback in a suburban street, faces not recognisable"
+  },
+  {
+   "id": "ai_ev_port",
+   "prompt": "Rows of brand new electric cars waiting at an Australian port terminal, ships behind, overcast"
+  },
+  {
+   "id": "persona_shocked_bill",
+   "prompt": "Waist-up portrait of a fictional Australian man in his late 30s with short black hair and light stubble, wearing a plain burgundy t-shirt, shocked expression, mouth open, holding up a blank white sheet of paper like a bill, looking straight at the camera",
+   "style": ", photorealistic studio portrait photograph, sharp focus on the face, even soft lighting, plain solid bright chroma green background #00FF00 filling the whole frame, no shadows on the background, no text, no logos",
+   "guard": "fictional",
+   "n": 2
+  }
+ ]
+}

@@ -1,0 +1,125 @@
+{
+ "defaults": {
+  "n": 3,
+  "clip": 8,
+  "sources": [
+   "coverr",
+   "pixabay",
+   "pexels"
+  ]
+ },
+ "shots": [
+  {
+   "id": "v_ev_charge",
+   "query": "electric car charging",
+   "alt": [
+    "ev charger plug"
+   ]
+  },
+  {
+   "id": "v_ev_drive",
+   "query": "electric car driving",
+   "alt": [
+    "tesla driving"
+   ]
+  },
+  {
+   "id": "v_charging_station",
+   "query": "charging station",
+   "alt": [
+    "fast charger electric"
+   ]
+  },
+  {
+   "id": "v_home",
+   "query": "home garage car",
+   "alt": [
+    "garage electric car"
+   ]
+  },
+  {
+   "id": "v_office",
+   "query": "office worker laptop",
+   "alt": [
+    "business office"
+   ]
+  },
+  {
+   "id": "v_signing",
+   "query": "signing contract",
+   "alt": [
+    "contract pen"
+   ]
+  },
+  {
+   "id": "v_calc",
+   "query": "calculator",
+   "alt": [
+    "using calculator"
+   ]
+  },
+  {
+   "id": "v_money",
+   "query": "counting money",
+   "alt": [
+    "paying cash"
+   ]
+  },
+  {
+   "id": "v_traffic",
+   "query": "city traffic",
+   "alt": [
+    "traffic timelapse"
+   ]
+  },
+  {
+   "id": "v_highway",
+   "query": "highway driving",
+   "alt": [
+    "road trip"
+   ]
+  },
+  {
+   "id": "v_fuel",
+   "query": "fuel pump",
+   "alt": [
+    "refueling car"
+   ]
+  },
+  {
+   "id": "v_parliament",
+   "query": "parliament",
+   "alt": [
+    "government building"
+   ]
+  },
+  {
+   "id": "v_odometer",
+   "query": "dashboard driving",
+   "alt": [
+    "car dashboard"
+   ]
+  },
+  {
+   "id": "v_dealer",
+   "query": "car showroom",
+   "alt": [
+    "car dealership"
+   ]
+  },
+  {
+   "id": "v_ship",
+   "query": "car carrier ship",
+   "alt": [
+    "cargo ship port"
+   ]
+  },
+  {
+   "id": "v_city_night",
+   "query": "city night traffic",
+   "alt": [
+    "night drive city"
+   ]
+  }
+ ]
+}

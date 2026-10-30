@@ -1,0 +1,299 @@
+{
+ "defaults": {
+  "n": 4,
+  "sources": [
+   "commons",
+   "pixabay"
+  ]
+ },
+ "shots": [
+  {
+   "id": "m_model_y",
+   "query": "Tesla Model Y 2025",
+   "alt": [
+    "Tesla Model Y"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_model_3",
+   "query": "Tesla Model 3 2024",
+   "alt": [
+    "Tesla Model 3"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_sealion7",
+   "query": "BYD Sealion 7",
+   "alt": [
+    "BYD Sea Lion 07"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_atto1",
+   "query": "BYD Atto 1",
+   "alt": [
+    "BYD Seagull"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_mg4",
+   "query": "MG4 Electric",
+   "alt": [
+    "MG MG4"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_inster",
+   "query": "Hyundai Inster",
+   "alt": [
+    "Hyundai Casper Electric"
+   ],
+   "n": 3
+  },
+  {
+   "id": "m_kona_ev",
+   "query": "Hyundai Kona Electric 2024",
+   "alt": [
+    "Hyundai Kona Electric"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_polestar",
+   "query": "Polestar 2",
+   "alt": [
+    "Polestar 3"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_bmw_ix",
+   "query": "BMW iX",
+   "alt": [
+    "BMW iX3"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_eqe",
+   "query": "Mercedes-Benz EQE SUV",
+   "alt": [
+    "Mercedes EQE"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_taycan",
+   "query": "Porsche Taycan",
+   "alt": [],
+   "n": 3
+  },
+  {
+   "id": "m_ev5",
+   "query": "Kia EV5",
+   "alt": [
+    "Kia EV6"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_zeekr",
+   "query": "Zeekr 7X",
+   "alt": [
+    "Zeekr 001"
+   ],
+   "n": 3
+  },
+  {
+   "id": "m_ioniq5",
+   "query": "Hyundai Ioniq 5",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "h_ev_charge",
+   "query": "electric car charging",
+   "alt": [
+    "ev charging station"
+   ],
+   "n": 8,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_home_charger",
+   "query": "home ev charger garage",
+   "alt": [
+    "wall charger electric car"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_calc",
+   "query": "calculator tax",
+   "alt": [
+    "tax calculator"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_payslip",
+   "query": "payslip salary",
+   "alt": [
+    "salary money"
+   ],
+   "n": 5,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_contract",
+   "query": "signing lease contract",
+   "alt": [
+    "signing contract"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_odometer",
+   "query": "car odometer",
+   "alt": [
+    "dashboard odometer"
+   ],
+   "n": 5,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_road_sydney",
+   "query": "Sydney traffic",
+   "alt": [
+    "Sydney Harbour Bridge traffic"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_fuel",
+   "query": "petrol pump",
+   "alt": [
+    "fuel station"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_parliament",
+   "query": "Parliament House Canberra",
+   "alt": [
+    "australian parliament"
+   ],
+   "n": 5,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_eu_flag",
+   "query": "European Union flag",
+   "alt": [
+    "EU flag"
+   ],
+   "n": 3,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_calendar",
+   "query": "calendar 2027",
+   "alt": [
+    "calendar planning"
+   ],
+   "n": 5,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_money",
+   "query": "australian money",
+   "alt": [
+    "australian dollars"
+   ],
+   "n": 5,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_dealer",
+   "query": "car dealership",
+   "alt": [
+    "new cars"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_highway",
+   "query": "australia highway",
+   "alt": [
+    "outback road"
+   ],
+   "n": 5,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_court",
+   "query": "high court",
+   "alt": [
+    "courtroom"
+   ],
+   "n": 3,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  }
+ ]
+}
