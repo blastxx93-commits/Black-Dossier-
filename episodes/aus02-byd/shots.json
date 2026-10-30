@@ -1,0 +1,338 @@
+{
+ "defaults": {
+  "n": 4,
+  "sources": [
+   "commons",
+   "pixabay"
+  ]
+ },
+ "shots": [
+  {
+   "id": "m_atto3",
+   "query": "BYD Atto 3",
+   "alt": [
+    "BYD Yuan Plus"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_dolphin",
+   "query": "BYD Dolphin",
+   "alt": [
+    "BYD Dolphin EV"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_seal",
+   "query": "BYD Seal",
+   "alt": [
+    "BYD Seal EV"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_sealion6",
+   "query": "BYD Sealion 6",
+   "alt": [
+    "BYD Song Plus DM-i"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_sealion7",
+   "query": "BYD Sealion 7",
+   "alt": [
+    "BYD Sea Lion 07"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_shark6",
+   "query": "BYD Shark 6",
+   "alt": [
+    "BYD Shark pickup"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_atto1",
+   "query": "BYD Atto 1",
+   "alt": [
+    "BYD Seagull",
+    "BYD Dolphin Mini"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_denza",
+   "query": "Denza D9",
+   "alt": [
+    "Denza Z9 GT",
+    "Denza"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_tesla_m3",
+   "query": "Tesla Model 3",
+   "alt": [
+    "Tesla Model 3 Highland"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_corolla_hybrid",
+   "query": "Toyota Corolla hybrid",
+   "alt": [
+    "Toyota Corolla 2023"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_rav4",
+   "query": "Toyota RAV4 hybrid",
+   "alt": [
+    "Toyota RAV4 2023"
+   ],
+   "n": 4
+  },
+  {
+   "id": "g_byd_store",
+   "query": "BYD showroom",
+   "alt": [
+    "BYD dealership",
+    "BYD store"
+   ],
+   "n": 6
+  },
+  {
+   "id": "g_byd_badge",
+   "query": "BYD logo car",
+   "alt": [
+    "BYD badge"
+   ],
+   "n": 3
+  },
+  {
+   "id": "h_mechanic",
+   "query": "mechanic car workshop",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_ev_workshop",
+   "query": "electric car repair",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_crash",
+   "query": "car accident damage",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_bumper",
+   "query": "car bumper damage",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_warehouse",
+   "query": "warehouse shelves parts",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_forklift",
+   "query": "warehouse forklift",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_kangaroo_road",
+   "query": "kangaroo road sign",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_kangaroo",
+   "query": "kangaroo",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_phone",
+   "query": "frustrated phone call",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_email",
+   "query": "laptop email waiting",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_insurance",
+   "query": "car insurance",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_battery",
+   "query": "electric car battery",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_ev_charge",
+   "query": "electric car charging",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_melbourne",
+   "query": "Melbourne city",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_ship",
+   "query": "cargo ship sea",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_calendar",
+   "query": "calendar waiting",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_spare_tyre",
+   "query": "spare tyre",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_documents",
+   "query": "documents paperwork",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_customer_service",
+   "query": "customer service",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_highway_night",
+   "query": "highway night traffic",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_dealer",
+   "query": "car dealership",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_parking",
+   "query": "parking sensor camera car",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  }
+ ]
+}

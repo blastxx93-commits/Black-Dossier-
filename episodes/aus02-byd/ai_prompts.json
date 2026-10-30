@@ -1,0 +1,64 @@
+{
+ "model": "black-forest-labs/flux-1.1-pro-ultra",
+ "raw": true,
+ "n": 1,
+ "style": ", modern Australian documentary photograph, 2026, natural light, realistic, sharp, cinematic colour grade, no logos, no badges, no readable text, no brand names",
+ "shots": [
+  {
+   "id": "ai_smash_repairer",
+   "prompt": "A modern electric SUV with front-end crash damage waiting on a hoist in an Australian smash repair workshop, covered partly with a tarp, other cars waiting, fluorescent light"
+  },
+  {
+   "id": "ai_car_waiting_weeks",
+   "prompt": "A damaged modern electric hatchback parked in the back corner of a repair yard, dust on the windscreen, weeds, overcast, sense of long wait"
+  },
+  {
+   "id": "ai_kangaroo_road_night",
+   "prompt": "A kangaroo standing on a rural Australian highway at night lit by car headlights, seen from inside the car through the windscreen, motion blur"
+  },
+  {
+   "id": "ai_parts_shelves",
+   "prompt": "Huge modern automotive parts warehouse with tall shelves of boxed car parts, a worker with a scanner seen from behind, bright clean lighting"
+  },
+  {
+   "id": "ai_battery_pack",
+   "prompt": "A large flat electric car battery pack on a workshop stand, technicians in insulated gloves seen from behind, safety signage without text"
+  },
+  {
+   "id": "ai_ev_technician",
+   "prompt": "An EV technician in insulated gloves connecting a diagnostic laptop to a modern electric SUV in an Australian workshop, close-up of hands"
+  },
+  {
+   "id": "ai_owner_phone",
+   "prompt": "A frustrated car owner on the phone on hold sitting in a driveway next to an empty parking space, evening, seen from the side"
+  },
+  {
+   "id": "ai_bumper_sensors",
+   "prompt": "Close-up of the rear bumper of a modern dual-cab ute showing parking sensors and a reversing camera, light scratches, car park"
+  },
+  {
+   "id": "ai_insurance_papers",
+   "prompt": "An insurance claim form and car keys on a kitchen table with a phone showing a quote screen, text blurred, morning light"
+  },
+  {
+   "id": "ai_loan_car",
+   "prompt": "A small courtesy loan car parked outside an Australian dealership service entrance, morning, people walking past"
+  },
+  {
+   "id": "ai_workshop_backlog",
+   "prompt": "An Australian car workshop full of electric cars waiting for repair, every bay occupied, mechanics busy, wide shot"
+  },
+  {
+   "id": "ai_delivery_van",
+   "prompt": "A parts delivery van driving along a rural Australian road at dawn, eucalyptus trees, wide shot"
+  },
+  {
+   "id": "ai_fair_trading",
+   "prompt": "A person writing a formal complaint letter at a desk with a laptop, car keys and printed emails, text blurred"
+  },
+  {
+   "id": "ai_three_questions",
+   "prompt": "A customer talking with a service adviser at the counter of a modern Australian car dealership service department, seen from behind"
+  }
+ ]
+}

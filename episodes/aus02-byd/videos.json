@@ -1,0 +1,126 @@
+{
+ "defaults": {
+  "n": 3,
+  "clip": 8,
+  "sources": [
+   "coverr",
+   "pixabay",
+   "pexels"
+  ]
+ },
+ "shots": [
+  {
+   "id": "v_mechanic",
+   "query": "car mechanic",
+   "alt": [
+    "auto repair shop"
+   ]
+  },
+  {
+   "id": "v_ev_repair",
+   "query": "electric car service",
+   "alt": [
+    "electric vehicle mechanic"
+   ]
+  },
+  {
+   "id": "v_warehouse",
+   "query": "warehouse",
+   "alt": [
+    "warehouse forklift",
+    "logistics warehouse"
+   ]
+  },
+  {
+   "id": "v_cargo_ship",
+   "query": "cargo ship",
+   "alt": [
+    "container ship port"
+   ]
+  },
+  {
+   "id": "v_delivery",
+   "query": "delivery van driving",
+   "alt": [
+    "truck delivery highway"
+   ]
+  },
+  {
+   "id": "v_phone",
+   "query": "phone call office",
+   "alt": [
+    "customer service call center"
+   ]
+  },
+  {
+   "id": "v_waiting",
+   "query": "waiting clock",
+   "alt": [
+    "time passing clock"
+   ]
+  },
+  {
+   "id": "v_kangaroo",
+   "query": "kangaroo",
+   "alt": [
+    "kangaroos Australia"
+   ]
+  },
+  {
+   "id": "v_night_drive",
+   "query": "driving at night highway",
+   "alt": [
+    "car headlights night road"
+   ]
+  },
+  {
+   "id": "v_ev_charge",
+   "query": "electric car charging",
+   "alt": [
+    "EV charging"
+   ]
+  },
+  {
+   "id": "v_city",
+   "query": "city traffic aerial",
+   "alt": [
+    "Melbourne aerial"
+   ]
+  },
+  {
+   "id": "v_car_wash",
+   "query": "car detailing",
+   "alt": [
+    "car paint shop"
+   ]
+  },
+  {
+   "id": "v_laptop",
+   "query": "typing laptop",
+   "alt": [
+    "writing email laptop"
+   ]
+  },
+  {
+   "id": "v_road",
+   "query": "highway driving",
+   "alt": [
+    "road trip car driving"
+   ]
+  },
+  {
+   "id": "v_parking",
+   "query": "car parking reverse camera",
+   "alt": [
+    "parking car"
+   ]
+  },
+  {
+   "id": "v_assembly",
+   "query": "car factory robots",
+   "alt": [
+    "car assembly line"
+   ]
+  }
+ ]
+}
