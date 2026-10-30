@@ -272,6 +272,114 @@
     "unsplash",
     "pixabay"
    ]
+  },
+  {
+   "id": "m_cybertruck2",
+   "query": "Cybertruck 2024",
+   "alt": [
+    "Tesla Cybertruck 2024"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_cybertruck3",
+   "query": "Tesla Cybertruck Foundation Series",
+   "alt": [
+    "Cybertruck Cyberbeast"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_cybertruck4",
+   "query": "Cybertruck rear",
+   "alt": [
+    "Tesla Cybertruck back"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_pickup_au",
+   "query": "pickup truck",
+   "alt": [
+    "pickup truck road"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_tesla_car",
+   "query": "tesla car",
+   "alt": [
+    "tesla model y road"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_ev_road",
+   "query": "electric car driving",
+   "alt": [
+    "electric car road"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_highway_au",
+   "query": "australia highway",
+   "alt": [
+    "australian road"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_factory_line",
+   "query": "car factory assembly line",
+   "alt": [
+    "car production robots"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_containers",
+   "query": "shipping containers port",
+   "alt": [
+    "container port"
+   ],
+   "n": 5,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_supercharger",
+   "query": "ev fast charger",
+   "alt": [
+    "charging station electric"
+   ],
+   "n": 5,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
   }
  ]
 }

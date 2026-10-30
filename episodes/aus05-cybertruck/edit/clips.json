@@ -1,0 +1,106 @@
+{
+ "ev": [
+  "v_ev_charge/1",
+  "v_ev_charge/3",
+  "v_ev_drive/1",
+  "v_ev_drive/2",
+  "v_charging2/1",
+  "v_charging2/2"
+ ],
+ "tesla": [
+  "v_tesla_drive/3",
+  "v_ev_charge/3",
+  "v_tesla2/1",
+  "v_tesla2/2",
+  "v_tesla2/3"
+ ],
+ "evute": [
+  "v_ev_charge/2",
+  "v_charging2/3",
+  "v_ev_drive/3"
+ ],
+ "pickup": [
+  "v_pickup_offroad/1",
+  "v_pickup_offroad/2",
+  "v_pickup2/1",
+  "v_pickup2/2",
+  "v_pickup2/3"
+ ],
+ "ute": [
+  "v_truck_highway/1",
+  "v_pickup_offroad/2",
+  "v_desert_road/1",
+  "v_pickup2/2"
+ ],
+ "traffic": [
+  "v_australia_road/2",
+  "v_australia_road/3",
+  "v_australia_road/1",
+  "v_truck_highway/2",
+  "v_city_traffic/3",
+  "v_highway/1",
+  "v_highway/2",
+  "v_road_trip/1",
+  "v_night_drive/1"
+ ],
+ "port": [
+  "v_cargo_ship/1",
+  "v_cargo_ship/2",
+  "v_cargo_ship/3"
+ ],
+ "factory": [
+  "v_steel/2",
+  "v_factory/1",
+  "v_factory2/1",
+  "v_factory2/2",
+  "v_sheet_metal/1"
+ ],
+ "steel": [
+  "v_steel/2",
+  "v_sheet_metal/2",
+  "v_sheet_metal/3"
+ ],
+ "rhd": [
+  "v_factory/1",
+  "v_factory2/3"
+ ],
+ "email": [
+  "v_email/1",
+  "v_phone_shock/2",
+  "v_phone_shock/3"
+ ],
+ "deposit": [
+  "v_phone_shock/3"
+ ],
+ "wait": [
+  "v_calendar/1"
+ ],
+ "fuel": [
+  "v_truck_highway/2"
+ ],
+ "_generic": [
+  "v_australia_road/1",
+  "v_australia_road/2",
+  "v_australia_road/3",
+  "v_truck_highway/2",
+  "v_city_traffic/3",
+  "v_tesla_drive/3",
+  "v_cargo_ship/2",
+  "v_truck_highway/1",
+  "v_highway/1",
+  "v_highway/2",
+  "v_highway/3",
+  "v_road_trip/1",
+  "v_road_trip/2",
+  "v_road_trip/3",
+  "v_desert_road/1",
+  "v_desert_road/2",
+  "v_desert_road/3",
+  "v_night_drive/1",
+  "v_night_drive/2",
+  "v_night_drive/3"
+ ],
+ "cyber": [
+  "v_sheet_metal/1"
+ ]
+}

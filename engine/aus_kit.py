@@ -127,7 +127,14 @@ def P(scene, move=None, cap=None, photo_only=False, generic=False, **kw):
         v = V(scene, cap, generic)
         if v:
             return v
-    return _photo(scene, move, cap, **kw)
+    try:
+        return _photo(scene, move, cap, **kw)
+    except SystemExit:
+        # photos exhausted: any unused clip of the scene (or a generic one) is still fresh footage
+        v = V(scene, cap, True)
+        if v:
+            return v
+        raise
 
 
 def M(folder, n):

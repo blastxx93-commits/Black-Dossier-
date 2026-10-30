@@ -134,6 +134,76 @@
    "alt": [
     "time passing clock"
    ]
+  },
+  {
+   "id": "v_pickup2",
+   "query": "pickup truck driving",
+   "alt": [
+    "truck driving dirt road"
+   ]
+  },
+  {
+   "id": "v_tesla2",
+   "query": "tesla model y",
+   "alt": [
+    "tesla car driving"
+   ]
+  },
+  {
+   "id": "v_ev_drive",
+   "query": "electric car driving",
+   "alt": [
+    "electric vehicle road"
+   ]
+  },
+  {
+   "id": "v_highway",
+   "query": "highway aerial",
+   "alt": [
+    "motorway aerial drone"
+   ]
+  },
+  {
+   "id": "v_factory2",
+   "query": "car factory",
+   "alt": [
+    "automotive factory robots"
+   ]
+  },
+  {
+   "id": "v_road_trip",
+   "query": "road trip car",
+   "alt": [
+    "car driving countryside"
+   ]
+  },
+  {
+   "id": "v_charging2",
+   "query": "charging station",
+   "alt": [
+    "electric vehicle charging station"
+   ]
+  },
+  {
+   "id": "v_desert_road",
+   "query": "desert road car",
+   "alt": [
+    "outback road"
+   ]
+  },
+  {
+   "id": "v_night_drive",
+   "query": "night driving car",
+   "alt": [
+    "driving at night"
+   ]
+  },
+  {
+   "id": "v_sheet_metal",
+   "query": "sheet metal factory",
+   "alt": [
+    "metal press factory"
+   ]
   }
  ]
 }

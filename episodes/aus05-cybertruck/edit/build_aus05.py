@@ -10,20 +10,20 @@ import aus_kit as A
 from aus_kit import P, photo, stat, bars, say, cta, title, ch, questions
 
 PHOTOS = {
-    "cyber": ["m_cybertruck", "m_cybertruck_reveal", "m_cybertruck_interior", "ai:ai_angular_ute_rhd"],
+    "cyber": ["m_cybertruck", "m_cybertruck_reveal", "m_cybertruck_interior", "m_cybertruck2", "m_cybertruck3", "m_cybertruck4", "ai:ai_angular_ute_rhd"],
     "email": ["ai:ai_reservation_email", "h_email_laptop"],
     "deposit": ["ai:ai_deposit_receipt", "ai:ai_wait_years"],
     "wait": ["ai:ai_wait_years"],
     "roadshow": ["ai:ai_roadshow_crowd"],
     "rhd": ["ai:ai_rhd_steering", "ai:ai_adr_engineer", "ai:ai_pedestrian_dummy"],
-    "tesla": ["m_model_y", "m_model_3", "m_tesla_supercharger"],
-    "factory": ["m_gigafactory_texas"],
-    "pickup": ["m_f150", "m_ram1500", "m_silverado", "ai:ai_towing_caravan"],
+    "tesla": ["m_model_y", "m_model_3", "m_tesla_supercharger", "h_tesla_car"],
+    "factory": ["m_gigafactory_texas", "h_factory_line"],
+    "pickup": ["m_f150", "m_ram1500", "m_silverado", "ai:ai_towing_caravan", "h_pickup_au"],
     "ute": ["ai:ai_tradie_ute", "h_ute_outback", "m_hilux", "m_ranger", "m_dmax"],
     "evute": ["ai:ai_ev_ute_charging", "m_mg_u9"],
-    "ev": ["h_ev_charging", "m_tesla_supercharger"],
-    "fuel": ["h_fuel_station"], "port": ["ai:ai_port_cars", "h_car_carrier"], "used": ["ai:ai_used_price"],
-    "steel": ["h_stainless"], "traffic": ["h_sydney_road"], "cancel": ["m_nissan_leaf", "m_volvo_s60", "m_jaguar"],
+    "ev": ["h_ev_charging", "m_tesla_supercharger", "h_supercharger", "h_ev_road"],
+    "fuel": ["h_fuel_station"], "port": ["ai:ai_port_cars", "h_car_carrier", "h_containers"], "used": ["ai:ai_used_price"],
+    "steel": ["h_stainless"], "traffic": ["h_sydney_road", "h_highway_au"], "cancel": ["m_nissan_leaf", "m_volvo_s60", "m_jaguar"],
 }
 CLIPS = json.load(open(os.path.join(HERE, "clips.json")))
 GENERIC = CLIPS.pop("_generic", [])
@@ -33,7 +33,7 @@ FALLBACK = {"cyber": ["pickup", "steel"], "email": ["deposit"], "deposit": ["ema
             "used": ["pickup"], "steel": ["cyber"], "traffic": ["ev"], "cancel": ["port"]}
 RES = ["m_cybertruck/1", "m_cybertruck/3", "m_cybertruck_reveal/1", "m_cybertruck_reveal/3", "m_model_y/1", "m_model_y/3",
        "m_model_3/1", "m_model_3/3", "m_f150/1", "m_ram1500/1", "m_silverado/3", "m_hilux/1", "m_hilux/3", "m_mg_u9/1",
-       "m_mg_u9/3", "m_shark6/1", "m_shark6/3", "m_dmax/1", "m_volvo_s60/1", "m_jaguar/1", "m_gigafactory_texas/1"]
+       "m_mg_u9/3", "m_shark6/1", "m_shark6/3", "m_dmax/1", "m_volvo_s60/1", "m_jaguar/1", "m_gigafactory_texas/1", "m_cybertruck_interior/3"]
 A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FALLBACK,
         ["traffic", "ev", "ute", "pickup", "cyber", "tesla", "port", "email", "steel"], reserved=RES)
 chapters = []
@@ -169,6 +169,13 @@ c.at("In March 2026, the F-150 sold 270", bars("Full-size pickups · March 2026"
      ["Chevrolet Silverado", 172]], None, "VFACTS"))
 c.at("These are big, expensive trucks", photo("m_silverado", 3, "left"))
 c.at("Ford recalled the F-150 in Australia over a fire risk", photo("m_f150", 1, "right", cap="Ford F-150|fire-risk recall · October 2026"))
+c.at("And there's a reason these trucks cost so much here", P("pickup"))
+c.at("The Ram 1500 and the Chevrolet Silverado are remanufactured", say("Rebuilt in Melbourne: Walkinshaw (Ram, Silverado) · RMA (F-150)", "MELBOURNE", 80))
+c.at("the F-150 is converted by RMA Automotive", P("pickup"))
+c.at("Each truck arrives in left-hand drive", P("rhd"))
+c.at("It's skilled, expensive work", stat("$100,000+", "many converted US pickups in Australia", None, red=True, count=False))
+c.at("That's exactly the work the Cybertruck would have needed", P("cyber"))
+c.at("its unusual steer-by-wire system", photo("m_cybertruck_interior", 3, "in"))
 c.at("Even the established American trucks", P("pickup"))
 c.at("The Cybertruck would have been a niche within a niche", say("A niche within a niche.", "NICHE", 140))
 c.at("And Tesla isn't the only company", P("port"))
