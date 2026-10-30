@@ -2,7 +2,7 @@ name: Gerar narração
 
 # Gera a narração de cada capítulo (Fish Audio) a partir do roteiro e já transcreve
 # palavra por palavra para a sincronia da edição. Publica tudo no branch assets.
-# Provedor padrão: ElevenLabs (segredo ELEVENLABS_API_KEY). Fish Audio: provider=fish (FISH_API_KEY, FISH_VOICE_ID).
+# Provedor padrão: Fish Audio (FISH_API_KEY, FISH_VOICE_ID). Opcional: provider=eleven (segredo ELEVENLABS_API_KEY).
 on:
   workflow_dispatch:
     inputs:
@@ -26,9 +26,9 @@ on:
         required: false
         default: ""
       provider:
-        description: "Provedor de voz: eleven (ElevenLabs) ou fish (Fish Audio)"
+        description: "Provedor de voz: fish (Fish Audio) ou eleven (ElevenLabs)"
         required: false
-        default: "eleven"
+        default: "fish"
 
 permissions:
   contents: write
