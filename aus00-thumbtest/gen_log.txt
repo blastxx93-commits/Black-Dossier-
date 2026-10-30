@@ -1,0 +1,20 @@
+persona_shocked_1: Gemini falhou (Gemini 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and ), tentando Replicate
+persona_shocked_1: 2752x1536
+persona_shocked_2: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+persona_shocked_2: 2752x1536
+persona_worried_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+persona_worried_1: 2752x1536
+# Imagens IA — aus00-thumbtest
+
+- Modelo: `gemini-2.5-flash-image`
+- Imagens geradas: 3
+- Folhas: ai_contact_sheet_1.jpg
+
+| plano | resultado |
+|---|---|
+| `persona_shocked` | 2 de 2 |
+| `persona_worried` | 1 de 1 |
+
