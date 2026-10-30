@@ -1,0 +1,50 @@
+ai_ev_driveway_1: Gemini falhou (Gemini 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and ), tentando Replicate
+ai_ev_driveway_1: 2752x1536
+ai_lease_meeting_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_lease_meeting_1: 2752x1536
+ai_premium_ev_showroom_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_premium_ev_showroom_1: 2752x1536
+ai_kms_road_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_kms_road_1: 2752x1536
+ai_tax_papers_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_tax_papers_1: 2752x1536
+ai_calendar_deadline_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_calendar_deadline_1: 2752x1536
+ai_regional_charger_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_regional_charger_1: 2752x1536
+ai_ev_queue_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_ev_queue_1: 2752x1536
+ai_courthouse_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_courthouse_1: 2752x1536
+ai_family_ev_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_family_ev_1: 2752x1536
+ai_ev_port_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_ev_port_1: 2752x1536
+persona_shocked_bill_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+persona_shocked_bill_1: 2752x1536
+persona_shocked_bill_2: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+persona_shocked_bill_2: 2752x1536
+# Imagens IA — aus09-ev-2027
+
+- Modelo: `gemini-2.5-flash-image`
+- Imagens geradas: 13
+- Folhas: ai_contact_sheet_1.jpg, ai_contact_sheet_2.jpg
+
+| plano | resultado |
+|---|---|
+| `ai_ev_driveway` | 1 de 1 |
+| `ai_lease_meeting` | 1 de 1 |
+| `ai_premium_ev_showroom` | 1 de 1 |
+| `ai_kms_road` | 1 de 1 |
+| `ai_tax_papers` | 1 de 1 |
+| `ai_calendar_deadline` | 1 de 1 |
+| `ai_regional_charger` | 1 de 1 |
+| `ai_ev_queue` | 1 de 1 |
+| `ai_courthouse` | 1 de 1 |
+| `ai_family_ev` | 1 de 1 |
+| `ai_ev_port` | 1 de 1 |
+| `persona_shocked_bill` | 2 de 2 |
+
