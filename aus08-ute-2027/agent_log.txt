@@ -1,0 +1,123 @@
+[     0s] aus08-ute-2027: 30 planos, limite 35.0 min
+[     0s] m_hilux: 'Toyota Hilux 2024'
+[     0s]     commons: 12 candidatos em 0.5s
+[     1s]     pixabay: 12 candidatos em 0.2s
+[     6s]   -> 6 imagens
+[     6s] m_hilux_bev: 'Toyota Hilux BEV'
+[     6s]     commons: 12 candidatos em 0.6s
+[     7s]     pixabay: 12 candidatos em 0.4s
+[     9s]   -> 3 imagens
+[     9s] m_lc70: 'Toyota Land Cruiser 70'
+[     9s]     commons: 10 candidatos em 0.9s
+[    10s]     pixabay: 12 candidatos em 0.2s
+[    13s]   -> 4 imagens
+[    13s] m_tundra: 'Toyota Tundra 2022'
+[    14s]     commons: 12 candidatos em 0.7s
+[    14s]     pixabay: 12 candidatos em 0.2s
+[    17s]   -> 4 imagens
+[    17s] m_prado: 'Toyota Land Cruiser Prado 2024'
+[    18s]     commons: 12 candidatos em 1.0s
+[    18s]     pixabay: 12 candidatos em 0.2s
+[    21s]   -> 4 imagens
+[    21s] m_ranger: 'Ford Ranger 2023'
+[    21s]     commons: 12 candidatos em 0.5s
+[    21s]     pixabay: 12 candidatos em 0.2s
+[    27s]   -> 6 imagens
+[    27s] m_ranger_phev: 'Ford Ranger PHEV'
+[    27s]     commons: 12 candidatos em 0.7s
+[    27s]     pixabay: 12 candidatos em 0.1s
+[    29s]   -> 3 imagens
+[    29s] m_everest: 'Ford Everest'
+[    31s]     commons: 12 candidatos em 1.1s
+[    31s]     pixabay: 12 candidatos em 0.2s
+[    33s]   -> 3 imagens
+[    33s] m_dmax: 'Isuzu D-Max 2024'
+[    33s]     commons: 12 candidatos em 0.4s
+[    34s]     pixabay: 12 candidatos em 0.2s
+[    37s]   -> 4 imagens
+[    37s] m_mux: 'Isuzu MU-X'
+[    37s]     commons: 12 candidatos em 0.7s
+[    38s]     pixabay: 12 candidatos em 0.2s
+[    40s]   -> 3 imagens
+[    40s] m_triton: 'Mitsubishi Triton 2024'
+[    41s]     commons: 12 candidatos em 0.7s
+[    41s]     pixabay: 12 candidatos em 0.2s
+[    44s]   -> 4 imagens
+[    44s] m_navara: 'Nissan Navara'
+[    68s]   ! commons.wikimedia.org: 429 rate limit
+[    68s]     commons: 0 candidatos em 24.1s
+[    69s]     pixabay: 12 candidatos em 0.1s
+[    72s]   -> 4 imagens
+[    72s] m_bt50: 'Mazda BT-50 2021'
+[    72s]     commons: 12 candidatos em 0.6s
+[    72s]     pixabay: 12 candidatos em 0.2s
+[    75s]   -> 3 imagens
+[    75s] m_shark6: 'BYD Shark 6'
+[    75s]     commons: 12 candidatos em 0.3s
+[    75s]     pixabay: 12 candidatos em 0.2s
+[    79s]   -> 4 imagens
+[    79s] m_cannon: 'GWM Cannon Alpha'
+[    79s]     commons: 1 candidatos em 0.4s
+[    79s]     pixabay: 12 candidatos em 0.2s
+[    82s]   -> 4 imagens
+[    82s] m_musso: 'SsangYong Musso'
+[    83s]     commons: 12 candidatos em 0.5s
+[    83s]     pixabay: 11 candidatos em 0.2s
+[    85s]   -> 3 imagens
+[    85s] m_mustang: 'Ford Mustang 2024'
+[    86s]     commons: 12 candidatos em 0.5s
+[    86s]     pixabay: 12 candidatos em 0.2s
+[    89s]   -> 3 imagens
+[    89s] h_ute_outback: 'pickup truck outback'
+[    90s]     unsplash: 12 candidatos em 1.2s
+[    90s]     pixabay: 12 candidatos em 0.2s
+[    98s]   -> 8 imagens
+[    98s] h_tradie: 'tradesman truck tools'
+[   100s]     unsplash: 2 candidatos em 1.0s
+[   100s]     pixabay: 12 candidatos em 0.4s
+[   106s]   -> 6 imagens
+[   106s] h_farm: 'farm pickup truck'
+[   107s]     unsplash: 12 candidatos em 1.0s
+[   107s]     pixabay: 12 candidatos em 0.2s
+[   112s]   -> 6 imagens
+[   112s] h_caravan: 'caravan towing'
+[   113s]     unsplash: 12 candidatos em 1.1s
+[   113s]     pixabay: 12 candidatos em 0.2s
+[   119s]   -> 6 imagens
+[   119s] h_diesel: 'diesel pump'
+[   120s]     unsplash: 12 candidatos em 0.8s
+[   120s]     pixabay: 12 candidatos em 0.2s
+[   127s]   -> 6 imagens
+[   127s] h_exhaust: 'car exhaust smoke'
+[   128s]     unsplash: 12 candidatos em 1.0s
+[   128s]     pixabay: 12 candidatos em 0.2s
+[   134s]   -> 5 imagens
+[   134s] h_parliament: 'Parliament House Canberra'
+[   134s]     unsplash: 12 candidatos em 0.8s
+[   134s]     pixabay: 12 candidatos em 0.2s
+[   140s]   -> 5 imagens
+[   140s] h_ev_charge: 'electric car charging'
+[   140s]     unsplash: 12 candidatos em 0.8s
+[   140s]     pixabay: 12 candidatos em 0.2s
+[   145s]   -> 6 imagens
+[   145s] h_dealer: 'car dealership'
+[   146s]     unsplash: 12 candidatos em 0.8s
+[   146s]     pixabay: 12 candidatos em 0.2s
+[   151s]   -> 6 imagens
+[   151s] h_money: 'australian money'
+[   152s]     unsplash: 11 candidatos em 0.9s
+[   152s]     pixabay: 12 candidatos em 0.2s
+[   157s]   -> 5 imagens
+[   157s] h_road: 'australia highway'
+[   158s]     unsplash: 12 candidatos em 1.0s
+[   158s]     pixabay: 12 candidatos em 0.3s
+[   163s]   -> 6 imagens
+[   163s] h_mine: 'mining truck'
+[   164s]     unsplash: 12 candidatos em 0.9s
+[   164s]     pixabay: 12 candidatos em 0.2s
+[   168s]   -> 4 imagens
+[   168s] h_calc: 'calculator'
+[   169s]     unsplash: 12 candidatos em 0.9s
+[   169s]     pixabay: 12 candidatos em 0.2s
+[   174s]   -> 4 imagens
+[   177s] fim: 138 imagens
