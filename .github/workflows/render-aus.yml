@@ -1,0 +1,137 @@
+name: Renderizar vídeo (canal Austrália)
+
+# Renderiza um episódio em paralelo: várias máquinas fazem um pedaço cada, outra mixa o áudio
+# e a última junta tudo com a legenda. Precisa de episodes/<ep>/edit/episode.json (+ a legenda .ass)
+# e da pasta do episódio no branch assets (a/ = assets, narração em narration_audio/).
+# Resultado: artefato "video-<ep>" (MP4 em qualidade cheia + cópia de entrega < 500 MB) e a cópia de
+# entrega também no branch render-<ep>, em pedaços de 95 MB (junte com: cat AUS*_entrega.mp4.part* > video.mp4).
+on:
+  workflow_dispatch:
+    inputs:
+      episode:
+        description: "Pasta do episódio (ex.: aus01-utes)"
+        required: true
+      parts:
+        description: "Em quantas máquinas dividir (1 a 10)"
+        required: false
+        default: "6"
+
+permissions:
+  contents: write
+
+jobs:
+  setup:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.m.outputs.matrix }}
+    steps:
+      - id: m
+        run: |
+          n=${{ inputs.parts }}
+          echo "matrix=[$(seq -s, 1 $n)]" >> "$GITHUB_OUTPUT"
+
+  part:
+    needs: setup
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    strategy:
+      fail-fast: true
+      matrix:
+        k: ${{ fromJson(needs.setup.outputs.matrix) }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: main
+      - uses: actions/checkout@v4
+        with:
+          ref: assets
+          path: assets
+          sparse-checkout: ${{ inputs.episode }}
+      - name: Preparar
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
+          pip install -q pillow numpy
+          bash main/agent/render_workdir.sh "${{ inputs.episode }}"
+      - name: Renderizar parte ${{ matrix.k }}
+        working-directory: main/engine
+        run: python3 render_aus.py "$GITHUB_WORKSPACE/work/episode.json" --part ${{ matrix.k }}/${{ inputs.parts }} "$GITHUB_WORKSPACE/part_${{ matrix.k }}.mp4"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: parte-${{ matrix.k }}
+          path: part_${{ matrix.k }}.mp4
+          retention-days: 2
+
+  audio:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: main
+      - uses: actions/checkout@v4
+        with:
+          ref: assets
+          path: assets
+          sparse-checkout: ${{ inputs.episode }}
+      - name: Preparar
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
+          pip install -q pillow numpy
+          bash main/agent/render_workdir.sh "${{ inputs.episode }}"
+      - name: Mixar áudio
+        working-directory: main/engine
+        run: python3 render_aus.py "$GITHUB_WORKSPACE/work/episode.json" --audio "$GITHUB_WORKSPACE/mix.wav"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: audio
+          path: mix.wav
+          retention-days: 2
+
+  join:
+    needs: [part, audio]
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: main
+      - name: Preparar
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
+          mkdir -p ~/.fonts && cp main/engine/fonts/*.otf ~/.fonts/ && fc-cache -f > /dev/null
+          mkdir -p work && cp main/episodes/${{ inputs.episode }}/edit/episode.json work/
+          cp main/episodes/${{ inputs.episode }}/edit/*.ass work/ 2>/dev/null || true
+      - uses: actions/download-artifact@v4
+        with:
+          path: parts
+      - name: Juntar partes + áudio + legenda
+        working-directory: main/engine
+        run: |
+          OUT=$(python3 -c "import json;print(json.load(open('$GITHUB_WORKSPACE/work/episode.json'))['output'])")
+          NAME="${OUT%.mp4}"
+          ls "$GITHUB_WORKSPACE"/parts/*/
+          PARTS=$(for k in $(seq 1 ${{ inputs.parts }}); do printf '%s ' "$GITHUB_WORKSPACE/parts/parte-$k/part_$k.mp4"; done)
+          python3 render_aus.py "$GITHUB_WORKSPACE/work/episode.json" --join "$GITHUB_WORKSPACE/parts/audio/mix.wav" \
+            "$GITHUB_WORKSPACE/final/$NAME.mp4" --delivery "$GITHUB_WORKSPACE/final/${NAME}_entrega.mp4" $PARTS
+          echo "NAME=$NAME" >> "$GITHUB_ENV"
+        env:
+          PYTHONUNBUFFERED: "1"
+        shell: bash -e {0}
+      - uses: actions/upload-artifact@v4
+        with:
+          name: video-${{ inputs.episode }}
+          path: final/
+          retention-days: 30
+      - name: Publicar cópia de entrega (branch render-<ep>)
+        run: |
+          cd final
+          split -b 95m "${NAME}_entrega.mp4" "${NAME}_entrega.mp4.part"
+          rm -f "${NAME}_entrega.mp4" "${NAME}.mp4"
+          ls -la > lista.txt
+          git init -q -b "render-${{ inputs.episode }}"
+          git config user.name "black-dossier-agent"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A && git commit -q -m "Render ${{ inputs.episode }}"
+          git push -q -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" "HEAD:render-${{ inputs.episode }}"
+          echo "## Vídeo pronto" >> "$GITHUB_STEP_SUMMARY"
+          echo "Artefato **video-${{ inputs.episode }}** (qualidade cheia + entrega) e branch **render-${{ inputs.episode }}**." >> "$GITHUB_STEP_SUMMARY"
