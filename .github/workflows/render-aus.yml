@@ -106,6 +106,7 @@ jobs:
       - name: Preparar
         run: |
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
+          pip install -q pillow numpy
           mkdir -p ~/.fonts && cp main/engine/fonts/*.otf ~/.fonts/ && fc-cache -f > /dev/null
           mkdir -p work && cp main/episodes/${{ inputs.episode }}/edit/episode.json work/
           cp main/episodes/${{ inputs.episode }}/edit/*.ass work/ 2>/dev/null || true
