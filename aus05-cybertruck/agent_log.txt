@@ -1,0 +1,126 @@
+[     0s] aus05-cybertruck: 30 planos, limite 35.0 min
+[     0s] m_cybertruck: 'Tesla Cybertruck'
+[     1s]     commons: 12 candidatos em 0.6s
+[     1s]     pixabay: 12 candidatos em 0.2s
+[     7s]   -> 8 imagens
+[     7s] m_cybertruck_reveal: 'Cybertruck unveiling 2019'
+[     8s]     commons: 12 candidatos em 0.6s
+[     8s]     pixabay: 12 candidatos em 0.2s
+[    12s]   -> 4 imagens
+[    12s] m_cybertruck_interior: 'Tesla Cybertruck interior'
+[    12s]     commons: 5 candidatos em 0.4s
+[    12s]     pixabay: 12 candidatos em 0.2s
+[    14s]   -> 3 imagens
+[    14s] m_model_y: 'Tesla Model Y 2025'
+[    15s]     commons: 12 candidatos em 0.4s
+[    15s]     pixabay: 12 candidatos em 0.2s
+[    19s]   -> 5 imagens
+[    19s] m_model_3: 'Tesla Model 3 2024'
+[    19s]     commons: 12 candidatos em 0.4s
+[    19s]     pixabay: 12 candidatos em 0.2s
+[    23s]   -> 4 imagens
+[    23s] m_tesla_store: 'Tesla store'
+[    23s]     commons: 12 candidatos em 0.5s
+[    23s]     pixabay: 12 candidatos em 0.2s
+[    27s]   -> 4 imagens
+[    27s] m_tesla_supercharger: 'Tesla Supercharger'
+[    27s]     commons: 12 candidatos em 0.5s
+[    27s]     pixabay: 12 candidatos em 0.2s
+[    31s]   -> 4 imagens
+[    31s] m_gigafactory_texas: 'Gigafactory Texas'
+[    31s]     commons: 12 candidatos em 0.4s
+[    31s]     pixabay: 12 candidatos em 0.2s
+[    33s]   -> 3 imagens
+[    33s] m_elon_musk: 'Elon Musk'
+[    34s]     commons: 10 candidatos em 0.7s
+[    34s]     pixabay: 12 candidatos em 0.2s
+[    36s]   -> 3 imagens
+[    36s] m_f150: 'Ford F-150 2024'
+[    37s]     commons: 12 candidatos em 0.5s
+[    37s]     pixabay: 12 candidatos em 0.1s
+[    39s]   -> 4 imagens
+[    39s] m_ram1500: 'Ram 1500 2023'
+[    40s]     commons: 12 candidatos em 0.9s
+[    41s]     pixabay: 12 candidatos em 0.1s
+[    44s]   -> 4 imagens
+[    44s] m_silverado: 'Chevrolet Silverado 2024'
+[    44s]     commons: 12 candidatos em 0.5s
+[    45s]     pixabay: 12 candidatos em 0.2s
+[    48s]   -> 4 imagens
+[    48s] m_hilux: 'Toyota Hilux 2024'
+[    48s]     commons: 12 candidatos em 0.5s
+[    48s]     pixabay: 12 candidatos em 0.2s
+[    52s]   -> 4 imagens
+[    52s] m_ranger: 'Ford Ranger 2024'
+[    52s]     commons: 12 candidatos em 0.4s
+[    52s]     pixabay: 12 candidatos em 0.1s
+[    55s]   -> 4 imagens
+[    55s] m_shark6: 'BYD Shark 6'
+[    55s]     commons: 12 candidatos em 0.4s
+[    55s]     pixabay: 12 candidatos em 0.2s
+[    59s]   -> 4 imagens
+[    59s] m_dmax: 'Isuzu D-Max 2024'
+[    59s]     commons: 12 candidatos em 0.5s
+[    59s]     pixabay: 12 candidatos em 0.2s
+[    61s]   -> 3 imagens
+[    61s] m_musso: 'SsangYong Musso'
+[    62s]     commons: 12 candidatos em 0.4s
+[    62s]     pixabay: 10 candidatos em 0.3s
+[    64s]   -> 3 imagens
+[    64s] m_mg_u9: 'MG U9'
+[    65s]     commons: 12 candidatos em 0.5s
+[    65s]     pixabay: 12 candidatos em 0.2s
+[    67s]   -> 3 imagens
+[    67s] m_nissan_leaf: 'Nissan Leaf 2025'
+[    92s]   ! commons.wikimedia.org: 429 rate limit
+[    92s]     commons: 0 candidatos em 24.1s
+[    92s]     pixabay: 12 candidatos em 0.2s
+[    94s]   -> 3 imagens
+[    94s] m_volvo_s60: 'Volvo S60'
+[    95s]     commons: 12 candidatos em 0.6s
+[    95s]     pixabay: 12 candidatos em 0.2s
+[    97s]   -> 3 imagens
+[    97s] m_jaguar: 'Jaguar I-Pace'
+[    98s]     commons: 12 candidatos em 0.7s
+[    98s]     pixabay: 12 candidatos em 0.2s
+[   100s]   -> 3 imagens
+[   100s] h_ev_charging: 'electric car charging'
+[   101s]   ! unsplash: 403 Client Error: Forbidden for url: https://api.unsplash.com/search/photos?query=electric+car+charging&per_page=12&orientation=landscape&co
+[   101s]     unsplash: 0 candidatos em 0.8s
+[   101s]     pixabay: 12 candidatos em 0.2s
+[   106s]   -> 6 imagens
+[   106s] h_ute_outback: 'pickup truck outback'
+[   107s]   ! unsplash: 403 Client Error: Forbidden for url: https://api.unsplash.com/search/photos?query=pickup+truck+outback&per_page=12&orientation=landscape&con
+[   107s]     unsplash: 0 candidatos em 0.6s
+[   107s]     pixabay: 12 candidatos em 0.4s
+[   113s]   -> 6 imagens
+[   113s] h_fuel_station: 'petrol station prices'
+[   113s]   ! unsplash: 403 Client Error: Forbidden for url: https://api.unsplash.com/search/photos?query=petrol+station+prices&per_page=12&orientation=landscape&co
+[   113s]     unsplash: 0 candidatos em 0.6s
+[   113s]     pixabay: 12 candidatos em 0.2s
+[   118s]   -> 5 imagens
+[   118s] h_sydney_road: 'Sydney traffic'
+[   118s]     unsplash: 0 candidatos em 0.0s
+[   118s]     pixabay: 12 candidatos em 0.2s
+[   122s]   -> 5 imagens
+[   122s] h_email_laptop: 'laptop email inbox'
+[   122s]     unsplash: 0 candidatos em 0.0s
+[   122s]     pixabay: 12 candidatos em 0.3s
+[   125s]   -> 4 imagens
+[   125s] h_money_refund: 'australian dollars cash'
+[   125s]     unsplash: 0 candidatos em 0.0s
+[   125s]     pixabay: 12 candidatos em 0.2s
+[   128s]   -> 4 imagens
+[   128s] h_car_carrier: 'car carrier ship port'
+[   128s]     unsplash: 0 candidatos em 0.0s
+[   128s]     pixabay: 12 candidatos em 0.2s
+[   131s]   -> 4 imagens
+[   131s] h_stainless: 'stainless steel texture'
+[   131s]     unsplash: 0 candidatos em 0.0s
+[   131s]     pixabay: 12 candidatos em 0.2s
+[   134s]   -> 3 imagens
+[   134s] h_crash_test: 'crash test'
+[   134s]     unsplash: 0 candidatos em 0.0s
+[   134s]     pixabay: 12 candidatos em 0.2s
+[   136s]   -> 3 imagens
+[   138s] fim: 120 imagens
