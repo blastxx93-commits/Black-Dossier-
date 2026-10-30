@@ -1,0 +1,187 @@
+[     0s] aus06-byd-crash: 18 planos de video
+[     1s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=car+crash&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85
+[     1s]   v_crash / coverr: 0 filmes para 'car crash'
+[     2s]   v_crash / pixabay: 12 filmes para 'car crash'
+[     2s]   v_crash / pexels: 0 filmes para 'car crash'
+[     3s]     trecho escuro em 8s, tentando mais adiante
+[     4s]     trecho escuro em 12s, tentando mais adiante
+[     5s]     trecho escuro em 21s, tentando mais adiante
+[     6s]     trecho escuro em 32s, tentando mais adiante
+[    13s]     + 1_pixabay.mp4 de 'car crash, green screen, 3d, car destruction, 3d car crash, ' a partir de 0s
+[    13s]     trecho escuro em 0s, tentando mais adiante
+[    18s]     + 2_pixabay.mp4 de 'car crash, 3d, 3d car crash, car destruction, green screen, ' a partir de 0s
+[    28s]     + 3_pixabay.mp4 de 'ocean waves, crashing waves, sunset, coastal cliff, sea, tra' a partir de 0s
+[    28s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=tow+truck&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85
+[    28s]   v_tow / coverr: 0 filmes para 'tow truck'
+[    30s]   v_tow / pixabay: 12 filmes para 'tow truck'
+[    30s]   v_tow / pexels: 0 filmes para 'tow truck'
+[    37s]     + 1_pixabay.mp4 de 'trucks, road, transport, highway, loading, car, shipping, tr' a partir de 8s
+[    50s]     + 2_pixabay.mp4 de 'ai generated, truck, accident, recovery, towing, breakdown, ' a partir de 0s
+[    51s]     trecho escuro em 0s, tentando mais adiante
+[    60s]     + 3_pixabay.mp4 de 'ai generated, truck, accident, recovery, towing, breakdown, ' a partir de 0s
+[    61s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=car+body+shop&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444
+[    61s]   v_body_shop / coverr: 0 filmes para 'car body shop'
+[    62s]   v_body_shop / pixabay: 10 filmes para 'car body shop'
+[    62s]   v_body_shop / pexels: 0 filmes para 'car body shop'
+[    68s]     trecho escuro em 8s, tentando mais adiante
+[    73s]     trecho escuro em 8s, tentando mais adiante
+[    85s]     + 1_pixabay.mp4 de 'car, road, transportation, vehicle, driving, car on road, tr' a partir de 21s
+[    93s]     + 2_pixabay.mp4 de 'car, red, rotate, rotating, 360, showroom, red car, vehicle,' a partir de 0s
+[   108s]     + 3_pixabay.mp4 de 'car, desert, driving, drone, sand, arial, tajikistan' a partir de 0s
+[   109s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=car+spray+painting&page_size=8&urls=true&api_key=e46f0775805a10c2d
+[   109s]   v_spray / coverr: 0 filmes para 'car spray painting'
+[   110s]   v_spray / pixabay: 11 filmes para 'car spray painting'
+[   110s]   v_spray / pexels: 0 filmes para 'car spray painting'
+[   115s]     + 1_pixabay.mp4 de 'car, headlight, automobile, washing, vehicle, auto, jet, car' a partir de 0s
+[   131s]     + 2_pixabay.mp4 de 'ocean, waves, splash, sea front, spray, scenery, foam, coast' a partir de 10s
+[   142s]     + 3_pixabay.mp4 de 'sea, waves, water, crash, beach, shore, splash, spray, coast' a partir de 11s
+[   143s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=car+mechanic&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444a
+[   143s]   v_mechanic / coverr: 0 filmes para 'car mechanic'
+[   144s]   v_mechanic / pixabay: 11 filmes para 'car mechanic'
+[   144s]   v_mechanic / pexels: 0 filmes para 'car mechanic'
+[   149s]     + 1_pixabay.mp4 de 'car, vehicle, cap, 3d, cartoon, automobile, dance, mechanic,' a partir de 0s
+[   156s]     trecho escuro em 8s, tentando mais adiante
+[   162s]     trecho escuro em 8s, tentando mais adiante
+[   171s]     trecho escuro em 8s, tentando mais adiante
+[   176s]     trecho escuro em 8s, tentando mais adiante
+[   184s]     + 2_pixabay.mp4 de 'garage, workshop, mechanic, service, car, auto, repair, main' a partir de 12s
+[   192s]     + 3_pixabay.mp4 de 'station, service, car, auto, garage, vehicle, transportation' a partir de 0s
+[   192s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=electric+car+charging&page_size=8&urls=true&api_key=e46f0775805a10
+[   192s]   v_ev_charge / coverr: 0 filmes para 'electric car charging'
+[   193s]   v_ev_charge / pixabay: 12 filmes para 'electric car charging'
+[   193s]   v_ev_charge / pexels: 0 filmes para 'electric car charging'
+[   199s]     + 1_pixabay.mp4 de 'charging plug, e auto, electric car, charging station, e mob' a partir de 8s
+[   212s]     + 2_pixabay.mp4 de 'automobile, ev, electric, sola, battery, charge, energy, ele' a partir de 0s
+[   224s]     + 3_pixabay.mp4 de 'electric vehicle charging, sustainable urban lifestyle, busi' a partir de 0s
+[   224s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=battery+factory&page_size=8&urls=true&api_key=e46f0775805a10c2dd34
+[   224s]   v_battery / coverr: 0 filmes para 'battery factory'
+[   225s]   v_battery / pixabay: 12 filmes para 'battery factory'
+[   225s]   v_battery / pexels: 0 filmes para 'battery factory'
+[   237s]     + 1_pixabay.mp4 de 'sunrise, clouds, chimney, smoke, industry, sun, sunlight, fa' a partir de 8s
+[   245s]     + 2_pixabay.mp4 de 'carpenter, tool, handmade, industry, factory, wood, woodwork' a partir de 0s
+[   251s]     + 3_pixabay.mp4 de 'electrician, factory, circuits' a partir de 0s
+[   251s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=warehouse+forklift&page_size=8&urls=true&api_key=e46f0775805a10c2d
+[   251s]   v_warehouse / coverr: 0 filmes para 'warehouse forklift'
+[   252s]   v_warehouse / pixabay: 12 filmes para 'warehouse forklift'
+[   252s]   v_warehouse / pexels: 0 filmes para 'warehouse forklift'
+[   261s]     + 1_pixabay.mp4 de 'forklift, loader, warehouse, vehicle, machine, pallet, equip' a partir de 0s
+[   278s]     + 2_pixabay.mp4 de 'forklift, machinery, loading, construction, shop, warehouse,' a partir de 10s
+[   282s]     + 3_pixabay.mp4 de 'optical ilusion, miniature figures, factory, logistics, ware' a partir de 0s
+[   283s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=cargo+plane&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa
+[   283s]   v_plane / coverr: 0 filmes para 'cargo plane'
+[   284s]   v_plane / pixabay: 11 filmes para 'cargo plane'
+[   284s]   v_plane / pexels: 0 filmes para 'cargo plane'
+[   291s]     + 1_pixabay.mp4 de 'landing, lufthansa, airport, the airline, germany, the plane' a partir de 8s
+[   300s]     + 2_pixabay.mp4 de 'plane, takeoff, start, flying, air, transportation, transpor' a partir de 8s
+[   307s]     trecho escuro em 8s, tentando mais adiante
+[   312s]     trecho escuro em 8s, tentando mais adiante
+[   317s]     trecho escuro em 0s, tentando mais adiante
+[   317s]     trecho escuro em 0s, tentando mais adiante
+[   326s]     + 3_pixabay.mp4 de 'ai generated, airplane, sky, cargo plane, plane, aircraft, t' a partir de 0s
+[   327s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=city+traffic&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444a
+[   327s]   v_traffic / coverr: 0 filmes para 'city traffic'
+[   328s]   v_traffic / pixabay: 12 filmes para 'city traffic'
+[   328s]   v_traffic / pexels: 0 filmes para 'city traffic'
+[   335s]     trecho escuro em 8s, tentando mais adiante
+[   342s]     trecho escuro em 8s, tentando mais adiante
+[   353s]     + 1_pixabay.mp4 de 'traffic, city traffic, drone, transportation, crowd, driving' a partir de 0s
+[   359s]     + 2_pixabay.mp4 de 'seoul, traffic, cars, city, speed, lights, south korea, nigh' a partir de 0s
+[   372s]     + 3_pixabay.mp4 de 'street, traffic, cars, city, night, view, car, skyscrapers, ' a partir de 8s
+[   373s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=traffic+light+red&page_size=8&urls=true&api_key=e46f0775805a10c2dd
+[   373s]   v_red_light / coverr: 0 filmes para 'traffic light red'
+[   374s]   v_red_light / pixabay: 10 filmes para 'traffic light red'
+[   374s]   v_red_light / pexels: 0 filmes para 'traffic light red'
+[   378s]     + 1_pixabay.mp4 de 'traffic light, city, green, yellow, red, traffic, traffic li' a partir de 0s
+[   381s]     + 2_pixabay.mp4 de 'traffic light, green, red, light' a partir de 0s
+[   390s]     trecho escuro em 0s, tentando mais adiante
+[   398s]     trecho escuro em 0s, tentando mais adiante
+[   416s]     trecho escuro em 8s, tentando mais adiante
+[   425s]     trecho escuro em 8s, tentando mais adiante
+[   440s]     + 3_pixabay.mp4 de 'night, lights, bokeh, car, city, dark, street, road, red, ye' a partir de 43s
+[   440s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=man+phone+call+frustrated&page_size=8&urls=true&api_key=e46f077580
+[   440s]   v_phone / coverr: 0 filmes para 'man phone call frustrated'
+[   442s]   v_phone / pixabay: 11 filmes para 'man phone call frustrated'
+[   442s]   v_phone / pexels: 0 filmes para 'man phone call frustrated'
+[   450s]     + 1_pixabay.mp4 de 'man, home office, laptop, call, phone, comfortable, relax, h' a partir de 0s
+[   470s]     + 2_pixabay.mp4 de 'man, call, smartphone, anger, to speak, yell, discuss, unhap' a partir de 8s
+[   486s]     + 3_pixabay.mp4 de 'man, call, service' a partir de 0s
+[   487s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=filling+form+paperwork&page_size=8&urls=true&api_key=e46f0775805a1
+[   487s]   v_paperwork / coverr: 0 filmes para 'filling form paperwork'
+[   488s]   v_paperwork / pixabay: 12 filmes para 'filling form paperwork'
+[   488s]   v_paperwork / pexels: 0 filmes para 'filling form paperwork'
+[   494s]     + 1_pixabay.mp4 de 'file, documents, office, paperwork' a partir de 0s
+[   502s]     + 2_pixabay.mp4 de 'octagon, abstract, lights, particle, form, motion, beautiful' a partir de 10s
+[   520s]     + 3_pixabay.mp4 de 'ink, water, beautiful wallpaper, underwater, foam, smoke, ba' a partir de 21s
+[   520s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=typing+laptop&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444
+[   520s]   v_laptop / coverr: 0 filmes para 'typing laptop'
+[   521s]   v_laptop / pixabay: 12 filmes para 'typing laptop'
+[   521s]   v_laptop / pexels: 0 filmes para 'typing laptop'
+[   526s]     trecho escuro em 8s, tentando mais adiante
+[   530s]     trecho escuro em 8s, tentando mais adiante
+[   538s]     trecho escuro em 8s, tentando mais adiante
+[   542s]     trecho escuro em 8s, tentando mais adiante
+[   564s]     + 1_pixabay.mp4 de 'ai generated, hands, typing, laptop, technology' a partir de 8s
+[   570s]     trecho escuro em 8s, tentando mais adiante
+[   577s]     trecho escuro em 8s, tentando mais adiante
+[   590s]     + 2_pixabay.mp4 de 'keyboard, laptop, computer, technology, work, typing, desk, ' a partir de 8s
+[   597s]     + 3_pixabay.mp4 de 'keyboard, hands, writing, computer, mouse, typing, project, ' a partir de 8s
+[   598s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=counting+money&page_size=8&urls=true&api_key=e46f0775805a10c2dd344
+[   598s]   v_money / coverr: 0 filmes para 'counting money'
+[   599s]   v_money / pixabay: 12 filmes para 'counting money'
+[   599s]   v_money / pexels: 0 filmes para 'counting money'
+[   607s]     + 1_pixabay.mp4 de 'money, income, salary, dollars, counting cash, payment, coun' a partir de 8s
+[   614s]     + 2_pixabay.mp4 de 'money, income, salary, dollars, counting cash, payment, coun' a partir de 0s
+[   622s]     + 3_pixabay.mp4 de 'money, budget, count, cash, counting, calculator, finance, m' a partir de 8s
+[   622s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=taking+photo+of+car+damage&page_size=8&urls=true&api_key=e46f07758
+[   622s]   v_photo_damage / coverr: 0 filmes para 'taking photo of car damage'
+[   624s]   v_photo_damage / pixabay: 12 filmes para 'taking photo of car damage'
+[   624s]   v_photo_damage / pexels: 0 filmes para 'taking photo of car damage'
+[   630s]     + 1_pixabay.mp4 de 'photography, camera, outdoors, vintage, photographer, photos' a partir de 63s
+[   634s]     + 2_pixabay.mp4 de 'camera, retro, old, taking photos, flea market, photo camera' a partir de 26s
+[   639s]     + 3_pixabay.mp4 de 'clouds, drone, aerial, landscape, photo, sunrise, sunset, na' a partir de 0s
+[   640s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=driving+car+highway&page_size=8&urls=true&api_key=e46f0775805a10c2
+[   640s]   v_driving / coverr: 0 filmes para 'driving car highway'
+[   641s]   v_driving / pixabay: 12 filmes para 'driving car highway'
+[   641s]   v_driving / pexels: 0 filmes para 'driving car highway'
+[   657s]     + 1_pixabay.mp4 de 'transport, traffic, highway, road, transportation, city, tra' a partir de 9s
+[   669s]     trecho escuro em 8s, tentando mais adiante
+[   680s]     trecho escuro em 8s, tentando mais adiante
+[   699s]     + 2_pixabay.mp4 de 'highway, road, car, transportation, vehicle, driving, trees,' a partir de 11s
+[   709s]     + 3_pixabay.mp4 de 'car, road, auto, transportation, car on road, drive, transpo' a partir de 16s
+[   709s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=calendar&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e
+[   709s]   v_calendar / coverr: 0 filmes para 'calendar'
+[   711s]   v_calendar / pixabay: 12 filmes para 'calendar'
+[   711s]   v_calendar / pexels: 0 filmes para 'calendar'
+[   713s]     trecho escuro em 8s, tentando mais adiante
+[   716s]     trecho escuro em 8s, tentando mais adiante
+[   722s]     + 1_pixabay.mp4 de 'days, week, every day, calendar, planner' a partir de 0s
+[   733s]     + 2_pixabay.mp4 de 'zodiac, astrology, horoscope, constellations, planets, sign,' a partir de 10s
+[   737s]     trecho escuro em 8s, tentando mais adiante
+[   740s]     trecho escuro em 8s, tentando mais adiante
+[   750s]     + 3_pixabay.mp4 de 'ai generated, astrology, tarot, fortune telling, pisces, fis' a partir de 21s
+# Videos — aus06-byd-crash
+
+- Planos: 18 · clipes: 54 · sem resultado: 0
+- Folhas: video_contact_sheet_1.jpg, video_contact_sheet_2.jpg, video_contact_sheet_3.jpg, video_contact_sheet_4.jpg, video_contact_sheet_5.jpg, video_contact_sheet_6.jpg
+
+| plano | clipes |
+|---|---|
+| `v_crash` | 3 |
+| `v_tow` | 3 |
+| `v_body_shop` | 3 |
+| `v_spray` | 3 |
+| `v_mechanic` | 3 |
+| `v_ev_charge` | 3 |
+| `v_battery` | 3 |
+| `v_warehouse` | 3 |
+| `v_plane` | 3 |
+| `v_traffic` | 3 |
+| `v_red_light` | 3 |
+| `v_phone` | 3 |
+| `v_paperwork` | 3 |
+| `v_laptop` | 3 |
+| `v_money` | 3 |
+| `v_photo_damage` | 3 |
+| `v_driving` | 3 |
+| `v_calendar` | 3 |
+
