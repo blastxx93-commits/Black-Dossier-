@@ -1,12 +1,15 @@
 #!/usr/bin/env python3
-"""Narration agent (Fish Audio).
+"""Narration agent (Fish Audio or ElevenLabs).
 
 Reads episodes/<ep>/narration/<chapter>.txt and synthesizes one audio file per chapter
 with the channel voice. Writes:
     <out>/<ep>/narration_audio/<chapter>.flac   full quality, used by the editor
     <out>/<ep>/audio/<chapter>.mp3              small mono copy, used by the transcription
 
-Needs env FISH_API_KEY and FISH_VOICE_ID (GitHub secrets); optional FISH_MODEL (default s2.1-pro).
+Provider "fish" (default): env FISH_API_KEY, FISH_VOICE_ID, optional FISH_MODEL (default s2.1-pro).
+Provider "eleven": env ELEVENLABS_API_KEY, ELEVEN_VOICE_ID (default Charlie, Australian male),
+optional ELEVEN_MODEL (default eleven_multilingual_v2). Long texts are sent in paragraph chunks with
+request stitching (previous/next text) so the delivery stays continuous.
 Usage: python3 agent/tts.py ep02-valachi [--out assets_out] [--only ch00_hook,ch03] [--speed 1.0]
 """
 import argparse, glob, os, shutil, subprocess, sys, time
@@ -37,6 +40,39 @@ def synth(key, voice, model, text, speed):
     raise RuntimeError("Fish Audio não respondeu depois de 3 tentativas")
 
 
+def eleven_synth(key, voice, model, text):
+    """ElevenLabs TTS, returns 44.1 kHz 16-bit PCM WAV bytes. Splits on paragraphs (<= ~2,400 chars per call)."""
+    import io, wave
+    paras = [p.strip() for p in text.split("\n\n") if p.strip()]
+    chunks, cur = [], ""
+    for p in paras:
+        if cur and len(cur) + len(p) > 2400:
+            chunks.append(cur); cur = p
+        else:
+            cur = (cur + "\n\n" + p) if cur else p
+    if cur:
+        chunks.append(cur)
+    pcm = b""
+    for i, ch in enumerate(chunks):
+        body = {"text": ch, "model_id": model,
+                "voice_settings": {"stability": 0.45, "similarity_boost": 0.8, "style": 0.25, "use_speaker_boost": True}}
+        if i:
+            body["previous_text"] = chunks[i - 1][-1000:]
+        if i + 1 < len(chunks):
+            body["next_text"] = chunks[i + 1][:1000]
+        for k in range(4):
+            r = requests.post(f"https://api.elevenlabs.io/v1/text-to-speech/{voice}?output_format=pcm_44100", json=body,
+                              headers={"xi-api-key": key, "Content-Type": "application/json"}, timeout=600)
+            if r.status_code == 200 and r.content:
+                pcm += r.content; break
+            if r.status_code in (429, 500, 502, 503) and k < 3:
+                time.sleep(20 * (k + 1)); continue
+            raise RuntimeError(f"ElevenLabs {r.status_code}: {r.text[:300]}")
+    out = io.BytesIO()
+    w = wave.open(out, "wb"); w.setnchannels(1); w.setsampwidth(2); w.setframerate(44100); w.writeframes(pcm); w.close()
+    return out.getvalue()
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("episode")
@@ -44,10 +80,19 @@ def main():
     ap.add_argument("--only", default="")
     ap.add_argument("--speed", type=float, default=1.0)
     a = ap.parse_args()
-    key, voice = os.environ.get("FISH_API_KEY", "").strip(), os.environ.get("FISH_VOICE_ID", "").strip()
-    if not key or not voice:
-        sys.exit("FISH_API_KEY e FISH_VOICE_ID precisam estar nos segredos do GitHub.")
-    model = os.environ.get("FISH_MODEL", "").strip() or "s2.1-pro"
+    provider = os.environ.get("TTS_PROVIDER", "").strip() or "fish"
+    if provider == "eleven":
+        key = os.environ.get("ELEVENLABS_API_KEY", "").strip()
+        voice = os.environ.get("ELEVEN_VOICE_ID", "").strip() or "IKne3meq5aSn9XLyUdCD"
+        model = os.environ.get("ELEVEN_MODEL", "").strip() or "eleven_multilingual_v2"
+        if not key:
+            sys.exit("ELEVENLABS_API_KEY precisa estar nos segredos do GitHub.")
+    else:
+        key, voice = os.environ.get("FISH_API_KEY", "").strip(), os.environ.get("FISH_VOICE_ID", "").strip()
+        if not key or not voice:
+            sys.exit("FISH_API_KEY e FISH_VOICE_ID precisam estar nos segredos do GitHub.")
+        model = os.environ.get("FISH_MODEL", "").strip() or "s2.1-pro"
+    print(f"provedor: {provider}, modelo: {model}", flush=True)
     only = {x for x in a.only.split(",") if x}
     texts = sorted(glob.glob(os.path.join("episodes", a.episode, "narration", "*.txt")))
     if not texts:
@@ -61,7 +106,7 @@ def main():
         if only and name not in only:
             continue
         text = open(t).read().strip()
-        wav = synth(key, voice, model, text, a.speed)
+        wav = eleven_synth(key, voice, model, text) if provider == "eleven" else synth(key, voice, model, text, a.speed)
         tmp = os.path.join(full, name + ".wav")
         open(tmp, "wb").write(wav)
         subprocess.run([ff, "-v", "error", "-y", "-i", tmp, os.path.join(full, name + ".flac")], check=True)

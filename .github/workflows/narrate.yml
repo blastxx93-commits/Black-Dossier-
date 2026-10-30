@@ -2,7 +2,7 @@ name: Gerar narração
 
 # Gera a narração de cada capítulo (Fish Audio) a partir do roteiro e já transcreve
 # palavra por palavra para a sincronia da edição. Publica tudo no branch assets.
-# Precisa dos segredos FISH_API_KEY e FISH_VOICE_ID.
+# Provedor padrão: ElevenLabs (segredo ELEVENLABS_API_KEY). Fish Audio: provider=fish (FISH_API_KEY, FISH_VOICE_ID).
 on:
   workflow_dispatch:
     inputs:
@@ -22,9 +22,13 @@ on:
         required: false
         default: ""
       model:
-        description: "Opcional: modelo Fish Audio (ex.: s2.1-pro-free; vazio = padrão)"
+        description: "Opcional: modelo (Fish: s2.1-pro-free; ElevenLabs: eleven_v3...; vazio = padrão)"
         required: false
         default: ""
+      provider:
+        description: "Provedor de voz: eleven (ElevenLabs) ou fish (Fish Audio)"
+        required: false
+        default: "eleven"
 
 permissions:
   contents: write
@@ -51,8 +55,12 @@ jobs:
         working-directory: main
         env:
           FISH_API_KEY: ${{ secrets.FISH_API_KEY }}
-          FISH_VOICE_ID: ${{ inputs.voice != '' && inputs.voice || secrets.FISH_VOICE_ID }}
-          FISH_MODEL: ${{ inputs.model != '' && inputs.model || vars.FISH_MODEL }}
+          FISH_VOICE_ID: ${{ inputs.provider != 'eleven' && inputs.voice != '' && inputs.voice || secrets.FISH_VOICE_ID }}
+          FISH_MODEL: ${{ inputs.provider != 'eleven' && inputs.model != '' && inputs.model || vars.FISH_MODEL }}
+          TTS_PROVIDER: ${{ inputs.provider }}
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          ELEVEN_VOICE_ID: ${{ inputs.provider == 'eleven' && inputs.voice || '' }}
+          ELEVEN_MODEL: ${{ inputs.provider == 'eleven' && inputs.model || '' }}
         continue-on-error: true
         run: |
           mkdir -p "../out/${{ inputs.episode }}"
