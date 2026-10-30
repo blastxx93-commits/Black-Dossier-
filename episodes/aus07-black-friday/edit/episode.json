@@ -1,0 +1,2419 @@
+{
+ "output": "AUS07_Black_Friday_Car_Deals.mp4",
+ "fps": 24,
+ "music": [
+  {
+   "file": "trilha.wav",
+   "start": 0,
+   "gain": -29,
+   "fade_in": 4,
+   "fade_out": 5
+  }
+ ],
+ "chapters": [
+  {
+   "audio": "audio/ch00_hook.flac",
+   "lead_in": 0,
+   "tail": 0.6,
+   "shots": [
+    {
+     "type": "stat",
+     "value": "$4.5 BILLION",
+     "label": "spent by Australians on Black Friday",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Finder estimate",
+     "dur": 5.2,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_calendar/2_pixabay.jpg",
+     "move": "in",
+     "caption": "Black Friday 27 Nov|Cyber Monday 30 Nov",
+     "dur": 6.36,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_shopping/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.15,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_salesman_pitch_1.jpg",
+     "move": "left",
+     "dur": 1.93,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_h6/3_commons.jpg",
+     "move": "out",
+     "dur": 7.36,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_calc/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.14,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "But here's the problem\u2026",
+     "highlight": "PROBLEM",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 7.02,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_demo_car_1.jpg",
+     "move": "right",
+     "dur": 4.3,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "35%",
+     "label": "deposit on some \"cheap\" finance deals",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Savvy \u00b7 2025",
+     "color": "red",
+     "dur": 3.96,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "Black Friday Car Deals 2026",
+     "subtitle": "real deals \u00b7 real traps",
+     "tag": "Australia",
+     "bg": "a/ai/ai_bf_showroom_1.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 1.72,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "What's on offer now",
+      "Why 2026 could be bigger",
+      "The traps",
+      "Real deal vs fake"
+     ],
+     "starts": [
+      0,
+      53,
+      135,
+      190
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 2.240000000000002
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 5.660000000000004
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 7.920000000000002
+      }
+     ],
+     "dur": 11.3,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "A car isn't a toaster.",
+     "highlight": "TOASTER",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_sign/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.874,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch01.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/ai/ai_couple_compare_1.jpg",
+     "move": "up",
+     "dur": 4.44,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "2026 deals: not announced yet.",
+     "highlight": "NOT ANNOUNCED",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 6.28,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_dealer/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_dealer/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.94,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "Black Friday 2025",
+     "subtitle": "what brands offered",
+     "tag": "last year",
+     "bg": "a/h_bf_sale/1_unsplash.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 3.88,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_vitara/3_commons.jpg",
+     "move": "in",
+     "caption": "Suzuki 2025|$1,000 cashback \u00b7 21\u201323 Nov",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_dealer/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.827,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_jaecoo/2_commons.jpg",
+     "move": "left",
+     "caption": "Jaecoo J7|$2,000 cashback + 3 yrs servicing",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_sales/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.853,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_jaecoo/3_commons.jpg",
+     "move": "right",
+     "caption": "Jaecoo J7|from $32,990 drive-away",
+     "dur": 4.76,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_geely_ex5/1_commons.jpg",
+     "move": "in",
+     "caption": "Geely EX5|gift card + charging cable",
+     "dur": 5.92,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_tiggo8/3_commons.jpg",
+     "move": "down",
+     "dur": 4.447,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_dmax/1_commons.jpg",
+     "move": "left",
+     "caption": "Isuzu D-Max & MU-X|$5,000\u2013$8,000 off",
+     "dur": 6.233,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "Black Friday 2024",
+     "subtitle": "even bigger on slow sellers",
+     "tag": "2 years ago",
+     "bg": "a/ai/ai_delivery_yard_1.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 5.2,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_superb/3_commons.jpg",
+     "move": "in",
+     "caption": "Skoda Superb|$10,000 off \u00b7 last 135 cars",
+     "dur": 5.78,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_cx60/3_commons.jpg",
+     "move": "right",
+     "caption": "Mazda CX-60|nearly $10,000 off",
+     "dur": 4.14,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "caption": "BYD 2024|$3,000 off + wall charger",
+     "dur": 6.62,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_jimny/1_commons.jpg",
+     "move": "left",
+     "caption": "Suzuki 2024|10% off \u00b7 stock only",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_city/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.3,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Notice something?",
+     "highlight": "NOTICE",
+     "size": 150,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 1.02,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_tiggo4/1_commons.jpg",
+     "move": "left",
+     "dur": 6.92,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Cashback",
+      "Gift cards",
+      "Free servicing",
+      "Finance deals"
+     ],
+     "starts": [
+      0,
+      23,
+      45,
+      66
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.9799999999999898
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.8799999999999955
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 2.759999999999991
+      }
+     ],
+     "dur": 7.038,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch02.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "Why 2026 Could Be Bigger",
+     "subtitle": "4 reasons",
+     "tag": "the market",
+     "bg": "a/h_dealer/1_unsplash.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 2.5,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "1 \u00b7 Competition",
+     "highlight": "1",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.18,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "~70",
+     "label": "brands fighting for ~1.2M sales a year",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "AADA review \u00b7 2026",
+     "dur": 4.4,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_tiggo4/3_commons.jpg",
+     "move": "right",
+     "dur": 4.12,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "8,191",
+     "label": "BYD sales \u00b7 Sept 2026 \u2013 #2 brand",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "FCAI / EVC",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_city/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_jolion/1_commons.jpg",
+     "move": "in",
+     "dur": 3.24,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_handshake/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 1.64,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "2 \u00b7 Emissions penalties (NVES)",
+     "highlight": "2",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_inspect/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.26,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "NVES liability \u00b7 Jul\u2013Dec 2025",
+     "items": [
+      [
+       "Mazda",
+       25.4,
+       "red"
+      ],
+      [
+       "Nissan",
+       10.7,
+       "red"
+      ],
+      [
+       "Subaru",
+       7.0,
+       "red"
+      ],
+      [
+       "Hyundai",
+       4.2,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "$",
+     "suffix": "M",
+     "source": "NRMA \u00b7 Feb 2026",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_traffic2/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_salesman/6_pixabay.jpg",
+     "move": "up",
+     "dur": 4.06,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_road/1_pixabay.jpg",
+     "move": "out",
+     "dur": 6.62,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_park/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.34,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_kona_ev/1_commons.jpg",
+     "move": "in",
+     "caption": "Hyundai Kona Electric|up to $13,857 off",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_road/2_pixabay.jpg",
+     "move": "down",
+     "dur": 2.82,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "$60M",
+     "label": "CEFC to Hyundai Capital \u2013 cheaper EV loans",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarsGuide \u00b7 Feb 2026",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_road/3_pixabay.jpg",
+     "move": "in",
+     "dur": 5.32,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_mg4/1_commons.jpg",
+     "move": "left",
+     "dur": 5.24,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "7",
+     "label": "EVs under $40,000 drive-away",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarsGuide \u00b7 Feb 2026",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_road/4_pixabay.jpg",
+     "move": "left",
+     "dur": 5.68,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_inster/1_commons.jpg",
+     "move": "right",
+     "dur": 5.487,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "3 \u00b7 Fuel prices",
+     "highlight": "3",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.013,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_fuel/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.48,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_fuel/1_unsplash.jpg",
+     "move": "in",
+     "dur": 3.2,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Battery EV share of new car sales",
+     "items": [
+      [
+       "2025",
+       8.3
+      ],
+      [
+       "Sept 2026",
+       24.2
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "%",
+     "source": "CarsGuide \u00b7 FCAI / EVC",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_road/5_pixabay.jpg",
+     "move": "out",
+     "dur": 7.06,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "4 \u00b7 The calendar",
+     "highlight": "4",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 7.2,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_dealer/2_pixabay.jpg",
+     "move": "up",
+     "caption": "1 January|2026-built cars look a year older",
+     "dur": 4.62,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_handshake/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.979,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch03.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "On Offer Right Now",
+     "subtitle": "October 2026 prices",
+     "tag": "CarsGuide",
+     "bg": "a/h_dealer/3_unsplash.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 6.4,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_jolion/4_commons.jpg",
+     "move": "in",
+     "caption": "Haval Jolion Premium|$23,990 drive-away (-$3,000)",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_keys/1_unsplash.jpg",
+     "move": "right",
+     "dur": 5.74,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_h6/1_commons.jpg",
+     "move": "left",
+     "caption": "Haval H6 hybrid Lux|$37,990 (-$3,000)",
+     "dur": 6.22,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_cannon/1_commons.jpg",
+     "move": "right",
+     "caption": "GWM Cannon Alpha Ultra|$54,990 (-$4,000)",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_keys/2_pixabay.jpg",
+     "move": "in",
+     "dur": 4.04,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_tiggo8/1_commons.jpg",
+     "move": "in",
+     "caption": "Chery Tiggo 8 PHEV|$42,990 drive-away",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_keys/3_unsplash.jpg",
+     "move": "up",
+     "dur": 2.54,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_tiggo9/1_commons.jpg",
+     "move": "left",
+     "caption": "Chery Tiggo 9 PHEV|$49,990 drive-away",
+     "dur": 6.04,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_fuel/2_pixabay.jpg",
+     "move": "down",
+     "dur": 4.04,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_geely_ex5/2_commons.jpg",
+     "move": "in",
+     "caption": "Geely|6% off \u00b7 novated lease only",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_keys/4_pixabay.jpg",
+     "move": "out",
+     "dur": 4.02,
+     "fixed": true
+    },
+    {
+     "type": "price",
+     "model": "Mercedes-Benz GLC 200",
+     "old": "~$89,000",
+     "new": "$79,990",
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.6
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.0
+      }
+     ],
+     "old_note": "before on-roads",
+     "new_note": "drive-away",
+     "source": "CarsGuide \u00b7 Oct 2026",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_keys/5_unsplash.jpg",
+     "move": "down",
+     "dur": 6.06,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_glc/1_commons.jpg",
+     "move": "in",
+     "dur": 4.7,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_kodiaq/1_commons.jpg",
+     "move": "left",
+     "caption": "Skoda Kodiaq mild hybrid|$49,990 drive-away",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_keys/6_pixabay.jpg",
+     "move": "in",
+     "dur": 4.32,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "These aren't Black Friday deals.",
+     "highlight": "AREN'T",
+     "size": 125,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.46,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_laptop/2_pixabay.jpg",
+     "move": "left",
+     "dur": 6.42,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Same price = not a deal.",
+     "highlight": "NOT A DEAL",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.802,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch04.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/h_dealer/5_unsplash.jpg",
+     "move": "out",
+     "dur": 4.92,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Which car are you after?",
+     "sub": "Tell me in the comments",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_road/6_pixabay.jpg",
+     "move": "left",
+     "dur": 3.86,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Subscribe",
+     "sub": "Honest Aussie car news",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 4.502,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch05.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "The Traps",
+     "subtitle": "don't get caught",
+     "tag": "6 traps",
+     "bg": "a/h_bf_sale/2_pixabay.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 1.04,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Trap 1 \u00b7 The fake \"was\" price",
+     "highlight": "TRAP 1",
+     "size": 115,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.9,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_shopping/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_store/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.42,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "$59,400",
+     "label": "ACCC fines \u00b7 \"sitewide\" Black Friday ads (2024 sales)",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "ACCC",
+     "color": "red",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_bf_sale/4_pixabay.jpg",
+     "move": "out",
+     "dur": 2.6,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_phone_shop/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_bf_sale/5_unsplash.jpg",
+     "move": "right",
+     "dur": 4.1,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_dealer/6_pixabay.jpg",
+     "move": "in",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_bf_sale/6_pixabay.jpg",
+     "move": "in",
+     "dur": 4.74,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_laptop/4_pixabay.jpg",
+     "move": "up",
+     "dur": 5.16,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Today's price \u2192 Black Friday price = real saving",
+     "highlight": "REAL SAVING",
+     "size": 95,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.68,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Drive-away \u2260 before on-road costs",
+     "highlight": "DRIVE-AWAY",
+     "size": 115,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 6.54,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Stamp duty",
+      "Registration",
+      "CTP insurance",
+      "Dealer charges"
+     ],
+     "starts": [
+      0,
+      22,
+      45,
+      88
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.9400000000000048
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.9000000000000057
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 3.700000000000003
+      }
+     ],
+     "dur": 14.48,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_laptop/5_pixabay.jpg",
+     "move": "out",
+     "dur": 7.32,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_dealer/7_unsplash.jpg",
+     "move": "down",
+     "dur": 1.42,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "It's an opening offer.",
+     "highlight": "OPENING",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.76,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Trap 2 \u00b7 Demo dressed up as a sale",
+     "highlight": "TRAP 2",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_bf_sale/7_unsplash.jpg",
+     "move": "up",
+     "dur": 4.84,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"\u2026demo, runout or plate clearance models.\" \u2013 Savvy",
+     "highlight": "DEMO",
+     "size": 95,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.98,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_wash/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.92,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_wash/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.597,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch06.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "statement",
+     "text": "Trap 3 \u00b7 Finance",
+     "highlight": "TRAP 3",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.86,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "1.99%",
+     "label": "the headline rate\u2026",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "advertised finance",
+     "dur": 5.48,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "36\u201348 month terms",
+      "Up to 35% deposit",
+      "Balloon payment"
+     ],
+     "starts": [
+      0,
+      72,
+      127
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 3.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 5.299999999999999
+      }
+     ],
+     "dur": 7.36,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "$2,125",
+     "label": "a month on a $50,000 car (Savvy estimate)",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Savvy \u00b7 2025",
+     "color": "red",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_calc/2_pixabay.jpg",
+     "move": "out",
+     "dur": 5.32,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"The devil is in the details.\"",
+     "highlight": "DETAILS",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 1.76,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_calc/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_calc/3_unsplash.jpg",
+     "move": "down",
+     "dur": 4.64,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "10%+",
+     "label": "the rate you may be offered instead",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Savvy",
+     "color": "red",
+     "dur": 6.06,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "$40,000 loan over 5 years \u2013 total repaid",
+     "items": [
+      [
+       "7%",
+       47500
+      ],
+      [
+       "10%",
+       51000,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "$",
+     "suffix": "",
+     "source": "calculated",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_calc/4_pixabay.jpg",
+     "move": "in",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_calc/5_unsplash.jpg",
+     "move": "left",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_calc/6_pixabay.jpg",
+     "move": "out",
+     "dur": 3.34,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "+$3,500",
+     "label": "extra \u2013 enough to wipe out the discount",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "color": "red",
+     "dur": 6.22,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_laptop/6_pixabay.jpg",
+     "move": "in",
+     "dur": 6.88,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Comparison rate, not headline rate.",
+     "highlight": "COMPARISON",
+     "size": 115,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.9,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_calc/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_card/1_unsplash.jpg",
+     "move": "right",
+     "dur": 3.14,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_contract/1_unsplash.jpg",
+     "move": "left",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_card/2_pixabay.jpg",
+     "move": "in",
+     "dur": 3.08,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_shopping/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.309,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch07.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "statement",
+     "text": "Trap 4 \u00b7 Sweeteners",
+     "highlight": "TRAP 4",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.88,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_money/2_pixabay.jpg",
+     "move": "out",
+     "dur": 6.96,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "~$900",
+     "label": "value of 3 yrs free servicing \u00b7 Jaecoo J7",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarExpert \u00b7 2025",
+     "dur": 6.32,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_fuel/3_unsplash.jpg",
+     "move": "right",
+     "dur": 5.22,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_ev_charger_home_1.jpg",
+     "move": "in",
+     "caption": "Free wall charger|installation not included",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_money/4_pixabay.jpg",
+     "move": "up",
+     "dur": 4.52,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_contract/2_pixabay.jpg",
+     "move": "up",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_money/5_unsplash.jpg",
+     "move": "out",
+     "dur": 3.16,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Price WITHOUT the extras?",
+     "highlight": "WITHOUT",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_money/6_pixabay.jpg",
+     "move": "down",
+     "dur": 2.68,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Trap 5 \u00b7 Delivery deadline",
+     "highlight": "TRAP 5",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_card/3_unsplash.jpg",
+     "move": "in",
+     "dur": 5.64,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_dealer/8_pixabay.jpg",
+     "move": "out",
+     "dur": 6.18,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_contract/3_unsplash.jpg",
+     "move": "down",
+     "dur": 4.22,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_money/3_unsplash.jpg",
+     "move": "in",
+     "dur": 7.4,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "A deposit is only as good as the paperwork.",
+     "highlight": "PAPERWORK",
+     "size": 105,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.84,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Trap 6 \u00b7 Tied to a lender",
+     "highlight": "TRAP 6",
+     "size": 125,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.685,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_contract/4_pixabay.jpg",
+     "move": "left",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_card/4_pixabay.jpg",
+     "move": "left",
+     "dur": 6.275,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Cheap car + expensive loan \u2260 cheap.",
+     "highlight": "\u2260 CHEAP",
+     "size": 115,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.743,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch08.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/h_ev/1_unsplash.jpg",
+     "move": "out",
+     "dur": 7.08,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_mg4/3_commons.jpg",
+     "move": "right",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ev/3_unsplash.jpg",
+     "move": "out",
+     "dur": 3.6,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "$91,387",
+     "label": "EV FBT exemption cap (fuel-efficient LCT threshold)",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarExpert \u00b7 May 2026",
+     "dur": 3.08,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ev/2_pixabay.jpg",
+     "move": "in",
+     "dur": 6.58,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_calendar/3_unsplash.jpg",
+     "move": "up",
+     "dur": 2.06,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Full exemption until 31 March 2027",
+     "highlight": "31 MARCH 2027",
+     "size": 105,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 6.8,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "$75,000",
+     "label": "full exemption cap from 1 April 2027",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Federal government",
+     "color": "red",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ev/4_pixabay.jpg",
+     "move": "right",
+     "dur": 3.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_inster/3_commons.jpg",
+     "move": "out",
+     "dur": 2.85,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_geely_ex5/3_commons.jpg",
+     "move": "down",
+     "caption": "Plug-in hybrids|lost FBT exemption 1 Apr 2025",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ev/5_unsplash.jpg",
+     "move": "in",
+     "dur": 3.97,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Timing beats any sale.",
+     "highlight": "TIMING",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 7.237,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch09.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "The Checklist",
+     "subtitle": "8 steps",
+     "tag": "save this",
+     "bg": "a/h_contract/5_unsplash.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 3.9,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "1 \u00b7 Pick the car first",
+     "highlight": "1",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 6.12,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_store/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.62,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "2 \u00b7 Today's price, in writing",
+     "highlight": "2",
+     "size": 125,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 6.08,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_showroom/1_unsplash.jpg",
+     "move": "left",
+     "dur": 4.82,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "3 \u00b7 Pre-approved finance",
+     "highlight": "3",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.03,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "4 \u00b7 Read the fine print",
+     "highlight": "4",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.75,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_wash/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_card/5_unsplash.jpg",
+     "move": "up",
+     "dur": 3.84,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_showroom/5_unsplash.jpg",
+     "move": "out",
+     "dur": 1.86,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "5 \u00b7 Ask the build date",
+     "highlight": "5",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 6.92,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_calendar/5_unsplash.jpg",
+     "move": "right",
+     "dur": 7.45,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "6 \u00b7 Trade-in separate",
+     "highlight": "6",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 2.79,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_trade_in_1.jpg",
+     "move": "in",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_card/6_pixabay.jpg",
+     "move": "out",
+     "dur": 2.58,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "7 \u00b7 Servicing, warranty, recalls",
+     "highlight": "7",
+     "size": 115,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 6.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_contract/6_pixabay.jpg",
+     "move": "up",
+     "dur": 4.04,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Sale price \u2260 fewer rights.",
+     "highlight": "RIGHTS",
+     "size": 135,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_family/1_pixabay.jpg",
+     "move": "down",
+     "dur": 5.92,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_driver/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.12,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "8 \u00b7 Be ready to walk away",
+     "highlight": "8",
+     "size": 125,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.72,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_showroom/6_pixabay.jpg",
+     "move": "out",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_family/5_pixabay.jpg",
+     "move": "in",
+     "dur": 2.609,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch10.flac",
+   "lead_in": 0,
+   "tail": 2.5,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/h_salesman/1_unsplash.jpg",
+     "move": "down",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_bf_sale/8_pixabay.jpg",
+     "move": "left",
+     "dur": 2.62,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_salesman/2_pixabay.jpg",
+     "move": "in",
+     "dur": 5.18,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_tiggo9/3_commons.jpg",
+     "move": "left",
+     "dur": 5.76,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_salesman/5_pixabay.jpg",
+     "move": "left",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_shopping/1_unsplash.jpg",
+     "move": "out",
+     "dur": 4.04,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Worth it? They can be.",
+     "highlight": "CAN BE",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_shopping/2_pixabay.jpg",
+     "move": "right",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_shopping/3_unsplash.jpg",
+     "move": "in",
+     "dur": 3.72,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_new_car_keys_1.jpg",
+     "move": "out",
+     "dur": 1.74,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "A banner doesn't make a deal.",
+     "highlight": "BANNER",
+     "size": 125,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 2.72,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_calc/1_unsplash.jpg",
+     "move": "right",
+     "dur": 6.12,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Like \u00b7 Subscribe \u00b7 Share",
+     "sub": "with someone buying a car",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 5.76,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Which car do you want on sale?"
+     ],
+     "starts": [
+      0
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      }
+     ],
+     "dur": 2.72,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "See You Next Video",
+     "subtitle": "real deals, checked",
+     "tag": "Black Friday 2026",
+     "bg": "a/h_bf_sale/3_unsplash.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 8.127,
+     "fixed": false,
+     "fade_out": 0
+    }
+   ]
+  }
+ ],
+ "size": [
+  1920,
+  1080
+ ],
+ "subtitles": "AUS07.ass"
+}

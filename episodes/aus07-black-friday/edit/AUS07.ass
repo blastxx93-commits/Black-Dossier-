@@ -1,0 +1,353 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Doc,Inter SemiBold,44,&H0000E6FF,&H0000E6FF,&H00000000,&H96000000,0,0,0,0,100,100,0.5,0,1,2.4,1.2,2,200,200,62,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.34,0:00:01.39,Doc,,0,0,0,,Four and a half billion dollars.
+Dialogue: 0,0:00:01.44,0:00:05.15,Doc,,0,0,0,,That's how much Finder estimates\NAustralians spend on Black Friday.
+Dialogue: 0,0:00:05.20,0:00:06.05,Doc,,0,0,0,,And this year,
+Dialogue: 0,0:00:06.10,0:00:09.63,Doc,,0,0,0,,Black Friday lands on the\N27th of November 2026,
+Dialogue: 0,0:00:09.68,0:00:11.63,Doc,,0,0,0,,with Cyber Monday on the 30th.
+Dialogue: 0,0:00:11.68,0:00:15.19,Doc,,0,0,0,,For years, Black Friday was\Nabout TVs, phones and air fryers.
+Dialogue: 0,0:00:15.24,0:00:15.78,Doc,,0,0,0,,Not anymore.
+Dialogue: 0,0:00:15.83,0:00:17.71,Doc,,0,0,0,,Car brands have jumped in.
+Dialogue: 0,0:00:17.76,0:00:21.02,Doc,,0,0,0,,Last November, Suzuki,\NOmoda Jaecoo, Geely,
+Dialogue: 0,0:00:21.07,0:00:25.81,Doc,,0,0,0,,Chery and Isuzu all ran Black Friday\Ncar deals in Australia cashback,
+Dialogue: 0,0:00:25.86,0:00:29.21,Doc,,0,0,0,,free servicing, cheap finance,\Nthousands off drive-away prices.
+Dialogue: 0,0:00:29.26,0:00:30.87,Doc,,0,0,0,,But here's the problem.
+Dialogue: 0,0:00:30.92,0:00:33.27,Doc,,0,0,0,,When Savvy looked at last\Nyear's Black Friday car sales,
+Dialogue: 0,0:00:33.32,0:00:36.93,Doc,,0,0,0,,it found that at least one big brand's\N"Black Friday" campaign was really just
+Dialogue: 0,0:00:36.98,0:00:38.15,Doc,,0,0,0,,a demo clearance.
+Dialogue: 0,0:00:38.20,0:00:41.44,Doc,,0,0,0,,And some of the cheapest-looking finance\Noffers came with deposits of up to
+Dialogue: 0,0:00:41.49,0:00:44.49,Doc,,0,0,0,,thirty-five per cent, or a big\Nballoon payment at the end.
+Dialogue: 0,0:00:44.54,0:00:45.35,Doc,,0,0,0,,So in this video,
+Dialogue: 0,0:00:45.40,0:00:48.45,Doc,,0,0,0,,I'm going to show you what car\Ndeals are on the table right now,
+Dialogue: 0,0:00:48.50,0:00:51.87,Doc,,0,0,0,,why 2026 could be the biggest\Nyear yet for discounting,
+Dialogue: 0,0:00:51.92,0:00:53.83,Doc,,0,0,0,,the traps that cost buyers thousands,
+Dialogue: 0,0:00:53.88,0:00:57.51,Doc,,0,0,0,,and exactly how to tell a real\NBlack Friday deal from a fake one.
+Dialogue: 0,0:00:57.56,0:00:59.55,Doc,,0,0,0,,Because a car isn't a toaster.
+Dialogue: 0,0:00:59.60,0:01:02.62,Doc,,0,0,0,,Get this wrong, and you could pay\Nfor it for the next five years.
+Dialogue: 0,0:01:03.31,0:01:06.60,Doc,,0,0,0,,First, let's be clear about\Nwhat we know, and what we don't.
+Dialogue: 0,0:01:06.65,0:01:07.82,Doc,,0,0,0,,As I record this,
+Dialogue: 0,0:01:07.87,0:01:11.70,Doc,,0,0,0,,most car brands haven't announced\Ntheir 2026 Black Friday deals yet.
+Dialogue: 0,0:01:11.75,0:01:14.10,Doc,,0,0,0,,They usually land in the\Nsecond half of November.
+Dialogue: 0,0:01:14.15,0:01:16.94,Doc,,0,0,0,,So I'm not going to invent\Noffers that don't exist.
+Dialogue: 0,0:01:16.99,0:01:19.38,Doc,,0,0,0,,Instead, I'll show you\Nwhat happened last year,
+Dialogue: 0,0:01:19.43,0:01:23.04,Doc,,0,0,0,,what's being offered right now, and\Nwhat to watch for when the deals drop.
+Dialogue: 0,0:01:23.09,0:01:26.92,Doc,,0,0,0,,Let's start with 2025, because\Nit tells us what to expect.
+Dialogue: 0,0:01:26.97,0:01:28.74,Doc,,0,0,0,,Suzuki ran a short Black Friday sale,
+Dialogue: 0,0:01:28.79,0:01:31.62,Doc,,0,0,0,,from the 21st to the 23rd of November,
+Dialogue: 0,0:01:31.67,0:01:34.27,Doc,,0,0,0,,with one thousand dollars\Ncashback on the Vitara,
+Dialogue: 0,0:01:34.32,0:01:36.75,Doc,,0,0,0,,S-Cross and Ignis, while stocks lasted.
+Dialogue: 0,0:01:36.80,0:01:41.00,Doc,,0,0,0,,Omoda Jaecoo offered two thousand\Ndollars cashback plus three years of free
+Dialogue: 0,0:01:41.05,0:01:43.74,Doc,,0,0,0,,scheduled servicing across the Jaecoo J7,
+Dialogue: 0,0:01:43.79,0:01:50.36,Doc,,0,0,0,,the J8 and the Omoda 9, with the J7\Nstarting from $32,990 drive-away.
+Dialogue: 0,0:01:50.41,0:01:51.90,Doc,,0,0,0,,Geely offered gift cards,
+Dialogue: 0,0:01:51.95,0:01:56.28,Doc,,0,0,0,,free charging cables and cheap finance\Non the EX5 and the Starray EM-i.
+Dialogue: 0,0:01:56.33,0:01:59.42,Doc,,0,0,0,,Chery offered two thousand\Ndollars off selected models.
+Dialogue: 0,0:01:59.47,0:02:00.73,Doc,,0,0,0,,And according to Savvy,
+Dialogue: 0,0:02:00.78,0:02:04.14,Doc,,0,0,0,,Isuzu advertised drive-away discounts\Nof between five and eight thousand
+Dialogue: 0,0:02:04.19,0:02:06.96,Doc,,0,0,0,,dollars on the D-Max ute and the MU-X.
+Dialogue: 0,0:02:07.01,0:02:09.10,Doc,,0,0,0,,And the year before, in 2024,
+Dialogue: 0,0:02:09.15,0:02:12.16,Doc,,0,0,0,,the deals were even bigger\Non some slow-selling models.
+Dialogue: 0,0:02:12.21,0:02:16.92,Doc,,0,0,0,,Skoda took ten thousand dollars off the\Nlast 135 Superb Sportline sedans and
+Dialogue: 0,0:02:16.97,0:02:17.94,Doc,,0,0,0,,wagons.
+Dialogue: 0,0:02:17.99,0:02:22.08,Doc,,0,0,0,,Mazda cut nearly ten thousand\Ndollars from selected CX-60 variants.
+Dialogue: 0,0:02:22.13,0:02:25.68,Doc,,0,0,0,,BYD took three thousand dollars off\Nmost of its range and threw in a wall
+Dialogue: 0,0:02:25.73,0:02:28.48,Doc,,0,0,0,,charger, although\Ninstallation wasn't included.
+Dialogue: 0,0:02:28.53,0:02:31.08,Doc,,0,0,0,,And Suzuki offered ten\Nper cent off its range,
+Dialogue: 0,0:02:31.13,0:02:34.16,Doc,,0,0,0,,including the Jimny but only\Non cars already in stock,
+Dialogue: 0,0:02:34.21,0:02:37.00,Doc,,0,0,0,,and with delivery required\Nby the 30th of November.
+Dialogue: 0,0:02:37.05,0:02:38.02,Doc,,0,0,0,,Notice something?
+Dialogue: 0,0:02:38.07,0:02:40.34,Doc,,0,0,0,,Most of those deals came\Nfrom Chinese brands,
+Dialogue: 0,0:02:40.39,0:02:42.76,Doc,,0,0,0,,or from brands fighting to\Nhold on to market share.
+Dialogue: 0,0:02:42.81,0:02:44.94,Doc,,0,0,0,,And most of them weren't\Nsimple price cuts.
+Dialogue: 0,0:02:44.99,0:02:48.80,Doc,,0,0,0,,They were cashback, gift cards,\Nfree servicing or finance deals.
+Dialogue: 0,0:02:48.85,0:02:51.15,Doc,,0,0,0,,That matters, and I'll explain why later.
+Dialogue: 0,0:02:51.91,0:02:54.48,Doc,,0,0,0,,So why could 2026 be even bigger?
+Dialogue: 0,0:02:54.53,0:02:56.78,Doc,,0,0,0,,Reason one: competition.
+Dialogue: 0,0:02:56.83,0:03:00.70,Doc,,0,0,0,,Australia now has around seventy car\Nbrands fighting for about 1.2 million
+Dialogue: 0,0:03:00.75,0:03:02.06,Doc,,0,0,0,,sales a year.
+Dialogue: 0,0:03:02.11,0:03:03.94,Doc,,0,0,0,,New Chinese brands keep arriving,
+Dialogue: 0,0:03:03.99,0:03:06.18,Doc,,0,0,0,,and they're using price\Nas their main weapon.
+Dialogue: 0,0:03:06.23,0:03:07.94,Doc,,0,0,0,,In September 2026,
+Dialogue: 0,0:03:07.99,0:03:13.78,Doc,,0,0,0,,BYD sold 8,191 cars and was the second\Nbest-selling brand in the country.
+Dialogue: 0,0:03:13.83,0:03:16.12,Doc,,0,0,0,,GWM is pushing towards the top five.
+Dialogue: 0,0:03:16.17,0:03:18.66,Doc,,0,0,0,,To keep up, everyone else\Nhas to sharpen their pencil.
+Dialogue: 0,0:03:18.71,0:03:22.00,Doc,,0,0,0,,Reason two: the government's\NNew Vehicle Efficiency Standard.
+Dialogue: 0,0:03:22.05,0:03:23.57,Doc,,0,0,0,,Since July 2025,
+Dialogue: 0,0:03:23.62,0:03:27.92,Doc,,0,0,0,,car makers whose fleets produce too\Nmuch carbon dioxide face penalties.
+Dialogue: 0,0:03:27.97,0:03:30.18,Doc,,0,0,0,,In the first six months alone,
+Dialogue: 0,0:03:30.23,0:03:34.58,Doc,,0,0,0,,Mazda's liability was estimated\Nat around $25.4 million,
+Dialogue: 0,0:03:34.63,0:03:37.24,Doc,,0,0,0,,Nissan's at around $10.7 million,
+Dialogue: 0,0:03:37.29,0:03:41.98,Doc,,0,0,0,,Subaru's at almost $7 million and\NHyundai's at about $4.2 million.
+Dialogue: 0,0:03:42.03,0:03:46.50,Doc,,0,0,0,,Meanwhile, BYD, Toyota and Tesla\Nbuilt up millions of credits.
+Dialogue: 0,0:03:46.55,0:03:49.32,Doc,,0,0,0,,And in 2026, the targets get tighter.
+Dialogue: 0,0:03:49.37,0:03:52.88,Doc,,0,0,0,,That gives brands a big reason to push\Nelectric and hybrid cars out of the
+Dialogue: 0,0:03:52.93,0:03:55.94,Doc,,0,0,0,,door and discounting is\Nthe fastest way to do it.
+Dialogue: 0,0:03:55.99,0:03:57.06,Doc,,0,0,0,,Hyundai, for example,
+Dialogue: 0,0:03:57.11,0:04:03.04,Doc,,0,0,0,,cut up to $13,857 from some versions\Nof the Kona Electric earlier this year.
+Dialogue: 0,0:04:03.09,0:04:06.48,Doc,,0,0,0,,And the government's Clean Energy Finance\NCorporation committed sixty million
+Dialogue: 0,0:04:06.53,0:04:08.54,Doc,,0,0,0,,dollars to Hyundai Capital Australia,
+Dialogue: 0,0:04:08.59,0:04:13.10,Doc,,0,0,0,,to support discounted interest rates\Non Hyundai and Kia electric cars.
+Dialogue: 0,0:04:13.15,0:04:16.58,Doc,,0,0,0,,At the same time, the cheap end\Nof the EV market has exploded.
+Dialogue: 0,0:04:16.63,0:04:18.09,Doc,,0,0,0,,In February 2026,
+Dialogue: 0,0:04:18.14,0:04:22.28,Doc,,0,0,0,,CarsGuide listed seven electric cars\Navailable for under forty thousand
+Dialogue: 0,0:04:22.33,0:04:24.49,Doc,,0,0,0,,dollars drive-away,\Nincluding the BYD Dolphin,
+Dialogue: 0,0:04:24.54,0:04:27.42,Doc,,0,0,0,,the BYD Atto 2, the MG4,
+Dialogue: 0,0:04:27.47,0:04:32.70,Doc,,0,0,0,,the GWM Ora, the Chery E5, the\NLeapmotor B10 and the Hyundai Inster.
+Dialogue: 0,0:04:32.75,0:04:35.48,Doc,,0,0,0,,A few years ago, that list\Nwould have been almost empty.
+Dialogue: 0,0:04:35.53,0:04:37.06,Doc,,0,0,0,,Reason three: fuel.
+Dialogue: 0,0:04:37.11,0:04:40.50,Doc,,0,0,0,,With petrol and diesel\Nprices high in 2026,
+Dialogue: 0,0:04:40.55,0:04:43.68,Doc,,0,0,0,,more buyers are looking at hybrids\Nand EVs, and brands know it.
+Dialogue: 0,0:04:43.73,0:04:47.28,Doc,,0,0,0,,That's why you're now seeing fuel cards\Noffered as a sweetener on petrol cars
+Dialogue: 0,0:04:47.33,0:04:48.18,Doc,,0,0,0,,too.
+Dialogue: 0,0:04:48.23,0:04:53.46,Doc,,0,0,0,,In 2025, battery electric cars made up\Nabout 8.3 per cent of new car sales.
+Dialogue: 0,0:04:53.51,0:04:57.90,Doc,,0,0,0,,By September 2026, it was more than\Ntwenty-four per cent in a single month.
+Dialogue: 0,0:04:57.95,0:05:00.24,Doc,,0,0,0,,That's a massive shift\Nin a very short time.
+Dialogue: 0,0:05:00.29,0:05:02.38,Doc,,0,0,0,,And reason four: the calendar.
+Dialogue: 0,0:05:02.43,0:05:05.92,Doc,,0,0,0,,Black Friday is the last big sales\Nevent before the end of the year.
+Dialogue: 0,0:05:05.97,0:05:07.44,Doc,,0,0,0,,And on the 1st of January,
+Dialogue: 0,0:05:07.49,0:05:12.06,Doc,,0,0,0,,every unsold 2026-built car becomes,\Nin the eyes of buyers, a year older.
+Dialogue: 0,0:05:12.11,0:05:15.09,Doc,,0,0,0,,Dealers want those cars\Ngone before that happens.
+Dialogue: 0,0:05:15.97,0:05:18.68,Doc,,0,0,0,,So what's on offer right\Nnow, heading into November?
+Dialogue: 0,0:05:18.73,0:05:22.44,Doc,,0,0,0,,Here's what CarsGuide\Nreported in October 2026.
+Dialogue: 0,0:05:22.49,0:05:27.08,Doc,,0,0,0,,GWM was celebrating eighteen years in\NAustralia with cuts across its range.
+Dialogue: 0,0:05:27.13,0:05:32.06,Doc,,0,0,0,,The Haval Jolion Premium was down\Nthree thousand dollars to $23,990
+Dialogue: 0,0:05:32.11,0:05:33.18,Doc,,0,0,0,,drive-away.
+Dialogue: 0,0:05:33.23,0:05:39.26,Doc,,0,0,0,,The Haval H6 hybrid Lux was\N$37,990, three thousand dollars off.
+Dialogue: 0,0:05:39.31,0:05:42.52,Doc,,0,0,0,,And the Cannon Alpha diesel Ultra\Nute was four thousand dollars off,
+Dialogue: 0,0:05:42.57,0:05:45.22,Doc,,0,0,0,,at $54,990.
+Dialogue: 0,0:05:45.27,0:05:48.44,Doc,,0,0,0,,Those deals were advertised\Nuntil the 31st of October.
+Dialogue: 0,0:05:48.49,0:05:52.80,Doc,,0,0,0,,Chery offered three thousand dollars\Ncashback on the Tiggo 8 plug-in hybrid,
+Dialogue: 0,0:05:52.85,0:05:55.80,Doc,,0,0,0,,now $42,990 drive-away,
+Dialogue: 0,0:05:55.85,0:06:01.24,Doc,,0,0,0,,and on the seven-seat Tiggo 9 plug-in\Nhybrid, now $49,990 drive-away.
+Dialogue: 0,0:06:01.29,0:06:04.94,Doc,,0,0,0,,It also offered fuel cards worth up\Nto two thousand dollars on other Tiggo
+Dialogue: 0,0:06:04.99,0:06:06.06,Doc,,0,0,0,,models.
+Dialogue: 0,0:06:06.11,0:06:08.50,Doc,,0,0,0,,Geely offered six per cent off the EX2,
+Dialogue: 0,0:06:08.55,0:06:12.92,Doc,,0,0,0,,EX5 and Starray EM-i but only\Nfor buyers using a novated lease,
+Dialogue: 0,0:06:12.97,0:06:15.08,Doc,,0,0,0,,and before on-road costs.
+Dialogue: 0,0:06:15.13,0:06:16.22,Doc,,0,0,0,,At the premium end,
+Dialogue: 0,0:06:16.27,0:06:21.92,Doc,,0,0,0,,Mercedes-Benz advertised the\NGLC 200 from $79,990 drive-away,
+Dialogue: 0,0:06:21.97,0:06:26.14,Doc,,0,0,0,,compared with a price of around\N$89,000 before on-road costs,
+Dialogue: 0,0:06:26.19,0:06:29.76,Doc,,0,0,0,,as long as you order by the 30th of\NNovember and take delivery before the end
+Dialogue: 0,0:06:29.81,0:06:30.68,Doc,,0,0,0,,of the year.
+Dialogue: 0,0:06:30.73,0:06:36.64,Doc,,0,0,0,,And Skoda was offering the Kodiaq mild\Nhybrid from $49,990 drive-away until
+Dialogue: 0,0:06:36.69,0:06:40.16,Doc,,0,0,0,,the end of December effectively\Ncovering the on-road costs.
+Dialogue: 0,0:06:40.21,0:06:41.64,Doc,,0,0,0,,Now, these aren't Black Friday deals.
+Dialogue: 0,0:06:41.69,0:06:44.44,Doc,,0,0,0,,Many of them ended on the 31st of October.
+Dialogue: 0,0:06:44.49,0:06:46.40,Doc,,0,0,0,,But they show you the starting point.
+Dialogue: 0,0:06:46.45,0:06:50.24,Doc,,0,0,0,,If a brand's "Black Friday price" in\Nlate November is the same as its October
+Dialogue: 0,0:06:50.29,0:06:52.66,Doc,,0,0,0,,price, that's not a Black Friday deal.
+Dialogue: 0,0:06:52.71,0:06:53.91,Doc,,0,0,0,,That's just the price.
+Dialogue: 0,0:06:54.77,0:06:56.96,Doc,,0,0,0,,Quick favour before we get to the traps.
+Dialogue: 0,0:06:57.01,0:06:59.76,Doc,,0,0,0,,If you're planning to buy a\Ncar in the Black Friday sales,
+Dialogue: 0,0:06:59.81,0:07:01.94,Doc,,0,0,0,,tell me in the comments\Nwhich car you're looking at.
+Dialogue: 0,0:07:01.99,0:07:05.62,Doc,,0,0,0,,I'll keep an eye on the deals and might\Ncover the best ones in a future video.
+Dialogue: 0,0:07:05.67,0:07:09.52,Doc,,0,0,0,,And if you want honest, fact-checked\Ncar news for Australia, hit subscribe.
+Dialogue: 0,0:07:09.57,0:07:12.31,Doc,,0,0,0,,It's free, and it helps the\Nchannel more than you know.
+Dialogue: 0,0:07:13.05,0:07:14.02,Doc,,0,0,0,,Now, the traps.
+Dialogue: 0,0:07:14.07,0:07:19.06,Doc,,0,0,0,,And trap number one is the oldest\Ntrick in retail: the fake "was" price.
+Dialogue: 0,0:07:19.11,0:07:21.92,Doc,,0,0,0,,The ACCC watches Black Friday closely.
+Dialogue: 0,0:07:21.97,0:07:23.70,Doc,,0,0,0,,After the 2024 sales,
+Dialogue: 0,0:07:23.75,0:07:26.06,Doc,,0,0,0,,it issued infringement\Nnotices to Michael Hill,
+Dialogue: 0,0:07:26.11,0:07:29.66,Doc,,0,0,0,,MyHouse and Hairhouse\NOnline, totalling $59,400,
+Dialogue: 0,0:07:29.71,0:07:35.08,Doc,,0,0,0,,over "sitewide" sale ads that the\NACCC alleged excluded some products.
+Dialogue: 0,0:07:35.13,0:07:37.90,Doc,,0,0,0,,Those weren't car companies,\Nbut the lesson is the same.
+Dialogue: 0,0:07:37.95,0:07:41.78,Doc,,0,0,0,,A big "save" number only means something\Nif the "before" price was real.
+Dialogue: 0,0:07:41.83,0:07:44.18,Doc,,0,0,0,,With cars, the trick\Nusually looks different.
+Dialogue: 0,0:07:44.23,0:07:47.62,Doc,,0,0,0,,A dealer might compare the drive-away\Nprice with the manufacturer's list price
+Dialogue: 0,0:07:47.67,0:07:49.34,Doc,,0,0,0,,before on-road costs.
+Dialogue: 0,0:07:49.39,0:07:52.62,Doc,,0,0,0,,Or compare it with a price nobody\Nhas actually paid for months.
+Dialogue: 0,0:07:52.67,0:07:53.92,Doc,,0,0,0,,So before Black Friday,
+Dialogue: 0,0:07:53.97,0:07:56.82,Doc,,0,0,0,,write down the drive-away price\Nof the car you want today.
+Dialogue: 0,0:07:56.87,0:07:59.08,Doc,,0,0,0,,Then compare it with\Nthe Black Friday price.
+Dialogue: 0,0:07:59.13,0:08:00.54,Doc,,0,0,0,,That's your real saving.
+Dialogue: 0,0:08:00.59,0:08:02.76,Doc,,0,0,0,,And here's something a lot\Nof buyers don't realise.
+Dialogue: 0,0:08:02.81,0:08:06.08,Doc,,0,0,0,,There's a big difference between a\N"drive-away" price and a price "before
+Dialogue: 0,0:08:06.13,0:08:07.23,Doc,,0,0,0,,on-road costs".
+Dialogue: 0,0:08:07.28,0:08:10.24,Doc,,0,0,0,,On-road costs include\Nthings like stamp duty,
+Dialogue: 0,0:08:10.29,0:08:14.32,Doc,,0,0,0,,registration, compulsory third\Nparty insurance and dealer charges.
+Dialogue: 0,0:08:14.37,0:08:16.36,Doc,,0,0,0,,Depending on the car and\Nthe state you live in,
+Dialogue: 0,0:08:16.41,0:08:18.12,Doc,,0,0,0,,they can add thousands of dollars.
+Dialogue: 0,0:08:18.17,0:08:21.74,Doc,,0,0,0,,So a deal advertised before on-road\Ncosts can look much cheaper than a
+Dialogue: 0,0:08:21.79,0:08:23.78,Doc,,0,0,0,,drive-away deal that's actually better.
+Dialogue: 0,0:08:23.83,0:08:26.12,Doc,,0,0,0,,Always compare drive-away with drive-away.
+Dialogue: 0,0:08:26.17,0:08:29.22,Doc,,0,0,0,,And even an advertised drive-away\Nprice isn't set in stone.
+Dialogue: 0,0:08:29.27,0:08:32.52,Doc,,0,0,0,,You can still ask for a breakdown\Nof it, and you can still negotiate.
+Dialogue: 0,0:08:32.57,0:08:36.28,Doc,,0,0,0,,A Black Friday price is the dealer's\Nopening offer, not the final word.
+Dialogue: 0,0:08:36.33,0:08:41.08,Doc,,0,0,0,,Trap number two: the demo or\Nrunout car dressed up as a sale.
+Dialogue: 0,0:08:41.13,0:08:43.92,Doc,,0,0,0,,When Savvy reviewed last\Nyear's Black Friday car deals,
+Dialogue: 0,0:08:43.97,0:08:47.76,Doc,,0,0,0,,its managing editor Thomas Perrotta\Nwarned that "some manufacturers may just
+Dialogue: 0,0:08:47.81,0:08:48.72,Doc,,0,0,0,,be selling demo,
+Dialogue: 0,0:08:48.77,0:08:53.24,Doc,,0,0,0,,runout or plate clearance models." A\Ndemo can be a great buy but only if it's
+Dialogue: 0,0:08:53.29,0:08:57.02,Doc,,0,0,0,,priced like a used car, because it's\Nalready been registered and driven.
+Dialogue: 0,0:08:57.07,0:08:58.82,Doc,,0,0,0,,Always ask how many kilometres it has,
+Dialogue: 0,0:08:58.87,0:09:01.79,Doc,,0,0,0,,when it was first registered,\Nand when the warranty started.
+Dialogue: 0,0:09:02.55,0:09:05.56,Doc,,0,0,0,,Trap number three is the big one: finance.
+Dialogue: 0,0:09:05.61,0:09:09.14,Doc,,0,0,0,,You'll see headlines like\N"finance from 1.99 per cent".
+Dialogue: 0,0:09:09.19,0:09:12.95,Doc,,0,0,0,,Savvy warned that these low-rate\Ndeals often come with short terms of
+Dialogue: 0,0:09:13.00,0:09:14.96,Doc,,0,0,0,,thirty-six to forty-eight months,
+Dialogue: 0,0:09:15.01,0:09:19.32,Doc,,0,0,0,,deposits of up to thirty-five per cent,\Nor a large balloon payment at the end.
+Dialogue: 0,0:09:19.37,0:09:21.18,Doc,,0,0,0,,On a fifty-thousand-dollar car,
+Dialogue: 0,0:09:21.23,0:09:24.82,Doc,,0,0,0,,Savvy estimated repayments\Ncould be more than $490 a week,
+Dialogue: 0,0:09:24.87,0:09:28.40,Doc,,0,0,0,,or about $2,125 a month.
+Dialogue: 0,0:09:28.45,0:09:33.08,Doc,,0,0,0,,As Perrotta put it: "The devil is in\Nthe details." And there's another catch.
+Dialogue: 0,0:09:33.13,0:09:36.40,Doc,,0,0,0,,If you apply for dealer finance and\Ndon't qualify for the advertised rate,
+Dialogue: 0,0:09:36.45,0:09:40.46,Doc,,0,0,0,,you might be offered a standard five-year\Nloan at a much higher rate Savvy
+Dialogue: 0,0:09:40.51,0:09:44.62,Doc,,0,0,0,,said often at or above ten per cent\Nafter a credit enquiry has already been
+Dialogue: 0,0:09:44.67,0:09:45.80,Doc,,0,0,0,,made on your file.
+Dialogue: 0,0:09:45.85,0:09:48.25,Doc,,0,0,0,,To see why this matters,\Nlet's do some simple maths.
+Dialogue: 0,0:09:48.30,0:09:51.84,Doc,,0,0,0,,Borrow forty thousand dollars\Nover five years at seven per cent,
+Dialogue: 0,0:09:51.89,0:09:58.66,Doc,,0,0,0,,and you'll pay about $792 a\Nmonth, or around $47,500 in total.
+Dialogue: 0,0:09:58.71,0:10:00.44,Doc,,0,0,0,,Borrow the same amount at ten per cent,
+Dialogue: 0,0:10:00.49,0:10:05.44,Doc,,0,0,0,,and it's about $850 a month\Nroughly $51,000 in total.
+Dialogue: 0,0:10:05.49,0:10:07.70,Doc,,0,0,0,,That's around three and a\Nhalf thousand dollars more,
+Dialogue: 0,0:10:07.75,0:10:10.46,Doc,,0,0,0,,which can easily wipe out\Na Black Friday discount.
+Dialogue: 0,0:10:10.51,0:10:11.66,Doc,,0,0,0,,So here's what to do.
+Dialogue: 0,0:10:11.71,0:10:15.34,Doc,,0,0,0,,Get pre-approved for a car loan from\Nyour bank or a broker before Black
+Dialogue: 0,0:10:15.39,0:10:16.08,Doc,,0,0,0,,Friday.
+Dialogue: 0,0:10:16.13,0:10:18.54,Doc,,0,0,0,,Then you can compare the\Ndealer's offer properly.
+Dialogue: 0,0:10:18.59,0:10:22.08,Doc,,0,0,0,,Always compare the comparison\Nrate, not just the headline rate.
+Dialogue: 0,0:10:22.13,0:10:22.90,Doc,,0,0,0,,Ask about the balloon.
+Dialogue: 0,0:10:22.95,0:10:26.88,Doc,,0,0,0,,And work out the total amount you'll\Npay over the life of the loan not just
+Dialogue: 0,0:10:26.93,0:10:28.40,Doc,,0,0,0,,the weekly repayment.
+Dialogue: 0,0:10:28.45,0:10:31.58,Doc,,0,0,0,,Savvy also warned about one more\Nthing that catches people out:
+Dialogue: 0,0:10:31.63,0:10:34.90,Doc,,0,0,0,,using buy now, pay later\Non Black Friday shopping.
+Dialogue: 0,0:10:34.95,0:10:38.02,Doc,,0,0,0,,Lenders can see it, and it can\Nhurt your car loan application.
+Dialogue: 0,0:10:38.07,0:10:41.97,Doc,,0,0,0,,So if you're planning to buy a car, go\Neasy on the other Black Friday sales.
+Dialogue: 0,0:10:43.96,0:10:46.85,Doc,,0,0,0,,Trap number four: the sweetener\Nthat's worth less than it looks.
+Dialogue: 0,0:10:46.90,0:10:49.33,Doc,,0,0,0,,Cashback, gift cards, fuel cards,
+Dialogue: 0,0:10:49.38,0:10:52.39,Doc,,0,0,0,,free servicing and free\Naccessories all sound great.
+Dialogue: 0,0:10:52.44,0:10:53.81,Doc,,0,0,0,,And sometimes they are.
+Dialogue: 0,0:10:53.86,0:10:56.71,Doc,,0,0,0,,Three years of free\Nservicing on a Jaecoo J7,
+Dialogue: 0,0:10:56.76,0:10:59.95,Doc,,0,0,0,,for example, was worth around\Nnine hundred dollars last year.
+Dialogue: 0,0:11:00.00,0:11:03.91,Doc,,0,0,0,,But a fuel card or a gift card is\Nnot the same as money off the price.
+Dialogue: 0,0:11:03.96,0:11:09.41,Doc,,0,0,0,,In 2024, BYD's Black Friday deal\Nincluded a free wall charger valued at a
+Dialogue: 0,0:11:09.46,0:11:12.21,Doc,,0,0,0,,thousand dollars but\Ninstallation wasn't included,
+Dialogue: 0,0:11:12.26,0:11:14.87,Doc,,0,0,0,,and installing a charger\Ncan cost hundreds more.
+Dialogue: 0,0:11:14.92,0:11:18.75,Doc,,0,0,0,,And some of these extras come with\Nconditions a certain finance company,
+Dialogue: 0,0:11:18.80,0:11:21.93,Doc,,0,0,0,,a certain delivery date, or no\Nother offers allowed on top.
+Dialogue: 0,0:11:21.98,0:11:23.03,Doc,,0,0,0,,A simple rule:
+Dialogue: 0,0:11:23.08,0:11:27.07,Doc,,0,0,0,,always ask the dealer what the drive-away\Nprice would be without the extras.
+Dialogue: 0,0:11:27.12,0:11:30.71,Doc,,0,0,0,,Sometimes you'll get a bigger saving\Nby negotiating the price down instead.
+Dialogue: 0,0:11:30.76,0:11:33.83,Doc,,0,0,0,,Trap number five: the delivery deadline.
+Dialogue: 0,0:11:33.88,0:11:37.87,Doc,,0,0,0,,Many Black Friday car offers say the\Ncar must be delivered by a certain date
+Dialogue: 0,0:11:37.92,0:11:41.35,Doc,,0,0,0,,often the 30th of November\Nor the 31st of December.
+Dialogue: 0,0:11:41.40,0:11:44.25,Doc,,0,0,0,,If the car you want isn't in\Nstock and has to be shipped,
+Dialogue: 0,0:11:44.30,0:11:46.17,Doc,,0,0,0,,ask what happens if it arrives late.
+Dialogue: 0,0:11:46.22,0:11:47.53,Doc,,0,0,0,,Do you still get the deal?
+Dialogue: 0,0:11:47.58,0:11:49.49,Doc,,0,0,0,,Get the answer in\Nwriting on your contract,
+Dialogue: 0,0:11:49.54,0:11:51.75,Doc,,0,0,0,,not just a verbal promise\Nfrom the salesperson.
+Dialogue: 0,0:11:51.80,0:11:53.53,Doc,,0,0,0,,And be careful with deposits.
+Dialogue: 0,0:11:53.58,0:11:56.37,Doc,,0,0,0,,If you pay a deposit to lock\Nin a Black Friday price,
+Dialogue: 0,0:11:56.42,0:11:59.15,Doc,,0,0,0,,ask whether it's refundable,\Nand under what conditions.
+Dialogue: 0,0:11:59.20,0:12:00.75,Doc,,0,0,0,,As we saw with the Cybertruck,
+Dialogue: 0,0:12:00.80,0:12:03.99,Doc,,0,0,0,,a deposit is only as good\Nas the paperwork behind it.
+Dialogue: 0,0:12:04.04,0:12:06.69,Doc,,0,0,0,,Trap number six: deals that\Nare tied to someone else.
+Dialogue: 0,0:12:06.74,0:12:10.41,Doc,,0,0,0,,Last year, some of the best-looking\Noffers like three thousand dollars
+Dialogue: 0,0:12:10.46,0:12:14.87,Doc,,0,0,0,,cashback on BYD models through Savvy\Nwere only available if you took out a car
+Dialogue: 0,0:12:14.92,0:12:16.73,Doc,,0,0,0,,loan through that particular broker.
+Dialogue: 0,0:12:16.78,0:12:18.43,Doc,,0,0,0,,That can still be a good deal.
+Dialogue: 0,0:12:18.48,0:12:20.75,Doc,,0,0,0,,Just make sure the loan\Nitself is competitive,
+Dialogue: 0,0:12:20.80,0:12:23.82,Doc,,0,0,0,,because a cheap car with an\Nexpensive loan isn't cheap.
+Dialogue: 0,0:12:24.62,0:12:27.03,Doc,,0,0,0,,Now, if you're thinking\Nabout an electric car,
+Dialogue: 0,0:12:27.08,0:12:30.09,Doc,,0,0,0,,there's one more date you need to know\Nand it has nothing to do with Black
+Dialogue: 0,0:12:30.14,0:12:30.95,Doc,,0,0,0,,Friday.
+Dialogue: 0,0:12:31.00,0:12:34.71,Doc,,0,0,0,,Right now, electric cars bought through\Na novated lease can be exempt from
+Dialogue: 0,0:12:34.76,0:12:36.13,Doc,,0,0,0,,fringe benefits tax,
+Dialogue: 0,0:12:36.18,0:12:39.35,Doc,,0,0,0,,as long as they're under the luxury\Ncar tax threshold for fuel-efficient
+Dialogue: 0,0:12:39.40,0:12:43.45,Doc,,0,0,0,,vehicles, currently $91,387.
+Dialogue: 0,0:12:43.50,0:12:45.69,Doc,,0,0,0,,That's called the Electric Car Discount,
+Dialogue: 0,0:12:45.74,0:12:48.39,Doc,,0,0,0,,and it can save some buyers\Nthousands of dollars a year.
+Dialogue: 0,0:12:48.44,0:12:52.09,Doc,,0,0,0,,But in May 2026, the government\Nconfirmed it's being wound back.
+Dialogue: 0,0:12:52.14,0:12:56.71,Doc,,0,0,0,,The full exemption continues\Nuntil the 31st of March 2027.
+Dialogue: 0,0:12:56.76,0:12:58.89,Doc,,0,0,0,,From the 1st of April 2027,
+Dialogue: 0,0:12:58.94,0:13:02.93,Doc,,0,0,0,,only EVs costing $75,000 or\Nless keep the full exemption,
+Dialogue: 0,0:13:02.98,0:13:07.13,Doc,,0,0,0,,while more expensive EVs get a\Ntwenty-five per cent discount instead.
+Dialogue: 0,0:13:07.18,0:13:09.35,Doc,,0,0,0,,Existing leases are protected.
+Dialogue: 0,0:13:09.40,0:13:13.37,Doc,,0,0,0,,And remember, plug-in hybrids already\Nlost the exemption on the 1st of April
+Dialogue: 0,0:13:13.42,0:13:14.61,Doc,,0,0,0,,2025.
+Dialogue: 0,0:13:14.66,0:13:18.95,Doc,,0,0,0,,So if you're looking at an EV\Nover $75,000 on a novated lease,
+Dialogue: 0,0:13:19.00,0:13:21.15,Doc,,0,0,0,,the timing matters more\Nthan any Black Friday sale.
+Dialogue: 0,0:13:21.20,0:13:25.36,Doc,,0,0,0,,Talk to your employer and your lease\Nprovider about the dates before you sign.
+Dialogue: 0,0:13:26.12,0:13:28.67,Doc,,0,0,0,,So how do you actually get a\Ngood deal this Black Friday?
+Dialogue: 0,0:13:28.72,0:13:30.09,Doc,,0,0,0,,Here's my checklist.
+Dialogue: 0,0:13:30.14,0:13:33.03,Doc,,0,0,0,,Step one: decide on the\Ncar before the sales start.
+Dialogue: 0,0:13:33.08,0:13:36.21,Doc,,0,0,0,,Know the model, the variant\Nand the colours you'd accept.
+Dialogue: 0,0:13:36.26,0:13:38.83,Doc,,0,0,0,,Black Friday is designed\Nto make you buy on impulse.
+Dialogue: 0,0:13:38.88,0:13:39.83,Doc,,0,0,0,,Don't let it.
+Dialogue: 0,0:13:39.88,0:13:43.51,Doc,,0,0,0,,Step two: record today's drive-away\Nprice from at least three dealers,
+Dialogue: 0,0:13:43.56,0:13:44.59,Doc,,0,0,0,,in writing.
+Dialogue: 0,0:13:44.64,0:13:45.35,Doc,,0,0,0,,That's your benchmark.
+Dialogue: 0,0:13:45.40,0:13:47.33,Doc,,0,0,0,,And ask each one for the breakdown,
+Dialogue: 0,0:13:47.38,0:13:50.73,Doc,,0,0,0,,so you can see what's the\Ncar and what's on-road costs.
+Dialogue: 0,0:13:50.78,0:13:52.73,Doc,,0,0,0,,Step three: get finance pre-approved,
+Dialogue: 0,0:13:52.78,0:13:55.76,Doc,,0,0,0,,and compare comparison\Nrates, not headline rates.
+Dialogue: 0,0:13:55.81,0:13:59.51,Doc,,0,0,0,,Step four: when the deal\Ndrops, read the fine print.
+Dialogue: 0,0:13:59.56,0:14:02.01,Doc,,0,0,0,,Is it for new cars only, or demos too?
+Dialogue: 0,0:14:02.06,0:14:03.75,Doc,,0,0,0,,Does it end on a specific date?
+Dialogue: 0,0:14:03.80,0:14:06.19,Doc,,0,0,0,,Does the car have to be delivered\Nby the 30th of November,
+Dialogue: 0,0:14:06.24,0:14:08.35,Doc,,0,0,0,,or the 31st of December?
+Dialogue: 0,0:14:08.40,0:14:10.21,Doc,,0,0,0,,Is it limited to stock on hand?
+Dialogue: 0,0:14:10.26,0:14:12.33,Doc,,0,0,0,,Step five: ask for the build date.
+Dialogue: 0,0:14:12.38,0:14:14.59,Doc,,0,0,0,,As we saw with BYD earlier this year,
+Dialogue: 0,0:14:14.64,0:14:17.13,Doc,,0,0,0,,a car's build date\Naffects its resale value.
+Dialogue: 0,0:14:17.18,0:14:21.65,Doc,,0,0,0,,A car built in 2026 and sold in December\Nwill be a year older on paper just
+Dialogue: 0,0:14:21.70,0:14:22.85,Doc,,0,0,0,,weeks later.
+Dialogue: 0,0:14:22.90,0:14:24.58,Doc,,0,0,0,,That's fine if the discount reflects it.
+Dialogue: 0,0:14:24.63,0:14:27.37,Doc,,0,0,0,,Step six: keep the trade-in separate.
+Dialogue: 0,0:14:27.42,0:14:30.99,Doc,,0,0,0,,Get a written price for the new car\Nfirst, then talk about your trade-in.
+Dialogue: 0,0:14:31.04,0:14:34.95,Doc,,0,0,0,,Otherwise, a big discount on one side\Ncan quietly disappear on the other.
+Dialogue: 0,0:14:35.00,0:14:37.07,Doc,,0,0,0,,Step seven: check the boring stuff.
+Dialogue: 0,0:14:37.12,0:14:38.57,Doc,,0,0,0,,How much will servicing cost?
+Dialogue: 0,0:14:38.62,0:14:39.79,Doc,,0,0,0,,How long is the warranty?
+Dialogue: 0,0:14:39.84,0:14:41.45,Doc,,0,0,0,,Is there a recall on the model?
+Dialogue: 0,0:14:41.50,0:14:44.65,Doc,,0,0,0,,You can check recalls on the\NProduct Safety Australia website.
+Dialogue: 0,0:14:44.70,0:14:47.61,Doc,,0,0,0,,And remember, a sale price\Ndoesn't reduce your rights.
+Dialogue: 0,0:14:47.66,0:14:49.05,Doc,,0,0,0,,Under the Australian Consumer Law,
+Dialogue: 0,0:14:49.10,0:14:53.11,Doc,,0,0,0,,a car bought on Black Friday has exactly\Nthe same consumer guarantees as one
+Dialogue: 0,0:14:53.16,0:14:54.63,Doc,,0,0,0,,bought at full price.
+Dialogue: 0,0:14:54.68,0:14:56.41,Doc,,0,0,0,,If it turns out to have a major fault,
+Dialogue: 0,0:14:56.46,0:15:00.47,Doc,,0,0,0,,the discount doesn't change your right\Nto a repair, a replacement or a refund.
+Dialogue: 0,0:15:00.52,0:15:03.53,Doc,,0,0,0,,We covered how that works in\Nour video on faulty new cars.
+Dialogue: 0,0:15:03.58,0:15:05.87,Doc,,0,0,0,,And step eight: be ready to walk away.
+Dialogue: 0,0:15:05.92,0:15:08.25,Doc,,0,0,0,,Black Friday ends, but car deals don't.
+Dialogue: 0,0:15:08.30,0:15:10.65,Doc,,0,0,0,,The end of December is\Noften another big push,
+Dialogue: 0,0:15:10.70,0:15:12.79,Doc,,0,0,0,,as dealers chase year-end targets.
+Dialogue: 0,0:15:12.84,0:15:15.10,Doc,,0,0,0,,If the deal isn't right,\Nthere'll be another one.
+Dialogue: 0,0:15:15.79,0:15:18.00,Doc,,0,0,0,,So which brands are\Nmost likely to discount?
+Dialogue: 0,0:15:18.05,0:15:20.84,Doc,,0,0,0,,Nobody can say for sure until\Nthe deals are announced.
+Dialogue: 0,0:15:20.89,0:15:23.48,Doc,,0,0,0,,But it's worth watching the\Nbrands under the most pressure.
+Dialogue: 0,0:15:23.53,0:15:25.64,Doc,,0,0,0,,The ones with emissions\Npenalties to manage,
+Dialogue: 0,0:15:25.69,0:15:28.66,Doc,,0,0,0,,like Mazda, Nissan, Subaru and Hyundai.
+Dialogue: 0,0:15:28.71,0:15:30.80,Doc,,0,0,0,,The Chinese brands\Nfighting for market share,
+Dialogue: 0,0:15:30.85,0:15:34.30,Doc,,0,0,0,,like GWM, Chery, Geely and Omoda Jaecoo.
+Dialogue: 0,0:15:34.35,0:15:36.66,Doc,,0,0,0,,And any brand with a new\Nmodel about to arrive,
+Dialogue: 0,0:15:36.71,0:15:39.04,Doc,,0,0,0,,because the outgoing\Nmodel has to be cleared.
+Dialogue: 0,0:15:39.09,0:15:40.50,Doc,,0,0,0,,If you're flexible on the brand,
+Dialogue: 0,0:15:40.55,0:15:42.48,Doc,,0,0,0,,that's where the biggest\Nsavings are likely to be.
+Dialogue: 0,0:15:42.53,0:15:47.22,Doc,,0,0,0,,So, are Black Friday car deals\Nworth it in Australia in 2026?
+Dialogue: 0,0:15:47.27,0:15:48.12,Doc,,0,0,0,,They can be.
+Dialogue: 0,0:15:48.17,0:15:49.44,Doc,,0,0,0,,The market is crowded,
+Dialogue: 0,0:15:49.49,0:15:51.20,Doc,,0,0,0,,Chinese brands are cutting prices,
+Dialogue: 0,0:15:51.25,0:15:53.54,Doc,,0,0,0,,emissions rules are\Npushing EVs and hybrids,
+Dialogue: 0,0:15:53.59,0:15:57.18,Doc,,0,0,0,,and dealers want 2026-built\Nstock gone before January.
+Dialogue: 0,0:15:57.23,0:15:58.92,Doc,,0,0,0,,That's a great setup for buyers.
+Dialogue: 0,0:15:58.97,0:16:01.64,Doc,,0,0,0,,But a Black Friday banner\Ndoesn't make a deal good.
+Dialogue: 0,0:16:01.69,0:16:04.94,Doc,,0,0,0,,The real saving is the difference\Nbetween the price you could get today and
+Dialogue: 0,0:16:04.99,0:16:07.76,Doc,,0,0,0,,the price you pay on the\Nday including the finance.
+Dialogue: 0,0:16:07.81,0:16:09.74,Doc,,0,0,0,,If this video helped, hit like,
+Dialogue: 0,0:16:09.79,0:16:12.82,Doc,,0,0,0,,subscribe and share it with\Nsomeone who's about to buy a car.
+Dialogue: 0,0:16:12.87,0:16:16.14,Doc,,0,0,0,,Tell me in the comments which car\Nyou're hoping gets a Black Friday deal.
+Dialogue: 0,0:16:16.19,0:16:18.64,Doc,,0,0,0,,And when the official 2026 deals land,
+Dialogue: 0,0:16:18.69,0:16:20.82,Doc,,0,0,0,,I'll be checking which\Nones are actually worth it.
+Dialogue: 0,0:16:20.87,0:16:21.95,Doc,,0,0,0,,See you in the next one.
