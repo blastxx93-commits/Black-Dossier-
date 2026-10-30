@@ -1,0 +1,63 @@
+{
+ "model": "black-forest-labs/flux-1.1-pro-ultra",
+ "raw": true,
+ "n": 1,
+ "style": ", modern Australian documentary photograph, 2026, natural light, realistic, sharp, cinematic colour grade, no logos, no badges, no readable text, no brand names",
+ "shots": [
+  {
+   "id": "ai_bf_showroom",
+   "prompt": "A modern Australian car dealership showroom at night decorated with black and red balloons and blank black banners, shiny new SUVs, no writing anywhere"
+  },
+  {
+   "id": "ai_salesman_pitch",
+   "prompt": "A car salesman talking to a young Australian couple next to a new white SUV in a showroom, seen from the side, faces not recognisable"
+  },
+  {
+   "id": "ai_finance_desk",
+   "prompt": "A finance desk at a car dealership with blank paperwork, a calculator and a pen, a customer's hands resting on the desk, no readable text"
+  },
+  {
+   "id": "ai_couple_compare",
+   "prompt": "An Australian couple at a kitchen table comparing car prices on a laptop and phone, screens blurred, evening light"
+  },
+  {
+   "id": "ai_demo_car",
+   "prompt": "A slightly used demonstrator car with a plain tag hanging from the rear-view mirror, parked on a dealer lot, no readable text"
+  },
+  {
+   "id": "ai_delivery_yard",
+   "prompt": "Rows of brand new cars with protective plastic on the seats in a dealer delivery yard, overcast Australian light"
+  },
+  {
+   "id": "ai_trade_in",
+   "prompt": "A used-car valuer inspecting a ten-year-old sedan with a clipboard at a dealership, faces not recognisable"
+  },
+  {
+   "id": "ai_new_car_keys",
+   "prompt": "Close-up of a hand receiving a new car key fob across a desk, a bright blurred showroom behind"
+  },
+  {
+   "id": "ai_receipt_total",
+   "prompt": "A long blank receipt curling off a desk beside car keys and a calculator, dramatic side light, no readable text"
+  },
+  {
+   "id": "ai_ev_charger_home",
+   "prompt": "A home wall charger mounted in an Australian garage next to an electric hatchback, cable plugged in, no logos"
+  },
+  {
+   "id": "ai_walk_away",
+   "prompt": "A man walking away from a car dealership at dusk, seen from behind, hands in pockets, shiny cars in the background"
+  },
+  {
+   "id": "ai_crowd_sale",
+   "prompt": "Shoppers crowding a bright shopping centre during a big sale, carrying bags, motion blur, faces not recognisable"
+  },
+  {
+   "id": "persona_skeptical",
+   "prompt": "Waist-up portrait of a fictional Australian man in his early 40s with short dark brown hair and stubble, wearing a plain charcoal grey hoodie, sceptical suspicious expression, one eyebrow raised, holding up a small blank price tag between two fingers, looking straight at the camera",
+   "style": ", photorealistic studio portrait photograph, sharp focus on the face, even soft lighting, plain solid bright chroma green background #00FF00 filling the whole frame, no shadows on the background, no text, no logos",
+   "guard": "fictional",
+   "n": 2
+  }
+ ]
+}

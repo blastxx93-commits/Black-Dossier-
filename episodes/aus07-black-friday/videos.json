@@ -1,0 +1,146 @@
+{
+ "defaults": {
+  "n": 3,
+  "clip": 8,
+  "sources": [
+   "coverr",
+   "pixabay",
+   "pexels"
+  ]
+ },
+ "shots": [
+  {
+   "id": "v_shopping",
+   "query": "black friday shopping",
+   "alt": [
+    "shopping mall crowd"
+   ]
+  },
+  {
+   "id": "v_bags",
+   "query": "shopping bags walking",
+   "alt": [
+    "woman shopping bags"
+   ]
+  },
+  {
+   "id": "v_dealer",
+   "query": "car dealership",
+   "alt": [
+    "car showroom"
+   ]
+  },
+  {
+   "id": "v_sales",
+   "query": "car salesman",
+   "alt": [
+    "buying car"
+   ]
+  },
+  {
+   "id": "v_handshake",
+   "query": "handshake deal",
+   "alt": [
+    "business handshake"
+   ]
+  },
+  {
+   "id": "v_sign",
+   "query": "signing contract",
+   "alt": [
+    "contract signing pen"
+   ]
+  },
+  {
+   "id": "v_card",
+   "query": "credit card payment",
+   "alt": [
+    "contactless payment"
+   ]
+  },
+  {
+   "id": "v_calc",
+   "query": "calculator",
+   "alt": [
+    "using calculator"
+   ]
+  },
+  {
+   "id": "v_keys",
+   "query": "car keys",
+   "alt": [
+    "handing car keys"
+   ]
+  },
+  {
+   "id": "v_drive",
+   "query": "driving new car",
+   "alt": [
+    "car driving road"
+   ]
+  },
+  {
+   "id": "v_newcars",
+   "query": "new cars parking lot",
+   "alt": [
+    "cars in a row"
+   ]
+  },
+  {
+   "id": "v_fuel",
+   "query": "petrol pump",
+   "alt": [
+    "refueling car"
+   ]
+  },
+  {
+   "id": "v_ev",
+   "query": "electric car charging",
+   "alt": [
+    "ev charger plug"
+   ]
+  },
+  {
+   "id": "v_online",
+   "query": "online shopping laptop",
+   "alt": [
+    "laptop shopping"
+   ]
+  },
+  {
+   "id": "v_phone_shop",
+   "query": "shopping on phone",
+   "alt": [
+    "smartphone shopping app"
+   ]
+  },
+  {
+   "id": "v_family",
+   "query": "family car",
+   "alt": [
+    "family road trip car"
+   ]
+  },
+  {
+   "id": "v_city",
+   "query": "city traffic",
+   "alt": [
+    "traffic aerial"
+   ]
+  },
+  {
+   "id": "v_wash",
+   "query": "car wash",
+   "alt": [
+    "washing car"
+   ]
+  },
+  {
+   "id": "v_inspect",
+   "query": "inspecting car",
+   "alt": [
+    "car inspection"
+   ]
+  }
+ ]
+}

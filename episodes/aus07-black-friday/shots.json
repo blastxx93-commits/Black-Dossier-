@@ -1,0 +1,365 @@
+{
+ "defaults": {
+  "n": 4,
+  "sources": [
+   "commons",
+   "pixabay"
+  ]
+ },
+ "shots": [
+  {
+   "id": "m_jolion",
+   "query": "Haval Jolion",
+   "alt": [
+    "GWM Haval Jolion"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_h6",
+   "query": "Haval H6 2024",
+   "alt": [
+    "Haval H6 hybrid"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_cannon",
+   "query": "GWM Cannon Alpha",
+   "alt": [
+    "GWM Poer"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_tiggo8",
+   "query": "Chery Tiggo 8 Pro",
+   "alt": [
+    "Chery Tiggo 8"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_tiggo9",
+   "query": "Chery Tiggo 9",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_tiggo4",
+   "query": "Chery Tiggo 4",
+   "alt": [
+    "Chery Tiggo 4 Pro"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_geely_ex5",
+   "query": "Geely EX5",
+   "alt": [
+    "Geely Galaxy E5"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_glc",
+   "query": "Mercedes-Benz GLC 2023",
+   "alt": [
+    "Mercedes-Benz GLC X254"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_kodiaq",
+   "query": "Skoda Kodiaq 2024",
+   "alt": [
+    "Skoda Kodiaq"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_superb",
+   "query": "Skoda Superb 2024",
+   "alt": [
+    "Skoda Superb"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_jaecoo",
+   "query": "Jaecoo J7",
+   "alt": [
+    "Omoda Jaecoo J7"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_vitara",
+   "query": "Suzuki Vitara",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_jimny",
+   "query": "Suzuki Jimny",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_dmax",
+   "query": "Isuzu D-Max 2024",
+   "alt": [
+    "Isuzu D-Max"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_cx60",
+   "query": "Mazda CX-60",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_kona_ev",
+   "query": "Hyundai Kona Electric 2024",
+   "alt": [
+    "Hyundai Kona Electric"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_inster",
+   "query": "Hyundai Inster",
+   "alt": [
+    "Hyundai Casper Electric"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_mg4",
+   "query": "MG4 Electric",
+   "alt": [
+    "MG MG4"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_dolphin",
+   "query": "BYD Dolphin",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_leapmotor",
+   "query": "Leapmotor B10",
+   "alt": [
+    "Leapmotor C10"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_bf_sale",
+   "query": "black friday sale",
+   "alt": [
+    "sale sign shop"
+   ],
+   "n": 8,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_shopping",
+   "query": "shopping bags",
+   "alt": [
+    "shopping mall"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_dealer",
+   "query": "car dealership",
+   "alt": [
+    "new cars dealer lot"
+   ],
+   "n": 8,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_salesman",
+   "query": "car salesman customer",
+   "alt": [
+    "buying a new car"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_keys",
+   "query": "car keys hand",
+   "alt": [
+    "new car keys"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_contract",
+   "query": "signing contract",
+   "alt": [
+    "signing car contract"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_calc",
+   "query": "calculator finance",
+   "alt": [
+    "loan calculator"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_card",
+   "query": "credit card payment",
+   "alt": [
+    "paying credit card"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_money",
+   "query": "australian money",
+   "alt": [
+    "australian dollars"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_calendar",
+   "query": "calendar november",
+   "alt": [
+    "calendar planning"
+   ],
+   "n": 5,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_fuel",
+   "query": "petrol pump",
+   "alt": [
+    "fuel station australia"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_ev",
+   "query": "electric car charging",
+   "alt": [
+    "ev charging station"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_showroom",
+   "query": "car showroom",
+   "alt": [
+    "luxury car showroom"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_odometer",
+   "query": "car odometer",
+   "alt": [
+    "car dashboard speedometer"
+   ],
+   "n": 4,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_road",
+   "query": "australia highway",
+   "alt": [
+    "sydney traffic"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_laptop",
+   "query": "online shopping laptop",
+   "alt": [
+    "comparing prices laptop"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_family",
+   "query": "family new car",
+   "alt": [
+    "family car road trip"
+   ],
+   "n": 5,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  }
+ ]
+}
