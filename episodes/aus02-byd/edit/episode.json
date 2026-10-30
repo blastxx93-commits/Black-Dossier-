@@ -1,0 +1,1467 @@
+{
+ "output": "AUS02_BYD_Repairs.mp4",
+ "fps": 24,
+ "music": [
+  {
+   "file": "trilha.wav",
+   "start": 0,
+   "gain": -24,
+   "fade_in": 4,
+   "fade_out": 5
+  }
+ ],
+ "chapters": [
+  {
+   "audio": "audio/ch00_hook.flac",
+   "lead_in": 0,
+   "tail": 0.6,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_ev_charge/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.52,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_kangaroo_road_night_1.jpg",
+     "move": "in",
+     "dur": 4.84,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_insurance_papers_1.jpg",
+     "move": "left",
+     "dur": 1.76,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_warehouse/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 1.18,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "And then\u2026 nothing.",
+     "highlight": "NOTHING",
+     "size": 150,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 1.52,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "11 WEEKS",
+     "label": "still sitting at the smash repairer",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "owner's post, r/CarsAustralia, Jan 2025",
+     "color": "red",
+     "dur": 3.2,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "+8 WEEKS",
+     "label": "more to wait for the missing parts",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "owner's post, r/CarsAustralia, Jan 2025",
+     "color": "red",
+     "dur": 3.92,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_crash/1_unsplash.jpg",
+     "move": "out",
+     "dur": 1.42,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_owner_phone_1.jpg",
+     "move": "right",
+     "caption": "Owner's forum post|Early 2025",
+     "dur": 6.88,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_phone/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_car_waiting_weeks_1.jpg",
+     "move": "in",
+     "dur": 5.44,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/g_byd_badge/1_commons.jpg",
+     "move": "up",
+     "dur": 3.02,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "What went wrong?",
+      "How much to repair?",
+      "Has BYD fixed it?"
+     ],
+     "starts": [
+      0,
+      47,
+      131
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.9600000000000009
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 5.480000000000004
+      }
+     ],
+     "dur": 7.58,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "BYD's Repair Problem",
+     "subtitle": "And the $25 million fix",
+     "tag": "Australia 2026",
+     "bg": "a/ai/ai_parts_shelves_1.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 9.166,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch01.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/m_atto3/1_commons.jpg",
+     "move": "in",
+     "caption": "Where it started|BYD Atto 3",
+     "dur": 7.12,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_dolphin/1_commons.jpg",
+     "move": "left",
+     "dur": 2.96,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seal/1_commons.jpg",
+     "move": "right",
+     "dur": 2.72,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_shark6/1_commons.jpg",
+     "move": "in",
+     "dur": 1.2,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "$19,990",
+     "label": "BYD Atto 1 \u00b7 starting price",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarsGuide",
+     "dur": 5.66,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "52,000+",
+     "label": "BYD sales \u00b7 first half of 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarsGuide / VFACTS",
+     "dur": 5.48,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "TOP 3",
+     "label": "BYD's brand ranking \u00b7 March 2026",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarExpert / VFACTS",
+     "dur": 2.64,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "150,000+",
+     "label": "BYD customers in Australia",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "BYD Australia",
+     "dur": 4.9,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_city/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.91,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Selling cars is one thing. Fixing them is another.",
+     "highlight": "FIXING",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.53,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_laptop/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.44,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_crash/2_pixabay.jpg",
+     "move": "down",
+     "dur": 1.96,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_mechanic/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.157,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch02.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_cargo_ship/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.82,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_cargo_ship/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.44,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/g_byd_badge/3_commons.jpg",
+     "move": "in",
+     "dur": 2.94,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Shake off the reputation for parts delays",
+     "highlight": "PARTS DELAYS",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_road/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.8,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_phone/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "caption": "CarsGuide|Common owner complaints",
+     "dur": 6.86,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_phone/1_unsplash.jpg",
+     "move": "left",
+     "dur": 2.74,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_ev_technician_1.jpg",
+     "move": "out",
+     "dur": 1.48,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_denza/1_commons.jpg",
+     "move": "in",
+     "caption": "Denza|BYD's premium brand",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_road/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.6,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev_repair/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.0,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Not always.",
+     "highlight": "ALWAYS",
+     "size": 170,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 1.692,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch03.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "statement",
+     "text": "This isn't only a BYD problem.",
+     "highlight": "ONLY",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 2.94,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_laptop/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "caption": "AADA review|July 2026",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_city/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.36,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ev_charge/1_unsplash.jpg",
+     "move": "right",
+     "dur": 2.02,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "6\u20138 WEEKS",
+     "label": "just to diagnose a fault",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "AADA / Buchan review",
+     "color": "red",
+     "dur": 5.22,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Not fix it. Just diagnose it.",
+     "highlight": "DIAGNOSE",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 2.38,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_waiting/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.04,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_highway_night/1_pixabay.jpg",
+     "move": "in",
+     "dur": 4.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_three_questions_1.jpg",
+     "move": "up",
+     "dur": 3.4,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "70+",
+     "label": "car brands sharing ~1.2 million sales a year",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarExpert",
+     "dur": 4.92,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_denza/2_commons.jpg",
+     "move": "left",
+     "dur": 4.24,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_cargo_ship/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_night_drive/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.635,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch04.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_laptop/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Here's what we can actually back up.",
+     "highlight": "BACK",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 2.52,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_crash/3_unsplash.jpg",
+     "move": "out",
+     "dur": 4.44,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_smash_repairer_1.jpg",
+     "move": "down",
+     "caption": "Paint & Panel|BYD collision repair network",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_night_drive/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.34,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_insurance/1_unsplash.jpg",
+     "move": "in",
+     "dur": 2.48,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_battery_pack_1.jpg",
+     "move": "left",
+     "dur": 7.08,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_shark6/5_commons.jpg",
+     "move": "in",
+     "dur": 3.02,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_crash/4_pixabay.jpg",
+     "move": "out",
+     "dur": 5.12,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_crash/5_unsplash.jpg",
+     "move": "right",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_kangaroo/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.4,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Average yearly premium",
+     "items": [
+      [
+       "Dolphin",
+       1425
+      ],
+      [
+       "Corolla Hyb.",
+       1587
+      ],
+      [
+       "Sealion 7",
+       1770
+      ],
+      [
+       "RAV4 Hyb.",
+       1773
+      ],
+      [
+       "Shark 6",
+       2071,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "$",
+     "suffix": "",
+     "source": "Compare the Market via CarExpert",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev_charge/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_insurance/3_unsplash.jpg",
+     "move": "left",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_insurance/4_pixabay.jpg",
+     "move": "out",
+     "dur": 5.7,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "$3,000+",
+     "label": "average premium \u00b7 Tesla Model 3 and Model Y",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Compare the Market via CarExpert",
+     "color": "red",
+     "dur": 3.82,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_atto3/3_commons.jpg",
+     "move": "in",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_insurance/5_unsplash.jpg",
+     "move": "right",
+     "dur": 5.22,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "It depends on the model.",
+     "highlight": "MODEL",
+     "size": 150,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 2.996,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch05.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "cta",
+     "text": "Own a BYD? Tell us.",
+     "sub": "Your repair story helps other Aussies decide",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 6.14,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "How was your service?",
+      "Good or bad?"
+     ],
+     "starts": [
+      0,
+      61
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 2.5600000000000014
+      }
+     ],
+     "dur": 5.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seal/3_commons.jpg",
+     "move": "up",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_sealion6/3_commons.jpg",
+     "move": "in",
+     "dur": 2.659,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch06.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "stat",
+     "value": "32,009",
+     "label": "Shark 6 utes recalled \u00b7 spare wheel assembly",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "BYD Australia",
+     "color": "red",
+     "tag": "recall",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_mechanic/5_unsplash.jpg",
+     "move": "up",
+     "dur": 5.2,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_spare_tyre/3_pixabay.jpg",
+     "move": "out",
+     "dur": 5.54,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_dealer/2_pixabay.jpg",
+     "move": "down",
+     "dur": 3.72,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "A recall is the system working.",
+     "highlight": "WORKING",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 2.22,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_workshop_backlog_1.jpg",
+     "move": "in",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ev_workshop/5_unsplash.jpg",
+     "move": "out",
+     "dur": 4.912,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch07.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "statement",
+     "text": "Has BYD fixed it?",
+     "highlight": "FIXED",
+     "size": 160,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.66,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "580,000+",
+     "label": "BYD and Denza parts held in Australia",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "BYD Australia \u00b7 20 Oct 2026",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_forklift/1_unsplash.jpg",
+     "move": "down",
+     "dur": 4.38,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "95%",
+     "label": "of parts kept in local stock",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "BYD Australia",
+     "dur": 4.26,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "$25M+",
+     "label": "of parts on hand at any time",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "BYD Australia",
+     "dur": 3.92,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_warehouse/1_unsplash.jpg",
+     "move": "left",
+     "caption": "4 warehouses|24,000+ m\u00b2 in four cities",
+     "dur": 3.94,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_city/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.49,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "24 HRS",
+     "label": "in-stock parts to dealers near a warehouse",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "BYD Australia",
+     "dur": 4.95,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_delivery/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.72,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_battery/2_pixabay.jpg",
+     "move": "out",
+     "dur": 4.1,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_warehouse/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.84,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"Our commitment to Australian customers doesn't end at the handover. It starts there.\"",
+     "highlight": "STARTS THERE",
+     "size": 86,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_forklift/2_pixabay.jpg",
+     "move": "in",
+     "dur": 2.72,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_mechanic/1_unsplash.jpg",
+     "move": "right",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_forklift/3_unsplash.jpg",
+     "move": "left",
+     "dur": 4.3,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ev_workshop/2_pixabay.jpg",
+     "move": "in",
+     "dur": 2.094,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch08.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_waiting/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.24,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Australian Consumer Law",
+     "highlight": "CONSUMER LAW",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 1.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_warehouse/5_unsplash.jpg",
+     "move": "up",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_documents/2_pixabay.jpg",
+     "move": "out",
+     "dur": 5.22,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"Reasonable\" is vague.",
+     "highlight": "REASONABLE",
+     "size": 150,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_documents/3_pixabay.jpg",
+     "move": "right",
+     "dur": 4.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_fair_trading_1.jpg",
+     "move": "out",
+     "dur": 3.92,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_phone/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.62,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_documents/1_pixabay.jpg",
+     "move": "down",
+     "caption": "If it drags on|Contact Fair Trading",
+     "dur": 2.14,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ev_workshop/3_unsplash.jpg",
+     "move": "in",
+     "caption": "Since 2022|Repair information sharing scheme",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_documents/4_pixabay.jpg",
+     "move": "in",
+     "dur": 4.84,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_mechanic/3_unsplash.jpg",
+     "move": "left",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_documents/5_pixabay.jpg",
+     "move": "up",
+     "dur": 4.423,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch09.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "statement",
+     "text": "Is the problem real? Yes.",
+     "highlight": "YES",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 2.93,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_calendar/1_pixabay.jpg",
+     "move": "out",
+     "dur": 5.15,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_crash/6_pixabay.jpg",
+     "move": "right",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_dolphin/3_commons.jpg",
+     "move": "right",
+     "dur": 6.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_warehouse/6_pixabay.jpg",
+     "move": "in",
+     "dur": 4.7,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "$25M of parts. 4 warehouses.",
+     "highlight": "$25M",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.74,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_sealion6/1_commons.jpg",
+     "move": "up",
+     "dur": 3.68,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_phone/3_unsplash.jpg",
+     "move": "out",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_sealion7/1_commons.jpg",
+     "move": "out",
+     "dur": 4.76,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Nearest approved repairer?",
+      "Service booking wait?",
+      "Loan car policy?"
+     ],
+     "starts": [
+      0,
+      54,
+      108
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 2.259999999999998
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 4.519999999999996
+      }
+     ],
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_dealer/3_pixabay.jpg",
+     "move": "down",
+     "dur": 3.556,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch10.flac",
+   "lead_in": 0,
+   "tail": 2.5,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_road/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.58,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "If this helped, hit like",
+     "sub": "and subscribe for honest Aussie car data",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_highway_night/2_pixabay.jpg",
+     "move": "down",
+     "dur": 3.5,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Would you buy a BYD in 2026?"
+     ],
+     "starts": [
+      0
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      }
+     ],
+     "dur": 5.46,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "10 Car Brands in Serious Trouble",
+     "subtitle": "Up next",
+     "tag": "next video",
+     "bg": "a/h_dealer/4_pixabay.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 8.766,
+     "fixed": false,
+     "fade_out": 0
+    }
+   ]
+  }
+ ],
+ "size": [
+  1920,
+  1080
+ ],
+ "subtitles": "AUS02.ass"
+}
