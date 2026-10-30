@@ -35,6 +35,10 @@ def setup(script_dir, skip_file=None, photos=None, clips=None, generic_clips=Non
                fallback=fallback or {}, any=any_pools or [])
     if skip_file and os.path.exists(skip_file):
         CFG["skip"] = set(json.load(open(skip_file)))
+    # reviewed.json (next to skip.json): every photo/clip I have actually looked at on a contact sheet.
+    # Anything not listed is treated as skipped, so an unreviewed download can never reach a video.
+    rev = os.path.join(os.path.dirname(skip_file or ""), "reviewed.json")
+    CFG["reviewed"] = set(json.load(open(rev))) if os.path.exists(rev) else None
     for spec in reserved or []:
         folder, n = spec.split("/")
         CFG["reserved"].update(x[2:] for x in glob.glob(f"a/{folder}/{n}_*"))
@@ -62,9 +66,14 @@ def fingerprint(path):
     return sum(1 << (r * 8 + c) for r in range(8) for c in range(8) if px[r * 9 + c] > px[r * 9 + c + 1])
 
 
+def reviewed(path):
+    r = CFG.get("reviewed")
+    return r is None or path in r or path.startswith("ai/")
+
+
 def claim(path):
-    """True if the file is new (by name and by content) and marks it used."""
-    if path in USED:
+    """True if the file is new (by name and by content), was reviewed, and marks it used."""
+    if path in USED or not reviewed(path):
         return False
     h = fingerprint(path)
     if h is not None and any(bin(h ^ o).count("1") <= 6 for o in HASHES):

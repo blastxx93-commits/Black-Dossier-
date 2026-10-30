@@ -261,14 +261,15 @@ def load_font(size):
 
 
 def contact_sheets(ep_dir, rows, per_sheet=8):
-    """One row per shot, up to 4 thumbs each, 8 shots per sheet. Portrait so it reads on a phone."""
+    """One block per shot showing EVERY downloaded photo (4 per row, wrapping), 8 shots per sheet.
+    Every file the edit can use must appear here, so nothing reaches a video unreviewed."""
     tw, th, pad, label_h = 360, 240, 16, 56
     f_big, f_small = load_font(30), load_font(24)
     sheets = []
     for k in range(0, len(rows), per_sheet):
         chunk = rows[k:k + per_sheet]
         W = pad + 4 * (tw + pad)
-        H = pad + len(chunk) * (label_h + th + pad)
+        H = pad + sum(label_h + max(1, (len(f) + 3) // 4) * (th + pad) for _, f in chunk)
         sheet = Image.new("RGB", (W, H), (18, 16, 16))
         d = ImageDraw.Draw(sheet)
         y = pad
@@ -278,17 +279,18 @@ def contact_sheets(ep_dir, rows, per_sheet=8):
             if not files:
                 d.text((pad, y + th // 2 - 15), "nada encontrado - mande uma imagem ou gere por IA",
                        font=f_small, fill=(196, 72, 62))
-            for j, fp in enumerate(files[:4]):
+            for j, fp in enumerate(files):
                 try:
                     im = ImageOps.fit(Image.open(fp).convert("RGB"), (tw, th), Image.LANCZOS)
                 except Exception:
                     continue
-                x = pad + j * (tw + pad)
-                sheet.paste(im, (x, y))
+                x = pad + (j % 4) * (tw + pad)
+                yy = y + (j // 4) * (th + pad)
+                sheet.paste(im, (x, yy))
                 num = os.path.basename(fp).split("_")[0]
-                d.rectangle([x, y, x + 54, y + 40], fill=(196, 72, 62))
-                d.text((x + 10, y + 4), num, font=f_big, fill=(255, 255, 255))
-            y += th + pad
+                d.rectangle([x, yy, x + 54, yy + 40], fill=(196, 72, 62))
+                d.text((x + 10, yy + 4), num, font=f_big, fill=(255, 255, 255))
+            y += max(1, (len(files) + 3) // 4) * (th + pad)
         path = os.path.join(ep_dir, f"contact_sheet_{k // per_sheet + 1}.jpg")
         sheet.save(path, quality=82)
         sheets.append(path)
