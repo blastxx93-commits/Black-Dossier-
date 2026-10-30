@@ -1,0 +1,2248 @@
+{
+ "output": "AUS05_Cybertruck_Cancelled.mp4",
+ "fps": 24,
+ "music": [
+  {
+   "file": "trilha.wav",
+   "start": 0,
+   "gain": -29,
+   "fade_in": 4,
+   "fade_out": 5
+  }
+ ],
+ "chapters": [
+  {
+   "audio": "audio/ch00_hook.flac",
+   "lead_in": 0,
+   "tail": 0.6,
+   "shots": [
+    {
+     "type": "stat",
+     "value": "$150",
+     "label": "Cybertruck deposit paid by Aussies \u00b7 November 2019",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Tesla",
+     "color": "red",
+     "dur": 6.34,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_cybertruck/1_commons.jpg",
+     "move": "in",
+     "caption": "Tesla Cybertruck|revealed November 2019",
+     "dur": 3.96,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_calendar/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.26,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_reservation_email_1.jpg",
+     "move": "in",
+     "dur": 4.16,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_roadshow_crowd_1.jpg",
+     "move": "left",
+     "dur": 4.0,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"Personally confident.\"",
+     "highlight": "CONFIDENT",
+     "size": 150,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.52,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_email/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "caption": "23 October 2026|the email arrived",
+     "dur": 7.08,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"\u2026plans to produce Cybertruck for Australia and New Zealand have been discontinued.\"",
+     "highlight": "DISCONTINUED",
+     "size": 78,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.58,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "CANCELLED",
+     "subtitle": "Tesla Cybertruck \u00b7 Australia",
+     "tag": "October 2026",
+     "bg": "a/m_cybertruck/5_commons.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 5.22,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "What happened?",
+      "Why did Tesla walk away?",
+      "What about the refund?",
+      "What can Aussies buy instead?"
+     ],
+     "starts": [
+      0,
+      29,
+      80,
+      159
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2199999999999989
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 3.3399999999999963
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 6.640000000000001
+      }
+     ],
+     "dur": 11.2,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_truck_highway/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.788,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch01.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/ai/ai_wait_years_1.jpg",
+     "move": "right",
+     "dur": 3.26,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_cybertruck_reveal/1_commons.jpg",
+     "move": "in",
+     "caption": "Los Angeles|November 2019",
+     "dur": 5.74,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_steel/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 0.97,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_cybertruck_reveal/3_commons.jpg",
+     "move": "left",
+     "dur": 4.79,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "US$39,900",
+     "label": "promised starting price \u00b7 2019",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Tesla",
+     "dur": 7.04,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "800 km",
+     "label": "promised range of the top version (500+ miles)",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Tesla \u00b7 2019",
+     "dur": 3.48,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_factory2/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.56,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_email_laptop/1_pixabay.jpg",
+     "move": "in",
+     "dur": 3.1,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_cybertruck/6_pixabay.jpg",
+     "move": "up",
+     "dur": 4.94,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_pickup2/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_f150/2_pixabay.jpg",
+     "move": "out",
+     "dur": 7.08,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Left-hand drive only.",
+     "highlight": "LEFT-HAND",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.84,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_factory/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.26,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_rhd_steering_1.jpg",
+     "move": "down",
+     "dur": 4.88,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_cybertruck/3_commons.jpg",
+     "move": "right",
+     "caption": "Deliveries began|late 2023",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_australia_road/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.72,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "The dream and the reality drifted apart.",
+     "highlight": "DRIFTED",
+     "size": 115,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.1,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch02.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_night_drive/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.46,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_email_laptop/3_pixabay.jpg",
+     "move": "in",
+     "caption": "May 2022|reservation page closed",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_city_traffic/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.88,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_phone_shock/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_cybertruck/7_commons.jpg",
+     "move": "left",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_desert_road/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_cybertruck/8_pixabay.jpg",
+     "move": "out",
+     "dur": 3.04,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"Sometime next year.\"",
+     "highlight": "NEXT YEAR",
+     "size": 150,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.64,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"Personally confident\" \u2013 March 2025",
+     "highlight": "CONFIDENT",
+     "size": 115,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_road_trip/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.22,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"Not confident it's coming.\" \u2013 April 2025",
+     "highlight": "NOT CONFIDENT",
+     "size": 100,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.8,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_night_drive/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.84,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_adr_engineer_1.jpg",
+     "move": "right",
+     "dur": 3.38,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_sydney_road/1_pixabay.jpg",
+     "move": "in",
+     "dur": 4.541,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch03.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "Why Tesla Pulled the Plug",
+     "subtitle": "the numbers",
+     "tag": "4 reasons",
+     "bg": "a/m_cybertruck_interior/1_commons.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 9.18,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "250,000",
+     "label": "Cybertrucks a year \u2013 Musk's prediction",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_pickup2/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.08,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Cybertruck sales in the US",
+     "items": [
+      [
+       "2024",
+       38965
+      ],
+      [
+       "2025",
+       20237,
+       "red"
+      ],
+      [
+       "Jan\u2013Sep 2026",
+       11586,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "estimates via CarExpert",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_factory2/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_highway_au/6_pixabay.jpg",
+     "move": "out",
+     "dur": 6.02,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_cybertruck2/5_commons.jpg",
+     "move": "out",
+     "dur": 4.54,
+     "fixed": true
+    },
+    {
+     "type": "price",
+     "model": "Tesla Cybertruck (US)",
+     "old": "US$39,900",
+     "new": "~US$80,000",
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.6
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.0
+      }
+     ],
+     "old_note": "promised 2019",
+     "new_note": "dual motor \u00b7 2026",
+     "save": "x2",
+     "source": "Tesla / CarExpert",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ev_charging/5_pixabay.jpg",
+     "move": "down",
+     "dur": 2.74,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "~A$130,000",
+     "label": "estimated Australian price before on-roads",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "EV Central",
+     "color": "red",
+     "dur": 6.88,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_pedestrian_dummy_1.jpg",
+     "move": "down",
+     "dur": 3.76,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_cybertruck2/6_pixabay.jpg",
+     "move": "in",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ev_charging/6_pixabay.jpg",
+     "move": "in",
+     "dur": 5.38,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_gigafactory_texas/3_commons.jpg",
+     "move": "left",
+     "dur": 5.093,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_pickup_offroad/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_tesla_supercharger/1_commons.jpg",
+     "move": "left",
+     "dur": 4.347,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "~10,000",
+     "label": "full-size US pickups sold in Australia a year",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "dur": 2.94,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_pickup_offroad/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.18,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "The decision was almost made for them.",
+     "highlight": "MADE",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.33,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "11",
+     "label": "US recalls since launch",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "NHTSA",
+     "color": "red",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_tesla_supercharger/2_pixabay.jpg",
+     "move": "out",
+     "dur": 3.85,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_cybertruck3/5_commons.jpg",
+     "move": "out",
+     "caption": "April 2024|accelerator pedal pad",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_tesla_supercharger/3_commons.jpg",
+     "move": "right",
+     "dur": 3.5,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "46,000+",
+     "label": "recalled \u00b7 trim panel could detach \u00b7 March 2025",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "NHTSA",
+     "color": "red",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_tesla_supercharger/4_pixabay.jpg",
+     "move": "in",
+     "dur": 2.74,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "63,000+",
+     "label": "recalled \u00b7 parking lights too bright \u00b7 October 2025",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "NHTSA",
+     "color": "red",
+     "dur": 7.36,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_cybertruck3/6_pixabay.jpg",
+     "move": "right",
+     "caption": "April 2026|brake rotor stud holes",
+     "dur": 6.91,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_factory_line/1_unsplash.jpg",
+     "move": "in",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_supercharger/1_unsplash.jpg",
+     "move": "up",
+     "dur": 2.67,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "A weaker business case for Australia.",
+     "highlight": "WEAKER",
+     "size": 115,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.885,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch04.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_phone_shock/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.3,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "$150",
+     "label": "refunded in full",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Tesla \u00b7 October 2026",
+     "dur": 6.44,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "30 days",
+     "label": "expected refund time",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "EV Central",
+     "dur": 2.52,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_model_y/1_commons.jpg",
+     "move": "in",
+     "caption": "Order a Model 3 or Model Y|1 year of FSD (Supervised)",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_supercharger/3_unsplash.jpg",
+     "move": "out",
+     "dur": 3.82,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "$1,788",
+     "label": "value of 1 year of FSD (Supervised) at $149/month",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Tesla",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_supercharger/5_unsplash.jpg",
+     "move": "down",
+     "dur": 4.06,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_tesla_drive/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.02,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "The driver stays responsible.",
+     "highlight": "RESPONSIBLE",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.96,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_australia_road/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.32,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_email_laptop/4_pixabay.jpg",
+     "move": "up",
+     "dur": 7.1,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_sydney_road/2_pixabay.jpg",
+     "move": "out",
+     "dur": 7.236,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch05.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/m_cybertruck4/1_commons.jpg",
+     "move": "down",
+     "dur": 6.68,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Were you in the queue?",
+     "sub": "Tell me in the comments",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ev_road/1_unsplash.jpg",
+     "move": "in",
+     "dur": 3.26,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Subscribe & turn on notifications",
+     "sub": "Honest Aussie car news, 2026",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 3.093,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch06.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "statement",
+     "text": "Tesla isn't struggling. The Cybertruck didn't fit.",
+     "highlight": "DIDN'T FIT",
+     "size": 105,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.64,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "5,654",
+     "label": "Teslas sold in Australia \u00b7 September 2026 (+21%)",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "EVC / VFACTS",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_tesla_car/1_unsplash.jpg",
+     "move": "left",
+     "dur": 3.98,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "24.2%",
+     "label": "EV share of new car sales \u00b7 September 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "FCAI / EVC",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_tesla_car/3_unsplash.jpg",
+     "move": "out",
+     "dur": 2.66,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_truck_highway/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "caption": "Diesel|towards $3 a litre",
+     "dur": 4.56,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev_charge/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.36,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "+80%",
+     "label": "EV insurance quote requests \u00b7 Jan\u2013Sep 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "NRMA Insurance",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_tesla_car/5_unsplash.jpg",
+     "move": "right",
+     "dur": 3.94,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Aussies considering a battery EV",
+     "items": [
+      [
+       "2024",
+       20
+      ],
+      [
+       "2026",
+       31
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "%",
+     "source": "NRMA survey",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ev_road/2_pixabay.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_stainless/1_pixabay.jpg",
+     "move": "in",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ev_road/3_unsplash.jpg",
+     "move": "up",
+     "dur": 2.96,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "8,670",
+     "label": "Teslas sold \u00b7 June 2026 \u2013 best month ever",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "EVC",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ev_road/5_unsplash.jpg",
+     "move": "out",
+     "dur": 3.78,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_model_y/3_commons.jpg",
+     "move": "in",
+     "caption": "Model Y|20,396 sold in H1 2026 (+95%)",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ev_road/6_pixabay.jpg",
+     "move": "down",
+     "dur": 3.94,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "23,588",
+     "label": "Tesla sales \u00b7 first half 2026 (+67%)",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "EVC",
+     "dur": 5.54,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_night_drive/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.28,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_model_3/1_commons.jpg",
+     "move": "left",
+     "caption": "Model 3|-47% in June",
+     "dur": 3.76,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev_charge/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_model_y/5_commons.jpg",
+     "move": "left",
+     "dur": 3.64,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_model_3/3_commons.jpg",
+     "move": "right",
+     "dur": 7.46,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_cybertruck4/4_commons.jpg",
+     "move": "out",
+     "dur": 3.94,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_sydney_road/3_pixabay.jpg",
+     "move": "right",
+     "dur": 6.68,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "If not the Cybertruck, then what?",
+     "highlight": "THEN WHAT",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 2.929,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch07.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_desert_road/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.12,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ram1500/1_commons.jpg",
+     "move": "in",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_tradie_ute_1.jpg",
+     "move": "in",
+     "dur": 3.3,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Full-size pickups \u00b7 March 2026",
+     "items": [
+      [
+       "Ford F-150",
+       270
+      ],
+      [
+       "Ram 1500",
+       181
+      ],
+      [
+       "Chevrolet Silverado",
+       172
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "VFACTS",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ute_outback/1_pixabay.jpg",
+     "move": "left",
+     "dur": 4.68,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_silverado/3_commons.jpg",
+     "move": "left",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ute_outback/2_pixabay.jpg",
+     "move": "out",
+     "dur": 2.56,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_f150/1_commons.jpg",
+     "move": "right",
+     "caption": "Ford F-150|fire-risk recall \u00b7 October 2026",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ute_outback/3_pixabay.jpg",
+     "move": "right",
+     "dur": 2.86,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_f150/3_commons.jpg",
+     "move": "in",
+     "dur": 5.12,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Rebuilt in Melbourne: Walkinshaw (Ram, Silverado) \u00b7 RMA (F-150)",
+     "highlight": "MELBOURNE",
+     "size": 80,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 6.38,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ram1500/3_commons.jpg",
+     "move": "up",
+     "dur": 4.2,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_angular_ute_rhd_1.jpg",
+     "move": "out",
+     "dur": 5.62,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "$100,000+",
+     "label": "many converted US pickups in Australia",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "color": "red",
+     "dur": 6.66,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_silverado/1_commons.jpg",
+     "move": "down",
+     "dur": 3.22,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_cybertruck_interior/3_commons.jpg",
+     "move": "in",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ute_outback/5_pixabay.jpg",
+     "move": "in",
+     "dur": 6.62,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_towing_caravan_1.jpg",
+     "move": "in",
+     "dur": 3.38,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "A niche within a niche.",
+     "highlight": "NICHE",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 2.4,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_cargo_ship/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.87,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_dmax/1_commons.jpg",
+     "move": "in",
+     "caption": "Isuzu D-Max EV|cancelled for Australia",
+     "dur": 4.67,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_volvo_s60/3_commons.jpg",
+     "move": "left",
+     "caption": "Nissan|new Leaf postponed",
+     "dur": 6.32,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_jaguar/1_commons.jpg",
+     "move": "left",
+     "caption": "Jaguar|0 new cars sold in September",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_hilux/2_pixabay.jpg",
+     "move": "up",
+     "dur": 7.16,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_volvo_s60/1_commons.jpg",
+     "move": "right",
+     "caption": "Volvo S60 & V60 CC|axed",
+     "dur": 7.14,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "~70",
+     "label": "brands fighting for ~1.2 million sales a year",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "AADA review \u00b7 2026",
+     "dur": 3.973,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_cargo_ship/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.425,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch08.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_ev_charge/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.42,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "<1%",
+     "label": "of ute sales are electric \u00b7 2026",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarExpert",
+     "color": "red",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "157,531",
+     "label": "ute deliveries Jan\u2013Sep 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarExpert",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ranger/1_commons.jpg",
+     "move": "out",
+     "dur": 2.88,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_hilux/1_commons.jpg",
+     "move": "in",
+     "caption": "Toyota HiLux BEV|~300 sold May\u2013early July",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ranger/2_pixabay.jpg",
+     "move": "down",
+     "dur": 3.18,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Fewer than 10 private buyers.",
+     "highlight": "10",
+     "size": 135,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 2.6,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_desert_road/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "caption": "KGM Musso EV|just over 300 sold",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ranger/3_commons.jpg",
+     "move": "in",
+     "dur": 6.28,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"Customers don't want it.\" \u2013 Isuzu",
+     "highlight": "DON'T WANT",
+     "size": 115,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.84,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_mg_u9/1_commons.jpg",
+     "move": "in",
+     "caption": "MG U9 EV|from $78,990 before on-roads",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_dmax/3_commons.jpg",
+     "move": "left",
+     "dur": 3.52,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "MG U9 EV",
+     "items": [
+      [
+       "Range (km)",
+       430
+      ],
+      [
+       "Power (kW)",
+       325
+      ],
+      [
+       "Payload (kg)",
+       685
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "MG Australia",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_car_carrier/1_pixabay.jpg",
+     "move": "out",
+     "dur": 2.573,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "3,500 kg",
+     "label": "braked towing \u2013 MG U9 EV",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "MG Australia",
+     "dur": 3.027,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_mg_u9/3_commons.jpg",
+     "move": "right",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_car_carrier/2_pixabay.jpg",
+     "move": "right",
+     "dur": 3.12,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_ev_ute_charging_1.jpg",
+     "move": "out",
+     "dur": 3.15,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"Yearning\" for an electric ute.",
+     "highlight": "YEARNING",
+     "size": 125,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.93,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_shark6/1_commons.jpg",
+     "move": "in",
+     "caption": "BYD Shark 6|#3 4x4 pick-up \u00b7 H1 2026",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_car_carrier/3_pixabay.jpg",
+     "move": "in",
+     "dur": 6.51,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_shark6/3_commons.jpg",
+     "move": "left",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_car_carrier/4_pixabay.jpg",
+     "move": "up",
+     "dur": 2.91,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "The electric ute is coming. Just not like this.",
+     "highlight": "COMING",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.354,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch09.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_australia_road/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 1.62,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_sydney_road/4_pixabay.jpg",
+     "move": "right",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_sydney_road/5_pixabay.jpg",
+     "move": "in",
+     "dur": 6.04,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_pickup_au/1_unsplash.jpg",
+     "move": "up",
+     "dur": 5.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_used_price_1.jpg",
+     "move": "out",
+     "dur": 4.1,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ev_charging/1_pixabay.jpg",
+     "move": "down",
+     "dur": 3.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_pickup_au/3_unsplash.jpg",
+     "move": "in",
+     "dur": 6.82,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ev_charging/2_pixabay.jpg",
+     "move": "left",
+     "dur": 5.12,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_fuel_station/1_pixabay.jpg",
+     "move": "out",
+     "dur": 5.28,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "A reservation is not a promise.",
+     "highlight": "NOT A PROMISE",
+     "size": 125,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.8,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Fully refundable?",
+      "How do I get it back?",
+      "Any delivery date?"
+     ],
+     "starts": [
+      0,
+      50,
+      82
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 2.0999999999999943
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 3.4399999999999977
+      }
+     ],
+     "dur": 9.74,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Australian Consumer Law",
+     "highlight": "CONSUMER LAW",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 7.2,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_highway_au/1_unsplash.jpg",
+     "move": "right",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_containers/1_unsplash.jpg",
+     "move": "out",
+     "dur": 6.38,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_highway_au/2_pixabay.jpg",
+     "move": "in",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_containers/2_pixabay.jpg",
+     "move": "down",
+     "dur": 5.98,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_highway_au/3_unsplash.jpg",
+     "move": "up",
+     "dur": 5.7,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_highway_au/4_pixabay.jpg",
+     "move": "out",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_containers/3_unsplash.jpg",
+     "move": "in",
+     "dur": 3.01,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_highway_au/5_unsplash.jpg",
+     "move": "down",
+     "dur": 6.924,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch10.flac",
+   "lead_in": 0,
+   "tail": 2.5,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/h_pickup_au/5_unsplash.jpg",
+     "move": "in",
+     "dur": 3.84,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "7 years",
+     "label": "from reservation to cancellation",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Nov 2019 \u2192 Oct 2026",
+     "color": "red",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_containers/4_pixabay.jpg",
+     "move": "left",
+     "dur": 5.06,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "1 \u00b7 A reveal is not a product",
+     "highlight": "1",
+     "size": 125,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_containers/5_unsplash.jpg",
+     "move": "out",
+     "dur": 3.74,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_port_cars_1.jpg",
+     "move": "left",
+     "dur": 2.8,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "2 \u00b7 Right-hand drive matters",
+     "highlight": "2",
+     "size": 125,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_factory_line/3_unsplash.jpg",
+     "move": "right",
+     "dur": 3.52,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_cargo_ship/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 1.84,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "3 \u00b7 Buy what you can service here",
+     "highlight": "3",
+     "size": 115,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_pickup_au/6_pixabay.jpg",
+     "move": "out",
+     "dur": 3.38,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_stainless/3_pixabay.jpg",
+     "move": "right",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_factory_line/5_pixabay.jpg",
+     "move": "in",
+     "dur": 5.06,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ev_charging/3_pixabay.jpg",
+     "move": "in",
+     "dur": 5.36,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Would you pay ~$130,000?"
+     ],
+     "starts": [
+      0
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      }
+     ],
+     "dur": 4.88,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Like \u00b7 Subscribe",
+     "sub": "new Aussie car stories every week",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 2.6,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "BYD's Biggest Problem Starts AFTER the Crash",
+     "subtitle": "repairs \u00b7 waits \u00b7 insurance",
+     "tag": "next video",
+     "bg": "a/h_ev_charging/4_pixabay.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 12.685,
+     "fixed": false,
+     "fade_out": 0
+    }
+   ]
+  }
+ ],
+ "size": [
+  1920,
+  1080
+ ],
+ "subtitles": "AUS05.ass"
+}

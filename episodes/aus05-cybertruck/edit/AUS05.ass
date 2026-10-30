@@ -1,0 +1,348 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Doc,Inter SemiBold,44,&H0000E6FF,&H0000E6FF,&H00000000,&H96000000,0,0,0,0,100,100,0.5,0,1,2.4,1.2,2,200,200,62,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.43,Doc,,0,0,0,,One hundred and fifty dollars.
+Dialogue: 0,0:00:01.48,0:00:05.75,Doc,,0,0,0,,That's what thousands of Australians\Npaid in November 2019 to reserve a spot
+Dialogue: 0,0:00:05.80,0:00:09.17,Doc,,0,0,0,,in the queue for the most talked-about\Nvehicle on the planet the Tesla
+Dialogue: 0,0:00:09.22,0:00:10.37,Doc,,0,0,0,,Cybertruck.
+Dialogue: 0,0:00:10.42,0:00:12.05,Doc,,0,0,0,,They waited through a pandemic.
+Dialogue: 0,0:00:12.10,0:00:15.97,Doc,,0,0,0,,They waited while the reservation\Npage quietly disappeared in 2022.
+Dialogue: 0,0:00:16.02,0:00:20.79,Doc,,0,0,0,,They watched Tesla parade a Cybertruck\Naround Australian showrooms in 2024.
+Dialogue: 0,0:00:20.84,0:00:24.23,Doc,,0,0,0,,They heard Tesla's local boss say he\Nwas personally confident it would come.
+Dialogue: 0,0:00:24.28,0:00:30.27,Doc,,0,0,0,,Then, on Friday the 23rd of October\N2026 almost seven years after they paid
+Dialogue: 0,0:00:30.32,0:00:31.77,Doc,,0,0,0,,the email arrived.
+Dialogue: 0,0:00:31.82,0:00:34.03,Doc,,0,0,0,,Quote: "After careful consideration,
+Dialogue: 0,0:00:34.08,0:00:36.87,Doc,,0,0,0,,plans to produce Cybertruck for\NAustralia and New Zealand have been
+Dialogue: 0,0:00:36.92,0:00:38.75,Doc,,0,0,0,,discontinued." That's it.
+Dialogue: 0,0:00:38.80,0:00:39.77,Doc,,0,0,0,,No Cybertruck.
+Dialogue: 0,0:00:39.82,0:00:40.65,Doc,,0,0,0,,Not now.
+Dialogue: 0,0:00:40.70,0:00:43.03,Doc,,0,0,0,,Not ever, according to Tesla's own plans.
+Dialogue: 0,0:00:43.08,0:00:44.41,Doc,,0,0,0,,So what actually happened?
+Dialogue: 0,0:00:44.46,0:00:46.53,Doc,,0,0,0,,Why did Tesla walk away from Australia?
+Dialogue: 0,0:00:46.58,0:00:48.29,Doc,,0,0,0,,What does the refund look like?
+Dialogue: 0,0:00:48.34,0:00:49.83,Doc,,0,0,0,,And with the Cybertruck gone,
+Dialogue: 0,0:00:49.88,0:00:54.39,Doc,,0,0,0,,which electric and American utes\Ncan Aussies actually buy in 2026?
+Dialogue: 0,0:00:54.44,0:00:55.07,Doc,,0,0,0,,Stay with me,
+Dialogue: 0,0:00:55.12,0:00:58.33,Doc,,0,0,0,,because the real reason the Cybertruck\Ndied says a lot about where the whole
+Dialogue: 0,0:00:58.38,0:00:59.52,Doc,,0,0,0,,ute market is heading.
+Dialogue: 0,0:01:00.10,0:01:03.43,Doc,,0,0,0,,To understand why this hurts,\Nyou have to go back to the start.
+Dialogue: 0,0:01:03.48,0:01:05.21,Doc,,0,0,0,,In November 2019,
+Dialogue: 0,0:01:05.26,0:01:09.17,Doc,,0,0,0,,Elon Musk walked on stage in Los\NAngeles and revealed the Cybertruck.
+Dialogue: 0,0:01:09.22,0:01:10.14,Doc,,0,0,0,,Stainless steel body.
+Dialogue: 0,0:01:10.19,0:01:14.31,Doc,,0,0,0,,Armoured glass which famously cracked\Non stage when a metal ball was thrown at
+Dialogue: 0,0:01:14.36,0:01:14.77,Doc,,0,0,0,,it.
+Dialogue: 0,0:01:14.82,0:01:19.99,Doc,,0,0,0,,And a promised starting price in\Nthe United States of just $39,900,
+Dialogue: 0,0:01:20.04,0:01:24.16,Doc,,0,0,0,,with the top tri-motor version\Npromising more than 500 miles around 800
+Dialogue: 0,0:01:24.21,0:01:25.45,Doc,,0,0,0,,kilometres of range.
+Dialogue: 0,0:01:25.50,0:01:27.65,Doc,,0,0,0,,The internet went wild.
+Dialogue: 0,0:01:27.70,0:01:29.81,Doc,,0,0,0,,Reservations opened almost immediately,
+Dialogue: 0,0:01:29.86,0:01:34.11,Doc,,0,0,0,,including in Australia, with\Na $150 refundable deposit.
+Dialogue: 0,0:01:34.16,0:01:39.05,Doc,,0,0,0,,Tesla has said tens of thousands of\Npeople reserved between 2019 and 2021.
+Dialogue: 0,0:01:39.10,0:01:41.15,Doc,,0,0,0,,For Aussies, the idea made sense.
+Dialogue: 0,0:01:41.20,0:01:42.05,Doc,,0,0,0,,We love utes.
+Dialogue: 0,0:01:42.10,0:01:43.01,Doc,,0,0,0,,We love towing.
+Dialogue: 0,0:01:43.06,0:01:46.57,Doc,,0,0,0,,And here was an electric pickup that\Npromised to do it all with a futuristic
+Dialogue: 0,0:01:46.62,0:01:49.13,Doc,,0,0,0,,look nothing else on the road could match.
+Dialogue: 0,0:01:49.18,0:01:50.91,Doc,,0,0,0,,But there was a problem from day one.
+Dialogue: 0,0:01:50.96,0:01:53.97,Doc,,0,0,0,,The Cybertruck was designed as a\Nleft-hand-drive American truck.
+Dialogue: 0,0:01:54.02,0:01:56.05,Doc,,0,0,0,,Australia drives on the left,
+Dialogue: 0,0:01:56.10,0:01:58.55,Doc,,0,0,0,,and our cars need the\Nsteering wheel on the right.
+Dialogue: 0,0:01:58.60,0:02:01.23,Doc,,0,0,0,,Converting a vehicle like\Nthis isn't a quick job.
+Dialogue: 0,0:02:01.28,0:02:03.13,Doc,,0,0,0,,It means re-engineering the dashboard,
+Dialogue: 0,0:02:03.18,0:02:05.99,Doc,,0,0,0,,the steering, the pedals,\Nand testing it all again.
+Dialogue: 0,0:02:06.04,0:02:10.53,Doc,,0,0,0,,And when the Cybertruck finally reached\NAmerican customers at the end of 2023
+Dialogue: 0,0:02:10.58,0:02:14.39,Doc,,0,0,0,,four years after the reveal it was\Nmore expensive and had less range than
+Dialogue: 0,0:02:14.44,0:02:15.83,Doc,,0,0,0,,originally promised.
+Dialogue: 0,0:02:15.88,0:02:19.00,Doc,,0,0,0,,The dream and the reality had\Nalready started to drift apart.
+Dialogue: 0,0:02:19.86,0:02:23.39,Doc,,0,0,0,,For a few years, Australian\Nreservation holders lived on hope.
+Dialogue: 0,0:02:23.44,0:02:27.45,Doc,,0,0,0,,In May 2022, Tesla closed\Nthe local reservation page.
+Dialogue: 0,0:02:27.50,0:02:29.47,Doc,,0,0,0,,It didn't refund deposits automatically.
+Dialogue: 0,0:02:29.52,0:02:32.27,Doc,,0,0,0,,It just replaced the page\Nwith a "get updates" button.
+Dialogue: 0,0:02:32.32,0:02:35.27,Doc,,0,0,0,,Most people simply\Nforgot about their $150.
+Dialogue: 0,0:02:35.32,0:02:38.99,Doc,,0,0,0,,Then, in 2024, the hope came roaring back.
+Dialogue: 0,0:02:39.04,0:02:42.91,Doc,,0,0,0,,Tesla Australia imported a Cybertruck\Nand took it on a national roadshow,
+Dialogue: 0,0:02:42.96,0:02:45.51,Doc,,0,0,0,,showing it at events and\Nshowrooms around the country.
+Dialogue: 0,0:02:45.56,0:02:47.21,Doc,,0,0,0,,People queued to take photos.
+Dialogue: 0,0:02:47.26,0:02:48.55,Doc,,0,0,0,,That same year,
+Dialogue: 0,0:02:48.60,0:02:52.07,Doc,,0,0,0,,Musk told shareholders they might be\Nable to certify the Cybertruck for other
+Dialogue: 0,0:02:52.12,0:02:54.19,Doc,,0,0,0,,markets "sometime next year".
+Dialogue: 0,0:02:54.24,0:02:55.39,Doc,,0,0,0,,In March 2025,
+Dialogue: 0,0:02:55.44,0:02:58.18,Doc,,0,0,0,,Tesla's Australia and New\NZealand country director,
+Dialogue: 0,0:02:58.23,0:03:02.11,Doc,,0,0,0,,Thom Drew, said he was "personally\Nconfident" the Cybertruck would come
+Dialogue: 0,0:03:02.16,0:03:04.41,Doc,,0,0,0,,possibly as early as 2026.
+Dialogue: 0,0:03:04.46,0:03:06.75,Doc,,0,0,0,,Within about a month,\Nhis tone had changed.
+Dialogue: 0,0:03:06.80,0:03:08.81,Doc,,0,0,0,,He said he was "not confident it's coming,
+Dialogue: 0,0:03:08.86,0:03:11.65,Doc,,0,0,0,,but we are discussing it." By May 2025,
+Dialogue: 0,0:03:11.70,0:03:14.77,Doc,,0,0,0,,the local team had been briefed on the\NAustralian Design Rule changes that
+Dialogue: 0,0:03:14.82,0:03:17.07,Doc,,0,0,0,,would be needed including bumper widths,
+Dialogue: 0,0:03:17.12,0:03:19.43,Doc,,0,0,0,,external lighting, and of\Ncourse right-hand drive.
+Dialogue: 0,0:03:19.48,0:03:21.17,Doc,,0,0,0,,And then came the silence.
+Dialogue: 0,0:03:21.22,0:03:23.02,Doc,,0,0,0,,Until October 2026.
+Dialogue: 0,0:03:23.90,0:03:26.07,Doc,,0,0,0,,So why did Tesla finally pull the plug?
+Dialogue: 0,0:03:26.12,0:03:29.65,Doc,,0,0,0,,Tesla hasn't given a detailed\Npublic reason beyond that email.
+Dialogue: 0,0:03:29.70,0:03:32.19,Doc,,0,0,0,,But the numbers tell\Nthe story very clearly.
+Dialogue: 0,0:03:32.24,0:03:33.15,Doc,,0,0,0,,Start with sales.
+Dialogue: 0,0:03:33.20,0:03:37.75,Doc,,0,0,0,,Musk once predicted the Cybertruck\Ncould sell 250,000 a year.
+Dialogue: 0,0:03:37.80,0:03:39.79,Doc,,0,0,0,,The reality has been very different.
+Dialogue: 0,0:03:39.84,0:03:46.75,Doc,,0,0,0,,According to estimates reported by\NCarExpert, around 38,965 were sold in 2024.
+Dialogue: 0,0:03:46.80,0:03:51.21,Doc,,0,0,0,,That fell to about 20,237 in 2025.
+Dialogue: 0,0:03:51.26,0:03:53.37,Doc,,0,0,0,,And from January to September 2026,
+Dialogue: 0,0:03:53.42,0:03:58.25,Doc,,0,0,0,,it was around 11,586 down\Nanother twenty-eight per cent.
+Dialogue: 0,0:03:58.30,0:03:59.81,Doc,,0,0,0,,Then there's the price.
+Dialogue: 0,0:03:59.86,0:04:04.85,Doc,,0,0,0,,The truck that was supposed to start\Nat $39,900 now sells for around eighty
+Dialogue: 0,0:04:04.90,0:04:08.21,Doc,,0,0,0,,thousand US dollars for the\Ndual-motor version in America.
+Dialogue: 0,0:04:08.26,0:04:10.53,Doc,,0,0,0,,EV Central estimated that in Australia,
+Dialogue: 0,0:04:10.58,0:04:15.03,Doc,,0,0,0,,it would likely have cost around\N$130,000 before on-road costs and local
+Dialogue: 0,0:04:15.08,0:04:15.77,Doc,,0,0,0,,taxes.
+Dialogue: 0,0:04:15.82,0:04:17.41,Doc,,0,0,0,,That's a very hard sell.
+Dialogue: 0,0:04:17.46,0:04:18.83,Doc,,0,0,0,,Then there's right-hand drive.
+Dialogue: 0,0:04:18.88,0:04:21.17,Doc,,0,0,0,,The Cybertruck is built\Nonly in left-hand drive.
+Dialogue: 0,0:04:21.22,0:04:23.77,Doc,,0,0,0,,It isn't sold in any\Nright-hand-drive market.
+Dialogue: 0,0:04:23.82,0:04:27.55,Doc,,0,0,0,,Australia would likely have been the\Nmain one other right-hand-drive markets
+Dialogue: 0,0:04:27.60,0:04:31.55,Doc,,0,0,0,,like the UK and Japan aren't natural\Nhomes for a truck this big either.
+Dialogue: 0,0:04:31.60,0:04:35.01,Doc,,0,0,0,,Building a right-hand-drive version just\Nfor us would mean spending a fortune
+Dialogue: 0,0:04:35.06,0:04:36.65,Doc,,0,0,0,,for a tiny number of sales.
+Dialogue: 0,0:04:36.70,0:04:39.19,Doc,,0,0,0,,And finally, the size of the market.
+Dialogue: 0,0:04:39.24,0:04:43.63,Doc,,0,0,0,,The whole full-size American pickup\Nsegment in Australia trucks like the Ram,
+Dialogue: 0,0:04:43.68,0:04:47.99,Doc,,0,0,0,,the Chevrolet Silverado and the Ford\NF-150 sells roughly ten thousand vehicles
+Dialogue: 0,0:04:48.04,0:04:48.93,Doc,,0,0,0,,a year.
+Dialogue: 0,0:04:48.98,0:04:50.85,Doc,,0,0,0,,Even if Tesla grabbed a big slice of that,
+Dialogue: 0,0:04:50.90,0:04:54.35,Doc,,0,0,0,,it would never justify the cost of\Nre-engineering and certifying the
+Dialogue: 0,0:04:54.40,0:04:56.11,Doc,,0,0,0,,Cybertruck for local roads.
+Dialogue: 0,0:04:56.16,0:04:59.37,Doc,,0,0,0,,Put all of that together, and the\Ndecision was almost made for them.
+Dialogue: 0,0:04:59.42,0:05:03.31,Doc,,0,0,0,,And there's one more factor: the\NCybertruck's track record in America.
+Dialogue: 0,0:05:03.36,0:05:05.38,Doc,,0,0,0,,According to the official\NUS recall database,
+Dialogue: 0,0:05:05.43,0:05:09.29,Doc,,0,0,0,,the Cybertruck has been recalled\Neleven times since it launched.
+Dialogue: 0,0:05:09.34,0:05:10.93,Doc,,0,0,0,,In April 2024,
+Dialogue: 0,0:05:10.98,0:05:14.37,Doc,,0,0,0,,it was recalled because the accelerator\Npedal pad could come loose and get
+Dialogue: 0,0:05:14.42,0:05:17.79,Doc,,0,0,0,,trapped by the interior trim which could\Ncause the truck to keep accelerating.
+Dialogue: 0,0:05:17.84,0:05:19.32,Doc,,0,0,0,,In March 2025,
+Dialogue: 0,0:05:19.37,0:05:23.95,Doc,,0,0,0,,more than 46,000 trucks were recalled\Nbecause an exterior trim panel could
+Dialogue: 0,0:05:24.00,0:05:25.53,Doc,,0,0,0,,detach while driving.
+Dialogue: 0,0:05:25.58,0:05:27.37,Doc,,0,0,0,,In October 2025,
+Dialogue: 0,0:05:27.42,0:05:30.91,Doc,,0,0,0,,more than 63,000 were recalled because\Nthe front parking lights were too
+Dialogue: 0,0:05:30.96,0:05:32.89,Doc,,0,0,0,,bright to meet US rules.
+Dialogue: 0,0:05:32.94,0:05:34.73,Doc,,0,0,0,,And in April 2026,
+Dialogue: 0,0:05:34.78,0:05:37.95,Doc,,0,0,0,,there was a recall over brake\Nrotor stud holes that could crack,
+Dialogue: 0,0:05:38.00,0:05:39.80,Doc,,0,0,0,,allowing a wheel stud to separate.
+Dialogue: 0,0:05:39.85,0:05:44.01,Doc,,0,0,0,,Recalls happen to every brand, and\Na recall is the system working.
+Dialogue: 0,0:05:44.06,0:05:47.47,Doc,,0,0,0,,But for a low-volume truck that would\Nhave needed expensive local engineering,
+Dialogue: 0,0:05:47.52,0:05:51.48,Doc,,0,0,0,,every extra problem made the\NAustralian business case even weaker.
+Dialogue: 0,0:05:52.29,0:05:55.03,Doc,,0,0,0,,So what do Aussie reservation\Nholders actually get?
+Dialogue: 0,0:05:55.08,0:05:59.38,Doc,,0,0,0,,Tesla says reservations will be\Ncancelled and deposits refunded in full.
+Dialogue: 0,0:05:59.43,0:06:02.66,Doc,,0,0,0,,Customers will get a separate email\Nto confirm their refund details,
+Dialogue: 0,0:06:02.71,0:06:06.62,Doc,,0,0,0,,and EV Central reports the money\Nshould arrive within thirty days.
+Dialogue: 0,0:06:06.67,0:06:08.60,Doc,,0,0,0,,And Tesla has added a sweetener.
+Dialogue: 0,0:06:08.65,0:06:13.34,Doc,,0,0,0,,Reservation holders who order a new\NModel 3 or Model Y get one year of Full
+Dialogue: 0,0:06:13.39,0:06:15.44,Doc,,0,0,0,,Self-Driving Supervised for free.
+Dialogue: 0,0:06:15.49,0:06:21.66,Doc,,0,0,0,,At the current price of $149\Na month, that's worth $1,788.
+Dialogue: 0,0:06:21.71,0:06:24.50,Doc,,0,0,0,,Now, it's worth being\Nclear about what that is.
+Dialogue: 0,0:06:24.55,0:06:26.52,Doc,,0,0,0,,"Supervised" means exactly that.
+Dialogue: 0,0:06:26.57,0:06:28.24,Doc,,0,0,0,,The driver must stay alert,
+Dialogue: 0,0:06:28.29,0:06:32.48,Doc,,0,0,0,,keep their hands ready and remain fully\Nresponsible for the car at all times.
+Dialogue: 0,0:06:32.53,0:06:35.80,Doc,,0,0,0,,It's a driver assistance feature,\Nnot a car that drives itself.
+Dialogue: 0,0:06:35.85,0:06:39.74,Doc,,0,0,0,,If you paid a deposit back in 2019\Nand you've changed your email address,
+Dialogue: 0,0:06:39.79,0:06:42.90,Doc,,0,0,0,,or you can't find the message,\Ncontact Tesla directly.
+Dialogue: 0,0:06:42.95,0:06:45.96,Doc,,0,0,0,,A $150 refund isn't life-changing,
+Dialogue: 0,0:06:46.01,0:06:49.37,Doc,,0,0,0,,but it's your money, and after\Nseven years you're entitled to it.
+Dialogue: 0,0:06:50.07,0:06:51.90,Doc,,0,0,0,,Quick favour before we keep going.
+Dialogue: 0,0:06:51.95,0:06:55.22,Doc,,0,0,0,,Did you put down a deposit\Nfor a Cybertruck back in 2019?
+Dialogue: 0,0:06:55.27,0:06:56.82,Doc,,0,0,0,,Or did you see it on the roadshow?
+Dialogue: 0,0:06:56.87,0:07:00.34,Doc,,0,0,0,,Tell me in the comments I want to know\Nhow many of you were in that queue.
+Dialogue: 0,0:07:00.39,0:07:01.31,Doc,,0,0,0,,And if you want honest,
+Dialogue: 0,0:07:01.36,0:07:05.08,Doc,,0,0,0,,fact-checked videos about the\NAussie car market in 2026,
+Dialogue: 0,0:07:05.13,0:07:07.11,Doc,,0,0,0,,hit subscribe and turn on notifications.
+Dialogue: 0,0:07:08.10,0:07:09.61,Doc,,0,0,0,,Here's the interesting part.
+Dialogue: 0,0:07:09.66,0:07:11.75,Doc,,0,0,0,,Tesla isn't struggling in Australia.
+Dialogue: 0,0:07:11.80,0:07:13.81,Doc,,0,0,0,,It's the Cybertruck that didn't fit.
+Dialogue: 0,0:07:13.86,0:07:15.83,Doc,,0,0,0,,In September 2026,
+Dialogue: 0,0:07:15.88,0:07:19.49,Doc,,0,0,0,,Tesla sold 5,654 cars in Australia,
+Dialogue: 0,0:07:19.54,0:07:22.79,Doc,,0,0,0,,up more than twenty-one per cent\Non the same month last year.
+Dialogue: 0,0:07:22.84,0:07:27.65,Doc,,0,0,0,,Electric vehicles made up 24.2 per cent\Nof all new car sales that month more
+Dialogue: 0,0:07:27.70,0:07:30.29,Doc,,0,0,0,,than petrol cars, for the\Nsecond month in a row.
+Dialogue: 0,0:07:30.34,0:07:33.85,Doc,,0,0,0,,And with a fuel crisis pushing diesel\Ntowards three dollars a litre in some
+Dialogue: 0,0:07:33.90,0:07:38.01,Doc,,0,0,0,,capital cities, more Aussies than ever\Nare thinking about going electric.
+Dialogue: 0,0:07:38.06,0:07:40.37,Doc,,0,0,0,,You can see it in the insurance data too.
+Dialogue: 0,0:07:40.42,0:07:44.28,Doc,,0,0,0,,NRMA Insurance says requests for\Nelectric vehicle insurance quotes were up
+Dialogue: 0,0:07:44.33,0:07:47.65,Doc,,0,0,0,,eighty per cent in the\Nfirst nine months of 2026.
+Dialogue: 0,0:07:47.70,0:07:51.61,Doc,,0,0,0,,And NRMA's own survey found the share\Nof Australians actively considering a
+Dialogue: 0,0:07:51.66,0:07:56.63,Doc,,0,0,0,,battery electric car rose from twenty\Nper cent in 2024 to thirty-one per cent
+Dialogue: 0,0:07:56.68,0:07:58.35,Doc,,0,0,0,,in 2026.
+Dialogue: 0,0:07:58.40,0:08:01.31,Doc,,0,0,0,,The demand for electric\Nvehicles in Australia is real.
+Dialogue: 0,0:08:01.36,0:08:05.43,Doc,,0,0,0,,It just isn't demand for a\N$130,000 stainless steel truck.
+Dialogue: 0,0:08:05.48,0:08:09.27,Doc,,0,0,0,,In fact, 2026 has been a\Nrecord year for Tesla here.
+Dialogue: 0,0:08:09.32,0:08:14.75,Doc,,0,0,0,,In June, Tesla sold 8,670 vehicles in\NAustralia the strongest month in its
+Dialogue: 0,0:08:14.80,0:08:18.05,Doc,,0,0,0,,local history, according to\NElectric Vehicle Council figures.
+Dialogue: 0,0:08:18.10,0:08:21.53,Doc,,0,0,0,,The Model Y alone sold 8,072 that month,
+Dialogue: 0,0:08:21.58,0:08:26.99,Doc,,0,0,0,,and 20,396 in the first half of the\Nyear up more than ninety-five per cent.
+Dialogue: 0,0:08:27.04,0:08:32.53,Doc,,0,0,0,,Tesla's first-half total was 23,588,\Nup almost sixty-seven per cent.
+Dialogue: 0,0:08:32.58,0:08:36.33,Doc,,0,0,0,,A big part of that came from\Nthe new six-seat Model Y L.
+Dialogue: 0,0:08:36.38,0:08:37.81,Doc,,0,0,0,,It's not all good news.
+Dialogue: 0,0:08:37.86,0:08:41.57,Doc,,0,0,0,,The Model 3 has gone backwards,\Ndown forty-seven per cent in June.
+Dialogue: 0,0:08:41.62,0:08:44.75,Doc,,0,0,0,,And BYD's Sealion 7 has\Nbecome a serious rival,
+Dialogue: 0,0:08:44.80,0:08:48.57,Doc,,0,0,0,,with 7,786 deliveries through May.
+Dialogue: 0,0:08:48.62,0:08:52.21,Doc,,0,0,0,,But overall, Tesla is having one of\Nits best years ever in Australia.
+Dialogue: 0,0:08:52.26,0:08:54.21,Doc,,0,0,0,,So Tesla's message is clear.
+Dialogue: 0,0:08:54.26,0:08:58.23,Doc,,0,0,0,,It would rather put its effort into the\NModel Y and Model 3 cars that already
+Dialogue: 0,0:08:58.28,0:09:00.75,Doc,,0,0,0,,sell in big numbers\Nhere than into a niche,
+Dialogue: 0,0:09:00.80,0:09:03.61,Doc,,0,0,0,,left-hand-drive truck that\Nwould cost a fortune to convert.
+Dialogue: 0,0:09:03.66,0:09:05.07,Doc,,0,0,0,,That's a business decision.
+Dialogue: 0,0:09:05.12,0:09:08.63,Doc,,0,0,0,,But for the people who waited seven\Nyears, it's still a disappointment.
+Dialogue: 0,0:09:08.68,0:09:12.36,Doc,,0,0,0,,And it raises a bigger question:\Nif not the Cybertruck, then what?
+Dialogue: 0,0:09:13.21,0:09:15.34,Doc,,0,0,0,,Let's look at the big\NAmerican pickups first,
+Dialogue: 0,0:09:15.39,0:09:18.34,Doc,,0,0,0,,because that's the segment the\NCybertruck would have competed in.
+Dialogue: 0,0:09:18.39,0:09:21.00,Doc,,0,0,0,,Australia already has the Ram 1500,
+Dialogue: 0,0:09:21.05,0:09:24.00,Doc,,0,0,0,,the Chevrolet Silverado\Nand the Ford F-150,
+Dialogue: 0,0:09:24.05,0:09:26.64,Doc,,0,0,0,,all converted to right-hand\Ndrive for our market.
+Dialogue: 0,0:09:26.69,0:09:30.68,Doc,,0,0,0,,In March 2026, the F-150 sold 270,
+Dialogue: 0,0:09:30.73,0:09:36.32,Doc,,0,0,0,,the Ram 1500 sold 181,\Nand the Silverado 172.
+Dialogue: 0,0:09:36.37,0:09:39.90,Doc,,0,0,0,,These are big, expensive trucks,\Nand they sell in small numbers.
+Dialogue: 0,0:09:39.95,0:09:41.46,Doc,,0,0,0,,And they've had their\Nown problems this year.
+Dialogue: 0,0:09:41.51,0:09:47.41,Doc,,0,0,0,,In October 2026, Ford recalled the\NF-150 in Australia over a fire risk.
+Dialogue: 0,0:09:47.46,0:09:51.74,Doc,,0,0,0,,CarExpert notes Ford issues more\Nrecalls here than any other car maker.
+Dialogue: 0,0:09:51.79,0:09:54.18,Doc,,0,0,0,,And there's a reason these\Ntrucks cost so much here.
+Dialogue: 0,0:09:54.23,0:09:56.86,Doc,,0,0,0,,They aren't built in right-hand\Ndrive at the factory.
+Dialogue: 0,0:09:56.91,0:10:01.30,Doc,,0,0,0,,The Ram 1500 and the Chevrolet Silverado\Nare remanufactured in Melbourne by
+Dialogue: 0,0:10:01.35,0:10:03.10,Doc,,0,0,0,,the Walkinshaw Automotive Group,
+Dialogue: 0,0:10:03.15,0:10:07.44,Doc,,0,0,0,,and the F-150 is converted by RMA\NAutomotive, also in Melbourne.
+Dialogue: 0,0:10:07.49,0:10:11.26,Doc,,0,0,0,,Each truck arrives in left-hand drive\Nand is partly taken apart and rebuilt
+Dialogue: 0,0:10:11.31,0:10:13.06,Doc,,0,0,0,,with the steering on the right.
+Dialogue: 0,0:10:13.11,0:10:16.84,Doc,,0,0,0,,It's skilled, expensive work and it's\Na big part of why these pickups cost
+Dialogue: 0,0:10:16.89,0:10:19.72,Doc,,0,0,0,,more than a hundred thousand\Ndollars in many versions.
+Dialogue: 0,0:10:19.77,0:10:22.42,Doc,,0,0,0,,That's exactly the work the\NCybertruck would have needed.
+Dialogue: 0,0:10:22.47,0:10:25.08,Doc,,0,0,0,,Except with its unusual\Nsteer-by-wire system,
+Dialogue: 0,0:10:25.13,0:10:28.10,Doc,,0,0,0,,its giant central screen and\Nits stainless steel body,
+Dialogue: 0,0:10:28.15,0:10:31.84,Doc,,0,0,0,,it would have been even more complicated\Nunless Tesla built a right-hand-drive
+Dialogue: 0,0:10:31.89,0:10:32.98,Doc,,0,0,0,,version itself.
+Dialogue: 0,0:10:33.03,0:10:34.56,Doc,,0,0,0,,The lesson is simple.
+Dialogue: 0,0:10:34.61,0:10:37.94,Doc,,0,0,0,,Even the established American\Ntrucks are a niche in Australia.
+Dialogue: 0,0:10:37.99,0:10:40.34,Doc,,0,0,0,,The Cybertruck would have\Nbeen a niche within a niche.
+Dialogue: 0,0:10:40.39,0:10:43.92,Doc,,0,0,0,,And Tesla isn't the only company that\Nhas quietly walked away from a promise
+Dialogue: 0,0:10:43.97,0:10:45.21,Doc,,0,0,0,,in 2026.
+Dialogue: 0,0:10:45.26,0:10:49.88,Doc,,0,0,0,,Isuzu has cancelled its plans to\Nbring the electric D-Max to Australia.
+Dialogue: 0,0:10:49.93,0:10:53.04,Doc,,0,0,0,,Nissan has indefinitely postponed\Nthe new-generation Leaf here,
+Dialogue: 0,0:10:53.09,0:10:56.20,Doc,,0,0,0,,and cut the Juke and the\NPathfinder from its range.
+Dialogue: 0,0:10:56.25,0:10:59.96,Doc,,0,0,0,,Jaguar stopped selling new petrol cars\Nin Australia on the 31st of December
+Dialogue: 0,0:11:00.01,0:11:05.26,Doc,,0,0,0,,2025, and still has no confirmed local\Nlaunch date for its new electric models
+Dialogue: 0,0:11:05.31,0:11:08.36,Doc,,0,0,0,,which means it sold zero\Nnew cars here in September.
+Dialogue: 0,0:11:08.41,0:11:12.82,Doc,,0,0,0,,And Volvo has axed the S60 sedan and\Nthe V60 Cross Country wagon from its
+Dialogue: 0,0:11:12.87,0:11:14.00,Doc,,0,0,0,,local line-up.
+Dialogue: 0,0:11:14.05,0:11:18.26,Doc,,0,0,0,,In a market this crowded with around\Nseventy brands fighting for roughly 1.2
+Dialogue: 0,0:11:18.31,0:11:21.80,Doc,,0,0,0,,million sales a year car\Nmakers are being ruthless.
+Dialogue: 0,0:11:21.85,0:11:23.98,Doc,,0,0,0,,If a model can't sell\Nin big enough numbers,
+Dialogue: 0,0:11:24.03,0:11:26.07,Doc,,0,0,0,,it doesn't come, or it doesn't stay.
+Dialogue: 0,0:11:26.83,0:11:30.16,Doc,,0,0,0,,Now let's talk about the vehicle Australians\Nwere really hoping the Cybertruck
+Dialogue: 0,0:11:30.21,0:11:32.42,Doc,,0,0,0,,would be: an electric ute.
+Dialogue: 0,0:11:32.47,0:11:34.32,Doc,,0,0,0,,Here's the reality in 2026.
+Dialogue: 0,0:11:34.37,0:11:38.86,Doc,,0,0,0,,Electric utes make up less than one\Nper cent of Australian ute sales.
+Dialogue: 0,0:11:38.91,0:11:40.32,Doc,,0,0,0,,According to CarExpert,
+Dialogue: 0,0:11:40.37,0:11:44.88,Doc,,0,0,0,,there were 157,531 ute\Ndeliveries to September,
+Dialogue: 0,0:11:44.93,0:11:48.20,Doc,,0,0,0,,and diesel and plug-in\Nhybrids still dominate.
+Dialogue: 0,0:11:48.25,0:11:50.26,Doc,,0,0,0,,Toyota launched the HiLux BEV,
+Dialogue: 0,0:11:50.31,0:11:52.74,Doc,,0,0,0,,the electric version of the\Ncountry's most famous ute.
+Dialogue: 0,0:11:52.79,0:11:56.38,Doc,,0,0,0,,But it sold roughly 300\Nbetween May and early July,
+Dialogue: 0,0:11:56.43,0:11:58.98,Doc,,0,0,0,,with fewer than ten\Ngoing to private buyers.
+Dialogue: 0,0:11:59.03,0:12:03.60,Doc,,0,0,0,,KGM's Musso EV has sold just over\N300 since its launch late last year.
+Dialogue: 0,0:12:03.65,0:12:07.14,Doc,,0,0,0,,And Isuzu has cancelled its plans\Nto bring the D-Max EV to Australia
+Dialogue: 0,0:12:07.19,0:12:08.24,Doc,,0,0,0,,altogether.
+Dialogue: 0,0:12:08.29,0:12:10.26,Doc,,0,0,0,,As Isuzu's Rod Caldwell put it:
+Dialogue: 0,0:12:10.31,0:12:13.10,Doc,,0,0,0,,"Customers don't want\Nit." Not everyone agrees.
+Dialogue: 0,0:12:13.15,0:12:17.14,Doc,,0,0,0,,In September 2026, MG confirmed the U9 EV,
+Dialogue: 0,0:12:17.19,0:12:23.62,Doc,,0,0,0,,an all-electric dual-cab ute, priced\Nfrom $78,990 before on-road costs.
+Dialogue: 0,0:12:23.67,0:12:26.60,Doc,,0,0,0,,It claims 430 kilometres of range,
+Dialogue: 0,0:12:26.65,0:12:29.06,Doc,,0,0,0,,325 kilowatts of power,
+Dialogue: 0,0:12:29.11,0:12:34.22,Doc,,0,0,0,,and crucially for Aussie buyers\N3,500 kilograms of braked towing.
+Dialogue: 0,0:12:34.27,0:12:37.86,Doc,,0,0,0,,It can charge from twenty to eighty per\Ncent in about forty-two minutes on a
+Dialogue: 0,0:12:37.91,0:12:42.34,Doc,,0,0,0,,fast charger, and carry a\Npayload of 685 kilograms.
+Dialogue: 0,0:12:42.39,0:12:45.49,Doc,,0,0,0,,Deliveries start in the\Nlast quarter of 2026.
+Dialogue: 0,0:12:45.54,0:12:48.72,Doc,,0,0,0,,MG says customers here have been\N"yearning" for a vehicle like this.
+Dialogue: 0,0:12:48.77,0:12:51.42,Doc,,0,0,0,,And then there's the plug-in\Nhybrid middle ground,
+Dialogue: 0,0:12:51.47,0:12:53.38,Doc,,0,0,0,,led by the BYD Shark 6,
+Dialogue: 0,0:12:53.43,0:12:57.34,Doc,,0,0,0,,which was the third best-selling 4x4\Npick-up in Australia across the first
+Dialogue: 0,0:12:57.39,0:13:02.16,Doc,,0,0,0,,half of 2026 a remarkable result for a\Nute that only arrived at the start of
+Dialogue: 0,0:13:02.21,0:13:02.93,Doc,,0,0,0,,2025.
+Dialogue: 0,0:13:02.98,0:13:06.92,Doc,,0,0,0,,GAC has confirmed its upcoming\Nute will be electrified only,
+Dialogue: 0,0:13:06.97,0:13:10.84,Doc,,0,0,0,,and Chery's Stockman plug-in\Nhybrid is due late in 2026.
+Dialogue: 0,0:13:10.89,0:13:12.34,Doc,,0,0,0,,So the electric ute is coming.
+Dialogue: 0,0:13:12.39,0:13:15.23,Doc,,0,0,0,,It just doesn't look like a\Nstainless steel spaceship.
+Dialogue: 0,0:13:16.12,0:13:17.81,Doc,,0,0,0,,So what does all this mean for you?
+Dialogue: 0,0:13:17.86,0:13:19.57,Doc,,0,0,0,,If you had a Cybertruck reservation,
+Dialogue: 0,0:13:19.62,0:13:22.85,Doc,,0,0,0,,check your email including your\Nspam folder for Tesla's message,
+Dialogue: 0,0:13:22.90,0:13:24.81,Doc,,0,0,0,,and follow the refund process.
+Dialogue: 0,0:13:24.86,0:13:26.97,Doc,,0,0,0,,If you've moved or changed email address,
+Dialogue: 0,0:13:27.02,0:13:30.85,Doc,,0,0,0,,contact Tesla directly with\Nany details you have from 2019.
+Dialogue: 0,0:13:30.90,0:13:33.13,Doc,,0,0,0,,If you're thinking about\Na big American pickup,
+Dialogue: 0,0:13:33.18,0:13:34.49,Doc,,0,0,0,,remember they're expensive,
+Dialogue: 0,0:13:34.54,0:13:37.71,Doc,,0,0,0,,thirsty and sold in small\Nnumbers so check recalls,
+Dialogue: 0,0:13:37.76,0:13:40.75,Doc,,0,0,0,,service locations and resale\Nvalues before you buy.
+Dialogue: 0,0:13:40.80,0:13:43.75,Doc,,0,0,0,,If you want an electric ute, think\Nhard about how you'll use it.
+Dialogue: 0,0:13:43.80,0:13:46.29,Doc,,0,0,0,,Range drops when you tow heavy loads.
+Dialogue: 0,0:13:46.34,0:13:48.07,Doc,,0,0,0,,If you do long trips with a caravan,
+Dialogue: 0,0:13:48.12,0:13:50.57,Doc,,0,0,0,,a plug-in hybrid may\Nsuit you better for now.
+Dialogue: 0,0:13:50.62,0:13:53.07,Doc,,0,0,0,,If you mostly do short\Nruns and charge at home,
+Dialogue: 0,0:13:53.12,0:13:56.91,Doc,,0,0,0,,a fully electric ute could save you a\Nlot on fuel especially with fuel prices
+Dialogue: 0,0:13:56.96,0:13:58.87,Doc,,0,0,0,,where they are in 2026.
+Dialogue: 0,0:13:58.92,0:14:00.97,Doc,,0,0,0,,And there's a bigger\Nlesson about deposits.
+Dialogue: 0,0:14:01.02,0:14:02.95,Doc,,0,0,0,,A reservation is not a promise.
+Dialogue: 0,0:14:03.00,0:14:05.77,Doc,,0,0,0,,Before you put money down for\Na car that doesn't exist yet,
+Dialogue: 0,0:14:05.82,0:14:07.87,Doc,,0,0,0,,ask whether the deposit\Nis fully refundable,
+Dialogue: 0,0:14:07.92,0:14:09.03,Doc,,0,0,0,,how you'll get it back,
+Dialogue: 0,0:14:09.08,0:14:12.03,Doc,,0,0,0,,and whether there's any date by\Nwhich the company has to deliver.
+Dialogue: 0,0:14:12.08,0:14:15.51,Doc,,0,0,0,,Seven years is a long time to\Nwait for a car that never arrives.
+Dialogue: 0,0:14:15.56,0:14:17.27,Doc,,0,0,0,,Under the Australian Consumer Law,
+Dialogue: 0,0:14:17.32,0:14:20.37,Doc,,0,0,0,,if a business takes your money for\Nsomething and then can't supply it,
+Dialogue: 0,0:14:20.42,0:14:22.59,Doc,,0,0,0,,you're generally entitled\Nto get that money back.
+Dialogue: 0,0:14:22.64,0:14:26.37,Doc,,0,0,0,,And any contract term that lets a\Nbusiness keep your deposit unfairly can be
+Dialogue: 0,0:14:26.42,0:14:28.73,Doc,,0,0,0,,challenged as an unfair contract term.
+Dialogue: 0,0:14:28.78,0:14:32.17,Doc,,0,0,0,,So if a car company ever cancels a model\Nyou've paid for and doesn't offer a
+Dialogue: 0,0:14:32.22,0:14:34.09,Doc,,0,0,0,,refund, don't just accept it.
+Dialogue: 0,0:14:34.14,0:14:35.53,Doc,,0,0,0,,Put your request in writing,
+Dialogue: 0,0:14:35.58,0:14:39.67,Doc,,0,0,0,,and if you get nowhere, contact your\Nstate's fair trading office or the ACCC.
+Dialogue: 0,0:14:39.72,0:14:43.51,Doc,,0,0,0,,And if you're one of the Australians\Nwho still had a Cybertruck reservation,
+Dialogue: 0,0:14:43.56,0:14:45.07,Doc,,0,0,0,,here's the practical part.
+Dialogue: 0,0:14:45.12,0:14:46.83,Doc,,0,0,0,,Keep a copy of Tesla's email.
+Dialogue: 0,0:14:46.88,0:14:50.21,Doc,,0,0,0,,Log in to your Tesla account and\Ncheck that the reservation shows as
+Dialogue: 0,0:14:50.26,0:14:50.77,Doc,,0,0,0,,cancelled.
+Dialogue: 0,0:14:50.82,0:14:55.05,Doc,,0,0,0,,Note the date, because Tesla says the\Nrefund should arrive within thirty days.
+Dialogue: 0,0:14:55.10,0:14:58.78,Doc,,0,0,0,,If it doesn't, follow up in writing,\Nkeep the reply, and only then escalate.
+Dialogue: 0,0:14:58.83,0:15:01.95,Doc,,0,0,0,,A hundred and fifty dollars\Nmight not sound like much,
+Dialogue: 0,0:15:02.00,0:15:05.10,Doc,,0,0,0,,but it's your money, and you've\Nalready waited seven years for it.
+Dialogue: 0,0:15:05.63,0:15:09.54,Doc,,0,0,0,,So, the Tesla Cybertruck is\Nofficially dead in Australia.
+Dialogue: 0,0:15:09.59,0:15:12.36,Doc,,0,0,0,,Seven years, a $150 deposit,
+Dialogue: 0,0:15:12.41,0:15:17.12,Doc,,0,0,0,,a national roadshow and a lot of hope\Nand it ends with an email and a refund.
+Dialogue: 0,0:15:17.17,0:15:19.60,Doc,,0,0,0,,So what are the lessons\Nfrom the Cybertruck saga?
+Dialogue: 0,0:15:19.65,0:15:22.34,Doc,,0,0,0,,Lesson one: a reveal is not a product.
+Dialogue: 0,0:15:22.39,0:15:23.80,Doc,,0,0,0,,A concept on a stage,
+Dialogue: 0,0:15:23.85,0:15:27.58,Doc,,0,0,0,,a price on a slide and a reservation\Nbutton don't mean a car is coming to
+Dialogue: 0,0:15:27.63,0:15:31.14,Doc,,0,0,0,,Australia especially if it's\Nonly built in left-hand drive.
+Dialogue: 0,0:15:31.19,0:15:33.14,Doc,,0,0,0,,Lesson two: right-hand drive matters.
+Dialogue: 0,0:15:33.19,0:15:36.80,Doc,,0,0,0,,Australia is a relatively\Nsmall right-hand-drive market.
+Dialogue: 0,0:15:36.85,0:15:39.66,Doc,,0,0,0,,When a car maker has to choose\Nwhere to spend engineering money,
+Dialogue: 0,0:15:39.71,0:15:41.50,Doc,,0,0,0,,we're not always first in line.
+Dialogue: 0,0:15:41.55,0:15:44.92,Doc,,0,0,0,,Lesson three: the best car for\Nyou is one you can actually buy,
+Dialogue: 0,0:15:44.97,0:15:46.74,Doc,,0,0,0,,service and resell here.
+Dialogue: 0,0:15:46.79,0:15:50.12,Doc,,0,0,0,,Hype doesn't fix a recall,\Nfind a part or hold its value.
+Dialogue: 0,0:15:50.17,0:15:53.42,Doc,,0,0,0,,The truth is, the Cybertruck was\Nalways going to struggle here.
+Dialogue: 0,0:15:53.47,0:15:55.86,Doc,,0,0,0,,Left-hand drive only, a huge price,
+Dialogue: 0,0:15:55.91,0:15:58.74,Doc,,0,0,0,,a tiny segment and\Nfalling sales in America.
+Dialogue: 0,0:15:58.79,0:16:00.18,Doc,,0,0,0,,Tesla made the business call.
+Dialogue: 0,0:16:00.23,0:16:03.46,Doc,,0,0,0,,And the electric ute race in Australia\Nwill be fought by more practical
+Dialogue: 0,0:16:03.51,0:16:04.56,Doc,,0,0,0,,machines.
+Dialogue: 0,0:16:04.61,0:16:05.54,Doc,,0,0,0,,What do you think?
+Dialogue: 0,0:16:05.59,0:16:09.04,Doc,,0,0,0,,Would you have bought a\NCybertruck at around $130,000?
+Dialogue: 0,0:16:09.09,0:16:10.42,Doc,,0,0,0,,Tell me in the comments.
+Dialogue: 0,0:16:10.47,0:16:13.02,Doc,,0,0,0,,If you enjoyed this,\Nhit like and subscribe.
+Dialogue: 0,0:16:13.07,0:16:14.18,Doc,,0,0,0,,And in the next video,
+Dialogue: 0,0:16:14.23,0:16:17.98,Doc,,0,0,0,,we're looking at what really happens\Nafter you crash a BYD in Australia the
+Dialogue: 0,0:16:18.03,0:16:22.34,Doc,,0,0,0,,wait, the repair bill and the insurance\Nrenewal that nobody warns you about.
+Dialogue: 0,0:16:22.39,0:16:23.23,Doc,,0,0,0,,See you there.

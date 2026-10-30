@@ -92,7 +92,7 @@ def _pool(scene):
 
 
 def _photo(scene, move=None, cap=None, **kw):
-    for sc in [scene] + CFG["fallback"].get(scene, []) + CFG["any"]:
+    for sc in [scene] + CFG["fallback"].get(scene, []) + CFG["any"] + list(CFG["photos"]):
         pl = _pool(sc)
         while pl:
             f = pl.pop(0)
