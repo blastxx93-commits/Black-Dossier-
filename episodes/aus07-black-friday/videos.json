@@ -141,6 +141,76 @@
    "alt": [
     "car inspection"
    ]
+  },
+  {
+   "id": "v_showroom2",
+   "query": "car showroom",
+   "alt": [
+    "car dealership interior"
+   ]
+  },
+  {
+   "id": "v_driver",
+   "query": "man driving car",
+   "alt": [
+    "woman driving car"
+   ]
+  },
+  {
+   "id": "v_interior",
+   "query": "car interior dashboard",
+   "alt": [
+    "car steering wheel driving"
+   ]
+  },
+  {
+   "id": "v_think",
+   "query": "woman laptop thinking",
+   "alt": [
+    "man thinking laptop"
+   ]
+  },
+  {
+   "id": "v_papers",
+   "query": "signing papers",
+   "alt": [
+    "signing document pen"
+   ]
+  },
+  {
+   "id": "v_park",
+   "query": "parking garage cars",
+   "alt": [
+    "parking lot cars"
+   ]
+  },
+  {
+   "id": "v_keys2",
+   "query": "car keys hand",
+   "alt": [
+    "giving car keys"
+   ]
+  },
+  {
+   "id": "v_traffic2",
+   "query": "traffic highway",
+   "alt": [
+    "highway cars aerial"
+   ]
+  },
+  {
+   "id": "v_count",
+   "query": "counting money",
+   "alt": [
+    "paying cash"
+   ]
+  },
+  {
+   "id": "v_store",
+   "query": "shop sale",
+   "alt": [
+    "retail store shoppers"
+   ]
   }
  ]
 }

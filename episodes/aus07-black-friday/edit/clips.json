@@ -1,0 +1,9 @@
+{"sale": ["v_shopping/1", "v_shopping/2", "v_phone_shop/3", "v_shopping/3"],
+ "dealer": ["v_dealer/1", "v_handshake/1", "v_handshake/3"],
+ "finance": ["v_sign/1", "v_calc/1"],
+ "money": ["v_calc/2", "v_calc/3"],
+ "fuel": ["v_fuel/2"],
+ "ev": ["v_ev/1", "v_ev/3"],
+ "demo": ["v_wash/1", "v_wash/2", "v_wash/3"],
+ "traffic": ["v_dealer/2", "v_dealer/3", "v_sales/3", "v_city/1", "v_city/2", "v_inspect/1"],
+ "_generic": ["v_dealer/2", "v_dealer/3", "v_sales/3", "v_city/1", "v_city/2", "v_inspect/1", "v_wash/2"]}
