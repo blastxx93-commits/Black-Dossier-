@@ -1,0 +1,2008 @@
+{
+ "output": "AUS10_New_Cars_2027.mp4",
+ "fps": 24,
+ "music": [
+  {
+   "file": "trilha.wav",
+   "start": 0,
+   "gain": -29,
+   "fade_in": 4,
+   "fade_out": 5
+  }
+ ],
+ "chapters": [
+  {
+   "audio": "audio/ch00_hook.flac",
+   "lead_in": 0,
+   "tail": 0.6,
+   "shots": [
+    {
+     "type": "stat",
+     "value": "300 kW",
+     "label": "Nissan Navara Pro PHEV \u00b7 confirmed for 2027",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Nissan Australia",
+     "dur": 0.975,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "800 Nm",
+     "label": "torque \u00b7 3,500 kg towing target",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Nissan Australia",
+     "dur": 3.385,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_frontier_pro/1_commons.jpg",
+     "move": "in",
+     "caption": "Nissan Navara Pro PHEV|due in Australia 2027",
+     "dur": 7.94,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_gac/1_commons.jpg",
+     "move": "left",
+     "caption": "GAC|ute coming in 2027",
+     "dur": 6.38,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Hyundai is building a ute.",
+     "highlight": "UTE",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 2.6,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_suv/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.64,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "A legend is coming back.",
+     "highlight": "LEGEND",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 1.84,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "10 New Cars Coming in 2027",
+     "subtitle": "that could shake up Australia",
+     "tag": "countdown",
+     "bg": "a/h_motor_show/1_pixabay.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 6.46,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ship/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.08,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_motor_show/4_pixabay.jpg",
+     "move": "left",
+     "dur": 6.44,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "What they are",
+      "When they're due",
+      "What we know about price",
+      "Who should be worried"
+     ],
+     "starts": [
+      0,
+      18,
+      38,
+      76
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.759999999999998
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.6000000000000014
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 3.200000000000003
+      }
+     ],
+     "dur": 5.76,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "#1 could change the most important segment.",
+     "highlight": "#1",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.06,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch01.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "statement",
+     "text": "Ground rules",
+     "highlight": "RULES",
+     "size": 150,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 8.26,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Confirmed vs estimate \u2013 I'll say which.",
+     "highlight": "ESTIMATE",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.02,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_motor_show/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.38,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "NVES targets \u00b7 2026 \u2192 2027 (g/km)",
+     "items": [
+      [
+       "Cars 2026",
+       117
+      ],
+      [
+       "Cars 2027",
+       92,
+       "red"
+      ],
+      [
+       "Utes 2026",
+       180
+      ],
+      [
+       "Utes 2027",
+       150,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "NVES",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_suv/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.96,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ev_charge/1_unsplash.jpg",
+     "move": "out",
+     "dur": 10.16,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "They're following the law.",
+     "highlight": "LAW",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 8.84,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "#1 Ford Ranger",
+      "#2 Toyota HiLux",
+      "#3 Tesla Model Y"
+     ],
+     "starts": [
+      0,
+      26,
+      51
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.1000000000000014
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 2.1400000000000006
+      }
+     ],
+     "dur": 6.56,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "#2",
+     "label": "BYD \u2013 brand ranking 2026",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "VFACTS",
+     "dur": 5.74,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "24%+",
+     "label": "battery EV share \u00b7 Sept 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "FCAI / EVC",
+     "dur": 9.22,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "The Countdown",
+     "subtitle": "10 \u2192 1",
+     "tag": "2027",
+     "bg": "a/h_road/1_pixabay.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 2.096,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch02.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 10,
+     "name": "Honda Super-One",
+     "photo": "a/m_super_one/1_commons.jpg",
+     "credit": "Photo: Tokumeigakarinoaoshima \u00b7 CC0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "electric kei car \u00b7 ~70 kW",
+     "sub": "est. ~$35,000",
+     "dur": 5.68,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_super_one/3_commons.jpg",
+     "move": "left",
+     "dur": 9.84,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "~$35,000",
+     "label": "estimated price \u2013 not confirmed",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarsGuide",
+     "dur": 6.9,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev_charge/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 11.12,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "7",
+     "label": "EVs under $40k drive-away",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarsGuide \u00b7 Feb 2026",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_city/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.68,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_motor_show/5_pixabay.jpg",
+     "move": "in",
+     "dur": 12.82,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 9,
+     "name": "BMW iX3",
+     "photo": "a/m_ix3/1_commons.jpg",
+     "credit": "Photo: Alexander Migl \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "new-generation electric SUV",
+     "sub": "from $89,900 + ORC",
+     "dur": 8.88,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "BMW iX3 prices (+ORC)",
+     "items": [
+      [
+       "iX3 40",
+       89900
+      ],
+      [
+       "iX3 50 xDrive",
+       109900
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "$",
+     "suffix": "",
+     "source": "CarsGuide",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_offroad/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.7,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "$91,387",
+     "label": "fuel-efficient LCT threshold",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "ATO",
+     "dur": 7.4,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ix3/3_commons.jpg",
+     "move": "right",
+     "caption": "New ZEV LCT threshold|$120,000 from July 2027",
+     "dur": 10.68,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_zeekr/3_commons.jpg",
+     "move": "up",
+     "dur": 5.199,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch03.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 8,
+     "name": "Mazda CX-6e",
+     "photo": "a/m_cx6e/1_commons.jpg",
+     "credit": "Photo: JustAnotherCarDesigner \u00b7 CC0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "electric SUV \u00b7 ~190 kW RWD",
+     "sub": "est. ~$54,000",
+     "dur": 7.42,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "$25.4M",
+     "label": "Mazda NVES liability \u00b7 Jul\u2013Dec 2025",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "NRMA",
+     "color": "red",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_cx6e/3_commons.jpg",
+     "move": "left",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "~$54,000",
+     "label": "estimated \u2013 not confirmed",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarsGuide",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_pickup/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.72,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_motor_show/6_pixabay.jpg",
+     "move": "out",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_family/2_pixabay.jpg",
+     "move": "out",
+     "dur": 5.32,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "#7 BYD Atto 3 Evo",
+     "subtitle": "RWD & AWD \u00b7 up to 330 kW",
+     "tag": "2027",
+     "bg": "a/h_ev_charge/2_pixabay.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 14.48,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "330 kW",
+     "label": "Atto 3 Evo flagship",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarsGuide",
+     "dur": 5.6,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev_charge/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 10.6,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "6.28M",
+     "label": "BYD NVES credits \u2013 most of any brand",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "NRMA \u00b7 Feb 2026",
+     "dur": 7.4,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "8,191",
+     "label": "BYD sales \u00b7 Sept 2026 (#2 brand)",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "FCAI / EVC",
+     "dur": 8.36,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_desert/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.21,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch04.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 6,
+     "name": "Omoda 4 & Omoda 7",
+     "photo": "a/m_omoda7/1_commons.jpg",
+     "credit": "Photo: JustAnotherCarDesigner \u00b7 CC0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "new-energy SUVs",
+     "sub": "first half 2027",
+     "dur": 12.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_omoda4/1_commons.jpg",
+     "move": "in",
+     "caption": "Omoda 4|compact SUV",
+     "dur": 3.78,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_omoda7/3_commons.jpg",
+     "move": "left",
+     "caption": "Omoda 7|mid-size SUV",
+     "dur": 7.38,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Omoda 7 PHEV (reported)",
+     "items": [
+      [
+       "Power (kW)",
+       255
+      ],
+      [
+       "Torque (Nm)",
+       525
+      ],
+      [
+       "EV range (km)",
+       90
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "carsales",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_family/3_pixabay.jpg",
+     "move": "right",
+     "dur": 10.45,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"Omoda was created to challenge convention.\"",
+     "highlight": "CHALLENGE",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.63,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_omoda4/3_commons.jpg",
+     "move": "in",
+     "dur": 8.02,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 5,
+     "name": "Mitsubishi Pajero",
+     "photo": "a/m_pajero/1_pixabay.jpg",
+     "credit": "Photo: jwvein \u00b7 Pixabay Content License",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "all-new 2.4L turbo-diesel \u00b7 150 kW",
+     "sub": "from $68,490 + ORC",
+     "dur": 7.48,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_pajero/5_pixabay.jpg",
+     "move": "left",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_family/4_pixabay.jpg",
+     "move": "in",
+     "dur": 8.96,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "2027 Pajero prices (+ORC)",
+     "items": [
+      [
+       "GLS 5-seat",
+       68490
+      ],
+      [
+       "GLS 7-seat",
+       69990
+      ],
+      [
+       "Exceed",
+       79990
+      ],
+      [
+       "GSR",
+       84990
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "$",
+     "suffix": "",
+     "source": "carsales",
+     "dur": 11.44,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "Dec 2026",
+     "label": "Pajero in showrooms",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Mitsubishi",
+     "dur": 9.51,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"For four generations, the Pajero has defined Mitsubishi.\"",
+     "highlight": "PAJERO",
+     "size": 95,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.55,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_family/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_family/5_pixabay.jpg",
+     "move": "up",
+     "dur": 5.62,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_prado/1_commons.jpg",
+     "move": "in",
+     "caption": "Toyota Prado|$73,200\u2013$100,620",
+     "dur": 7.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_prado/3_commons.jpg",
+     "move": "right",
+     "dur": 7.942,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch05.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/h_motor_show/7_pixabay.jpg",
+     "move": "out",
+     "dur": 4.88,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Which would you buy?",
+     "sub": "And what did I miss? Comments",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 10.1,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Subscribe",
+     "sub": "everything new for 2027",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 4.343,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch06.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 4,
+     "name": "Cheaper Toyota RAV4 PHEV",
+     "photo": "a/m_rav4/1_commons.jpg",
+     "credit": "Photo: Alexander Migl \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "new GXL plug-in hybrid",
+     "sub": "early 2027",
+     "dur": 10.72,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "39%",
+     "label": "of RAV4 sales were PHEV \u00b7 July 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarExpert",
+     "dur": 12.32,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Best-selling PHEVs \u00b7 July 2026",
+     "items": [
+      [
+       "Toyota RAV4 PHEV",
+       2170
+      ],
+      [
+       "BYD Shark 6",
+       1216
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "CarExpert",
+     "dur": 10.22,
+     "fixed": true
+    },
+    {
+     "type": "price",
+     "model": "Toyota RAV4 PHEV",
+     "old": "$58,840",
+     "new": "~$53,990",
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.6
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.0
+      }
+     ],
+     "old_note": "XSE FWD now",
+     "new_note": "GXL 2027 (estimate)",
+     "source": "CarExpert",
+     "dur": 12.84,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Estimate \u2013 not official.",
+     "highlight": "ESTIMATE",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_dealer/3_pixabay.jpg",
+     "move": "out",
+     "dur": 8.9,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "121 km",
+     "label": "claimed electric-only range",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Toyota",
+     "dur": 4.96,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_rav4/5_commons.jpg",
+     "move": "right",
+     "dur": 5.7,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev_charge/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_dealer/4_pixabay.jpg",
+     "move": "down",
+     "dur": 5.38,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_outlander/1_commons.jpg",
+     "move": "left",
+     "caption": "Outlander PHEV ES|$58,990 + ORC",
+     "dur": 7.343,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch07.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "#3 Hyundai Ute",
+     "subtitle": "hybrid or EREV",
+     "tag": "late 2027 (expected)",
+     "bg": "a/h_tow/1_pixabay.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 15.54,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"There's no doubt we'll be late to the party.\" \u2013 Hyundai",
+     "highlight": "LATE",
+     "size": 95,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.62,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_pickup/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 12.84,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"\u2026a hybrid or an EREV\u2026\"",
+     "highlight": "EREV",
+     "size": 135,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 2.88,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ev_charge/3_unsplash.jpg",
+     "move": "up",
+     "dur": 9.48,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ranger/1_commons.jpg",
+     "move": "in",
+     "caption": "Ford Ranger|the benchmark",
+     "dur": 4.52,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 2,
+     "name": "GAC dual-cab ute",
+     "photo": "a/m_gac/3_commons.jpg",
+     "credit": "Photo: User3204 \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "PHEV or range-extender \u00b7 ladder frame",
+     "sub": "2027",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_tow/3_pixabay.jpg",
+     "move": "in",
+     "dur": 5.6,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_city/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_tow/4_pixabay.jpg",
+     "move": "left",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"\u2026win the competition with Ranger, HiLux\u2026\" \u2013 GAC",
+     "highlight": "WIN",
+     "size": 105,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 6.72,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_city/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.99,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_shark6/1_commons.jpg",
+     "move": "left",
+     "caption": "Already here|BYD, GWM, JAC, KGM, Deepal",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_tow/5_pixabay.jpg",
+     "move": "out",
+     "dur": 6.588,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch08.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 1,
+     "name": "Nissan Navara Pro PHEV",
+     "photo": "a/m_frontier_pro/3_commons.jpg",
+     "credit": "Photo: JustAnotherCarDesigner \u00b7 CC0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "300 kW \u00b7 800 Nm \u00b7 3,500 kg towing",
+     "sub": "2027 \u00b7 price TBC",
+     "dur": 12.6,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Navara Pro PHEV (preliminary)",
+     "items": [
+      [
+       "Power (kW)",
+       300
+      ],
+      [
+       "Torque (Nm)",
+       800
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "Nissan Australia",
+     "dur": 11.6,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "3,500 kg",
+     "label": "braked towing target",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Nissan",
+     "dur": 3.52,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Payload (kg)",
+     "items": [
+      [
+       "Navara Pro PHEV (target)",
+       1000
+      ],
+      [
+       "JAC T9 PHEV",
+       915
+      ],
+      [
+       "Ranger Hybrid Wildtrak",
+       901
+      ],
+      [
+       "Chery Stockman",
+       765
+      ],
+      [
+       "BYD Shark 6 Perf.",
+       725
+      ],
+      [
+       "GWM Cannon Alpha PHEV",
+       685
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "CarExpert",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ute_outback/2_pixabay.jpg",
+     "move": "right",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ute_outback/5_pixabay.jpg",
+     "move": "in",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ute_outback/6_pixabay.jpg",
+     "move": "up",
+     "dur": 11.52,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Price, battery & EV range: TBC",
+     "highlight": "TBC",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 7.3,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_hilux/1_commons.jpg",
+     "move": "in",
+     "dur": 4.72,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ranger/3_commons.jpg",
+     "move": "right",
+     "dur": 3.88,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_navara/1_commons.jpg",
+     "move": "left",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_hilux/3_commons.jpg",
+     "move": "out",
+     "dur": 8.84,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"Australia\u2026 was one of the markets helping shape it.\" \u2013 Nissan",
+     "highlight": "SHAPE",
+     "size": 95,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 6.14,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch09.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "Honourable Mentions",
+     "subtitle": "just missed the list",
+     "tag": "2027",
+     "bg": "a/m_pajero/6_pixabay.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 4.48,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_patrol/1_commons.jpg",
+     "move": "in",
+     "caption": "Nissan Patrol|3.5L twin-turbo V6 \u00b7 317 kW",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_road/2_pixabay.jpg",
+     "move": "down",
+     "dur": 9.3,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_patrol/3_commons.jpg",
+     "move": "left",
+     "dur": 2.78,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_zeekr/1_commons.jpg",
+     "move": "right",
+     "caption": "Zeekr 8X|660 kW \u00b7 est. ~$80,000",
+     "dur": 9.12,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_polestar5/1_commons.jpg",
+     "move": "in",
+     "caption": "Polestar 5|from $171,100",
+     "dur": 9.56,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_symbioz/1_commons.jpg",
+     "move": "left",
+     "caption": "Renault Symbioz|from $36,990",
+     "dur": 7.14,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Cancelled: Isuzu D-Max EV",
+     "highlight": "CANCELLED",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.94,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"Customers don't want it.\" \u2013 Isuzu",
+     "highlight": "DON'T",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.76,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_offroad/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_road/3_pixabay.jpg",
+     "move": "in",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_road/4_pixabay.jpg",
+     "move": "left",
+     "dur": 7.92,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_rav4/6_pixabay.jpg",
+     "move": "down",
+     "dur": 12.88,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "1 Apr 2027",
+     "label": "EV FBT change \u00b7 \u2264 $75k keeps full exemption",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_road/5_pixabay.jpg",
+     "move": "out",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_road/6_pixabay.jpg",
+     "move": "right",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_hilux/5_commons.jpg",
+     "move": "in",
+     "dur": 9.04,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Nearest service centre?",
+      "Crash parts stocked here?",
+      "Who backs the warranty?"
+     ],
+     "starts": [
+      0,
+      48,
+      115
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 2.0400000000000205
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 4.800000000000011
+      }
+     ],
+     "dur": 11.44,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_desert/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 11.92,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_motor_show/8_pixabay.jpg",
+     "move": "in",
+     "dur": 11.81,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch10.flac",
+   "lead_in": 0,
+   "tail": 2.5,
+   "shots": [
+    {
+     "type": "title",
+     "title": "The Full List",
+     "subtitle": "2027",
+     "tag": "recap",
+     "bg": "a/h_dealer/2_pixabay.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 4.3,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "10 Honda Super-One",
+      "9 BMW iX3",
+      "8 Mazda CX-6e",
+      "7 BYD Atto 3 Evo",
+      "6 Omoda 4 & 7"
+     ],
+     "starts": [
+      0,
+      53,
+      115,
+      180,
+      256
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 2.2199999999999998
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 4.800000000000002
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 7.5200000000000005
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 10.7
+      }
+     ],
+     "dur": 13.18,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "5 Mitsubishi Pajero",
+      "4 RAV4 PHEV GXL",
+      "3 Hyundai ute",
+      "2 GAC ute",
+      "1 Navara Pro PHEV"
+     ],
+     "starts": [
+      0,
+      60,
+      139,
+      185,
+      229
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 2.5199999999999996
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 5.82
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 7.739999999999998
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 9.579999999999998
+      }
+     ],
+     "dur": 14.38,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_desert/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_dealer/5_pixabay.jpg",
+     "move": "up",
+     "dur": 6.3,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Prices & dates can change.",
+     "highlight": "CHANGE",
+     "size": 135,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_dealer/6_pixabay.jpg",
+     "move": "out",
+     "dur": 4.84,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Like \u00b7 Subscribe \u00b7 Share",
+     "sub": "with someone planning their next car",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 5.66,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Which would you buy in 2027?"
+     ],
+     "starts": [
+      0
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      }
+     ],
+     "dur": 10.491,
+     "fixed": false,
+     "fade_out": 0
+    }
+   ]
+  }
+ ],
+ "size": [
+  1920,
+  1080
+ ],
+ "subtitles": "AUS10.ass"
+}

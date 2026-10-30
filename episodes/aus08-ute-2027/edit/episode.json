@@ -1,0 +1,1994 @@
+{
+ "output": "AUS08_Ute_Prices_2027.mp4",
+ "fps": 24,
+ "music": [
+  {
+   "file": "trilha.wav",
+   "start": 0,
+   "gain": -29,
+   "fade_in": 4,
+   "fade_out": 5
+  }
+ ],
+ "chapters": [
+  {
+   "audio": "audio/ch00_hook.flac",
+   "lead_in": 0,
+   "tail": 0.6,
+   "shots": [
+    {
+     "type": "statement",
+     "text": "\"We cannot rule out price increases.\"",
+     "highlight": "PRICE INCREASES",
+     "size": 105,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.88,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_hilux/1_commons.jpg",
+     "move": "in",
+     "caption": "Toyota Australia|October 2026",
+     "dur": 6.28,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_hilux/5_commons.jpg",
+     "move": "in",
+     "caption": "John Pappas|VP Sales, Toyota Australia",
+     "dur": 8.74,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"Really challenging.\"",
+     "highlight": "CHALLENGING",
+     "size": 150,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 7.3,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_offroad/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 0.86,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_tow/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ranger/5_commons.jpg",
+     "move": "left",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_dealer/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.82,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "Ute Prices in 2027",
+     "subtitle": "what's really coming",
+     "tag": "Australia",
+     "bg": "a/ai/ai_tradie_ute_1.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 1.46,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "What changes in 2027",
+      "How much it could add",
+      "Who's best & worst placed",
+      "What it means for you"
+     ],
+     "starts": [
+      0,
+      122,
+      177,
+      267
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 5.100000000000001
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 7.380000000000003
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 11.159999999999997
+      }
+     ],
+     "dur": 15.98,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_money/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.879,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch01.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/ai/ai_emissions_lab_1.jpg",
+     "move": "right",
+     "dur": 3.08,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "NVES \u00b7 New Vehicle Efficiency Standard",
+     "highlight": "NVES",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.82,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_canberra_debate_1.jpg",
+     "move": "in",
+     "dur": 9.28,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_factory/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ev_charge/1_unsplash.jpg",
+     "move": "up",
+     "dur": 2.44,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_exhaust/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.02,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ranger/6_pixabay.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_offroad/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.78,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Tougher every year.",
+     "highlight": "EVERY YEAR",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 2.48,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Passenger car target (g CO2/km)",
+     "items": [
+      [
+       "2026",
+       117
+      ],
+      [
+       "2027",
+       92
+      ],
+      [
+       "2028",
+       68
+      ],
+      [
+       "2029",
+       58
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "NVES via carsales",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_construction/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.76,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Ute & van target (g CO2/km)",
+     "items": [
+      [
+       "2026",
+       180
+      ],
+      [
+       "2027",
+       150,
+       "red"
+      ],
+      [
+       "2028",
+       122,
+       "red"
+      ],
+      [
+       "2029",
+       110,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "NVES via carsales",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_construction/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.94,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "-17%",
+     "label": "ute target cut in ONE year (180 \u2192 150 g/km)",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "NVES",
+     "color": "red",
+     "dur": 8.04,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_exhaust/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.78,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"The big challenge comes from 2027\u2026\" \u2013 Toyota",
+     "highlight": "2027",
+     "size": 100,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 6.02,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_parliament/1_unsplash.jpg",
+     "move": "down",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_dealer/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.66,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_parliament/2_pixabay.jpg",
+     "move": "in",
+     "dur": 3.99,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch02.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_money/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.72,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "~$50",
+     "label": "per gram over target, per vehicle",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "NVES",
+     "dur": 5.68,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_exhaust/1_unsplash.jpg",
+     "move": "left",
+     "dur": 10.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_hilux/3_commons.jpg",
+     "move": "in",
+     "caption": "HiLux SR5 V-Active|191 g/km claimed",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_highway/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.32,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "~$550",
+     "label": "estimated penalty per HiLux \u00b7 2026",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarsGuide",
+     "color": "red",
+     "dur": 7.36,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Illustrative penalty \u00b7 191 g/km ute",
+     "items": [
+      [
+       "2026",
+       550
+      ],
+      [
+       "2027",
+       2050,
+       "red"
+      ],
+      [
+       "2029",
+       4000,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "~$",
+     "suffix": "",
+     "source": "rough calculation \u2013 not official",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_money/4_pixabay.jpg",
+     "move": "left",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_money/5_unsplash.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_calc/1_unsplash.jpg",
+     "move": "right",
+     "dur": 3.98,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ranger/1_commons.jpg",
+     "move": "left",
+     "caption": "Ranger & Everest|~$3,706/vehicle (theoretical)",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_calc/2_pixabay.jpg",
+     "move": "in",
+     "dur": 9.12,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "$1B+",
+     "label": "Ford's theoretical NVES bill by 2029",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "carsales \u00b7 assumptions",
+     "color": "red",
+     "dur": 10.14,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_triton/3_commons.jpg",
+     "move": "out",
+     "dur": 2.663,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch03.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "statement",
+     "text": "So who pays?",
+     "highlight": "WHO PAYS",
+     "size": 150,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 2.28,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_exhaust/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_mux/3_commons.jpg",
+     "move": "up",
+     "dur": 7.44,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_diesel/2_pixabay.jpg",
+     "move": "right",
+     "dur": 6.64,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Sell more hybrids & EVs",
+      "Buy credits",
+      "Pay \u2013 and pass it on"
+     ],
+     "starts": [
+      0,
+      81,
+      151
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 3.3999999999999986
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 6.300000000000001
+      }
+     ],
+     "dur": 12.32,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "NVES liability \u00b7 Jul\u2013Dec 2025",
+     "items": [
+      [
+       "Mazda",
+       25.4,
+       "red"
+      ],
+      [
+       "Nissan",
+       10.7,
+       "red"
+      ],
+      [
+       "Subaru",
+       7.0,
+       "red"
+      ],
+      [
+       "Hyundai",
+       4.2,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "$",
+     "suffix": "M",
+     "source": "NRMA \u00b7 Feb 2026",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ute_outback/5_unsplash.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ute_outback/6_pixabay.jpg",
+     "move": "down",
+     "dur": 3.96,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "NVES credits \u00b7 Jul\u2013Dec 2025",
+     "items": [
+      [
+       "BYD",
+       6.28
+      ],
+      [
+       "Toyota",
+       2.89
+      ],
+      [
+       "Tesla",
+       2.21
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "M",
+     "source": "NRMA \u00b7 Feb 2026",
+     "dur": 7.98,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_hilux/6_pixabay.jpg",
+     "move": "in",
+     "dur": 7.12,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_lc70/1_commons.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ute_outback/7_unsplash.jpg",
+     "move": "in",
+     "dur": 7.95,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"Self-managed as much as possible.\"",
+     "highlight": "SELF-MANAGED",
+     "size": 115,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 7.49,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_parliament/3_unsplash.jpg",
+     "move": "up",
+     "dur": 4.47,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_mustang/1_commons.jpg",
+     "move": "left",
+     "caption": "Ford Ranger & Mustang|NVES-linked price rises",
+     "dur": 6.13,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_bt50/3_commons.jpg",
+     "move": "out",
+     "dur": 4.88,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_dmax/1_commons.jpg",
+     "move": "in",
+     "caption": "Isuzu D-Max & MU-X|diesel only",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ute_outback/8_pixabay.jpg",
+     "move": "left",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_tradie/1_unsplash.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_tradie/2_pixabay.jpg",
+     "move": "right",
+     "dur": 7.38,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"Customers don't want it.\" \u2013 Isuzu",
+     "highlight": "DON'T WANT",
+     "size": 115,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.02,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "Feb 2028",
+     "label": "first penalty bills (for 2025 vehicles)",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "carsales",
+     "dur": 9.92,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_dealer/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.097,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch04.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_mine/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.947,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Draft: 3,500\u20133,855 kg GVM into NVES from July 2027",
+     "highlight": "JULY 2027",
+     "size": 90,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_farmer_ute_1.jpg",
+     "move": "in",
+     "dur": 8.893,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_lc70/3_commons.jpg",
+     "move": "in",
+     "caption": "LandCruiser 70|GVM 3,510 kg",
+     "dur": 9.28,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_tundra/1_commons.jpg",
+     "move": "left",
+     "caption": "Toyota Tundra|GVM 3,536 kg",
+     "dur": 8.44,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_pickup/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.04,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"\u2026will substantially drive up the price\" \u2013 HIA, 2024",
+     "highlight": "PRICE",
+     "size": 100,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_farm/1_unsplash.jpg",
+     "move": "up",
+     "dur": 3.62,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "$190",
+     "label": "govt's 2024 compliance cost estimate per ute/van",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Consultation paper",
+     "dur": 7.88,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_farm/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.1,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch05.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/h_ute_outback/1_unsplash.jpg",
+     "move": "down",
+     "dur": 9.24,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Diesel forever \u2013 or hybrid?",
+     "sub": "Tell me in the comments",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 7.04,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Subscribe",
+     "sub": "everything changing in 2027",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 3.469,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch06.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_pickup/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.487,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "184,328",
+     "label": "light commercials sold \u00b7 Jan\u2013Sep 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "VFACTS via carsales",
+     "dur": 7.833,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "84%",
+     "label": "diesel (155,040)",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "VFACTS via carsales",
+     "color": "red",
+     "dur": 4.22,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "1,630",
+     "label": "electric light commercials \u00b7 Jan\u2013Sep 2026",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "VFACTS via carsales",
+     "dur": 3.96,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "-13.6%",
+     "label": "4x4 ute market (140,410)",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "VFACTS \u00b7 Sept YTD",
+     "color": "red",
+     "dur": 7.22,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "4x4 ute sales \u00b7 Jan\u2013Sep 2026",
+     "items": [
+      [
+       "Ford Ranger 4x4",
+       35744
+      ],
+      [
+       "Toyota HiLux 4x4",
+       32238
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "VFACTS via carsales",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_road/1_unsplash.jpg",
+     "move": "out",
+     "dur": 7.16,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "54%",
+     "label": "of HiLux & LandCruiser buyers live outside major cities",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Toyota",
+     "dur": 9.58,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_farm/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.86,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "BEV + PHEV share of new sales \u00b7 2026",
+     "items": [
+      [
+       "March qtr",
+       19.07
+      ],
+      [
+       "June qtr",
+       31.61
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "%",
+     "source": "AAA",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_road/2_pixabay.jpg",
+     "move": "down",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_road/3_unsplash.jpg",
+     "move": "in",
+     "dur": 4.96,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.92,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_prado/3_commons.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_road/4_pixabay.jpg",
+     "move": "left",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_road/5_unsplash.jpg",
+     "move": "out",
+     "dur": 3.96,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"The right tool of trade for regional and rural Australia.\"",
+     "highlight": "TOOL OF TRADE",
+     "size": 90,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.68,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_outback/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.59,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch07.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/m_shark6/3_commons.jpg",
+     "move": "left",
+     "dur": 6.14,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Electrified utes \u00b7 from (NSW drive-away)",
+     "items": [
+      [
+       "GWM Cannon Alpha PHEV",
+       57490
+      ],
+      [
+       "Ford Ranger PHEV",
+       59000
+      ],
+      [
+       "KGM Musso EV",
+       60000
+      ],
+      [
+       "BYD Shark 6",
+       62660
+      ],
+      [
+       "Toyota HiLux BEV",
+       82752
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "$",
+     "suffix": "",
+     "source": "CarExpert \u00b7 May 2026",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_tradie/5_pixabay.jpg",
+     "move": "right",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_tradie/6_pixabay.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_road/6_pixabay.jpg",
+     "move": "up",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_farm/3_unsplash.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_farm/5_unsplash.jpg",
+     "move": "down",
+     "dur": 3.7,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "$3.50/L",
+     "label": "diesel in parts of Australia \u00b7 May 2026",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarExpert",
+     "color": "red",
+     "dur": 9.62,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ranger_phev/1_commons.jpg",
+     "move": "in",
+     "caption": "Ranger Wildtrak Hybrid|$70,000 drive-away",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_farm/6_pixabay.jpg",
+     "move": "in",
+     "dur": 6.16,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"Australian buyers are doing the maths.\" \u2013 Ford",
+     "highlight": "MATHS",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 2.44,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ev_charge/2_pixabay.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_dealer/2_pixabay.jpg",
+     "move": "left",
+     "dur": 7.88,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "<$50K",
+     "label": "JAC Hunter PHEV target drive-away",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarsGuide \u00b7 May 2026",
+     "dur": 4.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ute_outback/3_unsplash.jpg",
+     "move": "right",
+     "caption": "HiLux 48V mild hybrid|from $57,990 + ORC",
+     "dur": 9.1,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ev_charge/3_unsplash.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_dealer/3_unsplash.jpg",
+     "move": "out",
+     "dur": 9.46,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_hilux_bev/1_commons.jpg",
+     "move": "in",
+     "caption": "HiLux BEV|$74,990\u2013$82,990 + ORC",
+     "dur": 9.83,
+     "fixed": true
+    },
+    {
+     "type": "price",
+     "model": "Toyota HiLux 4x4",
+     "old": "$74,990+",
+     "new": "$45,990+",
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.6
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.0
+      }
+     ],
+     "old_note": "electric HiLux",
+     "new_note": "diesel HiLux 4x4",
+     "source": "carsales",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_dealer/5_unsplash.jpg",
+     "move": "right",
+     "dur": 5.85,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Diesel: penalties up. Electric: still pricier.",
+     "highlight": "SQUEEZE",
+     "size": 100,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 9.76,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_caravan_tow_1.jpg",
+     "move": "up",
+     "dur": 3.431,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch08.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/h_parliament/4_pixabay.jpg",
+     "move": "out",
+     "dur": 6.36,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Coalition: repeal the NVES",
+     "highlight": "REPEAL",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 7.22,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"Family car and ute tax\" \u2013 Dan Tehan",
+     "highlight": "UTE TAX",
+     "size": 115,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_dealer/6_pixabay.jpg",
+     "move": "in",
+     "dur": 8.08,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 10.11,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_farm/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_diesel/3_unsplash.jpg",
+     "move": "up",
+     "dur": 4.47,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"Stable, predictable and workable\" \u2013 FCAI",
+     "highlight": "STABLE",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_diesel/4_pixabay.jpg",
+     "move": "out",
+     "dur": 6.94,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Targets stay \u2192 prices may rise",
+      "Review softens targets",
+      "Repealed after election"
+     ],
+     "starts": [
+      0,
+      90,
+      148
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 3.760000000000005
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 6.180000000000007
+      }
+     ],
+     "dur": 12.894,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch09.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "What It Means for You",
+     "subtitle": "if you're buying a ute",
+     "tag": "5 tips",
+     "bg": "a/ai/ai_price_tag_rise_1.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 3.36,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "1 \u00b7 No price rise announced yet",
+     "highlight": "1",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_diesel/5_unsplash.jpg",
+     "move": "down",
+     "dur": 4.22,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "2 \u00b7 2026 runout deals are here now",
+     "highlight": "2",
+     "size": 115,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_diesel/6_pixabay.jpg",
+     "move": "in",
+     "dur": 4.3,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_dealer/1_unsplash.jpg",
+     "move": "in",
+     "dur": 2.2,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "3 \u00b7 Work out real running costs",
+     "highlight": "3",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.98,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ev_charge/4_pixabay.jpg",
+     "move": "left",
+     "dur": 5.2,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_caravan/1_unsplash.jpg",
+     "move": "out",
+     "dur": 10.33,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "1 Apr 2025",
+     "label": "PHEVs lost the FBT exemption",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "ATO / Treasury",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_exhaust/2_pixabay.jpg",
+     "move": "left",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_exhaust/3_unsplash.jpg",
+     "move": "out",
+     "dur": 5.69,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "3,500 kg",
+     "label": "braked towing \u2013 MG U9 EV (claimed)",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "MG Australia",
+     "dur": 10.36,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "4 \u00b7 Think about resale",
+     "highlight": "4",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_exhaust/4_pixabay.jpg",
+     "move": "right",
+     "dur": 6.42,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "5 \u00b7 Watch the review & politics",
+     "highlight": "5",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 9.1,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_money/2_pixabay.jpg",
+     "move": "right",
+     "dur": 4.474,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch10.flac",
+   "lead_in": 0,
+   "tail": 2.5,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/h_ute_outback/4_pixabay.jpg",
+     "move": "in",
+     "dur": 8.04,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "180 \u2192 150",
+     "label": "g/km ute target in 2027",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "NVES",
+     "color": "red",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_exhaust/5_unsplash.jpg",
+     "move": "in",
+     "dur": 5.68,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_money/3_unsplash.jpg",
+     "move": "up",
+     "dur": 7.28,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_everest/3_commons.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_calc/3_unsplash.jpg",
+     "move": "up",
+     "dur": 4.78,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Not a done deal.",
+     "highlight": "NOT",
+     "size": 150,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 1.04,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ev_charge/5_unsplash.jpg",
+     "move": "down",
+     "dur": 9.04,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Like \u00b7 Subscribe",
+     "sub": "everything changing in 2027",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 8.36,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Pay more for diesel \u2013 or switch?"
+     ],
+     "starts": [
+      0
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      }
+     ],
+     "dur": 3.38,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "EV Changes in 2027",
+     "subtitle": "tax \u00b7 road charges \u00b7 prices",
+     "tag": "next video",
+     "bg": "a/h_ev_charge/6_pixabay.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 11.759,
+     "fixed": false,
+     "fade_out": 0
+    }
+   ]
+  }
+ ],
+ "size": [
+  1920,
+  1080
+ ],
+ "subtitles": "AUS08.ass"
+}

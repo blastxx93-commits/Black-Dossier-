@@ -33,6 +33,7 @@ RES = ["m_hilux/1", "m_hilux/3", "m_hilux_bev/1", "m_hilux_bev/3", "m_lc70/1", "
        "m_shark6/1", "m_cannon/1", "m_musso/3", "m_mustang/1", "m_mustang/3"]
 A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FALLBACK,
         ["ute", "road", "farm", "rivals", "dealer", "toyota", "diesel", "money"], reserved=RES)
+A.MAX_HOLD, A.KEEP = 10.5, 7.0  # fewer splits: the cloud agents are blocked (Actions minutes), so no extra photos
 chapters = []
 
 c = ch("ch00_hook", 0.6)

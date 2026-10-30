@@ -1,0 +1,364 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Doc,Inter SemiBold,44,&H0000E6FF,&H0000E6FF,&H00000000,&H96000000,0,0,0,0,100,100,0.5,0,1,2.4,1.2,2,200,200,62,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.41,Doc,,0,0,0,,"We cannot rule out price increases."\NThat's not a warning from some small
+Dialogue: 0,0:00:03.46,0:00:04.95,Doc,,0,0,0,,brand you've never heard of.
+Dialogue: 0,0:00:05.00,0:00:08.87,Doc,,0,0,0,,That's Toyota the biggest car company\Nin Australia talking about its utes and
+Dialogue: 0,0:00:08.92,0:00:11.23,Doc,,0,0,0,,four-wheel drives from 2027.
+Dialogue: 0,0:00:11.28,0:00:14.79,Doc,,0,0,0,,In October 2026, Toyota\NAustralia's sales boss,
+Dialogue: 0,0:00:14.84,0:00:18.55,Doc,,0,0,0,,John Pappas, said the new emissions\Ntargets for utes and vans that kick in
+Dialogue: 0,0:00:18.60,0:00:21.31,Doc,,0,0,0,,from 2027 are "really challenging".
+Dialogue: 0,0:00:21.36,0:00:24.77,Doc,,0,0,0,,And when a company that sells tens of\Nthousands of HiLuxes and LandCruisers a
+Dialogue: 0,0:00:24.82,0:00:27.27,Doc,,0,0,0,,year says it can't rule out price rises,
+Dialogue: 0,0:00:27.32,0:00:31.13,Doc,,0,0,0,,every tradie, farmer and family with\Na caravan should be paying attention.
+Dialogue: 0,0:00:31.18,0:00:33.21,Doc,,0,0,0,,Because this isn't just about Toyota.
+Dialogue: 0,0:00:33.26,0:00:37.77,Doc,,0,0,0,,The rules that start biting in 2027\Napply to every ute brand in the country
+Dialogue: 0,0:00:37.82,0:00:42.95,Doc,,0,0,0,,Ford, Isuzu, Mitsubishi,\NNissan, Mazda, GWM, all of them.
+Dialogue: 0,0:00:43.00,0:00:43.93,Doc,,0,0,0,,So in this video,
+Dialogue: 0,0:00:43.98,0:00:46.87,Doc,,0,0,0,,I'll explain exactly what changes in 2027,
+Dialogue: 0,0:00:46.92,0:00:49.51,Doc,,0,0,0,,why the diesel ute is suddenly\Nin the government's sights,
+Dialogue: 0,0:00:49.56,0:00:51.79,Doc,,0,0,0,,how much it could add to\Nthe price of your next ute,
+Dialogue: 0,0:00:51.84,0:00:53.69,Doc,,0,0,0,,which brands are best and worst placed,
+Dialogue: 0,0:00:53.74,0:00:55.41,Doc,,0,0,0,,what the politicians are fighting about,
+Dialogue: 0,0:00:55.46,0:00:58.51,Doc,,0,0,0,,and what it all means if you're\Nplanning to buy a ute in the next twelve
+Dialogue: 0,0:00:58.56,0:00:59.41,Doc,,0,0,0,,months.
+Dialogue: 0,0:00:59.46,0:01:02.56,Doc,,0,0,0,,Stay with me, because the numbers\Nare bigger than most people realise.
+Dialogue: 0,0:01:03.19,0:01:06.34,Doc,,0,0,0,,First, let's understand the\Nrule that's causing all of this.
+Dialogue: 0,0:01:06.39,0:01:10.16,Doc,,0,0,0,,It's called the New Vehicle\NEfficiency Standard, or NVES.
+Dialogue: 0,0:01:10.21,0:01:13.06,Doc,,0,0,0,,It started on the 1st of January 2025,
+Dialogue: 0,0:01:13.11,0:01:18.08,Doc,,0,0,0,,and car makers began earning credits\Nand penalties from the 1st of July 2025.
+Dialogue: 0,0:01:18.13,0:01:19.44,Doc,,0,0,0,,The idea is simple.
+Dialogue: 0,0:01:19.49,0:01:23.28,Doc,,0,0,0,,Every car brand gets an average carbon\Ndioxide target for all the vehicles it
+Dialogue: 0,0:01:23.33,0:01:25.24,Doc,,0,0,0,,sells in Australia each year.
+Dialogue: 0,0:01:25.29,0:01:27.68,Doc,,0,0,0,,Sell cleaner cars, and you earn credits.
+Dialogue: 0,0:01:27.73,0:01:29.70,Doc,,0,0,0,,Sell dirtier ones, and\Nyou build up penalties.
+Dialogue: 0,0:01:29.75,0:01:31.66,Doc,,0,0,0,,There are two separate targets.
+Dialogue: 0,0:01:31.71,0:01:34.22,Doc,,0,0,0,,One for passenger cars and SUVs.
+Dialogue: 0,0:01:34.27,0:01:37.66,Doc,,0,0,0,,And a different one for light\Ncommercial vehicles that means utes,
+Dialogue: 0,0:01:37.71,0:01:40.16,Doc,,0,0,0,,vans and some big four-wheel drives.
+Dialogue: 0,0:01:40.21,0:01:43.96,Doc,,0,0,0,,And here's the key part: the targets\Nget tougher every single year.
+Dialogue: 0,0:01:44.01,0:01:45.04,Doc,,0,0,0,,For passenger cars,
+Dialogue: 0,0:01:45.09,0:01:50.42,Doc,,0,0,0,,the target is 117 grams of carbon\Ndioxide per kilometre in 2026.
+Dialogue: 0,0:01:50.47,0:01:52.92,Doc,,0,0,0,,In 2027 it drops to 92.
+Dialogue: 0,0:01:52.97,0:01:56.72,Doc,,0,0,0,,Then 68 in 2028, and 58 in 2029.
+Dialogue: 0,0:01:56.77,0:02:02.52,Doc,,0,0,0,,For utes and vans, the target is\N180 grams per kilometre in 2026.
+Dialogue: 0,0:02:02.57,0:02:05.44,Doc,,0,0,0,,In 2027, it drops to 150.
+Dialogue: 0,0:02:05.49,0:02:08.22,Doc,,0,0,0,,Then 122 in 2028.
+Dialogue: 0,0:02:08.27,0:02:10.66,Doc,,0,0,0,,And 110 in 2029.
+Dialogue: 0,0:02:10.71,0:02:15.32,Doc,,0,0,0,,That jump from 180 to 150 is\Nthe one Toyota is worried about.
+Dialogue: 0,0:02:15.37,0:02:18.58,Doc,,0,0,0,,It's a cut of about seventeen\Nper cent in just one year.
+Dialogue: 0,0:02:18.63,0:02:22.76,Doc,,0,0,0,,And the vast majority of utes sold in\NAustralia are diesel which means most of
+Dialogue: 0,0:02:22.81,0:02:24.08,Doc,,0,0,0,,them are well above that line.
+Dialogue: 0,0:02:24.13,0:02:25.48,Doc,,0,0,0,,As Pappas put it:
+Dialogue: 0,0:02:25.53,0:02:29.14,Doc,,0,0,0,,"The big challenge comes from 2027\Nwhen it comes to light commercial
+Dialogue: 0,0:02:29.19,0:02:31.50,Doc,,0,0,0,,vehicles." And timing matters here.
+Dialogue: 0,0:02:31.55,0:02:36.50,Doc,,0,0,0,,The law requires a review of the\NNVES to begin before the end of 2026.
+Dialogue: 0,0:02:36.55,0:02:39.10,Doc,,0,0,0,,The current targets run through to 2029,
+Dialogue: 0,0:02:39.15,0:02:42.48,Doc,,0,0,0,,and that review will help decide what\Nhappens after that and whether anything
+Dialogue: 0,0:02:42.53,0:02:43.98,Doc,,0,0,0,,changes along the way.
+Dialogue: 0,0:02:44.03,0:02:47.33,Doc,,0,0,0,,So the next twelve months are when the\Nfuture of these rules gets decided.
+Dialogue: 0,0:02:48.08,0:02:50.11,Doc,,0,0,0,,So how does the penalty actually work?
+Dialogue: 0,0:02:50.16,0:02:53.94,Doc,,0,0,0,,Roughly speaking, a car maker pays\Nabout fifty dollars for every gram per
+Dialogue: 0,0:02:53.99,0:02:57.55,Doc,,0,0,0,,kilometre a vehicle is over the\Ntarget, for every vehicle it sells.
+Dialogue: 0,0:02:57.60,0:02:59.53,Doc,,0,0,0,,The real formula is more complicated,
+Dialogue: 0,0:02:59.58,0:03:01.73,Doc,,0,0,0,,because it's based on\Nthe brand's whole fleet,
+Dialogue: 0,0:03:01.78,0:03:05.13,Doc,,0,0,0,,and cleaner vehicles can earn\Ncredits to offset dirtier ones.
+Dialogue: 0,0:03:05.18,0:03:08.05,Doc,,0,0,0,,But fifty dollars per gram\Nis the number to remember.
+Dialogue: 0,0:03:08.10,0:03:09.41,Doc,,0,0,0,,Let's take a real example.
+Dialogue: 0,0:03:09.46,0:03:14.97,Doc,,0,0,0,,CarsGuide reports that the HiLux SR5\Nwith Toyota's V-Active mild hybrid diesel
+Dialogue: 0,0:03:15.02,0:03:18.05,Doc,,0,0,0,,is claimed at 191 grams per kilometre.
+Dialogue: 0,0:03:18.10,0:03:21.37,Doc,,0,0,0,,That's already above\Nthe 2026 limit of 180.
+Dialogue: 0,0:03:21.42,0:03:26.63,Doc,,0,0,0,,CarsGuide estimated the penalty for\Na HiLux like that at around $550 per
+Dialogue: 0,0:03:26.68,0:03:28.65,Doc,,0,0,0,,vehicle in 2026.
+Dialogue: 0,0:03:28.70,0:03:32.41,Doc,,0,0,0,,Now, here's a rough calculation of\Nmy own and it's only an illustration,
+Dialogue: 0,0:03:32.46,0:03:33.73,Doc,,0,0,0,,not an official figure.
+Dialogue: 0,0:03:33.78,0:03:37.11,Doc,,0,0,0,,In 2027, the limit drops to 150.
+Dialogue: 0,0:03:37.16,0:03:41.15,Doc,,0,0,0,,A ute at 191 grams would\Nthen be 41 grams over.
+Dialogue: 0,0:03:41.20,0:03:42.97,Doc,,0,0,0,,At fifty dollars a gram,
+Dialogue: 0,0:03:43.02,0:03:46.53,Doc,,0,0,0,,that's around two thousand dollars\Nper vehicle, before any credits.
+Dialogue: 0,0:03:46.58,0:03:49.71,Doc,,0,0,0,,And by 2029, when the target is 110,
+Dialogue: 0,0:03:49.76,0:03:53.71,Doc,,0,0,0,,the same ute would be about eighty grams\Nover roughly four thousand dollars.
+Dialogue: 0,0:03:53.76,0:03:58.51,Doc,,0,0,0,,In January 2026, carsales ran its\Nown theoretical numbers for Ford.
+Dialogue: 0,0:03:58.56,0:04:02.33,Doc,,0,0,0,,It estimated the combined penalty for\Nthe Ranger and Everest could work out at
+Dialogue: 0,0:04:02.38,0:04:07.89,Doc,,0,0,0,,around $3,706 per vehicle if it was\Npassed straight on to buyers and that
+Dialogue: 0,0:04:07.94,0:04:12.55,Doc,,0,0,0,,Ford's total theoretical bill could be\Nwell over a billion dollars by 2029 if
+Dialogue: 0,0:04:12.60,0:04:14.20,Doc,,0,0,0,,its sales mix didn't change.
+Dialogue: 0,0:04:14.25,0:04:16.73,Doc,,0,0,0,,Carsales was clear that\Nthese were assumptions,
+Dialogue: 0,0:04:16.78,0:04:19.97,Doc,,0,0,0,,not predictions, because car\Nmakers will change what they sell.
+Dialogue: 0,0:04:20.02,0:04:21.82,Doc,,0,0,0,,But it shows the scale of the problem.
+Dialogue: 0,0:04:22.57,0:04:23.54,Doc,,0,0,0,,So who pays?
+Dialogue: 0,0:04:23.59,0:04:24.92,Doc,,0,0,0,,That's the big question.
+Dialogue: 0,0:04:24.97,0:04:26.32,Doc,,0,0,0,,Think of it like a seesaw.
+Dialogue: 0,0:04:26.37,0:04:30.96,Doc,,0,0,0,,On one side, every vehicle a brand sells\Nthat's below the target adds credits.
+Dialogue: 0,0:04:31.01,0:04:34.68,Doc,,0,0,0,,On the other side, every vehicle\Nabove the target adds penalties.
+Dialogue: 0,0:04:34.73,0:04:38.52,Doc,,0,0,0,,A brand that sells lots of hybrids and\NEVs can balance out a lot of diesel
+Dialogue: 0,0:04:38.57,0:04:39.36,Doc,,0,0,0,,utes.
+Dialogue: 0,0:04:39.41,0:04:42.78,Doc,,0,0,0,,A brand that sells almost nothing but\Ndiesel utes has nothing on the other
+Dialogue: 0,0:04:42.83,0:04:43.74,Doc,,0,0,0,,side of the seesaw.
+Dialogue: 0,0:04:43.79,0:04:45.72,Doc,,0,0,0,,Car makers have a few options.
+Dialogue: 0,0:04:45.77,0:04:49.16,Doc,,0,0,0,,They can sell more hybrids and\Nelectric vehicles to earn credits.
+Dialogue: 0,0:04:49.21,0:04:51.46,Doc,,0,0,0,,They can buy credits from other\Nbrands that have too many.
+Dialogue: 0,0:04:51.51,0:04:55.20,Doc,,0,0,0,,Or they can pay the penalty and\Npotentially pass some of that cost on to
+Dialogue: 0,0:04:55.25,0:04:55.96,Doc,,0,0,0,,buyers.
+Dialogue: 0,0:04:56.01,0:04:58.32,Doc,,0,0,0,,We already know who's\Nahead and who's behind.
+Dialogue: 0,0:04:58.37,0:05:02.02,Doc,,0,0,0,,In February 2026, NRMA\Nreported the first results,
+Dialogue: 0,0:05:02.07,0:05:04.38,Doc,,0,0,0,,for the second half of 2025.
+Dialogue: 0,0:05:04.43,0:05:05.70,Doc,,0,0,0,,On the penalty side,
+Dialogue: 0,0:05:05.75,0:05:09.22,Doc,,0,0,0,,Mazda's liability was\Naround $25.4 million,
+Dialogue: 0,0:05:09.27,0:05:11.78,Doc,,0,0,0,,Nissan's around $10.7 million,
+Dialogue: 0,0:05:11.83,0:05:16.28,Doc,,0,0,0,,Subaru's almost $7 million and\NHyundai's about $4.2 million.
+Dialogue: 0,0:05:16.33,0:05:17.62,Doc,,0,0,0,,On the credit side,
+Dialogue: 0,0:05:17.67,0:05:19.42,Doc,,0,0,0,,BYD had more than six million credits,
+Dialogue: 0,0:05:19.47,0:05:24.26,Doc,,0,0,0,,Toyota nearly 2.9 million and\NTesla more than 2.2 million.
+Dialogue: 0,0:05:24.31,0:05:26.20,Doc,,0,0,0,,Toyota is in an interesting position.
+Dialogue: 0,0:05:26.25,0:05:27.68,Doc,,0,0,0,,Overall, it's earning credits,
+Dialogue: 0,0:05:27.73,0:05:31.38,Doc,,0,0,0,,thanks to all those hybrid\NRAV4s, Corollas and Camrys.
+Dialogue: 0,0:05:31.43,0:05:34.54,Doc,,0,0,0,,But its utes and big four-wheel\Ndrives are a different story.
+Dialogue: 0,0:05:34.59,0:05:36.64,Doc,,0,0,0,,And under the 2027 targets,
+Dialogue: 0,0:05:36.69,0:05:39.98,Doc,,0,0,0,,even Toyota's hybrid success may not\Nbe enough to cover the gap on the
+Dialogue: 0,0:05:40.03,0:05:40.94,Doc,,0,0,0,,commercial side.
+Dialogue: 0,0:05:40.99,0:05:44.96,Doc,,0,0,0,,That's why Pappas said Toyota hasn't\Nruled out buying credits from rivals but
+Dialogue: 0,0:05:45.01,0:05:47.84,Doc,,0,0,0,,that the company wants to be\N"self-managed as much as possible".
+Dialogue: 0,0:05:47.89,0:05:52.62,Doc,,0,0,0,,And it's why Toyota says it will use\Nthe government's review of the NVES to
+Dialogue: 0,0:05:52.67,0:05:55.35,Doc,,0,0,0,,push for what it calls a\Nmore "pragmatic" ute target.
+Dialogue: 0,0:05:55.40,0:05:57.26,Doc,,0,0,0,,And Toyota isn't alone.
+Dialogue: 0,0:05:57.31,0:05:58.29,Doc,,0,0,0,,According to CarExpert,
+Dialogue: 0,0:05:58.34,0:06:02.76,Doc,,0,0,0,,the NVES has already contributed to price\Nincreases on the Ford Ranger and the
+Dialogue: 0,0:06:02.81,0:06:04.28,Doc,,0,0,0,,petrol Ford Mustang.
+Dialogue: 0,0:06:04.33,0:06:09.30,Doc,,0,0,0,,And Mazda, Isuzu and Ram have also\Nwarned of higher prices under the scheme.
+Dialogue: 0,0:06:09.35,0:06:11.60,Doc,,0,0,0,,Isuzu is in a particularly tough spot.
+Dialogue: 0,0:06:11.65,0:06:14.78,Doc,,0,0,0,,Its whole local range is\Nthe diesel D-Max and MU-X.
+Dialogue: 0,0:06:14.83,0:06:18.98,Doc,,0,0,0,,Back in 2025, Isuzu's\NAustralian managing director,
+Dialogue: 0,0:06:19.03,0:06:22.22,Doc,,0,0,0,,Junta Matsui, said the company\Nwould find a way to survive,
+Dialogue: 0,0:06:22.27,0:06:26.04,Doc,,0,0,0,,balancing what Australians need from\Na vehicle with the emissions targets.
+Dialogue: 0,0:06:26.09,0:06:30.60,Doc,,0,0,0,,Isuzu has studied a mild hybrid, a\Nsmaller diesel and an electric version.
+Dialogue: 0,0:06:30.65,0:06:31.98,Doc,,0,0,0,,But in 2026,
+Dialogue: 0,0:06:32.03,0:06:35.16,Doc,,0,0,0,,it cancelled its plans to bring\Nthe electric D-Max to Australia,
+Dialogue: 0,0:06:35.21,0:06:37.68,Doc,,0,0,0,,with Isuzu's Rod Caldwell saying simply:
+Dialogue: 0,0:06:37.73,0:06:40.70,Doc,,0,0,0,,"Customers don't want it."\NOne more thing worth knowing:
+Dialogue: 0,0:06:40.75,0:06:42.30,Doc,,0,0,0,,the first actual penalty bills,
+Dialogue: 0,0:06:42.35,0:06:47.45,Doc,,0,0,0,,for vehicles sold in 2025, aren't due\Nto be determined until February 2028.
+Dialogue: 0,0:06:47.50,0:06:50.40,Doc,,0,0,0,,Car makers have time to\Ntrade credits before then.
+Dialogue: 0,0:06:50.45,0:06:53.71,Doc,,0,0,0,,So nobody knows yet exactly how\Nmuch will be passed on to buyers.
+Dialogue: 0,0:06:54.64,0:06:57.35,Doc,,0,0,0,,There's another change on the way\Nthat could affect some of Australia's
+Dialogue: 0,0:06:57.40,0:06:58.87,Doc,,0,0,0,,toughest vehicles.
+Dialogue: 0,0:06:58.92,0:06:59.66,Doc,,0,0,0,,According to CarsGuide,
+Dialogue: 0,0:06:59.71,0:07:04.39,Doc,,0,0,0,,a draft change could bring vehicles\Nwith a gross vehicle mass between 3,500
+Dialogue: 0,0:07:04.44,0:07:11.43,Doc,,0,0,0,,and 3,855 kilograms into the\NNVES from the 1st of July 2027.
+Dialogue: 0,0:07:11.48,0:07:14.49,Doc,,0,0,0,,Right now, heavier vehicles\Nsit outside the scheme.
+Dialogue: 0,0:07:14.54,0:07:15.55,Doc,,0,0,0,,Why does that matter?
+Dialogue: 0,0:07:15.60,0:07:19.10,Doc,,0,0,0,,Because some popular heavy-duty\Nvehicles sit right in that band.
+Dialogue: 0,0:07:19.15,0:07:22.01,Doc,,0,0,0,,CarsGuide named the LandCruiser 70 Series,
+Dialogue: 0,0:07:22.06,0:07:24.83,Doc,,0,0,0,,with a GVM of 3,510 kilograms,
+Dialogue: 0,0:07:24.88,0:07:29.45,Doc,,0,0,0,,and the Toyota Tundra, at 3,536 kilograms.
+Dialogue: 0,0:07:29.50,0:07:32.65,Doc,,0,0,0,,Both would be pulled into the emissions\Nscheme if that draft change goes
+Dialogue: 0,0:07:32.70,0:07:33.27,Doc,,0,0,0,,ahead.
+Dialogue: 0,0:07:33.32,0:07:35.53,Doc,,0,0,0,,And this fight over utes isn't new.
+Dialogue: 0,0:07:35.58,0:07:39.09,Doc,,0,0,0,,Back in 2024, before the NVES became law,
+Dialogue: 0,0:07:39.14,0:07:42.71,Doc,,0,0,0,,the Housing Industry Association warned\Nthat "applying stringent efficiency
+Dialogue: 0,0:07:42.76,0:07:46.59,Doc,,0,0,0,,standards with harsh penalties will\Nsubstantially drive up the price" of utes
+Dialogue: 0,0:07:46.64,0:07:47.53,Doc,,0,0,0,,and vans.
+Dialogue: 0,0:07:47.58,0:07:48.53,Doc,,0,0,0,,At the time,
+Dialogue: 0,0:07:48.58,0:07:51.93,Doc,,0,0,0,,the government's consultation paper\Nclaimed compliance would cost manufacturers
+Dialogue: 0,0:07:51.98,0:07:55.05,Doc,,0,0,0,,about $190 per ute or van.
+Dialogue: 0,0:07:55.10,0:07:58.45,Doc,,0,0,0,,Two years later, we're about to find\Nout who was closer to the truth.
+Dialogue: 0,0:07:58.50,0:07:59.73,Doc,,0,0,0,,It's still a draft.
+Dialogue: 0,0:07:59.78,0:08:00.83,Doc,,0,0,0,,But if you're a farmer,
+Dialogue: 0,0:08:00.88,0:08:04.41,Doc,,0,0,0,,a miner or a serious tourer\Nlooking at a LandCruiser 70,
+Dialogue: 0,0:08:04.46,0:08:06.98,Doc,,0,0,0,,it's something to keep an eye on in 2027.
+Dialogue: 0,0:08:07.84,0:08:10.61,Doc,,0,0,0,,Quick pause before we look\Nat what you can actually buy.
+Dialogue: 0,0:08:10.66,0:08:12.17,Doc,,0,0,0,,Do you drive a diesel ute?
+Dialogue: 0,0:08:12.22,0:08:15.79,Doc,,0,0,0,,Would you switch to a hybrid or electric\Nute if the price was right or would
+Dialogue: 0,0:08:15.84,0:08:17.15,Doc,,0,0,0,,you never give up diesel?
+Dialogue: 0,0:08:17.20,0:08:18.27,Doc,,0,0,0,,Tell me in the comments.
+Dialogue: 0,0:08:18.32,0:08:19.35,Doc,,0,0,0,,I read them all.
+Dialogue: 0,0:08:19.40,0:08:20.37,Doc,,0,0,0,,And if you want honest,
+Dialogue: 0,0:08:20.42,0:08:24.19,Doc,,0,0,0,,fact-checked videos about what's\Ncoming for Aussie drivers in 2027,
+Dialogue: 0,0:08:24.24,0:08:25.11,Doc,,0,0,0,,hit subscribe.
+Dialogue: 0,0:08:25.16,0:08:26.82,Doc,,0,0,0,,It's free and it really helps.
+Dialogue: 0,0:08:27.59,0:08:29.60,Doc,,0,0,0,,So how big is the diesel ute problem?
+Dialogue: 0,0:08:29.65,0:08:30.63,Doc,,0,0,0,,Let's look at the numbers.
+Dialogue: 0,0:08:30.68,0:08:35.15,Doc,,0,0,0,,According to September 2026\Nsales data reported by carsales,
+Dialogue: 0,0:08:35.20,0:08:41.42,Doc,,0,0,0,,Australians bought 184,328 light commercial\Nvehicles in the first nine months
+Dialogue: 0,0:08:41.47,0:08:42.98,Doc,,0,0,0,,of 2026.
+Dialogue: 0,0:08:43.03,0:08:47.20,Doc,,0,0,0,,155,040 of them were diesel\Nthat's about eighty-four per cent.
+Dialogue: 0,0:08:47.25,0:08:49.04,Doc,,0,0,0,,Electric light commercials?
+Dialogue: 0,0:08:49.09,0:08:51.16,Doc,,0,0,0,,Just 1,630.
+Dialogue: 0,0:08:51.21,0:08:53.62,Doc,,0,0,0,,The 4x4 ute market is also shrinking.
+Dialogue: 0,0:08:53.67,0:08:58.38,Doc,,0,0,0,,It was down 13.6 per\Ncent, to 140,410 sales.
+Dialogue: 0,0:08:58.43,0:09:02.98,Doc,,0,0,0,,The Ford Ranger 4x4 led with 35,744,
+Dialogue: 0,0:09:03.03,0:09:07.92,Doc,,0,0,0,,ahead of the HiLux 4x4 on 32,238,
+Dialogue: 0,0:09:07.97,0:09:09.54,Doc,,0,0,0,,which was down 6.2 per cent.
+Dialogue: 0,0:09:09.59,0:09:12.54,Doc,,0,0,0,,And Toyota points out who's\Nbuying these vehicles.
+Dialogue: 0,0:09:12.59,0:09:16.30,Doc,,0,0,0,,Nearly fifty-four per cent of HiLux and\NLandCruiser buyers live outside major
+Dialogue: 0,0:09:16.35,0:09:17.24,Doc,,0,0,0,,cities.
+Dialogue: 0,0:09:17.29,0:09:19.72,Doc,,0,0,0,,Pappas argues that for\Nregional and rural Australians,
+Dialogue: 0,0:09:19.77,0:09:22.12,Doc,,0,0,0,,with long distances and limited charging,
+Dialogue: 0,0:09:22.17,0:09:24.76,Doc,,0,0,0,,diesel is still the practical choice.
+Dialogue: 0,0:09:24.81,0:09:27.63,Doc,,0,0,0,,That's the heart of Toyota's\Nargument for a softer target.
+Dialogue: 0,0:09:27.68,0:09:29.98,Doc,,0,0,0,,Meanwhile, the wider\Nmarket is changing fast.
+Dialogue: 0,0:09:30.03,0:09:33.90,Doc,,0,0,0,,The Australian Automobile Association\Nreported that battery electric and
+Dialogue: 0,0:09:33.95,0:09:39.04,Doc,,0,0,0,,plug-in hybrid vehicles made up 31.61\Nper cent of new light vehicle sales in
+Dialogue: 0,0:09:39.09,0:09:44.98,Doc,,0,0,0,,the June quarter of 2026 up from\N19.07 per cent in the March quarter.
+Dialogue: 0,0:09:45.03,0:09:47.16,Doc,,0,0,0,,Passenger cars are going electric quickly.
+Dialogue: 0,0:09:47.21,0:09:51.24,Doc,,0,0,0,,In fact, CarExpert reported that\Nelectric vehicles outsold both petrol and
+Dialogue: 0,0:09:51.29,0:09:54.90,Doc,,0,0,0,,diesel vehicles in August\Nand September 2026.
+Dialogue: 0,0:09:54.95,0:09:57.86,Doc,,0,0,0,,Utes are the part of the\Nmarket that's furthest behind.
+Dialogue: 0,0:09:57.91,0:09:59.24,Doc,,0,0,0,,To be fair to Toyota,
+Dialogue: 0,0:09:59.29,0:10:03.36,Doc,,0,0,0,,it says it supports the NVES and\Nwants it to be "fair and equitable".
+Dialogue: 0,0:10:03.41,0:10:06.46,Doc,,0,0,0,,It points out it has spent more\Nthan twenty years selling hybrids,
+Dialogue: 0,0:10:06.51,0:10:09.94,Doc,,0,0,0,,and that its strategy is what\Nit calls "multi-pathway" hybrid,
+Dialogue: 0,0:10:09.99,0:10:14.44,Doc,,0,0,0,,petrol, diesel, electric and eventually\Nhydrogen, depending on the market.
+Dialogue: 0,0:10:14.49,0:10:18.00,Doc,,0,0,0,,Pappas described diesel as "the right\Ntool of trade for regional and rural
+Dialogue: 0,0:10:18.05,0:10:18.44,Doc,,0,0,0,,Australia".
+Dialogue: 0,0:10:18.49,0:10:21.50,Doc,,0,0,0,,The argument isn't really\Nabout whether to cut emissions.
+Dialogue: 0,0:10:21.55,0:10:24.31,Doc,,0,0,0,,It's about how fast utes\Ncan realistically get there.
+Dialogue: 0,0:10:25.02,0:10:26.51,Doc,,0,0,0,,So what are the alternatives?
+Dialogue: 0,0:10:26.56,0:10:30.09,Doc,,0,0,0,,If diesel utes get more\Nexpensive, what else is there?
+Dialogue: 0,0:10:30.14,0:10:35.13,Doc,,0,0,0,,In May 2026, CarExpert listed every\Nelectrified ute on sale in Australia.
+Dialogue: 0,0:10:35.18,0:10:38.49,Doc,,0,0,0,,The cheapest was the GWM\NCannon Alpha plug-in hybrid,
+Dialogue: 0,0:10:38.54,0:10:43.29,Doc,,0,0,0,,from around $57,490\Ndrive-away in New South Wales.
+Dialogue: 0,0:10:43.34,0:10:47.01,Doc,,0,0,0,,Then the Ford Ranger plug-in\Nhybrid from around $59,000.
+Dialogue: 0,0:10:47.06,0:10:50.71,Doc,,0,0,0,,The KGM Musso EV from around $60,000.
+Dialogue: 0,0:10:50.76,0:10:55.17,Doc,,0,0,0,,The BYD Shark 6 from around $62,660.
+Dialogue: 0,0:10:55.22,0:11:00.23,Doc,,0,0,0,,The Deepal E07 electric\Nfrom around $70,137.
+Dialogue: 0,0:11:00.28,0:11:04.89,Doc,,0,0,0,,And the Toyota HiLux\Nelectric from around $82,752.
+Dialogue: 0,0:11:04.94,0:11:08.29,Doc,,0,0,0,,The fuel crisis has changed\Nthe maths for a lot of buyers.
+Dialogue: 0,0:11:08.34,0:11:09.93,Doc,,0,0,0,,In May 2026,
+Dialogue: 0,0:11:09.98,0:11:14.23,Doc,,0,0,0,,diesel reached as high as $3.50 a\Nlitre in some parts of Australia,
+Dialogue: 0,0:11:14.28,0:11:15.09,Doc,,0,0,0,,according to CarExpert.
+Dialogue: 0,0:11:15.14,0:11:19.55,Doc,,0,0,0,,Filling an 80-litre Ranger\Ntank could cost up to $280.
+Dialogue: 0,0:11:19.60,0:11:23.45,Doc,,0,0,0,,Ford cut the price of the Ranger plug-in\Nhybrid by up to ten thousand dollars,
+Dialogue: 0,0:11:23.50,0:11:28.29,Doc,,0,0,0,,and the Wildtrak hybrid dropped to\N$70,000 drive-away and dealer stock was
+Dialogue: 0,0:11:28.34,0:11:30.97,Doc,,0,0,0,,soon "all but exhausted",\Naccording to Ford.
+Dialogue: 0,0:11:31.02,0:11:32.71,Doc,,0,0,0,,As a Ford spokesperson put it:
+Dialogue: 0,0:11:32.76,0:11:36.53,Doc,,0,0,0,,"Australian buyers are doing the\Nmaths." And a price war has started in
+Dialogue: 0,0:11:36.58,0:11:37.95,Doc,,0,0,0,,plug-in hybrid utes.
+Dialogue: 0,0:11:38.00,0:11:39.57,Doc,,0,0,0,,In May 2026,
+Dialogue: 0,0:11:39.62,0:11:43.37,Doc,,0,0,0,,CarsGuide reported that Ford had cut\Nolder Ranger plug-in hybrids to a
+Dialogue: 0,0:11:43.42,0:11:50.03,Doc,,0,0,0,,recommended $62,000 drive-away,\Ndown from a $71,990 sticker price.
+Dialogue: 0,0:11:50.08,0:11:53.94,Doc,,0,0,0,,The new JAC Hunter plug-in hybrid was\Ntargeting less than fifty thousand
+Dialogue: 0,0:11:53.99,0:11:54.81,Doc,,0,0,0,,dollars drive-away.
+Dialogue: 0,0:11:54.86,0:12:01.45,Doc,,0,0,0,,And Toyota's own 48-volt mild hybrid\Ndiesel HiLux starts from $57,990 before
+Dialogue: 0,0:12:01.50,0:12:03.09,Doc,,0,0,0,,on-road costs.
+Dialogue: 0,0:12:03.14,0:12:04.03,Doc,,0,0,0,,More are on the way.
+Dialogue: 0,0:12:04.08,0:12:07.89,Doc,,0,0,0,,Chery has a diesel-electric\Nute due before the end of 2026,
+Dialogue: 0,0:12:07.94,0:12:11.43,Doc,,0,0,0,,with a petrol-electric\Nversion expected in 2027.
+Dialogue: 0,0:12:11.48,0:12:15.17,Doc,,0,0,0,,GWM plans a plug-in hybrid\Nversion of its smaller Cannon ute.
+Dialogue: 0,0:12:15.22,0:12:19.47,Doc,,0,0,0,,And Nissan's next-generation Navara is\Nset to use Mitsubishi's plug-in hybrid
+Dialogue: 0,0:12:19.52,0:12:20.49,Doc,,0,0,0,,technology.
+Dialogue: 0,0:12:20.54,0:12:25.25,Doc,,0,0,0,,By 2027, ute buyers will have more\Nelectrified choices than ever before.
+Dialogue: 0,0:12:25.30,0:12:27.59,Doc,,0,0,0,,And Toyota itself sells an electric HiLux,
+Dialogue: 0,0:12:27.64,0:12:33.69,Doc,,0,0,0,,from $74,990 to $82,990 before on-road
+Dialogue: 0,0:12:33.74,0:12:34.15,Doc,,0,0,0,,costs.
+Dialogue: 0,0:12:34.20,0:12:41.19,Doc,,0,0,0,,For comparison, the diesel HiLux\N4x4 range runs from $45,990 to
+Dialogue: 0,0:12:41.24,0:12:44.71,Doc,,0,0,0,,$71,990 before on-road costs.
+Dialogue: 0,0:12:44.76,0:12:48.17,Doc,,0,0,0,,So right now, the electric version\Nis still a lot more expensive.
+Dialogue: 0,0:12:48.22,0:12:50.09,Doc,,0,0,0,,That's the squeeze in a nutshell.
+Dialogue: 0,0:12:50.14,0:12:52.51,Doc,,0,0,0,,Diesel utes face rising penalties.
+Dialogue: 0,0:12:52.56,0:12:54.23,Doc,,0,0,0,,Electrified utes are getting cheaper,
+Dialogue: 0,0:12:54.28,0:12:56.47,Doc,,0,0,0,,but most are still more\Nexpensive up front,
+Dialogue: 0,0:12:56.52,0:12:59.89,Doc,,0,0,0,,and they don't suit everyone especially\Nfor heavy towing and long outback
+Dialogue: 0,0:12:59.94,0:13:00.74,Doc,,0,0,0,,trips.
+Dialogue: 0,0:13:01.29,0:13:02.78,Doc,,0,0,0,,And then there's the politics.
+Dialogue: 0,0:13:02.83,0:13:05.76,Doc,,0,0,0,,Because the future of\Nthese rules isn't settled.
+Dialogue: 0,0:13:05.81,0:13:07.72,Doc,,0,0,0,,On the 29th of September 2026,
+Dialogue: 0,0:13:07.77,0:13:12.24,Doc,,0,0,0,,the federal Coalition pledged to\Nrepeal the NVES if it wins government.
+Dialogue: 0,0:13:12.29,0:13:16.94,Doc,,0,0,0,,Shadow energy minister Dan Tehan\Ncalled it a "family car and ute tax",
+Dialogue: 0,0:13:16.99,0:13:20.20,Doc,,0,0,0,,and said a repeal bill would be\Nintroduced within thirty days of taking
+Dialogue: 0,0:13:20.25,0:13:21.06,Doc,,0,0,0,,office.
+Dialogue: 0,0:13:21.11,0:13:24.84,Doc,,0,0,0,,The Coalition argues the rules have\Naffected vehicle prices and choice,
+Dialogue: 0,0:13:24.89,0:13:28.70,Doc,,0,0,0,,but carsales noted it hasn't put a\Nfigure on how much repeal would reduce
+Dialogue: 0,0:13:28.75,0:13:30.02,Doc,,0,0,0,,showroom prices.
+Dialogue: 0,0:13:30.07,0:13:32.65,Doc,,0,0,0,,Supporters of the NVES\Nsee it very differently.
+Dialogue: 0,0:13:32.70,0:13:36.48,Doc,,0,0,0,,The Climate Council argued that\Nscrapping it would limit access to more
+Dialogue: 0,0:13:36.53,0:13:40.13,Doc,,0,0,0,,efficient vehicles and increase\NAustralia's reliance on imported oil.
+Dialogue: 0,0:13:40.18,0:13:43.74,Doc,,0,0,0,,Farmers for Climate Action said\Nrepeal could reduce future choices for
+Dialogue: 0,0:13:43.79,0:13:45.96,Doc,,0,0,0,,farmers, including electric utes.
+Dialogue: 0,0:13:46.01,0:13:47.38,Doc,,0,0,0,,And the car industry?
+Dialogue: 0,0:13:47.43,0:13:49.62,Doc,,0,0,0,,The Federal Chamber of\NAutomotive Industries,
+Dialogue: 0,0:13:49.67,0:13:51.16,Doc,,0,0,0,,which represents car makers,
+Dialogue: 0,0:13:51.21,0:13:52.36,Doc,,0,0,0,,said it needs "stable,
+Dialogue: 0,0:13:52.41,0:13:55.98,Doc,,0,0,0,,predictable and workable policy settings"\Nbecause vehicle decisions are made
+Dialogue: 0,0:13:56.03,0:13:57.20,Doc,,0,0,0,,years in advance.
+Dialogue: 0,0:13:57.25,0:14:00.02,Doc,,0,0,0,,So right now, the NVES is law,
+Dialogue: 0,0:14:00.07,0:14:02.94,Doc,,0,0,0,,it's under review, and the\Nopposition wants to scrap it.
+Dialogue: 0,0:14:02.99,0:14:05.54,Doc,,0,0,0,,For ute buyers, that means uncertainty.
+Dialogue: 0,0:14:05.59,0:14:09.30,Doc,,0,0,0,,Prices could rise in 2027 if\Nthe targets stay as they are.
+Dialogue: 0,0:14:09.35,0:14:11.54,Doc,,0,0,0,,The targets could be\Nsoftened by the review.
+Dialogue: 0,0:14:11.59,0:14:15.42,Doc,,0,0,0,,Or the whole scheme could be repealed\Nafter the next federal election.
+Dialogue: 0,0:14:15.47,0:14:17.65,Doc,,0,0,0,,Nobody can tell you for\Nsure which way it'll go.
+Dialogue: 0,0:14:18.85,0:14:21.80,Doc,,0,0,0,,So, what does all this mean if\Nyou're planning to buy a ute?
+Dialogue: 0,0:14:21.85,0:14:25.88,Doc,,0,0,0,,First, nobody has announced\Na 2027 price rise yet.
+Dialogue: 0,0:14:25.93,0:14:28.54,Doc,,0,0,0,,Toyota said it "cannot\Nrule out" increases.
+Dialogue: 0,0:14:28.59,0:14:30.78,Doc,,0,0,0,,That's a warning, not a price list.
+Dialogue: 0,0:14:30.83,0:14:33.02,Doc,,0,0,0,,Don't panic-buy because of a headline.
+Dialogue: 0,0:14:33.07,0:14:36.32,Doc,,0,0,0,,Second, if you were already planning\Nto buy a diesel ute in the next few
+Dialogue: 0,0:14:36.37,0:14:40.78,Doc,,0,0,0,,months, it's worth knowing that 2026\Nrunout stock and year-end deals are on
+Dialogue: 0,0:14:40.83,0:14:42.04,Doc,,0,0,0,,the table right now.
+Dialogue: 0,0:14:42.09,0:14:44.32,Doc,,0,0,0,,If the price is right\Nand the ute suits you,
+Dialogue: 0,0:14:44.37,0:14:46.52,Doc,,0,0,0,,there's no reason to wait for\Nthings to get more expensive.
+Dialogue: 0,0:14:46.57,0:14:49.66,Doc,,0,0,0,,Third, work out your real costs.
+Dialogue: 0,0:14:49.71,0:14:52.50,Doc,,0,0,0,,With diesel prices where\Nthey've been in 2026,
+Dialogue: 0,0:14:52.55,0:14:56.40,Doc,,0,0,0,,a plug-in hybrid ute can save a lot on\Nfuel if you do lots of short trips and
+Dialogue: 0,0:14:56.45,0:14:57.54,Doc,,0,0,0,,charge at home.
+Dialogue: 0,0:14:57.59,0:14:59.86,Doc,,0,0,0,,But if you tow heavy loads long distances,
+Dialogue: 0,0:14:59.91,0:15:03.80,Doc,,0,0,0,,check the real-world range and towing\Nfigures very carefully before switching.
+Dialogue: 0,0:15:03.85,0:15:07.68,Doc,,0,0,0,,And if you're thinking about a plug-in\Nhybrid ute through a novated lease,
+Dialogue: 0,0:15:07.73,0:15:11.26,Doc,,0,0,0,,remember that plug-in hybrids lost their\Nfringe benefits tax exemption on the
+Dialogue: 0,0:15:11.31,0:15:13.56,Doc,,0,0,0,,1st of April 2025.
+Dialogue: 0,0:15:13.61,0:15:17.94,Doc,,0,0,0,,Only fully electric vehicles still qualify\Nand as we'll see in the next video,
+Dialogue: 0,0:15:17.99,0:15:20.30,Doc,,0,0,0,,even that changes in 2027.
+Dialogue: 0,0:15:20.35,0:15:21.70,Doc,,0,0,0,,If towing is your priority,
+Dialogue: 0,0:15:21.75,0:15:24.80,Doc,,0,0,0,,compare the braked towing\Ncapacity, not just the price.
+Dialogue: 0,0:15:24.85,0:15:29.46,Doc,,0,0,0,,Some electrified utes now match diesel\Non paper the MG U9 electric ute,
+Dialogue: 0,0:15:29.51,0:15:33.32,Doc,,0,0,0,,for example, claims 3,500\Nkilograms of braked towing.
+Dialogue: 0,0:15:33.37,0:15:35.28,Doc,,0,0,0,,But range drops a lot when you tow,
+Dialogue: 0,0:15:35.33,0:15:38.08,Doc,,0,0,0,,so look for real-world\Ntests before you commit.
+Dialogue: 0,0:15:38.13,0:15:40.26,Doc,,0,0,0,,Fourth, think about resale.
+Dialogue: 0,0:15:40.31,0:15:42.04,Doc,,0,0,0,,If emissions rules keep tightening,
+Dialogue: 0,0:15:42.09,0:15:45.22,Doc,,0,0,0,,the value of different types of utes\Ncould change over the next few years.
+Dialogue: 0,0:15:45.27,0:15:47.24,Doc,,0,0,0,,Nobody knows exactly how.
+Dialogue: 0,0:15:47.29,0:15:50.72,Doc,,0,0,0,,But it's worth asking yourself what your\Nute will be worth when you sell it in
+Dialogue: 0,0:15:50.77,0:15:51.50,Doc,,0,0,0,,five years.
+Dialogue: 0,0:15:51.55,0:15:55.74,Doc,,0,0,0,,And fifth, watch the NVES\Nreview and the federal politics.
+Dialogue: 0,0:15:55.79,0:15:56.80,Doc,,0,0,0,,If the targets are softened,
+Dialogue: 0,0:15:56.85,0:16:00.60,Doc,,0,0,0,,or the scheme is repealed, the\Npressure on ute prices could ease.
+Dialogue: 0,0:16:00.65,0:16:04.11,Doc,,0,0,0,,If they stay, 2027 is when\Nthe squeeze really starts.
+Dialogue: 0,0:16:05.00,0:16:08.65,Doc,,0,0,0,,So, will ute prices rise\Nin Australia in 2027?
+Dialogue: 0,0:16:08.70,0:16:10.21,Doc,,0,0,0,,Here's the honest answer.
+Dialogue: 0,0:16:10.26,0:16:13.11,Doc,,0,0,0,,Toyota has openly warned\Nthat it can't rule it out.
+Dialogue: 0,0:16:13.16,0:16:19.09,Doc,,0,0,0,,The targets for utes drop from 180\Ngrams to 150 grams in 2027 one of the
+Dialogue: 0,0:16:19.14,0:16:21.33,Doc,,0,0,0,,biggest single-year jumps in the scheme.
+Dialogue: 0,0:16:21.38,0:16:23.47,Doc,,0,0,0,,Most utes sold in Australia are diesel,
+Dialogue: 0,0:16:23.52,0:16:25.69,Doc,,0,0,0,,and most of them are well above that line.
+Dialogue: 0,0:16:25.74,0:16:29.19,Doc,,0,0,0,,And independent estimates suggest the\Ntheoretical penalties could run into
+Dialogue: 0,0:16:29.24,0:16:31.77,Doc,,0,0,0,,thousands of dollars per vehicle\Nby the end of the decade.
+Dialogue: 0,0:16:31.82,0:16:34.93,Doc,,0,0,0,,And remember, it's not\Nonly Toyota's problem.
+Dialogue: 0,0:16:34.98,0:16:37.35,Doc,,0,0,0,,The Ranger, the D-Max, the Triton,
+Dialogue: 0,0:16:37.40,0:16:41.17,Doc,,0,0,0,,the Navara and the BT-50 are\Nall mostly sold as diesels,
+Dialogue: 0,0:16:41.22,0:16:44.85,Doc,,0,0,0,,and every one of those brands\Nfaces the same 2027 target.
+Dialogue: 0,0:16:44.90,0:16:45.89,Doc,,0,0,0,,But it's not a done deal.
+Dialogue: 0,0:16:45.94,0:16:47.81,Doc,,0,0,0,,Car makers can trade credits,
+Dialogue: 0,0:16:47.86,0:16:50.85,Doc,,0,0,0,,change their model mix, and\Npush more hybrids and plug-ins.
+Dialogue: 0,0:16:50.90,0:16:52.51,Doc,,0,0,0,,The NVES is under review.
+Dialogue: 0,0:16:52.56,0:16:54.93,Doc,,0,0,0,,And the opposition has\Npromised to scrap it.
+Dialogue: 0,0:16:54.98,0:16:56.93,Doc,,0,0,0,,If this helped you\Nunderstand what's coming,
+Dialogue: 0,0:16:56.98,0:17:00.07,Doc,,0,0,0,,hit like and subscribe we're covering\Neverything that changes for Aussie
+Dialogue: 0,0:17:00.12,0:17:02.09,Doc,,0,0,0,,drivers in 2027.
+Dialogue: 0,0:17:02.14,0:17:03.29,Doc,,0,0,0,,Tell me in the comments:
+Dialogue: 0,0:17:03.34,0:17:06.55,Doc,,0,0,0,,would you pay more for a diesel\Nute, or switch to a hybrid?
+Dialogue: 0,0:17:06.60,0:17:07.39,Doc,,0,0,0,,And in the next video,
+Dialogue: 0,0:17:07.44,0:17:11.97,Doc,,0,0,0,,we'll look at the big changes coming for\Nelectric car buyers in 2027 including
+Dialogue: 0,0:17:12.02,0:17:15.19,Doc,,0,0,0,,a tax change that could\Ncost some drivers thousands.
+Dialogue: 0,0:17:15.24,0:17:16.04,Doc,,0,0,0,,See you there.

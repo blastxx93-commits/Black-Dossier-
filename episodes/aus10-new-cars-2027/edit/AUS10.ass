@@ -1,0 +1,363 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Doc,Inter SemiBold,44,&H0000E6FF,&H0000E6FF,&H00000000,&H96000000,0,0,0,0,100,100,0.5,0,1,2.4,1.2,2,200,200,62,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.04,Doc,,0,0,0,,Three hundred kilowatts.
+Dialogue: 0,0:00:01.09,0:00:02.83,Doc,,0,0,0,,Eight hundred newton-metres.
+Dialogue: 0,0:00:02.88,0:00:04.43,Doc,,0,0,0,,Three and a half tonnes of towing.
+Dialogue: 0,0:00:04.48,0:00:05.99,Doc,,0,0,0,,That's not a Ranger Raptor.
+Dialogue: 0,0:00:06.04,0:00:09.77,Doc,,0,0,0,,That's the plug-in hybrid Nissan Navara\Nthat's confirmed for Australia in
+Dialogue: 0,0:00:09.82,0:00:11.15,Doc,,0,0,0,,2027.
+Dialogue: 0,0:00:11.20,0:00:12.37,Doc,,0,0,0,,And it's not alone.
+Dialogue: 0,0:00:12.42,0:00:16.59,Doc,,0,0,0,,A Chinese brand most Aussies have never\Nheard of is bringing a dual-cab ute to
+Dialogue: 0,0:00:16.64,0:00:18.75,Doc,,0,0,0,,take on the Ranger and the HiLux.
+Dialogue: 0,0:00:18.80,0:00:21.35,Doc,,0,0,0,,Hyundai is finally\Nbuilding a ute of its own.
+Dialogue: 0,0:00:21.40,0:00:24.73,Doc,,0,0,0,,Toyota is bringing a cheaper version of\Nthe best-selling plug-in hybrid in the
+Dialogue: 0,0:00:24.78,0:00:25.19,Doc,,0,0,0,,country.
+Dialogue: 0,0:00:25.24,0:00:28.99,Doc,,0,0,0,,And one of the most famous four-wheel\Ndrive names in Australian history is
+Dialogue: 0,0:00:29.04,0:00:30.83,Doc,,0,0,0,,coming back from the dead.
+Dialogue: 0,0:00:30.88,0:00:34.79,Doc,,0,0,0,,2027 is shaping up to be one of the\Nbiggest years for new cars Australia has
+Dialogue: 0,0:00:34.84,0:00:35.79,Doc,,0,0,0,,ever seen.
+Dialogue: 0,0:00:35.84,0:00:39.19,Doc,,0,0,0,,And it's happening at the exact moment\Nthe emissions rules get tougher,
+Dialogue: 0,0:00:39.24,0:00:43.37,Doc,,0,0,0,,fuel prices are high, and Chinese brands\Nare fighting for every single sale.
+Dialogue: 0,0:00:43.42,0:00:44.37,Doc,,0,0,0,,So in this video,
+Dialogue: 0,0:00:44.42,0:00:48.81,Doc,,0,0,0,,I'm counting down ten new cars coming\Nto Australia for 2027 that could shake
+Dialogue: 0,0:00:48.86,0:00:51.41,Doc,,0,0,0,,up the market what they\Nare, when they're due,
+Dialogue: 0,0:00:51.46,0:00:53.79,Doc,,0,0,0,,what we know about the price,\Nand who should be worried.
+Dialogue: 0,0:00:53.84,0:00:55.15,Doc,,0,0,0,,Stay to the end,
+Dialogue: 0,0:00:55.20,0:00:58.98,Doc,,0,0,0,,because number one could change the\Nmost important segment in the country.
+Dialogue: 0,0:00:59.56,0:01:01.49,Doc,,0,0,0,,Quick ground rules before we start.
+Dialogue: 0,0:01:01.54,0:01:04.81,Doc,,0,0,0,,Everything in this list is based on what\Ncar makers have confirmed or told the
+Dialogue: 0,0:01:04.86,0:01:07.89,Doc,,0,0,0,,motoring media, as of October 2026.
+Dialogue: 0,0:01:07.94,0:01:10.33,Doc,,0,0,0,,Some prices are confirmed,\Nsome are estimates,
+Dialogue: 0,0:01:10.38,0:01:11.91,Doc,,0,0,0,,and I'll tell you which is which.
+Dialogue: 0,0:01:11.96,0:01:13.19,Doc,,0,0,0,,Launch dates can slip.
+Dialogue: 0,0:01:13.24,0:01:16.29,Doc,,0,0,0,,So treat this as a guide to\Nwhat's coming, not a promise.
+Dialogue: 0,0:01:16.34,0:01:18.69,Doc,,0,0,0,,And why does 2027 matter so much?
+Dialogue: 0,0:01:18.74,0:01:20.07,Doc,,0,0,0,,Because of the rules.
+Dialogue: 0,0:01:20.12,0:01:22.21,Doc,,0,0,0,,Under the New Vehicle Efficiency Standard,
+Dialogue: 0,0:01:22.26,0:01:26.97,Doc,,0,0,0,,the emissions target for passenger cars\Ndrops from 117 grams per kilometre in
+Dialogue: 0,0:01:27.02,0:01:30.65,Doc,,0,0,0,,2026 to 92 grams in 2027.
+Dialogue: 0,0:01:30.70,0:01:34.75,Doc,,0,0,0,,For utes and vans, it\Ndrops from 180 to 150.
+Dialogue: 0,0:01:34.80,0:01:36.54,Doc,,0,0,0,,Every car maker needs more hybrids,
+Dialogue: 0,0:01:36.59,0:01:39.97,Doc,,0,0,0,,plug-in hybrids and electric\Ncars to stay under those lines.
+Dialogue: 0,0:01:40.02,0:01:43.17,Doc,,0,0,0,,That's why so many of the cars\Non this list are electrified.
+Dialogue: 0,0:01:43.22,0:01:44.91,Doc,,0,0,0,,Car makers aren't just following trends.
+Dialogue: 0,0:01:44.96,0:01:46.33,Doc,,0,0,0,,They're following the law.
+Dialogue: 0,0:01:46.38,0:01:48.33,Doc,,0,0,0,,And look at where the market is right now.
+Dialogue: 0,0:01:48.38,0:01:49.75,Doc,,0,0,0,,According to CarExpert,
+Dialogue: 0,0:01:49.80,0:01:54.11,Doc,,0,0,0,,the three best-selling vehicles in\NAustralia so far in 2026 are the Ford
+Dialogue: 0,0:01:54.16,0:01:57.45,Doc,,0,0,0,,Ranger, the Toyota HiLux\Nand the Tesla Model Y.
+Dialogue: 0,0:01:57.50,0:02:00.31,Doc,,0,0,0,,Two diesel utes and an electric SUV.
+Dialogue: 0,0:02:00.36,0:02:02.73,Doc,,0,0,0,,BYD is the second best-selling brand.
+Dialogue: 0,0:02:02.78,0:02:04.73,Doc,,0,0,0,,And by September 2026,
+Dialogue: 0,0:02:04.78,0:02:08.83,Doc,,0,0,0,,battery electric cars made up more than\Ntwenty-four per cent of new car sales.
+Dialogue: 0,0:02:08.88,0:02:12.79,Doc,,0,0,0,,So the cars coming in 2027 are landing\Nin a market that's already changing
+Dialogue: 0,0:02:12.84,0:02:15.27,Doc,,0,0,0,,faster than at any time in decades.
+Dialogue: 0,0:02:15.32,0:02:16.38,Doc,,0,0,0,,Let's start the countdown.
+Dialogue: 0,0:02:18.11,0:02:19.90,Doc,,0,0,0,,Number ten: the Honda Super-One.
+Dialogue: 0,0:02:19.95,0:02:23.04,Doc,,0,0,0,,This one is small, cheap\Nand a little bit crazy.
+Dialogue: 0,0:02:23.09,0:02:27.42,Doc,,0,0,0,,It's an electric kei-style car a tiny\NJapanese city car with around seventy
+Dialogue: 0,0:02:27.47,0:02:28.32,Doc,,0,0,0,,kilowatts.
+Dialogue: 0,0:02:28.37,0:02:32.68,Doc,,0,0,0,,In June 2026, CarsGuide\Nlisted it as a 2027 model,
+Dialogue: 0,0:02:32.73,0:02:35.86,Doc,,0,0,0,,with an estimated price of around\Nthirty-five thousand dollars.
+Dialogue: 0,0:02:35.91,0:02:38.44,Doc,,0,0,0,,That's an estimate, not a confirmed price.
+Dialogue: 0,0:02:38.49,0:02:39.54,Doc,,0,0,0,,Why does it matter?
+Dialogue: 0,0:02:39.59,0:02:42.30,Doc,,0,0,0,,Because the cheap end of the\Nelectric market has exploded.
+Dialogue: 0,0:02:42.35,0:02:48.44,Doc,,0,0,0,,The BYD Atto 1 started from\N$23,990 before on-road costs
+Dialogue: 0,0:02:48.49,0:02:53.63,Doc,,0,0,0,,in 2026, and CarsGuide counted seven\Nelectric cars available for under forty
+Dialogue: 0,0:02:53.68,0:02:54.94,Doc,,0,0,0,,thousand dollars drive-away.
+Dialogue: 0,0:02:54.99,0:02:58.22,Doc,,0,0,0,,If Honda can bring something fun\Nand well-built into that space,
+Dialogue: 0,0:02:58.27,0:03:01.94,Doc,,0,0,0,,it gives buyers another option that\Nisn't Chinese and it shows how far even
+Dialogue: 0,0:03:01.99,0:03:05.08,Doc,,0,0,0,,the most traditional brands are\Nbeing pushed towards electric.
+Dialogue: 0,0:03:05.13,0:03:07.48,Doc,,0,0,0,,It also says something about\Nwhere the industry is heading.
+Dialogue: 0,0:03:07.53,0:03:11.28,Doc,,0,0,0,,When Honda, one of the most\Nconservative car makers in the world,
+Dialogue: 0,0:03:11.33,0:03:14.64,Doc,,0,0,0,,starts building tiny electric\Ncity cars for markets like ours,
+Dialogue: 0,0:03:14.69,0:03:16.42,Doc,,0,0,0,,you know the shift isn't a fad.
+Dialogue: 0,0:03:16.47,0:03:17.90,Doc,,0,0,0,,It's the new normal.
+Dialogue: 0,0:03:17.95,0:03:20.66,Doc,,0,0,0,,Number nine: the BMW iX3.
+Dialogue: 0,0:03:20.71,0:03:23.82,Doc,,0,0,0,,This is BMW's new-generation electric SUV,
+Dialogue: 0,0:03:23.87,0:03:26.78,Doc,,0,0,0,,and it's important for\None simple reason: price.
+Dialogue: 0,0:03:26.83,0:03:31.66,Doc,,0,0,0,,CarsGuide reported the\NiX3 50 xDrive at $109,900,
+Dialogue: 0,0:03:31.71,0:03:33.90,Doc,,0,0,0,,arriving from July 2026,
+Dialogue: 0,0:03:33.95,0:03:40.44,Doc,,0,0,0,,and the iX3 40 at $89,900 before\Non-road costs, due in the last quarter.
+Dialogue: 0,0:03:40.49,0:03:43.78,Doc,,0,0,0,,That $89,900 price is interesting,
+Dialogue: 0,0:03:43.83,0:03:47.00,Doc,,0,0,0,,because it's just under the luxury\Ncar tax threshold for fuel-efficient
+Dialogue: 0,0:03:47.05,0:03:51.02,Doc,,0,0,0,,vehicles of $91,387.
+Dialogue: 0,0:03:51.07,0:03:56.00,Doc,,0,0,0,,And with a new $120,000 luxury car tax\Nthreshold for zero-emissions vehicles
+Dialogue: 0,0:03:56.05,0:03:57.66,Doc,,0,0,0,,due from July 2027,
+Dialogue: 0,0:03:57.71,0:04:02.06,Doc,,0,0,0,,premium electric SUVs like this could\Nget even more competitive next year.
+Dialogue: 0,0:04:02.11,0:04:06.27,Doc,,0,0,0,,It's a sign that the luxury brands are\Ntaking Australia's EV rules seriously.
+Dialogue: 0,0:04:07.19,0:04:09.98,Doc,,0,0,0,,Number eight: the Mazda CX-6e.
+Dialogue: 0,0:04:10.03,0:04:12.84,Doc,,0,0,0,,Mazda has had a tough time\Nunder the new emissions rules.
+Dialogue: 0,0:04:12.89,0:04:14.68,Doc,,0,0,0,,In the first six months of the scheme,
+Dialogue: 0,0:04:14.73,0:04:20.12,Doc,,0,0,0,,its estimated liability was around\N$25.4 million the biggest of any brand.
+Dialogue: 0,0:04:20.17,0:04:23.18,Doc,,0,0,0,,So Mazda needs electric cars, and fast.
+Dialogue: 0,0:04:23.23,0:04:29.01,Doc,,0,0,0,,The CX-6e is an electric SUV with about\N190 kilowatts and rear-wheel drive.
+Dialogue: 0,0:04:29.06,0:04:33.79,Doc,,0,0,0,,CarsGuide listed it as a 2027 model\Nwith an estimated price of around
+Dialogue: 0,0:04:33.84,0:04:35.18,Doc,,0,0,0,,fifty-four thousand dollars.
+Dialogue: 0,0:04:35.23,0:04:36.46,Doc,,0,0,0,,Again, that's an estimate.
+Dialogue: 0,0:04:36.51,0:04:40.40,Doc,,0,0,0,,But if Mazda can bring its usual\Nquality and style to a properly priced
+Dialogue: 0,0:04:40.45,0:04:44.76,Doc,,0,0,0,,electric SUV, it could finally give loyal\NMazda buyers a reason to go electric
+Dialogue: 0,0:04:44.81,0:04:46.40,Doc,,0,0,0,,without switching brands.
+Dialogue: 0,0:04:46.45,0:04:50.42,Doc,,0,0,0,,For a brand that's built its reputation\Non petrol engines and driving feel,
+Dialogue: 0,0:04:50.47,0:04:52.88,Doc,,0,0,0,,the CX-6e is a big test.
+Dialogue: 0,0:04:52.93,0:04:53.94,Doc,,0,0,0,,If it sells well,
+Dialogue: 0,0:04:53.99,0:04:57.00,Doc,,0,0,0,,it could pull Mazda back into\Ncredit under the emissions rules.
+Dialogue: 0,0:04:57.05,0:05:00.22,Doc,,0,0,0,,If it doesn't, Mazda's penalty\Nbill could keep growing.
+Dialogue: 0,0:05:00.27,0:05:02.98,Doc,,0,0,0,,Number seven: the BYD Atto 3 Evo.
+Dialogue: 0,0:05:03.03,0:05:06.76,Doc,,0,0,0,,The Atto 3 was the car that\Nlaunched BYD in Australia.
+Dialogue: 0,0:05:06.81,0:05:08.86,Doc,,0,0,0,,Now it's getting a major update.
+Dialogue: 0,0:05:08.91,0:05:09.61,Doc,,0,0,0,,According to CarsGuide,
+Dialogue: 0,0:05:09.66,0:05:14.30,Doc,,0,0,0,,the 2027 Atto 3 Evo will come in\Nrear-wheel drive and all-wheel drive,
+Dialogue: 0,0:05:14.35,0:05:17.60,Doc,,0,0,0,,with the flagship producing 330 kilowatts.
+Dialogue: 0,0:05:17.65,0:05:20.30,Doc,,0,0,0,,That's an enormous amount\Nof power for a small SUV.
+Dialogue: 0,0:05:20.35,0:05:22.78,Doc,,0,0,0,,And BYD keeps moving fast.
+Dialogue: 0,0:05:22.83,0:05:26.06,Doc,,0,0,0,,In 2026 alone, it launched\Nthe budget Atto 1,
+Dialogue: 0,0:05:26.11,0:05:30.02,Doc,,0,0,0,,grew its Shark 6 ute into one of the\Nbest-selling 4x4 utes in the country,
+Dialogue: 0,0:05:30.07,0:05:33.96,Doc,,0,0,0,,and built up more than six million credits\Nunder the emissions rules more than
+Dialogue: 0,0:05:34.01,0:05:35.16,Doc,,0,0,0,,any other brand.
+Dialogue: 0,0:05:35.21,0:05:38.30,Doc,,0,0,0,,BYD is already the second\Nbest-selling brand in Australia.
+Dialogue: 0,0:05:38.35,0:05:42.26,Doc,,0,0,0,,In September 2026, it sold 8,191 cars.
+Dialogue: 0,0:05:42.31,0:05:43.86,Doc,,0,0,0,,A much more powerful,
+Dialogue: 0,0:05:43.91,0:05:48.42,Doc,,0,0,0,,updated Atto 3 will put even more\Npressure on the Toyota Corolla Cross,
+Dialogue: 0,0:05:48.47,0:05:51.95,Doc,,0,0,0,,the Mazda CX-30 and every\Nother small SUV in the country.
+Dialogue: 0,0:05:52.80,0:05:55.75,Doc,,0,0,0,,Number six: the Omoda 4 and Omoda 7.
+Dialogue: 0,0:05:55.80,0:05:59.43,Doc,,0,0,0,,Omoda Jaecoo is one of the\Nfastest-growing brands in Australia,
+Dialogue: 0,0:05:59.48,0:06:05.47,Doc,,0,0,0,,and in September 2026 it confirmed two\Nnew SUVs for the first half of 2027.
+Dialogue: 0,0:06:05.52,0:06:09.25,Doc,,0,0,0,,The Omoda 4 is a compact\NSUV aimed at younger buyers.
+Dialogue: 0,0:06:09.30,0:06:13.65,Doc,,0,0,0,,The Omoda 7 is a mid-size SUV\Nthat sits below the Omoda 9.
+Dialogue: 0,0:06:13.70,0:06:16.63,Doc,,0,0,0,,Both will offer what the brand\Ncalls new energy powertrains.
+Dialogue: 0,0:06:16.68,0:06:22.59,Doc,,0,0,0,,Carsales has reported the Omoda 7 plug-in\Nhybrid with around 255 kilowatts and
+Dialogue: 0,0:06:22.64,0:06:27.47,Doc,,0,0,0,,525 newton-metres, with an electric\Nrange of around ninety kilometres on the
+Dialogue: 0,0:06:27.52,0:06:29.01,Doc,,0,0,0,,WLTP cycle.
+Dialogue: 0,0:06:29.06,0:06:31.47,Doc,,0,0,0,,No Australian prices\Nhave been confirmed yet.
+Dialogue: 0,0:06:31.52,0:06:34.59,Doc,,0,0,0,,Omoda Jaecoo Australia's\Nchief commercial officer,
+Dialogue: 0,0:06:34.64,0:06:38.41,Doc,,0,0,0,,Roy Munoz, said "Omoda was created to\Nchallenge convention." And that's the
+Dialogue: 0,0:06:38.46,0:06:39.21,Doc,,0,0,0,,threat.
+Dialogue: 0,0:06:39.26,0:06:42.03,Doc,,0,0,0,,These brands are aiming\Nstraight at the Toyota RAV4,
+Dialogue: 0,0:06:42.08,0:06:44.73,Doc,,0,0,0,,the Mazda CX-5 and the Hyundai Tucson,
+Dialogue: 0,0:06:44.78,0:06:47.23,Doc,,0,0,0,,often with more equipment for less money.
+Dialogue: 0,0:06:47.28,0:06:49.13,Doc,,0,0,0,,Number five: the Mitsubishi Pajero.
+Dialogue: 0,0:06:49.18,0:06:50.97,Doc,,0,0,0,,Yes, it's back.
+Dialogue: 0,0:06:51.02,0:06:54.65,Doc,,0,0,0,,The Pajero was one of the most famous\Nfour-wheel drives in Australian history,
+Dialogue: 0,0:06:54.70,0:06:57.65,Doc,,0,0,0,,and Mitsubishi stopped\Nselling it here in 2021.
+Dialogue: 0,0:06:57.70,0:06:59.83,Doc,,0,0,0,,Now there's an all-new 2027 Pajero,
+Dialogue: 0,0:06:59.88,0:07:05.05,Doc,,0,0,0,,with a body-on-frame design and a\Nnew 2.4-litre turbo-diesel making 150
+Dialogue: 0,0:07:05.10,0:07:07.93,Doc,,0,0,0,,kilowatts and 480 newton-metres,
+Dialogue: 0,0:07:07.98,0:07:11.51,Doc,,0,0,0,,with an eight-speed automatic and\NMitsubishi's Super Select four-wheel-drive
+Dialogue: 0,0:07:11.56,0:07:12.17,Doc,,0,0,0,,system.
+Dialogue: 0,0:07:12.22,0:07:18.33,Doc,,0,0,0,,Carsales reported prices from\N$68,490 for the five-seat GLS,
+Dialogue: 0,0:07:18.38,0:07:23.61,Doc,,0,0,0,,up to $84,990 for the\NGSR, before on-road costs.
+Dialogue: 0,0:07:23.66,0:07:26.71,Doc,,0,0,0,,It's due in showrooms from December 2026,
+Dialogue: 0,0:07:26.76,0:07:29.91,Doc,,0,0,0,,so it'll really hit\NAustralian roads in 2027.
+Dialogue: 0,0:07:29.96,0:07:33.12,Doc,,0,0,0,,Mitsubishi Australia's\NCEO Shunichi Kihara said:
+Dialogue: 0,0:07:33.17,0:07:34.55,Doc,,0,0,0,,"For four generations,
+Dialogue: 0,0:07:34.60,0:07:39.03,Doc,,0,0,0,,the Pajero has defined Mitsubishi."\NMitsubishi calls it an all-new Pajero,
+Dialogue: 0,0:07:39.08,0:07:43.67,Doc,,0,0,0,,and Kihara said it "takes the Pajero\Nbackstory and modernises it." It's also a
+Dialogue: 0,0:07:43.72,0:07:47.37,Doc,,0,0,0,,sign of how much Australians still\Nlove big diesel four-wheel drives for
+Dialogue: 0,0:07:47.42,0:07:50.79,Doc,,0,0,0,,towing and touring even as the\Nemissions rules get tougher.
+Dialogue: 0,0:07:50.84,0:07:52.93,Doc,,0,0,0,,Its main target is the Toyota Prado,
+Dialogue: 0,0:07:52.98,0:07:58.69,Doc,,0,0,0,,which carsales listed\Nat $73,200 to $100,620.
+Dialogue: 0,0:07:58.74,0:08:01.51,Doc,,0,0,0,,If Mitsubishi can undercut\Nthe Prado with a tough,
+Dialogue: 0,0:08:01.56,0:08:03.35,Doc,,0,0,0,,capable diesel four-wheel drive,
+Dialogue: 0,0:08:03.40,0:08:06.04,Doc,,0,0,0,,a lot of Prado buyers\Nwill at least take a look.
+Dialogue: 0,0:08:06.56,0:08:10.61,Doc,,0,0,0,,Before we get to the top four and the\Nute war that's about to explode a quick
+Dialogue: 0,0:08:10.66,0:08:11.51,Doc,,0,0,0,,favour.
+Dialogue: 0,0:08:11.56,0:08:13.51,Doc,,0,0,0,,Which of these cars\Nwould you actually buy?
+Dialogue: 0,0:08:13.56,0:08:15.33,Doc,,0,0,0,,And which car do you think I've missed?
+Dialogue: 0,0:08:15.38,0:08:16.69,Doc,,0,0,0,,Tell me in the comments.
+Dialogue: 0,0:08:16.74,0:08:17.70,Doc,,0,0,0,,And if you want honest,
+Dialogue: 0,0:08:17.75,0:08:21.61,Doc,,0,0,0,,fact-checked videos about what's\Ncoming for Aussie drivers in 2027,
+Dialogue: 0,0:08:21.66,0:08:22.59,Doc,,0,0,0,,hit subscribe.
+Dialogue: 0,0:08:22.64,0:08:25.18,Doc,,0,0,0,,It's free, and it helps the\Nchannel more than you know.
+Dialogue: 0,0:08:26.85,0:08:29.66,Doc,,0,0,0,,Number four: the cheaper\NToyota RAV4 plug-in hybrid.
+Dialogue: 0,0:08:29.71,0:08:34.08,Doc,,0,0,0,,The RAV4 plug-in hybrid only\Narrived in Australia in mid-2026,
+Dialogue: 0,0:08:34.13,0:08:35.58,Doc,,0,0,0,,and it took off immediately.
+Dialogue: 0,0:08:35.63,0:08:36.68,Doc,,0,0,0,,According to CarExpert,
+Dialogue: 0,0:08:36.73,0:08:41.54,Doc,,0,0,0,,plug-in hybrids made up thirty-nine\Nper cent of all RAV4 sales in July 2026
+Dialogue: 0,0:08:41.59,0:08:44.42,Doc,,0,0,0,,around 2,170 cars.
+Dialogue: 0,0:08:44.47,0:08:48.38,Doc,,0,0,0,,That made the RAV4 PHEV the best-selling\Nplug-in hybrid in the country that
+Dialogue: 0,0:08:48.43,0:08:52.79,Doc,,0,0,0,,month, ahead of the BYD\NShark 6 on 1,216 sales.
+Dialogue: 0,0:08:52.84,0:08:55.05,Doc,,0,0,0,,CarExpert said that on its own,
+Dialogue: 0,0:08:55.10,0:08:59.22,Doc,,0,0,0,,the RAV4 PHEV would have ranked\Nsixth among all models that month.
+Dialogue: 0,0:08:59.27,0:09:05.30,Doc,,0,0,0,,Right now, the RAV4 PHEV starts at\N$58,840 before on-road costs for
+Dialogue: 0,0:09:05.35,0:09:07.04,Doc,,0,0,0,,the XSE front-wheel drive.
+Dialogue: 0,0:09:07.09,0:09:09.42,Doc,,0,0,0,,But in the first three months of 2027,
+Dialogue: 0,0:09:09.47,0:09:12.06,Doc,,0,0,0,,Toyota is adding a cheaper\NGXL plug-in hybrid.
+Dialogue: 0,0:09:12.11,0:09:13.85,Doc,,0,0,0,,Toyota hasn't announced the price yet.
+Dialogue: 0,0:09:13.90,0:09:20.00,Doc,,0,0,0,,CarExpert estimated it could be\Naround $53,990 before on-road costs,
+Dialogue: 0,0:09:20.05,0:09:23.60,Doc,,0,0,0,,based on the gap between the\Nhybrid and plug-in RAV4s.
+Dialogue: 0,0:09:23.65,0:09:25.90,Doc,,0,0,0,,That's an estimate,\Nnot an official figure.
+Dialogue: 0,0:09:25.95,0:09:29.02,Doc,,0,0,0,,It'll use the same 201-kilowatt\Nplug-in hybrid system,
+Dialogue: 0,0:09:29.07,0:09:33.10,Doc,,0,0,0,,with a claimed electric\Nrange of 121 kilometres.
+Dialogue: 0,0:09:33.15,0:09:34.26,Doc,,0,0,0,,For a lot of families,
+Dialogue: 0,0:09:34.31,0:09:37.72,Doc,,0,0,0,,that's enough to do the school run and\Nthe commute without using any petrol at
+Dialogue: 0,0:09:37.77,0:09:38.50,Doc,,0,0,0,,all.
+Dialogue: 0,0:09:38.55,0:09:40.12,Doc,,0,0,0,,Why does this matter so much?
+Dialogue: 0,0:09:40.17,0:09:43.44,Doc,,0,0,0,,Because the RAV4 is one of the\Nbest-selling cars in Australia.
+Dialogue: 0,0:09:43.49,0:09:47.40,Doc,,0,0,0,,And a cheaper plug-in version is\NToyota's most direct answer to BYD,
+Dialogue: 0,0:09:47.45,0:09:52.46,Doc,,0,0,0,,GWM, Chery and every other Chinese\Nbrand selling plug-in hybrid SUVs.
+Dialogue: 0,0:09:52.51,0:09:55.86,Doc,,0,0,0,,It's also expected to undercut the\NMitsubishi Outlander plug-in hybrid,
+Dialogue: 0,0:09:55.91,0:10:00.49,Doc,,0,0,0,,which starts at $58,990\Nbefore on-road costs.
+Dialogue: 0,0:10:01.27,0:10:03.46,Doc,,0,0,0,,Number three: the Hyundai ute.
+Dialogue: 0,0:10:03.51,0:10:05.22,Doc,,0,0,0,,For years, Hyundai has watched Ford,
+Dialogue: 0,0:10:05.27,0:10:08.86,Doc,,0,0,0,,Toyota and its sister brand\NKia sell utes in Australia.
+Dialogue: 0,0:10:08.91,0:10:10.70,Doc,,0,0,0,,Now it's finally building one.
+Dialogue: 0,0:10:10.75,0:10:12.34,Doc,,0,0,0,,In July 2026,
+Dialogue: 0,0:10:12.39,0:10:14.88,Doc,,0,0,0,,Hyundai Motor Company Australia's\Nchief operating officer,
+Dialogue: 0,0:10:14.93,0:10:19.00,Doc,,0,0,0,,Gavin Donaldson, said: "There's no\Ndoubt we'll be late to the party.
+Dialogue: 0,0:10:19.05,0:10:21.50,Doc,,0,0,0,,That's the reality."\NAccording to carsales,
+Dialogue: 0,0:10:21.55,0:10:24.60,Doc,,0,0,0,,the dual-cab ute's reveal\Nis expected in 2027,
+Dialogue: 0,0:10:24.65,0:10:28.76,Doc,,0,0,0,,and industry sources suggest it\Ncould reach Australia by late 2027.
+Dialogue: 0,0:10:28.81,0:10:30.52,Doc,,0,0,0,,And it won't be a traditional diesel.
+Dialogue: 0,0:10:30.57,0:10:34.34,Doc,,0,0,0,,Donaldson said: "I think\Nrealistically, in our eyes,
+Dialogue: 0,0:10:34.39,0:10:38.66,Doc,,0,0,0,,a hybrid or an EREV would be what we\Nwould be looking at." An EREV is an
+Dialogue: 0,0:10:38.71,0:10:39.78,Doc,,0,0,0,,extended-range electric vehicle,
+Dialogue: 0,0:10:39.83,0:10:43.24,Doc,,0,0,0,,where a petrol engine acts as a\Ngenerator for an electric drivetrain.
+Dialogue: 0,0:10:43.29,0:10:45.46,Doc,,0,0,0,,And there's no doubt about the target.
+Dialogue: 0,0:10:45.51,0:10:46.70,Doc,,0,0,0,,As Donaldson put it:
+Dialogue: 0,0:10:46.75,0:10:50.12,Doc,,0,0,0,,"The benchmark in Australia historically\Nover the last 10 years has been
+Dialogue: 0,0:10:50.17,0:10:53.44,Doc,,0,0,0,,Ranger." Number two: the GAC ute.
+Dialogue: 0,0:10:53.49,0:10:55.64,Doc,,0,0,0,,GAC is one of China's biggest car makers,
+Dialogue: 0,0:10:55.69,0:10:58.22,Doc,,0,0,0,,and it only launched\Nin Australia recently.
+Dialogue: 0,0:10:58.27,0:10:59.71,Doc,,0,0,0,,In March 2026,
+Dialogue: 0,0:10:59.76,0:11:05.32,Doc,,0,0,0,,carsales reported that GAC will launch\Na dual-cab ute in Australia in 2027.
+Dialogue: 0,0:11:05.37,0:11:09.44,Doc,,0,0,0,,It's expected to look similar to the\NPickup 01 concept shown at the 2025
+Dialogue: 0,0:11:09.49,0:11:10.46,Doc,,0,0,0,,Shanghai motor show,
+Dialogue: 0,0:11:10.51,0:11:14.70,Doc,,0,0,0,,with a ladder frame chassis and a\Npetrol-electric powertrain either a plug-in
+Dialogue: 0,0:11:14.75,0:11:16.80,Doc,,0,0,0,,hybrid or a range extender.
+Dialogue: 0,0:11:16.85,0:11:21.16,Doc,,0,0,0,,GAC International Australia's\NCEO, Kevin Shu, didn't hold back.
+Dialogue: 0,0:11:21.21,0:11:24.64,Doc,,0,0,0,,He said: "I think we'll have a future\Nadvantage to win the competition with
+Dialogue: 0,0:11:24.69,0:11:29.32,Doc,,0,0,0,,Ranger, HiLux, and so on like this."\NHe also said the ute needs to balance
+Dialogue: 0,0:11:29.37,0:11:33.50,Doc,,0,0,0,,commercial and passenger use which is\Nexactly how most Australians use their
+Dialogue: 0,0:11:33.55,0:11:33.92,Doc,,0,0,0,,dual-cabs.
+Dialogue: 0,0:11:33.97,0:11:36.03,Doc,,0,0,0,,And they'll be joining a crowded field.
+Dialogue: 0,0:11:36.08,0:11:39.82,Doc,,0,0,0,,Chery has a diesel-hybrid ute\Ndue before the end of 2026,
+Dialogue: 0,0:11:39.87,0:11:43.76,Doc,,0,0,0,,with a petrol-hybrid\Nversion expected in 2027.
+Dialogue: 0,0:11:43.81,0:11:50.33,Doc,,0,0,0,,JAC, GWM, BYD, KGM and Deepal are\Nalready selling electrified utes here.
+Dialogue: 0,0:11:51.05,0:11:54.28,Doc,,0,0,0,,And number one: the Nissan\NNavara Pro plug-in hybrid.
+Dialogue: 0,0:11:54.33,0:11:56.68,Doc,,0,0,0,,This is the one that\Nreally caught my attention.
+Dialogue: 0,0:11:56.73,0:11:58.40,Doc,,0,0,0,,In October 2026,
+Dialogue: 0,0:11:58.45,0:12:02.34,Doc,,0,0,0,,Nissan confirmed a plug-in hybrid version\Nof the next Navara for Australia in
+Dialogue: 0,0:12:02.39,0:12:03.72,Doc,,0,0,0,,2027.
+Dialogue: 0,0:12:03.77,0:12:05.76,Doc,,0,0,0,,The preliminary figures are huge:
+Dialogue: 0,0:12:05.81,0:12:08.20,Doc,,0,0,0,,300 kilowatts and 800 newton-metres,
+Dialogue: 0,0:12:08.25,0:12:12.78,Doc,,0,0,0,,from a 2.0-litre turbo petrol engine\Ncombined with a high-output electric
+Dialogue: 0,0:12:12.83,0:12:15.32,Doc,,0,0,0,,motor and an eight-speed automatic.
+Dialogue: 0,0:12:15.37,0:12:18.84,Doc,,0,0,0,,Nissan is targeting 3,500\Nkilograms of braked towing,
+Dialogue: 0,0:12:18.89,0:12:21.82,Doc,,0,0,0,,and a payload of up to 1,000 kilograms.
+Dialogue: 0,0:12:21.87,0:12:27.62,Doc,,0,0,0,,For comparison, CarExpert listed the BYD\NShark 6 Performance at a 725-kilogram
+Dialogue: 0,0:12:27.67,0:12:32.30,Doc,,0,0,0,,payload, and the Ford Ranger\NHybrid Wildtrak at 901 kilograms.
+Dialogue: 0,0:12:32.35,0:12:38.40,Doc,,0,0,0,,CarExpert also listed the GWM Cannon\NAlpha plug-in hybrid at 685 kilograms,
+Dialogue: 0,0:12:38.45,0:12:44.46,Doc,,0,0,0,,the Chery Stockman at 765 kilograms\Nwith 3,495 kilograms of towing,
+Dialogue: 0,0:12:44.51,0:12:49.18,Doc,,0,0,0,,and the JAC T9 plug-in\Nhybrid at 915 kilograms.
+Dialogue: 0,0:12:49.23,0:12:50.20,Doc,,0,0,0,,So on paper,
+Dialogue: 0,0:12:50.25,0:12:54.12,Doc,,0,0,0,,the Navara Pro plug-in hybrid could\Nout-carry all of its main rivals.
+Dialogue: 0,0:12:54.17,0:12:55.86,Doc,,0,0,0,,There are still some big unknowns.
+Dialogue: 0,0:12:55.91,0:12:57.44,Doc,,0,0,0,,Nissan hasn't announced the price,
+Dialogue: 0,0:12:57.49,0:12:59.94,Doc,,0,0,0,,the battery size or the\Nelectric-only range.
+Dialogue: 0,0:12:59.99,0:13:01.56,Doc,,0,0,0,,Those will come closer to launch.
+Dialogue: 0,0:13:01.61,0:13:03.16,Doc,,0,0,0,,But here's why it's number one.
+Dialogue: 0,0:13:03.21,0:13:05.44,Doc,,0,0,0,,Utes are the most important\Nsegment in Australia,
+Dialogue: 0,0:13:05.49,0:13:07.88,Doc,,0,0,0,,and they're the furthest\Nbehind on emissions.
+Dialogue: 0,0:13:07.93,0:13:11.76,Doc,,0,0,0,,The Ford Ranger and the Toyota HiLux\Nare still mostly sold as diesels.
+Dialogue: 0,0:13:11.81,0:13:15.04,Doc,,0,0,0,,A plug-in hybrid ute with\Nmore power than a Raptor,
+Dialogue: 0,0:13:15.09,0:13:18.72,Doc,,0,0,0,,full towing capacity and a one-tonne\Npayload is exactly the kind of vehicle
+Dialogue: 0,0:13:18.77,0:13:23.02,Doc,,0,0,0,,that could convince tradies and farmers\Nthat electrified utes can do the job.
+Dialogue: 0,0:13:23.07,0:13:25.68,Doc,,0,0,0,,And Nissan says Australia\Nhelped design it.
+Dialogue: 0,0:13:25.73,0:13:27.66,Doc,,0,0,0,,Nissan Oceania's managing director,
+Dialogue: 0,0:13:27.71,0:13:32.40,Doc,,0,0,0,,Steve Milette, said: "Australia wasn't\Nsimply where we tested Navara Pro PHEV.
+Dialogue: 0,0:13:32.45,0:13:34.49,Doc,,0,0,0,,It was one of the markets\Nhelping shape it."
+Dialogue: 0,0:13:35.17,0:13:36.72,Doc,,0,0,0,,Before we get to what it all means,
+Dialogue: 0,0:13:36.77,0:13:39.72,Doc,,0,0,0,,a few honourable mentions\Nthat just missed the list.
+Dialogue: 0,0:13:39.77,0:13:44.66,Doc,,0,0,0,,The new Nissan Patrol is switching from\Nits big V8 to a 3.5-litre twin-turbo
+Dialogue: 0,0:13:44.71,0:13:49.68,Doc,,0,0,0,,V6 with 317 kilowatts\Nand 700 newton-metres.
+Dialogue: 0,0:13:49.73,0:13:52.86,Doc,,0,0,0,,CarsGuide reported orders\Nopening in late 2026,
+Dialogue: 0,0:13:52.91,0:13:58.26,Doc,,0,0,0,,with cars arriving in late 2026 or early\N2027 and Nissan says Australia will
+Dialogue: 0,0:13:58.31,0:14:00.30,Doc,,0,0,0,,be the first right-hand-drive\Nmarket for it.
+Dialogue: 0,0:14:00.35,0:14:06.48,Doc,,0,0,0,,The Zeekr 8X is a plug-in hybrid SUV\Nwith a claimed 660 kilowatts combined.
+Dialogue: 0,0:14:06.53,0:14:09.42,Doc,,0,0,0,,CarsGuide estimated it at\Naround eighty thousand dollars.
+Dialogue: 0,0:14:09.47,0:14:14.32,Doc,,0,0,0,,The Polestar 5 is a big electric\Nsedan with up to 650 kilowatts,
+Dialogue: 0,0:14:14.37,0:14:17.36,Doc,,0,0,0,,priced from $171,100.
+Dialogue: 0,0:14:17.41,0:14:18.98,Doc,,0,0,0,,And at the other end of the market,
+Dialogue: 0,0:14:19.03,0:14:24.70,Doc,,0,0,0,,the Renault Symbioz is a\Ncompact hybrid SUV from $36,990.
+Dialogue: 0,0:14:24.75,0:14:26.12,Doc,,0,0,0,,And one that won't be coming:
+Dialogue: 0,0:14:26.17,0:14:29.94,Doc,,0,0,0,,Isuzu has cancelled its plans for\Nthe electric D-Max in Australia.
+Dialogue: 0,0:14:29.99,0:14:32.06,Doc,,0,0,0,,As Isuzu's Rod Caldwell put it:
+Dialogue: 0,0:14:32.11,0:14:35.60,Doc,,0,0,0,,"Customers don't want it." Not every\Nbrand thinks the electric ute's time has
+Dialogue: 0,0:14:35.65,0:14:36.04,Doc,,0,0,0,,come.
+Dialogue: 0,0:14:36.09,0:14:37.82,Doc,,0,0,0,,So what does all this mean for you?
+Dialogue: 0,0:14:37.87,0:14:42.14,Doc,,0,0,0,,If you're buying a ute: 2027 will\Ngive you more choice than ever before.
+Dialogue: 0,0:14:42.19,0:14:44.84,Doc,,0,0,0,,The Navara Pro plug-in\Nhybrid, the GAC ute,
+Dialogue: 0,0:14:44.89,0:14:48.40,Doc,,0,0,0,,Chery's hybrid utes and eventually the\NHyundai ute will all be fighting the
+Dialogue: 0,0:14:48.45,0:14:51.68,Doc,,0,0,0,,Ranger, the HiLux and the BYD Shark 6.
+Dialogue: 0,0:14:51.73,0:14:56.08,Doc,,0,0,0,,That kind of competition usually means\Nsharper prices and better equipment.
+Dialogue: 0,0:14:56.13,0:14:59.58,Doc,,0,0,0,,And as we covered in our\Nvideo on 2027 ute prices,
+Dialogue: 0,0:14:59.63,0:15:02.74,Doc,,0,0,0,,the emissions rules are pushing\Nevery brand in the same direction.
+Dialogue: 0,0:15:02.79,0:15:07.02,Doc,,0,0,0,,If you're buying an SUV: the plug-in\Nhybrid fight is about to get serious.
+Dialogue: 0,0:15:07.07,0:15:10.34,Doc,,0,0,0,,A cheaper RAV4 plug-in\Nhybrid, the Omoda 7,
+Dialogue: 0,0:15:10.39,0:15:13.90,Doc,,0,0,0,,and dozens of Chinese plug-in hybrids\Nmean more choice under sixty thousand
+Dialogue: 0,0:15:13.95,0:15:15.62,Doc,,0,0,0,,dollars than ever before.
+Dialogue: 0,0:15:15.67,0:15:17.88,Doc,,0,0,0,,If you're buying an electric\Ncar: watch the timing.
+Dialogue: 0,0:15:17.93,0:15:20.16,Doc,,0,0,0,,As we covered in our last video,
+Dialogue: 0,0:15:20.21,0:15:25.14,Doc,,0,0,0,,the fringe benefits tax exemption for\NEVs over $75,000 changes on the 1st of
+Dialogue: 0,0:15:25.19,0:15:30.38,Doc,,0,0,0,,April 2027, and a new luxury car tax\Nthreshold for zero-emissions vehicles is
+Dialogue: 0,0:15:30.43,0:15:32.64,Doc,,0,0,0,,due from July 2027.
+Dialogue: 0,0:15:32.69,0:15:34.50,Doc,,0,0,0,,And whichever new model catches your eye,
+Dialogue: 0,0:15:34.55,0:15:37.98,Doc,,0,0,0,,do your homework on the brand behind it\Nespecially if it's a brand that's new
+Dialogue: 0,0:15:38.03,0:15:39.08,Doc,,0,0,0,,to Australia.
+Dialogue: 0,0:15:39.13,0:15:41.10,Doc,,0,0,0,,As we covered in our BYD videos,
+Dialogue: 0,0:15:41.15,0:15:44.84,Doc,,0,0,0,,a great car can still be a frustrating\Nownership experience if parts take
+Dialogue: 0,0:15:44.89,0:15:47.83,Doc,,0,0,0,,months and the nearest approved\Nrepairer is hours away.
+Dialogue: 0,0:15:47.88,0:15:50.16,Doc,,0,0,0,,Before you buy, ask three questions.
+Dialogue: 0,0:15:50.21,0:15:52.20,Doc,,0,0,0,,Where is the nearest service centre?
+Dialogue: 0,0:15:52.25,0:15:54.82,Doc,,0,0,0,,Are crash parts for this\Nmodel stocked in Australia?
+Dialogue: 0,0:15:54.87,0:15:58.22,Doc,,0,0,0,,And how long is the warranty and who\Nstands behind it if the local importer
+Dialogue: 0,0:15:58.27,0:15:59.20,Doc,,0,0,0,,changes?
+Dialogue: 0,0:15:59.25,0:16:01.60,Doc,,0,0,0,,And for any electrified ute or SUV,
+Dialogue: 0,0:16:01.65,0:16:04.92,Doc,,0,0,0,,look for real-world tests,\Nnot just brochure numbers.
+Dialogue: 0,0:16:04.97,0:16:08.92,Doc,,0,0,0,,Electric range, fuel use while towing\Nand real payload with a canopy and
+Dialogue: 0,0:16:08.97,0:16:12.00,Doc,,0,0,0,,accessories fitted can be very different\Nfrom the figures on the website.
+Dialogue: 0,0:16:12.05,0:16:15.36,Doc,,0,0,0,,And if you're in no hurry:\Nwaiting a few months can pay off.
+Dialogue: 0,0:16:15.41,0:16:18.66,Doc,,0,0,0,,New models often push down the\Nprices of the cars they replace.
+Dialogue: 0,0:16:18.71,0:16:21.78,Doc,,0,0,0,,And brand-new models often\Nhave early teething problems.
+Dialogue: 0,0:16:21.83,0:16:24.39,Doc,,0,0,0,,There's nothing wrong with letting\Nsomeone else find them first.
+Dialogue: 0,0:16:25.26,0:16:29.63,Doc,,0,0,0,,So here's the full list of new\Ncars coming to Australia for 2027.
+Dialogue: 0,0:16:29.68,0:16:31.85,Doc,,0,0,0,,Number ten, the Honda Super-One.
+Dialogue: 0,0:16:31.90,0:16:34.43,Doc,,0,0,0,,Number nine, the BMW iX3.
+Dialogue: 0,0:16:34.48,0:16:37.15,Doc,,0,0,0,,Number eight, the Mazda CX-6e.
+Dialogue: 0,0:16:37.20,0:16:40.33,Doc,,0,0,0,,Number seven, the BYD Atto 3 Evo.
+Dialogue: 0,0:16:40.38,0:16:42.81,Doc,,0,0,0,,Number six, the Omoda 4 and 7.
+Dialogue: 0,0:16:42.86,0:16:45.33,Doc,,0,0,0,,Number five, the Mitsubishi Pajero.
+Dialogue: 0,0:16:45.38,0:16:48.63,Doc,,0,0,0,,Number four, the cheaper\NToyota RAV4 plug-in hybrid.
+Dialogue: 0,0:16:48.68,0:16:50.55,Doc,,0,0,0,,Number three, the Hyundai ute.
+Dialogue: 0,0:16:50.60,0:16:52.07,Doc,,0,0,0,,Number two, the GAC ute.
+Dialogue: 0,0:16:52.12,0:16:55.33,Doc,,0,0,0,,And number one, the Nissan\NNavara Pro plug-in hybrid.
+Dialogue: 0,0:16:55.38,0:16:57.19,Doc,,0,0,0,,The big picture is clear.
+Dialogue: 0,0:16:57.24,0:17:00.16,Doc,,0,0,0,,2027 is the year electrified\Nutes go mainstream,
+Dialogue: 0,0:17:00.21,0:17:02.45,Doc,,0,0,0,,plug-in hybrid SUVs get cheaper,
+Dialogue: 0,0:17:02.50,0:17:05.43,Doc,,0,0,0,,and the Chinese brands take the fight\Nstraight to the biggest names in the
+Dialogue: 0,0:17:05.48,0:17:06.23,Doc,,0,0,0,,country.
+Dialogue: 0,0:17:06.28,0:17:08.29,Doc,,0,0,0,,The old best-sellers aren't going away.
+Dialogue: 0,0:17:08.34,0:17:10.77,Doc,,0,0,0,,But they've never faced\Nthis much competition.
+Dialogue: 0,0:17:10.82,0:17:11.99,Doc,,0,0,0,,One last reminder:
+Dialogue: 0,0:17:12.04,0:17:15.77,Doc,,0,0,0,,launch dates and prices can change,\Nespecially for brand-new models.
+Dialogue: 0,0:17:15.82,0:17:19.33,Doc,,0,0,0,,Some of the prices in this video are\Nestimates from the motoring media,
+Dialogue: 0,0:17:19.38,0:17:20.17,Doc,,0,0,0,,not official figures.
+Dialogue: 0,0:17:20.22,0:17:23.01,Doc,,0,0,0,,I'll keep tracking these\Ncars as they get closer,
+Dialogue: 0,0:17:23.06,0:17:25.33,Doc,,0,0,0,,and I'll tell you when\Nthe real prices land.
+Dialogue: 0,0:17:25.38,0:17:27.69,Doc,,0,0,0,,If you enjoyed this,\Nhit like and subscribe,
+Dialogue: 0,0:17:27.74,0:17:30.25,Doc,,0,0,0,,and share it with someone\Nwho's planning their next car.
+Dialogue: 0,0:17:30.30,0:17:33.81,Doc,,0,0,0,,Tell me in the comments: which\Nof these would you buy in 2027?
+Dialogue: 0,0:17:33.86,0:17:37.77,Doc,,0,0,0,,And I'll be back with more on what's\Nchanging for Aussie drivers next year.
+Dialogue: 0,0:17:37.82,0:17:38.94,Doc,,0,0,0,,See you in the next one.
