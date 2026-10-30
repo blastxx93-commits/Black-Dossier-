@@ -123,7 +123,9 @@ jobs:
           ls "$GITHUB_WORKSPACE"/parts/*/
           PARTS=$(for k in $(seq 1 ${{ inputs.parts }}); do printf '%s ' "$GITHUB_WORKSPACE/parts/parte-$k/part_$k.mp4"; done)
           python3 render_aus.py "$GITHUB_WORKSPACE/work/episode.json" --join "$GITHUB_WORKSPACE/parts/audio/mix.wav" \
-            "$GITHUB_WORKSPACE/final/$NAME.mp4" --delivery "$GITHUB_WORKSPACE/final/${NAME}_entrega.mp4" $PARTS
+            "$GITHUB_WORKSPACE/final/$NAME.mp4" --delivery "$GITHUB_WORKSPACE/final/${NAME}_entrega.mp4" $PARTS > join.log 2>&1 \
+            || { echo "::error title=join::$( (ls -R "$GITHUB_WORKSPACE/parts" | head -20; tail -c 1500 join.log) | tr '\n' ' ')"; exit 1; }
+          cat join.log
           echo "NAME=$NAME" >> "$GITHUB_ENV"
         env:
           PYTHONUNBUFFERED: "1"
