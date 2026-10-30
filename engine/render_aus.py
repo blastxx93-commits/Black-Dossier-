@@ -746,13 +746,19 @@ def join(ep_path, parts, wav, out, delivery=None):
     if ep.get("subtitles"):
         sub = os.path.join(base, ep["subtitles"]).replace("\\", "/").replace(":", "\\:").replace("'", "\\'")
         fvf = f"subtitles='{sub}':fontsdir='{os.path.join(HERE_AUS, 'fonts')}',format=yuv420p"
-    subprocess.run(["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", lst, "-i", wav, "-vf", fvf,
-                    "-c:v", "libx264", "-preset", "veryfast", "-crf", "19", "-c:a", "aac", "-b:a", "192k",
-                    "-movflags", "+faststart", "-shortest", out], check=True)
+    # one decode + one subtitle pass feeding both encodes (full quality and the small delivery copy)
     if delivery:
-        subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", out, "-c:v", "libx264", "-preset", "veryfast", "-b:v", "3200k",
-                        "-maxrate", "4500k", "-bufsize", "9000k", "-pix_fmt", "yuv420p", "-c:a", "copy",
-                        "-movflags", "+faststart", delivery], check=True)
+        fc = f"[0:v]{fvf},split=2[full][small]"
+        cmd = ["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", lst, "-i", wav, "-filter_complex", fc,
+               "-map", "[full]", "-map", "1:a", "-c:v", "libx264", "-preset", "veryfast", "-crf", "19", "-c:a", "aac", "-b:a", "192k",
+               "-movflags", "+faststart", "-shortest", out,
+               "-map", "[small]", "-map", "1:a", "-c:v", "libx264", "-preset", "veryfast", "-b:v", "3200k", "-maxrate", "4500k",
+               "-bufsize", "9000k", "-c:a", "aac", "-b:a", "192k", "-movflags", "+faststart", "-shortest", delivery]
+    else:
+        cmd = ["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", lst, "-i", wav, "-vf", fvf,
+               "-c:v", "libx264", "-preset", "veryfast", "-crf", "19", "-c:a", "aac", "-b:a", "192k",
+               "-movflags", "+faststart", "-shortest", out]
+    subprocess.run(cmd, check=True)
     print(f"[join] pronto -> {out}" + (f" e {delivery}" if delivery else ""), flush=True)
 
 
