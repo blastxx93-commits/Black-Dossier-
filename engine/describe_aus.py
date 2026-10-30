@@ -26,7 +26,7 @@ for title, chap in zip(meta["chapters"], ep["chapters"]):
             v = s.get(k)
             if isinstance(v, str):
                 used.append(v[2:] if v.startswith("a/") else v)
-out += ["", "Sources (2026):"] + [f"- {x}" for x in meta["sources"]]
+out += ["", "Sources:"] + [f"- {x}" for x in meta["sources"]]
 lines, stock = [], set()
 for f in dict.fromkeys(used):
     r = cred.get(f)
