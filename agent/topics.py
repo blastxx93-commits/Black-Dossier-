@@ -24,6 +24,9 @@ QUERIES = [
     "Toyota Australia", "Ford Ranger Australia", "BYD Australia", "Tesla Australia", "Mitsubishi Australia", "Nissan Australia",
     "Hyundai Kia Australia", "Mazda Australia", "Subaru Australia", "Volkswagen Australia", "GWM Australia", "Chery Australia",
     "Geely Australia", "MG Australia", "car repair delays Australia", "used car prices Australia", "car finance Australia",
+    # 2027 focus (channel rule from video 8): what changes for Aussie drivers next year
+    "2027 Australia cars", "new cars coming to Australia 2027", "car price rise 2027 Australia", "NVES 2027",
+    "luxury car tax 2027", "FBT electric car 2027", "2027 ute Australia", "road user charge EV Australia",
 ]
 SITE_FEEDS = ["https://www.carexpert.com.au/feed", "https://www.drive.com.au/feed/", "https://www.carsguide.com.au/rss",
               "https://thebeep.com.au/feed", "https://www.whichcar.com.au/feed"]
@@ -36,7 +39,7 @@ THEMES = {
     "recall / safety": r"recall|ancap|stop-sale|stop sale|safety", "price cuts / deals": r"discount|price cut|slash|cheaper|deal|drive-away",
     "EV shift": r"\bev\b|electric|plug-in|phev|hybrid", "consumer rights": r"accc|consumer law|refund|lemon|fined|court",
     "utes": r"\bute|hilux|ranger|navara|triton|d-max|shark", "repairs / parts": r"repair|parts|service|warranty",
-    "policy / tax": r"nves|efficiency standard|tax|tariff|government|rebate", "Chinese brands": r"chinese|china",
+    "policy / tax": r"nves|efficiency standard|tax|tariff|government|rebate", "2027 outlook": r"2027|next year|from july|from april", "Chinese brands": r"chinese|china",
 }
 OFFTOPIC = re.compile(r"\bBESS\b|energy storage|powerwall|solar|spacecraft|share price|shares|stock market|robotaxi|"
                       r"\bgrid\b|battery storage|mining|lithium price|f1\b|formula 1|supercars race|motogp", re.I)

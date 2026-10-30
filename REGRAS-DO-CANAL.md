@@ -79,3 +79,5 @@ As duas contam a mesma promessa do título, cada uma do seu jeito.
 - Regra de ouro: o fato do título tem que ser verdadeiro e aparecer no vídeo com fonte. Nada de "fechou todas as lojas",
   "PERMANENTLY CLOSED" ou incêndio que não aconteceu (risco de strike, desmonetização e processo).
 - Thumbnail: fundo com mais contraste e leve desfoque; persona masculina fictícia (IA) com a expressão do tema; texto curto.
+
+- A partir do vídeo 8: pautas pensando em 2027 (o que muda para quem compra/tem carro em 2027: preços, leis, impostos, lançamentos), sempre com fonte e data.
