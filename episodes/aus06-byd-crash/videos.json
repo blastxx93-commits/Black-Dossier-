@@ -134,6 +134,76 @@
    "alt": [
     "clock time passing"
    ]
+  },
+  {
+   "id": "v_body_repair",
+   "query": "car body repair",
+   "alt": [
+    "auto body shop"
+   ]
+  },
+  {
+   "id": "v_spray_booth",
+   "query": "car paint booth",
+   "alt": [
+    "painting car spray gun"
+   ]
+  },
+  {
+   "id": "v_aftermath",
+   "query": "car accident damage",
+   "alt": [
+    "damaged car"
+   ]
+  },
+  {
+   "id": "v_hazard",
+   "query": "car hazard lights",
+   "alt": [
+    "broken down car roadside"
+   ]
+  },
+  {
+   "id": "v_parts",
+   "query": "auto parts",
+   "alt": [
+    "car parts shelves"
+   ]
+  },
+  {
+   "id": "v_flatbed",
+   "query": "flatbed tow truck",
+   "alt": [
+    "tow truck car"
+   ]
+  },
+  {
+   "id": "v_worried_laptop",
+   "query": "worried woman laptop",
+   "alt": [
+    "stressed person laptop bills"
+   ]
+  },
+  {
+   "id": "v_ev_highway",
+   "query": "electric car highway",
+   "alt": [
+    "electric car driving road"
+   ]
+  },
+  {
+   "id": "v_parking_lot",
+   "query": "parking lot cars aerial",
+   "alt": [
+    "car park aerial"
+   ]
+  },
+  {
+   "id": "v_inspection",
+   "query": "car inspection mechanic",
+   "alt": [
+    "mechanic inspecting car"
+   ]
   }
  ]
 }
