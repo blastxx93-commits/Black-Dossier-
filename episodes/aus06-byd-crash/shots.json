@@ -420,6 +420,54 @@
     "unsplash",
     "pixabay"
    ]
+  },
+  {
+   "id": "h_bills2",
+   "query": "paying bills",
+   "alt": [
+    "bills calculator"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_insurance3",
+   "query": "insurance documents",
+   "alt": [
+    "paperwork desk"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_road3",
+   "query": "australia road",
+   "alt": [
+    "highway traffic"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_repair3",
+   "query": "car repair shop",
+   "alt": [
+    "mechanic workshop"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
   }
  ]
 }

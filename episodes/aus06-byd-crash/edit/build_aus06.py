@@ -16,13 +16,13 @@ PHOTOS = {
     "hv": ["ai:ai_hv_technician", "h_mechanic_ev", "h_mechanic2"],
     "battery": ["ai:ai_battery_lifted", "ai:ai_battery_cells", "h_battery_pack", "m_blade"],
     "sensors": ["ai:ai_bumper_sensors", "ai:ai_adas_calibration", "h_parking_sensor"],
-    "repairer": ["ai:ai_cars_waiting", "h_panel_beater", "h_workshop", "h_spray"],
-    "assess": ["ai:ai_assessor", "h_insurance_form", "h_insurance2"],
+    "repairer": ["ai:ai_cars_waiting", "h_panel_beater", "h_workshop", "h_spray", "h_repair3"],
+    "assess": ["ai:ai_assessor", "h_insurance_form", "h_insurance2", "h_insurance3"],
     "dash": ["ai:ai_dashboard_warning"],
     "parts": ["ai:ai_parts_shelves", "h_warehouse"], "plane": ["h_cargo_plane"],
-    "bills": ["ai:ai_renewal_letter", "h_calculator_bills", "h_worried"], "compare": ["ai:ai_compare_quotes"],
+    "bills": ["ai:ai_renewal_letter", "h_calculator_bills", "h_worried", "h_bills2"], "compare": ["ai:ai_compare_quotes"],
     "phone": ["h_phone_call"], "byd": ["m_dolphin", "m_seal", "m_sealion6", "m_sealion7", "m_atto1", "m_byd2", "m_byd3", "m_byd4"],
-    "dealer": ["m_byd_dealer", "m_byd_logo_building", "m_byd4"], "traffic": ["h_traffic_light", "h_road_au", "h_carpark"], "writeoff": ["h_wrecking_yard"],
+    "dealer": ["m_byd_dealer", "m_byd_logo_building", "m_byd4"], "traffic": ["h_traffic_light", "h_road_au", "h_carpark", "h_road3"], "writeoff": ["h_wrecking_yard"],
     "ev": ["h_ev2"],
 }
 CLIPS = json.load(open(os.path.join(HERE, "clips.json")))

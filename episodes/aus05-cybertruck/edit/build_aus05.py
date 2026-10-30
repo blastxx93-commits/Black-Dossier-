@@ -18,12 +18,12 @@ PHOTOS = {
     "rhd": ["ai:ai_rhd_steering", "ai:ai_adr_engineer", "ai:ai_pedestrian_dummy"],
     "tesla": ["m_model_y", "m_model_3", "m_tesla_supercharger", "h_tesla_car"],
     "factory": ["m_gigafactory_texas", "h_factory_line"],
-    "pickup": ["m_f150", "m_ram1500", "m_silverado", "ai:ai_towing_caravan", "h_pickup_au"],
+    "pickup": ["m_f150", "m_ram1500", "m_silverado", "ai:ai_towing_caravan", "h_pickup_au", "h_pickup3"],
     "ute": ["ai:ai_tradie_ute", "h_ute_outback", "m_hilux", "m_ranger", "m_dmax"],
     "evute": ["ai:ai_ev_ute_charging", "m_mg_u9"],
-    "ev": ["h_ev_charging", "m_tesla_supercharger", "h_supercharger", "h_ev_road"],
+    "ev": ["h_ev_charging", "m_tesla_supercharger", "h_supercharger", "h_ev_road", "h_ev4"],
     "fuel": ["h_fuel_station"], "port": ["ai:ai_port_cars", "h_car_carrier", "h_containers"], "used": ["ai:ai_used_price"],
-    "steel": ["h_stainless"], "traffic": ["h_sydney_road", "h_highway_au"], "cancel": ["m_nissan_leaf", "m_volvo_s60", "m_jaguar"],
+    "steel": ["h_stainless"], "traffic": ["h_sydney_road", "h_highway_au", "h_road2", "h_city2"], "cancel": ["m_nissan_leaf", "m_volvo_s60", "m_jaguar"],
 }
 CLIPS = json.load(open(os.path.join(HERE, "clips.json")))
 GENERIC = CLIPS.pop("_generic", [])

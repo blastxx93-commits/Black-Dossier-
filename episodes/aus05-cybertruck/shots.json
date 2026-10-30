@@ -380,6 +380,54 @@
     "unsplash",
     "pixabay"
    ]
+  },
+  {
+   "id": "h_road2",
+   "query": "australia road",
+   "alt": [
+    "highway australia"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_city2",
+   "query": "city traffic",
+   "alt": [
+    "traffic night"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_pickup3",
+   "query": "pickup truck",
+   "alt": [
+    "4x4 truck road"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_ev4",
+   "query": "electric car",
+   "alt": [
+    "ev charging"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
   }
  ]
 }
