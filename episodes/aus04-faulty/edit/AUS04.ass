@@ -1,0 +1,344 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Doc,Inter SemiBold,44,&H0000E6FF,&H0000E6FF,&H00000000,&H96000000,0,0,0,0,100,100,0.5,0,1,2.4,1.2,2,200,200,62,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.46,0:00:02.45,Doc,,0,0,0,,One thousand, two hundred and sixty-five.
+Dialogue: 0,0:00:02.50,0:00:05.95,Doc,,0,0,0,,That's how many Australians drove away\Nin what they were told was a brand-new
+Dialogue: 0,0:00:06.00,0:00:11.37,Doc,,0,0,0,,2026 BYD only to find out it\Nhad actually been built in 2025.
+Dialogue: 0,0:00:11.42,0:00:13.77,Doc,,0,0,0,,A whole model year older\Nthan the paperwork said.
+Dialogue: 0,0:00:13.82,0:00:17.07,Doc,,0,0,0,,A whole year of depreciation\Nthey never agreed to pay for.
+Dialogue: 0,0:00:17.12,0:00:19.49,Doc,,0,0,0,,BYD called it an administrative error.
+Dialogue: 0,0:00:19.54,0:00:21.77,Doc,,0,0,0,,Its first offer was\Neleven hundred dollars.
+Dialogue: 0,0:00:21.82,0:00:22.71,Doc,,0,0,0,,Owners said no.
+Dialogue: 0,0:00:22.76,0:00:23.75,Doc,,0,0,0,,They went to the media.
+Dialogue: 0,0:00:23.80,0:00:24.43,Doc,,0,0,0,,They pushed back.
+Dialogue: 0,0:00:24.48,0:00:25.79,Doc,,0,0,0,,And within weeks,
+Dialogue: 0,0:00:25.84,0:00:29.79,Doc,,0,0,0,,the offer more than tripled to thirty-five\Nhundred dollars plus a full refund
+Dialogue: 0,0:00:29.84,0:00:34.25,Doc,,0,0,0,,or a swap for a genuine 2026\Ncar for anyone who wanted it.
+Dialogue: 0,0:00:34.30,0:00:35.69,Doc,,0,0,0,,That's not the only one.
+Dialogue: 0,0:00:35.74,0:00:40.25,Doc,,0,0,0,,In 2026, a Victorian buyer took a dealer\Nall the way to the Supreme Court over
+Dialogue: 0,0:00:40.30,0:00:42.87,Doc,,0,0,0,,a rusty car and won a full refund.
+Dialogue: 0,0:00:42.92,0:00:46.17,Doc,,0,0,0,,The car industry's own dealers have\Nadmitted the system is failing.
+Dialogue: 0,0:00:46.22,0:00:49.13,Doc,,0,0,0,,And the government has agreed to hit\Nbusinesses with penalties when they
+Dialogue: 0,0:00:49.18,0:00:51.25,Doc,,0,0,0,,refuse to fix what they sold you.
+Dialogue: 0,0:00:51.30,0:00:55.17,Doc,,0,0,0,,Aussie drivers are fighting back against\Nfaulty new cars and they're winning.
+Dialogue: 0,0:00:55.22,0:00:58.45,Doc,,0,0,0,,In this video, I'll show\Nyou the real 2026 cases,
+Dialogue: 0,0:00:58.50,0:01:00.21,Doc,,0,0,0,,why it's still so hard to get a refund,
+Dialogue: 0,0:01:00.26,0:01:04.05,Doc,,0,0,0,,and the exact steps you can take if\Nyour new car turns out to be a dud.
+Dialogue: 0,0:01:04.10,0:01:06.33,Doc,,0,0,0,,Because most Aussies\Ndon't know their rights.
+Dialogue: 0,0:01:06.38,0:01:07.98,Doc,,0,0,0,,And the car industry knows it.
+Dialogue: 0,0:01:08.42,0:01:10.76,Doc,,0,0,0,,First, something that\Nsurprises a lot of people.
+Dialogue: 0,0:01:10.81,0:01:14.03,Doc,,0,0,0,,Australia doesn't have a\Nspecific lemon law for cars.
+Dialogue: 0,0:01:14.08,0:01:15.39,Doc,,0,0,0,,Some American states do.
+Dialogue: 0,0:01:15.44,0:01:16.19,Doc,,0,0,0,,We don't.
+Dialogue: 0,0:01:16.24,0:01:19.05,Doc,,0,0,0,,What we have instead is the\NAustralian Consumer Law.
+Dialogue: 0,0:01:19.10,0:01:23.11,Doc,,0,0,0,,Under it, everything you buy from a phone\Nto a sixty-thousand-dollar ute comes
+Dialogue: 0,0:01:23.16,0:01:25.31,Doc,,0,0,0,,with automatic consumer guarantees.
+Dialogue: 0,0:01:25.36,0:01:27.21,Doc,,0,0,0,,It has to be of acceptable quality.
+Dialogue: 0,0:01:27.26,0:01:28.71,Doc,,0,0,0,,It has to be fit for purpose.
+Dialogue: 0,0:01:28.76,0:01:30.75,Doc,,0,0,0,,It has to match the\Ndescription you were given.
+Dialogue: 0,0:01:30.80,0:01:32.89,Doc,,0,0,0,,And it has to last a reasonable time.
+Dialogue: 0,0:01:32.94,0:01:35.57,Doc,,0,0,0,,That last part matters more\Nthan most people realise.
+Dialogue: 0,0:01:35.62,0:01:37.75,Doc,,0,0,0,,The guarantees don't stop\Nwhen the warranty stops.
+Dialogue: 0,0:01:37.80,0:01:41.47,Doc,,0,0,0,,If a major part fails earlier than it\Nreasonably should for the price you
+Dialogue: 0,0:01:41.52,0:01:45.63,Doc,,0,0,0,,paid, you can still have rights, even\Nafter the factory warranty has run out.
+Dialogue: 0,0:01:45.68,0:01:47.11,Doc,,0,0,0,,If your car has a minor fault,
+Dialogue: 0,0:01:47.16,0:01:50.09,Doc,,0,0,0,,you're entitled to a free\Nrepair within a reasonable time.
+Dialogue: 0,0:01:50.14,0:01:53.89,Doc,,0,0,0,,If it has a major failure or the same\Nproblem keeps coming back you can choose
+Dialogue: 0,0:01:53.94,0:01:55.93,Doc,,0,0,0,,a refund or a replacement.
+Dialogue: 0,0:01:55.98,0:01:58.75,Doc,,0,0,0,,And the key part: these\Nrights cannot be excluded,
+Dialogue: 0,0:01:58.80,0:02:01.33,Doc,,0,0,0,,restricted or changed by any business.
+Dialogue: 0,0:02:01.38,0:02:02.47,Doc,,0,0,0,,Not by the dealer.
+Dialogue: 0,0:02:02.52,0:02:03.77,Doc,,0,0,0,,Not by the car maker.
+Dialogue: 0,0:02:03.82,0:02:06.29,Doc,,0,0,0,,Not by the small print on\Nthe contract you signed.
+Dialogue: 0,0:02:06.34,0:02:08.00,Doc,,0,0,0,,So what counts as a major failure?
+Dialogue: 0,0:02:08.05,0:02:10.02,Doc,,0,0,0,,According to the ACCC's guidance,
+Dialogue: 0,0:02:10.07,0:02:14.07,Doc,,0,0,0,,a fault is major if you wouldn't have\Nbought the car had you known about it.
+Dialogue: 0,0:02:14.12,0:02:17.45,Doc,,0,0,0,,Or if the car is significantly different\Nfrom the description or the demo you
+Dialogue: 0,0:02:17.50,0:02:18.25,Doc,,0,0,0,,were shown.
+Dialogue: 0,0:02:18.30,0:02:21.71,Doc,,0,0,0,,Or if it's substantially unfit for\Nits normal purpose and can't be fixed
+Dialogue: 0,0:02:21.76,0:02:23.97,Doc,,0,0,0,,easily or within a reasonable time.
+Dialogue: 0,0:02:24.02,0:02:25.25,Doc,,0,0,0,,Or if it's unsafe.
+Dialogue: 0,0:02:25.30,0:02:25.89,Doc,,0,0,0,,In real life,
+Dialogue: 0,0:02:25.94,0:02:29.19,Doc,,0,0,0,,that could be an engine that has\Nto be replaced in the first year.
+Dialogue: 0,0:02:29.24,0:02:32.08,Doc,,0,0,0,,A transmission that keeps\Nfailing after repeated repairs.
+Dialogue: 0,0:02:32.13,0:02:34.95,Doc,,0,0,0,,Electrical faults that leave\Nyou stranded again and again.
+Dialogue: 0,0:02:35.00,0:02:39.11,Doc,,0,0,0,,Or a car that spends more time in\Nthe workshop than in your driveway.
+Dialogue: 0,0:02:39.16,0:02:40.91,Doc,,0,0,0,,And there's one more important idea:
+Dialogue: 0,0:02:40.96,0:02:44.05,Doc,,0,0,0,,a series of minor faults can\Nadd up to a major failure.
+Dialogue: 0,0:02:44.10,0:02:46.57,Doc,,0,0,0,,If your car keeps going\Nback for different problems,
+Dialogue: 0,0:02:46.62,0:02:49.21,Doc,,0,0,0,,and together they mean you wouldn't\Nhave bought it had you known,
+Dialogue: 0,0:02:49.26,0:02:52.85,Doc,,0,0,0,,you can argue you have a major failure\Neven if no single fault would be enough
+Dialogue: 0,0:02:52.90,0:02:53.83,Doc,,0,0,0,,on its own.
+Dialogue: 0,0:02:53.88,0:02:54.89,Doc,,0,0,0,,It sounds simple.
+Dialogue: 0,0:02:54.94,0:02:57.39,Doc,,0,0,0,,So why do so many owners\Nend up in a fight?
+Dialogue: 0,0:02:57.44,0:03:00.12,Doc,,0,0,0,,Let's look at what's\Nactually happened in 2026.
+Dialogue: 0,0:03:02.22,0:03:04.82,Doc,,0,0,0,,Case number one: BYD and\Nthe wrong build year.
+Dialogue: 0,0:03:04.87,0:03:06.56,Doc,,0,0,0,,In July 2026,
+Dialogue: 0,0:03:06.61,0:03:10.82,Doc,,0,0,0,,the ABC and the Sydney Morning Herald\Nreported that BYD had sold cars to
+Dialogue: 0,0:03:10.87,0:03:16.26,Doc,,0,0,0,,Australian customers as 2026 models when\Nthey had actually been built in 2025.
+Dialogue: 0,0:03:16.31,0:03:21.48,Doc,,0,0,0,,The affected models included the Atto\N3, the Sealion 8 and the Shark 6 ute.
+Dialogue: 0,0:03:21.53,0:03:25.26,Doc,,0,0,0,,BYD said around 3,800 vehicles\Nhad been incorrectly listed,
+Dialogue: 0,0:03:25.31,0:03:30.48,Doc,,0,0,0,,and roughly 1,200 of them had already\Nbeen sold or allocated to customers.
+Dialogue: 0,0:03:30.53,0:03:34.28,Doc,,0,0,0,,BYD's explanation was that it had used\Nthe date the cars left the factory,
+Dialogue: 0,0:03:34.33,0:03:37.74,Doc,,0,0,0,,rather than the date they were\Nbuilt, in sales contracts.
+Dialogue: 0,0:03:37.79,0:03:41.44,Doc,,0,0,0,,BYD Australia's public relations director\Ncalled it an administrative error
+Dialogue: 0,0:03:41.49,0:03:43.34,Doc,,0,0,0,,and said there was no deceit.
+Dialogue: 0,0:03:43.39,0:03:44.76,Doc,,0,0,0,,To be fair to BYD,
+Dialogue: 0,0:03:44.81,0:03:46.60,Doc,,0,0,0,,the specifications of\Nthe cars were the same,
+Dialogue: 0,0:03:46.65,0:03:50.66,Doc,,0,0,0,,and the correct build date was in the\Nvehicle identification number all along.
+Dialogue: 0,0:03:50.71,0:03:52.50,Doc,,0,0,0,,But here's why owners were angry.
+Dialogue: 0,0:03:52.55,0:03:55.02,Doc,,0,0,0,,A car's build year\Naffects its resale value.
+Dialogue: 0,0:03:55.07,0:03:59.00,Doc,,0,0,0,,Erin Turner from the Consumer Policy\NResearch Centre said these owners had
+Dialogue: 0,0:03:59.05,0:04:01.76,Doc,,0,0,0,,effectively taken on an\Nextra year of depreciation,
+Dialogue: 0,0:04:01.81,0:04:04.71,Doc,,0,0,0,,and warned they could be seriously\Nout of pocket when they sold.
+Dialogue: 0,0:04:04.76,0:04:08.46,Doc,,0,0,0,,The Insurance Council of Australia\Neven advised affected owners to contact
+Dialogue: 0,0:04:08.51,0:04:11.34,Doc,,0,0,0,,their insurers, because the\Nerror could affect their cover.
+Dialogue: 0,0:04:11.39,0:04:14.72,Doc,,0,0,0,,BYD's first offer was $1,100.
+Dialogue: 0,0:04:14.77,0:04:16.72,Doc,,0,0,0,,Owners didn't accept that quietly.
+Dialogue: 0,0:04:16.77,0:04:20.14,Doc,,0,0,0,,Within days, BYD added the\Noption of a full refund.
+Dialogue: 0,0:04:20.19,0:04:24.64,Doc,,0,0,0,,Then it raised the payment to\N$3,500 and made it retrospective,
+Dialogue: 0,0:04:24.69,0:04:27.62,Doc,,0,0,0,,so owners who had already accepted the\Nlower amount would get the difference
+Dialogue: 0,0:04:27.67,0:04:28.18,Doc,,0,0,0,,too.
+Dialogue: 0,0:04:28.23,0:04:32.46,Doc,,0,0,0,,Owners could also swap their car for\Na like-for-like vehicle built in 2026,
+Dialogue: 0,0:04:32.51,0:04:34.94,Doc,,0,0,0,,with BYD covering the costs.
+Dialogue: 0,0:04:34.99,0:04:35.98,Doc,,0,0,0,,By late July,
+Dialogue: 0,0:04:36.03,0:04:39.24,Doc,,0,0,0,,BYD said around seventy-two per cent\Nof owners had taken the payment,
+Dialogue: 0,0:04:39.29,0:04:43.24,Doc,,0,0,0,,and more than 350 had chosen\Na refund or a replacement.
+Dialogue: 0,0:04:43.29,0:04:45.18,Doc,,0,0,0,,That's what fighting back looks like.
+Dialogue: 0,0:04:45.23,0:04:48.56,Doc,,0,0,0,,The owners who spoke up didn't just\Nget a better deal for themselves.
+Dialogue: 0,0:04:48.61,0:04:51.19,Doc,,0,0,0,,They got a better deal\Nfor every owner affected.
+Dialogue: 0,0:04:52.76,0:04:56.21,Doc,,0,0,0,,Case number two: the rusty car that\Nwent all the way to the Supreme Court.
+Dialogue: 0,0:04:56.26,0:04:58.79,Doc,,0,0,0,,In a case published in March 2026,
+Dialogue: 0,0:04:58.84,0:05:01.99,Doc,,0,0,0,,a Victorian buyer discovered that the\Ncar she'd bought from a dealer had
+Dialogue: 0,0:05:02.04,0:05:03.35,Doc,,0,0,0,,serious rust.
+Dialogue: 0,0:05:03.40,0:05:06.37,Doc,,0,0,0,,The tribunal found it was a clear\Nbreach of the consumer guarantee of
+Dialogue: 0,0:05:06.42,0:05:10.25,Doc,,0,0,0,,acceptable quality, and ordered a\Nfull refund of the purchase price.
+Dialogue: 0,0:05:10.30,0:05:11.87,Doc,,0,0,0,,The dealer didn't accept that.
+Dialogue: 0,0:05:11.92,0:05:13.25,Doc,,0,0,0,,It challenged the decision.
+Dialogue: 0,0:05:13.30,0:05:15.87,Doc,,0,0,0,,And the Supreme Court of\NVictoria backed the buyer.
+Dialogue: 0,0:05:15.92,0:05:18.69,Doc,,0,0,0,,A full refund confirmed by\Nthe state's highest court.
+Dialogue: 0,0:05:18.74,0:05:21.63,Doc,,0,0,0,,Then, in January 2026,
+Dialogue: 0,0:05:21.68,0:05:23.69,Doc,,0,0,0,,another buyer won against the same dealer,
+Dialogue: 0,0:05:23.74,0:05:26.89,Doc,,0,0,0,,this time over the cost of\Nrepairs on a second-hand car.
+Dialogue: 0,0:05:26.94,0:05:29.21,Doc,,0,0,0,,And that's an important\Npoint most people miss.
+Dialogue: 0,0:05:29.26,0:05:32.55,Doc,,0,0,0,,The consumer guarantees don't\Nonly apply to brand-new cars.
+Dialogue: 0,0:05:32.60,0:05:34.79,Doc,,0,0,0,,If you buy a used car\Nfrom a licensed dealer,
+Dialogue: 0,0:05:34.84,0:05:39.27,Doc,,0,0,0,,it still has to be of acceptable quality\Nfor its age, price and kilometres.
+Dialogue: 0,0:05:39.32,0:05:41.49,Doc,,0,0,0,,The lesson from both cases is simple.
+Dialogue: 0,0:05:41.54,0:05:44.45,Doc,,0,0,0,,When a business says no, that\Nisn't the end of the road.
+Dialogue: 0,0:05:44.50,0:05:47.84,Doc,,0,0,0,,Tribunals and courts can\Nand do side with the buyer.
+Dialogue: 0,0:05:48.62,0:05:51.75,Doc,,0,0,0,,Now let's talk about something every\Nnew car owner in Australia should
+Dialogue: 0,0:05:51.80,0:05:54.95,Doc,,0,0,0,,understand in 2026: recalls.
+Dialogue: 0,0:05:55.00,0:05:57.35,Doc,,0,0,0,,Because this year, there\Nhave been a lot of them.
+Dialogue: 0,0:05:57.40,0:06:03.29,Doc,,0,0,0,,In September, BYD recalled 32,009 Shark\N6 utes over possible abnormal wear in
+Dialogue: 0,0:06:03.34,0:06:04.85,Doc,,0,0,0,,the spare wheel assembly.
+Dialogue: 0,0:06:04.90,0:06:07.81,Doc,,0,0,0,,Owners were told they could remove\Nthe spare wheel if they wanted to keep
+Dialogue: 0,0:06:07.86,0:06:09.95,Doc,,0,0,0,,driving while they waited for the fix.
+Dialogue: 0,0:06:10.00,0:06:16.27,Doc,,0,0,0,,In October, Ford recalled 1,085 Rangers\Nand Everests from the 2024 to 2026
+Dialogue: 0,0:06:16.32,0:06:20.73,Doc,,0,0,0,,model years, because the 10.1-inch centre\Nscreen can go blank which means the
+Dialogue: 0,0:06:20.78,0:06:23.01,Doc,,0,0,0,,reversing camera image may not appear.
+Dialogue: 0,0:06:23.06,0:06:25.94,Doc,,0,0,0,,That's a real safety risk for\Nanyone standing behind the car.
+Dialogue: 0,0:06:25.99,0:06:30.86,Doc,,0,0,0,,Ford also recalled the big F-150\Npickup over a fire risk the same month.
+Dialogue: 0,0:06:30.91,0:06:34.85,Doc,,0,0,0,,CarExpert notes that Ford issues more\Nrecalls in Australia than any other car
+Dialogue: 0,0:06:34.90,0:06:35.77,Doc,,0,0,0,,maker.
+Dialogue: 0,0:06:35.82,0:06:39.91,Doc,,0,0,0,,Suzuki's new Fronx small SUV was\Nhalted from sale after a rear seatbelt
+Dialogue: 0,0:06:39.96,0:06:42.05,Doc,,0,0,0,,failure in ANCAP crash testing.
+Dialogue: 0,0:06:42.10,0:06:45.07,Doc,,0,0,0,,And Deepal had a stop-sale\Norder on its E07.
+Dialogue: 0,0:06:45.12,0:06:45.91,Doc,,0,0,0,,Here's what you need to know.
+Dialogue: 0,0:06:45.96,0:06:50.13,Doc,,0,0,0,,A recall is the manufacturer admitting\Na fault and fixing it for free and
+Dialogue: 0,0:06:50.18,0:06:51.67,Doc,,0,0,0,,that's the system working.
+Dialogue: 0,0:06:51.72,0:06:53.67,Doc,,0,0,0,,You should always get recall work done.
+Dialogue: 0,0:06:53.72,0:06:56.63,Doc,,0,0,0,,But a recall doesn't cancel\Nyour consumer rights.
+Dialogue: 0,0:06:56.68,0:06:58.81,Doc,,0,0,0,,If the fix can't be done\Nwithin a reasonable time,
+Dialogue: 0,0:06:58.86,0:07:01.71,Doc,,0,0,0,,or the same problem keeps\Ncoming back after the repair,
+Dialogue: 0,0:07:01.76,0:07:04.53,Doc,,0,0,0,,you may be entitled to more\Nthan just a recall repair.
+Dialogue: 0,0:07:04.58,0:07:07.85,Doc,,0,0,0,,In some cases, that can mean\Na refund or a replacement.
+Dialogue: 0,0:07:07.90,0:07:10.89,Doc,,0,0,0,,You can check whether your car is affected\Non the government's Product Safety
+Dialogue: 0,0:07:10.94,0:07:14.13,Doc,,0,0,0,,Australia recall website, using\Nyour car's make and model,
+Dialogue: 0,0:07:14.18,0:07:16.44,Doc,,0,0,0,,or by asking your dealer to run your VIN.
+Dialogue: 0,0:07:18.36,0:07:21.23,Doc,,0,0,0,,Before we go on have you ever had to\Nfight a dealer or a car maker over a
+Dialogue: 0,0:07:21.28,0:07:22.31,Doc,,0,0,0,,faulty car?
+Dialogue: 0,0:07:22.36,0:07:25.13,Doc,,0,0,0,,Tell me your story in the\Ncomments, and whether you won.
+Dialogue: 0,0:07:25.18,0:07:28.37,Doc,,0,0,0,,Your experience could help someone\Nelse in the same situation.
+Dialogue: 0,0:07:28.42,0:07:31.33,Doc,,0,0,0,,And if you want more videos that\Nactually help Aussie drivers,
+Dialogue: 0,0:07:31.38,0:07:33.89,Doc,,0,0,0,,hit subscribe and turn on notifications.
+Dialogue: 0,0:07:33.94,0:07:37.80,Doc,,0,0,0,,Now, let's talk about why\Nthis is still so hard in 2026.
+Dialogue: 0,0:07:38.69,0:07:41.74,Doc,,0,0,0,,If the law is on your side,\Nwhy does it feel impossible?
+Dialogue: 0,0:07:41.79,0:07:44.41,Doc,,0,0,0,,Because the system around\Nit is slow and confusing.
+Dialogue: 0,0:07:44.46,0:07:46.84,Doc,,0,0,0,,In July 2026,
+Dialogue: 0,0:07:46.89,0:07:50.96,Doc,,0,0,0,,the Australian Automotive Dealer Association\Nreleased an independent review of
+Dialogue: 0,0:07:51.01,0:07:53.64,Doc,,0,0,0,,how the Australian Consumer\NLaw works for cars,
+Dialogue: 0,0:07:53.69,0:07:56.44,Doc,,0,0,0,,prepared by Emeritus\NProfessor Jenny Buchan.
+Dialogue: 0,0:07:56.49,0:07:57.88,Doc,,0,0,0,,Its conclusion was blunt.
+Dialogue: 0,0:07:57.93,0:08:02.00,Doc,,0,0,0,,Consumer protections for new vehicles\Nare no longer delivering fair or timely
+Dialogue: 0,0:08:02.05,0:08:04.84,Doc,,0,0,0,,outcomes not for owners,\Nand not for dealers either.
+Dialogue: 0,0:08:04.89,0:08:09.28,Doc,,0,0,0,,The review found that vague definitions\Nand unclear procedures are driving up
+Dialogue: 0,0:08:09.33,0:08:12.06,Doc,,0,0,0,,costs, putting pressure on tribunals and,
+Dialogue: 0,0:08:12.11,0:08:16.60,Doc,,0,0,0,,most importantly, leaving drivers\Nwithout their cars for long periods.
+Dialogue: 0,0:08:16.65,0:08:20.02,Doc,,0,0,0,,Dealers told the review that workshop\Nbacklogs could stretch six to eight
+Dialogue: 0,0:08:20.07,0:08:24.00,Doc,,0,0,0,,weeks just to diagnose a problem\Nespecially with electric vehicles.
+Dialogue: 0,0:08:24.05,0:08:24.88,Doc,,0,0,0,,Not fix it.
+Dialogue: 0,0:08:24.93,0:08:26.40,Doc,,0,0,0,,Just find out what's wrong.
+Dialogue: 0,0:08:26.45,0:08:29.06,Doc,,0,0,0,,There's another twist most\Nbuyers don't know about.
+Dialogue: 0,0:08:29.11,0:08:31.66,Doc,,0,0,0,,When something goes wrong,\Nyou deal with the dealer.
+Dialogue: 0,0:08:31.71,0:08:33.06,Doc,,0,0,0,,But the dealer didn't build the car.
+Dialogue: 0,0:08:33.11,0:08:37.30,Doc,,0,0,0,,The dealer association says dealers\Noften end up carrying the legal risk,
+Dialogue: 0,0:08:37.35,0:08:39.96,Doc,,0,0,0,,while the manufacturer\Nstays at arm's length.
+Dialogue: 0,0:08:40.01,0:08:43.10,Doc,,0,0,0,,So it's calling on the federal\Ngovernment to force manufacturers to get
+Dialogue: 0,0:08:43.15,0:08:44.74,Doc,,0,0,0,,involved in disputes earlier.
+Dialogue: 0,0:08:44.79,0:08:46.50,Doc,,0,0,0,,And it's not just about cars.
+Dialogue: 0,0:08:46.55,0:08:50.35,Doc,,0,0,0,,A report from the Consumer Policy Research\NCentre and the Consumer Action Law
+Dialogue: 0,0:08:50.40,0:08:54.24,Doc,,0,0,0,,Centre found that making a complaint\Nabout a faulty car can involve up to
+Dialogue: 0,0:08:54.29,0:08:57.22,Doc,,0,0,0,,sixty steps and that's if\Neverything goes smoothly.
+Dialogue: 0,0:08:57.27,0:08:59.17,Doc,,0,0,0,,No wonder so many people give up.
+Dialogue: 0,0:08:59.83,0:09:02.70,Doc,,0,0,0,,So why should you believe\Nfighting back actually works?
+Dialogue: 0,0:09:02.75,0:09:05.46,Doc,,0,0,0,,Because of the case that put the\Nwhole car industry on notice.
+Dialogue: 0,0:09:05.51,0:09:08.56,Doc,,0,0,0,,Between 2013 and 2017,
+Dialogue: 0,0:09:08.61,0:09:12.90,Doc,,0,0,0,,nine customers bought new Mazdas that\Ndeveloped serious, recurring faults.
+Dialogue: 0,0:09:12.95,0:09:15.68,Doc,,0,0,0,,One car had its engine\Nreplaced three times.
+Dialogue: 0,0:09:15.73,0:09:18.28,Doc,,0,0,0,,When the owners asked for\Nrefunds or replacements,
+Dialogue: 0,0:09:18.33,0:09:21.46,Doc,,0,0,0,,Mazda refused, or offered\Nonly part of the money back.
+Dialogue: 0,0:09:21.51,0:09:24.90,Doc,,0,0,0,,The Australian Competition and Consumer\NCommission took Mazda to the Federal
+Dialogue: 0,0:09:24.95,0:09:25.24,Doc,,0,0,0,,Court.
+Dialogue: 0,0:09:25.29,0:09:29.36,Doc,,0,0,0,,The court found Mazda had made forty-nine\Nfalse or misleading statements to
+Dialogue: 0,0:09:29.41,0:09:31.50,Doc,,0,0,0,,those customers about their rights.
+Dialogue: 0,0:09:31.55,0:09:32.94,Doc,,0,0,0,,And in 2024,
+Dialogue: 0,0:09:32.99,0:09:36.56,Doc,,0,0,0,,Mazda was ordered to pay\N$11.5 million in penalties,
+Dialogue: 0,0:09:36.61,0:09:38.50,Doc,,0,0,0,,plus compensation to the owners.
+Dialogue: 0,0:09:38.55,0:09:42.02,Doc,,0,0,0,,That case is the reason every car company\Nin Australia now knows the regulator
+Dialogue: 0,0:09:42.07,0:09:43.14,Doc,,0,0,0,,is watching.
+Dialogue: 0,0:09:43.19,0:09:46.48,Doc,,0,0,0,,It's also why you should never accept\Na business telling you that a refund is
+Dialogue: 0,0:09:46.53,0:09:47.94,Doc,,0,0,0,,"not our policy".
+Dialogue: 0,0:09:47.99,0:09:49.28,Doc,,0,0,0,,Under the consumer law,
+Dialogue: 0,0:09:49.33,0:09:52.03,Doc,,0,0,0,,a business can't make up its\Nown rules about your rights.
+Dialogue: 0,0:09:54.08,0:09:55.90,Doc,,0,0,0,,And here's the good news: the\Nrules are about to get tougher.
+Dialogue: 0,0:09:55.95,0:09:57.05,Doc,,0,0,0,,In November 2025,
+Dialogue: 0,0:09:57.10,0:10:00.98,Doc,,0,0,0,,the state and federal consumer affairs\Nministers agreed to strengthen the
+Dialogue: 0,0:10:01.03,0:10:02.48,Doc,,0,0,0,,consumer guarantees.
+Dialogue: 0,0:10:02.53,0:10:06.00,Doc,,0,0,0,,The plan includes civil penalties\Nand expanded enforcement powers for
+Dialogue: 0,0:10:06.05,0:10:07.80,Doc,,0,0,0,,businesses that don't comply.
+Dialogue: 0,0:10:07.85,0:10:11.98,Doc,,0,0,0,,Right now, a business that wrongly refuses\Na valid claim often just has to pay
+Dialogue: 0,0:10:12.03,0:10:14.50,Doc,,0,0,0,,up later if the customer\Nfights hard enough.
+Dialogue: 0,0:10:14.55,0:10:16.72,Doc,,0,0,0,,Penalties would change\Nthat maths completely.
+Dialogue: 0,0:10:16.77,0:10:19.34,Doc,,0,0,0,,The ministers also agreed to\Nstrengthen what's called supplier
+Dialogue: 0,0:10:19.39,0:10:20.60,Doc,,0,0,0,,indemnification.
+Dialogue: 0,0:10:20.65,0:10:21.86,Doc,,0,0,0,,In plain English,
+Dialogue: 0,0:10:21.91,0:10:24.96,Doc,,0,0,0,,that means dealers should be able to\Nrecover their costs from the manufacturer
+Dialogue: 0,0:10:25.01,0:10:26.62,Doc,,0,0,0,,when a car is faulty.
+Dialogue: 0,0:10:26.67,0:10:27.74,Doc,,0,0,0,,That matters to you,
+Dialogue: 0,0:10:27.79,0:10:31.90,Doc,,0,0,0,,because a dealer who isn't stuck with\Nthe bill has much less reason to stall.
+Dialogue: 0,0:10:31.95,0:10:33.80,Doc,,0,0,0,,Treasury is now drafting the new laws,
+Dialogue: 0,0:10:33.85,0:10:36.82,Doc,,0,0,0,,and there will be another round\Nof consultation before they pass.
+Dialogue: 0,0:10:36.87,0:10:38.64,Doc,,0,0,0,,So the changes aren't in force yet.
+Dialogue: 0,0:10:38.69,0:10:40.32,Doc,,0,0,0,,But the direction is clear.
+Dialogue: 0,0:10:40.37,0:10:43.74,Doc,,0,0,0,,Refusing to fix a faulty car is going\Nto get a lot more expensive for the
+Dialogue: 0,0:10:43.79,0:10:45.05,Doc,,0,0,0,,businesses that do it.
+Dialogue: 0,0:10:45.73,0:10:49.28,Doc,,0,0,0,,So here's exactly what to do if your\Nnew car turns out to be a lemon.
+Dialogue: 0,0:10:49.33,0:10:51.98,Doc,,0,0,0,,Step one: document everything.
+Dialogue: 0,0:10:52.03,0:10:55.90,Doc,,0,0,0,,Every fault, every date, every\Nservice visit, every phone call.
+Dialogue: 0,0:10:55.95,0:10:58.64,Doc,,0,0,0,,Take photos and videos of\Nthe problem when it happens.
+Dialogue: 0,0:10:58.69,0:11:00.60,Doc,,0,0,0,,Keep every invoice and job card.
+Dialogue: 0,0:11:00.65,0:11:02.28,Doc,,0,0,0,,Step two: put it in writing.
+Dialogue: 0,0:11:02.33,0:11:04.84,Doc,,0,0,0,,Phone calls are easy to forget or deny.
+Dialogue: 0,0:11:04.89,0:11:05.84,Doc,,0,0,0,,Emails aren't.
+Dialogue: 0,0:11:05.89,0:11:08.12,Doc,,0,0,0,,A simple trick: after every phone call,
+Dialogue: 0,0:11:08.17,0:11:10.66,Doc,,0,0,0,,send a short email that\Nsays "as discussed today",
+Dialogue: 0,0:11:10.71,0:11:11.96,Doc,,0,0,0,,and list what you were told.
+Dialogue: 0,0:11:12.01,0:11:15.39,Doc,,0,0,0,,If they disagree with your summary,\Nthey have to say so in writing.
+Dialogue: 0,0:11:15.44,0:11:16.91,Doc,,0,0,0,,Keep a fault diary too.
+Dialogue: 0,0:11:16.96,0:11:19.66,Doc,,0,0,0,,Note the date, the\Nkilometres, what happened,
+Dialogue: 0,0:11:19.71,0:11:21.70,Doc,,0,0,0,,and how long the car was off the road.
+Dialogue: 0,0:11:21.75,0:11:25.48,Doc,,0,0,0,,If a tribunal ever has to decide whether\Na repair took a "reasonable time",
+Dialogue: 0,0:11:25.53,0:11:29.26,Doc,,0,0,0,,a diary with real dates and real days\Nwithout a car is one of the strongest
+Dialogue: 0,0:11:29.31,0:11:30.88,Doc,,0,0,0,,pieces of evidence you can have.
+Dialogue: 0,0:11:30.93,0:11:35.18,Doc,,0,0,0,,Step three: contact the dealer and the\Ncar maker's Australian head office at
+Dialogue: 0,0:11:35.23,0:11:36.14,Doc,,0,0,0,,the same time.
+Dialogue: 0,0:11:36.19,0:11:37.51,Doc,,0,0,0,,It keeps everyone accountable.
+Dialogue: 0,0:11:37.56,0:11:40.02,Doc,,0,0,0,,Step four: use the right words.
+Dialogue: 0,0:11:40.07,0:11:43.32,Doc,,0,0,0,,Say you're making a claim under the\Nconsumer guarantees of the Australian
+Dialogue: 0,0:11:43.37,0:11:44.48,Doc,,0,0,0,,Consumer Law.
+Dialogue: 0,0:11:44.53,0:11:46.98,Doc,,0,0,0,,If the fault is serious,\Nor keeps coming back,
+Dialogue: 0,0:11:47.03,0:11:50.24,Doc,,0,0,0,,say you believe it's a major failure\Nand you're requesting a refund or a
+Dialogue: 0,0:11:50.29,0:11:50.88,Doc,,0,0,0,,replacement.
+Dialogue: 0,0:11:50.93,0:11:53.44,Doc,,0,0,0,,Step five: know what they can't do.
+Dialogue: 0,0:11:53.49,0:11:56.00,Doc,,0,0,0,,They can't charge you to\Nfix a fault the law covers.
+Dialogue: 0,0:11:56.05,0:11:59.22,Doc,,0,0,0,,You don't have to pay anything\Ntowards the remedy you're entitled to.
+Dialogue: 0,0:11:59.27,0:12:01.74,Doc,,0,0,0,,And your warranty doesn't\Nreplace your consumer rights.
+Dialogue: 0,0:12:01.79,0:12:03.36,Doc,,0,0,0,,And here's a myth worth busting.
+Dialogue: 0,0:12:03.41,0:12:06.96,Doc,,0,0,0,,A survey found that around forty per\Ncent of new car owners believe they have
+Dialogue: 0,0:12:07.01,0:12:10.60,Doc,,0,0,0,,to service their car at the dealer to\Nkeep their consumer guarantee rights.
+Dialogue: 0,0:12:10.65,0:12:11.38,Doc,,0,0,0,,You don't.
+Dialogue: 0,0:12:11.43,0:12:14.92,Doc,,0,0,0,,Using a qualified independent mechanic\Nwho follows the logbook with the right
+Dialogue: 0,0:12:14.97,0:12:17.44,Doc,,0,0,0,,parts doesn't cancel your rights.
+Dialogue: 0,0:12:17.49,0:12:21.78,Doc,,0,0,0,,Step six: if you get nowhere, contact\Nyour state's fair trading agency.
+Dialogue: 0,0:12:21.83,0:12:22.72,Doc,,0,0,0,,If that fails,
+Dialogue: 0,0:12:22.77,0:12:26.56,Doc,,0,0,0,,take it to your state tribunal\NNCAT in New South Wales,
+Dialogue: 0,0:12:26.61,0:12:31.38,Doc,,0,0,0,,VCAT in Victoria, QCAT in Queensland,\Nor the equivalent where you live.
+Dialogue: 0,0:12:31.43,0:12:35.02,Doc,,0,0,0,,Tribunal fees are usually modest, and\Nyou don't need a lawyer for most claims.
+Dialogue: 0,0:12:35.07,0:12:38.32,Doc,,0,0,0,,You can also report the\Nbusiness to the ACCC.
+Dialogue: 0,0:12:38.37,0:12:40.88,Doc,,0,0,0,,And while you're waiting,\Ndon't forget your costs.
+Dialogue: 0,0:12:40.93,0:12:42.27,Doc,,0,0,0,,Under the Australian Consumer Law,
+Dialogue: 0,0:12:42.32,0:12:45.80,Doc,,0,0,0,,you can also be entitled to compensation\Nfor losses that were reasonably
+Dialogue: 0,0:12:45.85,0:12:47.66,Doc,,0,0,0,,foreseeable because of the fault.
+Dialogue: 0,0:12:47.71,0:12:49.16,Doc,,0,0,0,,That can include things like towing,
+Dialogue: 0,0:12:49.21,0:12:53.56,Doc,,0,0,0,,or a hire car if you genuinely needed\None while yours was off the road.
+Dialogue: 0,0:12:53.61,0:12:56.30,Doc,,0,0,0,,Keep every receipt, and include\Nthem in your written claim.
+Dialogue: 0,0:12:56.35,0:12:59.10,Doc,,0,0,0,,It also helps to be specific\Nabout what you want.
+Dialogue: 0,0:12:59.15,0:13:00.74,Doc,,0,0,0,,Don't just say "fix it".
+Dialogue: 0,0:13:00.79,0:13:02.60,Doc,,0,0,0,,Say whether you're asking for a repair,
+Dialogue: 0,0:13:02.65,0:13:04.00,Doc,,0,0,0,,a refund or a replacement,
+Dialogue: 0,0:13:04.05,0:13:08.02,Doc,,0,0,0,,give a reasonable deadline say\Nfourteen days for a written reply,
+Dialogue: 0,0:13:08.07,0:13:10.48,Doc,,0,0,0,,and ask for the job card from every visit,
+Dialogue: 0,0:13:10.53,0:13:13.00,Doc,,0,0,0,,showing what was found and what was done.
+Dialogue: 0,0:13:13.05,0:13:16.10,Doc,,0,0,0,,Businesses respond differently when\Nthey can see you know the process and
+Dialogue: 0,0:13:16.15,0:13:17.44,Doc,,0,0,0,,you're keeping records.
+Dialogue: 0,0:13:17.49,0:13:21.19,Doc,,0,0,0,,And one more tip from the BYD\Ncase: don't be afraid to go public.
+Dialogue: 0,0:13:21.24,0:13:24.85,Doc,,0,0,0,,Owners who spoke to journalists\Nsaw the offer improve within weeks.
+Dialogue: 0,0:13:25.73,0:13:30.34,Doc,,0,0,0,,Finally, let's talk about the hidden\Ncost of a faulty car: resale value.
+Dialogue: 0,0:13:30.39,0:13:31.92,Doc,,0,0,0,,As the BYD case showed,
+Dialogue: 0,0:13:31.97,0:13:35.52,Doc,,0,0,0,,even a paperwork problem can knock\Nthousands off what a car is worth.
+Dialogue: 0,0:13:35.57,0:13:38.18,Doc,,0,0,0,,A car with a history of major\Nfaults can be harder to sell,
+Dialogue: 0,0:13:38.23,0:13:41.44,Doc,,0,0,0,,and buyers will use every\Nproblem as a bargaining chip.
+Dialogue: 0,0:13:41.49,0:13:44.32,Doc,,0,0,0,,So if you're dealing with a faulty\Ncar, think about the end game.
+Dialogue: 0,0:13:44.37,0:13:46.18,Doc,,0,0,0,,A repair might fix today's problem,
+Dialogue: 0,0:13:46.23,0:13:49.92,Doc,,0,0,0,,but a refund or a replacement may\Nprotect you from losing money later.
+Dialogue: 0,0:13:49.97,0:13:53.46,Doc,,0,0,0,,And if you're offered compensation,\Nask how the amount was worked out.
+Dialogue: 0,0:13:53.51,0:13:57.12,Doc,,0,0,0,,BYD itself said it raised its payment\Nafter checking reputable valuation
+Dialogue: 0,0:13:57.17,0:13:57.90,Doc,,0,0,0,,guides.
+Dialogue: 0,0:13:57.95,0:14:00.40,Doc,,0,0,0,,You're allowed to ask\Nfor that same evidence.
+Dialogue: 0,0:14:00.45,0:14:03.52,Doc,,0,0,0,,And there's a lesson here for\Nanyone buying a car right now.
+Dialogue: 0,0:14:03.57,0:14:06.26,Doc,,0,0,0,,Before you sign, check the build\Ndate on the compliance plate,
+Dialogue: 0,0:14:06.31,0:14:08.44,Doc,,0,0,0,,not just the model year on the contract.
+Dialogue: 0,0:14:08.49,0:14:12.44,Doc,,0,0,0,,Ask the dealer to confirm in writing\Nthat the car has no outstanding recalls.
+Dialogue: 0,0:14:12.49,0:14:14.02,Doc,,0,0,0,,And if you're buying second-hand,
+Dialogue: 0,0:14:14.07,0:14:17.44,Doc,,0,0,0,,run a check on the national register to\Nmake sure there's no money owing on it
+Dialogue: 0,0:14:17.49,0:14:18.86,Doc,,0,0,0,,and that it hasn't been written off.
+Dialogue: 0,0:14:18.91,0:14:22.22,Doc,,0,0,0,,Five minutes of checking before you\Nbuy can save you months of fighting
+Dialogue: 0,0:14:22.27,0:14:23.07,Doc,,0,0,0,,afterwards.
+Dialogue: 0,0:14:23.94,0:14:27.93,Doc,,0,0,0,,So, are Aussies fighting back\Nagainst faulty new cars in 2026?
+Dialogue: 0,0:14:27.98,0:14:28.70,Doc,,0,0,0,,Absolutely.
+Dialogue: 0,0:14:28.75,0:14:31.73,Doc,,0,0,0,,BYD owners more than\Ntripled their compensation.
+Dialogue: 0,0:14:31.78,0:14:35.11,Doc,,0,0,0,,A Victorian buyer won a full\Nrefund in the Supreme Court.
+Dialogue: 0,0:14:35.16,0:14:36.77,Doc,,0,0,0,,And new penalties are on the way.
+Dialogue: 0,0:14:36.82,0:14:37.91,Doc,,0,0,0,,The system is slow,
+Dialogue: 0,0:14:37.96,0:14:41.49,Doc,,0,0,0,,but the law is on your side and the\Ncompanies that ignore it are paying for
+Dialogue: 0,0:14:41.54,0:14:42.11,Doc,,0,0,0,,it.
+Dialogue: 0,0:14:42.16,0:14:43.59,Doc,,0,0,0,,If this video helped you,
+Dialogue: 0,0:14:43.64,0:14:46.47,Doc,,0,0,0,,share it with someone who's about\Nto buy a new car it could save them
+Dialogue: 0,0:14:46.52,0:14:47.29,Doc,,0,0,0,,thousands.
+Dialogue: 0,0:14:47.34,0:14:50.39,Doc,,0,0,0,,Hit like, subscribe, and tell me\Nyour lemon story in the comments.
+Dialogue: 0,0:14:50.44,0:14:52.37,Doc,,0,0,0,,And in the next video:
+Dialogue: 0,0:14:52.42,0:14:55.47,Doc,,0,0,0,,thousands of Aussies paid a deposit for\None of the most hyped vehicles on the
+Dialogue: 0,0:14:55.52,0:14:57.71,Doc,,0,0,0,,planet and nearly seven years later,
+Dialogue: 0,0:14:57.76,0:14:59.93,Doc,,0,0,0,,Tesla has just told\Nthem it's never coming.
+Dialogue: 0,0:14:59.98,0:15:00.78,Doc,,0,0,0,,See you there.

@@ -1,0 +1,2204 @@
+{
+ "output": "AUS04_Faulty_Cars_2026.mp4",
+ "fps": 24,
+ "music": [
+  {
+   "file": "trilha.wav",
+   "start": 0,
+   "gain": -29,
+   "fade_in": 4,
+   "fade_out": 5
+  }
+ ],
+ "chapters": [
+  {
+   "audio": "audio/ch00_hook.flac",
+   "lead_in": 0,
+   "tail": 0.6,
+   "shots": [
+    {
+     "type": "stat",
+     "value": "1,265",
+     "label": "\"2026\" BYDs that were actually built in 2025",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "ABC / SMH \u00b7 July 2026",
+     "color": "red",
+     "dur": 3.48,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_atto3/1_commons.jpg",
+     "move": "in",
+     "caption": "BYD Atto 3|sold as a 2026 model",
+     "dur": 4.3,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_sealion8/1_commons.jpg",
+     "move": "left",
+     "caption": "Built in 2025|sold as 2026",
+     "dur": 3.52,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "A whole year older than the paperwork said.",
+     "highlight": "YEAR OLDER",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 2.4,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_parking/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.3,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"An administrative error.\"",
+     "highlight": "ERROR",
+     "size": 150,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 2.42,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "$1,100",
+     "label": "BYD's first offer to owners",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "ABC \u00b7 July 2026",
+     "color": "red",
+     "dur": 2.28,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_frustrated/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 0.94,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_news/1_pixabay.jpg",
+     "move": "in",
+     "dur": 3.08,
+     "fixed": true
+    },
+    {
+     "type": "price",
+     "model": "BYD compensation",
+     "old": "$1,100",
+     "new": "$3,500",
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.6
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.0
+      }
+     ],
+     "old_note": "first offer",
+     "new_note": "after owners pushed back",
+     "save": "x3.2",
+     "source": "ABC / BYD \u00b7 July 2026",
+     "dur": 2.86,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_keys/1_pixabay.jpg",
+     "move": "left",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_salesman/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.38,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_rusty_panel_1.jpg",
+     "move": "out",
+     "dur": 4.02,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_court/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 1.82,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_handshake/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_parliament/1_pixabay.jpg",
+     "move": "right",
+     "dur": 4.88,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "Fighting Back Against Faulty New Cars",
+     "subtitle": "Australia \u00b7 2026",
+     "tag": "real 2026 cases",
+     "bg": "a/ai/ai_owner_angry_dealer_1.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 5.18,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "The real 2026 cases",
+      "Why refunds are so hard",
+      "Your exact next steps"
+     ],
+     "starts": [
+      0,
+      48,
+      101
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 2.020000000000003
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 4.220000000000006
+      }
+     ],
+     "dur": 7.62,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Most Aussies don't know their rights.",
+     "highlight": "RIGHTS",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.443,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch01.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_dealer/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.27,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "No \"lemon law\" in Australia.",
+     "highlight": "LEMON LAW",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.43,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_documents_tribunal_1.jpg",
+     "move": "up",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_traffic/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.72,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Acceptable quality",
+      "Fit for purpose",
+      "Matches the description",
+      "Lasts a reasonable time"
+     ],
+     "starts": [
+      0,
+      42,
+      77,
+      129
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.7600000000000016
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 3.240000000000002
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 5.380000000000003
+      }
+     ],
+     "dur": 9.66,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Your rights don't end with the warranty.",
+     "highlight": "DON'T END",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 2.18,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_breakdown/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_traffic/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.88,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_car_on_hoist_1.jpg",
+     "move": "out",
+     "dur": 4.46,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Major failure = refund or replacement.",
+     "highlight": "REFUND",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 6.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_fault_diary_1.jpg",
+     "move": "down",
+     "dur": 6.78,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_writing/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.52,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_dealer_empty_desk_1.jpg",
+     "move": "in",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_road/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.96,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_tow/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.72,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_crash_test/1_pixabay.jpg",
+     "move": "left",
+     "dur": 1.28,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_mechanic/1_unsplash.jpg",
+     "move": "out",
+     "dur": 6.83,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_tow/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.87,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_mechanic/2_pixabay.jpg",
+     "move": "right",
+     "dur": 5.96,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Minor faults can add up to a major failure.",
+     "highlight": "MAJOR FAILURE",
+     "size": 115,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.14,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_wheel/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_breakdown/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.78,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_phone/1_unsplash.jpg",
+     "move": "in",
+     "dur": 7.293,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch02.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "Case 1",
+     "subtitle": "BYD and the wrong build year",
+     "tag": "July 2026",
+     "bg": "a/h_dealer/1_unsplash.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 3.7,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_news/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_dealer/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.44,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_shark6/1_commons.jpg",
+     "move": "in",
+     "caption": "BYD Shark 6|one of the affected models",
+     "dur": 5.22,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "BYD build-date error",
+     "items": [
+      [
+       "Listed wrongly",
+       3800,
+       "red"
+      ],
+      [
+       "Sold or allocated",
+       1200
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "BYD via ABC \u00b7 July 2026",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_salesman/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_atto3/3_commons.jpg",
+     "move": "right",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_parking/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.32,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"No deceit.\"",
+     "highlight": "DECEIT",
+     "size": 150,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.54,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_sealion8/3_commons.jpg",
+     "move": "left",
+     "dur": 3.68,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_recall_letter_1.jpg",
+     "move": "out",
+     "dur": 3.64,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_frustrated/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 1.84,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_engine/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.52,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"An extra year of depreciation.\"",
+     "highlight": "DEPRECIATION",
+     "size": 115,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_parking/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.69,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_paperwork/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.63,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "$1,100",
+     "label": "first offer",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "BYD \u00b7 July 2026",
+     "color": "red",
+     "dur": 5.38,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_keys/2_pixabay.jpg",
+     "move": "down",
+     "dur": 3.42,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "$3,500",
+     "label": "final payment \u2013 backdated for everyone",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "BYD \u00b7 July 2026",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_breakdown/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.04,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_shark6/3_commons.jpg",
+     "move": "in",
+     "dur": 6.76,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "72%",
+     "label": "of owners took the $3,500 payment",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "BYD \u00b7 late July 2026",
+     "dur": 4.76,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "350+",
+     "label": "owners chose a refund or a replacement",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "BYD \u00b7 July 2026",
+     "dur": 3.54,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "That's what fighting back looks like.",
+     "highlight": "FIGHTING BACK",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.32,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_dealer/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.225,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch03.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "Case 2",
+     "subtitle": "The rusty car that went to the Supreme Court",
+     "tag": "Victoria \u00b7 2026",
+     "bg": "a/h_rust/1_unsplash.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_rust/2_pixabay.jpg",
+     "move": "left",
+     "dur": 4.56,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_court/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.38,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Full refund ordered.",
+     "highlight": "FULL REFUND",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 2.52,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_dealer/2_pixabay.jpg",
+     "move": "out",
+     "dur": 3.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_paperwork/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "caption": "Supreme Court of Victoria|backed the buyer",
+     "dur": 5.44,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_documents/1_unsplash.jpg",
+     "move": "right",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_highway/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.52,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_resale_yard_1.jpg",
+     "move": "in",
+     "dur": 3.34,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_used/1_pixabay.jpg",
+     "move": "up",
+     "dur": 6.72,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"No\" isn't the end of the road.",
+     "highlight": "NO",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.18,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_tribunal_room_1.jpg",
+     "move": "out",
+     "dur": 4.248,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch04.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/h_documents/2_pixabay.jpg",
+     "move": "down",
+     "dur": 6.26,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_mechanic/3_unsplash.jpg",
+     "move": "in",
+     "dur": 2.4,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "32,009",
+     "label": "BYD Shark 6 utes recalled \u00b7 spare wheel assembly",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Product Safety Australia \u00b7 2026",
+     "color": "red",
+     "dur": 7.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_mechanic/4_pixabay.jpg",
+     "move": "left",
+     "dur": 5.1,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ranger/1_commons.jpg",
+     "move": "in",
+     "caption": "Ford Ranger & Everest|1,085 recalled \u00b7 October 2026",
+     "dur": 7.48,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_everest/1_commons.jpg",
+     "move": "right",
+     "dur": 2.84,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_dashboard/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.67,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_f150/1_commons.jpg",
+     "move": "left",
+     "caption": "Ford F-150|fire-risk recall \u00b7 October 2026",
+     "dur": 4.92,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_f150/3_commons.jpg",
+     "move": "in",
+     "dur": 4.91,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_fronx/1_commons.jpg",
+     "move": "in",
+     "caption": "Suzuki Fronx|halted after ANCAP seatbelt failure",
+     "dur": 2.96,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_crash_test/2_pixabay.jpg",
+     "move": "out",
+     "dur": 3.32,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_deepal/1_commons.jpg",
+     "move": "right",
+     "caption": "Deepal|stop-sale order on the E07",
+     "dur": 3.86,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_mechanic/5_unsplash.jpg",
+     "move": "right",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_wheel/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.76,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "A recall doesn't cancel your rights.",
+     "highlight": "DOESN'T CANCEL",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 2.96,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_writing/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_engine/6_pixabay.jpg",
+     "move": "out",
+     "dur": 6.22,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_phone/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_broken/2_pixabay.jpg",
+     "move": "down",
+     "dur": 4.415,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch05.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_frustrated/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.04,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Tell me your story in the comments",
+     "sub": "Did you win against the dealer?",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_phone/4_pixabay.jpg",
+     "move": "in",
+     "dur": 4.02,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Subscribe & turn on notifications",
+     "sub": "Honest videos for Aussie drivers",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 2.56,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_handshake/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.87,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch06.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/h_calendar/1_pixabay.jpg",
+     "move": "in",
+     "dur": 5.647,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_writing/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "caption": "AADA review|July 2026",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_showroom/5_unsplash.jpg",
+     "move": "left",
+     "dur": 7.033,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"No longer delivering fair or timely outcomes.\"",
+     "highlight": "NO LONGER",
+     "size": 100,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_showroom/6_pixabay.jpg",
+     "move": "out",
+     "dur": 3.4,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_court/1_unsplash.jpg",
+     "move": "up",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_phone/5_unsplash.jpg",
+     "move": "right",
+     "dur": 3.58,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_family_stranded_1.jpg",
+     "move": "out",
+     "dur": 4.36,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "6\u20138 weeks",
+     "label": "just to DIAGNOSE a fault",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "AADA review \u00b7 July 2026",
+     "color": "red",
+     "dur": 6.22,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_mechanic/6_pixabay.jpg",
+     "move": "down",
+     "dur": 2.4,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_dealer/3_unsplash.jpg",
+     "move": "in",
+     "dur": 5.26,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_engine/1_unsplash.jpg",
+     "move": "left",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_phone/6_pixabay.jpg",
+     "move": "in",
+     "dur": 3.3,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_parliament/2_pixabay.jpg",
+     "move": "out",
+     "dur": 4.78,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_phone/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.56,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "60",
+     "label": "steps to complain about a faulty car",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CPRC / Consumer Action",
+     "color": "red",
+     "dur": 5.92,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_paperwork/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.684,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch07.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/h_court/2_pixabay.jpg",
+     "move": "right",
+     "dur": 5.56,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_mazda_cx5/1_commons.jpg",
+     "move": "in",
+     "caption": "Mazda|9 customers, 2013\u20132017",
+     "dur": 7.44,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "3",
+     "label": "engine replacements on one car",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "ACCC v Mazda",
+     "color": "red",
+     "dur": 5.38,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_mazda_cx5/3_commons.jpg",
+     "move": "left",
+     "dur": 5.26,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_court/3_unsplash.jpg",
+     "move": "in",
+     "dur": 3.63,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "49",
+     "label": "false or misleading statements",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Federal Court",
+     "dur": 5.77,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "$11.5M",
+     "label": "penalties ordered against Mazda \u00b7 2024",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Federal Court",
+     "color": "red",
+     "dur": 5.56,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_dealer/5_unsplash.jpg",
+     "move": "up",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_judge/3_unsplash.jpg",
+     "move": "up",
+     "dur": 2.98,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"Not our policy\" isn't the law.",
+     "highlight": "ISN'T THE LAW",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 6.481,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch08.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/h_parliament/3_pixabay.jpg",
+     "move": "out",
+     "dur": 2.94,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_parliament/4_pixabay.jpg",
+     "move": "down",
+     "caption": "Consumer affairs ministers|November 2025",
+     "dur": 6.58,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Civil penalties are coming.",
+     "highlight": "PENALTIES",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.32,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_money/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.7,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_money/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.36,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_dealer/6_pixabay.jpg",
+     "move": "in",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_parliament/6_pixabay.jpg",
+     "move": "out",
+     "dur": 2.76,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_driving/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.28,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_laptop/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_judge/4_pixabay.jpg",
+     "move": "down",
+     "dur": 3.42,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Refusing to fix it will cost more.",
+     "highlight": "COST MORE",
+     "size": 125,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.477,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch09.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "What to do",
+     "subtitle": "if your new car is a lemon",
+     "tag": "step by step",
+     "bg": "a/h_documents/3_unsplash.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 3.48,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "1 \u00b7 Document everything",
+     "highlight": "1",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 6.62,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_dashboard/1_pixabay.jpg",
+     "move": "out",
+     "dur": 2.74,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_signing/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 1.96,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "2 \u00b7 Put it in writing",
+     "highlight": "2",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.24,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_phone/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.72,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"As discussed today\u2026\"",
+     "highlight": "AS DISCUSSED",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.83,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_laptop/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.31,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_court/5_unsplash.jpg",
+     "move": "right",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_contract/3_unsplash.jpg",
+     "move": "in",
+     "dur": 4.175,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "3 \u00b7 Dealer + head office",
+     "highlight": "3",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.265,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_showroom/1_unsplash.jpg",
+     "move": "in",
+     "dur": 1.367,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "4 \u00b7 Use the right words",
+     "highlight": "4",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 2.513,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"A claim under the consumer guarantees of the ACL\"",
+     "highlight": "CONSUMER GUARANTEES",
+     "size": 95,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.46,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_phone/2_pixabay.jpg",
+     "move": "up",
+     "dur": 6.4,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "5 \u00b7 Know what they can't do",
+     "highlight": "5",
+     "size": 125,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.12,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_money/1_pixabay.jpg",
+     "move": "out",
+     "dur": 5.74,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_engine/3_unsplash.jpg",
+     "move": "down",
+     "dur": 2.56,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "40%",
+     "label": "think they must service at the dealer \u2013 you don't",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "owner survey",
+     "color": "red",
+     "dur": 7.08,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_engine/4_pixabay.jpg",
+     "move": "in",
+     "dur": 6.06,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "6 \u00b7 Fair trading, then tribunal",
+     "highlight": "6",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.28,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_court/6_pixabay.jpg",
+     "move": "left",
+     "dur": 1.68,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "NCAT \u00b7 NSW",
+      "VCAT \u00b7 Victoria",
+      "QCAT \u00b7 Queensland"
+     ],
+     "starts": [
+      0,
+      51,
+      94
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 2.1599999999999966
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 3.9200000000000017
+      }
+     ],
+     "dur": 6.98,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_news/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.64,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_phone/3_unsplash.jpg",
+     "move": "out",
+     "dur": 3.3,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Claim your costs too.",
+     "highlight": "COSTS",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.42,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_money/2_pixabay.jpg",
+     "move": "right",
+     "dur": 3.92,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_broken/1_unsplash.jpg",
+     "move": "in",
+     "dur": 5.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_documents/4_pixabay.jpg",
+     "move": "up",
+     "dur": 2.74,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Repair? Refund? Replacement? Say it.",
+     "highlight": "SAY IT",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_contract/5_unsplash.jpg",
+     "move": "left",
+     "dur": 2.7,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "14 days",
+     "label": "a reasonable deadline for a written reply",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "dur": 4.44,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_engine/5_unsplash.jpg",
+     "move": "out",
+     "dur": 4.56,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_showroom/2_pixabay.jpg",
+     "move": "down",
+     "dur": 6.74,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_news/3_pixabay.jpg",
+     "move": "in",
+     "dur": 6.058,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch10.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/h_used/5_pixabay.jpg",
+     "move": "left",
+     "dur": 6.12,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_money/3_pixabay.jpg",
+     "move": "out",
+     "dur": 3.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_used/6_pixabay.jpg",
+     "move": "right",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_contract/6_pixabay.jpg",
+     "move": "out",
+     "dur": 2.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_keys/3_pixabay.jpg",
+     "move": "in",
+     "dur": 6.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_money/4_pixabay.jpg",
+     "move": "up",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_keys/5_pixabay.jpg",
+     "move": "right",
+     "dur": 2.98,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_documents/5_unsplash.jpg",
+     "move": "out",
+     "dur": 2.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_showroom/3_unsplash.jpg",
+     "move": "down",
+     "dur": 3.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_documents/6_pixabay.jpg",
+     "move": "in",
+     "dur": 4.14,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_contract/1_unsplash.jpg",
+     "move": "left",
+     "dur": 4.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_showroom/4_pixabay.jpg",
+     "move": "out",
+     "dur": 6.42,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "5 minutes before vs months after.",
+     "highlight": "MONTHS",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.151,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch11.flac",
+   "lead_in": 0,
+   "tail": 2.5,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_salesman/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.69,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "x3",
+     "label": "BYD owners' compensation after pushing back",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "July 2026",
+     "dur": 3.03,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_judge/2_pixabay.jpg",
+     "move": "right",
+     "dur": 3.38,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_parliament/5_pixabay.jpg",
+     "move": "in",
+     "dur": 1.66,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "The law is on your side.",
+     "highlight": "YOUR SIDE",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.34,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Share it with someone buying a car",
+     "sub": "It could save them thousands",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 5.18,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Like \u00b7 Subscribe",
+     "sub": "and tell me your lemon story",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 3.1,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "Tesla Cancelled the Cybertruck",
+     "subtitle": "for Australia \u2013 after 7 years of deposits",
+     "tag": "next video",
+     "bg": "a/h_keys/4_pixabay.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 12.852,
+     "fixed": false,
+     "fade_out": 0
+    }
+   ]
+  }
+ ],
+ "size": [
+  1920,
+  1080
+ ],
+ "subtitles": "AUS04.ass"
+}
