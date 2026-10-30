@@ -266,6 +266,102 @@
     "unsplash",
     "pixabay"
    ]
+  },
+  {
+   "id": "h_show2",
+   "query": "auto show new cars",
+   "alt": [
+    "car exhibition"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_suv2",
+   "query": "suv car",
+   "alt": [
+    "family suv road"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_ute2",
+   "query": "pickup truck",
+   "alt": [
+    "4x4 pickup"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_ev3",
+   "query": "electric car",
+   "alt": [
+    "electric vehicle charging"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_showroom",
+   "query": "car showroom",
+   "alt": [
+    "new car dealership"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_road2",
+   "query": "australian road",
+   "alt": [
+    "highway driving"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_carpark",
+   "query": "new cars parking lot",
+   "alt": [
+    "cars in a row"
+   ],
+   "n": 5,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_drive",
+   "query": "driving car",
+   "alt": [
+    "car on road"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
   }
  ]
 }

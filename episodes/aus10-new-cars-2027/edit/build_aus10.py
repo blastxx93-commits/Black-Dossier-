@@ -9,11 +9,11 @@ import aus_kit as A
 from aus_kit import P, photo, stat, bars, say, cta, title, ch, questions, rank
 
 PHOTOS = {
-    "ute": ["h_tow", "h_ute_outback", "m_hilux", "m_ranger", "m_shark6"],
-    "suv": ["m_omoda7", "m_omoda4", "m_rav4", "m_outlander", "h_family"],
-    "ev": ["h_ev_charge", "m_model_y", "m_ix3"],
-    "show": ["h_motor_show", "h_dealer"],
-    "road": ["h_road", "h_ute_outback"],
+    "ute": ["h_tow", "h_ute_outback", "h_ute2", "m_hilux", "m_ranger", "m_shark6"],
+    "suv": ["m_omoda7", "m_omoda4", "m_rav4", "m_outlander", "h_family", "h_suv2"],
+    "ev": ["h_ev_charge", "m_model_y", "m_ix3", "h_ev3"],
+    "show": ["h_motor_show", "h_dealer", "h_show2", "h_showroom", "h_carpark"],
+    "road": ["h_road", "h_ute_outback", "h_road2", "h_drive"],
     "premium": ["m_zeekr", "m_polestar5", "m_ix3"],
     "4wd": ["m_prado", "m_patrol", "m_pajero"],
 }
