@@ -145,7 +145,7 @@ def search_commons(q, rows=10, years=None, collections=None, item=None):
     return out
 
 
-def search_pexels(q, rows=8, years=None, collections=None, item=None):
+def search_pexels(q, rows=12, years=None, collections=None, item=None):
     """Pexels stock video (free to use, Pexels license). Needs env PEXELS_API_KEY; skipped without it."""
     key = os.environ.get("PEXELS_API_KEY", "").strip()
     if item or not key:
@@ -171,7 +171,7 @@ def search_pexels(q, rows=8, years=None, collections=None, item=None):
     return out
 
 
-def search_pixabay(q, rows=8, years=None, collections=None, item=None):
+def search_pixabay(q, rows=12, years=None, collections=None, item=None):
     """Pixabay stock video (free to use, Pixabay Content License). Needs env PIXABAY_API_KEY; skipped without it."""
     key = os.environ.get("PIXABAY_API_KEY", "").strip()
     if item or not key:

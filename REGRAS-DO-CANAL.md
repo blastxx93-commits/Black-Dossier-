@@ -60,3 +60,12 @@ As duas contam a mesma promessa do título, cada uma do seu jeito.
 - Antes de fechar título, descrição e tags, o agente `Palavras-chave` (GitHub) puxa as sugestões de busca do YouTube
   para o tema (o que as pessoas realmente digitam). Título, primeiras linhas da descrição e tags usam os termos mais buscados.
 - Tags: 15–20, misturando termos amplos (mafia documentary, true crime) e específicos com demanda.
+
+## Canal Austrália (branch canal-australia)
+- Só assuntos de 2026 e atualidade; dados com fonte e data. Pauta automática: workflow "Pauta (canal Austrália)".
+- Hook impactante nos primeiros 30–60 s (número/fato real que choca), CTA no meio e no fim.
+- A partir do vídeo 3: no mínimo 15 minutos de narração. Voz nunca é acelerada/desacelerada (speed 1.0).
+- Voz padrão: Fish Audio, voz A (1178e1b397ac47d5966842d3f1fe1019). Trilha a -29 dB sob a voz.
+- Edição: sem imagens repetidas (checagem por conteúdo), sem tela preta, nada estático, transições dinâmicas,
+  cada plano preso à palavra da narração, meta de ~40% de clipes entre o material de imagem.
+- Ao publicar: marcar "conteúdo alterado ou sintético" quando houver cena realista feita por IA.
