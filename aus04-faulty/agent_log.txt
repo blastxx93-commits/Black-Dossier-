@@ -1,0 +1,137 @@
+[     0s] aus04-faulty: 33 planos, limite 35.0 min
+[     0s] m_atto3: 'BYD Atto 3'
+[     0s]     commons: 12 candidatos em 0.4s
+[     1s]     pixabay: 12 candidatos em 0.6s
+[     4s]   -> 4 imagens
+[     4s] m_sealion8: 'BYD Sealion 8'
+[     5s]     commons: 12 candidatos em 0.7s
+[     5s]     pixabay: 12 candidatos em 0.2s
+[     9s]   -> 4 imagens
+[     9s] m_shark6: 'BYD Shark 6'
+[     9s]     commons: 12 candidatos em 0.4s
+[     9s]     pixabay: 12 candidatos em 0.2s
+[    12s]   -> 4 imagens
+[    12s] m_ranger: 'Ford Ranger 2024'
+[    13s]     commons: 12 candidatos em 0.4s
+[    13s]     pixabay: 12 candidatos em 0.2s
+[    16s]   -> 4 imagens
+[    16s] m_everest: 'Ford Everest 2023'
+[    17s]     commons: 12 candidatos em 0.4s
+[    17s]     pixabay: 12 candidatos em 0.2s
+[    20s]   -> 4 imagens
+[    20s] m_f150: 'Ford F-150 2024'
+[    21s]     commons: 12 candidatos em 0.8s
+[    21s]     pixabay: 12 candidatos em 0.2s
+[    25s]   -> 4 imagens
+[    25s] m_fronx: 'Suzuki Fronx'
+[    25s]     commons: 12 candidatos em 0.6s
+[    25s]     pixabay: 12 candidatos em 0.2s
+[    28s]   -> 4 imagens
+[    28s] m_mazda_cx5: 'Mazda CX-5 2022'
+[    29s]     commons: 12 candidatos em 0.6s
+[    29s]     pixabay: 12 candidatos em 0.2s
+[    33s]   -> 4 imagens
+[    33s] m_deepal: 'Deepal S07'
+[    33s]     commons: 12 candidatos em 0.9s
+[    34s]     pixabay: 0 candidatos em 0.4s
+[    38s]   -> 4 imagens
+[    38s] h_dealer: 'car dealership'
+[    39s]     unsplash: 12 candidatos em 0.9s
+[    39s]     pixabay: 12 candidatos em 0.2s
+[    44s]   -> 6 imagens
+[    44s] h_showroom: 'car showroom customer'
+[    45s]     unsplash: 12 candidatos em 0.9s
+[    45s]     pixabay: 12 candidatos em 0.2s
+[    50s]   -> 6 imagens
+[    50s] h_mechanic: 'car mechanic workshop'
+[    51s]     unsplash: 12 candidatos em 0.8s
+[    51s]     pixabay: 12 candidatos em 0.2s
+[    56s]   -> 6 imagens
+[    56s] h_engine: 'car engine repair'
+[    57s]     unsplash: 12 candidatos em 0.8s
+[    57s]     pixabay: 12 candidatos em 0.2s
+[    62s]   -> 6 imagens
+[    62s] h_rust: 'rusty car'
+[    63s]     unsplash: 12 candidatos em 0.8s
+[    63s]     pixabay: 12 candidatos em 0.2s
+[    69s]   -> 6 imagens
+[    69s] h_court: 'courthouse'
+[    69s]     unsplash: 12 candidatos em 0.7s
+[    70s]     pixabay: 12 candidatos em 0.2s
+[    75s]   -> 6 imagens
+[    75s] h_judge: 'judge gavel'
+[    76s]     unsplash: 12 candidatos em 0.8s
+[    76s]     pixabay: 12 candidatos em 0.2s
+[    81s]   -> 6 imagens
+[    81s] h_documents: 'documents paperwork desk'
+[    82s]     unsplash: 12 candidatos em 0.7s
+[    82s]     pixabay: 12 candidatos em 0.4s
+[    88s]   -> 6 imagens
+[    88s] h_contract: 'signing contract'
+[    89s]     unsplash: 12 candidatos em 0.9s
+[    89s]     pixabay: 12 candidatos em 0.5s
+[    93s]   -> 6 imagens
+[    93s] h_phone: 'angry phone call'
+[    94s]     unsplash: 12 candidatos em 0.9s
+[    95s]     pixabay: 12 candidatos em 0.2s
+[   100s]   -> 6 imagens
+[   100s] h_email: 'typing email laptop'
+[   101s]     unsplash: 12 candidatos em 0.9s
+[   101s]     pixabay: 12 candidatos em 0.2s
+[   106s]   -> 6 imagens
+[   106s] h_tow: 'tow truck car'
+[   106s]     unsplash: 12 candidatos em 0.9s
+[   107s]     pixabay: 12 candidatos em 0.2s
+[   111s]   -> 6 imagens
+[   111s] h_broken: 'car breakdown roadside'
+[   112s]     unsplash: 12 candidatos em 0.9s
+[   113s]     pixabay: 12 candidatos em 0.2s
+[   119s]   -> 6 imagens
+[   119s] h_dashboard: 'car dashboard warning light'
+[   120s]   ! unsplash: 403 Client Error: Forbidden for url: https://api.unsplash.com/search/photos?query=car+dashboard+warning+light&per_page=12&orientation=landsc
+[   120s]     unsplash: 0 candidatos em 0.6s
+[   120s]     pixabay: 12 candidatos em 0.4s
+[   126s]   -> 6 imagens
+[   126s] h_screen: 'car touchscreen dashboard'
+[   126s]   ! unsplash: 403 Client Error: Forbidden for url: https://api.unsplash.com/search/photos?query=car+touchscreen+dashboard&per_page=12&orientation=landscap
+[   126s]     unsplash: 0 candidatos em 0.6s
+[   126s]     pixabay: 12 candidatos em 0.2s
+[   132s]   -> 6 imagens
+[   132s] h_reverse: 'reversing camera car'
+[   132s]   ! unsplash: 403 Client Error: Forbidden for url: https://api.unsplash.com/search/photos?query=reversing+camera+car&per_page=12&orientation=landscape&con
+[   132s]     unsplash: 0 candidatos em 0.6s
+[   133s]     pixabay: 12 candidatos em 0.4s
+[   137s]   -> 6 imagens
+[   137s] h_seatbelt: 'car seatbelt'
+[   137s]     unsplash: 0 candidatos em 0.0s
+[   137s]     pixabay: 12 candidatos em 0.3s
+[   142s]   -> 6 imagens
+[   142s] h_crash_test: 'car crash test'
+[   142s]     unsplash: 0 candidatos em 0.0s
+[   143s]     pixabay: 12 candidatos em 0.2s
+[   148s]   -> 6 imagens
+[   148s] h_money: 'australian dollars'
+[   148s]     unsplash: 0 candidatos em 0.0s
+[   148s]     pixabay: 12 candidatos em 0.3s
+[   153s]   -> 6 imagens
+[   153s] h_calendar: 'calendar'
+[   153s]     unsplash: 0 candidatos em 0.0s
+[   153s]     pixabay: 12 candidatos em 0.2s
+[   158s]   -> 6 imagens
+[   158s] h_news: 'newspaper reading'
+[   158s]     unsplash: 0 candidatos em 0.0s
+[   158s]     pixabay: 12 candidatos em 0.2s
+[   163s]   -> 6 imagens
+[   163s] h_keys: 'car keys hand'
+[   163s]     unsplash: 0 candidatos em 0.0s
+[   163s]     pixabay: 12 candidatos em 0.2s
+[   167s]   -> 6 imagens
+[   167s] h_used: 'used cars for sale'
+[   167s]     unsplash: 0 candidatos em 0.0s
+[   168s]     pixabay: 12 candidatos em 0.2s
+[   172s]   -> 6 imagens
+[   172s] h_parliament: 'Parliament House Canberra'
+[   172s]     unsplash: 0 candidatos em 0.0s
+[   173s]     pixabay: 12 candidatos em 0.2s
+[   177s]   -> 6 imagens
+[   180s] fim: 180 imagens
