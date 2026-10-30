@@ -67,16 +67,7 @@
      "type": "image",
      "src": "a/ai/ai_cars_waiting_1.jpg",
      "move": "out",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "video",
-     "src": "a/video/v_ev_highway/1_pixabay.mp4",
-     "fit": "crop",
-     "start": 0,
-     "xfade": 0.35,
-     "dur": 2.76,
+     "dur": 7.76,
      "fixed": true
     },
     {
@@ -152,16 +143,16 @@
      "type": "image",
      "src": "a/m_dolphin/5_commons.jpg",
      "move": "right",
-     "dur": 5.0,
+     "dur": 7.0,
      "fixed": true
     },
     {
      "type": "video",
-     "src": "a/video/v_ev_highway/2_pixabay.mp4",
+     "src": "a/video/v_ev_highway/1_pixabay.mp4",
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 6.68,
+     "dur": 4.68,
      "fixed": true
     },
     {
@@ -224,16 +215,7 @@
       }
      ],
      "source": "FCAI / EVC via Cars24",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "video",
-     "src": "a/video/v_parking_lot/3_pixabay.mp4",
-     "fit": "crop",
-     "start": 0,
-     "xfade": 0.35,
-     "dur": 4.36,
+     "dur": 9.36,
      "fixed": true
     },
     {
@@ -351,16 +333,7 @@
       }
      ],
      "source": "NRMA Insurance",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "video",
-     "src": "a/video/v_driving/1_pixabay.mp4",
-     "fit": "crop",
-     "start": 0,
-     "xfade": 0.35,
-     "dur": 2.64,
+     "dur": 7.64,
      "fixed": true
     },
     {
@@ -438,14 +411,7 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_tow_truck/2_pixabay.jpg",
-     "move": "right",
-     "dur": 4.1,
+     "dur": 9.1,
      "fixed": true
     },
     {
@@ -460,14 +426,7 @@
      "src": "a/h_wrecking_yard/1_pixabay.jpg",
      "move": "left",
      "caption": "Damaged EVs|kept apart in quarantine",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_tow_truck/4_pixabay.jpg",
-     "move": "in",
-     "dur": 3.82,
+     "dur": 8.82,
      "fixed": true
     },
     {
@@ -515,14 +474,16 @@
      ],
      "source": "MTAA \u00b7 Matt Hobbs",
      "color": "red",
-     "dur": 5.0,
+     "dur": 7.0,
      "fixed": true
     },
     {
-     "type": "image",
-     "src": "a/h_tow_truck/5_pixabay.jpg",
-     "move": "up",
-     "dur": 6.12,
+     "type": "video",
+     "src": "a/video/v_ev_highway/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.12,
      "fixed": true
     },
     {
@@ -538,14 +499,7 @@
       }
      ],
      "source": "MTAA \u00b7 2024",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_tow_truck/6_pixabay.jpg",
-     "move": "out",
-     "dur": 3.58,
+     "dur": 8.58,
      "fixed": true
     },
     {
@@ -600,14 +554,7 @@
        "at": 0
       }
      ],
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_tow2/3_pixabay.jpg",
-     "move": "down",
-     "dur": 3.148,
+     "dur": 8.148,
      "fixed": false
     }
    ]
@@ -688,28 +635,23 @@
      "type": "image",
      "src": "a/ai/ai_battery_cells_1.jpg",
      "move": "left",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_spray/2_pixabay.jpg",
-     "move": "in",
-     "dur": 3.2,
+     "dur": 8.2,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/h_battery_pack/2_pixabay.jpg",
      "move": "out",
-     "dur": 5.0,
+     "dur": 7.0,
      "fixed": true
     },
     {
-     "type": "image",
-     "src": "a/h_spray/3_pixabay.jpg",
-     "move": "left",
-     "dur": 5.54,
+     "type": "video",
+     "src": "a/video/v_parking_lot/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.54,
      "fixed": true
     },
     {
@@ -756,28 +698,23 @@
      "type": "image",
      "src": "a/h_battery_pack/4_pixabay.jpg",
      "move": "up",
-     "dur": 5.0,
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_driving/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.0,
      "fixed": true
     },
     {
      "type": "image",
-     "src": "a/h_spray/5_pixabay.jpg",
-     "move": "out",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_road_au/3_pixabay.jpg",
+     "src": "a/h_repair3/4_pixabay.jpg",
      "move": "right",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_road_au/4_pixabay.jpg",
-     "move": "in",
-     "dur": 4.31,
+     "dur": 5.31,
      "fixed": true
     },
     {
@@ -794,14 +731,7 @@
      ],
      "source": "AAMC",
      "color": "red",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_road_au/5_pixabay.jpg",
-     "move": "up",
-     "dur": 4.14,
+     "dur": 9.14,
      "fixed": true
     },
     {
@@ -832,14 +762,7 @@
        "at": 0
       }
      ],
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_road_au/6_pixabay.jpg",
-     "move": "out",
-     "dur": 4.14,
+     "dur": 9.14,
      "fixed": true
     },
     {
@@ -868,21 +791,14 @@
      "type": "image",
      "src": "a/h_mechanic_ev/2_pixabay.jpg",
      "move": "in",
-     "dur": 5.0,
+     "dur": 7.0,
      "fixed": true
     },
     {
      "type": "image",
-     "src": "a/h_carpark/5_pixabay.jpg",
-     "move": "down",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_carpark/6_pixabay.jpg",
+     "src": "a/h_road_au/3_pixabay.jpg",
      "move": "in",
-     "dur": 2.64,
+     "dur": 5.64,
      "fixed": true
     },
     {
@@ -894,7 +810,7 @@
     },
     {
      "type": "image",
-     "src": "a/h_mechanic_ev/5_pixabay.jpg",
+     "src": "a/h_mechanic2/1_unsplash.jpg",
      "move": "out",
      "dur": 7.34,
      "fixed": true
@@ -940,7 +856,7 @@
      "title": "Step 3",
      "subtitle": "The wait",
      "tag": "parts & workshops",
-     "bg": "a/h_panel_beater/6_pixabay.jpg",
+     "bg": "a/h_workshop/1_unsplash.jpg",
      "trans": "zoom",
      "sfx": [
       {
@@ -959,7 +875,7 @@
     },
     {
      "type": "image",
-     "src": "a/h_workshop/1_unsplash.jpg",
+     "src": "a/h_workshop/3_unsplash.jpg",
      "move": "up",
      "dur": 5.66,
      "fixed": true
@@ -1023,7 +939,7 @@
     },
     {
      "type": "image",
-     "src": "a/h_mechanic2/1_unsplash.jpg",
+     "src": "a/h_mechanic2/5_unsplash.jpg",
      "move": "down",
      "dur": 3.34,
      "fixed": true
@@ -1060,14 +976,14 @@
      "prefix": "",
      "suffix": "%",
      "source": "BYD \u00b7 CarAdvice",
-     "dur": 5.0,
+     "dur": 7.0,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/h_warehouse/1_pixabay.jpg",
-     "move": "left",
-     "dur": 5.54,
+     "move": "up",
+     "dur": 3.54,
      "fixed": true
     },
     {
@@ -1083,28 +999,14 @@
       }
      ],
      "source": "CarAdvice",
-     "dur": 5.0,
+     "dur": 9.52,
      "fixed": true
     },
     {
      "type": "image",
-     "src": "a/h_warehouse/3_pixabay.jpg",
-     "move": "out",
-     "dur": 4.52,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_workshop/3_unsplash.jpg",
+     "src": "a/h_workshop/4_pixabay.jpg",
      "move": "in",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_warehouse/5_pixabay.jpg",
-     "move": "right",
-     "dur": 5.4,
+     "dur": 10.4,
      "fixed": true
     },
     {
@@ -1135,16 +1037,9 @@
     },
     {
      "type": "image",
-     "src": "a/h_workshop/4_pixabay.jpg",
+     "src": "a/h_workshop/5_unsplash.jpg",
      "move": "left",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_cargo_plane/1_pixabay.jpg",
-     "move": "in",
-     "dur": 4.82,
+     "dur": 9.82,
      "fixed": true
     },
     {
@@ -1166,14 +1061,14 @@
     },
     {
      "type": "image",
-     "src": "a/h_mechanic2/5_unsplash.jpg",
+     "src": "a/h_workshop/7_unsplash.jpg",
      "move": "out",
      "dur": 5.0,
      "fixed": true
     },
     {
      "type": "image",
-     "src": "a/h_workshop/5_unsplash.jpg",
+     "src": "a/h_spray/1_pixabay.jpg",
      "move": "right",
      "dur": 2.714,
      "fixed": false
@@ -1208,21 +1103,14 @@
        "at": 1.2
       }
      ],
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_car_crash/3_pixabay.jpg",
-     "move": "up",
-     "dur": 5.0,
+     "dur": 7.0,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/h_car_crash/5_pixabay.jpg",
      "move": "out",
-     "dur": 2.62,
+     "dur": 5.62,
      "fixed": true
     },
     {
@@ -1303,14 +1191,7 @@
       }
      ],
      "source": "Insurance Council of Australia",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_ev2/3_unsplash.jpg",
-     "move": "down",
-     "dur": 3.06,
+     "dur": 8.06,
      "fixed": true
     },
     {
@@ -1322,7 +1203,7 @@
     },
     {
      "type": "image",
-     "src": "a/h_mechanic2/6_pixabay.jpg",
+     "src": "a/h_spray/2_pixabay.jpg",
      "move": "down",
      "dur": 6.72,
      "fixed": true
@@ -1383,14 +1264,7 @@
      "type": "image",
      "src": "a/h_worried/1_pixabay.jpg",
      "move": "right",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_ev2/5_unsplash.jpg",
-     "move": "in",
-     "dur": 3.54,
+     "dur": 8.54,
      "fixed": true
     },
     {
@@ -1414,14 +1288,7 @@
      ],
      "source": "Compare the Market \u00b7 April 2026",
      "color": "red",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_ev2/6_pixabay.jpg",
-     "move": "left",
-     "dur": 3.92,
+     "dur": 8.92,
      "fixed": true
     },
     {
@@ -1490,14 +1357,7 @@
      "src": "a/m_dolphin/3_commons.jpg",
      "move": "in",
      "caption": "BYD Dolphin|$1,437 \u2192 $1,578",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_ev2/7_unsplash.jpg",
-     "move": "out",
-     "dur": 3.12,
+     "dur": 8.12,
      "fixed": true
     },
     {
@@ -1547,21 +1407,14 @@
      "prefix": "$",
      "suffix": "",
      "source": "CHOICE",
-     "dur": 5.0,
+     "dur": 7.0,
      "fixed": true
     },
     {
      "type": "image",
-     "src": "a/h_ev2/8_pixabay.jpg",
-     "move": "right",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_car_crash/6_pixabay.jpg",
-     "move": "in",
-     "dur": 4.0,
+     "src": "a/h_road_au/4_pixabay.jpg",
+     "move": "down",
+     "dur": 7.0,
      "fixed": true
     },
     {
@@ -1588,14 +1441,14 @@
      "prefix": "$",
      "suffix": "",
      "source": "Taylor Fry \u00b7 April 2026",
-     "dur": 5.0,
+     "dur": 7.0,
      "fixed": true
     },
     {
      "type": "image",
-     "src": "a/h_damaged/1_unsplash.jpg",
-     "move": "up",
-     "dur": 6.49,
+     "src": "a/h_road_au/6_pixabay.jpg",
+     "move": "in",
+     "dur": 4.49,
      "fixed": true
     },
     {
@@ -1632,14 +1485,7 @@
        "at": 0
       }
      ],
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_damaged/3_unsplash.jpg",
-     "move": "out",
-     "dur": 2.98,
+     "dur": 7.98,
      "fixed": true
     },
     {
@@ -1677,21 +1523,14 @@
        "at": 0
       }
      ],
-     "dur": 5.0,
+     "dur": 7.0,
      "fixed": true
     },
     {
      "type": "image",
-     "src": "a/h_damaged/5_unsplash.jpg",
-     "move": "down",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_damaged/6_pixabay.jpg",
-     "move": "in",
-     "dur": 3.1,
+     "src": "a/h_repair3/6_pixabay.jpg",
+     "move": "left",
+     "dur": 6.1,
      "fixed": true
     },
     {
@@ -1739,14 +1578,7 @@
      "type": "image",
      "src": "a/h_insurance_form/3_pixabay.jpg",
      "move": "in",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_damaged/7_unsplash.jpg",
-     "move": "left",
-     "dur": 2.54,
+     "dur": 7.54,
      "fixed": true
     },
     {
@@ -1782,16 +1614,9 @@
     },
     {
      "type": "image",
-     "src": "a/h_insurance_form/5_pixabay.jpg",
+     "src": "a/h_insurance2/5_unsplash.jpg",
      "move": "left",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/m_byd3/1_commons.jpg",
-     "move": "out",
-     "dur": 2.86,
+     "dur": 7.86,
      "fixed": true
     },
     {
@@ -1822,14 +1647,7 @@
        "at": 0
       }
      ],
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/m_byd3/3_commons.jpg",
-     "move": "right",
-     "dur": 4.9,
+     "dur": 9.9,
      "fixed": true
     },
     {
@@ -1858,7 +1676,7 @@
      "title": "The Checklist",
      "subtitle": "save this one",
      "tag": "before \u00b7 renewal \u00b7 after",
-     "bg": "a/h_insurance2/5_unsplash.jpg",
+     "bg": "a/h_insurance2/6_pixabay.jpg",
      "trans": "zoom",
      "sfx": [
       {
@@ -1953,7 +1771,7 @@
     },
     {
      "type": "image",
-     "src": "a/h_insurance2/6_pixabay.jpg",
+     "src": "a/h_insurance3/1_pixabay.jpg",
      "move": "in",
      "dur": 3.38,
      "fixed": true
@@ -1982,7 +1800,7 @@
     },
     {
      "type": "image",
-     "src": "a/h_bumper/5_pixabay.jpg",
+     "src": "a/h_car_crash/3_pixabay.jpg",
      "move": "out",
      "dur": 1.7,
      "fixed": true
@@ -2032,7 +1850,7 @@
     },
     {
      "type": "image",
-     "src": "a/h_workshop/6_pixabay.jpg",
+     "src": "a/h_insurance3/5_pixabay.jpg",
      "move": "down",
      "dur": 3.7,
      "fixed": true
@@ -2075,21 +1893,14 @@
     },
     {
      "type": "image",
-     "src": "a/h_workshop/7_unsplash.jpg",
+     "src": "a/h_spray/3_pixabay.jpg",
      "move": "right",
-     "dur": 5.0,
+     "dur": 9.62,
      "fixed": true
     },
     {
      "type": "image",
-     "src": "a/h_tow2/4_pixabay.jpg",
-     "move": "in",
-     "dur": 4.62,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/m_byd4/6_pixabay.jpg",
+     "src": "a/m_byd2/3_commons.jpg",
      "move": "in",
      "dur": 2.74,
      "fixed": true
@@ -2128,7 +1939,7 @@
     },
     {
      "type": "image",
-     "src": "a/m_byd2/3_commons.jpg",
+     "src": "a/m_byd2/5_commons.jpg",
      "move": "up",
      "dur": 4.884,
      "fixed": false
@@ -2142,16 +1953,9 @@
    "shots": [
     {
      "type": "image",
-     "src": "a/m_byd2/5_commons.jpg",
+     "src": "a/m_byd3/1_commons.jpg",
      "move": "out",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_tow2/5_pixabay.jpg",
-     "move": "up",
-     "dur": 2.84,
+     "dur": 7.84,
      "fixed": true
     },
     {
@@ -2171,7 +1975,7 @@
     },
     {
      "type": "image",
-     "src": "a/h_spray/1_pixabay.jpg",
+     "src": "a/h_repair3/2_pixabay.jpg",
      "move": "down",
      "dur": 4.84,
      "fixed": true
@@ -2196,14 +2000,7 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_parking_sensor/4_pixabay.jpg",
-     "move": "out",
-     "dur": 3.14,
+     "dur": 8.14,
      "fixed": true
     },
     {
@@ -2222,14 +2019,7 @@
        "at": 1.2
       }
      ],
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_cargo_plane/2_pixabay.jpg",
-     "move": "down",
-     "dur": 3.58,
+     "dur": 8.58,
      "fixed": true
     },
     {

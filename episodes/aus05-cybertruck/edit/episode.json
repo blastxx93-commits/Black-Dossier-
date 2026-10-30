@@ -109,7 +109,7 @@
      "title": "CANCELLED",
      "subtitle": "Tesla Cybertruck \u00b7 Australia",
      "tag": "October 2026",
-     "bg": "a/m_cybertruck/5_commons.jpg",
+     "bg": "a/m_cybertruck/7_commons.jpg",
      "trans": "zoom",
      "sfx": [
       {
@@ -262,7 +262,7 @@
     },
     {
      "type": "image",
-     "src": "a/m_cybertruck/6_pixabay.jpg",
+     "src": "a/m_cybertruck_interior/1_commons.jpg",
      "move": "up",
      "dur": 4.94,
      "fixed": true
@@ -319,16 +319,7 @@
      "src": "a/m_cybertruck/3_commons.jpg",
      "move": "right",
      "caption": "Deliveries began|late 2023",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "video",
-     "src": "a/video/v_australia_road/1_pixabay.mp4",
-     "fit": "crop",
-     "start": 0,
-     "xfade": 0.35,
-     "dur": 4.72,
+     "dur": 9.72,
      "fixed": true
     },
     {
@@ -367,16 +358,7 @@
      "src": "a/h_email_laptop/3_pixabay.jpg",
      "move": "in",
      "caption": "May 2022|reservation page closed",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "video",
-     "src": "a/video/v_city_traffic/3_pixabay.mp4",
-     "fit": "crop",
-     "start": 0,
-     "xfade": 0.35,
-     "dur": 3.88,
+     "dur": 8.88,
      "fixed": true
     },
     {
@@ -390,23 +372,14 @@
     },
     {
      "type": "image",
-     "src": "a/m_cybertruck/7_commons.jpg",
+     "src": "a/m_cybertruck2/3_commons.jpg",
      "move": "left",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "video",
-     "src": "a/video/v_desert_road/3_pixabay.mp4",
-     "fit": "crop",
-     "start": 0,
-     "xfade": 0.35,
-     "dur": 5.24,
+     "dur": 10.24,
      "fixed": true
     },
     {
      "type": "image",
-     "src": "a/m_cybertruck/8_pixabay.jpg",
+     "src": "a/m_cybertruck2/5_commons.jpg",
      "move": "out",
      "dur": 3.04,
      "fixed": true
@@ -438,16 +411,7 @@
        "at": 0
       }
      ],
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "video",
-     "src": "a/video/v_road_trip/3_pixabay.mp4",
-     "fit": "crop",
-     "start": 0,
-     "xfade": 0.35,
-     "dur": 5.22,
+     "dur": 10.22,
      "fixed": true
     },
     {
@@ -500,7 +464,7 @@
      "title": "Why Tesla Pulled the Plug",
      "subtitle": "the numbers",
      "tag": "4 reasons",
-     "bg": "a/m_cybertruck_interior/1_commons.jpg",
+     "bg": "a/m_cybertruck3/5_commons.jpg",
      "trans": "zoom",
      "sfx": [
       {
@@ -529,16 +493,7 @@
        "at": 0.05
       }
      ],
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "video",
-     "src": "a/video/v_pickup2/3_pixabay.mp4",
-     "fit": "crop",
-     "start": 0,
-     "xfade": 0.35,
-     "dur": 4.08,
+     "dur": 9.08,
      "fixed": true
     },
     {
@@ -570,28 +525,21 @@
      "prefix": "",
      "suffix": "",
      "source": "estimates via CarExpert",
-     "dur": 5.0,
+     "dur": 7.0,
      "fixed": true
     },
     {
      "type": "video",
-     "src": "a/video/v_factory2/2_pixabay.mp4",
+     "src": "a/video/v_australia_road/1_pixabay.mp4",
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 5.0,
+     "dur": 9.02,
      "fixed": true
     },
     {
      "type": "image",
-     "src": "a/h_highway_au/6_pixabay.jpg",
-     "move": "out",
-     "dur": 6.02,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/m_cybertruck2/5_commons.jpg",
+     "src": "a/m_cybertruck4/1_commons.jpg",
      "move": "out",
      "dur": 4.54,
      "fixed": true
@@ -617,14 +565,7 @@
      "new_note": "dual motor \u00b7 2026",
      "save": "x2",
      "source": "Tesla / CarExpert",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_ev_charging/5_pixabay.jpg",
-     "move": "down",
-     "dur": 2.74,
+     "dur": 7.74,
      "fixed": true
     },
     {
@@ -653,16 +594,9 @@
     },
     {
      "type": "image",
-     "src": "a/m_cybertruck2/6_pixabay.jpg",
+     "src": "a/m_cybertruck4/4_commons.jpg",
      "move": "in",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_ev_charging/6_pixabay.jpg",
-     "move": "in",
-     "dur": 5.38,
+     "dur": 10.38,
      "fixed": true
     },
     {
@@ -678,14 +612,7 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/m_tesla_supercharger/1_commons.jpg",
-     "move": "left",
-     "dur": 4.347,
+     "dur": 9.347,
      "fixed": true
     },
     {
@@ -741,29 +668,15 @@
      ],
      "source": "NHTSA",
      "color": "red",
-     "dur": 5.0,
+     "dur": 8.85,
      "fixed": true
     },
     {
      "type": "image",
-     "src": "a/m_tesla_supercharger/2_pixabay.jpg",
-     "move": "out",
-     "dur": 3.85,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/m_cybertruck3/5_commons.jpg",
+     "src": "a/ai/ai_angular_ute_rhd_1.jpg",
      "move": "out",
      "caption": "April 2024|accelerator pedal pad",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/m_tesla_supercharger/3_commons.jpg",
-     "move": "right",
-     "dur": 3.5,
+     "dur": 8.5,
      "fixed": true
     },
     {
@@ -780,14 +693,7 @@
      ],
      "source": "NHTSA",
      "color": "red",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/m_tesla_supercharger/4_pixabay.jpg",
-     "move": "in",
-     "dur": 2.74,
+     "dur": 7.74,
      "fixed": true
     },
     {
@@ -809,7 +715,7 @@
     },
     {
      "type": "image",
-     "src": "a/m_cybertruck3/6_pixabay.jpg",
+     "src": "a/m_f150/3_commons.jpg",
      "move": "right",
      "caption": "April 2026|brake rotor stud holes",
      "dur": 6.91,
@@ -819,14 +725,7 @@
      "type": "image",
      "src": "a/h_factory_line/1_unsplash.jpg",
      "move": "in",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_supercharger/1_unsplash.jpg",
-     "move": "up",
-     "dur": 2.67,
+     "dur": 7.67,
      "fixed": true
     },
     {
@@ -897,14 +796,7 @@
      "src": "a/m_model_y/1_commons.jpg",
      "move": "in",
      "caption": "Order a Model 3 or Model Y|1 year of FSD (Supervised)",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_supercharger/3_unsplash.jpg",
-     "move": "out",
-     "dur": 3.82,
+     "dur": 8.82,
      "fixed": true
     },
     {
@@ -920,14 +812,7 @@
       }
      ],
      "source": "Tesla",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_supercharger/5_unsplash.jpg",
-     "move": "down",
-     "dur": 4.06,
+     "dur": 9.06,
      "fixed": true
     },
     {
@@ -986,7 +871,7 @@
    "shots": [
     {
      "type": "image",
-     "src": "a/m_cybertruck4/1_commons.jpg",
+     "src": "a/m_ram1500/3_commons.jpg",
      "move": "down",
      "dur": 6.68,
      "fixed": true
@@ -1007,14 +892,7 @@
        "at": 1.2
       }
      ],
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_ev_road/1_unsplash.jpg",
-     "move": "in",
-     "dur": 3.26,
+     "dur": 8.26,
      "fixed": true
     },
     {
@@ -1071,14 +949,7 @@
       }
      ],
      "source": "EVC / VFACTS",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_tesla_car/1_unsplash.jpg",
-     "move": "left",
-     "dur": 3.98,
+     "dur": 8.98,
      "fixed": true
     },
     {
@@ -1094,14 +965,7 @@
       }
      ],
      "source": "FCAI / EVC",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_tesla_car/3_unsplash.jpg",
-     "move": "out",
-     "dur": 2.66,
+     "dur": 7.66,
      "fixed": true
     },
     {
@@ -1136,14 +1000,7 @@
       }
      ],
      "source": "NRMA Insurance",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_tesla_car/5_unsplash.jpg",
-     "move": "right",
-     "dur": 3.94,
+     "dur": 8.94,
      "fixed": true
     },
     {
@@ -1169,28 +1026,23 @@
      "prefix": "",
      "suffix": "%",
      "source": "NRMA survey",
-     "dur": 5.0,
+     "dur": 7.0,
      "fixed": true
     },
     {
-     "type": "image",
-     "src": "a/h_ev_road/2_pixabay.jpg",
-     "move": "in",
-     "dur": 7.0,
+     "type": "video",
+     "src": "a/video/v_city_traffic/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/h_stainless/1_pixabay.jpg",
      "move": "in",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_ev_road/3_unsplash.jpg",
-     "move": "up",
-     "dur": 2.96,
+     "dur": 7.96,
      "fixed": true
     },
     {
@@ -1206,14 +1058,7 @@
       }
      ],
      "source": "EVC",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_ev_road/5_unsplash.jpg",
-     "move": "out",
-     "dur": 3.78,
+     "dur": 8.78,
      "fixed": true
     },
     {
@@ -1221,14 +1066,7 @@
      "src": "a/m_model_y/3_commons.jpg",
      "move": "in",
      "caption": "Model Y|20,396 sold in H1 2026 (+95%)",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_ev_road/6_pixabay.jpg",
-     "move": "down",
-     "dur": 3.94,
+     "dur": 8.94,
      "fixed": true
     },
     {
@@ -1289,7 +1127,7 @@
     },
     {
      "type": "image",
-     "src": "a/m_cybertruck4/4_commons.jpg",
+     "src": "a/m_silverado/1_commons.jpg",
      "move": "out",
      "dur": 3.94,
      "fixed": true
@@ -1336,14 +1174,7 @@
      "type": "image",
      "src": "a/m_ram1500/1_commons.jpg",
      "move": "in",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/ai/ai_tradie_ute_1.jpg",
-     "move": "in",
-     "dur": 3.3,
+     "dur": 8.3,
      "fixed": true
     },
     {
@@ -1373,28 +1204,14 @@
      "prefix": "",
      "suffix": "",
      "source": "VFACTS",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_ute_outback/1_pixabay.jpg",
-     "move": "left",
-     "dur": 4.68,
+     "dur": 9.68,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/m_silverado/3_commons.jpg",
      "move": "left",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_ute_outback/2_pixabay.jpg",
-     "move": "out",
-     "dur": 2.56,
+     "dur": 7.56,
      "fixed": true
     },
     {
@@ -1402,19 +1219,12 @@
      "src": "a/m_f150/1_commons.jpg",
      "move": "right",
      "caption": "Ford F-150|fire-risk recall \u00b7 October 2026",
-     "dur": 5.0,
+     "dur": 7.86,
      "fixed": true
     },
     {
      "type": "image",
-     "src": "a/h_ute_outback/3_pixabay.jpg",
-     "move": "right",
-     "dur": 2.86,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/m_f150/3_commons.jpg",
+     "src": "a/ai/ai_towing_caravan_1.jpg",
      "move": "in",
      "dur": 5.12,
      "fixed": true
@@ -1436,14 +1246,14 @@
     },
     {
      "type": "image",
-     "src": "a/m_ram1500/3_commons.jpg",
+     "src": "a/h_pickup_au/1_unsplash.jpg",
      "move": "up",
      "dur": 4.2,
      "fixed": true
     },
     {
      "type": "image",
-     "src": "a/ai/ai_angular_ute_rhd_1.jpg",
+     "src": "a/ai/ai_port_cars_1.jpg",
      "move": "out",
      "dur": 5.62,
      "fixed": true
@@ -1466,7 +1276,7 @@
     },
     {
      "type": "image",
-     "src": "a/m_silverado/1_commons.jpg",
+     "src": "a/h_pickup_au/3_unsplash.jpg",
      "move": "down",
      "dur": 3.22,
      "fixed": true
@@ -1475,19 +1285,21 @@
      "type": "image",
      "src": "a/m_cybertruck_interior/3_commons.jpg",
      "move": "in",
-     "dur": 5.0,
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_desert_road/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.62,
      "fixed": true
     },
     {
      "type": "image",
-     "src": "a/h_ute_outback/5_pixabay.jpg",
-     "move": "in",
-     "dur": 6.62,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/ai/ai_towing_caravan_1.jpg",
+     "src": "a/h_pickup_au/5_unsplash.jpg",
      "move": "in",
      "dur": 3.38,
      "fixed": true
@@ -1537,14 +1349,16 @@
      "src": "a/m_jaguar/1_commons.jpg",
      "move": "left",
      "caption": "Jaguar|0 new cars sold in September",
-     "dur": 5.0,
+     "dur": 7.0,
      "fixed": true
     },
     {
-     "type": "image",
-     "src": "a/m_hilux/2_pixabay.jpg",
-     "move": "up",
-     "dur": 7.16,
+     "type": "video",
+     "src": "a/video/v_road_trip/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.16,
      "fixed": true
     },
     {
@@ -1626,14 +1440,7 @@
       }
      ],
      "source": "CarExpert",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/m_ranger/1_commons.jpg",
-     "move": "out",
-     "dur": 2.88,
+     "dur": 7.88,
      "fixed": true
     },
     {
@@ -1641,14 +1448,7 @@
      "src": "a/m_hilux/1_commons.jpg",
      "move": "in",
      "caption": "Toyota HiLux BEV|~300 sold May\u2013early July",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/m_ranger/2_pixabay.jpg",
-     "move": "down",
-     "dur": 3.18,
+     "dur": 8.18,
      "fixed": true
     },
     {
@@ -1673,14 +1473,16 @@
      "start": 0,
      "xfade": 0.35,
      "caption": "KGM Musso EV|just over 300 sold",
-     "dur": 5.0,
+     "dur": 7.0,
      "fixed": true
     },
     {
-     "type": "image",
-     "src": "a/m_ranger/3_commons.jpg",
-     "move": "in",
-     "dur": 6.28,
+     "type": "video",
+     "src": "a/video/v_pickup2/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.28,
      "fixed": true
     },
     {
@@ -1703,14 +1505,7 @@
      "src": "a/m_mg_u9/1_commons.jpg",
      "move": "in",
      "caption": "MG U9 EV|from $78,990 before on-roads",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/m_dmax/3_commons.jpg",
-     "move": "left",
-     "dur": 3.52,
+     "dur": 8.52,
      "fixed": true
     },
     {
@@ -1740,14 +1535,7 @@
      "prefix": "",
      "suffix": "",
      "source": "MG Australia",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_car_carrier/1_pixabay.jpg",
-     "move": "out",
-     "dur": 2.573,
+     "dur": 7.573,
      "fixed": true
     },
     {
@@ -1770,14 +1558,7 @@
      "type": "image",
      "src": "a/m_mg_u9/3_commons.jpg",
      "move": "right",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_car_carrier/2_pixabay.jpg",
-     "move": "right",
-     "dur": 3.12,
+     "dur": 8.12,
      "fixed": true
     },
     {
@@ -1807,28 +1588,23 @@
      "src": "a/m_shark6/1_commons.jpg",
      "move": "in",
      "caption": "BYD Shark 6|#3 4x4 pick-up \u00b7 H1 2026",
-     "dur": 5.0,
+     "dur": 7.0,
      "fixed": true
     },
     {
-     "type": "image",
-     "src": "a/h_car_carrier/3_pixabay.jpg",
-     "move": "in",
-     "dur": 6.51,
+     "type": "video",
+     "src": "a/video/v_factory2/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.51,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/m_shark6/3_commons.jpg",
      "move": "left",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_car_carrier/4_pixabay.jpg",
-     "move": "up",
-     "dur": 2.91,
+     "dur": 7.91,
      "fixed": true
     },
     {
@@ -1878,7 +1654,7 @@
     },
     {
      "type": "image",
-     "src": "a/h_pickup_au/1_unsplash.jpg",
+     "src": "a/ai/ai_tradie_ute_1.jpg",
      "move": "up",
      "dur": 5.8,
      "fixed": true
@@ -1899,7 +1675,7 @@
     },
     {
      "type": "image",
-     "src": "a/h_pickup_au/3_unsplash.jpg",
+     "src": "a/h_ute_outback/1_pixabay.jpg",
      "move": "in",
      "dur": 6.82,
      "fixed": true
@@ -1984,28 +1760,28 @@
      "type": "image",
      "src": "a/h_highway_au/1_unsplash.jpg",
      "move": "right",
-     "dur": 5.0,
+     "dur": 7.0,
      "fixed": true
     },
     {
      "type": "image",
-     "src": "a/h_containers/1_unsplash.jpg",
+     "src": "a/h_road2/3_pixabay.jpg",
      "move": "out",
-     "dur": 6.38,
+     "dur": 4.38,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/h_highway_au/2_pixabay.jpg",
      "move": "in",
-     "dur": 5.0,
+     "dur": 7.0,
      "fixed": true
     },
     {
      "type": "image",
-     "src": "a/h_containers/2_pixabay.jpg",
+     "src": "a/h_road2/4_pixabay.jpg",
      "move": "down",
-     "dur": 5.98,
+     "dur": 3.98,
      "fixed": true
     },
     {
@@ -2019,14 +1795,7 @@
      "type": "image",
      "src": "a/h_highway_au/4_pixabay.jpg",
      "move": "out",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_containers/3_unsplash.jpg",
-     "move": "in",
-     "dur": 3.01,
+     "dur": 8.01,
      "fixed": true
     },
     {
@@ -2045,7 +1814,7 @@
    "shots": [
     {
      "type": "image",
-     "src": "a/h_pickup_au/5_unsplash.jpg",
+     "src": "a/h_stainless/3_pixabay.jpg",
      "move": "in",
      "dur": 3.84,
      "fixed": true
@@ -2064,14 +1833,7 @@
      ],
      "source": "Nov 2019 \u2192 Oct 2026",
      "color": "red",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_containers/4_pixabay.jpg",
-     "move": "left",
-     "dur": 5.06,
+     "dur": 10.06,
      "fixed": true
     },
     {
@@ -2086,19 +1848,12 @@
        "at": 0
       }
      ],
-     "dur": 5.0,
+     "dur": 8.74,
      "fixed": true
     },
     {
      "type": "image",
-     "src": "a/h_containers/5_unsplash.jpg",
-     "move": "out",
-     "dur": 3.74,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/ai/ai_port_cars_1.jpg",
+     "src": "a/h_car_carrier/1_pixabay.jpg",
      "move": "left",
      "dur": 2.8,
      "fixed": true
@@ -2115,14 +1870,7 @@
        "at": 0
       }
      ],
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_factory_line/3_unsplash.jpg",
-     "move": "right",
-     "dur": 3.52,
+     "dur": 8.52,
      "fixed": true
     },
     {
@@ -2151,23 +1899,16 @@
     },
     {
      "type": "image",
-     "src": "a/h_pickup_au/6_pixabay.jpg",
+     "src": "a/h_highway_au/6_pixabay.jpg",
      "move": "out",
      "dur": 3.38,
      "fixed": true
     },
     {
      "type": "image",
-     "src": "a/h_stainless/3_pixabay.jpg",
+     "src": "a/h_road2/1_pixabay.jpg",
      "move": "right",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_factory_line/5_pixabay.jpg",
-     "move": "in",
-     "dur": 5.06,
+     "dur": 10.06,
      "fixed": true
     },
     {

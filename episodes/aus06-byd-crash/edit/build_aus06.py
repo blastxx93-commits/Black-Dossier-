@@ -36,6 +36,7 @@ RES = ["m_dolphin/1", "m_dolphin/3", "m_seal/1", "m_seal/3", "m_sealion6/1", "m_
        "m_atto1/1", "m_atto1/3", "m_corolla/1", "m_cx30/1", "m_tesla_m3/1", "m_blade/1", "m_byd_dealer/1", "m_byd_dealer/3"]
 A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FALLBACK,
         ["traffic", "ev", "repairer", "crash", "byd", "bills", "assess", "parts"], reserved=RES)
+A.MAX_HOLD, A.KEEP = 10.5, 7.0  # fewer splits after removing off-topic extras
 chapters = []
 
 # ---------------------------------------------------------------- hook

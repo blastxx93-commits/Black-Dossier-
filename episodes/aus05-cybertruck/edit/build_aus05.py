@@ -36,6 +36,7 @@ RES = ["m_cybertruck/1", "m_cybertruck/3", "m_cybertruck_reveal/1", "m_cybertruc
        "m_mg_u9/3", "m_shark6/1", "m_shark6/3", "m_dmax/1", "m_volvo_s60/1", "m_jaguar/1", "m_gigafactory_texas/1", "m_cybertruck_interior/3"]
 A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FALLBACK,
         ["traffic", "ev", "ute", "pickup", "cyber", "tesla", "port", "email", "steel"], reserved=RES)
+A.MAX_HOLD, A.KEEP = 10.5, 7.0  # fewer splits after removing off-topic extras
 chapters = []
 
 # ---------------------------------------------------------------- hook

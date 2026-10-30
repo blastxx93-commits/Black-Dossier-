@@ -279,7 +279,7 @@
     },
     {
      "type": "video",
-     "src": "a/video/v_suv/1_pixabay.mp4",
+     "src": "a/video/v_city/3_pixabay.mp4",
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
@@ -475,7 +475,7 @@
     },
     {
      "type": "video",
-     "src": "a/video/v_city/3_pixabay.mp4",
+     "src": "a/video/v_offroad/3_pixabay.mp4",
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
@@ -484,7 +484,7 @@
     },
     {
      "type": "image",
-     "src": "a/h_motor_show/5_pixabay.jpg",
+     "src": "a/h_motor_show/8_pixabay.jpg",
      "move": "in",
      "dur": 12.82,
      "fixed": true
@@ -541,7 +541,7 @@
     },
     {
      "type": "video",
-     "src": "a/video/v_offroad/3_pixabay.mp4",
+     "src": "a/video/v_pickup/2_pixabay.mp4",
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
@@ -651,25 +651,23 @@
      "fixed": true
     },
     {
-     "type": "video",
-     "src": "a/video/v_pickup/2_pixabay.mp4",
-     "fit": "crop",
-     "start": 0,
-     "xfade": 0.35,
+     "type": "image",
+     "src": "a/h_family/2_pixabay.jpg",
+     "move": "out",
      "dur": 5.72,
      "fixed": true
     },
     {
      "type": "image",
-     "src": "a/h_motor_show/6_pixabay.jpg",
+     "src": "a/h_dealer/2_pixabay.jpg",
      "move": "out",
      "dur": 8.5,
      "fixed": true
     },
     {
      "type": "image",
-     "src": "a/h_family/2_pixabay.jpg",
-     "move": "out",
+     "src": "a/h_suv2/1_unsplash.jpg",
+     "move": "right",
      "dur": 5.32,
      "fixed": true
     },
@@ -840,8 +838,8 @@
     },
     {
      "type": "image",
-     "src": "a/h_family/3_pixabay.jpg",
-     "move": "right",
+     "src": "a/h_suv2/2_pixabay.jpg",
+     "move": "in",
      "dur": 10.45,
      "fixed": true
     },
@@ -900,8 +898,8 @@
     },
     {
      "type": "image",
-     "src": "a/h_family/4_pixabay.jpg",
-     "move": "in",
+     "src": "a/h_suv2/3_unsplash.jpg",
+     "move": "up",
      "dur": 8.96,
      "fixed": true
     },
@@ -981,8 +979,8 @@
     },
     {
      "type": "image",
-     "src": "a/h_family/5_pixabay.jpg",
-     "move": "up",
+     "src": "a/h_suv2/4_pixabay.jpg",
+     "move": "out",
      "dur": 5.62,
      "fixed": true
     },
@@ -1010,7 +1008,7 @@
    "shots": [
     {
      "type": "image",
-     "src": "a/h_motor_show/7_pixabay.jpg",
+     "src": "a/h_dealer/4_pixabay.jpg",
      "move": "out",
      "dur": 4.88,
      "fixed": true
@@ -1166,8 +1164,8 @@
     },
     {
      "type": "image",
-     "src": "a/h_dealer/3_pixabay.jpg",
-     "move": "out",
+     "src": "a/h_suv2/5_unsplash.jpg",
+     "move": "down",
      "dur": 8.9,
      "fixed": true
     },
@@ -1205,8 +1203,8 @@
     },
     {
      "type": "image",
-     "src": "a/h_dealer/4_pixabay.jpg",
-     "move": "down",
+     "src": "a/h_show2/1_unsplash.jpg",
+     "move": "in",
      "dur": 5.38,
      "fixed": true
     },
@@ -1328,7 +1326,7 @@
     {
      "type": "image",
      "src": "a/h_tow/3_pixabay.jpg",
-     "move": "in",
+     "move": "left",
      "dur": 5.6,
      "fixed": true
     },
@@ -1344,7 +1342,7 @@
     {
      "type": "image",
      "src": "a/h_tow/4_pixabay.jpg",
-     "move": "left",
+     "move": "out",
      "dur": 8.5,
      "fixed": true
     },
@@ -1383,7 +1381,7 @@
     {
      "type": "image",
      "src": "a/h_tow/5_pixabay.jpg",
-     "move": "out",
+     "move": "right",
      "dur": 6.588,
      "fixed": false
     }
@@ -1505,21 +1503,21 @@
     {
      "type": "image",
      "src": "a/h_ute_outback/2_pixabay.jpg",
-     "move": "right",
-     "dur": 8.5,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_ute_outback/5_pixabay.jpg",
      "move": "in",
      "dur": 8.5,
      "fixed": true
     },
     {
      "type": "image",
-     "src": "a/h_ute_outback/6_pixabay.jpg",
+     "src": "a/h_ute2/1_unsplash.jpg",
      "move": "up",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ute2/3_unsplash.jpg",
+     "move": "out",
      "dur": 11.52,
      "fixed": true
     },
@@ -1561,8 +1559,8 @@
     },
     {
      "type": "image",
-     "src": "a/m_hilux/3_commons.jpg",
-     "move": "out",
+     "src": "a/h_ute2/5_unsplash.jpg",
+     "move": "down",
      "dur": 8.84,
      "fixed": true
     },
@@ -1621,7 +1619,7 @@
     {
      "type": "image",
      "src": "a/h_road/2_pixabay.jpg",
-     "move": "down",
+     "move": "in",
      "dur": 9.3,
      "fixed": true
     },
@@ -1698,14 +1696,14 @@
     {
      "type": "image",
      "src": "a/h_road/3_pixabay.jpg",
-     "move": "in",
+     "move": "left",
      "dur": 8.5,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/h_road/4_pixabay.jpg",
-     "move": "left",
+     "move": "out",
      "dur": 7.92,
      "fixed": true
     },
@@ -1734,21 +1732,21 @@
     {
      "type": "image",
      "src": "a/h_road/5_pixabay.jpg",
-     "move": "out",
-     "dur": 8.5,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/h_road/6_pixabay.jpg",
      "move": "right",
      "dur": 8.5,
      "fixed": true
     },
     {
      "type": "image",
-     "src": "a/m_hilux/5_commons.jpg",
+     "src": "a/h_road/6_pixabay.jpg",
      "move": "in",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_road2/1_unsplash.jpg",
+     "move": "up",
      "dur": 9.04,
      "fixed": true
     },
@@ -1795,7 +1793,7 @@
     },
     {
      "type": "image",
-     "src": "a/h_motor_show/8_pixabay.jpg",
+     "src": "a/h_dealer/5_pixabay.jpg",
      "move": "in",
      "dur": 11.81,
      "fixed": false
@@ -1812,7 +1810,7 @@
      "title": "The Full List",
      "subtitle": "2027",
      "tag": "recap",
-     "bg": "a/h_dealer/2_pixabay.jpg",
+     "bg": "a/h_dealer/6_pixabay.jpg",
      "trans": "zoom",
      "sfx": [
       {
@@ -1932,8 +1930,8 @@
     },
     {
      "type": "image",
-     "src": "a/h_dealer/5_pixabay.jpg",
-     "move": "up",
+     "src": "a/h_show2/3_unsplash.jpg",
+     "move": "out",
      "dur": 6.3,
      "fixed": true
     },
@@ -1954,8 +1952,8 @@
     },
     {
      "type": "image",
-     "src": "a/h_dealer/6_pixabay.jpg",
-     "move": "out",
+     "src": "a/h_show2/5_unsplash.jpg",
+     "move": "down",
      "dur": 4.84,
      "fixed": true
     },
