@@ -1,0 +1,295 @@
+{
+ "defaults": {
+  "n": 4,
+  "sources": [
+   "commons",
+   "pixabay"
+  ]
+ },
+ "shots": [
+  {
+   "id": "m_hilux",
+   "query": "Toyota Hilux 2024",
+   "alt": [
+    "Toyota Hilux"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_hilux_bev",
+   "query": "Toyota Hilux BEV",
+   "alt": [
+    "Toyota Hilux Revo BEV"
+   ],
+   "n": 3
+  },
+  {
+   "id": "m_lc70",
+   "query": "Toyota Land Cruiser 70",
+   "alt": [
+    "Land Cruiser 79"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_tundra",
+   "query": "Toyota Tundra 2022",
+   "alt": [
+    "Toyota Tundra"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_prado",
+   "query": "Toyota Land Cruiser Prado 2024",
+   "alt": [
+    "Land Cruiser 250"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_ranger",
+   "query": "Ford Ranger 2023",
+   "alt": [
+    "Ford Ranger Wildtrak"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_ranger_phev",
+   "query": "Ford Ranger PHEV",
+   "alt": [
+    "Ford Ranger plug-in hybrid"
+   ],
+   "n": 3
+  },
+  {
+   "id": "m_everest",
+   "query": "Ford Everest",
+   "alt": [],
+   "n": 3
+  },
+  {
+   "id": "m_dmax",
+   "query": "Isuzu D-Max 2024",
+   "alt": [
+    "Isuzu D-Max"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_mux",
+   "query": "Isuzu MU-X",
+   "alt": [],
+   "n": 3
+  },
+  {
+   "id": "m_triton",
+   "query": "Mitsubishi Triton 2024",
+   "alt": [
+    "Mitsubishi Triton"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_navara",
+   "query": "Nissan Navara",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_bt50",
+   "query": "Mazda BT-50 2021",
+   "alt": [
+    "Mazda BT-50"
+   ],
+   "n": 3
+  },
+  {
+   "id": "m_shark6",
+   "query": "BYD Shark 6",
+   "alt": [
+    "BYD Shark"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_cannon",
+   "query": "GWM Cannon Alpha",
+   "alt": [
+    "GWM Poer"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_musso",
+   "query": "SsangYong Musso",
+   "alt": [
+    "KGM Musso"
+   ],
+   "n": 3
+  },
+  {
+   "id": "m_mustang",
+   "query": "Ford Mustang 2024",
+   "alt": [
+    "Ford Mustang"
+   ],
+   "n": 3
+  },
+  {
+   "id": "h_ute_outback",
+   "query": "pickup truck outback",
+   "alt": [
+    "ute australia"
+   ],
+   "n": 8,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_tradie",
+   "query": "tradesman truck tools",
+   "alt": [
+    "construction worker pickup"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_farm",
+   "query": "farm pickup truck",
+   "alt": [
+    "farmer truck"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_caravan",
+   "query": "caravan towing",
+   "alt": [
+    "caravan road trip"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_diesel",
+   "query": "diesel pump",
+   "alt": [
+    "fuel pump diesel"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_exhaust",
+   "query": "car exhaust smoke",
+   "alt": [
+    "exhaust pipe"
+   ],
+   "n": 5,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_parliament",
+   "query": "Parliament House Canberra",
+   "alt": [
+    "australian parliament"
+   ],
+   "n": 5,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_ev_charge",
+   "query": "electric car charging",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_dealer",
+   "query": "car dealership",
+   "alt": [
+    "new cars lot"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_money",
+   "query": "australian money",
+   "alt": [
+    "australian dollars"
+   ],
+   "n": 5,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_road",
+   "query": "australia highway",
+   "alt": [
+    "outback road"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_mine",
+   "query": "mining truck",
+   "alt": [
+    "mine site"
+   ],
+   "n": 4,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_calc",
+   "query": "calculator",
+   "alt": [
+    "calculator bills"
+   ],
+   "n": 4,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  }
+ ]
+}

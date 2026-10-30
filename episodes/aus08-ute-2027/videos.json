@@ -1,0 +1,125 @@
+{
+ "defaults": {
+  "n": 3,
+  "clip": 8,
+  "sources": [
+   "coverr",
+   "pixabay",
+   "pexels"
+  ]
+ },
+ "shots": [
+  {
+   "id": "v_pickup",
+   "query": "pickup truck driving",
+   "alt": [
+    "truck dirt road"
+   ]
+  },
+  {
+   "id": "v_offroad",
+   "query": "4x4 off road",
+   "alt": [
+    "off road truck mud"
+   ]
+  },
+  {
+   "id": "v_outback",
+   "query": "outback road",
+   "alt": [
+    "desert road car"
+   ]
+  },
+  {
+   "id": "v_tow",
+   "query": "towing trailer",
+   "alt": [
+    "truck towing"
+   ]
+  },
+  {
+   "id": "v_farm",
+   "query": "farm tractor",
+   "alt": [
+    "farmer field"
+   ]
+  },
+  {
+   "id": "v_construction",
+   "query": "construction site",
+   "alt": [
+    "builder working"
+   ]
+  },
+  {
+   "id": "v_fuel",
+   "query": "fuel pump",
+   "alt": [
+    "refueling car"
+   ]
+  },
+  {
+   "id": "v_exhaust",
+   "query": "exhaust smoke",
+   "alt": [
+    "car exhaust"
+   ]
+  },
+  {
+   "id": "v_ev",
+   "query": "electric car charging",
+   "alt": [
+    "ev charger"
+   ]
+  },
+  {
+   "id": "v_factory",
+   "query": "car factory",
+   "alt": [
+    "assembly line robots"
+   ]
+  },
+  {
+   "id": "v_highway",
+   "query": "highway traffic",
+   "alt": [
+    "traffic aerial"
+   ]
+  },
+  {
+   "id": "v_money",
+   "query": "counting money",
+   "alt": [
+    "paying cash"
+   ]
+  },
+  {
+   "id": "v_parliament",
+   "query": "parliament",
+   "alt": [
+    "government building"
+   ]
+  },
+  {
+   "id": "v_dealer",
+   "query": "car dealership",
+   "alt": [
+    "car showroom"
+   ]
+  },
+  {
+   "id": "v_mine",
+   "query": "mining truck",
+   "alt": [
+    "mine site trucks"
+   ]
+  },
+  {
+   "id": "v_camping",
+   "query": "camping 4wd",
+   "alt": [
+    "car camping"
+   ]
+  }
+ ]
+}
