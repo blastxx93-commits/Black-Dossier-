@@ -294,6 +294,126 @@
     "unsplash",
     "pixabay"
    ]
+  },
+  {
+   "id": "h_ev2",
+   "query": "electric car",
+   "alt": [
+    "electric vehicle road"
+   ],
+   "n": 8,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_charge2",
+   "query": "ev charging station",
+   "alt": [
+    "charging electric car"
+   ],
+   "n": 8,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_city",
+   "query": "city traffic night",
+   "alt": [
+    "traffic australia"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_suburb",
+   "query": "australian suburb street",
+   "alt": [
+    "suburban house car"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_office2",
+   "query": "business meeting office",
+   "alt": [
+    "office desk paperwork"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_highway2",
+   "query": "motorway",
+   "alt": [
+    "freeway traffic"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_tesla",
+   "query": "tesla",
+   "alt": [
+    "tesla car"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_byd",
+   "query": "BYD car",
+   "alt": [
+    "byd electric"
+   ],
+   "n": 5,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_aud",
+   "query": "australian dollar notes",
+   "alt": [
+    "australian money cash"
+   ],
+   "n": 5,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_roadtrip",
+   "query": "road trip australia",
+   "alt": [
+    "car driving australia"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
   }
  ]
 }
