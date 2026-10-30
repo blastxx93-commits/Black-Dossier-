@@ -1,0 +1,56 @@
+ai_reservation_email_1: Gemini falhou (Gemini 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and ), tentando Replicate
+ai_reservation_email_1: 2752x1536
+ai_angular_ute_rhd_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_angular_ute_rhd_1: 2752x1536
+ai_rhd_steering_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_rhd_steering_1: 2752x1536
+ai_adr_engineer_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_adr_engineer_1: 2752x1536
+ai_pedestrian_dummy_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_pedestrian_dummy_1: 2752x1536
+ai_roadshow_crowd_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_roadshow_crowd_1: 2752x1536
+ai_deposit_receipt_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_deposit_receipt_1: 2752x1536
+ai_wait_years_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_wait_years_1: 2752x1536
+ai_tradie_ute_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_tradie_ute_1: 2752x1536
+ai_towing_caravan_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_towing_caravan_1: 2752x1536
+ai_port_cars_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_port_cars_1: 2752x1536
+ai_used_price_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_used_price_1: 2752x1536
+ai_ev_ute_charging_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_ev_ute_charging_1: 2752x1536
+persona_shocked_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+persona_shocked_1: 2752x1536
+persona_shocked_2: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+persona_shocked_2: 2752x1536
+# Imagens IA — aus05-cybertruck
+
+- Modelo: `gemini-2.5-flash-image`
+- Imagens geradas: 15
+- Folhas: ai_contact_sheet_1.jpg, ai_contact_sheet_2.jpg, ai_contact_sheet_3.jpg
+
+| plano | resultado |
+|---|---|
+| `ai_reservation_email` | 1 de 1 |
+| `ai_angular_ute_rhd` | 1 de 1 |
+| `ai_rhd_steering` | 1 de 1 |
+| `ai_adr_engineer` | 1 de 1 |
+| `ai_pedestrian_dummy` | 1 de 1 |
+| `ai_roadshow_crowd` | 1 de 1 |
+| `ai_deposit_receipt` | 1 de 1 |
+| `ai_wait_years` | 1 de 1 |
+| `ai_tradie_ute` | 1 de 1 |
+| `ai_towing_caravan` | 1 de 1 |
+| `ai_port_cars` | 1 de 1 |
+| `ai_used_price` | 1 de 1 |
+| `ai_ev_ute_charging` | 1 de 1 |
+| `persona_shocked` | 2 de 2 |
+
