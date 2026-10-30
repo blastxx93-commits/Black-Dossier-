@@ -1,0 +1,55 @@
+{
+ "model": "black-forest-labs/flux-1.1-pro-ultra",
+ "raw": true,
+ "n": 1,
+ "style": ", modern Australian documentary photograph, 2026, natural light, realistic, sharp, cinematic colour grade, no logos, no badges, no readable text, no brand names",
+ "shots": [
+  {
+   "id": "ai_ute_lineup",
+   "prompt": "A line of five different new dual-cab utes parked side by side on red dirt, outback Australia, wide shot, generic unbranded designs"
+  },
+  {
+   "id": "ai_phev_ute_tow",
+   "prompt": "A modern plug-in hybrid dual-cab ute towing a large caravan on an Australian country highway, generic unbranded design, golden hour"
+  },
+  {
+   "id": "ai_covered_car",
+   "prompt": "A new car under a silver cover on a stage at a motor show, spotlights, crowd silhouettes blurred, no text"
+  },
+  {
+   "id": "ai_suv_family",
+   "prompt": "An Australian family with a modern mid-size SUV at a beach car park, faces not recognisable, generic unbranded design"
+  },
+  {
+   "id": "ai_kei_car",
+   "prompt": "A tiny boxy electric city car parked on a narrow Sydney terrace street, generic unbranded design, morning light"
+  },
+  {
+   "id": "ai_port_new_models",
+   "prompt": "Rows of brand new SUVs and utes at an Australian port terminal with a car carrier ship, overcast"
+  },
+  {
+   "id": "ai_4wd_touring",
+   "prompt": "A large diesel four-wheel drive with a rooftop tent crossing a shallow creek in the Australian bush, generic unbranded"
+  },
+  {
+   "id": "ai_tradie_new_ute",
+   "prompt": "A tradesman admiring a brand-new dual-cab ute at a dealership delivery bay, faces not recognisable, generic unbranded design"
+  },
+  {
+   "id": "ai_premium_ev",
+   "prompt": "A sleek premium electric SUV charging at a modern city fast charger at night, generic unbranded design"
+  },
+  {
+   "id": "ai_calendar_2027",
+   "prompt": "A desk calendar showing the year 2027 in bold beside a car key fob, shallow depth of field"
+  },
+  {
+   "id": "persona_excited",
+   "prompt": "Waist-up portrait of a fictional Australian man in his mid 30s with short light brown hair and a short beard, wearing a plain navy blue polo shirt, amazed excited expression, eyes wide, pointing to the side with one hand, looking straight at the camera",
+   "style": ", photorealistic studio portrait photograph, sharp focus on the face, even soft lighting, plain solid bright chroma green background #00FF00 filling the whole frame, no shadows on the background, no text, no logos",
+   "guard": "fictional",
+   "n": 2
+  }
+ ]
+}

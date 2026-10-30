@@ -1,0 +1,271 @@
+{
+ "defaults": {
+  "n": 4,
+  "sources": [
+   "commons",
+   "pixabay"
+  ]
+ },
+ "shots": [
+  {
+   "id": "m_navara",
+   "query": "Nissan Navara",
+   "alt": [
+    "Nissan Frontier Pro"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_frontier_pro",
+   "query": "Nissan Frontier Pro PHEV",
+   "alt": [
+    "Nissan Navara 2026"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_gac",
+   "query": "GAC Aion",
+   "alt": [
+    "GAC Motor"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_gac_concept",
+   "query": "GAC pickup concept",
+   "alt": [
+    "GAC Pickup 01"
+   ],
+   "n": 3
+  },
+  {
+   "id": "m_hyundai",
+   "query": "Hyundai Santa Cruz",
+   "alt": [
+    "Hyundai pickup"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_rav4",
+   "query": "Toyota RAV4 2026",
+   "alt": [
+    "Toyota RAV4 sixth generation"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_pajero",
+   "query": "Mitsubishi Pajero 2027",
+   "alt": [
+    "Mitsubishi Pajero"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_prado",
+   "query": "Toyota Land Cruiser Prado 2024",
+   "alt": [
+    "Land Cruiser 250"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_omoda7",
+   "query": "Omoda 7",
+   "alt": [
+    "Chery Fulwin T9"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_omoda4",
+   "query": "Omoda 4",
+   "alt": [
+    "Omoda C5"
+   ],
+   "n": 3
+  },
+  {
+   "id": "m_atto3",
+   "query": "BYD Atto 3",
+   "alt": [
+    "BYD Yuan Plus"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_cx6e",
+   "query": "Mazda CX-6e",
+   "alt": [
+    "Mazda EZ-60"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_ix3",
+   "query": "BMW iX3 2026",
+   "alt": [
+    "BMW iX3 Neue Klasse"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_super_one",
+   "query": "Honda Super-ONE",
+   "alt": [
+    "Honda N-One e"
+   ],
+   "n": 3
+  },
+  {
+   "id": "m_patrol",
+   "query": "Nissan Patrol Y63",
+   "alt": [
+    "Nissan Patrol 2025"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_zeekr",
+   "query": "Zeekr 8X",
+   "alt": [
+    "Zeekr 9X"
+   ],
+   "n": 3
+  },
+  {
+   "id": "m_polestar5",
+   "query": "Polestar 5",
+   "alt": [],
+   "n": 3
+  },
+  {
+   "id": "m_symbioz",
+   "query": "Renault Symbioz",
+   "alt": [],
+   "n": 3
+  },
+  {
+   "id": "m_ranger",
+   "query": "Ford Ranger 2023",
+   "alt": [
+    "Ford Ranger Wildtrak"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_hilux",
+   "query": "Toyota Hilux 2024",
+   "alt": [
+    "Toyota Hilux"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_shark6",
+   "query": "BYD Shark 6",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_outlander",
+   "query": "Mitsubishi Outlander PHEV 2022",
+   "alt": [
+    "Mitsubishi Outlander PHEV"
+   ],
+   "n": 3
+  },
+  {
+   "id": "m_model_y",
+   "query": "Tesla Model Y 2025",
+   "alt": [
+    "Tesla Model Y"
+   ],
+   "n": 3
+  },
+  {
+   "id": "h_motor_show",
+   "query": "motor show",
+   "alt": [
+    "car show new cars"
+   ],
+   "n": 8,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_ute_outback",
+   "query": "pickup truck outback",
+   "alt": [
+    "4x4 ute"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_ev_charge",
+   "query": "electric car charging",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_dealer",
+   "query": "car dealership",
+   "alt": [
+    "new cars"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_road",
+   "query": "australia road",
+   "alt": [
+    "highway australia"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_family",
+   "query": "family suv",
+   "alt": [
+    "family car"
+   ],
+   "n": 5,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_tow",
+   "query": "towing trailer truck",
+   "alt": [
+    "caravan towing"
+   ],
+   "n": 5,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,104 @@
+{
+ "defaults": {
+  "n": 3,
+  "clip": 8,
+  "sources": [
+   "coverr",
+   "pixabay",
+   "pexels"
+  ]
+ },
+ "shots": [
+  {
+   "id": "v_pickup",
+   "query": "pickup truck driving",
+   "alt": [
+    "truck dirt road"
+   ]
+  },
+  {
+   "id": "v_offroad",
+   "query": "4x4 off road",
+   "alt": [
+    "off road mud"
+   ]
+  },
+  {
+   "id": "v_suv",
+   "query": "suv driving",
+   "alt": [
+    "car driving road"
+   ]
+  },
+  {
+   "id": "v_ev_charge",
+   "query": "electric car charging",
+   "alt": [
+    "ev charger"
+   ]
+  },
+  {
+   "id": "v_city",
+   "query": "city traffic",
+   "alt": [
+    "traffic timelapse"
+   ]
+  },
+  {
+   "id": "v_motor_show",
+   "query": "car show",
+   "alt": [
+    "auto show"
+   ]
+  },
+  {
+   "id": "v_factory",
+   "query": "car factory",
+   "alt": [
+    "assembly line"
+   ]
+  },
+  {
+   "id": "v_tow",
+   "query": "towing trailer",
+   "alt": [
+    "caravan road"
+   ]
+  },
+  {
+   "id": "v_dealer",
+   "query": "car showroom",
+   "alt": [
+    "car dealership"
+   ]
+  },
+  {
+   "id": "v_highway",
+   "query": "highway driving",
+   "alt": [
+    "road trip"
+   ]
+  },
+  {
+   "id": "v_ship",
+   "query": "car carrier ship",
+   "alt": [
+    "cargo ship port"
+   ]
+  },
+  {
+   "id": "v_family",
+   "query": "family car trip",
+   "alt": [
+    "family road trip"
+   ]
+  },
+  {
+   "id": "v_desert",
+   "query": "desert road car",
+   "alt": [
+    "outback road"
+   ]
+  }
+ ]
+}
