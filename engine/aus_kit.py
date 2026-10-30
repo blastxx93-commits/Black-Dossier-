@@ -211,7 +211,7 @@ def questions(c, items, phrases):
 
 
 # ---------------------------------------------------------------- finish
-def finish(chapters, output, ctx, subtitles=None, music_gain=-24):
+def finish(chapters, output, ctx, subtitles=None, music_gain=-29):  # -29 dB: bed sits well under the voice
     """Builds episode JSON: timings from the narration, long holds split, channel checks. Returns the JSON text."""
     ep = K.build_episode(chapters, output, music="trilha.wav", music_gain=music_gain, final_fade=0)
     ep["size"] = [1920, 1080]

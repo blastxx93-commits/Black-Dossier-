@@ -1,0 +1,36 @@
+name: Pauta (canal Austrália)
+
+# Lê as notícias de carros da Austrália dos últimos dias e ranqueia os assuntos mais quentes, com ideias de vídeo.
+# Roda sozinho toda segunda e quinta de manhã (horário de Sydney) e também pelo botão Run workflow.
+# Resultado: branch assets, pasta pauta/ (pauta_<data>.md, pauta_ultima.md e .json) e o resumo da execução.
+on:
+  schedule:
+    - cron: "37 20 * * 0,3"   # ~7h37 em Sydney às segundas e quintas
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "Quantos dias de notícias olhar"
+        required: false
+        default: "14"
+
+permissions:
+  contents: write
+
+jobs:
+  pauta:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: canal-australia
+          path: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -q requests
+      - name: Montar pauta
+        working-directory: main
+        run: python3 agent/topics.py --out ../out --days "${{ inputs.days || '14' }}"
+      - name: Publicar
+        run: bash main/agent/publish_assets.sh "out/pauta" "pauta" "Pauta $(date -u +%F)"
