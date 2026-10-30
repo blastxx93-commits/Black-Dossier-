@@ -1,0 +1,54 @@
+ai_smash_repairer_1: Gemini falhou (Gemini 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and ), tentando Replicate
+ai_smash_repairer_1: 2752x1536
+ai_car_waiting_weeks_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_car_waiting_weeks_1: 2752x1536
+ai_kangaroo_road_night_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_kangaroo_road_night_1: 2752x1536
+ai_parts_shelves_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_parts_shelves_1: 2752x1536
+ai_battery_pack_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_battery_pack_1: 2752x1536
+ai_ev_technician_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_ev_technician_1: 2752x1536
+ai_owner_phone_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_owner_phone_1: 2752x1536
+ai_bumper_sensors_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_bumper_sensors_1: 2752x1536
+ai_insurance_papers_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_insurance_papers_1: 2752x1536
+ai_loan_car_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_loan_car_1: 2752x1536
+ai_workshop_backlog_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_workshop_backlog_1: 2752x1536
+ai_delivery_van_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_delivery_van_1: 2752x1536
+ai_fair_trading_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_fair_trading_1: 2752x1536
+ai_three_questions_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_three_questions_1: 2752x1536
+# Imagens IA — aus02-byd
+
+- Modelo: `gemini-2.5-flash-image`
+- Imagens geradas: 14
+- Folhas: ai_contact_sheet_1.jpg, ai_contact_sheet_2.jpg, ai_contact_sheet_3.jpg
+
+| plano | resultado |
+|---|---|
+| `ai_smash_repairer` | 1 de 1 |
+| `ai_car_waiting_weeks` | 1 de 1 |
+| `ai_kangaroo_road_night` | 1 de 1 |
+| `ai_parts_shelves` | 1 de 1 |
+| `ai_battery_pack` | 1 de 1 |
+| `ai_ev_technician` | 1 de 1 |
+| `ai_owner_phone` | 1 de 1 |
+| `ai_bumper_sensors` | 1 de 1 |
+| `ai_insurance_papers` | 1 de 1 |
+| `ai_loan_car` | 1 de 1 |
+| `ai_workshop_backlog` | 1 de 1 |
+| `ai_delivery_van` | 1 de 1 |
+| `ai_fair_trading` | 1 de 1 |
+| `ai_three_questions` | 1 de 1 |
+
