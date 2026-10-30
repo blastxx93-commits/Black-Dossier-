@@ -1,0 +1,341 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Doc,Inter SemiBold,44,&H0000E6FF,&H0000E6FF,&H00000000,&H96000000,0,0,0,0,100,100,0.5,0,1,2.4,1.2,2,200,200,62,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.92,0:00:00.91,Doc,,0,0,0,,Picture this.
+Dialogue: 0,0:00:00.96,0:00:03.57,Doc,,0,0,0,,You're stopped at a red\Nlight in your new BYD.
+Dialogue: 0,0:00:03.62,0:00:05.61,Doc,,0,0,0,,The car behind you doesn't stop in time.
+Dialogue: 0,0:00:05.66,0:00:06.81,Doc,,0,0,0,,It's not a big crash.
+Dialogue: 0,0:00:06.86,0:00:07.81,Doc,,0,0,0,,Nobody's hurt.
+Dialogue: 0,0:00:07.86,0:00:09.05,Doc,,0,0,0,,The bumper's pushed in,
+Dialogue: 0,0:00:09.10,0:00:10.93,Doc,,0,0,0,,a sensor light is flashing on the dash,
+Dialogue: 0,0:00:10.98,0:00:14.03,Doc,,0,0,0,,and you think: no worries, the\Ninsurance will sort it out.
+Dialogue: 0,0:00:14.08,0:00:16.69,Doc,,0,0,0,,But this is where a very\Ndifferent story begins.
+Dialogue: 0,0:00:16.74,0:00:18.29,Doc,,0,0,0,,Because for a lot of Australians,
+Dialogue: 0,0:00:18.34,0:00:21.79,Doc,,0,0,0,,the most stressful part of owning\Na new electric car isn't the crash.
+Dialogue: 0,0:00:21.84,0:00:23.65,Doc,,0,0,0,,It's everything that happens after it.
+Dialogue: 0,0:00:23.70,0:00:26.35,Doc,,0,0,0,,The tow truck that has to take\Nthe car somewhere special.
+Dialogue: 0,0:00:26.40,0:00:28.81,Doc,,0,0,0,,The repairer that isn't\Ncertified to touch it.
+Dialogue: 0,0:00:28.86,0:00:30.95,Doc,,0,0,0,,The battery check nobody\Ncan do on the spot.
+Dialogue: 0,0:00:31.00,0:00:32.15,Doc,,0,0,0,,The wait for parts.
+Dialogue: 0,0:00:32.20,0:00:35.47,Doc,,0,0,0,,And then, twelve months later,\Nthe insurance renewal letter.
+Dialogue: 0,0:00:35.52,0:00:38.57,Doc,,0,0,0,,BYD is now one of the biggest\Ncar brands in Australia.
+Dialogue: 0,0:00:38.62,0:00:40.83,Doc,,0,0,0,,Hundreds of thousands of\NAussies are driving one.
+Dialogue: 0,0:00:40.88,0:00:41.87,Doc,,0,0,0,,So in this video,
+Dialogue: 0,0:00:41.92,0:00:45.47,Doc,,0,0,0,,we're going to follow a BYD from the\Nmoment of impact all the way to the next
+Dialogue: 0,0:00:45.52,0:00:49.51,Doc,,0,0,0,,insurance bill using real\N2026 data from insurers,
+Dialogue: 0,0:00:49.56,0:00:52.41,Doc,,0,0,0,,repairers, actuaries and BYD itself.
+Dialogue: 0,0:00:52.46,0:00:53.55,Doc,,0,0,0,,No scare stories.
+Dialogue: 0,0:00:53.60,0:00:55.17,Doc,,0,0,0,,Just what actually happens.
+Dialogue: 0,0:00:55.22,0:00:56.25,Doc,,0,0,0,,And stay to the end,
+Dialogue: 0,0:00:56.30,0:00:59.33,Doc,,0,0,0,,because I'll give you a simple checklist\Nthat could save you weeks of waiting
+Dialogue: 0,0:00:59.38,0:01:00.76,Doc,,0,0,0,,and a lot of money.
+Dialogue: 0,0:01:01.32,0:01:03.89,Doc,,0,0,0,,First, why does this\Nmatter so much right now?
+Dialogue: 0,0:01:03.94,0:01:05.91,Doc,,0,0,0,,Because the numbers have changed fast.
+Dialogue: 0,0:01:05.96,0:01:07.85,Doc,,0,0,0,,In September 2026,
+Dialogue: 0,0:01:07.90,0:01:13.85,Doc,,0,0,0,,BYD sold 8,191 new cars in Australia\Nup sixty-one per cent on the same month
+Dialogue: 0,0:01:13.90,0:01:14.69,Doc,,0,0,0,,last year.
+Dialogue: 0,0:01:14.74,0:01:17.49,Doc,,0,0,0,,That made it the second\Nbest-selling brand in the country,
+Dialogue: 0,0:01:17.54,0:01:20.91,Doc,,0,0,0,,behind only Toyota, and it's second\Nfor the year to date as well.
+Dialogue: 0,0:01:20.96,0:01:25.51,Doc,,0,0,0,,Ford, Mazda, Kia, Hyundai BYD\Nis now outselling all of them.
+Dialogue: 0,0:01:25.56,0:01:28.31,Doc,,0,0,0,,Its range now covers\Nalmost every type of buyer:
+Dialogue: 0,0:01:28.36,0:01:30.21,Doc,,0,0,0,,the Atto 1 and Dolphin city cars,
+Dialogue: 0,0:01:30.26,0:01:33.51,Doc,,0,0,0,,the Atto 3 and Sealion 7 SUVs,
+Dialogue: 0,0:01:33.56,0:01:38.01,Doc,,0,0,0,,the Seal sedan, the Sealion 6\Nplug-in hybrid, and the Shark 6 ute.
+Dialogue: 0,0:01:38.06,0:01:41.71,Doc,,0,0,0,,At the same time, electric and\Nplug-in cars have gone mainstream.
+Dialogue: 0,0:01:41.76,0:01:43.65,Doc,,0,0,0,,In September 2026,
+Dialogue: 0,0:01:43.70,0:01:47.19,Doc,,0,0,0,,battery electric cars made up more than\Ntwenty-four per cent of new car sales
+Dialogue: 0,0:01:47.24,0:01:49.93,Doc,,0,0,0,,in Australia and for the\Nsecond month in a row,
+Dialogue: 0,0:01:49.98,0:01:53.15,Doc,,0,0,0,,more pure electric cars were\Nsold than petrol-only cars.
+Dialogue: 0,0:01:53.20,0:01:54.91,Doc,,0,0,0,,And insurers are seeing it.
+Dialogue: 0,0:01:54.96,0:01:59.13,Doc,,0,0,0,,NRMA Insurance says requests for\Nelectric vehicle insurance quotes were up
+Dialogue: 0,0:01:59.18,0:02:02.55,Doc,,0,0,0,,eighty per cent in the\Nfirst nine months of 2026.
+Dialogue: 0,0:02:02.60,0:02:05.61,Doc,,0,0,0,,More of these cars on the road\Nmeans more of them in crashes.
+Dialogue: 0,0:02:05.66,0:02:07.41,Doc,,0,0,0,,That's not a criticism of BYD.
+Dialogue: 0,0:02:07.46,0:02:08.85,Doc,,0,0,0,,It's simply maths.
+Dialogue: 0,0:02:08.90,0:02:12.63,Doc,,0,0,0,,And it means a lot of drivers are about\Nto discover how an EV crash repair
+Dialogue: 0,0:02:12.68,0:02:15.00,Doc,,0,0,0,,actually works for the first time.
+Dialogue: 0,0:02:15.72,0:02:17.49,Doc,,0,0,0,,So let's go back to that red light.
+Dialogue: 0,0:02:17.54,0:02:20.19,Doc,,0,0,0,,The first thing that happens\Nafter a crash is the tow.
+Dialogue: 0,0:02:20.24,0:02:23.45,Doc,,0,0,0,,And with an electric car, even\Nthat is a little different.
+Dialogue: 0,0:02:23.50,0:02:26.63,Doc,,0,0,0,,An EV has a large high-voltage\Nbattery under the floor.
+Dialogue: 0,0:02:26.68,0:02:30.31,Doc,,0,0,0,,Most tow operators will want to move\Nit on a flatbed rather than dragging it
+Dialogue: 0,0:02:30.36,0:02:31.21,Doc,,0,0,0,,on its wheels,
+Dialogue: 0,0:02:31.26,0:02:34.97,Doc,,0,0,0,,and the car has to be handled in a\Nspecific way so the drive system isn't
+Dialogue: 0,0:02:35.02,0:02:35.73,Doc,,0,0,0,,damaged.
+Dialogue: 0,0:02:35.78,0:02:37.21,Doc,,0,0,0,,If the battery might have been hit,
+Dialogue: 0,0:02:37.26,0:02:40.37,Doc,,0,0,0,,it can't just be parked next to\Nother cars in a holding yard.
+Dialogue: 0,0:02:40.42,0:02:44.57,Doc,,0,0,0,,Many assessing centres now keep damaged\NEVs in a separate quarantine area,
+Dialogue: 0,0:02:44.62,0:02:45.45,Doc,,0,0,0,,away from buildings,
+Dialogue: 0,0:02:45.50,0:02:49.19,Doc,,0,0,0,,because of the small but serious\Nrisk of a delayed battery fire.
+Dialogue: 0,0:02:49.24,0:02:52.27,Doc,,0,0,0,,Then comes the next question:\Nwho's allowed to fix it?
+Dialogue: 0,0:02:52.32,0:02:55.27,Doc,,0,0,0,,Repairing an electric car properly\Nneeds trained technicians,
+Dialogue: 0,0:02:55.32,0:02:58.97,Doc,,0,0,0,,insulated tools, and procedures to\Nsafely isolate the high-voltage system
+Dialogue: 0,0:02:59.02,0:03:01.31,Doc,,0,0,0,,before anyone starts cutting or welding.
+Dialogue: 0,0:03:01.36,0:03:02.75,Doc,,0,0,0,,Back in 2024,
+Dialogue: 0,0:03:02.80,0:03:06.47,Doc,,0,0,0,,the Motor Trades Association of Australia\Nsaid only around ten per cent of the
+Dialogue: 0,0:03:06.52,0:03:10.11,Doc,,0,0,0,,country's repairers were certified\Nto work on electric vehicles.
+Dialogue: 0,0:03:10.16,0:03:11.69,Doc,,0,0,0,,Its chief executive, Matt Hobbs,
+Dialogue: 0,0:03:11.74,0:03:15.21,Doc,,0,0,0,,pointed out that technicians have to\Nbe trained to safely de-power systems
+Dialogue: 0,0:03:15.26,0:03:18.03,Doc,,0,0,0,,running at around four hundred\Nvolts before they start work.
+Dialogue: 0,0:03:18.08,0:03:21.79,Doc,,0,0,0,,And a report by the association with\NDeloitte found that only around forty-one
+Dialogue: 0,0:03:21.84,0:03:25.43,Doc,,0,0,0,,per cent of EV technician job\Nvacancies were being filled.
+Dialogue: 0,0:03:25.48,0:03:27.09,Doc,,0,0,0,,That number has been growing,
+Dialogue: 0,0:03:27.14,0:03:30.09,Doc,,0,0,0,,and BYD has its own approved\Ncollision repair network.
+Dialogue: 0,0:03:30.14,0:03:31.67,Doc,,0,0,0,,But depending on where you live,
+Dialogue: 0,0:03:31.72,0:03:34.23,Doc,,0,0,0,,the nearest approved shop\Ncould be a long way away.
+Dialogue: 0,0:03:34.28,0:03:36.19,Doc,,0,0,0,,So before a single panel is touched,
+Dialogue: 0,0:03:36.24,0:03:37.95,Doc,,0,0,0,,your car might already\Nhave travelled further,
+Dialogue: 0,0:03:38.00,0:03:41.46,Doc,,0,0,0,,and waited longer, than a\Npetrol car with the same damage.
+Dialogue: 0,0:03:42.30,0:03:44.19,Doc,,0,0,0,,Now the car arrives at the repairer.
+Dialogue: 0,0:03:44.24,0:03:45.99,Doc,,0,0,0,,And this is where things get expensive,
+Dialogue: 0,0:03:46.04,0:03:48.61,Doc,,0,0,0,,because modern cars hide\Na lot behind the bumper.
+Dialogue: 0,0:03:48.66,0:03:52.03,Doc,,0,0,0,,A rear bumper on a new BYD\Nisn't just a piece of plastic.
+Dialogue: 0,0:03:52.08,0:03:53.89,Doc,,0,0,0,,It can carry parking sensors,
+Dialogue: 0,0:03:53.94,0:03:57.27,Doc,,0,0,0,,a reversing camera and radar\Nunits for the safety systems.
+Dialogue: 0,0:03:57.32,0:03:58.19,Doc,,0,0,0,,After a hit,
+Dialogue: 0,0:03:58.24,0:04:01.81,Doc,,0,0,0,,those sensors often need to be\Nreplaced or at least recalibrated,
+Dialogue: 0,0:04:01.86,0:04:04.85,Doc,,0,0,0,,and calibration needs\Nspecial equipment and time.
+Dialogue: 0,0:04:04.90,0:04:08.39,Doc,,0,0,0,,A bump that would have cost a few hundred\Ndollars on a twenty-year-old car can
+Dialogue: 0,0:04:08.44,0:04:10.33,Doc,,0,0,0,,turn into a bill of several thousand.
+Dialogue: 0,0:04:10.38,0:04:11.63,Doc,,0,0,0,,Then there's the battery.
+Dialogue: 0,0:04:11.68,0:04:12.68,Doc,,0,0,0,,Even if it looks fine,
+Dialogue: 0,0:04:12.73,0:04:16.43,Doc,,0,0,0,,the repairer and the insurer need to\Nknow whether the impact has damaged the
+Dialogue: 0,0:04:16.48,0:04:18.53,Doc,,0,0,0,,pack or its protective casing.
+Dialogue: 0,0:04:18.58,0:04:21.63,Doc,,0,0,0,,On some models, that means removing\Nthe battery for inspection.
+Dialogue: 0,0:04:21.68,0:04:24.59,Doc,,0,0,0,,And if the pack is damaged,\Nthe cost can be huge.
+Dialogue: 0,0:04:24.64,0:04:27.43,Doc,,0,0,0,,In a report published in April 2026,
+Dialogue: 0,0:04:27.48,0:04:30.96,Doc,,0,0,0,,actuarial firm Taylor Fry said the\Nbattery can make up around thirty to fifty
+Dialogue: 0,0:04:31.01,0:04:33.31,Doc,,0,0,0,,per cent of an electric car's value.
+Dialogue: 0,0:04:33.36,0:04:36.85,Doc,,0,0,0,,Replace the battery, and you may be\Nlooking at most of the cost of the car.
+Dialogue: 0,0:04:36.90,0:04:40.87,Doc,,0,0,0,,That's why some EVs with relatively\Nmodest damage end up written off.
+Dialogue: 0,0:04:40.92,0:04:42.67,Doc,,0,0,0,,Not because the car is destroyed,
+Dialogue: 0,0:04:42.72,0:04:46.33,Doc,,0,0,0,,but because the risk and cost of repairing\Nthe battery is too high compared to
+Dialogue: 0,0:04:46.38,0:04:47.44,Doc,,0,0,0,,what the car is worth.
+Dialogue: 0,0:04:47.49,0:04:51.25,Doc,,0,0,0,,Industry insiders have described cases\Nwhere electric cars were written off
+Dialogue: 0,0:04:51.30,0:04:53.55,Doc,,0,0,0,,because the battery casing was scratched,
+Dialogue: 0,0:04:53.60,0:04:57.31,Doc,,0,0,0,,even though the cells inside were probably\Nfine simply because nobody had the
+Dialogue: 0,0:04:57.36,0:05:00.31,Doc,,0,0,0,,diagnostic information to\Nprove the pack was safe.
+Dialogue: 0,0:05:00.36,0:05:03.85,Doc,,0,0,0,,And when an insurer writes off\Nan EV, it doesn't get much back.
+Dialogue: 0,0:05:03.90,0:05:08.27,Doc,,0,0,0,,In 2024, an assessing industry manager\Nsaid the salvage value of a written-off
+Dialogue: 0,0:05:08.32,0:05:12.07,Doc,,0,0,0,,electric car was only around eight to\Nten per cent of its replacement value,
+Dialogue: 0,0:05:12.12,0:05:15.89,Doc,,0,0,0,,because there was so little demand\Nfor used EV batteries and parts.
+Dialogue: 0,0:05:15.94,0:05:19.55,Doc,,0,0,0,,Every one of those write-offs is a cost\Nthat ends up spread across everyone's
+Dialogue: 0,0:05:19.60,0:05:20.33,Doc,,0,0,0,,premiums.
+Dialogue: 0,0:05:20.38,0:05:23.45,Doc,,0,0,0,,To be clear, not every\Ninsurer sees it the same way.
+Dialogue: 0,0:05:23.50,0:05:24.71,Doc,,0,0,0,,Allianz, for example,
+Dialogue: 0,0:05:24.76,0:05:28.59,Doc,,0,0,0,,has said that cosmetic EV repairs\Ngenerally take about as long as petrol car
+Dialogue: 0,0:05:28.64,0:05:32.59,Doc,,0,0,0,,repairs, and that it had no data\Nshowing EVs are written off more often.
+Dialogue: 0,0:05:32.64,0:05:36.13,Doc,,0,0,0,,The problem is concentrated in the\Nserious crashes the ones that reach the
+Dialogue: 0,0:05:36.18,0:05:38.14,Doc,,0,0,0,,battery and the high-voltage system.
+Dialogue: 0,0:05:38.90,0:05:42.41,Doc,,0,0,0,,To be fair to BYD, its\Nbattery design does help here.
+Dialogue: 0,0:05:42.46,0:05:46.93,Doc,,0,0,0,,BYD uses what it calls the Blade\Nbattery, a lithium iron phosphate design.
+Dialogue: 0,0:05:46.98,0:05:48.61,Doc,,0,0,0,,Back in 2024,
+Dialogue: 0,0:05:48.66,0:05:52.55,Doc,,0,0,0,,BYD Australia's collision and repair\Nrepresentatives explained that the Blade
+Dialogue: 0,0:05:52.60,0:05:54.31,Doc,,0,0,0,,battery is built in a way that can,
+Dialogue: 0,0:05:54.36,0:05:55.05,Doc,,0,0,0,,in some cases,
+Dialogue: 0,0:05:55.10,0:05:59.65,Doc,,0,0,0,,allow damaged sections to be repaired\Nrather than replacing the whole pack.
+Dialogue: 0,0:05:59.70,0:06:03.53,Doc,,0,0,0,,Lithium iron phosphate cells are also\Ngenerally considered more stable and
+Dialogue: 0,0:06:03.58,0:06:06.99,Doc,,0,0,0,,less prone to thermal runaway than\Nsome other battery chemistries.
+Dialogue: 0,0:06:07.04,0:06:08.93,Doc,,0,0,0,,That's genuinely good news for owners.
+Dialogue: 0,0:06:08.98,0:06:11.63,Doc,,0,0,0,,But it only helps if the\Nrepairer is trained to do it,
+Dialogue: 0,0:06:11.68,0:06:15.19,Doc,,0,0,0,,has the parts, and the insurer\Nagrees that a repair is safe.
+Dialogue: 0,0:06:15.24,0:06:18.88,Doc,,0,0,0,,And that brings us to the part\Nalmost every BYD owner talks about.
+Dialogue: 0,0:06:20.40,0:06:20.96,Doc,,0,0,0,,The wait.
+Dialogue: 0,0:06:21.01,0:06:23.44,Doc,,0,0,0,,In the early years of BYD in Australia,
+Dialogue: 0,0:06:23.49,0:06:26.62,Doc,,0,0,0,,parts delays were one of the most\Ncommon complaints in owner groups.
+Dialogue: 0,0:06:26.67,0:06:30.48,Doc,,0,0,0,,Some owners publicly described waiting\Nmonths for crash parts while their cars
+Dialogue: 0,0:06:30.53,0:06:31.94,Doc,,0,0,0,,sat at the repairer.
+Dialogue: 0,0:06:31.99,0:06:35.52,Doc,,0,0,0,,BYD's own executives have acknowledged\Nthat the brand had a reputation for
+Dialogue: 0,0:06:35.57,0:06:38.38,Doc,,0,0,0,,slow parts and service, and\Nthat it needed to fix it.
+Dialogue: 0,0:06:38.43,0:06:43.16,Doc,,0,0,0,,And in 2026, BYD has spent serious\Nmoney trying to do exactly that.
+Dialogue: 0,0:06:43.21,0:06:48.50,Doc,,0,0,0,,In October, BYD Australia said it now\Nholds more than 580,000 parts for BYD
+Dialogue: 0,0:06:48.55,0:06:50.14,Doc,,0,0,0,,and Denza models locally,
+Dialogue: 0,0:06:50.19,0:06:53.02,Doc,,0,0,0,,covering around ninety-five\Nper cent of what dealers need,
+Dialogue: 0,0:06:53.07,0:06:57.38,Doc,,0,0,0,,worth more than twenty-five million\Ndollars, across warehouses in four cities.
+Dialogue: 0,0:06:57.43,0:07:00.44,Doc,,0,0,0,,It says it now stocks Blade\Nbattery packs locally too,
+Dialogue: 0,0:07:00.49,0:07:04.16,Doc,,0,0,0,,and that parts not in stock can be sent\Nby air freight rather than waiting for
+Dialogue: 0,0:07:04.21,0:07:05.00,Doc,,0,0,0,,a ship.
+Dialogue: 0,0:07:05.05,0:07:07.58,Doc,,0,0,0,,To put that ninety-five\Nper cent in context:
+Dialogue: 0,0:07:07.63,0:07:09.22,Doc,,0,0,0,,back in 2024,
+Dialogue: 0,0:07:09.27,0:07:13.42,Doc,,0,0,0,,MG told CarAdvice its own parts fill\Nrate was around ninety-one per cent,
+Dialogue: 0,0:07:13.47,0:07:16.88,Doc,,0,0,0,,with air-freighted parts taking about\Ntwo working weeks when they weren't in
+Dialogue: 0,0:07:16.93,0:07:18.12,Doc,,0,0,0,,stock locally.
+Dialogue: 0,0:07:18.17,0:07:21.48,Doc,,0,0,0,,Polestar said overseas parts\Ncould take four to six weeks.
+Dialogue: 0,0:07:21.53,0:07:22.82,Doc,,0,0,0,,So on paper,
+Dialogue: 0,0:07:22.87,0:07:27.64,Doc,,0,0,0,,BYD's 2026 parts promise is now among\Nthe strongest of the newer brands.
+Dialogue: 0,0:07:27.69,0:07:31.42,Doc,,0,0,0,,The real test is whether owners waiting\Non crash repairs actually feel the
+Dialogue: 0,0:07:31.47,0:07:32.38,Doc,,0,0,0,,difference.
+Dialogue: 0,0:07:32.43,0:07:33.68,Doc,,0,0,0,,What about servicing?
+Dialogue: 0,0:07:33.73,0:07:37.48,Doc,,0,0,0,,In a September 2026 interview\Nwith NRMA's Open Road,
+Dialogue: 0,0:07:37.53,0:07:41.42,Doc,,0,0,0,,BYD said the average wait for a\Nservice booking was about seven days,
+Dialogue: 0,0:07:41.47,0:07:44.00,Doc,,0,0,0,,and that it was aiming to bring\Nthat down to four or five.
+Dialogue: 0,0:07:44.05,0:07:47.00,Doc,,0,0,0,,But the wider industry still\Nhas a capacity problem.
+Dialogue: 0,0:07:47.05,0:07:48.80,Doc,,0,0,0,,In July 2026,
+Dialogue: 0,0:07:48.85,0:07:52.74,Doc,,0,0,0,,a review commissioned by the Australian\NAutomotive Dealer Association found
+Dialogue: 0,0:07:52.79,0:07:56.58,Doc,,0,0,0,,that some workshops had backlogs of\Nsix to eight weeks just to diagnose a
+Dialogue: 0,0:07:56.63,0:07:59.30,Doc,,0,0,0,,problem especially on electric vehicles.
+Dialogue: 0,0:07:59.35,0:08:01.14,Doc,,0,0,0,,So even with the parts on the shelf,
+Dialogue: 0,0:08:01.19,0:08:03.10,Doc,,0,0,0,,the bottleneck can move\Nto the workshop itself:
+Dialogue: 0,0:08:03.15,0:08:06.08,Doc,,0,0,0,,not enough trained\Npeople, not enough bays,
+Dialogue: 0,0:08:06.13,0:08:07.99,Doc,,0,0,0,,and too many cars arriving at once.
+Dialogue: 0,0:08:08.79,0:08:11.48,Doc,,0,0,0,,Quick pause before we get to\Nthe money side of all this.
+Dialogue: 0,0:08:11.53,0:08:15.26,Doc,,0,0,0,,If you drive a BYD, or any\NEV, I want to hear from you.
+Dialogue: 0,0:08:15.31,0:08:16.64,Doc,,0,0,0,,Have you had a crash repair?
+Dialogue: 0,0:08:16.69,0:08:19.48,Doc,,0,0,0,,How long did it take, and how\Ndid your insurer handle it?
+Dialogue: 0,0:08:19.53,0:08:23.32,Doc,,0,0,0,,Tell me in the comments real experiences\Nhelp other Aussies far more than any
+Dialogue: 0,0:08:23.37,0:08:24.18,Doc,,0,0,0,,brochure.
+Dialogue: 0,0:08:24.23,0:08:25.18,Doc,,0,0,0,,And if you want honest,
+Dialogue: 0,0:08:25.23,0:08:28.88,Doc,,0,0,0,,fact-checked videos about the\NAustralian car market, hit subscribe.
+Dialogue: 0,0:08:28.93,0:08:31.39,Doc,,0,0,0,,It's free and it really\Nhelps the channel grow.
+Dialogue: 0,0:08:32.16,0:08:34.33,Doc,,0,0,0,,Now let's talk about who pays.
+Dialogue: 0,0:08:34.38,0:08:36.03,Doc,,0,0,0,,According to the Insurance\NCouncil of Australia,
+Dialogue: 0,0:08:36.08,0:08:40.09,Doc,,0,0,0,,the average cost of motor vehicle repairs\Nhas risen around twenty-six per cent
+Dialogue: 0,0:08:40.14,0:08:44.79,Doc,,0,0,0,,since 2022, and repair costs now account\Nfor roughly sixty per cent of the
+Dialogue: 0,0:08:44.84,0:08:47.05,Doc,,0,0,0,,money insurers pay out on motor claims.
+Dialogue: 0,0:08:47.10,0:08:49.91,Doc,,0,0,0,,That's across all cars, not just EVs.
+Dialogue: 0,0:08:49.96,0:08:53.11,Doc,,0,0,0,,Sensors, cameras, more\Nexpensive paint and panels,
+Dialogue: 0,0:08:53.16,0:08:56.75,Doc,,0,0,0,,and a shortage of skilled labour\Nhave all pushed the average bill up.
+Dialogue: 0,0:08:56.80,0:08:58.25,Doc,,0,0,0,,Electric cars add another layer.
+Dialogue: 0,0:08:58.30,0:09:02.55,Doc,,0,0,0,,A senior figure in BYD's own collision\Nrepair network told an industry
+Dialogue: 0,0:09:02.60,0:09:06.87,Doc,,0,0,0,,magazine that EV repairs currently sit\Nin a cost category more like high-end
+Dialogue: 0,0:09:06.92,0:09:08.01,Doc,,0,0,0,,luxury cars.
+Dialogue: 0,0:09:08.06,0:09:11.75,Doc,,0,0,0,,And when repairs cost more, insurers\Nhave to charge more to cover the risk.
+Dialogue: 0,0:09:11.80,0:09:13.53,Doc,,0,0,0,,There's also a hire car issue.
+Dialogue: 0,0:09:13.58,0:09:17.11,Doc,,0,0,0,,While your car is off the road,\Nsomeone has to pay for a replacement.
+Dialogue: 0,0:09:17.16,0:09:20.21,Doc,,0,0,0,,If the repair takes weeks,\Nthat hire bill keeps running.
+Dialogue: 0,0:09:20.26,0:09:22.73,Doc,,0,0,0,,And all of those costs\Nend up in the same place:
+Dialogue: 0,0:09:22.78,0:09:24.82,Doc,,0,0,0,,the premiums everyone pays at renewal.
+Dialogue: 0,0:09:25.66,0:09:30.12,Doc,,0,0,0,,So what has actually happened\Nto BYD insurance prices in 2026?
+Dialogue: 0,0:09:30.17,0:09:33.23,Doc,,0,0,0,,In April 2026,
+Dialogue: 0,0:09:33.28,0:09:36.85,Doc,,0,0,0,,insurance comparison site Compare the\NMarket published an analysis of premiums
+Dialogue: 0,0:09:36.90,0:09:39.71,Doc,,0,0,0,,across popular hybrid and electric cars.
+Dialogue: 0,0:09:39.76,0:09:43.07,Doc,,0,0,0,,It found that the average premium for\Nbattery electric vehicles had risen
+Dialogue: 0,0:09:43.12,0:09:45.33,Doc,,0,0,0,,about ten per cent\Ncompared to a year earlier,
+Dialogue: 0,0:09:45.38,0:09:49.15,Doc,,0,0,0,,to around two thousand three\Nhundred dollars a year.
+Dialogue: 0,0:09:49.20,0:09:52.05,Doc,,0,0,0,,And for some BYD models,\Nthe jump was bigger.
+Dialogue: 0,0:09:52.10,0:09:55.79,Doc,,0,0,0,,The average quoted premium for the\NSealion 6 rose about eighteen per cent,
+Dialogue: 0,0:09:55.84,0:10:01.99,Doc,,0,0,0,,from around $1,482 to around $1,821.
+Dialogue: 0,0:10:02.04,0:10:04.03,Doc,,0,0,0,,The Dolphin went up about nine per cent,
+Dialogue: 0,0:10:04.08,0:10:10.11,Doc,,0,0,0,,from around $1,437 to about $1,578.
+Dialogue: 0,0:10:10.16,0:10:15.37,Doc,,0,0,0,,The Shark 6 rose about five\Nper cent, to around $2,172.
+Dialogue: 0,0:10:15.42,0:10:19.05,Doc,,0,0,0,,And the Sealion 7 was almost\Nflat, up about half a per cent.
+Dialogue: 0,0:10:19.10,0:10:21.48,Doc,,0,0,0,,Other research tells a similar story.
+Dialogue: 0,0:10:21.53,0:10:27.17,Doc,,0,0,0,,CHOICE reported in January 2026 that\Nthe average premium it found for EVs was
+Dialogue: 0,0:10:27.22,0:10:29.97,Doc,,0,0,0,,about $2,545 a year,
+Dialogue: 0,0:10:30.02,0:10:34.15,Doc,,0,0,0,,compared with about\N$1,702 for petrol cars.
+Dialogue: 0,0:10:34.20,0:10:35.48,Doc,,0,0,0,,And in the Taylor Fry report,
+Dialogue: 0,0:10:35.53,0:10:39.49,Doc,,0,0,0,,the spread of quotes for an Atto 3\Nbetween the cheapest and most expensive
+Dialogue: 0,0:10:39.54,0:10:45.75,Doc,,0,0,0,,insurer was around $900 compared with\Nroughly $500 for a petrol Mazda CX-30.
+Dialogue: 0,0:10:45.80,0:10:46.97,Doc,,0,0,0,,Now, two important points.
+Dialogue: 0,0:10:47.02,0:10:51.37,Doc,,0,0,0,,These are averages from specific\Ncomparisons, not your personal quote.
+Dialogue: 0,0:10:51.42,0:10:55.87,Doc,,0,0,0,,Your age, postcode, driving history\Nand excess all matter enormously.
+Dialogue: 0,0:10:55.92,0:10:59.01,Doc,,0,0,0,,And BYD isn't the most\Nexpensive brand to insure.
+Dialogue: 0,0:10:59.06,0:11:01.59,Doc,,0,0,0,,In earlier comparisons, Teslas cost more.
+Dialogue: 0,0:11:01.64,0:11:04.19,Doc,,0,0,0,,But the trend is clear:\Nfor many EV owners,
+Dialogue: 0,0:11:04.24,0:11:07.85,Doc,,0,0,0,,the cost of insurance is rising faster\Nthan for the average petrol car.
+Dialogue: 0,0:11:07.90,0:11:11.23,Doc,,0,0,0,,And that big gap between insurers means\Nshopping around has never mattered
+Dialogue: 0,0:11:11.28,0:11:12.08,Doc,,0,0,0,,more.
+Dialogue: 0,0:11:12.62,0:11:16.39,Doc,,0,0,0,,So you've had the crash, the car's at\Nthe repairer, and nothing is happening.
+Dialogue: 0,0:11:16.44,0:11:18.03,Doc,,0,0,0,,What can you actually do?
+Dialogue: 0,0:11:18.08,0:11:20.95,Doc,,0,0,0,,First, know that your\Ninsurer has rules to follow.
+Dialogue: 0,0:11:21.00,0:11:24.35,Doc,,0,0,0,,Most Australian insurers have signed\Nup to the General Insurance Code of
+Dialogue: 0,0:11:24.40,0:11:25.23,Doc,,0,0,0,,Practice.
+Dialogue: 0,0:11:25.28,0:11:28.37,Doc,,0,0,0,,It sets out standards for\Nhow claims should be handled.
+Dialogue: 0,0:11:28.42,0:11:29.29,Doc,,0,0,0,,Under the code,
+Dialogue: 0,0:11:29.34,0:11:32.83,Doc,,0,0,0,,insurers are generally expected to give\Nyou a progress update at least every
+Dialogue: 0,0:11:32.88,0:11:34.23,Doc,,0,0,0,,twenty business days,
+Dialogue: 0,0:11:34.28,0:11:37.43,Doc,,0,0,0,,to respond to routine requests\Nwithin ten business days,
+Dialogue: 0,0:11:37.48,0:11:41.23,Doc,,0,0,0,,and in most cases to make a decision\Non your claim within four months.
+Dialogue: 0,0:11:41.28,0:11:43.03,Doc,,0,0,0,,If you feel your claim is stuck,
+Dialogue: 0,0:11:43.08,0:11:46.79,Doc,,0,0,0,,ask your insurer in writing for an\Nupdate and for a timeline and mention the
+Dialogue: 0,0:11:46.84,0:11:47.81,Doc,,0,0,0,,code.
+Dialogue: 0,0:11:47.86,0:11:49.99,Doc,,0,0,0,,Second, if you're not\Nhappy with the answer,
+Dialogue: 0,0:11:50.04,0:11:52.59,Doc,,0,0,0,,use the insurer's internal\Ncomplaints process.
+Dialogue: 0,0:11:52.64,0:11:55.35,Doc,,0,0,0,,Put it in writing and keep\Na record of every call.
+Dialogue: 0,0:11:55.40,0:11:58.59,Doc,,0,0,0,,Insurers generally have thirty\Ndays to respond to a complaint.
+Dialogue: 0,0:11:58.64,0:11:59.87,Doc,,0,0,0,,If that doesn't resolve it,
+Dialogue: 0,0:11:59.92,0:12:03.17,Doc,,0,0,0,,you can take your complaint to the\NAustralian Financial Complaints Authority,
+Dialogue: 0,0:12:03.22,0:12:04.49,Doc,,0,0,0,,known as AFCA.
+Dialogue: 0,0:12:04.54,0:12:07.23,Doc,,0,0,0,,It's free for consumers and\Nit's independent of the insurer.
+Dialogue: 0,0:12:07.28,0:12:09.65,Doc,,0,0,0,,Before you go, gather everything:
+Dialogue: 0,0:12:09.70,0:12:11.65,Doc,,0,0,0,,the claim number, your photos,
+Dialogue: 0,0:12:11.70,0:12:15.09,Doc,,0,0,0,,the repairer's estimates, and\Nyour diary of calls and emails.
+Dialogue: 0,0:12:15.14,0:12:17.85,Doc,,0,0,0,,A clear timeline makes a\Ncomplaint much stronger.
+Dialogue: 0,0:12:17.90,0:12:19.63,Doc,,0,0,0,,Third, if the delay is about parts,
+Dialogue: 0,0:12:19.68,0:12:23.63,Doc,,0,0,0,,and not the insurer, remember\Nthe Australian Consumer Law.
+Dialogue: 0,0:12:23.68,0:12:27.19,Doc,,0,0,0,,Manufacturers and importers have to\Nmake spare parts and repair facilities
+Dialogue: 0,0:12:27.24,0:12:29.95,Doc,,0,0,0,,reasonably available\Nfor a reasonable time.
+Dialogue: 0,0:12:30.00,0:12:33.53,Doc,,0,0,0,,If the car is new and the problem\Nis a fault rather than crash damage,
+Dialogue: 0,0:12:33.58,0:12:37.07,Doc,,0,0,0,,you also have consumer guarantee rights\Nagainst the business that sold it to
+Dialogue: 0,0:12:37.12,0:12:37.69,Doc,,0,0,0,,you.
+Dialogue: 0,0:12:37.74,0:12:39.78,Doc,,0,0,0,,Your state's fair trading office can help.
+Dialogue: 0,0:12:40.49,0:12:42.38,Doc,,0,0,0,,So here's the checklist I promised.
+Dialogue: 0,0:12:42.43,0:12:43.90,Doc,,0,0,0,,Save this one.
+Dialogue: 0,0:12:43.95,0:12:46.24,Doc,,0,0,0,,Before a crash happens: check your policy.
+Dialogue: 0,0:12:46.29,0:12:48.76,Doc,,0,0,0,,Does it cover a hire\Ncar, and for how long?
+Dialogue: 0,0:12:48.81,0:12:52.24,Doc,,0,0,0,,Is the hire car capped at a\Ndollar amount or a number of days?
+Dialogue: 0,0:12:52.29,0:12:55.26,Doc,,0,0,0,,Can you choose your own repairer,\Nor does the insurer choose?
+Dialogue: 0,0:12:55.31,0:12:59.60,Doc,,0,0,0,,And find out where your nearest\NBYD-approved collision repairer actually is.
+Dialogue: 0,0:12:59.65,0:13:02.62,Doc,,0,0,0,,When you renew: don't just\Naccept the renewal price.
+Dialogue: 0,0:13:02.67,0:13:04.80,Doc,,0,0,0,,Get quotes from at least three insurers.
+Dialogue: 0,0:13:04.85,0:13:08.26,Doc,,0,0,0,,With differences of hundreds of dollars\Nbetween companies for the same car,
+Dialogue: 0,0:13:08.31,0:13:11.64,Doc,,0,0,0,,a twenty-minute search can pay\Nfor itself many times over.
+Dialogue: 0,0:13:11.69,0:13:13.86,Doc,,0,0,0,,Ask how they handle EV battery damage,
+Dialogue: 0,0:13:13.91,0:13:16.78,Doc,,0,0,0,,and whether they have a\Nspecialist EV claims process.
+Dialogue: 0,0:13:16.83,0:13:21.04,Doc,,0,0,0,,After a crash: take photos of everything,\Nincluding the dashboard warnings.
+Dialogue: 0,0:13:21.09,0:13:24.40,Doc,,0,0,0,,Tell the tow operator it's an\Nelectric or plug-in vehicle.
+Dialogue: 0,0:13:24.45,0:13:28.28,Doc,,0,0,0,,Ask the insurer or repairer for a\Nwritten estimate of the timeline.
+Dialogue: 0,0:13:28.33,0:13:31.44,Doc,,0,0,0,,Keep a diary of every call\Nand email, with dates.
+Dialogue: 0,0:13:31.49,0:13:33.64,Doc,,0,0,0,,And if the car has been\Nhit near the battery,
+Dialogue: 0,0:13:33.69,0:13:35.52,Doc,,0,0,0,,ask whether a battery\Nhealth check has been done,
+Dialogue: 0,0:13:35.57,0:13:36.96,Doc,,0,0,0,,and get a copy of the result.
+Dialogue: 0,0:13:37.01,0:13:39.52,Doc,,0,0,0,,And one more thing to\Ncheck on your policy:
+Dialogue: 0,0:13:39.57,0:13:42.92,Doc,,0,0,0,,is your car insured for an\Nagreed value or a market value?
+Dialogue: 0,0:13:42.97,0:13:46.62,Doc,,0,0,0,,With an agreed value, you and the\Ninsurer settle on the amount up front.
+Dialogue: 0,0:13:46.67,0:13:47.78,Doc,,0,0,0,,With market value,
+Dialogue: 0,0:13:47.83,0:13:51.06,Doc,,0,0,0,,the insurer pays what the car is\Nworth at the time of the crash.
+Dialogue: 0,0:13:51.11,0:13:53.56,Doc,,0,0,0,,If an EV is written off\Nbecause of battery damage,
+Dialogue: 0,0:13:53.61,0:13:57.38,Doc,,0,0,0,,that difference can matter a lot\Nespecially in a market where used EV prices
+Dialogue: 0,0:13:57.43,0:13:58.56,Doc,,0,0,0,,have been falling.
+Dialogue: 0,0:13:58.61,0:14:01.60,Doc,,0,0,0,,So read the policy wording,\Nnot just the price.
+Dialogue: 0,0:14:01.65,0:14:03.80,Doc,,0,0,0,,It's also worth knowing\Nwho chooses the repairer.
+Dialogue: 0,0:14:03.85,0:14:06.46,Doc,,0,0,0,,Some policies let you\Npick your own workshop,
+Dialogue: 0,0:14:06.51,0:14:09.08,Doc,,0,0,0,,while others send you to\Nthe insurer's own network.
+Dialogue: 0,0:14:09.13,0:14:12.48,Doc,,0,0,0,,If you want an EV-certified\Nor BYD-approved repairer,
+Dialogue: 0,0:14:12.53,0:14:15.16,Doc,,0,0,0,,make sure your policy allows\Nit before you need it.
+Dialogue: 0,0:14:15.21,0:14:17.42,Doc,,0,0,0,,And if you're still deciding\Nwhether to buy a BYD,
+Dialogue: 0,0:14:17.47,0:14:21.44,Doc,,0,0,0,,or any EV, ask the dealer three\Nquestions before you sign.
+Dialogue: 0,0:14:21.49,0:14:23.78,Doc,,0,0,0,,Where is the nearest\Napproved collision repairer?
+Dialogue: 0,0:14:23.83,0:14:25.90,Doc,,0,0,0,,How long are service bookings right now?
+Dialogue: 0,0:14:25.95,0:14:28.54,Doc,,0,0,0,,And are crash parts for this\Nmodel stocked in Australia?
+Dialogue: 0,0:14:28.59,0:14:32.47,Doc,,0,0,0,,The answers will tell you a lot about\Nwhat your life looks like after a crash.
+Dialogue: 0,0:14:33.36,0:14:36.91,Doc,,0,0,0,,So, is BYD's biggest problem\Nin Australia the car itself?
+Dialogue: 0,0:14:36.96,0:14:37.73,Doc,,0,0,0,,Not really.
+Dialogue: 0,0:14:37.78,0:14:41.27,Doc,,0,0,0,,The cars sell well and the battery\Ntechnology is genuinely good.
+Dialogue: 0,0:14:41.32,0:14:43.51,Doc,,0,0,0,,The real challenge starts after the crash:
+Dialogue: 0,0:14:43.56,0:14:46.81,Doc,,0,0,0,,a repair industry that's still\Ncatching up with electric cars,
+Dialogue: 0,0:14:46.86,0:14:48.35,Doc,,0,0,0,,a shortage of trained hands,
+Dialogue: 0,0:14:48.40,0:14:50.09,Doc,,0,0,0,,insurers adjusting their prices,
+Dialogue: 0,0:14:50.14,0:14:52.83,Doc,,0,0,0,,and a brand that grew faster\Nthan its support network.
+Dialogue: 0,0:14:52.88,0:14:56.77,Doc,,0,0,0,,The good news is that BYD is clearly\Nspending money to fix its side of it,
+Dialogue: 0,0:14:56.82,0:14:59.97,Doc,,0,0,0,,with local parts, local batteries\Nand faster service targets.
+Dialogue: 0,0:15:00.02,0:15:04.77,Doc,,0,0,0,,The question for 2027 is whether\Nrepairers and insurers can keep up as
+Dialogue: 0,0:15:04.82,0:15:08.11,Doc,,0,0,0,,hundreds of thousands more of\Nthese cars hit Australian roads.
+Dialogue: 0,0:15:08.16,0:15:09.47,Doc,,0,0,0,,If this video helped you,
+Dialogue: 0,0:15:09.52,0:15:12.73,Doc,,0,0,0,,hit like and subscribe we cover what's\Nreally happening in the Aussie car
+Dialogue: 0,0:15:12.78,0:15:15.65,Doc,,0,0,0,,market every week, with\Nsources in the description.
+Dialogue: 0,0:15:15.70,0:15:18.65,Doc,,0,0,0,,Tell me in the comments: has\Nyour insurance gone up this year?
+Dialogue: 0,0:15:18.70,0:15:21.71,Doc,,0,0,0,,And if you want to see\Nanother big story from 2026,
+Dialogue: 0,0:15:21.76,0:15:25.24,Doc,,0,0,0,,watch our video on how Tesla cancelled\Nthe Cybertruck for Australia after
+Dialogue: 0,0:15:25.29,0:15:26.89,Doc,,0,0,0,,seven years of deposits.
+Dialogue: 0,0:15:26.94,0:15:27.74,Doc,,0,0,0,,See you there.

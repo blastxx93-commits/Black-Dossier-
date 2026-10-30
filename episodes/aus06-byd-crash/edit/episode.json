@@ -1,0 +1,2284 @@
+{
+ "output": "AUS06_BYD_After_The_Crash.mp4",
+ "fps": 24,
+ "music": [
+  {
+   "file": "trilha.wav",
+   "start": 0,
+   "gain": -29,
+   "fade_in": 4,
+   "fade_out": 5
+  }
+ ],
+ "chapters": [
+  {
+   "audio": "audio/ch00_hook.flac",
+   "lead_in": 0,
+   "tail": 0.6,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_red_light/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_rear_end_1.jpg",
+     "move": "in",
+     "dur": 4.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_bumper_sensors_1.jpg",
+     "move": "left",
+     "dur": 1.24,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_hazard/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.58,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"No worries, insurance will sort it out.\"",
+     "highlight": "NO WORRIES",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 2.4,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_cars_waiting_1.jpg",
+     "move": "out",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev_highway/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.76,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "The real problem starts AFTER the crash.",
+     "highlight": "AFTER",
+     "size": 115,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 1.86,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "The tow",
+      "The repairer",
+      "The battery check",
+      "The wait",
+      "The renewal letter"
+     ],
+     "starts": [
+      0,
+      64,
+      123,
+      175,
+      241
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 2.6999999999999993
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 5.16
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 7.300000000000001
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 10.080000000000005
+      }
+     ],
+     "dur": 11.82,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_dolphin/1_commons.jpg",
+     "move": "in",
+     "caption": "BYD|#2 brand in Australia \u00b7 2026",
+     "dur": 6.4,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_dolphin/5_commons.jpg",
+     "move": "right",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev_highway/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.68,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "BYD's Biggest Problem Starts AFTER the Crash",
+     "subtitle": "Australia \u00b7 2026",
+     "tag": "real 2026 data",
+     "bg": "a/h_bumper/2_pixabay.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 2.9,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_paperwork/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.942,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch01.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_ev_charge/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.52,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "8,191",
+     "label": "BYD sales in Australia \u00b7 September 2026 (+61%)",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "FCAI / EVC via Cars24",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_parking_lot/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.36,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Top brands \u00b7 September 2026",
+     "items": [
+      [
+       "Toyota",
+       17682
+      ],
+      [
+       "BYD",
+       8191
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "FCAI / EVC",
+     "dur": 5.64,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_byd_logo_building/1_commons.jpg",
+     "move": "up",
+     "dur": 4.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_atto1/1_commons.jpg",
+     "move": "in",
+     "caption": "BYD Atto 1|city car",
+     "dur": 4.7,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_sealion7/1_commons.jpg",
+     "move": "left",
+     "dur": 3.3,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seal/3_commons.jpg",
+     "move": "right",
+     "dur": 1.1,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_sealion6/1_commons.jpg",
+     "move": "in",
+     "dur": 4.48,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev_charge/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.56,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "24%+",
+     "label": "battery EV share of new car sales \u00b7 September 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "FCAI / EVC",
+     "dur": 6.28,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "More EVs than petrol-only cars \u2013 2 months running.",
+     "highlight": "EVs",
+     "size": 100,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.98,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "+80%",
+     "label": "EV insurance quote requests \u00b7 Jan\u2013Sep 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "NRMA Insurance",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_driving/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.64,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_spray/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.06,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Not a criticism. Just maths.",
+     "highlight": "MATHS",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.16,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_parts/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.018,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch02.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "Step 1",
+     "subtitle": "The tow",
+     "tag": "after the crash",
+     "bg": "a/ai/ai_flatbed_ev_1.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 7.66,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_battery_lifted_1.jpg",
+     "move": "down",
+     "dur": 3.18,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_tow/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_tow_truck/2_pixabay.jpg",
+     "move": "right",
+     "dur": 4.1,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_quarantine_1.jpg",
+     "move": "in",
+     "dur": 4.64,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_wrecking_yard/1_pixabay.jpg",
+     "move": "left",
+     "caption": "Damaged EVs|kept apart in quarantine",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_tow_truck/4_pixabay.jpg",
+     "move": "in",
+     "dur": 3.82,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Who's allowed to fix it?",
+     "highlight": "WHO",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.08,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_battery/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.06,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_hv_technician_1.jpg",
+     "move": "out",
+     "dur": 4.98,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "~10%",
+     "label": "of repairers EV-certified (2024)",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "MTAA \u00b7 Matt Hobbs",
+     "color": "red",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_tow_truck/5_pixabay.jpg",
+     "move": "up",
+     "dur": 6.12,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "400 V",
+     "label": "systems to de-power before any work",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "MTAA \u00b7 2024",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_tow_truck/6_pixabay.jpg",
+     "move": "out",
+     "dur": 3.58,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "41%",
+     "label": "of EV technician jobs filled",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "MTAA / Deloitte",
+     "color": "red",
+     "dur": 4.42,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_panel_beater/1_pixabay.jpg",
+     "move": "right",
+     "dur": 1.76,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_byd_logo_building/3_commons.jpg",
+     "move": "in",
+     "dur": 4.48,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_tow/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.56,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Further. Longer. Before a single panel is touched.",
+     "highlight": "LONGER",
+     "size": 100,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_tow2/3_pixabay.jpg",
+     "move": "down",
+     "dur": 3.148,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch03.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "Step 2",
+     "subtitle": "The damage you can't see",
+     "tag": "at the repairer",
+     "bg": "a/h_panel_beater/4_pixabay.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 3.82,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_adas_calibration_1.jpg",
+     "move": "out",
+     "dur": 5.84,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_parking_sensor/1_pixabay.jpg",
+     "move": "down",
+     "dur": 6.16,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_parking_sensor/2_pixabay.jpg",
+     "move": "in",
+     "caption": "Sensors & cameras|replace + recalibrate",
+     "dur": 6.66,
+     "fixed": true
+    },
+    {
+     "type": "price",
+     "model": "Low-speed rear bump",
+     "old": "a few hundred $",
+     "new": "several thousand $",
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.6
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.0
+      }
+     ],
+     "old_note": "older car",
+     "new_note": "car with sensors",
+     "source": "industry estimates",
+     "dur": 5.48,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_battery_cells_1.jpg",
+     "move": "left",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_spray/2_pixabay.jpg",
+     "move": "in",
+     "dur": 3.2,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_battery_pack/2_pixabay.jpg",
+     "move": "out",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_spray/3_pixabay.jpg",
+     "move": "left",
+     "dur": 5.54,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "30\u201350%",
+     "label": "of an EV's value is the battery",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Taylor Fry \u00b7 April 2026",
+     "color": "red",
+     "dur": 4.24,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_worried_laptop/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.54,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_wrecking_yard/3_pixabay.jpg",
+     "move": "right",
+     "dur": 4.02,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_bumper/3_pixabay.jpg",
+     "move": "in",
+     "dur": 6.57,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_battery_pack/4_pixabay.jpg",
+     "move": "up",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_spray/5_pixabay.jpg",
+     "move": "out",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_road_au/3_pixabay.jpg",
+     "move": "right",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_road_au/4_pixabay.jpg",
+     "move": "in",
+     "dur": 4.31,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "8\u201310%",
+     "label": "salvage value of a written-off EV (2024)",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "AAMC",
+     "color": "red",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_road_au/5_pixabay.jpg",
+     "move": "up",
+     "dur": 4.14,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_renewal_letter_1.jpg",
+     "move": "out",
+     "dur": 5.4,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_laptop/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.16,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Cosmetic EV repairs: about as fast as petrol \u2013 Allianz",
+     "highlight": "ALLIANZ",
+     "size": 90,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_road_au/6_pixabay.jpg",
+     "move": "out",
+     "dur": 4.14,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_mechanic_ev/1_pixabay.jpg",
+     "move": "down",
+     "dur": 6.378,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch04.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/m_blade/1_commons.jpg",
+     "move": "in",
+     "caption": "BYD Blade battery|lithium iron phosphate",
+     "dur": 3.44,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_mechanic_ev/2_pixabay.jpg",
+     "move": "in",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_carpark/5_pixabay.jpg",
+     "move": "down",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_carpark/6_pixabay.jpg",
+     "move": "in",
+     "dur": 2.64,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_mechanic_ev/3_pixabay.jpg",
+     "move": "left",
+     "dur": 4.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_mechanic_ev/5_pixabay.jpg",
+     "move": "out",
+     "dur": 7.34,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seal/1_commons.jpg",
+     "move": "left",
+     "dur": 1.94,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_panel_beater/5_pixabay.jpg",
+     "move": "right",
+     "dur": 6.26,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "The part every owner talks about\u2026",
+     "highlight": "EVERY OWNER",
+     "size": 115,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.513,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch05.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "Step 3",
+     "subtitle": "The wait",
+     "tag": "parts & workshops",
+     "bg": "a/h_panel_beater/6_pixabay.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 1.26,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_workshop/1_unsplash.jpg",
+     "move": "up",
+     "dur": 5.66,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_phone/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.32,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_byd4/1_commons.jpg",
+     "move": "out",
+     "dur": 6.44,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_warehouse/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.9,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "580,000+",
+     "label": "parts held in Australia",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "BYD \u00b7 October 2026",
+     "dur": 4.86,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "95%",
+     "label": "of parts in local stock \u00b7 $25M+ \u00b7 4 warehouses",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "BYD \u00b7 October 2026",
+     "dur": 7.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_mechanic2/1_unsplash.jpg",
+     "move": "down",
+     "dur": 3.34,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_plane/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.86,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Local parts fill rate",
+     "items": [
+      [
+       "BYD (2026)",
+       95
+      ],
+      [
+       "MG (2024)",
+       91
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "%",
+     "source": "BYD \u00b7 CarAdvice",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_warehouse/1_pixabay.jpg",
+     "move": "left",
+     "dur": 5.54,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "4\u20136 weeks",
+     "label": "Polestar overseas parts (2024)",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarAdvice",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_warehouse/3_pixabay.jpg",
+     "move": "out",
+     "dur": 4.52,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_workshop/3_unsplash.jpg",
+     "move": "in",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_warehouse/5_pixabay.jpg",
+     "move": "right",
+     "dur": 5.4,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "BYD service booking wait",
+     "items": [
+      [
+       "Now",
+       7
+      ],
+      [
+       "Target",
+       5
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": " days",
+     "source": "BYD via NRMA Open Road \u00b7 Sept 2026",
+     "dur": 5.96,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_workshop/4_pixabay.jpg",
+     "move": "left",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_cargo_plane/1_pixabay.jpg",
+     "move": "in",
+     "dur": 4.82,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "6\u20138 weeks",
+     "label": "just to DIAGNOSE a problem",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "AADA review \u00b7 July 2026",
+     "color": "red",
+     "dur": 7.32,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_mechanic2/5_unsplash.jpg",
+     "move": "out",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_workshop/5_unsplash.jpg",
+     "move": "right",
+     "dur": 2.714,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch06.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/h_bumper/4_pixabay.jpg",
+     "move": "in",
+     "dur": 6.4,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Had a crash repair?",
+     "sub": "How long did it take? Tell me in the comments",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_car_crash/3_pixabay.jpg",
+     "move": "up",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_car_crash/5_pixabay.jpg",
+     "move": "out",
+     "dur": 2.62,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Subscribe",
+     "sub": "Honest, fact-checked Aussie car news",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 4.352,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch07.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "Step 4",
+     "subtitle": "Who pays",
+     "tag": "repair costs",
+     "bg": "a/h_calculator_bills/2_pixabay.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 3.8,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "+26%",
+     "label": "average repair cost since 2022",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Insurance Council of Australia",
+     "color": "red",
+     "dur": 5.82,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "~60%",
+     "label": "of motor claim payouts are repairs",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Insurance Council of Australia",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ev2/3_unsplash.jpg",
+     "move": "down",
+     "dur": 3.06,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_parking_sensor/3_pixabay.jpg",
+     "move": "out",
+     "dur": 6.84,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_mechanic2/6_pixabay.jpg",
+     "move": "down",
+     "dur": 6.72,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"\u2026more like high-end luxury cars.\"",
+     "highlight": "LUXURY",
+     "size": 115,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 6.06,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_assessor_1.jpg",
+     "move": "in",
+     "dur": 2.22,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_driving/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.84,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_calculator_bills/3_pixabay.jpg",
+     "move": "left",
+     "dur": 4.14,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_calculator_bills/4_pixabay.jpg",
+     "move": "out",
+     "dur": 2.998,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch08.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/h_worried/1_pixabay.jpg",
+     "move": "right",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ev2/5_unsplash.jpg",
+     "move": "in",
+     "dur": 3.54,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_compare_quotes_1.jpg",
+     "move": "in",
+     "dur": 5.96,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "+10.2%",
+     "label": "average BEV premium \u00b7 now ~$2,300/yr",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Compare the Market \u00b7 April 2026",
+     "color": "red",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ev2/6_pixabay.jpg",
+     "move": "left",
+     "dur": 3.92,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "BYD premium change \u00b7 2026",
+     "items": [
+      [
+       "Sealion 6",
+       18,
+       "red"
+      ],
+      [
+       "Dolphin",
+       9,
+       "red"
+      ],
+      [
+       "Shark 6",
+       5,
+       "red"
+      ],
+      [
+       "Sealion 7",
+       0.5
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "+",
+     "suffix": "%",
+     "source": "Compare the Market \u00b7 April 2026",
+     "dur": 6.64,
+     "fixed": true
+    },
+    {
+     "type": "price",
+     "model": "BYD Sealion 6 \u00b7 average premium",
+     "old": "$1,482",
+     "new": "$1,821",
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.6
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.0
+      }
+     ],
+     "old_note": "2025",
+     "new_note": "2026",
+     "save": "+18%",
+     "source": "Compare the Market",
+     "dur": 6.2,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_dolphin/3_commons.jpg",
+     "move": "in",
+     "caption": "BYD Dolphin|$1,437 \u2192 $1,578",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ev2/7_unsplash.jpg",
+     "move": "out",
+     "dur": 3.12,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "$2,172",
+     "label": "BYD Shark 6 average premium (+5%)",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Compare the Market \u00b7 April 2026",
+     "dur": 5.26,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_sealion7/3_commons.jpg",
+     "move": "right",
+     "dur": 6.11,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Average premium \u00b7 CHOICE Jan 2026",
+     "items": [
+      [
+       "EV",
+       2545,
+       "red"
+      ],
+      [
+       "Petrol",
+       1702
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "$",
+     "suffix": "",
+     "source": "CHOICE",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ev2/8_pixabay.jpg",
+     "move": "right",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_car_crash/6_pixabay.jpg",
+     "move": "in",
+     "dur": 4.0,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Gap between cheapest & dearest quote",
+     "items": [
+      [
+       "BYD Atto 3",
+       900,
+       "red"
+      ],
+      [
+       "Mazda CX-30",
+       500
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "$",
+     "suffix": "",
+     "source": "Taylor Fry \u00b7 April 2026",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_damaged/1_unsplash.jpg",
+     "move": "up",
+     "dur": 6.49,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_worried/2_pixabay.jpg",
+     "move": "up",
+     "dur": 4.4,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_insurance_form/1_pixabay.jpg",
+     "move": "out",
+     "dur": 4.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_tesla_m3/1_commons.jpg",
+     "move": "left",
+     "caption": "Teslas|cost more to insure",
+     "dur": 5.62,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "EV insurance is rising faster.",
+     "highlight": "FASTER",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_damaged/3_unsplash.jpg",
+     "move": "out",
+     "dur": 2.98,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_worried/3_pixabay.jpg",
+     "move": "down",
+     "dur": 2.921,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch09.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_phone/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.34,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "General Insurance Code of Practice",
+     "highlight": "CODE",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_damaged/5_unsplash.jpg",
+     "move": "down",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_damaged/6_pixabay.jpg",
+     "move": "in",
+     "dur": 3.1,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Updates every 20 business days",
+      "Replies within 10 business days",
+      "Decision within 4 months"
+     ],
+     "starts": [
+      0,
+      77,
+      181
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 3.240000000000002
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 7.580000000000002
+      }
+     ],
+     "dur": 10.1,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_phone/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.58,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_insurance_form/3_pixabay.jpg",
+     "move": "in",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_damaged/7_unsplash.jpg",
+     "move": "left",
+     "dur": 2.54,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "30 days",
+     "label": "for the insurer to answer a complaint",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "AFCA",
+     "dur": 5.72,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "AFCA \u2013 free & independent",
+     "highlight": "AFCA",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 6.16,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_insurance_form/5_pixabay.jpg",
+     "move": "left",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_byd3/1_commons.jpg",
+     "move": "out",
+     "dur": 2.86,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_worried/4_pixabay.jpg",
+     "move": "out",
+     "dur": 2.76,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_warehouse/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.78,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Parts must be reasonably available.",
+     "highlight": "REASONABLY",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_byd3/3_commons.jpg",
+     "move": "right",
+     "dur": 4.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_byd4/3_commons.jpg",
+     "move": "right",
+     "dur": 4.16,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_phone_call/1_pixabay.jpg",
+     "move": "in",
+     "dur": 2.873,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch10.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "The Checklist",
+     "subtitle": "save this one",
+     "tag": "before \u00b7 renewal \u00b7 after",
+     "bg": "a/h_insurance2/5_unsplash.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 3.34,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Before a crash",
+     "highlight": "BEFORE",
+     "size": 150,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 2.34,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Hire car cover?",
+      "Capped in $ or days?",
+      "Who chooses the repairer?"
+     ],
+     "starts": [
+      0,
+      60,
+      144
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 2.5200000000000014
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 6.000000000000002
+      }
+     ],
+     "dur": 9.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_byd4/5_commons.jpg",
+     "move": "out",
+     "dur": 4.12,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "At renewal",
+     "highlight": "RENEWAL",
+     "size": 150,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.02,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_worried/5_pixabay.jpg",
+     "move": "down",
+     "dur": 5.64,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_insurance2/6_pixabay.jpg",
+     "move": "in",
+     "dur": 3.38,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_traffic_light/2_pixabay.jpg",
+     "move": "left",
+     "dur": 5.14,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "After a crash",
+     "highlight": "AFTER",
+     "size": 150,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 1.02,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_bumper/5_pixabay.jpg",
+     "move": "out",
+     "dur": 1.7,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_dashboard_warning_1.jpg",
+     "move": "right",
+     "dur": 1.54,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_tow_truck/1_pixabay.jpg",
+     "move": "in",
+     "dur": 7.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_phone_call/2_pixabay.jpg",
+     "move": "up",
+     "dur": 5.36,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_traffic_light/3_pixabay.jpg",
+     "move": "out",
+     "dur": 5.88,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Agreed value or market value?",
+     "highlight": "VALUE",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.4,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_workshop/6_pixabay.jpg",
+     "move": "down",
+     "dur": 3.7,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_traffic_light/4_pixabay.jpg",
+     "move": "in",
+     "dur": 4.44,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_wrecking_yard/4_pixabay.jpg",
+     "move": "left",
+     "dur": 7.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_road_au/1_pixabay.jpg",
+     "move": "out",
+     "dur": 3.04,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Who chooses the repairer?",
+     "highlight": "WHO",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 7.48,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_workshop/7_unsplash.jpg",
+     "move": "right",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_tow2/4_pixabay.jpg",
+     "move": "in",
+     "dur": 4.62,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_byd4/6_pixabay.jpg",
+     "move": "in",
+     "dur": 2.74,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Nearest approved repairer?",
+      "Service wait right now?",
+      "Crash parts stocked here?"
+     ],
+     "starts": [
+      0,
+      56,
+      109
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 2.3400000000000034
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 4.579999999999998
+      }
+     ],
+     "dur": 7.1,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_byd2/3_commons.jpg",
+     "move": "up",
+     "dur": 4.884,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch11.flac",
+   "lead_in": 0,
+   "tail": 2.5,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/m_byd2/5_commons.jpg",
+     "move": "out",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_tow2/5_pixabay.jpg",
+     "move": "up",
+     "dur": 2.84,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "The real challenge starts after the crash.",
+     "highlight": "AFTER",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 2.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_spray/1_pixabay.jpg",
+     "move": "down",
+     "dur": 4.84,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_road_au/2_pixabay.jpg",
+     "move": "in",
+     "dur": 4.48,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_parts_shelves_1.jpg",
+     "move": "left",
+     "dur": 7.14,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_tow/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_parking_sensor/4_pixabay.jpg",
+     "move": "out",
+     "dur": 3.14,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Like \u00b7 Subscribe",
+     "sub": "sources in the description",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_cargo_plane/2_pixabay.jpg",
+     "move": "down",
+     "dur": 3.58,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Has your insurance gone up this year?"
+     ],
+     "starts": [
+      0
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      }
+     ],
+     "dur": 5.02,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "Tesla Cancelled the Cybertruck",
+     "subtitle": "for Australia \u2013 after 7 years of deposits",
+     "tag": "watch next",
+     "bg": "a/h_ev2/1_unsplash.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 8.55,
+     "fixed": false,
+     "fade_out": 0
+    }
+   ]
+  }
+ ],
+ "size": [
+  1920,
+  1080
+ ],
+ "subtitles": "AUS06.ass"
+}
