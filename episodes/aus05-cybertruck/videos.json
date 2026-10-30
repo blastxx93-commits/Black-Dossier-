@@ -1,0 +1,139 @@
+{
+ "defaults": {
+  "n": 3,
+  "clip": 8,
+  "sources": [
+   "coverr",
+   "pixabay",
+   "pexels"
+  ]
+ },
+ "shots": [
+  {
+   "id": "v_cybertruck",
+   "query": "tesla cybertruck",
+   "alt": [
+    "cybertruck driving"
+   ]
+  },
+  {
+   "id": "v_tesla_drive",
+   "query": "tesla driving",
+   "alt": [
+    "tesla model y"
+   ]
+  },
+  {
+   "id": "v_ev_charge",
+   "query": "electric car charging",
+   "alt": [
+    "ev charger"
+   ]
+  },
+  {
+   "id": "v_pickup_offroad",
+   "query": "pickup truck off road",
+   "alt": [
+    "4x4 truck dirt road"
+   ]
+  },
+  {
+   "id": "v_truck_highway",
+   "query": "pickup truck highway",
+   "alt": [
+    "truck driving road"
+   ]
+  },
+  {
+   "id": "v_australia_road",
+   "query": "australia road driving",
+   "alt": [
+    "outback road"
+   ]
+  },
+  {
+   "id": "v_city_traffic",
+   "query": "city traffic night",
+   "alt": [
+    "traffic timelapse"
+   ]
+  },
+  {
+   "id": "v_factory",
+   "query": "car factory robots",
+   "alt": [
+    "automotive assembly line"
+   ]
+  },
+  {
+   "id": "v_cargo_ship",
+   "query": "cargo ship port",
+   "alt": [
+    "container ship"
+   ]
+  },
+  {
+   "id": "v_email",
+   "query": "typing email laptop",
+   "alt": [
+    "reading email laptop"
+   ]
+  },
+  {
+   "id": "v_phone_shock",
+   "query": "man reading phone shocked",
+   "alt": [
+    "reading smartphone"
+   ]
+  },
+  {
+   "id": "v_money",
+   "query": "counting money",
+   "alt": [
+    "cash dollars"
+   ]
+  },
+  {
+   "id": "v_fuel",
+   "query": "fuel pump nozzle",
+   "alt": [
+    "gas station refuel"
+   ]
+  },
+  {
+   "id": "v_showroom",
+   "query": "car showroom",
+   "alt": [
+    "car dealership"
+   ]
+  },
+  {
+   "id": "v_steel",
+   "query": "steel metal sheet",
+   "alt": [
+    "stainless steel factory"
+   ]
+  },
+  {
+   "id": "v_presentation",
+   "query": "product launch stage",
+   "alt": [
+    "keynote stage lights"
+   ]
+  },
+  {
+   "id": "v_signing",
+   "query": "signing document",
+   "alt": [
+    "contract pen"
+   ]
+  },
+  {
+   "id": "v_calendar",
+   "query": "calendar pages",
+   "alt": [
+    "time passing clock"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "model": "black-forest-labs/flux-1.1-pro-ultra",
+ "raw": true,
+ "n": 1,
+ "style": ", modern Australian documentary photograph, 2026, natural light, realistic, sharp, cinematic colour grade, no logos, no badges, no readable text, no brand names",
+ "shots": [
+  {
+   "id": "ai_reservation_email",
+   "prompt": "A man at a kitchen table in an Australian home reading an email on a laptop with a disappointed look, screen text not readable, morning light"
+  },
+  {
+   "id": "ai_angular_ute_rhd",
+   "prompt": "A futuristic angular stainless steel electric pickup truck parked on a red dirt outback road, generic unbranded design, dusk"
+  },
+  {
+   "id": "ai_rhd_steering",
+   "prompt": "Interior view of a right-hand-drive vehicle steering wheel with a large central touchscreen, generic unbranded, daylight"
+  },
+  {
+   "id": "ai_adr_engineer",
+   "prompt": "An automotive engineer measuring the sharp front edge of a vehicle with a ruler in a testing lab, pedestrian safety testing, neutral light"
+  },
+  {
+   "id": "ai_pedestrian_dummy",
+   "prompt": "A pedestrian crash test dummy standing in front of a vehicle in a safety testing facility, clean lab lighting"
+  },
+  {
+   "id": "ai_roadshow_crowd",
+   "prompt": "Crowd of curious Australians photographing a covered vehicle display in a shopping centre, faces not recognisable"
+  },
+  {
+   "id": "ai_deposit_receipt",
+   "prompt": "A small paper receipt and a credit card on a desk next to car keys, text blurred, shallow depth of field"
+  },
+  {
+   "id": "ai_wait_years",
+   "prompt": "A desk calendar with many pages torn off and a toy pickup truck beside it, soft window light"
+  },
+  {
+   "id": "ai_tradie_ute",
+   "prompt": "An Australian tradesman loading tools into the tray of a white dual-cab ute on a building site, morning"
+  },
+  {
+   "id": "ai_towing_caravan",
+   "prompt": "A large pickup truck towing a caravan along a coastal Australian highway, aerial view, sunny"
+  },
+  {
+   "id": "ai_port_cars",
+   "prompt": "Rows of new imported cars waiting at an Australian port terminal with ships in the background, overcast"
+  },
+  {
+   "id": "ai_used_price",
+   "prompt": "A used car yard at dusk with an oversized pickup truck for sale, price tag unreadable"
+  },
+  {
+   "id": "ai_ev_ute_charging",
+   "prompt": "An electric dual-cab ute charging at a roadside fast charger in rural Australia, generic unbranded design, sunset"
+  },
+  {
+   "id": "persona_shocked",
+   "prompt": "Waist-up portrait of a fictional Australian man in his late 30s with short dark hair and a trimmed beard, wearing a plain grey t-shirt, shocked disappointed expression, mouth open, eyebrows raised, one hand on his head, looking straight at the camera",
+   "style": ", photorealistic studio portrait photograph, sharp focus on the face, even soft lighting, plain solid bright chroma green background #00FF00 filling the whole frame, no shadows on the background, no text, no logos",
+   "guard": "fictional",
+   "n": 2
+  }
+ ]
+}

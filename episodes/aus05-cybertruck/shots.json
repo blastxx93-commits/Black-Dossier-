@@ -1,0 +1,277 @@
+{
+ "defaults": {
+  "n": 4,
+  "sources": [
+   "commons",
+   "pixabay"
+  ]
+ },
+ "shots": [
+  {
+   "id": "m_cybertruck",
+   "query": "Tesla Cybertruck",
+   "alt": [
+    "Cybertruck"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_cybertruck_reveal",
+   "query": "Cybertruck unveiling 2019",
+   "alt": [
+    "Tesla Cybertruck prototype"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_cybertruck_interior",
+   "query": "Tesla Cybertruck interior",
+   "alt": [],
+   "n": 3
+  },
+  {
+   "id": "m_model_y",
+   "query": "Tesla Model Y 2025",
+   "alt": [
+    "Tesla Model Y Juniper",
+    "Tesla Model Y"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_model_3",
+   "query": "Tesla Model 3 2024",
+   "alt": [
+    "Tesla Model 3 Highland"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_tesla_store",
+   "query": "Tesla store",
+   "alt": [
+    "Tesla showroom"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_tesla_supercharger",
+   "query": "Tesla Supercharger",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_gigafactory_texas",
+   "query": "Gigafactory Texas",
+   "alt": [
+    "Tesla Giga Texas"
+   ],
+   "n": 3
+  },
+  {
+   "id": "m_elon_musk",
+   "query": "Elon Musk",
+   "alt": [],
+   "n": 3
+  },
+  {
+   "id": "m_f150",
+   "query": "Ford F-150 2024",
+   "alt": [
+    "Ford F-150"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_ram1500",
+   "query": "Ram 1500 2023",
+   "alt": [
+    "Ram 1500"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_silverado",
+   "query": "Chevrolet Silverado 2024",
+   "alt": [
+    "Chevrolet Silverado 1500"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_hilux",
+   "query": "Toyota Hilux 2024",
+   "alt": [
+    "Toyota Hilux"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_ranger",
+   "query": "Ford Ranger 2024",
+   "alt": [
+    "Ford Ranger Wildtrak"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_shark6",
+   "query": "BYD Shark 6",
+   "alt": [
+    "BYD Shark pickup"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_dmax",
+   "query": "Isuzu D-Max 2024",
+   "alt": [
+    "Isuzu D-Max"
+   ],
+   "n": 3
+  },
+  {
+   "id": "m_musso",
+   "query": "SsangYong Musso",
+   "alt": [
+    "KGM Musso"
+   ],
+   "n": 3
+  },
+  {
+   "id": "m_mg_u9",
+   "query": "MG U9",
+   "alt": [
+    "Maxus eTerron 9",
+    "Maxus T90 EV"
+   ],
+   "n": 3
+  },
+  {
+   "id": "m_nissan_leaf",
+   "query": "Nissan Leaf 2025",
+   "alt": [
+    "Nissan Leaf"
+   ],
+   "n": 3
+  },
+  {
+   "id": "m_volvo_s60",
+   "query": "Volvo S60",
+   "alt": [
+    "Volvo V60"
+   ],
+   "n": 3
+  },
+  {
+   "id": "m_jaguar",
+   "query": "Jaguar I-Pace",
+   "alt": [
+    "Jaguar F-Pace"
+   ],
+   "n": 3
+  },
+  {
+   "id": "h_ev_charging",
+   "query": "electric car charging",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_ute_outback",
+   "query": "pickup truck outback",
+   "alt": [
+    "ute australia"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_fuel_station",
+   "query": "petrol station prices",
+   "alt": [
+    "gas station pump"
+   ],
+   "n": 5,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_sydney_road",
+   "query": "Sydney traffic",
+   "alt": [
+    "Melbourne traffic"
+   ],
+   "n": 5,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_email_laptop",
+   "query": "laptop email inbox",
+   "alt": [],
+   "n": 4,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_money_refund",
+   "query": "australian dollars cash",
+   "alt": [
+    "money refund"
+   ],
+   "n": 4,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_car_carrier",
+   "query": "car carrier ship port",
+   "alt": [
+    "car transport ship"
+   ],
+   "n": 4,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_stainless",
+   "query": "stainless steel texture",
+   "alt": [],
+   "n": 3,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_crash_test",
+   "query": "crash test",
+   "alt": [
+    "car crash test dummy"
+   ],
+   "n": 3,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  }
+ ]
+}
