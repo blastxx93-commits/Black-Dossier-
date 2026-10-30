@@ -1,0 +1,53 @@
+ai_tradie_ute_1: Gemini falhou (Gemini 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and ), tentando Replicate
+ai_tradie_ute_1: 2752x1536
+ai_farmer_ute_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_farmer_ute_1: 2752x1536
+ai_caravan_tow_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_caravan_tow_1: 2752x1536
+ai_emissions_lab_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_emissions_lab_1: 2752x1536
+ai_dealer_ute_row_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_dealer_ute_row_1: 2752x1536
+ai_price_tag_rise_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_price_tag_rise_1: 2752x1536
+ai_regional_town_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_regional_town_1: 2752x1536
+ai_phev_ute_charge_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_phev_ute_charge_1: 2752x1536
+ai_mine_utes_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_mine_utes_1: 2752x1536
+ai_canberra_debate_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_canberra_debate_1: 2752x1536
+ai_diesel_bowser_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_diesel_bowser_1: 2752x1536
+ai_family_4wd_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_family_4wd_1: 2752x1536
+persona_warning_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+persona_warning_1: 2752x1536
+persona_warning_2: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+persona_warning_2: 2752x1536
+# Imagens IA — aus08-ute-2027
+
+- Modelo: `gemini-2.5-flash-image`
+- Imagens geradas: 14
+- Folhas: ai_contact_sheet_1.jpg, ai_contact_sheet_2.jpg, ai_contact_sheet_3.jpg
+
+| plano | resultado |
+|---|---|
+| `ai_tradie_ute` | 1 de 1 |
+| `ai_farmer_ute` | 1 de 1 |
+| `ai_caravan_tow` | 1 de 1 |
+| `ai_emissions_lab` | 1 de 1 |
+| `ai_dealer_ute_row` | 1 de 1 |
+| `ai_price_tag_rise` | 1 de 1 |
+| `ai_regional_town` | 1 de 1 |
+| `ai_phev_ute_charge` | 1 de 1 |
+| `ai_mine_utes` | 1 de 1 |
+| `ai_canberra_debate` | 1 de 1 |
+| `ai_diesel_bowser` | 1 de 1 |
+| `ai_family_4wd` | 1 de 1 |
+| `persona_warning` | 2 de 2 |
+
