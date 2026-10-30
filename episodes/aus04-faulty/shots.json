@@ -1,0 +1,322 @@
+{
+ "defaults": {
+  "n": 4,
+  "sources": [
+   "commons",
+   "pixabay"
+  ]
+ },
+ "shots": [
+  {
+   "id": "m_atto3",
+   "query": "BYD Atto 3",
+   "alt": [
+    "BYD Yuan Plus"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_sealion8",
+   "query": "BYD Sealion 8",
+   "alt": [
+    "BYD Tang L",
+    "BYD Tang 2025"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_shark6",
+   "query": "BYD Shark 6",
+   "alt": [
+    "BYD Shark pickup"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_ranger",
+   "query": "Ford Ranger 2024",
+   "alt": [
+    "Ford Ranger Wildtrak 2023"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_everest",
+   "query": "Ford Everest 2023",
+   "alt": [
+    "Ford Everest Titanium"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_f150",
+   "query": "Ford F-150 2024",
+   "alt": [
+    "Ford F-150 Lightning"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_fronx",
+   "query": "Suzuki Fronx",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_mazda_cx5",
+   "query": "Mazda CX-5 2022",
+   "alt": [
+    "Mazda CX-5"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_deepal",
+   "query": "Deepal S07",
+   "alt": [
+    "Changan Deepal"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_dealer",
+   "query": "car dealership",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_showroom",
+   "query": "car showroom customer",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_mechanic",
+   "query": "car mechanic workshop",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_engine",
+   "query": "car engine repair",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_rust",
+   "query": "rusty car",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_court",
+   "query": "courthouse",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_judge",
+   "query": "judge gavel",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_documents",
+   "query": "documents paperwork desk",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_contract",
+   "query": "signing contract",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_phone",
+   "query": "angry phone call",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_email",
+   "query": "typing email laptop",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_tow",
+   "query": "tow truck car",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_broken",
+   "query": "car breakdown roadside",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_dashboard",
+   "query": "car dashboard warning light",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_screen",
+   "query": "car touchscreen dashboard",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_reverse",
+   "query": "reversing camera car",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_seatbelt",
+   "query": "car seatbelt",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_crash_test",
+   "query": "car crash test",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_money",
+   "query": "australian dollars",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_calendar",
+   "query": "calendar",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_news",
+   "query": "newspaper reading",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_keys",
+   "query": "car keys hand",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_used",
+   "query": "used cars for sale",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_parliament",
+   "query": "Parliament House Canberra",
+   "alt": [],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  }
+ ]
+}

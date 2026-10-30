@@ -1,0 +1,63 @@
+{
+ "model": "black-forest-labs/flux-1.1-pro-ultra",
+ "raw": true,
+ "n": 1,
+ "style": ", modern Australian documentary photograph, 2026, natural light, realistic, sharp, cinematic colour grade, no logos, no badges, no readable text, no brand names",
+ "shots": [
+  {
+   "id": "ai_owner_angry_dealer",
+   "prompt": "A frustrated Australian car owner arguing politely with a service adviser at a dealership service counter, seen from the side, faces not recognisable"
+  },
+  {
+   "id": "ai_car_on_hoist",
+   "prompt": "A new SUV up on a hoist in a workshop with its wheels removed and parts on the floor, waiting for repair, fluorescent light"
+  },
+  {
+   "id": "ai_fault_diary",
+   "prompt": "A notebook fault diary on a car seat with handwritten dates and a pen, car keys beside it, text blurred"
+  },
+  {
+   "id": "ai_tribunal_room",
+   "prompt": "A small modern Australian tribunal hearing room with a table, microphones and empty chairs, neutral daylight"
+  },
+  {
+   "id": "ai_compliance_plate",
+   "prompt": "Close-up of a metal vehicle compliance plate in a door frame with the build date area softly blurred, macro photo"
+  },
+  {
+   "id": "ai_recall_letter",
+   "prompt": "An envelope with an official-looking recall notice letter on a kitchen table next to car keys, text not readable"
+  },
+  {
+   "id": "ai_owner_news",
+   "prompt": "A car owner being interviewed by a TV news crew outside a car dealership, seen from behind and far away"
+  },
+  {
+   "id": "ai_rusty_panel",
+   "prompt": "Close-up of serious rust bubbling under the paint on a car's wheel arch and sill, overcast"
+  },
+  {
+   "id": "ai_family_stranded",
+   "prompt": "An Australian family standing next to their broken-down SUV on a highway shoulder with hazard lights on, seen from behind"
+  },
+  {
+   "id": "ai_dealer_empty_desk",
+   "prompt": "A car dealership sales desk with a stack of contracts and a calculator, no people, warm light"
+  },
+  {
+   "id": "ai_documents_tribunal",
+   "prompt": "A folder of printed emails, invoices and job cards spread on a table, a hand highlighting text, text blurred"
+  },
+  {
+   "id": "ai_resale_yard",
+   "prompt": "A used car yard in Australia with price tags on windscreens, a buyer inspecting an SUV, overcast, tags unreadable"
+  },
+  {
+   "id": "persona_angry",
+   "prompt": "Waist-up portrait of a fictional Australian man in his early 40s with short brown hair and light stubble, wearing a plain navy polo shirt, angry frustrated expression, frowning, holding car keys up toward the camera, looking straight at the camera",
+   "style": ", photorealistic studio portrait photograph, sharp focus on the face, even soft lighting, plain solid bright chroma green background #00FF00 filling the whole frame, no shadows on the background, no text, no logos",
+   "guard": "fictional",
+   "n": 2
+  }
+ ]
+}

@@ -1,0 +1,139 @@
+{
+ "defaults": {
+  "n": 3,
+  "clip": 8,
+  "sources": [
+   "coverr",
+   "pixabay",
+   "pexels"
+  ]
+ },
+ "shots": [
+  {
+   "id": "v_mechanic",
+   "query": "car mechanic",
+   "alt": [
+    "auto repair shop"
+   ]
+  },
+  {
+   "id": "v_dealer",
+   "query": "car dealership",
+   "alt": [
+    "car showroom"
+   ]
+  },
+  {
+   "id": "v_salesman",
+   "query": "car salesman",
+   "alt": [
+    "buying a car"
+   ]
+  },
+  {
+   "id": "v_signing",
+   "query": "signing document",
+   "alt": [
+    "contract signing pen"
+   ]
+  },
+  {
+   "id": "v_phone",
+   "query": "phone call office",
+   "alt": [
+    "angry phone call"
+   ]
+  },
+  {
+   "id": "v_laptop",
+   "query": "typing laptop",
+   "alt": [
+    "writing email"
+   ]
+  },
+  {
+   "id": "v_breakdown",
+   "query": "car breakdown",
+   "alt": [
+    "car hazard lights roadside"
+   ]
+  },
+  {
+   "id": "v_tow",
+   "query": "tow truck",
+   "alt": [
+    "car towing"
+   ]
+  },
+  {
+   "id": "v_court",
+   "query": "court",
+   "alt": [
+    "judge gavel"
+   ]
+  },
+  {
+   "id": "v_money",
+   "query": "counting money",
+   "alt": [
+    "cash money"
+   ]
+  },
+  {
+   "id": "v_traffic",
+   "query": "city traffic",
+   "alt": [
+    "highway traffic"
+   ]
+  },
+  {
+   "id": "v_road",
+   "query": "driving car road",
+   "alt": [
+    "road trip driving"
+   ]
+  },
+  {
+   "id": "v_engine",
+   "query": "car engine",
+   "alt": [
+    "engine bay"
+   ]
+  },
+  {
+   "id": "v_dashboard",
+   "query": "car dashboard",
+   "alt": [
+    "dashboard warning"
+   ]
+  },
+  {
+   "id": "v_keys",
+   "query": "car keys",
+   "alt": [
+    "handing car keys"
+   ]
+  },
+  {
+   "id": "v_news",
+   "query": "newspaper",
+   "alt": [
+    "reading news phone"
+   ]
+  },
+  {
+   "id": "v_parking",
+   "query": "cars parked lot aerial",
+   "alt": [
+    "parking lot drone"
+   ]
+  },
+  {
+   "id": "v_crash_test",
+   "query": "crash test",
+   "alt": [
+    "car crash slow motion"
+   ]
+  }
+ ]
+}
