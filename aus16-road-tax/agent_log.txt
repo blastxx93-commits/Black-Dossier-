@@ -1,0 +1,104 @@
+[     0s] aus16-road-tax: 25 planos, limite 35.0 min
+[     0s] m_model_y: 'Tesla Model Y'
+[     1s]     commons: 12 candidatos em 0.5s
+[     1s]     pixabay: 12 candidatos em 0.1s
+[     3s]   -> 4 imagens
+[     3s] m_model3: 'Tesla Model 3'
+[     4s]     commons: 12 candidatos em 0.6s
+[     4s]     pixabay: 12 candidatos em 0.1s
+[     6s]   -> 4 imagens
+[     6s] m_ranger: 'Ford Ranger 2023'
+[     7s]     commons: 12 candidatos em 0.5s
+[     7s]     pixabay: 12 candidatos em 0.1s
+[     9s]   -> 4 imagens
+[     9s] m_corolla: 'Toyota Corolla hybrid'
+[    10s]     commons: 12 candidatos em 0.5s
+[    10s]     pixabay: 12 candidatos em 0.1s
+[    13s]   -> 4 imagens
+[    13s] m_landcruiser: 'Toyota Land Cruiser 300'
+[    13s]     commons: 12 candidatos em 0.4s
+[    13s]     pixabay: 12 candidatos em 0.1s
+[    16s]   -> 4 imagens
+[    16s] m_hilux: 'Toyota Hilux'
+[    16s]     commons: 0 candidatos em 0.1s
+[    16s]     pixabay: 12 candidatos em 0.0s
+[    18s]   -> 4 imagens
+[    18s] m_polestar: 'Polestar 2'
+[    19s]     commons: 12 candidatos em 0.4s
+[    19s]     pixabay: 12 candidatos em 0.1s
+[    21s]   -> 4 imagens
+[    21s] m_ioniq5: 'Hyundai Ioniq 5'
+[    22s]     commons: 12 candidatos em 0.4s
+[    22s]     pixabay: 12 candidatos em 0.1s
+[    24s]   -> 4 imagens
+[    24s] m_atto3: 'BYD Atto 3'
+[    25s]     commons: 12 candidatos em 0.3s
+[    25s]     pixabay: 12 candidatos em 0.1s
+[    27s]   -> 4 imagens
+[    27s] m_rav4: 'Toyota RAV4 hybrid'
+[    28s]     commons: 12 candidatos em 0.4s
+[    28s]     pixabay: 12 candidatos em 0.1s
+[    30s]   -> 4 imagens
+[    30s] m_kona_ev: 'Hyundai Kona Electric'
+[    54s]   ! commons.wikimedia.org: 429 rate limit
+[    54s]     commons: 0 candidatos em 24.1s
+[    55s]     pixabay: 12 candidatos em 0.2s
+[    57s]   -> 4 imagens
+[    57s] h_fuel_pump: 'fuel pump nozzle'
+[    66s]     commons: 12 candidatos em 8.4s
+[    66s]     pixabay: 12 candidatos em 0.2s
+[    69s]   -> 4 imagens
+[    69s] h_servo: 'petrol station australia'
+[    70s]     commons: 12 candidatos em 1.1s
+[    70s]     pixabay: 12 candidatos em 0.1s
+[    72s]   -> 4 imagens
+[    72s] h_traffic: 'sydney traffic'
+[    73s]     commons: 10 candidatos em 1.0s
+[    74s]     pixabay: 12 candidatos em 0.2s
+[    77s]   -> 4 imagens
+[    77s] h_odometer: 'car odometer dashboard'
+[    77s]     commons: 11 candidatos em 0.6s
+[    77s]     pixabay: 12 candidatos em 0.1s
+[    80s]   -> 4 imagens
+[    80s] h_ev_charge: 'electric car charging'
+[    81s]     commons: 12 candidatos em 0.6s
+[    81s]     pixabay: 12 candidatos em 0.1s
+[    84s]   -> 4 imagens
+[    84s] h_highway: 'australian highway'
+[    85s]     commons: 12 candidatos em 1.4s
+[    85s]     pixabay: 12 candidatos em 0.2s
+[    88s]   -> 4 imagens
+[    88s] h_roadworks: 'road works'
+[    89s]     commons: 8 candidatos em 0.8s
+[    89s]     pixabay: 12 candidatos em 0.1s
+[    91s]   -> 4 imagens
+[    91s] h_parliament: 'Parliament House Canberra'
+[    92s]     commons: 11 candidatos em 0.8s
+[    92s]     pixabay: 12 candidatos em 0.1s
+[    95s]   -> 4 imagens
+[    95s] h_sydney: 'Sydney Harbour Bridge traffic'
+[    96s]     commons: 11 candidatos em 0.6s
+[    96s]     pixabay: 12 candidatos em 0.2s
+[    98s]   -> 4 imagens
+[    98s] h_calc: 'calculator bills'
+[    99s]     commons: 10 candidatos em 0.4s
+[    99s]     pixabay: 12 candidatos em 0.1s
+[   102s]   -> 4 imagens
+[   102s] h_gps: 'car gps navigation'
+[   126s]   ! commons.wikimedia.org: 429 rate limit
+[   126s]     commons: 0 candidatos em 24.1s
+[   126s]     pixabay: 12 candidatos em 0.1s
+[   129s]   -> 4 imagens
+[   129s] h_rural_road: 'rural road australia'
+[   130s]     commons: 11 candidatos em 1.0s
+[   130s]     pixabay: 12 candidatos em 0.1s
+[   132s]   -> 4 imagens
+[   132s] h_nz_road: 'New Zealand road'
+[   133s]     commons: 7 candidatos em 1.0s
+[   133s]     pixabay: 12 candidatos em 0.1s
+[   136s]   -> 4 imagens
+[   136s] h_uk_traffic: 'UK motorway traffic'
+[   138s]     commons: 6 candidatos em 1.7s
+[   138s]     pixabay: 12 candidatos em 0.1s
+[   140s]   -> 4 imagens
+[   143s] fim: 100 imagens
