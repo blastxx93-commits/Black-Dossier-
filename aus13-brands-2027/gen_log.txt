@@ -1,23 +1,17 @@
-ai_new_chinese_1: Gemini falhou (Gemini 429: {
+persona_worried_owner_1: Gemini falhou (Gemini 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please check your plan and ), tentando Replicate
-ai_new_chinese_1: 2752x1536
-ai_service_centre_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_service_centre_1: 2752x1536
-persona_worried_owner_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
 persona_worried_owner_1: 2752x1536
 persona_worried_owner_2: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
 persona_worried_owner_2: 2752x1536
 # Imagens IA — aus13-brands-2027
 
 - Modelo: `gemini-2.5-flash-image`
-- Imagens geradas: 4
+- Imagens geradas: 2
 - Folhas: ai_contact_sheet_1.jpg
 
 | plano | resultado |
 |---|---|
-| `ai_new_chinese` | 1 de 1 |
-| `ai_service_centre` | 1 de 1 |
 | `persona_worried_owner` | 2 de 2 |
 
