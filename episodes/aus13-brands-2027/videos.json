@@ -1,0 +1,167 @@
+{
+ "defaults": {
+  "n": 4,
+  "clip": 8,
+  "sources": [
+   "coverr",
+   "pixabay",
+   "pexels"
+  ]
+ },
+ "shots": [
+  {
+   "id": "v_offroad",
+   "query": "jeep off road",
+   "alt": [
+    "4x4 off road"
+   ]
+  },
+  {
+   "id": "v_4wd",
+   "query": "4wd driving dirt",
+   "alt": [
+    "suv dirt road"
+   ]
+  },
+  {
+   "id": "v_suv",
+   "query": "suv driving",
+   "alt": [
+    "car on highway"
+   ]
+  },
+  {
+   "id": "v_showroom",
+   "query": "car showroom",
+   "alt": [
+    "car dealership"
+   ]
+  },
+  {
+   "id": "v_empty_lot",
+   "query": "empty parking lot",
+   "alt": [
+    "empty car park"
+   ]
+  },
+  {
+   "id": "v_closed",
+   "query": "closing shop door",
+   "alt": [
+    "shop closed sign"
+   ]
+  },
+  {
+   "id": "v_factory",
+   "query": "car factory",
+   "alt": [
+    "assembly line"
+   ]
+  },
+  {
+   "id": "v_ship",
+   "query": "car carrier ship",
+   "alt": [
+    "cargo ship port"
+   ]
+  },
+  {
+   "id": "v_port",
+   "query": "car port terminal",
+   "alt": [
+    "new cars port"
+   ]
+  },
+  {
+   "id": "v_mechanic",
+   "query": "car mechanic",
+   "alt": [
+    "auto repair shop"
+   ]
+  },
+  {
+   "id": "v_parts",
+   "query": "auto parts warehouse",
+   "alt": [
+    "warehouse shelves"
+   ]
+  },
+  {
+   "id": "v_used",
+   "query": "used car lot",
+   "alt": [
+    "cars for sale"
+   ]
+  },
+  {
+   "id": "v_money",
+   "query": "counting money",
+   "alt": [
+    "paying cash"
+   ]
+  },
+  {
+   "id": "v_keys",
+   "query": "car keys",
+   "alt": [
+    "handing car keys"
+   ]
+  },
+  {
+   "id": "v_docs",
+   "query": "signing documents",
+   "alt": [
+    "paperwork"
+   ]
+  },
+  {
+   "id": "v_traffic",
+   "query": "city traffic",
+   "alt": [
+    "traffic timelapse"
+   ]
+  },
+  {
+   "id": "v_highway",
+   "query": "highway aerial",
+   "alt": [
+    "motorway drone"
+   ]
+  },
+  {
+   "id": "v_luxury",
+   "query": "luxury car",
+   "alt": [
+    "sports car driving"
+   ]
+  },
+  {
+   "id": "v_ev",
+   "query": "electric car charging",
+   "alt": [
+    "ev charger"
+   ]
+  },
+  {
+   "id": "v_phone",
+   "query": "phone call worried",
+   "alt": [
+    "man on phone"
+   ]
+  },
+  {
+   "id": "v_rain_car",
+   "query": "car in rain",
+   "alt": [
+    "rainy road car"
+   ]
+  },
+  {
+   "id": "v_night_city",
+   "query": "city night drive",
+   "alt": [
+    "night traffic"
+   ]
+  }
+ ]
+}

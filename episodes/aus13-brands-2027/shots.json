@@ -1,0 +1,265 @@
+{
+ "defaults": {
+  "n": 4,
+  "sources": [
+   "commons",
+   "pixabay"
+  ]
+ },
+ "shots": [
+  {
+   "id": "m_wrangler",
+   "query": "Jeep Wrangler",
+   "alt": [
+    "Jeep Wrangler JL"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_grand_cherokee",
+   "query": "Jeep Grand Cherokee",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_compass",
+   "query": "Jeep Compass",
+   "alt": [],
+   "n": 3
+  },
+  {
+   "id": "m_gladiator",
+   "query": "Jeep Gladiator",
+   "alt": [],
+   "n": 3
+  },
+  {
+   "id": "m_avenger",
+   "query": "Jeep Avenger",
+   "alt": [],
+   "n": 3
+  },
+  {
+   "id": "m_peugeot_5008",
+   "query": "Peugeot 5008",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_peugeot_3008",
+   "query": "Peugeot 3008",
+   "alt": [],
+   "n": 3
+  },
+  {
+   "id": "m_partner",
+   "query": "Peugeot Partner",
+   "alt": [
+    "Peugeot Partner van"
+   ],
+   "n": 3
+  },
+  {
+   "id": "m_jaguar",
+   "query": "Jaguar F-Pace",
+   "alt": [
+    "Jaguar XE"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_jaguar_type00",
+   "query": "Jaguar Type 00",
+   "alt": [
+    "Jaguar concept"
+   ],
+   "n": 3
+  },
+  {
+   "id": "m_alfa",
+   "query": "Alfa Romeo Tonale",
+   "alt": [
+    "Alfa Romeo Giulia"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_outlander",
+   "query": "Mitsubishi Outlander 2022",
+   "alt": [
+    "Mitsubishi Outlander"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_triton",
+   "query": "Mitsubishi Triton 2024",
+   "alt": [],
+   "n": 3
+  },
+  {
+   "id": "m_pajero",
+   "query": "Mitsubishi Pajero 2027",
+   "alt": [
+    "Mitsubishi Pajero"
+   ],
+   "n": 3
+  },
+  {
+   "id": "m_forester",
+   "query": "Subaru Forester 2025",
+   "alt": [
+    "Subaru Forester"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_outback",
+   "query": "Subaru Outback",
+   "alt": [],
+   "n": 3
+  },
+  {
+   "id": "m_xtrail",
+   "query": "Nissan X-Trail 2023",
+   "alt": [
+    "Nissan X-Trail"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_patrol",
+   "query": "Nissan Patrol",
+   "alt": [],
+   "n": 3
+  },
+  {
+   "id": "m_cx5",
+   "query": "Mazda CX-5",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_cx6e",
+   "query": "Mazda CX-6e",
+   "alt": [
+    "Mazda EZ-60"
+   ],
+   "n": 3
+  },
+  {
+   "id": "m_byd",
+   "query": "BYD Sealion 7",
+   "alt": [
+    "BYD Seal"
+   ],
+   "n": 3
+  },
+  {
+   "id": "m_leapmotor",
+   "query": "Leapmotor C10",
+   "alt": [
+    "Leapmotor"
+   ],
+   "n": 3
+  },
+  {
+   "id": "m_holden",
+   "query": "Holden Commodore",
+   "alt": [
+    "Holden"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_citroen",
+   "query": "Citroen C5 Aircross",
+   "alt": [
+    "Citroen"
+   ],
+   "n": 3
+  },
+  {
+   "id": "h_closed",
+   "query": "closed shop sign",
+   "alt": [
+    "closed business"
+   ],
+   "n": 4,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_dealer_empty",
+   "query": "empty car showroom",
+   "alt": [
+    "car dealership"
+   ],
+   "n": 4,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_parts",
+   "query": "car parts shelves",
+   "alt": [
+    "auto parts"
+   ],
+   "n": 4,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_mechanic",
+   "query": "car mechanic",
+   "alt": [
+    "auto repair"
+   ],
+   "n": 4,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_used",
+   "query": "used car lot",
+   "alt": [
+    "used cars for sale"
+   ],
+   "n": 4,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_keys",
+   "query": "car keys",
+   "alt": [],
+   "n": 4,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_docs",
+   "query": "documents warranty",
+   "alt": [
+    "paperwork desk"
+   ],
+   "n": 4,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  }
+ ]
+}

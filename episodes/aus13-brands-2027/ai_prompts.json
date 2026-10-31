@@ -1,0 +1,43 @@
+{
+ "model": "black-forest-labs/flux-1.1-pro-ultra",
+ "raw": true,
+ "n": 1,
+ "style": ", modern Australian documentary photograph, 2026, natural light, realistic, sharp, cinematic colour grade, no logos, no badges, no readable text, no brand names",
+ "shots": [
+  {
+   "id": "ai_empty_dealer",
+   "prompt": "An empty modern car dealership showroom at dusk with lights dimmed, only one car left, no signs readable"
+  },
+  {
+   "id": "ai_closing_dealer",
+   "prompt": "Workers removing a blank sign from the front of a closed car dealership in an Australian suburb, overcast, no text"
+  },
+  {
+   "id": "ai_owner_worried",
+   "prompt": "A car owner standing beside an older European SUV in a suburban driveway, looking at a phone with a worried posture, face not recognisable"
+  },
+  {
+   "id": "ai_parts_wait",
+   "prompt": "A mechanic looking at an empty shelf space in a car parts storeroom, workshop lighting"
+  },
+  {
+   "id": "ai_used_yard",
+   "prompt": "A used car yard with older European SUVs and blank price tags, late afternoon"
+  },
+  {
+   "id": "ai_new_chinese",
+   "prompt": "Rows of brand new modern Chinese-design SUVs at an Australian port terminal, generic unbranded, overcast"
+  },
+  {
+   "id": "ai_service_centre",
+   "prompt": "A small independent car service workshop in an Australian country town, an older SUV on a hoist, no signs readable"
+  },
+  {
+   "id": "persona_worried_owner",
+   "prompt": "Waist-up portrait of a fictional Australian man in his late 40s with short greying hair and stubble, wearing a plain dark grey polo shirt, worried concerned expression, holding up a car key, looking straight at the camera",
+   "style": ", photorealistic studio portrait photograph, sharp focus on the face, even soft lighting, plain solid bright chroma green background #00FF00 filling the whole frame, no shadows on the background, no text, no logos",
+   "guard": "fictional",
+   "n": 2
+  }
+ ]
+}
