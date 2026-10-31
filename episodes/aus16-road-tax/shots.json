@@ -1,0 +1,197 @@
+{
+ "defaults": {
+  "n": 4,
+  "sources": [
+   "commons",
+   "pixabay"
+  ]
+ },
+ "shots": [
+  {
+   "id": "m_model_y",
+   "query": "Tesla Model Y",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_model3",
+   "query": "Tesla Model 3",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_ranger",
+   "query": "Ford Ranger 2023",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_corolla",
+   "query": "Toyota Corolla hybrid",
+   "alt": [
+    "Toyota Corolla 2020"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_landcruiser",
+   "query": "Toyota Land Cruiser 300",
+   "alt": [
+    "Toyota LandCruiser"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_hilux",
+   "query": "Toyota Hilux",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_polestar",
+   "query": "Polestar 2",
+   "alt": [
+    "Polestar 3"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_ioniq5",
+   "query": "Hyundai Ioniq 5",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_atto3",
+   "query": "BYD Atto 3",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_rav4",
+   "query": "Toyota RAV4 hybrid",
+   "alt": [
+    "Toyota RAV4"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_kona_ev",
+   "query": "Hyundai Kona Electric",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "h_fuel_pump",
+   "query": "fuel pump nozzle",
+   "alt": [
+    "petrol pump"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_servo",
+   "query": "petrol station australia",
+   "alt": [
+    "gas station night"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_traffic",
+   "query": "sydney traffic",
+   "alt": [
+    "highway traffic australia"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_odometer",
+   "query": "car odometer dashboard",
+   "alt": [
+    "car dashboard speedometer"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_ev_charge",
+   "query": "electric car charging",
+   "alt": [
+    "ev charging station"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_highway",
+   "query": "australian highway",
+   "alt": [
+    "motorway aerial"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_roadworks",
+   "query": "road works",
+   "alt": [
+    "road construction"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_parliament",
+   "query": "Parliament House Canberra",
+   "alt": [
+    "Australian Parliament House"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_sydney",
+   "query": "Sydney Harbour Bridge traffic",
+   "alt": [
+    "Sydney road"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_calc",
+   "query": "calculator bills",
+   "alt": [
+    "household budget"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_gps",
+   "query": "car gps navigation",
+   "alt": [
+    "sat nav"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_rural_road",
+   "query": "rural road australia",
+   "alt": [
+    "country road"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_nz_road",
+   "query": "New Zealand road",
+   "alt": [
+    "Auckland motorway"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_uk_traffic",
+   "query": "UK motorway traffic",
+   "alt": [
+    "London traffic"
+   ],
+   "n": 4
+  }
+ ]
+}

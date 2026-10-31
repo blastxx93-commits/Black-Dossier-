@@ -1,0 +1,35 @@
+{
+ "model": "black-forest-labs/flux-1.1-pro-ultra",
+ "raw": true,
+ "n": 1,
+ "style": ", modern Australian documentary photograph, 2026, natural light, realistic, sharp, cinematic colour grade, no logos, no badges, no readable text, no brand names",
+ "shots": [
+  {
+   "id": "ai_servo_fill",
+   "prompt": "Australian man refuelling a family SUV at a suburban service station at dusk, looking at the pump with concern, no readable text, no logos"
+  },
+  {
+   "id": "ai_ev_home",
+   "prompt": "Electric SUV charging in the driveway of a modern Australian suburban home in the evening, wall charger glowing, no readable text, no logos"
+  },
+  {
+   "id": "ai_family_bills",
+   "prompt": "Australian couple at a kitchen table reviewing household bills with a calculator, worried expressions, natural light, no readable text"
+  },
+  {
+   "id": "ai_outer_suburb",
+   "prompt": "Long line of cars on a motorway leaving outer suburbs of an Australian city at sunrise, aerial view, no readable text, no logos"
+  },
+  {
+   "id": "ai_ute_rural",
+   "prompt": "A dual-cab ute driving along a long straight rural Australian highway with paddocks either side, midday, no logos, no badges"
+  },
+  {
+   "id": "persona_tax",
+   "prompt": "Waist-up portrait of a fictional Australian man in his 50s with short grey hair and a neat beard, wearing a plain navy blue crew-neck sweater (never green), sceptical frowning expression, one eyebrow raised, arms crossed, looking straight at the camera",
+   "style": ", photorealistic studio portrait photograph, sharp focus on the face, even soft lighting, plain solid bright chroma green background #00FF00 filling the whole frame, no shadows on the background, no text, no logos",
+   "guard": "fictional",
+   "n": 2
+  }
+ ]
+}

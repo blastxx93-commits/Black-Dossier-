@@ -1,0 +1,125 @@
+{
+ "defaults": {
+  "n": 4,
+  "clip": 8,
+  "sources": [
+   "coverr",
+   "pixabay",
+   "pexels"
+  ]
+ },
+ "shots": [
+  {
+   "id": "v_fuel",
+   "query": "fuel pump refueling",
+   "alt": [
+    "petrol station"
+   ]
+  },
+  {
+   "id": "v_servo",
+   "query": "gas station night",
+   "alt": [
+    "service station"
+   ]
+  },
+  {
+   "id": "v_traffic",
+   "query": "highway traffic",
+   "alt": [
+    "city traffic"
+   ]
+  },
+  {
+   "id": "v_ev_charge",
+   "query": "electric car charging",
+   "alt": [
+    "ev charger plug"
+   ]
+  },
+  {
+   "id": "v_dashboard",
+   "query": "car dashboard driving",
+   "alt": [
+    "speedometer"
+   ]
+  },
+  {
+   "id": "v_roadworks",
+   "query": "road construction",
+   "alt": [
+    "asphalt paving"
+   ]
+  },
+  {
+   "id": "v_rural",
+   "query": "country road driving",
+   "alt": [
+    "rural road car"
+   ]
+  },
+  {
+   "id": "v_money",
+   "query": "counting money",
+   "alt": [
+    "paying bills"
+   ]
+  },
+  {
+   "id": "v_calc",
+   "query": "calculator",
+   "alt": [
+    "budget calculation"
+   ]
+  },
+  {
+   "id": "v_gps",
+   "query": "gps navigation map",
+   "alt": [
+    "phone map driving"
+   ]
+  },
+  {
+   "id": "v_city",
+   "query": "city street cars",
+   "alt": [
+    "urban traffic"
+   ]
+  },
+  {
+   "id": "v_aerial_road",
+   "query": "aerial highway",
+   "alt": [
+    "drone road"
+   ]
+  },
+  {
+   "id": "v_family_car",
+   "query": "family car trip",
+   "alt": [
+    "family driving"
+   ]
+  },
+  {
+   "id": "v_ute",
+   "query": "pickup truck driving",
+   "alt": [
+    "4x4 ute"
+   ]
+  },
+  {
+   "id": "v_government",
+   "query": "government building",
+   "alt": [
+    "parliament building"
+   ]
+  },
+  {
+   "id": "v_toll",
+   "query": "toll road",
+   "alt": [
+    "motorway gantry"
+   ]
+  }
+ ]
+}
