@@ -1,0 +1,32 @@
+ai_ute_yard_1: Gemini falhou (Gemini 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and ), tentando Replicate
+ai_ute_yard_1: 2752x1536
+ai_tradie_ute_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_tradie_ute_1: 2752x1536
+ai_ute_dealer_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_ute_dealer_1: 2752x1536
+ai_diesel_fill_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_diesel_fill_1: 2752x1536
+ai_ute_outback_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_ute_outback_1: 2752x1536
+persona_ute_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+persona_ute_1: 2752x1536
+persona_ute_2: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+persona_ute_2: 2752x1536
+# Imagens IA — aus15-ute-price-war
+
+- Modelo: `gemini-2.5-flash-image`
+- Imagens geradas: 7
+- Folhas: ai_contact_sheet_1.jpg
+
+| plano | resultado |
+|---|---|
+| `ai_ute_yard` | 1 de 1 |
+| `ai_tradie_ute` | 1 de 1 |
+| `ai_ute_dealer` | 1 de 1 |
+| `ai_diesel_fill` | 1 de 1 |
+| `ai_ute_outback` | 1 de 1 |
+| `persona_ute` | 2 de 2 |
+
