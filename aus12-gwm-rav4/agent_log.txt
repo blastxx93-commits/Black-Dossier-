@@ -1,0 +1,76 @@
+[     0s] aus12-gwm-rav4: 18 planos, limite 35.0 min
+[     0s] m_h7: 'Haval H7'
+[     2s]     commons: 12 candidatos em 2.0s
+[     2s]     pixabay: 1 candidatos em 0.1s
+[     9s]   -> 4 imagens
+[     9s] m_h7b: 'Haval Big Dog second generation'
+[     9s]     commons: 0 candidatos em 0.4s
+[     9s]     pixabay: 12 candidatos em 0.1s
+[    12s]   -> 4 imagens
+[    12s] m_h6: 'Haval H6 2024'
+[    12s]     commons: 12 candidatos em 0.5s
+[    12s]     pixabay: 12 candidatos em 0.1s
+[    15s]   -> 4 imagens
+[    15s] m_jolion: 'Haval Jolion'
+[    16s]     commons: 12 candidatos em 0.4s
+[    16s]     pixabay: 1 candidatos em 0.1s
+[    18s]   -> 3 imagens
+[    18s] m_rav4: 'Toyota RAV4 2026'
+[    18s]     commons: 12 candidatos em 0.4s
+[    18s]     pixabay: 12 candidatos em 0.1s
+[    21s]   -> 4 imagens
+[    21s] m_rav4b: 'Toyota RAV4 hybrid 2023'
+[    21s]     commons: 12 candidatos em 0.4s
+[    21s]     pixabay: 12 candidatos em 0.1s
+[    24s]   -> 4 imagens
+[    24s] m_rav4_phev: 'Toyota RAV4 plug-in hybrid'
+[    24s]     commons: 12 candidatos em 0.5s
+[    24s]     pixabay: 12 candidatos em 0.1s
+[    27s]   -> 4 imagens
+[    27s] m_outlander: 'Mitsubishi Outlander PHEV'
+[    28s]     commons: 12 candidatos em 0.7s
+[    28s]     pixabay: 12 candidatos em 0.1s
+[    30s]   -> 3 imagens
+[    30s] m_sealion6: 'BYD Sealion 6'
+[    30s]     commons: 12 candidatos em 0.4s
+[    30s]     pixabay: 12 candidatos em 0.2s
+[    32s]   -> 3 imagens
+[    32s] m_tiggo8: 'Chery Tiggo 8'
+[    32s]     commons: 12 candidatos em 0.4s
+[    33s]     pixabay: 12 candidatos em 0.2s
+[    34s]   -> 3 imagens
+[    34s] h_suv_family: 'family suv'
+[    35s]     unsplash: 12 candidatos em 1.0s
+[    36s]     pixabay: 12 candidatos em 0.1s
+[    38s]   -> 4 imagens
+[    38s] h_ev_charge: 'plug-in hybrid charging'
+[    39s]     unsplash: 12 candidatos em 0.8s
+[    39s]     pixabay: 12 candidatos em 0.2s
+[    42s]   -> 4 imagens
+[    42s] h_dealer: 'car dealership'
+[    42s]     unsplash: 12 candidatos em 0.6s
+[    42s]     pixabay: 12 candidatos em 0.1s
+[    45s]   -> 4 imagens
+[    45s] h_fuel: 'fuel pump'
+[    45s]     unsplash: 12 candidatos em 0.5s
+[    45s]     pixabay: 12 candidatos em 0.1s
+[    48s]   -> 4 imagens
+[    48s] h_caravan: 'caravan towing'
+[    49s]     unsplash: 12 candidatos em 0.8s
+[    49s]     pixabay: 12 candidatos em 0.1s
+[    52s]   -> 4 imagens
+[    52s] h_keys: 'new car keys'
+[    53s]     unsplash: 12 candidatos em 0.7s
+[    53s]     pixabay: 12 candidatos em 0.2s
+[    55s]   -> 4 imagens
+[    55s] h_calc: 'calculator money'
+[    56s]   ! unsplash: 403 Client Error: Forbidden for url: https://api.unsplash.com/search/photos?query=calculator+money&per_page=12&orientation=landscape&content
+[    56s]     unsplash: 0 candidatos em 0.5s
+[    56s]     pixabay: 12 candidatos em 0.0s
+[    58s]   -> 4 imagens
+[    58s] h_interior: 'car touchscreen dashboard'
+[    59s]   ! unsplash: 403 Client Error: Forbidden for url: https://api.unsplash.com/search/photos?query=car+touchscreen+dashboard&per_page=12&orientation=landscap
+[    59s]     unsplash: 0 candidatos em 0.6s
+[    59s]     pixabay: 12 candidatos em 0.1s
+[    62s]   -> 4 imagens
+[    64s] fim: 68 imagens
