@@ -28,6 +28,7 @@ RES = ["m_model_y/1", "m_model_y/3", "m_model_3/1", "m_model_3/3", "m_atto3/1", 
 A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FALLBACK,
         ["used", "charge", "evs", "money", "auction"], reserved=RES)
 A.CLIP_TARGET = 0.55   # channel request (31/10): more clips
+A.MAX_HOLD, A.KEEP = 13.0, 8.5
 chapters = []
 
 c = ch("ch00_hook", 0.6)

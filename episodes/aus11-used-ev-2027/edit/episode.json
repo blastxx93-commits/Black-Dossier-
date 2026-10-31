@@ -1,0 +1,1977 @@
+{
+ "output": "AUS11_Used_EV_Prices_2027.mp4",
+ "fps": 24,
+ "music": [
+  {
+   "file": "trilha.wav",
+   "start": 0,
+   "gain": -29,
+   "fade_in": 4,
+   "fade_out": 5
+  }
+ ],
+ "chapters": [
+  {
+   "audio": "audio/ch00_hook.flac",
+   "lead_in": 0,
+   "tail": 0.6,
+   "shots": [
+    {
+     "type": "stat",
+     "value": "-48%",
+     "label": "2022 Tesla Model Y RWD value lost",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Savvy / RedBook \u00b7 March 2026",
+     "color": "red",
+     "dur": 2.34,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_model_y/1_commons.jpg",
+     "move": "in",
+     "caption": "Tesla Model Y|~48% below new price",
+     "dur": 7.76,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_atto3/1_commons.jpg",
+     "move": "left",
+     "caption": "BYD Atto 3|~39% below new price",
+     "dur": 4.28,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "That may only be the beginning.",
+     "highlight": "BEGINNING",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.2,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_auction/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.33,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_calc/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 10.17,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "+157%",
+     "label": "ex-novated lease EVs at Pickles \u00b7 Sept qtr vs March qtr 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Pickles",
+     "color": "red",
+     "dur": 11.22,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"The volumes coming through now are really just the beginning.\" \u2013 Pickles",
+     "highlight": "BEGINNING",
+     "size": 92,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.18,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "Used EV Prices in 2027",
+     "subtitle": "crash \u2013 or opportunity?",
+     "tag": "Australia",
+     "bg": "a/ai/ai_price_board_1.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 10.18,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "The real 2026 numbers",
+      "Why 2027 is a turning point",
+      "Who loses value fastest",
+      "What to check"
+     ],
+     "starts": [
+      0,
+      48,
+      104,
+      159
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 2.019999999999996
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 4.339999999999996
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 6.640000000000001
+      }
+     ],
+     "dur": 9.62,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_money/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.18,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch01.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/ai/ai_lease_return_1.jpg",
+     "move": "left",
+     "dur": 3.12,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "July 2022 \u00b7 EVs exempt from FBT on novated leases",
+     "highlight": "FBT",
+     "size": 100,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_city_traffic/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev_charge/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.54,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "3\u20135 yrs",
+     "label": "typical novated lease term",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "dur": 9.42,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_keys/1_unsplash.jpg",
+     "move": "out",
+     "dur": 6.88,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_parking_rows/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.14,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_keys/2_pixabay.jpg",
+     "move": "right",
+     "caption": "July 2026|4 years of the Electric Car Discount",
+     "dur": 12.32,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Ex-novated EVs at Pickles (vs Q1 2026)",
+     "items": [
+      [
+       "Q2 2026",
+       118
+      ],
+      [
+       "Q3 2026",
+       157,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "+",
+     "suffix": "%",
+     "source": "Pickles \u00b7 Oct 2026",
+     "dur": 8.8,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "100,000+",
+     "label": "new EVs sold in Australia in 2025 (8.3%)",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarsGuide",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "24%+",
+     "label": "EV share of new sales \u00b7 Sept 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "FCAI / EVC",
+     "dur": 5.9,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev_plug/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 12.04,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "$75,000",
+     "label": "full FBT exemption cap from 1 April 2027",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Federal government",
+     "color": "red",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_city_traffic/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.2,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_wash/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.872,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch02.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "statement",
+     "text": "2026: a strong year for used EVs",
+     "highlight": "STRONG",
+     "size": 115,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 8.08,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_fuel_price/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 12.46,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Used sales \u00b7 H1 2026 vs H1 2025",
+     "items": [
+      [
+       "Used EVs",
+       54
+      ],
+      [
+       "All used cars",
+       -6.6,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "%",
+     "source": "AADA / AutoGrab",
+     "dur": 11.98,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Days to sell a used EV",
+     "items": [
+      [
+       "January",
+       60
+      ],
+      [
+       "June",
+       40
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "NRMA / AutoGrab",
+     "dur": 10.1,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "440+",
+     "label": "used EVs sold by Pickles \u00b7 Sept qtr 2026 (record)",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Pickles",
+     "dur": 9.52,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "1,580+",
+     "label": "used EVs sold in 12 months \u2013 more than double",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Pickles",
+     "dur": 6.76,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Used sales by brand \u00b7 H1 2026",
+     "items": [
+      [
+       "Tesla",
+       7402
+      ],
+      [
+       "MG",
+       2582
+      ],
+      [
+       "Kia",
+       1927
+      ],
+      [
+       "BYD",
+       1767
+      ],
+      [
+       "Volkswagen",
+       990
+      ],
+      [
+       "Polestar",
+       732
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "AADA / AutoGrab via NRMA",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_highway/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_highway/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_car_lot/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.7,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_laptop/1_unsplash.jpg",
+     "move": "in",
+     "dur": 3.52,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "20,436",
+     "label": "EV page visitors at Pickles \u00b7 Q2 2026 (vs 2,156)",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Pickles",
+     "dur": 7.52,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "+76.7%",
+     "label": "EV searches in one week \u00b7 March 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "carsales",
+     "dur": 7.62,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_country_road/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.16,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "32%",
+     "label": "of Pickles' used EV buyers were regional \u00b7 FY26",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Pickles",
+     "dur": 7.08,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_regional_ev_1.jpg",
+     "move": "up",
+     "caption": "Queensland|almost half of used EVs went regional",
+     "dur": 5.453,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch03.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "statement",
+     "text": "So what happened to prices?",
+     "highlight": "PRICES",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.74,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Used EV Index (Datium)",
+     "items": [
+      [
+       "Feb 2026",
+       104
+      ],
+      [
+       "May 2026",
+       122
+      ],
+      [
+       "Sept 2026",
+       107
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "Pickles / Datium Insights",
+     "dur": 12.38,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_fuel_price/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.38,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Average used EV price at Pickles \u00b7 2026",
+     "items": [
+      [
+       "January",
+       35500
+      ],
+      [
+       "April",
+       41500
+      ],
+      [
+       "May",
+       35500
+      ],
+      [
+       "June",
+       31500,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "$",
+     "suffix": "",
+     "source": "NRMA",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_wash/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.7,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "51,000 km",
+     "label": "average odometer \u00b7 May\u2013June (from ~29,000)",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "NRMA / Pickles",
+     "dur": 8.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_used_lot/2_pixabay.jpg",
+     "move": "out",
+     "dur": 3.68,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Value kept after 2 years",
+     "items": [
+      [
+       "Toyota RAV4",
+       88
+      ],
+      [
+       "LandCruiser",
+       88
+      ],
+      [
+       "HiLux",
+       85
+      ],
+      [
+       "Tesla Model Y",
+       58,
+       "red"
+      ],
+      [
+       "Tesla Model 3",
+       54,
+       "red"
+      ],
+      [
+       "BYD Atto 3",
+       54,
+       "red"
+      ],
+      [
+       "MG4",
+       50,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "%",
+     "source": "Pickles / Datium \u00b7 2025",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_wash/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev_drive/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.78,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_calc/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 12.98,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Residual value \u00b7 May 2026 (1\u20135 yrs old)",
+     "items": [
+      [
+       "Hybrid",
+       94.3
+      ],
+      [
+       "Plug-in hybrid",
+       83.9
+      ],
+      [
+       "EV",
+       74.7,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "%",
+     "source": "AADA / AutoGrab",
+     "dur": 11.78,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Share of used cars discounted \u00b7 May 2026",
+     "items": [
+      [
+       "Diesel",
+       51.7,
+       "red"
+      ],
+      [
+       "Petrol",
+       50.5,
+       "red"
+      ],
+      [
+       "EV",
+       44.0
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "%",
+     "source": "AADA / AutoGrab",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_parking_rows/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_car_lot/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.18,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Will demand keep up?",
+     "highlight": "DEMAND",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.964,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch04.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/m_model_3/2_pixabay.jpg",
+     "move": "down",
+     "dur": 6.98,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "What would you pay?",
+     "sub": "3-year-old Model 3 or Atto 3 \u2013 comments",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 12.68,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Subscribe",
+     "sub": "what's changing in 2027",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 3.572,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch05.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "Who Loses Value Fastest",
+     "subtitle": "and why",
+     "tag": "used EVs",
+     "bg": "a/m_ioniq5/1_commons.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 3.74,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_calc/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 12.14,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_atto1/1_commons.jpg",
+     "move": "in",
+     "caption": "BYD Atto 1|new from $23,990 + ORC",
+     "dur": 1.52,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "New gets cheaper \u2192 used gets cheaper.",
+     "highlight": "CHEAPER",
+     "size": 115,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 8.44,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_model_3/1_commons.jpg",
+     "move": "left",
+     "caption": "Tesla Model 3|price cuts reset used values",
+     "dur": 5.46,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_kona_ev/1_commons.jpg",
+     "move": "right",
+     "dur": 8.9,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_handshake/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.12,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Below new price \u00b7 March 2026",
+     "items": [
+      [
+       "2022 Tesla Model Y RWD",
+       48,
+       "red"
+      ],
+      [
+       "BYD Atto 3",
+       39,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "-",
+     "suffix": "%",
+     "source": "Savvy / RedBook",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ioniq5/3_commons.jpg",
+     "move": "out",
+     "dur": 6.36,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"\u2026real opportunities for Australians looking at the used EV market.\"",
+     "highlight": "OPPORTUNITIES",
+     "size": 95,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.7,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_calc/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.287,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_kona_ev/3_commons.jpg",
+     "move": "in",
+     "caption": "Hyundai Kona Electric|up to $13,857 off new",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_tyre/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.893,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_dashboard/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.32,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ora/1_commons.jpg",
+     "move": "left",
+     "caption": "GWM Ora|fewer direct rivals",
+     "dur": 6.418,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch06.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "The Good News",
+     "subtitle": "battery health",
+     "tag": "Pickles data",
+     "bg": "a/ai/ai_battery_test_1.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 4.06,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev_charge/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 11.94,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Battery state of health (2,500+ EVs)",
+     "items": [
+      [
+       "All EVs",
+       96
+      ],
+      [
+       "Over 5 years old",
+       93
+      ],
+      [
+       "Over 120,000 km",
+       89
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "%",
+     "source": "Pickles \u00b7 Oct 2026",
+     "dur": 11.36,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Better than most people expect.",
+     "highlight": "BETTER",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.68,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev_charge/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.7,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "3.1 yrs",
+     "label": "average age \u00b7 ~44,000 km",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Pickles \u00b7 Sept qtr 2026",
+     "dur": 12.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_tyre/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Write-off EVs vs petrol/diesel",
+     "items": [
+      [
+       "Statutory write-off",
+       16
+      ],
+      [
+       "Repairable write-off",
+       71
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "+",
+     "suffix": "%",
+     "source": "Pickles",
+     "dur": 9.08,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_battery/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.27,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch07.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "2027",
+     "subtitle": "crash or boom?",
+     "tag": "my honest read",
+     "bg": "a/ai/ai_auction_evs_1.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 6.54,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Supply \u2191",
+     "highlight": "\u2191",
+     "size": 160,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 2.18,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_auction/3_unsplash.jpg",
+     "move": "right",
+     "dur": 10.92,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Demand \u2191",
+     "highlight": "\u2191",
+     "size": 160,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 9.7,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"\u2026tells us they're becoming more confident.\" \u2013 Pickles",
+     "highlight": "CONFIDENT",
+     "size": 100,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 11.52,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"\u2026continue to mature.\" \u2013 AADA",
+     "highlight": "MATURE",
+     "size": 125,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 6.4,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Fuel prices",
+      "New EV prices",
+      "FBT change \u00b7 Apr 2027",
+      "NSW road charge \u00b7 Jul 2027"
+     ],
+     "starts": [
+      0,
+      94,
+      177,
+      269
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 3.9199999999999946
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 7.399999999999999
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 11.239999999999995
+      }
+     ],
+     "dur": 15.92,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_keys/3_unsplash.jpg",
+     "move": "in",
+     "dur": 8.52,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_mechanic/1_unsplash.jpg",
+     "move": "up",
+     "dur": 8.36,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Not one crash \u2013 a bigger, tougher market.",
+     "highlight": "BIGGER",
+     "size": 105,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 10.742,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch08.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "Selling Your EV?",
+     "subtitle": "4 things to do",
+     "tag": "owners",
+     "bg": "a/h_used_lot/3_unsplash.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 3.5,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "1 \u00b7 Know your numbers",
+     "highlight": "1",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 1.82,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_laptop/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.28,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "2 \u00b7 Think about timing",
+     "highlight": "2",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 12.56,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_money/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.84,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_country_road/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ev6/1_commons.jpg",
+     "move": "down",
+     "dur": 4.96,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "3 \u00b7 Prove the battery",
+     "highlight": "3",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_mechanic/3_unsplash.jpg",
+     "move": "down",
+     "dur": 3.44,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "4 \u00b7 Residual vs market value",
+     "highlight": "4",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 10.52,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_keys/4_pixabay.jpg",
+     "move": "in",
+     "dur": 4.964,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch09.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "Buying a Used EV?",
+     "subtitle": "7-step checklist",
+     "tag": "2027",
+     "bg": "a/ai/ai_couple_used_ev_1.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 3.72,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "1 \u00b7 Battery health report",
+     "highlight": "1",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.38,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_battery/1_unsplash.jpg",
+     "move": "out",
+     "dur": 10.3,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "2 \u00b7 Battery warranty left",
+     "highlight": "2",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 10.36,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "3 \u00b7 Charging gear",
+     "highlight": "3",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 6.32,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev_charge/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 1.74,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "4 \u00b7 Compare with new",
+     "highlight": "4",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_calc/1_unsplash.jpg",
+     "move": "right",
+     "dur": 6.66,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "5 \u00b7 Recalls & updates",
+     "highlight": "5",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 10.13,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "6 \u00b7 Pre-purchase inspection",
+     "highlight": "6",
+     "size": 125,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.43,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_tyre/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.3,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "7 \u00b7 NSW road charge from July 2027",
+     "highlight": "7",
+     "size": 115,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 11.022,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch10.flac",
+   "lead_in": 0,
+   "tail": 2.5,
+   "shots": [
+    {
+     "type": "statement",
+     "text": "Will used EV prices crash in 2027?",
+     "highlight": "CRASH",
+     "size": 115,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.83,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_home_charge_used_1.jpg",
+     "move": "in",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_highway/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.77,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "+54% used EV sales",
+      "+157% ex-lease volumes",
+      "Index 104 \u2192 122 \u2192 107",
+      "96% battery health"
+     ],
+     "starts": [
+      0,
+      109,
+      254,
+      441
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 4.560000000000002
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 10.59
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 18.400000000000002
+      }
+     ],
+     "dur": 27.6,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_country_road/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ev6/3_commons.jpg",
+     "move": "in",
+     "dur": 12.02,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_phone/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_city_traffic/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.72,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Buyers: 2027 could be a great year.",
+     "highlight": "GREAT",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 9.64,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Like \u00b7 Subscribe \u00b7 Share",
+     "sub": "with someone eyeing a used EV",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 6.3,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Would you buy a used EV in 2027?"
+     ],
+     "starts": [
+      0
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      }
+     ],
+     "dur": 3.24,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "GWM vs Toyota RAV4",
+     "subtitle": "the plug-in hybrid fight",
+     "tag": "next video",
+     "bg": "a/h_ev_charge/2_pixabay.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 8.624,
+     "fixed": false,
+     "fade_out": 0
+    }
+   ]
+  }
+ ],
+ "size": [
+  1920,
+  1080
+ ],
+ "subtitles": "AUS11.ass"
+}

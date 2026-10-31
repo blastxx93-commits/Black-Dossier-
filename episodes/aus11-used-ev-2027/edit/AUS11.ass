@@ -1,0 +1,345 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Doc,Inter SemiBold,44,&H0000E6FF,&H0000E6FF,&H00000000,&H96000000,0,0,0,0,100,100,0.5,0,1,2.4,1.2,2,200,200,62,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.46,0:00:01.07,Doc,,0,0,0,,Forty-eight per cent.
+Dialogue: 0,0:00:01.12,0:00:05.53,Doc,,0,0,0,,That's roughly how much value a 2022\NTesla Model Y rear-wheel drive had lost
+Dialogue: 0,0:00:05.58,0:00:10.17,Doc,,0,0,0,,by early 2026, according to\NSavvy, using RedBook pricing data.
+Dialogue: 0,0:00:10.22,0:00:13.13,Doc,,0,0,0,,A BYD Atto 3 was down\Nabout thirty-nine per cent.
+Dialogue: 0,0:00:13.18,0:00:14.45,Doc,,0,0,0,,And here's the thing.
+Dialogue: 0,0:00:14.50,0:00:16.11,Doc,,0,0,0,,That may only be the beginning.
+Dialogue: 0,0:00:16.16,0:00:17.65,Doc,,0,0,0,,Because in 2027,
+Dialogue: 0,0:00:17.70,0:00:20.98,Doc,,0,0,0,,a wave of electric cars is set to\Nhit the Australian used market.
+Dialogue: 0,0:00:21.03,0:00:24.69,Doc,,0,0,0,,Cars that were bought on novated\Nleases when the electric car tax break
+Dialogue: 0,0:00:24.74,0:00:27.95,Doc,,0,0,0,,started in 2022 are now coming back.
+Dialogue: 0,0:00:28.00,0:00:30.59,Doc,,0,0,0,,Pickles, one of Australia's\Nbiggest auction houses,
+Dialogue: 0,0:00:30.64,0:00:34.83,Doc,,0,0,0,,says its ex-novated lease volumes in\Nthe September quarter of 2026 were
+Dialogue: 0,0:00:34.88,0:00:38.61,Doc,,0,0,0,,already 157 per cent higher\Nthan at the start of the year.
+Dialogue: 0,0:00:38.66,0:00:41.03,Doc,,0,0,0,,And as Pickles' general\Nmanager of motor vehicles,
+Dialogue: 0,0:00:41.08,0:00:42.37,Doc,,0,0,0,,Chris Shaw, put it:
+Dialogue: 0,0:00:42.42,0:00:45.89,Doc,,0,0,0,,"The volumes coming through now are\Nreally just the beginning." So what
+Dialogue: 0,0:00:45.94,0:00:48.95,Doc,,0,0,0,,happens to used EV prices in 2027?
+Dialogue: 0,0:00:49.00,0:00:51.33,Doc,,0,0,0,,Is this a disaster for\Npeople who own an EV,
+Dialogue: 0,0:00:51.38,0:00:54.43,Doc,,0,0,0,,or the best opportunity in\Nyears for people who want one?
+Dialogue: 0,0:00:54.48,0:00:57.75,Doc,,0,0,0,,In this video, I'll show\Nyou the real 2026 numbers,
+Dialogue: 0,0:00:57.80,0:01:00.07,Doc,,0,0,0,,why 2027 could be a turning point,
+Dialogue: 0,0:01:00.12,0:01:02.25,Doc,,0,0,0,,which EVs are losing value fastest,
+Dialogue: 0,0:01:02.30,0:01:05.15,Doc,,0,0,0,,and exactly what to check\Nbefore you buy or sell.
+Dialogue: 0,0:01:05.20,0:01:08.76,Doc,,0,0,0,,Because getting the timing wrong on\Na used EV could cost you thousands.
+Dialogue: 0,0:01:09.46,0:01:12.65,Doc,,0,0,0,,First, let's understand where\Nthis wave is coming from.
+Dialogue: 0,0:01:12.70,0:01:13.64,Doc,,0,0,0,,In July 2022,
+Dialogue: 0,0:01:13.69,0:01:18.07,Doc,,0,0,0,,the federal government made eligible\Nelectric cars exempt from fringe benefits
+Dialogue: 0,0:01:18.12,0:01:21.69,Doc,,0,0,0,,tax when they're provided through an\Nemployer including through a novated
+Dialogue: 0,0:01:21.74,0:01:22.51,Doc,,0,0,0,,lease.
+Dialogue: 0,0:01:22.56,0:01:24.91,Doc,,0,0,0,,That's what's called the\NElectric Car Discount.
+Dialogue: 0,0:01:24.96,0:01:26.65,Doc,,0,0,0,,And it changed the market.
+Dialogue: 0,0:01:26.70,0:01:29.53,Doc,,0,0,0,,Suddenly, a lot of workers\Ncould afford a new EV,
+Dialogue: 0,0:01:29.58,0:01:32.19,Doc,,0,0,0,,paying for it out of their pre-tax salary.
+Dialogue: 0,0:01:32.24,0:01:35.47,Doc,,0,0,0,,Novated leases typically run\Nfor around three to five years.
+Dialogue: 0,0:01:35.52,0:01:37.37,Doc,,0,0,0,,So the first big group of those cars,
+Dialogue: 0,0:01:37.42,0:01:41.61,Doc,,0,0,0,,leased from mid-2022 onwards, is\Nnow reaching the end of its term.
+Dialogue: 0,0:01:41.66,0:01:44.59,Doc,,0,0,0,,When a lease ends, a lot of\Nthose cars get handed back,
+Dialogue: 0,0:01:44.64,0:01:46.55,Doc,,0,0,0,,sold at auction, or traded in.
+Dialogue: 0,0:01:46.60,0:01:50.89,Doc,,0,0,0,,And that means more used EVs, all\Narriving at roughly the same time.
+Dialogue: 0,0:01:50.94,0:01:55.97,Doc,,0,0,0,,NRMA noted in July 2026 that the Electric\NCar Discount had just reached its
+Dialogue: 0,0:01:56.02,0:01:57.33,Doc,,0,0,0,,fourth anniversary.
+Dialogue: 0,0:01:57.38,0:02:02.09,Doc,,0,0,0,,Pickles told the NRMA it expected more\Nsalary-packaged EVs to be remarketed
+Dialogue: 0,0:02:02.14,0:02:03.91,Doc,,0,0,0,,over the following twelve months.
+Dialogue: 0,0:02:03.96,0:02:05.95,Doc,,0,0,0,,And by October 2026,
+Dialogue: 0,0:02:06.00,0:02:10.73,Doc,,0,0,0,,Pickles reported ex-novated volumes in\Nthe September quarter were 157 per cent
+Dialogue: 0,0:02:10.78,0:02:13.07,Doc,,0,0,0,,higher than in the first\Nquarter of the year.
+Dialogue: 0,0:02:13.12,0:02:14.75,Doc,,0,0,0,,To give you a sense of scale:
+Dialogue: 0,0:02:14.80,0:02:19.41,Doc,,0,0,0,,more than 100,000 battery electric\Ncars were sold new in Australia in 2025
+Dialogue: 0,0:02:19.46,0:02:23.75,Doc,,0,0,0,,alone, according to CarsGuide\Nabout 8.3 per cent of the market.
+Dialogue: 0,0:02:23.80,0:02:25.63,Doc,,0,0,0,,By September 2026,
+Dialogue: 0,0:02:25.68,0:02:29.35,Doc,,0,0,0,,EVs were making up more than twenty-four\Nper cent of new car sales in a single
+Dialogue: 0,0:02:29.40,0:02:29.65,Doc,,0,0,0,,month.
+Dialogue: 0,0:02:29.70,0:02:33.01,Doc,,0,0,0,,Every one of those cars will\Neventually become a used car.
+Dialogue: 0,0:02:33.06,0:02:36.21,Doc,,0,0,0,,The used EV market is only\Ngoing to get bigger from here.
+Dialogue: 0,0:02:36.26,0:02:37.53,Doc,,0,0,0,,And there's another twist.
+Dialogue: 0,0:02:37.58,0:02:41.69,Doc,,0,0,0,,As we covered in our last\Nvideo on 2027 EV changes,
+Dialogue: 0,0:02:41.74,0:02:44.91,Doc,,0,0,0,,the Electric Car Discount\Nitself is being wound back.
+Dialogue: 0,0:02:44.96,0:02:47.05,Doc,,0,0,0,,From the 1st of April 2027,
+Dialogue: 0,0:02:47.10,0:02:51.91,Doc,,0,0,0,,the full exemption only applies to\Nnew EVs costing $75,000 or less.
+Dialogue: 0,0:02:51.96,0:02:55.11,Doc,,0,0,0,,That could change how many people\Nchoose to take out a new lease on an
+Dialogue: 0,0:02:55.16,0:02:58.46,Doc,,0,0,0,,expensive EV and how many\Ndecide to buy used instead.
+Dialogue: 0,0:02:59.19,0:03:02.40,Doc,,0,0,0,,Now, here's what makes this story more\Ninteresting than a simple "prices are
+Dialogue: 0,0:03:02.45,0:03:03.88,Doc,,0,0,0,,crashing" headline.
+Dialogue: 0,0:03:03.93,0:03:07.34,Doc,,0,0,0,,2026 has actually been a\Nstrong year for used EVs.
+Dialogue: 0,0:03:07.39,0:03:08.02,Doc,,0,0,0,,Why?
+Dialogue: 0,0:03:08.07,0:03:08.80,Doc,,0,0,0,,Fuel.
+Dialogue: 0,0:03:08.85,0:03:11.58,Doc,,0,0,0,,When petrol and diesel prices\Nspiked earlier this year,
+Dialogue: 0,0:03:11.63,0:03:15.10,Doc,,0,0,0,,a lot of Australians started looking\Nat electric cars including second-hand
+Dialogue: 0,0:03:15.15,0:03:16.02,Doc,,0,0,0,,ones.
+Dialogue: 0,0:03:16.07,0:03:19.80,Doc,,0,0,0,,According to the Australian Automotive\NDealer Association and AutoGrab,
+Dialogue: 0,0:03:19.85,0:03:24.14,Doc,,0,0,0,,used EV sales in the first half of\N2026 rose about fifty-four per cent
+Dialogue: 0,0:03:24.19,0:03:27.52,Doc,,0,0,0,,compared with the year before to\Nmore than twenty-five thousand cars.
+Dialogue: 0,0:03:27.57,0:03:31.78,Doc,,0,0,0,,At the same time, total used\Ncar sales fell 6.6 per cent.
+Dialogue: 0,0:03:31.83,0:03:34.60,Doc,,0,0,0,,And used EVs started selling faster.
+Dialogue: 0,0:03:34.65,0:03:38.63,Doc,,0,0,0,,The NRMA reported that the average time\Nto sell a used EV fell from more than
+Dialogue: 0,0:03:38.68,0:03:41.88,Doc,,0,0,0,,sixty days in January to\Nunder forty days in June.
+Dialogue: 0,0:03:41.93,0:03:45.18,Doc,,0,0,0,,Pickles had its biggest quarter on\Nrecord for used EVs in the September
+Dialogue: 0,0:03:45.23,0:03:48.68,Doc,,0,0,0,,quarter of 2026, with more than 440 sold,
+Dialogue: 0,0:03:48.73,0:03:51.40,Doc,,0,0,0,,and more than two hundred\Nin September alone.
+Dialogue: 0,0:03:51.45,0:03:53.18,Doc,,0,0,0,,Over the twelve months to September,
+Dialogue: 0,0:03:53.23,0:03:58.16,Doc,,0,0,0,,it sold more than 1,580 used EVs\Nmore than double the year before.
+Dialogue: 0,0:03:58.21,0:04:00.56,Doc,,0,0,0,,Which brands are people\Nbuying second-hand?
+Dialogue: 0,0:04:00.61,0:04:04.30,Doc,,0,0,0,,According to the NRMA's report\Non AADA and AutoGrab data,
+Dialogue: 0,0:04:04.35,0:04:06.08,Doc,,0,0,0,,Tesla was by far the biggest,
+Dialogue: 0,0:04:06.13,0:04:12.34,Doc,,0,0,0,,with 7,402 used sales in the first\Nhalf of 2026 up forty-eight per cent.
+Dialogue: 0,0:04:12.39,0:04:16.86,Doc,,0,0,0,,MG was second by volume, with 2,582.
+Dialogue: 0,0:04:16.91,0:04:21.04,Doc,,0,0,0,,Kia had 1,927 more than\Ndouble the year before.
+Dialogue: 0,0:04:21.09,0:04:26.64,Doc,,0,0,0,,BYD had 1,767, up almost 175 per cent.
+Dialogue: 0,0:04:26.69,0:04:30.26,Doc,,0,0,0,,And Polestar and Volkswagen\Nboth grew from small bases,
+Dialogue: 0,0:04:30.31,0:04:33.36,Doc,,0,0,0,,with Volkswagen up more\Nthan 1,300 per cent.
+Dialogue: 0,0:04:33.41,0:04:35.12,Doc,,0,0,0,,Interest exploded too.
+Dialogue: 0,0:04:35.17,0:04:39.28,Doc,,0,0,0,,Pickles said its EV pages drew more\Nthan 20,000 visitors in the June quarter
+Dialogue: 0,0:04:39.33,0:04:43.18,Doc,,0,0,0,,of 2026 up from about\N2,000 a year earlier.
+Dialogue: 0,0:04:43.23,0:04:47.44,Doc,,0,0,0,,And carsales reported that EV searches\Njumped almost seventy-seven per cent in
+Dialogue: 0,0:04:47.49,0:04:52.02,Doc,,0,0,0,,a single week in March 2026,\Nwhen fuel prices were soaring.
+Dialogue: 0,0:04:52.07,0:04:53.72,Doc,,0,0,0,,And it's not just city buyers.
+Dialogue: 0,0:04:53.77,0:04:57.40,Doc,,0,0,0,,Pickles said regional buyers took\Nthirty-two per cent of its used EV purchases
+Dialogue: 0,0:04:57.45,0:05:01.26,Doc,,0,0,0,,in the 2026 financial year,\Nup from twenty-seven per cent.
+Dialogue: 0,0:05:01.31,0:05:05.83,Doc,,0,0,0,,In Queensland, almost half of its\Nused EV sales went to regional buyers.
+Dialogue: 0,0:05:06.64,0:05:08.23,Doc,,0,0,0,,So what happened to prices?
+Dialogue: 0,0:05:08.28,0:05:12.45,Doc,,0,0,0,,Pickles uses an index from Datium\NInsights to track used car values.
+Dialogue: 0,0:05:12.50,0:05:18.49,Doc,,0,0,0,,Its Used EV Index rose from\N104 in February 2026 to 122 in
+Dialogue: 0,0:05:18.54,0:05:20.95,Doc,,0,0,0,,May that was the peak of the fuel crisis.
+Dialogue: 0,0:05:21.00,0:05:23.91,Doc,,0,0,0,,Then it eased back to 107 by September.
+Dialogue: 0,0:05:23.96,0:05:27.09,Doc,,0,0,0,,In other words, used EV prices\Njumped during the fuel spike,
+Dialogue: 0,0:05:27.14,0:05:29.23,Doc,,0,0,0,,and then started coming back down.
+Dialogue: 0,0:05:29.28,0:05:32.15,Doc,,0,0,0,,You can see the same pattern\Nin Pickles' auction prices.
+Dialogue: 0,0:05:32.20,0:05:37.75,Doc,,0,0,0,,The NRMA reported the average used EV\Nsale price at Pickles was about $35,500
+Dialogue: 0,0:05:37.80,0:05:42.41,Doc,,0,0,0,,in January, rose to\Nabout $41,500 in April,
+Dialogue: 0,0:05:42.46,0:05:48.41,Doc,,0,0,0,,then fell back to $35,500 in\NMay and about $31,500 in June.
+Dialogue: 0,0:05:48.46,0:05:52.59,Doc,,0,0,0,,And the average odometer reading went\Nup from about 29,000 kilometres earlier
+Dialogue: 0,0:05:52.64,0:05:56.65,Doc,,0,0,0,,in the year to about 51,000\Nkilometres by May and June.
+Dialogue: 0,0:05:56.70,0:05:59.55,Doc,,0,0,0,,More older, higher-kilometre\NEVs are coming through.
+Dialogue: 0,0:05:59.60,0:06:03.39,Doc,,0,0,0,,And remember, the long-term picture\Nfor EV depreciation has been tough.
+Dialogue: 0,0:06:03.44,0:06:08.09,Doc,,0,0,0,,A 2025 analysis by Pickles and Datium\NInsights found that after two years,
+Dialogue: 0,0:06:08.14,0:06:11.79,Doc,,0,0,0,,a Tesla Model 3 kept about\Nfifty-four per cent of its value,
+Dialogue: 0,0:06:11.84,0:06:13.89,Doc,,0,0,0,,a Model Y about fifty-eight per cent,
+Dialogue: 0,0:06:13.94,0:06:19.25,Doc,,0,0,0,,an MG4 about fifty per cent, and a\NBYD Atto 3 about fifty-four per cent.
+Dialogue: 0,0:06:19.30,0:06:22.71,Doc,,0,0,0,,Compare that with a Toyota RAV4\Nat about eighty-eight per cent,
+Dialogue: 0,0:06:22.76,0:06:27.11,Doc,,0,0,0,,a LandCruiser at about eighty-eight,\Nand a HiLux at about eighty-five.
+Dialogue: 0,0:06:27.16,0:06:28.59,Doc,,0,0,0,,There's another way to measure this:
+Dialogue: 0,0:06:28.64,0:06:31.55,Doc,,0,0,0,,how much of their value cars hold\Ncompared with similar vehicles,
+Dialogue: 0,0:06:31.60,0:06:34.01,Doc,,0,0,0,,and how often sellers\Nhave to cut the price.
+Dialogue: 0,0:06:34.06,0:06:38.41,Doc,,0,0,0,,The AADA and AutoGrab track this\Nfor cars aged one to five years.
+Dialogue: 0,0:06:38.46,0:06:39.83,Doc,,0,0,0,,In May 2026,
+Dialogue: 0,0:06:39.88,0:06:43.54,Doc,,0,0,0,,they put the average residual value for\Nhybrids at about ninety-four per cent,
+Dialogue: 0,0:06:43.59,0:06:45.57,Doc,,0,0,0,,plug-in hybrids at about\Neighty-four per cent,
+Dialogue: 0,0:06:45.62,0:06:48.53,Doc,,0,0,0,,and electric vehicles at\Nabout seventy-five per cent.
+Dialogue: 0,0:06:48.58,0:06:51.87,Doc,,0,0,0,,So EVs were still holding\Nvalue less well than hybrids.
+Dialogue: 0,0:06:51.92,0:06:53.99,Doc,,0,0,0,,But fewer EVs needed a discount.
+Dialogue: 0,0:06:54.04,0:06:57.88,Doc,,0,0,0,,The share of used EVs that had to be\Ndiscounted fell from about forty-six per
+Dialogue: 0,0:06:57.93,0:07:00.75,Doc,,0,0,0,,cent in January to\Nforty-four per cent in May.
+Dialogue: 0,0:07:00.80,0:07:03.21,Doc,,0,0,0,,For petrol cars, it was\Nabout fifty-one per cent,
+Dialogue: 0,0:07:03.26,0:07:05.69,Doc,,0,0,0,,and for diesel almost fifty-two per cent.
+Dialogue: 0,0:07:05.74,0:07:07.27,Doc,,0,0,0,,So in 2026,
+Dialogue: 0,0:07:07.32,0:07:11.29,Doc,,0,0,0,,used EVs actually needed fewer price\Ncuts than petrol and diesel cars.
+Dialogue: 0,0:07:11.34,0:07:14.05,Doc,,0,0,0,,So the question for 2027 is simple.
+Dialogue: 0,0:07:14.10,0:07:17.31,Doc,,0,0,0,,When thousands of ex-lease EVs\Narrive, will demand keep up?
+Dialogue: 0,0:07:17.36,0:07:19.16,Doc,,0,0,0,,Or will prices fall again?
+Dialogue: 0,0:07:19.94,0:07:23.61,Doc,,0,0,0,,Before we get into which EVs are\Nmost at risk, a quick favour.
+Dialogue: 0,0:07:23.66,0:07:26.99,Doc,,0,0,0,,Do you own an EV or are you\Nthinking of buying a used one?
+Dialogue: 0,0:07:27.04,0:07:30.67,Doc,,0,0,0,,Tell me in the comments what you'd pay\Nfor a three-year-old Tesla Model 3 or
+Dialogue: 0,0:07:30.72,0:07:32.25,Doc,,0,0,0,,BYD Atto 3.
+Dialogue: 0,0:07:32.30,0:07:34.49,Doc,,0,0,0,,I want to see where the market really is.
+Dialogue: 0,0:07:34.54,0:07:35.49,Doc,,0,0,0,,And if you want honest,
+Dialogue: 0,0:07:35.54,0:07:39.67,Doc,,0,0,0,,fact-checked videos about what's\Nchanging for Aussie drivers in 2027,
+Dialogue: 0,0:07:39.72,0:07:40.53,Doc,,0,0,0,,hit subscribe.
+Dialogue: 0,0:07:40.58,0:07:42.36,Doc,,0,0,0,,It's free and it really helps.
+Dialogue: 0,0:07:43.18,0:07:46.99,Doc,,0,0,0,,So which used EVs are losing\Nvalue fastest and why?
+Dialogue: 0,0:07:47.04,0:07:49.49,Doc,,0,0,0,,The biggest reason is new car prices.
+Dialogue: 0,0:07:49.54,0:07:50.78,Doc,,0,0,0,,In April 2026,
+Dialogue: 0,0:07:50.83,0:07:56.04,Doc,,0,0,0,,carsales pointed out that you can now\Nbuy a brand-new EV for as little as
+Dialogue: 0,0:07:56.09,0:08:00.65,Doc,,0,0,0,,$23,990 plus on-road costs the BYD Atto 1.
+Dialogue: 0,0:08:00.70,0:08:04.07,Doc,,0,0,0,,When new cars get cheaper, used\Ncars have to get cheaper too.
+Dialogue: 0,0:08:04.12,0:08:08.71,Doc,,0,0,0,,Carsales also said higher-priced\NEVs have generally lost value first,
+Dialogue: 0,0:08:08.76,0:08:13.29,Doc,,0,0,0,,and that Tesla's repeated price cuts on\Nthe Model 3 and Model Y quickly reset
+Dialogue: 0,0:08:13.34,0:08:14.55,Doc,,0,0,0,,used prices.
+Dialogue: 0,0:08:14.60,0:08:15.67,Doc,,0,0,0,,Early long-range EVs,
+Dialogue: 0,0:08:15.72,0:08:19.43,Doc,,0,0,0,,like the Hyundai Kona Electric\Nand the Tesla Model 3 Long Range,
+Dialogue: 0,0:08:19.48,0:08:21.21,Doc,,0,0,0,,have lost some of their premium.
+Dialogue: 0,0:08:21.26,0:08:23.45,Doc,,0,0,0,,And because buyers want\Nthe latest versions,
+Dialogue: 0,0:08:23.50,0:08:25.59,Doc,,0,0,0,,earlier models can look dated quickly.
+Dialogue: 0,0:08:25.64,0:08:27.57,Doc,,0,0,0,,Let's put some real numbers on that.
+Dialogue: 0,0:08:27.62,0:08:29.35,Doc,,0,0,0,,Savvy, using RedBook data,
+Dialogue: 0,0:08:29.40,0:08:34.61,Doc,,0,0,0,,said in March 2026 that a 2022 Tesla\NModel Y rear-wheel drive was about
+Dialogue: 0,0:08:34.66,0:08:37.25,Doc,,0,0,0,,forty-eight per cent cheaper\Nthan when it was new,
+Dialogue: 0,0:08:37.30,0:08:40.65,Doc,,0,0,0,,and a BYD Atto 3 was down\Nabout thirty-nine per cent.
+Dialogue: 0,0:08:40.70,0:08:44.57,Doc,,0,0,0,,Savvy's Adrian Edlington said it "creates\Nreal opportunities for Australians
+Dialogue: 0,0:08:44.62,0:08:48.13,Doc,,0,0,0,,looking at the used EV market."\NAnd that's the flip side.
+Dialogue: 0,0:08:48.18,0:08:51.71,Doc,,0,0,0,,Every dollar an owner loses is\Na dollar a used buyer saves.
+Dialogue: 0,0:08:51.76,0:08:53.41,Doc,,0,0,0,,There's another factor: competition.
+Dialogue: 0,0:08:53.46,0:08:59.67,Doc,,0,0,0,,Hyundai cut up to $13,857 from some\Nversions of the new Kona Electric in
+Dialogue: 0,0:08:59.72,0:09:01.21,Doc,,0,0,0,,2026.
+Dialogue: 0,0:09:01.26,0:09:04.77,Doc,,0,0,0,,Brands are under pressure from the\Nemissions rules to sell more EVs,
+Dialogue: 0,0:09:04.82,0:09:06.81,Doc,,0,0,0,,and that often means discounting.
+Dialogue: 0,0:09:06.86,0:09:10.73,Doc,,0,0,0,,Every cut on a new car puts more\Npressure on the price of a used one.
+Dialogue: 0,0:09:10.78,0:09:11.75,Doc,,0,0,0,,On the other hand,
+Dialogue: 0,0:09:11.80,0:09:14.13,Doc,,0,0,0,,cheaper EVs and models\Nwith fewer direct rivals,
+Dialogue: 0,0:09:14.18,0:09:15.69,Doc,,0,0,0,,like the GWM Ora,
+Dialogue: 0,0:09:15.74,0:09:19.66,Doc,,0,0,0,,have been less exposed to sudden\Nprice swings, according to carsales.
+Dialogue: 0,0:09:20.47,0:09:23.76,Doc,,0,0,0,,Now here's some good news for anyone\Nworried about buying a used EV:
+Dialogue: 0,0:09:23.81,0:09:24.60,Doc,,0,0,0,,the batteries.
+Dialogue: 0,0:09:24.65,0:09:28.60,Doc,,0,0,0,,The biggest fear people have with a\Nsecond-hand electric car is the battery.
+Dialogue: 0,0:09:28.65,0:09:29.70,Doc,,0,0,0,,Will it be worn out?
+Dialogue: 0,0:09:29.75,0:09:31.78,Doc,,0,0,0,,Will it cost a fortune to replace?
+Dialogue: 0,0:09:31.83,0:09:35.80,Doc,,0,0,0,,Pickles looked at battery health data\Nfrom more than 2,500 battery electric
+Dialogue: 0,0:09:35.85,0:09:36.54,Doc,,0,0,0,,vehicles.
+Dialogue: 0,0:09:36.59,0:09:39.30,Doc,,0,0,0,,On average, the state of\Nhealth was ninety-six per cent.
+Dialogue: 0,0:09:39.35,0:09:42.70,Doc,,0,0,0,,For vehicles over five years old,\Nit was ninety-three per cent.
+Dialogue: 0,0:09:42.75,0:09:46.28,Doc,,0,0,0,,And even for vehicles that had\Ndone more than 120,000 kilometres,
+Dialogue: 0,0:09:46.33,0:09:47.90,Doc,,0,0,0,,it was eighty-nine per cent.
+Dialogue: 0,0:09:47.95,0:09:49.95,Doc,,0,0,0,,That's a lot better\Nthan many people expect.
+Dialogue: 0,0:09:50.00,0:09:53.40,Doc,,0,0,0,,It doesn't mean every battery\Nis perfect charging habits,
+Dialogue: 0,0:09:53.45,0:09:55.98,Doc,,0,0,0,,climate and the specific model all matter.
+Dialogue: 0,0:09:56.03,0:09:59.76,Doc,,0,0,0,,But it does suggest most used EVs on\Nthe market still have most of their
+Dialogue: 0,0:09:59.81,0:10:01.06,Doc,,0,0,0,,battery capacity.
+Dialogue: 0,0:10:01.11,0:10:02.28,Doc,,0,0,0,,Buyers have noticed, too.
+Dialogue: 0,0:10:02.33,0:10:06.60,Doc,,0,0,0,,The average used EV sold by Pickles\Nin the September quarter was about 3.1
+Dialogue: 0,0:10:06.65,0:10:10.86,Doc,,0,0,0,,years old, with roughly 44,000 kilometres\Nabout fifty per cent more kilometres
+Dialogue: 0,0:10:10.91,0:10:12.38,Doc,,0,0,0,,than two years earlier.
+Dialogue: 0,0:10:12.43,0:10:13.72,Doc,,0,0,0,,And they're still selling.
+Dialogue: 0,0:10:13.77,0:10:17.18,Doc,,0,0,0,,That suggests buyers are becoming more\Ncomfortable with higher-kilometre EVs,
+Dialogue: 0,0:10:17.23,0:10:20.52,Doc,,0,0,0,,which is exactly what the\N2027 lease wave will bring.
+Dialogue: 0,0:10:20.57,0:10:22.64,Doc,,0,0,0,,And there's another surprising number.
+Dialogue: 0,0:10:22.69,0:10:26.62,Doc,,0,0,0,,Pickles found that statutory write-off\NEVs sold for sixteen per cent more than
+Dialogue: 0,0:10:26.67,0:10:28.78,Doc,,0,0,0,,comparable petrol and diesel vehicles,
+Dialogue: 0,0:10:28.83,0:10:32.36,Doc,,0,0,0,,and repairable write-offs sold\Nfor seventy-one per cent more.
+Dialogue: 0,0:10:32.41,0:10:35.75,Doc,,0,0,0,,Damaged EVs are in demand, mostly\Nfor their parts and batteries.
+Dialogue: 0,0:10:36.56,0:10:38.71,Doc,,0,0,0,,So what does 2027 look like?
+Dialogue: 0,0:10:38.76,0:10:43.17,Doc,,0,0,0,,Here's my honest read, based on the data\Nnot a prediction anyone can promise.
+Dialogue: 0,0:10:43.22,0:10:45.35,Doc,,0,0,0,,On one side, supply is going up.
+Dialogue: 0,0:10:45.40,0:10:47.65,Doc,,0,0,0,,More ex-novated EVs are coming back.
+Dialogue: 0,0:10:47.70,0:10:49.39,Doc,,0,0,0,,More brands are selling EVs.
+Dialogue: 0,0:10:49.44,0:10:52.57,Doc,,0,0,0,,More EVs are reaching three,\Nfour and five years old.
+Dialogue: 0,0:10:52.62,0:10:56.27,Doc,,0,0,0,,Pickles' own manager says the current\Nvolumes are "really just the beginning."
+Dialogue: 0,0:10:56.32,0:10:58.91,Doc,,0,0,0,,On the other side,\Ndemand is also going up.
+Dialogue: 0,0:10:58.96,0:11:01.09,Doc,,0,0,0,,More Australians are considering EVs,
+Dialogue: 0,0:11:01.14,0:11:04.69,Doc,,0,0,0,,regional buyers are getting involved,\Nand dealers are getting more confident.
+Dialogue: 0,0:11:04.74,0:11:08.31,Doc,,0,0,0,,Pickles' Brendon Green said dealers\Nincreasing their participation "tells us
+Dialogue: 0,0:11:08.36,0:11:11.95,Doc,,0,0,0,,they're becoming more confident."\NThe AADA's James Voortman said:
+Dialogue: 0,0:11:12.00,0:11:15.77,Doc,,0,0,0,,"As more EVs enter the used market\Nand consumers become increasingly
+Dialogue: 0,0:11:15.82,0:11:17.49,Doc,,0,0,0,,comfortable with the technology,
+Dialogue: 0,0:11:17.54,0:11:21.57,Doc,,0,0,0,,we would expect the used EV market to\Ncontinue to mature." And then there are
+Dialogue: 0,0:11:21.62,0:11:23.89,Doc,,0,0,0,,the wildcards for 2027.
+Dialogue: 0,0:11:23.94,0:11:27.81,Doc,,0,0,0,,Fuel prices if they spike\Nagain, used EV demand will jump.
+Dialogue: 0,0:11:27.86,0:11:31.29,Doc,,0,0,0,,New EV prices if they keep\Nfalling, used values will follow.
+Dialogue: 0,0:11:31.34,0:11:34.65,Doc,,0,0,0,,The fringe benefits tax\Nchange in April 2027.
+Dialogue: 0,0:11:34.70,0:11:39.81,Doc,,0,0,0,,And the planned NSW road user\Ncharge for EVs from July 2027.
+Dialogue: 0,0:11:39.86,0:11:41.77,Doc,,0,0,0,,And don't forget the condition\Nof the cars themselves.
+Dialogue: 0,0:11:41.82,0:11:46.09,Doc,,0,0,0,,The first wave of ex-lease EVs will\Nmostly be three to five years old,
+Dialogue: 0,0:11:46.14,0:11:47.45,Doc,,0,0,0,,with one previous owner,
+Dialogue: 0,0:11:47.50,0:11:51.77,Doc,,0,0,0,,and often with full service histories\Nbecause a novated lease usually includes
+Dialogue: 0,0:11:51.82,0:11:52.93,Doc,,0,0,0,,scheduled servicing.
+Dialogue: 0,0:11:52.98,0:11:56.49,Doc,,0,0,0,,That's exactly the kind of car\Nmany used buyers are looking for.
+Dialogue: 0,0:11:56.54,0:11:58.13,Doc,,0,0,0,,So rather than a single crash,
+Dialogue: 0,0:11:58.18,0:12:01.37,Doc,,0,0,0,,the more likely picture is a market\Nthat keeps getting bigger and more
+Dialogue: 0,0:12:01.42,0:12:02.83,Doc,,0,0,0,,competitive with older,
+Dialogue: 0,0:12:02.88,0:12:06.58,Doc,,0,0,0,,more expensive and higher-kilometre\NEVs under the most pressure.
+Dialogue: 0,0:12:07.37,0:12:10.94,Doc,,0,0,0,,So what should you do if you own an\NEV and you're thinking of selling?
+Dialogue: 0,0:12:10.99,0:12:12.76,Doc,,0,0,0,,First, know your numbers.
+Dialogue: 0,0:12:12.81,0:12:16.22,Doc,,0,0,0,,Check comparable listings for your\Nexact model, year and kilometres.
+Dialogue: 0,0:12:16.27,0:12:18.50,Doc,,0,0,0,,Get a valuation or an instant offer.
+Dialogue: 0,0:12:18.55,0:12:20.04,Doc,,0,0,0,,That's your starting point.
+Dialogue: 0,0:12:20.09,0:12:21.54,Doc,,0,0,0,,Second, think about timing.
+Dialogue: 0,0:12:21.59,0:12:25.24,Doc,,0,0,0,,Carsales suggested selling sooner may\Nsuit owners nearing the end of their
+Dialogue: 0,0:12:25.29,0:12:29.20,Doc,,0,0,0,,battery warranty, owners whose car has\Nbeen overtaken by a cheaper or updated
+Dialogue: 0,0:12:29.25,0:12:32.60,Doc,,0,0,0,,model, or people who bought\Nearly and still have equity.
+Dialogue: 0,0:12:32.65,0:12:35.06,Doc,,0,0,0,,Holding may suit people who\Nowe more than the car is worth,
+Dialogue: 0,0:12:35.11,0:12:39.44,Doc,,0,0,0,,are near the end of a lease or finance\Nterm, or are happy with the car.
+Dialogue: 0,0:12:39.49,0:12:41.18,Doc,,0,0,0,,Also, think about where you sell.
+Dialogue: 0,0:12:41.23,0:12:45.18,Doc,,0,0,0,,With regional buyers now taking almost\Na third of Pickles' used EV sales,
+Dialogue: 0,0:12:45.23,0:12:47.88,Doc,,0,0,0,,the buyer for your car\Nmight not be in your suburb.
+Dialogue: 0,0:12:47.93,0:12:51.10,Doc,,0,0,0,,Listing nationally, or selling through\Na channel that reaches regional buyers,
+Dialogue: 0,0:12:51.15,0:12:52.90,Doc,,0,0,0,,could get you a better price.
+Dialogue: 0,0:12:52.95,0:12:54.42,Doc,,0,0,0,,Third, prove the battery.
+Dialogue: 0,0:12:54.47,0:12:57.40,Doc,,0,0,0,,A battery health report can\Nmake a big difference to buyers.
+Dialogue: 0,0:12:57.45,0:13:00.84,Doc,,0,0,0,,Keep your service history and\Nany software updates documented.
+Dialogue: 0,0:13:00.89,0:13:03.28,Doc,,0,0,0,,And fourth, if your car is\Ncoming off a novated lease,
+Dialogue: 0,0:13:03.33,0:13:06.86,Doc,,0,0,0,,compare your residual payment\Nwith the car's real market value.
+Dialogue: 0,0:13:06.91,0:13:08.92,Doc,,0,0,0,,If the car is worth\Nmore than the residual,
+Dialogue: 0,0:13:08.97,0:13:11.36,Doc,,0,0,0,,you may be able to keep\Nor sell it for a profit.
+Dialogue: 0,0:13:11.41,0:13:12.46,Doc,,0,0,0,,If it's worth less,
+Dialogue: 0,0:13:12.51,0:13:15.53,Doc,,0,0,0,,talk to your lease provider about\Nyour options before the end date.
+Dialogue: 0,0:13:16.25,0:13:20.04,Doc,,0,0,0,,And if you're buying a used EV\Nin 2027, here's your checklist.
+Dialogue: 0,0:13:20.09,0:13:23.42,Doc,,0,0,0,,Step one: ask for a battery health report.
+Dialogue: 0,0:13:23.47,0:13:25.60,Doc,,0,0,0,,Many dealers and auction\Nhouses can provide one,
+Dialogue: 0,0:13:25.65,0:13:28.98,Doc,,0,0,0,,and some brands can generate a\Nreport through their service centres.
+Dialogue: 0,0:13:29.03,0:13:31.54,Doc,,0,0,0,,If the seller won't provide one, ask why.
+Dialogue: 0,0:13:31.59,0:13:33.72,Doc,,0,0,0,,Don't just trust the\Nrange on the dashboard.
+Dialogue: 0,0:13:33.77,0:13:36.08,Doc,,0,0,0,,Step two: check the battery warranty.
+Dialogue: 0,0:13:36.13,0:13:39.06,Doc,,0,0,0,,Many EV batteries have a\Nwarranty of around eight years,
+Dialogue: 0,0:13:39.11,0:13:40.88,Doc,,0,0,0,,often with a kilometre limit.
+Dialogue: 0,0:13:40.93,0:13:44.08,Doc,,0,0,0,,Find out exactly how much is left,\Nand whether it transfers to you.
+Dialogue: 0,0:13:44.13,0:13:46.31,Doc,,0,0,0,,Step three: check the charging equipment.
+Dialogue: 0,0:13:46.36,0:13:48.68,Doc,,0,0,0,,Does the car come with a charging cable?
+Dialogue: 0,0:13:48.73,0:13:50.30,Doc,,0,0,0,,Does it support fast charging?
+Dialogue: 0,0:13:50.35,0:13:52.14,Doc,,0,0,0,,And where will you charge it at home?
+Dialogue: 0,0:13:52.19,0:13:53.94,Doc,,0,0,0,,Step four: compare with new.
+Dialogue: 0,0:13:53.99,0:13:58.04,Doc,,0,0,0,,With new EVs from about\N$24,000 before on-road costs,
+Dialogue: 0,0:13:58.09,0:14:01.60,Doc,,0,0,0,,make sure the used one is genuinely\Ncheaper once you add everything up
+Dialogue: 0,0:14:01.65,0:14:04.70,Doc,,0,0,0,,including warranty,\Nservicing and running costs.
+Dialogue: 0,0:14:04.75,0:14:06.90,Doc,,0,0,0,,Step five: check the model's history.
+Dialogue: 0,0:14:06.95,0:14:08.18,Doc,,0,0,0,,Has it had recalls?
+Dialogue: 0,0:14:08.23,0:14:11.62,Doc,,0,0,0,,Has the model been updated recently,\Nmaking the older version look dated?
+Dialogue: 0,0:14:11.67,0:14:14.83,Doc,,0,0,0,,And does the brand have service\Nand parts support near you?
+Dialogue: 0,0:14:14.88,0:14:17.72,Doc,,0,0,0,,Step six: get a pre-purchase inspection,
+Dialogue: 0,0:14:17.77,0:14:20.26,Doc,,0,0,0,,ideally from a workshop that knows EVs.
+Dialogue: 0,0:14:20.31,0:14:24.86,Doc,,0,0,0,,Check the tyres too EVs are heavy and\Ncan wear tyres faster and look for any
+Dialogue: 0,0:14:24.91,0:14:28.56,Doc,,0,0,0,,sign of accident damage underneath,\Nespecially near the battery.
+Dialogue: 0,0:14:28.61,0:14:30.76,Doc,,0,0,0,,Step seven: if you're in New South Wales,
+Dialogue: 0,0:14:30.81,0:14:35.16,Doc,,0,0,0,,factor in the planned road user charge\Nfrom July 2027 roughly a few hundred
+Dialogue: 0,0:14:35.21,0:14:38.77,Doc,,0,0,0,,dollars a year for an average\Ndriver, based on the proposed rate.
+Dialogue: 0,0:14:39.51,0:14:43.50,Doc,,0,0,0,,So, could used EV prices\Ncrash in Australia in 2027?
+Dialogue: 0,0:14:43.55,0:14:44.41,Doc,,0,0,0,,Here's the honest answer.
+Dialogue: 0,0:14:44.46,0:14:46.40,Doc,,0,0,0,,The supply wave is real.
+Dialogue: 0,0:14:46.45,0:14:48.42,Doc,,0,0,0,,Ex-novated lease volumes are rising fast,
+Dialogue: 0,0:14:48.47,0:14:51.78,Doc,,0,0,0,,and they're likely to\Nkeep rising into 2027.
+Dialogue: 0,0:14:51.83,0:14:54.84,Doc,,0,0,0,,Older and more expensive EVs\Nhave already lost a lot of value.
+Dialogue: 0,0:14:54.89,0:14:58.94,Doc,,0,0,0,,And every new-car price cut\Npushes used prices down further.
+Dialogue: 0,0:14:58.99,0:15:00.68,Doc,,0,0,0,,Let's recap the key numbers.
+Dialogue: 0,0:15:00.73,0:15:05.24,Doc,,0,0,0,,Used EV sales up about fifty-four\Nper cent in the first half of 2026.
+Dialogue: 0,0:15:05.29,0:15:09.74,Doc,,0,0,0,,Pickles' ex-novated lease volumes up\N157 per cent in the September quarter
+Dialogue: 0,0:15:09.79,0:15:11.27,Doc,,0,0,0,,compared with the March quarter.
+Dialogue: 0,0:15:11.32,0:15:16.56,Doc,,0,0,0,,The Used EV Index up from 104\Nto 122 during the fuel spike,
+Dialogue: 0,0:15:16.61,0:15:19.08,Doc,,0,0,0,,then back to 107 by September.
+Dialogue: 0,0:15:19.13,0:15:23.14,Doc,,0,0,0,,Average battery health of ninety-six\Nper cent across more than 2,500 EVs.
+Dialogue: 0,0:15:23.19,0:15:26.91,Doc,,0,0,0,,And a new EV now starting from under\Ntwenty-four thousand dollars before
+Dialogue: 0,0:15:26.96,0:15:28.28,Doc,,0,0,0,,on-road costs.
+Dialogue: 0,0:15:28.33,0:15:29.98,Doc,,0,0,0,,But demand has grown too.
+Dialogue: 0,0:15:30.03,0:15:32.68,Doc,,0,0,0,,Used EV sales jumped in 2026,
+Dialogue: 0,0:15:32.73,0:15:34.08,Doc,,0,0,0,,regional buyers are joining in,
+Dialogue: 0,0:15:34.13,0:15:36.70,Doc,,0,0,0,,and battery health data is\Nbetter than many people fear.
+Dialogue: 0,0:15:36.75,0:15:38.96,Doc,,0,0,0,,So instead of one big crash,
+Dialogue: 0,0:15:39.01,0:15:40.90,Doc,,0,0,0,,the more likely outcome is a bigger,
+Dialogue: 0,0:15:40.95,0:15:44.78,Doc,,0,0,0,,more competitive used EV market where\Nbuyers have more choice and better
+Dialogue: 0,0:15:44.83,0:15:47.86,Doc,,0,0,0,,prices, and sellers need\Nto be smarter about timing.
+Dialogue: 0,0:15:47.91,0:15:50.76,Doc,,0,0,0,,And whatever you do, don't\Nrely on old assumptions.
+Dialogue: 0,0:15:50.81,0:15:55.16,Doc,,0,0,0,,The used EV market in 2026 has moved\Nfast up during the fuel crisis,
+Dialogue: 0,0:15:55.21,0:15:56.80,Doc,,0,0,0,,and back down since.
+Dialogue: 0,0:15:56.85,0:15:59.48,Doc,,0,0,0,,It could move just as fast in 2027.
+Dialogue: 0,0:15:59.53,0:16:03.02,Doc,,0,0,0,,Check real listings and real\Nauction results, not headlines.
+Dialogue: 0,0:16:03.07,0:16:03.86,Doc,,0,0,0,,If you're buying,
+Dialogue: 0,0:16:03.91,0:16:07.94,Doc,,0,0,0,,2027 could be one of the best\Nyears ever to pick up a used EV.
+Dialogue: 0,0:16:07.99,0:16:08.80,Doc,,0,0,0,,If you're selling,
+Dialogue: 0,0:16:08.85,0:16:11.84,Doc,,0,0,0,,know your numbers and don't wait\Ntoo long if your car is about to be
+Dialogue: 0,0:16:11.89,0:16:12.66,Doc,,0,0,0,,overtaken.
+Dialogue: 0,0:16:12.71,0:16:14.24,Doc,,0,0,0,,If this helped, hit like,
+Dialogue: 0,0:16:14.29,0:16:17.80,Doc,,0,0,0,,subscribe and share it with someone\Nwho's thinking about a used EV.
+Dialogue: 0,0:16:17.85,0:16:22.10,Doc,,0,0,0,,Tell me in the comments: would you buy\Na second-hand electric car in 2027?
+Dialogue: 0,0:16:22.15,0:16:22.96,Doc,,0,0,0,,And in the next video,
+Dialogue: 0,0:16:23.01,0:16:27.50,Doc,,0,0,0,,we'll look at how GWM just undercut\NToyota's best-selling plug-in hybrid.
+Dialogue: 0,0:16:27.55,0:16:28.39,Doc,,0,0,0,,See you there.

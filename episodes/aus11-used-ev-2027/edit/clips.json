@@ -1,0 +1,81 @@
+{
+ "charge": [
+  "v_ev_charge/1",
+  "v_ev_charge/3",
+  "v_ev_charge/4"
+ ],
+ "battery": [
+  "v_ev_charge/2",
+  "v_battery/3"
+ ],
+ "auction": [
+  "v_auction/1",
+  "v_parking_rows/1"
+ ],
+ "used": [
+  "v_wash/3",
+  "v_handshake/2",
+  "v_tyre/4"
+ ],
+ "lease": [
+  "v_calc/1",
+  "v_money/1"
+ ],
+ "money": [
+  "v_money/1",
+  "v_calc/2",
+  "v_calc/4",
+  "v_calc/3",
+  "v_money/4"
+ ],
+ "online": [
+  "v_laptop/1",
+  "v_phone/3",
+  "v_phone/4",
+  "v_phone/2"
+ ],
+ "regional": [
+  "v_country_road/1",
+  "v_country_road/2",
+  "v_country_road/3",
+  "v_handshake/3",
+  "v_ev_drive/2",
+  "v_country_road/4",
+  "v_ev_drive/4"
+ ],
+ "fuel": [
+  "v_fuel_price/1",
+  "v_fuel_price/2"
+ ],
+ "mechanic": [
+  "v_handshake/2",
+  "v_battery/3"
+ ],
+ "tyre": [
+  "v_tyre/2",
+  "v_tyre/4"
+ ],
+ "evs": [
+  "v_ev_plug/1",
+  "v_dashboard/4",
+  "v_city_traffic/4"
+ ],
+ "_generic": [
+  "v_ev_plug/1",
+  "v_city_traffic/4",
+  "v_city_traffic/1",
+  "v_highway/1",
+  "v_highway/4",
+  "v_car_lot/2",
+  "v_dashboard/4",
+  "v_wash/1",
+  "v_wash/2",
+  "v_ev_drive/1",
+  "v_parking_rows/3",
+  "v_car_lot/3",
+  "v_tyre/3",
+  "v_highway/3",
+  "v_city_traffic/2",
+  "v_fuel_price/4"
+ ]
+}
