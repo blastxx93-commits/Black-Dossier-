@@ -1,0 +1,346 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Doc,Inter SemiBold,44,&H0000E6FF,&H0000E6FF,&H00000000,&H96000000,0,0,0,0,100,100,0.5,0,1,2.4,1.2,2,200,200,62,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.62,0:00:01.67,Doc,,0,0,0,,Thirty thousand, four hundred and eight.
+Dialogue: 0,0:00:01.72,0:00:05.05,Doc,,0,0,0,,That's how many Jeeps\NAustralians bought in 2014.
+Dialogue: 0,0:00:05.10,0:00:09.23,Doc,,0,0,0,,In the first half of\N2026, Jeep sold just 365.
+Dialogue: 0,0:00:09.28,0:00:12.19,Doc,,0,0,0,,In June, it sold twenty-eight\Nin the whole country.
+Dialogue: 0,0:00:12.24,0:00:13.39,Doc,,0,0,0,,Jeep isn't alone.
+Dialogue: 0,0:00:13.44,0:00:16.75,Doc,,0,0,0,,Peugeot's Australian distributor\Nhas walked away from the brand.
+Dialogue: 0,0:00:16.80,0:00:20.41,Doc,,0,0,0,,Jaguar sold zero new cars\Nhere in September 2026.
+Dialogue: 0,0:00:20.46,0:00:22.35,Doc,,0,0,0,,Alfa Romeo is going backwards.
+Dialogue: 0,0:00:22.40,0:00:25.11,Doc,,0,0,0,,And some of the biggest\NJapanese names Mitsubishi,
+Dialogue: 0,0:00:25.16,0:00:28.85,Doc,,0,0,0,,Subaru and Nissan have seen their sales\Nfall by around a quarter in a single
+Dialogue: 0,0:00:28.90,0:00:32.14,Doc,,0,0,0,,year, while facing millions of\Ndollars in emissions penalties.
+Dialogue: 0,0:00:32.19,0:00:35.98,Doc,,0,0,0,,Meanwhile, Australia now has around\Nseventy car brands fighting for roughly
+Dialogue: 0,0:00:36.03,0:00:37.89,Doc,,0,0,0,,1.2 million sales a year.
+Dialogue: 0,0:00:37.94,0:00:41.09,Doc,,0,0,0,,The head of Australia's car dealer\Nassociation has already warned that more
+Dialogue: 0,0:00:41.14,0:00:42.13,Doc,,0,0,0,,brands will leave.
+Dialogue: 0,0:00:42.18,0:00:43.07,Doc,,0,0,0,,So in this video,
+Dialogue: 0,0:00:43.12,0:00:46.15,Doc,,0,0,0,,I'll go through the car brands that are\Nunder the most pressure heading into
+Dialogue: 0,0:00:46.20,0:00:49.77,Doc,,0,0,0,,2027, using real 2026 sales data.
+Dialogue: 0,0:00:49.82,0:00:53.13,Doc,,0,0,0,,I'll explain what the companies themselves\Nare saying because none of them has
+Dialogue: 0,0:00:53.18,0:00:54.49,Doc,,0,0,0,,announced it's leaving.
+Dialogue: 0,0:00:54.54,0:00:55.61,Doc,,0,0,0,,And most importantly,
+Dialogue: 0,0:00:55.66,0:00:57.69,Doc,,0,0,0,,I'll show you exactly what\Nhappens to your warranty,
+Dialogue: 0,0:00:57.74,0:01:01.83,Doc,,0,0,0,,servicing, parts and resale value\Nif your brand does pull out.
+Dialogue: 0,0:01:01.88,0:01:04.45,Doc,,0,0,0,,Stay to the end, because if\Nyou own one of these cars,
+Dialogue: 0,0:01:04.50,0:01:05.98,Doc,,0,0,0,,there are things you should do now.
+Dialogue: 0,0:01:06.51,0:01:08.28,Doc,,0,0,0,,First, the big picture.
+Dialogue: 0,0:01:08.33,0:01:10.48,Doc,,0,0,0,,Why are so many brands struggling at once?
+Dialogue: 0,0:01:10.53,0:01:12.51,Doc,,0,0,0,,Reason one: the Chinese brands.
+Dialogue: 0,0:01:12.56,0:01:15.20,Doc,,0,0,0,,In the first half of 2026,
+Dialogue: 0,0:01:15.25,0:01:21.33,Doc,,0,0,0,,according to CarExpert, BYD sales\Nrose 124 per cent to 52,335.
+Dialogue: 0,0:01:21.38,0:01:24.38,Doc,,0,0,0,,Chery was up almost\Nseventy-seven per cent.
+Dialogue: 0,0:01:24.43,0:01:27.08,Doc,,0,0,0,,Tesla was up almost sixty-seven per cent.
+Dialogue: 0,0:01:27.13,0:01:29.24,Doc,,0,0,0,,GWM was up about twenty per cent.
+Dialogue: 0,0:01:29.29,0:01:31.38,Doc,,0,0,0,,In September 2026,
+Dialogue: 0,0:01:31.43,0:01:35.22,Doc,,0,0,0,,Geely was up 870 per cent on\Nthe same month a year earlier,
+Dialogue: 0,0:01:35.27,0:01:38.34,Doc,,0,0,0,,and Omoda Jaecoo was up 344 per cent.
+Dialogue: 0,0:01:38.39,0:01:41.09,Doc,,0,0,0,,Every one of those sales\Nhas to come from somewhere.
+Dialogue: 0,0:01:41.14,0:01:44.32,Doc,,0,0,0,,Reason two: the government's\Nemissions rules.
+Dialogue: 0,0:01:44.37,0:01:46.38,Doc,,0,0,0,,Under the New Vehicle Efficiency Standard,
+Dialogue: 0,0:01:46.43,0:01:49.68,Doc,,0,0,0,,brands with too many high-emitting\Nvehicles build up penalties.
+Dialogue: 0,0:01:49.73,0:01:51.78,Doc,,0,0,0,,In the first six months of the scheme,
+Dialogue: 0,0:01:51.83,0:01:55.86,Doc,,0,0,0,,Mazda's estimated liability\Nwas around $25.4 million,
+Dialogue: 0,0:01:55.91,0:01:58.42,Doc,,0,0,0,,Nissan's around $10.7 million,
+Dialogue: 0,0:01:58.47,0:02:02.30,Doc,,0,0,0,,Subaru's almost $7 million and\NHyundai's about $4.2 million.
+Dialogue: 0,0:02:02.35,0:02:05.53,Doc,,0,0,0,,And the targets get much tougher in 2027.
+Dialogue: 0,0:02:05.58,0:02:08.84,Doc,,0,0,0,,Reason three: the sheer number of brands.
+Dialogue: 0,0:02:08.89,0:02:12.76,Doc,,0,0,0,,With around seventy brands in a\Nmarket of about 1.2 million sales,
+Dialogue: 0,0:02:12.81,0:02:15.36,Doc,,0,0,0,,there simply isn't enough room\Nfor everyone to make money.
+Dialogue: 0,0:02:15.41,0:02:17.78,Doc,,0,0,0,,And it's not just the\Nsmaller brands feeling it.
+Dialogue: 0,0:02:17.83,0:02:22.31,Doc,,0,0,0,,Even Toyota still by far the biggest\Nbrand in the country was down 21.4 per
+Dialogue: 0,0:02:22.36,0:02:24.62,Doc,,0,0,0,,cent in the first half of 2026,
+Dialogue: 0,0:02:24.67,0:02:29.46,Doc,,0,0,0,,to 95,141 sales, according to CarExpert.
+Dialogue: 0,0:02:29.51,0:02:31.54,Doc,,0,0,0,,Suzuki was down almost\Ntwenty-one per cent.
+Dialogue: 0,0:02:31.59,0:02:33.88,Doc,,0,0,0,,Porsche was down almost thirty per cent,
+Dialogue: 0,0:02:33.93,0:02:37.94,Doc,,0,0,0,,Cupra more than thirty-two per cent\Nand Maserati thirty-three per cent.
+Dialogue: 0,0:02:37.99,0:02:40.22,Doc,,0,0,0,,When the market leader is down by a fifth,
+Dialogue: 0,0:02:40.27,0:02:42.74,Doc,,0,0,0,,the brands at the bottom have\Nvery little room to move.
+Dialogue: 0,0:02:42.79,0:02:44.42,Doc,,0,0,0,,Back in late 2024,
+Dialogue: 0,0:02:44.47,0:02:47.64,Doc,,0,0,0,,the Australian Automotive Dealer\NAssociation's chief executive,
+Dialogue: 0,0:02:47.69,0:02:51.12,Doc,,0,0,0,,James Voortman, predicted: "I\Nthink we will see a number leave,
+Dialogue: 0,0:02:51.17,0:02:54.50,Doc,,0,0,0,,some of them might not necessarily\Nmake the front pages." He said the real
+Dialogue: 0,0:02:54.55,0:02:57.94,Doc,,0,0,0,,question was "how many important brands\Nare going to leave." And he pointed
+Dialogue: 0,0:02:57.99,0:03:01.00,Doc,,0,0,0,,out that during his time\Nleading the association,
+Dialogue: 0,0:03:01.05,0:03:05.14,Doc,,0,0,0,,Australia had already lost Infiniti,\NChrysler, Citroen and Opel.
+Dialogue: 0,0:03:05.19,0:03:08.98,Doc,,0,0,0,,Before that, of course, there was\NHolden the biggest exit of all, in 2020.
+Dialogue: 0,0:03:09.03,0:03:11.36,Doc,,0,0,0,,Brands leaving Australia isn't a theory.
+Dialogue: 0,0:03:11.41,0:03:12.64,Doc,,0,0,0,,It happens regularly.
+Dialogue: 0,0:03:12.69,0:03:15.56,Doc,,0,0,0,,Now, a very important point\Nbefore we start the list.
+Dialogue: 0,0:03:15.61,0:03:19.06,Doc,,0,0,0,,None of the brands in this video has\Nannounced that it's leaving Australia.
+Dialogue: 0,0:03:19.11,0:03:20.50,Doc,,0,0,0,,Several have said the opposite.
+Dialogue: 0,0:03:20.55,0:03:22.66,Doc,,0,0,0,,So this isn't a list of\Nbrands that are leaving.
+Dialogue: 0,0:03:22.71,0:03:25.96,Doc,,0,0,0,,It's a list of brands under real pressure\Nand what you should know if you own
+Dialogue: 0,0:03:26.01,0:03:26.81,Doc,,0,0,0,,one.
+Dialogue: 0,0:03:27.28,0:03:30.51,Doc,,0,0,0,,Let's start with the one in the\Nmost trouble on paper: Jeep.
+Dialogue: 0,0:03:30.56,0:03:35.37,Doc,,0,0,0,,In 2014, Jeep sold 30,408\Nvehicles in Australia.
+Dialogue: 0,0:03:35.42,0:03:36.53,Doc,,0,0,0,,That was its peak.
+Dialogue: 0,0:03:36.58,0:03:40.29,Doc,,0,0,0,,In 2024, it sold 2,456.
+Dialogue: 0,0:03:40.34,0:03:43.73,Doc,,0,0,0,,In 2025, 1,682.
+Dialogue: 0,0:03:43.78,0:03:45.55,Doc,,0,0,0,,And in the first half of 2026,
+Dialogue: 0,0:03:45.60,0:03:51.44,Doc,,0,0,0,,CarExpert reported just 365 sales down\Nmore than sixty-six per cent with only
+Dialogue: 0,0:03:51.49,0:03:52.83,Doc,,0,0,0,,twenty-eight in June.
+Dialogue: 0,0:03:52.88,0:03:55.33,Doc,,0,0,0,,In September 2026, it sold sixteen.
+Dialogue: 0,0:03:55.38,0:03:57.54,Doc,,0,0,0,,The dealer network has shrunk too.
+Dialogue: 0,0:03:57.59,0:04:00.59,Doc,,0,0,0,,CarExpert reported around\Nforty-four Jeep retailers,
+Dialogue: 0,0:04:00.64,0:04:02.83,Doc,,0,0,0,,down from more than seventy at its peak.
+Dialogue: 0,0:04:02.88,0:04:04.49,Doc,,0,0,0,,And back in 2025,
+Dialogue: 0,0:04:04.54,0:04:07.91,Doc,,0,0,0,,some Jeep dealers sought legal advice\Nfrom the same lawyer who represented
+Dialogue: 0,0:04:07.96,0:04:10.59,Doc,,0,0,0,,Holden dealers when General\NMotors closed Holden.
+Dialogue: 0,0:04:10.64,0:04:12.49,Doc,,0,0,0,,And look at what's left of the range.
+Dialogue: 0,0:04:12.54,0:04:15.73,Doc,,0,0,0,,Jeep's current Australian line-up\Nis the Avenger electric SUV,
+Dialogue: 0,0:04:15.78,0:04:18.63,Doc,,0,0,0,,the Compass, the Wrangler\Nand the Gladiator ute.
+Dialogue: 0,0:04:18.68,0:04:23.39,Doc,,0,0,0,,The Grand Cherokee, which\Nsold 16,582 cars in 2014,
+Dialogue: 0,0:04:23.44,0:04:29.33,Doc,,0,0,0,,sold just 645 in 2024 its last full\Nyear on sale before it was paused.
+Dialogue: 0,0:04:29.38,0:04:30.81,Doc,,0,0,0,,Prices are part of the problem.
+Dialogue: 0,0:04:30.86,0:04:35.61,Doc,,0,0,0,,In 2025, CarSauce reported that the\Ncheapest four-door Wrangler had risen from
+Dialogue: 0,0:04:35.66,0:04:41.83,Doc,,0,0,0,,about $37,000 in 2014 to\N$75,950 before on-road
+Dialogue: 0,0:04:41.88,0:04:42.69,Doc,,0,0,0,,costs.
+Dialogue: 0,0:04:42.74,0:04:47.25,Doc,,0,0,0,,And Jeep paused the Grand Cherokee in\NMarch 2025 a model that sold more than
+Dialogue: 0,0:04:47.30,0:04:49.07,Doc,,0,0,0,,16,000 a year at its peak.
+Dialogue: 0,0:04:49.12,0:04:50.55,Doc,,0,0,0,,But Jeep insists it's staying.
+Dialogue: 0,0:04:50.60,0:04:52.49,Doc,,0,0,0,,In April 2026,
+Dialogue: 0,0:04:52.54,0:04:54.81,Doc,,0,0,0,,Jeep's vice-president of\Nglobal product planning,
+Dialogue: 0,0:04:54.86,0:04:57.19,Doc,,0,0,0,,Matt Nyquist, told CarExpert:
+Dialogue: 0,0:04:57.24,0:05:00.47,Doc,,0,0,0,,"The right-hand drive markets are so\Nimportant… we're committed to right-hand
+Dialogue: 0,0:05:00.52,0:05:04.47,Doc,,0,0,0,,drive [and] Australia." Jeep says\Na new Compass is due in 2026,
+Dialogue: 0,0:05:04.52,0:05:09.03,Doc,,0,0,0,,and the electric Recon is "on the horizon."\NNyquist did acknowledge that plans
+Dialogue: 0,0:05:09.08,0:05:13.10,Doc,,0,0,0,,can change, and that Jeep constantly\Nreviews mature markets like Australia.
+Dialogue: 0,0:05:13.96,0:05:17.01,Doc,,0,0,0,,It's a sad story for a brand that\Nwas once one of the biggest names in
+Dialogue: 0,0:05:17.06,0:05:18.81,Doc,,0,0,0,,Australian four-wheel driving.
+Dialogue: 0,0:05:18.86,0:05:23.11,Doc,,0,0,0,,In the 2010s, a Grand Cherokee was\Na common sight in every suburb.
+Dialogue: 0,0:05:23.16,0:05:26.81,Doc,,0,0,0,,Today, many Australians under thirty\Nhave probably never set foot in a Jeep
+Dialogue: 0,0:05:26.86,0:05:27.38,Doc,,0,0,0,,showroom.
+Dialogue: 0,0:05:27.43,0:05:28.87,Doc,,0,0,0,,Number two: Peugeot.
+Dialogue: 0,0:05:28.92,0:05:35.31,Doc,,0,0,0,,Peugeot's best year in Australia was\N2007, when it sold 8,807 vehicles.
+Dialogue: 0,0:05:35.36,0:05:38.69,Doc,,0,0,0,,In 2025, it sold 1,350.
+Dialogue: 0,0:05:38.74,0:05:40.99,Doc,,0,0,0,,In the first half of 2026,
+Dialogue: 0,0:05:41.04,0:05:45.63,Doc,,0,0,0,,CarExpert reported 427 sales,\Ndown more than forty-one per cent.
+Dialogue: 0,0:05:45.68,0:05:48.67,Doc,,0,0,0,,And in September 2026,\Nit sold just eighty-nine.
+Dialogue: 0,0:05:48.72,0:05:51.07,Doc,,0,0,0,,And look at what Peugeot\Nis actually selling.
+Dialogue: 0,0:05:51.12,0:05:56.53,Doc,,0,0,0,,CarExpert reported that of Peugeot's\N373 deliveries to the end of May 2026,
+Dialogue: 0,0:05:56.58,0:06:00.45,Doc,,0,0,0,,161 about forty-three per\Ncent were the Partner van.
+Dialogue: 0,0:06:00.50,0:06:02.87,Doc,,0,0,0,,Its passenger cars are barely registering.
+Dialogue: 0,0:06:02.92,0:06:04.91,Doc,,0,0,0,,Among Stellantis brands in Australia,
+Dialogue: 0,0:06:04.96,0:06:12.21,Doc,,0,0,0,,Peugeot was third this year, behind\NRam with 1,257 sales and Fiat with 745.
+Dialogue: 0,0:06:12.26,0:06:15.79,Doc,,0,0,0,,Then, in July 2026, came the big blow.
+Dialogue: 0,0:06:15.84,0:06:19.77,Doc,,0,0,0,,Inchcape, the company that has imported\Nand distributed Peugeot in Australia,
+Dialogue: 0,0:06:19.82,0:06:22.21,Doc,,0,0,0,,agreed with Stellantis\Nto end the partnership.
+Dialogue: 0,0:06:22.26,0:06:26.39,Doc,,0,0,0,,Inchcape had already dropped Peugeot's\Nsister brand Citroen in 2024.
+Dialogue: 0,0:06:26.44,0:06:27.95,Doc,,0,0,0,,No final date has been set.
+Dialogue: 0,0:06:28.00,0:06:30.03,Doc,,0,0,0,,Stellantis says Peugeot is staying.
+Dialogue: 0,0:06:30.08,0:06:32.87,Doc,,0,0,0,,Its statement: "Peugeot has\Na strong future in Australia,
+Dialogue: 0,0:06:32.92,0:06:37.41,Doc,,0,0,0,,supported by a robust product pipeline\Nand a clear long-term strategy." It
+Dialogue: 0,0:06:37.46,0:06:41.31,Doc,,0,0,0,,said it intends to "maintain continuity\Nof distribution in Australia." But it
+Dialogue: 0,0:06:41.36,0:06:45.17,Doc,,0,0,0,,hasn't said who will actually distribute\Nthe brand once Inchcape steps away.
+Dialogue: 0,0:06:45.22,0:06:46.27,Doc,,0,0,0,,In the meantime,
+Dialogue: 0,0:06:46.32,0:06:49.91,Doc,,0,0,0,,Inchcape will keep selling existing\Nstock and handling warranty and servicing
+Dialogue: 0,0:06:49.96,0:06:51.25,Doc,,0,0,0,,for current owners.
+Dialogue: 0,0:06:51.30,0:06:54.97,Doc,,0,0,0,,And Peugeot has slashed\Nprices in July 2026,
+Dialogue: 0,0:06:55.02,0:06:59.81,Doc,,0,0,0,,The Beep reported the 5008 GT Premium\NHybrid cut by ten thousand dollars,
+Dialogue: 0,0:06:59.86,0:07:05.92,Doc,,0,0,0,,from $69,990 to $59,990 drive-away.
+Dialogue: 0,0:07:06.69,0:07:08.24,Doc,,0,0,0,,Number three: Jaguar.
+Dialogue: 0,0:07:08.29,0:07:09.02,Doc,,0,0,0,,This one is different,
+Dialogue: 0,0:07:09.07,0:07:12.94,Doc,,0,0,0,,because Jaguar isn't really struggling\Nwith sales it has deliberately stopped
+Dialogue: 0,0:07:12.99,0:07:14.64,Doc,,0,0,0,,selling new cars.
+Dialogue: 0,0:07:14.69,0:07:18.22,Doc,,0,0,0,,Jaguar stopped selling new petrol cars\Nin Australia on the 31st of December
+Dialogue: 0,0:07:18.27,0:07:22.66,Doc,,0,0,0,,2025, as it prepares to relaunch\Nas an electric luxury brand.
+Dialogue: 0,0:07:22.71,0:07:26.68,Doc,,0,0,0,,That's why it sold zero new\Ncars here in September 2026.
+Dialogue: 0,0:07:26.73,0:07:30.12,Doc,,0,0,0,,The new electric Jaguars are\Nexpected to cost around $300,000,
+Dialogue: 0,0:07:30.17,0:07:31.64,Doc,,0,0,0,,according to Man of Many.
+Dialogue: 0,0:07:31.69,0:07:34.18,Doc,,0,0,0,,And there's still no\Nconfirmed local launch date.
+Dialogue: 0,0:07:34.23,0:07:37.70,Doc,,0,0,0,,Jaguar's local retailers are\Nstill servicing existing cars.
+Dialogue: 0,0:07:37.75,0:07:40.58,Doc,,0,0,0,,But for a brand with nearly\Na century of history here,
+Dialogue: 0,0:07:40.63,0:07:44.42,Doc,,0,0,0,,going from a full range to\Nzero new cars is a huge gamble.
+Dialogue: 0,0:07:44.47,0:07:48.74,Doc,,0,0,0,,If you own a Jaguar, the practical\Nquestions are servicing, parts and resale.
+Dialogue: 0,0:07:48.79,0:07:51.50,Doc,,0,0,0,,Existing Jaguars are still\Nsupported by local retailers.
+Dialogue: 0,0:07:51.55,0:07:53.50,Doc,,0,0,0,,But with no new models on sale,
+Dialogue: 0,0:07:53.55,0:07:57.42,Doc,,0,0,0,,there are fewer buyers walking into\Nshowrooms and that can make selling a used
+Dialogue: 0,0:07:57.47,0:08:00.20,Doc,,0,0,0,,Jaguar harder, at least until\Nthe new electric models arrive.
+Dialogue: 0,0:08:00.25,0:08:03.08,Doc,,0,0,0,,Number four: Alfa Romeo.
+Dialogue: 0,0:08:03.13,0:08:07.96,Doc,,0,0,0,,Alfa Romeo sold just twenty-one\Ncars in Australia in September 2026.
+Dialogue: 0,0:08:08.01,0:08:11.68,Doc,,0,0,0,,By May, its sales were down almost\Nforty-seven per cent for the year.
+Dialogue: 0,0:08:11.73,0:08:15.26,Doc,,0,0,0,,For a brand with such a passionate\Nfollowing, that's a tiny number.
+Dialogue: 0,0:08:15.31,0:08:17.38,Doc,,0,0,0,,Alfa's range in Australia\Nhas been small for years,
+Dialogue: 0,0:08:17.43,0:08:19.64,Doc,,0,0,0,,and when a brand only\Nhas a couple of models,
+Dialogue: 0,0:08:19.69,0:08:22.82,Doc,,0,0,0,,one slow model can drag\Ndown the whole business.
+Dialogue: 0,0:08:22.87,0:08:23.94,Doc,,0,0,0,,Like Jeep and Peugeot,
+Dialogue: 0,0:08:23.99,0:08:26.28,Doc,,0,0,0,,it's part of Stellantis and as we'll see,
+Dialogue: 0,0:08:26.33,0:08:29.47,Doc,,0,0,0,,the whole Stellantis group in\NAustralia is under pressure.
+Dialogue: 0,0:08:30.24,0:08:33.27,Doc,,0,0,0,,Before we get to the big Japanese\Nbrands which is where this gets really
+Dialogue: 0,0:08:33.32,0:08:35.25,Doc,,0,0,0,,interesting a quick favour.
+Dialogue: 0,0:08:35.30,0:08:37.21,Doc,,0,0,0,,Do you own a car from one of these brands?
+Dialogue: 0,0:08:37.26,0:08:40.17,Doc,,0,0,0,,Has your dealer closed, or have\Nyou had trouble getting parts?
+Dialogue: 0,0:08:40.22,0:08:41.51,Doc,,0,0,0,,Tell me in the comments.
+Dialogue: 0,0:08:41.56,0:08:42.53,Doc,,0,0,0,,And if you want honest,
+Dialogue: 0,0:08:42.58,0:08:46.73,Doc,,0,0,0,,fact-checked videos about what's\Nchanging for Aussie drivers in 2027,
+Dialogue: 0,0:08:46.78,0:08:47.67,Doc,,0,0,0,,hit subscribe.
+Dialogue: 0,0:08:47.72,0:08:49.48,Doc,,0,0,0,,It's free and it really helps.
+Dialogue: 0,0:08:50.29,0:08:51.82,Doc,,0,0,0,,Now, the Japanese brands.
+Dialogue: 0,0:08:51.87,0:08:55.32,Doc,,0,0,0,,Let's be very clear: these brands\Nare not about to leave Australia.
+Dialogue: 0,0:08:55.37,0:08:57.48,Doc,,0,0,0,,They sell tens of\Nthousands of cars a year,
+Dialogue: 0,0:08:57.53,0:09:00.02,Doc,,0,0,0,,and they have huge dealer\Nand service networks.
+Dialogue: 0,0:09:00.07,0:09:03.46,Doc,,0,0,0,,But they're under more pressure than at\Nany time in years and that can affect
+Dialogue: 0,0:09:03.51,0:09:06.26,Doc,,0,0,0,,prices, models and resale values.
+Dialogue: 0,0:09:06.31,0:09:11.60,Doc,,0,0,0,,Mitsubishi: 24,802 sales\Nin the first half of 2026,
+Dialogue: 0,0:09:11.65,0:09:14.60,Doc,,0,0,0,,down 25.7 per cent,\Naccording to CarExpert.
+Dialogue: 0,0:09:14.65,0:09:21.00,Doc,,0,0,0,,In September 2026, it was down 41.5 per\Ncent on the same month a year earlier.
+Dialogue: 0,0:09:21.05,0:09:23.84,Doc,,0,0,0,,The good news for Mitsubishi\Nis the all-new Pajero,
+Dialogue: 0,0:09:23.89,0:09:30.92,Doc,,0,0,0,,due in showrooms from December 2026,\Npriced from $68,490 before on-road costs.
+Dialogue: 0,0:09:30.97,0:09:36.62,Doc,,0,0,0,,Subaru: 14,817 sales in the\Nfirst half, down 25.6 per cent.
+Dialogue: 0,0:09:36.67,0:09:39.54,Doc,,0,0,0,,In September, down 42.6 per cent.
+Dialogue: 0,0:09:39.59,0:09:44.47,Doc,,0,0,0,,Subaru's estimated emissions liability\Nfor the second half of 2025 was almost
+Dialogue: 0,0:09:44.52,0:09:46.67,Doc,,0,0,0,,seven million dollars.
+Dialogue: 0,0:09:46.72,0:09:50.14,Doc,,0,0,0,,Nissan: 13,854 sales in the first half,
+Dialogue: 0,0:09:50.19,0:09:52.70,Doc,,0,0,0,,with double-digit falls\Nacross its main models.
+Dialogue: 0,0:09:52.75,0:09:57.00,Doc,,0,0,0,,Its estimated emissions liability\Nwas around $10.7 million.
+Dialogue: 0,0:09:57.05,0:09:59.76,Doc,,0,0,0,,Nissan's Oceania managing\Ndirector, Steve Milette,
+Dialogue: 0,0:09:59.81,0:10:00.62,Doc,,0,0,0,,has openly said:
+Dialogue: 0,0:10:00.67,0:10:05.06,Doc,,0,0,0,,"2026 is the low point." Nissan\Nis betting on new models,
+Dialogue: 0,0:10:05.11,0:10:09.98,Doc,,0,0,0,,including the plug-in hybrid Navara\NPro for 2027 and the new V6 Patrol.
+Dialogue: 0,0:10:10.03,0:10:13.76,Doc,,0,0,0,,And Mazda: the biggest estimated\Nemissions liability of any brand,
+Dialogue: 0,0:10:13.81,0:10:17.50,Doc,,0,0,0,,at around $25.4 million\Nfor just six months.
+Dialogue: 0,0:10:17.55,0:10:19.48,Doc,,0,0,0,,Mazda needs electric and hybrid cars,
+Dialogue: 0,0:10:19.53,0:10:23.10,Doc,,0,0,0,,and fast including the CX-6e electric SUV.
+Dialogue: 0,0:10:23.15,0:10:25.62,Doc,,0,0,0,,Why does this matter if you\Nown one of these brands?
+Dialogue: 0,0:10:25.67,0:10:28.88,Doc,,0,0,0,,Because when a brand is under\Npressure, it has to make tough choices.
+Dialogue: 0,0:10:28.93,0:10:31.94,Doc,,0,0,0,,It might raise prices on its most\Npolluting models to cover penalties.
+Dialogue: 0,0:10:31.99,0:10:34.38,Doc,,0,0,0,,It might cut slow-selling models.
+Dialogue: 0,0:10:34.43,0:10:38.04,Doc,,0,0,0,,Or it might slash prices to win\Nback buyers which helps new buyers,
+Dialogue: 0,0:10:38.09,0:10:41.19,Doc,,0,0,0,,but can hurt the resale value\Nof the cars people already own.
+Dialogue: 0,0:10:41.95,0:10:44.90,Doc,,0,0,0,,And then there's the group behind\Nthree of the brands on this list:
+Dialogue: 0,0:10:44.95,0:10:45.58,Doc,,0,0,0,,Stellantis.
+Dialogue: 0,0:10:45.63,0:10:49.36,Doc,,0,0,0,,Stellantis owns Jeep,\NPeugeot, Alfa Romeo and Fiat,
+Dialogue: 0,0:10:49.41,0:10:53.60,Doc,,0,0,0,,along with Ram, and it imports Chinese\Nbrand Leapmotor through a partnership.
+Dialogue: 0,0:10:53.65,0:10:54.77,Doc,,0,0,0,,In June 2026,
+Dialogue: 0,0:10:54.82,0:10:58.87,Doc,,0,0,0,,CarsGuide's Stephen Ottley wrote that\NLeapmotor sales were up more than 112
+Dialogue: 0,0:10:58.92,0:11:04.28,Doc,,0,0,0,,per cent, while Jeep, Peugeot, Alfa\NRomeo and Fiat were all going backwards.
+Dialogue: 0,0:11:04.33,0:11:05.96,Doc,,0,0,0,,He asked the question directly:
+Dialogue: 0,0:11:06.01,0:11:09.40,Doc,,0,0,0,,"does Jeep have a long-term future in\NAustralia?" And he pointed out that
+Dialogue: 0,0:11:09.45,0:11:12.98,Doc,,0,0,0,,Dodge and Chrysler had already left\Nand that General Motors said it was
+Dialogue: 0,0:11:13.03,0:11:15.62,Doc,,0,0,0,,committed to Holden\Nright up until it wasn't.
+Dialogue: 0,0:11:15.67,0:11:18.92,Doc,,0,0,0,,To be fair, Stellantis says\Nit's investing heavily globally,
+Dialogue: 0,0:11:18.97,0:11:22.48,Doc,,0,0,0,,with plans for 60 new vehicles\Nand 50 updated models.
+Dialogue: 0,0:11:22.53,0:11:25.86,Doc,,0,0,0,,And Jeep and Peugeot both say\Nthey're staying in Australia.
+Dialogue: 0,0:11:25.91,0:11:28.76,Doc,,0,0,0,,But the numbers make it easy\Nto see why owners are nervous.
+Dialogue: 0,0:11:28.81,0:11:30.18,Doc,,0,0,0,,So who's filling the gap?
+Dialogue: 0,0:11:30.23,0:11:31.59,Doc,,0,0,0,,Mostly the newer brands.
+Dialogue: 0,0:11:31.64,0:11:36.28,Doc,,0,0,0,,CarExpert reported Leapmotor up more\Nthan 150 per cent in the first half of
+Dialogue: 0,0:11:36.33,0:11:39.59,Doc,,0,0,0,,2026, to 779 sales.
+Dialogue: 0,0:11:39.64,0:11:45.22,Doc,,0,0,0,,CarsGuide reported that BYD's luxury\Nbrand Denza had passed 1,600 sales since
+Dialogue: 0,0:11:45.27,0:11:46.08,Doc,,0,0,0,,arriving.
+Dialogue: 0,0:11:46.13,0:11:47.94,Doc,,0,0,0,,And more Chinese brands keep arriving,
+Dialogue: 0,0:11:47.99,0:11:51.10,Doc,,0,0,0,,with new utes and SUVs planned for 2027.
+Dialogue: 0,0:11:51.15,0:11:54.47,Doc,,0,0,0,,The market isn't shrinking the brands\Nat the top are simply changing.
+Dialogue: 0,0:11:55.30,0:11:56.79,Doc,,0,0,0,,So here's the most important part.
+Dialogue: 0,0:11:56.84,0:12:00.73,Doc,,0,0,0,,What actually happens to you if\Nyour car's brand leaves Australia?
+Dialogue: 0,0:12:00.78,0:12:01.94,Doc,,0,0,0,,First, your rights.
+Dialogue: 0,0:12:01.99,0:12:04.49,Doc,,0,0,0,,Under the Australian Consumer Law,
+Dialogue: 0,0:12:04.54,0:12:07.91,Doc,,0,0,0,,manufacturers and importers must make\Nspare parts and repair facilities
+Dialogue: 0,0:12:07.96,0:12:11.75,Doc,,0,0,0,,reasonably available for a reasonable\Ntime after you buy a product.
+Dialogue: 0,0:12:11.80,0:12:15.27,Doc,,0,0,0,,That doesn't disappear just because\Na brand stops selling new cars.
+Dialogue: 0,0:12:15.32,0:12:18.05,Doc,,0,0,0,,Second, look at what\Nhappened in real exits.
+Dialogue: 0,0:12:18.10,0:12:21.13,Doc,,0,0,0,,When General Motors announced\Nthe end of Holden in 2020,
+Dialogue: 0,0:12:21.18,0:12:24.55,Doc,,0,0,0,,it said it would provide spare parts\Nand servicing for "at least the next 10
+Dialogue: 0,0:12:24.60,0:12:27.57,Doc,,0,0,0,,years," and that it would\Ncover all warranty commitments.
+Dialogue: 0,0:12:27.62,0:12:30.85,Doc,,0,0,0,,When Citroen stopped selling new cars\Nin Australia on the 1st of November
+Dialogue: 0,0:12:30.90,0:12:35.37,Doc,,0,0,0,,2024, it said servicing would continue\Nthrough its authorised service centres,
+Dialogue: 0,0:12:35.42,0:12:37.97,Doc,,0,0,0,,with genuine parts and\Nfactory-trained staff,
+Dialogue: 0,0:12:38.02,0:12:40.61,Doc,,0,0,0,,and that the factory\Nwarranty would continue.
+Dialogue: 0,0:12:40.66,0:12:42.65,Doc,,0,0,0,,What about finance and insurance?
+Dialogue: 0,0:12:42.70,0:12:43.91,Doc,,0,0,0,,If your brand leaves,
+Dialogue: 0,0:12:43.96,0:12:47.73,Doc,,0,0,0,,your car loan doesn't change you still\Nowe the same amount, on the same terms.
+Dialogue: 0,0:12:47.78,0:12:49.97,Doc,,0,0,0,,Your insurance continues too.
+Dialogue: 0,0:12:50.02,0:12:54.25,Doc,,0,0,0,,But insurers price policies partly on\Nrepair costs and parts availability,
+Dialogue: 0,0:12:54.30,0:12:58.09,Doc,,0,0,0,,so if parts become harder to get, that\Ncould show up in premiums over time.
+Dialogue: 0,0:12:58.14,0:13:01.71,Doc,,0,0,0,,And if your car is on a novated\Nlease, the lease continues as normal.
+Dialogue: 0,0:13:01.76,0:13:05.91,Doc,,0,0,0,,The bigger question is the residual\Nvalue the lump sum you'll owe at the end.
+Dialogue: 0,0:13:05.96,0:13:08.91,Doc,,0,0,0,,If the car's market value falls\Nbecause the brand has left,
+Dialogue: 0,0:13:08.96,0:13:10.99,Doc,,0,0,0,,it could be worth less than the residual.
+Dialogue: 0,0:13:11.04,0:13:13.35,Doc,,0,0,0,,That's worth discussing with\Nyour lease provider early.
+Dialogue: 0,0:13:13.40,0:13:15.23,Doc,,0,0,0,,But here's the reality.
+Dialogue: 0,0:13:15.28,0:13:16.41,Doc,,0,0,0,,Even with promises,
+Dialogue: 0,0:13:16.46,0:13:20.03,Doc,,0,0,0,,owners of departed brands often\Nreport it gets harder over time.
+Dialogue: 0,0:13:20.08,0:13:22.57,Doc,,0,0,0,,Fewer dealers means longer\Ndrives for servicing.
+Dialogue: 0,0:13:22.62,0:13:24.55,Doc,,0,0,0,,Some parts can take longer to arrive.
+Dialogue: 0,0:13:24.60,0:13:27.41,Doc,,0,0,0,,And independent mechanics may\Nbe less familiar with the brand.
+Dialogue: 0,0:13:27.46,0:13:30.09,Doc,,0,0,0,,And the biggest hit is\Nusually resale value.
+Dialogue: 0,0:13:30.14,0:13:32.39,Doc,,0,0,0,,When a brand leaves,\Nor looks like it might,
+Dialogue: 0,0:13:32.44,0:13:35.31,Doc,,0,0,0,,used buyers get nervous\Nand prices can fall.
+Dialogue: 0,0:13:35.36,0:13:38.42,Doc,,0,0,0,,That's often a bigger cost for\Nowners than any servicing problem.
+Dialogue: 0,0:13:39.19,0:13:42.49,Doc,,0,0,0,,So if you own a car from one of\Nthese brands, here's what to do now.
+Dialogue: 0,0:13:42.54,0:13:44.52,Doc,,0,0,0,,Step one: don't panic-sell.
+Dialogue: 0,0:13:44.57,0:13:46.80,Doc,,0,0,0,,None of these brands\Nhas announced an exit.
+Dialogue: 0,0:13:46.85,0:13:49.68,Doc,,0,0,0,,Selling in a hurry could\Ncost you more than waiting.
+Dialogue: 0,0:13:49.73,0:13:52.38,Doc,,0,0,0,,Step two: check your\Nwarranty and service plan.
+Dialogue: 0,0:13:52.43,0:13:55.24,Doc,,0,0,0,,Write down exactly what's\Ncovered and until when.
+Dialogue: 0,0:13:55.29,0:13:56.74,Doc,,0,0,0,,Keep every service record,
+Dialogue: 0,0:13:56.79,0:14:00.28,Doc,,0,0,0,,because a full service history matters\Neven more if the brand's future is
+Dialogue: 0,0:14:00.33,0:14:01.40,Doc,,0,0,0,,uncertain.
+Dialogue: 0,0:14:01.45,0:14:04.98,Doc,,0,0,0,,Step three: find your nearest\Nservice centres not just one.
+Dialogue: 0,0:14:05.03,0:14:06.36,Doc,,0,0,0,,If your dealer closes,
+Dialogue: 0,0:14:06.41,0:14:09.04,Doc,,0,0,0,,you want to know where the\Nnext authorised workshop is,
+Dialogue: 0,0:14:09.09,0:14:12.86,Doc,,0,0,0,,and whether a good independent\Nmechanic in your area knows the brand.
+Dialogue: 0,0:14:12.91,0:14:14.76,Doc,,0,0,0,,Step four: keep up with recalls.
+Dialogue: 0,0:14:14.81,0:14:18.70,Doc,,0,0,0,,Check the Product Safety Australia\Nwebsite for your car's make and model,
+Dialogue: 0,0:14:18.75,0:14:22.30,Doc,,0,0,0,,and make sure any recall work is done\Nwhile the dealer network is still in
+Dialogue: 0,0:14:22.35,0:14:23.32,Doc,,0,0,0,,place.
+Dialogue: 0,0:14:23.37,0:14:25.72,Doc,,0,0,0,,Step five: think about common parts.
+Dialogue: 0,0:14:25.77,0:14:27.62,Doc,,0,0,0,,If you're keeping the car for a long time,
+Dialogue: 0,0:14:27.67,0:14:30.94,Doc,,0,0,0,,it's worth knowing how easy it\Nis to get things like brake pads,
+Dialogue: 0,0:14:30.99,0:14:33.12,Doc,,0,0,0,,filters and windscreens for your model.
+Dialogue: 0,0:14:33.17,0:14:37.02,Doc,,0,0,0,,Step six: if you're planning to\Nsell in the next year or two anyway,
+Dialogue: 0,0:14:37.07,0:14:38.08,Doc,,0,0,0,,watch the market.
+Dialogue: 0,0:14:38.13,0:14:40.66,Doc,,0,0,0,,If there's an official announcement\Nthat a brand is leaving,
+Dialogue: 0,0:14:40.71,0:14:42.44,Doc,,0,0,0,,used values can fall quickly.
+Dialogue: 0,0:14:42.49,0:14:46.50,Doc,,0,0,0,,Being prepared with your service history\Nready and a realistic valuation means
+Dialogue: 0,0:14:46.55,0:14:48.42,Doc,,0,0,0,,you can act fast if you need to.
+Dialogue: 0,0:14:48.47,0:14:50.80,Doc,,0,0,0,,And if you're buying a new\Ncar from a struggling brand,
+Dialogue: 0,0:14:50.85,0:14:52.50,Doc,,0,0,0,,use it to your advantage.
+Dialogue: 0,0:14:52.55,0:14:53.52,Doc,,0,0,0,,Discounts can be big.
+Dialogue: 0,0:14:53.57,0:14:56.42,Doc,,0,0,0,,But ask the questions we covered\Nin our Black Friday video:
+Dialogue: 0,0:14:56.47,0:14:58.00,Doc,,0,0,0,,who stands behind the warranty,
+Dialogue: 0,0:14:58.05,0:15:01.28,Doc,,0,0,0,,where is the nearest service centre,\Nand how fast can they get common parts?
+Dialogue: 0,0:15:01.33,0:15:05.13,Doc,,0,0,0,,Then factor a lower resale value\Ninto the price you're willing to pay.
+Dialogue: 0,0:15:05.89,0:15:06.96,Doc,,0,0,0,,Before we wrap up,
+Dialogue: 0,0:15:07.01,0:15:11.34,Doc,,0,0,0,,here are the five warning signs to\Nwatch for in 2027 for any brand,
+Dialogue: 0,0:15:11.39,0:15:12.76,Doc,,0,0,0,,not just the ones in this video.
+Dialogue: 0,0:15:12.81,0:15:17.19,Doc,,0,0,0,,One: sales collapsing month after\Nmonth, not just one bad month.
+Dialogue: 0,0:15:17.24,0:15:20.50,Doc,,0,0,0,,Two: dealers closing,\Nespecially in regional areas.
+Dialogue: 0,0:15:20.55,0:15:24.35,Doc,,0,0,0,,Three: a change of importer\Nor distributor like Peugeot.
+Dialogue: 0,0:15:24.40,0:15:26.38,Doc,,0,0,0,,Four: the model range shrinking,
+Dialogue: 0,0:15:26.43,0:15:30.28,Doc,,0,0,0,,with popular models paused or\Naxed and no clear replacements.
+Dialogue: 0,0:15:30.33,0:15:33.98,Doc,,0,0,0,,And five: huge, ongoing discounts\Non new cars just to move stock.
+Dialogue: 0,0:15:34.03,0:15:37.25,Doc,,0,0,0,,One warning sign on its own\Ndoesn't mean a brand is leaving.
+Dialogue: 0,0:15:37.30,0:15:39.58,Doc,,0,0,0,,But when you see three or four together,
+Dialogue: 0,0:15:39.63,0:15:42.74,Doc,,0,0,0,,it's time to pay attention\Nespecially if you're about to buy.
+Dialogue: 0,0:15:42.79,0:15:46.66,Doc,,0,0,0,,So, which car brands might\Nnot survive 2027 in Australia?
+Dialogue: 0,0:15:46.71,0:15:47.56,Doc,,0,0,0,,On the numbers,
+Dialogue: 0,0:15:47.61,0:15:51.52,Doc,,0,0,0,,Jeep and Peugeot are under the most\Npressure Jeep with sales down more than
+Dialogue: 0,0:15:51.57,0:15:55.80,Doc,,0,0,0,,ninety per cent from its peak, and\NPeugeot with its importer walking away.
+Dialogue: 0,0:15:55.85,0:15:59.76,Doc,,0,0,0,,Jaguar has deliberately stopped selling\Nnew cars while it reinvents itself.
+Dialogue: 0,0:15:59.81,0:16:01.73,Doc,,0,0,0,,Alfa Romeo is going backwards.
+Dialogue: 0,0:16:01.78,0:16:03.64,Doc,,0,0,0,,And while Mitsubishi, Subaru,
+Dialogue: 0,0:16:03.69,0:16:05.88,Doc,,0,0,0,,Nissan and Mazda aren't going anywhere,
+Dialogue: 0,0:16:05.93,0:16:08.76,Doc,,0,0,0,,they face falling sales and\Nbig emissions penalties.
+Dialogue: 0,0:16:08.81,0:16:11.66,Doc,,0,0,0,,But remember: none of these\Nbrands has announced it's leaving,
+Dialogue: 0,0:16:11.71,0:16:14.10,Doc,,0,0,0,,and several say they're\Ncommitted to Australia.
+Dialogue: 0,0:16:14.15,0:16:15.74,Doc,,0,0,0,,In a market with around seventy brands,
+Dialogue: 0,0:16:15.79,0:16:19.18,Doc,,0,0,0,,though, history tells us that not all\Nof them will still be here in a few
+Dialogue: 0,0:16:19.23,0:16:19.92,Doc,,0,0,0,,years.
+Dialogue: 0,0:16:19.97,0:16:21.54,Doc,,0,0,0,,If this helped, hit like,
+Dialogue: 0,0:16:21.59,0:16:24.90,Doc,,0,0,0,,subscribe and share it with\Nsomeone who owns one of these cars.
+Dialogue: 0,0:16:24.95,0:16:27.96,Doc,,0,0,0,,Tell me in the comments: which\Nbrand do you think won't make it?
+Dialogue: 0,0:16:28.01,0:16:29.73,Doc,,0,0,0,,And I'll see you in the next video.

@@ -1,0 +1,2264 @@
+{
+ "output": "AUS13_Brands_2027.mp4",
+ "fps": 24,
+ "music": [
+  {
+   "file": "trilha.wav",
+   "start": 0,
+   "gain": -29,
+   "fade_in": 4,
+   "fade_out": 5
+  }
+ ],
+ "chapters": [
+  {
+   "audio": "audio/ch00_hook.flac",
+   "lead_in": 0,
+   "tail": 0.6,
+   "shots": [
+    {
+     "type": "stat",
+     "value": "30,408",
+     "label": "Jeeps sold in Australia in 2014",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "VFACTS",
+     "dur": 4.98,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "365",
+     "label": "Jeeps sold \u00b7 first half of 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarExpert",
+     "color": "red",
+     "dur": 4.18,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_wrangler/1_commons.jpg",
+     "move": "in",
+     "caption": "Jeep|28 sales in June 2026",
+     "dur": 4.16,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_peugeot_3008/1_commons.jpg",
+     "move": "left",
+     "caption": "Peugeot|importer Inchcape walking away",
+     "dur": 3.36,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_jaguar_car/1_commons.jpg",
+     "move": "right",
+     "caption": "Jaguar|0 new cars sold \u00b7 Sept 2026",
+     "dur": 3.66,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_alfa/1_commons.jpg",
+     "move": "in",
+     "caption": "Alfa Romeo|sales going backwards",
+     "dur": 3.88,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Sales \u00b7 first half 2026 vs 2025",
+     "items": [
+      [
+       "Mitsubishi",
+       -25.7,
+       "red"
+      ],
+      [
+       "Subaru",
+       -25.6,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "%",
+     "source": "CarExpert",
+     "dur": 8.84,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "~70",
+     "label": "brands fighting for ~1.2 million sales a year",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "dur": 6.56,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_showroom/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.44,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "Brands That May Not Survive 2027",
+     "subtitle": "real 2026 sales data",
+     "tag": "Australia",
+     "bg": "a/ai/ai_closing_dealer_1.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 10.12,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "None has announced it's leaving.",
+     "highlight": "NONE",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.94,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Warranty",
+      "Servicing",
+      "Parts",
+      "Resale value"
+     ],
+     "starts": [
+      0,
+      12,
+      35,
+      48
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.5
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.4600000000000009
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 2.019999999999996
+      }
+     ],
+     "dur": 7.26,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_docs/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.139,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch01.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "statement",
+     "text": "Why are so many brands struggling at once?",
+     "highlight": "STRUGGLING",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_byd/1_commons.jpg",
+     "move": "in",
+     "caption": "BYD|+124% \u00b7 first half 2026",
+     "dur": 6.16,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Sales growth \u00b7 first half 2026",
+     "items": [
+      [
+       "BYD",
+       124
+      ],
+      [
+       "Chery",
+       77
+      ],
+      [
+       "Tesla",
+       67
+      ],
+      [
+       "GWM",
+       20
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "+",
+     "suffix": "%",
+     "source": "CarExpert",
+     "dur": 7.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.1,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Sept 2026 vs Sept 2025",
+     "items": [
+      [
+       "Geely",
+       870
+      ],
+      [
+       "Omoda Jaecoo",
+       344
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "+",
+     "suffix": "%",
+     "source": "VFACTS",
+     "dur": 9.1,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_port/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.747,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Reason 2 \u00b7 emissions penalties",
+     "highlight": "PENALTIES",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 10.693,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Estimated NVES liability \u00b7 first 6 months ($m)",
+     "items": [
+      [
+       "Mazda",
+       25.4,
+       "red"
+      ],
+      [
+       "Nissan",
+       10.7,
+       "red"
+      ],
+      [
+       "Subaru",
+       7.0,
+       "red"
+      ],
+      [
+       "Hyundai",
+       4.2,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "$",
+     "suffix": "m",
+     "source": "Estimates via CarExpert",
+     "dur": 10.52,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_traffic/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.227,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "~70",
+     "label": "brands \u00b7 ~1.2 million sales",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "dur": 7.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_port/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.753,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "-21.4%",
+     "label": "Toyota \u00b7 first half 2026 (95,141 sales)",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarExpert",
+     "color": "red",
+     "dur": 7.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.18,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "First half 2026 vs 2025",
+     "items": [
+      [
+       "Suzuki",
+       -21
+      ],
+      [
+       "Porsche",
+       -30
+      ],
+      [
+       "Cupra",
+       -32
+      ],
+      [
+       "Maserati",
+       -33
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "%",
+     "source": "CarExpert",
+     "dur": 8.48,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_empty_lot/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.8,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"I think we will see a number leave\u2026\" \u2013 James Voortman, AADA",
+     "highlight": "LEAVE",
+     "size": 92,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 7.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.18,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_used/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.91,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Infiniti",
+      "Chrysler",
+      "Citroen",
+      "Opel"
+     ],
+     "starts": [
+      0,
+      16,
+      31,
+      45
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.6700000000000017
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.3100000000000023
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.9099999999999966
+      }
+     ],
+     "dur": 2.81,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_holden/1_commons.jpg",
+     "move": "in",
+     "caption": "Holden|retired in 2020",
+     "dur": 3.84,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_closed/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.58,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "No brand here has announced an exit.",
+     "highlight": "NO BRAND",
+     "size": 115,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 7.1,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_docs/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.689,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch02.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "#1 Jeep",
+     "subtitle": "the most trouble on paper",
+     "tag": "under pressure",
+     "bg": "a/m_wrangler/2_pixabay.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 3.16,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Jeep sales in Australia",
+     "items": [
+      [
+       "2014",
+       30408
+      ],
+      [
+       "2024",
+       2456,
+       "red"
+      ],
+      [
+       "2025",
+       1682,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "VFACTS / CarExpert",
+     "dur": 7.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_4wd/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.54,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "365",
+     "label": "first half 2026 \u00b7 -66% \u00b7 28 in June",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarExpert",
+     "color": "red",
+     "dur": 7.28,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "16",
+     "label": "Jeeps sold \u00b7 September 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "VFACTS",
+     "color": "red",
+     "dur": 2.5,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Jeep retailers",
+     "items": [
+      [
+       "Peak",
+       70
+      ],
+      [
+       "2026",
+       44,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "CarExpert",
+     "dur": 9.16,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_phone/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_avenger/1_commons.jpg",
+     "move": "in",
+     "caption": "Jeep Avenger|electric SUV",
+     "dur": 3.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_gladiator/1_commons.jpg",
+     "move": "left",
+     "caption": "Jeep Gladiator|ute",
+     "dur": 2.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_grand_cherokee/1_commons.jpg",
+     "move": "right",
+     "caption": "Jeep Grand Cherokee|16,582 (2014) \u2192 645 (2024)",
+     "dur": 10.7,
+     "fixed": true
+    },
+    {
+     "type": "price",
+     "model": "Jeep Wrangler 4-door",
+     "old": "~$37,000",
+     "new": "$75,950",
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.6
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.0
+      }
+     ],
+     "old_note": "2014",
+     "new_note": "2025 (+ ORC)",
+     "source": "CarSauce",
+     "dur": 7.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_offroad/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.86,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_grand_cherokee/3_commons.jpg",
+     "move": "in",
+     "caption": "Grand Cherokee|paused March 2025",
+     "dur": 6.38,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"\u2026we're committed to right-hand drive [and] Australia.\" \u2013 Matt Nyquist, Jeep",
+     "highlight": "COMMITTED",
+     "size": 88,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 7.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_4wd/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.44,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_compass/1_commons.jpg",
+     "move": "left",
+     "caption": "Jeep Compass|new model due",
+     "dur": 5.62,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_offroad/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.398,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch03.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_offroad/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.08,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_empty_lot/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.267,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "#2 Peugeot",
+     "subtitle": "importer walking away",
+     "tag": "under pressure",
+     "bg": "a/h_closed/3_pixabay.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 1.493,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Peugeot sales in Australia",
+     "items": [
+      [
+       "2007",
+       8807
+      ],
+      [
+       "2025",
+       1350,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "VFACTS / CarExpert",
+     "dur": 7.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_traffic/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.62,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "427",
+     "label": "first half 2026 \u00b7 -41% \u00b7 89 in September",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarExpert",
+     "color": "red",
+     "dur": 7.68,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_partner/3_commons.jpg",
+     "move": "in",
+     "caption": "Peugeot Partner|~43% of deliveries to May",
+     "dur": 7.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_night_city/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.7,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Stellantis brands \u00b7 2026 to May",
+     "items": [
+      [
+       "Ram",
+       1257
+      ],
+      [
+       "Fiat",
+       745
+      ],
+      [
+       "Peugeot",
+       373,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "CarExpert",
+     "dur": 9.34,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "July 2026: Inchcape to end Peugeot partnership",
+     "highlight": "INCHCAPE",
+     "size": 105,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 10.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_citroen/1_commons.jpg",
+     "move": "left",
+     "caption": "Citroen|dropped by Inchcape in 2024",
+     "dur": 5.74,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"Peugeot has a strong future in Australia\u2026\" \u2013 Stellantis",
+     "highlight": "STRONG FUTURE",
+     "size": 92,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 7.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_night_city/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.6,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_phone/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.12,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_showroom/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.08,
+     "fixed": true
+    },
+    {
+     "type": "price",
+     "model": "Peugeot 5008 GT Premium Hybrid",
+     "old": "$69,990",
+     "new": "$59,990",
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.6
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.0
+      }
+     ],
+     "old_note": "before",
+     "new_note": "drive-away \u00b7 July 2026",
+     "save": "-$10,000",
+     "source": "The Beep",
+     "dur": 8.56,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_peugeot_5008/1_commons.jpg",
+     "move": "in",
+     "caption": "Peugeot 5008|$10,000 price cut",
+     "dur": 6.95,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch04.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "#3 Jaguar",
+     "subtitle": "zero new cars",
+     "tag": "a deliberate gamble",
+     "bg": "a/ai/ai_used_yard_1.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 7.88,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_jaguar_car/3_commons.jpg",
+     "move": "in",
+     "caption": "Jaguar|no new petrol cars from 31 Dec 2025",
+     "dur": 8.02,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "0",
+     "label": "new Jaguars sold \u00b7 September 2026",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "VFACTS",
+     "color": "red",
+     "dur": 4.02,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "~$300,000",
+     "label": "expected price of new electric Jaguars",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Man of Many",
+     "dur": 7.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_factory/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 10.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_jaguar_car/5_commons.jpg",
+     "move": "left",
+     "caption": "Existing Jaguars|still supported locally",
+     "dur": 7.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_highway/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.36,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_luxury/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.92,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "#4 Alfa Romeo",
+     "subtitle": "a tiny number",
+     "tag": "under pressure",
+     "bg": "a/h_used/1_pixabay.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 2.88,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "21",
+     "label": "Alfa Romeos sold \u00b7 September 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "VFACTS",
+     "color": "red",
+     "dur": 4.88,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_alfa/3_commons.jpg",
+     "move": "in",
+     "caption": "Alfa Romeo|-47% to May 2026",
+     "dur": 9.9,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_closed/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.96,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Jeep \u00b7 Peugeot \u00b7 Alfa Romeo = Stellantis",
+     "highlight": "STELLANTIS",
+     "size": 105,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 7.487,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch05.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_night_city/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.94,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Own one of these brands?",
+     "sub": "dealer closed? parts trouble? comments",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 7.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_4wd/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.98,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Subscribe",
+     "sub": "what's changing for Aussie drivers in 2027",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 3.627,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch06.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "The Japanese Brands",
+     "subtitle": "not leaving \u2013 but under pressure",
+     "tag": "2027",
+     "bg": "a/m_outlander/3_commons.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 4.96,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_empty_lot/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 10.94,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_outlander/1_commons.jpg",
+     "move": "in",
+     "caption": "Mitsubishi|24,802 \u00b7 -25.7% \u00b7 first half 2026",
+     "dur": 8.34,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "-41.5%",
+     "label": "Mitsubishi \u00b7 September 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "VFACTS",
+     "color": "red",
+     "dur": 6.4,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_pajero/1_pixabay.jpg",
+     "move": "left",
+     "caption": "Mitsubishi Pajero|from $68,490 + ORC \u00b7 Dec 2026",
+     "dur": 9.92,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_forester/1_commons.jpg",
+     "move": "in",
+     "caption": "Subaru|14,817 \u00b7 -25.6% \u00b7 first half 2026",
+     "dur": 5.7,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_outback/1_commons.jpg",
+     "move": "right",
+     "caption": "Subaru|-42.6% \u00b7 September 2026",
+     "dur": 10.05,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_xtrail/1_commons.jpg",
+     "move": "in",
+     "caption": "Nissan|13,854 \u00b7 first half 2026",
+     "dur": 7.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_night_city/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.45,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"2026 is the low point.\" \u2013 Steve Milette, Nissan",
+     "highlight": "LOW POINT",
+     "size": 105,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 7.16,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_patrol/1_pixabay.jpg",
+     "move": "left",
+     "caption": "Nissan Patrol|new V6",
+     "dur": 2.2,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_cx5/1_commons.jpg",
+     "move": "in",
+     "caption": "Mazda|~$25.4m estimated liability \u00b7 6 months",
+     "dur": 10.28,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_cx6e/1_commons.jpg",
+     "move": "right",
+     "caption": "Mazda CX-6e|electric SUV",
+     "dur": 2.84,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_luxury/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.78,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Higher prices",
+      "Models cut",
+      "Big discounts \u2192 lower resale"
+     ],
+     "starts": [
+      0,
+      73,
+      132
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 3.0600000000000023
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 5.5
+      }
+     ],
+     "dur": 13.147,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch07.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "Stellantis",
+     "subtitle": "the group behind 3 of them",
+     "tag": "the bigger picture",
+     "bg": "a/m_wrangler/4_pixabay.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 3.56,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_offroad/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_suv/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.91,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_leapmotor/1_commons.jpg",
+     "move": "in",
+     "caption": "Leapmotor|+112% (CarsGuide, June 2026)",
+     "dur": 8.97,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"Does Jeep have a long-term future in Australia?\" \u2013 Stephen Ottley, CarsGuide",
+     "highlight": "FUTURE",
+     "size": 85,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.86,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_holden/3_commons.jpg",
+     "move": "left",
+     "caption": "Holden|'committed' \u2013 until 2020",
+     "dur": 4.66,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Stellantis global plan",
+     "items": [
+      [
+       "New vehicles",
+       60
+      ],
+      [
+       "Updated models",
+       50
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "Stellantis",
+     "dur": 9.38,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_empty_lot/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.9,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.83,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "+150%",
+     "label": "Leapmotor \u00b7 first half 2026 (779 sales)",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarExpert",
+     "dur": 10.73,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "1,600+",
+     "label": "Denza sales since arriving",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarsGuide",
+     "dur": 3.76,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_port/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.02,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "The market isn't shrinking \u2013 the top is changing.",
+     "highlight": "CHANGING",
+     "size": 105,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.263,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch08.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "If Your Brand Leaves",
+     "subtitle": "what happens to you",
+     "tag": "owners",
+     "bg": "a/h_closed/4_pixabay.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 5.36,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Australian Consumer Law: parts & repairs for a reasonable time",
+     "highlight": "REASONABLE",
+     "size": 92,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 7.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_suv/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.52,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_money/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.3,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Holden: parts and servicing \"at least the next 10 years\"",
+     "highlight": "10 YEARS",
+     "size": 100,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 9.52,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_citroen/3_commons.jpg",
+     "move": "in",
+     "caption": "Citroen|servicing + warranty continued after Nov 2024",
+     "dur": 7.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_luxury/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.54,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_money/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.36,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_parts/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.12,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_phone/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.82,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Market value < residual?",
+     "highlight": "RESIDUAL",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 7.44,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_forester/3_commons.jpg",
+     "move": "in",
+     "dur": 9.22,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_parts/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 1.98,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_factory/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.86,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Biggest hit: resale value.",
+     "highlight": "RESALE",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.98,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_used/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.872,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch09.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "Own One? Do This Now",
+     "subtitle": "6 steps",
+     "tag": "owners",
+     "bg": "a/h_docs/2_pixabay.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 3.233,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "1 \u00b7 Don't panic-sell",
+     "highlight": "1",
+     "size": 135,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 7.187,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "2 \u00b7 Warranty & service plan",
+     "highlight": "2",
+     "size": 125,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.56,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_docs/3_pixabay.jpg",
+     "move": "out",
+     "dur": 6.16,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "3 \u00b7 Find more than one service centre",
+     "highlight": "3",
+     "size": 115,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 7.76,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_workshop2/4_pixabay.jpg",
+     "move": "right",
+     "dur": 3.7,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "4 \u00b7 Recalls \u00b7 productsafety.gov.au",
+     "highlight": "4",
+     "size": 115,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 10.46,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "5 \u00b7 Common parts",
+     "highlight": "5",
+     "size": 135,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 6.66,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_parts_wait_1.jpg",
+     "move": "in",
+     "dur": 3.14,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "6 \u00b7 Watch the market",
+     "highlight": "6",
+     "size": 135,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 10.16,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_outback/3_commons.jpg",
+     "move": "up",
+     "dur": 5.14,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_xtrail/3_commons.jpg",
+     "move": "out",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Who backs the warranty?",
+      "Nearest service centre?",
+      "How fast are parts?"
+     ],
+     "starts": [
+      0,
+      37,
+      80
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.5799999999999983
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 3.3599999999999994
+      }
+     ],
+     "dur": 4.86,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_cx5/3_commons.jpg",
+     "move": "down",
+     "dur": 4.685,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch10.flac",
+   "lead_in": 0,
+   "tail": 2.5,
+   "shots": [
+    {
+     "type": "title",
+     "title": "5 Warning Signs",
+     "subtitle": "for any brand in 2027",
+     "tag": "watch list",
+     "bg": "a/m_triton/1_commons.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 7.36,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Sales collapsing",
+      "Dealers closing",
+      "Importer change",
+      "Range shrinking",
+      "Endless discounts"
+     ],
+     "starts": [
+      0,
+      110,
+      192,
+      282,
+      428
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 4.600000000000001
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 8.040000000000001
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 11.780000000000001
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 17.84
+      }
+     ],
+     "dur": 20.66,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "3 or 4 together = pay attention",
+     "highlight": "PAY ATTENTION",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 8.76,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_triton/3_commons.jpg",
+     "move": "left",
+     "dur": 3.92,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_wrangler/3_commons.jpg",
+     "move": "in",
+     "caption": "Jeep|-90%+ from its peak",
+     "dur": 6.56,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_peugeot_5008/3_commons.jpg",
+     "move": "left",
+     "caption": "Peugeot|importer leaving",
+     "dur": 2.58,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_byd/3_commons.jpg",
+     "move": "out",
+     "dur": 5.93,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_highway/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.03,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "No exit announced \u2013 several say they're committed.",
+     "highlight": "COMMITTED",
+     "size": 100,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 7.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_leapmotor/2_commons.jpg",
+     "move": "right",
+     "dur": 3.56,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Like \u00b7 Subscribe \u00b7 Share",
+     "sub": "with someone who owns one of these cars",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 6.08,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Which brand won't make it?",
+     "sub": "comments",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 6.257,
+     "fixed": false,
+     "fade_out": 0
+    }
+   ]
+  }
+ ],
+ "size": [
+  1920,
+  1080
+ ],
+ "subtitles": "AUS13.ass"
+}

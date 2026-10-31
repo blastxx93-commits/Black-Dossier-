@@ -1,0 +1,73 @@
+{
+ "jeep": [
+  "v_offroad/1",
+  "v_offroad/2",
+  "v_offroad/4",
+  "v_4wd/2",
+  "v_offroad/3",
+  "v_4wd/3"
+ ],
+ "dealer": [
+  "v_showroom/2",
+  "v_empty_lot/2",
+  "v_closed/3",
+  "v_empty_lot/4",
+  "v_closed/4",
+  "v_empty_lot/1",
+  "v_empty_lot/3"
+ ],
+ "parts": [
+  "v_parts/4",
+  "v_parts/3"
+ ],
+ "workshop": [
+  "v_showroom/3",
+  "v_factory/4",
+  "v_factory/1"
+ ],
+ "used": [
+  "v_used/3",
+  "v_luxury/1",
+  "v_luxury/3",
+  "v_used/2"
+ ],
+ "docs": [
+  "v_docs/3",
+  "v_docs/4",
+  "v_phone/1",
+  "v_phone/2",
+  "v_money/2",
+  "v_money/4",
+  "v_phone/3"
+ ],
+ "chinese": [
+  "v_port/2",
+  "v_ev/1",
+  "v_port/1",
+  "v_ev/3",
+  "v_port/4",
+  "v_ev/4",
+  "v_ev/2",
+  "v_suv/3"
+ ],
+ "japan": [
+  "v_traffic/4",
+  "v_night_city/1",
+  "v_highway/1",
+  "v_4wd/1",
+  "v_night_city/4",
+  "v_ship/2"
+ ],
+ "_generic": [
+  "v_traffic/1",
+  "v_night_city/2",
+  "v_night_city/3",
+  "v_highway/4",
+  "v_suv/4",
+  "v_luxury/2",
+  "v_ship/1",
+  "v_showroom/4",
+  "v_money/1",
+  "v_money/3"
+ ]
+}
