@@ -1,0 +1,183 @@
+[     0s] aus14-nobody-wants: 44 planos, limite 35.0 min
+[     0s] m_ioniq9: 'Hyundai Ioniq 9'
+[     0s]     commons: 12 candidatos em 0.5s
+[     1s]     pixabay: 12 candidatos em 0.2s
+[     3s]   -> 4 imagens
+[     3s] m_id4: 'Volkswagen ID.4'
+[     4s]     commons: 12 candidatos em 0.4s
+[     4s]     pixabay: 12 candidatos em 0.2s
+[     7s]   -> 4 imagens
+[     7s] m_tcross: 'Volkswagen T-Cross'
+[     7s]     commons: 12 candidatos em 0.4s
+[     7s]     pixabay: 12 candidatos em 0.2s
+[    10s]   -> 4 imagens
+[    10s] m_omoda9: 'Omoda 9'
+[    10s]     commons: 12 candidatos em 0.4s
+[    10s]     pixabay: 12 candidatos em 0.1s
+[    13s]   -> 4 imagens
+[    13s] m_koleos: 'Renault Koleos'
+[    13s]     commons: 12 candidatos em 0.4s
+[    13s]     pixabay: 12 candidatos em 0.2s
+[    16s]   -> 4 imagens
+[    16s] m_cx70: 'Mazda CX-70'
+[    17s]     commons: 12 candidatos em 0.7s
+[    17s]     pixabay: 12 candidatos em 0.1s
+[    20s]   -> 4 imagens
+[    20s] m_gv80: 'Genesis GV80'
+[    20s]     commons: 12 candidatos em 0.4s
+[    20s]     pixabay: 12 candidatos em 0.1s
+[    23s]   -> 4 imagens
+[    23s] m_gv70: 'Genesis GV70'
+[    23s]     commons: 12 candidatos em 0.3s
+[    23s]     pixabay: 12 candidatos em 0.1s
+[    26s]   -> 4 imagens
+[    26s] m_bmw_ix: 'BMW iX'
+[    27s]     commons: 12 candidatos em 0.7s
+[    27s]     pixabay: 12 candidatos em 0.1s
+[    29s]   -> 4 imagens
+[    29s] m_polestar3: 'Polestar 3'
+[    30s]     commons: 12 candidatos em 0.4s
+[    30s]     pixabay: 12 candidatos em 0.1s
+[    33s]   -> 4 imagens
+[    33s] m_wrangler: 'Jeep Wrangler'
+[    57s]   ! commons.wikimedia.org: 429 rate limit
+[    57s]     commons: 0 candidatos em 24.0s
+[    57s]     pixabay: 12 candidatos em 0.2s
+[    60s]   -> 4 imagens
+[    60s] m_gladiator: 'Jeep Gladiator'
+[    60s]     commons: 12 candidatos em 0.5s
+[    61s]     pixabay: 12 candidatos em 0.1s
+[    63s]   -> 4 imagens
+[    63s] m_tonale: 'Alfa Romeo Tonale'
+[    64s]     commons: 12 candidatos em 0.4s
+[    64s]     pixabay: 12 candidatos em 0.2s
+[    67s]   -> 4 imagens
+[    67s] m_stelvio: 'Alfa Romeo Stelvio'
+[    67s]     commons: 12 candidatos em 0.5s
+[    68s]     pixabay: 12 candidatos em 0.2s
+[    70s]   -> 4 imagens
+[    70s] m_fiat500: 'Fiat 500'
+[    71s]     commons: 12 candidatos em 0.5s
+[    71s]     pixabay: 12 candidatos em 0.1s
+[    74s]   -> 4 imagens
+[    74s] m_peugeot308: 'Peugeot 308'
+[    74s]     commons: 12 candidatos em 0.6s
+[    74s]     pixabay: 12 candidatos em 0.2s
+[    77s]   -> 4 imagens
+[    77s] m_lc70: 'Toyota Land Cruiser 70'
+[    78s]     commons: 10 candidatos em 0.5s
+[    78s]     pixabay: 12 candidatos em 0.3s
+[    80s]   -> 4 imagens
+[    80s] m_fortuner: 'Toyota Fortuner'
+[    81s]     commons: 12 candidatos em 0.4s
+[    81s]     pixabay: 12 candidatos em 0.1s
+[    84s]   -> 4 imagens
+[    84s] m_ora: 'GWM Ora'
+[    84s]     commons: 12 candidatos em 0.4s
+[    84s]     pixabay: 12 candidatos em 0.1s
+[    87s]   -> 4 imagens
+[    87s] m_troc: 'Volkswagen T-Roc'
+[    88s]     commons: 12 candidatos em 0.6s
+[    88s]     pixabay: 12 candidatos em 0.3s
+[    90s]   -> 4 imagens
+[    90s] m_cclass: 'Mercedes-Benz C-Class W206'
+[    91s]     commons: 12 candidatos em 0.4s
+[    91s]     pixabay: 12 candidatos em 0.2s
+[    94s]   -> 4 imagens
+[    94s] m_xc90: 'Volvo XC90'
+[   103s]     commons: 12 candidatos em 8.7s
+[   103s]     pixabay: 12 candidatos em 0.2s
+[   105s]   -> 4 imagens
+[   105s] m_cx90: 'Mazda CX-90'
+[   106s]     commons: 12 candidatos em 0.6s
+[   106s]     pixabay: 12 candidatos em 0.2s
+[   109s]   -> 4 imagens
+[   109s] m_sonata: 'Hyundai Sonata'
+[   109s]     commons: 12 candidatos em 0.3s
+[   109s]     pixabay: 12 candidatos em 0.2s
+[   112s]   -> 4 imagens
+[   112s] m_superb: 'Skoda Superb'
+[   112s]     commons: 12 candidatos em 0.4s
+[   113s]     pixabay: 12 candidatos em 0.1s
+[   115s]   -> 4 imagens
+[   115s] m_civic: 'Honda Civic'
+[   116s]     commons: 12 candidatos em 0.5s
+[   116s]     pixabay: 12 candidatos em 0.2s
+[   118s]   -> 4 imagens
+[   118s] m_ranger: 'Ford Ranger'
+[   119s]     commons: 12 candidatos em 0.5s
+[   119s]     pixabay: 12 candidatos em 0.2s
+[   122s]   -> 4 imagens
+[   122s] m_rav4: 'Toyota RAV4'
+[   122s]     commons: 12 candidatos em 0.3s
+[   122s]     pixabay: 12 candidatos em 0.1s
+[   124s]   -> 4 imagens
+[   124s] m_sealion7: 'BYD Sealion 7'
+[   125s]     commons: 12 candidatos em 0.3s
+[   125s]     pixabay: 12 candidatos em 0.1s
+[   127s]   -> 4 imagens
+[   127s] m_tiggo4: 'Chery Tiggo 4'
+[   128s]     commons: 12 candidatos em 0.4s
+[   128s]     pixabay: 12 candidatos em 0.2s
+[   131s]   -> 4 imagens
+[   131s] m_jolion: 'Haval Jolion'
+[   131s]     commons: 12 candidatos em 0.4s
+[   131s]     pixabay: 1 candidatos em 0.2s
+[   134s]   -> 4 imagens
+[   134s] m_ex5: 'Geely EX5'
+[   158s]   ! commons.wikimedia.org: 429 rate limit
+[   158s]     commons: 0 candidatos em 24.0s
+[   158s]     pixabay: 0 candidatos em 0.1s
+[   166s]     commons: 12 candidatos em 8.4s
+[   167s]     pixabay: 12 candidatos em 0.1s
+[   169s]   -> 4 imagens
+[   169s] m_ix3: 'BMW iX3'
+[   170s]     commons: 12 candidatos em 0.7s
+[   170s]     pixabay: 12 candidatos em 0.2s
+[   173s]   -> 4 imagens
+[   173s] m_cx60: 'Mazda CX-60'
+[   173s]     commons: 12 candidatos em 0.6s
+[   173s]     pixabay: 12 candidatos em 0.1s
+[   176s]   -> 4 imagens
+[   176s] m_model_y: 'Tesla Model Y'
+[   176s]     commons: 12 candidatos em 0.3s
+[   176s]     pixabay: 12 candidatos em 0.2s
+[   179s]   -> 4 imagens
+[   179s] m_hilux: 'Toyota Hilux'
+[   179s]     commons: 12 candidatos em 0.5s
+[   179s]     pixabay: 12 candidatos em 0.1s
+[   182s]   -> 4 imagens
+[   182s] h_dealer_lot: 'car dealership lot rows of new cars'
+[   183s]     commons: 2 candidatos em 0.5s
+[   183s]     pixabay: 12 candidatos em 0.2s
+[   185s]   -> 4 imagens
+[   185s] h_showroom: 'car showroom'
+[   186s]     commons: 6 candidatos em 0.4s
+[   186s]     pixabay: 12 candidatos em 0.2s
+[   189s]   -> 4 imagens
+[   189s] h_discount: 'car sale price sign'
+[   189s]     commons: 6 candidatos em 0.6s
+[   190s]     pixabay: 12 candidatos em 0.3s
+[   192s]   -> 4 imagens
+[   192s] h_keys: 'car keys handover'
+[   193s]     commons: 5 candidatos em 0.3s
+[   193s]     pixabay: 12 candidatos em 0.1s
+[   195s]   -> 4 imagens
+[   195s] h_calc: 'calculator money'
+[   196s]     commons: 9 candidatos em 0.5s
+[   196s]     pixabay: 12 candidatos em 0.1s
+[   199s]   -> 4 imagens
+[   199s] h_traffic: 'australia traffic cars'
+[   223s]   ! commons.wikimedia.org: 429 rate limit
+[   223s]     commons: 0 candidatos em 24.0s
+[   223s]     pixabay: 12 candidatos em 0.2s
+[   226s]   -> 4 imagens
+[   226s] h_used: 'used car lot'
+[   227s]     commons: 9 candidatos em 0.7s
+[   227s]     pixabay: 12 candidatos em 0.2s
+[   230s]   -> 4 imagens
+[   230s] h_salesman: 'car salesman'
+[   230s]     commons: 10 candidatos em 0.6s
+[   231s]     pixabay: 12 candidatos em 0.2s
+[   233s]   -> 4 imagens
+[   237s] fim: 176 imagens
