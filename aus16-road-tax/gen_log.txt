@@ -1,0 +1,32 @@
+ai_servo_fill_1: Gemini falhou (Gemini 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and ), tentando Replicate
+ai_servo_fill_1: 2752x1536
+ai_ev_home_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_ev_home_1: 2752x1536
+ai_family_bills_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_family_bills_1: 2752x1536
+ai_outer_suburb_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_outer_suburb_1: 2752x1536
+ai_ute_rural_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_ute_rural_1: 2752x1536
+persona_tax_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+persona_tax_1: 2752x1536
+persona_tax_2: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+persona_tax_2: 2752x1536
+# Imagens IA — aus16-road-tax
+
+- Modelo: `gemini-2.5-flash-image`
+- Imagens geradas: 7
+- Folhas: ai_contact_sheet_1.jpg
+
+| plano | resultado |
+|---|---|
+| `ai_servo_fill` | 1 de 1 |
+| `ai_ev_home` | 1 de 1 |
+| `ai_family_bills` | 1 de 1 |
+| `ai_outer_suburb` | 1 de 1 |
+| `ai_ute_rural` | 1 de 1 |
+| `persona_tax` | 2 de 2 |
+
