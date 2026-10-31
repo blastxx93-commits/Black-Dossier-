@@ -1,0 +1,56 @@
+{
+ "dealer": [
+  "v_dealer/1",
+  "v_luxury/2",
+  "v_luxury/1",
+  "v_luxury/4",
+  "v_luxury/3"
+ ],
+ "money": [
+  "v_money/1",
+  "v_calc/1",
+  "v_money/4",
+  "v_calc/2",
+  "v_money/2",
+  "v_calc/3",
+  "v_money/3"
+ ],
+ "keys": [
+  "v_suv_drive/3",
+  "v_offroad/2"
+ ],
+ "traffic": [
+  "v_traffic/4",
+  "v_traffic/3",
+  "v_traffic/2",
+  "v_traffic/1",
+  "v_sedan/4",
+  "v_small_car/3"
+ ],
+ "buyer": [
+  "v_phone/2",
+  "v_phone/3",
+  "v_ev_charge/3"
+ ],
+ "_generic": [
+  "v_test_drive/3",
+  "v_test_drive/2",
+  "v_test_drive/1",
+  "v_test_drive/4",
+  "v_dealer/3",
+  "v_salesman/4",
+  "v_offroad/3",
+  "v_offroad/1",
+  "v_suv_drive/4",
+  "v_suv_drive/1",
+  "v_dealer/2",
+  "v_ev_charge/1",
+  "v_ev_charge/4",
+  "v_port/2",
+  "v_port/3",
+  "v_small_car/4",
+  "v_wash/3",
+  "v_wash/1",
+  "v_salesman/2"
+ ]
+}

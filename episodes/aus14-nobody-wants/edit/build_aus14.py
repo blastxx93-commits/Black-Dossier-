@@ -34,7 +34,7 @@ SRC = "VFACTS Sept 2026 via CarExpert"
 
 c = ch("ch00_hook", 0.6)
 c.at(0, stat("1", "Hyundai Ioniq 9 sold in Australia · September 2026", SRC, red=True, count=False))
-c.at("A big, seven-seat electric family SUV", photo("m_ioniq9", 3, "in", cap="Hyundai Ioniq 9|1 sale in September"))
+c.at("A big, seven-seat electric family SUV", say("A 7-seat electric SUV. One buyer. One month.", "ONE", 105))
 c.at("seventy-nine different makes and models recorded zero sales", stat("79", "models with ZERO sales in September", SRC, red=True))
 c.at("Plenty more limped along", P("dealer"))
 c.at("they're slashing prices", P("money"))

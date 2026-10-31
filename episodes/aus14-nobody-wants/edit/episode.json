@@ -1,0 +1,1958 @@
+{
+ "output": "AUS14_Nobody_Wants.mp4",
+ "fps": 24,
+ "music": [
+  {
+   "file": "trilha.wav",
+   "start": 0,
+   "gain": -29,
+   "fade_in": 4,
+   "fade_out": 5
+  }
+ ],
+ "chapters": [
+  {
+   "audio": "audio/ch00_hook.flac",
+   "lead_in": 0,
+   "tail": 0.6,
+   "shots": [
+    {
+     "type": "stat",
+     "value": "1",
+     "label": "Hyundai Ioniq 9 sold in Australia \u00b7 September 2026",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "VFACTS Sept 2026 via CarExpert",
+     "color": "red",
+     "dur": 9.28,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "A 7-seat electric SUV. One buyer. One month.",
+     "highlight": "ONE",
+     "size": 105,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 10.41,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "79",
+     "label": "models with ZERO sales in September",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "VFACTS Sept 2026 via CarExpert",
+     "color": "red",
+     "dur": 4.01,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_dealer/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.3,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_calc/3_commons.jpg",
+     "move": "in",
+     "dur": 2.24,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "12 New Cars Nobody Wants",
+     "subtitle": "real sales \u00b7 real price cuts",
+     "tag": "Australia 2026",
+     "bg": "a/ai/ai_empty_yard_1.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 11.36,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Some 'disasters' aren't what they seem.",
+     "highlight": "AREN'T",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 7.58,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_suv_drive/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.406,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch01.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_traffic/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.78,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "108,778",
+     "label": "new vehicles sold \u00b7 September 2026 (+1.8%)",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "VFACTS",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_traffic/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.08,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_buyer_compare_1.jpg",
+     "move": "out",
+     "dur": 2.8,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "September 2026 sales",
+     "items": [
+      [
+       "Electric",
+       26287
+      ],
+      [
+       "Petrol",
+       26018
+      ],
+      [
+       "Diesel",
+       25173
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "VFACTS / CarExpert",
+     "dur": 10.36,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "+870%",
+     "label": "Geely sales \u00b7 Sept 2026 vs Sept 2025",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "VFACTS",
+     "dur": 7.64,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ranger/1_commons.jpg",
+     "move": "in",
+     "caption": "Ford Ranger|#1 \u00b7 5,062 sales",
+     "dur": 9.6,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Chinese models in the top 10 \u00b7 Sept 2026",
+     "items": [
+      [
+       "BYD Sealion 7",
+       2687
+      ],
+      [
+       "Chery Tiggo 4",
+       2059
+      ],
+      [
+       "GWM Haval Jolion",
+       2018
+      ],
+      [
+       "Geely EX5",
+       2008
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "VFACTS",
+     "dur": 10.48,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ex5/1_commons.jpg",
+     "move": "left",
+     "caption": "Geely EX5|+620%",
+     "dur": 7.52,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Brands going backwards \u00b7 Sept 2026",
+     "items": [
+      [
+       "Subaru",
+       -42.6,
+       "red"
+      ],
+      [
+       "Mitsubishi",
+       -41.5,
+       "red"
+      ],
+      [
+       "Volkswagen",
+       -36.9,
+       "red"
+      ],
+      [
+       "Nissan",
+       -30.0,
+       "red"
+      ],
+      [
+       "Hyundai",
+       -22.0,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "%",
+     "source": "VFACTS",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_traffic/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.08,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_luxury/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.4,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_money/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.26,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Only cars still on sale. Axed models: later.",
+     "highlight": "STILL ON SALE",
+     "size": 100,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_sedan/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 10.078,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch02.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 12,
+     "name": "Volkswagen ID.4",
+     "photo": "a/m_id4/1_commons.jpg",
+     "credit": "Photo: Alexander Migl \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "47 sales \u00b7 -73%",
+     "sub": "Sept 2026",
+     "dur": 10.58,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_tcross/1_commons.jpg",
+     "move": "right",
+     "caption": "Volkswagen T-Cross|29 sales \u00b7 -81%",
+     "dur": 4.02,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"Whenever you start selling less than 10,000 vehicles a year\u2026 you're niche.\" \u2013 VW Australia",
+     "highlight": "NICHE",
+     "size": 85,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_test_drive/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.22,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "~29,000",
+     "label": "VW sales in Australia \u00b7 2025 (down 20%+)",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "carsales",
+     "dur": 11.18,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_id4/3_commons.jpg",
+     "move": "in",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_test_drive/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.82,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_phone/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.46,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_calc/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.38,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 11,
+     "name": "Omoda 9",
+     "photo": "a/m_omoda9/1_commons.jpg",
+     "credit": "Photo: Nortoncc1 \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "35 sales \u00b7 -61.5%",
+     "sub": "$61,990 + ORC",
+     "dur": 2.1,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_omoda9/3_commons.jpg",
+     "move": "left",
+     "caption": "Omoda 9|nearly 400 kW PHEV",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_test_drive/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_test_drive/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.4,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_luxury/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.0,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Being Chinese isn't enough. The price has to make sense.",
+     "highlight": "PRICE",
+     "size": 95,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.169,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch03.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 10,
+     "name": "Renault Koleos",
+     "photo": "a/m_koleos/1_commons.jpg",
+     "credit": "Photo: Alexander-93 \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "18 sales \u00b7 -70.5%",
+     "sub": "from $36,990 drive-away",
+     "dur": 8.68,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Mid-size SUVs \u00b7 Sept 2026",
+     "items": [
+      [
+       "Toyota RAV4",
+       4624
+      ],
+      [
+       "Renault Koleos",
+       18,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "VFACTS Sept 2026 via CarExpert",
+     "dur": 8.74,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_koleos/3_commons.jpg",
+     "move": "in",
+     "caption": "Renault Koleos|from $36,990 drive-away",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_dealer/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_salesman/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.16,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Lesson 1: a low price can't save a car that feels old.",
+     "highlight": "FEELS OLD",
+     "size": 95,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_phone/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 10.83,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 9,
+     "name": "Mazda CX-70",
+     "photo": "a/m_cx70/1_commons.jpg",
+     "credit": "Photo: TTTNIS \u00b7 CC0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "16 sales \u00b7 182 this year",
+     "sub": "price cut up to $8,051",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_offroad/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.27,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Mazda large SUVs \u00b7 2026 to Sept",
+     "items": [
+      [
+       "CX-60",
+       3566
+      ],
+      [
+       "CX-80",
+       1931
+      ],
+      [
+       "CX-90",
+       470
+      ],
+      [
+       "CX-70",
+       182,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "CarsGuide",
+     "dur": 5.94,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "-$8,051",
+     "label": "biggest Mazda CX-70 price cut \u00b7 July 2026",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarExpert",
+     "color": "red",
+     "dur": 12.38,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_cx70/3_commons.jpg",
+     "move": "left",
+     "caption": "Mazda CX-70|production ending for the US",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"\u2026a small but loyal fanbase.\" \u2013 Mazda Australia",
+     "highlight": "LOYAL",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 10.574,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch04.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 8,
+     "name": "Genesis",
+     "photo": "a/m_gv80/1_commons.jpg",
+     "credit": "Photo: Alexander Migl \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "66 sales \u00b7 whole brand",
+     "sub": "-54.5%",
+     "dur": 12.72,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_gv70/1_commons.jpg",
+     "move": "in",
+     "caption": "Genesis GV70|46 sales",
+     "dur": 5.48,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Genesis EOFY offers \u00b7 July 2026",
+     "items": [
+      [
+       "GV70",
+       7000
+      ],
+      [
+       "GV80",
+       10000
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "up to $",
+     "suffix": "",
+     "source": "CarExpert",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_offroad/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.38,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_luxury/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 10.78,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 7,
+     "name": "BMW iX",
+     "photo": "a/m_bmw_ix/1_commons.jpg",
+     "credit": "Photo: Alexander Migl \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "7 sales \u00b7 -88%",
+     "sub": "Sept 2026",
+     "dur": 12.34,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ix3/1_commons.jpg",
+     "move": "right",
+     "caption": "BMW iX3|new, sharper price",
+     "dur": 4.38,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "-$8,900",
+     "label": "BMW iX1 / iX2 price cuts \u00b7 April 2026",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarExpert",
+     "color": "red",
+     "dur": 11.54,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Lesson 2: the worst enemy can be the next model in the same showroom.",
+     "highlight": "SAME SHOWROOM",
+     "size": 85,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 7.634,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch05.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_luxury/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.82,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Looked at one of these?",
+     "sub": "tell me in the comments",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 6.84,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Subscribe",
+     "sub": "numbers-first car videos",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 4.516,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch06.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 6,
+     "name": "Polestar 3",
+     "photo": "a/m_polestar3/3_commons.jpg",
+     "credit": "Photo: Alexander-93 \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "6 sales \u00b7 -88.5%",
+     "sub": "from $116,700 + ORC",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_suv_drive/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 12.12,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"\u2026maybe also a bit too expensive.\" \u2013 Polestar CEO Michael Lohscheller",
+     "highlight": "TOO EXPENSIVE",
+     "size": 85,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_suv_drive/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.4,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_polestar3/1_commons.jpg",
+     "move": "in",
+     "dur": 7.28,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 5,
+     "name": "Jeep Wrangler & Gladiator",
+     "photo": "a/m_wrangler/1_pixabay.jpg",
+     "credit": "Photo: 25790791 \u00b7 Pixabay Content License",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "9 + 5 sales",
+     "sub": "Sept 2026",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_dealer/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_gladiator/1_commons.jpg",
+     "move": "left",
+     "caption": "Jeep Gladiator|5 sales \u00b7 -80%",
+     "dur": 3.26,
+     "fixed": true
+    },
+    {
+     "type": "price",
+     "model": "Jeep Wrangler 4-door",
+     "old": "~$37,000",
+     "new": "$75,950",
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.6
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.0
+      }
+     ],
+     "old_note": "2014",
+     "new_note": "2025 (+ ORC)",
+     "source": "CarSauce",
+     "dur": 11.18,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_wrangler/3_pixabay.jpg",
+     "move": "right",
+     "dur": 7.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_dealer_lot/2_pixabay.jpg",
+     "move": "right",
+     "dur": 5.304,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch07.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 4,
+     "name": "Alfa Romeo Tonale & Stelvio",
+     "photo": "a/m_tonale/1_commons.jpg",
+     "credit": "Photo: Alexander-93 \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "2 + 2 sales",
+     "sub": "Sept 2026",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_calc/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.7,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_stelvio/1_commons.jpg",
+     "move": "in",
+     "caption": "Alfa Romeo Stelvio|2 sales",
+     "dur": 2.62,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "$64,990",
+     "label": "Alfa Romeo Tonale \u00b7 before on-road costs",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Cars24",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_money/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.49,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Small SUVs \u00b7 Sept 2026",
+     "items": [
+      [
+       "Chery Tiggo 4",
+       2059
+      ],
+      [
+       "Alfa Romeo Tonale",
+       2,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "VFACTS Sept 2026 via CarExpert",
+     "dur": 8.51,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_tiggo4/3_commons.jpg",
+     "move": "left",
+     "caption": "Chery Tiggo 4|2,059 sales",
+     "dur": 3.0,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 3,
+     "name": "Fiat 500 / Abarth",
+     "photo": "a/m_fiat500/1_commons.jpg",
+     "credit": "Photo: Petar Milo\u0161evi\u0107 \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "2 sales \u00b7 -94.7%",
+     "sub": "Sept 2026",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_calc/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.9,
+     "fixed": true
+    },
+    {
+     "type": "price",
+     "model": "Fiat 500e La Prima",
+     "old": "$52,500",
+     "new": "$38,990",
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.6
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.0
+      }
+     ],
+     "old_note": "before on-roads",
+     "new_note": "drive-away \u00b7 2025",
+     "source": "CarsGuide",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev_charge/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.52,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"\u2026clear out existing stock.\" \u2013 Fiat",
+     "highlight": "CLEAR OUT",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 6.1,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_fiat500/2_pixabay.jpg",
+     "move": "in",
+     "dur": 1.954,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch08.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 2,
+     "name": "Peugeot 308",
+     "photo": "a/m_peugeot308/1_commons.jpg",
+     "credit": "Photo: A.BourgeoisP \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "2 sales \u00b7 17 all year",
+     "sub": "Sept 2026",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev_charge/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.307,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "17",
+     "label": "Peugeot 308s sold in 2026 \u00b7 Jan\u2013Sept",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "VFACTS Sept 2026 via CarExpert",
+     "color": "red",
+     "dur": 3.713,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "July 2026: importer Inchcape to end Peugeot partnership",
+     "highlight": "INCHCAPE",
+     "size": 100,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_port/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.66,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_peugeot308/3_commons.jpg",
+     "move": "right",
+     "dur": 2.38,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 1,
+     "name": "Hyundai Ioniq 9",
+     "photo": "a/m_ioniq9/3_commons.jpg",
+     "credit": "Photo: Alexander Migl \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "1 sale in September",
+     "sub": "65 this year \u00b7 40 in 2025",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Hyundai Ioniq 9 sales in Australia",
+     "items": [
+      [
+       "2025",
+       40
+      ],
+      [
+       "2026 to Sept",
+       65
+      ],
+      [
+       "Sept 2026",
+       1,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "VFACTS Sept 2026 via CarExpert",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_port/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.34,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "~$128,000",
+     "label": "Ioniq 9 Calligraphy \u00b7 drive-away Sydney",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarExpert",
+     "dur": 6.46,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev_charge/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 12.22,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"We do a terrible job with our EVs.\" \u2013 Hyundai Australia CEO Don Romano",
+     "highlight": "TERRIBLE",
+     "size": 88,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 8.28,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_dealer_lot/3_commons.jpg",
+     "move": "in",
+     "dur": 4.723,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch09.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "Quick-Fire",
+     "subtitle": "just missed the list",
+     "tag": "honourable mentions",
+     "bg": "a/h_traffic/1_pixabay.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 6.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_cclass/1_commons.jpg",
+     "move": "in",
+     "caption": "Mercedes-Benz C-Class|39 sales \u00b7 -58%",
+     "dur": 8.12,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_xc90/1_commons.jpg",
+     "move": "left",
+     "caption": "Volvo XC90|33 sales \u00b7 -62%",
+     "dur": 4.62,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_cx90/1_commons.jpg",
+     "move": "right",
+     "caption": "Mazda CX-90|36 sales \u00b7 -33%",
+     "dur": 3.48,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_sonata/3_commons.jpg",
+     "move": "in",
+     "caption": "Hyundai Sonata|16 sales",
+     "dur": 2.16,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_superb/3_commons.jpg",
+     "move": "left",
+     "caption": "Skoda Superb|10 sales \u00b7 -55%",
+     "dur": 5.62,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_civic/1_commons.jpg",
+     "move": "right",
+     "caption": "Honda Civic|55 sales \u00b7 -38%",
+     "dur": 5.26,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_traffic/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_small_car/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.54,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "Not What It Seems",
+     "subtitle": "big drops with a reason",
+     "tag": "read the data",
+     "bg": "a/h_dealer_lot/4_pixabay.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 7.67,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_lc70/1_commons.jpg",
+     "move": "in",
+     "caption": "LandCruiser 70|-96% \u00b7 orders paused, not unloved",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_small_car/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.09,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_lc70/3_commons.jpg",
+     "move": "left",
+     "dur": 2.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_fortuner/1_commons.jpg",
+     "move": "right",
+     "caption": "Toyota Fortuner|-94% \u00b7 axed, no replacement",
+     "dur": 11.78,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ora/1_commons.jpg",
+     "move": "in",
+     "caption": "GWM Ora|-99% \u00b7 replaced by Ora 5",
+     "dur": 10.02,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_troc/1_commons.jpg",
+     "move": "left",
+     "caption": "Volkswagen T-Roc|-84% \u00b7 new generation due 2027",
+     "dur": 10.24,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Unloved \u2013 or just being replaced? Find out.",
+     "highlight": "FIND OUT",
+     "size": 115,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 9.272,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch10.flac",
+   "lead_in": 0,
+   "tail": 2.5,
+   "shots": [
+    {
+     "type": "title",
+     "title": "What It Means for You",
+     "subtitle": "deals \u2013 and traps",
+     "tag": "buyers",
+     "bg": "a/h_calc/4_pixabay.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 5.34,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Price cuts we've seen",
+     "items": [
+      [
+       "Genesis GV80",
+       10000
+      ],
+      [
+       "BMW iX1",
+       8900
+      ],
+      [
+       "Mazda CX-70",
+       8051
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "up to $",
+     "suffix": "",
+     "source": "CarExpert",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_wash/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.04,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_offroad/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.56,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_salesman_waiting_1.jpg",
+     "move": "in",
+     "dur": 8.18,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Ask about demonstrators.",
+     "highlight": "DEMONSTRATORS",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_wash/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 12.02,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_used/2_pixabay.jpg",
+     "move": "left",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_salesman/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.6,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Hard to sell new = hard to sell used.",
+     "highlight": "USED",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 7.26,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_money/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_keys/2_pixabay.jpg",
+     "move": "out",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_discount/4_pixabay.jpg",
+     "move": "in",
+     "dur": 7.68,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "#12 VW ID.4",
+      "#1 Hyundai Ioniq 9",
+      "1 sale in a month"
+     ],
+     "starts": [
+      0,
+      51,
+      97
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 2.1400000000000006
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 4.060000000000002
+      }
+     ],
+     "dur": 6.7,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Like \u00b7 Subscribe \u00b7 Share",
+     "sub": "with someone buying a new car",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 5.68,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Which one surprised you?",
+     "sub": "comments",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 2.48,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "The Ute Price War",
+     "subtitle": "Toyota & Ford are cutting",
+     "tag": "next video",
+     "bg": "a/h_traffic/2_pixabay.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 10.836,
+     "fixed": false,
+     "fade_out": 0
+    }
+   ]
+  }
+ ],
+ "size": [
+  1920,
+  1080
+ ],
+ "subtitles": "AUS14.ass"
+}
