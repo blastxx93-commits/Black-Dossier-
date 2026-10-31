@@ -1,0 +1,135 @@
+[     0s] aus15-ute-price-war: 32 planos, limite 35.0 min
+[     0s] m_ranger: 'Ford Ranger 2023'
+[     0s]     commons: 12 candidatos em 0.5s
+[     1s]     pixabay: 12 candidatos em 0.3s
+[     4s]   -> 4 imagens
+[     4s] m_ranger_phev: 'Ford Ranger PHEV'
+[     4s]     commons: 12 candidatos em 0.5s
+[     4s]     pixabay: 12 candidatos em 0.2s
+[     8s]   -> 4 imagens
+[     8s] m_hilux: 'Toyota Hilux 2025'
+[     8s]     commons: 12 candidatos em 0.6s
+[     9s]     pixabay: 12 candidatos em 0.4s
+[    12s]   -> 4 imagens
+[    12s] m_hilux_old: 'Toyota Hilux SR5'
+[    13s]     commons: 12 candidatos em 1.2s
+[    13s]     pixabay: 12 candidatos em 0.4s
+[    16s]   -> 4 imagens
+[    16s] m_everest: 'Ford Everest'
+[    17s]     commons: 12 candidatos em 0.6s
+[    17s]     pixabay: 12 candidatos em 0.2s
+[    20s]   -> 4 imagens
+[    20s] m_tasman: 'Kia Tasman'
+[    21s]     commons: 12 candidatos em 0.6s
+[    21s]     pixabay: 12 candidatos em 0.2s
+[    35s]   -> 4 imagens
+[    35s] m_shark6: 'BYD Shark 6'
+[    35s]     commons: 12 candidatos em 0.6s
+[    36s]     pixabay: 12 candidatos em 0.2s
+[    39s]   -> 4 imagens
+[    39s] m_triton: 'Mitsubishi Triton 2024'
+[    40s]     commons: 12 candidatos em 0.8s
+[    41s]     pixabay: 12 candidatos em 1.4s
+[    45s]   -> 4 imagens
+[    45s] m_cannon: 'GWM Cannon'
+[    46s]     commons: 12 candidatos em 0.9s
+[    46s]     pixabay: 12 candidatos em 0.2s
+[    49s]   -> 4 imagens
+[    49s] m_bt50: 'Mazda BT-50'
+[    50s]     commons: 12 candidatos em 0.9s
+[    50s]     pixabay: 12 candidatos em 0.3s
+[    53s]   -> 4 imagens
+[    53s] m_navara: 'Nissan Navara'
+[    53s]     commons: 12 candidatos em 0.5s
+[    54s]     pixabay: 12 candidatos em 0.2s
+[    57s]   -> 4 imagens
+[    57s] m_amarok: 'Volkswagen Amarok 2023'
+[    57s]     commons: 12 candidatos em 0.5s
+[    57s]     pixabay: 12 candidatos em 0.2s
+[    60s]   -> 4 imagens
+[    60s] m_musso: 'SsangYong Musso'
+[    61s]     commons: 12 candidatos em 0.7s
+[    61s]     pixabay: 11 candidatos em 0.2s
+[    64s]   -> 4 imagens
+[    64s] m_jac_t9: 'JAC T9'
+[    65s]     commons: 12 candidatos em 0.4s
+[    65s]     pixabay: 0 candidatos em 0.2s
+[    68s]   -> 4 imagens
+[    68s] m_dmax: 'Isuzu D-Max'
+[    77s]     commons: 12 candidatos em 8.8s
+[    77s]     pixabay: 12 candidatos em 0.4s
+[    80s]   -> 4 imagens
+[    80s] m_rav4: 'Toyota RAV4'
+[    81s]     commons: 12 candidatos em 0.6s
+[    81s]     pixabay: 12 candidatos em 0.2s
+[    84s]   -> 4 imagens
+[    84s] m_ram1500: 'Ram 1500'
+[    85s]     commons: 12 candidatos em 0.9s
+[    85s]     pixabay: 12 candidatos em 0.2s
+[    89s]   -> 4 imagens
+[    89s] m_silverado: 'Chevrolet Silverado'
+[    90s]     commons: 12 candidatos em 0.9s
+[    90s]     pixabay: 12 candidatos em 0.2s
+[    93s]   -> 4 imagens
+[    93s] m_f150: 'Ford F-150'
+[    94s]     commons: 12 candidatos em 0.6s
+[    94s]     pixabay: 12 candidatos em 0.2s
+[    97s]   -> 4 imagens
+[    97s] m_tundra: 'Toyota Tundra'
+[    98s]     commons: 12 candidatos em 0.5s
+[    98s]     pixabay: 12 candidatos em 0.2s
+[   101s]   -> 4 imagens
+[   101s] m_t60: 'LDV T60'
+[   102s]     commons: 12 candidatos em 0.6s
+[   102s]     pixabay: 0 candidatos em 0.2s
+[   134s]     falhou download (commons) em 30.0s
+[   135s]   -> 4 imagens
+[   135s] m_terron: 'LDV Terron 9'
+[   136s]     commons: 12 candidatos em 0.4s
+[   136s]     pixabay: 12 candidatos em 0.2s
+[   139s]   -> 4 imagens
+[   139s] m_ranger_tremor: 'Ford Ranger Tremor'
+[   139s]     commons: 2 candidatos em 0.7s
+[   140s]     pixabay: 12 candidatos em 0.2s
+[   147s]   -> 4 imagens
+[   147s] m_rugged_x: 'Toyota Hilux Rugged X'
+[   148s]     commons: 4 candidatos em 0.6s
+[   148s]     pixabay: 12 candidatos em 0.2s
+[   178s]     falhou download (commons) em 30.0s
+[   209s]     falhou download (commons) em 30.0s
+[   239s]     falhou download (commons) em 30.0s
+[   240s]     falhou download (commons) em 0.0s
+[   241s]   -> 4 imagens
+[   241s] h_ute_tow: 'ute towing caravan'
+[   241s]     commons: 1 candidatos em 0.4s
+[   242s]     pixabay: 12 candidatos em 0.2s
+[   245s]   -> 4 imagens
+[   245s] h_diesel: 'diesel fuel pump'
+[   246s]     commons: 12 candidatos em 0.7s
+[   246s]     pixabay: 12 candidatos em 0.2s
+[   249s]   -> 4 imagens
+[   249s] h_tradie: 'tradesman ute tools'
+[   250s]     commons: 0 candidatos em 0.4s
+[   250s]     pixabay: 12 candidatos em 0.2s
+[   253s]   -> 4 imagens
+[   253s] h_farm: 'farm ute outback'
+[   254s]     commons: 0 candidatos em 0.3s
+[   254s]     pixabay: 12 candidatos em 0.2s
+[   257s]   -> 4 imagens
+[   257s] h_dealer: 'car dealership'
+[   258s]     commons: 11 candidatos em 0.9s
+[   258s]     pixabay: 12 candidatos em 0.3s
+[   261s]   -> 4 imagens
+[   261s] h_calc: 'calculator money'
+[   262s]     commons: 9 candidatos em 0.5s
+[   262s]     pixabay: 12 candidatos em 0.2s
+[   265s]   -> 4 imagens
+[   265s] h_keys: 'car keys handover'
+[   266s]     commons: 5 candidatos em 0.5s
+[   266s]     pixabay: 12 candidatos em 0.3s
+[   269s]   -> 4 imagens
+[   269s] h_outback: 'outback road australia'
+[   270s]     commons: 11 candidatos em 0.9s
+[   270s]     pixabay: 12 candidatos em 0.2s
+[   273s]   -> 4 imagens
+[   277s] fim: 128 imagens
