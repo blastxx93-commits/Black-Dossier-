@@ -1,130 +1,15 @@
-[     0s] aus13-brands-2027: 31 planos, limite 35.0 min
-[     0s] m_wrangler: 'Jeep Wrangler'
-[     1s]     commons: 12 candidatos em 0.6s
-[     1s]     pixabay: 12 candidatos em 0.2s
-[     4s]   -> 4 imagens
-[     4s] m_grand_cherokee: 'Jeep Grand Cherokee'
-[     4s]     commons: 12 candidatos em 0.6s
-[     4s]     pixabay: 12 candidatos em 0.1s
-[     7s]   -> 4 imagens
-[     7s] m_compass: 'Jeep Compass'
-[     7s]     commons: 12 candidatos em 0.3s
-[     7s]     pixabay: 12 candidatos em 0.1s
-[     9s]   -> 3 imagens
-[     9s] m_gladiator: 'Jeep Gladiator'
-[    10s]     commons: 12 candidatos em 0.6s
-[    10s]     pixabay: 12 candidatos em 0.1s
-[    12s]   -> 3 imagens
-[    12s] m_avenger: 'Jeep Avenger'
-[    12s]     commons: 12 candidatos em 0.5s
-[    12s]     pixabay: 12 candidatos em 0.1s
-[    14s]   -> 3 imagens
-[    14s] m_peugeot_5008: 'Peugeot 5008'
-[    15s]     commons: 12 candidatos em 0.6s
-[    15s]     pixabay: 12 candidatos em 0.1s
-[    18s]   -> 4 imagens
-[    18s] m_peugeot_3008: 'Peugeot 3008'
-[    18s]     commons: 12 candidatos em 0.4s
-[    18s]     pixabay: 12 candidatos em 0.1s
-[    20s]   -> 3 imagens
-[    20s] m_partner: 'Peugeot Partner'
-[    21s]     commons: 12 candidatos em 0.7s
-[    21s]     pixabay: 12 candidatos em 0.2s
-[    23s]   -> 3 imagens
-[    23s] m_jaguar: 'Jaguar F-Pace'
-[    23s]     commons: 0 candidatos em 0.1s
-[    23s]     pixabay: 12 candidatos em 0.2s
-[    26s]   -> 4 imagens
-[    26s] m_jaguar_type00: 'Jaguar Type 00'
-[    26s]     commons: 0 candidatos em 0.2s
-[    26s]     pixabay: 12 candidatos em 0.1s
-[    28s]   -> 3 imagens
-[    28s] m_alfa: 'Alfa Romeo Tonale'
-[    29s]     commons: 12 candidatos em 0.6s
-[    29s]     pixabay: 12 candidatos em 0.1s
-[    31s]   -> 4 imagens
-[    31s] m_outlander: 'Mitsubishi Outlander 2022'
-[    32s]     commons: 12 candidatos em 0.8s
-[    32s]     pixabay: 12 candidatos em 0.1s
-[    35s]   -> 4 imagens
-[    35s] m_triton: 'Mitsubishi Triton 2024'
-[    35s]     commons: 12 candidatos em 0.5s
-[    36s]     pixabay: 12 candidatos em 0.2s
-[    38s]   -> 3 imagens
-[    38s] m_pajero: 'Mitsubishi Pajero 2027'
-[    38s]     commons: 0 candidatos em 0.5s
-[    38s]     pixabay: 12 candidatos em 0.1s
-[    40s]   -> 3 imagens
-[    40s] m_forester: 'Subaru Forester 2025'
-[    41s]     commons: 12 candidatos em 0.7s
-[    41s]     pixabay: 12 candidatos em 0.1s
-[    44s]   -> 4 imagens
-[    44s] m_outback: 'Subaru Outback'
-[    44s]     commons: 12 candidatos em 0.4s
-[    44s]     pixabay: 12 candidatos em 0.1s
-[    46s]   -> 3 imagens
-[    46s] m_xtrail: 'Nissan X-Trail 2023'
-[    47s]     commons: 12 candidatos em 0.5s
-[    47s]     pixabay: 12 candidatos em 0.1s
-[    49s]   -> 4 imagens
-[    49s] m_patrol: 'Nissan Patrol'
-[    73s]   ! commons.wikimedia.org: 429 rate limit
-[    73s]     commons: 0 candidatos em 24.1s
-[    74s]     pixabay: 12 candidatos em 0.1s
-[    76s]   -> 3 imagens
-[    76s] m_cx5: 'Mazda CX-5'
-[    84s]     commons: 12 candidatos em 8.5s
-[    84s]     pixabay: 12 candidatos em 0.1s
-[    87s]   -> 4 imagens
-[    87s] m_cx6e: 'Mazda CX-6e'
-[    87s]     commons: 12 candidatos em 0.4s
-[    87s]     pixabay: 11 candidatos em 0.1s
-[    89s]   -> 3 imagens
-[    89s] m_byd: 'BYD Sealion 7'
-[    89s]     commons: 12 candidatos em 0.4s
-[    89s]     pixabay: 12 candidatos em 0.1s
-[    91s]   -> 3 imagens
-[    91s] m_leapmotor: 'Leapmotor C10'
-[    92s]     commons: 12 candidatos em 0.4s
-[    92s]     pixabay: 0 candidatos em 0.1s
-[    94s]   -> 3 imagens
-[    94s] m_holden: 'Holden Commodore'
-[    95s]     commons: 12 candidatos em 0.9s
-[    95s]     pixabay: 12 candidatos em 0.1s
-[    97s]   -> 4 imagens
-[    97s] m_citroen: 'Citroen C5 Aircross'
-[    98s]     commons: 12 candidatos em 0.7s
-[    98s]     pixabay: 12 candidatos em 0.2s
-[   101s]   -> 3 imagens
-[   101s] h_closed: 'closed shop sign'
-[   101s]   ! unsplash: 403 Client Error: Forbidden for url: https://api.unsplash.com/search/photos?query=closed+shop+sign&per_page=12&orientation=landscape&content
-[   101s]     unsplash: 0 candidatos em 0.7s
-[   102s]     pixabay: 12 candidatos em 0.2s
-[   104s]   -> 4 imagens
-[   104s] h_dealer_empty: 'empty car showroom'
-[   105s]   ! unsplash: 403 Client Error: Forbidden for url: https://api.unsplash.com/search/photos?query=empty+car+showroom&per_page=12&orientation=landscape&conte
-[   105s]     unsplash: 0 candidatos em 0.5s
-[   105s]     pixabay: 12 candidatos em 0.2s
-[   108s]   -> 4 imagens
-[   108s] h_parts: 'car parts shelves'
-[   108s]   ! unsplash: 403 Client Error: Forbidden for url: https://api.unsplash.com/search/photos?query=car+parts+shelves&per_page=12&orientation=landscape&conten
-[   108s]     unsplash: 0 candidatos em 0.5s
-[   108s]     pixabay: 12 candidatos em 0.1s
-[   111s]   -> 4 imagens
-[   111s] h_mechanic: 'car mechanic'
-[   111s]     unsplash: 0 candidatos em 0.0s
-[   111s]     pixabay: 12 candidatos em 0.2s
-[   114s]   -> 4 imagens
-[   114s] h_used: 'used car lot'
-[   114s]     unsplash: 0 candidatos em 0.0s
-[   114s]     pixabay: 12 candidatos em 0.2s
-[   117s]   -> 4 imagens
-[   117s] h_keys: 'car keys'
-[   117s]     unsplash: 0 candidatos em 0.0s
-[   117s]     pixabay: 12 candidatos em 0.1s
-[   120s]   -> 4 imagens
-[   120s] h_docs: 'documents warranty'
-[   120s]     unsplash: 0 candidatos em 0.0s
-[   120s]     pixabay: 12 candidatos em 0.2s
-[   123s]   -> 4 imagens
-[   126s] fim: 110 imagens
+[     0s] aus13-brands-2027: 3 planos, limite 35.0 min
+[     0s] m_jaguar_car: 'Jaguar F-Pace'
+[     0s]     commons: 12 candidatos em 0.5s
+[     4s]   -> 6 imagens
+[     4s] h_showroom2: 'car showroom interior'
+[     5s]   ! unsplash: 403 Client Error: Forbidden for url: https://api.unsplash.com/search/photos?query=car+showroom+interior&per_page=12&orientation=landscape&co
+[     5s]     unsplash: 0 candidatos em 0.8s
+[     5s]     pixabay: 12 candidatos em 0.3s
+[    11s]   -> 6 imagens
+[    11s] h_workshop2: 'modern car service workshop'
+[    12s]   ! unsplash: 403 Client Error: Forbidden for url: https://api.unsplash.com/search/photos?query=modern+car+service+workshop&per_page=12&orientation=landsc
+[    12s]     unsplash: 0 candidatos em 0.6s
+[    12s]     pixabay: 12 candidatos em 0.2s
+[    17s]   -> 6 imagens
+[    17s] fim: 18 imagens
