@@ -1,0 +1,86 @@
+[     0s] aus11-used-ev-2027: 21 planos, limite 35.0 min
+[     0s] m_model_y: 'Tesla Model Y'
+[     0s]     commons: 12 candidatos em 0.4s
+[     1s]     pixabay: 12 candidatos em 0.2s
+[     3s]   -> 4 imagens
+[     3s] m_model_3: 'Tesla Model 3'
+[     4s]     commons: 12 candidatos em 0.4s
+[     4s]     pixabay: 12 candidatos em 0.1s
+[     6s]   -> 4 imagens
+[     6s] m_atto3: 'BYD Atto 3'
+[     7s]     commons: 12 candidatos em 0.4s
+[     7s]     pixabay: 12 candidatos em 0.1s
+[    10s]   -> 4 imagens
+[    10s] m_mg4: 'MG4 Electric'
+[    10s]     commons: 12 candidatos em 0.6s
+[    10s]     pixabay: 12 candidatos em 0.1s
+[    13s]   -> 4 imagens
+[    13s] m_kona_ev: 'Hyundai Kona Electric'
+[    14s]     commons: 12 candidatos em 0.5s
+[    14s]     pixabay: 12 candidatos em 0.1s
+[    17s]   -> 4 imagens
+[    17s] m_ora: 'GWM Ora'
+[    17s]     commons: 12 candidatos em 0.5s
+[    17s]     pixabay: 12 candidatos em 0.1s
+[    20s]   -> 4 imagens
+[    20s] m_polestar2: 'Polestar 2'
+[    20s]     commons: 12 candidatos em 0.5s
+[    20s]     pixabay: 12 candidatos em 0.1s
+[    23s]   -> 4 imagens
+[    23s] m_atto1: 'BYD Atto 1'
+[    23s]     commons: 12 candidatos em 0.3s
+[    23s]     pixabay: 12 candidatos em 0.1s
+[    25s]   -> 3 imagens
+[    25s] m_ioniq5: 'Hyundai Ioniq 5'
+[    26s]     commons: 12 candidatos em 0.3s
+[    26s]     pixabay: 12 candidatos em 0.1s
+[    28s]   -> 3 imagens
+[    28s] m_ev6: 'Kia EV6'
+[    28s]     commons: 12 candidatos em 0.2s
+[    28s]     pixabay: 8 candidatos em 0.1s
+[    30s]   -> 3 imagens
+[    30s] h_used_lot: 'used car lot'
+[    31s]     unsplash: 5 candidatos em 0.9s
+[    31s]     pixabay: 12 candidatos em 0.1s
+[    35s]   -> 4 imagens
+[    35s] h_auction: 'car auction'
+[    36s]     unsplash: 12 candidatos em 0.7s
+[    36s]     pixabay: 12 candidatos em 0.2s
+[    39s]   -> 4 imagens
+[    39s] h_ev_charge: 'electric car charging'
+[    39s]     unsplash: 12 candidatos em 0.5s
+[    39s]     pixabay: 12 candidatos em 0.1s
+[    42s]   -> 4 imagens
+[    42s] h_battery: 'electric car battery'
+[    43s]     unsplash: 12 candidatos em 0.7s
+[    43s]     pixabay: 12 candidatos em 0.1s
+[    46s]   -> 4 imagens
+[    46s] h_keys: 'car keys handover'
+[    47s]     unsplash: 12 candidatos em 0.8s
+[    47s]     pixabay: 12 candidatos em 0.1s
+[    50s]   -> 4 imagens
+[    50s] h_calc: 'calculator money'
+[    51s]     unsplash: 12 candidatos em 0.8s
+[    51s]     pixabay: 12 candidatos em 0.1s
+[    54s]   -> 4 imagens
+[    54s] h_fuel: 'petrol station price'
+[    55s]     unsplash: 12 candidatos em 0.8s
+[    55s]     pixabay: 12 candidatos em 0.1s
+[    58s]   -> 4 imagens
+[    58s] h_country: 'country town australia'
+[    59s]     unsplash: 10 candidatos em 0.8s
+[    59s]     pixabay: 12 candidatos em 0.1s
+[    64s]   -> 4 imagens
+[    64s] h_laptop: 'car listing online laptop'
+[    65s]     unsplash: 12 candidatos em 0.9s
+[    65s]     pixabay: 12 candidatos em 0.1s
+[    68s]   -> 4 imagens
+[    68s] h_mechanic: 'mechanic inspecting car'
+[    69s]     unsplash: 12 candidatos em 0.8s
+[    69s]     pixabay: 12 candidatos em 0.1s
+[    72s]   -> 4 imagens
+[    72s] h_tyre: 'car tyre'
+[    73s]     unsplash: 12 candidatos em 0.7s
+[    73s]     pixabay: 12 candidatos em 0.1s
+[    76s]   -> 4 imagens
+[    79s] fim: 81 imagens
