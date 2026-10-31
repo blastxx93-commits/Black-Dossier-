@@ -88,10 +88,29 @@ def fit(d, text, name, size, max_w):
     return font(name, 40)
 
 
+def big_words(d, words, x0, max_w):
+    """4 huge words stacked one per line (white / yellow alternating); each line as big as it can be, short words capped
+    so the block stays balanced, the whole block scaled to fit the frame height."""
+    lines = words
+    sizes = [fit(d, l, "InterDisplay-Black.otf", 230, max_w).size for l in lines]
+    cap = int(sorted(sizes)[len(sizes) // 2] * 1.15)        # stop 3-letter words from becoming giant
+    sizes = [min(s_, cap) for s_ in sizes]
+    total = sum(int(s_ * 0.96) for s_ in sizes)
+    k = min(1.0, (H - 50) / total)
+    sizes = [int(s_ * k) for s_ in sizes]
+    y = max(20, (H - sum(int(s_ * 0.96) for s_ in sizes)) // 2)
+    cols = [WHITE, YEL, WHITE, YEL]
+    for i, (l, s_) in enumerate(zip(lines, sizes)):
+        f = font("InterDisplay-Black.otf", s_)
+        outlined(d, (x0, y - int(s_ * 0.12)), l, f, cols[i % 4], max(8, s_ // 18))
+        y += int(s_ * 0.96)
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--bg", required=True); ap.add_argument("--persona"); ap.add_argument("--out", required=True)
-    ap.add_argument("--line1", required=True); ap.add_argument("--line2", required=True)
+    ap.add_argument("--line1", default=""); ap.add_argument("--line2", default="")
+    ap.add_argument("--words", default="", help="channel rule from 31/10/2026: only 4 big words, e.g. 'NOBODY WANTS THESE CARS'")
     ap.add_argument("--tag", default=""); ap.add_argument("--badge", default=""); ap.add_argument("--badge-sub", default="")
     ap.add_argument("--blur", type=float, default=3.5); ap.add_argument("--text-side", default="left")
     a = ap.parse_args()
@@ -101,6 +120,11 @@ def main():
     d = ImageDraw.Draw(canvas)
     max_w = W * (0.62 if a.persona else 0.9)
     x0 = 40 if a.text_side == "left" else W - 40 - max_w
+    if a.words:
+        big_words(d, a.words.upper().split(), x0, W * (0.56 if a.persona else 0.9))
+        canvas.convert("RGB").save(a.out, quality=93)
+        print("thumbnail ->", a.out)
+        return
     f1 = fit(d, a.line1, "InterDisplay-Black.otf", 120, max_w)
     f2 = fit(d, a.line2, "InterDisplay-Black.otf", 140, max_w)
     y2 = H - 40 - f2.size
