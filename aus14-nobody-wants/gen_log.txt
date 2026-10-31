@@ -1,0 +1,32 @@
+ai_empty_yard_1: Gemini falhou (Gemini 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and ), tentando Replicate
+ai_empty_yard_1: 2752x1536
+ai_salesman_waiting_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_salesman_waiting_1: 2752x1536
+ai_price_cut_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_price_cut_1: 2752x1536
+ai_buyer_compare_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_buyer_compare_1: 2752x1536
+ai_demo_car_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_demo_car_1: 2752x1536
+persona_shocked_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+persona_shocked_1: 2752x1536
+persona_shocked_2: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+persona_shocked_2: 2752x1536
+# Imagens IA — aus14-nobody-wants
+
+- Modelo: `gemini-2.5-flash-image`
+- Imagens geradas: 7
+- Folhas: ai_contact_sheet_1.jpg
+
+| plano | resultado |
+|---|---|
+| `ai_empty_yard` | 1 de 1 |
+| `ai_salesman_waiting` | 1 de 1 |
+| `ai_price_cut` | 1 de 1 |
+| `ai_buyer_compare` | 1 de 1 |
+| `ai_demo_car` | 1 de 1 |
+| `persona_shocked` | 2 de 2 |
+
