@@ -1,0 +1,2017 @@
+{
+ "output": "AUS12_GWM_vs_RAV4.mp4",
+ "fps": 24,
+ "music": [
+  {
+   "file": "trilha.wav",
+   "start": 0,
+   "gain": -29,
+   "fade_in": 4,
+   "fade_out": 5
+  }
+ ],
+ "chapters": [
+  {
+   "audio": "audio/ch00_hook.flac",
+   "lead_in": 0,
+   "tail": 0.6,
+   "shots": [
+    {
+     "type": "stat",
+     "value": "$49,990",
+     "label": "drive-away \u00b7 2027 GWM Haval H7 PHEV",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "GWM / CarExpert",
+     "dur": 3.2,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "320 kW",
+     "label": "AWD \u00b7 137 km claimed EV range (WLTC)",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "GWM",
+     "dur": 12.78,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Launch: 2 November 2026",
+     "highlight": "2 NOVEMBER",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 6.34,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_rav4_phev/1_commons.jpg",
+     "move": "in",
+     "caption": "Toyota RAV4 PHEV|best-selling PHEV \u00b7 July 2026",
+     "dur": 7.92,
+     "fixed": true
+    },
+    {
+     "type": "price",
+     "model": "Plug-in hybrid SUVs",
+     "old": "$58,840",
+     "new": "$49,990",
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.6
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.0
+      }
+     ],
+     "old_note": "RAV4 XSE FWD + ORC",
+     "new_note": "H7 Lux drive-away",
+     "source": "Toyota / GWM",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_suv_drive/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.66,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Is it really that simple?",
+     "highlight": "SIMPLE",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.02,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Price",
+      "Power & range",
+      "Towing & warranty",
+      "Resale"
+     ],
+     "starts": [
+      0,
+      29,
+      56,
+      97
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.240000000000002
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 2.3599999999999994
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 4.079999999999998
+      }
+     ],
+     "dur": 6.2,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_calc/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.7,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "GWM vs Toyota",
+     "subtitle": "the plug-in hybrid fight",
+     "tag": "2027",
+     "bg": "a/ai/ai_boxy_suv_1.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 7.348,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch01.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_dealer/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_country/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_jolion/1_commons.jpg",
+     "move": "left",
+     "caption": "GWM Haval Jolion|a 2026 best-seller",
+     "dur": 10.8,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Sales change \u00b7 Sept 2026 vs Sept 2025",
+     "items": [
+      [
+       "Geely",
+       870
+      ],
+      [
+       "Omoda Jaecoo",
+       344
+      ],
+      [
+       "Leapmotor",
+       106
+      ],
+      [
+       "BYD",
+       61
+      ],
+      [
+       "Toyota",
+       -3.5,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "%",
+     "source": "VFACTS",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_country/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 12.14,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_suv_city/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.24,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "The challenger",
+     "highlight": "CHALLENGER",
+     "size": 150,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 7.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_h7/1_commons.jpg",
+     "move": "in",
+     "caption": "Outgoing Haval H7|replaced after ~1 year",
+     "dur": 11.3,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "GWM deliveries to end of July 2026",
+     "items": [
+      [
+       "Old Haval H7",
+       636,
+       "red"
+      ],
+      [
+       "Haval H6",
+       8759
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "CarExpert",
+     "dur": 10.5,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "4,680 mm",
+     "label": "long \u00b7 4,800 with spare \u00b7 1,950 wide \u00b7 2,738 wheelbase",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarExpert",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_country/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.3,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_suv_offroad/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.3,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Hybrid or plug-in hybrid \u00b7 AWD standard",
+     "highlight": "AWD",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.2,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "182 kW",
+     "label": "H7 hybrid \u00b7 670 Nm \u00b7 7.0 L/100 km claimed",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "GWM",
+     "dur": 12.48,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "33.7 kWh",
+     "label": "PHEV battery",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "GWM",
+     "dur": 7.66,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "320 kW",
+     "label": "0\u2013100 km/h in 4.9 s claimed",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "GWM",
+     "dur": 10.16,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "H7 PHEV claimed range (WLTC)",
+     "items": [
+      [
+       "Electric only",
+       137
+      ],
+      [
+       "Combined",
+       844
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": " km",
+     "source": "GWM",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_highway/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.02,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "~1,500",
+     "label": "expressions of interest after its debut",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "GWM Australia",
+     "dur": 10.78,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"We have high expectations for the all-new Haval H7.\" \u2013 Steve Maciver, GWM",
+     "highlight": "HIGH",
+     "size": 92,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.031,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch02.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_money/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.46,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Haval H7 drive-away launch prices",
+     "items": [
+      [
+       "Lux hybrid",
+       45990
+      ],
+      [
+       "Lux PHEV",
+       49990
+      ],
+      [
+       "Vanta hybrid",
+       49990
+      ],
+      [
+       "Vanta PHEV",
+       53990
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "$",
+     "suffix": "",
+     "source": "CarExpert / Cars24",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_highway/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.34,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "+$1,000 on Lux grades after 30 November",
+     "highlight": "30 NOVEMBER",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_family/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.63,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_interior/1_pixabay.jpg",
+     "move": "left",
+     "dur": 6.05,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_interior/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.46,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "7-seat H7 due in 2027",
+     "highlight": "2027",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 2.72,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_jolion/3_commons.jpg",
+     "move": "right",
+     "caption": "Haval Jolion Premium|$23,990 drive-away",
+     "dur": 12.3,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_h6/1_commons.jpg",
+     "move": "in",
+     "caption": "Haval H6 hybrid Lux|$37,990 drive-away",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_suv_offroad/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.08,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Drive-away \u2260 before on-roads",
+     "highlight": "\u2260",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 6.79,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_money/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.69,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Compare drive-away with drive-away.",
+     "highlight": "DRIVE-AWAY",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.416,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch03.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "statement",
+     "text": "The champion",
+     "highlight": "CHAMPION",
+     "size": 150,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 1.54,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_rav4/1_commons.jpg",
+     "move": "in",
+     "caption": "Toyota RAV4",
+     "dur": 10.593,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "39%",
+     "label": "of RAV4 sales were PHEV \u00b7 July 2026 (~2,170)",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarExpert",
+     "dur": 12.867,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_country/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 1.58,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "RAV4 PHEV prices (+ on-road costs)",
+     "items": [
+      [
+       "XSE FWD",
+       58840
+      ],
+      [
+       "XSE AWD",
+       63340
+      ],
+      [
+       "GR Sport AWD",
+       66340
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "$",
+     "suffix": "",
+     "source": "Toyota / CarExpert",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_plug/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 10.08,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_rav4_phev/3_commons.jpg",
+     "move": "left",
+     "caption": "RAV4 PHEV|201 kW FWD \u00b7 121 km EV range",
+     "dur": 10.54,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_rav4b/1_commons.jpg",
+     "move": "right",
+     "caption": "RAV4 GX hybrid 2WD|from $45,990 + ORC",
+     "dur": 10.08,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Same number \u2013 but drive-away and AWD.",
+     "highlight": "AWD",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 11.748,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch04.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "Side by Side",
+     "subtitle": "plug-in vs plug-in",
+     "tag": "head to head",
+     "bg": "a/h_suv_family/1_unsplash.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 3.94,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Price",
+     "items": [
+      [
+       "H7 Lux PHEV (drive-away)",
+       49990
+      ],
+      [
+       "RAV4 XSE FWD (+ ORC)",
+       58840,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "$",
+     "suffix": "",
+     "source": "GWM / Toyota",
+     "dur": 5.44,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Power",
+     "items": [
+      [
+       "H7 PHEV",
+       320
+      ],
+      [
+       "RAV4 PHEV FWD",
+       201
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": " kW",
+     "source": "GWM / Toyota",
+     "dur": 2.26,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Claimed electric range",
+     "items": [
+      [
+       "H7 PHEV (WLTC)",
+       137
+      ],
+      [
+       "RAV4 PHEV",
+       121
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": " km",
+     "source": "GWM / Toyota",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_test_drive/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.24,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "~$9,000",
+     "label": "cheaper before the RAV4's on-road costs",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "dur": 8.96,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev_charge/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 10.68,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_interior/2_pixabay.jpg",
+     "move": "right",
+     "dur": 9.94,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_parking/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.38,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_suv_city/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.18,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev_charge/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.32,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Example only \u2013 not official figures",
+     "highlight": "EXAMPLE",
+     "size": 115,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 9.68,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Example: 14,600 km a year",
+     "items": [
+      [
+       "Petrol \u00b7 7 L/100km @ $2",
+       2044,
+       "red"
+      ],
+      [
+       "Electric \u00b7 20 kWh/100km @ 30c",
+       876
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "$",
+     "suffix": "",
+     "source": "Illustration",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_test_drive/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 10.94,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_traffic/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.9,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "What the brochure doesn't tell you\u2026",
+     "highlight": "BROCHURE",
+     "size": 115,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.584,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch05.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "cta",
+     "text": "GWM or Toyota?",
+     "sub": "tell me in the comments",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 12.54,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Subscribe",
+     "sub": "honest, fact-checked comparisons",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 4.155,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch06.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "Towing",
+     "subtitle": "check before you buy",
+     "tag": "#1",
+     "bg": "a/ai/ai_suv_caravan_1.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 2.68,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "1,500 kg",
+     "label": "H7 braked towing \u00b7 hybrid and PHEV",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarExpert",
+     "dur": 10.72,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_test_drive/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 10.5,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "Warranty",
+     "subtitle": "read the fine print",
+     "tag": "#2",
+     "bg": "a/h_dealer/1_unsplash.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 2.22,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "7 yrs",
+     "label": "GWM warranty \u00b7 unlimited km \u00b7 battery 8 yrs",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "GWM Australia",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_parking/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.98,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Battery health \u226570% isn't a warranty defect \u2013 GWM",
+     "highlight": "70%",
+     "size": 100,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.46,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Toyota warranty (if serviced to schedule)",
+     "items": [
+      [
+       "Base",
+       5
+      ],
+      [
+       "Engine & driveline",
+       7
+      ],
+      [
+       "Hybrid battery",
+       10
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": " yrs",
+     "source": "CarsGuide",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_parking/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.86,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_dealer/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.654,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch07.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "statement",
+     "text": "No FBT exemption for plug-in hybrids",
+     "highlight": "PLUG-IN",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 7.29,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "1 Apr 2025",
+     "label": "PHEVs lost the novated lease FBT exemption",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "ATO",
+     "dur": 10.77,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev_charge/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.9,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "Resale Value",
+     "subtitle": "the big one",
+     "tag": "#3",
+     "bg": "a/m_rav4b/3_commons.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 5.3,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "88%",
+     "label": "value kept by a 2-year-old Toyota RAV4",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Pickles / Datium \u00b7 2025",
+     "dur": 11.9,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "New H7: no resale data yet",
+     "highlight": "NO",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 10.54,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_h7/3_commons.jpg",
+     "move": "left",
+     "caption": "Outgoing Haval H7|replaced after ~1 year",
+     "dur": 8.98,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"\u2026will lose value as soon as we hit 2027.\" \u2013 Cars24 reader",
+     "highlight": "LOSE VALUE",
+     "size": 92,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_suv_drive/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.32,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_dealer/4_pixabay.jpg",
+     "move": "down",
+     "dur": 5.64,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Average premium rise in a year",
+     "items": [
+      [
+       "EVs",
+       10
+      ],
+      [
+       "Some PHEVs (e.g. Sealion 6)",
+       18,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "+",
+     "suffix": "%",
+     "source": "Compare the Market \u00b7 Apr 2026",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_traffic/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 11.06,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_calc/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.86,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "$9,000 cheaper \u2013 but $10,000 more lost?",
+     "highlight": "LOST",
+     "size": 105,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 6.869,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch08.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/h_keys/1_unsplash.jpg",
+     "move": "in",
+     "dur": 5.66,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_keys/3_unsplash.jpg",
+     "move": "left",
+     "dur": 8.36,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Parts and repairers matter.",
+     "highlight": "REPAIRERS",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_highway/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.06,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_suv_family/3_unsplash.jpg",
+     "move": "out",
+     "dur": 3.7,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Toyota isn't standing still.",
+     "highlight": "STANDING STILL",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.0,
+     "fixed": true
+    },
+    {
+     "type": "price",
+     "model": "Toyota RAV4 PHEV",
+     "old": "$58,840",
+     "new": "~$53,990",
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.6
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.0
+      }
+     ],
+     "old_note": "XSE FWD now",
+     "new_note": "GXL 2027 (estimate)",
+     "source": "CarExpert",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_parking/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 11.02,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "RAV4 GXL PHEV \u00b7 early 2027 \u00b7 price TBC",
+     "highlight": "GXL",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ev_charge/2_pixabay.jpg",
+     "move": "right",
+     "dur": 5.08,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_outlander/1_commons.jpg",
+     "move": "left",
+     "caption": "Mitsubishi Outlander PHEV|from $58,990 + ORC",
+     "dur": 7.2,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "NVES passenger car target",
+     "items": [
+      [
+       "2026",
+       117
+      ],
+      [
+       "2027",
+       92,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": " g/km",
+     "source": "Federal government",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ev_charge/3_unsplash.jpg",
+     "move": "in",
+     "dur": 10.28,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_rav4b/2_pixabay.jpg",
+     "move": "in",
+     "caption": "Toyota hybrids|earning NVES credits",
+     "dur": 10.98,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_money/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_caravan/1_unsplash.jpg",
+     "move": "up",
+     "dur": 5.46,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "4,912 mm",
+     "label": "7-seat H7 length \u00b7 2,850 mm wheelbase",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "GWM",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_caravan/2_pixabay.jpg",
+     "move": "out",
+     "dur": 7.3,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_sealion6/1_commons.jpg",
+     "move": "right",
+     "caption": "BYD Sealion 6|PHEV rival",
+     "dur": 7.4,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_tiggo8/1_commons.jpg",
+     "move": "in",
+     "caption": "Chery Tiggo 8|PHEV rival",
+     "dur": 9.46,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "BYD: #2 brand \u00b7 September 2026",
+     "highlight": "#2",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.395,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch09.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "Which Should You Buy?",
+     "subtitle": "how I'd decide",
+     "tag": "verdict",
+     "bg": "a/ai/ai_family_suv_1.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 3.2,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "H7: price \u00b7 power \u00b7 EV range",
+     "highlight": "H7",
+     "size": 125,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 6.62,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev_charge/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 11.5,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "RAV4: resale \u00b7 reputation \u00b7 network",
+     "highlight": "RAV4",
+     "size": 125,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 9.88,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_price_compare_1.jpg",
+     "move": "in",
+     "dur": 9.16,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_phev_home_1.jpg",
+     "move": "up",
+     "dur": 9.58,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_fuel/1_unsplash.jpg",
+     "move": "out",
+     "dur": 11.46,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "$3.50/L",
+     "label": "diesel peak in parts of Australia \u00b7 May 2026",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarExpert",
+     "color": "red",
+     "dur": 8.74,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_interior/3_pixabay.jpg",
+     "move": "down",
+     "dur": 11.84,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_dealer/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 10.78,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Test drive both",
+      "Drive-away vs drive-away",
+      "Check towing",
+      "Real running costs"
+     ],
+     "starts": [
+      0,
+      27,
+      98,
+      148
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.1400000000000006
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 4.1000000000000085
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 6.180000000000007
+      }
+     ],
+     "dur": 12.339,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch10.flac",
+   "lead_in": 0,
+   "tail": 2.5,
+   "shots": [
+    {
+     "type": "statement",
+     "text": "H7 Lux: +$1,000 after 30 November",
+     "highlight": "30 NOVEMBER",
+     "size": 115,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 8.94,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_calc/2_pixabay.jpg",
+     "move": "in",
+     "dur": 7.98,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_calc/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.2,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Did GWM just undercut the RAV4?",
+     "highlight": "UNDERCUT",
+     "size": 115,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 9.556,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "$49,990",
+     "label": "drive-away \u00b7 320 kW \u00b7 137 km claimed",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "GWM",
+     "dur": 10.584,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_calc/4_pixabay.jpg",
+     "move": "left",
+     "dur": 9.32,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "The real winner: you.",
+     "highlight": "YOU",
+     "size": 150,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Like \u00b7 Subscribe \u00b7 Share",
+     "sub": "with someone shopping for an SUV",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 5.38,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "GWM or Toyota?",
+     "sub": "comments",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 3.1,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "Brands That May Not Survive 2027",
+     "subtitle": "and what it means for owners",
+     "tag": "next video",
+     "bg": "a/h_ev_charge/1_unsplash.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 10.376,
+     "fixed": false,
+     "fade_out": 0
+    }
+   ]
+  }
+ ],
+ "size": [
+  1920,
+  1080
+ ],
+ "subtitles": "AUS12.ass"
+}

@@ -30,7 +30,7 @@ RES = ["m_h7/1", "m_h7/3", "m_h7/4", "m_rav4/1", "m_rav4_phev/1", "m_rav4_phev/3
 A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FALLBACK,
         ["suv", "dealer", "money", "charge", "toyota"], reserved=RES)
 A.CLIP_TARGET = 0.55   # channel request (31/10): more clips
-A.MAX_HOLD, A.KEEP = 11.0, 7.5
+A.MAX_HOLD, A.KEEP = 13.0, 8.5
 chapters = []
 
 c = ch("ch00_hook", 0.6)

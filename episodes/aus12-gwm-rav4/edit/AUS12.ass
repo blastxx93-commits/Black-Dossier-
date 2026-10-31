@@ -1,0 +1,347 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Doc,Inter SemiBold,44,&H0000E6FF,&H0000E6FF,&H00000000,&H96000000,0,0,0,0,100,100,0.5,0,1,2.4,1.2,2,200,200,62,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.27,Doc,,0,0,0,,Forty-nine thousand, nine hundred\Nand ninety dollars drive-away.
+Dialogue: 0,0:00:03.32,0:00:06.27,Doc,,0,0,0,,For a 320-kilowatt plug-in hybrid SUV,
+Dialogue: 0,0:00:06.32,0:00:11.13,Doc,,0,0,0,,with all-wheel drive and 137\Nkilometres of electric range.
+Dialogue: 0,0:00:11.18,0:00:16.05,Doc,,0,0,0,,That's the price of the new 2027\NGWM Haval H7 plug-in hybrid,
+Dialogue: 0,0:00:16.10,0:00:20.53,Doc,,0,0,0,,which officially launches in\NAustralia on the 2nd of November 2026.
+Dialogue: 0,0:00:20.58,0:00:22.39,Doc,,0,0,0,,And it's aimed squarely at one car:
+Dialogue: 0,0:00:22.44,0:00:25.87,Doc,,0,0,0,,the Toyota RAV4 one of the\Nbest-selling cars in the country,
+Dialogue: 0,0:00:25.92,0:00:30.31,Doc,,0,0,0,,and, in July 2026, the best-selling\Nplug-in hybrid in Australia.
+Dialogue: 0,0:00:30.36,0:00:36.55,Doc,,0,0,0,,The cheapest RAV4 plug-in hybrid you\Ncan buy right now starts at $58,840
+Dialogue: 0,0:00:36.60,0:00:38.91,Doc,,0,0,0,,and that's before on-road costs.
+Dialogue: 0,0:00:38.96,0:00:39.87,Doc,,0,0,0,,So on paper,
+Dialogue: 0,0:00:39.92,0:00:42.93,Doc,,0,0,0,,GWM has just undercut Toyota\Nby thousands of dollars,
+Dialogue: 0,0:00:42.98,0:00:45.47,Doc,,0,0,0,,with more power and more electric range.
+Dialogue: 0,0:00:45.52,0:00:46.97,Doc,,0,0,0,,But is it really that simple?
+Dialogue: 0,0:00:47.02,0:00:50.09,Doc,,0,0,0,,In this video, I'll compare\Nthe two properly price,
+Dialogue: 0,0:00:50.14,0:00:51.85,Doc,,0,0,0,,power, range, towing,
+Dialogue: 0,0:00:51.90,0:00:55.13,Doc,,0,0,0,,warranty and resale and tell you what\Nthe numbers on the brochure don't.
+Dialogue: 0,0:00:55.18,0:00:59.35,Doc,,0,0,0,,Because the cheapest car on the day\Nisn't always the cheapest car to own.
+Dialogue: 0,0:00:59.40,0:01:03.91,Doc,,0,0,0,,And with Toyota bringing a cheaper\NRAV4 plug-in hybrid in early 2027,
+Dialogue: 0,0:01:03.96,0:01:06.04,Doc,,0,0,0,,the fight is only just getting started.
+Dialogue: 0,0:01:06.66,0:01:09.71,Doc,,0,0,0,,First, a bit of context about who GWM is.
+Dialogue: 0,0:01:09.76,0:01:14.23,Doc,,0,0,0,,Great Wall Motors GWM has been selling\Ncars in Australia for eighteen years,
+Dialogue: 0,0:01:14.28,0:01:18.73,Doc,,0,0,0,,and in October 2026 it was celebrating\Nthat anniversary with price cuts across
+Dialogue: 0,0:01:18.78,0:01:19.83,Doc,,0,0,0,,its range.
+Dialogue: 0,0:01:19.88,0:01:23.53,Doc,,0,0,0,,Its Haval Jolion small SUV has become\None of the best-selling cars in
+Dialogue: 0,0:01:23.58,0:01:25.43,Doc,,0,0,0,,Australia in 2026.
+Dialogue: 0,0:01:25.48,0:01:27.05,Doc,,0,0,0,,And like most Chinese brands,
+Dialogue: 0,0:01:27.10,0:01:30.63,Doc,,0,0,0,,it's been growing fast while some\Nlong-established brands go backwards.
+Dialogue: 0,0:01:30.68,0:01:33.13,Doc,,0,0,0,,You can see that shift in\Nthe official sales numbers.
+Dialogue: 0,0:01:33.18,0:01:36.31,Doc,,0,0,0,,In September 2026, according to VFACTS,
+Dialogue: 0,0:01:36.36,0:01:40.51,Doc,,0,0,0,,Geely sales were up 870 per cent\Non the same month a year earlier,
+Dialogue: 0,0:01:40.56,0:01:43.75,Doc,,0,0,0,,Omoda Jaecoo was up 344 per cent,
+Dialogue: 0,0:01:43.80,0:01:48.03,Doc,,0,0,0,,Leapmotor 106 per cent\Nand BYD 61 per cent.
+Dialogue: 0,0:01:48.08,0:01:51.27,Doc,,0,0,0,,Toyota, by comparison,\Nwas down 3.5 per cent.
+Dialogue: 0,0:01:51.32,0:01:55.05,Doc,,0,0,0,,Toyota is still the biggest brand\Nin the country by a long way but the
+Dialogue: 0,0:01:55.10,0:01:57.51,Doc,,0,0,0,,pressure is coming from every direction.
+Dialogue: 0,0:01:57.56,0:01:59.33,Doc,,0,0,0,,First, let's meet the challenger.
+Dialogue: 0,0:01:59.38,0:02:04.75,Doc,,0,0,0,,The new GWM Haval H7 is a\Nboxy, five-seat mid-size SUV.
+Dialogue: 0,0:02:04.80,0:02:08.55,Doc,,0,0,0,,It's actually the second H7 GWM\Nhas sold here in a short time.
+Dialogue: 0,0:02:08.60,0:02:12.55,Doc,,0,0,0,,CarExpert reported that the outgoing\Nmodel was replaced after "a little over a
+Dialogue: 0,0:02:12.60,0:02:16.05,Doc,,0,0,0,,year" on sale and to the end of July 2026,
+Dialogue: 0,0:02:16.10,0:02:20.49,Doc,,0,0,0,,GWM had delivered only 636 of the old H7s,
+Dialogue: 0,0:02:20.54,0:02:24.51,Doc,,0,0,0,,compared with 8,759 of its Haval H6.
+Dialogue: 0,0:02:24.56,0:02:26.55,Doc,,0,0,0,,So the new one has a lot to prove.
+Dialogue: 0,0:02:26.60,0:02:28.41,Doc,,0,0,0,,It's also bigger than you might expect.
+Dialogue: 0,0:02:28.46,0:02:34.85,Doc,,0,0,0,,CarExpert lists the five-seater\Nat 4,680 millimetres long 4,800
+Dialogue: 0,0:02:34.90,0:02:40.15,Doc,,0,0,0,,including the spare wheel carrier on\Nthe tailgate and 1,950 millimetres wide,
+Dialogue: 0,0:02:40.20,0:02:43.35,Doc,,0,0,0,,with a 2,738-millimetre wheelbase.
+Dialogue: 0,0:02:43.40,0:02:45.95,Doc,,0,0,0,,That boxy shape is a\Nbig part of its appeal.
+Dialogue: 0,0:02:46.00,0:02:49.65,Doc,,0,0,0,,It looks more like a rugged\Noff-roader than a typical family SUV.
+Dialogue: 0,0:02:49.70,0:02:52.85,Doc,,0,0,0,,It comes in two powertrains, both\Nwith all-wheel drive as standard.
+Dialogue: 0,0:02:52.90,0:02:57.25,Doc,,0,0,0,,The hybrid uses a 1.5-litre turbo\Npetrol engine with electric motors,
+Dialogue: 0,0:02:57.30,0:03:01.45,Doc,,0,0,0,,for 182 kilowatts and 670 newton-metres,
+Dialogue: 0,0:03:01.50,0:03:05.33,Doc,,0,0,0,,with claimed fuel use of 7.0\Nlitres per hundred kilometres.
+Dialogue: 0,0:03:05.38,0:03:09.55,Doc,,0,0,0,,The plug-in hybrid uses the same\N1.5-litre turbo petrol engine,
+Dialogue: 0,0:03:09.60,0:03:12.99,Doc,,0,0,0,,but with a much bigger\N33.7-kilowatt-hour battery.
+Dialogue: 0,0:03:13.04,0:03:17.97,Doc,,0,0,0,,Combined output is a huge 320\Nkilowatts and 670 newton-metres.
+Dialogue: 0,0:03:18.02,0:03:23.15,Doc,,0,0,0,,GWM claims 0 to 100 kilometres\Nan hour in 4.9 seconds,
+Dialogue: 0,0:03:23.20,0:03:26.51,Doc,,0,0,0,,an electric-only range of 137 kilometres,
+Dialogue: 0,0:03:26.56,0:03:33.85,Doc,,0,0,0,,and a combined range of 844\Nkilometres on the Chinese WLTC test.
+Dialogue: 0,0:03:33.90,0:03:36.67,Doc,,0,0,0,,And GWM says interest has been strong.
+Dialogue: 0,0:03:36.72,0:03:41.75,Doc,,0,0,0,,It reported around 1,500 expressions\Nof interest after the H7's debut at the
+Dialogue: 0,0:03:41.80,0:03:44.11,Doc,,0,0,0,,Everything Electric show in September.
+Dialogue: 0,0:03:44.16,0:03:46.05,Doc,,0,0,0,,GWM Australia's head of marketing,
+Dialogue: 0,0:03:46.10,0:03:50.86,Doc,,0,0,0,,Steve Maciver, said: "We have high\Nexpectations for the all-new Haval H7."
+Dialogue: 0,0:03:52.46,0:03:52.23,Doc,,0,0,0,,Now the prices.
+Dialogue: 0,0:03:52.28,0:03:55.10,Doc,,0,0,0,,According to CarExpert and Cars24,
+Dialogue: 0,0:03:55.15,0:03:57.94,Doc,,0,0,0,,these are the H7 drive-away\Nprices at launch.
+Dialogue: 0,0:03:57.99,0:04:00.49,Doc,,0,0,0,,The H7 Lux hybrid:
+Dialogue: 0,0:04:00.54,0:04:06.60,Doc,,0,0,0,,$45,990 drive-away, rising\Nto $46,990 after the
+Dialogue: 0,0:04:06.65,0:04:09.12,Doc,,0,0,0,,30th of November 2026.
+Dialogue: 0,0:04:09.17,0:04:12.06,Doc,,0,0,0,,The H7 Lux plug-in hybrid:
+Dialogue: 0,0:04:12.11,0:04:18.34,Doc,,0,0,0,,$49,990 drive-away, rising\Nto $50,990 after the 30th
+Dialogue: 0,0:04:18.39,0:04:18.82,Doc,,0,0,0,,of November.
+Dialogue: 0,0:04:18.87,0:04:24.20,Doc,,0,0,0,,The higher-spec Vanta\Nhybrid: $49,990 drive-away.
+Dialogue: 0,0:04:24.25,0:04:27.91,Doc,,0,0,0,,And the Vanta plug-in\Nhybrid: $53,990 drive-away.
+Dialogue: 0,0:04:27.96,0:04:33.96,Doc,,0,0,0,,The Lux gets 19-inch wheels, a 15.6-inch\Ntouchscreen and a head-up display.
+Dialogue: 0,0:04:34.01,0:04:36.08,Doc,,0,0,0,,The Vanta adds a locking\Nrear differential,
+Dialogue: 0,0:04:36.13,0:04:40.42,Doc,,0,0,0,,a panoramic sunroof, heated and ventilated\Nfront seats and ambient lighting.
+Dialogue: 0,0:04:40.47,0:04:43.14,Doc,,0,0,0,,A seven-seat version is due in 2027.
+Dialogue: 0,0:04:43.19,0:04:46.40,Doc,,0,0,0,,And GWM has been sharpening\Nprices across its whole range.
+Dialogue: 0,0:04:46.45,0:04:48.44,Doc,,0,0,0,,In October 2026,
+Dialogue: 0,0:04:48.49,0:04:53.52,Doc,,0,0,0,,CarsGuide reported the Haval Jolion\NPremium at $23,990 drive-away,
+Dialogue: 0,0:04:53.57,0:05:00.08,Doc,,0,0,0,,$3,000 off, and the Haval\NH6 hybrid Lux at $37,990,
+Dialogue: 0,0:05:00.13,0:05:02.08,Doc,,0,0,0,,also $3,000 off.
+Dialogue: 0,0:05:02.13,0:05:05.20,Doc,,0,0,0,,So the H7's launch pricing\Nfits a clear strategy:
+Dialogue: 0,0:05:05.25,0:05:09.02,Doc,,0,0,0,,lots of car for the money, with\Nthe price including on-road costs.
+Dialogue: 0,0:05:09.07,0:05:10.50,Doc,,0,0,0,,Now, one important detail.
+Dialogue: 0,0:05:10.55,0:05:12.78,Doc,,0,0,0,,Those H7 prices are drive-away.
+Dialogue: 0,0:05:12.83,0:05:15.81,Doc,,0,0,0,,Most Toyota prices are\Nquoted before on-road costs.
+Dialogue: 0,0:05:15.86,0:05:18.74,Doc,,0,0,0,,On-road costs things like stamp duty,
+Dialogue: 0,0:05:18.79,0:05:22.00,Doc,,0,0,0,,registration and CTP insurance\Ncan add thousands of dollars,
+Dialogue: 0,0:05:22.05,0:05:23.74,Doc,,0,0,0,,depending on your state.
+Dialogue: 0,0:05:23.79,0:05:27.52,Doc,,0,0,0,,So when you compare the two, you have\Nto compare drive-away with drive-away.
+Dialogue: 0,0:05:27.57,0:05:30.11,Doc,,0,0,0,,Otherwise, the gap looks\Nsmaller than it really is.
+Dialogue: 0,0:05:30.85,0:05:32.46,Doc,,0,0,0,,Now let's look at the champion.
+Dialogue: 0,0:05:32.51,0:05:35.92,Doc,,0,0,0,,The Toyota RAV4 is one of the\Nbest-selling cars in Australia.
+Dialogue: 0,0:05:35.97,0:05:40.76,Doc,,0,0,0,,And when Toyota added its first-ever\NRAV4 plug-in hybrid in mid-2026,
+Dialogue: 0,0:05:40.81,0:05:41.86,Doc,,0,0,0,,it took off.
+Dialogue: 0,0:05:41.91,0:05:43.05,Doc,,0,0,0,,According to CarExpert,
+Dialogue: 0,0:05:43.10,0:05:48.68,Doc,,0,0,0,,plug-in hybrids made up thirty-nine\Nper cent of all RAV4 sales in July 2026
+Dialogue: 0,0:05:48.73,0:05:51.18,Doc,,0,0,0,,around 2,170 cars.
+Dialogue: 0,0:05:51.23,0:05:55.34,Doc,,0,0,0,,That made the RAV4 PHEV the best-selling\Nplug-in hybrid in the country that
+Dialogue: 0,0:05:55.39,0:05:57.50,Doc,,0,0,0,,month, ahead of the BYD Shark 6.
+Dialogue: 0,0:05:57.55,0:06:01.98,Doc,,0,0,0,,Here's the current RAV4 plug-in\Nhybrid range, before on-road costs.
+Dialogue: 0,0:06:02.03,0:06:06.60,Doc,,0,0,0,,The XSE front-wheel\Ndrive starts at $58,840.
+Dialogue: 0,0:06:06.65,0:06:11.34,Doc,,0,0,0,,The XSE all-wheel drive is $63,340.
+Dialogue: 0,0:06:11.39,0:06:16.08,Doc,,0,0,0,,And the GR Sport all-wheel\Ndrive is $66,340.
+Dialogue: 0,0:06:16.13,0:06:19.42,Doc,,0,0,0,,It uses a 2.5-litre petrol\Nengine with electric motors,
+Dialogue: 0,0:06:19.47,0:06:23.10,Doc,,0,0,0,,producing 201 kilowatts\Nin front-wheel drive form,
+Dialogue: 0,0:06:23.15,0:06:26.62,Doc,,0,0,0,,and Toyota claims an electric-only\Nrange of 121 kilometres.
+Dialogue: 0,0:06:26.67,0:06:28.84,Doc,,0,0,0,,And the regular RAV4 hybrid?
+Dialogue: 0,0:06:28.89,0:06:34.98,Doc,,0,0,0,,CarExpert listed the RAV4 GX\Ntwo-wheel-drive hybrid from $45,990
+Dialogue: 0,0:06:35.03,0:06:36.70,Doc,,0,0,0,,before on-road costs.
+Dialogue: 0,0:06:36.75,0:06:43.02,Doc,,0,0,0,,So the H7 Lux hybrid's launch price of\N$45,990 drive-away matches the cheapest
+Dialogue: 0,0:06:43.07,0:06:47.65,Doc,,0,0,0,,RAV4 hybrid's sticker price but includes\Non-road costs and all-wheel drive.
+Dialogue: 0,0:06:48.44,0:06:49.86,Doc,,0,0,0,,Let's put them side by side.
+Dialogue: 0,0:06:49.91,0:06:52.39,Doc,,0,0,0,,Plug-in hybrid versus plug-in hybrid.
+Dialogue: 0,0:06:52.44,0:06:54.75,Doc,,0,0,0,,The H7 Lux PHEV:
+Dialogue: 0,0:06:54.80,0:06:58.91,Doc,,0,0,0,,$49,990 drive-away, 320 kilowatts,
+Dialogue: 0,0:06:58.96,0:07:03.47,Doc,,0,0,0,,all-wheel drive, 137 kilometres\Nof claimed electric range.
+Dialogue: 0,0:07:03.52,0:07:07.27,Doc,,0,0,0,,The RAV4 XSE PHEV front-wheel drive:
+Dialogue: 0,0:07:07.32,0:07:10.44,Doc,,0,0,0,,$58,840 before on-road costs,
+Dialogue: 0,0:07:10.49,0:07:14.57,Doc,,0,0,0,,201 kilowatts, 121 kilometres\Nof claimed electric range.
+Dialogue: 0,0:07:14.62,0:07:15.83,Doc,,0,0,0,,On those numbers,
+Dialogue: 0,0:07:15.88,0:07:20.16,Doc,,0,0,0,,the GWM is around nine thousand dollars\Ncheaper before you even add the RAV4's
+Dialogue: 0,0:07:20.21,0:07:21.55,Doc,,0,0,0,,on-road costs.
+Dialogue: 0,0:07:21.60,0:07:22.93,Doc,,0,0,0,,It's much more powerful.
+Dialogue: 0,0:07:22.98,0:07:24.79,Doc,,0,0,0,,And it claims more electric range.
+Dialogue: 0,0:07:24.84,0:07:28.51,Doc,,0,0,0,,The H7's electric range figure\Nis on the Chinese WLTC cycle,
+Dialogue: 0,0:07:28.56,0:07:32.17,Doc,,0,0,0,,though, so it's not a perfect\Nlike-for-like comparison with every rival.
+Dialogue: 0,0:07:32.22,0:07:35.47,Doc,,0,0,0,,Real-world range will depend\Non how and where you drive.
+Dialogue: 0,0:07:35.52,0:07:39.81,Doc,,0,0,0,,On features, the H7 Lux also comes\Nwith a lot as standard for the price,
+Dialogue: 0,0:07:39.86,0:07:43.47,Doc,,0,0,0,,including that 15.6-inch\Ntouchscreen and a head-up display.
+Dialogue: 0,0:07:43.52,0:07:45.41,Doc,,0,0,0,,When you compare the two in a showroom,
+Dialogue: 0,0:07:45.46,0:07:49.03,Doc,,0,0,0,,make a list of what you actually need\Nand check which features are standard on
+Dialogue: 0,0:07:49.08,0:07:52.79,Doc,,0,0,0,,the exact grade you're looking at, not\Njust the top model in the brochure.
+Dialogue: 0,0:07:52.84,0:07:54.60,Doc,,0,0,0,,And for families who\Nmostly do short trips,
+Dialogue: 0,0:07:54.65,0:07:58.97,Doc,,0,0,0,,a claimed 137 kilometres of\Nelectric range is a big deal.
+Dialogue: 0,0:07:59.02,0:08:00.55,Doc,,0,0,0,,If you charge at home every night,
+Dialogue: 0,0:08:00.60,0:08:04.29,Doc,,0,0,0,,many commutes and school runs could be\Ndone without burning any petrol at all.
+Dialogue: 0,0:08:04.34,0:08:06.99,Doc,,0,0,0,,Let's do a quick illustration\Nand I want to be clear,
+Dialogue: 0,0:08:07.04,0:08:09.07,Doc,,0,0,0,,these are example numbers,\Nnot official figures.
+Dialogue: 0,0:08:09.12,0:08:13.97,Doc,,0,0,0,,Say you drive forty kilometres a\Nday, about 14,600 kilometres a year.
+Dialogue: 0,0:08:14.02,0:08:16.63,Doc,,0,0,0,,A petrol SUV using seven\Nlitres per hundred kilometres,
+Dialogue: 0,0:08:16.68,0:08:21.73,Doc,,0,0,0,,at two dollars a litre, would\Ncost around $2,044 a year in fuel.
+Dialogue: 0,0:08:21.78,0:08:24.99,Doc,,0,0,0,,If you could do most of that driving\Non electricity charged at home,
+Dialogue: 0,0:08:25.04,0:08:27.96,Doc,,0,0,0,,and your plug-in hybrid used around\Ntwenty kilowatt-hours per hundred
+Dialogue: 0,0:08:28.01,0:08:33.41,Doc,,0,0,0,,kilometres at thirty cents per\Nkilowatt-hour, that's around $876 a year.
+Dialogue: 0,0:08:33.46,0:08:35.87,Doc,,0,0,0,,Your own numbers will depend\Non your electricity plan,
+Dialogue: 0,0:08:35.92,0:08:37.13,Doc,,0,0,0,,your driving and the car.
+Dialogue: 0,0:08:37.18,0:08:41.31,Doc,,0,0,0,,But it shows why electric range\Nmatters so much for daily drivers.
+Dialogue: 0,0:08:41.36,0:08:43.47,Doc,,0,0,0,,But there are things the\Nbrochure doesn't tell you.
+Dialogue: 0,0:08:43.52,0:08:44.96,Doc,,0,0,0,,And that's where it gets interesting.
+Dialogue: 0,0:08:45.82,0:08:47.63,Doc,,0,0,0,,Quick favour before we go deeper.
+Dialogue: 0,0:08:47.68,0:08:49.29,Doc,,0,0,0,,Which would you buy the cheaper,
+Dialogue: 0,0:08:49.34,0:08:53.29,Doc,,0,0,0,,more powerful GWM, or the Toyota\Nwith the badge and the reputation?
+Dialogue: 0,0:08:53.34,0:08:54.53,Doc,,0,0,0,,Tell me in the comments.
+Dialogue: 0,0:08:54.58,0:08:55.43,Doc,,0,0,0,,And if you want honest,
+Dialogue: 0,0:08:55.48,0:08:59.49,Doc,,0,0,0,,fact-checked comparisons of the cars\NAussies actually buy, hit subscribe.
+Dialogue: 0,0:08:59.54,0:09:01.70,Doc,,0,0,0,,It's free and it really helps the channel.
+Dialogue: 0,0:09:03.60,0:09:03.61,Doc,,0,0,0,,First, towing.
+Dialogue: 0,0:09:03.66,0:09:05.27,Doc,,0,0,0,,Australians love to tow.
+Dialogue: 0,0:09:05.32,0:09:10.13,Doc,,0,0,0,,CarExpert lists the new H7's braked\Ntowing capacity at 1,500 kilograms,
+Dialogue: 0,0:09:10.18,0:09:13.13,Doc,,0,0,0,,for both the hybrid\Nand the plug-in hybrid.
+Dialogue: 0,0:09:13.18,0:09:15.81,Doc,,0,0,0,,That's fine for a small\Ntrailer or a light camper.
+Dialogue: 0,0:09:15.86,0:09:18.67,Doc,,0,0,0,,But if you're planning to tow\Na large caravan or a boat,
+Dialogue: 0,0:09:18.72,0:09:22.69,Doc,,0,0,0,,check the exact towing figures for every\Ncar you're considering before you buy
+Dialogue: 0,0:09:22.74,0:09:26.49,Doc,,0,0,0,,and remember that plug-in hybrids use\Nmore fuel and electricity when towing.
+Dialogue: 0,0:09:26.54,0:09:28.71,Doc,,0,0,0,,Second, warranty.
+Dialogue: 0,0:09:28.76,0:09:30.59,Doc,,0,0,0,,GWM offers a seven-year,
+Dialogue: 0,0:09:30.64,0:09:32.63,Doc,,0,0,0,,unlimited-kilometre\Nwarranty on its vehicles,
+Dialogue: 0,0:09:32.68,0:09:34.69,Doc,,0,0,0,,according to its Australian website.
+Dialogue: 0,0:09:34.74,0:09:38.07,Doc,,0,0,0,,And its hybrid and plug-in hybrid\Nbatteries are covered for eight years with
+Dialogue: 0,0:09:38.12,0:09:39.63,Doc,,0,0,0,,unlimited kilometres.
+Dialogue: 0,0:09:39.68,0:09:41.35,Doc,,0,0,0,,One detail in the fine print:
+Dialogue: 0,0:09:41.40,0:09:43.53,Doc,,0,0,0,,for plug-in hybrids and EVs,
+Dialogue: 0,0:09:43.58,0:09:47.53,Doc,,0,0,0,,GWM says a battery state of health\Nof seventy per cent or more isn't
+Dialogue: 0,0:09:47.58,0:09:49.65,Doc,,0,0,0,,considered a warranty defect.
+Dialogue: 0,0:09:49.70,0:09:53.09,Doc,,0,0,0,,Toyota's base warranty is five\Nyears with unlimited kilometres.
+Dialogue: 0,0:09:53.14,0:09:57.43,Doc,,0,0,0,,CarsGuide reported that Toyota extends\Nengine and driveline cover to up to
+Dialogue: 0,0:09:57.48,0:10:00.77,Doc,,0,0,0,,seven years, and hybrid battery\Ncover to up to ten years,
+Dialogue: 0,0:10:00.82,0:10:03.99,Doc,,0,0,0,,as long as the car is serviced and\Nmaintained according to the warranty and
+Dialogue: 0,0:10:04.04,0:10:05.01,Doc,,0,0,0,,service book.
+Dialogue: 0,0:10:05.06,0:10:05.87,Doc,,0,0,0,,So on paper,
+Dialogue: 0,0:10:05.92,0:10:08.69,Doc,,0,0,0,,the warranties are closer than they\Nfirst look but the conditions are
+Dialogue: 0,0:10:08.74,0:10:10.78,Doc,,0,0,0,,different, and it's\Nworth reading them both.
+Dialogue: 0,0:10:11.59,0:10:14.76,Doc,,0,0,0,,And one more thing for anyone\Nthinking about salary packaging.
+Dialogue: 0,0:10:14.81,0:10:18.34,Doc,,0,0,0,,Neither of these cars gets the fringe\Nbenefits tax exemption on a novated
+Dialogue: 0,0:10:18.39,0:10:18.95,Doc,,0,0,0,,lease.
+Dialogue: 0,0:10:19.00,0:10:23.40,Doc,,0,0,0,,Plug-in hybrids lost that\Nexemption on the 1st of April 2025.
+Dialogue: 0,0:10:23.45,0:10:25.92,Doc,,0,0,0,,Only fully electric cars still qualify.
+Dialogue: 0,0:10:25.97,0:10:27.98,Doc,,0,0,0,,So if you're comparing\Nthese two through a lease,
+Dialogue: 0,0:10:28.03,0:10:31.70,Doc,,0,0,0,,the tax treatment is the same but if\Nyou're also considering a fully electric
+Dialogue: 0,0:10:31.75,0:10:34.62,Doc,,0,0,0,,SUV, that could change the maths a lot.
+Dialogue: 0,0:10:34.67,0:10:37.58,Doc,,0,0,0,,Third, and this is the\Nbig one: resale value.
+Dialogue: 0,0:10:37.63,0:10:39.92,Doc,,0,0,0,,Toyota's reputation for\Nholding value is famous.
+Dialogue: 0,0:10:39.97,0:10:45.16,Doc,,0,0,0,,A 2025 analysis by Pickles and Datium\NInsights found that a two-year-old
+Dialogue: 0,0:10:45.21,0:10:48.88,Doc,,0,0,0,,Toyota RAV4 kept about\Neighty-eight per cent of its value.
+Dialogue: 0,0:10:48.93,0:10:51.82,Doc,,0,0,0,,That's one of the best results\Nof any car in Australia.
+Dialogue: 0,0:10:51.87,0:10:56.22,Doc,,0,0,0,,We don't yet have long-term resale\Ndata for the new H7 it's brand new.
+Dialogue: 0,0:10:56.27,0:10:58.06,Doc,,0,0,0,,But the broader story is clear:
+Dialogue: 0,0:10:58.11,0:11:02.36,Doc,,0,0,0,,newer brands, and models that get\Nreplaced quickly, often lose value faster.
+Dialogue: 0,0:11:02.41,0:11:05.38,Doc,,0,0,0,,The old H7 was replaced\Nafter just over a year.
+Dialogue: 0,0:11:05.43,0:11:08.20,Doc,,0,0,0,,And when a model gets a quick\Nfacelift or a big price cut,
+Dialogue: 0,0:11:08.25,0:11:11.34,Doc,,0,0,0,,the value of the older\Nversion usually takes a hit.
+Dialogue: 0,0:11:11.39,0:11:15.36,Doc,,0,0,0,,One Cars24 reader put it bluntly\Nin the comments on the H7's launch:
+Dialogue: 0,0:11:15.41,0:11:19.38,Doc,,0,0,0,,there's "no promotional discount for a\Ncar delivered in Nov/Dec," and it "will
+Dialogue: 0,0:11:19.43,0:11:24.36,Doc,,0,0,0,,lose value as soon as we hit 2027."\NThat's one buyer's opinion, not data.
+Dialogue: 0,0:11:24.41,0:11:26.16,Doc,,0,0,0,,But it's a fair point to think about.
+Dialogue: 0,0:11:26.21,0:11:28.62,Doc,,0,0,0,,If you buy any car in\NNovember or December,
+Dialogue: 0,0:11:28.67,0:11:31.80,Doc,,0,0,0,,it'll be a year older on\Npaper just weeks later.
+Dialogue: 0,0:11:31.85,0:11:33.18,Doc,,0,0,0,,Insurance is worth checking too.
+Dialogue: 0,0:11:33.23,0:11:35.54,Doc,,0,0,0,,In April 2026,
+Dialogue: 0,0:11:35.59,0:11:38.56,Doc,,0,0,0,,Compare the Market reported that\Naverage premiums for battery electric
+Dialogue: 0,0:11:38.61,0:11:41.34,Doc,,0,0,0,,vehicles had risen about\Nten per cent in a year,
+Dialogue: 0,0:11:41.39,0:11:45.76,Doc,,0,0,0,,and that average premiums for some\Nplug-in hybrids like the BYD Sealion 6 had
+Dialogue: 0,0:11:45.81,0:11:47.52,Doc,,0,0,0,,risen about eighteen per cent.
+Dialogue: 0,0:11:47.57,0:11:50.08,Doc,,0,0,0,,Premiums vary a lot by insurer, model,
+Dialogue: 0,0:11:50.13,0:11:54.32,Doc,,0,0,0,,postcode and driver, so get real\Nquotes for both cars before you decide.
+Dialogue: 0,0:11:54.37,0:11:57.42,Doc,,0,0,0,,So when you compare the two, don't\Njust look at the price you pay.
+Dialogue: 0,0:11:57.47,0:11:59.22,Doc,,0,0,0,,Look at the price you'll\Nget back when you sell.
+Dialogue: 0,0:11:59.27,0:12:03.14,Doc,,0,0,0,,A car that's nine thousand dollars cheaper\Nbut loses ten thousand dollars more
+Dialogue: 0,0:12:03.19,0:12:05.21,Doc,,0,0,0,,in value isn't actually cheaper.
+Dialogue: 0,0:12:06.02,0:12:07.97,Doc,,0,0,0,,Before we get to Toyota's counter-attack,
+Dialogue: 0,0:12:08.02,0:12:11.75,Doc,,0,0,0,,there's one more thing worth considering:\Nthe dealer and service network.
+Dialogue: 0,0:12:11.80,0:12:14.67,Doc,,0,0,0,,Toyota has one of the largest\Ndealer networks in Australia,
+Dialogue: 0,0:12:14.72,0:12:16.31,Doc,,0,0,0,,including in regional towns.
+Dialogue: 0,0:12:16.36,0:12:20.11,Doc,,0,0,0,,That matters for servicing,\Nwarranty repairs and crash repairs.
+Dialogue: 0,0:12:20.16,0:12:23.01,Doc,,0,0,0,,As we saw in our video\Non BYD after the crash,
+Dialogue: 0,0:12:23.06,0:12:26.57,Doc,,0,0,0,,a great car can still be a frustrating\Nownership experience if parts take
+Dialogue: 0,0:12:26.62,0:12:29.87,Doc,,0,0,0,,weeks or the nearest approved\Nrepairer is hours away.
+Dialogue: 0,0:12:29.92,0:12:34.03,Doc,,0,0,0,,GWM has been in Australia for eighteen\Nyears and has a substantial network,
+Dialogue: 0,0:12:34.08,0:12:35.67,Doc,,0,0,0,,but before you buy any car,
+Dialogue: 0,0:12:35.72,0:12:39.37,Doc,,0,0,0,,check where your nearest service centre\Nand approved repairer actually are.
+Dialogue: 0,0:12:39.42,0:12:42.37,Doc,,0,0,0,,And here's the twist:\NToyota isn't standing still.
+Dialogue: 0,0:12:42.42,0:12:44.77,Doc,,0,0,0,,In the first three months of 2027,
+Dialogue: 0,0:12:44.82,0:12:48.17,Doc,,0,0,0,,Toyota is adding a cheaper\NRAV4 GXL plug-in hybrid.
+Dialogue: 0,0:12:48.22,0:12:50.05,Doc,,0,0,0,,Toyota hasn't announced the price yet.
+Dialogue: 0,0:12:50.10,0:12:55.95,Doc,,0,0,0,,CarExpert estimated it could be\Naround $53,990 before on-road costs,
+Dialogue: 0,0:12:56.00,0:13:00.01,Doc,,0,0,0,,based on the gap between the hybrid and\Nplug-in hybrid versions of the RAV4.
+Dialogue: 0,0:13:00.06,0:13:01.89,Doc,,0,0,0,,That's an estimate,\Nnot an official figure.
+Dialogue: 0,0:13:01.94,0:13:06.37,Doc,,0,0,0,,It's expected to use the same\N201-kilowatt plug-in hybrid system with a
+Dialogue: 0,0:13:06.42,0:13:09.53,Doc,,0,0,0,,claimed 121 kilometres of electric range,
+Dialogue: 0,0:13:09.58,0:13:12.47,Doc,,0,0,0,,and to become the most\Naffordable RAV4 plug-in hybrid.
+Dialogue: 0,0:13:12.52,0:13:16.91,Doc,,0,0,0,,CarExpert also said it's expected to\Nundercut the Mitsubishi Outlander plug-in
+Dialogue: 0,0:13:16.96,0:13:22.67,Doc,,0,0,0,,hybrid, which starts at\N$58,990 before on-road costs.
+Dialogue: 0,0:13:22.72,0:13:24.61,Doc,,0,0,0,,Why is Toyota moving so fast?
+Dialogue: 0,0:13:24.66,0:13:26.45,Doc,,0,0,0,,Partly because of the\Ngovernment's emissions rules.
+Dialogue: 0,0:13:26.50,0:13:29.13,Doc,,0,0,0,,Under the New Vehicle Efficiency Standard,
+Dialogue: 0,0:13:29.18,0:13:33.59,Doc,,0,0,0,,the target for passenger cars drops\Nfrom 117 grams of carbon dioxide per
+Dialogue: 0,0:13:33.64,0:13:37.63,Doc,,0,0,0,,kilometre in 2026 to 92 grams in 2027.
+Dialogue: 0,0:13:37.68,0:13:41.45,Doc,,0,0,0,,Plug-in hybrids help car\Nmakers hit those targets.
+Dialogue: 0,0:13:41.50,0:13:44.99,Doc,,0,0,0,,Toyota is already earning credits\Nthanks to its hybrids but it needs them,
+Dialogue: 0,0:13:45.04,0:13:48.79,Doc,,0,0,0,,because its utes and big four-wheel\Ndrives are well above the targets.
+Dialogue: 0,0:13:48.84,0:13:52.43,Doc,,0,0,0,,Every RAV4 plug-in hybrid it\Nsells helps balance the books.
+Dialogue: 0,0:13:52.48,0:13:53.97,Doc,,0,0,0,,So in 2027,
+Dialogue: 0,0:13:54.02,0:13:59.37,Doc,,0,0,0,,the gap between the RAV4 PHEV and the\NH7 PHEV could shrink although if that
+Dialogue: 0,0:13:59.42,0:14:00.33,Doc,,0,0,0,,estimate is right,
+Dialogue: 0,0:14:00.38,0:14:04.53,Doc,,0,0,0,,the RAV4 would still be more expensive\Nonce on-road costs are added.
+Dialogue: 0,0:14:04.58,0:14:06.39,Doc,,0,0,0,,GWM is moving too.
+Dialogue: 0,0:14:06.44,0:14:09.39,Doc,,0,0,0,,The seven-seat H7, due in 2027,
+Dialogue: 0,0:14:09.44,0:14:15.43,Doc,,0,0,0,,gets a longer 2,850-millimetre wheelbase\Nand stretches to 4,912 millimetres
+Dialogue: 0,0:14:15.48,0:14:16.05,Doc,,0,0,0,,long.
+Dialogue: 0,0:14:16.10,0:14:19.95,Doc,,0,0,0,,That puts it into the territory of\Nbigger family SUVs a part of the market
+Dialogue: 0,0:14:20.00,0:14:22.19,Doc,,0,0,0,,where Toyota doesn't sell a RAV4 at all.
+Dialogue: 0,0:14:22.24,0:14:26.11,Doc,,0,0,0,,And GWM won't be the only\None fighting for RAV4 buyers.
+Dialogue: 0,0:14:26.16,0:14:30.54,Doc,,0,0,0,,The plug-in hybrid SUV market is\Npacked with Chinese rivals from BYD,
+Dialogue: 0,0:14:30.59,0:14:34.53,Doc,,0,0,0,,Chery, Geely and Omoda Jaecoo\Nmany of them with big batteries,
+Dialogue: 0,0:14:34.58,0:14:37.23,Doc,,0,0,0,,lots of equipment and\Nsharp drive-away prices.
+Dialogue: 0,0:14:37.28,0:14:41.73,Doc,,0,0,0,,In September 2026, BYD was\NAustralia's second best-selling brand.
+Dialogue: 0,0:14:41.78,0:14:43.58,Doc,,0,0,0,,The pressure on Toyota is real.
+Dialogue: 0,0:14:44.38,0:14:46.13,Doc,,0,0,0,,So, which one should you buy?
+Dialogue: 0,0:14:46.18,0:14:47.65,Doc,,0,0,0,,Here's how I'd decide.
+Dialogue: 0,0:14:47.70,0:14:51.61,Doc,,0,0,0,,Buy the GWM Haval H7\Nplug-in hybrid if price,
+Dialogue: 0,0:14:51.66,0:14:54.27,Doc,,0,0,0,,power and electric range\Nmatter most to you.
+Dialogue: 0,0:14:54.32,0:14:55.87,Doc,,0,0,0,,If you do lots of short trips,
+Dialogue: 0,0:14:55.92,0:14:59.21,Doc,,0,0,0,,can charge at home, want all-wheel\Ndrive and a long warranty,
+Dialogue: 0,0:14:59.26,0:15:03.83,Doc,,0,0,0,,and plan to keep the car for a long\Ntime so resale value matters less the H7
+Dialogue: 0,0:15:03.88,0:15:05.77,Doc,,0,0,0,,offers a lot of car for the money.
+Dialogue: 0,0:15:05.82,0:15:09.31,Doc,,0,0,0,,Buy the Toyota RAV4 plug-in\Nhybrid if resale value,
+Dialogue: 0,0:15:09.36,0:15:11.77,Doc,,0,0,0,,brand reputation and\Ndealer network matter most.
+Dialogue: 0,0:15:11.82,0:15:15.65,Doc,,0,0,0,,Toyota's history of holding value\Nand its huge service network,
+Dialogue: 0,0:15:15.70,0:15:18.77,Doc,,0,0,0,,especially in regional\NAustralia, are real advantages.
+Dialogue: 0,0:15:18.82,0:15:21.33,Doc,,0,0,0,,And if you can wait until early 2027,
+Dialogue: 0,0:15:21.38,0:15:24.81,Doc,,0,0,0,,the cheaper GXL plug-in hybrid\Ncould narrow the price gap.
+Dialogue: 0,0:15:24.86,0:15:27.31,Doc,,0,0,0,,And think about how you'll\Nactually use the battery.
+Dialogue: 0,0:15:27.36,0:15:30.85,Doc,,0,0,0,,A plug-in hybrid only saves you\Nreal money if you plug it in.
+Dialogue: 0,0:15:30.90,0:15:32.25,Doc,,0,0,0,,If you can't charge at home,
+Dialogue: 0,0:15:32.30,0:15:34.39,Doc,,0,0,0,,or you mostly do long highway trips,
+Dialogue: 0,0:15:34.44,0:15:39.97,Doc,,0,0,0,,a regular hybrid like the H7 hybrid or\Nthe RAV4 hybrid may make more sense,
+Dialogue: 0,0:15:40.02,0:15:40.87,Doc,,0,0,0,,and it's cheaper to buy.
+Dialogue: 0,0:15:40.92,0:15:46.21,Doc,,0,0,0,,With petrol and diesel prices as volatile\Nas they've been in 2026 diesel hit
+Dialogue: 0,0:15:46.26,0:15:50.17,Doc,,0,0,0,,as high as $3.50 a litre in\Nsome parts of Australia in May,
+Dialogue: 0,0:15:50.22,0:15:53.65,Doc,,0,0,0,,according to CarExpert the right\Nchoice depends on your driving,
+Dialogue: 0,0:15:53.70,0:15:54.59,Doc,,0,0,0,,not the brochure.
+Dialogue: 0,0:15:54.64,0:15:57.35,Doc,,0,0,0,,On the test drive, pay\Nattention to a few things.
+Dialogue: 0,0:15:57.40,0:16:00.69,Doc,,0,0,0,,How does the car drive when the battery\Nis flat and the petrol engine is doing
+Dialogue: 0,0:16:00.74,0:16:01.49,Doc,,0,0,0,,the work?
+Dialogue: 0,0:16:01.54,0:16:02.85,Doc,,0,0,0,,Is the engine noisy?
+Dialogue: 0,0:16:02.90,0:16:06.43,Doc,,0,0,0,,How easy are the touchscreen and the\Ndriver assistance systems to live with?
+Dialogue: 0,0:16:06.48,0:16:09.61,Doc,,0,0,0,,And how much boot space is left\Nonce the charging cable is in there?
+Dialogue: 0,0:16:09.66,0:16:13.43,Doc,,0,0,0,,These are the things that make a car\Npleasant or annoying after the first
+Dialogue: 0,0:16:13.48,0:16:14.45,Doc,,0,0,0,,week.
+Dialogue: 0,0:16:14.50,0:16:17.21,Doc,,0,0,0,,And whichever you choose,\Ndo these four things.
+Dialogue: 0,0:16:17.26,0:16:18.35,Doc,,0,0,0,,Test drive both.
+Dialogue: 0,0:16:18.40,0:16:21.31,Doc,,0,0,0,,Compare drive-away prices,\Nnot sticker prices.
+Dialogue: 0,0:16:21.36,0:16:23.39,Doc,,0,0,0,,Check towing capacity if you tow.
+Dialogue: 0,0:16:23.44,0:16:25.37,Doc,,0,0,0,,And look at the real running costs:
+Dialogue: 0,0:16:25.42,0:16:28.48,Doc,,0,0,0,,fuel, electricity,\Nservicing and insurance.
+Dialogue: 0,0:16:29.47,0:16:32.30,Doc,,0,0,0,,One last tip if you're\Nbuying in the next few weeks.
+Dialogue: 0,0:16:32.35,0:16:37.02,Doc,,0,0,0,,The H7 Lux launch prices go up by a\Nthousand dollars after the 30th of
+Dialogue: 0,0:16:37.07,0:16:38.48,Doc,,0,0,0,,November 2026.
+Dialogue: 0,0:16:38.53,0:16:41.38,Doc,,0,0,0,,And Black Friday is on\Nthe 27th of November.
+Dialogue: 0,0:16:41.43,0:16:44.14,Doc,,0,0,0,,If you've decided on the\NH7, that's your window.
+Dialogue: 0,0:16:44.19,0:16:46.46,Doc,,0,0,0,,But as we covered in\Nour Black Friday video,
+Dialogue: 0,0:16:46.51,0:16:48.54,Doc,,0,0,0,,write down today's drive-away price,
+Dialogue: 0,0:16:48.59,0:16:51.66,Doc,,0,0,0,,read the fine print, and\Ndon't let a deadline rush you.
+Dialogue: 0,0:16:51.71,0:16:56.06,Doc,,0,0,0,,So, did GWM just undercut\Nthe Toyota RAV4 in Australia?
+Dialogue: 0,0:16:56.11,0:17:01.22,Doc,,0,0,0,,On price, power and electric range\Nyes, on paper, by a long way.
+Dialogue: 0,0:17:01.27,0:17:07.72,Doc,,0,0,0,,A $49,990 drive-away plug-in\Nhybrid with 320 kilowatts and
+Dialogue: 0,0:17:07.77,0:17:11.80,Doc,,0,0,0,,137 kilometres of claimed\Nelectric range is a serious offer.
+Dialogue: 0,0:17:11.85,0:17:14.74,Doc,,0,0,0,,But Toyota still has the\Nadvantage on resale value,
+Dialogue: 0,0:17:14.79,0:17:19.46,Doc,,0,0,0,,reputation and dealer network and a\Ncheaper RAV4 plug-in hybrid is coming in
+Dialogue: 0,0:17:19.51,0:17:21.12,Doc,,0,0,0,,early 2027.
+Dialogue: 0,0:17:21.17,0:17:23.50,Doc,,0,0,0,,The real winner is you, the buyer.
+Dialogue: 0,0:17:23.55,0:17:26.12,Doc,,0,0,0,,More competition means better\Ncars and sharper prices.
+Dialogue: 0,0:17:26.17,0:17:28.16,Doc,,0,0,0,,If this helped, hit like,
+Dialogue: 0,0:17:28.21,0:17:31.50,Doc,,0,0,0,,subscribe and share it with\Nsomeone who's shopping for an SUV.
+Dialogue: 0,0:17:31.55,0:17:34.50,Doc,,0,0,0,,Tell me in the comments: GWM or Toyota?
+Dialogue: 0,0:17:34.55,0:17:35.38,Doc,,0,0,0,,And in the next video,
+Dialogue: 0,0:17:35.43,0:17:39.94,Doc,,0,0,0,,we'll look at the car brands that may\Nnot survive 2027 in Australia and what
+Dialogue: 0,0:17:39.99,0:17:41.62,Doc,,0,0,0,,that means if you own one.
+Dialogue: 0,0:17:41.67,0:17:42.49,Doc,,0,0,0,,See you there.
