@@ -1,0 +1,35 @@
+{
+ "model": "black-forest-labs/flux-1.1-pro-ultra",
+ "raw": true,
+ "n": 1,
+ "style": ", modern Australian documentary photograph, 2026, natural light, realistic, sharp, cinematic colour grade, no logos, no badges, no readable text, no brand names",
+ "shots": [
+  {
+   "id": "ai_empty_yard",
+   "prompt": "A dealer yard full of unsold new SUVs under grey sky, rows of identical cars with price stickers on windscreens, no readable text, no logos"
+  },
+  {
+   "id": "ai_salesman_waiting",
+   "prompt": "A bored car salesman standing alone in a quiet modern car showroom, empty chairs, afternoon light, no readable text"
+  },
+  {
+   "id": "ai_price_cut",
+   "prompt": "Close-up of a hand placing a big red discount tag on a new car windscreen in a dealership, tag has no readable text"
+  },
+  {
+   "id": "ai_buyer_compare",
+   "prompt": "Young Australian couple comparing two SUVs at a dealership, looking at a tablet, natural light, no readable text"
+  },
+  {
+   "id": "ai_demo_car",
+   "prompt": "A new SUV with a demonstrator plate cover on a dealership forecourt, sunny Australian suburb, no readable text, no logos"
+  },
+  {
+   "id": "persona_shocked",
+   "prompt": "Waist-up portrait of a fictional Australian man in his 30s with short dark hair and stubble, wearing a plain navy blue crew-neck sweater (never green), shocked expression with mouth open, both hands raised, looking straight at the camera",
+   "style": ", photorealistic studio portrait photograph, sharp focus on the face, even soft lighting, plain solid bright chroma green background #00FF00 filling the whole frame, no shadows on the background, no text, no logos",
+   "guard": "fictional",
+   "n": 2
+  }
+ ]
+}

@@ -1,0 +1,139 @@
+{
+ "defaults": {
+  "n": 4,
+  "clip": 8,
+  "sources": [
+   "coverr",
+   "pixabay",
+   "pexels"
+  ]
+ },
+ "shots": [
+  {
+   "id": "v_dealer",
+   "query": "car dealership",
+   "alt": [
+    "car showroom"
+   ]
+  },
+  {
+   "id": "v_salesman",
+   "query": "car salesman customer",
+   "alt": [
+    "buying a car"
+   ]
+  },
+  {
+   "id": "v_car_lot",
+   "query": "rows of parked cars",
+   "alt": [
+    "car park aerial"
+   ]
+  },
+  {
+   "id": "v_test_drive",
+   "query": "test drive car",
+   "alt": [
+    "driving new car"
+   ]
+  },
+  {
+   "id": "v_ev_charge",
+   "query": "electric car charging",
+   "alt": [
+    "ev charging"
+   ]
+  },
+  {
+   "id": "v_suv_drive",
+   "query": "suv driving road",
+   "alt": [
+    "family suv"
+   ]
+  },
+  {
+   "id": "v_offroad",
+   "query": "4x4 off road",
+   "alt": [
+    "jeep off road"
+   ]
+  },
+  {
+   "id": "v_luxury",
+   "query": "luxury car interior",
+   "alt": [
+    "luxury suv"
+   ]
+  },
+  {
+   "id": "v_traffic",
+   "query": "city traffic cars",
+   "alt": [
+    "highway traffic"
+   ]
+  },
+  {
+   "id": "v_money",
+   "query": "counting money",
+   "alt": [
+    "cash payment"
+   ]
+  },
+  {
+   "id": "v_calc",
+   "query": "calculator",
+   "alt": [
+    "paperwork calculator"
+   ]
+  },
+  {
+   "id": "v_keys",
+   "query": "car keys",
+   "alt": [
+    "handing car keys"
+   ]
+  },
+  {
+   "id": "v_sedan",
+   "query": "sedan driving",
+   "alt": [
+    "car on road"
+   ]
+  },
+  {
+   "id": "v_small_car",
+   "query": "small car city",
+   "alt": [
+    "hatchback driving"
+   ]
+  },
+  {
+   "id": "v_wash",
+   "query": "car wash",
+   "alt": [
+    "washing car"
+   ]
+  },
+  {
+   "id": "v_phone",
+   "query": "person phone scrolling",
+   "alt": [
+    "online shopping phone"
+   ]
+  },
+  {
+   "id": "v_port",
+   "query": "car carrier ship port",
+   "alt": [
+    "cars port import"
+   ]
+  },
+  {
+   "id": "v_family",
+   "query": "family car",
+   "alt": [
+    "family loading car"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,321 @@
+{
+ "defaults": {
+  "n": 4,
+  "sources": [
+   "commons",
+   "pixabay"
+  ]
+ },
+ "shots": [
+  {
+   "id": "m_ioniq9",
+   "query": "Hyundai Ioniq 9",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_id4",
+   "query": "Volkswagen ID.4",
+   "alt": [
+    "VW ID.4"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_tcross",
+   "query": "Volkswagen T-Cross",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_omoda9",
+   "query": "Omoda 9",
+   "alt": [
+    "Chery Fulwin T11"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_koleos",
+   "query": "Renault Koleos",
+   "alt": [
+    "Renault Koleos 2022"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_cx70",
+   "query": "Mazda CX-70",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_gv80",
+   "query": "Genesis GV80",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_gv70",
+   "query": "Genesis GV70",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_bmw_ix",
+   "query": "BMW iX",
+   "alt": [
+    "BMW iX xDrive"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_polestar3",
+   "query": "Polestar 3",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_wrangler",
+   "query": "Jeep Wrangler",
+   "alt": [
+    "Jeep Wrangler JL"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_gladiator",
+   "query": "Jeep Gladiator",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_tonale",
+   "query": "Alfa Romeo Tonale",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_stelvio",
+   "query": "Alfa Romeo Stelvio",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_fiat500",
+   "query": "Fiat 500",
+   "alt": [
+    "Fiat 500e"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_peugeot308",
+   "query": "Peugeot 308",
+   "alt": [
+    "Peugeot 308 2022"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_lc70",
+   "query": "Toyota Land Cruiser 70",
+   "alt": [
+    "LandCruiser 79"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_fortuner",
+   "query": "Toyota Fortuner",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_ora",
+   "query": "GWM Ora",
+   "alt": [
+    "Ora Good Cat"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_troc",
+   "query": "Volkswagen T-Roc",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_cclass",
+   "query": "Mercedes-Benz C-Class W206",
+   "alt": [
+    "Mercedes C-Class"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_xc90",
+   "query": "Volvo XC90",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_cx90",
+   "query": "Mazda CX-90",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_sonata",
+   "query": "Hyundai Sonata",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_superb",
+   "query": "Skoda Superb",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_civic",
+   "query": "Honda Civic",
+   "alt": [
+    "Honda Civic 2022"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_ranger",
+   "query": "Ford Ranger",
+   "alt": [
+    "Ford Ranger 2023"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_rav4",
+   "query": "Toyota RAV4",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_sealion7",
+   "query": "BYD Sealion 7",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_tiggo4",
+   "query": "Chery Tiggo 4",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_jolion",
+   "query": "Haval Jolion",
+   "alt": [
+    "GWM Haval Jolion"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_ex5",
+   "query": "Geely EX5",
+   "alt": [
+    "Geely Galaxy E5"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_ix3",
+   "query": "BMW iX3",
+   "alt": [
+    "BMW iX3 Neue Klasse"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_cx60",
+   "query": "Mazda CX-60",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_model_y",
+   "query": "Tesla Model Y",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_hilux",
+   "query": "Toyota Hilux",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "h_dealer_lot",
+   "query": "car dealership lot rows of new cars",
+   "alt": [
+    "new cars dealer yard"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_showroom",
+   "query": "car showroom",
+   "alt": [
+    "car dealership interior"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_discount",
+   "query": "car sale price sign",
+   "alt": [
+    "car dealer discount"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_keys",
+   "query": "car keys handover",
+   "alt": [
+    "car key"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_calc",
+   "query": "calculator money",
+   "alt": [
+    "budget calculator"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_traffic",
+   "query": "australia traffic cars",
+   "alt": [
+    "sydney traffic"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_used",
+   "query": "used car lot",
+   "alt": [
+    "second hand cars"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_salesman",
+   "query": "car salesman",
+   "alt": [
+    "car dealer customer"
+   ],
+   "n": 4
+  }
+ ]
+}
