@@ -1,0 +1,172 @@
+[     0s] aus15-ute-price-war: 16 planos de video
+[     1s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=pickup+truck+off+road&page_size=8&urls=true&api_key=e46f0775805a10
+[     1s]   v_ute_offroad / coverr: 0 filmes para 'pickup truck off road'
+[     2s]   v_ute_offroad / pixabay: 12 filmes para 'pickup truck off road'
+[     2s]   v_ute_offroad / pexels: 0 filmes para 'pickup truck off road'
+[    19s]     trecho escuro em 8s, tentando mais adiante
+[    36s]     trecho escuro em 8s, tentando mais adiante
+[    46s]     + 1_pixabay.mp4 de 'truck, military, unimog, mercedes-benz, off-road' a partir de 10s
+[    46s]     trecho escuro em 0s, tentando mais adiante
+[    47s]     trecho escuro em 0s, tentando mais adiante
+[    59s]     + 2_pixabay.mp4 de 'unimog, mercedes-benz, off-road, military, truck' a partir de 0s
+[    72s]     + 3_pixabay.mp4 de 'road, snow, pickup, aerial, landscape, winter, mountains, hi' a partir de 8s
+[    80s]     + 4_pixabay.mp4 de 'road, cargo, trailer, truck' a partir de 0s
+[    81s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=pickup+truck+driving&page_size=8&urls=true&api_key=e46f0775805a10c
+[    81s]   v_ute_drive / coverr: 0 filmes para 'pickup truck driving'
+[    82s]   v_ute_drive / pixabay: 11 filmes para 'pickup truck driving'
+[    82s]   v_ute_drive / pexels: 0 filmes para 'pickup truck driving'
+[    87s]     + 1_pixabay.mp4 de 'old truck, work truck, country, old country, country boy, co' a partir de 0s
+[    93s]     + 2_pixabay.mp4 de 'car, road, transportation, vehicle, driving, car on road, tr' a partir de 21s
+[    93s]     trecho escuro em 8s, tentando mais adiante
+[    94s]     trecho escuro em 10s, tentando mais adiante
+[   107s]     + 3_pixabay.mp4 de 'tractor, farmer, urban, highway, transport, driving, road, t' a partir de 14s
+[   113s]     trecho escuro em 8s, tentando mais adiante
+[   119s]     trecho escuro em 8s, tentando mais adiante
+[   134s]     + 4_pixabay.mp4 de 'car, desert, driving, drone, sand, arial, tajikistan' a partir de 0s
+[   134s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=construction+worker+truck&page_size=8&urls=true&api_key=e46f077580
+[   134s]   v_tradie / coverr: 0 filmes para 'construction worker truck'
+[   135s]   v_tradie / pixabay: 12 filmes para 'construction worker truck'
+[   135s]   v_tradie / pexels: 0 filmes para 'construction worker truck'
+[   142s]     trecho escuro em 8s, tentando mais adiante
+[   148s]     trecho escuro em 8s, tentando mais adiante
+[   158s]     + 1_pixabay.mp4 de 'construction site, construction workers, construction, worke' a partir de 8s
+[   164s]     + 2_pixabay.mp4 de 'construction site, construction workers, construction, worke' a partir de 8s
+[   171s]     + 3_pixabay.mp4 de 'construction site, construction workers, construction, worke' a partir de 8s
+[   175s]     trecho escuro em 8s, tentando mais adiante
+[   179s]     trecho escuro em 8s, tentando mais adiante
+[   194s]     + 4_pixabay.mp4 de 'machinery, crane, industrial, equipment, machine, engineerin' a partir de 11s
+[   195s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=truck+towing+trailer&page_size=8&urls=true&api_key=e46f0775805a10c
+[   195s]   v_tow / coverr: 0 filmes para 'truck towing trailer'
+[   196s]   v_tow / pixabay: 12 filmes para 'truck towing trailer'
+[   196s]   v_tow / pexels: 0 filmes para 'truck towing trailer'
+[   197s]     trecho escuro em 0s, tentando mais adiante
+[   197s]     trecho escuro em 0s, tentando mais adiante
+[   206s]     + 1_pixabay.mp4 de 'ai generated, truck, accident, recovery, towing, breakdown, ' a partir de 0s
+[   206s]     trecho escuro em 0s, tentando mais adiante
+[   207s]     trecho escuro em 0s, tentando mais adiante
+[   213s]     + 2_pixabay.mp4 de 'ai generated, truck, accident, recovery, towing, breakdown, ' a partir de 0s
+[   213s]     trecho escuro em 0s, tentando mais adiante
+[   221s]     + 3_pixabay.mp4 de 'truck, accident, recovery, towing, breakdown, damaged, road ' a partir de 0s
+[   222s]     trecho escuro em 0s, tentando mais adiante
+[   223s]     trecho escuro em 0s, tentando mais adiante
+[   231s]     + 4_pixabay.mp4 de 'ai generated, truck, accident, recovery, towing, breakdown, ' a partir de 0s
+[   232s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=diesel+fuel+pump+nozzle&page_size=8&urls=true&api_key=e46f0775805a
+[   232s]   v_fuel / coverr: 0 filmes para 'diesel fuel pump nozzle'
+[   233s]   v_fuel / pixabay: 11 filmes para 'diesel fuel pump nozzle'
+[   233s]   v_fuel / pexels: 0 filmes para 'diesel fuel pump nozzle'
+[   237s]     + 1_pixabay.mp4 de 'valve, oil, gauge, technology, metal, pipes, diesel, equipme' a partir de 0s
+[   237s]     trecho escuro em 8s, tentando mais adiante
+[   238s]     trecho escuro em 8s, tentando mais adiante
+[   251s]     + 2_pixabay.mp4 de 'construction, crane, truck, building, concrete pump, basemen' a partir de 8s
+[   256s]     + 3_pixabay.mp4 de 'birds, animal, bird, nature, lake, nozzle, beautiful, swim' a partir de 8s
+[   263s]     + 4_pixabay.mp4 de 'rocket launch, thrusters, nasa, space ship, rocket, space tr' a partir de 20s
+[   263s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=car+dealership&page_size=8&urls=true&api_key=e46f0775805a10c2dd344
+[   263s]   v_dealer / coverr: 0 filmes para 'car dealership'
+[   265s]   v_dealer / pixabay: 12 filmes para 'car dealership'
+[   265s]   v_dealer / pexels: 0 filmes para 'car dealership'
+[   265s]     trecho escuro em 0s, tentando mais adiante
+[   271s]     + 1_pixabay.mp4 de 'car dealership success, new vehicle purchase, professional c' a partir de 0s
+[   281s]     + 2_pixabay.mp4 de 'traffic, city, stop, road, car, bridge, river, urban' a partir de 8s
+[   287s]     + 3_pixabay.mp4 de 'rallye, car race, rally, drifting, dirt, dust, curve, speed,' a partir de 0s
+[   296s]     + 4_pixabay.mp4 de 'street, traffic, cars, city, night, view, car, skyscrapers, ' a partir de 8s
+[   296s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=farm+truck+field&page_size=8&urls=true&api_key=e46f0775805a10c2dd3
+[   296s]   v_farm / coverr: 0 filmes para 'farm truck field'
+[   298s]   v_farm / pixabay: 11 filmes para 'farm truck field'
+[   298s]   v_farm / pexels: 0 filmes para 'farm truck field'
+[   298s]     trecho escuro em 10s, tentando mais adiante
+[   299s]     trecho escuro em 16s, tentando mais adiante
+[   304s]     + 1_pixabay.mp4 de 'countryside, cotton, cotton fields, farms, agriculture, ariz' a partir de 8s
+[   313s]     + 2_pixabay.mp4 de 'grass, dew, field, fog, morning, nature, sunshine, green, gr' a partir de 10s
+[   317s]     + 3_pixabay.mp4 de 'windmill, agriculture, farm, rural, mill, wind, power, old, ' a partir de 8s
+[   321s]     + 4_pixabay.mp4 de 'clouds, drone, aerial, landscape, photo, sunrise, sunset, na' a partir de 0s
+[   322s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=outback+road&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444a
+[   322s]   v_outback / coverr: 0 filmes para 'outback road'
+[   323s]   v_outback / pixabay: 11 filmes para 'outback road'
+[   323s]   v_outback / pexels: 0 filmes para 'outback road'
+[   324s]     trecho escuro em 0s, tentando mais adiante
+[   324s]     trecho escuro em 0s, tentando mais adiante
+[   335s]     + 1_pixabay.mp4 de 'aerial view, nature, rocks, red earth, australia, outback, d' a partir de 0s
+[   345s]     + 2_pixabay.mp4 de 'road, cars, forest, daylight, autumn, netherlands, drenthe' a partir de 8s
+[   358s]     + 3_pixabay.mp4 de 'salt lake, pink, lake, aerial view, drone video, outdoors, n' a partir de 8s
+[   359s]     trecho escuro em 8s, tentando mais adiante
+[   364s]     + 4_pixabay.mp4 de 'salt lake, color, lake, pattern, nature, outdoors, drone vid' a partir de 9s
+[   365s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=counting+money&page_size=8&urls=true&api_key=e46f0775805a10c2dd344
+[   365s]   v_money / coverr: 0 filmes para 'counting money'
+[   366s]   v_money / pixabay: 12 filmes para 'counting money'
+[   366s]   v_money / pexels: 0 filmes para 'counting money'
+[   371s]     + 1_pixabay.mp4 de 'money, income, salary, dollars, counting cash, payment, coun' a partir de 8s
+[   375s]     + 2_pixabay.mp4 de 'money, income, salary, dollars, counting cash, payment, coun' a partir de 0s
+[   380s]     + 3_pixabay.mp4 de 'money, budget, count, cash, counting, calculator, finance, m' a partir de 8s
+[   385s]     + 4_pixabay.mp4 de 'cash, bills, banknotes, income, business, currency, dollar, ' a partir de 0s
+[   386s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=calculator+paperwork&page_size=8&urls=true&api_key=e46f0775805a10c
+[   386s]   v_calc / coverr: 0 filmes para 'calculator paperwork'
+[   387s]   v_calc / pixabay: 12 filmes para 'calculator paperwork'
+[   387s]   v_calc / pexels: 0 filmes para 'calculator paperwork'
+[   391s]     + 1_pixabay.mp4 de 'file, documents, office, paperwork' a partir de 0s
+[   391s]     trecho escuro em 8s, tentando mais adiante
+[   392s]     trecho escuro em 9s, tentando mais adiante
+[   401s]     + 2_pixabay.mp4 de 'man, calculator, calculation, surprise, mathematics, figures' a partir de 13s
+[   402s]     trecho escuro em 0s, tentando mais adiante
+[   408s]     + 3_pixabay.mp4 de 'woman, cash, money, paper, business, worker, calculator, bac' a partir de 0s
+[   416s]     + 4_pixabay.mp4 de 'woman, cash, money, paper, beautiful wallpaper, business, wo' a partir de 0s
+[   417s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=car+keys&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e
+[   417s]   v_keys / coverr: 0 filmes para 'car keys'
+[   418s]   v_keys / pixabay: 12 filmes para 'car keys'
+[   418s]   v_keys / pexels: 0 filmes para 'car keys'
+[   420s]     trecho escuro em 8s, tentando mais adiante
+[   422s]     trecho escuro em 8s, tentando mais adiante
+[   427s]     + 1_pixabay.mp4 de 'car, red, rims, real ferrari, chroma key, green screen' a partir de 0s
+[   429s]     trecho escuro em 8s, tentando mais adiante
+[   431s]     trecho escuro em 8s, tentando mais adiante
+[   435s]     trecho escuro em 8s, tentando mais adiante
+[   437s]     trecho escuro em 8s, tentando mais adiante
+[   442s]     + 2_pixabay.mp4 de 'truck, chromakey, motorcycle, car, motor, 3d, the green back' a partir de 14s
+[   444s]     + 3_pixabay.mp4 de 'police siren, alarm, green screen, chroma key, emergency lig' a partir de 0s
+[   445s]     trecho escuro em 0s, tentando mais adiante
+[   449s]     + 4_pixabay.mp4 de 'car crash, green screen, 3d, car destruction, 3d car crash, ' a partir de 0s
+[   450s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=highway+traffic&page_size=8&urls=true&api_key=e46f0775805a10c2dd34
+[   450s]   v_traffic / coverr: 0 filmes para 'highway traffic'
+[   451s]   v_traffic / pixabay: 11 filmes para 'highway traffic'
+[   451s]   v_traffic / pexels: 0 filmes para 'highway traffic'
+[   461s]     trecho escuro em 8s, tentando mais adiante
+[   471s]     trecho escuro em 8s, tentando mais adiante
+[   490s]     + 1_pixabay.mp4 de 'transport, traffic, highway, road, transportation, city, tra' a partir de 9s
+[   499s]     + 2_pixabay.mp4 de 'highway, road, traffic, vehicles, flow, night, lighting, tra' a partir de 9s
+[   517s]     + 3_pixabay.mp4 de 'cars, speed, gate, traffic jam, highway, road traffic, taipe' a partir de 8s
+[   524s]     + 4_pixabay.mp4 de 'highway, traffic, cars, road, transportation, truck, speed' a partir de 14s
+[   525s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=electric+car+charging&page_size=8&urls=true&api_key=e46f0775805a10
+[   525s]   v_ev_charge / coverr: 0 filmes para 'electric car charging'
+[   526s]   v_ev_charge / pixabay: 12 filmes para 'electric car charging'
+[   526s]   v_ev_charge / pexels: 0 filmes para 'electric car charging'
+[   530s]     + 1_pixabay.mp4 de 'charging plug, e auto, electric car, charging station, e mob' a partir de 8s
+[   538s]     + 2_pixabay.mp4 de 'automobile, ev, electric, sola, battery, charge, energy, ele' a partir de 0s
+[   538s]     trecho escuro em 0s, tentando mais adiante
+[   545s]     + 3_pixabay.mp4 de 'electric vehicle charging, sustainable urban lifestyle, busi' a partir de 0s
+[   546s]     trecho escuro em 0s, tentando mais adiante
+[   552s]     + 4_pixabay.mp4 de 'electric vehicle charging, green energy technology, sustaina' a partir de 0s
+[   553s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=car+carrier+ship&page_size=8&urls=true&api_key=e46f0775805a10c2dd3
+[   553s]   v_port / coverr: 0 filmes para 'car carrier ship'
+[   554s]   v_port / pixabay: 12 filmes para 'car carrier ship'
+[   554s]   v_port / pexels: 0 filmes para 'car carrier ship'
+[   559s]     + 1_pixabay.mp4 de 'trucks, road, transport, highway, loading, car, shipping, tr' a partir de 8s
+[   563s]     + 2_pixabay.mp4 de 'trucks, transport, road, highway, carrier, trucking, displac' a partir de 21s
+[   568s]     + 3_pixabay.mp4 de 'cruise ship, cruises, harbour, ship, sea, port, transport, c' a partir de 8s
+[   572s]     + 4_pixabay.mp4 de 'ship, lake, clouds, heaven, shipping, cloud formation' a partir de 20s
+[   573s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=big+pickup+truck&page_size=8&urls=true&api_key=e46f0775805a10c2dd3
+[   573s]   v_pickup_us / coverr: 0 filmes para 'big pickup truck'
+[   574s]   v_pickup_us / pixabay: 12 filmes para 'big pickup truck'
+[   574s]   v_pickup_us / pexels: 0 filmes para 'big pickup truck'
+[   581s]     + 1_pixabay.mp4 de 'nebula, galaxy, space, fantasy, exploration, cosmos, cosmic,' a partir de 8s
+[   584s]     + 2_pixabay.mp4 de 'truck, camion, lorry, van, 2d, anime, screen, green, lampsha' a partir de 0s
+[   597s]     + 3_pixabay.mp4 de 'road, snow, pickup, aerial, landscape, winter, mountains, hi' a partir de 8s
+[   607s]     + 4_pixabay.mp4 de 'garbage truck, road, garbage, house, bins, recycle, plastic,' a partir de 0s
+[   608s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=business+handshake&page_size=8&urls=true&api_key=e46f0775805a10c2d
+[   608s]   v_handshake / coverr: 0 filmes para 'business handshake'
+[   609s]   v_handshake / pixabay: 12 filmes para 'business handshake'
+[   609s]   v_handshake / pexels: 0 filmes para 'business handshake'
+[   611s]     trecho escuro em 8s, tentando mais adiante
+[   612s]     trecho escuro em 8s, tentando mais adiante
+[   621s]     + 1_pixabay.mp4 de 'meeting, business, office, people, hello, handshake, partner' a partir de 0s
+[   624s]     + 2_pixabay.mp4 de 'ai generated, hello, handshake, business people, contract, a' a partir de 0s
+[   627s]     + 3_pixabay.mp4 de 'handshake, agreement, contract, deal, opportunity, cooperati' a partir de 0s
+[   632s]     + 4_pixabay.mp4 de 'diversity, teamwork, unity, hands, friends, together, busine' a partir de 0s
