@@ -260,6 +260,42 @@
     "unsplash",
     "pixabay"
    ]
+  },
+  {
+   "id": "m_jaguar_car",
+   "query": "Jaguar F-Pace",
+   "alt": [
+    "Jaguar XF",
+    "Jaguar I-Pace"
+   ],
+   "n": 6,
+   "sources": [
+    "commons"
+   ]
+  },
+  {
+   "id": "h_showroom2",
+   "query": "car showroom interior",
+   "alt": [
+    "new car dealership interior"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_workshop2",
+   "query": "modern car service workshop",
+   "alt": [
+    "mechanic modern garage"
+   ],
+   "n": 6,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
   }
  ]
 }
