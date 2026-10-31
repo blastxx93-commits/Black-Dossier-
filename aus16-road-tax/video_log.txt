@@ -1,0 +1,157 @@
+[     0s] aus16-road-tax: 16 planos de video
+[     1s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=fuel+pump+refueling&page_size=8&urls=true&api_key=e46f0775805a10c2
+[     1s]   v_fuel / coverr: 0 filmes para 'fuel pump refueling'
+[     2s]   v_fuel / pixabay: 11 filmes para 'fuel pump refueling'
+[     2s]   v_fuel / pexels: 0 filmes para 'fuel pump refueling'
+[    15s]     + 1_pixabay.mp4 de 'construction, crane, truck, building, concrete pump, basemen' a partir de 8s
+[    27s]     + 2_pixabay.mp4 de 'rocket launch, thrusters, nasa, space ship, rocket, space tr' a partir de 20s
+[    38s]     + 3_pixabay.mp4 de 'construction, city, crane, building, concrete pump, basement' a partir de 15s
+[    46s]     + 4_pixabay.mp4 de 'dragonfly, insect, nature, wood, wing, beautiful, 4k, pumps' a partir de 0s
+[    47s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=gas+station+night&page_size=8&urls=true&api_key=e46f0775805a10c2dd
+[    47s]   v_servo / coverr: 0 filmes para 'gas station night'
+[    48s]   v_servo / pixabay: 12 filmes para 'gas station night'
+[    48s]   v_servo / pexels: 0 filmes para 'gas station night'
+[    52s]     + 1_pixabay.mp4 de 'gas, station, cartoon, night, stars, animated, loop' a partir de 10s
+[    69s]     + 2_pixabay.mp4 de 'road, cars, night, vehicle, petrol station, gas station, str' a partir de 0s
+[    90s]     + 3_pixabay.mp4 de 'big city, tokyo station, high rise building, building, night' a partir de 8s
+[    98s]     + 4_pixabay.mp4 de 'queen, square, bus, station, night, liverpool, royal, city, ' a partir de 13s
+[    99s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=highway+traffic&page_size=8&urls=true&api_key=e46f0775805a10c2dd34
+[    99s]   v_traffic / coverr: 0 filmes para 'highway traffic'
+[   100s]   v_traffic / pixabay: 11 filmes para 'highway traffic'
+[   100s]   v_traffic / pexels: 0 filmes para 'highway traffic'
+[   115s]     trecho escuro em 8s, tentando mais adiante
+[   130s]     trecho escuro em 8s, tentando mais adiante
+[   159s]     + 1_pixabay.mp4 de 'transport, traffic, highway, road, transportation, city, tra' a partir de 9s
+[   174s]     + 2_pixabay.mp4 de 'highway, road, traffic, vehicles, flow, night, lighting, tra' a partir de 9s
+[   202s]     + 3_pixabay.mp4 de 'cars, speed, gate, traffic jam, highway, road traffic, taipe' a partir de 8s
+[   213s]     + 4_pixabay.mp4 de 'highway, traffic, cars, road, transportation, truck, speed' a partir de 14s
+[   214s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=electric+car+charging&page_size=8&urls=true&api_key=e46f0775805a10
+[   214s]   v_ev_charge / coverr: 0 filmes para 'electric car charging'
+[   215s]   v_ev_charge / pixabay: 12 filmes para 'electric car charging'
+[   215s]   v_ev_charge / pexels: 0 filmes para 'electric car charging'
+[   221s]     + 1_pixabay.mp4 de 'charging plug, e auto, electric car, charging station, e mob' a partir de 8s
+[   233s]     + 2_pixabay.mp4 de 'automobile, ev, electric, sola, battery, charge, energy, ele' a partir de 0s
+[   245s]     + 3_pixabay.mp4 de 'electric vehicle charging, sustainable urban lifestyle, busi' a partir de 0s
+[   255s]     + 4_pixabay.mp4 de 'electric vehicle charging, green energy technology, sustaina' a partir de 0s
+[   255s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=car+dashboard+driving&page_size=8&urls=true&api_key=e46f0775805a10
+[   255s]   v_dashboard / coverr: 0 filmes para 'car dashboard driving'
+[   257s]   v_dashboard / pixabay: 10 filmes para 'car dashboard driving'
+[   257s]   v_dashboard / pexels: 0 filmes para 'car dashboard driving'
+[   260s]     + 1_pixabay.mp4 de 'car, interior, vehicle, automobile, transport, dashboard, sp' a partir de 11s
+[   271s]     + 2_pixabay.mp4 de 'speed, meter, speedometer, dashboard, vehicle, competition, ' a partir de 0s
+[   276s]     trecho escuro em 8s, tentando mais adiante
+[   280s]     trecho escuro em 8s, tentando mais adiante
+[   286s]     trecho escuro em 8s, tentando mais adiante
+[   288s]     trecho escuro em 8s, tentando mais adiante
+[   298s]     + 3_pixabay.mp4 de 'car, road, transportation, vehicle, driving, car on road, tr' a partir de 21s
+[   314s]     + 4_pixabay.mp4 de 'car, desert, driving, drone, sand, arial, tajikistan' a partir de 0s
+[   314s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=road+construction&page_size=8&urls=true&api_key=e46f0775805a10c2dd
+[   314s]   v_roadworks / coverr: 0 filmes para 'road construction'
+[   316s]   v_roadworks / pixabay: 3 filmes para 'road construction'
+[   316s]   v_roadworks / pexels: 0 filmes para 'road construction'
+[   332s]     + 1_pixabay.mp4 de 'bridge, brooklyn bridge, road, architecture, sky, city, susp' a partir de 0s
+[   342s]     + 2_pixabay.mp4 de 'construction, street, building, road, architecture, city, ur' a partir de 12s
+[   349s]     + 3_pixabay.mp4 de 'cityscape, segambut, construction work, crane, building, mal' a partir de 0s
+[   350s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=asphalt+paving&page_size=8&urls=true&api_key=e46f0775805a10c2dd344
+[   350s]   v_roadworks / coverr: 0 filmes para 'asphalt paving'
+[   351s]   v_roadworks / pixabay: 9 filmes para 'asphalt paving'
+[   351s]   v_roadworks / pexels: 0 filmes para 'asphalt paving'
+[   361s]     + 4_pixabay.mp4 de 'asphalt paving machine, asphalting, building, equipment, ind' a partir de 0s
+[   361s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=country+road+driving&page_size=8&urls=true&api_key=e46f0775805a10c
+[   361s]   v_rural / coverr: 0 filmes para 'country road driving'
+[   363s]   v_rural / pixabay: 11 filmes para 'country road driving'
+[   363s]   v_rural / pexels: 0 filmes para 'country road driving'
+[   377s]     trecho escuro em 8s, tentando mais adiante
+[   391s]     trecho escuro em 8s, tentando mais adiante
+[   415s]     + 1_pixabay.mp4 de 'road, highway, car, mountain, landscape, asphalt, sky, trave' a partir de 15s
+[   433s]     + 2_pixabay.mp4 de 'country, road, driving, spring, blooming, trees, speed, rura' a partir de 8s
+[   455s]     + 3_pixabay.mp4 de 'road, driving, country, fall, autumn, uk' a partir de 8s
+[   456s]     trecho escuro em 0s, tentando mais adiante
+[   456s]     trecho escuro em 0s, tentando mais adiante
+[   471s]     + 4_pixabay.mp4 de 'road, street, traffic, transportation, asphalt, journey, spe' a partir de 0s
+[   472s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=counting+money&page_size=8&urls=true&api_key=e46f0775805a10c2dd344
+[   472s]   v_money / coverr: 0 filmes para 'counting money'
+[   473s]   v_money / pixabay: 12 filmes para 'counting money'
+[   473s]   v_money / pexels: 0 filmes para 'counting money'
+[   480s]     + 1_pixabay.mp4 de 'money, income, salary, dollars, counting cash, payment, coun' a partir de 8s
+[   487s]     + 2_pixabay.mp4 de 'money, income, salary, dollars, counting cash, payment, coun' a partir de 0s
+[   495s]     + 3_pixabay.mp4 de 'money, budget, count, cash, counting, calculator, finance, m' a partir de 8s
+[   503s]     + 4_pixabay.mp4 de 'cash, bills, banknotes, income, business, currency, dollar, ' a partir de 0s
+[   504s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=calculator&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa8
+[   504s]   v_calc / coverr: 0 filmes para 'calculator'
+[   505s]   v_calc / pixabay: 11 filmes para 'calculator'
+[   505s]   v_calc / pexels: 0 filmes para 'calculator'
+[   525s]     + 1_pixabay.mp4 de 'man, calculator, calculation, surprise, mathematics, figures' a partir de 8s
+[   535s]     + 2_pixabay.mp4 de 'woman, cash, money, paper, business, worker, calculator, bac' a partir de 0s
+[   547s]     + 3_pixabay.mp4 de 'woman, cash, money, paper, beautiful wallpaper, business, wo' a partir de 0s
+[   551s]     + 4_pixabay.mp4 de 'curta, calculator, mechanical, calculation, addition, multip' a partir de 16s
+[   551s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=gps+navigation+map&page_size=8&urls=true&api_key=e46f0775805a10c2d
+[   551s]   v_gps / coverr: 0 filmes para 'gps navigation map'
+[   552s]   v_gps / pixabay: 11 filmes para 'gps navigation map'
+[   552s]   v_gps / pexels: 0 filmes para 'gps navigation map'
+[   556s]     + 1_pixabay.mp4 de 'map, world map, road map, city map, navigation, cartography,' a partir de 0s
+[   559s]     + 2_pixabay.mp4 de 'location, map, pin, gps, geography, travel, icon, navigation' a partir de 9s
+[   566s]     + 3_pixabay.mp4 de 'travel, airplane, aviation, aircraft, plane, helicopter, fli' a partir de 0s
+[   570s]     + 4_pixabay.mp4 de 'distance measuring, dotted line animation, 4k, distance meas' a partir de 0s
+[   571s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=city+street+cars&page_size=8&urls=true&api_key=e46f0775805a10c2dd3
+[   571s]   v_city / coverr: 0 filmes para 'city street cars'
+[   572s]   v_city / pixabay: 12 filmes para 'city street cars'
+[   572s]   v_city / pexels: 0 filmes para 'city street cars'
+[   584s]     + 1_pixabay.mp4 de 'street, traffic, cars, city, night, view, car, skyscrapers, ' a partir de 8s
+[   590s]     + 2_pixabay.mp4 de 'traffic, city traffic, drone, transportation, crowd, driving' a partir de 0s
+[   595s]     trecho escuro em 8s, tentando mais adiante
+[   599s]     trecho escuro em 8s, tentando mais adiante
+[   609s]     + 3_pixabay.mp4 de 'seoul, traffic, cars, city, speed, lights, south korea, nigh' a partir de 0s
+[   617s]     + 4_pixabay.mp4 de 'buildings, street, car, automobile, lights, city, night' a partir de 0s
+[   618s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=aerial+highway&page_size=8&urls=true&api_key=e46f0775805a10c2dd344
+[   618s]   v_aerial_road / coverr: 0 filmes para 'aerial highway'
+[   619s]   v_aerial_road / pixabay: 11 filmes para 'aerial highway'
+[   619s]   v_aerial_road / pexels: 0 filmes para 'aerial highway'
+[   631s]     trecho escuro em 8s, tentando mais adiante
+[   642s]     trecho escuro em 8s, tentando mais adiante
+[   659s]     trecho escuro em 8s, tentando mais adiante
+[   668s]     trecho escuro em 8s, tentando mais adiante
+[   682s]     + 1_pixabay.mp4 de 'city, nightfall, hong kong, sunset, traffic, harbor, highway' a partir de 10s
+[   691s]     trecho escuro em 8s, tentando mais adiante
+[   700s]     trecho escuro em 8s, tentando mais adiante
+[   729s]     + 2_pixabay.mp4 de 'road, snow, pickup, aerial, landscape, winter, mountains, hi' a partir de 8s
+[   749s]     + 3_pixabay.mp4 de 'road, snow, pickup, aerial, landscape, winter, mountains, hi' a partir de 8s
+[   759s]     + 4_pixabay.mp4 de 'cars, lake, road, highway, vehicle, water, aerial' a partir de 10s
+[   760s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=family+car+trip&page_size=8&urls=true&api_key=e46f0775805a10c2dd34
+[   760s]   v_family_car / coverr: 0 filmes para 'family car trip'
+[   761s]   v_family_car / pixabay: 11 filmes para 'family car trip'
+[   761s]   v_family_car / pexels: 0 filmes para 'family car trip'
+[   768s]     trecho escuro em 8s, tentando mais adiante
+[   775s]     + 1_pixabay.mp4 de 'driving, car, road trip, audi, automobile, travel, vacation,' a partir de 11s
+[   789s]     trecho escuro em 8s, tentando mais adiante
+[   802s]     trecho escuro em 8s, tentando mais adiante
+[   828s]     + 2_pixabay.mp4 de 'car, driving, sunset, sunlight, lens, flare, drone, aerial, ' a partir de 0s
+[   851s]     + 3_pixabay.mp4 de 'baboons, apes, cub, family, tree trunk, sitting, wildlife' a partir de 8s
+[   865s]     + 4_pixabay.mp4 de 'hawthorn, blossoms, to flourish, roses, pome fruit family, b' a partir de 0s
+[   866s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=pickup+truck+driving&page_size=8&urls=true&api_key=e46f0775805a10c
+[   866s]   v_ute / coverr: 0 filmes para 'pickup truck driving'
+[   867s]   v_ute / pixabay: 11 filmes para 'pickup truck driving'
+[   867s]   v_ute / pexels: 0 filmes para 'pickup truck driving'
+[   874s]     + 1_pixabay.mp4 de 'old truck, work truck, country, old country, country boy, co' a partir de 0s
+[   898s]     + 2_pixabay.mp4 de 'tractor, farmer, urban, highway, transport, driving, road, t' a partir de 8s
+[   906s]     + 3_pixabay.mp4 de 'freeway, traffic, cars, rainy, truck, dashcam, passing truck' a partir de 20s
+[   914s]     + 4_pixabay.mp4 de 'freeway, highway, traffic, cars, sun, truck, dashcam, passin' a partir de 15s
+[   915s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=government+building&page_size=8&urls=true&api_key=e46f0775805a10c2
+[   915s]   v_government / coverr: 0 filmes para 'government building'
+[   916s]   v_government / pixabay: 12 filmes para 'government building'
+[   916s]   v_government / pexels: 0 filmes para 'government building'
+[   928s]     trecho escuro em 8s, tentando mais adiante
+[   939s]     trecho escuro em 8s, tentando mais adiante
+[   955s]     + 1_pixabay.mp4 de 'facade, architecture, building, germany, city, capital, berl' a partir de 10s
+[   963s]     + 2_pixabay.mp4 de 'architecture, facade, building, germany, city, capital, berl' a partir de 9s
+[   971s]     + 3_pixabay.mp4 de 'building, berlin, germany, city, capital, munich, government' a partir de 9s
+[   981s]     + 4_pixabay.mp4 de 'statue, government, building, city, germany, berlin, munich,' a partir de 12s
+[   982s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=toll+road&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85
+[   982s]   v_toll / coverr: 0 filmes para 'toll road'
+[   983s]   v_toll / pixabay: 11 filmes para 'toll road'
+[   983s]   v_toll / pexels: 0 filmes para 'toll road'
+[   983s]     trecho escuro em 0s, tentando mais adiante
+[   990s]     + 1_pixabay.mp4 de 'urban infrastructure, elevated toll road, sky, elevated road' a partir de 0s
+[  1005s]     + 2_pixabay.mp4 de 'road, cars, forest, daylight, autumn, netherlands, drenthe' a partir de 8s
+[  1021s]     + 3_pixabay.mp4 de 'traffic, city, stop, road, car, bridge, river, urban' a partir de 8s
+[  1035s]     + 4_pixabay.mp4 de 'jog, path, road, forest, germany, bavaria, regensburg, danub' a partir de 8s
