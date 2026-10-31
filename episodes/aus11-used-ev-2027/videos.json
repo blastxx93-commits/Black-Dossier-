@@ -1,0 +1,181 @@
+{
+ "defaults": {
+  "n": 4,
+  "clip": 8,
+  "sources": [
+   "coverr",
+   "pixabay",
+   "pexels"
+  ]
+ },
+ "shots": [
+  {
+   "id": "v_ev_charge",
+   "query": "electric car charging",
+   "alt": [
+    "ev charging cable"
+   ]
+  },
+  {
+   "id": "v_ev_plug",
+   "query": "plugging in electric car",
+   "alt": [
+    "charging plug"
+   ]
+  },
+  {
+   "id": "v_charge_station",
+   "query": "ev charging station",
+   "alt": [
+    "fast charger"
+   ]
+  },
+  {
+   "id": "v_ev_drive",
+   "query": "electric car driving",
+   "alt": [
+    "tesla driving"
+   ]
+  },
+  {
+   "id": "v_tesla",
+   "query": "tesla model 3",
+   "alt": [
+    "tesla car"
+   ]
+  },
+  {
+   "id": "v_car_lot",
+   "query": "used car lot",
+   "alt": [
+    "car dealership lot"
+   ]
+  },
+  {
+   "id": "v_parking_rows",
+   "query": "cars parked rows aerial",
+   "alt": [
+    "parking lot aerial"
+   ]
+  },
+  {
+   "id": "v_auction",
+   "query": "auction",
+   "alt": [
+    "auctioneer"
+   ]
+  },
+  {
+   "id": "v_keys",
+   "query": "car keys",
+   "alt": [
+    "handing over car keys"
+   ]
+  },
+  {
+   "id": "v_handshake",
+   "query": "handshake car sale",
+   "alt": [
+    "business handshake"
+   ]
+  },
+  {
+   "id": "v_calc",
+   "query": "calculator",
+   "alt": [
+    "counting money"
+   ]
+  },
+  {
+   "id": "v_money",
+   "query": "australian dollars",
+   "alt": [
+    "paying cash"
+   ]
+  },
+  {
+   "id": "v_fuel",
+   "query": "fuel pump nozzle",
+   "alt": [
+    "refueling car"
+   ]
+  },
+  {
+   "id": "v_fuel_price",
+   "query": "gas station night",
+   "alt": [
+    "petrol station"
+   ]
+  },
+  {
+   "id": "v_laptop",
+   "query": "browsing laptop",
+   "alt": [
+    "online shopping laptop"
+   ]
+  },
+  {
+   "id": "v_phone",
+   "query": "scrolling phone",
+   "alt": [
+    "using smartphone"
+   ]
+  },
+  {
+   "id": "v_mechanic",
+   "query": "mechanic car",
+   "alt": [
+    "car inspection garage"
+   ]
+  },
+  {
+   "id": "v_tyre",
+   "query": "car tyre",
+   "alt": [
+    "tire wheel"
+   ]
+  },
+  {
+   "id": "v_country_road",
+   "query": "country road drive",
+   "alt": [
+    "rural road car"
+   ]
+  },
+  {
+   "id": "v_city_traffic",
+   "query": "city traffic",
+   "alt": [
+    "traffic timelapse"
+   ]
+  },
+  {
+   "id": "v_highway",
+   "query": "highway aerial",
+   "alt": [
+    "motorway drone"
+   ]
+  },
+  {
+   "id": "v_battery",
+   "query": "battery factory",
+   "alt": [
+    "lithium battery"
+   ]
+  },
+  {
+   "id": "v_dashboard",
+   "query": "car dashboard screen",
+   "alt": [
+    "electric car interior"
+   ]
+  },
+  {
+   "id": "v_wash",
+   "query": "car wash",
+   "alt": [
+    "washing car"
+   ]
+  }
+ ]
+}

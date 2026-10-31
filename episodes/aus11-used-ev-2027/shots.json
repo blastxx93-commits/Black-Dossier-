@@ -1,0 +1,211 @@
+{
+ "defaults": {
+  "n": 4,
+  "sources": [
+   "commons",
+   "pixabay"
+  ]
+ },
+ "shots": [
+  {
+   "id": "m_model_y",
+   "query": "Tesla Model Y",
+   "alt": [
+    "Tesla Model Y 2022"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_model_3",
+   "query": "Tesla Model 3",
+   "alt": [
+    "Tesla Model 3 2021"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_atto3",
+   "query": "BYD Atto 3",
+   "alt": [
+    "BYD Yuan Plus"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_mg4",
+   "query": "MG4 Electric",
+   "alt": [
+    "MG MG4"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_kona_ev",
+   "query": "Hyundai Kona Electric",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_ora",
+   "query": "GWM Ora",
+   "alt": [
+    "Ora Good Cat"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_polestar2",
+   "query": "Polestar 2",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_atto1",
+   "query": "BYD Atto 1",
+   "alt": [
+    "BYD Seagull"
+   ],
+   "n": 3
+  },
+  {
+   "id": "m_ioniq5",
+   "query": "Hyundai Ioniq 5",
+   "alt": [],
+   "n": 3
+  },
+  {
+   "id": "m_ev6",
+   "query": "Kia EV6",
+   "alt": [],
+   "n": 3
+  },
+  {
+   "id": "h_used_lot",
+   "query": "used car lot",
+   "alt": [
+    "used cars for sale"
+   ],
+   "n": 4,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_auction",
+   "query": "car auction",
+   "alt": [
+    "auction cars"
+   ],
+   "n": 4,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_ev_charge",
+   "query": "electric car charging",
+   "alt": [],
+   "n": 4,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_battery",
+   "query": "electric car battery",
+   "alt": [
+    "ev battery pack"
+   ],
+   "n": 4,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_keys",
+   "query": "car keys handover",
+   "alt": [
+    "handing car keys"
+   ],
+   "n": 4,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_calc",
+   "query": "calculator money",
+   "alt": [],
+   "n": 4,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_fuel",
+   "query": "petrol station price",
+   "alt": [
+    "fuel pump"
+   ],
+   "n": 4,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_country",
+   "query": "country town australia",
+   "alt": [
+    "regional australia road"
+   ],
+   "n": 4,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_laptop",
+   "query": "car listing online laptop",
+   "alt": [
+    "laptop browsing"
+   ],
+   "n": 4,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_mechanic",
+   "query": "mechanic inspecting car",
+   "alt": [
+    "car inspection"
+   ],
+   "n": 4,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_tyre",
+   "query": "car tyre",
+   "alt": [
+    "tire close up"
+   ],
+   "n": 4,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  }
+ ]
+}
