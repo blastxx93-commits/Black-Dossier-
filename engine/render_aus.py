@@ -378,7 +378,10 @@ def shot_bars(ctx, s, n):
     tmp = ImageDraw.Draw(Image.new("RGB", (1, 1)))
     ft = font("impact", ctx.px(80)); fl = font("impact", ctx.px(54)); fv = font("impact", ctx.px(64))
     x0 = ctx.px(110) + max(tmp.textlength(str(it[0]).upper(), font=fl) for it in items) + ctx.px(40)
-    x1 = ctx.W - ctx.px(360)
+    def _lbl(v):
+        return f"{s.get('prefix', '')}{int(round(v)):,}{s.get('suffix', '')}" if float(v).is_integer() else f"{s.get('prefix', '')}{v:.1f}{s.get('suffix', '')}"
+    lw = max(tmp.textlength(_lbl(v), font=fv) for v in vals)
+    x1 = ctx.W - max(ctx.px(360), int(lw) + ctx.px(80))   # value labels never run off the frame
     top, bh = ctx.px(320), ctx.px(96)
     gap = min(ctx.px(60), (ctx.H - ctx.px(260) - top - bh * len(items)) // max(1, len(items) - 1)) if len(items) > 1 else 0
     dtag = tag(ctx, s["delta"], size=70) if s.get("delta") else None
