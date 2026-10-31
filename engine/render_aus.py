@@ -374,7 +374,7 @@ def shot_stat(ctx, s, n):
 def shot_bars(ctx, s, n):
     items = s["items"]
     vals = [float(str(it[1]).replace(",", "").replace("$", "")) for it in items]
-    vmax = max(vals) or 1
+    vmax = max(abs(v) for v in vals) or 1  # negative values (falls) draw by size, label keeps the sign
     tmp = ImageDraw.Draw(Image.new("RGB", (1, 1)))
     ft = font("impact", ctx.px(80)); fl = font("impact", ctx.px(54)); fv = font("impact", ctx.px(64))
     x0 = ctx.px(110) + max(tmp.textlength(str(it[0]).upper(), font=fl) for it in items) + ctx.px(40)
@@ -395,7 +395,7 @@ def shot_bars(ctx, s, n):
             yy = top + j * (bh + gap)
             col = B["red"] if len(it) > 2 and it[2] == "red" else B["yellow"]
             d.text((ctx.px(110), yy + ctx.px(14)), str(it[0]).upper(), font=fl, fill=B["white"] + (255,))
-            w = (x1 - x0) * v / vmax * t
+            w = max(0.0, (x1 - x0) * abs(v) / vmax * t)
             d.rectangle([x0, yy, x0 + w, yy + bh], fill=col + (255,))
             vt = f"{int(round(v * t)):,}" if float(v).is_integer() else f"{v * t:.1f}"
             d.text((x0 + w + ctx.px(24), yy + ctx.px(8)), f"{s.get('prefix', '')}{vt}{s.get('suffix', '')}", font=fv, fill=B["white"] + (255,))
