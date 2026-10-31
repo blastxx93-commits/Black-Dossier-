@@ -1,0 +1,61 @@
+{
+ "fuel": [
+  "v_servo/1",
+  "v_servo/2"
+ ],
+ "ev": [
+  "v_ev_charge/1",
+  "v_ev_charge/3",
+  "v_ev_charge/4",
+  "v_ev_charge/2"
+ ],
+ "road": [
+  "v_rural/2",
+  "v_rural/4",
+  "v_rural/1",
+  "v_rural/3",
+  "v_ute/3",
+  "v_ute/4",
+  "v_ute/1",
+  "v_family_car/2",
+  "v_dashboard/4"
+ ],
+ "city": [
+  "v_traffic/3",
+  "v_city/1",
+  "v_city/3",
+  "v_traffic/2",
+  "v_city/2",
+  "v_city/4",
+  "v_traffic/4",
+  "v_dashboard/3"
+ ],
+ "money": [
+  "v_money/1",
+  "v_calc/1",
+  "v_money/4",
+  "v_calc/2",
+  "v_money/2",
+  "v_calc/3",
+  "v_money/3"
+ ],
+ "gps": [
+  "v_dashboard/1",
+  "v_gps/4",
+  "v_gps/1"
+ ],
+ "works": [
+  "v_roadworks/4"
+ ],
+ "_generic": [
+  "v_aerial_road/1",
+  "v_aerial_road/4",
+  "v_toll/1",
+  "v_toll/2",
+  "v_toll/3",
+  "v_ute/2",
+  "v_traffic/1",
+  "v_aerial_road/2",
+  "v_aerial_road/3"
+ ]
+}

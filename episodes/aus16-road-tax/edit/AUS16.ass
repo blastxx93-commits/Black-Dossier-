@@ -1,0 +1,333 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Doc,Inter SemiBold,44,&H0000E6FF,&H0000E6FF,&H00000000,&H96000000,0,0,0,0,100,100,0.5,0,1,2.4,1.2,2,200,200,62,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.05,Doc,,0,0,0,,Fifty-three point seven cents.
+Dialogue: 0,0:00:02.10,0:00:05.61,Doc,,0,0,0,,That's how much tax you pay on every\Nsingle litre of petrol or diesel in
+Dialogue: 0,0:00:05.66,0:00:06.99,Doc,,0,0,0,,Australia right now.
+Dialogue: 0,0:00:07.04,0:00:08.07,Doc,,0,0,0,,Fill up a big ute,
+Dialogue: 0,0:00:08.12,0:00:10.97,Doc,,0,0,0,,and you've handed the government around\Nforty dollars before you've even left
+Dialogue: 0,0:00:11.02,0:00:12.07,Doc,,0,0,0,,the servo.
+Dialogue: 0,0:00:12.12,0:00:16.19,Doc,,0,0,0,,Now imagine paying that and a new tax\Nfor every kilometre you drive on top of
+Dialogue: 0,0:00:16.24,0:00:16.63,Doc,,0,0,0,,it.
+Dialogue: 0,0:00:16.68,0:00:18.59,Doc,,0,0,0,,That's not a conspiracy theory.
+Dialogue: 0,0:00:18.64,0:00:20.45,Doc,,0,0,0,,In October 2026,
+Dialogue: 0,0:00:20.50,0:00:24.25,Doc,,0,0,0,,Tesla the world's best-known electric\Ncar company told a federal parliamentary
+Dialogue: 0,0:00:24.30,0:00:25.89,Doc,,0,0,0,,inquiry that petrol,
+Dialogue: 0,0:00:25.94,0:00:29.09,Doc,,0,0,0,,diesel and hybrid drivers should\Npay a per-kilometre road charge,
+Dialogue: 0,0:00:29.14,0:00:30.61,Doc,,0,0,0,,while keeping fuel excise.
+Dialogue: 0,0:00:30.66,0:00:34.93,Doc,,0,0,0,,The Australian Electric Vehicle\NAssociation has proposed something similar.
+Dialogue: 0,0:00:34.98,0:00:38.59,Doc,,0,0,0,,Polestar's Australian boss says a\Nroad-user charge is "inevitable".
+Dialogue: 0,0:00:38.64,0:00:42.15,Doc,,0,0,0,,And New South Wales already has a law\Nfor a per-kilometre charge on electric
+Dialogue: 0,0:00:42.20,0:00:45.37,Doc,,0,0,0,,cars, due to start in July 2027.
+Dialogue: 0,0:00:45.42,0:00:46.25,Doc,,0,0,0,,So in this video,
+Dialogue: 0,0:00:46.30,0:00:48.43,Doc,,0,0,0,,I'll explain exactly\Nwhat's being proposed,
+Dialogue: 0,0:00:48.48,0:00:49.31,Doc,,0,0,0,,who wants it,
+Dialogue: 0,0:00:49.36,0:00:51.89,Doc,,0,0,0,,what it could cost you\Nwhether you drive a Corolla,
+Dialogue: 0,0:00:51.94,0:00:55.01,Doc,,0,0,0,,a LandCruiser or a Tesla and what\Nyou can actually do about it.
+Dialogue: 0,0:00:55.06,0:00:58.61,Doc,,0,0,0,,Because the way Australians pay\Nfor roads is about to change,
+Dialogue: 0,0:00:58.66,0:01:00.94,Doc,,0,0,0,,and it's going to affect\Nevery driver in the country.
+Dialogue: 0,0:01:01.52,0:01:03.23,Doc,,0,0,0,,To understand why this is happening,
+Dialogue: 0,0:01:03.28,0:01:05.75,Doc,,0,0,0,,you need to understand how\Nroads are paid for today.
+Dialogue: 0,0:01:05.80,0:01:10.17,Doc,,0,0,0,,Every time you buy fuel, you pay\Nfuel excise a fixed tax per litre.
+Dialogue: 0,0:01:10.22,0:01:15.53,Doc,,0,0,0,,It went back up to around 53.7 cents\Na litre on the 3rd of August 2026,
+Dialogue: 0,0:01:15.58,0:01:18.51,Doc,,0,0,0,,after a temporary cut during\Nthe fuel crisis ended.
+Dialogue: 0,0:01:18.56,0:01:21.29,Doc,,0,0,0,,Before the cut, it was 52.6 cents.
+Dialogue: 0,0:01:21.34,0:01:23.73,Doc,,0,0,0,,And it rises twice a year with inflation.
+Dialogue: 0,0:01:23.78,0:01:25.87,Doc,,0,0,0,,During the 2026 fuel crisis,
+Dialogue: 0,0:01:25.92,0:01:27.97,Doc,,0,0,0,,the government cut\Nexcise for three months,
+Dialogue: 0,0:01:28.02,0:01:30.05,Doc,,0,0,0,,then extended a smaller\Ncut for another month,
+Dialogue: 0,0:01:30.10,0:01:32.77,Doc,,0,0,0,,before restoring the full rate in August.
+Dialogue: 0,0:01:32.82,0:01:36.31,Doc,,0,0,0,,That cut alone showed how much money is\Nat stake and how politically sensitive
+Dialogue: 0,0:01:36.36,0:01:37.85,Doc,,0,0,0,,fuel taxes are.
+Dialogue: 0,0:01:37.90,0:01:41.83,Doc,,0,0,0,,It's also worth knowing that fuel\Nexcise isn't a dedicated road fund.
+Dialogue: 0,0:01:41.88,0:01:46.35,Doc,,0,0,0,,It goes into general government\Nrevenue, alongside income tax and GST.
+Dialogue: 0,0:01:46.40,0:01:48.35,Doc,,0,0,0,,Road funding comes out of that bigger pot,
+Dialogue: 0,0:01:48.40,0:01:50.79,Doc,,0,0,0,,from federal, state and local governments.
+Dialogue: 0,0:01:50.84,0:01:53.71,Doc,,0,0,0,,So when people say "EV\Ndrivers don't pay for roads",
+Dialogue: 0,0:01:53.76,0:01:57.27,Doc,,0,0,0,,it's a bit more complicated than that\Nbut they're right that EV drivers don't
+Dialogue: 0,0:01:57.32,0:01:58.82,Doc,,0,0,0,,pay the biggest motoring tax.
+Dialogue: 0,0:01:58.87,0:02:02.67,Doc,,0,0,0,,Fuel excise raises roughly fifteen\Nbillion dollars a year for the federal
+Dialogue: 0,0:02:02.72,0:02:03.67,Doc,,0,0,0,,government.
+Dialogue: 0,0:02:03.72,0:02:04.59,Doc,,0,0,0,,According to the ABC,
+Dialogue: 0,0:02:04.64,0:02:10.19,Doc,,0,0,0,,the average petrol or diesel driver\Npays about $1,400 a year in excise.
+Dialogue: 0,0:02:10.24,0:02:11.14,Doc,,0,0,0,,But here's the problem.
+Dialogue: 0,0:02:11.19,0:02:13.05,Doc,,0,0,0,,Electric cars don't use fuel.
+Dialogue: 0,0:02:13.10,0:02:15.81,Doc,,0,0,0,,So EV drivers pay no fuel excise at all.
+Dialogue: 0,0:02:15.86,0:02:17.87,Doc,,0,0,0,,And EVs are no longer a niche.
+Dialogue: 0,0:02:17.92,0:02:19.75,Doc,,0,0,0,,In September 2026,
+Dialogue: 0,0:02:19.80,0:02:24.33,Doc,,0,0,0,,electric cars made up 24.2 per cent\Nof all new-vehicle sales in Australia,
+Dialogue: 0,0:02:24.38,0:02:25.83,Doc,,0,0,0,,more than petrol cars.
+Dialogue: 0,0:02:25.88,0:02:29.41,Doc,,0,0,0,,The Tesla Model Y beat the Ford Ranger\Nto become the country's best-selling
+Dialogue: 0,0:02:29.46,0:02:33.51,Doc,,0,0,0,,vehicle in May 2026, and did\Nit again in June and August.
+Dialogue: 0,0:02:33.56,0:02:36.06,Doc,,0,0,0,,As more people switch,\Nthe excise money shrinks.
+Dialogue: 0,0:02:36.11,0:02:39.43,Doc,,0,0,0,,Plug-in hybrids and efficient\Nhybrids burn less fuel too,
+Dialogue: 0,0:02:39.48,0:02:41.07,Doc,,0,0,0,,so they pay less as well.
+Dialogue: 0,0:02:41.12,0:02:43.88,Doc,,0,0,0,,The CEO of the advocacy\Ngroup Transport Australia,
+Dialogue: 0,0:02:43.93,0:02:46.17,Doc,,0,0,0,,Ehssan Veiszadeh, summed it up:
+Dialogue: 0,0:02:46.22,0:02:49.35,Doc,,0,0,0,,"Fuel excise was designed for a\Ndifferent vehicle fleet and a different
+Dialogue: 0,0:02:49.40,0:02:52.01,Doc,,0,0,0,,economy." So governments are\Nlooking for a replacement.
+Dialogue: 0,0:02:52.06,0:02:55.15,Doc,,0,0,0,,And the leading idea\Nis a road-user charge:
+Dialogue: 0,0:02:55.20,0:02:57.61,Doc,,0,0,0,,a fee for every kilometre you drive.
+Dialogue: 0,0:02:57.66,0:02:59.83,Doc,,0,0,0,,Australia wouldn't be\Nthe first to do this.
+Dialogue: 0,0:02:59.88,0:03:00.85,Doc,,0,0,0,,Across the Tasman,
+Dialogue: 0,0:03:00.90,0:03:04.53,Doc,,0,0,0,,New Zealand made electric cars pay\Nroad-user charges from the 1st of April
+Dialogue: 0,0:03:04.58,0:03:09.71,Doc,,0,0,0,,2024: 76 New Zealand dollars per\Nthousand kilometres for a pure EV,
+Dialogue: 0,0:03:09.76,0:03:14.49,Doc,,0,0,0,,and 53 dollars for a plug-in hybrid,\Nwhich still pays fuel tax at the pump.
+Dialogue: 0,0:03:14.54,0:03:18.55,Doc,,0,0,0,,New Zealand's Automobile Association\Nestimated that an average driver covering
+Dialogue: 0,0:03:18.60,0:03:23.29,Doc,,0,0,0,,12,000 kilometres a year\Nwould pay about $912 in an EV.
+Dialogue: 0,0:03:23.34,0:03:24.69,Doc,,0,0,0,,And in the United Kingdom,
+Dialogue: 0,0:03:24.74,0:03:28.95,Doc,,0,0,0,,the government announced in\Nlate 2025 that from April 2028,
+Dialogue: 0,0:03:29.00,0:03:30.89,Doc,,0,0,0,,electric cars will pay\Nthree pence per mile,
+Dialogue: 0,0:03:30.94,0:03:35.57,Doc,,0,0,0,,and plug-in hybrids one and a half\Npence on top of existing vehicle tax.
+Dialogue: 0,0:03:35.62,0:03:37.79,Doc,,0,0,0,,Drivers will estimate\Ntheir mileage each year,
+Dialogue: 0,0:03:37.84,0:03:40.47,Doc,,0,0,0,,and it'll be checked at\Nthe annual roadworthy test.
+Dialogue: 0,0:03:40.52,0:03:42.45,Doc,,0,0,0,,So the direction around\Nthe world is clear:
+Dialogue: 0,0:03:42.50,0:03:45.36,Doc,,0,0,0,,if you don't pay at the pump,\Nyou'll pay by the kilometre.
+Dialogue: 0,0:03:46.05,0:03:49.12,Doc,,0,0,0,,The first state to try it\Nfor real is New South Wales.
+Dialogue: 0,0:03:49.17,0:03:52.46,Doc,,0,0,0,,NSW already has a road-user\Ncharge written into law.
+Dialogue: 0,0:03:52.51,0:03:55.40,Doc,,0,0,0,,For the 2026-27 financial year,
+Dialogue: 0,0:03:55.45,0:04:00.42,Doc,,0,0,0,,the rate is 3.095 cents per kilometre\Nfor battery-electric and hydrogen cars,
+Dialogue: 0,0:04:00.47,0:04:05.18,Doc,,0,0,0,,and 2.476 cents for plug-in hybrids\Nthat's eighty per cent of the full rate.
+Dialogue: 0,0:04:05.23,0:04:07.82,Doc,,0,0,0,,The rate is indexed to\Ninflation every year.
+Dialogue: 0,0:04:07.87,0:04:10.84,Doc,,0,0,0,,It's due to start on the 1st of July 2027,
+Dialogue: 0,0:04:10.89,0:04:14.32,Doc,,0,0,0,,or when electric vehicles reach thirty\Nper cent of new-car sales whichever
+Dialogue: 0,0:04:14.37,0:04:15.34,Doc,,0,0,0,,comes first.
+Dialogue: 0,0:04:15.39,0:04:17.56,Doc,,0,0,0,,And that trigger is closer\Nthan you might think.
+Dialogue: 0,0:04:17.61,0:04:19.82,Doc,,0,0,0,,In the June 2026 quarter,
+Dialogue: 0,0:04:19.87,0:04:23.26,Doc,,0,0,0,,battery EVs made up about 21\Nper cent of national sales.
+Dialogue: 0,0:04:23.31,0:04:26.66,Doc,,0,0,0,,Add plug-in hybrids, and it\Nwas around 31.6 per cent.
+Dialogue: 0,0:04:26.71,0:04:29.92,Doc,,0,0,0,,It's not yet clear exactly how\Nthe trigger will be measured.
+Dialogue: 0,0:04:29.97,0:04:31.22,Doc,,0,0,0,,What would it cost?
+Dialogue: 0,0:04:31.27,0:04:35.40,Doc,,0,0,0,,Drive 15,000 kilometres a year in\Nan electric car in New South Wales,
+Dialogue: 0,0:04:35.45,0:04:39.24,Doc,,0,0,0,,and at today's rate,\Nthat's about $464 a year.
+Dialogue: 0,0:04:39.29,0:04:40.48,Doc,,0,0,0,,But there's a big legal problem.
+Dialogue: 0,0:04:40.53,0:04:41.98,Doc,,0,0,0,,In October 2023,
+Dialogue: 0,0:04:42.03,0:04:46.14,Doc,,0,0,0,,the High Court ruled four to three that\NVictoria's distance-based charge on
+Dialogue: 0,0:04:46.19,0:04:49.88,Doc,,0,0,0,,electric cars was a duty of\Nexcise and under the Constitution,
+Dialogue: 0,0:04:49.93,0:04:52.30,Doc,,0,0,0,,only the federal government\Ncan impose excise.
+Dialogue: 0,0:04:52.35,0:04:54.32,Doc,,0,0,0,,The Victorian scheme was struck down.
+Dialogue: 0,0:04:54.37,0:04:56.33,Doc,,0,0,0,,The NSW scheme has a similar structure,
+Dialogue: 0,0:04:56.38,0:04:59.86,Doc,,0,0,0,,and NSW says it's still\Nassessing the implications.
+Dialogue: 0,0:04:59.91,0:05:01.72,Doc,,0,0,0,,As of September 2026,
+Dialogue: 0,0:05:01.77,0:05:05.36,Doc,,0,0,0,,no EV road-user charge was actually\Nbeing collected anywhere in Australia.
+Dialogue: 0,0:05:05.41,0:05:09.48,Doc,,0,0,0,,Western Australia had also\Nannounced a planned charge for 2027,
+Dialogue: 0,0:05:09.53,0:05:14.28,Doc,,0,0,0,,of 2.5 cents per kilometre for battery\NEVs and 2 cents for plug-in hybrids,
+Dialogue: 0,0:05:14.33,0:05:16.28,Doc,,0,0,0,,alongside an EV rebate.
+Dialogue: 0,0:05:16.33,0:05:18.61,Doc,,0,0,0,,Whether those rates\Nstill stand is unclear.
+Dialogue: 0,0:05:19.44,0:05:22.82,Doc,,0,0,0,,Because of that High Court ruling,\Nthe real decision sits in Canberra.
+Dialogue: 0,0:05:22.87,0:05:26.91,Doc,,0,0,0,,Treasurer Jim Chalmers has called a\Nroad-user charge "an idea whose time has
+Dialogue: 0,0:05:26.96,0:05:30.87,Doc,,0,0,0,,come," and federal and state treasurers\Nhave agreed reform is needed.
+Dialogue: 0,0:05:30.92,0:05:32.71,Doc,,0,0,0,,But in August 2025,
+Dialogue: 0,0:05:32.76,0:05:34.85,Doc,,0,0,0,,Chalmers said the focus would\Nbe on electric vehicles,
+Dialogue: 0,0:05:34.90,0:05:39.21,Doc,,0,0,0,,and that the government wasn't trying\Nto "double-tax" petrol and diesel cars.
+Dialogue: 0,0:05:39.26,0:05:40.77,Doc,,0,0,0,,Then things slowed down.
+Dialogue: 0,0:05:40.82,0:05:44.61,Doc,,0,0,0,,The May 2026 federal budget\Ndid not introduce a charge.
+Dialogue: 0,0:05:44.66,0:05:46.21,Doc,,0,0,0,,The government said it "needs more work".
+Dialogue: 0,0:05:46.26,0:05:49.00,Doc,,0,0,0,,Climate Change and Energy\NMinister Chris Bowen said:
+Dialogue: 0,0:05:49.05,0:05:52.23,Doc,,0,0,0,,"I think a road-user charge is something\Nthat Australia should be working
+Dialogue: 0,0:05:52.28,0:05:54.93,Doc,,0,0,0,,towards," but added: "It's\Ngot to be done right.
+Dialogue: 0,0:05:54.98,0:05:56.33,Doc,,0,0,0,,It's got to be done carefully,
+Dialogue: 0,0:05:56.38,0:06:00.91,Doc,,0,0,0,,and that includes timing." CarExpert\Nreported that a 2028 start had been
+Dialogue: 0,0:06:00.96,0:06:05.09,Doc,,0,0,0,,planned, but that the announcement was\Npostponed amid record fuel prices and
+Dialogue: 0,0:06:05.14,0:06:06.47,Doc,,0,0,0,,rising EV sales.
+Dialogue: 0,0:06:06.52,0:06:09.91,Doc,,0,0,0,,Transport Minister Catherine King has\Nsaid the government doesn't want to
+Dialogue: 0,0:06:09.96,0:06:12.43,Doc,,0,0,0,,discourage people from\Nbuying electric cars.
+Dialogue: 0,0:06:12.48,0:06:15.47,Doc,,0,0,0,,The Greens oppose any charge\Nthat targets EV drivers.
+Dialogue: 0,0:06:15.52,0:06:17.93,Doc,,0,0,0,,And the Australian Automobile Association,
+Dialogue: 0,0:06:17.98,0:06:19.97,Doc,,0,0,0,,which represents the state motoring clubs,
+Dialogue: 0,0:06:20.02,0:06:23.53,Doc,,0,0,0,,wants a charge legislated\Nin the 2027 budget.
+Dialogue: 0,0:06:23.58,0:06:25.43,Doc,,0,0,0,,So the federal position, for now, is:
+Dialogue: 0,0:06:25.48,0:06:27.01,Doc,,0,0,0,,a charge is coming eventually,
+Dialogue: 0,0:06:27.06,0:06:30.19,Doc,,0,0,0,,it would mainly target EVs,\Nand nobody is promising when.
+Dialogue: 0,0:06:30.24,0:06:34.53,Doc,,0,0,0,,And remember, the government is also\Nchanging EV incentives at the same time.
+Dialogue: 0,0:06:34.58,0:06:39.15,Doc,,0,0,0,,It extended the Electric Car Discount\Non novated leases to April 2027,
+Dialogue: 0,0:06:39.20,0:06:43.11,Doc,,0,0,0,,after which the full discount will\Nbe limited to vehicles priced under
+Dialogue: 0,0:06:43.16,0:06:44.17,Doc,,0,0,0,,$75,000.
+Dialogue: 0,0:06:44.22,0:06:47.63,Doc,,0,0,0,,Put a smaller tax break and a new\Nper-kilometre charge together,
+Dialogue: 0,0:06:47.68,0:06:52.71,Doc,,0,0,0,,and the cost of owning an EV in 2027\Nand 2028 could look quite different from
+Dialogue: 0,0:06:52.76,0:06:53.56,Doc,,0,0,0,,today.
+Dialogue: 0,0:06:54.11,0:06:58.32,Doc,,0,0,0,,And that's where Tesla comes in\Nwith a twist almost nobody expected.
+Dialogue: 0,0:06:58.37,0:07:01.06,Doc,,0,0,0,,In a submission to a federal\Nparliamentary inquiry,
+Dialogue: 0,0:07:01.11,0:07:03.37,Doc,,0,0,0,,the Select Committee on\NProductivity in Australia,
+Dialogue: 0,0:07:03.42,0:07:07.64,Doc,,0,0,0,,Tesla Australia argued that a road-user\Ncharge should not apply only to
+Dialogue: 0,0:07:07.69,0:07:08.90,Doc,,0,0,0,,electric cars.
+Dialogue: 0,0:07:08.95,0:07:13.02,Doc,,0,0,0,,It said the charge should "apply it\Nuniversally to all vehicles on the road,
+Dialogue: 0,0:07:13.07,0:07:16.78,Doc,,0,0,0,,phased-in," with the rate based\Non "real road funding costs".
+Dialogue: 0,0:07:16.83,0:07:18.60,Doc,,0,0,0,,Here's the controversial part.
+Dialogue: 0,0:07:18.65,0:07:20.82,Doc,,0,0,0,,Tesla proposed keeping\Nfuel excise as well.
+Dialogue: 0,0:07:20.87,0:07:23.60,Doc,,0,0,0,,That means drivers of\Nnewly registered petrol,
+Dialogue: 0,0:07:23.65,0:07:26.52,Doc,,0,0,0,,diesel and hybrid vehicles\Nwould eventually pay both:
+Dialogue: 0,0:07:26.57,0:07:29.98,Doc,,0,0,0,,the excise on their fuel, and\Na charge for every kilometre.
+Dialogue: 0,0:07:30.03,0:07:31.64,Doc,,0,0,0,,Why would Tesla want that?
+Dialogue: 0,0:07:31.69,0:07:35.62,Doc,,0,0,0,,Its argument is that an EV-only charge\N"acts as a financial penalty for
+Dialogue: 0,0:07:35.67,0:07:37.72,Doc,,0,0,0,,decarbonising personal transport".
+Dialogue: 0,0:07:37.77,0:07:41.24,Doc,,0,0,0,,It said a charge on EVs alone would\N"distort" what people think motoring
+Dialogue: 0,0:07:41.29,0:07:42.20,Doc,,0,0,0,,costs.
+Dialogue: 0,0:07:42.25,0:07:44.84,Doc,,0,0,0,,And it argued that fuel excise\Ndoesn't really change behaviour,
+Dialogue: 0,0:07:44.89,0:07:48.86,Doc,,0,0,0,,because "consumers remain largely\Ninelastic to the tax component of their
+Dialogue: 0,0:07:48.91,0:07:52.24,Doc,,0,0,0,,travel", while a per-kilometre\Ncharge would encourage people to skip
+Dialogue: 0,0:07:52.29,0:07:55.82,Doc,,0,0,0,,unnecessary trips and use\Npublic or active transport.
+Dialogue: 0,0:07:55.87,0:07:58.50,Doc,,0,0,0,,Of course, Tesla sells only electric cars.
+Dialogue: 0,0:07:58.55,0:08:00.68,Doc,,0,0,0,,A system that taxes its customers less,
+Dialogue: 0,0:08:00.73,0:08:03.38,Doc,,0,0,0,,and everyone else more,\Nwould suit its business.
+Dialogue: 0,0:08:03.43,0:08:07.03,Doc,,0,0,0,,That doesn't make the argument wrong\Nbut it's worth knowing who's making it.
+Dialogue: 0,0:08:07.72,0:08:10.73,Doc,,0,0,0,,Quick favour before we get to the numbers\Nbecause this is where it could hit
+Dialogue: 0,0:08:10.78,0:08:11.75,Doc,,0,0,0,,your wallet.
+Dialogue: 0,0:08:11.80,0:08:14.63,Doc,,0,0,0,,Do you think every driver should\Npay a per-kilometre charge,
+Dialogue: 0,0:08:14.68,0:08:17.01,Doc,,0,0,0,,or only EV owners, or nobody at all?
+Dialogue: 0,0:08:17.06,0:08:19.83,Doc,,0,0,0,,Tell me in the comments I\Nwant to hear both sides.
+Dialogue: 0,0:08:19.88,0:08:22.67,Doc,,0,0,0,,And if you want straight-talking\Nvideos about what's changing for Aussie
+Dialogue: 0,0:08:22.72,0:08:24.33,Doc,,0,0,0,,drivers, hit subscribe.
+Dialogue: 0,0:08:24.38,0:08:26.50,Doc,,0,0,0,,It's free and it really helps the channel.
+Dialogue: 0,0:08:27.32,0:08:30.69,Doc,,0,0,0,,Tesla isn't the only one pushing\Nfor a charge on everyone.
+Dialogue: 0,0:08:30.74,0:08:32.62,Doc,,0,0,0,,On the 17th of September 2026,
+Dialogue: 0,0:08:32.67,0:08:36.75,Doc,,0,0,0,,the Australian Electric Vehicle\NAssociation a volunteer-run,
+Dialogue: 0,0:08:36.80,0:08:39.63,Doc,,0,0,0,,not-for-profit group\Nreleased its own proposal.
+Dialogue: 0,0:08:39.68,0:08:42.29,Doc,,0,0,0,,Electric cars would\Npay a road-user charge.
+Dialogue: 0,0:08:42.34,0:08:44.59,Doc,,0,0,0,,Petrol and diesel vehicles\Nwould pay the same charge,
+Dialogue: 0,0:08:44.64,0:08:46.69,Doc,,0,0,0,,plus the existing fuel excise,
+Dialogue: 0,0:08:46.74,0:08:49.86,Doc,,0,0,0,,which the association calls a\N"highly efficient pollution tax".
+Dialogue: 0,0:08:49.91,0:08:52.75,Doc,,0,0,0,,Its version is based\Non weight and distance.
+Dialogue: 0,0:08:52.80,0:08:56.27,Doc,,0,0,0,,The rate would phase in over ten years\Nto three cents per tonne-kilometre.
+Dialogue: 0,0:08:56.32,0:08:58.13,Doc,,0,0,0,,The association's own example:
+Dialogue: 0,0:08:58.18,0:09:03.71,Doc,,0,0,0,,a 2.2-tonne diesel ute or electric SUV\Ndriven 13,000 kilometres a year would
+Dialogue: 0,0:09:03.76,0:09:05.84,Doc,,0,0,0,,pay $858 annually.
+Dialogue: 0,0:09:05.89,0:09:09.52,Doc,,0,0,0,,Odometer readings would be taken\Nevery six or twelve months.
+Dialogue: 0,0:09:09.57,0:09:14.31,Doc,,0,0,0,,AEVA policy convenor Dr Chris Jones said\Nthat for vehicles of equal weight and
+Dialogue: 0,0:09:14.36,0:09:17.97,Doc,,0,0,0,,distance, "it's only fair that\Nthey pay the same road user charge.
+Dialogue: 0,0:09:18.02,0:09:20.63,Doc,,0,0,0,,But if one of those vehicles\Nburns petrol or diesel,
+Dialogue: 0,0:09:20.68,0:09:23.37,Doc,,0,0,0,,they should pay for the cost of\Nthat pollution too." He added:
+Dialogue: 0,0:09:23.42,0:09:24.46,Doc,,0,0,0,,"We're not after a free ride,
+Dialogue: 0,0:09:24.51,0:09:26.59,Doc,,0,0,0,,but we are asking for policy which\Nencourages EV adoption." Polestar agrees
+Dialogue: 0,0:09:26.64,0:09:30.51,Doc,,0,0,0,,with the principle.
+Dialogue: 0,0:09:30.56,0:09:33.99,Doc,,0,0,0,,In October 2026, Polestar\NAustralia's managing director,
+Dialogue: 0,0:09:34.04,0:09:38.27,Doc,,0,0,0,,Scott Maynard, told CarExpert he sees\N"the inevitable introduction of a
+Dialogue: 0,0:09:38.32,0:09:42.49,Doc,,0,0,0,,road-user charge", and that it should\Napply to all motorists, based on weight.
+Dialogue: 0,0:09:42.54,0:09:42.98,Doc,,0,0,0,,He pointed out:
+Dialogue: 0,0:09:43.03,0:09:47.07,Doc,,0,0,0,,"We don't have a congestion tax in\NAustralia." And it's not just electric car
+Dialogue: 0,0:09:47.12,0:09:47.89,Doc,,0,0,0,,companies.
+Dialogue: 0,0:09:47.94,0:09:50.35,Doc,,0,0,0,,The Australian Automotive\NDealer Association,
+Dialogue: 0,0:09:50.40,0:09:51.67,Doc,,0,0,0,,led by James Voortman,
+Dialogue: 0,0:09:51.72,0:09:55.13,Doc,,0,0,0,,has called for a national road-user\Ncharge for all vehicle types,
+Dialogue: 0,0:09:55.18,0:09:57.57,Doc,,0,0,0,,as part of a full review of vehicle taxes.
+Dialogue: 0,0:09:57.62,0:10:01.65,Doc,,0,0,0,,The Australian Automobile Association\Nhas called for a distance-based charge,
+Dialogue: 0,0:10:01.70,0:10:04.76,Doc,,0,0,0,,developed with the states\Nand modelled on the NSW plan.
+Dialogue: 0,0:10:05.55,0:10:08.72,Doc,,0,0,0,,There's also a version that tries\Nto protect working families.
+Dialogue: 0,0:10:08.77,0:10:10.34,Doc,,0,0,0,,In May 2026,
+Dialogue: 0,0:10:10.39,0:10:13.58,Doc,,0,0,0,,the McKell Institute released\Na study called Fairer Roads,
+Dialogue: 0,0:10:13.63,0:10:15.80,Doc,,0,0,0,,backed by the Electric Vehicle Council.
+Dialogue: 0,0:10:15.85,0:10:19.85,Doc,,0,0,0,,It proposed introducing a road-user\Ncharge once electric cars reach thirty per
+Dialogue: 0,0:10:19.90,0:10:23.34,Doc,,0,0,0,,cent of Australia's whole\Nfleet not just new sales.
+Dialogue: 0,0:10:23.39,0:10:24.58,Doc,,0,0,0,,Rates would be set by income,
+Dialogue: 0,0:10:24.63,0:10:29.86,Doc,,0,0,0,,across four levels from 3.74\Nto 12.86 cents per kilometre.
+Dialogue: 0,0:10:29.91,0:10:33.14,Doc,,0,0,0,,Once electric vehicles passed\Nseventy-five per cent of the fleet,
+Dialogue: 0,0:10:33.19,0:10:36.80,Doc,,0,0,0,,the charge would apply to all\Nvehicles and replace fuel excise.
+Dialogue: 0,0:10:36.85,0:10:37.55,Doc,,0,0,0,,In the meantime,
+Dialogue: 0,0:10:37.60,0:10:41.46,Doc,,0,0,0,,fuel-powered cars would pay an extra\Ncarbon surcharge of half a cent to one
+Dialogue: 0,0:10:41.51,0:10:43.24,Doc,,0,0,0,,and a half cents per kilometre.
+Dialogue: 0,0:10:43.29,0:10:45.74,Doc,,0,0,0,,McKell's chief executive,\NEdward Cavanough,
+Dialogue: 0,0:10:45.79,0:10:49.12,Doc,,0,0,0,,argued that families in the outer\Nsuburbs drive the furthest and have the
+Dialogue: 0,0:10:49.17,0:10:53.34,Doc,,0,0,0,,fewest alternatives, so a flat\Nper-kilometre charge would hit them hardest.
+Dialogue: 0,0:10:53.39,0:10:56.64,Doc,,0,0,0,,And interestingly, a lot\Nof EV owners don't object.
+Dialogue: 0,0:10:56.69,0:11:00.74,Doc,,0,0,0,,Research released by Transport Australia\Nfound 71 per cent of electric and
+Dialogue: 0,0:11:00.79,0:11:04.92,Doc,,0,0,0,,hybrid drivers support a road-user\Ncharge the highest support of any group
+Dialogue: 0,0:11:04.97,0:11:05.94,Doc,,0,0,0,,surveyed.
+Dialogue: 0,0:11:05.99,0:11:08.72,Doc,,0,0,0,,The debate isn't really\Nabout whether EVs should pay.
+Dialogue: 0,0:11:08.77,0:11:11.17,Doc,,0,0,0,,It's about whether everyone\Nelse should pay more too.
+Dialogue: 0,0:11:11.90,0:11:13.57,Doc,,0,0,0,,So what could this actually cost you?
+Dialogue: 0,0:11:13.62,0:11:14.59,Doc,,0,0,0,,Let me be clear:
+Dialogue: 0,0:11:14.64,0:11:17.33,Doc,,0,0,0,,these are illustrations based\Non the published proposals,
+Dialogue: 0,0:11:17.38,0:11:18.89,Doc,,0,0,0,,not confirmed prices.
+Dialogue: 0,0:11:18.94,0:11:21.29,Doc,,0,0,0,,None of them is law at\Nthe federal level yet.
+Dialogue: 0,0:11:21.34,0:11:25.55,Doc,,0,0,0,,Say you drive an electric car 15,000\Nkilometres a year in New South Wales.
+Dialogue: 0,0:11:25.60,0:11:32.05,Doc,,0,0,0,,At the legislated NSW rate of 3.095\Ncents, that's about $464 a year.
+Dialogue: 0,0:11:32.10,0:11:35.29,Doc,,0,0,0,,Now say the charge was set at the level\Nthat would roughly match what a petrol
+Dialogue: 0,0:11:35.34,0:11:36.89,Doc,,0,0,0,,car pays in excise.
+Dialogue: 0,0:11:36.94,0:11:40.55,Doc,,0,0,0,,Secondary reporting of a Parliamentary\NBudget Office costing puts that at
+Dialogue: 0,0:11:40.60,0:11:43.03,Doc,,0,0,0,,about 5.3 cents per kilometre.
+Dialogue: 0,0:11:43.08,0:11:47.71,Doc,,0,0,0,,Over 15,000 kilometres,\Nthat's around $795 a year.
+Dialogue: 0,0:11:47.76,0:11:50.63,Doc,,0,0,0,,Under the electric vehicle\Nassociation's weight-based plan,
+Dialogue: 0,0:11:50.68,0:11:57.25,Doc,,0,0,0,,that 2.2-tonne ute or SUV doing 13,000\Nkilometres would pay $858 a year.
+Dialogue: 0,0:11:57.30,0:12:00.49,Doc,,0,0,0,,If it's a diesel ute, that\Ncomes on top of fuel excise.
+Dialogue: 0,0:12:00.54,0:12:05.23,Doc,,0,0,0,,A ute using around nine litres per\Nhundred kilometres would burn about 1,170
+Dialogue: 0,0:12:05.28,0:12:10.99,Doc,,0,0,0,,litres over that distance roughly\N$628 in excise at today's rate.
+Dialogue: 0,0:12:11.04,0:12:14.61,Doc,,0,0,0,,Together, that's nearly fifteen hundred\Ndollars a year in road taxes for one
+Dialogue: 0,0:12:14.66,0:12:15.49,Doc,,0,0,0,,vehicle.
+Dialogue: 0,0:12:15.54,0:12:18.45,Doc,,0,0,0,,And under Tesla's proposal,\Nnewly registered petrol,
+Dialogue: 0,0:12:18.50,0:12:22.93,Doc,,0,0,0,,diesel and hybrid cars would also pay\Nboth the exact rate would depend on what
+Dialogue: 0,0:12:22.98,0:12:25.37,Doc,,0,0,0,,governments decided the\Nreal cost of roads is.
+Dialogue: 0,0:12:25.42,0:12:28.73,Doc,,0,0,0,,That's why this matters to every\Ndriver, not just EV owners.
+Dialogue: 0,0:12:28.78,0:12:31.87,Doc,,0,0,0,,The difference between the proposals\Nis the difference between a few hundred
+Dialogue: 0,0:12:31.92,0:12:34.10,Doc,,0,0,0,,dollars a year and well over a thousand.
+Dialogue: 0,0:12:35.94,0:12:35.92,Doc,,0,0,0,,So who's right?
+Dialogue: 0,0:12:35.97,0:12:38.22,Doc,,0,0,0,,Here are the strongest\Narguments on both sides.
+Dialogue: 0,0:12:38.27,0:12:41.64,Doc,,0,0,0,,Supporters say a road-user\Ncharge is simply fairer.
+Dialogue: 0,0:12:41.69,0:12:44.96,Doc,,0,0,0,,Everyone uses the roads, so\Neveryone should pay for them.
+Dialogue: 0,0:12:45.01,0:12:49.08,Doc,,0,0,0,,Heavier vehicles cause more wear,\Nso weight-based charges make sense.
+Dialogue: 0,0:12:49.13,0:12:51.38,Doc,,0,0,0,,And without reform, the money for roads,
+Dialogue: 0,0:12:51.43,0:12:54.81,Doc,,0,0,0,,potholes and highways will keep\Nshrinking as the fleet goes electric.
+Dialogue: 0,0:12:54.86,0:12:58.74,Doc,,0,0,0,,Critics say a charge on top of\Nfuel excise is a double tax,
+Dialogue: 0,0:12:58.79,0:13:02.08,Doc,,0,0,0,,at a time when Australians are already\Nstruggling with the cost of living and
+Dialogue: 0,0:13:02.13,0:13:02.98,Doc,,0,0,0,,record fuel prices.
+Dialogue: 0,0:13:03.03,0:13:05.38,Doc,,0,0,0,,Regional and outer-suburban drivers,
+Dialogue: 0,0:13:05.43,0:13:08.60,Doc,,0,0,0,,who travel the longest distances\Nand have no public transport,
+Dialogue: 0,0:13:08.65,0:13:10.34,Doc,,0,0,0,,would pay the most.
+Dialogue: 0,0:13:10.39,0:13:11.70,Doc,,0,0,0,,Some worry about privacy,
+Dialogue: 0,0:13:11.75,0:13:15.52,Doc,,0,0,0,,if kilometres are tracked by GPS\Nrather than odometer readings.
+Dialogue: 0,0:13:15.57,0:13:19.28,Doc,,0,0,0,,EV advocates warn that charging electric\Ncars too early could slow the switch
+Dialogue: 0,0:13:19.33,0:13:21.00,Doc,,0,0,0,,away from petrol and diesel.
+Dialogue: 0,0:13:21.05,0:13:25.18,Doc,,0,0,0,,And the High Court ruling means any state\Nscheme could face a legal challenge.
+Dialogue: 0,0:13:25.23,0:13:27.84,Doc,,0,0,0,,There's also the question of\Nhow the money is collected.
+Dialogue: 0,0:13:27.89,0:13:31.22,Doc,,0,0,0,,The simplest approach is odometer\Nreadings at rego renewal,
+Dialogue: 0,0:13:31.27,0:13:33.56,Doc,,0,0,0,,at a service, or when a car is sold.
+Dialogue: 0,0:13:33.61,0:13:36.18,Doc,,0,0,0,,That's what New Zealand\Nand the UK rely on.
+Dialogue: 0,0:13:36.23,0:13:40.06,Doc,,0,0,0,,GPS tracking can be more precise and\Ncould allow peak-hour or city-based
+Dialogue: 0,0:13:40.11,0:13:43.32,Doc,,0,0,0,,pricing, but it raises\Nbigger privacy concerns.
+Dialogue: 0,0:13:43.37,0:13:47.00,Doc,,0,0,0,,And any system has to stop people\Nwinding back odometers or under-reporting
+Dialogue: 0,0:13:47.05,0:13:48.24,Doc,,0,0,0,,their distance.
+Dialogue: 0,0:13:48.29,0:13:50.16,Doc,,0,0,0,,Both sides agree on one thing:
+Dialogue: 0,0:13:50.21,0:13:53.00,Doc,,0,0,0,,fuel excise alone won't pay\Nfor Australia's roads forever.
+Dialogue: 0,0:13:53.05,0:13:56.61,Doc,,0,0,0,,The fight is over who\Npays, how much, and when.
+Dialogue: 0,0:13:57.40,0:13:59.09,Doc,,0,0,0,,So what should you do right now?
+Dialogue: 0,0:13:59.14,0:14:00.61,Doc,,0,0,0,,First, don't panic.
+Dialogue: 0,0:14:00.66,0:14:02.59,Doc,,0,0,0,,As of September 2026,
+Dialogue: 0,0:14:02.64,0:14:05.27,Doc,,0,0,0,,no road-user charge was being\Ncollected anywhere in Australia,
+Dialogue: 0,0:14:05.32,0:14:08.57,Doc,,0,0,0,,and the federal government\Nhas not legislated one.
+Dialogue: 0,0:14:08.62,0:14:12.11,Doc,,0,0,0,,Second, if you're buying an electric\Ncar or a plug-in hybrid in New South
+Dialogue: 0,0:14:12.16,0:14:16.11,Doc,,0,0,0,,Wales, factor in a possible\Ncharge from July 2027.
+Dialogue: 0,0:14:16.16,0:14:18.01,Doc,,0,0,0,,At around three cents per kilometre,
+Dialogue: 0,0:14:18.06,0:14:21.83,Doc,,0,0,0,,budget roughly four to five hundred\Ndollars a year for typical driving.
+Dialogue: 0,0:14:21.88,0:14:25.11,Doc,,0,0,0,,It still usually works out cheaper\Nthan fuel but it's not nothing.
+Dialogue: 0,0:14:25.16,0:14:29.09,Doc,,0,0,0,,Third, keep good records of your\Nodometer readings and servicing.
+Dialogue: 0,0:14:29.14,0:14:31.27,Doc,,0,0,0,,Every proposal so far relies on distance,
+Dialogue: 0,0:14:31.32,0:14:34.87,Doc,,0,0,0,,and accurate records protect\Nyou if you're ever charged.
+Dialogue: 0,0:14:34.92,0:14:36.40,Doc,,0,0,0,,And fourth, have your say.
+Dialogue: 0,0:14:36.45,0:14:40.09,Doc,,0,0,0,,Federal inquiries and state\Nreviews take public submissions.
+Dialogue: 0,0:14:40.14,0:14:41.81,Doc,,0,0,0,,Motoring clubs, dealer groups,
+Dialogue: 0,0:14:41.86,0:14:44.93,Doc,,0,0,0,,EV groups and car companies\Nare all lobbying hard.
+Dialogue: 0,0:14:44.98,0:14:46.73,Doc,,0,0,0,,Ordinary drivers should too.
+Dialogue: 0,0:14:46.78,0:14:48.45,Doc,,0,0,0,,Here's the timeline to watch.
+Dialogue: 0,0:14:48.50,0:14:51.73,Doc,,0,0,0,,NSW's charge is due from\Nthe 1st of July 2027,
+Dialogue: 0,0:14:51.78,0:14:55.11,Doc,,0,0,0,,unless it's delayed, changed\Nor challenged in court.
+Dialogue: 0,0:14:55.16,0:14:58.91,Doc,,0,0,0,,The motoring clubs want a federal\Ncharge legislated in the 2027 budget.
+Dialogue: 0,0:14:58.96,0:15:03.55,Doc,,0,0,0,,And the next federal election will decide\Nwhich party gets to write the rules.
+Dialogue: 0,0:15:03.60,0:15:06.97,Doc,,0,0,0,,So, could every Aussie driver\Nend up paying a new road tax?
+Dialogue: 0,0:15:07.02,0:15:09.57,Doc,,0,0,0,,It's being seriously proposed by Tesla,
+Dialogue: 0,0:15:09.62,0:15:13.33,Doc,,0,0,0,,by electric vehicle groups, by\Ncar dealers and by motoring clubs.
+Dialogue: 0,0:15:13.38,0:15:15.77,Doc,,0,0,0,,The federal government\Nsays it's focused on EVs,
+Dialogue: 0,0:15:15.82,0:15:17.59,Doc,,0,0,0,,and it isn't promising a date.
+Dialogue: 0,0:15:17.64,0:15:20.37,Doc,,0,0,0,,But the old system is running out\Nof road, and change is coming.
+Dialogue: 0,0:15:20.42,0:15:23.09,Doc,,0,0,0,,If this helped, hit like, subscribe,
+Dialogue: 0,0:15:23.14,0:15:25.11,Doc,,0,0,0,,and share it with\Nsomeone who drives a lot.
+Dialogue: 0,0:15:25.16,0:15:28.88,Doc,,0,0,0,,Tell me in the comments: should\Neveryone pay, only EVs, or nobody?
+Dialogue: 0,0:15:28.93,0:15:30.72,Doc,,0,0,0,,And I'll see you in the next video.

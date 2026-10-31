@@ -57,13 +57,13 @@ c.at("electric cars made up 24.2 per cent", bars("New-car sales by fuel · Sept 
 c.at("The Tesla Model Y beat the Ford Ranger", photo("m_model_y", 3, "in", cap="Tesla Model Y|#1 in May, June & August 2026"))
 c.at("As more people switch, the excise money shrinks", P("money"))
 c.at("Fuel excise was designed for a different vehicle fleet", say("\"Fuel excise was designed for a different vehicle fleet…\" – Transport Australia", "DIFFERENT", 88))
+c.at("So governments are looking for a replacement", P("gov"))
 c.at("Australia wouldn't be the first to do this", P("nz"))
 c.at("76 New Zealand dollars per thousand kilometres", bars("New Zealand road-user charges (NZ$ per 1,000 km)", [["Electric car", 76], ["Plug-in hybrid", 53]], None, "NZTA / Driven"))
 c.at("would pay about $912 in an EV", P("nz"))
 c.at("And in the United Kingdom", P("uk", cap="UK from April 2028|3p per mile EVs · 1.5p PHEVs"))
 c.at("Drivers will estimate their mileage", P("gps"))
 c.at("if you don't pay at the pump", say("Don't pay at the pump? Pay by the kilometre.", "KILOMETRE", 100))
-c.at("So governments are looking for a replacement", P("gov"))
 chapters.append(c)
 
 c = ch("ch02")
@@ -86,11 +86,10 @@ c.at("double-tax", say("Focus on EVs – not \"double-tax\" petrol & diesel cars
 c.at("Then things slowed down", P("gov"))
 c.at("It's got to be done right", say("\"It's got to be done right… and that includes timing.\" – Chris Bowen", "DONE RIGHT", 95))
 c.at("CarExpert reported that a 2028 start had been planned", P("money"))
-c.at("Transport Minister Catherine King", P("ev"))
 questions(c, ["Government: don't discourage EVs", "Greens: oppose an EV-only charge", "AAA: legislate it in the 2027 Budget"],
           ["Transport Minister Catherine King", "The Greens oppose", "And the Australian Automobile Association"])
-c.at("And remember, the government is also changing EV incentives", stat("$75,000", "Electric Car Discount cap from April 2027", "Federal government", count=False))
 c.at("So the federal position, for now", say("Coming eventually · mainly EVs · no date", "NO DATE", 110))
+c.at("And remember, the government is also changing EV incentives", stat("$75,000", "Electric Car Discount cap from April 2027", "Federal government", count=False))
 chapters.append(c)
 
 c = ch("ch04")

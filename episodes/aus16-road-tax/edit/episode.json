@@ -1,0 +1,1717 @@
+{
+ "output": "AUS16_Road_Tax.mp4",
+ "fps": 24,
+ "music": [
+  {
+   "file": "trilha.wav",
+   "start": 0,
+   "gain": -29,
+   "fade_in": 4,
+   "fade_out": 5
+  }
+ ],
+ "chapters": [
+  {
+   "audio": "audio/ch00_hook.flac",
+   "lead_in": 0,
+   "tail": 0.6,
+   "shots": [
+    {
+     "type": "stat",
+     "value": "53.7c",
+     "label": "fuel excise on every litre of petrol & diesel",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "ATO / CarExpert",
+     "dur": 6.92,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ranger/1_commons.jpg",
+     "move": "in",
+     "caption": "80 litres|~$43 of excise",
+     "dur": 5.08,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\u2026and a tax on every kilometre?",
+     "highlight": "EVERY KILOMETRE",
+     "size": 105,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 8.38,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_model_y/1_commons.jpg",
+     "move": "left",
+     "caption": "Tesla|wants petrol & diesel drivers to pay too",
+     "dur": 10.16,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev_charge/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.32,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_polestar/1_commons.jpg",
+     "move": "right",
+     "caption": "Polestar|road-user charge 'inevitable'",
+     "dur": 3.66,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "1 July 2027",
+     "label": "NSW EV road-user charge due to start",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "NSW Government",
+     "dur": 6.78,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "A Tax for Every Driver?",
+     "subtitle": "who wants it \u00b7 what it costs",
+     "tag": "road-user charge",
+     "bg": "a/ai/ai_ute_rural_1.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 5.18,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Corolla",
+      "LandCruiser",
+      "Tesla"
+     ],
+     "starts": [
+      0,
+      32,
+      51
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.3399999999999963
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 2.1599999999999966
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_traffic/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.046,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch01.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_servo/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.58,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Fuel excise per litre",
+     "items": [
+      [
+       "Before the 2026 cut",
+       52.6
+      ],
+      [
+       "From 3 Aug 2026",
+       53.7
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "c",
+     "source": "New Technology / ATO",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_aerial_road/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.06,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_servo/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_aerial_road/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.62,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_parliament/2_pixabay.jpg",
+     "move": "left",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_toll/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 12.47,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "~$15 billion",
+     "label": "raised by fuel excise each year",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "New Technology",
+     "dur": 5.77,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "~$1,400",
+     "label": "excise paid per petrol/diesel driver a year",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "ABC",
+     "dur": 6.55,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev_charge/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.61,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "New-car sales by fuel \u00b7 Sept 2026",
+     "items": [
+      [
+       "Electric",
+       24.2
+      ],
+      [
+       "Petrol",
+       23.9
+      ],
+      [
+       "Diesel",
+       23.1
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "%",
+     "source": "VFACTS / CarExpert",
+     "dur": 6.08,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_model_y/3_commons.jpg",
+     "move": "in",
+     "caption": "Tesla Model Y|#1 in May, June & August 2026",
+     "dur": 7.68,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_money/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 12.66,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"Fuel excise was designed for a different vehicle fleet\u2026\" \u2013 Transport Australia",
+     "highlight": "DIFFERENT",
+     "size": 88,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.1,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_parliament/3_commons.jpg",
+     "move": "out",
+     "dur": 7.34,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_nz_road/1_commons.jpg",
+     "move": "right",
+     "dur": 8.26,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "New Zealand road-user charges (NZ$ per 1,000 km)",
+     "items": [
+      [
+       "Electric car",
+       76
+      ],
+      [
+       "Plug-in hybrid",
+       53
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "NZTA / Driven",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_toll/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.72,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_nz_road/2_pixabay.jpg",
+     "move": "in",
+     "dur": 3.2,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_uk_traffic/1_commons.jpg",
+     "move": "up",
+     "caption": "UK from April 2028|3p per mile EVs \u00b7 1.5p PHEVs",
+     "dur": 12.28,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_dashboard/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.88,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Don't pay at the pump? Pay by the kilometre.",
+     "highlight": "KILOMETRE",
+     "size": 100,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.668,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch02.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_city/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.34,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "NSW road-user charge 2026-27",
+     "items": [
+      [
+       "Battery EV / hydrogen",
+       3.095
+      ],
+      [
+       "Plug-in hybrid",
+       2.476
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "c/km",
+     "source": "NSW Government",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_city/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.86,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "From 1 July 2027 \u2013 or at 30% EV sales",
+     "highlight": "30%",
+     "size": 105,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 9.74,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Share of national sales \u00b7 June qtr 2026",
+     "items": [
+      [
+       "Battery EVs",
+       21.0
+      ],
+      [
+       "EVs + plug-in hybrids",
+       31.6
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "%",
+     "source": "New Technology",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_traffic/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.16,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "~$464",
+     "label": "a year \u00b7 NSW EV at 15,000 km",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "illustration",
+     "dur": 8.02,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "High Court, Oct 2023: Victoria's EV charge = excise (4\u20133)",
+     "highlight": "HIGH COURT",
+     "size": 88,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_dashboard/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.56,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_parliament/4_pixabay.jpg",
+     "move": "out",
+     "dur": 7.56,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "$0",
+     "label": "EV road-user charges being collected \u00b7 Sept 2026",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "New Technology",
+     "dur": 5.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_rural/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_toll/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.647,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch03.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/h_sydney/1_commons.jpg",
+     "move": "down",
+     "dur": 6.06,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"\u2026an idea whose time has come.\" \u2013 Treasurer Jim Chalmers",
+     "highlight": "TIME HAS COME",
+     "size": 95,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 11.35,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Focus on EVs \u2013 not \"double-tax\" petrol & diesel cars.",
+     "highlight": "DOUBLE-TAX",
+     "size": 100,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 2.29,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_sydney/2_pixabay.jpg",
+     "move": "in",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ute/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.96,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"It's got to be done right\u2026 and that includes timing.\" \u2013 Chris Bowen",
+     "highlight": "DONE RIGHT",
+     "size": 95,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.96,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_calc/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.84,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Government: don't discourage EVs",
+      "Greens: oppose an EV-only charge",
+      "AAA: legislate it in the 2027 Budget"
+     ],
+     "starts": [
+      0,
+      143,
+      216
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 5.960000000000001
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 9.0
+      }
+     ],
+     "dur": 17.06,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Coming eventually \u00b7 mainly EVs \u00b7 no date",
+     "highlight": "NO DATE",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 6.66,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "$75,000",
+     "label": "Electric Car Discount cap from April 2027",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Federal government",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_sydney/4_pixabay.jpg",
+     "move": "right",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_traffic/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.993,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch04.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "Tesla's Twist",
+     "subtitle": "charge everyone \u2013 keep excise",
+     "tag": "the submission",
+     "bg": "a/h_ev_charge/4_pixabay.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 9.19,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_model3/1_commons.jpg",
+     "move": "in",
+     "caption": "Tesla Australia|submission to a federal inquiry",
+     "dur": 6.39,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"\u2026apply it universally to all vehicles on the road, phased-in.\" \u2013 Tesla",
+     "highlight": "ALL VEHICLES",
+     "size": 85,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 7.02,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Keep fuel excise too.",
+     "highlight": "TOO",
+     "size": 150,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.04,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_servo_fill_1.jpg",
+     "move": "out",
+     "dur": 12.92,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"\u2026a financial penalty for decarbonising personal transport.\" \u2013 Tesla",
+     "highlight": "PENALTY",
+     "size": 88,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 11.76,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_city/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 10.32,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_model3/2_pixabay.jpg",
+     "move": "left",
+     "caption": "Worth knowing|Tesla sells only EVs",
+     "dur": 11.973,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch05.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_rural/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.22,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Everyone, EVs only \u2013 or nobody?",
+     "sub": "tell me in the comments",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 6.36,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Subscribe",
+     "sub": "straight-talking car videos",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 4.014,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch06.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_ev_charge/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.23,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "AEVA: road-user charge for EVs \u2013 plus excise for fuel cars",
+     "highlight": "PLUS EXCISE",
+     "size": 95,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_servo/1_commons.jpg",
+     "move": "in",
+     "dur": 8.74,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "3c",
+     "label": "per tonne-kilometre \u00b7 phased in over 10 years",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "AEVA",
+     "dur": 8.27,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "$858",
+     "label": "a year \u00b7 2.2-tonne ute or SUV \u00b7 13,000 km",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "AEVA",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_aerial_road/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.54,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"\u2026it's only fair that they pay the same road user charge.\" \u2013 Dr Chris Jones, AEVA",
+     "highlight": "FAIR",
+     "size": 85,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 8.202,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev_charge/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.918,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_polestar/3_commons.jpg",
+     "move": "in",
+     "caption": "Polestar Australia|weight-based charge for all",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_aerial_road/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.196,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"We don't have a congestion tax in Australia.\" \u2013 Scott Maynard, Polestar",
+     "highlight": "CONGESTION",
+     "size": 92,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 1.884,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_traffic/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.02,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Car dealers (AADA): all vehicle types",
+      "Motoring clubs (AAA): distance-based charge"
+     ],
+     "starts": [
+      0,
+      232
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 9.679999999999993
+      }
+     ],
+     "dur": 17.738,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch07.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "The 'Fairer Roads' Plan",
+     "subtitle": "a charge set by income",
+     "tag": "McKell Institute",
+     "bg": "a/ai/ai_family_bills_1.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 10.18,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "30%",
+     "label": "of the whole fleet electric \u2192 charge starts",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "McKell Institute",
+     "dur": 7.54,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Income-based rates (c/km)",
+     "items": [
+      [
+       "Lowest band",
+       3.74
+      ],
+      [
+       "Highest band",
+       12.86
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "c",
+     "source": "McKell Institute",
+     "dur": 6.52,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "75% EVs \u2192 all vehicles pay, excise goes",
+     "highlight": "75%",
+     "size": 115,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 9.02,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_fuel_pump/1_commons.jpg",
+     "move": "in",
+     "dur": 7.32,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_rural/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 12.72,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "71%",
+     "label": "of EV & hybrid drivers support a road-user charge",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Transport Australia",
+     "dur": 7.02,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "The real fight: should everyone else pay more too?",
+     "highlight": "EVERYONE ELSE",
+     "size": 92,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 6.021,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch08.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "statement",
+     "text": "Illustrations \u2013 not confirmed prices",
+     "highlight": "ILLUSTRATIONS",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 9.32,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "~$464",
+     "label": "a year \u00b7 EV \u00b7 15,000 km \u00b7 NSW rate",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "illustration",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_servo/2_pixabay.jpg",
+     "move": "up",
+     "dur": 7.1,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "~$795",
+     "label": "a year \u00b7 15,000 km at ~5.3c/km",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "illustration (PBO via secondary reporting)",
+     "dur": 10.82,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_rural/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 12.78,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Diesel ute \u00b7 13,000 km \u00b7 illustration",
+     "items": [
+      [
+       "Fuel excise (~1,170 L)",
+       628
+      ],
+      [
+       "AEVA charge",
+       858
+      ],
+      [
+       "Total",
+       1486,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "$",
+     "suffix": "",
+     "source": "illustration",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_rural_road/2_pixabay.jpg",
+     "move": "out",
+     "dur": 6.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_fuel_pump/3_commons.jpg",
+     "move": "up",
+     "dur": 9.88,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "A few hundred dollars \u2013 or well over a thousand.",
+     "highlight": "THOUSAND",
+     "size": 100,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 9.596,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch09.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "Who's Right?",
+     "subtitle": "both sides",
+     "tag": "the debate",
+     "bg": "a/h_sydney/3_commons.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 3.26,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "FOR: everyone uses the roads",
+     "highlight": "FOR",
+     "size": 125,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 6.74,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_roadworks/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.85,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "AGAINST: a double tax",
+     "highlight": "AGAINST",
+     "size": 125,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 8.17,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ute/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.36,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_gps/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.18,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_kona_ev/1_pixabay.jpg",
+     "move": "down",
+     "dur": 9.66,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_gps/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 11.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_gps/1_pixabay.jpg",
+     "move": "in",
+     "dur": 12.06,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Fuel excise alone won't pay for the roads forever.",
+     "highlight": "FOREVER",
+     "size": 100,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 9.23,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch10.flac",
+   "lead_in": 0,
+   "tail": 2.5,
+   "shots": [
+    {
+     "type": "title",
+     "title": "What to Do Now",
+     "subtitle": "4 steps",
+     "tag": "drivers",
+     "bg": "a/h_rural_road/1_commons.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 1.62,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "1 \u00b7 Don't panic \u2013 nothing is being collected yet",
+     "highlight": "1",
+     "size": 100,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 9.48,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "2 \u00b7 NSW EV buyers: budget ~$400\u2013500 a year",
+     "highlight": "2",
+     "size": 100,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ute/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.76,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_kona_ev/3_pixabay.jpg",
+     "move": "out",
+     "dur": 3.28,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "3 \u00b7 Keep odometer records",
+     "highlight": "3",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 9.76,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "4 \u00b7 Have your say",
+     "highlight": "4",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_family_car/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.08,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "NSW charge \u00b7 1 July 2027",
+      "Motoring clubs: 2027 Budget",
+      "Next federal election"
+     ],
+     "starts": [
+      0,
+      159,
+      251
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 6.659999999999997
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 10.46
+      }
+     ],
+     "dur": 15.1,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_city/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_rural_road/4_pixabay.jpg",
+     "move": "down",
+     "dur": 5.54,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ute/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.78,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Like \u00b7 Subscribe \u00b7 Share",
+     "sub": "with someone who drives a lot",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 5.84,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Everyone, EVs only \u2013 or nobody?",
+     "sub": "comments",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 7.058,
+     "fixed": false,
+     "fade_out": 0
+    }
+   ]
+  }
+ ],
+ "size": [
+  1920,
+  1080
+ ],
+ "subtitles": "AUS16.ass"
+}
