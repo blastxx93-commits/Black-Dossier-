@@ -1,0 +1,35 @@
+{
+ "model": "black-forest-labs/flux-1.1-pro-ultra",
+ "raw": true,
+ "n": 1,
+ "style": ", modern Australian documentary photograph, 2026, natural light, realistic, sharp, cinematic colour grade, no logos, no badges, no readable text, no brand names",
+ "shots": [
+  {
+   "id": "ai_ute_yard",
+   "prompt": "Rows of new dual-cab utes in an Australian dealer yard with bright discount tags hanging from mirrors, sunny day, no readable text, no logos, no badges"
+  },
+  {
+   "id": "ai_tradie_ute",
+   "prompt": "Australian tradie in hi-vis loading tools into the tray of a white dual-cab ute at a building site, morning light, no readable text, no logos"
+  },
+  {
+   "id": "ai_ute_dealer",
+   "prompt": "A salesman handing keys to a farmer next to a new dual-cab ute on a regional dealership forecourt, no readable text, no logos"
+  },
+  {
+   "id": "ai_diesel_fill",
+   "prompt": "Close-up of a man refuelling a dual-cab ute with diesel at a country service station, worried expression, no readable text"
+  },
+  {
+   "id": "ai_ute_outback",
+   "prompt": "A dual-cab ute driving on a red dirt outback road at sunset, dust trail, no logos, no badges"
+  },
+  {
+   "id": "persona_ute",
+   "prompt": "Waist-up portrait of a fictional Australian man in his 40s with short brown hair and a beard, wearing a plain navy blue crew-neck sweater (never green), surprised excited expression, pointing at the camera with one hand, looking straight at the camera",
+   "style": ", photorealistic studio portrait photograph, sharp focus on the face, even soft lighting, plain solid bright chroma green background #00FF00 filling the whole frame, no shadows on the background, no text, no logos",
+   "guard": "fictional",
+   "n": 2
+  }
+ ]
+}

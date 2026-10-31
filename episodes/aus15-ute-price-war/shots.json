@@ -1,0 +1,251 @@
+{
+ "defaults": {
+  "n": 4,
+  "sources": [
+   "commons",
+   "pixabay"
+  ]
+ },
+ "shots": [
+  {
+   "id": "m_ranger",
+   "query": "Ford Ranger 2023",
+   "alt": [
+    "Ford Ranger Wildtrak"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_ranger_phev",
+   "query": "Ford Ranger PHEV",
+   "alt": [
+    "Ford Ranger plug-in hybrid"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_hilux",
+   "query": "Toyota Hilux 2025",
+   "alt": [
+    "Toyota Hilux ninth generation"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_hilux_old",
+   "query": "Toyota Hilux SR5",
+   "alt": [
+    "Toyota Hilux"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_everest",
+   "query": "Ford Everest",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_tasman",
+   "query": "Kia Tasman",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_shark6",
+   "query": "BYD Shark 6",
+   "alt": [
+    "BYD Shark"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_triton",
+   "query": "Mitsubishi Triton 2024",
+   "alt": [
+    "Mitsubishi L200 2024"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_cannon",
+   "query": "GWM Cannon",
+   "alt": [
+    "Great Wall Cannon"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_bt50",
+   "query": "Mazda BT-50",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_navara",
+   "query": "Nissan Navara",
+   "alt": [
+    "Nissan Navara D23"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_amarok",
+   "query": "Volkswagen Amarok 2023",
+   "alt": [
+    "VW Amarok"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_musso",
+   "query": "SsangYong Musso",
+   "alt": [
+    "KGM Musso"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_jac_t9",
+   "query": "JAC T9",
+   "alt": [
+    "JAC Hunter"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_dmax",
+   "query": "Isuzu D-Max",
+   "alt": [
+    "Isuzu D-Max 2021"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_rav4",
+   "query": "Toyota RAV4",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_ram1500",
+   "query": "Ram 1500",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_silverado",
+   "query": "Chevrolet Silverado",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_f150",
+   "query": "Ford F-150",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_tundra",
+   "query": "Toyota Tundra",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_t60",
+   "query": "LDV T60",
+   "alt": [
+    "Maxus T60"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_terron",
+   "query": "LDV Terron 9",
+   "alt": [
+    "Maxus Terron 9"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_ranger_tremor",
+   "query": "Ford Ranger Tremor",
+   "alt": [
+    "Ford Ranger Raptor"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_rugged_x",
+   "query": "Toyota Hilux Rugged X",
+   "alt": [
+    "Hilux GR Sport"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_ute_tow",
+   "query": "ute towing caravan",
+   "alt": [
+    "pickup towing trailer"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_diesel",
+   "query": "diesel fuel pump",
+   "alt": [
+    "petrol station"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_tradie",
+   "query": "tradesman ute tools",
+   "alt": [
+    "tradie work vehicle"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_farm",
+   "query": "farm ute outback",
+   "alt": [
+    "farm pickup truck"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_dealer",
+   "query": "car dealership",
+   "alt": [
+    "car showroom"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_calc",
+   "query": "calculator money",
+   "alt": [
+    "budget"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_keys",
+   "query": "car keys handover",
+   "alt": [
+    "car key"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_outback",
+   "query": "outback road australia",
+   "alt": [
+    "red dirt road"
+   ],
+   "n": 4
+  }
+ ]
+}

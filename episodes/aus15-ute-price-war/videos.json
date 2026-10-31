@@ -1,0 +1,125 @@
+{
+ "defaults": {
+  "n": 4,
+  "clip": 8,
+  "sources": [
+   "coverr",
+   "pixabay",
+   "pexels"
+  ]
+ },
+ "shots": [
+  {
+   "id": "v_ute_offroad",
+   "query": "pickup truck off road",
+   "alt": [
+    "4x4 ute dirt"
+   ]
+  },
+  {
+   "id": "v_ute_drive",
+   "query": "pickup truck driving",
+   "alt": [
+    "ute highway"
+   ]
+  },
+  {
+   "id": "v_tradie",
+   "query": "construction worker truck",
+   "alt": [
+    "tradesman loading truck"
+   ]
+  },
+  {
+   "id": "v_tow",
+   "query": "truck towing trailer",
+   "alt": [
+    "towing caravan"
+   ]
+  },
+  {
+   "id": "v_fuel",
+   "query": "diesel fuel pump nozzle",
+   "alt": [
+    "refueling car"
+   ]
+  },
+  {
+   "id": "v_dealer",
+   "query": "car dealership",
+   "alt": [
+    "car salesman"
+   ]
+  },
+  {
+   "id": "v_farm",
+   "query": "farm truck field",
+   "alt": [
+    "farmer pickup"
+   ]
+  },
+  {
+   "id": "v_outback",
+   "query": "outback road",
+   "alt": [
+    "desert road car"
+   ]
+  },
+  {
+   "id": "v_money",
+   "query": "counting money",
+   "alt": [
+    "cash"
+   ]
+  },
+  {
+   "id": "v_calc",
+   "query": "calculator paperwork",
+   "alt": [
+    "finance paperwork"
+   ]
+  },
+  {
+   "id": "v_keys",
+   "query": "car keys",
+   "alt": [
+    "handing keys"
+   ]
+  },
+  {
+   "id": "v_traffic",
+   "query": "highway traffic",
+   "alt": [
+    "city traffic"
+   ]
+  },
+  {
+   "id": "v_ev_charge",
+   "query": "electric car charging",
+   "alt": [
+    "ev charger"
+   ]
+  },
+  {
+   "id": "v_port",
+   "query": "car carrier ship",
+   "alt": [
+    "cars at port"
+   ]
+  },
+  {
+   "id": "v_pickup_us",
+   "query": "big pickup truck",
+   "alt": [
+    "american truck"
+   ]
+  },
+  {
+   "id": "v_handshake",
+   "query": "business handshake",
+   "alt": [
+    "deal handshake"
+   ]
+  }
+ ]
+}
