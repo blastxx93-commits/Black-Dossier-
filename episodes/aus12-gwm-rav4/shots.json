@@ -1,0 +1,182 @@
+{
+ "defaults": {
+  "n": 4,
+  "sources": [
+   "commons",
+   "pixabay"
+  ]
+ },
+ "shots": [
+  {
+   "id": "m_h7",
+   "query": "Haval H7",
+   "alt": [
+    "GWM Haval H7 2025",
+    "Haval Big Dog"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_h7b",
+   "query": "Haval Big Dog second generation",
+   "alt": [
+    "Haval H7 2026"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_h6",
+   "query": "Haval H6 2024",
+   "alt": [
+    "Haval H6 hybrid"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_jolion",
+   "query": "Haval Jolion",
+   "alt": [
+    "GWM Haval Jolion"
+   ],
+   "n": 3
+  },
+  {
+   "id": "m_rav4",
+   "query": "Toyota RAV4 2026",
+   "alt": [
+    "Toyota RAV4 sixth generation"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_rav4b",
+   "query": "Toyota RAV4 hybrid 2023",
+   "alt": [
+    "Toyota RAV4 XLE"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_rav4_phev",
+   "query": "Toyota RAV4 plug-in hybrid",
+   "alt": [
+    "Toyota RAV4 Prime"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_outlander",
+   "query": "Mitsubishi Outlander PHEV",
+   "alt": [],
+   "n": 3
+  },
+  {
+   "id": "m_sealion6",
+   "query": "BYD Sealion 6",
+   "alt": [
+    "BYD Song Plus"
+   ],
+   "n": 3
+  },
+  {
+   "id": "m_tiggo8",
+   "query": "Chery Tiggo 8",
+   "alt": [],
+   "n": 3
+  },
+  {
+   "id": "h_suv_family",
+   "query": "family suv",
+   "alt": [
+    "suv road trip"
+   ],
+   "n": 4,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_ev_charge",
+   "query": "plug-in hybrid charging",
+   "alt": [
+    "electric car charging"
+   ],
+   "n": 4,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_dealer",
+   "query": "car dealership",
+   "alt": [
+    "car showroom"
+   ],
+   "n": 4,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_fuel",
+   "query": "fuel pump",
+   "alt": [
+    "petrol station"
+   ],
+   "n": 4,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_caravan",
+   "query": "caravan towing",
+   "alt": [
+    "trailer towing suv"
+   ],
+   "n": 4,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_keys",
+   "query": "new car keys",
+   "alt": [
+    "car key fob"
+   ],
+   "n": 4,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_calc",
+   "query": "calculator money",
+   "alt": [],
+   "n": 4,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  },
+  {
+   "id": "h_interior",
+   "query": "car touchscreen dashboard",
+   "alt": [
+    "car interior screen"
+   ],
+   "n": 4,
+   "sources": [
+    "unsplash",
+    "pixabay"
+   ]
+  }
+ ]
+}

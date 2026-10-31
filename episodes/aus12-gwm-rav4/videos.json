@@ -1,0 +1,167 @@
+{
+ "defaults": {
+  "n": 4,
+  "clip": 8,
+  "sources": [
+   "coverr",
+   "pixabay",
+   "pexels"
+  ]
+ },
+ "shots": [
+  {
+   "id": "v_suv_drive",
+   "query": "suv driving road",
+   "alt": [
+    "suv on highway"
+   ]
+  },
+  {
+   "id": "v_suv_offroad",
+   "query": "suv off road",
+   "alt": [
+    "4x4 suv dirt road"
+   ]
+  },
+  {
+   "id": "v_suv_city",
+   "query": "suv city driving",
+   "alt": [
+    "car city street"
+   ]
+  },
+  {
+   "id": "v_family",
+   "query": "family car trip",
+   "alt": [
+    "family getting in car"
+   ]
+  },
+  {
+   "id": "v_ev_charge",
+   "query": "electric car charging",
+   "alt": [
+    "ev charging cable"
+   ]
+  },
+  {
+   "id": "v_plug",
+   "query": "plugging in car charger",
+   "alt": [
+    "charging plug car"
+   ]
+  },
+  {
+   "id": "v_home_charge",
+   "query": "home ev charger",
+   "alt": [
+    "garage electric car charging"
+   ]
+  },
+  {
+   "id": "v_fuel",
+   "query": "fuel pump nozzle",
+   "alt": [
+    "refueling car"
+   ]
+  },
+  {
+   "id": "v_dealer",
+   "query": "car dealership",
+   "alt": [
+    "car showroom"
+   ]
+  },
+  {
+   "id": "v_test_drive",
+   "query": "test drive car",
+   "alt": [
+    "man driving car"
+   ]
+  },
+  {
+   "id": "v_interior",
+   "query": "car infotainment screen",
+   "alt": [
+    "car dashboard touchscreen"
+   ]
+  },
+  {
+   "id": "v_keys",
+   "query": "car keys",
+   "alt": [
+    "handing car keys"
+   ]
+  },
+  {
+   "id": "v_money",
+   "query": "counting money",
+   "alt": [
+    "paying cash"
+   ]
+  },
+  {
+   "id": "v_calc",
+   "query": "calculator",
+   "alt": [
+    "using calculator"
+   ]
+  },
+  {
+   "id": "v_tow",
+   "query": "towing trailer",
+   "alt": [
+    "caravan road"
+   ]
+  },
+  {
+   "id": "v_highway",
+   "query": "highway aerial",
+   "alt": [
+    "motorway drone"
+   ]
+  },
+  {
+   "id": "v_country",
+   "query": "country road car",
+   "alt": [
+    "rural road drive"
+   ]
+  },
+  {
+   "id": "v_school",
+   "query": "school drop off car",
+   "alt": [
+    "parents car kids"
+   ]
+  },
+  {
+   "id": "v_boot",
+   "query": "car trunk loading",
+   "alt": [
+    "loading car boot"
+   ]
+  },
+  {
+   "id": "v_traffic",
+   "query": "city traffic",
+   "alt": [
+    "traffic timelapse"
+   ]
+  },
+  {
+   "id": "v_parking",
+   "query": "car park aerial",
+   "alt": [
+    "parking lot cars"
+   ]
+  },
+  {
+   "id": "v_wheel",
+   "query": "car wheel closeup",
+   "alt": [
+    "alloy wheel"
+   ]
+  }
+ ]
+}
