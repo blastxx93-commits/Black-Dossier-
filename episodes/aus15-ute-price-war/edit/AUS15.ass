@@ -1,0 +1,346 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Doc,Inter SemiBold,44,&H0000E6FF,&H0000E6FF,&H00000000,&H96000000,0,0,0,0,100,100,0.5,0,1,2.4,1.2,2,200,200,62,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.38,Doc,,0,0,0,,Four thousand dollars off a Toyota HiLux.
+Dialogue: 0,0:00:02.43,0:00:06.45,Doc,,0,0,0,,CarsGuide called it a "rare" move\Nbecause Toyota almost never needs to
+Dialogue: 0,0:00:06.50,0:00:08.73,Doc,,0,0,0,,discount Australia's most famous ute.
+Dialogue: 0,0:00:08.78,0:00:12.51,Doc,,0,0,0,,But in October 2026, that's\Nexactly what happened.
+Dialogue: 0,0:00:12.56,0:00:13.85,Doc,,0,0,0,,And Toyota isn't alone.
+Dialogue: 0,0:00:13.90,0:00:17.91,Doc,,0,0,0,,Ford has cut its Ranger plug-in hybrid\Nby more than ten thousand dollars and
+Dialogue: 0,0:00:17.96,0:00:20.73,Doc,,0,0,0,,handed out four-thousand-dollar\Nfuel cards.
+Dialogue: 0,0:00:20.78,0:00:24.05,Doc,,0,0,0,,Kia has slashed up to fifteen\Nthousand dollars off its Tasman.
+Dialogue: 0,0:00:24.10,0:00:28.17,Doc,,0,0,0,,BYD is offering four thousand\Ndollars cashback on the Shark 6.
+Dialogue: 0,0:00:28.22,0:00:30.57,Doc,,0,0,0,,Australia's ute market\Nthe most profitable,
+Dialogue: 0,0:00:30.62,0:00:34.17,Doc,,0,0,0,,most fiercely defended part of the whole\Ncar industry is in a full-blown price
+Dialogue: 0,0:00:34.22,0:00:34.87,Doc,,0,0,0,,war.
+Dialogue: 0,0:00:34.92,0:00:35.83,Doc,,0,0,0,,Why now?
+Dialogue: 0,0:00:35.88,0:00:39.87,Doc,,0,0,0,,Because Australians are buying fewer\Ntraditional utes and the brands know it.
+Dialogue: 0,0:00:39.92,0:00:43.41,Doc,,0,0,0,,Sales of traditional utes and vans were\Ndown more than thirteen per cent in
+Dialogue: 0,0:00:43.46,0:00:46.47,Doc,,0,0,0,,September, and down more than\Nten per cent for the year.
+Dialogue: 0,0:00:46.52,0:00:49.35,Doc,,0,0,0,,Some of the biggest names are\Ngoing backwards by thirty,
+Dialogue: 0,0:00:49.40,0:00:50.89,Doc,,0,0,0,,forty, even fifty per cent.
+Dialogue: 0,0:00:50.94,0:00:54.91,Doc,,0,0,0,,In this video, I'll show you who's\Ncutting prices, by how much, and why.
+Dialogue: 0,0:00:54.96,0:00:58.43,Doc,,0,0,0,,I'll show you which utes are winning\Nand which are getting crushed.
+Dialogue: 0,0:00:58.48,0:00:59.11,Doc,,0,0,0,,And at the end,
+Dialogue: 0,0:00:59.16,0:01:02.51,Doc,,0,0,0,,I'll tell you how to get the best\Npossible deal and the traps hidden inside
+Dialogue: 0,0:01:02.56,0:01:03.68,Doc,,0,0,0,,some of these offers.
+Dialogue: 0,0:01:04.39,0:01:05.52,Doc,,0,0,0,,Let's start with the numbers,
+Dialogue: 0,0:01:05.57,0:01:08.60,Doc,,0,0,0,,because they're the reason\Nall of this is happening.
+Dialogue: 0,0:01:08.65,0:01:09.73,Doc,,0,0,0,,In September 2026,
+Dialogue: 0,0:01:09.78,0:01:13.18,Doc,,0,0,0,,the Ford Ranger was Australia's\Nbest-selling vehicle,
+Dialogue: 0,0:01:13.23,0:01:16.44,Doc,,0,0,0,,with 5,062 sales, up four per cent.
+Dialogue: 0,0:01:16.49,0:01:23.08,Doc,,0,0,0,,But the Toyota HiLux fell to fourth,\Nwith 4,455 down 11.7 per cent.
+Dialogue: 0,0:01:23.13,0:01:26.20,Doc,,0,0,0,,Even more telling, the Toyota RAV4 SUV,
+Dialogue: 0,0:01:26.25,0:01:30.06,Doc,,0,0,0,,with 4,624 sales, outsold the HiLux.
+Dialogue: 0,0:01:30.11,0:01:32.08,Doc,,0,0,0,,Not long ago, that would\Nhave been unthinkable.
+Dialogue: 0,0:01:32.13,0:01:33.29,Doc,,0,0,0,,For the year to date,
+Dialogue: 0,0:01:33.34,0:01:36.56,Doc,,0,0,0,,the race for Australia's number\None vehicle is incredibly tight.
+Dialogue: 0,0:01:36.61,0:01:40.54,Doc,,0,0,0,,The Ranger is on 37,858.
+Dialogue: 0,0:01:40.59,0:01:44.06,Doc,,0,0,0,,The HiLux is on 36,616.
+Dialogue: 0,0:01:44.11,0:01:47.80,Doc,,0,0,0,,That's a gap of just over twelve\Nhundred, with three months to go.
+Dialogue: 0,0:01:47.85,0:01:50.82,Doc,,0,0,0,,And winning that crown matters\Nenormously for marketing,
+Dialogue: 0,0:01:50.87,0:01:52.36,Doc,,0,0,0,,for dealers and for pride.
+Dialogue: 0,0:01:52.41,0:01:54.62,Doc,,0,0,0,,Back in May, CarsGuide's news editor,
+Dialogue: 0,0:01:54.67,0:01:56.54,Doc,,0,0,0,,Dom Tripolone, put it bluntly:
+Dialogue: 0,0:01:56.59,0:02:00.80,Doc,,0,0,0,,"We've hit peak ute and the only way is\Ndown." Four-wheel-drive ute sales were
+Dialogue: 0,0:02:00.85,0:02:04.00,Doc,,0,0,0,,already falling then, and\Nthe decline has continued.
+Dialogue: 0,0:02:04.05,0:02:05.50,Doc,,0,0,0,,It's a remarkable turnaround.
+Dialogue: 0,0:02:05.55,0:02:07.08,Doc,,0,0,0,,For most of the past decade,
+Dialogue: 0,0:02:07.13,0:02:11.10,Doc,,0,0,0,,the Ranger and the HiLux took turns\Nas the country's best-selling vehicle.
+Dialogue: 0,0:02:11.15,0:02:13.10,Doc,,0,0,0,,Toyota's former sales and marketing boss,
+Dialogue: 0,0:02:13.15,0:02:16.60,Doc,,0,0,0,,Sean Hanley, saw this coming\Nback at the start of 2025.
+Dialogue: 0,0:02:16.65,0:02:20.48,Doc,,0,0,0,,He said "the number of ute models\Navailable to Australian buyers will expand
+Dialogue: 0,0:02:20.53,0:02:24.40,Doc,,0,0,0,,rapidly", and that an SUV could rise\Nto the top of the national sales charts
+Dialogue: 0,0:02:24.45,0:02:26.18,Doc,,0,0,0,,"in the next year or two".
+Dialogue: 0,0:02:26.23,0:02:27.34,Doc,,0,0,0,,He was right on both counts.
+Dialogue: 0,0:02:27.39,0:02:29.64,Doc,,0,0,0,,So what's driving buyers away?
+Dialogue: 0,0:02:29.69,0:02:30.90,Doc,,0,0,0,,Three big things.
+Dialogue: 0,0:02:30.95,0:02:32.12,Doc,,0,0,0,,First, fuel.
+Dialogue: 0,0:02:32.17,0:02:33.78,Doc,,0,0,0,,In May 2026,
+Dialogue: 0,0:02:33.83,0:02:38.04,Doc,,0,0,0,,diesel reached as high as $3.50 a\Nlitre in some parts of Australia,
+Dialogue: 0,0:02:38.09,0:02:39.32,Doc,,0,0,0,,according to CarExpert.
+Dialogue: 0,0:02:39.37,0:02:44.04,Doc,,0,0,0,,Fill an eighty-litre ute tank at that\Nprice and you're up for about $280.
+Dialogue: 0,0:02:44.09,0:02:46.40,Doc,,0,0,0,,Second, the government's emissions rules.
+Dialogue: 0,0:02:46.45,0:02:48.05,Doc,,0,0,0,,Under the New Vehicle Efficiency Standard,
+Dialogue: 0,0:02:48.10,0:02:52.10,Doc,,0,0,0,,car makers face penalties for selling\Ntoo many high-emitting vehicles and
+Dialogue: 0,0:02:52.15,0:02:54.91,Doc,,0,0,0,,diesel utes are some of the\Nhighest emitters on the market.
+Dialogue: 0,0:02:54.96,0:02:56.98,Doc,,0,0,0,,Third, the alternatives have exploded.
+Dialogue: 0,0:02:57.03,0:02:59.66,Doc,,0,0,0,,Plug-in hybrid utes, Chinese utes,
+Dialogue: 0,0:02:59.71,0:03:02.44,Doc,,0,0,0,,and family SUVs with\Nhybrid and electric power.
+Dialogue: 0,0:03:02.49,0:03:06.24,Doc,,0,0,0,,Chinese-built vehicles made up more\Nthan thirty-five per cent of all new-car
+Dialogue: 0,0:03:06.29,0:03:07.88,Doc,,0,0,0,,sales in September.
+Dialogue: 0,0:03:07.93,0:03:11.57,Doc,,0,0,0,,Buyers who once defaulted to a dual-cab\Nnow have a dozen other options.
+Dialogue: 0,0:03:12.40,0:03:15.62,Doc,,0,0,0,,So let's look at the deals,\Nstarting with the big one: Toyota.
+Dialogue: 0,0:03:15.67,0:03:22.05,Doc,,0,0,0,,Toyota is offering a $4,000 "deposit\Nbonus" on new and demonstrator 2026
+Dialogue: 0,0:03:22.10,0:03:25.70,Doc,,0,0,0,,HiLux SR5 models the\Nfour-wheel-drive versions.
+Dialogue: 0,0:03:25.75,0:03:32.05,Doc,,0,0,0,,CarsGuide reported that the SR5\Nrange starts at $69,901 drive-away
+Dialogue: 0,0:03:32.10,0:03:33.57,Doc,,0,0,0,,in New South Wales,
+Dialogue: 0,0:03:33.62,0:03:40.07,Doc,,0,0,0,,rising to $73,952 for the top\Ndouble-cab cab-chassis with the new
+Dialogue: 0,0:03:40.12,0:03:41.67,Doc,,0,0,0,,48-volt mild-hybrid system.
+Dialogue: 0,0:03:41.72,0:03:43.18,Doc,,0,0,0,,But read the fine print.
+Dialogue: 0,0:03:43.23,0:03:47.37,Doc,,0,0,0,,The bonus only applies if you finance\Nthe ute through Toyota Finance,
+Dialogue: 0,0:03:47.42,0:03:49.65,Doc,,0,0,0,,with at least ten\Nthousand dollars borrowed.
+Dialogue: 0,0:03:49.70,0:03:53.75,Doc,,0,0,0,,Finance applications have to be in\Nbetween the 1st of September and the 31st
+Dialogue: 0,0:03:53.80,0:03:59.73,Doc,,0,0,0,,of December 2026, and the car has to be\Nsettled by the 28th of February 2027.
+Dialogue: 0,0:03:59.78,0:04:02.61,Doc,,0,0,0,,It covers private buyers and\Nsome smaller fleet customers,
+Dialogue: 0,0:04:02.66,0:04:04.81,Doc,,0,0,0,,and it excludes the electric HiLux.
+Dialogue: 0,0:04:04.86,0:04:06.43,Doc,,0,0,0,,Why is Toyota doing this?
+Dialogue: 0,0:04:06.48,0:04:08.15,Doc,,0,0,0,,Its sales boss, John Pappas,
+Dialogue: 0,0:04:08.20,0:04:10.35,Doc,,0,0,0,,said Toyota is "targeting a very strong,
+Dialogue: 0,0:04:10.40,0:04:14.99,Doc,,0,0,0,,record fourth quarter sales for 2026,"\Nthanks to better vehicle supply.
+Dialogue: 0,0:04:15.04,0:04:17.71,Doc,,0,0,0,,In plain English: Toyota\Nhas more utes coming,
+Dialogue: 0,0:04:17.76,0:04:18.79,Doc,,0,0,0,,it wants to move them,
+Dialogue: 0,0:04:18.84,0:04:21.57,Doc,,0,0,0,,and it wants to stop the Ranger\Nfrom running away with the title.
+Dialogue: 0,0:04:21.62,0:04:23.83,Doc,,0,0,0,,And remember, this is a brand-new HiLux.
+Dialogue: 0,0:04:23.88,0:04:26.25,Doc,,0,0,0,,The new generation arrived in late 2025,
+Dialogue: 0,0:04:26.30,0:04:30.17,Doc,,0,0,0,,with a mild-hybrid diesel and\Neven a fully electric version.
+Dialogue: 0,0:04:30.22,0:04:33.17,Doc,,0,0,0,,Normally, a new model sells\Nstrongly in its first year.
+Dialogue: 0,0:04:33.22,0:04:36.57,Doc,,0,0,0,,Instead, the HiLux was down almost\Ntwelve per cent in September.
+Dialogue: 0,0:04:36.62,0:04:38.43,Doc,,0,0,0,,Toyota needs this one to work.
+Dialogue: 0,0:04:38.48,0:04:39.37,Doc,,0,0,0,,That's worth remembering.
+Dialogue: 0,0:04:39.42,0:04:43.31,Doc,,0,0,0,,When the market leader starts offering\Nfinance bonuses on its most iconic
+Dialogue: 0,0:04:43.36,0:04:45.36,Doc,,0,0,0,,model, it's not doing it for fun.
+Dialogue: 0,0:04:47.50,0:04:47.54,Doc,,0,0,0,,Now Ford.
+Dialogue: 0,0:04:47.59,0:04:52.58,Doc,,0,0,0,,Ford's Ranger has been Australia's\Nbest-selling vehicle in 2024 and 2025,
+Dialogue: 0,0:04:52.63,0:04:55.12,Doc,,0,0,0,,and it's leading again in 2026.
+Dialogue: 0,0:04:55.17,0:04:57.58,Doc,,0,0,0,,But even the champion\Nhas been cutting prices.
+Dialogue: 0,0:04:57.63,0:04:59.30,Doc,,0,0,0,,In April 2026,
+Dialogue: 0,0:04:59.35,0:05:03.10,Doc,,0,0,0,,Ford slashed the price of the Ranger\Nplug-in hybrid now simply called the
+Dialogue: 0,0:05:03.15,0:05:04.30,Doc,,0,0,0,,Ranger Hybrid.
+Dialogue: 0,0:05:04.35,0:05:07.92,Doc,,0,0,0,,The XLT Hybrid dropped\Nto $62,000 drive-away.
+Dialogue: 0,0:05:07.97,0:05:12.88,Doc,,0,0,0,,It had been listed at\N$71,990 before on-road costs,
+Dialogue: 0,0:05:12.93,0:05:16.19,Doc,,0,0,0,,so Ford described that as over\Nten thousand dollars less.
+Dialogue: 0,0:05:16.24,0:05:19.40,Doc,,0,0,0,,The Sport was $66,000 drive-away,
+Dialogue: 0,0:05:19.45,0:05:24.50,Doc,,0,0,0,,the Wildtrak $70,000, and\Nthe Stormtrak $73,000.
+Dialogue: 0,0:05:24.55,0:05:25.76,Doc,,0,0,0,,At the same time,
+Dialogue: 0,0:05:25.81,0:05:30.82,Doc,,0,0,0,,Ford handed out a $4,000 fuel card\Non 2026-model Rangers and entry-level
+Dialogue: 0,0:05:30.87,0:05:34.90,Doc,,0,0,0,,Everests, timed with the federal\Ngovernment's cut to fuel excise.
+Dialogue: 0,0:05:34.95,0:05:37.04,Doc,,0,0,0,,Ford's Australian boss, Fadi Mawal,
+Dialogue: 0,0:05:37.09,0:05:40.20,Doc,,0,0,0,,said the offers were about helping\Ncustomers through "short-term pain at the
+Dialogue: 0,0:05:40.25,0:05:40.40,Doc,,0,0,0,,pump".
+Dialogue: 0,0:05:40.45,0:05:45.08,Doc,,0,0,0,,Farmers registered as primary producers\Ngot an extra thousand dollars off any
+Dialogue: 0,0:05:45.13,0:05:48.28,Doc,,0,0,0,,Ranger, including the hybrid\Nand the big Super Duty.
+Dialogue: 0,0:05:48.33,0:05:49.68,Doc,,0,0,0,,And buyers responded.
+Dialogue: 0,0:05:49.73,0:05:52.90,Doc,,0,0,0,,After the Wildtrak hybrid\Ndropped to $70,000 drive-away,
+Dialogue: 0,0:05:52.95,0:05:56.42,Doc,,0,0,0,,Ford said dealer stock was\Nsoon "all but exhausted".
+Dialogue: 0,0:05:56.47,0:05:58.20,Doc,,0,0,0,,As a Ford spokesperson put it:
+Dialogue: 0,0:05:58.25,0:06:01.90,Doc,,0,0,0,,"Australian buyers are doing the maths."\NThat's the key lesson of this whole
+Dialogue: 0,0:06:01.95,0:06:02.76,Doc,,0,0,0,,price war.
+Dialogue: 0,0:06:02.81,0:06:06.82,Doc,,0,0,0,,Cut the price far enough, and buyers\Ncome back even in a falling market.
+Dialogue: 0,0:06:06.87,0:06:07.82,Doc,,0,0,0,,Here's the interesting part.
+Dialogue: 0,0:06:07.87,0:06:10.60,Doc,,0,0,0,,Ford is discounting from\Na position of strength.
+Dialogue: 0,0:06:10.65,0:06:12.28,Doc,,0,0,0,,The Ranger is still growing.
+Dialogue: 0,0:06:12.33,0:06:15.80,Doc,,0,0,0,,Ford isn't panicking about the Ranger\Nitself it's making sure that when Toyota
+Dialogue: 0,0:06:15.85,0:06:18.15,Doc,,0,0,0,,finally swings back, there's no opening.
+Dialogue: 0,0:06:18.99,0:06:22.30,Doc,,0,0,0,,And then there's the ute that's\Nreally struggling: the Kia Tasman.
+Dialogue: 0,0:06:22.35,0:06:24.29,Doc,,0,0,0,,When Kia launched the Tasman in 2025,
+Dialogue: 0,0:06:24.34,0:06:28.44,Doc,,0,0,0,,it was the most important new\Nute in years Kia's first ever,
+Dialogue: 0,0:06:28.49,0:06:30.40,Doc,,0,0,0,,designed with Australia in mind.
+Dialogue: 0,0:06:30.45,0:06:33.56,Doc,,0,0,0,,Kia forecast 20,000 sales\Nin its first calendar year,
+Dialogue: 0,0:06:33.61,0:06:35.54,Doc,,0,0,0,,and seven to ten per cent of the segment.
+Dialogue: 0,0:06:35.59,0:06:38.56,Doc,,0,0,0,,It also expected half of\Nthose sales to go to fleets.
+Dialogue: 0,0:06:38.61,0:06:42.44,Doc,,0,0,0,,Instead, Kia says the split is roughly\None quarter fleet and three quarters
+Dialogue: 0,0:06:42.49,0:06:46.26,Doc,,0,0,0,,private buyers so the big company orders\Nit was counting on haven't arrived.
+Dialogue: 0,0:06:46.31,0:06:47.36,Doc,,0,0,0,,The reality?
+Dialogue: 0,0:06:47.41,0:06:53.78,Doc,,0,0,0,,From launch to the end of September\N2026, Kia sold 7,898 Tasmans in total.
+Dialogue: 0,0:06:53.83,0:06:59.04,Doc,,0,0,0,,In September, it found 355 buyers down\N56 per cent on the same month last
+Dialogue: 0,0:06:59.09,0:06:59.50,Doc,,0,0,0,,year.
+Dialogue: 0,0:06:59.55,0:07:01.34,Doc,,0,0,0,,So Kia went hard on price.
+Dialogue: 0,0:07:01.39,0:07:05.20,Doc,,0,0,0,,In May 2026, it cut the\NTasman by up to $15,000.
+Dialogue: 0,0:07:05.25,0:07:09.44,Doc,,0,0,0,,The top X-Pro dropped\Nto $64,990 drive-away.
+Dialogue: 0,0:07:09.49,0:07:13.22,Doc,,0,0,0,,The X-Line came down to $59,990,
+Dialogue: 0,0:07:13.27,0:07:18.02,Doc,,0,0,0,,and the dual-cab S 4x4 to $49,990.
+Dialogue: 0,0:07:18.07,0:07:20.38,Doc,,0,0,0,,Kia's own executives have\Nbeen remarkably honest.
+Dialogue: 0,0:07:20.43,0:07:24.54,Doc,,0,0,0,,Then-boss Damien Meredith said\Nthe exterior is "very polarising".
+Dialogue: 0,0:07:24.59,0:07:26.38,Doc,,0,0,0,,He admitted: "We've fallen short.
+Dialogue: 0,0:07:26.43,0:07:28.64,Doc,,0,0,0,,We know the facts." But he also said,
+Dialogue: 0,0:07:28.69,0:07:29.60,Doc,,0,0,0,,"once you're inside it,
+Dialogue: 0,0:07:29.65,0:07:33.62,Doc,,0,0,0,,it's fantastic." Meredith also pointed\Nout that the Tasman was planned six
+Dialogue: 0,0:07:33.67,0:07:36.42,Doc,,0,0,0,,years ago, and the competition\Nsince then has become,
+Dialogue: 0,0:07:36.47,0:07:37.86,Doc,,0,0,0,,in his words, "quite dramatic".
+Dialogue: 0,0:07:37.91,0:07:39.68,Doc,,0,0,0,,And at the end of October,
+Dialogue: 0,0:07:39.73,0:07:41.68,Doc,,0,0,0,,Kia's new chief executive, Dennis Piccoli,
+Dialogue: 0,0:07:41.73,0:07:44.60,Doc,,0,0,0,,said Kia can do a "vastly\Nbetter job" selling the Tasman,
+Dialogue: 0,0:07:44.65,0:07:46.70,Doc,,0,0,0,,adding: "We'd like to sell more cars.
+Dialogue: 0,0:07:46.75,0:07:47.99,Doc,,0,0,0,,It's as simple as that."
+Dialogue: 0,0:07:48.71,0:07:51.78,Doc,,0,0,0,,Quick favour before we get to the utes\Nthat are getting crushed and the ones
+Dialogue: 0,0:07:51.83,0:07:52.88,Doc,,0,0,0,,that are quietly winning.
+Dialogue: 0,0:07:52.93,0:07:55.08,Doc,,0,0,0,,Are you driving a ute right now?
+Dialogue: 0,0:07:55.13,0:07:58.42,Doc,,0,0,0,,Would you buy one again with\Ndiesel prices and these discounts?
+Dialogue: 0,0:07:58.47,0:07:59.76,Doc,,0,0,0,,Tell me in the comments.
+Dialogue: 0,0:07:59.81,0:08:00.77,Doc,,0,0,0,,And if you want honest,
+Dialogue: 0,0:08:00.82,0:08:04.40,Doc,,0,0,0,,data-first videos about what's\Nreally happening in Aussie car yards,
+Dialogue: 0,0:08:04.45,0:08:05.40,Doc,,0,0,0,,hit subscribe.
+Dialogue: 0,0:08:05.45,0:08:07.61,Doc,,0,0,0,,It's free and it really helps the channel.
+Dialogue: 0,0:08:09.65,0:08:09.70,Doc,,0,0,0,,Now the scoreboard.
+Dialogue: 0,0:08:09.75,0:08:13.84,Doc,,0,0,0,,Here's how the rest of the ute\Nmarket performed in September 2026,
+Dialogue: 0,0:08:13.89,0:08:17.42,Doc,,0,0,0,,according to VFACTS data published\Nthrough CarExpert's sales database.
+Dialogue: 0,0:08:17.47,0:08:18.86,Doc,,0,0,0,,The losers first.
+Dialogue: 0,0:08:18.91,0:08:24.10,Doc,,0,0,0,,The Mitsubishi Triton: 1,202\Nsales, down 30.6 per cent.
+Dialogue: 0,0:08:24.15,0:08:29.06,Doc,,0,0,0,,The GWM Cannon: 852, down 31.6.
+Dialogue: 0,0:08:29.11,0:08:33.72,Doc,,0,0,0,,The Mazda BT-50: 843, down 22.5.
+Dialogue: 0,0:08:33.77,0:08:38.06,Doc,,0,0,0,,The Nissan Navara: 338, down almost 35.
+Dialogue: 0,0:08:38.11,0:08:42.64,Doc,,0,0,0,,The Volkswagen Amarok:\N244, down almost 43.
+Dialogue: 0,0:08:42.69,0:08:45.80,Doc,,0,0,0,,The KGM Musso: 85, down 38.
+Dialogue: 0,0:08:45.85,0:08:50.12,Doc,,0,0,0,,And the JAC T9 Chinese\Nute: 58, down 47 per cent.
+Dialogue: 0,0:08:50.17,0:08:51.96,Doc,,0,0,0,,Even the Isuzu D-Max,
+Dialogue: 0,0:08:52.01,0:08:55.56,Doc,,0,0,0,,one of the most trusted names in\Nthe bush, was down six per cent.
+Dialogue: 0,0:08:55.61,0:08:57.74,Doc,,0,0,0,,Isuzu is in a particularly tough spot,
+Dialogue: 0,0:08:57.79,0:08:59.82,Doc,,0,0,0,,because its whole local range is diesel.
+Dialogue: 0,0:08:59.87,0:09:04.12,Doc,,0,0,0,,In 2026, it cancelled plans to bring\Nthe electric D-Max to Australia,
+Dialogue: 0,0:09:04.17,0:09:06.58,Doc,,0,0,0,,with Isuzu's Rod Caldwell saying simply:
+Dialogue: 0,0:09:06.63,0:09:08.77,Doc,,0,0,0,,"Customers don't want\Nit." Now the winners.
+Dialogue: 0,0:09:08.82,0:09:11.90,Doc,,0,0,0,,The BYD Shark 6 plug-in hybrid:
+Dialogue: 0,0:09:11.95,0:09:18.22,Doc,,0,0,0,,1,492 sales, up 25 per cent, and\Nmore than 13,500 for the year.
+Dialogue: 0,0:09:18.27,0:09:21.62,Doc,,0,0,0,,LDV's cheaper T60: up almost 69 per cent.
+Dialogue: 0,0:09:21.67,0:09:25.46,Doc,,0,0,0,,LDV's new Terron 9: up 195 per cent.
+Dialogue: 0,0:09:25.51,0:09:28.70,Doc,,0,0,0,,The Shark 6 is a turnaround\Nstory of its own.
+Dialogue: 0,0:09:28.75,0:09:33.00,Doc,,0,0,0,,Sales stalled in early 2026\Nat around 1,200 a month,
+Dialogue: 0,0:09:33.05,0:09:36.08,Doc,,0,0,0,,after plug-in hybrids lost their\Nfringe benefits tax exemption.
+Dialogue: 0,0:09:36.13,0:09:39.00,Doc,,0,0,0,,BYD's chief operating\Nofficer in Australia,
+Dialogue: 0,0:09:39.05,0:09:40.96,Doc,,0,0,0,,Stephen Collins, admitted at the time:
+Dialogue: 0,0:09:41.01,0:09:43.48,Doc,,0,0,0,,"I reckon we can do better." By September,
+Dialogue: 0,0:09:43.53,0:09:46.66,Doc,,0,0,0,,Shark sales were back up twenty-five\Nper cent on a year earlier.
+Dialogue: 0,0:09:46.71,0:09:49.00,Doc,,0,0,0,,And big American pick-up trucks the Ram,
+Dialogue: 0,0:09:49.05,0:09:54.27,Doc,,0,0,0,,Silverado, F-150 and Tundra were up 13\Nper cent in September and almost 12 per
+Dialogue: 0,0:09:54.32,0:09:55.50,Doc,,0,0,0,,cent for the year.
+Dialogue: 0,0:09:55.55,0:09:57.52,Doc,,0,0,0,,So the ute market isn't just shrinking.
+Dialogue: 0,0:09:57.57,0:09:58.74,Doc,,0,0,0,,It's splitting.
+Dialogue: 0,0:09:58.79,0:10:01.04,Doc,,0,0,0,,Buyers are going either\Ncheaper, electrified,
+Dialogue: 0,0:10:01.09,0:10:04.56,Doc,,0,0,0,,or much bigger and the traditional\Nmid-range diesel dual-cab is getting
+Dialogue: 0,0:10:04.61,0:10:06.11,Doc,,0,0,0,,squeezed from all sides.
+Dialogue: 0,0:10:06.98,0:10:08.97,Doc,,0,0,0,,BYD, meanwhile, is\Nturning up the pressure.
+Dialogue: 0,0:10:09.02,0:10:13.61,Doc,,0,0,0,,From the 1st of October to\Nthe 21st of December 2026,
+Dialogue: 0,0:10:13.66,0:10:18.43,Doc,,0,0,0,,BYD is offering $4,000 cashback across\Nmuch of its range including the Shark
+Dialogue: 0,0:10:18.48,0:10:19.14,Doc,,0,0,0,,6.
+Dialogue: 0,0:10:19.19,0:10:25.25,Doc,,0,0,0,,CarsGuide listed the Shark 6\Ncab-chassis Dynamic at $51,990 before
+Dialogue: 0,0:10:25.30,0:10:28.23,Doc,,0,0,0,,on-road costs with the cashback applied,
+Dialogue: 0,0:10:28.28,0:10:33.35,Doc,,0,0,0,,the Premium at $53,900 and\Nthe Performance at $62,900.
+Dialogue: 0,0:10:33.40,0:10:36.77,Doc,,0,0,0,,Cars have to be delivered\Nby the 31st of December.
+Dialogue: 0,0:10:36.82,0:10:40.07,Doc,,0,0,0,,And at the top end of the market,\Nthe fight is just as fierce.
+Dialogue: 0,0:10:40.12,0:10:46.59,Doc,,0,0,0,,In May 2026, Mitsubishi priced its new\NTriton Raider at $74,990 drive-away.
+Dialogue: 0,0:10:46.64,0:10:51.72,Doc,,0,0,0,,CarExpert worked out that a Ford\NRanger Tremor came to about $82,404
+Dialogue: 0,0:10:51.77,0:10:58.55,Doc,,0,0,0,,drive-away for a private buyer in\NSydney, and a HiLux Rugged X to $78,117.
+Dialogue: 0,0:10:58.60,0:11:02.17,Doc,,0,0,0,,That's several thousand dollars of\Ndifference between three utes that do very
+Dialogue: 0,0:11:02.22,0:11:03.17,Doc,,0,0,0,,similar jobs.
+Dialogue: 0,0:11:03.22,0:11:05.55,Doc,,0,0,0,,GWM has played the same game.
+Dialogue: 0,0:11:05.60,0:11:10.53,Doc,,0,0,0,,In 2025 it cut its Cannon Alpha\Nplug-in hybrid by up to $7,100,
+Dialogue: 0,0:11:10.58,0:11:14.55,Doc,,0,0,0,,to $57,490 drive-away.
+Dialogue: 0,0:11:14.60,0:11:17.91,Doc,,0,0,0,,Every brand is chasing the same\Nshrinking pool of buyers and the easiest
+Dialogue: 0,0:11:17.96,0:11:19.25,Doc,,0,0,0,,weapon is price.
+Dialogue: 0,0:11:19.30,0:11:20.33,Doc,,0,0,0,,And there's more coming.
+Dialogue: 0,0:11:20.38,0:11:24.10,Doc,,0,0,0,,The JAC Hunter plug-in hybrid has been\Ntargeting less than fifty thousand
+Dialogue: 0,0:11:24.15,0:11:24.89,Doc,,0,0,0,,dollars drive-away.
+Dialogue: 0,0:11:24.94,0:11:29.41,Doc,,0,0,0,,Chery has a diesel-electric\Nute due before the end of 2026.
+Dialogue: 0,0:11:29.46,0:11:33.03,Doc,,0,0,0,,GWM plans a plug-in hybrid\Nversion of its smaller Cannon.
+Dialogue: 0,0:11:33.08,0:11:37.73,Doc,,0,0,0,,And Nissan's next Navara is set to use\NMitsubishi's plug-in hybrid technology.
+Dialogue: 0,0:11:37.78,0:11:41.10,Doc,,0,0,0,,More choice means more competition\Nand more pressure on prices.
+Dialogue: 0,0:11:43.17,0:11:45.90,Doc,,0,0,0,,Now here's the twist and it's why the\Ntiming of your purchase matters so much.
+Dialogue: 0,0:11:45.95,0:11:47.82,Doc,,0,0,0,,These discounts might not last.
+Dialogue: 0,0:11:47.87,0:11:52.68,Doc,,0,0,0,,In fact, Toyota itself has warned\Nthat ute prices could go up in 2027.
+Dialogue: 0,0:11:52.73,0:11:54.78,Doc,,0,0,0,,Under the New Vehicle Efficiency Standard,
+Dialogue: 0,0:11:54.83,0:11:59.62,Doc,,0,0,0,,the emissions target for utes and vans\Nis 180 grams of CO2 per kilometre in
+Dialogue: 0,0:11:59.67,0:12:01.08,Doc,,0,0,0,,2026.
+Dialogue: 0,0:12:01.13,0:12:03.92,Doc,,0,0,0,,In 2027, it drops to 150.
+Dialogue: 0,0:12:03.97,0:12:09.16,Doc,,0,0,0,,CarsGuide reported the HiLux SR5 with\NToyota's mild-hybrid diesel is claimed
+Dialogue: 0,0:12:09.21,0:12:14.04,Doc,,0,0,0,,at 191 grams per kilometre\Nalready above the 2026 limit,
+Dialogue: 0,0:12:14.09,0:12:16.80,Doc,,0,0,0,,and 41 grams over the 2027 one.
+Dialogue: 0,0:12:16.85,0:12:20.92,Doc,,0,0,0,,Toyota's John Pappas has called the 2027\Ntargets for light commercial vehicles
+Dialogue: 0,0:12:20.97,0:12:22.28,Doc,,0,0,0,,"really challenging".
+Dialogue: 0,0:12:22.33,0:12:25.26,Doc,,0,0,0,,And Toyota said it "cannot\Nrule out" price increases.
+Dialogue: 0,0:12:25.31,0:12:30.46,Doc,,0,0,0,,That's a warning, not a price list nobody\Nhas announced a 2027 price rise yet.
+Dialogue: 0,0:12:30.51,0:12:32.16,Doc,,0,0,0,,And the first actual penalty bills,
+Dialogue: 0,0:12:32.21,0:12:34.08,Doc,,0,0,0,,for vehicles sold in 2025,
+Dialogue: 0,0:12:34.13,0:12:37.44,Doc,,0,0,0,,aren't due to be determined\Nuntil February 2028,
+Dialogue: 0,0:12:37.49,0:12:39.76,Doc,,0,0,0,,so car makers still have\Ntime to trade credits.
+Dialogue: 0,0:12:39.81,0:12:42.66,Doc,,0,0,0,,But it tells you which way\Nthe pressure is pushing.
+Dialogue: 0,0:12:42.71,0:12:44.50,Doc,,0,0,0,,There's another possibility too.
+Dialogue: 0,0:12:44.55,0:12:47.16,Doc,,0,0,0,,On the 29th of September 2026,
+Dialogue: 0,0:12:47.21,0:12:51.18,Doc,,0,0,0,,the federal Coalition pledged to\Nrepeal the NVES if it wins government,
+Dialogue: 0,0:12:51.23,0:12:53.38,Doc,,0,0,0,,calling it a "family car and ute tax".
+Dialogue: 0,0:12:53.43,0:12:55.56,Doc,,0,0,0,,So the rules themselves could change.
+Dialogue: 0,0:12:55.61,0:12:56.84,Doc,,0,0,0,,The point is simple:
+Dialogue: 0,0:12:56.89,0:12:59.72,Doc,,0,0,0,,the conditions creating\Ntoday's deals are unusual,
+Dialogue: 0,0:12:59.77,0:13:01.53,Doc,,0,0,0,,and they might not be here in a year.
+Dialogue: 0,0:13:02.30,0:13:05.12,Doc,,0,0,0,,So how do you get the best deal\Nin the middle of a ute price war?
+Dialogue: 0,0:13:05.17,0:13:08.31,Doc,,0,0,0,,First, compare drive-away\Nprices, not headlines.
+Dialogue: 0,0:13:08.36,0:13:13.53,Doc,,0,0,0,,A "$4,000 bonus" and a "$4,000 fuel\Ncard" aren't the same as $4,000 off the
+Dialogue: 0,0:13:13.58,0:13:14.35,Doc,,0,0,0,,price.
+Dialogue: 0,0:13:14.40,0:13:16.67,Doc,,0,0,0,,Ask every dealer for a\Nwritten drive-away price,
+Dialogue: 0,0:13:16.72,0:13:19.05,Doc,,0,0,0,,including all accessories\Nyou actually need.
+Dialogue: 0,0:13:19.10,0:13:21.11,Doc,,0,0,0,,Second, read the finance conditions.
+Dialogue: 0,0:13:21.16,0:13:24.69,Doc,,0,0,0,,The HiLux bonus requires Toyota\NFinance and a minimum amount borrowed.
+Dialogue: 0,0:13:24.74,0:13:28.27,Doc,,0,0,0,,That can still be a good deal but compare\Nthe interest rate and the total cost
+Dialogue: 0,0:13:28.32,0:13:29.37,Doc,,0,0,0,,of the loan with your bank.
+Dialogue: 0,0:13:29.42,0:13:33.00,Doc,,0,0,0,,A bonus that's swallowed by\Na higher rate isn't a bonus.
+Dialogue: 0,0:13:33.05,0:13:36.23,Doc,,0,0,0,,Third, check the build date\Nand look at demonstrators.
+Dialogue: 0,0:13:36.28,0:13:39.95,Doc,,0,0,0,,Toyota's offer covers demonstrators,\Nand many brands have runout stock.
+Dialogue: 0,0:13:40.00,0:13:42.18,Doc,,0,0,0,,Older build dates should\Nmean a sharper price.
+Dialogue: 0,0:13:42.23,0:13:44.23,Doc,,0,0,0,,Fourth, think about resale.
+Dialogue: 0,0:13:44.28,0:13:47.45,Doc,,0,0,0,,Toyota and Ford utes have historically\Nheld their value strongly.
+Dialogue: 0,0:13:47.50,0:13:51.07,Doc,,0,0,0,,A heavily discounted ute from a brand\Nwith weaker resale might cost you more
+Dialogue: 0,0:13:51.12,0:13:52.15,Doc,,0,0,0,,when you sell.
+Dialogue: 0,0:13:52.20,0:13:54.35,Doc,,0,0,0,,Look at the total cost over\Nthe years you'll keep it,
+Dialogue: 0,0:13:54.40,0:13:56.21,Doc,,0,0,0,,not just the price on day one.
+Dialogue: 0,0:13:56.26,0:13:57.37,Doc,,0,0,0,,Fifth, use the calendar.
+Dialogue: 0,0:13:57.42,0:14:00.69,Doc,,0,0,0,,Black Friday falls on\Nthe 27th of November,
+Dialogue: 0,0:14:00.74,0:14:03.43,Doc,,0,0,0,,BYD's cashback runs to\Nthe 21st of December,
+Dialogue: 0,0:14:03.48,0:14:06.95,Doc,,0,0,0,,and the HiLux finance window\Ncloses on the 31st of December.
+Dialogue: 0,0:14:07.00,0:14:10.23,Doc,,0,0,0,,Dealers chasing end-of-year targets\Nare often at their most flexible in the
+Dialogue: 0,0:14:10.28,0:14:11.55,Doc,,0,0,0,,final weeks of December.
+Dialogue: 0,0:14:11.60,0:14:14.11,Doc,,0,0,0,,And finally, buy the\Nute you actually need.
+Dialogue: 0,0:14:14.16,0:14:16.31,Doc,,0,0,0,,If you tow a heavy caravan every weekend,
+Dialogue: 0,0:14:16.36,0:14:19.73,Doc,,0,0,0,,a cheap plug-in hybrid with a lower\Ntowing capacity might not suit you,
+Dialogue: 0,0:14:19.78,0:14:21.15,Doc,,0,0,0,,however good the deal.
+Dialogue: 0,0:14:21.20,0:14:23.07,Doc,,0,0,0,,If you mostly drive in the suburbs,
+Dialogue: 0,0:14:23.12,0:14:25.23,Doc,,0,0,0,,ask yourself whether\Nyou need a ute at all.
+Dialogue: 0,0:14:25.28,0:14:26.75,Doc,,0,0,0,,So should you buy now, or wait?
+Dialogue: 0,0:14:26.80,0:14:28.97,Doc,,0,0,0,,If you need a ute in the next few months,
+Dialogue: 0,0:14:29.02,0:14:31.77,Doc,,0,0,0,,this is one of the strongest\Nbuyer's markets in years.
+Dialogue: 0,0:14:31.82,0:14:36.91,Doc,,0,0,0,,Toyota, Ford, Kia and BYD are all\Nchasing volume before the end of 2026,
+Dialogue: 0,0:14:36.96,0:14:39.09,Doc,,0,0,0,,and some of these deals end in December.
+Dialogue: 0,0:14:39.14,0:14:42.13,Doc,,0,0,0,,But if you can wait, keep an eye on 2027.
+Dialogue: 0,0:14:42.18,0:14:44.41,Doc,,0,0,0,,New plug-in and electric\Nutes are arriving,
+Dialogue: 0,0:14:44.46,0:14:48.45,Doc,,0,0,0,,and if the emissions rules push prices\Nup, the deals could dry up quickly.
+Dialogue: 0,0:14:48.50,0:14:51.83,Doc,,0,0,0,,Nobody can promise which way prices\Nwill go but you'll be in a much stronger
+Dialogue: 0,0:14:51.88,0:14:54.78,Doc,,0,0,0,,position if you know the numbers\Nbefore you walk into a dealership.
+Dialogue: 0,0:14:55.74,0:14:58.23,Doc,,0,0,0,,So, are ute prices\Ncollapsing in Australia?
+Dialogue: 0,0:14:58.28,0:15:02.09,Doc,,0,0,0,,Not across the board but the discounting\Nis the biggest we've seen in years,
+Dialogue: 0,0:15:02.14,0:15:04.09,Doc,,0,0,0,,and it's coming from the very top.
+Dialogue: 0,0:15:04.14,0:15:07.03,Doc,,0,0,0,,Toyota is offering $4,000 on the HiLux.
+Dialogue: 0,0:15:07.08,0:15:10.15,Doc,,0,0,0,,Ford cut the Ranger Hybrid by\Nmore than ten thousand dollars.
+Dialogue: 0,0:15:10.20,0:15:12.75,Doc,,0,0,0,,Kia slashed up to fifteen\Nthousand off the Tasman.
+Dialogue: 0,0:15:12.80,0:15:17.05,Doc,,0,0,0,,And BYD is throwing $4,000\Ncashback at the Shark 6.
+Dialogue: 0,0:15:17.10,0:15:18.43,Doc,,0,0,0,,The reason is simple:
+Dialogue: 0,0:15:18.48,0:15:20.71,Doc,,0,0,0,,Australians are buying\Nfewer traditional utes,
+Dialogue: 0,0:15:20.76,0:15:22.91,Doc,,0,0,0,,and every brand is fighting\Nover the buyers who are left.
+Dialogue: 0,0:15:22.96,0:15:26.61,Doc,,0,0,0,,For you, that means bargaining\Npower at least for now.
+Dialogue: 0,0:15:26.66,0:15:28.17,Doc,,0,0,0,,Here's what to watch next.
+Dialogue: 0,0:15:28.22,0:15:30.99,Doc,,0,0,0,,The October sales figures\Nland in early November,
+Dialogue: 0,0:15:31.04,0:15:33.87,Doc,,0,0,0,,and they'll show whether\NToyota's HiLux bonus is working.
+Dialogue: 0,0:15:33.92,0:15:38.01,Doc,,0,0,0,,The race between the Ranger and the\NHiLux for the 2026 crown will go down to
+Dialogue: 0,0:15:38.06,0:15:38.91,Doc,,0,0,0,,the wire.
+Dialogue: 0,0:15:38.96,0:15:42.93,Doc,,0,0,0,,Black Friday and the end-of-year sales\Npush will bring another wave of deals.
+Dialogue: 0,0:15:42.98,0:15:44.37,Doc,,0,0,0,,And in 2027,
+Dialogue: 0,0:15:44.42,0:15:48.15,Doc,,0,0,0,,tougher emissions targets and a flood\Nof new plug-in utes will shake things up
+Dialogue: 0,0:15:48.20,0:15:48.93,Doc,,0,0,0,,all over again.
+Dialogue: 0,0:15:48.98,0:15:50.45,Doc,,0,0,0,,Whatever you drive,
+Dialogue: 0,0:15:50.50,0:15:54.05,Doc,,0,0,0,,the next six months could be one of the\Nbest windows in a decade to negotiate
+Dialogue: 0,0:15:54.10,0:15:55.33,Doc,,0,0,0,,on a ute.
+Dialogue: 0,0:15:55.38,0:15:57.65,Doc,,0,0,0,,If this helped, hit like, subscribe,
+Dialogue: 0,0:15:57.70,0:15:59.83,Doc,,0,0,0,,and share it with a mate\Nwho's shopping for a ute.
+Dialogue: 0,0:15:59.88,0:16:03.73,Doc,,0,0,0,,Tell me in the comments: Ranger,\NHiLux, Shark or something else?
+Dialogue: 0,0:16:03.78,0:16:04.75,Doc,,0,0,0,,And in the next video,
+Dialogue: 0,0:16:04.80,0:16:08.41,Doc,,0,0,0,,we're looking at the new road tax that\Ncould hit every driver in Australia not
+Dialogue: 0,0:16:08.46,0:16:09.71,Doc,,0,0,0,,just EV owners.
+Dialogue: 0,0:16:09.76,0:16:10.56,Doc,,0,0,0,,See you there.
