@@ -1,0 +1,125 @@
+{
+ "defaults": {
+  "n": 4,
+  "clip": 8,
+  "sources": [
+   "coverr",
+   "pixabay",
+   "pexels"
+  ]
+ },
+ "shots": [
+  {
+   "id": "v_ship",
+   "query": "car carrier ship",
+   "alt": [
+    "cargo ship sea"
+   ]
+  },
+  {
+   "id": "v_port",
+   "query": "cars port terminal",
+   "alt": [
+    "car terminal aerial"
+   ]
+  },
+  {
+   "id": "v_factory",
+   "query": "car factory robots",
+   "alt": [
+    "car assembly line"
+   ]
+  },
+  {
+   "id": "v_ev_drive",
+   "query": "electric car driving",
+   "alt": [
+    "electric suv road"
+   ]
+  },
+  {
+   "id": "v_ev_charge",
+   "query": "electric car charging",
+   "alt": [
+    "ev charger"
+   ]
+  },
+  {
+   "id": "v_suv",
+   "query": "suv driving road",
+   "alt": [
+    "family suv driving"
+   ]
+  },
+  {
+   "id": "v_city",
+   "query": "city traffic cars",
+   "alt": [
+    "traffic aerial"
+   ]
+  },
+  {
+   "id": "v_highway",
+   "query": "highway cars aerial",
+   "alt": [
+    "motorway traffic"
+   ]
+  },
+  {
+   "id": "v_dealer",
+   "query": "car dealership",
+   "alt": [
+    "car showroom"
+   ]
+  },
+  {
+   "id": "v_money",
+   "query": "counting money",
+   "alt": [
+    "cash"
+   ]
+  },
+  {
+   "id": "v_keys",
+   "query": "car keys",
+   "alt": [
+    "handing car keys"
+   ]
+  },
+  {
+   "id": "v_china",
+   "query": "Shanghai city",
+   "alt": [
+    "Chinese city skyline"
+   ]
+  },
+  {
+   "id": "v_japan",
+   "query": "Tokyo traffic",
+   "alt": [
+    "Japan street"
+   ]
+  },
+  {
+   "id": "v_ute",
+   "query": "pickup truck driving",
+   "alt": [
+    "4x4 truck dirt"
+   ]
+  },
+  {
+   "id": "v_parking",
+   "query": "parking lot cars aerial",
+   "alt": [
+    "rows of cars"
+   ]
+  },
+  {
+   "id": "v_phone",
+   "query": "person using phone",
+   "alt": [
+    "online shopping"
+   ]
+  }
+ ]
+}

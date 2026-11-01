@@ -1,0 +1,241 @@
+{
+ "defaults": {
+  "n": 4,
+  "sources": [
+   "commons",
+   "pixabay"
+  ]
+ },
+ "shots": [
+  {
+   "id": "m_sealion7",
+   "query": "BYD Sealion 7",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_atto3",
+   "query": "BYD Atto 3",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_shark6",
+   "query": "BYD Shark 6",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_atto1",
+   "query": "BYD Dolphin Surf",
+   "alt": [
+    "BYD Seagull"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_tiggo4",
+   "query": "Chery Tiggo 4",
+   "alt": [
+    "Chery Tiggo 4 Pro"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_jolion",
+   "query": "Haval Jolion",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_ex5",
+   "query": "Geely EX5",
+   "alt": [
+    "Geely Galaxy E5"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_zeekr",
+   "query": "Zeekr 7X",
+   "alt": [
+    "Zeekr 001"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_omoda",
+   "query": "Omoda 5",
+   "alt": [
+    "Chery Omoda 5"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_jaecoo",
+   "query": "Jaecoo J7",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_mg",
+   "query": "MG ZS",
+   "alt": [
+    "MG HS"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_model_y",
+   "query": "Tesla Model Y",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_denza",
+   "query": "Denza B5",
+   "alt": [
+    "Fangchengbao Bao 5"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_rav4",
+   "query": "Toyota RAV4 2026",
+   "alt": [
+    "Toyota RAV4"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_hilux",
+   "query": "Toyota Hilux",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_cx5",
+   "query": "Mazda CX-5",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_outlander",
+   "query": "Mitsubishi Outlander",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_forester",
+   "query": "Subaru Forester",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_xtrail",
+   "query": "Nissan X-Trail",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_ranger",
+   "query": "Ford Ranger",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_terron",
+   "query": "LDV Terron 9",
+   "alt": [
+    "Maxus Terron 9"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_corolla",
+   "query": "Toyota Corolla",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "h_ship",
+   "query": "car carrier ship",
+   "alt": [
+    "ro-ro ship cars"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_port",
+   "query": "cars at port terminal",
+   "alt": [
+    "new cars port parking"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_factory",
+   "query": "car factory assembly line",
+   "alt": [
+    "automobile factory"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_dealer",
+   "query": "car dealership showroom",
+   "alt": [
+    "car showroom"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_ev",
+   "query": "electric car charging",
+   "alt": [
+    "ev charging station"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_traffic",
+   "query": "australia traffic",
+   "alt": [
+    "sydney traffic"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_calc",
+   "query": "calculator money",
+   "alt": [
+    "budget calculator"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_keys",
+   "query": "car keys handover",
+   "alt": [
+    "car key"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_shanghai",
+   "query": "Shanghai skyline",
+   "alt": [
+    "Shenzhen skyline"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_tokyo",
+   "query": "Tokyo street cars",
+   "alt": [
+    "Japan road traffic"
+   ],
+   "n": 4
+  }
+ ]
+}

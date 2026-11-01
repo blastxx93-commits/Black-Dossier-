@@ -1,0 +1,35 @@
+{
+ "model": "black-forest-labs/flux-1.1-pro-ultra",
+ "raw": true,
+ "n": 1,
+ "style": ", modern Australian documentary photograph, 2026, natural light, realistic, sharp, cinematic colour grade, no logos, no badges, no readable text, no brand names",
+ "shots": [
+  {
+   "id": "ai_ship_unload",
+   "prompt": "Thousands of brand-new SUVs being unloaded from a huge car-carrier ship at an Australian port at sunrise, rows of cars on the dock, no readable text, no logos, no badges"
+  },
+  {
+   "id": "ai_ev_showroom",
+   "prompt": "A busy modern car showroom in Australia full of new electric SUVs and customers, bright lighting, no readable text, no logos, no badges"
+  },
+  {
+   "id": "ai_driveway_mix",
+   "prompt": "A suburban Australian street with several new SUVs parked in driveways, sunny afternoon, no readable text, no logos, no badges"
+  },
+  {
+   "id": "ai_dealer_empty_jp",
+   "prompt": "A quiet traditional car dealership with a salesman waiting by the door, few customers, overcast day, no readable text, no logos"
+  },
+  {
+   "id": "ai_car_yard_rows",
+   "prompt": "Aerial view of a huge car import yard with thousands of new cars in neat rows, Australia, no readable text"
+  },
+  {
+   "id": "persona_china",
+   "prompt": "Waist-up portrait of a fictional Australian man in his 40s with short dark hair and light stubble, wearing a plain navy blue crew-neck sweater (never green), shocked expression with wide eyes, holding his head with both hands, looking straight at the camera",
+   "style": ", photorealistic studio portrait photograph, sharp focus on the face, even soft lighting, plain solid bright chroma green background #00FF00 filling the whole frame, no shadows on the background, no text, no logos",
+   "guard": "fictional",
+   "n": 2
+  }
+ ]
+}
