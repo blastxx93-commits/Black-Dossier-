@@ -1,0 +1,1792 @@
+{
+ "output": "AUS17_China_Takeover.mp4",
+ "fps": 24,
+ "music": [
+  {
+   "file": "trilha.wav",
+   "start": 0,
+   "gain": -29,
+   "fade_in": 4,
+   "fade_out": 5
+  }
+ ],
+ "chapters": [
+  {
+   "audio": "audio/ch00_hook.flac",
+   "lead_in": 0,
+   "tail": 0.6,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_parking/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "caption": "42,045|China-built cars sold in ONE month \u00b7 Sept 2026",
+     "dur": 8.18,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_sealion7/1_commons.jpg",
+     "move": "in",
+     "caption": "BYD Sealion 7|#5 in Australia \u00b7 Sept 2026",
+     "dur": 4.19,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_cx5/1_commons.jpg",
+     "move": "left",
+     "caption": "Japan|#1 source of cars since 1998",
+     "dur": 4.95,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_suv/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.36,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ex5/1_commons.jpg",
+     "move": "right",
+     "caption": "Geely EX5|+620% \u00b7 #8 in Australia",
+     "dur": 3.12,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "38.9%",
+     "label": "of new-car sales were built in China \u00b7 Sept 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Cars24 / VFACTS",
+     "dur": 3.92,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_tiggo4/3_commons.jpg",
+     "move": "in",
+     "caption": "Chery Tiggo 4|#6 in Australia",
+     "dur": 3.6,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "+870%",
+     "label": "Geely sales \u00b7 Sept 2026 vs Sept 2025",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "VFACTS",
+     "dur": 3.44,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_zeekr/1_commons.jpg",
+     "move": "left",
+     "caption": "Zeekr|730 \u2192 12,120 sales",
+     "dur": 3.16,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "China Just Took Over",
+     "subtitle": "Australia's car market in 12 months",
+     "tag": "2026",
+     "bg": "a/h_ship/1_commons.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 8.46,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_dealer/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.1,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_city/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.215,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch01.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_port/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 11.5,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "China-built share of new-car sales (May)",
+     "items": [
+      [
+       "2024",
+       15.0
+      ],
+      [
+       "2025",
+       19.5
+      ],
+      [
+       "2026",
+       34.8,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "%",
+     "source": "CarExpert",
+     "dur": 9.62,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Source of new cars \u00b7 February 2026",
+     "items": [
+      [
+       "China",
+       22300,
+       "red"
+      ],
+      [
+       "Japan",
+       21600
+      ],
+      [
+       "Thailand",
+       19400
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "FCAI via Caixin",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_city/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.96,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_japan/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.74,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_china/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 13.64,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"\u2026largely at the expense of Japan.\" \u2013 CarExpert",
+     "highlight": "JAPAN",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.3,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "June 2026",
+     "items": [
+      [
+       "China",
+       55331,
+       "red"
+      ],
+      [
+       "Japan + Thailand",
+       50395
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "Cars24 / VFACTS",
+     "dur": 11.24,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_port/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.62,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "September 2026",
+     "items": [
+      [
+       "China",
+       42045,
+       "red"
+      ],
+      [
+       "Japan + Thailand",
+       40933
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "Cars24 / VFACTS",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_highway/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.98,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "15% \u2192 38.9% in about two years",
+     "highlight": "38.9%",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 8.06,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_tokyo/2_pixabay.jpg",
+     "move": "left",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev_drive/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.44,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_city/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.48,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_shanghai/1_commons.jpg",
+     "move": "out",
+     "dur": 14.41,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch02.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_ev_drive/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.53,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Biggest brands \u00b7 Jan\u2013Sept 2026",
+     "items": [
+      [
+       "Toyota",
+       152944
+      ],
+      [
+       "BYD",
+       76614,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "VFACTS via CarExpert",
+     "dur": 12.01,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "June 2026",
+     "items": [
+      [
+       "Toyota",
+       19124
+      ],
+      [
+       "BYD",
+       18881,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "VFACTS",
+     "dur": 13.12,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_atto3/3_commons.jpg",
+     "move": "right",
+     "dur": 10.3,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Growth \u00b7 Jan\u2013Sept 2026",
+     "items": [
+      [
+       "Geely",
+       639
+      ],
+      [
+       "BYD",
+       102
+      ],
+      [
+       "Chery",
+       58.2
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "+",
+     "suffix": "%",
+     "source": "VFACTS via CarExpert",
+     "dur": 13.68,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ex5/2_commons.jpg",
+     "move": "in",
+     "caption": "Geely EX5|2,008 sales in September",
+     "dur": 8.74,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_zeekr/3_commons.jpg",
+     "move": "right",
+     "caption": "Zeekr|730 \u2192 12,120",
+     "dur": 6.35,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_jaecoo/2_commons.jpg",
+     "move": "left",
+     "caption": "Jaecoo|+1,177% first half",
+     "dur": 8.97,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_jolion/4_commons.jpg",
+     "move": "in",
+     "caption": "GWM Haval Jolion|#7 in September",
+     "dur": 2.56,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_phone/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.22,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_denza/1_commons.jpg",
+     "move": "in",
+     "caption": "Denza B5|aimed at the Toyota Prado",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ute/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.04,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_denza/2_commons.jpg",
+     "move": "right",
+     "caption": "Denza B5|under $75,000 drive-away",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ship/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.96,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"The Australian automotive market has shifted on its axis\u2026\" \u2013 Tony Weber, FCAI",
+     "highlight": "SHIFTED",
+     "size": 88,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 9.46,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"We asked our customers to back us in\u2026\" \u2013 Stephen Collins, BYD",
+     "highlight": "BACK US",
+     "size": 92,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.389,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch03.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_suv/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ranger/1_commons.jpg",
+     "move": "in",
+     "caption": "Ford Ranger|#1 \u00b7 5,062",
+     "dur": 8.54,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Chinese models in the top 10 \u00b7 Sept 2026",
+     "items": [
+      [
+       "BYD Sealion 7",
+       2687
+      ],
+      [
+       "Chery Tiggo 4",
+       2059
+      ],
+      [
+       "GWM Haval Jolion",
+       2018
+      ],
+      [
+       "Geely EX5",
+       2008
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "VFACTS",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_dealer/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.67,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_model_y/1_commons.jpg",
+     "move": "left",
+     "caption": "Tesla Model Y|built in China \u00b7 #1 in May, June & August",
+     "dur": 11.49,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_china/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.34,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "72 \u2192 120",
+     "label": "Chinese models on sale in Australia by 2027",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Cars24",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ute/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.41,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_phone/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.01,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "It's barely started.",
+     "highlight": "BARELY",
+     "size": 150,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 2.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_shark6/1_commons.jpg",
+     "move": "in",
+     "caption": "BYD Shark 6|13,500+ sold in 2026",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ute/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.52,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_terron/1_commons.jpg",
+     "move": "right",
+     "caption": "LDV Terron 9|+195% \u00b7 Sept 2026",
+     "dur": 4.74,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev_drive/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.249,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch04.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_dealer/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.48,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "914,312",
+     "label": "new vehicles \u00b7 Jan\u2013Sept 2026 \u2013 flat on 2025",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "VFACTS via CarExpert",
+     "dur": 11.7,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "A zero-sum game.",
+     "highlight": "ZERO-SUM",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 6.66,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Japanese brands \u00b7 Jan\u2013Sept 2026",
+     "items": [
+      [
+       "Nissan",
+       -33.3
+      ],
+      [
+       "Mitsubishi",
+       -30.2
+      ],
+      [
+       "Subaru",
+       -29.3
+      ],
+      [
+       "Mazda",
+       -16.2
+      ],
+      [
+       "Toyota",
+       -15.9
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "%",
+     "source": "VFACTS via CarExpert",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_parking/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 14.04,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Built in\u2026 \u00b7 Jan\u2013Aug 2026 vs 2025",
+     "items": [
+      [
+       "China",
+       71
+      ],
+      [
+       "Japan",
+       -22
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "%",
+     "source": "Auto Expert",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_highway/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 10.68,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_outlander/1_commons.jpg",
+     "move": "in",
+     "caption": "Mitsubishi|-30.2% this year",
+     "dur": 6.1,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_city/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.06,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Change in sales \u00b7 Jan\u2013Sept 2026",
+     "items": [
+      [
+       "BYD",
+       38686
+      ],
+      [
+       "Geely",
+       20434
+      ],
+      [
+       "Chery",
+       13988
+      ],
+      [
+       "Mazda",
+       -11380
+      ],
+      [
+       "Toyota",
+       -28916
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "calculated from VFACTS",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_highway/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 11.4,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_ev_showroom_1.jpg",
+     "move": "in",
+     "dur": 4.433,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch05.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/m_ex5/4_commons.jpg",
+     "move": "up",
+     "dur": 7.3,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Would you buy a Chinese car?",
+     "sub": "tell me in the comments",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 8.88,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Subscribe",
+     "sub": "numbers-first car videos",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 3.918,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch06.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "Why Australians Are Switching",
+     "subtitle": "4 reasons",
+     "tag": "the why",
+     "bg": "a/h_dealer/2_pixabay.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 3.62,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "1 \u00b7 Price",
+     "highlight": "1",
+     "size": 150,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.16,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_atto1/1_commons.jpg",
+     "move": "in",
+     "caption": "BYD Atto 1|from $23,990 + ORC",
+     "dur": 12.12,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "$29,990",
+     "label": "BYD Sealion 5 PHEV with cashback (+ ORC)",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarsGuide",
+     "dur": 12.48,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "2 \u00b7 Technology",
+     "highlight": "2",
+     "size": 150,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 8.14,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev_charge/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.86,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "3 \u00b7 Timing",
+     "highlight": "3",
+     "size": 150,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.08,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "$3.50/L",
+     "label": "diesel peak in parts of Australia \u00b7 May 2026",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarExpert",
+     "color": "red",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ute/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.56,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_jaecoo/1_commons.jpg",
+     "move": "down",
+     "dur": 3.76,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "4 \u00b7 Trust",
+     "highlight": "4",
+     "size": 150,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 6.06,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_omoda/1_commons.jpg",
+     "move": "left",
+     "caption": "Omoda Jaecoo|'stigma mostly gone'",
+     "dur": 7.91,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "7 yrs",
+     "label": "GWM warranty \u00b7 unlimited km",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "GWM Australia",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_parking/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 10.39,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_suv/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.269,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch07.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "The Catch",
+     "subtitle": "the risks nobody talks about",
+     "tag": "be careful",
+     "bg": "a/h_shanghai/2_pixabay.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 18.82,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"It's not sustainable. It's as simple as that.\" \u2013 Sam Venn, BDO",
+     "highlight": "NOT SUSTAINABLE",
+     "size": 92,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.94,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "150+",
+     "label": "car makers in China \u2013 set to shrink",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "BDO",
+     "dur": 13.54,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "New cars sold per dealer, per month \u00b7 early 2026",
+     "items": [
+      [
+       "Toyota",
+       72
+      ],
+      [
+       "BYD",
+       48
+      ],
+      [
+       "Geely",
+       7,
+       "red"
+      ],
+      [
+       "JAC",
+       3,
+       "red"
+      ],
+      [
+       "Deepal",
+       2,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "BDO",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_china/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.38,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_keys/2_pixabay.jpg",
+     "move": "left",
+     "dur": 6.36,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Value kept after 2 years",
+     "items": [
+      [
+       "Toyota RAV4",
+       88
+      ],
+      [
+       "BYD Atto 3",
+       54,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "%",
+     "source": "Pickles / Datium \u00b7 2025",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_suv/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 10.8,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_port/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.66,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Choose the brand \u2013 not just the deal.",
+     "highlight": "BRAND",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.4,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_china/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.26,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Australia won't ban Chinese cars from military sites \u2013 Oct 2026",
+     "highlight": "WON'T BAN",
+     "size": 95,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_shanghai/3_commons.jpg",
+     "move": "in",
+     "dur": 5.728,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch08.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/m_cx5/3_commons.jpg",
+     "move": "out",
+     "dur": 2.38,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"We don't plan to be declining. We plan to continue to grow.\" \u2013 John Pappas, Toyota",
+     "highlight": "GROW",
+     "size": 88,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_corolla/3_pixabay.jpg",
+     "move": "left",
+     "dur": 13.0,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "4,624",
+     "label": "Toyota RAV4 \u00b7 Sept 2026 (+81%)",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "VFACTS",
+     "dur": 14.22,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_hilux/3_commons.jpg",
+     "move": "in",
+     "caption": "Toyota HiLux|$4,000 bonus",
+     "dur": 4.04,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Price cuts from the old guard",
+     "items": [
+      [
+       "Kia Tasman",
+       15000
+      ],
+      [
+       "Ford Ranger Hybrid",
+       10000
+      ],
+      [
+       "Mazda CX-70",
+       8051
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "up to $",
+     "suffix": "",
+     "source": "CarsGuide / CarExpert",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_driveway_mix_1.jpg",
+     "move": "out",
+     "dur": 9.94,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "~70",
+     "label": "car brands in Australia",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Toyota Australia",
+     "dur": 6.748,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch09.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "What It Means for You",
+     "subtitle": "buyers & owners",
+     "tag": "advice",
+     "bg": "a/h_calc/3_commons.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 2.44,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_money/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 11.38,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"They need your sale more than they did\u2026\" \u2013 John Cadogan",
+     "highlight": "YOUR SALE",
+     "size": 95,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 12.18,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_keys/4_pixabay.jpg",
+     "move": "in",
+     "dur": 4.7,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "How long in Australia?",
+      "Dealers near you?",
+      "Parts \u2013 how fast?",
+      "Value in 3\u20135 years?"
+     ],
+     "starts": [
+      0,
+      37,
+      104,
+      189
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.5600000000000058
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 4.34
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 7.880000000000006
+      }
+     ],
+     "dur": 15.9,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_money/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_money/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 10.46,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_xtrail/1_commons.jpg",
+     "move": "in",
+     "dur": 12.245,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch10.flac",
+   "lead_in": 0,
+   "tail": 2.5,
+   "shots": [
+    {
+     "type": "statement",
+     "text": "Did Chinese cars just take over Australia?",
+     "highlight": "TAKE OVER",
+     "size": 115,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 2.78,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ship/3_commons.jpg",
+     "move": "up",
+     "dur": 13.92,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_jaecoo/3_commons.jpg",
+     "move": "out",
+     "dur": 8.62,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "58%",
+     "label": "of cars on Australian roads could be Chinese-made by 2035",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "AADA forecast",
+     "dur": 13.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_factory/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.32,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Like \u00b7 Subscribe \u00b7 Share",
+     "sub": "with someone shopping for a car",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 6.12,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Chinese or Japanese?",
+     "sub": "comments",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 7.36,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "Is Toyota the Next Holden?",
+     "subtitle": "next video",
+     "tag": "coming up",
+     "bg": "a/m_xtrail/3_commons.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 5.184,
+     "fixed": false,
+     "fade_out": 0
+    }
+   ]
+  }
+ ],
+ "size": [
+  1920,
+  1080
+ ],
+ "subtitles": "AUS17.ass"
+}

@@ -22,14 +22,14 @@ PHOTOS = {
 }
 CLIPS = json.load(open(os.path.join(HERE, "clips.json")))
 GENERIC = CLIPS.pop("_generic", [])
-FALLBACK = {"ship": ["china"], "china": ["ship"], "japan": ["street"], "dealer": ["street"], "ev": ["dealer"], "street": ["dealer"],
+FALLBACK = {"ship": ["china", "street", "cn_cars"], "china": ["ship"], "japan": ["street"], "dealer": ["street"], "ev": ["dealer"], "street": ["dealer"],
             "money": ["dealer"], "cn_cars": ["dealer"], "jp_cars": ["street"]}
 RES = ["m_sealion7/1", "m_sealion7/3", "m_tiggo4/3", "m_jolion/1", "m_jolion/4", "m_ex5/1", "m_ex5/2", "m_zeekr/1", "m_zeekr/3", "m_model_y/1",
        "m_model_y/3", "m_denza/1", "m_denza/2", "m_shark6/1", "m_terron/1", "m_atto1/1", "m_cx5/1", "m_outlander/1", "m_forester/3",
        "m_xtrail/1", "m_ranger/1", "m_hilux/3", "m_jaecoo/2", "m_omoda/1", "m_atto3/1"]
 A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FALLBACK, ["street", "dealer", "ship", "cn_cars", "jp_cars"], reserved=RES)
 A.CLIP_TARGET = 0.55
-A.MAX_HOLD, A.KEEP = 13.0, 8.5
+A.MAX_HOLD, A.KEEP = 15.0, 9.5
 chapters = []
 SRC = "VFACTS via CarExpert"
 

@@ -1,0 +1,351 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Doc,Inter SemiBold,44,&H0000E6FF,&H0000E6FF,&H00000000,&H96000000,0,0,0,0,100,100,0.5,0,1,2.4,1.2,2,200,200,62,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.09,Doc,,0,0,0,,Forty-two thousand and forty-five.
+Dialogue: 0,0:00:02.14,0:00:05.75,Doc,,0,0,0,,That's how many new vehicles built in\NChina were sold in Australia in a single
+Dialogue: 0,0:00:05.80,0:00:08.25,Doc,,0,0,0,,month September 2026.
+Dialogue: 0,0:00:08.30,0:00:11.63,Doc,,0,0,0,,More than every car shipped from\NJapan and Thailand put together.
+Dialogue: 0,0:00:11.68,0:00:12.44,Doc,,0,0,0,,Read that again.
+Dialogue: 0,0:00:12.49,0:00:17.39,Doc,,0,0,0,,Japan had been Australia's biggest\Nsource of imported cars since 1998.
+Dialogue: 0,0:00:17.44,0:00:20.14,Doc,,0,0,0,,Toyota, Mazda, Mitsubishi, Subaru,
+Dialogue: 0,0:00:20.19,0:00:22.41,Doc,,0,0,0,,Nissan the brands your parents drove,
+Dialogue: 0,0:00:22.46,0:00:24.75,Doc,,0,0,0,,the brands that built the\NAustralian car market.
+Dialogue: 0,0:00:24.80,0:00:27.87,Doc,,0,0,0,,And in 2026, China blew past all of them.
+Dialogue: 0,0:00:27.92,0:00:31.29,Doc,,0,0,0,,Almost four in every ten new vehicles\Nsold here in September were made in
+Dialogue: 0,0:00:31.34,0:00:31.79,Doc,,0,0,0,,China.
+Dialogue: 0,0:00:31.84,0:00:35.39,Doc,,0,0,0,,Four of the ten best-selling\Nmodels in the country were Chinese.
+Dialogue: 0,0:00:35.44,0:00:38.83,Doc,,0,0,0,,One Chinese brand grew more than\Neight hundred per cent in a year.
+Dialogue: 0,0:00:38.88,0:00:41.99,Doc,,0,0,0,,Another went from a few hundred\Nsales to more than twelve thousand.
+Dialogue: 0,0:00:42.04,0:00:43.37,Doc,,0,0,0,,This isn't a slow change.
+Dialogue: 0,0:00:43.42,0:00:46.49,Doc,,0,0,0,,It's a takeover and it happened\Nin about twelve months.
+Dialogue: 0,0:00:46.54,0:00:50.45,Doc,,0,0,0,,So in this video, I'll show you exactly\Nhow it happened, month by month.
+Dialogue: 0,0:00:50.50,0:00:52.27,Doc,,0,0,0,,Who's winning, who's getting crushed,
+Dialogue: 0,0:00:52.32,0:00:54.77,Doc,,0,0,0,,and why Australians are switching so fast.
+Dialogue: 0,0:00:54.82,0:00:57.77,Doc,,0,0,0,,And then I'll show you the side of this\Nstory that most people aren't talking
+Dialogue: 0,0:00:57.82,0:01:01.01,Doc,,0,0,0,,about the risks, the\Nbrands that might not last,
+Dialogue: 0,0:01:01.06,0:01:04.18,Doc,,0,0,0,,and what all of this means for the\Nprice you pay for your next car.
+Dialogue: 0,0:01:04.69,0:01:06.68,Doc,,0,0,0,,Let's start with how fast this has moved,
+Dialogue: 0,0:01:06.73,0:01:09.38,Doc,,0,0,0,,because the timeline\Nis genuinely shocking.
+Dialogue: 0,0:01:09.43,0:01:10.75,Doc,,0,0,0,,At the start of 2025,
+Dialogue: 0,0:01:10.80,0:01:14.02,Doc,,0,0,0,,Chinese-built vehicles were a\Ngrowing slice of the market,
+Dialogue: 0,0:01:14.07,0:01:16.26,Doc,,0,0,0,,but Japan was still comfortably on top.
+Dialogue: 0,0:01:16.31,0:01:22.06,Doc,,0,0,0,,In May 2025, Chinese-made cars made\Nup 19.5 per cent of new-vehicle sales.
+Dialogue: 0,0:01:22.11,0:01:25.88,Doc,,0,0,0,,A year before that, in May 2024,\Nit was just fifteen per cent.
+Dialogue: 0,0:01:25.93,0:01:28.40,Doc,,0,0,0,,Then came February 2026.
+Dialogue: 0,0:01:28.45,0:01:31.31,Doc,,0,0,0,,According to the Federal Chamber\Nof Automotive Industries,
+Dialogue: 0,0:01:31.36,0:01:36.50,Doc,,0,0,0,,22,300 vehicles sold in Australia that\Nmonth came from China a 25 per cent
+Dialogue: 0,0:01:36.55,0:01:37.12,Doc,,0,0,0,,share.
+Dialogue: 0,0:01:37.17,0:01:43.34,Doc,,0,0,0,,Japan was second with 21,600,\Nand Thailand third with 19,400.
+Dialogue: 0,0:01:43.39,0:01:45.08,Doc,,0,0,0,,For the first time since 1998,
+Dialogue: 0,0:01:45.13,0:01:49.08,Doc,,0,0,0,,Japan was no longer Australia's\Nnumber one source of new cars.
+Dialogue: 0,0:01:49.13,0:01:53.53,Doc,,0,0,0,,By May, CarExpert reported that\NChinese-made vehicles had reached 34.8 per
+Dialogue: 0,0:01:53.58,0:01:56.28,Doc,,0,0,0,,cent of the market more than one in three.
+Dialogue: 0,0:01:56.33,0:02:00.20,Doc,,0,0,0,,Sales of Japanese-built vehicles that\Nmonth were down almost 29 per cent on
+Dialogue: 0,0:02:00.25,0:02:01.14,Doc,,0,0,0,,the year before.
+Dialogue: 0,0:02:01.19,0:02:02.72,Doc,,0,0,0,,As CarExpert put it:
+Dialogue: 0,0:02:02.77,0:02:06.30,Doc,,0,0,0,,"The increase in Chinese-made vehicle\Nsales has come largely at the expense of
+Dialogue: 0,0:02:06.35,0:02:10.07,Doc,,0,0,0,,Japan." In June, something\Neven bigger happened.
+Dialogue: 0,0:02:10.12,0:02:15.82,Doc,,0,0,0,,China-built sales hit 55,331 for the\Nmonth more than Japan and Thailand
+Dialogue: 0,0:02:15.87,0:02:19.26,Doc,,0,0,0,,combined, at 50,395.
+Dialogue: 0,0:02:19.31,0:02:23.24,Doc,,0,0,0,,Part of that was a single ship carrying\Nalmost five thousand BYD and Denza
+Dialogue: 0,0:02:23.29,0:02:23.88,Doc,,0,0,0,,vehicles.
+Dialogue: 0,0:02:23.93,0:02:27.50,Doc,,0,0,0,,But in September, it happened\Nagain, without any special shipment.
+Dialogue: 0,0:02:27.55,0:02:30.06,Doc,,0,0,0,,China: 42,045.
+Dialogue: 0,0:02:30.11,0:02:34.24,Doc,,0,0,0,,Japan and Thailand together: 40,933.
+Dialogue: 0,0:02:34.29,0:02:37.32,Doc,,0,0,0,,That's 38.9 per cent of the entire market,
+Dialogue: 0,0:02:37.37,0:02:41.36,Doc,,0,0,0,,according to Cars24, using VFACTS\Nand Electric Vehicle Council data.
+Dialogue: 0,0:02:41.41,0:02:45.42,Doc,,0,0,0,,From fifteen per cent to nearly forty\Nper cent in a little over two years.
+Dialogue: 0,0:02:45.47,0:02:49.42,Doc,,0,0,0,,In the history of the Australian car\Nmarket, nothing has moved this fast.
+Dialogue: 0,0:02:49.47,0:02:51.26,Doc,,0,0,0,,And there's a twist of history here.
+Dialogue: 0,0:02:51.31,0:02:54.92,Doc,,0,0,0,,Fifty years ago, it was Japanese\Ncars that were the cheap newcomers.
+Dialogue: 0,0:02:54.97,0:02:57.76,Doc,,0,0,0,,Plenty of Australians laughed\Nat them at first small,
+Dialogue: 0,0:02:57.81,0:03:00.74,Doc,,0,0,0,,unfamiliar, from a country\Nthat wasn't known for cars.
+Dialogue: 0,0:03:00.79,0:03:02.14,Doc,,0,0,0,,Then they turned out to be reliable,
+Dialogue: 0,0:03:02.19,0:03:03.88,Doc,,0,0,0,,well-equipped and affordable,
+Dialogue: 0,0:03:03.93,0:03:07.36,Doc,,0,0,0,,and over the following decades\Nthey pushed aside the local giants.
+Dialogue: 0,0:03:07.41,0:03:08.22,Doc,,0,0,0,,By the time Ford,
+Dialogue: 0,0:03:08.27,0:03:13.58,Doc,,0,0,0,,Holden and Toyota closed their\NAustralian factories in 2016 and 2017,
+Dialogue: 0,0:03:13.63,0:03:15.84,Doc,,0,0,0,,Japanese and Thai-built\Ncars ruled the market.
+Dialogue: 0,0:03:15.89,0:03:18.90,Doc,,0,0,0,,Now the same story is playing\Nout again only this time,
+Dialogue: 0,0:03:18.95,0:03:20.66,Doc,,0,0,0,,Japan is the established giant,
+Dialogue: 0,0:03:20.71,0:03:23.48,Doc,,0,0,0,,and China is the newcomer\Nthat people underestimated.
+Dialogue: 0,0:03:23.53,0:03:24.74,Doc,,0,0,0,,The difference is speed.
+Dialogue: 0,0:03:24.79,0:03:26.92,Doc,,0,0,0,,The Japanese takeover took decades.
+Dialogue: 0,0:03:26.97,0:03:29.35,Doc,,0,0,0,,The Chinese one is happening\Nin a couple of years.
+Dialogue: 0,0:03:30.18,0:03:32.23,Doc,,0,0,0,,Now let's look at the\Nbrands doing the damage,
+Dialogue: 0,0:03:32.28,0:03:35.78,Doc,,0,0,0,,using official VFACTS figures for\Nthe first nine months of 2026.
+Dialogue: 0,0:03:35.83,0:03:37.99,Doc,,0,0,0,,BYD is the headline.
+Dialogue: 0,0:03:38.04,0:03:43.87,Doc,,0,0,0,,Year to date, it has sold 76,614\Nvehicles, up 102 per cent.
+Dialogue: 0,0:03:43.92,0:03:47.79,Doc,,0,0,0,,It's now Australia's second-best-selling\Nbrand, behind only Toyota.
+Dialogue: 0,0:03:47.84,0:03:48.63,Doc,,0,0,0,,And in June,
+Dialogue: 0,0:03:48.68,0:03:56.04,Doc,,0,0,0,,it came within 243 cars of Toyota\Nin a single month 18,881 to
+Dialogue: 0,0:03:56.09,0:03:57.47,Doc,,0,0,0,,19,124.
+Dialogue: 0,0:03:57.52,0:04:00.91,Doc,,0,0,0,,A few years ago, most Australians\Nhad never heard of BYD.
+Dialogue: 0,0:04:00.96,0:04:05.77,Doc,,0,0,0,,Then there's Chery, up\N58.2 per cent to 38,022.
+Dialogue: 0,0:04:05.82,0:04:09.91,Doc,,0,0,0,,Its Tiggo 4 small SUV was the\Nsixth-best-selling vehicle in the whole country
+Dialogue: 0,0:04:09.96,0:04:11.21,Doc,,0,0,0,,in September.
+Dialogue: 0,0:04:11.26,0:04:13.85,Doc,,0,0,0,,Geely is the most\Nextraordinary story of all.
+Dialogue: 0,0:04:13.90,0:04:19.43,Doc,,0,0,0,,Its sales are up 639 per\Ncent this year, to 23,632.
+Dialogue: 0,0:04:19.48,0:04:24.89,Doc,,0,0,0,,In September alone, Geely was up 870\Nper cent on the same month in 2025.
+Dialogue: 0,0:04:24.94,0:04:30.91,Doc,,0,0,0,,Its EX5 electric SUV sold 2,008\Ncars that month up 620 per cent
+Dialogue: 0,0:04:30.96,0:04:33.63,Doc,,0,0,0,,and finished eighth on\Nthe national sales chart.
+Dialogue: 0,0:04:33.68,0:04:35.33,Doc,,0,0,0,,Geely's premium brand, Zeekr,
+Dialogue: 0,0:04:35.38,0:04:39.98,Doc,,0,0,0,,went from just 730 sales at\Nthis point last year to 12,120.
+Dialogue: 0,0:04:40.03,0:04:45.01,Doc,,0,0,0,,Omoda Jaecoo was up almost twelve\Nhundred per cent in the first half.
+Dialogue: 0,0:04:45.06,0:04:47.69,Doc,,0,0,0,,GWM, the longest-running\NChinese brand here,
+Dialogue: 0,0:04:47.74,0:04:51.51,Doc,,0,0,0,,was up about twenty per cent, and its\NHaval Jolion was seventh in September.
+Dialogue: 0,0:04:51.56,0:04:55.73,Doc,,0,0,0,,Even MG, owned by China's\NSAIC, kept growing.
+Dialogue: 0,0:04:55.78,0:04:58.59,Doc,,0,0,0,,And the Chinese brands\Nare moving upmarket fast.
+Dialogue: 0,0:04:58.64,0:05:00.39,Doc,,0,0,0,,BYD's luxury brand, Denza,
+Dialogue: 0,0:05:00.44,0:05:04.97,Doc,,0,0,0,,had passed 1,600 sales since\Narriving, according to CarsGuide.
+Dialogue: 0,0:05:05.02,0:05:06.68,Doc,,0,0,0,,And in late October 2026,
+Dialogue: 0,0:05:06.73,0:05:11.55,Doc,,0,0,0,,CarExpert reported that the Denza B5\Na big plug-in hybrid four-wheel drive
+Dialogue: 0,0:05:11.60,0:05:15.57,Doc,,0,0,0,,aimed squarely at the Toyota\NLandCruiser Prado had been cut to under
+Dialogue: 0,0:05:15.62,0:05:17.63,Doc,,0,0,0,,seventy-five thousand dollars drive-away.
+Dialogue: 0,0:05:17.68,0:05:22.03,Doc,,0,0,0,,A Chinese luxury 4x4 taking on the\NPrado would have sounded ridiculous five
+Dialogue: 0,0:05:22.08,0:05:22.95,Doc,,0,0,0,,years ago.
+Dialogue: 0,0:05:23.00,0:05:25.27,Doc,,0,0,0,,Now it's on sale at your local dealer.
+Dialogue: 0,0:05:25.32,0:05:29.29,Doc,,0,0,0,,Tony Weber, chief executive of the\NFederal Chamber of Automotive Industries,
+Dialogue: 0,0:05:29.34,0:05:30.73,Doc,,0,0,0,,summed it up in July:
+Dialogue: 0,0:05:30.78,0:05:34.25,Doc,,0,0,0,,"The Australian automotive market has\Nshifted on its axis during the first
+Dialogue: 0,0:05:34.30,0:05:38.11,Doc,,0,0,0,,months of 2026." And BYD's\Nchief operating officer,
+Dialogue: 0,0:05:38.16,0:05:40.19,Doc,,0,0,0,,Stephen Collins, put it more simply:
+Dialogue: 0,0:05:40.24,0:05:43.72,Doc,,0,0,0,,"We asked our customers to back us\Nin, and they did, and we delivered."
+Dialogue: 0,0:05:44.51,0:05:46.68,Doc,,0,0,0,,Look at the top of the\NSeptember sales chart,
+Dialogue: 0,0:05:46.73,0:05:48.38,Doc,,0,0,0,,and you can see the new Australia.
+Dialogue: 0,0:05:48.43,0:05:52.30,Doc,,0,0,0,,The Ford Ranger was number one, as it's\Nbeen for much of the last few years.
+Dialogue: 0,0:05:52.35,0:05:56.92,Doc,,0,0,0,,Then the Toyota RAV4, the Tesla\NModel Y, and the Toyota HiLux.
+Dialogue: 0,0:05:56.97,0:05:58.04,Doc,,0,0,0,,But right behind them:
+Dialogue: 0,0:05:58.09,0:06:02.44,Doc,,0,0,0,,the BYD Sealion 7 with 2,687 sales,
+Dialogue: 0,0:06:02.49,0:06:05.56,Doc,,0,0,0,,the Chery Tiggo 4 with 2,059,
+Dialogue: 0,0:06:05.61,0:06:11.48,Doc,,0,0,0,,the GWM Haval Jolion with 2,018,\Nand the Geely EX5 with 2,008.
+Dialogue: 0,0:06:11.53,0:06:14.20,Doc,,0,0,0,,Four Chinese models in\Nthe national top ten.
+Dialogue: 0,0:06:14.25,0:06:16.09,Doc,,0,0,0,,And it goes further than Chinese brands.
+Dialogue: 0,0:06:16.14,0:06:19.44,Doc,,0,0,0,,The Tesla Model Y sold in\NAustralia is built in China,
+Dialogue: 0,0:06:19.49,0:06:22.56,Doc,,0,0,0,,too and it was Australia's\Nbest-selling vehicle in May,
+Dialogue: 0,0:06:22.61,0:06:27.58,Doc,,0,0,0,,June and August 2026, the first electric\Ncar ever to top the monthly chart.
+Dialogue: 0,0:06:27.63,0:06:29.96,Doc,,0,0,0,,So when you count where\Ncars are actually made,
+Dialogue: 0,0:06:30.01,0:06:32.92,Doc,,0,0,0,,China's reach is even bigger\Nthan the brand names suggest.
+Dialogue: 0,0:06:32.97,0:06:35.13,Doc,,0,0,0,,There's also a flood of new models coming.
+Dialogue: 0,0:06:35.18,0:06:39.24,Doc,,0,0,0,,Cars24 reported that the number of\NChinese models on sale in Australia is
+Dialogue: 0,0:06:39.29,0:06:44.02,Doc,,0,0,0,,expected to grow from 72\Nto around 120 by 2027.
+Dialogue: 0,0:06:44.07,0:06:48.83,Doc,,0,0,0,,More utes, more seven-seat SUVs, more\Nplug-in hybrids, more luxury brands.
+Dialogue: 0,0:06:48.88,0:06:53.12,Doc,,0,0,0,,Chery's upmarket brand,\NExlantix, is due here in 2027,
+Dialogue: 0,0:06:53.17,0:06:57.84,Doc,,0,0,0,,and Avatr has revealed a luxury\Nsix-seat SUV for Australia for 2028.
+Dialogue: 0,0:06:57.89,0:07:00.74,Doc,,0,0,0,,If you think the takeover is\Nfinished, it's barely started.
+Dialogue: 0,0:07:00.79,0:07:03.90,Doc,,0,0,0,,And the next battleground is the\Nmost Australian one of all: utes.
+Dialogue: 0,0:07:03.95,0:07:08.46,Doc,,0,0,0,,The BYD Shark 6 plug-in hybrid has\Nalready sold more than thirteen and a half
+Dialogue: 0,0:07:08.51,0:07:10.44,Doc,,0,0,0,,thousand units this year.
+Dialogue: 0,0:07:10.49,0:07:12.66,Doc,,0,0,0,,GAC has confirmed a ute for 2027,
+Dialogue: 0,0:07:12.71,0:07:15.80,Doc,,0,0,0,,Chery has a diesel-electric\Nute on the way,
+Dialogue: 0,0:07:15.85,0:07:19.64,Doc,,0,0,0,,GWM is preparing a plug-in hybrid\Nversion of its smaller Cannon,
+Dialogue: 0,0:07:19.69,0:07:24.50,Doc,,0,0,0,,and LDV's new Terron 9 was\Nup 195 per cent in September.
+Dialogue: 0,0:07:24.55,0:07:27.76,Doc,,0,0,0,,The Ranger and the HiLux have\Nowned this segment for a decade.
+Dialogue: 0,0:07:27.81,0:07:31.01,Doc,,0,0,0,,That's exactly the territory\NChinese brands are now coming for.
+Dialogue: 0,0:07:31.68,0:07:33.43,Doc,,0,0,0,,So who's paying the price?
+Dialogue: 0,0:07:33.48,0:07:36.69,Doc,,0,0,0,,Every Chinese sale has to come from\Nsomewhere because the market isn't
+Dialogue: 0,0:07:36.74,0:07:37.23,Doc,,0,0,0,,growing.
+Dialogue: 0,0:07:37.28,0:07:44.49,Doc,,0,0,0,,Total new-vehicle sales for the first\Nnine months of 2026 were 914,312,
+Dialogue: 0,0:07:44.54,0:07:48.93,Doc,,0,0,0,,almost exactly the same as the\Nyear before just 127 cars fewer.
+Dialogue: 0,0:07:48.98,0:07:51.43,Doc,,0,0,0,,That means this is a zero-sum game.
+Dialogue: 0,0:07:51.48,0:07:55.59,Doc,,0,0,0,,When BYD gains forty thousand sales,\Nsomeone else loses forty thousand.
+Dialogue: 0,0:07:55.64,0:07:56.35,Doc,,0,0,0,,Here's who's losing.
+Dialogue: 0,0:07:56.40,0:07:59.39,Doc,,0,0,0,,Toyota is down 15.9 per cent year to date,
+Dialogue: 0,0:07:59.44,0:08:06.31,Doc,,0,0,0,,to 152,944, with its market share\Nfalling from 19.9 per cent to
+Dialogue: 0,0:08:06.36,0:08:07.23,Doc,,0,0,0,,16.7.
+Dialogue: 0,0:08:07.28,0:08:09.41,Doc,,0,0,0,,Mazda is down 16.2 per cent.
+Dialogue: 0,0:08:09.46,0:08:11.77,Doc,,0,0,0,,Mitsubishi is down 30.2.
+Dialogue: 0,0:08:11.82,0:08:14.11,Doc,,0,0,0,,Subaru is down 29.3.
+Dialogue: 0,0:08:14.16,0:08:16.39,Doc,,0,0,0,,Nissan is down 33.3 per cent.
+Dialogue: 0,0:08:16.44,0:08:19.13,Doc,,0,0,0,,Every one of those is a Japanese brand.
+Dialogue: 0,0:08:19.18,0:08:22.17,Doc,,0,0,0,,According to analysis by\NJohn Cadogan at Auto Expert,
+Dialogue: 0,0:08:22.22,0:08:26.53,Doc,,0,0,0,,Japanese-built vehicle sales in the\Nfirst eight months of 2026 fell around 22
+Dialogue: 0,0:08:26.58,0:08:31.41,Doc,,0,0,0,,per cent from almost\N220,000 to around 170,000.
+Dialogue: 0,0:08:31.46,0:08:32.53,Doc,,0,0,0,,Over the same period,
+Dialogue: 0,0:08:32.58,0:08:35.15,Doc,,0,0,0,,Chinese-built sales\Nrose about 71 per cent,
+Dialogue: 0,0:08:35.20,0:08:39.31,Doc,,0,0,0,,from roughly 122,000 to almost 209,000.
+Dialogue: 0,0:08:39.36,0:08:41.13,Doc,,0,0,0,,It's not just the Japanese, either.
+Dialogue: 0,0:08:41.18,0:08:44.37,Doc,,0,0,0,,Korean brands Hyundai and Kia were\Nboth down around twenty per cent in
+Dialogue: 0,0:08:44.42,0:08:45.41,Doc,,0,0,0,,September.
+Dialogue: 0,0:08:45.46,0:08:47.75,Doc,,0,0,0,,Volkswagen was down almost 37 per cent.
+Dialogue: 0,0:08:47.80,0:08:51.79,Doc,,0,0,0,,The established brands that dominated\NAustralian driveways for decades are all
+Dialogue: 0,0:08:51.84,0:08:53.47,Doc,,0,0,0,,going backwards at the same time.
+Dialogue: 0,0:08:53.52,0:08:55.81,Doc,,0,0,0,,To put the scale of this into perspective:
+Dialogue: 0,0:08:55.86,0:09:00.01,Doc,,0,0,0,,Toyota alone has sold almost 29,000\Nfewer vehicles this year than at the same
+Dialogue: 0,0:09:00.06,0:09:01.83,Doc,,0,0,0,,point in 2025.
+Dialogue: 0,0:09:01.88,0:09:04.11,Doc,,0,0,0,,Mazda is down more than eleven thousand.
+Dialogue: 0,0:09:04.16,0:09:07.99,Doc,,0,0,0,,Mitsubishi, Subaru and Nissan have\Nlost tens of thousands between them.
+Dialogue: 0,0:09:08.04,0:09:11.57,Doc,,0,0,0,,Meanwhile BYD has added\Nalmost thirty-nine thousand,
+Dialogue: 0,0:09:11.62,0:09:14.37,Doc,,0,0,0,,Geely twenty thousand and\NChery fourteen thousand.
+Dialogue: 0,0:09:14.42,0:09:15.99,Doc,,0,0,0,,The money hasn't left the market.
+Dialogue: 0,0:09:16.04,0:09:17.92,Doc,,0,0,0,,It's simply moved to different showrooms.
+Dialogue: 0,0:09:18.73,0:09:22.20,Doc,,0,0,0,,Quick favour before we get to why this\Nis happening and the risks nobody's
+Dialogue: 0,0:09:22.25,0:09:23.20,Doc,,0,0,0,,talking about.
+Dialogue: 0,0:09:23.25,0:09:24.76,Doc,,0,0,0,,Would you buy a Chinese car?
+Dialogue: 0,0:09:24.81,0:09:26.10,Doc,,0,0,0,,Do you already own one?
+Dialogue: 0,0:09:26.15,0:09:29.76,Doc,,0,0,0,,Tell me in the comments, and be\Nhonest I want to hear both sides.
+Dialogue: 0,0:09:29.81,0:09:31.16,Doc,,0,0,0,,And if you want straight-talking,
+Dialogue: 0,0:09:31.21,0:09:34.34,Doc,,0,0,0,,numbers-first videos about what's\Nreally happening in the Australian car
+Dialogue: 0,0:09:34.39,0:09:35.92,Doc,,0,0,0,,market, hit subscribe.
+Dialogue: 0,0:09:35.97,0:09:38.07,Doc,,0,0,0,,It's free and it really helps the channel.
+Dialogue: 0,0:09:38.83,0:09:41.10,Doc,,0,0,0,,So why are Australians switching so fast?
+Dialogue: 0,0:09:41.15,0:09:42.52,Doc,,0,0,0,,There are four big reasons.
+Dialogue: 0,0:09:42.57,0:09:43.58,Doc,,0,0,0,,The first is price.
+Dialogue: 0,0:09:43.63,0:09:46.68,Doc,,0,0,0,,Chinese brands are offering\Na lot of car for the money.
+Dialogue: 0,0:09:46.73,0:09:53.52,Doc,,0,0,0,,BYD's little Atto 1 electric hatch\Nstarts from $23,990 before on-road costs.
+Dialogue: 0,0:09:53.57,0:09:55.34,Doc,,0,0,0,,In October 2026,
+Dialogue: 0,0:09:55.39,0:09:58.80,Doc,,0,0,0,,BYD launched four thousand dollars\Ncashback on much of its range,
+Dialogue: 0,0:09:58.85,0:10:04.82,Doc,,0,0,0,,taking the Sealion 5 plug-in hybrid\NSUV down to $29,990 before on-road
+Dialogue: 0,0:10:04.87,0:10:05.26,Doc,,0,0,0,,costs.
+Dialogue: 0,0:10:05.31,0:10:09.36,Doc,,0,0,0,,When a well-equipped plug-in hybrid\NSUV costs less than many small petrol
+Dialogue: 0,0:10:09.41,0:10:11.28,Doc,,0,0,0,,cars, buyers pay attention.
+Dialogue: 0,0:10:11.33,0:10:12.80,Doc,,0,0,0,,The second is technology.
+Dialogue: 0,0:10:12.85,0:10:16.04,Doc,,0,0,0,,Most Chinese brands lead with\Nelectric cars and plug-in hybrids,
+Dialogue: 0,0:10:16.09,0:10:19.42,Doc,,0,0,0,,with big screens, long equipment\Nlists and lots of power.
+Dialogue: 0,0:10:19.47,0:10:23.08,Doc,,0,0,0,,In September, electric vehicles outsold\Npetrol cars in Australia for the
+Dialogue: 0,0:10:23.13,0:10:25.98,Doc,,0,0,0,,month, and plug-in hybrid\Nsales more than doubled.
+Dialogue: 0,0:10:26.03,0:10:28.28,Doc,,0,0,0,,Chinese brands make most of those cars.
+Dialogue: 0,0:10:28.33,0:10:29.08,Doc,,0,0,0,,The third is timing.
+Dialogue: 0,0:10:29.13,0:10:35.28,Doc,,0,0,0,,In 2026, fuel prices spiked diesel\Nhit as high as $3.50 a litre in
+Dialogue: 0,0:10:35.33,0:10:38.40,Doc,,0,0,0,,parts of Australia in May,\Naccording to CarExpert.
+Dialogue: 0,0:10:38.45,0:10:39.42,Doc,,0,0,0,,At the same time,
+Dialogue: 0,0:10:39.47,0:10:42.50,Doc,,0,0,0,,the government's emissions rules are\Npushing car makers toward low-emission
+Dialogue: 0,0:10:42.55,0:10:46.10,Doc,,0,0,0,,vehicles, and the Electric Car Discount\Nhas made electric cars cheaper to
+Dialogue: 0,0:10:46.15,0:10:47.42,Doc,,0,0,0,,salary package.
+Dialogue: 0,0:10:47.47,0:10:51.18,Doc,,0,0,0,,Chinese brands had exactly the right\Ncars, at exactly the right moment.
+Dialogue: 0,0:10:51.23,0:10:52.78,Doc,,0,0,0,,And the fourth is trust.
+Dialogue: 0,0:10:52.83,0:10:56.22,Doc,,0,0,0,,A few years ago, a lot of buyers\Nwere nervous about Chinese cars.
+Dialogue: 0,0:10:56.27,0:10:57.24,Doc,,0,0,0,,That's changing fast.
+Dialogue: 0,0:10:57.29,0:11:01.70,Doc,,0,0,0,,Omoda Jaecoo has said publicly that the\Nstigma around Chinese cars is mostly
+Dialogue: 0,0:11:01.75,0:11:05.15,Doc,,0,0,0,,gone and the sales numbers suggest\Na lot of Australians agree.
+Dialogue: 0,0:11:05.20,0:11:07.34,Doc,,0,0,0,,Long warranties have helped too.
+Dialogue: 0,0:11:07.39,0:11:10.07,Doc,,0,0,0,,GWM, for example, offers a seven-year,
+Dialogue: 0,0:11:10.12,0:11:12.08,Doc,,0,0,0,,unlimited-kilometre\Nwarranty on its vehicles,
+Dialogue: 0,0:11:12.13,0:11:15.08,Doc,,0,0,0,,with eight years on its hybrid\Nand plug-in hybrid batteries.
+Dialogue: 0,0:11:15.13,0:11:16.40,Doc,,0,0,0,,When a brand is new to you,
+Dialogue: 0,0:11:16.45,0:11:19.54,Doc,,0,0,0,,a long warranty is a powerful\Nway to say: trust us.
+Dialogue: 0,0:11:19.59,0:11:20.56,Doc,,0,0,0,,And the more neighbours,
+Dialogue: 0,0:11:20.61,0:11:23.28,Doc,,0,0,0,,friends and work mates who\Nbuy these cars without drama,
+Dialogue: 0,0:11:23.33,0:11:25.04,Doc,,0,0,0,,the faster that trust spreads.
+Dialogue: 0,0:11:25.09,0:11:29.49,Doc,,0,0,0,,That's how a market flips not with one\Nbig moment, but one driveway at a time.
+Dialogue: 0,0:11:30.24,0:11:34.11,Doc,,0,0,0,,But here's the side of the\Nstory you don't hear in the ads.
+Dialogue: 0,0:11:34.16,0:11:38.53,Doc,,0,0,0,,There are far too many Chinese car\Nbrands for all of them to survive.
+Dialogue: 0,0:11:38.58,0:11:40.21,Doc,,0,0,0,,In March 2026,
+Dialogue: 0,0:11:40.26,0:11:43.85,Doc,,0,0,0,,accounting firm BDO told a car dealer\Nindustry event that the current
+Dialogue: 0,0:11:43.90,0:11:45.83,Doc,,0,0,0,,expansion is unsustainable.
+Dialogue: 0,0:11:45.88,0:11:50.41,Doc,,0,0,0,,BDO's automotive partner, Sam Venn,\Nwas blunt: "It's not sustainable.
+Dialogue: 0,0:11:50.46,0:11:55.41,Doc,,0,0,0,,It's as simple as that." BDO pointed out\Nthat well over 150 car makers operate
+Dialogue: 0,0:11:55.46,0:11:58.65,Doc,,0,0,0,,in China, and that number is\Nwidely tipped to fall sharply.
+Dialogue: 0,0:11:58.70,0:12:02.31,Doc,,0,0,0,,It named the likely survivors\Nas the biggest groups:
+Dialogue: 0,0:12:02.36,0:12:06.61,Doc,,0,0,0,,BYD, Geely, SAIC, GWM and Chery.
+Dialogue: 0,0:12:06.66,0:12:08.49,Doc,,0,0,0,,The dealer numbers show why.
+Dialogue: 0,0:12:08.54,0:12:11.11,Doc,,0,0,0,,BDO reported that in early 2026,
+Dialogue: 0,0:12:11.16,0:12:14.89,Doc,,0,0,0,,a typical Toyota dealer was\Nselling around 72 new cars a month.
+Dialogue: 0,0:12:14.94,0:12:16.95,Doc,,0,0,0,,A BYD dealer, 48.
+Dialogue: 0,0:12:17.00,0:12:21.03,Doc,,0,0,0,,But some newer Chinese brands were\Nselling just a handful per dealer Geely
+Dialogue: 0,0:12:21.08,0:12:23.49,Doc,,0,0,0,,seven, JAC three, Deepal two.
+Dialogue: 0,0:12:23.54,0:12:25.55,Doc,,0,0,0,,Even the boss of one Chinese brand,
+Dialogue: 0,0:12:25.60,0:12:29.85,Doc,,0,0,0,,Leapmotor, has admitted that not all\NChinese brands will survive in Australia.
+Dialogue: 0,0:12:29.90,0:12:31.37,Doc,,0,0,0,,Then there's resale value.
+Dialogue: 0,0:12:31.42,0:12:33.13,Doc,,0,0,0,,Many of these cars are electric,
+Dialogue: 0,0:12:33.18,0:12:35.99,Doc,,0,0,0,,and electric cars have\Ngenerally lost value faster.
+Dialogue: 0,0:12:36.04,0:12:41.49,Doc,,0,0,0,,A 2025 Pickles and Datium analysis found\Na two-year-old BYD Atto 3 kept about
+Dialogue: 0,0:12:41.54,0:12:47.11,Doc,,0,0,0,,54 per cent of its value, compared with\Nabout 88 per cent for a Toyota RAV4.
+Dialogue: 0,0:12:47.16,0:12:50.15,Doc,,0,0,0,,And as we covered in our\Nvideo on BYD crash repairs,
+Dialogue: 0,0:12:50.20,0:12:54.07,Doc,,0,0,0,,parts and approved repairers can be\Na real issue for fast-growing brands.
+Dialogue: 0,0:12:54.12,0:12:55.81,Doc,,0,0,0,,None of that means Chinese cars are bad.
+Dialogue: 0,0:12:55.86,0:12:59.21,Doc,,0,0,0,,It means you need to choose\Nthe brand, not just the deal.
+Dialogue: 0,0:12:59.26,0:13:02.41,Doc,,0,0,0,,There's also a bigger-picture\Nquestion that some buyers are asking:
+Dialogue: 0,0:13:02.46,0:13:05.49,Doc,,0,0,0,,what happens if trade\Ntensions or politics change?
+Dialogue: 0,0:13:05.54,0:13:07.33,Doc,,0,0,0,,In late October 2026,
+Dialogue: 0,0:13:07.38,0:13:10.67,Doc,,0,0,0,,the federal government said Australia\Nwould not follow the United States and
+Dialogue: 0,0:13:10.72,0:13:14.27,Doc,,0,0,0,,other countries in banning\NChinese cars from military sites.
+Dialogue: 0,0:13:14.32,0:13:17.33,Doc,,0,0,0,,For everyday buyers, there's\Nno sign of restrictions here.
+Dialogue: 0,0:13:17.38,0:13:21.31,Doc,,0,0,0,,But it's a reminder that the car market\Nis now tied up with global politics in
+Dialogue: 0,0:13:21.36,0:13:22.92,Doc,,0,0,0,,a way it never used to be.
+Dialogue: 0,0:13:23.63,0:13:26.08,Doc,,0,0,0,,So what are the established\Nbrands doing about it?
+Dialogue: 0,0:13:26.13,0:13:28.48,Doc,,0,0,0,,Toyota insists it's not in decline.
+Dialogue: 0,0:13:28.53,0:13:31.50,Doc,,0,0,0,,In October 2026, its\NAustralian sales boss,
+Dialogue: 0,0:13:31.55,0:13:35.38,Doc,,0,0,0,,John Pappas, was asked whether Toyota\Nwas preparing for a smaller future.
+Dialogue: 0,0:13:35.43,0:13:36.98,Doc,,0,0,0,,His answer: "No.
+Dialogue: 0,0:13:37.03,0:13:38.48,Doc,,0,0,0,,We don't plan to be declining.
+Dialogue: 0,0:13:38.53,0:13:42.12,Doc,,0,0,0,,We plan to continue to grow." He said\NToyota's order books remain "very,
+Dialogue: 0,0:13:42.17,0:13:46.50,Doc,,0,0,0,,very healthy", and blamed much of the\N2026 drop on supply problems with the
+Dialogue: 0,0:13:46.55,0:13:48.58,Doc,,0,0,0,,new RAV4 and HiLux.
+Dialogue: 0,0:13:48.63,0:13:50.42,Doc,,0,0,0,,And the RAV4 is bouncing back.
+Dialogue: 0,0:13:50.47,0:13:54.08,Doc,,0,0,0,,In September, it was the\Nsecond-best-selling vehicle in the country,
+Dialogue: 0,0:13:54.13,0:13:57.92,Doc,,0,0,0,,with 4,624 sales, up 81 per cent.
+Dialogue: 0,0:13:57.97,0:14:02.72,Doc,,0,0,0,,Toyota also has a cheaper RAV4\Nplug-in hybrid coming in 2027,
+Dialogue: 0,0:14:02.77,0:14:06.00,Doc,,0,0,0,,and it's offering a rare four-thousand-dollar\Nbonus on the HiLux to fight
+Dialogue: 0,0:14:06.05,0:14:06.84,Doc,,0,0,0,,back.
+Dialogue: 0,0:14:06.89,0:14:08.76,Doc,,0,0,0,,Others are cutting prices hard.
+Dialogue: 0,0:14:08.81,0:14:12.28,Doc,,0,0,0,,Kia slashed up to fifteen thousand\Ndollars off its Tasman ute.
+Dialogue: 0,0:14:12.33,0:14:15.62,Doc,,0,0,0,,Ford cut its Ranger plug-in\Nhybrid by more than ten thousand.
+Dialogue: 0,0:14:15.67,0:14:17.66,Doc,,0,0,0,,Mazda cut thousands off its big SUVs.
+Dialogue: 0,0:14:17.71,0:14:21.74,Doc,,0,0,0,,The old guard isn't giving up but\Nit's being forced to fight on price,
+Dialogue: 0,0:14:21.79,0:14:25.06,Doc,,0,0,0,,and that's exactly the battlefield\Nwhere Chinese brands are strongest.
+Dialogue: 0,0:14:25.11,0:14:28.98,Doc,,0,0,0,,As Pappas pointed out, there are now\Nnearly seventy car brands in Australia.
+Dialogue: 0,0:14:29.03,0:14:32.17,Doc,,0,0,0,,That's a lot of companies chasing a\Nmarket that isn't getting any bigger.
+Dialogue: 0,0:14:32.95,0:14:35.46,Doc,,0,0,0,,So what does the Chinese\Ntakeover mean for you?
+Dialogue: 0,0:14:35.51,0:14:38.12,Doc,,0,0,0,,If you're buying, it's good news for now.
+Dialogue: 0,0:14:38.17,0:14:41.62,Doc,,0,0,0,,More competition means sharper\Nprices, from every brand.
+Dialogue: 0,0:14:41.67,0:14:43.90,Doc,,0,0,0,,As Auto Expert's John Cadogan put it,
+Dialogue: 0,0:14:43.95,0:14:46.34,Doc,,0,0,0,,a car maker losing market\Nshare "needs sales",
+Dialogue: 0,0:14:46.39,0:14:50.18,Doc,,0,0,0,,and "they need your sale more than\Nthey did when demand was booming." His
+Dialogue: 0,0:14:50.23,0:14:53.14,Doc,,0,0,0,,advice: don't start\Nfrom the sticker price.
+Dialogue: 0,0:14:53.19,0:14:55.96,Doc,,0,0,0,,Use a comparable Chinese\Nmodel as your reference point,
+Dialogue: 0,0:14:56.01,0:14:59.02,Doc,,0,0,0,,make a serious offer, and\Nbe ready to walk away.
+Dialogue: 0,0:14:59.07,0:15:00.78,Doc,,0,0,0,,If you're considering a Chinese car,
+Dialogue: 0,0:15:00.83,0:15:03.72,Doc,,0,0,0,,do your homework on the\Nbrand, not just the car.
+Dialogue: 0,0:15:03.77,0:15:05.28,Doc,,0,0,0,,How long has it been in Australia?
+Dialogue: 0,0:15:05.33,0:15:08.06,Doc,,0,0,0,,How many dealers and service\Ncentres does it have near you?
+Dialogue: 0,0:15:08.11,0:15:09.68,Doc,,0,0,0,,How fast can it get parts?
+Dialogue: 0,0:15:09.73,0:15:11.60,Doc,,0,0,0,,What does the warranty actually cover?
+Dialogue: 0,0:15:11.65,0:15:14.52,Doc,,0,0,0,,And what will the car be\Nworth in three or five years?
+Dialogue: 0,0:15:14.57,0:15:17.38,Doc,,0,0,0,,Stick to brands with real\Nscale and a real local network,
+Dialogue: 0,0:15:17.43,0:15:19.62,Doc,,0,0,0,,and you'll massively reduce your risk.
+Dialogue: 0,0:15:19.67,0:15:22.98,Doc,,0,0,0,,It's also worth checking whether the\Nbrand has a track record of sudden price
+Dialogue: 0,0:15:23.03,0:15:24.00,Doc,,0,0,0,,cuts.
+Dialogue: 0,0:15:24.05,0:15:27.44,Doc,,0,0,0,,Several Chinese brands have cut\Nprices sharply soon after launch.
+Dialogue: 0,0:15:27.49,0:15:30.76,Doc,,0,0,0,,That's great if you're buying after\Nthe cut but painful if you bought just
+Dialogue: 0,0:15:30.81,0:15:34.18,Doc,,0,0,0,,before it, because the value of your\Ncar drops the moment the new price is
+Dialogue: 0,0:15:34.23,0:15:35.26,Doc,,0,0,0,,announced.
+Dialogue: 0,0:15:35.31,0:15:37.40,Doc,,0,0,0,,Ask the dealer when the\Nmodel was last repriced,
+Dialogue: 0,0:15:37.45,0:15:39.58,Doc,,0,0,0,,and whether an update is due soon.
+Dialogue: 0,0:15:39.63,0:15:42.96,Doc,,0,0,0,,And if you own a Japanese\Nor Korean car, don't panic.
+Dialogue: 0,0:15:43.01,0:15:45.44,Doc,,0,0,0,,These are still huge,\Nwell-supported brands.
+Dialogue: 0,0:15:45.49,0:15:46.90,Doc,,0,0,0,,But expect more deals,
+Dialogue: 0,0:15:46.95,0:15:51.05,Doc,,0,0,0,,more price cuts and more pressure on\Nresale values as competition heats up.
+Dialogue: 0,0:15:51.76,0:15:54.61,Doc,,0,0,0,,So, did Chinese cars\Njust take over Australia?
+Dialogue: 0,0:15:54.66,0:15:56.99,Doc,,0,0,0,,By country of manufacture, yes.
+Dialogue: 0,0:15:57.04,0:16:00.35,Doc,,0,0,0,,China overtook Japan as Australia's\Nbiggest source of new cars in February
+Dialogue: 0,0:16:00.40,0:16:01.95,Doc,,0,0,0,,2026.
+Dialogue: 0,0:16:02.00,0:16:06.21,Doc,,0,0,0,,By September, almost four in ten new\Nvehicles sold here were built in China,
+Dialogue: 0,0:16:06.26,0:16:08.53,Doc,,0,0,0,,and four of the top ten\Nmodels were Chinese.
+Dialogue: 0,0:16:08.58,0:16:11.69,Doc,,0,0,0,,BYD is now second only to Toyota.
+Dialogue: 0,0:16:11.74,0:16:15.99,Doc,,0,0,0,,Geely, Chery and Zeekr are growing\Nat rates the industry has never seen.
+Dialogue: 0,0:16:16.04,0:16:17.15,Doc,,0,0,0,,And it's not over.
+Dialogue: 0,0:16:17.20,0:16:20.77,Doc,,0,0,0,,The Australian Automotive Dealer\NAssociation has forecast that Chinese-made
+Dialogue: 0,0:16:20.82,0:16:26.05,Doc,,0,0,0,,vehicles could make up 58 per cent of\Nnew cars on Australian roads by 2035.
+Dialogue: 0,0:16:26.10,0:16:30.65,Doc,,0,0,0,,The number of Chinese models on sale\Nis set to almost double by 2027.
+Dialogue: 0,0:16:30.70,0:16:34.43,Doc,,0,0,0,,But this takeover will also have\Ncasualties including some of the Chinese
+Dialogue: 0,0:16:34.48,0:16:35.77,Doc,,0,0,0,,brands themselves.
+Dialogue: 0,0:16:35.82,0:16:38.97,Doc,,0,0,0,,And for the biggest brand of all,\Nthe pressure has never been higher.
+Dialogue: 0,0:16:39.02,0:16:41.37,Doc,,0,0,0,,If this helped, hit like, subscribe,
+Dialogue: 0,0:16:41.42,0:16:43.85,Doc,,0,0,0,,and share it with someone\Nwho's shopping for a new car.
+Dialogue: 0,0:16:43.90,0:16:46.37,Doc,,0,0,0,,Tell me in the comments:\NChinese, Japanese,
+Dialogue: 0,0:16:46.42,0:16:48.19,Doc,,0,0,0,,or something else for your next car?
+Dialogue: 0,0:16:48.24,0:16:49.59,Doc,,0,0,0,,And in the next video,
+Dialogue: 0,0:16:49.64,0:16:52.45,Doc,,0,0,0,,we're asking the question every\NAustralian car fan is thinking:
+Dialogue: 0,0:16:52.50,0:16:54.53,Doc,,0,0,0,,is Toyota the next Holden?
+Dialogue: 0,0:16:54.58,0:16:55.38,Doc,,0,0,0,,See you there.

@@ -1,0 +1,69 @@
+{
+ "ship": [
+  "v_parking/3",
+  "v_port/3",
+  "v_port/1",
+  "v_port/2"
+ ],
+ "china": [
+  "v_china/1",
+  "v_china/3",
+  "v_china/2",
+  "v_china/4"
+ ],
+ "japan": [
+  "v_japan/2",
+  "v_japan/1",
+  "v_japan/4",
+  "v_japan/3"
+ ],
+ "dealer": [
+  "v_dealer/1",
+  "v_phone/4",
+  "v_phone/2"
+ ],
+ "ev": [
+  "v_ev_charge/1",
+  "v_ev_charge/3",
+  "v_ev_charge/4",
+  "v_ev_charge/2"
+ ],
+ "street": [
+  "v_city/4",
+  "v_city/3",
+  "v_suv/4",
+  "v_city/2",
+  "v_suv/3",
+  "v_factory/4"
+ ],
+ "money": [
+  "v_money/1",
+  "v_money/4",
+  "v_money/2",
+  "v_money/3"
+ ],
+ "cn_cars": [
+  "v_ev_drive/2",
+  "v_ev_drive/4"
+ ],
+ "jp_cars": [
+  "v_suv/2",
+  "v_dealer/4"
+ ],
+ "_generic": [
+  "v_city/1",
+  "v_highway/3",
+  "v_ev_drive/3",
+  "v_ute/2",
+  "v_ship/2",
+  "v_dealer/2",
+  "v_ute/1",
+  "v_ute/3",
+  "v_parking/2",
+  "v_highway/1",
+  "v_highway/2",
+  "v_ute/4",
+  "v_parking/4",
+  "v_suv/1"
+ ]
+}
