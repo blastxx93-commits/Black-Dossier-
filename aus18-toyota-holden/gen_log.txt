@@ -1,0 +1,32 @@
+ai_toyota_yard_1: Gemini falhou (Gemini 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and ), tentando Replicate
+ai_toyota_yard_1: 2752x1536
+ai_closed_dealer_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_closed_dealer_1: 2752x1536
+ai_two_showrooms_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_two_showrooms_1: 2752x1536
+ai_family_suv_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_family_suv_1: 2752x1536
+ai_ute_farm_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_ute_farm_1: 2752x1536
+persona_toyota_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+persona_toyota_1: 2752x1536
+persona_toyota_2: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+persona_toyota_2: 2752x1536
+# Imagens IA — aus18-toyota-holden
+
+- Modelo: `gemini-2.5-flash-image`
+- Imagens geradas: 7
+- Folhas: ai_contact_sheet_1.jpg
+
+| plano | resultado |
+|---|---|
+| `ai_toyota_yard` | 1 de 1 |
+| `ai_closed_dealer` | 1 de 1 |
+| `ai_two_showrooms` | 1 de 1 |
+| `ai_family_suv` | 1 de 1 |
+| `ai_ute_farm` | 1 de 1 |
+| `persona_toyota` | 2 de 2 |
+
