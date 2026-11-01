@@ -1,0 +1,339 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Doc,Inter SemiBold,44,&H0000E6FF,&H0000E6FF,&H00000000,&H96000000,0,0,0,0,100,100,0.5,0,1,2.4,1.2,2,200,200,62,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.53,Doc,,0,0,0,,Two hundred and forty-three.
+Dialogue: 0,0:00:01.58,0:00:05.43,Doc,,0,0,0,,That's how close BYD came to beating\NToyota in Australia in June 2026.
+Dialogue: 0,0:00:05.48,0:00:08.19,Doc,,0,0,0,,Two hundred and forty-three cars,
+Dialogue: 0,0:00:08.24,0:00:09.29,Doc,,0,0,0,,in a single month,
+Dialogue: 0,0:00:09.34,0:00:12.81,Doc,,0,0,0,,separating the most powerful car brand\Nin the country from a Chinese company
+Dialogue: 0,0:00:12.86,0:00:15.85,Doc,,0,0,0,,most Australians hadn't\Nheard of five years ago.
+Dialogue: 0,0:00:15.90,0:00:20.43,Doc,,0,0,0,,Toyota has been Australia's best-selling\Nbrand since 2003 the year it overtook
+Dialogue: 0,0:00:20.48,0:00:21.05,Doc,,0,0,0,,Holden.
+Dialogue: 0,0:00:21.10,0:00:21.75,Doc,,0,0,0,,Holden.
+Dialogue: 0,0:00:21.80,0:00:24.89,Doc,,0,0,0,,The brand that was once as\NAustralian as meat pies and footy.
+Dialogue: 0,0:00:24.94,0:00:28.25,Doc,,0,0,0,,Seventeen years after Toyota\Npassed it, Holden was gone.
+Dialogue: 0,0:00:28.30,0:00:30.27,Doc,,0,0,0,,Now Toyota's own numbers are falling.
+Dialogue: 0,0:00:30.32,0:00:34.65,Doc,,0,0,0,,Its sales were down almost a quarter\Nin the first five months of 2026.
+Dialogue: 0,0:00:34.70,0:00:37.99,Doc,,0,0,0,,The Prado, the Kluger,\Nthe Yaris down forty,
+Dialogue: 0,0:00:38.04,0:00:40.61,Doc,,0,0,0,,fifty, even seventy per\Ncent in some months.
+Dialogue: 0,0:00:40.66,0:00:43.87,Doc,,0,0,0,,And one of Australia's best-known\Nmotoring journalists wrote a column with a
+Dialogue: 0,0:00:43.92,0:00:47.01,Doc,,0,0,0,,headline that would have been\Nunthinkable a few years ago:
+Dialogue: 0,0:00:47.06,0:00:51.21,Doc,,0,0,0,,"Toyota is the new Holden not\Nin a good way." So is it true?
+Dialogue: 0,0:00:51.26,0:00:53.91,Doc,,0,0,0,,Is Toyota really heading\Ndown the same road as Holden?
+Dialogue: 0,0:00:53.96,0:00:56.27,Doc,,0,0,0,,In this video, I'll show\Nyou the real numbers,
+Dialogue: 0,0:00:56.32,0:00:58.05,Doc,,0,0,0,,what Toyota says is going on,
+Dialogue: 0,0:00:58.10,0:01:01.59,Doc,,0,0,0,,what actually killed Holden and the\Nwarning signs to watch from here.
+Dialogue: 0,0:01:01.64,0:01:02.43,Doc,,0,0,0,,And by the end,
+Dialogue: 0,0:01:02.48,0:01:06.48,Doc,,0,0,0,,you'll know whether your Toyota is still\Nthe safe bet everyone thinks it is.
+Dialogue: 0,0:01:06.99,0:01:10.32,Doc,,0,0,0,,First, you need to understand\Njust how dominant Toyota has been.
+Dialogue: 0,0:01:10.37,0:01:16.82,Doc,,0,0,0,,In 2024, Toyota sold 241,296\Nnew vehicles in Australia
+Dialogue: 0,0:01:16.87,0:01:18.12,Doc,,0,0,0,,an all-time record.
+Dialogue: 0,0:01:18.17,0:01:22.40,Doc,,0,0,0,,In 2025, almost one in every five new\Nvehicles sold in this country was a
+Dialogue: 0,0:01:22.45,0:01:23.28,Doc,,0,0,0,,Toyota.
+Dialogue: 0,0:01:23.33,0:01:26.06,Doc,,0,0,0,,Its market share was\Nabove twenty per cent.
+Dialogue: 0,0:01:26.11,0:01:29.52,Doc,,0,0,0,,Toyota's rise is one of the great\Nbusiness stories in Australian history.
+Dialogue: 0,0:01:29.57,0:01:31.26,Doc,,0,0,0,,It built cars here for decades,
+Dialogue: 0,0:01:31.31,0:01:33.62,Doc,,0,0,0,,including the Camry at\Nits factory in Altona,
+Dialogue: 0,0:01:33.67,0:01:37.36,Doc,,0,0,0,,Victoria, until local\Nmanufacturing ended in 2017.
+Dialogue: 0,0:01:37.41,0:01:41.31,Doc,,0,0,0,,It took the market lead from Holden\Nin 2003 and never gave it back.
+Dialogue: 0,0:01:41.36,0:01:43.94,Doc,,0,0,0,,For more than twenty\Nyears, through recessions,
+Dialogue: 0,0:01:43.99,0:01:46.26,Doc,,0,0,0,,a pandemic and a supply crisis,
+Dialogue: 0,0:01:46.31,0:01:50.20,Doc,,0,0,0,,Toyota has finished every single year\Nas Australia's number one car brand.
+Dialogue: 0,0:01:50.25,0:01:51.36,Doc,,0,0,0,,Think about the names.
+Dialogue: 0,0:01:51.41,0:01:55.03,Doc,,0,0,0,,The HiLux, which for years fought the\NFord Ranger for the title of Australia's
+Dialogue: 0,0:01:55.08,0:01:56.42,Doc,,0,0,0,,best-selling vehicle.
+Dialogue: 0,0:01:56.47,0:01:59.80,Doc,,0,0,0,,The RAV4, the country's\Nfavourite family SUV.
+Dialogue: 0,0:01:59.85,0:02:02.52,Doc,,0,0,0,,The LandCruiser, a legend\Nfrom the outback to the city.
+Dialogue: 0,0:02:02.57,0:02:06.14,Doc,,0,0,0,,The Prado, the Corolla,\Nthe Camry, the Kluger.
+Dialogue: 0,0:02:06.19,0:02:10.08,Doc,,0,0,0,,For millions of Australians, buying\Na Toyota wasn't just a choice.
+Dialogue: 0,0:02:10.13,0:02:12.40,Doc,,0,0,0,,It was the default the\Ncar that held its value,
+Dialogue: 0,0:02:12.45,0:02:15.88,Doc,,0,0,0,,never let you down and could\Nbe fixed in any country town.
+Dialogue: 0,0:02:15.93,0:02:18.31,Doc,,0,0,0,,That reputation shows up\Nin the resale numbers.
+Dialogue: 0,0:02:18.36,0:02:24.10,Doc,,0,0,0,,A 2025 analysis by Pickles and Datium\NInsights found a two-year-old RAV4 kept
+Dialogue: 0,0:02:24.15,0:02:27.76,Doc,,0,0,0,,about 88 per cent of its value one\Nof the best results of any car in
+Dialogue: 0,0:02:27.81,0:02:28.10,Doc,,0,0,0,,Australia.
+Dialogue: 0,0:02:28.15,0:02:33.22,Doc,,0,0,0,,The LandCruiser also kept around 88\Nper cent, and the HiLux about 85.
+Dialogue: 0,0:02:33.27,0:02:34.98,Doc,,0,0,0,,Toyota didn't just lead the market.
+Dialogue: 0,0:02:35.03,0:02:36.34,Doc,,0,0,0,,It was the market.
+Dialogue: 0,0:02:36.39,0:02:40.23,Doc,,0,0,0,,And that's exactly why what happened\Nin 2026 has shocked the industry.
+Dialogue: 0,0:02:41.06,0:02:43.77,Doc,,0,0,0,,Here's the slide, in Toyota's own numbers.
+Dialogue: 0,0:02:43.82,0:02:46.01,Doc,,0,0,0,,To the end of May 2026,
+Dialogue: 0,0:02:46.06,0:02:52.15,Doc,,0,0,0,,Toyota delivered 76,017 vehicles\Nin Australia down 24.6 per cent on
+Dialogue: 0,0:02:52.20,0:02:54.53,Doc,,0,0,0,,the same period in 2025.
+Dialogue: 0,0:02:54.58,0:02:58.99,Doc,,0,0,0,,Its share of the new-car market fell\Nfrom 20.7 per cent to 16 per cent.
+Dialogue: 0,0:02:59.04,0:03:02.57,Doc,,0,0,0,,In May alone, Toyota sales\Nwere down almost 31 per cent.
+Dialogue: 0,0:03:02.62,0:03:04.53,Doc,,0,0,0,,And it was across the range.
+Dialogue: 0,0:03:04.58,0:03:06.81,Doc,,0,0,0,,According to CarExpert, by the end of May,
+Dialogue: 0,0:03:06.86,0:03:09.81,Doc,,0,0,0,,the LandCruiser Prado was\Ndown 45 per cent for the year,
+Dialogue: 0,0:03:09.86,0:03:12.61,Doc,,0,0,0,,and in May itself it\Nfell almost 64 per cent.
+Dialogue: 0,0:03:12.66,0:03:17.73,Doc,,0,0,0,,The Kluger was down almost 40 per cent\Nfor the year, and 70.7 per cent in May.
+Dialogue: 0,0:03:17.78,0:03:20.13,Doc,,0,0,0,,The Yaris was down 44.4 per cent.
+Dialogue: 0,0:03:20.18,0:03:22.81,Doc,,0,0,0,,The Yaris Cross, almost 32.
+Dialogue: 0,0:03:22.86,0:03:26.23,Doc,,0,0,0,,RAV4 sales were down 47\Nper cent year to date.
+Dialogue: 0,0:03:26.28,0:03:28.41,Doc,,0,0,0,,Even the HiLux was down 13 per cent.
+Dialogue: 0,0:03:28.46,0:03:32.01,Doc,,0,0,0,,And LandCruiser 70 Series ute\Nsales were down 82 per cent.
+Dialogue: 0,0:03:32.06,0:03:34.39,Doc,,0,0,0,,Toyota's explanation for\Nthe Prado was simple.
+Dialogue: 0,0:03:34.44,0:03:36.31,Doc,,0,0,0,,A spokesperson said:
+Dialogue: 0,0:03:36.36,0:03:40.39,Doc,,0,0,0,,"The Prado May result reflects lower\Nsupply on this very popular model." And
+Dialogue: 0,0:03:40.44,0:03:41.75,Doc,,0,0,0,,not everything was falling.
+Dialogue: 0,0:03:41.80,0:03:46.25,Doc,,0,0,0,,CarExpert reported that LandCruiser\N300 and 70 Series wagon sales combined
+Dialogue: 0,0:03:46.30,0:03:50.73,Doc,,0,0,0,,were actually up 29.3 per cent over\Nthe first five months of the year.
+Dialogue: 0,0:03:50.78,0:03:54.69,Doc,,0,0,0,,In other words, where Toyota could get\Ncars, people were still buying them.
+Dialogue: 0,0:03:54.74,0:03:58.33,Doc,,0,0,0,,By September, things had improved,\Nbut the year is still well down.
+Dialogue: 0,0:03:58.38,0:04:03.55,Doc,,0,0,0,,Year to date, Toyota has\Nsold 152,944 vehicles,
+Dialogue: 0,0:04:03.60,0:04:05.09,Doc,,0,0,0,,down 15.9 per cent.
+Dialogue: 0,0:04:05.14,0:04:10.59,Doc,,0,0,0,,Its market share is 16.7 per cent,\Ndown from 19.9 a year earlier.
+Dialogue: 0,0:04:10.64,0:04:14.73,Doc,,0,0,0,,Toyota is still comfortably number one\Nbut it's selling almost 29,000 fewer
+Dialogue: 0,0:04:14.78,0:04:17.25,Doc,,0,0,0,,cars than it did at the\Nsame point last year.
+Dialogue: 0,0:04:17.30,0:04:19.59,Doc,,0,0,0,,For any other brand,\Nthat would be a bad year.
+Dialogue: 0,0:04:19.64,0:04:21.54,Doc,,0,0,0,,For Toyota, it's a historic one.
+Dialogue: 0,0:04:22.28,0:04:25.52,Doc,,0,0,0,,And while Toyota was falling,\Nsomeone else was rising very fast.
+Dialogue: 0,0:04:25.57,0:04:30.62,Doc,,0,0,0,,In June 2026, Toyota sold 19,124 vehicles.
+Dialogue: 0,0:04:30.67,0:04:34.33,Doc,,0,0,0,,BYD sold 18,881.
+Dialogue: 0,0:04:34.38,0:04:36.99,Doc,,0,0,0,,The gap was just 243 cars.
+Dialogue: 0,0:04:37.04,0:04:40.25,Doc,,0,0,0,,Toyota held 13.7 per cent\Nof the market that month.
+Dialogue: 0,0:04:40.30,0:04:42.59,Doc,,0,0,0,,BYD had 13.5.
+Dialogue: 0,0:04:42.64,0:04:46.59,Doc,,0,0,0,,A Chinese brand that only started selling\Ncars here a few years ago was almost
+Dialogue: 0,0:04:46.64,0:04:49.43,Doc,,0,0,0,,level with the most powerful\Ncar company in Australia.
+Dialogue: 0,0:04:49.48,0:04:51.63,Doc,,0,0,0,,The head of the Federal Chamber\Nof Automotive Industries,
+Dialogue: 0,0:04:51.68,0:04:52.91,Doc,,0,0,0,,Tony Weber, said:
+Dialogue: 0,0:04:52.96,0:04:56.57,Doc,,0,0,0,,"The Australian automotive market has\Nshifted on its axis during the first
+Dialogue: 0,0:04:56.62,0:05:00.35,Doc,,0,0,0,,months of 2026." BYD's\Nchief operating officer,
+Dialogue: 0,0:05:00.40,0:05:03.49,Doc,,0,0,0,,Stephen Collins, said: "We asked\Nour customers to back us in,
+Dialogue: 0,0:05:03.54,0:05:05.81,Doc,,0,0,0,,and they did, and we delivered." Now,
+Dialogue: 0,0:05:05.86,0:05:08.85,Doc,,0,0,0,,to be fair, BYD hasn't\Ncaught Toyota since.
+Dialogue: 0,0:05:08.90,0:05:14.96,Doc,,0,0,0,,In September, Toyota sold\N17,682 vehicles to BYD's
+Dialogue: 0,0:05:15.01,0:05:16.03,Doc,,0,0,0,,8,191.
+Dialogue: 0,0:05:16.08,0:05:19.17,Doc,,0,0,0,,Year to date, Toyota has sold\Nroughly double BYD's total.
+Dialogue: 0,0:05:19.22,0:05:23.99,Doc,,0,0,0,,But BYD's growth up 102 per cent this\Nyear shows how quickly the ground can
+Dialogue: 0,0:05:24.04,0:05:24.63,Doc,,0,0,0,,move.
+Dialogue: 0,0:05:24.68,0:05:26.32,Doc,,0,0,0,,And it isn't only BYD.
+Dialogue: 0,0:05:26.37,0:05:29.99,Doc,,0,0,0,,Chinese-built cars now make up almost\Nfour in ten new vehicles sold in
+Dialogue: 0,0:05:30.04,0:05:31.01,Doc,,0,0,0,,Australia.
+Dialogue: 0,0:05:31.06,0:05:34.85,Doc,,0,0,0,,China overtook Japan as Australia's\Nbiggest source of new cars in February
+Dialogue: 0,0:05:34.90,0:05:38.75,Doc,,0,0,0,,2026 for the first time since 1998.
+Dialogue: 0,0:05:38.80,0:05:42.75,Doc,,0,0,0,,Most of the sales Chinese brands have\Ngained have come from Japanese brands.
+Dialogue: 0,0:05:42.80,0:05:45.35,Doc,,0,0,0,,And the biggest Japanese\Nbrand of all is Toyota.
+Dialogue: 0,0:05:45.40,0:05:47.79,Doc,,0,0,0,,But here's an important\Ndetail that often gets lost.
+Dialogue: 0,0:05:47.84,0:05:51.93,Doc,,0,0,0,,Toyota is actually doing better\Nthan most of its Japanese rivals.
+Dialogue: 0,0:05:51.98,0:05:54.73,Doc,,0,0,0,,Year to date, Toyota\Nis down 15.9 per cent.
+Dialogue: 0,0:05:54.78,0:05:57.05,Doc,,0,0,0,,Mazda is down 16.2.
+Dialogue: 0,0:05:57.10,0:05:58.80,Doc,,0,0,0,,Mitsubishi is down 30.2.
+Dialogue: 0,0:05:58.85,0:06:01.49,Doc,,0,0,0,,Subaru is down 29.3.
+Dialogue: 0,0:06:01.54,0:06:03.91,Doc,,0,0,0,,And Nissan is down 33.3 per cent.
+Dialogue: 0,0:06:03.96,0:06:05.59,Doc,,0,0,0,,If Toyota is in trouble,
+Dialogue: 0,0:06:05.64,0:06:09.04,Doc,,0,0,0,,the rest of Japan's car industry in\NAustralia is in much deeper trouble.
+Dialogue: 0,0:06:09.81,0:06:12.60,Doc,,0,0,0,,To understand why people are\Ncomparing Toyota to Holden,
+Dialogue: 0,0:06:12.65,0:06:14.29,Doc,,0,0,0,,you need to remember how Holden fell.
+Dialogue: 0,0:06:14.34,0:06:18.30,Doc,,0,0,0,,Holden was the pride of Australian\Nmotoring for most of the twentieth century.
+Dialogue: 0,0:06:18.35,0:06:21.32,Doc,,0,0,0,,The Commodore was the country's\Nfavourite car for years.
+Dialogue: 0,0:06:21.37,0:06:24.02,Doc,,0,0,0,,Holden and Ford's\Nrivalry defined Bathurst,
+Dialogue: 0,0:06:24.07,0:06:26.58,Doc,,0,0,0,,and generations of families\Ndrove nothing else.
+Dialogue: 0,0:06:26.63,0:06:31.56,Doc,,0,0,0,,But in 2003, Toyota overtook Holden\Nas Australia's top-selling car maker.
+Dialogue: 0,0:06:31.61,0:06:33.70,Doc,,0,0,0,,Holden kept selling large numbers of cars,
+Dialogue: 0,0:06:33.75,0:06:36.30,Doc,,0,0,0,,but buyers were moving to SUVs and utes,
+Dialogue: 0,0:06:36.35,0:06:39.12,Doc,,0,0,0,,and to Japanese, Korean\Nand then Chinese brands.
+Dialogue: 0,0:06:39.17,0:06:42.62,Doc,,0,0,0,,In 2013, Holden announced it\Nwould end local manufacturing.
+Dialogue: 0,0:06:42.67,0:06:47.20,Doc,,0,0,0,,The last Australian-built Commodore\Nrolled off the line in 2017.
+Dialogue: 0,0:06:47.25,0:06:50.52,Doc,,0,0,0,,The imported cars that replaced it\Nnever caught on in the same way.
+Dialogue: 0,0:06:50.57,0:06:53.62,Doc,,0,0,0,,Then, on the 17th of February 2020,
+Dialogue: 0,0:06:53.67,0:06:56.96,Doc,,0,0,0,,General Motors announced it would\Nretire the Holden brand altogether.
+Dialogue: 0,0:06:57.01,0:06:59.00,Doc,,0,0,0,,GM's international operations boss,
+Dialogue: 0,0:06:59.05,0:07:02.72,Doc,,0,0,0,,Julian Blissett, pointed to "highly\Nfragmented right-hand-drive markets",
+Dialogue: 0,0:07:02.77,0:07:06.18,Doc,,0,0,0,,and said GM "regret[s] that we could\Nnot prioritize the investment required
+Dialogue: 0,0:07:06.23,0:07:07.88,Doc,,0,0,0,,for Holden" to succeed.
+Dialogue: 0,0:07:07.93,0:07:10.18,Doc,,0,0,0,,GM called the decision "agonizing".
+Dialogue: 0,0:07:10.23,0:07:12.47,Doc,,0,0,0,,By the end of 2020, Holden was gone.
+Dialogue: 0,0:07:12.52,0:07:15.22,Doc,,0,0,0,,The lesson most people\Ntake from Holden is this:
+Dialogue: 0,0:07:15.27,0:07:19.02,Doc,,0,0,0,,a famous badge can carry a brand\Nfor a long time but not forever.
+Dialogue: 0,0:07:19.07,0:07:21.30,Doc,,0,0,0,,When the products stop\Nmatching what buyers want,
+Dialogue: 0,0:07:21.35,0:07:24.92,Doc,,0,0,0,,loyalty runs out, and it can run\Nout faster than anyone expects.
+Dialogue: 0,0:07:24.97,0:07:28.00,Doc,,0,0,0,,It's worth remembering that\NHolden's decline wasn't sudden,
+Dialogue: 0,0:07:28.05,0:07:29.32,Doc,,0,0,0,,even if the end was.
+Dialogue: 0,0:07:29.37,0:07:31.26,Doc,,0,0,0,,For years, the warning signs were there:
+Dialogue: 0,0:07:31.31,0:07:34.40,Doc,,0,0,0,,falling market share, fewer\Nmodels that buyers really wanted,
+Dialogue: 0,0:07:34.45,0:07:36.24,Doc,,0,0,0,,and a parent company\Nthat was losing interest.
+Dialogue: 0,0:07:36.29,0:07:37.78,Doc,,0,0,0,,At each step,
+Dialogue: 0,0:07:37.83,0:07:41.76,Doc,,0,0,0,,plenty of people said Holden was too\Nbig and too Australian to disappear.
+Dialogue: 0,0:07:41.81,0:07:42.73,Doc,,0,0,0,,Until it did.
+Dialogue: 0,0:07:43.48,0:07:46.85,Doc,,0,0,0,,Quick favour before we get to Toyota's\Nside of the story because it's a lot
+Dialogue: 0,0:07:46.90,0:07:48.97,Doc,,0,0,0,,more convincing than you might think.
+Dialogue: 0,0:07:49.02,0:07:50.25,Doc,,0,0,0,,Do you own a Toyota?
+Dialogue: 0,0:07:50.30,0:07:53.23,Doc,,0,0,0,,Would you buy another one, or are\Nyou looking at something else now?
+Dialogue: 0,0:07:53.28,0:07:54.53,Doc,,0,0,0,,Tell me in the comments.
+Dialogue: 0,0:07:54.58,0:07:55.81,Doc,,0,0,0,,And if you want straight-talking,
+Dialogue: 0,0:07:55.86,0:07:58.85,Doc,,0,0,0,,numbers-first videos about what's\Nreally happening in the Australian car
+Dialogue: 0,0:07:58.90,0:08:00.45,Doc,,0,0,0,,market, hit subscribe.
+Dialogue: 0,0:08:00.50,0:08:02.28,Doc,,0,0,0,,It's free and it really helps.
+Dialogue: 0,0:08:03.07,0:08:05.16,Doc,,0,0,0,,So, is Toyota the next Holden?
+Dialogue: 0,0:08:05.21,0:08:08.56,Doc,,0,0,0,,Let's start with the\Ncase for the prosecution.
+Dialogue: 0,0:08:08.61,0:08:09.66,Doc,,0,0,0,,In May 2026,
+Dialogue: 0,0:08:09.71,0:08:13.78,Doc,,0,0,0,,CarsGuide's Stephen Ottley wrote\Nthe column that started this debate.
+Dialogue: 0,0:08:13.83,0:08:17.80,Doc,,0,0,0,,His argument was that Toyota risks\Nrepeating Holden's mistakes relying on its
+Dialogue: 0,0:08:17.85,0:08:21.14,Doc,,0,0,0,,badge and on updated versions\Nof familiar nameplates,
+Dialogue: 0,0:08:21.19,0:08:24.44,Doc,,0,0,0,,while Chinese brands pour into the\Nmarket with all-new cars at a ferocious
+Dialogue: 0,0:08:24.49,0:08:25.46,Doc,,0,0,0,,pace.
+Dialogue: 0,0:08:25.51,0:08:28.78,Doc,,0,0,0,,He wrote that "there are no guarantees\Nin this business and fortunes can
+Dialogue: 0,0:08:28.83,0:08:33.50,Doc,,0,0,0,,suddenly change for even the biggest\Nbrand." There's evidence to support that
+Dialogue: 0,0:08:33.55,0:08:34.03,Doc,,0,0,0,,worry.
+Dialogue: 0,0:08:34.08,0:08:38.10,Doc,,0,0,0,,Chinese brands now offer far more\Nelectric and plug-in hybrid choices,
+Dialogue: 0,0:08:38.15,0:08:41.14,Doc,,0,0,0,,often with more power and\Nmore equipment for less money.
+Dialogue: 0,0:08:41.19,0:08:45.38,Doc,,0,0,0,,The number of Chinese models on sale in\NAustralia is expected to grow from 72
+Dialogue: 0,0:08:45.43,0:08:48.64,Doc,,0,0,0,,to around 120 by 2027.
+Dialogue: 0,0:08:48.69,0:08:52.78,Doc,,0,0,0,,And the market isn't growing total\Nsales for the first nine months of 2026
+Dialogue: 0,0:08:52.83,0:08:54.92,Doc,,0,0,0,,were almost exactly flat.
+Dialogue: 0,0:08:54.97,0:08:57.74,Doc,,0,0,0,,Every new rival's sale\Nis coming from someone.
+Dialogue: 0,0:08:57.79,0:08:58.88,Doc,,0,0,0,,Price is a big part of it.
+Dialogue: 0,0:08:58.93,0:09:05.50,Doc,,0,0,0,,The cheapest RAV4 plug-in hybrid\Nstarts at $58,840 before on-road
+Dialogue: 0,0:09:05.55,0:09:06.58,Doc,,0,0,0,,costs.
+Dialogue: 0,0:09:06.63,0:09:12.74,Doc,,0,0,0,,GWM's new Haval H7 plug-in hybrid\Nlaunched at $49,990 drive-away
+Dialogue: 0,0:09:12.79,0:09:16.84,Doc,,0,0,0,,with more power, all-wheel drive\Nand a longer claimed electric range.
+Dialogue: 0,0:09:16.89,0:09:19.98,Doc,,0,0,0,,Toyota buyers have always been willing\Nto pay a little more for the badge and
+Dialogue: 0,0:09:20.03,0:09:20.94,Doc,,0,0,0,,the resale.
+Dialogue: 0,0:09:20.99,0:09:24.62,Doc,,0,0,0,,The question is how much more and\Nwhether that gap is now too big.
+Dialogue: 0,0:09:24.67,0:09:25.48,Doc,,0,0,0,,Then there's regulation.
+Dialogue: 0,0:09:25.53,0:09:28.12,Doc,,0,0,0,,Under the New Vehicle Efficiency Standard,
+Dialogue: 0,0:09:28.17,0:09:32.50,Doc,,0,0,0,,the emissions target for utes\Nand vans drops sharply in 2027.
+Dialogue: 0,0:09:32.55,0:09:34.36,Doc,,0,0,0,,Toyota's sales boss, John Pappas,
+Dialogue: 0,0:09:34.41,0:09:36.68,Doc,,0,0,0,,has called those targets\N"really challenging",
+Dialogue: 0,0:09:36.73,0:09:39.88,Doc,,0,0,0,,and Toyota has said it "cannot\Nrule out" price increases.
+Dialogue: 0,0:09:39.93,0:09:43.46,Doc,,0,0,0,,For a brand that sells huge numbers\Nof diesel utes and four-wheel drives,
+Dialogue: 0,0:09:43.51,0:09:44.68,Doc,,0,0,0,,that's a real risk.
+Dialogue: 0,0:09:44.73,0:09:47.42,Doc,,0,0,0,,And there's the question of\Nwhether loyalty is weakening.
+Dialogue: 0,0:09:47.47,0:09:52.62,Doc,,0,0,0,,Toyota's sales of icons like the Prado\Nand Kluger fell hard in 2026 and some
+Dialogue: 0,0:09:52.67,0:09:55.82,Doc,,0,0,0,,of those buyers will have discovered\Nother brands while they waited.
+Dialogue: 0,0:09:55.87,0:09:59.80,Doc,,0,0,0,,Once a buyer tries something else and\Nlikes it, they don't always come back.
+Dialogue: 0,0:09:59.85,0:10:01.74,Doc,,0,0,0,,And the brand count keeps growing.
+Dialogue: 0,0:10:01.79,0:10:05.12,Doc,,0,0,0,,Pappas himself has pointed out that\N"In the past five years the number of
+Dialogue: 0,0:10:05.17,0:10:08.83,Doc,,0,0,0,,brands sold in Australia has grown\Nsignificantly" there are now nearly
+Dialogue: 0,0:10:08.88,0:10:09.42,Doc,,0,0,0,,seventy.
+Dialogue: 0,0:10:09.47,0:10:12.98,Doc,,0,0,0,,Every one of those brands is\Nfighting for a slice of the same pie.
+Dialogue: 0,0:10:13.03,0:10:14.90,Doc,,0,0,0,,Even if Toyota keeps its customers,
+Dialogue: 0,0:10:14.95,0:10:18.85,Doc,,0,0,0,,it will be very hard to win back the\Ntwenty per cent share it had in 2025.
+Dialogue: 0,0:10:19.84,0:10:22.46,Doc,,0,0,0,,Now, the case for the\Ndefence and it's strong.
+Dialogue: 0,0:10:22.51,0:10:27.67,Doc,,0,0,0,,First, Toyota says most of the 2026\Ndrop was about supply, not demand.
+Dialogue: 0,0:10:27.72,0:10:33.35,Doc,,0,0,0,,The new-generation RAV4 was delayed\Nfrom August 2025 to April 2026,
+Dialogue: 0,0:10:33.40,0:10:36.55,Doc,,0,0,0,,and there was no full HiLux\Nproduction run in the first quarter.
+Dialogue: 0,0:10:36.60,0:10:38.18,Doc,,0,0,0,,In July, John Pappas said:
+Dialogue: 0,0:10:38.23,0:10:42.47,Doc,,0,0,0,,"This has predominantly been a production\Nand stock related issue." He added:
+Dialogue: 0,0:10:42.52,0:10:46.57,Doc,,0,0,0,,"We don't determine global production."\NToyota secured two extra shipments
+Dialogue: 0,0:10:46.62,0:10:49.24,Doc,,0,0,0,,totalling 30,000 vehicles,\Nand at one stage,
+Dialogue: 0,0:10:49.29,0:10:52.89,Doc,,0,0,0,,wait times for top-selling\Nmodels were three to six months.
+Dialogue: 0,0:10:52.94,0:10:56.61,Doc,,0,0,0,,A brand with empty showrooms because it\Ncan't get enough cars is not the same
+Dialogue: 0,0:10:56.66,0:10:58.37,Doc,,0,0,0,,as a brand nobody wants.
+Dialogue: 0,0:10:58.42,0:11:00.07,Doc,,0,0,0,,There's another telling statistic.
+Dialogue: 0,0:11:00.12,0:11:01.85,Doc,,0,0,0,,In early 2026,
+Dialogue: 0,0:11:01.90,0:11:05.61,Doc,,0,0,0,,accounting firm BDO reported that a\Ntypical Toyota dealer was selling around
+Dialogue: 0,0:11:05.66,0:11:09.25,Doc,,0,0,0,,72 new cars a month the\Nhighest of any major brand.
+Dialogue: 0,0:11:09.30,0:11:11.65,Doc,,0,0,0,,A BYD dealer averaged 48.
+Dialogue: 0,0:11:11.70,0:11:14.93,Doc,,0,0,0,,Toyota's network is still the\Nmost productive in the country.
+Dialogue: 0,0:11:14.98,0:11:17.05,Doc,,0,0,0,,Second, the numbers are already turning.
+Dialogue: 0,0:11:17.10,0:11:21.33,Doc,,0,0,0,,In September, the RAV4 was the\Nsecond-best-selling vehicle in the country,
+Dialogue: 0,0:11:21.38,0:11:25.31,Doc,,0,0,0,,with 4,624 sales up 81 per cent.
+Dialogue: 0,0:11:25.36,0:11:30.21,Doc,,0,0,0,,In October, Pappas said Toyota's order\Nbooks were still "very, very healthy".
+Dialogue: 0,0:11:30.26,0:11:33.33,Doc,,0,0,0,,Asked whether Toyota was planning\Nfor decline, he said: "No.
+Dialogue: 0,0:11:33.38,0:11:34.95,Doc,,0,0,0,,We don't plan to be declining.
+Dialogue: 0,0:11:35.00,0:11:37.11,Doc,,0,0,0,,We plan to continue to grow." Third,
+Dialogue: 0,0:11:37.16,0:11:41.29,Doc,,0,0,0,,and most importantly, Ottley himself\Nsaid the comparison only goes so far.
+Dialogue: 0,0:11:41.34,0:11:42.29,Doc,,0,0,0,,In his words:
+Dialogue: 0,0:11:42.34,0:11:45.35,Doc,,0,0,0,,"Toyota is certainly in no danger\Nof collapsing like Holden did,
+Dialogue: 0,0:11:45.40,0:11:48.23,Doc,,0,0,0,,and it has the tools it needs\Nto reverse its sales skid,
+Dialogue: 0,0:11:48.28,0:11:51.61,Doc,,0,0,0,,but it must act." And the\Ndifferences with Holden are huge.
+Dialogue: 0,0:11:51.66,0:11:55.11,Doc,,0,0,0,,Holden depended on a parent company in\NDetroit that decided it was no longer
+Dialogue: 0,0:11:55.16,0:11:56.59,Doc,,0,0,0,,worth the investment.
+Dialogue: 0,0:11:56.64,0:11:58.85,Doc,,0,0,0,,Toyota is one of the biggest\Ncar makers in the world,
+Dialogue: 0,0:11:58.90,0:12:01.89,Doc,,0,0,0,,with more than twenty years\Nof experience selling hybrids.
+Dialogue: 0,0:12:01.94,0:12:05.79,Doc,,0,0,0,,Holden lost its best-selling product\Nwhen local manufacturing ended.
+Dialogue: 0,0:12:05.84,0:12:08.81,Doc,,0,0,0,,Toyota's best sellers RAV4, HiLux,
+Dialogue: 0,0:12:08.86,0:12:10.67,Doc,,0,0,0,,LandCruiser are all still here,
+Dialogue: 0,0:12:10.72,0:12:14.78,Doc,,0,0,0,,and the RAV4 and HiLux have both just\Nbeen replaced with new generations.
+Dialogue: 0,0:12:15.73,0:12:18.42,Doc,,0,0,0,,So what is Toyota actually\Ndoing to fight back?
+Dialogue: 0,0:12:18.47,0:12:25.40,Doc,,0,0,0,,The new
+Dialogue: 0,0:12:25.45,0:12:27.48,Doc,,0,0,0,,RAV4 is the centrepiece.
+Dialogue: 0,0:12:27.53,0:12:31.86,Doc,,0,0,0,,It arrived in 2026 with Toyota's\Nfirst-ever RAV4 plug-in hybrid,
+Dialogue: 0,0:12:31.91,0:12:32.65,Doc,,0,0,0,,and in July,
+Dialogue: 0,0:12:32.70,0:12:38.70,Doc,,0,0,0,,plug-in hybrids made up 39 per\Ncent of RAV4 sales about 2,170 cars
+Dialogue: 0,0:12:38.75,0:12:41.20,Doc,,0,0,0,,making it the best-selling\Nplug-in hybrid in the country.
+Dialogue: 0,0:12:41.25,0:12:46.39,Doc,,0,0,0,,A cheaper RAV4 GXL plug-in hybrid\Nis due in the first months of 2027.
+Dialogue: 0,0:12:46.44,0:12:52.72,Doc,,0,0,0,,The new HiLux arrived with a 48-volt
+Dialogue: 0,0:12:52.77,0:12:55.43,Doc,,0,0,0,,mild-hybrid diesel and,
+Dialogue: 0,0:12:55.48,0:12:59.05,Doc,,0,0,0,,for the first time,
+Dialogue: 0,0:12:59.10,0:13:02.67,Doc,,0,0,0,,a fully electric version.
+Dialogue: 0,0:13:02.72,0:13:09.00,Doc,,0,0,0,,And Toyota is doing something it rarely
+Dialogue: 0,0:13:09.05,0:13:13.52,Doc,,0,0,0,,needs to do: offering deals.
+Dialogue: 0,0:13:13.57,0:13:15.52,Doc,,0,0,0,,In October 2026,
+Dialogue: 0,0:13:15.57,0:13:20.22,Doc,,0,0,0,,it launched a four-thousand-dollar\Ndeposit bonus on HiLux SR5 models bought
+Dialogue: 0,0:13:20.27,0:13:23.54,Doc,,0,0,0,,through Toyota Finance a move\NCarsGuide described as rare.
+Dialogue: 0,0:13:23.59,0:13:26.12,Doc,,0,0,0,,Pappas has said Toyota is\N"targeting a very strong,
+Dialogue: 0,0:13:26.17,0:13:31.68,Doc,,0,0,0,,record fourth quarter sales for\N2026", with extra supply arriving.
+Dialogue: 0,0:13:31.73,0:13:35.00,Doc,,0,0,0,,Toyota has forecast around\N230,000 sales for the year,
+Dialogue: 0,0:13:35.05,0:13:37.98,Doc,,0,0,0,,and expects its sales\Nto stabilise in 2027.
+Dialogue: 0,0:13:38.03,0:13:42.47,Doc,,0,0,0,,And it still expects to finish 2026\Nas Australia's number one brand.
+Dialogue: 0,0:13:42.52,0:13:46.59,Doc,,0,0,0,,Toyota has also set a target for thirty\Nper cent of its sales to be zero- or
+Dialogue: 0,0:13:46.64,0:13:48.80,Doc,,0,0,0,,low-emission vehicles by 2030,
+Dialogue: 0,0:13:48.85,0:13:51.36,Doc,,0,0,0,,and it has hybrids in almost\Nevery part of the market,
+Dialogue: 0,0:13:51.41,0:13:54.10,Doc,,0,0,0,,from the Yaris Cross to\Nthe LandCruiser Prado.
+Dialogue: 0,0:13:54.15,0:13:57.58,Doc,,0,0,0,,That matters, because the emissions\Nrules reward exactly the kinds of cars
+Dialogue: 0,0:13:57.63,0:14:00.00,Doc,,0,0,0,,Toyota has spent two decades perfecting.
+Dialogue: 0,0:14:00.05,0:14:02.24,Doc,,0,0,0,,That's not the behaviour\Nof a company in denial.
+Dialogue: 0,0:14:02.29,0:14:05.97,Doc,,0,0,0,,It's the behaviour of a giant that's\Nbeen badly bruised and knows it.
+Dialogue: 0,0:14:06.65,0:14:10.50,Doc,,0,0,0,,So what does this mean if you own a\NToyota, or you're thinking of buying one?
+Dialogue: 0,0:14:10.55,0:14:13.66,Doc,,0,0,0,,If you already own a Toyota,\Nthere's no reason to panic.
+Dialogue: 0,0:14:13.71,0:14:17.22,Doc,,0,0,0,,Toyota has one of the biggest dealer\Nand service networks in the country,
+Dialogue: 0,0:14:17.27,0:14:20.64,Doc,,0,0,0,,and its cars still hold their value\Nbetter than almost anything else on the
+Dialogue: 0,0:14:20.69,0:14:21.48,Doc,,0,0,0,,market.
+Dialogue: 0,0:14:21.53,0:14:25.10,Doc,,0,0,0,,Nothing in Toyota's 2026\Nnumbers changes your warranty,
+Dialogue: 0,0:14:25.15,0:14:27.26,Doc,,0,0,0,,your servicing or your parts supply.
+Dialogue: 0,0:14:27.31,0:14:29.90,Doc,,0,0,0,,If you're buying, this could\Nactually be your moment.
+Dialogue: 0,0:14:29.95,0:14:34.02,Doc,,0,0,0,,For years, Toyota buyers paid full\Nprice and waited months for a car.
+Dialogue: 0,0:14:34.07,0:14:37.16,Doc,,0,0,0,,Now supply is improving,\Nthe competition is fierce,
+Dialogue: 0,0:14:37.21,0:14:40.24,Doc,,0,0,0,,and Toyota is offering deals\Nit rarely offered before.
+Dialogue: 0,0:14:40.29,0:14:42.00,Doc,,0,0,0,,Ask for a written drive-away price,
+Dialogue: 0,0:14:42.05,0:14:45.86,Doc,,0,0,0,,compare it with a Chinese rival, and\Nuse that comparison to negotiate.
+Dialogue: 0,0:14:45.91,0:14:49.76,Doc,,0,0,0,,A brand that has lost market share\Nneeds your sale more than it used to.
+Dialogue: 0,0:14:49.81,0:14:51.46,Doc,,0,0,0,,But keep an eye on resale.
+Dialogue: 0,0:14:51.51,0:14:55.52,Doc,,0,0,0,,Toyota's famous resale values depend\Non strong demand for used Toyotas.
+Dialogue: 0,0:14:55.57,0:14:57.56,Doc,,0,0,0,,If more buyers switch to other brands,
+Dialogue: 0,0:14:57.61,0:15:00.56,Doc,,0,0,0,,and if new Toyota prices rise\Nbecause of emissions rules,
+Dialogue: 0,0:15:00.61,0:15:02.08,Doc,,0,0,0,,the used market could change too.
+Dialogue: 0,0:15:02.13,0:15:04.98,Doc,,0,0,0,,It hasn't happened yet\Nbut it's worth watching.
+Dialogue: 0,0:15:05.03,0:15:07.02,Doc,,0,0,0,,And if you've been waiting\Nmonths for a Toyota,
+Dialogue: 0,0:15:07.07,0:15:09.34,Doc,,0,0,0,,now is a good time to\Ncall the dealer again.
+Dialogue: 0,0:15:09.39,0:15:12.58,Doc,,0,0,0,,With extra shipments arriving\Nand a record quarter targeted,
+Dialogue: 0,0:15:12.63,0:15:14.96,Doc,,0,0,0,,stock should be better than\Nat any point this year.
+Dialogue: 0,0:15:15.01,0:15:18.88,Doc,,0,0,0,,Ask whether a demonstrator or an earlier\Nbuild is available it can save you
+Dialogue: 0,0:15:18.93,0:15:19.77,Doc,,0,0,0,,time and money.
+Dialogue: 0,0:15:20.52,0:15:23.17,Doc,,0,0,0,,So, is Toyota the next Holden?
+Dialogue: 0,0:15:23.22,0:15:26.85,Doc,,0,0,0,,On the evidence, no not\Nyet, and probably not soon.
+Dialogue: 0,0:15:26.90,0:15:30.11,Doc,,0,0,0,,Toyota is still the biggest\Nbrand in Australia by a long way.
+Dialogue: 0,0:15:30.16,0:15:31.79,Doc,,0,0,0,,Its biggest models are brand new,
+Dialogue: 0,0:15:31.84,0:15:34.17,Doc,,0,0,0,,its sales are recovering\Nas supply improves,
+Dialogue: 0,0:15:34.22,0:15:35.21,Doc,,0,0,0,,and it has the money,
+Dialogue: 0,0:15:35.26,0:15:38.95,Doc,,0,0,0,,the technology and the network\Nthat Holden never had at the end.
+Dialogue: 0,0:15:39.00,0:15:41.87,Doc,,0,0,0,,But the era of Toyota's\Neasy dominance is over.
+Dialogue: 0,0:15:41.92,0:15:46.09,Doc,,0,0,0,,A Chinese brand came within 243\Ncars of it in a single month.
+Dialogue: 0,0:15:46.14,0:15:50.13,Doc,,0,0,0,,Its market share has fallen from around\Ntwenty per cent to under seventeen.
+Dialogue: 0,0:15:50.18,0:15:52.00,Doc,,0,0,0,,And the competition is\Nonly getting stronger.
+Dialogue: 0,0:15:52.05,0:15:54.17,Doc,,0,0,0,,Here are the warning signs to watch.
+Dialogue: 0,0:15:54.22,0:15:57.77,Doc,,0,0,0,,If Toyota's share falls below\Nfifteen per cent for a full year.
+Dialogue: 0,0:15:57.82,0:16:01.97,Doc,,0,0,0,,If BYD or another rival beats\NToyota in a full calendar month.
+Dialogue: 0,0:16:02.02,0:16:04.69,Doc,,0,0,0,,If Toyota starts cutting\Nmodels without replacements.
+Dialogue: 0,0:16:04.74,0:16:07.35,Doc,,0,0,0,,Or if its famous resale\Nvalues start to slip.
+Dialogue: 0,0:16:07.40,0:16:09.37,Doc,,0,0,0,,Any one of those would be a big story.
+Dialogue: 0,0:16:09.42,0:16:10.89,Doc,,0,0,0,,Two or three together would be a crisis.
+Dialogue: 0,0:16:10.94,0:16:16.11,Doc,,0,0,0,,If this helped, hit like, subscribe and\Nshare it with a Toyota owner you know.
+Dialogue: 0,0:16:16.16,0:16:19.69,Doc,,0,0,0,,Tell me in the comments: will\NToyota still be number one in 2030?
+Dialogue: 0,0:16:19.74,0:16:20.81,Doc,,0,0,0,,And in the next video,
+Dialogue: 0,0:16:20.86,0:16:24.11,Doc,,0,0,0,,we're looking at the Chinese luxury\Nfour-wheel drive that just made the Toyota
+Dialogue: 0,0:16:24.16,0:16:25.93,Doc,,0,0,0,,Prado look overpriced.
+Dialogue: 0,0:16:25.98,0:16:26.78,Doc,,0,0,0,,See you there.

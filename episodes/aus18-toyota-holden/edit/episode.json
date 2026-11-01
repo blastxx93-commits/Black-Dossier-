@@ -1,0 +1,1582 @@
+{
+ "output": "AUS18_Toyota_Holden.mp4",
+ "fps": 24,
+ "music": [
+  {
+   "file": "trilha.wav",
+   "start": 0,
+   "gain": -29,
+   "fade_in": 4,
+   "fade_out": 5
+  }
+ ],
+ "chapters": [
+  {
+   "audio": "audio/ch00_hook.flac",
+   "lead_in": 0,
+   "tail": 0.6,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/m_rav4/1_commons.jpg",
+     "move": "in",
+     "caption": "243|cars between Toyota and BYD \u00b7 June 2026",
+     "dur": 9.22,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_sealion7/1_commons.jpg",
+     "move": "left",
+     "caption": "BYD|18,881 sales in June",
+     "dur": 6.56,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_lc300/3_commons.jpg",
+     "move": "right",
+     "caption": "Toyota|#1 in Australia since 2003",
+     "dur": 5.2,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_holden_old/1_commons.jpg",
+     "move": "in",
+     "caption": "Holden|Australia's own",
+     "dur": 6.18,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_commodore/3_commons.jpg",
+     "move": "left",
+     "caption": "Holden|retired 2020",
+     "dur": 1.02,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "-24.6%",
+     "label": "Toyota sales \u00b7 Jan\u2013May 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarExpert",
+     "color": "red",
+     "dur": 6.4,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_prado/1_commons.jpg",
+     "move": "in",
+     "caption": "Toyota Prado|-64% in May",
+     "dur": 12.36,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"Toyota is the new Holden \u2013 not in a good way.\" \u2013 CarsGuide",
+     "highlight": "NEW HOLDEN",
+     "size": 95,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.06,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "Is Toyota the Next Holden?",
+     "subtitle": "the real numbers",
+     "tag": "Australia 2026",
+     "bg": "a/h_toyota_dealer/1_commons.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 7.98,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_city/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.76,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_suv/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.251,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch01.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_ute/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.26,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "241,296",
+     "label": "Toyota sales in Australia \u00b7 2024 record",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarExpert",
+     "dur": 9.24,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "1 in 5",
+     "label": "new vehicles sold in 2025 was a Toyota",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarsGuide",
+     "dur": 6.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_suv/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.2,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_offroad/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 10.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_outback/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.94,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_hilux/3_commons.jpg",
+     "move": "in",
+     "caption": "Toyota HiLux",
+     "dur": 9.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_lc70/1_commons.jpg",
+     "move": "right",
+     "caption": "LandCruiser 70",
+     "dur": 10.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_outback/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.08,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Value kept after 2 years",
+     "items": [
+      [
+       "RAV4",
+       88
+      ],
+      [
+       "LandCruiser",
+       88
+      ],
+      [
+       "HiLux",
+       85
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "%",
+     "source": "Pickles / Datium \u00b7 2025",
+     "dur": 10.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ship/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.34,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ute/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.918,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch02.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "The 2026 Slide",
+     "subtitle": "in Toyota's own numbers",
+     "tag": "the data",
+     "bg": "a/h_toyota_dealer/3_commons.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 13.4,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Toyota market share",
+     "items": [
+      [
+       "2025 (to May)",
+       20.7
+      ],
+      [
+       "2026 (to May)",
+       16.0,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "%",
+     "source": "CarExpert",
+     "dur": 8.04,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Toyota models \u00b7 Jan\u2013May 2026",
+     "items": [
+      [
+       "Prado",
+       -45.0
+      ],
+      [
+       "RAV4",
+       -47.1
+      ],
+      [
+       "Yaris",
+       -44.4
+      ],
+      [
+       "Kluger",
+       -39.9
+      ],
+      [
+       "Yaris Cross",
+       -31.7
+      ],
+      [
+       "HiLux",
+       -13.2
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "%",
+     "source": "CarExpert",
+     "dur": 10.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ute/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 15.84,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_lc70/3_commons.jpg",
+     "move": "in",
+     "caption": "LandCruiser 70 ute|-82%",
+     "dur": 3.6,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"\u2026reflects lower supply on this very popular model.\" \u2013 Toyota",
+     "highlight": "LOWER SUPPLY",
+     "size": 95,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 11.224,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_lc300/1_commons.jpg",
+     "move": "left",
+     "caption": "LandCruiser wagons|+29.3% Jan\u2013May",
+     "dur": 11.456,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Toyota \u00b7 Jan\u2013Sept",
+     "items": [
+      [
+       "2025",
+       181860
+      ],
+      [
+       "2026",
+       152944,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "VFACTS via CarExpert",
+     "dur": 10.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev_charge/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 12.56,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_offroad/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.095,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch03.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_city/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.17,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "June 2026",
+     "items": [
+      [
+       "Toyota",
+       19124
+      ],
+      [
+       "BYD",
+       18881,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "VFACTS",
+     "dur": 10.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev_charge/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.07,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_sealion7/3_commons.jpg",
+     "move": "in",
+     "caption": "BYD|13.5% share in June",
+     "dur": 10.32,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"\u2026shifted on its axis\u2026\" \u2013 Tony Weber, FCAI",
+     "highlight": "AXIS",
+     "size": 115,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 8.58,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_dealer/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.05,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "September 2026",
+     "items": [
+      [
+       "Toyota",
+       17682
+      ],
+      [
+       "BYD",
+       8191
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "VFACTS",
+     "dur": 10.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_hybrid/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.777,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "38.9%",
+     "label": "of new cars were built in China \u00b7 Sept 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Cars24 / VFACTS",
+     "dur": 10.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_suv/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.033,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Japanese brands \u00b7 Jan\u2013Sept 2026",
+     "items": [
+      [
+       "Toyota",
+       -15.9
+      ],
+      [
+       "Mazda",
+       -16.2
+      ],
+      [
+       "Subaru",
+       -29.3
+      ],
+      [
+       "Mitsubishi",
+       -30.2
+      ],
+      [
+       "Nissan",
+       -33.3
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "%",
+     "source": "VFACTS via CarExpert",
+     "dur": 10.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_dealer/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.56,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_outlander/1_commons.jpg",
+     "move": "right",
+     "caption": "Mitsubishi|-30.2%",
+     "dur": 5.967,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch04.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "How Holden Fell",
+     "subtitle": "the lesson",
+     "tag": "history",
+     "bg": "a/h_holden_dealer/1_commons.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 8.42,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_commodore/1_commons.jpg",
+     "move": "in",
+     "caption": "Holden Commodore",
+     "dur": 3.02,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_race/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.26,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "2003 \u00b7 Toyota takes #1",
+      "2013 \u00b7 local manufacturing to end",
+      "2017 \u00b7 last Aussie Commodore",
+      "2020 \u00b7 Holden retired"
+     ],
+     "starts": [
+      0,
+      300,
+      384,
+      574
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 12.54
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 16.040000000000003
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 23.94
+      }
+     ],
+     "dur": 36.72,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"\u2026could not prioritize the investment required for Holden\u2026\" \u2013 GM",
+     "highlight": "INVESTMENT",
+     "size": 92,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 6.88,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_holden_monaro/1_commons.jpg",
+     "move": "left",
+     "dur": 2.29,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_highway/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 12.45,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_dealer/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 10.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_highway/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.634,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch05.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_family/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.68,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Do you own a Toyota?",
+     "sub": "would you buy another? comments",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 6.28,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Subscribe",
+     "sub": "numbers-first car videos",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 3.631,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch06.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "The Case For",
+     "subtitle": "'the next Holden'",
+     "tag": "prosecution",
+     "bg": "a/h_traffic/2_pixabay.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 22.86,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"\u2026there are no guarantees in this business\u2026\" \u2013 Stephen Ottley, CarsGuide",
+     "highlight": "NO GUARANTEES",
+     "size": 88,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 15.14,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "72 \u2192 120",
+     "label": "Chinese models on sale by 2027",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Cars24",
+     "dur": 10.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_highway/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.6,
+     "fixed": true
+    },
+    {
+     "type": "price",
+     "model": "Plug-in hybrid SUVs",
+     "old": "$58,840",
+     "new": "$49,990",
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.6
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.0
+      }
+     ],
+     "old_note": "RAV4 PHEV + ORC",
+     "new_note": "Haval H7 drive-away",
+     "source": "Toyota / GWM",
+     "dur": 8.84,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_h7/1_commons.jpg",
+     "move": "in",
+     "dur": 10.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_highway/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.04,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "NVES target \u00b7 utes & vans",
+     "items": [
+      [
+       "2026",
+       180
+      ],
+      [
+       "2027",
+       150,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": " g/km",
+     "source": "Federal government",
+     "dur": 13.06,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Toyota \"cannot rule out\" price increases",
+     "highlight": "CANNOT RULE OUT",
+     "size": 100,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_hybrid/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 15.12,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "~70",
+     "label": "car brands in Australia",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Toyota Australia",
+     "dur": 10.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_outback/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 10.112,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch07.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "The Case Against",
+     "subtitle": "Toyota's side",
+     "tag": "defence",
+     "bg": "a/ai/ai_family_suv_1.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 18.27,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"\u2026predominantly a production and stock related issue.\" \u2013 John Pappas, Toyota",
+     "highlight": "PRODUCTION",
+     "size": 88,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 6.35,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_port/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 13.84,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "New cars sold per dealer, per month",
+     "items": [
+      [
+       "Toyota",
+       72
+      ],
+      [
+       "BYD",
+       48
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "BDO \u00b7 early 2026",
+     "dur": 10.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_suv/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.56,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "4,624",
+     "label": "Toyota RAV4 \u00b7 Sept 2026 (+81%) \u00b7 #2 in Australia",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "VFACTS",
+     "dur": 10.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_factory/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.4,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"We don't plan to be declining. We plan to continue to grow.\" \u2013 Pappas",
+     "highlight": "GROW",
+     "size": 90,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 8.96,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"Toyota is certainly in no danger of collapsing like Holden did\u2026\" \u2013 Ottley",
+     "highlight": "NO DANGER",
+     "size": 88,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 7.18,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_kluger/3_commons.jpg",
+     "move": "up",
+     "dur": 10.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_race/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.32,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_rav4_old/1_commons.jpg",
+     "move": "in",
+     "caption": "Toyota RAV4 PHEV",
+     "dur": 10.009,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch08.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/m_yaris_cross/3_commons.jpg",
+     "move": "out",
+     "dur": 10.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_city/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.85,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "39%",
+     "label": "of RAV4 sales were plug-in hybrid \u00b7 July 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarExpert",
+     "dur": 8.55,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_rav4_old/3_commons.jpg",
+     "move": "left",
+     "caption": "RAV4 GXL PHEV|early 2027",
+     "dur": 5.185,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_offroad/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 10.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_traffic/4_pixabay.jpg",
+     "move": "out",
+     "dur": 15.326,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "$4,000",
+     "label": "HiLux SR5 deposit bonus \u00b7 Toyota Finance",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarsGuide",
+     "dur": 10.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_outback/1_commons.jpg",
+     "move": "down",
+     "dur": 9.969,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "~230,000",
+     "label": "Toyota's 2026 sales forecast",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Toyota / CarExpert",
+     "dur": 10.79,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_yaris/3_commons.jpg",
+     "move": "down",
+     "dur": 10.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_outback/2_pixabay.jpg",
+     "move": "in",
+     "dur": 7.53,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_dealer/2_pixabay.jpg",
+     "move": "in",
+     "dur": 6.719,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch09.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "Toyota Owners & Buyers",
+     "subtitle": "what to do",
+     "tag": "advice",
+     "bg": "a/h_dealer/3_commons.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 3.78,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_keys/1_pixabay.jpg",
+     "move": "out",
+     "dur": 10.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_outback/3_commons.jpg",
+     "move": "left",
+     "dur": 6.76,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_money/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 10.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_outback/4_pixabay.jpg",
+     "move": "out",
+     "dur": 8.6,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "They need your sale more than before.",
+     "highlight": "YOUR SALE",
+     "size": 115,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.9,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_factory/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 15.22,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_keys/2_pixabay.jpg",
+     "move": "right",
+     "dur": 15.612,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch10.flac",
+   "lead_in": 0,
+   "tail": 2.5,
+   "shots": [
+    {
+     "type": "statement",
+     "text": "Is Toyota the next Holden?",
+     "highlight": "NEXT HOLDEN",
+     "size": 125,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 2.58,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Not yet.",
+     "highlight": "NOT YET",
+     "size": 160,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 15.78,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_keys/3_pixabay.jpg",
+     "move": "in",
+     "dur": 15.22,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Share below 15% for a year",
+      "A rival wins a full month",
+      "Models cut, no replacement",
+      "Resale values slip"
+     ],
+     "starts": [
+      0,
+      86,
+      187,
+      252
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 3.5999999999999943
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 7.799999999999997
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 10.519999999999996
+      }
+     ],
+     "dur": 15.2,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_hybrid/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 1.52,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Like \u00b7 Subscribe \u00b7 Share",
+     "sub": "with a Toyota owner you know",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 6.26,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Toyota #1 in 2030?",
+     "sub": "comments",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 2.62,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "The Prado Just Got Undercut",
+     "subtitle": "next video",
+     "tag": "coming up",
+     "bg": "a/ai/ai_ute_farm_1.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 9.469,
+     "fixed": false,
+     "fade_out": 0
+    }
+   ]
+  }
+ ],
+ "size": [
+  1920,
+  1080
+ ],
+ "subtitles": "AUS18.ass"
+}
