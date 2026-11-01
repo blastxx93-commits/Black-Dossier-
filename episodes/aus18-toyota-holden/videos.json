@@ -1,0 +1,125 @@
+{
+ "defaults": {
+  "n": 4,
+  "clip": 8,
+  "sources": [
+   "coverr",
+   "pixabay",
+   "pexels"
+  ]
+ },
+ "shots": [
+  {
+   "id": "v_suv",
+   "query": "suv driving road",
+   "alt": [
+    "family suv"
+   ]
+  },
+  {
+   "id": "v_offroad",
+   "query": "4x4 off road",
+   "alt": [
+    "land cruiser off road"
+   ]
+  },
+  {
+   "id": "v_ute",
+   "query": "pickup truck driving",
+   "alt": [
+    "4x4 ute"
+   ]
+  },
+  {
+   "id": "v_outback",
+   "query": "outback road car",
+   "alt": [
+    "desert road car"
+   ]
+  },
+  {
+   "id": "v_dealer",
+   "query": "car dealership",
+   "alt": [
+    "car showroom"
+   ]
+  },
+  {
+   "id": "v_factory",
+   "query": "car factory",
+   "alt": [
+    "assembly line"
+   ]
+  },
+  {
+   "id": "v_ship",
+   "query": "car carrier ship",
+   "alt": [
+    "cargo ship"
+   ]
+  },
+  {
+   "id": "v_port",
+   "query": "cars port terminal",
+   "alt": [
+    "car terminal"
+   ]
+  },
+  {
+   "id": "v_city",
+   "query": "city traffic",
+   "alt": [
+    "traffic aerial"
+   ]
+  },
+  {
+   "id": "v_highway",
+   "query": "highway aerial cars",
+   "alt": [
+    "motorway"
+   ]
+  },
+  {
+   "id": "v_race",
+   "query": "race cars track",
+   "alt": [
+    "motorsport racing"
+   ]
+  },
+  {
+   "id": "v_ev_charge",
+   "query": "electric car charging",
+   "alt": [
+    "ev charger"
+   ]
+  },
+  {
+   "id": "v_money",
+   "query": "counting money",
+   "alt": [
+    "cash"
+   ]
+  },
+  {
+   "id": "v_keys",
+   "query": "car keys",
+   "alt": [
+    "handing keys"
+   ]
+  },
+  {
+   "id": "v_family",
+   "query": "family car trip",
+   "alt": [
+    "family loading car"
+   ]
+  },
+  {
+   "id": "v_hybrid",
+   "query": "car dashboard driving",
+   "alt": [
+    "driving car interior"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,231 @@
+{
+ "defaults": {
+  "n": 4,
+  "sources": [
+   "commons",
+   "pixabay"
+  ]
+ },
+ "shots": [
+  {
+   "id": "m_rav4",
+   "query": "Toyota RAV4 2026",
+   "alt": [
+    "Toyota RAV4 sixth generation"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_rav4_old",
+   "query": "Toyota RAV4 hybrid",
+   "alt": [
+    "Toyota RAV4"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_hilux",
+   "query": "Toyota Hilux 2025",
+   "alt": [
+    "Toyota Hilux ninth generation"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_prado",
+   "query": "Toyota Land Cruiser Prado 250",
+   "alt": [
+    "Toyota Land Cruiser 250"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_lc300",
+   "query": "Toyota Land Cruiser 300",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_lc70",
+   "query": "Toyota Land Cruiser 70",
+   "alt": [
+    "LandCruiser 79"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_kluger",
+   "query": "Toyota Highlander",
+   "alt": [
+    "Toyota Kluger"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_yaris",
+   "query": "Toyota Yaris",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_yaris_cross",
+   "query": "Toyota Yaris Cross",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_corolla",
+   "query": "Toyota Corolla",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_camry",
+   "query": "Toyota Camry",
+   "alt": [
+    "Toyota Camry 2018"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_commodore",
+   "query": "Holden Commodore VF",
+   "alt": [
+    "Holden Commodore"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_holden_old",
+   "query": "Holden Kingswood",
+   "alt": [
+    "Holden HQ"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_holden_monaro",
+   "query": "Holden Monaro",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_sealion7",
+   "query": "BYD Sealion 7",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_atto3",
+   "query": "BYD Atto 3",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_shark6",
+   "query": "BYD Shark 6",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_h7",
+   "query": "Haval H7",
+   "alt": [
+    "GWM Haval H7"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_cx5",
+   "query": "Mazda CX-5",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_outlander",
+   "query": "Mitsubishi Outlander",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "h_toyota_dealer",
+   "query": "Toyota dealership",
+   "alt": [
+    "Toyota showroom"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_holden_dealer",
+   "query": "Holden dealership",
+   "alt": [
+    "Holden sign"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_bathurst",
+   "query": "Bathurst Mount Panorama",
+   "alt": [
+    "Supercars Bathurst"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_altona",
+   "query": "Toyota Altona plant",
+   "alt": [
+    "car factory"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_outback",
+   "query": "outback road australia",
+   "alt": [
+    "red dirt road"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_ship",
+   "query": "car carrier ship",
+   "alt": [
+    "ro-ro ship"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_dealer",
+   "query": "car dealership",
+   "alt": [
+    "car showroom"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_keys",
+   "query": "car keys handover",
+   "alt": [
+    "car key"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_traffic",
+   "query": "sydney traffic",
+   "alt": [
+    "australia traffic"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_calc",
+   "query": "calculator money",
+   "alt": [
+    "budget"
+   ],
+   "n": 4
+  }
+ ]
+}

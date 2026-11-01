@@ -1,0 +1,35 @@
+{
+ "model": "black-forest-labs/flux-1.1-pro-ultra",
+ "raw": true,
+ "n": 1,
+ "style": ", modern Australian documentary photograph, 2026, natural light, realistic, sharp, cinematic colour grade, no logos, no badges, no readable text, no brand names",
+ "shots": [
+  {
+   "id": "ai_toyota_yard",
+   "prompt": "A large Australian car dealership yard full of white family SUVs and dual-cab utes at dusk, few customers, no readable text, no logos, no badges"
+  },
+  {
+   "id": "ai_closed_dealer",
+   "prompt": "An old abandoned car dealership building in an Australian country town, faded paint, empty forecourt, no readable text, no logos"
+  },
+  {
+   "id": "ai_two_showrooms",
+   "prompt": "Two car showrooms side by side on an Australian street, one busy with customers and new electric SUVs, the other quiet, no readable text, no logos"
+  },
+  {
+   "id": "ai_family_suv",
+   "prompt": "An Australian family loading a white mid-size SUV in a suburban driveway, morning light, no readable text, no logos, no badges"
+  },
+  {
+   "id": "ai_ute_farm",
+   "prompt": "A white dual-cab ute parked on an Australian farm at sunset with a farmer leaning on it, no readable text, no logos, no badges"
+  },
+  {
+   "id": "persona_toyota",
+   "prompt": "Waist-up portrait of a fictional Australian man in his 50s with short grey hair and a grey beard, wearing a plain navy blue crew-neck sweater (never green), worried serious expression, one hand on his chin, looking straight at the camera",
+   "style": ", photorealistic studio portrait photograph, sharp focus on the face, even soft lighting, plain solid bright chroma green background #00FF00 filling the whole frame, no shadows on the background, no text, no logos",
+   "guard": "fictional",
+   "n": 2
+  }
+ ]
+}
