@@ -81,3 +81,8 @@ As duas contam a mesma promessa do título, cada uma do seu jeito.
 - Thumbnail: fundo com mais contraste e leve desfoque; persona masculina fictícia (IA) com a expressão do tema; texto curto.
 
 - A partir do vídeo 8: pautas pensando em 2027 (o que muda para quem compra/tem carro em 2027: preços, leis, impostos, lançamentos), sempre com fonte e data.
+
+## Abertura do vídeo (pedido do dono, 01/11/2026)
+- O vídeo começa SEMPRE com imagem de carro – nunca com gráfico, número em tela preta ou frase.
+- Primeiros ~10–15 s: só fotos/clipes de carros (o carro do gancho, de preferência), com o número de impacto como legenda por cima da imagem.
+- Gráficos, barras e frases em tela entram só depois do gancho.
