@@ -1,0 +1,123 @@
+[     0s] aus18-toyota-holden: 30 planos, limite 35.0 min
+[     0s] m_rav4: 'Toyota RAV4 2026'
+[     1s]     commons: 12 candidatos em 0.7s
+[     1s]     pixabay: 12 candidatos em 0.4s
+[     4s]   -> 4 imagens
+[     4s] m_rav4_old: 'Toyota RAV4 hybrid'
+[     5s]     commons: 12 candidatos em 0.6s
+[     5s]     pixabay: 12 candidatos em 0.3s
+[     8s]   -> 4 imagens
+[     8s] m_hilux: 'Toyota Hilux 2025'
+[     9s]     commons: 12 candidatos em 0.7s
+[     9s]     pixabay: 12 candidatos em 0.2s
+[    12s]   -> 4 imagens
+[    12s] m_prado: 'Toyota Land Cruiser Prado 250'
+[    13s]     commons: 12 candidatos em 0.7s
+[    13s]     pixabay: 12 candidatos em 0.3s
+[    16s]   -> 4 imagens
+[    16s] m_lc300: 'Toyota Land Cruiser 300'
+[    17s]     commons: 12 candidatos em 0.6s
+[    17s]     pixabay: 12 candidatos em 0.2s
+[    20s]   -> 4 imagens
+[    20s] m_lc70: 'Toyota Land Cruiser 70'
+[    21s]     commons: 10 candidatos em 0.9s
+[    21s]     pixabay: 12 candidatos em 0.2s
+[    24s]   -> 4 imagens
+[    24s] m_kluger: 'Toyota Highlander'
+[    25s]     commons: 12 candidatos em 0.7s
+[    25s]     pixabay: 12 candidatos em 0.1s
+[    28s]   -> 4 imagens
+[    28s] m_yaris: 'Toyota Yaris'
+[    29s]     commons: 12 candidatos em 0.9s
+[    29s]     pixabay: 12 candidatos em 0.3s
+[    32s]   -> 4 imagens
+[    32s] m_yaris_cross: 'Toyota Yaris Cross'
+[    33s]     commons: 12 candidatos em 0.4s
+[    33s]     pixabay: 12 candidatos em 0.2s
+[    36s]   -> 4 imagens
+[    36s] m_corolla: 'Toyota Corolla'
+[    37s]     commons: 12 candidatos em 0.5s
+[    37s]     pixabay: 12 candidatos em 0.2s
+[    40s]   -> 4 imagens
+[    40s] m_camry: 'Toyota Camry'
+[    64s]   ! commons.wikimedia.org: 429 rate limit
+[    64s]     commons: 0 candidatos em 24.1s
+[    64s]     pixabay: 12 candidatos em 0.4s
+[    67s]   -> 4 imagens
+[    67s] m_commodore: 'Holden Commodore VF'
+[    68s]     commons: 12 candidatos em 1.0s
+[    68s]     pixabay: 12 candidatos em 0.2s
+[    71s]   -> 4 imagens
+[    71s] m_holden_old: 'Holden Kingswood'
+[    72s]     commons: 12 candidatos em 0.9s
+[    72s]     pixabay: 7 candidatos em 0.2s
+[    76s]   -> 4 imagens
+[    76s] m_holden_monaro: 'Holden Monaro'
+[    76s]     commons: 12 candidatos em 0.5s
+[    76s]     pixabay: 6 candidatos em 0.2s
+[    80s]   -> 4 imagens
+[    80s] m_sealion7: 'BYD Sealion 7'
+[    80s]     commons: 12 candidatos em 0.5s
+[    80s]     pixabay: 12 candidatos em 0.2s
+[    83s]   -> 4 imagens
+[    83s] m_atto3: 'BYD Atto 3'
+[    84s]     commons: 12 candidatos em 0.4s
+[    84s]     pixabay: 12 candidatos em 0.2s
+[    86s]   -> 4 imagens
+[    86s] m_shark6: 'BYD Shark 6'
+[    87s]     commons: 12 candidatos em 0.4s
+[    87s]     pixabay: 12 candidatos em 0.2s
+[    90s]   -> 4 imagens
+[    90s] m_h7: 'Haval H7'
+[    91s]     commons: 12 candidatos em 0.9s
+[    91s]     pixabay: 1 candidatos em 0.2s
+[    94s]   -> 4 imagens
+[    94s] m_cx5: 'Mazda CX-5'
+[    95s]     commons: 12 candidatos em 0.6s
+[    95s]     pixabay: 12 candidatos em 0.2s
+[    99s]   -> 4 imagens
+[    99s] m_outlander: 'Mitsubishi Outlander'
+[   100s]     commons: 12 candidatos em 0.8s
+[   100s]     pixabay: 12 candidatos em 0.2s
+[   103s]   -> 4 imagens
+[   103s] h_toyota_dealer: 'Toyota dealership'
+[   104s]     commons: 10 candidatos em 1.1s
+[   104s]     pixabay: 12 candidatos em 0.2s
+[   107s]   -> 4 imagens
+[   107s] h_holden_dealer: 'Holden dealership'
+[   116s]     commons: 12 candidatos em 9.1s
+[   117s]     pixabay: 12 candidatos em 0.3s
+[   122s]   -> 4 imagens
+[   122s] h_bathurst: 'Bathurst Mount Panorama'
+[   123s]     commons: 10 candidatos em 1.0s
+[   123s]     pixabay: 12 candidatos em 0.2s
+[   126s]   -> 4 imagens
+[   126s] h_altona: 'Toyota Altona plant'
+[   126s]     commons: 3 candidatos em 0.8s
+[   127s]     pixabay: 12 candidatos em 0.3s
+[   130s]   -> 4 imagens
+[   130s] h_outback: 'outback road australia'
+[   131s]     commons: 11 candidatos em 1.0s
+[   131s]     pixabay: 12 candidatos em 0.2s
+[   135s]   -> 4 imagens
+[   135s] h_ship: 'car carrier ship'
+[   135s]     commons: 11 candidatos em 0.8s
+[   136s]     pixabay: 12 candidatos em 0.2s
+[   139s]   -> 4 imagens
+[   139s] h_dealer: 'car dealership'
+[   140s]     commons: 11 candidatos em 0.8s
+[   140s]     pixabay: 12 candidatos em 0.2s
+[   143s]   -> 4 imagens
+[   143s] h_keys: 'car keys handover'
+[   143s]     commons: 0 candidatos em 0.1s
+[   143s]     pixabay: 12 candidatos em 0.5s
+[   146s]   -> 4 imagens
+[   146s] h_traffic: 'sydney traffic'
+[   147s]     commons: 10 candidatos em 1.1s
+[   147s]     pixabay: 12 candidatos em 0.2s
+[   151s]   -> 4 imagens
+[   151s] h_calc: 'calculator money'
+[   152s]     commons: 9 candidatos em 0.6s
+[   152s]     pixabay: 12 candidatos em 0.2s
+[   155s]   -> 4 imagens
+[   158s] fim: 120 imagens
