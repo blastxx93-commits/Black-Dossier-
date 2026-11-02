@@ -10,20 +10,20 @@ import aus_kit as A
 from aus_kit import P, photo, stat, say, cta, title, ch, questions, rank
 
 PHOTOS = {
-    "p356": ["m_356_police", "m_356", "ai:ai_dutch_356"],
-    "buick": ["m_buick55", "m_buick_police", "h_chp"],
-    "giulia": ["m_giulia"],
-    "sp250": ["m_sp250", "m_sp250_police"],
+    "p356": ["m_356_police", "m_356", "m_356_2", "ai:ai_dutch_356"],
+    "buick": ["m_buick55", "m_buick_police", "m_buick_2", "h_chp"],
+    "giulia": ["m_giulia_polizia_old", "m_giulia", "m_giulia_2"],
+    "sp250": ["m_sp250", "m_sp250_police", "m_sp250_2"],
     "cafe": ["h_cafe_racer", "ai:ai_cafe_racers", "h_london_60s"],
-    "stype": ["m_stype_police", "m_stype"],
-    "mk2": ["m_mk2", "m_mk2_police", "ai:ai_getaway"],
-    "spain": ["m_seat1400", "m_r10"],
-    "polara65": ["m_polara65", "m_polara_chp"],
-    "p911": ["m_911_police", "m_911targa"],
-    "ferrari": ["m_ferrari_police", "m_ferrari_gte", "h_maranello"],
-    "rome": ["h_rome_60s", "h_spanish_steps"],
-    "polara69": ["m_polara69", "m_polara_chp", "ai:ai_proving_ground"],
-    "usa": ["m_buick55", "m_polara65", "ai:ai_police_radio", "ai:ai_gc_motos"],
+    "stype": ["m_stype_police", "m_stype", "m_stype_2"],
+    "mk2": ["m_mk2", "m_mk2_police", "m_mk2_2", "ai:ai_getaway"],
+    "spain": ["m_seat1400", "m_r10", "m_seat1400_2", "m_r10_2"],
+    "polara65": ["m_polara65", "m_polara_chp", "m_dodge_60s", "h_police_us"],
+    "p911": ["m_911_police", "m_911targa", "m_911_2"],
+    "ferrari": ["m_ferrari_police", "m_ferrari_gte", "m_ferrari_2", "h_polizia_museo", "h_maranello"],
+    "rome": ["h_rome_60s", "h_spanish_steps", "h_rome_traffic", "h_polizia_museo"],
+    "polara69": ["m_polara69", "m_dodge_60s", "m_polara_chp", "ai:ai_proving_ground"],
+    "usa": ["h_police_us", "h_la_60s", "m_buick_2", "ai:ai_police_radio", "ai:ai_gc_motos"],
     "europe": ["h_autobahn", "h_london_60s", "h_rome_60s"],
     "tv": ["ai:ai_tv_1950s"],
     "radio": ["ai:ai_police_radio"],
@@ -34,14 +34,14 @@ FALLBACK = {"p356": ["p911", "europe"], "buick": ["usa"], "giulia": ["rome", "eu
             "cafe": ["sp250"], "stype": ["mk2"], "mk2": ["stype"], "spain": ["europe"], "polara65": ["usa", "polara69"],
             "p911": ["p356"], "ferrari": ["rome"], "rome": ["ferrari"], "polara69": ["polara65", "usa"], "usa": ["polara65"],
             "europe": ["p356"], "tv": ["buick"], "radio": ["usa"]}
-RES = ["m_ferrari_police/1", "m_ferrari_police/3", "m_ferrari_police/2", "m_356_police/2", "m_356_police/4", "m_buick_police/1", "m_buick55/5",
+RES = ["m_giulia_polizia_old/1", "m_giulia_polizia_old/5", "m_ferrari_police/1", "m_ferrari_police/3", "m_ferrari_police/2", "m_356_police/2", "m_356_police/4", "m_buick_police/1", "m_buick55/5",
        "m_giulia/3", "m_sp250_police/1", "m_sp250/1", "m_stype_police/4", "m_mk2/3", "m_seat1400/1", "m_r10/1",
        "m_polara65/1", "m_polara_chp/1", "m_911_police/5", "m_911targa/2", "m_ferrari_gte/6", "m_polara69/2", "h_spanish_steps/1",
        "h_maranello/4"]
 A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FALLBACK,
         ["europe", "usa", "p356", "mk2", "polara69"], reserved=RES)
 A.CLIP_TARGET = 0.25
-A.MAX_HOLD, A.KEEP = 12.0, 8.0
+A.MAX_HOLD, A.KEEP = 9.0, 6.0
 A.ARCHIVE_OK = True
 chapters = []
 
@@ -91,10 +91,10 @@ c = ch("ch02")
 c.at(0, P("rome"))
 c.at("Número ocho", rank(8, "Alfa Romeo Giulia Super", "m_giulia", 3, "≈177 km/h", "Polizia · Carabinieri"))
 c.at("Alfa Romeo presentó el Giulia en 1962", P("giulia"))
-c.at("En la Italia de los años sesenta, el Giulia", P("giulia"))
+c.at("En la Italia de los años sesenta, el Giulia", photo("m_giulia_polizia_old", 1, "in", cap="Polizia|Squadra Volante"))
 c.at("El Giulia Super rondaba", P("giulia"))
 c.at("Y además se convirtió en una estrella de cine", P("rome"))
-c.at("Las Volanti italianas", P("giulia"))
+c.at("Las Volanti italianas", photo("m_giulia_polizia_old", 5, "left", cap="Carabinieri|«gazzella»"))
 c.at("Número siete", rank(7, "Daimler SP250", "m_sp250", 1, "+190 km/h", "Policía Metropolitana de Londres"))
 c.at("Principios de los años sesenta. Londres", P("cafe"))
 c.at("Jóvenes en motos rápidas", P("cafe"))

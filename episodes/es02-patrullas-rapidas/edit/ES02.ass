@@ -1,0 +1,378 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Doc,Inter SemiBold,44,&H0000E6FF,&H0000E6FF,&H00000000,&H96000000,0,0,0,0,100,100,0.5,0,1,2.4,1.2,2,200,200,62,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.51,Doc,,0,0,0,,Roma, principios de los años sesenta.
+Dialogue: 0,0:00:02.56,0:00:05.49,Doc,,0,0,0,,Un coche negro sale disparado\Npor las calles del centro.
+Dialogue: 0,0:00:05.54,0:00:08.71,Doc,,0,0,0,,En las puertas lleva dos\Npalabras: Squadra Mobile.
+Dialogue: 0,0:00:08.76,0:00:10.99,Doc,,0,0,0,,Bajo el capó, un motor V12.
+Dialogue: 0,0:00:11.04,0:00:12.07,Doc,,0,0,0,,Es un Ferrari.
+Dialogue: 0,0:00:12.12,0:00:14.59,Doc,,0,0,0,,Y el que va al volante no\Nes un piloto de carreras.
+Dialogue: 0,0:00:14.64,0:00:15.91,Doc,,0,0,0,,Es un policía.
+Dialogue: 0,0:00:15.96,0:00:19.81,Doc,,0,0,0,,Durante años, ese Ferrari persiguió\Na ladrones y gánsteres por toda Roma.
+Dialogue: 0,0:00:19.86,0:00:20.98,Doc,,0,0,0,,Hoy es el único que queda.
+Dialogue: 0,0:00:21.03,0:00:25.53,Doc,,0,0,0,,Pero ese Ferrari no es el coche\Npatrulla más rápido de esta lista.
+Dialogue: 0,0:00:25.58,0:00:29.01,Doc,,0,0,0,,En los años cincuenta y sesenta, los\Ncoches eran cada vez más rápidos.
+Dialogue: 0,0:00:29.06,0:00:31.17,Doc,,0,0,0,,Y los delincuentes también lo sabían.
+Dialogue: 0,0:00:31.22,0:00:34.85,Doc,,0,0,0,,Así que la policía de medio mundo tuvo\Nque hacer algo que nunca había hecho:
+Dialogue: 0,0:00:34.90,0:00:37.87,Doc,,0,0,0,,comprar coches de carreras.
+Dialogue: 0,0:00:37.92,0:00:41.37,Doc,,0,0,0,,Hoy vas a conocer los diez coches\Npatrulla más rápidos de aquellos años,
+Dialogue: 0,0:00:41.42,0:00:43.07,Doc,,0,0,0,,del más lento al más rápido.
+Dialogue: 0,0:00:43.12,0:00:45.49,Doc,,0,0,0,,Uno lo regaló el mismísimo Enzo Ferrari.
+Dialogue: 0,0:00:45.54,0:00:48.11,Doc,,0,0,0,,Otro se compró para cazar\Nmotoristas en Londres.
+Dialogue: 0,0:00:48.16,0:00:50.77,Doc,,0,0,0,,Otro salía en una serie de televisión.
+Dialogue: 0,0:00:50.82,0:00:53.43,Doc,,0,0,0,,Y el número uno no es\Nun deportivo europeo.
+Dialogue: 0,0:00:53.48,0:00:56.61,Doc,,0,0,0,,Es una berlina americana de cuatro\Npuertas que estableció un récord de
+Dialogue: 0,0:00:56.66,0:00:58.18,Doc,,0,0,0,,velocidad que duró décadas.
+Dialogue: 0,0:00:58.73,0:01:02.02,Doc,,0,0,0,,Antes de empezar, un poco de contexto.
+Dialogue: 0,0:01:02.07,0:01:03.38,Doc,,0,0,0,,Después de la Segunda Guerra Mundial,
+Dialogue: 0,0:01:03.43,0:01:06.02,Doc,,0,0,0,,Europa y Estados Unidos\Nse llenaron de coches.
+Dialogue: 0,0:01:06.07,0:01:09.94,Doc,,0,0,0,,Se construyeron autopistas nuevas,\Nmuchas sin límite de velocidad.
+Dialogue: 0,0:01:09.99,0:01:11.36,Doc,,0,0,0,,Y los coches de la policía,
+Dialogue: 0,0:01:11.41,0:01:14.16,Doc,,0,0,0,,en muchos países, eran\Nberlinas normales y corrientes,
+Dialogue: 0,0:01:14.21,0:01:18.16,Doc,,0,0,0,,pensadas para llevar agentes,\Nno para perseguir a nadie.
+Dialogue: 0,0:01:18.21,0:01:19.70,Doc,,0,0,0,,El problema era evidente.
+Dialogue: 0,0:01:19.75,0:01:23.90,Doc,,0,0,0,,Si un conductor con un deportivo no\Nquería parar, simplemente no paraba.
+Dialogue: 0,0:01:23.95,0:01:25.82,Doc,,0,0,0,,Así empezó una carrera muy curiosa:
+Dialogue: 0,0:01:25.87,0:01:29.56,Doc,,0,0,0,,la carrera entre la policía\Ny los coches rápidos.
+Dialogue: 0,0:01:29.61,0:01:31.26,Doc,,0,0,0,,Una cosa más antes de empezar.
+Dialogue: 0,0:01:31.31,0:01:33.90,Doc,,0,0,0,,Todos los coches de esta\Nlista patrullaron de verdad.
+Dialogue: 0,0:01:33.95,0:01:36.98,Doc,,0,0,0,,No hay coches de película ni prototipos\Nque se quedaron en un salón del
+Dialogue: 0,0:01:37.03,0:01:38.02,Doc,,0,0,0,,automóvil.
+Dialogue: 0,0:01:38.07,0:01:41.04,Doc,,0,0,0,,Fueron comprados, pintados\Ny conducidos por policías,
+Dialogue: 0,0:01:41.09,0:01:44.12,Doc,,0,0,0,,en carreteras reales, detrás\Nde conductores reales.
+Dialogue: 0,0:01:44.17,0:01:47.10,Doc,,0,0,0,,Y las velocidades que vas a oír\Nson las de los coches de la época,
+Dialogue: 0,0:01:47.15,0:01:50.54,Doc,,0,0,0,,según las pruebas y los datos de fábrica.
+Dialogue: 0,0:01:50.59,0:01:52.70,Doc,,0,0,0,,Y no era solo un problema de motores.
+Dialogue: 0,0:01:52.75,0:01:56.44,Doc,,0,0,0,,Muchos coches de policía de los años\Ncincuenta tenían frenos de tambor,
+Dialogue: 0,0:01:56.49,0:01:59.40,Doc,,0,0,0,,suspensiones blandas y\Nneumáticos estrechos.
+Dialogue: 0,0:01:59.45,0:02:03.10,Doc,,0,0,0,,Perseguir a alguien a alta velocidad\Ncon un coche así era casi tan peligroso
+Dialogue: 0,0:02:03.15,0:02:05.16,Doc,,0,0,0,,para el agente como para el fugitivo.
+Dialogue: 0,0:02:05.21,0:02:07.44,Doc,,0,0,0,,Los coches que vas a\Nver hoy cambiaron eso.
+Dialogue: 0,0:02:07.49,0:02:11.86,Doc,,0,0,0,,Fueron los primeros coches patrulla\Npensados de verdad para correr.
+Dialogue: 0,0:02:11.91,0:02:13.02,Doc,,0,0,0,,Número diez.
+Dialogue: 0,0:02:13.07,0:02:17.50,Doc,,0,0,0,,El Porsche 356 de la\Npolicía holandesa y alemana.
+Dialogue: 0,0:02:17.55,0:02:18.56,Doc,,0,0,0,,A principios de los sesenta,
+Dialogue: 0,0:02:18.61,0:02:21.28,Doc,,0,0,0,,los Países Bajos estrenaban\Nautopistas modernas,
+Dialogue: 0,0:02:21.33,0:02:23.42,Doc,,0,0,0,,y los accidentes se multiplicaban.
+Dialogue: 0,0:02:23.47,0:02:26.20,Doc,,0,0,0,,La policía nacional\Nholandesa, la Rijkspolitie,
+Dialogue: 0,0:02:26.25,0:02:29.14,Doc,,0,0,0,,miró a su vecina Alemania para\Nver cómo controlaba las autobahn.
+Dialogue: 0,0:02:29.19,0:02:33.28,Doc,,0,0,0,,Y tomó una decisión que hoy parece\Nuna locura: comprar Porsche.
+Dialogue: 0,0:02:33.33,0:02:39.54,Doc,,0,0,0,,En noviembre de 1960 recogieron en\NStuttgart el primer Porsche 356 B Cabriolet
+Dialogue: 0,0:02:39.59,0:02:40.82,Doc,,0,0,0,,para la policía.
+Dialogue: 0,0:02:40.87,0:02:43.44,Doc,,0,0,0,,Costó diecisiete mil seiscientos florines.
+Dialogue: 0,0:02:43.49,0:02:44.12,Doc,,0,0,0,,Ese mismo mes,
+Dialogue: 0,0:02:44.17,0:02:48.64,Doc,,0,0,0,,Porsche entregó otro 356 Cabriolet\Nblanco a la policía de Düsseldorf,
+Dialogue: 0,0:02:48.69,0:02:50.16,Doc,,0,0,0,,en Alemania.
+Dialogue: 0,0:02:50.21,0:02:51.68,Doc,,0,0,0,,La prueba salió bien.
+Dialogue: 0,0:02:51.73,0:02:56.04,Doc,,0,0,0,,En 1962, los holandeses crearon una\Nunidad especial de vigilancia de
+Dialogue: 0,0:02:56.09,0:02:59.40,Doc,,0,0,0,,autopistas con una docena de 356 B.
+Dialogue: 0,0:02:59.45,0:03:03.44,Doc,,0,0,0,,Eran descapotables, blancos, con\Nuna sirena y un cartel de policía.
+Dialogue: 0,0:03:03.49,0:03:06.34,Doc,,0,0,0,,Con unos ciento sesenta kilómetros\Npor hora de velocidad máxima,
+Dialogue: 0,0:03:06.39,0:03:08.54,Doc,,0,0,0,,no eran los más rápidos de esta lista.
+Dialogue: 0,0:03:08.59,0:03:13.48,Doc,,0,0,0,,Pero eran ágiles, fiables y muy\Ndifíciles de ignorar en el retrovisor.
+Dialogue: 0,0:03:13.53,0:03:15.06,Doc,,0,0,0,,Imagina la escena.
+Dialogue: 0,0:03:15.11,0:03:17.40,Doc,,0,0,0,,Una autopista holandesa a\Nprincipios de los sesenta,
+Dialogue: 0,0:03:17.45,0:03:19.50,Doc,,0,0,0,,pocos coches, ningún límite claro.
+Dialogue: 0,0:03:19.55,0:03:23.30,Doc,,0,0,0,,Un conductor con prisa ve aparecer\Npor el retrovisor un pequeño Porsche
+Dialogue: 0,0:03:23.35,0:03:26.38,Doc,,0,0,0,,blanco, descapotado, con\Ndos agentes con gorra.
+Dialogue: 0,0:03:26.43,0:03:28.08,Doc,,0,0,0,,No había mucho que discutir.
+Dialogue: 0,0:03:28.13,0:03:30.44,Doc,,0,0,0,,Fue el principio de una\Nrelación larguísima.
+Dialogue: 0,0:03:30.49,0:03:33.56,Doc,,0,0,0,,Según Porsche, más de quinientos coches\Nde la marca llegaron a llevar los
+Dialogue: 0,0:03:33.61,0:03:36.20,Doc,,0,0,0,,colores de la policía holandesa.
+Dialogue: 0,0:03:36.25,0:03:37.26,Doc,,0,0,0,,Número nueve.
+Dialogue: 0,0:03:37.31,0:03:41.32,Doc,,0,0,0,,El Buick Century de la Patrulla\Nde Carreteras de California.
+Dialogue: 0,0:03:41.37,0:03:44.02,Doc,,0,0,0,,California, 1955.
+Dialogue: 0,0:03:44.07,0:03:46.40,Doc,,0,0,0,,La Patrulla de Carreteras, la famosa CHP,
+Dialogue: 0,0:03:46.45,0:03:49.84,Doc,,0,0,0,,necesitaba coches para unas\Ncarreteras enormes y rectas.
+Dialogue: 0,0:03:49.89,0:03:52.42,Doc,,0,0,0,,Y Buick le preparó algo que\Nno se vendía al público:
+Dialogue: 0,0:03:52.47,0:03:53.98,Doc,,0,0,0,,un Century de dos puertas,
+Dialogue: 0,0:03:54.03,0:03:57.83,Doc,,0,0,0,,con la carrocería del modelo más\Nbarato y el motor V8 del más caro.
+Dialogue: 0,0:03:57.88,0:04:00.18,Doc,,0,0,0,,Doscientos treinta y seis caballos.
+Dialogue: 0,0:04:00.23,0:04:02.74,Doc,,0,0,0,,La patrulla encargó\Nunos doscientos setenta.
+Dialogue: 0,0:04:02.79,0:04:04.02,Doc,,0,0,0,,En las pruebas de la época,
+Dialogue: 0,0:04:04.07,0:04:06.96,Doc,,0,0,0,,un Century llegaba a unos ciento\Nsetenta y dos kilómetros por hora,
+Dialogue: 0,0:04:07.01,0:04:10.20,Doc,,0,0,0,,y era uno de los coches de\Nserie más rápidos de su tiempo.
+Dialogue: 0,0:04:10.25,0:04:13.50,Doc,,0,0,0,,La mitad llevaba cambio manual\Nde tres marchas y la otra mitad,
+Dialogue: 0,0:04:13.55,0:04:15.40,Doc,,0,0,0,,el cambio automático Dynaflow de Buick.
+Dialogue: 0,0:04:15.45,0:04:16.42,Doc,,0,0,0,,Para los agentes,
+Dialogue: 0,0:04:16.47,0:04:18.82,Doc,,0,0,0,,era un coche cómodo para\Npasar horas en la carretera,
+Dialogue: 0,0:04:18.87,0:04:22.46,Doc,,0,0,0,,y con potencia de sobra\Ncuando había que acelerar.
+Dialogue: 0,0:04:22.51,0:04:24.96,Doc,,0,0,0,,Pero el Century se hizo\Nfamoso por otra razón.
+Dialogue: 0,0:04:25.01,0:04:27.10,Doc,,0,0,0,,En la serie de televisión Highway Patrol,
+Dialogue: 0,0:04:27.15,0:04:30.24,Doc,,0,0,0,,el actor Broderick Crawford patrullaba\Nen un Century de dos puertas.
+Dialogue: 0,0:04:30.29,0:04:32.16,Doc,,0,0,0,,Y no era un coche de atrezo.
+Dialogue: 0,0:04:32.21,0:04:33.04,Doc,,0,0,0,,En la primera temporada,
+Dialogue: 0,0:04:33.09,0:04:37.10,Doc,,0,0,0,,eran coches de la propia patrulla de\NCalifornia, prestados a la productora.
+Dialogue: 0,0:04:37.15,0:04:39.58,Doc,,0,0,0,,Solo les cambiaron los\Nescudos de las puertas.
+Dialogue: 0,0:04:39.63,0:04:43.50,Doc,,0,0,0,,La serie se emitió entre 1955 y 1959,
+Dialogue: 0,0:04:43.55,0:04:47.64,Doc,,0,0,0,,y se hizo famosa por una frase\Nque Crawford repetía por radio:
+Dialogue: 0,0:04:47.69,0:04:50.58,Doc,,0,0,0,,diez-cuatro, el código para\Ndecir mensaje recibido.
+Dialogue: 0,0:04:50.63,0:04:53.44,Doc,,0,0,0,,Muchos todavía la usan hoy\Nsin saber de dónde viene.
+Dialogue: 0,0:04:53.49,0:04:57.36,Doc,,0,0,0,,Millones de espectadores vieron cada\Nsemana un coche de policía de verdad.
+Dialogue: 0,0:04:57.41,0:05:01.02,Doc,,0,0,0,,Y muchos niños americanos crecieron\Nqueriendo ser patrulleros por culpa de ese
+Dialogue: 0,0:05:01.07,0:05:01.87,Doc,,0,0,0,,Buick.
+Dialogue: 0,0:05:02.43,0:05:03.76,Doc,,0,0,0,,Ahora cruzamos el océano.
+Dialogue: 0,0:05:03.81,0:05:08.46,Doc,,0,0,0,,Y llegamos al país donde la policía y\Nel cine se juntaron como en ningún otro.
+Dialogue: 0,0:05:08.51,0:05:09.36,Doc,,0,0,0,,Número ocho.
+Dialogue: 0,0:05:09.41,0:05:12.64,Doc,,0,0,0,,El Alfa Romeo Giulia Super.
+Dialogue: 0,0:05:12.69,0:05:17.58,Doc,,0,0,0,,Alfa Romeo presentó el Giulia en\N1962, en el circuito de Monza.
+Dialogue: 0,0:05:17.63,0:05:19.46,Doc,,0,0,0,,Tenía una forma de caja muy curiosa,
+Dialogue: 0,0:05:19.51,0:05:22.98,Doc,,0,0,0,,pero con una aerodinámica\Nsorprendentemente buena para su época.
+Dialogue: 0,0:05:23.03,0:05:26.84,Doc,,0,0,0,,La marca lo vendía con un lema:\Nun coche diseñado por el viento.
+Dialogue: 0,0:05:26.89,0:05:28.60,Doc,,0,0,0,,En la Italia de los años sesenta,
+Dialogue: 0,0:05:28.65,0:05:30.80,Doc,,0,0,0,,el Giulia era el coche de moda: ligero,
+Dialogue: 0,0:05:30.85,0:05:34.26,Doc,,0,0,0,,con un motor de doble árbol de\Nlevas y una caja de cinco marchas.
+Dialogue: 0,0:05:34.31,0:05:38.04,Doc,,0,0,0,,La policía italiana lo adoptó para\Nsus patrullas de intervención rápida,
+Dialogue: 0,0:05:38.09,0:05:39.88,Doc,,0,0,0,,las famosas Squadre Volanti.
+Dialogue: 0,0:05:39.93,0:05:42.30,Doc,,0,0,0,,Y los Carabinieri\Ntuvieron sus propios Alfa,
+Dialogue: 0,0:05:42.35,0:05:45.04,Doc,,0,0,0,,a los que la gente llamaba las gacelas.
+Dialogue: 0,0:05:45.09,0:05:48.76,Doc,,0,0,0,,El Giulia Super rondaba los ciento\Nsetenta y siete kilómetros por hora.
+Dialogue: 0,0:05:48.81,0:05:49.82,Doc,,0,0,0,,No parece tanto hoy,
+Dialogue: 0,0:05:49.87,0:05:52.18,Doc,,0,0,0,,pero en las calles\Nestrechas de Roma o Milán,
+Dialogue: 0,0:05:52.23,0:05:56.74,Doc,,0,0,0,,con su agilidad y su motor, era un\Nrival muy serio para cualquier ladrón.
+Dialogue: 0,0:05:56.79,0:06:00.78,Doc,,0,0,0,,Y además se convirtió\Nen una estrella de cine.
+Dialogue: 0,0:06:00.83,0:06:05.66,Doc,,0,0,0,,En 1963, un Giulia TI apareció en\Nuna película policíaca italiana,
+Dialogue: 0,0:06:05.71,0:06:09.00,Doc,,0,0,0,,y en los años siguientes los Alfa de\Nla policía protagonizaron decenas de
+Dialogue: 0,0:06:09.05,0:06:11.60,Doc,,0,0,0,,persecuciones en el\Ncine policíaco italiano.
+Dialogue: 0,0:06:11.65,0:06:12.88,Doc,,0,0,0,,Para muchos europeos,
+Dialogue: 0,0:06:12.93,0:06:16.00,Doc,,0,0,0,,el sonido de un coche de\Npolicía era el de un Alfa Romeo.
+Dialogue: 0,0:06:16.05,0:06:20.30,Doc,,0,0,0,,Las Volanti italianas pintaban sus Giulia\Nde un verde oscuro, muy reconocible.
+Dialogue: 0,0:06:20.35,0:06:23.54,Doc,,0,0,0,,Y sus agentes tenían fama de\Nconducir de forma espectacular.
+Dialogue: 0,0:06:23.59,0:06:26.82,Doc,,0,0,0,,No es casualidad que tantos directores\Nde cine quisieran rodar con ellos.
+Dialogue: 0,0:06:26.87,0:06:28.40,Doc,,0,0,0,,Número siete.
+Dialogue: 0,0:06:28.45,0:06:32.72,Doc,,0,0,0,,El Daimler SP250 de la Policía\NMetropolitana de Londres.
+Dialogue: 0,0:06:32.77,0:06:34.62,Doc,,0,0,0,,Principios de los años sesenta.
+Dialogue: 0,0:06:34.67,0:06:37.60,Doc,,0,0,0,,Londres tiene un problema\Nnuevo: los café racers.
+Dialogue: 0,0:06:37.65,0:06:40.80,Doc,,0,0,0,,Jóvenes en motos rápidas que\Ncorrían de cafetería en cafetería,
+Dialogue: 0,0:06:40.85,0:06:43.38,Doc,,0,0,0,,a toda velocidad, por las\Ncarreteras de la ciudad.
+Dialogue: 0,0:06:43.43,0:06:47.84,Doc,,0,0,0,,Y los coches de la policía, unas\Nberlinas Wolseley, no podían alcanzarles.
+Dialogue: 0,0:06:47.89,0:06:49.64,Doc,,0,0,0,,La solución fue un deportivo.
+Dialogue: 0,0:06:49.69,0:06:51.72,Doc,,0,0,0,,El Daimler SP250,
+Dialogue: 0,0:06:51.77,0:06:56.14,Doc,,0,0,0,,un descapotable con carrocería de fibra\Nde vidrio y un motor V8 de dos litros
+Dialogue: 0,0:06:56.19,0:06:56.84,Doc,,0,0,0,,y medio.
+Dialogue: 0,0:06:56.89,0:07:00.20,Doc,,0,0,0,,Podía superar los ciento\Nnoventa kilómetros por hora.
+Dialogue: 0,0:07:00.25,0:07:02.22,Doc,,0,0,0,,Y el coche tiene una historia curiosa.
+Dialogue: 0,0:07:02.27,0:07:07.06,Doc,,0,0,0,,Cuando Daimler lo presentó en Nueva\NYork en 1959, se llamaba Dart.
+Dialogue: 0,0:07:07.11,0:07:09.00,Doc,,0,0,0,,Pero el nombre Dart ya era de Dodge,
+Dialogue: 0,0:07:09.05,0:07:11.94,Doc,,0,0,0,,la marca americana, que amenazó\Ncon ir a los tribunales.
+Dialogue: 0,0:07:11.99,0:07:17.32,Doc,,0,0,0,,Daimler tuvo que cambiarlo, y usó el\Nnúmero interno del proyecto: SP250.
+Dialogue: 0,0:07:17.37,0:07:20.38,Doc,,0,0,0,,Aun así, en Gran Bretaña todo\Nel mundo siguió llamándolo Dart.
+Dialogue: 0,0:07:20.43,0:07:22.46,Doc,,0,0,0,,Según la historia del modelo,
+Dialogue: 0,0:07:22.51,0:07:28.36,Doc,,0,0,0,,la Policía Metropolitana compró\Nunos veintiséis entre 1961 y 1964,
+Dialogue: 0,0:07:28.41,0:07:30.66,Doc,,0,0,0,,y los repartió por sus garajes de tráfico.
+Dialogue: 0,0:07:30.71,0:07:32.40,Doc,,0,0,0,,Eran negros, sin rotular.
+Dialogue: 0,0:07:32.45,0:07:35.62,Doc,,0,0,0,,Solo llevaban una campana,\Nun foco delante y una radio.
+Dialogue: 0,0:07:35.67,0:07:39.14,Doc,,0,0,0,,Para el motorista que miraba por el\Nretrovisor, era un deportivo más.
+Dialogue: 0,0:07:39.19,0:07:41.10,Doc,,0,0,0,,Hasta que sonaba la campana.
+Dialogue: 0,0:07:41.15,0:07:45.60,Doc,,0,0,0,,El SP250 funcionó tan bien que\Npolicías de otras ciudades británicas,
+Dialogue: 0,0:07:45.65,0:07:48.83,Doc,,0,0,0,,e incluso de Australia y Nueva\NZelanda, también lo usaron.
+Dialogue: 0,0:07:49.60,0:07:54.51,Doc,,0,0,0,,Y si hablamos de la policía británica,\Nhay una marca que no puede faltar.
+Dialogue: 0,0:07:54.56,0:07:55.75,Doc,,0,0,0,,Número seis.
+Dialogue: 0,0:07:55.80,0:07:57.85,Doc,,0,0,0,,El Jaguar S-Type.
+Dialogue: 0,0:07:57.90,0:08:02.81,Doc,,0,0,0,,El S-Type había aparecido en 1963.
+Dialogue: 0,0:08:02.86,0:08:03.73,Doc,,0,0,0,,Era, en el fondo,
+Dialogue: 0,0:08:03.78,0:08:07.25,Doc,,0,0,0,,un Mark 2 con la parte trasera\Nmás larga y una suspensión trasera
+Dialogue: 0,0:08:07.30,0:08:10.21,Doc,,0,0,0,,independiente, heredada del famoso E-Type.
+Dialogue: 0,0:08:10.26,0:08:13.87,Doc,,0,0,0,,Más cómodo, más estable\Ny con más maletero.
+Dialogue: 0,0:08:13.92,0:08:19.20,Doc,,0,0,0,,En 1967, la Policía Metropolitana de\NLondres puso en servicio una flota de
+Dialogue: 0,0:08:19.25,0:08:20.93,Doc,,0,0,0,,ochenta y tres Jaguar S-Type.
+Dialogue: 0,0:08:20.98,0:08:24.57,Doc,,0,0,0,,Y fueron los primeros coches patrulla\Nde tráfico de Londres pintados de
+Dialogue: 0,0:08:24.62,0:08:25.61,Doc,,0,0,0,,blanco.
+Dialogue: 0,0:08:25.66,0:08:27.77,Doc,,0,0,0,,Con el motor de tres coma ocho litros,
+Dialogue: 0,0:08:27.82,0:08:31.81,Doc,,0,0,0,,el S-Type podía rozar los ciento\Nnoventa y cinco kilómetros por hora.
+Dialogue: 0,0:08:31.86,0:08:33.89,Doc,,0,0,0,,Eran rápidos y elegantes.
+Dialogue: 0,0:08:33.94,0:08:35.43,Doc,,0,0,0,,Pero tenían un problema:
+Dialogue: 0,0:08:35.48,0:08:38.85,Doc,,0,0,0,,eran caros de mantener y daban\Nmuchos quebraderos de cabeza.
+Dialogue: 0,0:08:38.90,0:08:39.77,Doc,,0,0,0,,En los años setenta,
+Dialogue: 0,0:08:39.82,0:08:43.56,Doc,,0,0,0,,la policía de Londres acabó\Nsustituyéndolos por Rover y Triumph.
+Dialogue: 0,0:08:43.61,0:08:45.28,Doc,,0,0,0,,Número cinco.
+Dialogue: 0,0:08:45.33,0:08:47.58,Doc,,0,0,0,,Su hermano, el Jaguar Mark 2.
+Dialogue: 0,0:08:47.63,0:08:51.39,Doc,,0,0,0,,El Mark 2 fue uno de los grandes símbolos\Nde los años sesenta en Gran Bretaña.
+Dialogue: 0,0:08:51.44,0:08:54.69,Doc,,0,0,0,,Con el motor de tres coma ocho\Nlitros y doscientos veinte caballos,
+Dialogue: 0,0:08:54.74,0:08:57.11,Doc,,0,0,0,,llegaba a unos doscientos\Nkilómetros por hora.
+Dialogue: 0,0:08:57.16,0:08:58.55,Doc,,0,0,0,,Una berlina de cuatro puertas,
+Dialogue: 0,0:08:58.60,0:09:02.23,Doc,,0,0,0,,con asientos de cuero y madera,\Nque corría como un deportivo.
+Dialogue: 0,0:09:02.28,0:09:05.61,Doc,,0,0,0,,Su diseño, con la parte trasera\Nestrecha y las ventanillas grandes,
+Dialogue: 0,0:09:05.66,0:09:06.69,Doc,,0,0,0,,lo hizo inconfundible.
+Dialogue: 0,0:09:06.74,0:09:08.47,Doc,,0,0,0,,Era el coche de los empresarios,
+Dialogue: 0,0:09:08.52,0:09:11.27,Doc,,0,0,0,,de los pilotos de carreras y de\Nlos que querían aparentar éxito.
+Dialogue: 0,0:09:11.32,0:09:15.63,Doc,,0,0,0,,Varias policías británicas lo\Nusaron para vigilar las autopistas.
+Dialogue: 0,0:09:15.68,0:09:17.65,Doc,,0,0,0,,Y aquí viene lo curioso:
+Dialogue: 0,0:09:17.70,0:09:19.35,Doc,,0,0,0,,según se cuenta en Gran Bretaña,
+Dialogue: 0,0:09:19.40,0:09:22.71,Doc,,0,0,0,,el Mark 2 también era uno de los\Ncoches favoritos de los atracadores.
+Dialogue: 0,0:09:22.76,0:09:25.35,Doc,,0,0,0,,Así que, en más de una\Npersecución de los años sesenta,
+Dialogue: 0,0:09:25.40,0:09:28.15,Doc,,0,0,0,,había un Jaguar huyendo\Ny otro Jaguar detrás.
+Dialogue: 0,0:09:28.20,0:09:31.27,Doc,,0,0,0,,Hoy, el Mark 2 es uno de los\NJaguar clásicos más buscados.
+Dialogue: 0,0:09:31.32,0:09:34.49,Doc,,0,0,0,,Y en muchas películas británicas\Nsobre los años sesenta,
+Dialogue: 0,0:09:34.54,0:09:36.95,Doc,,0,0,0,,si hay una persecución, hay un Mark 2.
+Dialogue: 0,0:09:37.00,0:09:38.43,Doc,,0,0,0,,Y mientras los británicos,
+Dialogue: 0,0:09:38.48,0:09:41.43,Doc,,0,0,0,,los holandeses y los italianos\Ncorrían a doscientos por hora,
+Dialogue: 0,0:09:41.48,0:09:43.62,Doc,,0,0,0,,en España la historia era muy distinta.
+Dialogue: 0,0:09:44.38,0:09:45.78,Doc,,0,0,0,,Mientras tanto, en España.
+Dialogue: 0,0:09:45.83,0:09:51.03,Doc,,0,0,0,,En 1959, una ley de circulación creó\Ndentro de la Guardia Civil la Agrupación
+Dialogue: 0,0:09:51.08,0:09:53.91,Doc,,0,0,0,,de Tráfico, con unos tres\Nmil quinientos hombres.
+Dialogue: 0,0:09:53.96,0:09:57.95,Doc,,0,0,0,,Su misión: vigilar unas carreteras\Nque empezaban a llenarse de coches.
+Dialogue: 0,0:09:58.00,0:10:01.53,Doc,,0,0,0,,Al principio, la Guardia Civil de\NTráfico patrullaba sobre todo en moto.
+Dialogue: 0,0:10:01.58,0:10:03.05,Doc,,0,0,0,,Las primeras fueron BMW,
+Dialogue: 0,0:10:03.10,0:10:06.39,Doc,,0,0,0,,con aquellos uniformes y cascos que\Nmuchos españoles todavía recuerdan.
+Dialogue: 0,0:10:06.44,0:10:07.97,Doc,,0,0,0,,¿Y los coches?
+Dialogue: 0,0:10:08.02,0:10:10.11,Doc,,0,0,0,,Aquí las fuentes no se ponen de acuerdo.
+Dialogue: 0,0:10:10.16,0:10:13.52,Doc,,0,0,0,,Algunas dicen que el primer coche de\Nla Guardia Civil de Tráfico fue un SEAT
+Dialogue: 0,0:10:13.57,0:10:16.15,Doc,,0,0,0,,1400 B, en 1960.
+Dialogue: 0,0:10:16.20,0:10:18.63,Doc,,0,0,0,,El 1400 era el primer modelo de SEAT,
+Dialogue: 0,0:10:18.68,0:10:22.55,Doc,,0,0,0,,el coche con el que la marca\Nnació en Barcelona en 1953.
+Dialogue: 0,0:10:22.60,0:10:26.63,Doc,,0,0,0,,Aquel SEAT 1400 había salido por primera\Nvez de la fábrica de la Zona Franca
+Dialogue: 0,0:10:26.68,0:10:30.35,Doc,,0,0,0,,de Barcelona el trece\Nde noviembre de 1953,
+Dialogue: 0,0:10:30.40,0:10:33.85,Doc,,0,0,0,,y se fabricaron casi cien mil hasta 1964.
+Dialogue: 0,0:10:33.90,0:10:37.55,Doc,,0,0,0,,Fue el coche de los médicos, de los\Ntaxistas y de las familias con posibles.
+Dialogue: 0,0:10:37.60,0:10:40.27,Doc,,0,0,0,,Y también, durante unos\Naños, de la Benemérita.
+Dialogue: 0,0:10:40.32,0:10:42.73,Doc,,0,0,0,,Otras fuentes, entre ellas\Nel Parque Móvil del Estado,
+Dialogue: 0,0:10:42.78,0:10:46.47,Doc,,0,0,0,,consideran que el primer vehículo\Noficial del cuerpo fue el Renault 10,
+Dialogue: 0,0:10:46.52,0:10:50.87,Doc,,0,0,0,,fabricado por FASA en Valladolid,\Nque entró en servicio en 1967.
+Dialogue: 0,0:10:50.92,0:10:52.75,Doc,,0,0,0,,Verde, con las puertas blancas.
+Dialogue: 0,0:10:52.80,0:10:55.61,Doc,,0,0,0,,Y en los años setenta, fue\Nel primero en llevar radar.
+Dialogue: 0,0:10:55.66,0:10:58.67,Doc,,0,0,0,,Ninguno de los dos se acercaba\Na un Jaguar o a un Porsche.
+Dialogue: 0,0:10:58.72,0:11:02.49,Doc,,0,0,0,,Un SEAT 1400 no pasaba de los\Nciento veinte kilómetros por hora.
+Dialogue: 0,0:11:02.54,0:11:04.33,Doc,,0,0,0,,Pero en las carreteras\Nespañolas de entonces,
+Dialogue: 0,0:11:04.38,0:11:07.05,Doc,,0,0,0,,estrechas, llenas de curvas y de camiones,
+Dialogue: 0,0:11:07.10,0:11:09.23,Doc,,0,0,0,,la velocidad no era lo más importante.
+Dialogue: 0,0:11:09.28,0:11:10.91,Doc,,0,0,0,,Lo importante era estar ahí.
+Dialogue: 0,0:11:10.96,0:11:13.11,Doc,,0,0,0,,Y aun así, aquellos guardias en moto,
+Dialogue: 0,0:11:13.16,0:11:14.65,Doc,,0,0,0,,con su uniforme y sus gafas,
+Dialogue: 0,0:11:14.70,0:11:18.19,Doc,,0,0,0,,se convirtieron en una imagen\Ninseparable de las carreteras españolas.
+Dialogue: 0,0:11:18.24,0:11:20.83,Doc,,0,0,0,,Durante décadas, para muchos\Nconductores españoles,
+Dialogue: 0,0:11:20.88,0:11:23.13,Doc,,0,0,0,,el miedo no era un\NPorsche en el retrovisor.
+Dialogue: 0,0:11:23.18,0:11:25.23,Doc,,0,0,0,,Era una moto de la Guardia Civil.
+Dialogue: 0,0:11:25.28,0:11:29.14,Doc,,0,0,0,,Y ahora, vamos con los cuatro coches\Npatrulla más rápidos de esta lista.
+Dialogue: 0,0:11:31.09,0:11:31.18,Doc,,0,0,0,,Número cuatro.
+Dialogue: 0,0:11:31.23,0:11:34.82,Doc,,0,0,0,,El Dodge Polara de 1965.
+Dialogue: 0,0:11:34.87,0:11:36.34,Doc,,0,0,0,,Volvemos a California.
+Dialogue: 0,0:11:36.39,0:11:37.12,Doc,,0,0,0,,En los años sesenta,
+Dialogue: 0,0:11:37.17,0:11:41.06,Doc,,0,0,0,,la Patrulla de Carreteras de California\Nhacía algo que pocas policías hacían:
+Dialogue: 0,0:11:41.11,0:11:44.20,Doc,,0,0,0,,pruebas de rendimiento muy duras\Nantes de comprar sus coches.
+Dialogue: 0,0:11:44.25,0:11:48.46,Doc,,0,0,0,,Y quien solía ganar esas pruebas era\NChrysler, con sus Dodge y sus Plymouth.
+Dialogue: 0,0:11:48.51,0:11:50.42,Doc,,0,0,0,,Aquellas pruebas no eran un trámite.
+Dialogue: 0,0:11:50.47,0:11:53.00,Doc,,0,0,0,,La patrulla medía la\Naceleración, la frenada,
+Dialogue: 0,0:11:53.05,0:11:55.68,Doc,,0,0,0,,el comportamiento en curva\Ny la velocidad máxima.
+Dialogue: 0,0:11:55.73,0:11:58.00,Doc,,0,0,0,,Y solo compraba el coche que las superaba.
+Dialogue: 0,0:11:58.05,0:11:58.84,Doc,,0,0,0,,Para los fabricantes,
+Dialogue: 0,0:11:58.89,0:12:02.22,Doc,,0,0,0,,ganar el contrato de California\Nera casi un anuncio publicitario:
+Dialogue: 0,0:12:02.27,0:12:05.62,Doc,,0,0,0,,si servía para la patrulla de\NCalifornia, servía para cualquiera.
+Dialogue: 0,0:12:05.67,0:12:11.32,Doc,,0,0,0,,En 1965, el Dodge Polara de la patrulla\Nmontaba un enorme V8 de cuatrocientas
+Dialogue: 0,0:12:11.37,0:12:14.26,Doc,,0,0,0,,trece pulgadas cúbicas, casi siete litros.
+Dialogue: 0,0:12:14.31,0:12:17.74,Doc,,0,0,0,,Su velocidad máxima: unos\Ndoscientos ocho kilómetros por hora.
+Dialogue: 0,0:12:17.79,0:12:20.92,Doc,,0,0,0,,Era una berlina normal por\Nfuera, con sus luces y su sirena.
+Dialogue: 0,0:12:20.97,0:12:23.64,Doc,,0,0,0,,Pero por dentro era otra cosa.
+Dialogue: 0,0:12:23.69,0:12:25.20,Doc,,0,0,0,,Y lo mejor estaba por llegar.
+Dialogue: 0,0:12:25.25,0:12:26.70,Doc,,0,0,0,,Pero antes, volvemos a Holanda.
+Dialogue: 0,0:12:26.75,0:12:27.55,Doc,,0,0,0,,Número tres.
+Dialogue: 0,0:12:27.60,0:12:31.52,Doc,,0,0,0,,El Porsche 911 Targa de\Nla policía holandesa.
+Dialogue: 0,0:12:31.57,0:12:35.12,Doc,,0,0,0,,Hemos visto que la\NRijkspolitie empezó con el 356.
+Dialogue: 0,0:12:35.17,0:12:40.64,Doc,,0,0,0,,En 1967, Porsche presentó el 911\NTarga, con su famoso arco de seguridad.
+Dialogue: 0,0:12:40.69,0:12:43.68,Doc,,0,0,0,,Y la policía holandesa se\Npasó a él casi de inmediato.
+Dialogue: 0,0:12:43.73,0:12:45.04,Doc,,0,0,0,,Según la versión del motor,
+Dialogue: 0,0:12:45.09,0:12:49.12,Doc,,0,0,0,,un 911 Targa de aquellos años podía\Nsuperar los doscientos diez kilómetros por
+Dialogue: 0,0:12:49.17,0:12:49.32,Doc,,0,0,0,,hora.
+Dialogue: 0,0:12:49.37,0:12:51.50,Doc,,0,0,0,,Blanco, con una franja naranja,
+Dialogue: 0,0:12:51.55,0:12:52.90,Doc,,0,0,0,,y con el techo desmontable,
+Dialogue: 0,0:12:52.95,0:12:56.16,Doc,,0,0,0,,se convirtió en una imagen clásica\Nde las autopistas holandesas.
+Dialogue: 0,0:12:56.21,0:12:58.60,Doc,,0,0,0,,¿Y por qué un Targa y no un coupé normal?
+Dialogue: 0,0:12:58.65,0:12:59.60,Doc,,0,0,0,,Según se cuenta,
+Dialogue: 0,0:12:59.65,0:13:02.70,Doc,,0,0,0,,porque con el techo quitado los agentes\Npodían ponerse de pie en el asiento
+Dialogue: 0,0:13:02.75,0:13:04.98,Doc,,0,0,0,,para dirigir el tráfico tras un accidente.
+Dialogue: 0,0:13:05.03,0:13:08.24,Doc,,0,0,0,,Y en el arco de seguridad se\Nmontaba la luz azul giratoria.
+Dialogue: 0,0:13:08.29,0:13:10.92,Doc,,0,0,0,,La relación entre Porsche y\Nla policía holandesa duró,
+Dialogue: 0,0:13:10.97,0:13:14.88,Doc,,0,0,0,,según la propia marca, desde\N1962 hasta los años noventa.
+Dialogue: 0,0:13:14.93,0:13:16.36,Doc,,0,0,0,,Más de quinientos coches.
+Dialogue: 0,0:13:16.41,0:13:19.42,Doc,,0,0,0,,Probablemente no haya otra policía\Nen el mundo que haya comprado tantos
+Dialogue: 0,0:13:19.47,0:13:20.27,Doc,,0,0,0,,Porsche.
+Dialogue: 0,0:13:20.79,0:13:21.78,Doc,,0,0,0,,Número dos.
+Dialogue: 0,0:13:21.83,0:13:23.14,Doc,,0,0,0,,Volvemos al principio.
+Dialogue: 0,0:13:23.19,0:13:26.46,Doc,,0,0,0,,El Ferrari 250 GTE de la policía de Roma.
+Dialogue: 0,0:13:26.51,0:13:30.36,Doc,,0,0,0,,A principios de los años sesenta,\NRoma vivía una ola de robos.
+Dialogue: 0,0:13:30.41,0:13:32.72,Doc,,0,0,0,,Los delincuentes usaban\Ncoches cada vez más rápidos,
+Dialogue: 0,0:13:32.77,0:13:34.96,Doc,,0,0,0,,y la policía no podía seguirles.
+Dialogue: 0,0:13:35.01,0:13:37.34,Doc,,0,0,0,,Hay varias versiones de cómo empezó todo.
+Dialogue: 0,0:13:37.39,0:13:41.10,Doc,,0,0,0,,Según una, la policía pidió coches\Nmás rápidos al Estado y se lo negaron.
+Dialogue: 0,0:13:41.15,0:13:45.68,Doc,,0,0,0,,Y entonces Enzo Ferrari decidió regalarle\Ndos Ferrari 250 GTE a la Squadra
+Dialogue: 0,0:13:45.73,0:13:47.14,Doc,,0,0,0,,Mobile de Roma.
+Dialogue: 0,0:13:47.19,0:13:50.90,Doc,,0,0,0,,El 250 GTE era un gran\Nturismo de cuatro plazas,
+Dialogue: 0,0:13:50.95,0:13:54.70,Doc,,0,0,0,,con un motor V12 de tres litros\Ny doscientos cuarenta caballos.
+Dialogue: 0,0:13:54.75,0:13:58.72,Doc,,0,0,0,,Velocidad máxima: unos doscientos\Ntreinta kilómetros por hora.
+Dialogue: 0,0:13:58.77,0:14:01.76,Doc,,0,0,0,,Los coches eran negros,\Ncon sirena, luces y radio.
+Dialogue: 0,0:14:01.81,0:14:04.40,Doc,,0,0,0,,Y para conducirlos, la policía\Neligió a sus mejores agentes,
+Dialogue: 0,0:14:04.45,0:14:08.08,Doc,,0,0,0,,que se entrenaron en Maranello,\Nen la propia fábrica de Ferrari.
+Dialogue: 0,0:14:08.13,0:14:11.22,Doc,,0,0,0,,Uno de ellos se hizo\Nleyenda: Armando Spatafora.
+Dialogue: 0,0:14:11.27,0:14:13.68,Doc,,0,0,0,,Se dice que Ferrari llegó a\Nofrecerle un puesto de piloto,
+Dialogue: 0,0:14:13.73,0:14:16.68,Doc,,0,0,0,,y que él lo rechazó para\Nseguir siendo policía.
+Dialogue: 0,0:14:16.73,0:14:18.62,Doc,,0,0,0,,Con Spatafora al volante,
+Dialogue: 0,0:14:18.67,0:14:20.86,Doc,,0,0,0,,ese Ferrari patrulló Roma durante años,
+Dialogue: 0,0:14:20.91,0:14:24.32,Doc,,0,0,0,,persiguiendo ladrones por las\Ncalles y las afueras de la ciudad.
+Dialogue: 0,0:14:24.37,0:14:26.52,Doc,,0,0,0,,Y de esos años nació una leyenda.
+Dialogue: 0,0:14:26.57,0:14:28.74,Doc,,0,0,0,,Se cuenta que, durante una persecución,
+Dialogue: 0,0:14:28.79,0:14:32.28,Doc,,0,0,0,,un ladrón intentó escapar bajando por\Nla escalinata de la plaza de España con
+Dialogue: 0,0:14:32.33,0:14:35.50,Doc,,0,0,0,,un Citroën, convencido de que\Nsu suspensión le daba ventaja.
+Dialogue: 0,0:14:35.55,0:14:38.96,Doc,,0,0,0,,Y que Spatafora le siguió\Nescaleras abajo con el Ferrari.
+Dialogue: 0,0:14:39.01,0:14:42.36,Doc,,0,0,0,,Las versiones no coinciden en los\Ndetalles, ni siquiera en el año.
+Dialogue: 0,0:14:42.41,0:14:48.14,Doc,,0,0,0,,Pero la historia inspiró una película\Nitaliana de 1977, Poliziotto Sprint.
+Dialogue: 0,0:14:48.19,0:14:52.26,Doc,,0,0,0,,El otro Ferrari de la policía no tuvo\Ntanta suerte, y hoy no se conserva.
+Dialogue: 0,0:14:52.31,0:14:54.66,Doc,,0,0,0,,El de Spatafora, en cambio, sobrevivió.
+Dialogue: 0,0:14:54.71,0:14:58.38,Doc,,0,0,0,,Es el único Ferrari 250\NGTE de policía que existe,
+Dialogue: 0,0:14:58.43,0:14:59.52,Doc,,0,0,0,,y según la prensa,
+Dialogue: 0,0:14:59.57,0:15:03.04,Doc,,0,0,0,,el único coche privado de Italia\Nautorizado a circular con la sirena y los
+Dialogue: 0,0:15:03.09,0:15:04.68,Doc,,0,0,0,,colores de la Squadra Mobile.
+Dialogue: 0,0:15:04.73,0:15:06.78,Doc,,0,0,0,,Y aun así, no es el número uno.
+Dialogue: 0,0:15:06.83,0:15:10.14,Doc,,0,0,0,,Porque el coche patrulla más rápido\Nde aquellos años no era italiano,
+Dialogue: 0,0:15:10.19,0:15:12.06,Doc,,0,0,0,,ni tenía un motor V12.
+Dialogue: 0,0:15:12.11,0:15:14.15,Doc,,0,0,0,,Era una berlina familiar americana.
+Dialogue: 0,0:15:14.93,0:15:16.00,Doc,,0,0,0,,Número uno.
+Dialogue: 0,0:15:16.05,0:15:19.82,Doc,,0,0,0,,El Dodge Polara Pursuit de 1969.
+Dialogue: 0,0:15:19.87,0:15:22.90,Doc,,0,0,0,,California, 1969.
+Dialogue: 0,0:15:22.95,0:15:26.78,Doc,,0,0,0,,La Patrulla de Carreteras compra mil\Nquinientos sesenta y cuatro Dodge Polara.
+Dialogue: 0,0:15:26.83,0:15:28.74,Doc,,0,0,0,,Por fuera, un sedán de cuatro puertas,
+Dialogue: 0,0:15:28.79,0:15:32.26,Doc,,0,0,0,,grande y sobrio, de los que se\Npodían ver en cualquier barrio.
+Dialogue: 0,0:15:32.31,0:15:36.08,Doc,,0,0,0,,Pero bajo el capó llevaba el V8 Magnum\Nde cuatrocientas cuarenta pulgadas
+Dialogue: 0,0:15:36.13,0:15:36.96,Doc,,0,0,0,,cúbicas.
+Dialogue: 0,0:15:37.01,0:15:37.90,Doc,,0,0,0,,Más de siete litros.
+Dialogue: 0,0:15:37.95,0:15:41.14,Doc,,0,0,0,,Trescientos setenta y cinco caballos.
+Dialogue: 0,0:15:41.19,0:15:43.04,Doc,,0,0,0,,En la pista de pruebas\Nde Chrysler en Chelsea,
+Dialogue: 0,0:15:43.09,0:15:46.90,Doc,,0,0,0,,Michigan, un Polara de la patrulla\Nalcanzó ciento cuarenta y nueve coma seis
+Dialogue: 0,0:15:46.95,0:15:48.22,Doc,,0,0,0,,millas por hora.
+Dialogue: 0,0:15:48.27,0:15:50.68,Doc,,0,0,0,,Unos doscientos cuarenta\Ny un kilómetros por hora.
+Dialogue: 0,0:15:50.73,0:15:52.56,Doc,,0,0,0,,Más rápido que el Ferrari de Roma,
+Dialogue: 0,0:15:52.61,0:15:56.40,Doc,,0,0,0,,más que los Jaguar de Londres y\Nmás que los Porsche de Holanda.
+Dialogue: 0,0:15:56.45,0:15:59.72,Doc,,0,0,0,,Para que te hagas una idea: en 1969,
+Dialogue: 0,0:15:59.77,0:16:03.22,Doc,,0,0,0,,muchos deportivos europeos de\Nrenombre no llegaban a esa cifra.
+Dialogue: 0,0:16:03.27,0:16:05.22,Doc,,0,0,0,,Y este coche llevaba cuatro puertas,
+Dialogue: 0,0:16:05.27,0:16:09.90,Doc,,0,0,0,,un banco corrido delante, una radio\Nenorme y una sirena en el techo.
+Dialogue: 0,0:16:09.95,0:16:11.82,Doc,,0,0,0,,Y ese récord no fue una anécdota.
+Dialogue: 0,0:16:11.87,0:16:15.06,Doc,,0,0,0,,Durante décadas, ningún sedán de\Ncuatro puertas de fábrica de la policía
+Dialogue: 0,0:16:15.11,0:16:18.16,Doc,,0,0,0,,americana consiguió superarlo\Nen las pruebas oficiales.
+Dialogue: 0,0:16:18.21,0:16:20.94,Doc,,0,0,0,,Las fuentes no coinciden en\Nqué coche lo batió por fin,
+Dialogue: 0,0:16:20.99,0:16:22.82,Doc,,0,0,0,,pero todas están de acuerdo en algo:
+Dialogue: 0,0:16:22.87,0:16:27.98,Doc,,0,0,0,,aquel Dodge de 1969 fue durante muchísimos\Naños el coche patrulla más rápido
+Dialogue: 0,0:16:28.03,0:16:29.34,Doc,,0,0,0,,de Estados Unidos.
+Dialogue: 0,0:16:29.39,0:16:30.68,Doc,,0,0,0,,Un coche de aspecto familiar,
+Dialogue: 0,0:16:30.73,0:16:33.48,Doc,,0,0,0,,con tapacubiertas sencillos\Ny una luz en el techo,
+Dialogue: 0,0:16:33.53,0:16:36.70,Doc,,0,0,0,,que podía correr más que casi\Ncualquier deportivo de su época.
+Dialogue: 0,0:16:36.75,0:16:40.14,Doc,,0,0,0,,Para el conductor que intentaba escapar\Npor una autopista de California,
+Dialogue: 0,0:16:40.19,0:16:42.96,Doc,,0,0,0,,era una sorpresa muy desagradable.
+Dialogue: 0,0:16:43.01,0:16:44.36,Doc,,0,0,0,,Así que ya lo sabes.
+Dialogue: 0,0:16:44.41,0:16:48.34,Doc,,0,0,0,,En los años cincuenta y sesenta, la\Npolicía dejó de ser la que llegaba tarde.
+Dialogue: 0,0:16:48.39,0:16:52.56,Doc,,0,0,0,,Unos lo hicieron con Porsche, otros con\NJaguar, otros con un Ferrari regalado.
+Dialogue: 0,0:16:52.61,0:16:54.56,Doc,,0,0,0,,Y los americanos lo hicieron a su manera:
+Dialogue: 0,0:16:54.61,0:16:57.28,Doc,,0,0,0,,con un motor enorme\Ndentro de un coche normal.
+Dialogue: 0,0:16:57.33,0:16:58.26,Doc,,0,0,0,,Si te ha gustado el vídeo,
+Dialogue: 0,0:16:58.31,0:17:01.82,Doc,,0,0,0,,dale a me gusta y suscríbete para\Nmás historias de coches clásicos.
+Dialogue: 0,0:17:01.87,0:17:02.96,Doc,,0,0,0,,Y cuéntame en los comentarios:
+Dialogue: 0,0:17:03.01,0:17:07.05,Doc,,0,0,0,,de estos diez coches patrulla, ¿de\Ncuál habrías intentado escapar?

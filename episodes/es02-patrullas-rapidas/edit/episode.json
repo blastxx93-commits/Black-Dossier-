@@ -1,0 +1,1684 @@
+{
+ "output": "ES02_Patrullas_Rapidas.mp4",
+ "fps": 24,
+ "music": [
+  {
+   "file": "trilha.wav",
+   "start": 0,
+   "gain": -29,
+   "fade_in": 4,
+   "fade_out": 5
+  }
+ ],
+ "chapters": [
+  {
+   "audio": "audio/ch00_hook.flac",
+   "lead_in": 0,
+   "tail": 0.6,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/m_ferrari_police/1_commons.jpg",
+     "move": "in",
+     "caption": "Roma|a\u00f1os 60",
+     "dur": 5.42,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_police_car/2_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ferrari_police/3_commons.jpg",
+     "move": "left",
+     "caption": "Ferrari 250 GTE|Squadra Mobile",
+     "dur": 4.92,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_rome_60s/1_commons.jpg",
+     "move": "in",
+     "dur": 5.07,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "No es el m\u00e1s r\u00e1pido.",
+     "highlight": "M\u00c1S R\u00c1PIDO",
+     "size": 150,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.55,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_autobahn/1_commons.jpg",
+     "move": "left",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_356/1_commons.jpg",
+     "move": "in",
+     "dur": 3.32,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_porsche911/1_commons.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.02,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "Los 10 coches patrulla m\u00e1s r\u00e1pidos",
+     "subtitle": "de los a\u00f1os 50 y 60",
+     "tag": "1950 \u2013 1969",
+     "bg": "a/m_polara69/1_commons.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 5.2,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Un regalo de Enzo Ferrari",
+      "Cazar motoristas en Londres",
+      "La estrella de la tele"
+     ],
+     "starts": [
+      0,
+      58,
+      120
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 2.4200000000000017
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 5.039999999999999
+      }
+     ],
+     "dur": 7.7,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_polara69/3_commons.jpg",
+     "move": "right",
+     "dur": 8.039,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch01.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/h_autobahn/2_commons.jpg",
+     "move": "in",
+     "dur": 7.22,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_auto_race/2_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.92,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_police_us/2_commons.jpg",
+     "move": "up",
+     "dur": 8.22,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_police_radio_1.jpg",
+     "move": "out",
+     "dur": 5.74,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_autobahn/4_commons.jpg",
+     "move": "down",
+     "dur": 5.66,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_356_police/1_commons.jpg",
+     "move": "in",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_356/2_commons.jpg",
+     "move": "left",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_356/3_commons.jpg",
+     "move": "out",
+     "dur": 8.98,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_speed/5_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_356/4_commons.jpg",
+     "move": "right",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_356/5_commons.jpg",
+     "move": "in",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_356_2/1_commons.jpg",
+     "move": "up",
+     "dur": 3.32,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 10,
+     "name": "Porsche 356",
+     "photo": "a/m_356_police/2_commons.jpg",
+     "credit": "Foto: Alf van Beem \u00b7 Public domain",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "\u2248160 km/h",
+     "sub": "Rijkspolitie \u00b7 Holanda y Alemania",
+     "dur": 5.64,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_london_60s/1_commons.jpg",
+     "move": "left",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_356_2/2_commons.jpg",
+     "move": "out",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_356_2/3_commons.jpg",
+     "move": "down",
+     "dur": 3.78,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "17.600",
+     "label": "florines \u00b7 el primer Porsche de la polic\u00eda (1960)",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Rijkspolitie",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_356_2/4_commons.jpg",
+     "move": "in",
+     "dur": 4.16,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_356_police/3_commons.jpg",
+     "move": "out",
+     "dur": 8.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_356_police/4_commons.jpg",
+     "move": "in",
+     "caption": "Rijkspolitie|a\u00f1os 60",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_356_2/5_commons.jpg",
+     "move": "left",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_356_2/6_commons.jpg",
+     "move": "out",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_356_2/7_commons.jpg",
+     "move": "right",
+     "dur": 3.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_356_police/5_commons.jpg",
+     "move": "right",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_dutch_356_1.jpg",
+     "move": "in",
+     "dur": 8.6,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "+500",
+     "label": "Porsche con los colores de la polic\u00eda holandesa",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Porsche",
+     "dur": 8.12,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 9,
+     "name": "Buick Century",
+     "photo": "a/m_buick55/5_commons.jpg",
+     "credit": "Foto: GTHO \u00b7 CC BY-SA 3.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "\u2248172 km/h",
+     "sub": "California Highway Patrol \u00b7 1955",
+     "dur": 5.12,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_buick55/1_commons.jpg",
+     "move": "in",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_police_us/4_commons.jpg",
+     "move": "up",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_police_us/6_commons.jpg",
+     "move": "out",
+     "dur": 6.86,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_buick_police/1_commons.jpg",
+     "move": "in",
+     "caption": "Buick Century|patrulla de carreteras",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_police_us/7_commons.jpg",
+     "move": "down",
+     "dur": 4.02,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_buick55/2_commons.jpg",
+     "move": "up",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_police_us/8_commons.jpg",
+     "move": "in",
+     "dur": 6.26,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_tv_1950s_1.jpg",
+     "move": "out",
+     "dur": 7.78,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_buick55/3_commons.jpg",
+     "move": "down",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_la_60s/1_commons.jpg",
+     "move": "left",
+     "dur": 3.34,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\u00abDiez-cuatro\u00bb: mensaje recibido.",
+     "highlight": "DIEZ-CUATRO",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_la_60s/2_commons.jpg",
+     "move": "out",
+     "dur": 7.86,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_buick55/4_commons.jpg",
+     "move": "in",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_buick_2/1_commons.jpg",
+     "move": "right",
+     "dur": 3.06,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch02.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/h_rome_60s/2_commons.jpg",
+     "move": "left",
+     "dur": 5.96,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 8,
+     "name": "Alfa Romeo Giulia Super",
+     "photo": "a/m_giulia/3_commons.jpg",
+     "credit": "Foto: Ermell \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "\u2248177 km/h",
+     "sub": "Polizia \u00b7 Carabinieri",
+     "dur": 4.18,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_giulia_polizia_old/2_commons.jpg",
+     "move": "out",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_rome_traffic/2_commons.jpg",
+     "move": "in",
+     "dur": 8.2,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_giulia_polizia_old/1_commons.jpg",
+     "move": "in",
+     "caption": "Polizia|Squadra Volante",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_rome_traffic/3_commons.jpg",
+     "move": "up",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_polizia_museo/5_commons.jpg",
+     "move": "out",
+     "dur": 6.2,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_giulia_polizia_old/3_commons.jpg",
+     "move": "right",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_polizia_museo/6_commons.jpg",
+     "move": "down",
+     "dur": 5.7,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_rome_60s/3_commons.jpg",
+     "move": "in",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ferrari_gte/4_commons.jpg",
+     "move": "in",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ferrari_gte/5_commons.jpg",
+     "move": "left",
+     "dur": 7.26,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_giulia_polizia_old/5_commons.jpg",
+     "move": "left",
+     "caption": "Carabinieri|\u00abgazzella\u00bb",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ferrari_2/1_commons.jpg",
+     "move": "out",
+     "dur": 4.82,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 7,
+     "name": "Daimler SP250",
+     "photo": "a/m_sp250/1_commons.jpg",
+     "credit": "Foto: Alexander Migl \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "+190 km/h",
+     "sub": "Polic\u00eda Metropolitana de Londres",
+     "dur": 5.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_cafe_racer/1_commons.jpg",
+     "move": "up",
+     "dur": 4.88,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_cafe_racer/2_commons.jpg",
+     "move": "out",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ferrari_2/2_commons.jpg",
+     "move": "right",
+     "dur": 4.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_sp250/2_commons.jpg",
+     "move": "down",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ferrari_2/3_commons.jpg",
+     "move": "in",
+     "dur": 8.38,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Se llamaba Dart\u2026 hasta que Dodge protest\u00f3.",
+     "highlight": "DART",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ferrari_2/4_commons.jpg",
+     "move": "up",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ferrari_2/5_commons.jpg",
+     "move": "out",
+     "dur": 6.16,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "26",
+     "label": "Daimler SP250 para la Polic\u00eda Metropolitana (1961\u20131964)",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "historia del modelo",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ferrari_2/6_commons.jpg",
+     "move": "down",
+     "dur": 4.28,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_sp250_police/1_commons.jpg",
+     "move": "in",
+     "caption": "SP250|negro, sin rotular",
+     "dur": 8.48,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_sp250/3_commons.jpg",
+     "move": "in",
+     "dur": 1.96,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_sp250/4_commons.jpg",
+     "move": "left",
+     "dur": 8.564,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch03.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/h_london_60s/4_commons.jpg",
+     "move": "out",
+     "dur": 4.84,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 6,
+     "name": "Jaguar S-Type",
+     "photo": "a/m_stype_police/4_commons.jpg",
+     "credit": "Foto: HHA124L \u00b7 CC BY-SA 2.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "\u2248195 km/h",
+     "sub": "Londres \u00b7 1967",
+     "dur": 3.34,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_stype_police/1_commons.jpg",
+     "move": "right",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_buick_2/2_commons.jpg",
+     "move": "in",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_buick_2/3_commons.jpg",
+     "move": "left",
+     "dur": 4.02,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "83",
+     "label": "Jaguar S-Type \u00b7 los primeros patrullas blancos de Londres",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Polic\u00eda Metropolitana",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_buick_2/6_commons.jpg",
+     "move": "out",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_buick_2/7_commons.jpg",
+     "move": "right",
+     "dur": 5.94,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_stype_police/2_commons.jpg",
+     "move": "in",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_buick_2/8_commons.jpg",
+     "move": "in",
+     "dur": 5.756,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 5,
+     "name": "Jaguar Mark 2",
+     "photo": "a/m_mk2/3_commons.jpg",
+     "credit": "Foto: Calreyn88 \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "\u2248200 km/h",
+     "sub": "3.8 litros \u00b7 220 CV",
+     "dur": 4.018,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_mk2/1_commons.jpg",
+     "move": "up",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_mk2_police/3_commons.jpg",
+     "move": "up",
+     "dur": 8.646,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_mk2/2_commons.jpg",
+     "move": "out",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_mk2_police/4_commons.jpg",
+     "move": "out",
+     "dur": 3.044,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_mk2/4_commons.jpg",
+     "move": "down",
+     "dur": 8.556,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_mk2/5_commons.jpg",
+     "move": "in",
+     "dur": 8.32,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_mk2/6_commons.jpg",
+     "move": "left",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_mk2_2/2_commons.jpg",
+     "move": "down",
+     "dur": 7.28,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seat1400/2_commons.jpg",
+     "move": "out",
+     "dur": 3.017,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch04.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "Mientras tanto, en Espa\u00f1a",
+     "subtitle": "Guardia Civil de Tr\u00e1fico",
+     "tag": "1959",
+     "bg": "a/m_seat1400/3_commons.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 1.33,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "3.500",
+     "label": "hombres en la nueva Agrupaci\u00f3n de Tr\u00e1fico (1959)",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "BOE",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_r10/3_commons.jpg",
+     "move": "in",
+     "dur": 6.17,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seat1400/4_commons.jpg",
+     "move": "in",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_r10/4_commons.jpg",
+     "move": "left",
+     "dur": 4.02,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seat1400/1_commons.jpg",
+     "move": "in",
+     "caption": "SEAT 1400|1953",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_r10/5_commons.jpg",
+     "move": "out",
+     "dur": 8.58,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seat1400/5_commons.jpg",
+     "move": "up",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seat1400_2/7_commons.jpg",
+     "move": "right",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seat1400_2/8_commons.jpg",
+     "move": "in",
+     "dur": 5.72,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_r10/1_commons.jpg",
+     "move": "in",
+     "caption": "Renault 10|FASA \u00b7 Valladolid",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_r10_2/1_commons.jpg",
+     "move": "up",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_r10_2/2_commons.jpg",
+     "move": "out",
+     "dur": 3.34,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seat1400/6_commons.jpg",
+     "move": "out",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_r10_2/3_commons.jpg",
+     "move": "down",
+     "dur": 7.62,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_r10/2_commons.jpg",
+     "move": "down",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_r10_2/4_commons.jpg",
+     "move": "in",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_r10_2/5_commons.jpg",
+     "move": "left",
+     "dur": 4.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_chase/1_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.791,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch05.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 4,
+     "name": "Dodge Polara 413",
+     "photo": "a/m_polara65/1_commons.jpg",
+     "credit": "Foto: Triple-green \u00b7 CC BY-SA 2.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "\u2248208 km/h",
+     "sub": "California \u00b7 1965",
+     "dur": 4.8,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_police_car/6_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_polara65/4_commons.jpg",
+     "move": "out",
+     "dur": 7.64,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_polara65/2_commons.jpg",
+     "move": "in",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_polara65/5_commons.jpg",
+     "move": "right",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_dodge_60s/2_commons.jpg",
+     "move": "in",
+     "dur": 5.16,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_polara_chp/1_commons.jpg",
+     "move": "in",
+     "caption": "Dodge|patrulla de California",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_dodge_60s/3_commons.jpg",
+     "move": "up",
+     "dur": 6.12,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_polara65/3_commons.jpg",
+     "move": "left",
+     "dur": 8.964,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 3,
+     "name": "Porsche 911 Targa",
+     "photo": "a/m_911targa/2_commons.jpg",
+     "credit": "Foto: Charles from Port Chester, New York \u00b7 CC BY 2.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "+210 km/h",
+     "sub": "Rijkspolitie \u00b7 desde 1967",
+     "dur": 4.816,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_911_police/1_commons.jpg",
+     "move": "out",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_dodge_60s/4_commons.jpg",
+     "move": "out",
+     "dur": 6.16,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_911_police/2_commons.jpg",
+     "move": "right",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_dodge_60s/5_commons.jpg",
+     "move": "down",
+     "dur": 6.48,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_911_police/5_commons.jpg",
+     "move": "in",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_dodge_60s/6_commons.jpg",
+     "move": "in",
+     "dur": 6.08,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_911_police/3_commons.jpg",
+     "move": "in",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_dodge_60s/7_commons.jpg",
+     "move": "left",
+     "dur": 6.625,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch06.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 2,
+     "name": "Ferrari 250 GTE",
+     "photo": "a/m_ferrari_police/2_commons.jpg",
+     "credit": "Foto: AlfvanBeem \u00b7 CC0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "\u2248230 km/h",
+     "sub": "Squadra Mobile \u00b7 Roma",
+     "dur": 5.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_rome_60s/4_commons.jpg",
+     "move": "up",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ferrari_2/7_commons.jpg",
+     "move": "out",
+     "dur": 8.64,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ferrari_police/4_commons.jpg",
+     "move": "out",
+     "dur": 6.04,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ferrari_gte/6_commons.jpg",
+     "move": "in",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ferrari_2/8_commons.jpg",
+     "move": "right",
+     "dur": 5.58,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ferrari_gte/2_commons.jpg",
+     "move": "down",
+     "dur": 6.08,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_maranello/4_commons.jpg",
+     "move": "in",
+     "caption": "Maranello",
+     "dur": 3.28,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Armando Spatafora",
+     "highlight": "SPATAFORA",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 8.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_spanish_steps/3_commons.jpg",
+     "move": "in",
+     "dur": 7.64,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_spanish_steps/1_commons.jpg",
+     "move": "in",
+     "caption": "Plaza de Espa\u00f1a|Roma",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_mk2_2/3_commons.jpg",
+     "move": "in",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_mk2_2/4_commons.jpg",
+     "move": "up",
+     "dur": 6.04,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_rome_traffic/1_commons.jpg",
+     "move": "left",
+     "dur": 5.78,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ferrari_gte/3_commons.jpg",
+     "move": "out",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_mk2_2/5_commons.jpg",
+     "move": "out",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_mk2_2/6_commons.jpg",
+     "move": "down",
+     "dur": 4.54,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_police_classic/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_mk2_2/7_commons.jpg",
+     "move": "in",
+     "dur": 4.322,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch07.flac",
+   "lead_in": 0,
+   "tail": 2.5,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 1,
+     "name": "Dodge Polara Pursuit",
+     "photo": "a/m_polara69/2_commons.jpg",
+     "credit": "Foto: RL GNZLZ \u00b7 CC BY-SA 2.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "\u2248241 km/h",
+     "sub": "California \u00b7 1969",
+     "dur": 7.9,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "1.564",
+     "label": "Dodge Polara para la patrulla de California (1969)",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CHP",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_dodge_60s/8_commons.jpg",
+     "move": "left",
+     "dur": 3.36,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_police_classic/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.88,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "241 km/h",
+     "label": "149,6 mph \u00b7 pista de Chrysler, Chelsea (Michigan)",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CHP / Chrysler",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_dodge_60s/9_commons.jpg",
+     "move": "out",
+     "dur": 3.54,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_polara69/4_commons.jpg",
+     "move": "right",
+     "dur": 5.72,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_dodge_60s/10_commons.jpg",
+     "move": "in",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_proving_ground_1.jpg",
+     "move": "right",
+     "dur": 7.5,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "R\u00e9cord durante d\u00e9cadas.",
+     "highlight": "D\u00c9CADAS",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_mk2_2/8_commons.jpg",
+     "move": "in",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_getaway_1.jpg",
+     "move": "up",
+     "dur": 7.44,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_dodge_60s/1_commons.jpg",
+     "move": "up",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_buick55/6_commons.jpg",
+     "move": "out",
+     "dur": 7.62,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_356_police/6_commons.jpg",
+     "move": "out",
+     "dur": 5.38,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_mk2_police/2_commons.jpg",
+     "move": "down",
+     "dur": 4.22,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_motorcycle_police/3_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.72,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Suscr\u00edbete",
+     "sub": "historias de coches cl\u00e1sicos",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 7.8,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "\u00bfDe cu\u00e1l habr\u00edas intentado escapar?",
+     "sub": "cu\u00e9ntamelo en los comentarios",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 4.424,
+     "fixed": false,
+     "fade_out": 0
+    }
+   ]
+  }
+ ],
+ "size": [
+  1920,
+  1080
+ ],
+ "subtitles": "ES02.ass"
+}

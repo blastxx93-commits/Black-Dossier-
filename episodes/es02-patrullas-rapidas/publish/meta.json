@@ -1,0 +1,35 @@
+{
+ "lang": "es",
+ "tagline": "Historia real del automóvil, con fuentes.",
+ "compact_credits": true,
+ "credits_file": "episodes/es02-patrullas-rapidas/publish/creditos_completos.txt",
+ "other_line": "Imágenes de archivo: Prelinger Archives y Universal Newsreels (dominio público, Internet Archive), Wikimedia Commons y Pixabay. Algunas escenas son ilustraciones generadas por IA, no hechos reales.",
+ "intro": "En los años 50 y 60 los coches eran cada vez más rápidos, y la policía de medio mundo tuvo que hacer algo nuevo: comprar deportivos. Del Porsche 356 de la policía holandesa al Buick de la serie Highway Patrol, los Jaguar y el Daimler de Londres, el Alfa Romeo de las Volanti, el Ferrari 250 GTE que Enzo Ferrari regaló a la policía de Roma… y el sedán americano que estableció un récord de velocidad durante décadas. Y en España: la Guardia Civil de Tráfico, el SEAT 1400 y el Renault 10.\n\nVídeo divulgativo basado en fuentes publicadas. Las velocidades son aproximadas, según datos de fábrica y pruebas de la época. Algunas escenas son recreaciones generadas por IA.",
+ "chapters": [
+  "El Ferrari de la policía de Roma",
+  "10 · Porsche 356 y 9 · Buick Century",
+  "8 · Alfa Romeo Giulia y 7 · Daimler SP250",
+  "6 · Jaguar S-Type y 5 · Jaguar Mark 2",
+  "Mientras tanto, en España",
+  "4 · Dodge Polara 413 y 3 · Porsche 911 Targa",
+  "2 · Ferrari 250 GTE",
+  "1 · Dodge Polara Pursuit 1969"
+ ],
+ "sources": [
+  "Hagerty: The first and greatest Ferrari police car of all was this 250 GTE",
+  "Motor1 España: Ferrari 250 GTE 1962 de la policía de Roma",
+  "Hagerty: For more than 30 years, the Dutch police force was one of Porsche's best customers",
+  "Porsche Newsroom: Rijkspolitie, Netherlands",
+  "GM Heritage: 1955 Buick Century (California Highway Patrol)",
+  "Old Cars Weekly: '55 Buick Century",
+  "Wikipedia: Daimler SP250; Hagerty: the Daimler built to catch London's café racers",
+  "Lancaster Insurance / Classic & Sports Car: police cars through the years (Jaguar S-Type, Met Police)",
+  "Wikipedia: Jaguar Mark 2",
+  "Journal ClassicCars: When gazelles and panthers roamed Italian roads (Alfa Romeo)",
+  "Street Muscle: 1969 CHP Dodge Polara (149.6 mph, Chelsea)",
+  "BOE: Agrupación de Tráfico de la Guardia Civil (Ley 47/1959)",
+  "Autonoción / Lancaster: SEAT 1400 B, primer coche de la Guardia Civil de Tráfico",
+  "Coches.com / Motor16: Renault 10 de la Guardia Civil"
+ ],
+ "tags_line": "#cochespatrulla #policia #cochesclasicos #años60 #ferrari"
+}
