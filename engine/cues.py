@@ -9,13 +9,15 @@ from agent/transcribe.py, so each shot starts exactly when its phrase is spoken.
     ch.at(0, chapter_card)                             # or at a time in seconds
     episode["chapters"].append(ch.build())
 """
-import difflib, json, re
+import difflib, json, re, unicodedata
 
 LEAD = 0.12  # picture lands this many seconds before the word
 
 
 def norm(t):
     t = t.lower().replace("’", "'")
+    # fold accents (número -> numero, ñ -> n) so Spanish words align instead of losing letters; English is unchanged
+    t = "".join(c for c in unicodedata.normalize("NFKD", t) if not unicodedata.combining(c))
     return re.sub(r"[^a-z0-9']", "", t)
 
 
