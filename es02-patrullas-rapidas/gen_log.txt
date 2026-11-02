@@ -1,0 +1,48 @@
+ai_rome_chase_1: Gemini falhou (Gemini 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and ), tentando Replicate
+ai_rome_chase_1: 2752x1536
+ai_cafe_racers_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_cafe_racers_1: 2752x1536
+ai_dutch_356_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_dutch_356_1: 2752x1536
+ai_targa_officer_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_targa_officer_1: 2752x1536
+ai_chp_1969_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_chp_1969_1: 2752x1536
+ai_proving_ground_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_proving_ground_1: 2752x1536
+ai_gc_motos_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_gc_motos_1: 2752x1536
+ai_police_radio_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_police_radio_1: 2752x1536
+ai_tv_1950s_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_tv_1950s_1: 2752x1536
+ai_maranello_police_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_maranello_police_1: 2752x1536
+ai_getaway_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_getaway_1: 2752x1536
+ai_autostrada_check_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_autostrada_check_1: 2752x1536
+# Imagens IA — es02-patrullas-rapidas
+
+- Modelo: `gemini-2.5-flash-image`
+- Imagens geradas: 12
+- Folhas: ai_contact_sheet_1.jpg, ai_contact_sheet_2.jpg
+
+| plano | resultado |
+|---|---|
+| `ai_rome_chase` | 1 de 1 |
+| `ai_cafe_racers` | 1 de 1 |
+| `ai_dutch_356` | 1 de 1 |
+| `ai_targa_officer` | 1 de 1 |
+| `ai_chp_1969` | 1 de 1 |
+| `ai_proving_ground` | 1 de 1 |
+| `ai_gc_motos` | 1 de 1 |
+| `ai_police_radio` | 1 de 1 |
+| `ai_tv_1950s` | 1 de 1 |
+| `ai_maranello_police` | 1 de 1 |
+| `ai_getaway` | 1 de 1 |
+| `ai_autostrada_check` | 1 de 1 |
+
