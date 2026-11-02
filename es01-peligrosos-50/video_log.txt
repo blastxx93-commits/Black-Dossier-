@@ -1,62 +1,289 @@
-[     0s] es01-peligrosos-50: 7 planos de video
-[    21s]   c_microcar / archive: 3 filmes para 'bubble car'
-[    37s]     trecho escuro em 88s, tentando mais adiante
-[    78s]     + 1_archive.mp4 de 'On Guard! The Story of SAGE' a partir de 235s
-[   108s]     + 2_archive.mp4 de 'On Guard! The Story of SAGE' a partir de 647s
-[   118s]     trecho escuro em 89s, tentando mais adiante
-[   127s]     + 3_archive.mp4 de 'On Guard! The Story of SAGE' a partir de 236s
-[   135s]     + 4_archive.mp4 de 'On Guard! The Story of SAGE' a partir de 650s
-[   161s]     + 5_archive.mp4 de "It's Everybody's Business" a partir de 143s
-[   184s]   c_volkswagen / archive: 4 filmes para 'Volkswagen'
-[   206s]     + 1_archive.mp4 de 'Corvair in Action, The' a partir de 47s
-[   223s]     + 2_archive.mp4 de 'Corvair in Action, The' a partir de 342s
-[   234s]     + 3_archive.mp4 de 'Wide World Music Hall Announcement' a partir de 216s
-[   255s]     + 4_archive.mp4 de 'Wide World Music Hall Announcement' a partir de 1584s
-[   317s]     trecho escuro em 182s, tentando mais adiante
-[   328s]     corte falhou (Televisi1960_edit.mp4): : Invalid data found when processing input
-Error opening input file https://archive.org/download/Televisi1960/Televisi1960_edit.mp4.
-Error opening input files: Invalid data found when processing input
-[   330s]     corte falhou (Televisi1960_edit.mp4): nput: Server returned 5XX Server Error reply
-Error opening input file https://archive.org/download/Televisi1960/Televisi1960_edit.mp4.
-Error opening input files: Server returned 5XX Server Error reply
-[   361s]     + 5_archive.mp4 de '[Home Movies: Nevada, Oregon, Washington, California]' a partir de 210s
-[   367s]   c_mercedes / archive: 0 filmes para 'Mercedes'
-[   371s]   c_mercedes / archive: 0 filmes para 'German sports car'
-[   391s]   c_mercedes / archive: 3 filmes para 'sports car'
-[   406s]     + 1_archive.mp4 de 'President. Foreign Students Hear Peace Hopes, 1955/07/15' a partir de 47s
-[   421s]     + 2_archive.mp4 de 'President. Foreign Students Hear Peace Hopes, 1955/07/15' a partir de 348s
-[   430s]     + 3_archive.mp4 de 'Army Digs In for Defense of Arctic, 1956/02/27' a partir de 46s
-[   439s]     + 4_archive.mp4 de 'Army Digs In for Defense of Arctic, 1956/02/27' a partir de 340s
-[   449s]     + 5_archive.mp4 de 'Baghdad pact. Unified Military Command Seen, 1958/01/30' a partir de 14s
-[   501s]   c_detroit / archive: 8 filmes para 'Detroit'
-[   512s]     corte falhou (1959-03-19_Detroit.mp4): erver returned 5XX Server Error reply
-Error opening input file https://archive.org/download/1959-03-19_Detroit/1959-03-19_Detroit.mp4.
-Error opening input files: Server returned 5XX Server Error reply
-[   530s]     trecho escuro em 31s, tentando mais adiante
-[   551s]     trecho escuro em 30s, tentando mais adiante
-[   578s]     + 1_archive.mp4 de 'Ingenuity in Action' a partir de 197s
-[   590s]     + 2_archive.mp4 de 'Ingenuity in Action' a partir de 1441s
-[   600s]     + 3_archive.mp4 de '[Home Movies: Croft Collection: Can 82: Small Plane]' a partir de 105s
-[   607s]     trecho escuro em 770s, tentando mais adiante
-[   616s]     + 4_archive.mp4 de '[Home Movies: Croft Collection: Can 82: Small Plane]' a partir de 744s
-[   627s]     trecho escuro em 196s, tentando mais adiante
-[   636s]     + 5_archive.mp4 de 'Ingenuity in Action' a partir de 524s
-[   650s]   c_highway_safety / archive: 8 filmes para 'highway safety'
-[   676s]     + 1_archive.mp4 de 'American Harvest (Part I)' a partir de 95s
-[   694s]     + 2_archive.mp4 de 'American Harvest (Part I)' a partir de 697s
-[   706s]     + 3_archive.mp4 de '[Superior Coach Corp. FOCUS leader]' a partir de 8s
-[   711s]     trecho escuro em 18s, tentando mais adiante
-[   718s]     trecho escuro em 17s, tentando mais adiante
-[   732s]     + 4_archive.mp4 de 'Wheels of Tragedy' a partir de 199s
-[   747s]     + 5_archive.mp4 de 'Wheels of Tragedy' a partir de 1463s
-[   749s]   c_motor_race_crowd / archive: 0 filmes para 'grandstand'
-[   752s]   c_motor_race_crowd / archive: 1 filmes para 'race crowd'
-[   759s]     + 1_archive.mp4 de 'Armed Forces display U.S. Might On Observance Day, 1956/05/2' a partir de 48s
-[   767s]     + 2_archive.mp4 de 'Armed Forces display U.S. Might On Observance Day, 1956/05/2' a partir de 350s
-[   770s]   c_motor_race_crowd / archive: 0 filmes para 'spectators race'
-[   786s]   c_spain_traffic / archive: 4 filmes para 'Madrid'
-[   792s]     + 1_archive.mp4 de 'Behind the Fashion Curtain' a partir de 207s
-[   798s]     + 2_archive.mp4 de 'Behind the Fashion Curtain' a partir de 1520s
-[   807s]     + 3_archive.mp4 de 'Behind the Fashion Curtain' a partir de 208s
-[   814s]     + 4_archive.mp4 de 'Behind the Fashion Curtain' a partir de 1525s
-[   823s]     + 5_archive.mp4 de 'Protests Galore! 1967/05/05' a partir de 24s
+[     0s] es01-peligrosos-50: 17 planos de video
+[     1s]   v_isetta / commons: 2 filmes para 'BMW Isetta'
+[     3s]   v_isetta / pixabay: 10 filmes para 'BMW Isetta'
+[     3s]   v_isetta / pexels: 0 filmes para 'BMW Isetta'
+[     4s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=BMW+Isetta&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa8
+[     4s]   v_isetta / coverr: 0 filmes para 'BMW Isetta'
+[     9s]     trecho escuro em 8s, tentando mais adiante
+[    16s]     + 1_commons.mp4 de '1957Isetta.webm' a partir de 12s
+[    16s]     trecho escuro em 17s, tentando mais adiante
+[    16s]     corte falhou (Concours_van_koetswerken_op_de_boulevard-511869.og): swerken_op_de_boulevard-511869.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    17s]     trecho escuro em 0s, tentando mais adiante
+[    27s]     + 2_pixabay.mp4 de 'car, automobile, vehicle, road, bmw, 100' a partir de 0s
+[    39s]     + 3_pixabay.mp4 de 'car, vehicle, road, bmw, speed' a partir de 0s
+[    42s]     + 4_pixabay.mp4 de 'bmw, amsterdam, interior, light stripes, car interior, night' a partir de 0s
+[    44s]   v_kr200 / commons: 1 filmes para 'Messerschmitt KR200'
+[    45s]   v_kr200 / pixabay: 0 filmes para 'Messerschmitt KR200'
+[    45s]   v_kr200 / pexels: 0 filmes para 'Messerschmitt KR200'
+[    46s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=Messerschmitt+KR200&page_size=8&urls=true&api_key=e46f0775805a10c2
+[    46s]   v_kr200 / coverr: 0 filmes para 'Messerschmitt KR200'
+[    46s]     corte falhou (Messerschmitt_KR175_-_Tokyo_-_Jan_7_2020.webm?utm_): tt_KR175_-_Tokyo_-_Jan_7_2020.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    47s]   v_kr200 / commons: 1 filmes para 'Messerschmitt Kabinenroller'
+[    49s]   v_kr200 / pixabay: 0 filmes para 'Messerschmitt Kabinenroller'
+[    49s]   v_kr200 / pexels: 0 filmes para 'Messerschmitt Kabinenroller'
+[    49s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=Messerschmitt+Kabinenroller&page_size=8&urls=true&api_key=e46f0775
+[    49s]   v_kr200 / coverr: 0 filmes para 'Messerschmitt Kabinenroller'
+[    51s]   v_kr200 / commons: 7 filmes para 'bubble car'
+[    52s]   v_kr200 / pixabay: 12 filmes para 'bubble car'
+[    52s]   v_kr200 / pexels: 0 filmes para 'bubble car'
+[    53s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=bubble+car&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa8
+[    53s]   v_kr200 / coverr: 0 filmes para 'bubble car'
+[    53s]     corte falhou (Wikipedia_-_25_years_of_humanity_at_its_best.webm?): years_of_humanity_at_its_best.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    53s]     corte falhou (Benchmark_SuperTux_Kart_Base_Profile_2025.07.04_-_): file_2025.07.04_-_10.19.10.02.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    54s]     corte falhou (State_of_the_Union_Address_%28January_27%2C_2010%2): ack_Obama_%28WhiteHouse.gov%29.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    54s]     corte falhou (State_of_the_Union_Address_%28January_27%2C_2010%2): a_%28WhiteHouse.gov-reedit%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    54s]     corte falhou (Wikidata_Workshop_-_Theoretical_part_-_Maastricht_): _University_-_15_October_2024.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    54s]     corte falhou (State_of_the_Union_Address_%28January_27%2C_2010%2): ma_%28WhiteHouse.gov-reedit%29.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    58s]     + 1_pixabay.mp4 de 'soap bubble, freeze, winter, cold, freezing, ice cream, froz' a partir de 14s
+[    65s]     + 2_pixabay.mp4 de 'soap bubble, freeze, crystal formation, crystals, ice crysta' a partir de 8s
+[    73s]     + 3_pixabay.mp4 de 'underwater, sea, ocean, water, air bubbles, blue, underwater' a partir de 9s
+[    81s]     + 4_pixabay.mp4 de 'car, road, transportation, vehicle, driving, car on road, tr' a partir de 21s
+[    83s]   v_trabant / commons: 9 filmes para 'Trabant'
+[    84s]   v_trabant / pixabay: 7 filmes para 'Trabant'
+[    84s]   v_trabant / pexels: 0 filmes para 'Trabant'
+[    85s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=Trabant&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e0
+[    85s]   v_trabant / coverr: 0 filmes para 'Trabant'
+[    85s]     corte falhou (Sarychev_Peak_eruption_on_12_June_2009%2C_oblique_): 2009%2C_oblique_satellite_view.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    85s]     corte falhou (Tour_of_the_Moon_in_4K.webm?utm_source=commons.wik): s/c/c3/Tour_of_the_Moon_in_4K.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    85s]     corte falhou (Moon_transit_of_sun_large.ogv?utm_source=commons.w): 2/29/Moon_transit_of_sun_large.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    85s]     corte falhou (DDR-Kultauto_Trabant.webm?utm_source=commons.wikim): ons/d/d9/DDR-Kultauto_Trabant.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    85s]     corte falhou (Urmia_lake_drought.webm?utm_source=commons.wikimed): mmons/a/a4/Urmia_lake_drought.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    86s]     corte falhou (The_Moon_Visible_During_The_Day.webm?utm_source=co): e_Moon_Visible_During_The_Day.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    86s]     corte falhou (Feb_2011_Storm_Moves_Across_the_U.S.ogv?utm_source): 011_Storm_Moves_Across_the_U.S.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    86s]     corte falhou (Jupiter_Moon_Orbits.ogv?utm_source=commons.wikimed): mmons/3/30/Jupiter_Moon_Orbits.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    86s]     corte falhou (Moon_360_animation_4k.webm?utm_source=commons.wiki): ns/e/ee/Moon_360_animation_4k.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[    86s]     trecho escuro em 8s, tentando mais adiante
+[    87s]     trecho escuro em 9s, tentando mais adiante
+[   101s]     + 1_pixabay.mp4 de 'moon, full moon, heaven, satellite, ache, harvest moon, clou' a partir de 12s
+[   101s]     trecho escuro em 8s, tentando mais adiante
+[   102s]     trecho escuro em 12s, tentando mais adiante
+[   103s]     trecho escuro em 0s, tentando mais adiante
+[   112s]     + 2_pixabay.mp4 de 'moon, satellite, space, crater, rotation, heaven, luna, luna' a partir de 0s
+[   112s]     trecho escuro em 8s, tentando mais adiante
+[   113s]     trecho escuro em 8s, tentando mais adiante
+[   123s]     trecho escuro em 0s, tentando mais adiante
+[   124s]     trecho escuro em 0s, tentando mais adiante
+[   142s]     + 3_pixabay.mp4 de 'moon, heaven, night, dark, night sky, astronomy, satellite' a partir de 0s
+[   143s]     trecho escuro em 0s, tentando mais adiante
+[   150s]     + 4_pixabay.mp4 de 'moon, plane, night, dark, contrails, zoom, satellite, celest' a partir de 0s
+[   153s]   v_seat600 / commons: 4 filmes para 'Seat 600'
+[   155s]   v_seat600 / pixabay: 10 filmes para 'Seat 600'
+[   155s]   v_seat600 / pexels: 0 filmes para 'Seat 600'
+[   156s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=Seat+600&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e
+[   156s]   v_seat600 / coverr: 0 filmes para 'Seat 600'
+[   156s]     corte falhou (The_Best_Commuter_Bike_I%27ve_Ever_Owned-The_Prior): ity_600_with_Gates_and_Pinion.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   156s]     corte falhou (Late_Night_Traffic_Stop_Erupts_Into_Gunfire_After_): nfire_After_Man_Grabs_Handgun.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   156s]     corte falhou (Armstrong_Whitworth_AW.15_Atalanta_1932.webm?utm_s): Whitworth_AW.15_Atalanta_1932.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   156s]     corte falhou (Recording_of_discussion_-_WMF_Annual_Plan_2023-34_): _-_regarding_Future_Audiences.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   169s]     + 1_pixabay.mp4 de 'spring, park, swinging bench, seat, relax, romantic, nature,' a partir de 8s
+[   182s]     trecho escuro em 8s, tentando mais adiante
+[   195s]     trecho escuro em 8s, tentando mais adiante
+[   204s]     trecho escuro em 0s, tentando mais adiante
+[   210s]     + 2_pixabay.mp4 de 'sofa, chromakey, new, design, leather, brown, white, checker' a partir de 0s
+[   218s]     + 3_pixabay.mp4 de 'chairs, empty, concept, desert, business, leadership, insura' a partir de 8s
+[   227s]     + 4_pixabay.mp4 de 'church, religion, god, light, holy, trinity, jesus, cathedra' a partir de 10s
+[   229s]   v_beetle / commons: 1 filmes para 'Volkswagen Beetle classic'
+[   230s]   v_beetle / pixabay: 12 filmes para 'Volkswagen Beetle classic'
+[   230s]   v_beetle / pexels: 0 filmes para 'Volkswagen Beetle classic'
+[   231s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=Volkswagen+Beetle+classic&page_size=8&urls=true&api_key=e46f077580
+[   231s]   v_beetle / coverr: 0 filmes para 'Volkswagen Beetle classic'
+[   232s]     trecho escuro em 8s, tentando mais adiante
+[   233s]     trecho escuro em 12s, tentando mais adiante
+[   243s]     + 1_pixabay.mp4 de 'porsche, vintage speedster, speedster, classic, classic cars' a partir de 18s
+[   244s]     trecho escuro em 0s, tentando mais adiante
+[   252s]     + 2_pixabay.mp4 de 'volkswagen, van, vw, vehicle, holidays, vacation, hippies, r' a partir de 0s
+[   263s]     trecho escuro em 8s, tentando mais adiante
+[   275s]     trecho escuro em 8s, tentando mais adiante
+[   300s]     + 3_pixabay.mp4 de 'longhorn beetle, beetle, animal, insect, wildlife, nature' a partir de 8s
+[   307s]     + 4_pixabay.mp4 de 'ladybug, harmonia axyridis, lady bug, asian ladybeetle, asia' a partir de 16s
+[   308s]   v_300sl / commons: 0 filmes para 'Mercedes 300 SL'
+[   309s]   v_300sl / pixabay: 11 filmes para 'Mercedes 300 SL'
+[   309s]   v_300sl / pexels: 0 filmes para 'Mercedes 300 SL'
+[   310s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=Mercedes+300+SL&page_size=8&urls=true&api_key=e46f0775805a10c2dd34
+[   310s]   v_300sl / coverr: 0 filmes para 'Mercedes 300 SL'
+[   320s]     + 1_pixabay.mp4 de 'car ride, 300 km h, ride, acceleration, highway, speed, move' a partir de 10s
+[   321s]     trecho escuro em 8s, tentando mais adiante
+[   322s]     trecho escuro em 8s, tentando mais adiante
+[   323s]     trecho escuro em 0s, tentando mais adiante
+[   325s]     trecho escuro em 0s, tentando mais adiante
+[   346s]     + 2_pixabay.mp4 de 'unimog, mercedes-benz, off-road, military, truck' a partir de 0s
+[   368s]     + 3_pixabay.mp4 de 'road, car, mercedes, mercedes-benz, snow, woods, trees, wint' a partir de 8s
+[   375s]     + 4_pixabay.mp4 de 'mercedes benz, berlin, car, auto, antique car, the vehicle, ' a partir de 21s
+[   377s]   v_porsche550 / commons: 1 filmes para 'Porsche 550 Spyder'
+[   378s]   v_porsche550 / pixabay: 12 filmes para 'Porsche 550 Spyder'
+[   378s]   v_porsche550 / pexels: 0 filmes para 'Porsche 550 Spyder'
+[   379s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=Porsche+550+Spyder&page_size=8&urls=true&api_key=e46f0775805a10c2d
+[   379s]   v_porsche550 / coverr: 0 filmes para 'Porsche 550 Spyder'
+[   379s]     corte falhou (Porsche_550_-_downtown_Tokyo_-_2024_Jan_6.webm?utm): -_downtown_Tokyo_-_2024_Jan_6.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   386s]     + 1_pixabay.mp4 de 'porsche spyder, vintage porsche, porsche, classic, car' a partir de 10s
+[   392s]     + 2_pixabay.mp4 de 'porsche, speedster, convertible, cars, 911, oldtimer, luxury' a partir de 0s
+[   411s]     + 3_pixabay.mp4 de 'woman, path, park, road, riding, bicycle, garosu-gil, meta-p' a partir de 11s
+[   427s]     + 4_pixabay.mp4 de 'garosu-gil, meta-porsche inquiries enjoy, riding, bicycle, a' a partir de 12s
+[   428s]   v_dauphine / commons: 0 filmes para 'Renault Dauphine'
+[   429s]   v_dauphine / pixabay: 1 filmes para 'Renault Dauphine'
+[   429s]   v_dauphine / pexels: 0 filmes para 'Renault Dauphine'
+[   431s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=Renault+Dauphine&page_size=8&urls=true&api_key=e46f0775805a10c2dd3
+[   431s]   v_dauphine / coverr: 0 filmes para 'Renault Dauphine'
+[   432s]     trecho escuro em 8s, tentando mais adiante
+[   433s]     trecho escuro em 8s, tentando mais adiante
+[   436s]   v_dauphine / commons: 0 filmes para 'Renault Dauphine driving'
+[   437s]   v_dauphine / pixabay: 9 filmes para 'Renault Dauphine driving'
+[   437s]   v_dauphine / pexels: 0 filmes para 'Renault Dauphine driving'
+[   438s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=Renault+Dauphine+driving&page_size=8&urls=true&api_key=e46f0775805
+[   438s]   v_dauphine / coverr: 0 filmes para 'Renault Dauphine driving'
+[   453s]     + 1_pixabay.mp4 de 'car, desert, driving, drone, sand, arial, tajikistan' a partir de 0s
+[   459s]     + 2_pixabay.mp4 de 'traffic, city traffic, drone, transportation, crowd, driving' a partir de 0s
+[   475s]     + 3_pixabay.mp4 de 'transport, traffic, highway, road, transportation, city, tra' a partir de 9s
+[   492s]     + 4_pixabay.mp4 de 'car, driving, sunset, sunlight, lens, flare, drone, aerial, ' a partir de 0s
+[   494s]   v_belair / commons: 1 filmes para 'Chevrolet Bel Air'
+[   495s]   v_belair / pixabay: 11 filmes para 'Chevrolet Bel Air'
+[   495s]   v_belair / pexels: 0 filmes para 'Chevrolet Bel Air'
+[   496s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=Chevrolet+Bel+Air&page_size=8&urls=true&api_key=e46f0775805a10c2dd
+[   496s]   v_belair / coverr: 0 filmes para 'Chevrolet Bel Air'
+[   496s]     corte falhou (SEMA_SHOW_2018_to_TOKYO_AUTO_SALON_2019_ROHAN_1958): 21_Coming_Soon_2019_TAS%21%21.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   501s]     + 1_pixabay.mp4 de 'moon, clock, time, night, clouds, midnight, quiet, silence, ' a partir de 10s
+[   507s]     trecho escuro em 8s, tentando mais adiante
+[   513s]     trecho escuro em 8s, tentando mais adiante
+[   524s]     + 2_pixabay.mp4 de 'sky, air, clouds, high, nature, weather, blue, atmosphere, s' a partir de 8s
+[   531s]     + 3_pixabay.mp4 de 'drone, nature, landscape, air, photo, water, sea, ocean, liv' a partir de 8s
+[   539s]     + 4_pixabay.mp4 de 'sky, clouds, blue, atmosphere, blue sky, cloudy, nature, hea' a partir de 8s
+[   541s]   v_edsel / commons: 1 filmes para 'Edsel'
+[   542s]   v_edsel / pixabay: 0 filmes para 'Edsel'
+[   542s]   v_edsel / pexels: 0 filmes para 'Edsel'
+[   543s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=Edsel&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e04d
+[   543s]   v_edsel / coverr: 0 filmes para 'Edsel'
+[   543s]     corte falhou (Detroit_Today_and_Tomorrow_-_Detroit_Clearing_Hous): d_the_Civic_Center_%281957%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   544s]   v_edsel / commons: 0 filmes para 'Edsel 1958'
+[   546s]   v_edsel / pixabay: 0 filmes para 'Edsel 1958'
+[   546s]   v_edsel / pexels: 0 filmes para 'Edsel 1958'
+[   546s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=Edsel+1958&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa8
+[   546s]   v_edsel / coverr: 0 filmes para 'Edsel 1958'
+[   548s]   v_vintage_drive / commons: 1 filmes para 'vintage car driving'
+[   549s]   v_vintage_drive / pixabay: 12 filmes para 'vintage car driving'
+[   549s]   v_vintage_drive / pexels: 0 filmes para 'vintage car driving'
+[   550s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=vintage+car+driving&page_size=8&urls=true&api_key=e46f0775805a10c2
+[   550s]   v_vintage_drive / coverr: 0 filmes para 'vintage car driving'
+[   550s]     corte falhou (Les_origines_de_Wikip%C3%A9dia.webm?utm_source=com): es_origines_de_Wikip%C3%A9dia.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   560s]     + 1_pixabay.mp4 de 'hot rod, ford, chevrolet, custom, automobile, car, vehicle, ' a partir de 10s
+[   566s]     + 2_pixabay.mp4 de 'car, vintage, sunset, driving, road trip, retro, fuzzy dice,' a partir de 0s
+[   566s]     trecho escuro em 0s, tentando mais adiante
+[   570s]     + 3_pixabay.mp4 de 'ai generated, retro, car, vintage, backgrounds, wallpaper, p' a partir de 0s
+[   570s]     trecho escuro em 0s, tentando mais adiante
+[   571s]     trecho escuro em 0s, tentando mais adiante
+[   584s]     + 4_pixabay.mp4 de 'synthwave, retrowave, vaporwave, 80s, retro, car, sports car' a partir de 0s
+[   585s]   v_vintage_race / commons: 0 filmes para 'historic car race'
+[   587s]   v_vintage_race / pixabay: 9 filmes para 'historic car race'
+[   587s]   v_vintage_race / pexels: 0 filmes para 'historic car race'
+[   588s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=historic+car+race&page_size=8&urls=true&api_key=e46f0775805a10c2dd
+[   588s]   v_vintage_race / coverr: 0 filmes para 'historic car race'
+[   597s]     + 1_pixabay.mp4 de 'rallye, car race, rally, drifting, dirt, dust, curve, speed,' a partir de 0s
+[   598s]     trecho escuro em 21s, tentando mais adiante
+[   598s]     trecho escuro em 32s, tentando mais adiante
+[   607s]     + 2_pixabay.mp4 de 'cars, motorway, speed, motion, traffic, highway, vehicle, au' a partir de 21s
+[   622s]     trecho escuro em 8s, tentando mais adiante
+[   636s]     trecho escuro em 8s, tentando mais adiante
+[   662s]     + 3_pixabay.mp4 de 'traffic, city, stop, road, car, bridge, river, urban' a partir de 8s
+[   663s]     trecho escuro em 0s, tentando mais adiante
+[   664s]     trecho escuro em 0s, tentando mais adiante
+[   693s]     + 4_pixabay.mp4 de 'train, mountains, rhb, switzerland, unesco, bernina, forest,' a partir de 0s
+[   695s]   v_tail_fins / commons: 0 filmes para 'classic american car chrome'
+[   696s]   v_tail_fins / pixabay: 12 filmes para 'classic american car chrome'
+[   696s]   v_tail_fins / pexels: 0 filmes para 'classic american car chrome'
+[   697s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=classic+american+car+chrome&page_size=8&urls=true&api_key=e46f0775
+[   697s]   v_tail_fins / coverr: 0 filmes para 'classic american car chrome'
+[   707s]     + 1_pixabay.mp4 de 'hot rod, ford, custom, automobile, car, vehicle, vintage, cl' a partir de 8s
+[   717s]     + 2_pixabay.mp4 de 'hot rod, ford, chevrolet, custom, automobile, car, vehicle, ' a partir de 8s
+[   726s]     + 3_pixabay.mp4 de 'hot rod, ford, custom, automobile, car, vehicle, vintage, cl' a partir de 8s
+[   737s]     + 4_pixabay.mp4 de 'hot rod, ford, custom, automobile, car, vehicle, vintage, cl' a partir de 8s
+[   739s]   v_steering_wheel / commons: 0 filmes para 'vintage steering wheel driving'
+[   741s]   v_steering_wheel / pixabay: 11 filmes para 'vintage steering wheel driving'
+[   741s]   v_steering_wheel / pexels: 0 filmes para 'vintage steering wheel driving'
+[   742s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=vintage+steering+wheel+driving&page_size=8&urls=true&api_key=e46f0
+[   742s]   v_steering_wheel / coverr: 0 filmes para 'vintage steering wheel driving'
+[   742s]     trecho escuro em 8s, tentando mais adiante
+[   747s]     trecho escuro em 8s, tentando mais adiante
+[   759s]     + 1_pixabay.mp4 de 'cockpit, pilot, steering wheel, aircraft, flying, airport, a' a partir de 0s
+[   775s]     + 2_pixabay.mp4 de 'ferris wheel, amusement park, fun, ride, wheel, fair, carniv' a partir de 12s
+[   785s]     + 3_pixabay.mp4 de 'car, road, auto, transportation, car on road, drive, transpo' a partir de 16s
+[   803s]     + 4_pixabay.mp4 de 'machine, gears, metal, old, wheel, industry, industrial, equ' a partir de 0s
+[   804s]   v_seatbelt / commons: 0 filmes para 'fastening seat belt'
+[   805s]   v_seatbelt / pixabay: 12 filmes para 'fastening seat belt'
+[   805s]   v_seatbelt / pexels: 0 filmes para 'fastening seat belt'
+[   806s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=fastening+seat+belt&page_size=8&urls=true&api_key=e46f0775805a10c2
+[   806s]   v_seatbelt / coverr: 0 filmes para 'fastening seat belt'
+[   816s]     + 1_pixabay.mp4 de 'planet, asteroid belt, cosmos, space, moon' a partir de 10s
+[   827s]     + 2_pixabay.mp4 de 'bolt, screw, fastening, metal, mechanics, repair' a partir de 8s
+[   836s]     + 3_pixabay.mp4 de 'baggage claim, luggage belt, airport, travel, carousel, lugg' a partir de 8s
+[   853s]     + 4_pixabay.mp4 de 'bird, grouse, scalpel, alpine belt, altitude 3000m, ankle, e' a partir de 11s
+[   855s]   v_microcar / commons: 10 filmes para 'microcar'
+[   856s]   v_microcar / pixabay: 0 filmes para 'microcar'
+[   856s]   v_microcar / pexels: 0 filmes para 'microcar'
+[   857s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=microcar&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e
+[   857s]   v_microcar / coverr: 0 filmes para 'microcar'
+[   868s]     + 1_commons.mp4 de 'Défilé motorisé (Colmar).ogv' a partir de 9s
+[   868s]     corte falhou (59th_brigade_suring_kherson_counteroffensive.webm?): ring_kherson_counteroffensive.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   868s]     corte falhou (Orrery-Planetaire-Waielbi.ogv?utm_source=commons.w): f/f3/Orrery-Planetaire-Waielbi.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   868s]     corte falhou (Fietsers_in_de_IJ-tunnel_%28video%29.webm?utm_sour): s_in_de_IJ-tunnel_%28video%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   868s]     corte falhou (Lego_Wimshurst_Sparking_11mm.webm?utm_source=commo): /Lego_Wimshurst_Sparking_11mm.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   869s]     corte falhou (Tornado-G_MLRS_continue_daily_combat_missions.webm): ontinue_daily_combat_missions.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   869s]     corte falhou (On-Heels-and-Toes-How-Ants-Climb-with-Adhesive-Pad): -Hair-Arrays-pone.0141269.s001.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   869s]     corte falhou (Predominant-membrane-localization-is-an-essential-): -recognition-1741-7007-7-76-S1.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   869s]     corte falhou (Predominant-membrane-localization-is-an-essential-): -recognition-1741-7007-7-76-S2.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   869s]     corte falhou (Predominant-membrane-localization-is-an-essential-): -recognition-1741-7007-7-76-S3.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}
+[   870s]   v_microcar / commons: 7 filmes para 'bubble car'
+[   871s]   v_microcar / pixabay: 12 filmes para 'bubble car'
+[   871s]   v_microcar / pexels: 0 filmes para 'bubble car'
+[   872s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=bubble+car&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa8
+[   872s]   v_microcar / coverr: 0 filmes para 'bubble car'
+[   879s]     + 2_pixabay.mp4 de 'soap bubble, freeze, frost, night, cold, darkness, ice cream' a partir de 11s
+[   893s]     + 3_pixabay.mp4 de 'soap bubble, frozen soap bubble, bubble, frozen, freeze, fro' a partir de 9s
+[   899s]     trecho escuro em 0s, tentando mais adiante
+[   906s]     trecho escuro em 0s, tentando mais adiante
+[   925s]     + 4_pixabay.mp4 de 'street, traffic, cars, city, night, view, car, skyscrapers, ' a partir de 8s
+[   927s]   v_spain_classic / commons: 0 filmes para 'coche clásico España'
+[   928s]   v_spain_classic / pixabay: 12 filmes para 'coche clásico España'
+[   928s]   v_spain_classic / pexels: 0 filmes para 'coche clásico España'
+[   929s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=coche+cl%C3%A1sico+Espa%C3%B1a&page_size=8&urls=true&api_key=e46f0
+[   929s]   v_spain_classic / coverr: 0 filmes para 'coche clásico España'
+[   946s]     + 1_pixabay.mp4 de 'car, highway, road, classic, mountain' a partir de 8s
+[   964s]     + 2_pixabay.mp4 de 'sea, coast, waves, mallorca, spain, aerial view, drone foota' a partir de 9s
+[   966s]     trecho escuro em 0s, tentando mais adiante
+[   969s]     trecho escuro em 0s, tentando mais adiante
+[   983s]     + 3_pixabay.mp4 de 'sunrise, sea, ocean, waves, beach, lanzarote, spain, canary ' a partir de 19s
+[   987s]     trecho escuro em 0s, tentando mais adiante
+[   990s]     trecho escuro em 0s, tentando mais adiante
+[   993s]     + 4_pixabay.mp4 de 'automobile, black, antique car, vehicle, luxury, car, dare, ' a partir de 0s
