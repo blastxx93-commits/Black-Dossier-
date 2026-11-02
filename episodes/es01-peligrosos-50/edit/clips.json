@@ -4,15 +4,19 @@
   "c_driving_pov/3",
   "c_auto_show/4",
   "c_seatbelt/4",
-  "c_driving_pov/1"
+  "c_driving_pov/1",
+  "v_tail_fins/3"
  ],
  "belair": [
   "c_auto_show/3",
-  "c_factory/4"
+  "c_factory/4",
+  "v_tail_fins/2",
+  "v_tail_fins/1"
  ],
  "dash": [
   "c_driving_pov/5",
-  "c_seatbelt/3"
+  "c_seatbelt/3",
+  "v_vintage_drive/2"
  ],
  "beetle": [
   "c_seatbelt/2",
@@ -27,6 +31,9 @@
   "c_racing/1"
  ],
  "porsche": [
+  "v_porsche550/1",
+  "v_porsche550/2",
+  "v_beetle/1",
   "c_racing/2"
  ],
  "dean": [
@@ -38,5 +45,21 @@
  "edsel": [
   "c_detroit/1"
  ],
- "_generic": []
+ "_generic": [
+  "c_driving_pov/2",
+  "c_driving_pov/3",
+  "c_auto_show/4",
+  "c_seatbelt/4",
+  "c_driving_pov/1",
+  "c_racing/5",
+  "c_racing/1",
+  "c_seatbelt/2",
+  "c_volkswagen/1",
+  "v_tail_fins/3",
+  "c_auto_show/3",
+  "c_factory/4"
+ ],
+ "isetta": [
+  "v_isetta/1"
+ ]
 }

@@ -45,11 +45,12 @@ RES = ["m_edsel/2", "m_edsel_wheel/3", "m_edsel_wheel/4", "m_biscuter/5", "m_bis
        "m_isetta/1", "m_isetta_door/4", "m_isetta_door/1", "m_isetta/3", "m_trabant_p50/1", "m_trabant_2/1", "m_seat600/2",
        "m_seat600_door/2", "m_seat600/1", "m_beetle/5", "m_beetle_2/2", "m_porsche550/3", "m_porsche550_2/4", "m_dauphine/3",
        "m_dauphine_2/1", "m_300sl/4", "m_300sl_2/3", "m_300slr/1", "m_300slr/3", "h_lemans_1955/2", "m_belair59/1", "m_belair59/3",
-       "m_volvo_pv544/2", "h_fasa_valladolid/1", "h_cholame/3", "h_james_dean/1", "h_hawthorn/2", "h_levegh/1", "m_edsel_2/3"]
+       "m_volvo_pv544/2", "h_fasa_valladolid/1", "h_cholame/3", "h_james_dean/1", "h_hawthorn/2", "h_levegh/1"]
 A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FALLBACK,
         ["usa", "europe", "belair", "seat600", "beetle"], reserved=RES)
 A.CLIP_TARGET = 0.30          # few period clips exist: real photos fill the rest (owner rule 02/11: real first)
 A.MAX_HOLD, A.KEEP = 9.0, 6.0
+A.ARCHIVE_OK = True           # period newsreels (Prelinger, Universal) and Commons clips are allowed here
 chapters = []
 
 # ---------------------------------------------------------------- hook: opens on a car (rule), never the crash
@@ -83,7 +84,7 @@ c.at("Justo donde, en cualquier otro coche", photo("m_edsel_wheel", 4, "left"))
 c.at("Piensa en un conductor de 1958", P("edsel_horn", photo_only=True))
 c.at("Un peatón se cruza", P("edsel"))
 c.at("Además, muchos propietarios se quejaban", P("edsel"))
-c.at("El Edsel acabó siendo", photo("m_edsel_2", 3, "right", cap="Edsel|1958 – 1960"))
+c.at("El Edsel acabó siendo", P("edsel", cap="Edsel|1958 – 1960"))
 c.at("Número once", rank(11, "Biscúter", "m_biscuter", 1, "1953 · España", "Autonacional · Sant Adrià de Besòs"))
 c.at("Barcelona, 1953", photo("m_biscuter", 5, "in", cap="Biscúter|años 50"))
 c.at("Y Voisin no era cualquiera", P("biscuter"))

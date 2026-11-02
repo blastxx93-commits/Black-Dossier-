@@ -25,6 +25,7 @@ USED, HASHES, POOLS, CREDITS = set(), [], {}, {}
 COUNT = {"img": 0, "vid": 0}
 CLIP_TARGET = 0.40
 MAX_HOLD, KEEP = 7.5, 5.0
+ARCHIVE_OK = False  # period channels (es*) set True: archive newsreels are their best footage
 MOVES = ["in", "left", "out", "right", "in", "up", "out", "down"]
 _mv = [0]
 
@@ -118,8 +119,9 @@ def _photo(scene, move=None, cap=None, **kw):
 
 def _clip_file(spec):
     folder, n = spec.split("/")
+    # the Aussie channel is modern-only, so archive/Commons footage is skipped unless the build sets A.ARCHIVE_OK = True
     fs = [f[2:] for f in sorted(glob.glob(f"a/video/{folder}/{n}_*.mp4"))
-          if not f.endswith(("_archive.mp4", "_commons.mp4"))]
+          if ARCHIVE_OK or not f.endswith(("_archive.mp4", "_commons.mp4"))]
     return fs[0] if fs and fs[0] not in CFG["skip"] else None
 
 

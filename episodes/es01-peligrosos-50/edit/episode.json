@@ -1,0 +1,1917 @@
+{
+ "output": "ES01_Peligrosos_50.mp4",
+ "fps": 24,
+ "music": [
+  {
+   "file": "trilha.wav",
+   "start": 0,
+   "gain": -29,
+   "fade_in": 4,
+   "fade_out": 5
+  }
+ ],
+ "chapters": [
+  {
+   "audio": "audio/ch00_hook.flac",
+   "lead_in": 0,
+   "tail": 0.6,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/m_300slr/1_commons.jpg",
+     "move": "in",
+     "caption": "Le Mans|11 de junio de 1955",
+     "dur": 8.22,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_racing/5_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.2,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_300slr/2_commons.jpg",
+     "move": "in",
+     "dur": 4.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_lemans_1955/2_commons.jpg",
+     "move": "in",
+     "caption": "In memoriam|11 de junio de 1955",
+     "dur": 2.88,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "No es el n\u00famero uno.",
+     "highlight": "N\u00daMERO UNO",
+     "size": 150,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.06,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_driving_pov/5_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_dashboard_1950s/1_commons.jpg",
+     "move": "left",
+     "dur": 4.66,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_dashboard_1950s/2_commons.jpg",
+     "move": "out",
+     "dur": 4.8,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "Los 12 coches m\u00e1s peligrosos",
+     "subtitle": "de los a\u00f1os 50",
+     "tag": "1950 \u2013 1959",
+     "bg": "a/h_usa_1950s/1_commons.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 3.6,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Sin marcha atr\u00e1s",
+      "El volante en la puerta",
+      "Gasolina sobre el motor"
+     ],
+     "starts": [
+      0,
+      68,
+      135
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 2.8399999999999963
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 5.640000000000001
+      }
+     ],
+     "dur": 9.4,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_auto_show/3_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_usa_1950s/3_commons.jpg",
+     "move": "in",
+     "dur": 5.954,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch01.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/h_usa_1950s/4_commons.jpg",
+     "move": "up",
+     "dur": 5.24,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_seatbelt/3_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.84,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_usa_1950s/5_commons.jpg",
+     "move": "out",
+     "dur": 6.16,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_belair59/2_commons.jpg",
+     "move": "down",
+     "dur": 6.16,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 12,
+     "name": "Edsel",
+     "photo": "a/m_edsel/2_commons.jpg",
+     "credit": "Foto: Greg Gjerdingen \u00b7 CC BY 2.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "1958",
+     "sub": "Ford \u00b7 cambio de botones Teletouch",
+     "dur": 4.28,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_detroit/1_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_driving_pov/1_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.76,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_edsel/1_commons.jpg",
+     "move": "in",
+     "dur": 8.92,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_edsel_wheel/3_commons.jpg",
+     "move": "in",
+     "caption": "Teletouch|botones en el centro del volante",
+     "dur": 8.4,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_edsel_wheel/4_commons.jpg",
+     "move": "left",
+     "dur": 3.82,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_edsel_horn_1.jpg",
+     "move": "left",
+     "dur": 4.14,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_edsel/3_commons.jpg",
+     "move": "out",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_tail_fins/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_fins/1_commons.jpg",
+     "move": "down",
+     "dur": 3.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_edsel/4_commons.jpg",
+     "move": "right",
+     "dur": 7.18,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_edsel/5_commons.jpg",
+     "move": "in",
+     "caption": "Edsel|1958 \u2013 1960",
+     "dur": 6.46,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 11,
+     "name": "Bisc\u00fater",
+     "photo": "a/m_biscuter/1_commons.jpg",
+     "credit": "Foto: HombreDHojalata \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "1953 \u00b7 Espa\u00f1a",
+     "sub": "Autonacional \u00b7 Sant Adri\u00e0 de Bes\u00f2s",
+     "dur": 4.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_biscuter/5_commons.jpg",
+     "move": "in",
+     "caption": "Bisc\u00fater|a\u00f1os 50",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_fins/2_commons.jpg",
+     "move": "in",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_fins/3_commons.jpg",
+     "move": "left",
+     "dur": 4.32,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_biscuter/2_commons.jpg",
+     "move": "up",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_fins/4_commons.jpg",
+     "move": "out",
+     "dur": 5.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_biscuter/3_commons.jpg",
+     "move": "out",
+     "dur": 2.68,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_biscuter/4_commons.jpg",
+     "move": "down",
+     "dur": 7.682,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Sin marcha atr\u00e1s.",
+     "highlight": "MARCHA ATR\u00c1S",
+     "size": 150,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.078,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_lift_microcar_1.jpg",
+     "move": "in",
+     "dur": 6.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_biscuter_2/1_commons.jpg",
+     "move": "left",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_belair57/1_commons.jpg",
+     "move": "right",
+     "dur": 3.68,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_biscuter_2/2_commons.jpg",
+     "move": "out",
+     "dur": 3.58,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_biscuter/6_commons.jpg",
+     "move": "left",
+     "caption": "Bisc\u00fater|m\u00e1s de 10.000 unidades",
+     "dur": 5.94,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seat600/3_commons.jpg",
+     "move": "right",
+     "dur": 6.915,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch02.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/h_germany_1950s/2_commons.jpg",
+     "move": "in",
+     "dur": 5.02,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 10,
+     "name": "Messerschmitt KR200",
+     "photo": "a/m_kr200/3_commons.jpg",
+     "credit": "Foto: Lothar Spurzem \u00b7 CC BY-SA 2.0 de",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "1955",
+     "sub": "De la f\u00e1brica de aviones a la carretera",
+     "dur": 6.38,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_kr200/1_commons.jpg",
+     "move": "up",
+     "dur": 7.86,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_kr200_2/3_commons.jpg",
+     "move": "in",
+     "caption": "Dos asientos en fila|como en un caza",
+     "dur": 5.68,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_kr200/2_commons.jpg",
+     "move": "out",
+     "dur": 3.36,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\u00abEl ata\u00fad de Blancanieves\u00bb",
+     "highlight": "BLANCANIEVES",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.2,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_kr200/4_commons.jpg",
+     "move": "down",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_isetta_2/2_commons.jpg",
+     "move": "in",
+     "dur": 3.2,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_kr200/5_commons.jpg",
+     "move": "in",
+     "dur": 8.32,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_kr200_2/1_commons.jpg",
+     "move": "left",
+     "dur": 8.08,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_kr200_2/2_commons.jpg",
+     "move": "out",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_isetta_2/3_commons.jpg",
+     "move": "up",
+     "dur": 3.22,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_kr200_2/5_commons.jpg",
+     "move": "right",
+     "dur": 5.34,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 9,
+     "name": "BMW Isetta",
+     "photo": "a/m_isetta/1_commons.jpg",
+     "credit": "Foto: Lothar Spurzem \u00b7 CC BY-SA 2.0 de",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "1955",
+     "sub": "La \u00fanica puerta, delante",
+     "dur": 3.46,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_isetta/1_commons.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_isetta_2/4_commons.jpg",
+     "move": "out",
+     "dur": 5.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_isetta_door/1_commons.jpg",
+     "move": "in",
+     "caption": "Isetta|la puerta es todo el frontal",
+     "dur": 6.88,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_isetta/3_commons.jpg",
+     "move": "left",
+     "dur": 8.18,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_isetta/2_commons.jpg",
+     "move": "in",
+     "dur": 5.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_isetta/4_commons.jpg",
+     "move": "up",
+     "dur": 4.68,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_isetta/5_commons.jpg",
+     "move": "out",
+     "dur": 4.72,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "La salida de emergencia era el techo.",
+     "highlight": "TECHO",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 1.98,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "161.728",
+     "label": "BMW Isetta fabricados",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "BMW Group Classic",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_isetta_2/5_commons.jpg",
+     "move": "down",
+     "dur": 5.54,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_isetta_door/4_commons.jpg",
+     "move": "in",
+     "dur": 6.262,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch03.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 8,
+     "name": "Trabant P50",
+     "photo": "a/m_trabant_p50/1_commons.jpg",
+     "credit": "Foto: burts \u00b7 CC BY-SA 3.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "1957",
+     "sub": "Alemania del Este",
+     "dur": 6.02,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_trabant_p50/2_commons.jpg",
+     "move": "down",
+     "dur": 3.54,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_trabant_p50/3_commons.jpg",
+     "move": "in",
+     "dur": 8.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_trabant_2/1_commons.jpg",
+     "move": "in",
+     "dur": 6.68,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_tank_engine_1.jpg",
+     "move": "left",
+     "dur": 6.34,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Dep\u00f3sito encima del motor. Sin bomba de gasolina.",
+     "highlight": "DEP\u00d3SITO",
+     "size": 100,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.3,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_trabant_p50/4_commons.jpg",
+     "move": "out",
+     "dur": 3.56,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_trabant_p50/5_commons.jpg",
+     "move": "right",
+     "dur": 5.84,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_dipstick_1.jpg",
+     "move": "in",
+     "dur": 4.26,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_trabant_2/3_commons.jpg",
+     "move": "up",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seat600_2/2_commons.jpg",
+     "move": "in",
+     "dur": 3.36,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_spain_1950s/1_commons.jpg",
+     "move": "out",
+     "dur": 4.7,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 7,
+     "name": "SEAT 600",
+     "photo": "a/m_seat600/2_commons.jpg",
+     "credit": "Foto: Matti Blume \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "1957 \u00b7 Espa\u00f1a",
+     "sub": "El coche que motoriz\u00f3 a Espa\u00f1a",
+     "dur": 6.87,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seat600/4_commons.jpg",
+     "move": "down",
+     "dur": 7.21,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seat600/5_commons.jpg",
+     "move": "in",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seat600_2/3_commons.jpg",
+     "move": "left",
+     "dur": 4.36,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seat600_door/2_commons.jpg",
+     "move": "in",
+     "caption": "SEAT 600|puertas \u00absuicidas\u00bb",
+     "dur": 5.58,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_suicide_door_1.jpg",
+     "move": "left",
+     "dur": 5.66,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seat600/6_commons.jpg",
+     "move": "out",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seat600_2/4_commons.jpg",
+     "move": "out",
+     "dur": 7.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seat600/7_commons.jpg",
+     "move": "right",
+     "dur": 3.92,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seat600/1_commons.jpg",
+     "move": "left",
+     "dur": 7.92,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "\u2248800.000",
+     "label": "SEAT 600 fabricados hasta 1973",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "SEAT / Motorpasi\u00f3n",
+     "dur": 8.56,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seat600_2/1_commons.jpg",
+     "move": "in",
+     "dur": 4.669,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch04.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 6,
+     "name": "Volkswagen Escarabajo",
+     "photo": "a/m_beetle/5_commons.jpg",
+     "credit": "Foto: dave_7 from Lethbridge, Canada \u00b7 CC BY 2.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "a\u00f1os 50",
+     "sub": "Uno de los m\u00e1s vendidos del mundo",
+     "dur": 3.74,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_seatbelt/2_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_beetle_2/5_commons.jpg",
+     "move": "right",
+     "dur": 3.38,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Dos problemas.",
+     "highlight": "DOS",
+     "size": 160,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 1.68,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_volkswagen/1_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.42,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_beetle/2_commons.jpg",
+     "move": "up",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_beetle_2/6_commons.jpg",
+     "move": "in",
+     "dur": 3.2,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_swing_axle_1.jpg",
+     "move": "out",
+     "dur": 4.2,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_beetle/3_commons.jpg",
+     "move": "down",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_belair57/2_commons.jpg",
+     "move": "up",
+     "dur": 3.74,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_beetle/6_commons.jpg",
+     "move": "in",
+     "dur": 6.02,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_beetle_2/2_commons.jpg",
+     "move": "in",
+     "caption": "Escarabajo|sin indicador de gasolina",
+     "dur": 3.76,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_beetle_2/3_commons.jpg",
+     "move": "left",
+     "dur": 8.6,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_driving_pov/2_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.32,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\u00abInseguro a cualquier velocidad\u00bb \u2013 Ralph Nader, 1965",
+     "highlight": "INSEGURO",
+     "size": 95,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 6.16,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_volkswagen/2_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_belair57/3_commons.jpg",
+     "move": "out",
+     "dur": 3.34,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_beetle_2/4_commons.jpg",
+     "move": "out",
+     "dur": 3.12,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_300sl/1_commons.jpg",
+     "move": "right",
+     "dur": 8.56,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_porsche550/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.98,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch05.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 5,
+     "name": "Porsche 550 Spyder",
+     "photo": "a/m_porsche550/3_commons.jpg",
+     "credit": "Foto: Lothar Spurzem \u00b7 CC BY-SA 2.0 de",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "1955",
+     "sub": "Carrocer\u00eda de aluminio, sin techo",
+     "dur": 4.06,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_porsche550/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.42,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_beetle/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.68,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_james_dean/1_commons.jpg",
+     "move": "in",
+     "caption": "James Dean|1931 \u2013 1955",
+     "dur": 7.82,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_porsche550_2/4_commons.jpg",
+     "move": "left",
+     "dur": 4.32,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_traffic_50s/1_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_porsche550/2_commons.jpg",
+     "move": "down",
+     "dur": 3.26,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_racing/2_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.26,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_cholame/3_commons.jpg",
+     "move": "in",
+     "caption": "Cholame, California",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_porsche550/4_commons.jpg",
+     "move": "in",
+     "dur": 3.28,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_james_dean/2_commons.jpg",
+     "move": "in",
+     "dur": 7.12,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "James Dean muri\u00f3. Ten\u00eda 24 a\u00f1os.",
+     "highlight": "24",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 2.96,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_porsche550/1_commons.jpg",
+     "move": "up",
+     "dur": 8.22,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 4,
+     "name": "Renault Dauphine",
+     "photo": "a/m_dauphine/3_commons.jpg",
+     "credit": "Foto: Berit from Redhill/Surrey, UK \u00b7 CC BY 2.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "1956",
+     "sub": "Fabricado en Valladolid por FASA",
+     "dur": 8.66,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_fasa_valladolid/1_commons.jpg",
+     "move": "in",
+     "caption": "FASA|Valladolid",
+     "dur": 7.34,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_dauphine/1_commons.jpg",
+     "move": "out",
+     "dur": 6.72,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_crosswind_1.jpg",
+     "move": "down",
+     "dur": 6.84,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\u00abEl coche de las viudas\u00bb",
+     "highlight": "VIUDAS",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.02,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_dauphine/2_commons.jpg",
+     "move": "in",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_porsche550/5_commons.jpg",
+     "move": "left",
+     "dur": 3.44,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_dauphine_2/1_commons.jpg",
+     "move": "left",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_porsche550/6_commons.jpg",
+     "move": "out",
+     "dur": 3.946,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch06.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 3,
+     "name": "Mercedes-Benz 300 SL",
+     "photo": "a/m_300sl/4_commons.jpg",
+     "credit": "Foto: Alexander Migl \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "1954",
+     "sub": "Alas de Gaviota",
+     "dur": 6.06,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_300sl/2_commons.jpg",
+     "move": "left",
+     "dur": 5.7,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_300sl/3_commons.jpg",
+     "move": "out",
+     "dur": 4.88,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "\u2248260 km/h",
+     "label": "velocidad m\u00e1xima seg\u00fan el desarrollo",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Mercedes-Benz",
+     "dur": 6.72,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_300sl/5_commons.jpg",
+     "move": "right",
+     "dur": 8.3,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_300sl_2/3_commons.jpg",
+     "move": "in",
+     "dur": 2.92,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_300sl/6_commons.jpg",
+     "move": "in",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_300slr_2/1_commons.jpg",
+     "move": "right",
+     "dur": 5.4,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_300sl_2/1_commons.jpg",
+     "move": "up",
+     "dur": 5.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_300sl_2/4_commons.jpg",
+     "move": "out",
+     "dur": 4.115,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "\u22481.400",
+     "label": "300 SL Gullwing fabricados",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "1954 \u2013 1957",
+     "dur": 7.605,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_300sl_2/5_commons.jpg",
+     "move": "down",
+     "dur": 7.82,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_300sl_2/6_commons.jpg",
+     "move": "in",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_300slr_2/2_commons.jpg",
+     "move": "in",
+     "dur": 3.82,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_lemans/3_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.865,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch07.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 2,
+     "name": "Mercedes-Benz 300 SLR",
+     "photo": "a/m_300slr/3_commons.jpg",
+     "credit": "Foto: MrWalkr \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "1955",
+     "sub": "Le Mans, 11 de junio",
+     "dur": 4.18,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_racing/1_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.16,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_300slr/4_commons.jpg",
+     "move": "left",
+     "dur": 3.4,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_300slr/5_commons.jpg",
+     "move": "out",
+     "dur": 3.7,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_jaguar_d/1_commons.jpg",
+     "move": "right",
+     "dur": 5.98,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_jaguar_d/2_commons.jpg",
+     "move": "in",
+     "dur": 8.7,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_jaguar_d/3_commons.jpg",
+     "move": "up",
+     "dur": 8.84,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_levegh/1_commons.jpg",
+     "move": "in",
+     "dur": 1.6,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "+80",
+     "label": "espectadores muertos \u00b7 m\u00e1s de 120 heridos",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Le Mans, 1955",
+     "color": "red",
+     "dur": 4.4,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_lemans_night_1.jpg",
+     "move": "out",
+     "dur": 4.84,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_hawthorn/2_commons.jpg",
+     "move": "in",
+     "dur": 5.1,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_jaguar_d/4_commons.jpg",
+     "move": "down",
+     "dur": 7.68,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Suiza prohibi\u00f3 las carreras en circuito.",
+     "highlight": "SUIZA",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_healey/1_commons.jpg",
+     "move": "in",
+     "dur": 6.72,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_driving_pov/3_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.973,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch08.flac",
+   "lead_in": 0,
+   "tail": 2.5,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 1,
+     "name": "Chevrolet Bel Air",
+     "photo": "a/m_belair59/1_commons.jpg",
+     "credit": "Foto: granada_turnier \u00b7 CC BY 2.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "1959",
+     "sub": "El coche familiar so\u00f1ado",
+     "dur": 2.42,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_factory/4_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_belair59/5_commons.jpg",
+     "move": "up",
+     "dur": 3.98,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_tail_fins/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.02,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_belair59/3_commons.jpg",
+     "move": "in",
+     "dur": 6.92,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_factory/3_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.8,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_vintage_drive/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_belair59/6_commons.jpg",
+     "move": "out",
+     "dur": 4.54,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_auto_show/4_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_belair57/4_commons.jpg",
+     "move": "down",
+     "dur": 7.68,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_seatbelt/4_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_belair57/5_commons.jpg",
+     "move": "in",
+     "dur": 5.04,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "La prueba.",
+     "highlight": "PRUEBA",
+     "size": 160,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 2.18,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_crash_dummy/1_commons.jpg",
+     "move": "left",
+     "dur": 8.12,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_tail_fins/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.8,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "64 km/h",
+     "label": "choque frontal \u00b7 1959 contra 2009",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "IIHS",
+     "dur": 2.22,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_crash_dummy/2_commons.jpg",
+     "move": "out",
+     "dur": 6.46,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "El habit\u00e1culo del Bel Air se colaps\u00f3.",
+     "highlight": "COLAPS\u00d3",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.84,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_belair59/4_commons.jpg",
+     "move": "right",
+     "dur": 3.94,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_volvo_pv544/2_commons.jpg",
+     "move": "in",
+     "caption": "Volvo PV544|1959",
+     "dur": 7.18,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_volvo_pv544/1_commons.jpg",
+     "move": "in",
+     "dur": 7.4,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_volvo_pv544/3_commons.jpg",
+     "move": "up",
+     "dur": 5.7,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "+1.000.000",
+     "label": "vidas salvadas por el cintur\u00f3n de tres puntos",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Volvo (estimaci\u00f3n)",
+     "dur": 3.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_volvo_pv544/4_commons.jpg",
+     "move": "out",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_belair_2/2_commons.jpg",
+     "move": "left",
+     "dur": 3.3,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Suscr\u00edbete",
+     "sub": "historias de coches cl\u00e1sicos",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 8.1,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "\u00bfEn cu\u00e1l te habr\u00edas atrevido a viajar?",
+     "sub": "cu\u00e9ntamelo en los comentarios",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 4.614,
+     "fixed": false,
+     "fade_out": 0
+    }
+   ]
+  }
+ ],
+ "size": [
+  1920,
+  1080
+ ],
+ "subtitles": "ES01.ass"
+}
