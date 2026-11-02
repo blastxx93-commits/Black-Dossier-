@@ -1,0 +1,42 @@
+{
+ "usa": [
+  "c_driving_pov/2",
+  "c_driving_pov/3",
+  "c_auto_show/4",
+  "c_seatbelt/4",
+  "c_driving_pov/1"
+ ],
+ "belair": [
+  "c_auto_show/3",
+  "c_factory/4"
+ ],
+ "dash": [
+  "c_driving_pov/5",
+  "c_seatbelt/3"
+ ],
+ "beetle": [
+  "c_seatbelt/2",
+  "c_volkswagen/1"
+ ],
+ "corvair": [
+  "c_volkswagen/2"
+ ],
+ "slr": [
+  "c_racing/5",
+  "c_lemans/3",
+  "c_racing/1"
+ ],
+ "porsche": [
+  "c_racing/2"
+ ],
+ "dean": [
+  "c_traffic_50s/1"
+ ],
+ "crash": [
+  "c_factory/3"
+ ],
+ "edsel": [
+  "c_detroit/1"
+ ],
+ "_generic": []
+}
