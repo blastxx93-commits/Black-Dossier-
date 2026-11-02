@@ -325,6 +325,201 @@
     "Dodge 440 engine"
    ],
    "n": 4
+  },
+  {
+   "id": "m_giulia_polizia_old",
+   "query": "Alfa Romeo Giulia Super Polizia 1966",
+   "alt": [
+    "Alfa Romeo Giulia 1300 Carabinieri",
+    "Alfa Romeo Giulia Polizia Squadra Volante 1970",
+    "Alfa Romeo Giulia TI Polizia"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_giulia_2",
+   "query": "Alfa Romeo Giulia 1600 Super",
+   "alt": [
+    "Alfa Romeo Giulia Nuova Super",
+    "Alfa Romeo Giulia TI 1963",
+    "Alfa Romeo Giulia berlina"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_356_2",
+   "query": "Porsche 356 B",
+   "alt": [
+    "Porsche 356 C cabriolet",
+    "Porsche 356 1962",
+    "Porsche 356 museum"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_911_2",
+   "query": "Porsche 911 1968",
+   "alt": [
+    "Porsche 911 S 1969",
+    "Porsche 911 Targa 1969",
+    "early Porsche 911"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_mk2_2",
+   "query": "Jaguar Mark 2 3.8",
+   "alt": [
+    "Jaguar Mk 2 1962",
+    "Jaguar Mark II 1965",
+    "Jaguar 340"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_stype_2",
+   "query": "Jaguar S-Type 3.4",
+   "alt": [
+    "Jaguar S type 1966",
+    "Jaguar 420"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_sp250_2",
+   "query": "Daimler Dart SP250",
+   "alt": [
+    "Daimler SP 250 1960",
+    "Daimler SP250 roadster"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_buick_2",
+   "query": "1955 Buick",
+   "alt": [
+    "Buick Special 1955",
+    "Buick Roadmaster 1955",
+    "1956 Buick"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_dodge_60s",
+   "query": "1966 Dodge Polara",
+   "alt": [
+    "1967 Dodge Polara",
+    "1968 Dodge Polara",
+    "Dodge Monaco 1969",
+    "Dodge Coronet 1969"
+   ],
+   "n": 10
+  },
+  {
+   "id": "m_ferrari_2",
+   "query": "Ferrari 250 GT 2+2",
+   "alt": [
+    "Ferrari 250 GTE 1962",
+    "Ferrari 330 America",
+    "Ferrari 250 GT Lusso"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_seat1400_2",
+   "query": "Seat 1400 museo",
+   "alt": [
+    "Seat 1400 C 1958",
+    "Seat 1400 B 1957",
+    "Fiat 1400"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_r10_2",
+   "query": "Renault 10 Major",
+   "alt": [
+    "Renault 10 1968",
+    "Renault 8"
+   ],
+   "n": 6
+  },
+  {
+   "id": "h_vintage_police",
+   "query": "vintage police car",
+   "alt": [
+    "classic police car",
+    "police car 1960s",
+    "historic police vehicle"
+   ],
+   "n": 10
+  },
+  {
+   "id": "h_police_uk",
+   "query": "Metropolitan Police car history",
+   "alt": [
+    "British police car 1960s",
+    "police Jaguar museum",
+    "police Rover 3500"
+   ],
+   "n": 6
+  },
+  {
+   "id": "h_police_us",
+   "query": "1960s police car",
+   "alt": [
+    "Plymouth police car",
+    "Dodge police car",
+    "highway patrol car vintage",
+    "sheriff car 1960s"
+   ],
+   "n": 10
+  },
+  {
+   "id": "h_polizia_museo",
+   "query": "Polizia di Stato auto storiche",
+   "alt": [
+    "Museo delle auto della Polizia",
+    "Alfa Romeo polizia storica",
+    "Carabinieri auto storiche"
+   ],
+   "n": 8
+  },
+  {
+   "id": "h_amsterdam_60s",
+   "query": "Amsterdam 1960s",
+   "alt": [
+    "Netherlands 1960s traffic",
+    "Den Haag 1960"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_la_60s",
+   "query": "Los Angeles freeway 1960s",
+   "alt": [
+    "California freeway 1960",
+    "Los Angeles 1950s"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_rome_traffic",
+   "query": "Rome traffic 1960s",
+   "alt": [
+    "Roma traffico anni 60",
+    "Fiat 600 Roma"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_spain_60s",
+   "query": "España años 60 carretera",
+   "alt": [
+    "Spain 1960s road",
+    "Seat 600 carretera"
+   ],
+   "n": 5
   }
  ]
 }

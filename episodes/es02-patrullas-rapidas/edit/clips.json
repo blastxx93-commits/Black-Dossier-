@@ -1,0 +1,31 @@
+{
+ "polara69": [
+  "v_police_classic/2",
+  "v_police_classic/1",
+  "c_police_car/6"
+ ],
+ "usa": [
+  "c_speed/5",
+  "c_police_car/6",
+  "c_motorcycle_police/3"
+ ],
+ "polara65": [
+  "c_chase/1"
+ ],
+ "p911": [
+  "v_porsche911/1"
+ ],
+ "europe": [
+  "c_auto_race/2"
+ ],
+ "rome": [
+  "c_police_car/2"
+ ],
+ "_generic": [
+  "c_auto_race/2",
+  "c_police_car/2",
+  "c_speed/5",
+  "c_police_car/6",
+  "v_police_classic/1"
+ ]
+}
