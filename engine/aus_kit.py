@@ -25,6 +25,7 @@ USED, HASHES, POOLS, CREDITS = set(), [], {}, {}
 COUNT = {"img": 0, "vid": 0}
 CLIP_TARGET = 0.40
 MAX_HOLD, KEEP = 7.5, 5.0
+SPLIT_BY_SUBJECT = False  # es* builds set True: long holds continue on the same car, not the chapter's car
 ARCHIVE_OK = False  # period channels (es*) set True: archive newsreels are their best footage
 MOVES = ["in", "left", "out", "right", "in", "up", "out", "down"]
 _mv = [0]
@@ -231,6 +232,28 @@ def questions(c, items, phrases):
                         "sfx": [fx("pop", t - 0.12 - t0) for t in ts]}))
 
 
+def _scene_of(shot):
+    """The scene a shot's own photo/clip belongs to, so a long hold continues on the same subject
+    (a hold on the 911 hands over to another 911, not to the chapter's opening car)."""
+    if SPLIT_BY_SUBJECT is False:
+        return None
+    for k in ("src", "photo", "bg"):
+        v = shot.get(k)
+        if not isinstance(v, str):
+            continue
+        parts = (v[2:] if v.startswith("a/") else v).split("/")
+        folder = parts[1] if parts[0] == "video" and len(parts) > 2 else parts[0]
+        if parts[0] == "ai":
+            folder = "ai:" + parts[1].rsplit("_", 1)[0]
+        for scene, srcs in CFG["photos"].items():
+            if folder in srcs or folder == scene:
+                return scene
+        for scene, specs in CFG["clips"].items():
+            if any(sp.split("/")[0] == folder for sp in specs):
+                return scene
+    return None
+
+
 # ---------------------------------------------------------------- finish
 def finish(chapters, output, ctx, subtitles=None, music_gain=-29):  # -29 dB: bed sits well under the voice
     """Builds episode JSON: timings from the narration, long holds split, channel checks. Returns the JSON text."""
@@ -247,7 +270,7 @@ def finish(chapters, output, ctx, subtitles=None, music_gain=-29):  # -29 dB: be
         for s in chap["shots"]:
             while s["dur"] > MAX_HOLD and s["type"] not in ("questions", "title"):
                 first = dict(s, dur=KEEP, fixed=True)
-                nxt = dict(P(ctx[ci], generic=True), dur=round(s["dur"] - KEEP, 3), fixed=s.get("fixed", False))
+                nxt = dict(P(_scene_of(s) or ctx[ci], generic=True), dur=round(s["dur"] - KEEP, 3), fixed=s.get("fixed", False))
                 out.append(first); s = nxt; splits += 1
             out.append(s)
         chap["shots"] = out

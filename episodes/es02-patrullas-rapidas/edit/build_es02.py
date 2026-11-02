@@ -43,6 +43,7 @@ A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FA
 A.CLIP_TARGET = 0.25
 A.MAX_HOLD, A.KEEP = 9.0, 6.0
 A.ARCHIVE_OK = True
+A.SPLIT_BY_SUBJECT = True     # a long hold continues on the car being narrated
 chapters = []
 
 # ---------------------------------------------------------------- hook: opens on the real Rome police Ferrari
