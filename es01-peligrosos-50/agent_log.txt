@@ -1,16 +1,196 @@
-[     0s] es01-peligrosos-50: 2 planos, limite 35.0 min
-[     0s] m_edsel: 'Edsel 1958'
-[     1s]     commons: 12 candidatos em 0.7s
-[    35s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
-[    35s]     openverse: 0 candidatos em 34.1s
-[    38s]     loc: 1 candidatos em 2.7s
-[    69s]     falhou download (loc) em 30.1s
-[    72s]   -> 6 imagens
-[    72s] m_edsel_wheel: 'Edsel Teletouch'
-[    73s]     commons: 5 candidatos em 1.0s
-[   107s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
-[   107s]     openverse: 0 candidatos em 34.1s
-[   131s]   ! www.loc.gov: 429 rate limit
-[   131s]     loc: 0 candidatos em 24.0s
-[   134s]   -> 4 imagens
-[   134s] fim: 10 imagens
+[     0s] es01-peligrosos-50: 26 planos, limite 35.0 min
+[     0s] m_biscuter_2: 'Biscuter museum'
+[     2s]     commons: 8 candidatos em 2.0s
+[    36s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[    36s]     openverse: 0 candidatos em 34.3s
+[    37s]     loc: 0 candidatos em 0.3s
+[    44s]   -> 6 imagens
+[    44s] m_isetta_door: 'Isetta front door open'
+[    45s]     commons: 12 candidatos em 1.0s
+[    79s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[    79s]     openverse: 0 candidatos em 34.1s
+[    91s]     loc: 0 candidatos em 11.2s
+[   105s]   -> 6 imagens
+[   105s] m_isetta_2: 'BMW Isetta 250'
+[   105s]     commons: 12 candidatos em 0.6s
+[   139s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[   139s]   ! api.openverse.org desligado nesta execucao (3 falhas seguidas)
+[   139s]     openverse: 0 candidatos em 34.1s
+[   163s]   ! www.loc.gov: 429 rate limit
+[   163s]     loc: 0 candidatos em 24.0s
+[   166s]   -> 5 imagens
+[   166s] m_kr200_2: 'Messerschmitt bubble car interior'
+[   167s]     commons: 0 candidatos em 0.6s
+[   167s]     openverse: 0 candidatos em 0.0s
+[   191s]   ! www.loc.gov: 429 rate limit
+[   191s]     loc: 0 candidatos em 24.0s
+[   192s]     commons: 2 candidatos em 0.7s
+[   192s]     openverse: 0 candidatos em 0.0s
+[   216s]   ! www.loc.gov: 429 rate limit
+[   216s]   ! www.loc.gov desligado nesta execucao (3 falhas seguidas)
+[   216s]     loc: 0 candidatos em 24.0s
+[   221s]     commons: 5 candidatos em 2.2s
+[   221s]     openverse: 0 candidatos em 0.0s
+[   221s]     loc: 0 candidatos em 0.0s
+[   223s]   -> 5 imagens
+[   223s] m_trabant_2: 'Trabant P50 engine'
+[   223s]     commons: 3 candidatos em 0.5s
+[   223s]     openverse: 0 candidatos em 0.0s
+[   223s]     loc: 0 candidatos em 0.0s
+[   226s]     commons: 1 candidatos em 0.8s
+[   226s]     openverse: 0 candidatos em 0.0s
+[   226s]     loc: 0 candidatos em 0.0s
+[   227s]     commons: 3 candidatos em 0.5s
+[   227s]     openverse: 0 candidatos em 0.0s
+[   227s]     loc: 0 candidatos em 0.0s
+[   230s]   -> 5 imagens
+[   230s] m_seat600_door: 'SEAT 600 puertas'
+[   230s]     commons: 6 candidatos em 0.5s
+[   230s]     openverse: 0 candidatos em 0.0s
+[   230s]     loc: 0 candidatos em 0.0s
+[   245s]   -> 6 imagens
+[   245s] m_seat600_2: 'Seat 600 museo'
+[   247s]     commons: 12 candidatos em 2.1s
+[   247s]     openverse: 0 candidatos em 0.0s
+[   247s]     loc: 0 candidatos em 0.0s
+[   262s]   -> 6 imagens
+[   262s] m_beetle_2: 'Volkswagen Käfer Ovali'
+[   262s]     commons: 9 candidatos em 0.6s
+[   262s]     openverse: 0 candidatos em 0.0s
+[   262s]     loc: 0 candidatos em 0.0s
+[   294s]     falhou download (commons) em 30.1s
+[   296s]   -> 6 imagens
+[   296s] m_porsche550_2: 'Porsche 550 Spyder museum'
+[   298s]     commons: 12 candidatos em 1.6s
+[   298s]     openverse: 0 candidatos em 0.0s
+[   298s]     loc: 0 candidatos em 0.0s
+[   301s]   -> 5 imagens
+[   301s] m_dauphine_2: 'Renault Dauphine 1957'
+[   305s]     commons: 12 candidatos em 3.6s
+[   305s]     openverse: 0 candidatos em 0.0s
+[   305s]     loc: 0 candidatos em 0.0s
+[   335s]     falhou download (commons) em 30.1s
+[   365s]     falhou download (commons) em 30.1s
+[   395s]     falhou download (commons) em 30.1s
+[   395s]     falhou download (commons) em 0.0s
+[   401s]   -> 6 imagens
+[   401s] m_300sl_2: 'Mercedes 300 SL interior'
+[   402s]     commons: 12 candidatos em 0.6s
+[   402s]     openverse: 0 candidatos em 0.0s
+[   402s]     loc: 0 candidatos em 0.0s
+[   406s]     falhou download (commons) em 0.0s
+[   408s]   -> 6 imagens
+[   408s] m_300slr_2: 'Mercedes 300 SLR museum'
+[   409s]     commons: 12 candidatos em 0.9s
+[   409s]     openverse: 0 candidatos em 0.0s
+[   409s]     loc: 0 candidatos em 0.0s
+[   412s]   -> 5 imagens
+[   412s] m_belair_2: 'Chevrolet Bel Air interior'
+[   413s]     commons: 11 candidatos em 0.8s
+[   413s]     openverse: 0 candidatos em 0.0s
+[   413s]     loc: 0 candidatos em 0.0s
+[   421s]   -> 6 imagens
+[   421s] m_edsel_2: 'Edsel Citation'
+[   421s]     commons: 12 candidatos em 0.5s
+[   421s]     openverse: 0 candidatos em 0.0s
+[   421s]     loc: 0 candidatos em 0.0s
+[   421s]     falhou download (commons) em 0.0s
+[   424s]   -> 5 imagens
+[   424s] h_levegh: 'Pierre Levegh'
+[   425s]     commons: 6 candidatos em 1.2s
+[   425s]     openverse: 0 candidatos em 0.0s
+[   425s]     loc: 0 candidatos em 0.0s
+[   425s]     falhou download (commons) em 0.0s
+[   425s]     falhou download (commons) em 0.0s
+[   425s]     falhou download (commons) em 0.0s
+[   426s]     falhou download (commons) em 0.0s
+[   428s]     commons: 6 candidatos em 1.1s
+[   428s]     openverse: 0 candidatos em 0.0s
+[   428s]     loc: 0 candidatos em 0.0s
+[   428s]     falhou download (commons) em 0.0s
+[   428s]     falhou download (commons) em 0.0s
+[   429s]   -> 3 imagens
+[   429s] h_hawthorn: 'Mike Hawthorn'
+[   429s]     commons: 9 candidatos em 0.7s
+[   429s]     openverse: 0 candidatos em 0.0s
+[   429s]     loc: 0 candidatos em 0.0s
+[   429s]     falhou download (commons) em 0.0s
+[   432s]   -> 3 imagens
+[   432s] h_seat_factory: 'SEAT Zona Franca fábrica'
+[   432s]     commons: 12 candidatos em 0.8s
+[   432s]     openverse: 0 candidatos em 0.0s
+[   432s]     loc: 0 candidatos em 0.0s
+[   436s]   -> 4 imagens
+[   436s] h_fasa_valladolid: 'FASA Renault Valladolid'
+[   436s]     commons: 3 candidatos em 0.6s
+[   436s]     openverse: 0 candidatos em 0.0s
+[   436s]     loc: 0 candidatos em 0.0s
+[   437s]     falhou download (commons) em 0.0s
+[   437s]     falhou download (commons) em 0.0s
+[   437s]     commons: 0 candidatos em 0.7s
+[   437s]     openverse: 0 candidatos em 0.0s
+[   437s]     loc: 0 candidatos em 0.0s
+[   437s]   -> 1 imagens
+[   437s] h_spain_road_1950s: 'carretera España años 60'
+[   439s]     commons: 1 candidatos em 2.0s
+[   439s]     openverse: 0 candidatos em 0.0s
+[   439s]     loc: 0 candidatos em 0.0s
+[   441s]     commons: 10 candidatos em 0.6s
+[   441s]     openverse: 0 candidatos em 0.0s
+[   441s]     loc: 0 candidatos em 0.0s
+[   443s]   -> 5 imagens
+[   443s] h_guardia_civil: 'Guardia Civil tráfico años 60'
+[   444s]     commons: 0 candidatos em 0.6s
+[   444s]     openverse: 0 candidatos em 0.0s
+[   444s]     loc: 0 candidatos em 0.0s
+[   446s]     commons: 0 candidatos em 2.2s
+[   446s]     openverse: 0 candidatos em 0.0s
+[   446s]     loc: 0 candidatos em 0.0s
+[   446s]   -> 0 imagens
+[   446s] h_germany_1950s: 'Germany 1950s street cars'
+[   447s]     commons: 12 candidatos em 1.2s
+[   447s]     openverse: 0 candidatos em 0.0s
+[   447s]     loc: 0 candidatos em 0.0s
+[   448s]     falhou download (commons) em 0.0s
+[   450s]   -> 4 imagens
+[   450s] h_usa_1950s: '1950s American street cars'
+[   451s]     commons: 12 candidatos em 1.2s
+[   451s]     openverse: 0 candidatos em 0.0s
+[   451s]     loc: 0 candidatos em 0.0s
+[   453s]     falhou download (commons) em 0.0s
+[   454s]   -> 5 imagens
+[   454s] h_crash_dummy: 'crash test dummy'
+[   455s]     commons: 11 candidatos em 0.7s
+[   455s]     openverse: 0 candidatos em 0.0s
+[   455s]     loc: 0 candidatos em 0.0s
+[   455s]     falhou download (commons) em 0.0s
+[   455s]     falhou download (commons) em 0.0s
+[   456s]     falhou download (commons) em 0.0s
+[   456s]     falhou download (commons) em 0.0s
+[   457s]     falhou download (commons) em 0.0s
+[   458s]   -> 4 imagens
+[   458s] h_volvo_belt: 'Volvo safety belt 1959'
+[   458s]     commons: 0 candidatos em 0.4s
+[   458s]     openverse: 0 candidatos em 0.0s
+[   458s]     loc: 0 candidatos em 0.0s
+[   482s]   ! commons.wikimedia.org: 429 rate limit
+[   482s]     commons: 0 candidatos em 24.1s
+[   482s]     openverse: 0 candidatos em 0.0s
+[   482s]     loc: 0 candidatos em 0.0s
+[   506s]   ! commons.wikimedia.org: 429 rate limit
+[   506s]     commons: 0 candidatos em 24.1s
+[   506s]     openverse: 0 candidatos em 0.0s
+[   506s]     loc: 0 candidatos em 0.0s
+[   506s]   -> 0 imagens
+[   506s] h_cholame: 'Cholame California'
+[   509s]     commons: 12 candidatos em 3.1s
+[   509s]     openverse: 0 candidatos em 0.0s
+[   509s]     loc: 0 candidatos em 0.0s
+[   511s]     falhou download (commons) em 0.0s
+[   511s]   -> 3 imagens
+[   511s] h_lemans_track: 'Circuit de la Sarthe'
+[   513s]     commons: 12 candidatos em 1.5s
+[   513s]     openverse: 0 candidatos em 0.0s
+[   513s]     loc: 0 candidatos em 0.0s
+[   515s]   -> 4 imagens
+[   519s] fim: 114 imagens
