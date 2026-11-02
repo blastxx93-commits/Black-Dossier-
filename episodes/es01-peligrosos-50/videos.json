@@ -1,0 +1,232 @@
+{
+ "defaults": {
+  "n": 4,
+  "clip": 8,
+  "per_film": 2,
+  "years": [
+   1948,
+   1966
+  ],
+  "sources": [
+   "archive"
+  ]
+ },
+ "shots": [
+  {
+   "id": "c_traffic_50s",
+   "query": "traffic",
+   "alt": [
+    "highway traffic",
+    "freeway",
+    "city traffic"
+   ],
+   "collections": [
+    "prelinger"
+   ],
+   "years": [
+    1950,
+    1960
+   ],
+   "n": 6,
+   "per_film": 3
+  },
+  {
+   "id": "c_auto_show",
+   "query": "auto show",
+   "alt": [
+    "new cars",
+    "motor show",
+    "new models"
+   ],
+   "collections": [
+    "universal_newsreels",
+    "prelinger"
+   ],
+   "years": [
+    1950,
+    1960
+   ],
+   "n": 6,
+   "per_film": 3
+  },
+  {
+   "id": "c_factory",
+   "query": "assembly line",
+   "alt": [
+    "automobile factory",
+    "car production"
+   ],
+   "collections": [
+    "prelinger",
+    "universal_newsreels"
+   ],
+   "years": [
+    1948,
+    1960
+   ],
+   "n": 5,
+   "per_film": 2
+  },
+  {
+   "id": "c_family_car",
+   "query": "family car",
+   "alt": [
+    "Sunday drive",
+    "family vacation car",
+    "station wagon"
+   ],
+   "collections": [
+    "prelinger"
+   ],
+   "years": [
+    1950,
+    1962
+   ],
+   "n": 6,
+   "per_film": 3
+  },
+  {
+   "id": "c_lemans",
+   "query": "Le Mans",
+   "alt": [
+    "24 hour race",
+    "sports car race"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1950,
+    1956
+   ],
+   "n": 5,
+   "per_film": 3
+  },
+  {
+   "id": "c_racing",
+   "query": "auto race",
+   "alt": [
+    "sports car racing",
+    "road race",
+    "racing cars"
+   ],
+   "collections": [
+    "universal_newsreels",
+    "prelinger"
+   ],
+   "years": [
+    1950,
+    1958
+   ],
+   "n": 6,
+   "per_film": 3
+  },
+  {
+   "id": "c_bubble_car",
+   "query": "midget car",
+   "alt": [
+    "small car",
+    "tiny car",
+    "economy car"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1953,
+    1962
+   ],
+   "n": 5,
+   "per_film": 3
+  },
+  {
+   "id": "c_crash_test",
+   "query": "crash test",
+   "alt": [
+    "safety test",
+    "collision test",
+    "automobile safety"
+   ],
+   "collections": [
+    "prelinger",
+    "universal_newsreels"
+   ],
+   "years": [
+    1950,
+    1966
+   ],
+   "n": 5,
+   "per_film": 2
+  },
+  {
+   "id": "c_seatbelt",
+   "query": "seat belt",
+   "alt": [
+    "safety belt",
+    "car safety"
+   ],
+   "collections": [
+    "prelinger",
+    "universal_newsreels"
+   ],
+   "years": [
+    1955,
+    1966
+   ],
+   "n": 4,
+   "per_film": 2
+  },
+  {
+   "id": "c_driving_pov",
+   "query": "driving",
+   "alt": [
+    "country road",
+    "night driving"
+   ],
+   "collections": [
+    "prelinger"
+   ],
+   "years": [
+    1950,
+    1962
+   ],
+   "n": 5,
+   "per_film": 3
+  },
+  {
+   "id": "c_europe_50s",
+   "query": "Europe",
+   "alt": [
+    "Paris traffic",
+    "Germany cars",
+    "Rome traffic"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1950,
+    1960
+   ],
+   "n": 5,
+   "per_film": 3
+  },
+  {
+   "id": "c_spain",
+   "query": "Spain",
+   "alt": [
+    "Madrid",
+    "Barcelona"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1950,
+    1962
+   ],
+   "n": 4,
+   "per_film": 2
+  }
+ ]
+}

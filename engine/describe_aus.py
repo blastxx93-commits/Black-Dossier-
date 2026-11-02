@@ -15,7 +15,13 @@ for fn in glob.glob(os.path.join(assets, "credits*.csv")):
     for r in csv.DictReader(open(fn)):
         cred[r.get("file", "")] = r
 
-out = [meta["intro"].strip(), "", "Real 2026 news. No rumours.", "", "CHAPTERS"]
+ES = meta.get("lang") == "es"
+L = {"tag": "Historia real, con fuentes." if ES else "Real 2026 news. No rumours.", "ch": "CAPÍTULOS" if ES else "CHAPTERS",
+     "src": "Fuentes:" if ES else "Sources:", "cred": "Créditos de las fotos (Wikimedia Commons):" if ES else "Photo credits (Wikimedia Commons):",
+     "other": ("Otras fotos e imágenes de archivo: {} (licencias libres). Algunas escenas son ilustraciones generadas por IA, no hechos reales."
+               if ES else "Other photos and footage: {} (free licences). Some scenes are AI-generated illustrations, not real events."),
+     "music": "Música: pista original." if ES else "Music: original track."}
+out = [meta["intro"].strip(), "", meta.get("tagline", L["tag"]), "", L["ch"]]
 t = 0.0
 used = []
 for title, chap in zip(meta["chapters"], ep["chapters"]):
@@ -26,7 +32,7 @@ for title, chap in zip(meta["chapters"], ep["chapters"]):
             v = s.get(k)
             if isinstance(v, str):
                 used.append(v[2:] if v.startswith("a/") else v)
-out += ["", "Sources:"] + [f"- {x}" for x in meta["sources"]]
+out += ["", L["src"]] + [f"- {x}" for x in meta["sources"]]
 lines, stock = [], set()
 for f in dict.fromkeys(used):
     r = cred.get(f)
@@ -38,8 +44,7 @@ for f in dict.fromkeys(used):
     else:
         stock.add(r.get("source", "").capitalize())
 if lines:
-    out += ["", "Photo credits (Wikimedia Commons):"] + sorted(set(lines))
+    out += ["", L["cred"]] + sorted(set(lines))
 src = ", ".join(sorted(s for s in stock if s)) or "Unsplash, Pixabay"
-out += [f"Other photos and footage: {src} (free licences). Some scenes are AI-generated illustrations, not real events.",
-        "Music: original track.", "", meta.get("tags_line", "")]
+out += [L["other"].format(src), L["music"], "", meta.get("tags_line", "")]
 print("\n".join(out))

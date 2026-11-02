@@ -33,6 +33,9 @@ def setup(script_dir, skip_file=None, photos=None, clips=None, generic_clips=Non
     """reserved: ["m_dolphin/3", ...] photos kept for a specific line (photo()/rank()), never taken by a pool."""
     CFG.update(script=script_dir, photos=photos or {}, clips=clips or {}, generic_clips=generic_clips or [],
                fallback=fallback or {}, any=any_pools or [])
+    # channel language: episodes/<ep>/lang.txt next to narration/ (default English)
+    lf = os.path.join(os.path.dirname(os.path.abspath(script_dir)), "lang.txt")
+    CFG["lang"] = open(lf).read().strip() if os.path.exists(lf) else "en"
     if skip_file and os.path.exists(skip_file):
         CFG["skip"] = set(json.load(open(skip_file)))
     # reviewed.json (next to skip.json): every photo/clip I have actually looked at on a contact sheet.
@@ -164,7 +167,7 @@ def photo(folder, n, move="in", cap=None):
 def credit(path):
     r = CREDITS.get(path, {})
     a = (r.get("author") or "").strip()
-    return f"Photo: {a[:40]} · {(r.get('license') or '').strip()}" if a else ""
+    return f"{'Foto' if CFG.get('lang') == 'es' else 'Photo'}: {a[:40]} · {(r.get('license') or '').strip()}" if a else ""
 
 
 # ---------------------------------------------------------------- graphics

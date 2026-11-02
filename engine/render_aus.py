@@ -31,6 +31,10 @@ R.FONT_CANDIDATES["body"] = ["fonts/Inter-SemiBold.otf", "/usr/share/fonts/opent
                              "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"]
 font, ease, wrap = R.font, R.ease, R.wrap
 CHANNEL = os.environ.get("AUS_CHANNEL", "")
+# on-screen labels per channel language (env CHANNEL_LANG, set by the render workflow from episodes/<ep>/lang.txt)
+LANG = os.environ.get("CHANNEL_LANG", "en").strip() or "en"
+LBL = {"en": {"source": "SOURCE: ", "sub": "SUBSCRIBE", "subbed": "SUBSCRIBED"},
+       "es": {"source": "FUENTE: ", "sub": "SUSCRÍBETE", "subbed": "SUSCRITO"}}.get(LANG) or {"source": "SOURCE: ", "sub": "SUBSCRIBE", "subbed": "SUBSCRIBED"}
 
 
 # ---------------------------------------------------------------- motion helpers (sub-pixel, no jitter)
@@ -136,7 +140,7 @@ def fade_col(col, k):
 
 def source_line(ctx, d, text):
     if text:
-        d.text((ctx.px(90), ctx.px(60)), "SOURCE: " + text.upper(), font=font("body", ctx.px(26)), fill=B["grey"] + (255,))
+        d.text((ctx.px(90), ctx.px(60)), LBL["source"] + text.upper(), font=font("body", ctx.px(26)), fill=B["grey"] + (255,))
 
 
 def channel_bug(ctx, d):
@@ -223,7 +227,7 @@ def shot_statement(ctx, s, n):
             w = d.textlength(line, font=f)
             x = (ctx.W - w) / 2
             for word in line.split(" "):
-                col = B["yellow"] if hl and re.sub(r"[^A-Z0-9$%]", "", word) in hl.split() else B["white"]
+                col = B["yellow"] if hl and re.sub(r"[^\w$%]", "", word) in hl.split() else B["white"]
                 d.text((x, y + li * lh + (1 - k) * ctx.px(50)), word, font=f, fill=fade_col(col, k))
                 x += d.textlength(word + " ", font=f)
         t = ease((i - ctx.fps * 0.3) / (ctx.fps * 0.5))
@@ -485,7 +489,7 @@ def shot_cta(ctx, s, n):
         tw = d.textlength(text, font=fb)
         d.text(((bw - tw) / 2, ctx.px(20)), text, font=fb, fill=B["white"])
         return im
-    btn, pressed = button("SUBSCRIBE", B["red"]), button("SUBSCRIBED", (90, 90, 95))
+    btn, pressed = button(LBL["sub"], B["red"]), button(LBL["subbed"], (90, 90, 95))
     bell = Image.new("RGBA", (ctx.px(150), ctx.px(150)), (0, 0, 0, 0))
     dl = ImageDraw.Draw(bell); c = ctx.px(75)
     dl.ellipse([0, 0, ctx.px(150) - 1, ctx.px(150) - 1], fill=B["yellow"] + (255,))

@@ -1,0 +1,238 @@
+{
+ "defaults": {
+  "n": 4,
+  "sources": [
+   "commons",
+   "openverse",
+   "loc"
+  ]
+ },
+ "shots": [
+  {
+   "id": "m_crosley",
+   "query": "Crosley Hotshot",
+   "n": 5,
+   "alt": [
+    "Crosley Hot Shot 1949",
+    "Crosley 1950 car"
+   ]
+  },
+  {
+   "id": "m_biscuter",
+   "query": "Biscúter Voisin",
+   "n": 6,
+   "alt": [
+    "Biscuter 200",
+    "Biscuter microcar",
+    "Autonacional Biscuter"
+   ]
+  },
+  {
+   "id": "m_kr200",
+   "query": "Messerschmitt KR200",
+   "n": 6,
+   "alt": [
+    "Messerschmitt Kabinenroller",
+    "Messerschmitt KR 200 bubble car"
+   ]
+  },
+  {
+   "id": "m_isetta",
+   "query": "BMW Isetta",
+   "n": 7,
+   "alt": [
+    "BMW Isetta 300",
+    "Isetta open front door",
+    "Iso Isetta"
+   ]
+  },
+  {
+   "id": "m_trabant_p50",
+   "query": "Trabant P50",
+   "n": 5,
+   "alt": [
+    "Trabant P 50",
+    "AWZ Trabant P50",
+    "Trabant 500"
+   ]
+  },
+  {
+   "id": "m_seat600",
+   "query": "SEAT 600",
+   "n": 7,
+   "alt": [
+    "Seat 600 N",
+    "Seat 600 D",
+    "SEAT 600 Barcelona"
+   ]
+  },
+  {
+   "id": "m_beetle",
+   "query": "Volkswagen Beetle 1950s",
+   "n": 6,
+   "alt": [
+    "Volkswagen Käfer 1953",
+    "VW Beetle oval window",
+    "Volkswagen Type 1 1955"
+   ]
+  },
+  {
+   "id": "m_porsche550",
+   "query": "Porsche 550 Spyder",
+   "n": 6,
+   "alt": [
+    "Porsche 550 Spyder 1955",
+    "Porsche 550"
+   ]
+  },
+  {
+   "id": "m_dauphine",
+   "query": "Renault Dauphine",
+   "n": 6,
+   "alt": [
+    "Renault Dauphine FASA",
+    "Renault Dauphine 1958"
+   ]
+  },
+  {
+   "id": "m_300sl",
+   "query": "Mercedes-Benz 300 SL Gullwing",
+   "n": 7,
+   "alt": [
+    "Mercedes 300 SL W198",
+    "300 SL gullwing doors open"
+   ]
+  },
+  {
+   "id": "m_300slr",
+   "query": "Mercedes-Benz 300 SLR",
+   "n": 5,
+   "alt": [
+    "Mercedes 300 SLR 1955",
+    "Mercedes W196S"
+   ]
+  },
+  {
+   "id": "m_belair59",
+   "query": "Chevrolet Bel Air 1959",
+   "n": 6,
+   "alt": [
+    "1959 Chevrolet Bel Air",
+    "1959 Chevrolet Impala"
+   ]
+  },
+  {
+   "id": "m_belair57",
+   "query": "Chevrolet Bel Air 1957",
+   "n": 5,
+   "alt": [
+    "1957 Chevrolet Bel Air",
+    "1955 Chevrolet Bel Air"
+   ]
+  },
+  {
+   "id": "m_volvo_pv544",
+   "query": "Volvo PV544",
+   "n": 5,
+   "alt": [
+    "Volvo PV 544 1959",
+    "Volvo Amazon 1959"
+   ]
+  },
+  {
+   "id": "h_seatbelt",
+   "query": "three-point seat belt",
+   "n": 4,
+   "alt": [
+    "Volvo three point safety belt",
+    "Nils Bohlin"
+   ]
+  },
+  {
+   "id": "h_lemans_1955",
+   "query": "Le Mans 1955",
+   "n": 5,
+   "alt": [
+    "24 Hours of Le Mans 1955",
+    "Circuit de la Sarthe 1955"
+   ]
+  },
+  {
+   "id": "h_jaguar_d",
+   "query": "Jaguar D-Type",
+   "n": 4,
+   "alt": [
+    "Jaguar D-type 1955"
+   ]
+  },
+  {
+   "id": "h_healey",
+   "query": "Austin-Healey 100S",
+   "n": 4,
+   "alt": [
+    "Austin-Healey 100"
+   ]
+  },
+  {
+   "id": "h_james_dean",
+   "query": "James Dean",
+   "n": 3,
+   "alt": [
+    "James Dean 1955"
+   ]
+  },
+  {
+   "id": "h_dashboard_1950s",
+   "query": "1950s car dashboard",
+   "n": 5,
+   "alt": [
+    "vintage car steering wheel",
+    "1950s car interior"
+   ]
+  },
+  {
+   "id": "h_spain_1950s",
+   "query": "España años 50 calle",
+   "n": 5,
+   "alt": [
+    "Barcelona 1950s street",
+    "Madrid 1950s traffic",
+    "Spain 1950s"
+   ]
+  },
+  {
+   "id": "h_ddr",
+   "query": "Zwickau Sachsenring",
+   "n": 4,
+   "alt": [
+    "East Germany 1950s street",
+    "DDR Trabant"
+   ]
+  },
+  {
+   "id": "h_fins",
+   "query": "Cadillac 1959 tail fin",
+   "n": 4,
+   "alt": [
+    "1950s car tail fins",
+    "1959 Cadillac Eldorado"
+   ]
+  },
+  {
+   "id": "h_drive_in",
+   "query": "drive-in theater 1950s",
+   "n": 3,
+   "alt": [
+    "drive-in cinema 1950s"
+   ]
+  },
+  {
+   "id": "h_cornell",
+   "query": "Cornell Aeronautical Laboratory",
+   "n": 3,
+   "alt": [
+    "Cornell Liberty safety car 1957"
+   ]
+  }
+ ]
+}

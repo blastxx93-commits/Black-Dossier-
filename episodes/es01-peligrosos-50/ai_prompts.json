@@ -1,0 +1,128 @@
+{
+ "model": "black-forest-labs/flux-1.1-pro-ultra",
+ "raw": true,
+ "n": 1,
+ "style": ", 1950s documentary photograph, Kodachrome colour, film grain, period-correct vehicles, realistic, cinematic, no logos, no badges, no readable text, no brand names",
+ "shots": [
+  {
+   "id": "ai_spain_family_600",
+   "prompt": "A Spanish family of four loading a small cream-coloured late-1950s rear-engine city car on a sunny street in a Spanish town, luggage on a roof rack, whitewashed houses, no readable text, no logos"
+  },
+  {
+   "id": "ai_lift_microcar",
+   "prompt": "Two men in 1950s clothes lifting the rear of a tiny microcar by hand to turn it around in a narrow Barcelona street, 1953, cobblestones, no readable text, no logos"
+  },
+  {
+   "id": "ai_isetta_front",
+   "prompt": "A tiny bubble car with its single front door swung open like a fridge door, steering wheel attached to the door, parked on a 1950s German street, no readable text, no logos"
+  },
+  {
+   "id": "ai_tank_engine",
+   "prompt": "Cutaway illustration style photograph of a small 1950s two-stroke car engine bay with a fuel tank mounted above the engine, workshop light, no readable text, no logos"
+  },
+  {
+   "id": "ai_dipstick",
+   "prompt": "Close-up of a hand dipping a wooden stick into the fuel tank of a small 1950s car to check the fuel level, East German garage, no readable text, no logos"
+  },
+  {
+   "id": "ai_suicide_door",
+   "prompt": "A small 1950s European car driving on a country road with its rear-hinged front door swung open by the wind, motion blur, no readable text, no logos"
+  },
+  {
+   "id": "ai_swing_axle",
+   "prompt": "A 1950s rear-engine car sliding sideways on a wet mountain curve, rear wheels tucked at an angle, dramatic but no crash, no readable text, no logos"
+  },
+  {
+   "id": "ai_crosswind",
+   "prompt": "A small 1950s rear-engine saloon on an open Spanish plateau road being pushed by strong crosswind, trees bending, dust blowing, no readable text, no logos"
+  },
+  {
+   "id": "ai_salt_road",
+   "prompt": "A 1950s American small roadster on a winter road covered in salt and slush, rusty brake parts, grey sky, no readable text, no logos"
+  },
+  {
+   "id": "ai_brake_disc_rust",
+   "prompt": "Close-up of a heavily corroded early car disc brake mechanism, rust and road salt, workshop table, 1950, no readable text, no logos"
+  },
+  {
+   "id": "ai_dashboard_metal",
+   "prompt": "Interior of a 1950s American car, painted metal dashboard, large thin steering wheel on a rigid column, no seat belts, bench seat, no readable text, no logos"
+  },
+  {
+   "id": "ai_column_spear",
+   "prompt": "Studio photograph of a bare 1950s car steering column and wheel removed from a car, displayed on a workbench like evidence, harsh light, no readable text, no logos"
+  },
+  {
+   "id": "ai_cornell_lab",
+   "prompt": "A 1950s research laboratory with engineers in white coats examining a wrecked car and crash test notes, black and white, no readable text, no logos"
+  },
+  {
+   "id": "ai_crash_test_1959",
+   "prompt": "A 1959 two-tone American sedan and a 2009 silver family sedan facing each other in an indoor crash test hall, bright lights, before impact, no readable text, no logos"
+  },
+  {
+   "id": "ai_crash_after",
+   "prompt": "Aftermath in an indoor crash test hall: an old 1959 American sedan with its front and cabin crushed next to a modern sedan with a crumpled front but intact cabin, no readable text, no logos"
+  },
+  {
+   "id": "ai_bohlin_belt",
+   "prompt": "A 1959 Swedish engineer in a white shirt fastening a three-point seat belt in a 1950s car, factory test area, no recognisable real person, no readable text, no logos"
+  },
+  {
+   "id": "ai_lemans_grandstand",
+   "prompt": "1955 motor race grandstand packed with spectators in summer clothes, race cars blurred on the straight, no crash, no readable text, no logos"
+  },
+  {
+   "id": "ai_lemans_night",
+   "prompt": "1955 endurance race at night, headlights streaking past illuminated pits, smoke and mist, sombre mood, no crash, no readable text, no logos"
+  },
+  {
+   "id": "ai_desert_crossroads",
+   "prompt": "A lonely two-lane crossroads in the California hills at sunset in 1955, dry golden grass, a small roadside sign, no cars, no readable text, no logos"
+  },
+  {
+   "id": "ai_aluminium_wreck",
+   "prompt": "A twisted silver aluminium body panel of a 1950s sports car lying in dry grass, no people, no blood, no readable text, no logos"
+  },
+  {
+   "id": "ai_magnesium_fire",
+   "prompt": "A dramatic white-hot flare of burning metal on a racetrack at dusk, firemen in 1950s uniforms in silhouette, no people injured, no readable text, no logos"
+  },
+  {
+   "id": "ai_bubble_traffic",
+   "prompt": "A tiny three-wheeled tandem two-seat bubble car with a plexiglass canopy squeezed between a large truck and a big 1950s saloon in city traffic, no readable text, no logos"
+  },
+  {
+   "id": "ai_valladolid_factory",
+   "prompt": "A 1950s Spanish car factory assembly line producing small rear-engine saloons, workers in overalls, Valladolid, no readable text, no logos"
+  },
+  {
+   "id": "ai_drive_in",
+   "prompt": "A 1950s American drive-in cinema at dusk filled with chrome finned cars, giant screen glowing, no readable text, no logos"
+  },
+  {
+   "id": "ai_showroom_50s",
+   "prompt": "A 1950s American car showroom with gleaming two-tone cars with tail fins and chrome, salesmen in suits, no readable text, no logos"
+  },
+  {
+   "id": "ai_ddr_street",
+   "prompt": "An East German town street in 1958, a few small two-stroke cars, grey buildings, people on bicycles, no readable text, no logos"
+  },
+  {
+   "id": "ai_spain_1953_street",
+   "prompt": "A Barcelona street in 1953, few cars, a tram, a tiny microcar parked, people in period clothes, sunny, no readable text, no logos"
+  },
+  {
+   "id": "ai_millionaire_300sl",
+   "prompt": "A silver 1950s gullwing sports car parked outside a Monte Carlo casino at night, doors open upwards, elegant, no readable text, no logos"
+  },
+  {
+   "id": "ai_family_belair",
+   "prompt": "An American family in 1959 posing proudly beside their new two-tone finned sedan in front of a suburban house, no readable text, no logos"
+  },
+  {
+   "id": "ai_buckle_close",
+   "prompt": "Extreme close-up of a modern hand clicking a seat belt buckle, warm light, no readable text, no logos"
+  }
+ ]
+}

@@ -68,7 +68,9 @@ jobs:
           python3 agent/tts.py "${{ inputs.episode }}" --out ../out --only "${{ inputs.only }}" --speed "${{ inputs.speed }}" 2>&1 | tee "../out/${{ inputs.episode }}/tts_log.txt"
       - name: Transcrever (tempo de cada palavra)
         if: ${{ hashFiles(format('out/{0}/audio/*.mp3', inputs.episode)) != '' }}
-        run: python3 main/agent/transcribe.py "out/${{ inputs.episode }}/audio" "out/${{ inputs.episode }}/words"
+        run: |
+          LANG_EP=$(cat "main/episodes/${{ inputs.episode }}/lang.txt" 2>/dev/null || echo en)
+          python3 main/agent/transcribe.py "out/${{ inputs.episode }}/audio" "out/${{ inputs.episode }}/words" --lang "$LANG_EP"
       - name: Guardar cópia (backup)
         if: ${{ !cancelled() }}
         uses: actions/upload-artifact@v4
