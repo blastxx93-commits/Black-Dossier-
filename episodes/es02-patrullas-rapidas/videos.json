@@ -1,0 +1,387 @@
+{
+ "defaults": {
+  "n": 4,
+  "clip": 8,
+  "per_film": 2,
+  "years": [
+   1948,
+   1969
+  ],
+  "sources": [
+   "archive"
+  ]
+ },
+ "shots": [
+  {
+   "id": "c_police_car",
+   "query": "police car",
+   "alt": [
+    "patrol car",
+    "state police",
+    "highway patrol"
+   ],
+   "collections": [
+    "prelinger",
+    "universal_newsreels"
+   ],
+   "years": [
+    1950,
+    1969
+   ],
+   "n": 6,
+   "per_film": 2
+  },
+  {
+   "id": "c_motorcycle_police",
+   "query": "motorcycle police",
+   "alt": [
+    "motorcycle officer",
+    "traffic police"
+   ],
+   "collections": [
+    "prelinger",
+    "universal_newsreels"
+   ],
+   "years": [
+    1950,
+    1969
+   ],
+   "n": 5,
+   "per_film": 2
+  },
+  {
+   "id": "c_speed",
+   "query": "speeding",
+   "alt": [
+    "speed trap",
+    "radar speed",
+    "speed limit"
+   ],
+   "collections": [
+    "prelinger",
+    "universal_newsreels"
+   ],
+   "years": [
+    1950,
+    1969
+   ],
+   "n": 5,
+   "per_film": 2
+  },
+  {
+   "id": "c_chase",
+   "query": "chase",
+   "alt": [
+    "police chase",
+    "pursuit"
+   ],
+   "collections": [
+    "prelinger",
+    "universal_newsreels"
+   ],
+   "years": [
+    1950,
+    1969
+   ],
+   "n": 5,
+   "per_film": 2
+  },
+  {
+   "id": "c_highway",
+   "query": "freeway",
+   "alt": [
+    "highway traffic",
+    "expressway",
+    "turnpike"
+   ],
+   "collections": [
+    "prelinger"
+   ],
+   "years": [
+    1950,
+    1969
+   ],
+   "n": 6,
+   "per_film": 3
+  },
+  {
+   "id": "c_london",
+   "query": "London",
+   "alt": [
+    "London traffic",
+    "Piccadilly"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1950,
+    1969
+   ],
+   "n": 5,
+   "per_film": 2
+  },
+  {
+   "id": "c_rome",
+   "query": "Rome",
+   "alt": [
+    "Italy",
+    "Roma"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1955,
+    1969
+   ],
+   "n": 5,
+   "per_film": 2
+  },
+  {
+   "id": "c_holland",
+   "query": "Holland",
+   "alt": [
+    "Netherlands",
+    "Amsterdam"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1955,
+    1969
+   ],
+   "n": 4,
+   "per_film": 2
+  },
+  {
+   "id": "c_california",
+   "query": "California",
+   "alt": [
+    "Los Angeles freeway",
+    "Los Angeles"
+   ],
+   "collections": [
+    "prelinger",
+    "universal_newsreels"
+   ],
+   "years": [
+    1950,
+    1969
+   ],
+   "n": 5,
+   "per_film": 2
+  },
+  {
+   "id": "c_radio",
+   "query": "police radio",
+   "alt": [
+    "radio dispatcher",
+    "two-way radio"
+   ],
+   "collections": [
+    "prelinger",
+    "universal_newsreels"
+   ],
+   "years": [
+    1950,
+    1969
+   ],
+   "n": 4,
+   "per_film": 2
+  },
+  {
+   "id": "c_auto_race",
+   "query": "sports car race",
+   "alt": [
+    "auto race",
+    "road race"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1955,
+    1969
+   ],
+   "n": 5,
+   "per_film": 2
+  },
+  {
+   "id": "v_police_classic",
+   "query": "vintage police car",
+   "alt": [
+    "classic police car",
+    "old police car siren"
+   ],
+   "sources": [
+    "commons",
+    "pixabay",
+    "pexels",
+    "coverr"
+   ],
+   "n": 4,
+   "per_film": 1
+  },
+  {
+   "id": "v_porsche356",
+   "query": "Porsche 356",
+   "alt": [
+    "porsche 356 driving"
+   ],
+   "sources": [
+    "commons",
+    "pixabay",
+    "pexels",
+    "coverr"
+   ],
+   "n": 4,
+   "per_film": 1
+  },
+  {
+   "id": "v_jaguar_mk2",
+   "query": "Jaguar Mk2",
+   "alt": [
+    "jaguar mark 2",
+    "classic jaguar"
+   ],
+   "sources": [
+    "commons",
+    "pixabay",
+    "pexels",
+    "coverr"
+   ],
+   "n": 4,
+   "per_film": 1
+  },
+  {
+   "id": "v_alfa_giulia",
+   "query": "Alfa Romeo Giulia classic",
+   "alt": [
+    "alfa romeo giulia 1600",
+    "alfa giulia"
+   ],
+   "sources": [
+    "commons",
+    "pixabay",
+    "pexels",
+    "coverr"
+   ],
+   "n": 4,
+   "per_film": 1
+  },
+  {
+   "id": "v_porsche911",
+   "query": "Porsche 911 classic",
+   "alt": [
+    "porsche 911 targa classic",
+    "old porsche 911"
+   ],
+   "sources": [
+    "commons",
+    "pixabay",
+    "pexels",
+    "coverr"
+   ],
+   "n": 4,
+   "per_film": 1
+  },
+  {
+   "id": "v_ferrari_classic",
+   "query": "classic Ferrari",
+   "alt": [
+    "ferrari 250",
+    "vintage ferrari"
+   ],
+   "sources": [
+    "commons",
+    "pixabay",
+    "pexels",
+    "coverr"
+   ],
+   "n": 4,
+   "per_film": 1
+  },
+  {
+   "id": "v_muscle_sedan",
+   "query": "classic american sedan",
+   "alt": [
+    "1960s dodge",
+    "classic mopar"
+   ],
+   "sources": [
+    "commons",
+    "pixabay",
+    "pexels",
+    "coverr"
+   ],
+   "n": 4,
+   "per_film": 1
+  },
+  {
+   "id": "v_siren",
+   "query": "police siren light",
+   "alt": [
+    "police lights night",
+    "emergency lights"
+   ],
+   "sources": [
+    "commons",
+    "pixabay",
+    "pexels",
+    "coverr"
+   ],
+   "n": 4,
+   "per_film": 1
+  },
+  {
+   "id": "v_rome",
+   "query": "Rome street",
+   "alt": [
+    "Roma",
+    "Spanish Steps"
+   ],
+   "sources": [
+    "commons",
+    "pixabay",
+    "pexels",
+    "coverr"
+   ],
+   "n": 4,
+   "per_film": 1
+  },
+  {
+   "id": "v_london",
+   "query": "London street",
+   "alt": [
+    "London traffic",
+    "Westminster"
+   ],
+   "sources": [
+    "commons",
+    "pixabay",
+    "pexels",
+    "coverr"
+   ],
+   "n": 4,
+   "per_film": 1
+  },
+  {
+   "id": "v_seat_classic",
+   "query": "Seat 1400",
+   "alt": [
+    "seat 600 classic",
+    "classic spanish car"
+   ],
+   "sources": [
+    "commons",
+    "pixabay",
+    "pexels",
+    "coverr"
+   ],
+   "n": 4,
+   "per_film": 1
+  }
+ ]
+}

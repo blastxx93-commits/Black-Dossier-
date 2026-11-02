@@ -1,0 +1,330 @@
+{
+ "defaults": {
+  "n": 4,
+  "sources": [
+   "commons",
+   "openverse",
+   "loc"
+  ]
+ },
+ "shots": [
+  {
+   "id": "m_356_police",
+   "query": "Porsche 356 Rijkspolitie",
+   "alt": [
+    "Porsche 356 politie",
+    "Porsche 356 Polizei",
+    "Porsche 356 police cabriolet"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_356",
+   "query": "Porsche 356 B Cabriolet",
+   "alt": [
+    "Porsche 356 B",
+    "Porsche 356 1960"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_buick55",
+   "query": "1955 Buick Century",
+   "alt": [
+    "Buick Century 1955",
+    "1956 Buick Century"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_buick_police",
+   "query": "Buick Century police car",
+   "alt": [
+    "California Highway Patrol Buick",
+    "Highway Patrol Buick 1955"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_giulia_police",
+   "query": "Alfa Romeo Giulia Polizia",
+   "alt": [
+    "Alfa Romeo Giulia Super Polizia",
+    "Alfa Romeo Giulia Carabinieri",
+    "Alfa Romeo Polizia Squadra Volante"
+   ],
+   "n": 7
+  },
+  {
+   "id": "m_giulia",
+   "query": "Alfa Romeo Giulia Super",
+   "alt": [
+    "Alfa Romeo Giulia TI",
+    "Alfa Romeo Giulia 1965"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_sp250",
+   "query": "Daimler SP250",
+   "alt": [
+    "Daimler SP250 Dart",
+    "Daimler Dart"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_sp250_police",
+   "query": "Daimler SP250 police",
+   "alt": [
+    "Daimler Dart police car",
+    "Metropolitan Police Daimler"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_stype",
+   "query": "Jaguar S-Type 1965",
+   "alt": [
+    "Jaguar S-Type 3.8",
+    "Jaguar S type saloon"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_stype_police",
+   "query": "Jaguar S-Type police",
+   "alt": [
+    "Jaguar police car 1960s",
+    "Jaguar 340 police"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_mk2",
+   "query": "Jaguar Mark 2",
+   "alt": [
+    "Jaguar Mk2 3.8",
+    "Jaguar Mark II saloon"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_mk2_police",
+   "query": "Jaguar Mk2 police car",
+   "alt": [
+    "Jaguar Mark 2 police",
+    "Jaguar Mk II police"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_polara65",
+   "query": "1965 Dodge Polara",
+   "alt": [
+    "Dodge Polara 1965",
+    "Dodge Polara police"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_911_police",
+   "query": "Porsche 911 Rijkspolitie",
+   "alt": [
+    "Porsche 911 Targa politie",
+    "Porsche 911 police Netherlands"
+   ],
+   "n": 7
+  },
+  {
+   "id": "m_911targa",
+   "query": "Porsche 911 Targa 1968",
+   "alt": [
+    "Porsche 911 Targa soft window",
+    "Porsche 911 1967"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_ferrari_police",
+   "query": "Ferrari 250 GTE Polizia",
+   "alt": [
+    "Ferrari Polizia",
+    "Ferrari 250 GTE police"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_ferrari_gte",
+   "query": "Ferrari 250 GTE",
+   "alt": [
+    "Ferrari 250 GT 2+2",
+    "Ferrari 250 GTE Pininfarina"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_polara69",
+   "query": "1969 Dodge Polara",
+   "alt": [
+    "Dodge Polara 1969",
+    "Dodge Polara 500 1969"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_polara_chp",
+   "query": "Dodge Polara California Highway Patrol",
+   "alt": [
+    "CHP Dodge police car",
+    "Dodge police car 1960s"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_seat1400",
+   "query": "SEAT 1400",
+   "alt": [
+    "Seat 1400 B",
+    "Seat 1400 C",
+    "SEAT 1400 1953"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_seat1400_gc",
+   "query": "SEAT 1400 Guardia Civil",
+   "alt": [
+    "Seat 1400 policía",
+    "Seat 1400 taxi"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_r10",
+   "query": "Renault 10",
+   "alt": [
+    "Renault 10 FASA",
+    "Renault R10 1967"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_r10_gc",
+   "query": "Renault 10 Guardia Civil",
+   "alt": [
+    "Guardia Civil coche clásico",
+    "Guardia Civil vehículo histórico"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_gc_moto",
+   "query": "Guardia Civil Tráfico motorista",
+   "alt": [
+    "Guardia Civil motocicleta BMW",
+    "Guardia Civil de Tráfico"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_chp",
+   "query": "California Highway Patrol 1950s",
+   "alt": [
+    "California Highway Patrol vintage",
+    "Highway Patrol 1960s"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_crawford",
+   "query": "Broderick Crawford",
+   "alt": [
+    "Broderick Crawford Highway Patrol"
+   ],
+   "n": 3
+  },
+  {
+   "id": "h_rome_60s",
+   "query": "Rome 1960s street",
+   "alt": [
+    "Roma anni 60",
+    "Via del Corso 1960s"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_spanish_steps",
+   "query": "Spanish Steps Rome",
+   "alt": [
+    "Scalinata di Trinità dei Monti",
+    "Piazza di Spagna"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_london_60s",
+   "query": "London 1960s street",
+   "alt": [
+    "London traffic 1960s",
+    "Piccadilly Circus 1960s"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_cafe_racer",
+   "query": "cafe racer motorcycle",
+   "alt": [
+    "Ace Cafe London",
+    "Triton motorcycle",
+    "1960s British motorcycle"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_police_museum",
+   "query": "Museo delle auto della Polizia di Stato",
+   "alt": [
+    "police car museum",
+    "Politiemuseum"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_maranello",
+   "query": "Ferrari Maranello",
+   "alt": [
+    "Ferrari factory Maranello",
+    "Museo Ferrari Maranello"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_autobahn",
+   "query": "Autobahn 1960s",
+   "alt": [
+    "Dutch motorway 1960s",
+    "autosnelweg 1960"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_police_light",
+   "query": "vintage police siren",
+   "alt": [
+    "police beacon light vintage",
+    "old police car light"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_dodge440",
+   "query": "Dodge 440 Magnum engine",
+   "alt": [
+    "Chrysler 440 V8",
+    "Dodge 440 engine"
+   ],
+   "n": 4
+  }
+ ]
+}

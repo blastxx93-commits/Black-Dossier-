@@ -1,0 +1,56 @@
+{
+ "model": "black-forest-labs/flux-1.1-pro-ultra",
+ "raw": true,
+ "n": 1,
+ "style": ", 1960s documentary photograph, Kodachrome colour, film grain, period-correct vehicles, realistic, cinematic, no logos, no badges, no readable text, no brand names",
+ "shots": [
+  {
+   "id": "ai_rome_chase",
+   "prompt": "A black 1962 Italian four-seat grand touring coupe police car speeding through a narrow Rome street at dusk, motion blur, old buildings, people stepping back, no readable text, no logos"
+  },
+  {
+   "id": "ai_cafe_racers",
+   "prompt": "Two young motorcyclists in leather jackets on 1960s British cafe racer motorcycles racing on a London road at dusk, a black small sports roadster following behind, no readable text, no logos"
+  },
+  {
+   "id": "ai_dutch_356",
+   "prompt": "A small white 1960s convertible sports car with two policemen in caps driving on an empty new Dutch motorway, flat green landscape, overcast sky, no readable text, no logos"
+  },
+  {
+   "id": "ai_targa_officer",
+   "prompt": "A Dutch traffic policeman standing on the seat of a white open-roof 1968 sports car with a roll bar, directing traffic on a motorway after an accident, orange stripe, no readable text, no logos"
+  },
+  {
+   "id": "ai_chp_1969",
+   "prompt": "A large black and white 1969 American four-door police sedan racing at high speed on a straight California desert highway, red light on the roof, no readable text, no logos"
+  },
+  {
+   "id": "ai_proving_ground",
+   "prompt": "A 1969 American police sedan at speed on a banked oval test track, engineers with stopwatches watching, overcast Michigan sky, no readable text, no logos"
+  },
+  {
+   "id": "ai_gc_motos",
+   "prompt": "Two Spanish traffic policemen on 1960s motorcycles in grey-green uniforms and white helmets riding on a narrow Spanish country road with olive trees, no readable text, no logos"
+  },
+  {
+   "id": "ai_police_radio",
+   "prompt": "Close-up of a 1950s police car radio microphone in a gloved hand, dashboard behind, warm light, no readable text, no logos"
+  },
+  {
+   "id": "ai_tv_1950s",
+   "prompt": "An American family in 1956 watching a black and white television in their living room, glow of the screen on their faces, no readable text, no logos"
+  },
+  {
+   "id": "ai_maranello_police",
+   "prompt": "Three Italian policemen in 1960s uniforms standing beside a black grand touring coupe in a factory courtyard, mechanics in overalls behind, no readable text, no logos"
+  },
+  {
+   "id": "ai_getaway",
+   "prompt": "Two 1960s British saloon cars in a chase on a wet London street at night, headlights and reflections, no crash, no readable text, no logos"
+  },
+  {
+   "id": "ai_autostrada_check",
+   "prompt": "A 1960s police officer on a European roadside raising a hand to stop a fast sports car, dust, sunlight, no readable text, no logos"
+  }
+ ]
+}
