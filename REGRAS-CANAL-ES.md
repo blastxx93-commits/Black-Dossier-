@@ -41,6 +41,9 @@ Mesmo motor (`engine/render_aus.py`, `engine/aus_kit.py`) e mesmas regras de mon
 - Render paralelo no GitHub (workflow "Renderizar vídeo") com versão de entrega leve.
 
 ## 4. Imagens e segurança
+- **Prioridade máxima para material real (pedido do dono, 02/11/2026):** fotos reais dos modelos e clipes de arquivo de época
+  em primeiro lugar, buscando bastante (várias buscas por carro, muitas opções). Cena de IA **só** onde não houver foto ou
+  clipe real que sirva — e só é gerada depois de revisar o material real, para tapar os buracos.
 - Fotos reais: Wikimedia Commons / Openverse / Library of Congress (só domínio público, CC0, CC BY, CC BY-SA).
 - Clipes: cinejornais e filmes de época em domínio público (Prelinger, Universal Newsreels), nunca filme de ficção.
 - Cenas de IA (Flux): estilo "fotografia documental anos 50, Kodachrome, grão". Nunca rosto reconhecível de pessoa real.

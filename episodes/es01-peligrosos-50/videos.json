@@ -227,6 +227,132 @@
    ],
    "n": 4,
    "per_film": 2
+  },
+  {
+   "id": "c_microcar",
+   "query": "bubble car",
+   "alt": [
+    "three wheel car",
+    "small European car",
+    "Isetta"
+   ],
+   "collections": [
+    "universal_newsreels",
+    "prelinger"
+   ],
+   "years": [
+    1953,
+    1964
+   ],
+   "n": 5,
+   "per_film": 2
+  },
+  {
+   "id": "c_volkswagen",
+   "query": "Volkswagen",
+   "alt": [
+    "German car",
+    "Beetle"
+   ],
+   "collections": [
+    "universal_newsreels",
+    "prelinger"
+   ],
+   "years": [
+    1950,
+    1966
+   ],
+   "n": 5,
+   "per_film": 2
+  },
+  {
+   "id": "c_mercedes",
+   "query": "Mercedes",
+   "alt": [
+    "German sports car",
+    "sports car"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1952,
+    1960
+   ],
+   "n": 5,
+   "per_film": 2
+  },
+  {
+   "id": "c_detroit",
+   "query": "Detroit",
+   "alt": [
+    "new car models",
+    "automobile show",
+    "car dealer"
+   ],
+   "collections": [
+    "universal_newsreels",
+    "prelinger"
+   ],
+   "years": [
+    1955,
+    1962
+   ],
+   "n": 5,
+   "per_film": 2
+  },
+  {
+   "id": "c_highway_safety",
+   "query": "highway safety",
+   "alt": [
+    "traffic accident prevention",
+    "safe driving",
+    "drive safely"
+   ],
+   "collections": [
+    "prelinger"
+   ],
+   "years": [
+    1950,
+    1966
+   ],
+   "n": 5,
+   "per_film": 2
+  },
+  {
+   "id": "c_motor_race_crowd",
+   "query": "grandstand",
+   "alt": [
+    "race crowd",
+    "spectators race"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1950,
+    1958
+   ],
+   "n": 5,
+   "per_film": 2
+  },
+  {
+   "id": "c_spain_traffic",
+   "query": "Madrid",
+   "alt": [
+    "Barcelona",
+    "Spanish"
+   ],
+   "collections": [
+    "universal_newsreels",
+    "prelinger"
+   ],
+   "years": [
+    1955,
+    1970
+   ],
+   "n": 5,
+   "per_film": 2
   }
  ]
 }

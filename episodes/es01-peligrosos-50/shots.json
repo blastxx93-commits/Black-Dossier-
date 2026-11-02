@@ -243,6 +243,245 @@
     "1958 Edsel interior"
    ],
    "n": 4
+  },
+  {
+   "id": "m_biscuter_2",
+   "query": "Biscuter museum",
+   "alt": [
+    "Biscúter 200-F",
+    "Biscuter Zapatilla",
+    "Autonacional microcoche"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_isetta_door",
+   "query": "Isetta front door open",
+   "alt": [
+    "BMW Isetta interior steering",
+    "Isetta door"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_isetta_2",
+   "query": "BMW Isetta 250",
+   "alt": [
+    "Isetta 1956",
+    "BMW Isetta Moto Coupé"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_kr200_2",
+   "query": "Messerschmitt bubble car interior",
+   "alt": [
+    "Messerschmitt KR200 canopy",
+    "Messerschmitt KR 200 cockpit"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_trabant_2",
+   "query": "Trabant P50 engine",
+   "alt": [
+    "Trabant P 50 Limousine",
+    "Sachsenring Trabant 1958"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_seat600_door",
+   "query": "SEAT 600 puertas",
+   "alt": [
+    "Seat 600 suicide door",
+    "Fiat 600 door open",
+    "Seat 600 interior"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_seat600_2",
+   "query": "Seat 600 museo",
+   "alt": [
+    "SEAT 600 1957",
+    "Seat 600 rally",
+    "Fiat 600 1955"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_beetle_2",
+   "query": "Volkswagen Käfer Ovali",
+   "alt": [
+    "Volkswagen Beetle 1957",
+    "Käfer 1952 split window",
+    "VW Beetle front trunk tank"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_porsche550_2",
+   "query": "Porsche 550 Spyder museum",
+   "alt": [
+    "Porsche 550 RS Spyder",
+    "Porsche 550-1500 RS"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_dauphine_2",
+   "query": "Renault Dauphine 1957",
+   "alt": [
+    "Renault Dauphine Gordini",
+    "Dauphine FASA-Renault",
+    "Renault Dauphine rear engine"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_300sl_2",
+   "query": "Mercedes 300 SL interior",
+   "alt": [
+    "300 SL gullwing interior",
+    "Mercedes-Benz 300 SL 1955",
+    "Mercedes 300SL museum"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_300slr_2",
+   "query": "Mercedes 300 SLR museum",
+   "alt": [
+    "Mercedes-Benz 300 SLR Uhlenhaut",
+    "300 SLR Mille Miglia"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_belair_2",
+   "query": "Chevrolet Bel Air interior",
+   "alt": [
+    "1959 Chevrolet dashboard",
+    "1957 Chevrolet Bel Air interior",
+    "1959 Chevrolet tail fins"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_edsel_2",
+   "query": "Edsel Citation",
+   "alt": [
+    "Edsel 1958 grille",
+    "Edsel Ranger 1958",
+    "Edsel Bermuda"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_levegh",
+   "query": "Pierre Levegh",
+   "alt": [
+    "Pierre Levegh 1955"
+   ],
+   "n": 3
+  },
+  {
+   "id": "h_hawthorn",
+   "query": "Mike Hawthorn",
+   "alt": [
+    "Mike Hawthorn Jaguar"
+   ],
+   "n": 3
+  },
+  {
+   "id": "h_seat_factory",
+   "query": "SEAT Zona Franca fábrica",
+   "alt": [
+    "SEAT factory Barcelona 1950s",
+    "Seat 600 production line"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_fasa_valladolid",
+   "query": "FASA Renault Valladolid",
+   "alt": [
+    "Renault Valladolid factory 1950s"
+   ],
+   "n": 3
+  },
+  {
+   "id": "h_spain_road_1950s",
+   "query": "carretera España años 60",
+   "alt": [
+    "Spain road 1960s",
+    "Costa Brava 1960s car",
+    "Spain 1960 village car"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_guardia_civil",
+   "query": "Guardia Civil tráfico años 60",
+   "alt": [
+    "Guardia Civil motorcycle 1960s"
+   ],
+   "n": 3
+  },
+  {
+   "id": "h_germany_1950s",
+   "query": "Germany 1950s street cars",
+   "alt": [
+    "Wirtschaftswunder street",
+    "Bundesrepublik 1955 Straße"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_usa_1950s",
+   "query": "1950s American street cars",
+   "alt": [
+    "1950s main street USA",
+    "1958 street scene cars"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_crash_dummy",
+   "query": "crash test dummy",
+   "alt": [
+    "crash test 1960s",
+    "car crash test sled"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_volvo_belt",
+   "query": "Volvo safety belt 1959",
+   "alt": [
+    "Nils Bohlin seat belt",
+    "three-point seatbelt Volvo Amazon"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_cholame",
+   "query": "Cholame California",
+   "alt": [
+    "James Dean memorial Cholame",
+    "Highway 46 Cholame"
+   ],
+   "n": 3
+  },
+  {
+   "id": "h_lemans_track",
+   "query": "Circuit de la Sarthe",
+   "alt": [
+    "Le Mans pit straight",
+    "Le Mans 1950s race"
+   ],
+   "n": 4
   }
  ]
 }
