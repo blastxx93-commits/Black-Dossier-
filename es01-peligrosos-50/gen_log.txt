@@ -1,0 +1,66 @@
+ai_spain_family_600_1: Gemini falhou (Gemini 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and ), tentando Replicate
+ai_spain_family_600_1: 2752x1536
+ai_lift_microcar_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_lift_microcar_1: 2752x1536
+ai_tank_engine_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_tank_engine_1: 2752x1536
+ai_dipstick_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_dipstick_1: 2752x1536
+ai_suicide_door_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_suicide_door_1: 2752x1536
+ai_swing_axle_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_swing_axle_1: 2752x1536
+ai_crosswind_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_crosswind_1: 2752x1536
+ai_edsel_horn_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_edsel_horn_1: 2752x1536
+ai_column_spear_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_column_spear_1: 2752x1536
+ai_cornell_lab_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_cornell_lab_1: 2752x1536
+ai_crash_test_1959_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_crash_test_1959_1: 2752x1536
+ai_crash_after_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_crash_after_1: 2752x1536
+ai_bohlin_belt_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_bohlin_belt_1: 2752x1536
+ai_lemans_grandstand_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_lemans_grandstand_1: 2752x1536
+ai_lemans_night_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_lemans_night_1: 2752x1536
+ai_desert_crossroads_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_desert_crossroads_1: 2752x1536
+ai_magnesium_fire_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_magnesium_fire_1: 2752x1536
+ai_bubble_traffic_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_bubble_traffic_1: 2752x1536
+# Imagens IA — es01-peligrosos-50
+
+- Modelo: `gemini-2.5-flash-image`
+- Imagens geradas: 18
+- Folhas: ai_contact_sheet_1.jpg, ai_contact_sheet_2.jpg, ai_contact_sheet_3.jpg
+
+| plano | resultado |
+|---|---|
+| `ai_spain_family_600` | 1 de 1 |
+| `ai_lift_microcar` | 1 de 1 |
+| `ai_tank_engine` | 1 de 1 |
+| `ai_dipstick` | 1 de 1 |
+| `ai_suicide_door` | 1 de 1 |
+| `ai_swing_axle` | 1 de 1 |
+| `ai_crosswind` | 1 de 1 |
+| `ai_edsel_horn` | 1 de 1 |
+| `ai_column_spear` | 1 de 1 |
+| `ai_cornell_lab` | 1 de 1 |
+| `ai_crash_test_1959` | 1 de 1 |
+| `ai_crash_after` | 1 de 1 |
+| `ai_bohlin_belt` | 1 de 1 |
+| `ai_lemans_grandstand` | 1 de 1 |
+| `ai_lemans_night` | 1 de 1 |
+| `ai_desert_crossroads` | 1 de 1 |
+| `ai_magnesium_fire` | 1 de 1 |
+| `ai_bubble_traffic` | 1 de 1 |
+
