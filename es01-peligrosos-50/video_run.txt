@@ -1,0 +1,115 @@
+[     0s] es01-peligrosos-50: 12 planos de video
+[    19s]   c_traffic_50s / archive: 8 filmes para 'traffic'
+[    31s]     + 1_archive.mp4 de 'Borrowed Power' a partir de 117s
+[    43s]     + 2_archive.mp4 de 'Borrowed Power' a partir de 488s
+[    61s]     + 3_archive.mp4 de 'Borrowed Power' a partir de 859s
+[    73s]     + 4_archive.mp4 de 'Anyone at All: Safety in the Community' a partir de 161s
+[    85s]     + 5_archive.mp4 de 'Anyone at All: Safety in the Community' a partir de 673s
+[    95s]     + 6_archive.mp4 de 'Anyone at All: Safety in the Community' a partir de 1184s
+[   128s]   c_auto_show / archive: 8 filmes para 'auto show'
+[   184s]     + 1_archive.mp4 de 'Trader Thorne' a partir de 161s
+[   228s]     + 2_archive.mp4 de 'Trader Thorne' a partir de 672s
+[   262s]     corte falhou (TraderTh1956_edit.mp4): e
+[out#0/mp4 @ 0x55c7744cdb40] Output file does not contain any stream
+Error opening output file ../out/es01-peligrosos-50/video/c_auto_show/3_archive.mp4.
+Error opening output files: Invalid argument
+[   310s]     + 3_archive.mp4 de 'How to Go Places' a partir de 77s
+[   326s]     + 4_archive.mp4 de 'How to Go Places' a partir de 320s
+[   345s]     + 5_archive.mp4 de 'How to Go Places' a partir de 564s
+[   355s]     + 6_archive.mp4 de 'Pick Your Tomorrow' a partir de 144s
+[   368s]   c_factory / archive: 8 filmes para 'assembly line'
+[   384s]     + 1_archive.mp4 de 'American Maker' a partir de 98s
+[   404s]     + 2_archive.mp4 de 'American Maker' a partir de 715s
+[   416s]     + 3_archive.mp4 de 'American Engineer (Part III)' a partir de 64s
+[   428s]     + 4_archive.mp4 de 'American Engineer (Part III)' a partir de 466s
+[   444s]     + 5_archive.mp4 de 'Target USA' a partir de 148s
+[   462s]   c_family_car / archive: 8 filmes para 'family car'
+[   471s]     trecho escuro em 123s, tentando mais adiante
+[   478s]     trecho escuro em 329s, tentando mais adiante
+[   486s]     + 1_archive.mp4 de 'Home Movie: 11850: Cincinnati, OH Family' a partir de 535s
+[   493s]     + 2_archive.mp4 de 'Home Movie: 11850: Cincinnati, OH Family' a partir de 514s
+[   501s]     + 3_archive.mp4 de 'Home Movie: 11850: Cincinnati, OH Family' a partir de 905s
+[   508s]     + 4_archive.mp4 de 'Hear and Now' a partir de 131s
+[   516s]     + 5_archive.mp4 de 'Hear and Now' a partir de 545s
+[   524s]     trecho escuro em 959s, tentando mais adiante
+[   532s]     + 6_archive.mp4 de 'Hear and Now' a partir de 927s
+[   535s]   c_lemans / archive: 0 filmes para 'Le Mans'
+[   536s]   c_lemans / archive: 0 filmes para '24 hour race'
+[   540s]   c_lemans / archive: 1 filmes para 'sports car race'
+[   552s]     + 1_archive.mp4 de 'Army Digs In for Defense of Arctic, 1956/02/27' a partir de 46s
+[   569s]     + 2_archive.mp4 de 'Army Digs In for Defense of Arctic, 1956/02/27' a partir de 193s
+[   584s]     + 3_archive.mp4 de 'Army Digs In for Defense of Arctic, 1956/02/27' a partir de 340s
+[   617s]   c_racing / archive: 7 filmes para 'auto race'
+[   638s]     corte falhou (Ingenuit1958_2_edit.mp4): file
+[out#0/mp4 @ 0x55ae5a6f99c0] Output file does not contain any stream
+Error opening output file ../out/es01-peligrosos-50/video/c_racing/1_archive.mp4.
+Error opening output files: Invalid argument
+[   656s]     + 1_archive.mp4 de 'Ingenuity in Action (Part II)' a partir de 443s
+[   681s]     + 2_archive.mp4 de 'Ingenuity in Action (Part II)' a partir de 779s
+[   692s]     + 3_archive.mp4 de 'Cyprus Riots, 1956/05/31' a partir de 48s
+[   702s]     + 4_archive.mp4 de 'Cyprus Riots, 1956/05/31' a partir de 198s
+[   712s]     + 5_archive.mp4 de 'Cyprus Riots, 1956/05/31' a partir de 349s
+[   735s]     + 6_archive.mp4 de "Tomorrow's Drivers" a partir de 79s
+[   736s]   c_bubble_car / archive: 0 filmes para 'midget car'
+[   737s]   c_bubble_car / archive: 0 filmes para 'small car'
+[   739s]   c_bubble_car / archive: 0 filmes para 'tiny car'
+[   740s]   c_bubble_car / archive: 0 filmes para 'economy car'
+[   758s]   c_crash_test / archive: 7 filmes para 'crash test'
+[   769s]     + 1_archive.mp4 de 'Bottle and the Throttle, The' a partir de 75s
+[   788s]     + 2_archive.mp4 de 'Bottle and the Throttle, The' a partir de 547s
+[   798s]     + 3_archive.mp4 de 'Safety Belt for Susie' a partir de 81s
+[   807s]     + 4_archive.mp4 de 'Safety Belt for Susie' a partir de 594s
+[   819s]     + 5_archive.mp4 de 'Safety Belt for Susie' a partir de 78s
+[   856s]   c_seatbelt / archive: 8 filmes para 'seat belt'
+[   871s]     + 1_archive.mp4 de 'Interrupted Morning' a partir de 120s
+[   880s]     corte falhou (0255_Interrupted_Morning_14_42_08_00.mp4): y
+Error opening input file https://archive.org/download/0255_Interrupted_Morning_14_42_08_00/0255_Interrupted_Morning_14_42_08_00.mp4.
+Error opening input files: Server returned 5XX Server Error reply
+[   902s]     + 2_archive.mp4 de 'Plane Talk' a partir de 155s
+[   937s]     + 3_archive.mp4 de 'Plane Talk' a partir de 1134s
+[   953s]     + 4_archive.mp4 de 'Interrupted Morning' a partir de 119s
+[   966s]   c_driving_pov / archive: 8 filmes para 'driving'
+[   976s]     + 1_archive.mp4 de 'Magic Touch' a partir de 83s
+[   990s]     + 2_archive.mp4 de 'Magic Touch' a partir de 347s
+[  1003s]     + 3_archive.mp4 de 'Magic Touch' a partir de 611s
+[  1029s]     + 4_archive.mp4 de "You're Driving 90 Horses" a partir de 169s
+[  1044s]     + 5_archive.mp4 de "You're Driving 90 Horses" a partir de 704s
+[  1050s]   c_europe_50s / archive: 2 filmes para 'Europe'
+[  1062s]     + 1_archive.mp4 de 'President. Foreign Students Hear Peace Hopes, 1955/07/15' a partir de 47s
+[  1077s]     + 2_archive.mp4 de 'President. Foreign Students Hear Peace Hopes, 1955/07/15' a partir de 198s
+[  1090s]     + 3_archive.mp4 de 'President. Foreign Students Hear Peace Hopes, 1955/07/15' a partir de 348s
+[  1101s]     + 4_archive.mp4 de 'A-Sub Epic. Nautilus Pioneers North Pole Seaway, 1958/08/11' a partir de 8s
+[  1112s]     + 5_archive.mp4 de 'A-Sub Epic. Nautilus Pioneers North Pole Seaway, 1958/08/11' a partir de 34s
+[  1118s]   c_spain / archive: 3 filmes para 'Spain'
+[  1129s]     corte falhou (1957-04-08_Spanish_Revolution_Anniversary.mp4): ening input file https://archive.org/download/1957-04-08_Spanish_Revolution_Anniversary/1957-04-08_Spanish_Revolution_Anniversary.mp4.
+Error opening input files: Server returned 5XX Server Error reply
+[  1129s]     corte falhou (1957-04-08_Spanish_Revolution_Anniversary.mp4): ening input file https://archive.org/download/1957-04-08_Spanish_Revolution_Anniversary/1957-04-08_Spanish_Revolution_Anniversary.mp4.
+Error opening input files: Server returned 5XX Server Error reply
+[  1147s]     + 1_archive.mp4 de "Ike's Challenge, 1955/07/21" a partir de 48s
+[  1177s]     + 2_archive.mp4 de "Ike's Challenge, 1955/07/21" a partir de 349s
+[  1181s]   c_spain / archive: 0 filmes para 'Madrid'
+[  1184s]   c_spain / archive: 0 filmes para 'Barcelona'
+# Videos — es01-peligrosos-50
+
+- Planos: 12 · clipes: 53 · sem resultado: 1
+- Folhas: video_contact_sheet_1.jpg, video_contact_sheet_2.jpg, video_contact_sheet_3.jpg, video_contact_sheet_4.jpg, video_contact_sheet_5.jpg, video_contact_sheet_6.jpg
+
+## Sem video livre (usar foto/IA)
+
+- `c_bubble_car`
+
+| plano | clipes |
+|---|---|
+| `c_traffic_50s` | 6 |
+| `c_auto_show` | 6 |
+| `c_factory` | 5 |
+| `c_family_car` | 6 |
+| `c_lemans` | 3 |
+| `c_racing` | 6 |
+| `c_bubble_car` | 0 |
+| `c_crash_test` | 5 |
+| `c_seatbelt` | 4 |
+| `c_driving_pov` | 5 |
+| `c_europe_50s` | 5 |
+| `c_spain` | 2 |
+
