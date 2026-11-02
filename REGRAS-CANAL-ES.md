@@ -17,7 +17,10 @@ são próprios deste canal, baseados no nicho de clássicos (canal de referênci
 ## 2. Conteúdo (próprio do canal)
 - Formato principal: **lista numerada em contagem regressiva** ("Los 12 coches MÁS … de los años 50").
   Formato secundário: **história de um carro só**, mas só quando houver reviravolta forte (morte do criador, fracasso, escândalo).
-- Década-âncora: **anos 50**. Ângulos que funcionam: perigo, absurdo, velocidade, polícia/viaturas.
+- **Época do canal: só carros de 1950 a 1979** (anos 50, 60 e 70). Nada de antes de 1950, nem como item de lista
+  (modelos lançados antes, como o Fusca, só entram pela versão fabricada nos anos 50–70).
+  Começar pelos anos 50, que é o que mais rende no nicho; anos 60 e 70 entram depois, ou em listas próprias.
+  Ângulos que funcionam: perigo, absurdo, velocidade, polícia/viaturas.
   Ângulos fracos: "fracassados", "estranhos", "luxuosos" (só com reviravolta forte).
 - Toda lista tem **pelo menos 2 carros espanhóis ou fabricados na Espanha** (SEAT 600, Biscúter, Pegaso, Dauphine FASA,
   Renault 4CV "Pelotilla", carros da Guardia Civil etc.).

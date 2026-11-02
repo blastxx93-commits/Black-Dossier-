@@ -9,13 +9,14 @@
  },
  "shots": [
   {
-   "id": "m_crosley",
-   "query": "Crosley Hotshot",
-   "n": 5,
+   "id": "m_edsel",
+   "query": "Edsel 1958",
    "alt": [
-    "Crosley Hot Shot 1949",
-    "Crosley 1950 car"
-   ]
+    "1958 Edsel Citation",
+    "1958 Edsel Pacer",
+    "Edsel Corsair 1958"
+   ],
+   "n": 6
   },
   {
    "id": "m_biscuter",
@@ -233,6 +234,15 @@
    "alt": [
     "Cornell Liberty safety car 1957"
    ]
+  },
+  {
+   "id": "m_edsel_wheel",
+   "query": "Edsel Teletouch",
+   "alt": [
+    "Edsel steering wheel push button",
+    "1958 Edsel interior"
+   ],
+   "n": 4
   }
  ]
 }
