@@ -1,0 +1,30 @@
+{
+ "lang": "es",
+ "tagline": "Historia real del automóvil, con fuentes.",
+ "compact_credits": true,
+ "credits_file": "episodes/es03-microcoches/publish/creditos_completos.txt",
+ "other_line": "Imágenes de archivo: Prelinger Archives y Universal Newsreels (dominio público, Internet Archive) y Wikimedia Commons. Algunas escenas son ilustraciones generadas por IA, no hechos reales.",
+ "intro": "Después de la guerra, Europa estaba arruinada y un coche normal era un lujo. Así nacieron los microcoches: motores de moto, techos de burbuja y diseños que hoy nadie se atrevería a dibujar. Del Subaru 360 que Consumer Reports declaró «no aceptable» al Heinkel de una fábrica de aviones, el Zündapp Janus con dos caras, el Mopetta con forma de huevo, el Inter que plegaba las ruedas y el Peel P50, el coche de producción más pequeño de la historia. Y dos españoles: el PTV 250 de Manresa y el Biscúter Pegasín.\n\nVídeo divulgativo basado en fuentes publicadas. Algunas escenas son recreaciones generadas por IA.",
+ "chapters": [
+  "El coche que se aparca con la mano",
+  "10 · Subaru 360 y 9 · Heinkel Kabine",
+  "8 · FMR Tiger y 7 · PTV 250",
+  "6 · Biscúter Pegasín y 5 · Inter 175",
+  "4 · Zündapp Janus",
+  "3 · Brütsch Mopetta y 2 · Peel Trident",
+  "1 · Peel P50"
+ ],
+ "sources": [
+  "Wikipedia: Peel P50; Lane Motor Museum",
+  "Wikipedia: Peel Trident; Silodrome",
+  "Wikipedia: Zündapp Janus; Lane Motor Museum",
+  "Wikipedia: Inter Autoscooter; Audrain Automobile Museum",
+  "Wikipedia: Brütsch Mopetta; Silodrome",
+  "Wikipedia: FMR Tg500; Curbside Classic",
+  "Wikipedia: Heinkel Kabine",
+  "Motor.es / Coches.com: PTV 250, un éxito made in Spain",
+  "Wikipedia: Biscuter Pegasin; Motorpasión",
+  "CNN Money: Subaru 360 y Malcolm Bricklin; Consumer Reports (abril 1969)"
+ ],
+ "tags_line": "#microcoches #cochesburbuja #peelp50 #cochesclasicos #años50"
+}

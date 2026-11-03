@@ -13,6 +13,7 @@ ERA = ["h_microcar_museum", "h_bubble_rally", "h_microcar_show", "h_microcar_mus
        "m_vespa400", "m_scootacar", "m_frisky", "m_lloyd", "m_velam", "m_nsu_prinz", "m_isetta", "m_kr200", "h_europe_50s"]
 PHOTOS = {
     "era": ERA,
+    "museum": ["h_microcar_museum", "h_microcar_museum_2", "h_bubble_rally", "h_microcar_show"],
     "subaru": ["m_subaru360", "m_subaru360_2"],
     "heinkel": ["m_heinkel", "m_heinkel_2"],
     "tiger": ["m_tiger", "m_tiger_2", "m_kr200", "ai:ai_tiger_race"],
@@ -29,15 +30,15 @@ PHOTOS = {
 }
 CLIPS = json.load(open(os.path.join(HERE, "clips.json")))
 GENERIC = CLIPS.pop("_generic", [])
-FALLBACK = {k: ["era"] for k in PHOTOS}
-FALLBACK.update({"pegasin": ["ptv", "era"], "ptv": ["pegasin", "era"], "trident": ["p50", "era"], "p50": ["trident", "era"],
+FALLBACK = {k: ["museum", "era"] for k in PHOTOS}  # a car out of photos falls back to general microcar scenes, not another model
+FALLBACK.update({"pegasin": ["ptv", "era"], "ptv": ["museum", "era"], "trident": ["p50", "era"], "p50": ["trident", "era"],
                  "small": ["era"], "tiger": ["era"], "era": ["small"]})
 RES = ["m_subaru360/1", "m_heinkel/2", "m_tiger/1", "m_ptv/2", "m_pegasin/1", "m_inter/2", "m_janus/3", "m_mopetta/1",
        "m_trident/1", "m_p50/8", "m_p50/3", "m_janus/2", "m_pegaso/3", "m_biscuter/1", "m_trident/8", "m_mopetta/2", "m_inter/8",
        "m_heinkel/3", "m_subaru360/4", "m_mini/1", "m_seat600/3"]
 A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FALLBACK, ["era", "small"], reserved=RES)
 A.CLIP_TARGET = 0.10
-A.MAX_HOLD, A.KEEP = 9.0, 6.0
+A.MAX_HOLD, A.KEEP = 12.0, 8.0     # longer holds on the right car beat cutting to a different microcar
 A.ARCHIVE_OK = True
 A.SPLIT_BY_SUBJECT = True
 chapters = []
@@ -135,7 +136,9 @@ chapters.append(c)
 c = ch("ch05")
 c.at(0, rank(3, "Brütsch Mopetta", "m_mopetta", 1, "1956 · Alemania", "Un huevo con ruedas"))
 c.at("Egon Brütsch era un diseñador", P("mopetta"))
-c.at("Era un huevo", P("mopetta"))
+c.at("Era un huevo", say("Un huevo con ruedas.", "HUEVO", 140))
+c.at("Una carrocería de fibra de vidrio", P("mopetta"))
+c.at("No había sitio para nadie más", say("Un solo asiento.", "UN SOLO ASIENTO", 140))
 c.at("Georg von Opel", P("mopetta"))
 c.at("Catorce coches en todo el mundo", stat("14", "Mopettas fabricados en total", "Brütsch", count=False))
 c.at("Número dos", rank(2, "Peel Trident", "m_trident", 1, "1965 · Isla de Man", "El platillo volante terrestre"))

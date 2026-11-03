@@ -1,0 +1,1407 @@
+{
+ "output": "ES03_Microcoches.mp4",
+ "fps": 24,
+ "music": [
+  {
+   "file": "trilha.wav",
+   "start": 0,
+   "gain": -29,
+   "fade_in": 4,
+   "fade_out": 5
+  }
+ ],
+ "chapters": [
+  {
+   "audio": "audio/ch00_hook.flac",
+   "lead_in": 0,
+   "tail": 0.6,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/m_p50/3_commons.jpg",
+     "move": "in",
+     "caption": "Isla de Man|a\u00f1os 60",
+     "dur": 4.76,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_p50_handle_1.jpg",
+     "move": "in",
+     "dur": 4.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_p50/10_openverse.jpg",
+     "move": "left",
+     "dur": 3.44,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "El coche m\u00e1s peque\u00f1o de la historia",
+     "highlight": "M\u00c1S PEQUE\u00d1O",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.38,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_microcar_museum/1_openverse.jpg",
+     "move": "out",
+     "dur": 4.56,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_heinkel/1_commons.jpg",
+     "move": "right",
+     "dur": 1.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_janus/2_openverse.jpg",
+     "move": "in",
+     "dur": 1.94,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_mopetta/2_commons.jpg",
+     "move": "left",
+     "dur": 3.74,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_pegasin/2_commons.jpg",
+     "move": "in",
+     "dur": 3.22,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "Los 10 microcoches m\u00e1s locos",
+     "subtitle": "de los a\u00f1os 50 y 60",
+     "tag": "1950 \u2013 1969",
+     "bg": "a/h_microcar_museum/2_commons.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 4.94,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Una f\u00e1brica de aviones de guerra",
+      "Ruedas que se plegaban",
+      "Dos caras, como un dios romano"
+     ],
+     "starts": [
+      0,
+      60,
+      130
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 2.5
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 5.420000000000002
+      }
+     ],
+     "dur": 8.16,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_p50/1_commons.jpg",
+     "move": "out",
+     "dur": 7.818,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch01.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/h_microcar_museum/3_openverse.jpg",
+     "move": "down",
+     "dur": 3.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_microcar_museum/4_commons.jpg",
+     "move": "in",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_car_show/1_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_microcar_museum/5_openverse.jpg",
+     "move": "left",
+     "dur": 7.22,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_suez_queue_1.jpg",
+     "move": "out",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_microcar_museum_2/3_commons.jpg",
+     "move": "up",
+     "dur": 4.96,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Kabinenroller: scooters con cabina",
+     "highlight": "KABINENROLLER",
+     "size": 100,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_bubble_rally/2_openverse.jpg",
+     "move": "out",
+     "dur": 9.28,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_microcar_museum/7_commons.jpg",
+     "move": "right",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_bubble_rally/4_commons.jpg",
+     "move": "down",
+     "dur": 5.94,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 10,
+     "name": "Subaru 360",
+     "photo": "a/m_subaru360/1_commons.jpg",
+     "credit": "Foto: This picture has been taken by Oleg Yuna \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "1958 \u00b7 Jap\u00f3n",
+     "sub": "La \u00abmariquita\u00bb",
+     "dur": 3.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_subaru360/3_commons.jpg",
+     "move": "in",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_subaru360/8_openverse.jpg",
+     "move": "in",
+     "dur": 9.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_subaru360/5_commons.jpg",
+     "move": "up",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_subaru360_2/1_commons.jpg",
+     "move": "left",
+     "dur": 7.86,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_subaru360/6_openverse.jpg",
+     "move": "out",
+     "dur": 11.76,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "$1.300",
+     "label": "precio del Subaru 360 en EE. UU.",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CNN",
+     "dur": 9.58,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "37,5 s",
+     "label": "de 0 a 80 km/h \u00b7 Consumer Reports, 1969",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Consumer Reports",
+     "color": "red",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_bubble_rally/5_openverse.jpg",
+     "move": "out",
+     "dur": 4.06,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\u00abNo aceptable\u00bb",
+     "highlight": "NO ACEPTABLE",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 10.84,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_subaru360/4_openverse.jpg",
+     "move": "in",
+     "dur": 6.6,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 9,
+     "name": "Heinkel Kabine",
+     "photo": "a/m_heinkel/2_openverse.jpg",
+     "credit": "",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "1956 \u00b7 Alemania",
+     "sub": "De los aviones a la burbuja",
+     "dur": 1.607,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_heinkel/4_openverse.jpg",
+     "move": "down",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_heinkel_2/2_openverse.jpg",
+     "move": "right",
+     "dur": 7.213,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_heinkel/5_commons.jpg",
+     "move": "in",
+     "dur": 11.84,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_heinkel/3_commons.jpg",
+     "move": "in",
+     "caption": "Heinkel Kabine|una sola puerta, delante",
+     "dur": 7.7,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_heinkel/6_openverse.jpg",
+     "move": "left",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_heinkel_2/4_openverse.jpg",
+     "move": "in",
+     "dur": 7.16,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_heinkel/7_commons.jpg",
+     "move": "out",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_heinkel_2/6_openverse.jpg",
+     "move": "up",
+     "dur": 6.38,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_heinkel/8_openverse.jpg",
+     "move": "right",
+     "dur": 8.816,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch02.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 8,
+     "name": "FMR Tiger Tg500",
+     "photo": "a/m_tiger/1_commons.jpg",
+     "credit": "Foto: Alexander Migl \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "1958 \u00b7 Alemania",
+     "sub": "Cuatro ruedas \u00b7 \u2248126 km/h",
+     "dur": 2.96,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_three_wheel/2_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 11.38,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_tiger/2_openverse.jpg",
+     "move": "in",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_tiger/7_commons.jpg",
+     "move": "out",
+     "dur": 10.78,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_tiger/5_commons.jpg",
+     "move": "up",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_tiger/8_openverse.jpg",
+     "move": "down",
+     "dur": 4.56,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "126 km/h",
+     "label": "velocidad m\u00e1xima del Tiger",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "FMR",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ptv_2/2_commons.jpg",
+     "move": "in",
+     "dur": 7.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_tiger/6_openverse.jpg",
+     "move": "out",
+     "dur": 8.44,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 7,
+     "name": "PTV 250",
+     "photo": "a/m_ptv/2_openverse.jpg",
+     "credit": "Foto: Spanish Coches \u00b7 CC BY 2.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "1956 \u00b7 Manresa",
+     "sub": "Perramon \u00b7 Tach\u00f3 \u00b7 Vila",
+     "dur": 5.51,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ptv/1_commons.jpg",
+     "move": "down",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_manresa/4_commons.jpg",
+     "move": "left",
+     "dur": 5.19,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ptv/3_commons.jpg",
+     "move": "in",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_spain_microcar_1.jpg",
+     "move": "out",
+     "dur": 5.56,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ptv/5_commons.jpg",
+     "move": "left",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_microcar_museum_2/4_openverse.jpg",
+     "move": "right",
+     "dur": 10.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ptv/7_commons.jpg",
+     "move": "out",
+     "dur": 11.56,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seat600/3_commons.jpg",
+     "move": "in",
+     "caption": "SEAT 600|1957",
+     "dur": 10.58,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ptv_2/1_commons.jpg",
+     "move": "right",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_microcar_museum_2/5_openverse.jpg",
+     "move": "in",
+     "dur": 9.132,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch03.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 6,
+     "name": "Bisc\u00fater Pegas\u00edn",
+     "photo": "a/m_pegasin/1_commons.jpg",
+     "credit": "Foto: Peprovira \u00b7 CC BY-SA 3.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "1957 \u00b7 Barcelona",
+     "sub": "Un Pegaso en miniatura",
+     "dur": 3.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_biscuter/1_commons.jpg",
+     "move": "in",
+     "caption": "Bisc\u00fater|la \u00abZapatilla\u00bb",
+     "dur": 10.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_pegaso/3_commons.jpg",
+     "move": "in",
+     "caption": "Pegaso Z-102",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_pegasin/6_commons.jpg",
+     "move": "up",
+     "dur": 6.82,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_pegasin/3_commons.jpg",
+     "move": "in",
+     "dur": 2.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_pegasin/4_commons.jpg",
+     "move": "up",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_biscuter/3_openverse.jpg",
+     "move": "out",
+     "dur": 6.42,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "75 km/h",
+     "label": "velocidad m\u00e1xima del Pegas\u00edn",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Autonacional",
+     "dur": 10.94,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_pegasin/5_commons.jpg",
+     "move": "out",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_biscuter/4_commons.jpg",
+     "move": "down",
+     "dur": 4.33,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 5,
+     "name": "Inter 175 Berline",
+     "photo": "a/m_inter/2_commons.jpg",
+     "credit": "Foto: Thesupermat \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "1953 \u00b7 Francia",
+     "sub": "Un avi\u00f3n sin alas",
+     "dur": 3.43,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_inter/1_commons.jpg",
+     "move": "down",
+     "dur": 10.68,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_inter/3_commons.jpg",
+     "move": "in",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_inter/6_commons.jpg",
+     "move": "in",
+     "dur": 5.92,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_inter/4_commons.jpg",
+     "move": "left",
+     "dur": 10.48,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_inter/5_commons.jpg",
+     "move": "out",
+     "dur": 10.28,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_inter_corridor_1.jpg",
+     "move": "right",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_microcar_museum_2/6_openverse.jpg",
+     "move": "left",
+     "dur": 6.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_inter/8_commons.jpg",
+     "move": "in",
+     "dur": 9.465,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch04.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 4,
+     "name": "Z\u00fcndapp Janus",
+     "photo": "a/m_janus/3_commons.jpg",
+     "credit": "Foto: TTTNIS \u00b7 CC0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "1957 \u00b7 Alemania",
+     "sub": "El coche de las dos caras",
+     "dur": 2.34,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_janus/1_commons.jpg",
+     "move": "in",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_janus_2/2_openverse.jpg",
+     "move": "out",
+     "dur": 6.28,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_janus/4_commons.jpg",
+     "move": "up",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_janus_2/4_openverse.jpg",
+     "move": "right",
+     "dur": 6.54,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_janus/5_openverse.jpg",
+     "move": "out",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_janus_2/5_commons.jpg",
+     "move": "in",
+     "dur": 7.967,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_janus/6_commons.jpg",
+     "move": "down",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_janus_2/6_openverse.jpg",
+     "move": "up",
+     "dur": 8.893,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_janus/7_commons.jpg",
+     "move": "in",
+     "dur": 10.34,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_janus/8_openverse.jpg",
+     "move": "left",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_microcar_show/2_openverse.jpg",
+     "move": "out",
+     "dur": 6.32,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "\u22486.900",
+     "label": "Z\u00fcndapp Janus fabricados (1957\u20131958)",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Z\u00fcndapp",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_microcar_show/8_commons.jpg",
+     "move": "down",
+     "dur": 6.815,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch05.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 3,
+     "name": "Br\u00fctsch Mopetta",
+     "photo": "a/m_mopetta/1_commons.jpg",
+     "credit": "Foto: Rutger van der Maar \u00b7 CC BY 2.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "1956 \u00b7 Alemania",
+     "sub": "Un huevo con ruedas",
+     "dur": 4.82,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_mopetta/3_commons.jpg",
+     "move": "out",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_mopetta/6_openverse.jpg",
+     "move": "in",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_goggo/1_commons.jpg",
+     "move": "left",
+     "dur": 4.78,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Un huevo con ruedas.",
+     "highlight": "HUEVO",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 1.94,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_mopetta/4_commons.jpg",
+     "move": "right",
+     "dur": 9.58,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Un solo asiento.",
+     "highlight": "UN SOLO ASIENTO",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 2.78,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_mopetta/5_commons.jpg",
+     "move": "in",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_goggo/2_openverse.jpg",
+     "move": "out",
+     "dur": 5.01,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "14",
+     "label": "Mopettas fabricados en total",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Br\u00fctsch",
+     "dur": 7.17,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 2,
+     "name": "Peel Trident",
+     "photo": "a/m_trident/1_commons.jpg",
+     "credit": "Foto: MrWalkr \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "1965 \u00b7 Isla de Man",
+     "sub": "El platillo volante terrestre",
+     "dur": 3.38,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_p50/4_commons.jpg",
+     "move": "up",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_p50_2/7_openverse.jpg",
+     "move": "right",
+     "dur": 5.54,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_trident/3_commons.jpg",
+     "move": "out",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_trident_2/2_commons.jpg",
+     "move": "in",
+     "dur": 7.62,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_trident/8_openverse.jpg",
+     "move": "in",
+     "dur": 11.76,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_trident/5_commons.jpg",
+     "move": "down",
+     "dur": 10.02,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_trident/6_openverse.jpg",
+     "move": "in",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_trident_2/4_commons.jpg",
+     "move": "up",
+     "dur": 5.56,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_trident/7_commons.jpg",
+     "move": "left",
+     "dur": 6.36,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_trident_2/1_commons.jpg",
+     "move": "out",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_trident_2/6_commons.jpg",
+     "move": "out",
+     "dur": 4.521,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch06.flac",
+   "lead_in": 0,
+   "tail": 2.5,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 1,
+     "name": "Peel P50",
+     "photo": "a/m_p50/8_openverse.jpg",
+     "credit": "Foto: Timitrius \u00b7 CC BY-SA 2.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "1962 \u00b7 Isla de Man",
+     "sub": "El coche m\u00e1s peque\u00f1o de la historia",
+     "dur": 4.04,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_p50/7_commons.jpg",
+     "move": "right",
+     "dur": 8.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_p50/9_commons.jpg",
+     "move": "in",
+     "dur": 8.56,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "59 kg",
+     "label": "peso del Peel P50",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Peel",
+     "dur": 5.1,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_p50_2/1_commons.jpg",
+     "move": "up",
+     "dur": 11.46,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Sin marcha atr\u00e1s.",
+     "highlight": "MARCHA ATR\u00c1S",
+     "size": 150,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.86,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_p50_2/3_commons.jpg",
+     "move": "out",
+     "dur": 6.996,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_p50_2/4_commons.jpg",
+     "move": "down",
+     "dur": 6.624,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_bbc/1_commons.jpg",
+     "move": "in",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_bbc/3_commons.jpg",
+     "move": "down",
+     "dur": 8.92,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Guinness 2010: el coche de producci\u00f3n m\u00e1s peque\u00f1o",
+     "highlight": "GUINNESS",
+     "size": 100,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 7.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_p50_2/5_openverse.jpg",
+     "move": "left",
+     "dur": 9.16,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_p50_2/6_commons.jpg",
+     "move": "out",
+     "dur": 11.92,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_mini/3_commons.jpg",
+     "move": "right",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_mini/4_openverse.jpg",
+     "move": "in",
+     "dur": 6.38,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_mini/1_commons.jpg",
+     "move": "in",
+     "caption": "Mini|1959",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_fiat500/1_commons.jpg",
+     "move": "left",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_fiat500/2_openverse.jpg",
+     "move": "out",
+     "dur": 5.593,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_bubble_rally/1_commons.jpg",
+     "move": "in",
+     "dur": 8.347,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Suscr\u00edbete",
+     "sub": "historias de coches cl\u00e1sicos",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 7.68,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "\u00bfEn cu\u00e1l te atrever\u00edas a dar una vuelta?",
+     "sub": "cu\u00e9ntamelo en los comentarios",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 4.877,
+     "fixed": false,
+     "fade_out": 0
+    }
+   ]
+  }
+ ],
+ "size": [
+  1920,
+  1080
+ ],
+ "subtitles": "ES03.ass"
+}

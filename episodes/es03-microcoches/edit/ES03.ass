@@ -1,0 +1,379 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Doc,Inter SemiBold,44,&H0000E6FF,&H0000E6FF,&H00000000,&H96000000,0,0,0,0,100,100,0.5,0,1,2.4,1.2,2,200,200,62,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.96,0:00:02.73,Doc,,0,0,0,,Isla de Man, principios\Nde los años sesenta.
+Dialogue: 0,0:00:02.78,0:00:04.83,Doc,,0,0,0,,Un hombre aparca, se baja del coche,
+Dialogue: 0,0:00:04.88,0:00:08.65,Doc,,0,0,0,,lo agarra por un asa que tiene detrás…\Ny lo arrastra como si fuera una maleta.
+Dialogue: 0,0:00:08.70,0:00:09.63,Doc,,0,0,0,,No es una broma.
+Dialogue: 0,0:00:09.68,0:00:11.33,Doc,,0,0,0,,Ese coche no tiene marcha atrás.
+Dialogue: 0,0:00:11.38,0:00:13.07,Doc,,0,0,0,,Y pesa menos que una lavadora.
+Dialogue: 0,0:00:13.12,0:00:16.45,Doc,,0,0,0,,Es el coche de producción\Nmás pequeño de la historia.
+Dialogue: 0,0:00:16.50,0:00:18.29,Doc,,0,0,0,,Pero en los años cincuenta y sesenta,
+Dialogue: 0,0:00:18.34,0:00:21.01,Doc,,0,0,0,,Europa estaba llena de\Ncoches casi igual de locos.
+Dialogue: 0,0:00:21.06,0:00:22.91,Doc,,0,0,0,,Coches con una sola puerta delante.
+Dialogue: 0,0:00:22.96,0:00:24.85,Doc,,0,0,0,,Coches con puertas delante y detrás.
+Dialogue: 0,0:00:24.90,0:00:28.59,Doc,,0,0,0,,Coches con forma de huevo, de\Nplatillo volante o de avión sin alas.
+Dialogue: 0,0:00:28.64,0:00:31.81,Doc,,0,0,0,,Y dos de ellos se fabricaron en España.
+Dialogue: 0,0:00:31.86,0:00:35.11,Doc,,0,0,0,,Hoy vas a conocer los diez microcoches\Nmás locos de aquellos años,
+Dialogue: 0,0:00:35.16,0:00:36.75,Doc,,0,0,0,,del menos loco al más loco.
+Dialogue: 0,0:00:36.80,0:00:39.25,Doc,,0,0,0,,Uno lo fabricaba una empresa\Nde aviones de guerra.
+Dialogue: 0,0:00:39.30,0:00:42.17,Doc,,0,0,0,,Otro podía doblar las ruedas\Npara pasar por una puerta.
+Dialogue: 0,0:00:42.22,0:00:44.91,Doc,,0,0,0,,Y otro tenía dos caras,\Ncomo un dios romano.
+Dialogue: 0,0:00:44.96,0:00:47.73,Doc,,0,0,0,,Y el número uno es ese coche\Nque se aparca con la mano.
+Dialogue: 0,0:00:47.78,0:00:51.23,Doc,,0,0,0,,Al final te contaré cómo acabó entrando\Nen la historia… y en un edificio de
+Dialogue: 0,0:00:51.28,0:00:52.08,Doc,,0,0,0,,oficinas.
+Dialogue: 0,0:00:52.65,0:00:56.32,Doc,,0,0,0,,Antes de empezar, una pregunta:\N¿por qué existieron estos coches?
+Dialogue: 0,0:00:56.37,0:00:59.72,Doc,,0,0,0,,Después de la Segunda Guerra\NMundial, Europa estaba arruinada.
+Dialogue: 0,0:00:59.77,0:01:01.56,Doc,,0,0,0,,Mucha gente tenía trabajo otra vez,
+Dialogue: 0,0:01:01.61,0:01:04.00,Doc,,0,0,0,,pero un coche normal\Nera un lujo imposible.
+Dialogue: 0,0:01:04.05,0:01:05.88,Doc,,0,0,0,,Lo que sí había era motos.
+Dialogue: 0,0:01:05.93,0:01:08.06,Doc,,0,0,0,,Y muchos fabricantes pensaron lo mismo:
+Dialogue: 0,0:01:08.11,0:01:12.22,Doc,,0,0,0,,¿y si cogemos un motor de moto\Ny le ponemos un techo encima?
+Dialogue: 0,0:01:12.27,0:01:13.96,Doc,,0,0,0,,Así nacieron los microcoches.
+Dialogue: 0,0:01:14.01,0:01:17.10,Doc,,0,0,0,,Pequeños, baratos, con motores de\Ndoscientos o trescientos centímetros
+Dialogue: 0,0:01:17.15,0:01:19.44,Doc,,0,0,0,,cúbicos, y a veces todavía menos.
+Dialogue: 0,0:01:19.49,0:01:21.62,Doc,,0,0,0,,Y en 1956,
+Dialogue: 0,0:01:21.67,0:01:24.96,Doc,,0,0,0,,la crisis del canal de Suez disparó\Nel precio de la gasolina y provocó
+Dialogue: 0,0:01:25.01,0:01:27.28,Doc,,0,0,0,,racionamiento en varios países europeos.
+Dialogue: 0,0:01:27.33,0:01:30.98,Doc,,0,0,0,,De repente, un coche que gastaba casi\Nnada era la idea más inteligente del
+Dialogue: 0,0:01:31.03,0:01:32.40,Doc,,0,0,0,,mundo.
+Dialogue: 0,0:01:32.45,0:01:36.34,Doc,,0,0,0,,En Alemania incluso tenían un\Nnombre para ellos: Kabinenroller.
+Dialogue: 0,0:01:36.39,0:01:38.36,Doc,,0,0,0,,Literalmente, scooters con cabina.
+Dialogue: 0,0:01:38.41,0:01:41.70,Doc,,0,0,0,,En Gran Bretaña los llamaban\Nbubble cars, coches burbuja.
+Dialogue: 0,0:01:41.75,0:01:43.78,Doc,,0,0,0,,Y en España, simplemente, microcoches.
+Dialogue: 0,0:01:43.83,0:01:44.64,Doc,,0,0,0,,Durante unos años,
+Dialogue: 0,0:01:44.69,0:01:48.08,Doc,,0,0,0,,en las ciudades europeas era normal\Nver pasar uno de estos aparatos entre
+Dialogue: 0,0:01:48.13,0:01:49.68,Doc,,0,0,0,,camiones y autobuses.
+Dialogue: 0,0:01:49.73,0:01:52.84,Doc,,0,0,0,,Durante unos años, los ingenieros\Ntuvieron libertad total.
+Dialogue: 0,0:01:52.89,0:01:55.00,Doc,,0,0,0,,No había normas de\Nseguridad como las de hoy,
+Dialogue: 0,0:01:55.05,0:01:58.46,Doc,,0,0,0,,ni pruebas de choque, ni nadie que\Ndijera que algo era demasiado raro.
+Dialogue: 0,0:01:58.51,0:02:01.80,Doc,,0,0,0,,Y el resultado fue una colección de\Ncoches que hoy parecen sacados de una
+Dialogue: 0,0:02:01.85,0:02:03.62,Doc,,0,0,0,,película de dibujos animados.
+Dialogue: 0,0:02:03.67,0:02:04.48,Doc,,0,0,0,,Número diez.
+Dialogue: 0,0:02:04.53,0:02:07.22,Doc,,0,0,0,,El Subaru 360.
+Dialogue: 0,0:02:07.27,0:02:10.48,Doc,,0,0,0,,Lo empezamos en Japón, en 1958.
+Dialogue: 0,0:02:10.53,0:02:12.94,Doc,,0,0,0,,El Subaru 360 era un coche diminuto,
+Dialogue: 0,0:02:12.99,0:02:16.92,Doc,,0,0,0,,con motor de dos tiempos detrás y una\Ncarrocería redonda que le valió un apodo
+Dialogue: 0,0:02:16.97,0:02:19.18,Doc,,0,0,0,,cariñoso en Japón: la mariquita.
+Dialogue: 0,0:02:19.23,0:02:20.94,Doc,,0,0,0,,Fue un éxito enorme allí,
+Dialogue: 0,0:02:20.99,0:02:24.46,Doc,,0,0,0,,porque permitió a muchas familias\Njaponesas tener su primer coche.
+Dialogue: 0,0:02:24.51,0:02:27.74,Doc,,0,0,0,,En Japón existía una categoría\Nespecial de coches muy pequeños,
+Dialogue: 0,0:02:27.79,0:02:31.74,Doc,,0,0,0,,con ventajas fiscales, y el 360\Nse diseñó para encajar en ella.
+Dialogue: 0,0:02:31.79,0:02:35.92,Doc,,0,0,0,,De ahí el nombre: su motor tenía unos\Ntrescientos sesenta centímetros cúbicos.
+Dialogue: 0,0:02:35.97,0:02:40.32,Doc,,0,0,0,,Era pequeño por fuera, pero sorprendentemente,\Ndentro cabían cuatro personas.
+Dialogue: 0,0:02:40.37,0:02:41.98,Doc,,0,0,0,,Pero lo loco vino después.
+Dialogue: 0,0:02:42.03,0:02:43.26,Doc,,0,0,0,,A finales de los sesenta,
+Dialogue: 0,0:02:43.31,0:02:47.50,Doc,,0,0,0,,un importador americano, Malcolm Bricklin,\Ndecidió venderlo en Estados Unidos.
+Dialogue: 0,0:02:47.55,0:02:48.72,Doc,,0,0,0,,Un coche minúsculo,
+Dialogue: 0,0:02:48.77,0:02:52.08,Doc,,0,0,0,,en el país de los coches gigantes\Ny las autopistas interminables.
+Dialogue: 0,0:02:52.13,0:02:56.22,Doc,,0,0,0,,El precio era su gran argumento:\Nalrededor de mil trescientos dólares.
+Dialogue: 0,0:02:56.27,0:02:59.40,Doc,,0,0,0,,Los anuncios lo presentaban como\Nel coche más barato de América.
+Dialogue: 0,0:02:59.45,0:03:01.66,Doc,,0,0,0,,Y durante un tiempo, la idea funcionó.
+Dialogue: 0,0:03:01.71,0:03:06.18,Doc,,0,0,0,,En abril de 1969, la revista\NConsumer Reports lo probó.
+Dialogue: 0,0:03:06.23,0:03:09.52,Doc,,0,0,0,,Necesitó treinta y siete segundos y\Nmedio para pasar de cero a ochenta
+Dialogue: 0,0:03:09.57,0:03:10.92,Doc,,0,0,0,,kilómetros por hora.
+Dialogue: 0,0:03:10.97,0:03:13.72,Doc,,0,0,0,,Y la revista le dio su\Npeor calificación posible:
+Dialogue: 0,0:03:13.77,0:03:17.04,Doc,,0,0,0,,no aceptable, por seguridad\Ny por falta de potencia.
+Dialogue: 0,0:03:17.09,0:03:18.32,Doc,,0,0,0,,Las ventas se hundieron.
+Dialogue: 0,0:03:18.37,0:03:21.26,Doc,,0,0,0,,Años después, Bricklin\Nseguía culpando a la revista.
+Dialogue: 0,0:03:21.31,0:03:24.56,Doc,,0,0,0,,Él decía que, por lo que costaba,\Nel coche no era tan malo.
+Dialogue: 0,0:03:24.61,0:03:27.84,Doc,,0,0,0,,Lo curioso es que aquel fracaso fue la\Nprimera aparición de Subaru en Estados
+Dialogue: 0,0:03:27.89,0:03:28.66,Doc,,0,0,0,,Unidos.
+Dialogue: 0,0:03:28.71,0:03:31.16,Doc,,0,0,0,,Hoy es una de las marcas\Nmás conocidas del país.
+Dialogue: 0,0:03:31.21,0:03:32.16,Doc,,0,0,0,,Número nueve.
+Dialogue: 0,0:03:32.21,0:03:32.77,Doc,,0,0,0,,El Heinkel Kabine.
+Dialogue: 0,0:03:32.82,0:03:35.25,Doc,,0,0,0,,Si el nombre Heinkel te\Nsuena, es por los aviones.
+Dialogue: 0,0:03:35.30,0:03:38.70,Doc,,0,0,0,,Heinkel era uno de los grandes\Nfabricantes de aviones de Alemania.
+Dialogue: 0,0:03:38.75,0:03:39.76,Doc,,0,0,0,,Después de la guerra,
+Dialogue: 0,0:03:39.81,0:03:41.84,Doc,,0,0,0,,como otras empresas de aviación alemanas,
+Dialogue: 0,0:03:41.89,0:03:43.92,Doc,,0,0,0,,tuvo que buscar otra cosa que fabricar.
+Dialogue: 0,0:03:43.97,0:03:47.98,Doc,,0,0,0,,Y en 1956 presentó un\Nmicrocoche: el Kabine.
+Dialogue: 0,0:03:48.03,0:03:49.72,Doc,,0,0,0,,Durante la Segunda Guerra Mundial,
+Dialogue: 0,0:03:49.77,0:03:54.22,Doc,,0,0,0,,la fábrica había construido bombarderos,\Ncomo el famoso Heinkel He 111.
+Dialogue: 0,0:03:54.27,0:03:55.52,Doc,,0,0,0,,Y al terminar la guerra,
+Dialogue: 0,0:03:55.57,0:03:59.06,Doc,,0,0,0,,a las empresas aeronáuticas alemanas se\Nles prohibió fabricar aviones durante
+Dialogue: 0,0:03:59.11,0:03:59.82,Doc,,0,0,0,,años.
+Dialogue: 0,0:03:59.87,0:04:03.72,Doc,,0,0,0,,Era una burbuja con una sola puerta\Ndelante, muy parecida al Isetta.
+Dialogue: 0,0:04:03.77,0:04:07.52,Doc,,0,0,0,,Lo más loco del Heinkel no fue el\Ncoche, sino su viaje por el mundo.
+Dialogue: 0,0:04:07.57,0:04:11.60,Doc,,0,0,0,,En 1958 se cedió la licencia\Na una empresa de Irlanda,
+Dialogue: 0,0:04:11.65,0:04:14.18,Doc,,0,0,0,,pero la retiraron enseguida\Npor problemas de calidad.
+Dialogue: 0,0:04:14.23,0:04:16.84,Doc,,0,0,0,,Luego lo fabricó en Gran\NBretaña la empresa Trojan,
+Dialogue: 0,0:04:16.89,0:04:20.64,Doc,,0,0,0,,con el nombre Trojan 200,\Nhasta mediados de los sesenta.
+Dialogue: 0,0:04:20.69,0:04:22.68,Doc,,0,0,0,,Y también se montó en Argentina.
+Dialogue: 0,0:04:22.73,0:04:23.70,Doc,,0,0,0,,En Gran Bretaña,
+Dialogue: 0,0:04:23.75,0:04:26.46,Doc,,0,0,0,,el Heinkel se ganó un apodo\Ncon mucho humor británico:
+Dialogue: 0,0:04:26.51,0:04:29.20,Doc,,0,0,0,,el Cabin Cruiser, como\Nsi fuera un pequeño yate.
+Dialogue: 0,0:04:29.25,0:04:30.72,Doc,,0,0,0,,Y su motor monocilíndrico,
+Dialogue: 0,0:04:30.77,0:04:32.78,Doc,,0,0,0,,de unos doscientos centímetros cúbicos,
+Dialogue: 0,0:04:32.83,0:04:37.06,Doc,,0,0,0,,tenía que mover a dos adultos y, con\Nsuerte, a un niño en la parte de atrás.
+Dialogue: 0,0:04:37.11,0:04:40.02,Doc,,0,0,0,,Un coche alemán, diseñado\Npor una empresa de aviones,
+Dialogue: 0,0:04:40.07,0:04:42.64,Doc,,0,0,0,,fabricado en Irlanda,\NInglaterra y Argentina.
+Dialogue: 0,0:04:42.69,0:04:44.91,Doc,,0,0,0,,Para ser tan pequeño, viajó muchísimo.
+Dialogue: 0,0:04:46.97,0:04:47.04,Doc,,0,0,0,,Número ocho.
+Dialogue: 0,0:04:47.09,0:04:48.84,Doc,,0,0,0,,El Tiger.
+Dialogue: 0,0:04:48.89,0:04:52.30,Doc,,0,0,0,,Si viste nuestro vídeo de los coches\Nmás peligrosos de los años cincuenta,
+Dialogue: 0,0:04:52.35,0:04:55.20,Doc,,0,0,0,,conoces el Messerschmitt KR200,
+Dialogue: 0,0:04:55.25,0:04:58.02,Doc,,0,0,0,,el coche con techo de burbuja\Ny dos asientos en fila.
+Dialogue: 0,0:04:58.07,0:05:00.22,Doc,,0,0,0,,Pues el Tiger es su hermano rebelde.
+Dialogue: 0,0:05:00.27,0:05:03.24,Doc,,0,0,0,,Lo fabricaba la empresa FMR, en Ratisbona,
+Dialogue: 0,0:05:03.29,0:05:06.88,Doc,,0,0,0,,la misma que había tomado el\Nrelevo de la producción del KR200.
+Dialogue: 0,0:05:06.93,0:05:11.44,Doc,,0,0,0,,Y en 1958 hizo algo que parecía\Nimposible: un microcoche de carreras.
+Dialogue: 0,0:05:11.49,0:05:14.48,Doc,,0,0,0,,El Tiger mantenía la cabina\Nde avión y la burbuja,
+Dialogue: 0,0:05:14.53,0:05:16.36,Doc,,0,0,0,,pero tenía cuatro ruedas en lugar de tres,
+Dialogue: 0,0:05:16.41,0:05:19.00,Doc,,0,0,0,,y un motor de quinientos\Ncentímetros cúbicos.
+Dialogue: 0,0:05:19.05,0:05:21.24,Doc,,0,0,0,,El motor era un dos\Ntiempos de dos cilindros.
+Dialogue: 0,0:05:21.29,0:05:24.76,Doc,,0,0,0,,Y el Tiger se ganó fama en las carreras\Nde microcoches y en las subidas de
+Dialogue: 0,0:05:24.81,0:05:28.58,Doc,,0,0,0,,montaña, donde su peso ligero y su\Ncentro de gravedad bajísimo le permitían
+Dialogue: 0,0:05:28.63,0:05:31.56,Doc,,0,0,0,,tomar las curvas de forma sorprendente.
+Dialogue: 0,0:05:31.61,0:05:34.76,Doc,,0,0,0,,Resultado: unos ciento\Nveintiséis kilómetros por hora.
+Dialogue: 0,0:05:34.81,0:05:37.76,Doc,,0,0,0,,En el mundo de los microcoches,\Neso era una barbaridad.
+Dialogue: 0,0:05:37.81,0:05:43.62,Doc,,0,0,0,,Se fabricaron unos trescientos\Nveinte, entre 1958 y 1961.
+Dialogue: 0,0:05:43.67,0:05:46.80,Doc,,0,0,0,,Hoy son de los microcoches más\Nbuscados por los coleccionistas.
+Dialogue: 0,0:05:46.85,0:05:49.60,Doc,,0,0,0,,Imagina ir a ciento veinte\Npor hora sentado en fila,
+Dialogue: 0,0:05:49.65,0:05:53.44,Doc,,0,0,0,,dentro de una burbuja de plástico,\Na pocos centímetros del asfalto.
+Dialogue: 0,0:05:53.49,0:05:54.08,Doc,,0,0,0,,Sí.
+Dialogue: 0,0:05:54.13,0:05:55.24,Doc,,0,0,0,,Era un coche loco.
+Dialogue: 0,0:05:55.29,0:05:56.52,Doc,,0,0,0,,Número siete.
+Dialogue: 0,0:05:56.57,0:06:00.75,Doc,,0,0,0,,Y aquí llega el primero de\Nlos españoles: el PTV 250.
+Dialogue: 0,0:06:00.80,0:06:04.22,Doc,,0,0,0,,Manresa, 1956.
+Dialogue: 0,0:06:04.27,0:06:06.38,Doc,,0,0,0,,Tres socios, Perramon, Tachó y Vila,
+Dialogue: 0,0:06:06.43,0:06:10.22,Doc,,0,0,0,,fundan una empresa llamada Automóviles\NUtilitarios, Sociedad Anónima.
+Dialogue: 0,0:06:10.27,0:06:13.94,Doc,,0,0,0,,Y con las iniciales de sus\Napellidos bautizan su coche: PTV.
+Dialogue: 0,0:06:13.99,0:06:18.34,Doc,,0,0,0,,El cuatro de mayo de 1956\Nnace oficialmente la empresa.
+Dialogue: 0,0:06:18.39,0:06:21.58,Doc,,0,0,0,,Detrás no había un gran grupo\Nindustrial ni un socio extranjero,
+Dialogue: 0,0:06:21.63,0:06:25.20,Doc,,0,0,0,,solo empresarios catalanes con ganas de\Nmotorizar a un país que todavía iba en
+Dialogue: 0,0:06:25.25,0:06:27.50,Doc,,0,0,0,,bicicleta, en moto o en tren.
+Dialogue: 0,0:06:27.55,0:06:31.02,Doc,,0,0,0,,El PTV 250 era un\Ndescapotable de dos plazas,
+Dialogue: 0,0:06:31.07,0:06:34.80,Doc,,0,0,0,,con un motor de un solo cilindro de\Ndoscientos cincuenta centímetros cúbicos,
+Dialogue: 0,0:06:34.85,0:06:35.96,Doc,,0,0,0,,colocado detrás.
+Dialogue: 0,0:06:36.01,0:06:38.56,Doc,,0,0,0,,Pequeño, sencillo y con un aire simpático.
+Dialogue: 0,0:06:38.61,0:06:41.30,Doc,,0,0,0,,En una España donde casi nadie\Npodía comprarse un coche,
+Dialogue: 0,0:06:41.35,0:06:45.74,Doc,,0,0,0,,fue uno de los microcoches más vendidos\Ndel país, con más de mil unidades.
+Dialogue: 0,0:06:45.79,0:06:49.18,Doc,,0,0,0,,Hubo incluso una pequeña serie de unas\Ncuarenta y cinco microfurgonetas para
+Dialogue: 0,0:06:49.23,0:06:50.16,Doc,,0,0,0,,repartos.
+Dialogue: 0,0:06:50.21,0:06:53.32,Doc,,0,0,0,,Imagina un comerciante de los años\Ncincuenta haciendo el reparto por las
+Dialogue: 0,0:06:53.37,0:06:57.30,Doc,,0,0,0,,calles de Manresa en una furgoneta\Ndel tamaño de un carro de la compra.
+Dialogue: 0,0:06:57.35,0:07:01.06,Doc,,0,0,0,,Pero en 1957 llegó el SEAT 600.
+Dialogue: 0,0:07:01.11,0:07:04.70,Doc,,0,0,0,,Y frente al Seiscientos, un\Nmicrocoche ya no tenía mucho sentido.
+Dialogue: 0,0:07:04.75,0:07:07.88,Doc,,0,0,0,,La empresa dejó de fabricar coches\Na principios de los sesenta.
+Dialogue: 0,0:07:07.93,0:07:09.40,Doc,,0,0,0,,Y aquí está lo curioso.
+Dialogue: 0,0:07:09.45,0:07:11.52,Doc,,0,0,0,,Esa empresa de Manresa no desapareció.
+Dialogue: 0,0:07:11.57,0:07:14.72,Doc,,0,0,0,,Cambió de rumbo, empezó a\Nfabricar vehículos industriales,
+Dialogue: 0,0:07:14.77,0:07:16.16,Doc,,0,0,0,,y hoy, con el nombre AUSA,
+Dialogue: 0,0:07:16.21,0:07:20.18,Doc,,0,0,0,,fabrica dúmperes y carretillas elevadoras\Nque se venden por todo el mundo.
+Dialogue: 0,0:07:20.23,0:07:24.15,Doc,,0,0,0,,Todo empezó con un descapotable de\Ndoscientos cincuenta centímetros cúbicos.
+Dialogue: 0,0:07:24.94,0:07:25.91,Doc,,0,0,0,,Número seis.
+Dialogue: 0,0:07:25.96,0:07:28.61,Doc,,0,0,0,,El otro español: el Biscúter Pegasín.
+Dialogue: 0,0:07:28.66,0:07:32.03,Doc,,0,0,0,,En nuestro vídeo de los coches\Npeligrosos ya te hablamos del Biscúter,
+Dialogue: 0,0:07:32.08,0:07:35.87,Doc,,0,0,0,,el microcoche de Barcelona sin marcha\Natrás al que la gente llamaba Zapatilla.
+Dialogue: 0,0:07:35.92,0:07:38.61,Doc,,0,0,0,,Pero el Biscúter tuvo un\Nhermano con aspiraciones.
+Dialogue: 0,0:07:38.66,0:07:40.41,Doc,,0,0,0,,En la España de los años cincuenta,
+Dialogue: 0,0:07:40.46,0:07:42.31,Doc,,0,0,0,,el coche de los sueños era el Pegaso,
+Dialogue: 0,0:07:42.36,0:07:46.29,Doc,,0,0,0,,el deportivo español que batía récords\Ny que casi nadie podía permitirse.
+Dialogue: 0,0:07:46.34,0:07:48.22,Doc,,0,0,0,,Así que, en 1957,
+Dialogue: 0,0:07:48.27,0:07:52.31,Doc,,0,0,0,,Autonacional presentó una versión\Ndeportiva del Biscúter con una carrocería
+Dialogue: 0,0:07:52.36,0:07:53.43,Doc,,0,0,0,,inspirada en el Pegaso.
+Dialogue: 0,0:07:53.48,0:07:55.67,Doc,,0,0,0,,La gente lo llamó Pegasín.
+Dialogue: 0,0:07:55.72,0:07:58.69,Doc,,0,0,0,,El Biscúter normal ya había\Nvendido miles de unidades.
+Dialogue: 0,0:07:58.74,0:08:01.63,Doc,,0,0,0,,En total, la familia\NBiscúter superó las diez mil.
+Dialogue: 0,0:08:01.68,0:08:03.87,Doc,,0,0,0,,Así que la idea de la\Nmarca parecía lógica:
+Dialogue: 0,0:08:03.92,0:08:05.35,Doc,,0,0,0,,un modelo más caro y más bonito,
+Dialogue: 0,0:08:05.40,0:08:07.55,Doc,,0,0,0,,para un comprador con algo más de dinero,
+Dialogue: 0,0:08:07.60,0:08:10.09,Doc,,0,0,0,,que quería parecer que\Nconducía un deportivo.
+Dialogue: 0,0:08:10.14,0:08:13.21,Doc,,0,0,0,,El problema es que, debajo,\Nseguía siendo un Biscúter.
+Dialogue: 0,0:08:13.26,0:08:14.45,Doc,,0,0,0,,Con su pequeño motor,
+Dialogue: 0,0:08:14.50,0:08:17.41,Doc,,0,0,0,,el Pegasín apenas llegaba a los\Nsetenta y cinco kilómetros por hora.
+Dialogue: 0,0:08:17.46,0:08:21.03,Doc,,0,0,0,,Y costaba unas cuarenta mil pesetas,\Nmucho más que el Biscúter normal.
+Dialogue: 0,0:08:21.08,0:08:24.45,Doc,,0,0,0,,Era como ponerle el traje de\Nun deportivo a un microcoche.
+Dialogue: 0,0:08:24.50,0:08:25.85,Doc,,0,0,0,,Se vendieron muy pocos.
+Dialogue: 0,0:08:25.90,0:08:28.23,Doc,,0,0,0,,Hoy, encontrar uno es casi imposible.
+Dialogue: 0,0:08:28.28,0:08:30.63,Doc,,0,0,0,,Y cuando aparece en una\Nsubasta o en un museo,
+Dialogue: 0,0:08:30.68,0:08:33.36,Doc,,0,0,0,,siempre hay alguien que\Nse para delante y sonríe.
+Dialogue: 0,0:08:33.41,0:08:34.57,Doc,,0,0,0,,Número cinco.
+Dialogue: 0,0:08:34.62,0:08:36.79,Doc,,0,0,0,,El Inter 175.
+Dialogue: 0,0:08:36.84,0:08:39.11,Doc,,0,0,0,,Francia, 1953.
+Dialogue: 0,0:08:39.16,0:08:42.27,Doc,,0,0,0,,En el Salón de París aparece un vehículo\Nque parece un avión al que le han
+Dialogue: 0,0:08:42.32,0:08:43.39,Doc,,0,0,0,,quitado las alas.
+Dialogue: 0,0:08:43.44,0:08:46.29,Doc,,0,0,0,,Lo fabricaba SNCAN, una\Nempresa aeronáutica.
+Dialogue: 0,0:08:46.34,0:08:47.47,Doc,,0,0,0,,Y se notaba.
+Dialogue: 0,0:08:47.52,0:08:51.11,Doc,,0,0,0,,SNCAN eran las siglas de la Sociedad\NNacional de Construcciones Aeronáuticas
+Dialogue: 0,0:08:51.16,0:08:54.19,Doc,,0,0,0,,del Norte, una empresa\Npública francesa de aviones.
+Dialogue: 0,0:08:54.24,0:08:56.75,Doc,,0,0,0,,Después de la guerra, con\Nmenos encargos militares,
+Dialogue: 0,0:08:56.80,0:08:59.35,Doc,,0,0,0,,buscó otras formas de mantener\Nocupadas sus fábricas.
+Dialogue: 0,0:08:59.40,0:09:01.39,Doc,,0,0,0,,Y una de ellas fue este coche.
+Dialogue: 0,0:09:01.44,0:09:04.61,Doc,,0,0,0,,Su motor era un pequeño dos tiempos\Nde ciento setenta y cinco centímetros
+Dialogue: 0,0:09:04.66,0:09:07.83,Doc,,0,0,0,,cúbicos, de unos ocho\Ncaballos, colocado detrás.
+Dialogue: 0,0:09:07.88,0:09:08.97,Doc,,0,0,0,,Muy poca potencia,
+Dialogue: 0,0:09:09.02,0:09:11.87,Doc,,0,0,0,,pero el Inter pesaba tan poco que\Nse movía con soltura por la ciudad.
+Dialogue: 0,0:09:11.92,0:09:15.15,Doc,,0,0,0,,El Inter tenía tres ruedas,\Ndos asientos en fila,
+Dialogue: 0,0:09:15.20,0:09:18.45,Doc,,0,0,0,,como en la cabina de un caza,\Ny se conducía con un manillar.
+Dialogue: 0,0:09:18.50,0:09:22.15,Doc,,0,0,0,,La carrocería era estrecha, con\Nuna cúpula y una cola afilada.
+Dialogue: 0,0:09:22.20,0:09:24.95,Doc,,0,0,0,,Pero lo verdaderamente loco\Neran sus ruedas delanteras.
+Dialogue: 0,0:09:25.00,0:09:27.97,Doc,,0,0,0,,En las primeras unidades, se\Npodían plegar hacia dentro.
+Dialogue: 0,0:09:28.02,0:09:31.19,Doc,,0,0,0,,Así el coche quedaba con poco más\Nde noventa centímetros de ancho,
+Dialogue: 0,0:09:31.24,0:09:34.63,Doc,,0,0,0,,lo suficiente para guardarlo en un\Npasillo o meterlo por una puerta.
+Dialogue: 0,0:09:34.68,0:09:36.95,Doc,,0,0,0,,Un coche que se guardaba dentro de casa.
+Dialogue: 0,0:09:37.00,0:09:39.61,Doc,,0,0,0,,En los modelos posteriores,\Nlas ruedas ya eran fijas.
+Dialogue: 0,0:09:39.66,0:09:41.07,Doc,,0,0,0,,Se fabricaron solo unos cientos.
+Dialogue: 0,0:09:41.12,0:09:45.34,Doc,,0,0,0,,Hoy, verlo es como ver un prototipo de\Nciencia ficción de los años cincuenta.
+Dialogue: 0,0:09:47.46,0:09:47.52,Doc,,0,0,0,,Número cuatro.
+Dialogue: 0,0:09:47.57,0:09:48.76,Doc,,0,0,0,,El Zündapp Janus.
+Dialogue: 0,0:09:48.81,0:09:51.44,Doc,,0,0,0,,Zündapp era una marca alemana de motos.
+Dialogue: 0,0:09:51.49,0:09:56.42,Doc,,0,0,0,,Y en 1957 lanzó un microcoche con\Nun nombre muy especial: Janus.
+Dialogue: 0,0:09:56.47,0:09:59.02,Doc,,0,0,0,,Jano era el dios romano de las dos caras,
+Dialogue: 0,0:09:59.07,0:10:01.28,Doc,,0,0,0,,una mirando hacia delante\Ny otra hacia atrás.
+Dialogue: 0,0:10:01.33,0:10:03.04,Doc,,0,0,0,,Y el coche le hacía honor.
+Dialogue: 0,0:10:03.09,0:10:05.98,Doc,,0,0,0,,Y, otra vez, detrás había\Nuna empresa de aviones.
+Dialogue: 0,0:10:06.03,0:10:08.90,Doc,,0,0,0,,El diseño del Janus partía\Nde un prototipo de Dornier,
+Dialogue: 0,0:10:08.95,0:10:10.50,Doc,,0,0,0,,el fabricante aeronáutico alemán,
+Dialogue: 0,0:10:10.55,0:10:14.07,Doc,,0,0,0,,que había ideado un pequeño coche con\Nesa misma disposición de asientos.
+Dialogue: 0,0:10:14.12,0:10:17.58,Doc,,0,0,0,,Zündapp compró la idea y la\Nconvirtió en un coche de serie.
+Dialogue: 0,0:10:17.63,0:10:20.22,Doc,,0,0,0,,El Janus tenía una puerta\Ndelante y otra detrás.
+Dialogue: 0,0:10:20.27,0:10:21.74,Doc,,0,0,0,,Exactamente iguales.
+Dialogue: 0,0:10:21.79,0:10:24.08,Doc,,0,0,0,,Desde lejos, costaba\Nsaber hacia dónde iba.
+Dialogue: 0,0:10:24.13,0:10:26.30,Doc,,0,0,0,,Los asientos estaban espalda con espalda:
+Dialogue: 0,0:10:26.35,0:10:28.16,Doc,,0,0,0,,los de delante miraban a la carretera,
+Dialogue: 0,0:10:28.21,0:10:31.28,Doc,,0,0,0,,y los de detrás miraban hacia\Natrás, por la puerta trasera.
+Dialogue: 0,0:10:31.33,0:10:33.54,Doc,,0,0,0,,Y el motor iba en medio,\Nentre los dos asientos.
+Dialogue: 0,0:10:33.59,0:10:37.34,Doc,,0,0,0,,El motor era un monocilíndrico de\Nunos doscientos cincuenta centímetros
+Dialogue: 0,0:10:37.39,0:10:39.84,Doc,,0,0,0,,cúbicos, el de una moto de Zündapp.
+Dialogue: 0,0:10:39.89,0:10:43.44,Doc,,0,0,0,,Al ir colocado en el centro, el\Npeso quedaba muy bien repartido.
+Dialogue: 0,0:10:43.49,0:10:45.70,Doc,,0,0,0,,En teoría, era una idea brillante.
+Dialogue: 0,0:10:45.75,0:10:50.44,Doc,,0,0,0,,En la práctica, mucha gente no\Nquería viajar mirando hacia atrás.
+Dialogue: 0,0:10:50.49,0:10:51.72,Doc,,0,0,0,,Imagina el viaje.
+Dialogue: 0,0:10:51.77,0:10:54.78,Doc,,0,0,0,,El conductor y su acompañante\Nven el paisaje que llega.
+Dialogue: 0,0:10:54.83,0:10:56.80,Doc,,0,0,0,,Los de atrás ven el paisaje que se va.
+Dialogue: 0,0:10:56.85,0:11:00.78,Doc,,0,0,0,,Y si había que dormir, los asientos\Nse podían plegar para hacer una cama.
+Dialogue: 0,0:11:00.83,0:11:03.18,Doc,,0,0,0,,Hoy, mucha gente lo conoce sin saberlo.
+Dialogue: 0,0:11:03.23,0:11:05.22,Doc,,0,0,0,,En la película de animación Cars 2,
+Dialogue: 0,0:11:05.27,0:11:07.06,Doc,,0,0,0,,el villano, el profesor Z,
+Dialogue: 0,0:11:07.11,0:11:10.50,Doc,,0,0,0,,es precisamente un Zündapp\NJanus, con su monóculo y todo.
+Dialogue: 0,0:11:10.55,0:11:13.86,Doc,,0,0,0,,El coche más raro de Zündapp acabó\Nsiendo una estrella de Hollywood medio
+Dialogue: 0,0:11:13.91,0:11:15.10,Doc,,0,0,0,,siglo después.
+Dialogue: 0,0:11:15.15,0:11:18.34,Doc,,0,0,0,,Era ingenioso, era raro,\Ny no se vendió demasiado.
+Dialogue: 0,0:11:18.39,0:11:21.68,Doc,,0,0,0,,En poco más de un año se fabricaron\Nunos seis mil novecientos.
+Dialogue: 0,0:11:21.73,0:11:26.06,Doc,,0,0,0,,A mediados de 1958, Zündapp\Nvendió la fábrica a Bosch.
+Dialogue: 0,0:11:26.11,0:11:28.97,Doc,,0,0,0,,El dios de las dos caras no\Ntuvo una segunda oportunidad.
+Dialogue: 0,0:11:30.78,0:11:30.79,Doc,,0,0,0,,Número tres.
+Dialogue: 0,0:11:30.84,0:11:34.73,Doc,,0,0,0,,El Brütsch Mopetta.
+Dialogue: 0,0:11:34.78,0:11:38.49,Doc,,0,0,0,,Egon Brütsch era un diseñador alemán\Nobsesionado con los vehículos diminutos.
+Dialogue: 0,0:11:38.54,0:11:44.63,Doc,,0,0,0,,Y en 1956 presentó el más\Nextremo de todos: el Mopetta.
+Dialogue: 0,0:11:44.68,0:11:48.17,Doc,,0,0,0,,Durante los años cincuenta diseñó\Nun montón de microcoches distintos,
+Dialogue: 0,0:11:48.22,0:11:50.77,Doc,,0,0,0,,de una, dos y hasta cuatro plazas.
+Dialogue: 0,0:11:50.82,0:11:53.35,Doc,,0,0,0,,Pero casi ninguno llegó\Na fabricarse en serie.
+Dialogue: 0,0:11:53.40,0:11:55.51,Doc,,0,0,0,,Brütsch tenía más ideas que clientes.
+Dialogue: 0,0:11:55.56,0:11:56.43,Doc,,0,0,0,,Era un huevo.
+Dialogue: 0,0:11:56.48,0:11:57.45,Doc,,0,0,0,,Literalmente.
+Dialogue: 0,0:11:57.50,0:12:00.35,Doc,,0,0,0,,Una carrocería de fibra de\Nvidrio con forma de huevo,
+Dialogue: 0,0:12:00.40,0:12:02.27,Doc,,0,0,0,,tres ruedas y un solo asiento.
+Dialogue: 0,0:12:02.32,0:12:03.43,Doc,,0,0,0,,Sin techo de verdad.
+Dialogue: 0,0:12:03.48,0:12:07.03,Doc,,0,0,0,,Un motor minúsculo, de unos\Ncincuenta centímetros cúbicos.
+Dialogue: 0,0:12:07.08,0:12:09.81,Doc,,0,0,0,,No había sitio para nadie\Nmás que para el conductor.
+Dialogue: 0,0:12:09.86,0:12:14.19,Doc,,0,0,0,,Georg von Opel, de la familia Opel,\Npensó en venderlo con el nombre Opelit.
+Dialogue: 0,0:12:14.24,0:12:18.67,Doc,,0,0,0,,Pero en 1958 perdió el interés,\Ny el acuerdo se quedó en nada.
+Dialogue: 0,0:12:18.72,0:12:20.73,Doc,,0,0,0,,Brütsch fabricó solo catorce Mopettas.
+Dialogue: 0,0:12:20.78,0:12:22.82,Doc,,0,0,0,,Se cree que hoy quedan\Nunos cinco originales.
+Dialogue: 0,0:12:22.87,0:12:25.31,Doc,,0,0,0,,Catorce coches en todo el mundo.
+Dialogue: 0,0:12:25.36,0:12:29.99,Doc,,0,0,0,,Probablemente sea el coche con forma\Nde huevo más famoso de la historia.
+Dialogue: 0,0:12:30.04,0:12:31.09,Doc,,0,0,0,,Número dos.
+Dialogue: 0,0:12:31.14,0:12:33.37,Doc,,0,0,0,,El Peel Trident.
+Dialogue: 0,0:12:33.42,0:12:35.23,Doc,,0,0,0,,Y ahora viajamos a la Isla de Man,
+Dialogue: 0,0:12:35.28,0:12:37.99,Doc,,0,0,0,,una pequeña isla entre\NGran Bretaña e Irlanda.
+Dialogue: 0,0:12:38.04,0:12:42.29,Doc,,0,0,0,,Allí, una empresa llamada Peel fabricaba\Nbarcos y piezas de fibra de vidrio.
+Dialogue: 0,0:12:42.34,0:12:46.91,Doc,,0,0,0,,Y en 1965 presentó un coche que\Nparecía un platillo volante.
+Dialogue: 0,0:12:46.96,0:12:49.55,Doc,,0,0,0,,El hombre detrás de Peel\Nse llamaba Cyril Cannell.
+Dialogue: 0,0:12:49.60,0:12:51.75,Doc,,0,0,0,,Su empresa trabajaba con fibra de vidrio,
+Dialogue: 0,0:12:51.80,0:12:54.39,Doc,,0,0,0,,un material todavía muy\Nnuevo en aquellos años,
+Dialogue: 0,0:12:54.44,0:12:57.97,Doc,,0,0,0,,y fabricaba desde piezas para\Nmotos hasta pequeñas embarcaciones.
+Dialogue: 0,0:12:58.02,0:13:01.85,Doc,,0,0,0,,Para Cannell, un coche era simplemente\Notra carcasa de fibra de vidrio… con
+Dialogue: 0,0:13:01.90,0:13:02.53,Doc,,0,0,0,,ruedas.
+Dialogue: 0,0:13:02.58,0:13:06.39,Doc,,0,0,0,,El Trident tenía tres ruedas y una enorme\Ncúpula transparente que se levantaba
+Dialogue: 0,0:13:06.44,0:13:07.33,Doc,,0,0,0,,para entrar.
+Dialogue: 0,0:13:07.38,0:13:10.99,Doc,,0,0,0,,Dentro cabían dos personas,\Nsentadas una al lado de la otra.
+Dialogue: 0,0:13:11.04,0:13:14.29,Doc,,0,0,0,,Y el motor era de solo cuarenta\Ny nueve centímetros cúbicos.
+Dialogue: 0,0:13:14.34,0:13:18.09,Doc,,0,0,0,,Para entrar, se levantaba toda la\Nburbuja, como la cabina de un caza.
+Dialogue: 0,0:13:18.14,0:13:21.33,Doc,,0,0,0,,Y en verano, con el sol pegando\Nen aquella cúpula de plástico,
+Dialogue: 0,0:13:21.38,0:13:24.31,Doc,,0,0,0,,dentro debía de hacer un calor tremendo.
+Dialogue: 0,0:13:24.36,0:13:27.83,Doc,,0,0,0,,Su velocidad máxima: unos\Nsesenta kilómetros por hora.
+Dialogue: 0,0:13:27.88,0:13:29.77,Doc,,0,0,0,,Su consumo: casi nada.
+Dialogue: 0,0:13:29.82,0:13:33.37,Doc,,0,0,0,,La publicidad prometía comodidad de\Nberlina con el gasto de una moto.
+Dialogue: 0,0:13:33.42,0:13:37.87,Doc,,0,0,0,,Y en un museo británico lo apodaron\Nel platillo volante terrestre.
+Dialogue: 0,0:13:37.92,0:13:40.99,Doc,,0,0,0,,Según algunas fuentes, costaba\Nunas ciento noventa libras.
+Dialogue: 0,0:13:41.04,0:13:44.23,Doc,,0,0,0,,Era más barato que muchos coches\Nde segunda mano de la época.
+Dialogue: 0,0:13:44.28,0:13:45.71,Doc,,0,0,0,,Se fabricaron muy pocos,
+Dialogue: 0,0:13:45.76,0:13:48.73,Doc,,0,0,0,,entre cuarenta y cinco y unos\Nochenta, según la fuente.
+Dialogue: 0,0:13:48.78,0:13:51.25,Doc,,0,0,0,,Hoy uno original se\Npaga como un deportivo.
+Dialogue: 0,0:13:51.30,0:13:54.11,Doc,,0,0,0,,Pero el Trident tenía un\Nhermano todavía más pequeño.
+Dialogue: 0,0:13:54.16,0:13:55.90,Doc,,0,0,0,,Y ese hermano es el número uno.
+Dialogue: 0,0:13:57.93,0:13:58.13,Doc,,0,0,0,,Número uno.
+Dialogue: 0,0:13:58.18,0:14:00.79,Doc,,0,0,0,,El Peel P50.
+Dialogue: 0,0:14:00.84,0:14:04.09,Doc,,0,0,0,,Isla de Man, 1962.
+Dialogue: 0,0:14:04.14,0:14:07.07,Doc,,0,0,0,,La misma empresa, Peel,\Npresenta su primer coche.
+Dialogue: 0,0:14:07.12,0:14:08.31,Doc,,0,0,0,,Y no es pequeño.
+Dialogue: 0,0:14:08.36,0:14:09.69,Doc,,0,0,0,,Es ridículamente pequeño.
+Dialogue: 0,0:14:09.74,0:14:12.41,Doc,,0,0,0,,El P50 tenía tres ruedas,
+Dialogue: 0,0:14:12.46,0:14:14.51,Doc,,0,0,0,,una sola puerta en el lado izquierdo,
+Dialogue: 0,0:14:14.56,0:14:18.25,Doc,,0,0,0,,un faro delante y espacio para una\Npersona y una bolsa de la compra.
+Dialogue: 0,0:14:18.30,0:14:20.35,Doc,,0,0,0,,Pesaba unos cincuenta y nueve kilos.
+Dialogue: 0,0:14:20.40,0:14:23.35,Doc,,0,0,0,,Menos que muchas personas.
+Dialogue: 0,0:14:23.40,0:14:26.85,Doc,,0,0,0,,Su motor era un dos tiempos de\Ncuarenta y nueve centímetros cúbicos,
+Dialogue: 0,0:14:26.90,0:14:28.29,Doc,,0,0,0,,el de un ciclomotor.
+Dialogue: 0,0:14:28.34,0:14:31.39,Doc,,0,0,0,,Su velocidad máxima rondaba los\Nsesenta kilómetros por hora.
+Dialogue: 0,0:14:31.44,0:14:34.81,Doc,,0,0,0,,Y cuando era nuevo costaba unas\Nciento noventa y nueve libras.
+Dialogue: 0,0:14:34.86,0:14:38.21,Doc,,0,0,0,,Tenía tres marchas hacia\Ndelante… y ninguna hacia atrás.
+Dialogue: 0,0:14:38.26,0:14:39.81,Doc,,0,0,0,,¿Cómo se aparcaba entonces?
+Dialogue: 0,0:14:39.86,0:14:41.49,Doc,,0,0,0,,Muy fácil: te bajabas,
+Dialogue: 0,0:14:41.54,0:14:43.79,Doc,,0,0,0,,cogías el asa que tenía\Nen la parte trasera,
+Dialogue: 0,0:14:43.84,0:14:46.37,Doc,,0,0,0,,levantabas un poco el\Ncoche y lo girabas a mano.
+Dialogue: 0,0:14:46.42,0:14:47.67,Doc,,0,0,0,,Como una maleta con ruedas.
+Dialogue: 0,0:14:47.72,0:14:51.05,Doc,,0,0,0,,Se vendieron muy pocos, unos\Ncincuenta, según la fuente.
+Dialogue: 0,0:14:51.10,0:14:54.29,Doc,,0,0,0,,Y durante décadas fue casi un\Nsecreto para coleccionistas.
+Dialogue: 0,0:14:54.34,0:14:59.29,Doc,,0,0,0,,Hasta que, en 2007, el programa de\Ntelevisión Top Gear lo puso en pantalla.
+Dialogue: 0,0:14:59.34,0:15:02.63,Doc,,0,0,0,,Uno de sus presentadores\Ncondujo un P50 por la ciudad,
+Dialogue: 0,0:15:02.68,0:15:06.17,Doc,,0,0,0,,se metió con él en un ascensor y circuló\Npor los pasillos de un edificio de
+Dialogue: 0,0:15:06.22,0:15:07.85,Doc,,0,0,0,,oficinas de la BBC.
+Dialogue: 0,0:15:07.90,0:15:11.21,Doc,,0,0,0,,Millones de personas descubrieron\Nde golpe aquel coche diminuto.
+Dialogue: 0,0:15:11.26,0:15:12.41,Doc,,0,0,0,,Y en 2010,
+Dialogue: 0,0:15:12.46,0:15:15.97,Doc,,0,0,0,,el Libro Guinness de los Récords lo\Nreconoció como el coche de producción más
+Dialogue: 0,0:15:16.02,0:15:18.71,Doc,,0,0,0,,pequeño jamás fabricado.
+Dialogue: 0,0:15:18.76,0:15:22.99,Doc,,0,0,0,,Hoy, un Peel P50 original se paga en\Nsubasta como si fuera un deportivo de
+Dialogue: 0,0:15:23.04,0:15:23.85,Doc,,0,0,0,,lujo.
+Dialogue: 0,0:15:23.90,0:15:27.87,Doc,,0,0,0,,No está mal para un coche\Nque se aparca con una mano.
+Dialogue: 0,0:15:27.92,0:15:29.61,Doc,,0,0,0,,Tanto gustó que, décadas después,
+Dialogue: 0,0:15:29.66,0:15:33.47,Doc,,0,0,0,,una empresa británica volvió a\Nfabricar réplicas nuevas del P50,
+Dialogue: 0,0:15:33.52,0:15:35.35,Doc,,0,0,0,,algunas incluso eléctricas.
+Dialogue: 0,0:15:35.40,0:15:39.09,Doc,,0,0,0,,El coche más pequeño de la historia\Ntuvo una segunda vida en el siglo
+Dialogue: 0,0:15:39.14,0:15:39.79,Doc,,0,0,0,,veintiuno.
+Dialogue: 0,0:15:39.84,0:15:43.11,Doc,,0,0,0,,Los microcoches desaparecieron\Ncasi tan rápido como llegaron.
+Dialogue: 0,0:15:43.16,0:15:46.09,Doc,,0,0,0,,En España, los mató el SEAT 600.
+Dialogue: 0,0:15:46.14,0:15:47.79,Doc,,0,0,0,,En Gran Bretaña y en Europa,
+Dialogue: 0,0:15:47.84,0:15:49.43,Doc,,0,0,0,,coches pequeños pero de verdad,
+Dialogue: 0,0:15:49.48,0:15:54.17,Doc,,0,0,0,,como el Mini o el Fiat 500, ofrecían\Ncuatro plazas por poco más dinero.
+Dialogue: 0,0:15:54.22,0:15:57.75,Doc,,0,0,0,,De hecho, el Mini nació en parte\Npor culpa de los microcoches.
+Dialogue: 0,0:15:57.80,0:15:59.11,Doc,,0,0,0,,Tras la crisis de Suez,
+Dialogue: 0,0:15:59.16,0:16:01.89,Doc,,0,0,0,,el jefe de la British Motor\NCorporation le pidió a su ingeniero,
+Dialogue: 0,0:16:01.94,0:16:05.59,Doc,,0,0,0,,Alec Issigonis, un coche pequeño y\Neconómico que acabara con los coches
+Dialogue: 0,0:16:05.64,0:16:06.29,Doc,,0,0,0,,burbuja.
+Dialogue: 0,0:16:06.34,0:16:10.15,Doc,,0,0,0,,Issigonis diseñó un coche de cuatro\Nplazas de poco más de tres metros.
+Dialogue: 0,0:16:10.20,0:16:11.61,Doc,,0,0,0,,Se presentó en 1959.
+Dialogue: 0,0:16:11.66,0:16:15.77,Doc,,0,0,0,,Y en pocos años, los\Nmicrocoches pasaron de moda.
+Dialogue: 0,0:16:15.82,0:16:17.77,Doc,,0,0,0,,Hoy, muchos de estos coches sobreviven\Ngracias a coleccionistas y museos.
+Dialogue: 0,0:16:17.82,0:16:17.99,Doc,,0,0,0,,Y en las concentraciones de clásicos,
+Dialogue: 0,0:16:18.04,0:16:18.29,Doc,,0,0,0,,siempre son los que más\Ngente reúnen alrededor.
+Dialogue: 0,0:16:18.34,0:16:18.85,Doc,,0,0,0,,No por su potencia ni por su lujo, sino\Nporque nadie se cree que existieran.
+Dialogue: 0,0:16:18.90,0:16:20.17,Doc,,0,0,0,,Pero durante unos años,
+Dialogue: 0,0:16:20.22,0:16:24.11,Doc,,0,0,0,,la gente se atrevió a inventar coches\Nque hoy nadie se atrevería ni a dibujar.
+Dialogue: 0,0:16:24.16,0:16:25.35,Doc,,0,0,0,,Si te ha gustado el vídeo,
+Dialogue: 0,0:16:25.40,0:16:28.89,Doc,,0,0,0,,dale a me gusta y suscríbete para\Nmás historias de coches clásicos.
+Dialogue: 0,0:16:28.94,0:16:30.11,Doc,,0,0,0,,Y cuéntame en los comentarios:
+Dialogue: 0,0:16:30.16,0:16:34.08,Doc,,0,0,0,,de estos diez microcoches, ¿en cuál\Nte atreverías a dar una vuelta?
