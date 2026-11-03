@@ -1,0 +1,261 @@
+{
+ "defaults": {
+  "n": 4,
+  "clip": 8,
+  "per_film": 2,
+  "years": [
+   1950,
+   1969
+  ],
+  "sources": [
+   "archive"
+  ]
+ },
+ "shots": [
+  {
+   "id": "c_midget_car",
+   "query": "midget car",
+   "alt": [
+    "tiny car",
+    "small car",
+    "bubble car"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1950,
+    1966
+   ],
+   "n": 6,
+   "per_film": 2
+  },
+  {
+   "id": "c_three_wheel",
+   "query": "three wheel car",
+   "alt": [
+    "three-wheeled",
+    "scooter car"
+   ],
+   "collections": [
+    "universal_newsreels",
+    "prelinger"
+   ],
+   "years": [
+    1950,
+    1966
+   ],
+   "n": 5,
+   "per_film": 2
+  },
+  {
+   "id": "c_car_show",
+   "query": "auto show",
+   "alt": [
+    "motor show",
+    "new cars",
+    "car exhibition"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1950,
+    1966
+   ],
+   "n": 5,
+   "per_film": 2
+  },
+  {
+   "id": "c_germany",
+   "query": "Germany",
+   "alt": [
+    "West Germany",
+    "Berlin traffic"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1950,
+    1965
+   ],
+   "n": 4,
+   "per_film": 2
+  },
+  {
+   "id": "c_europe_traffic",
+   "query": "Paris",
+   "alt": [
+    "Paris traffic",
+    "Rome",
+    "London traffic"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1950,
+    1965
+   ],
+   "n": 5,
+   "per_film": 2
+  },
+  {
+   "id": "c_gas",
+   "query": "gasoline",
+   "alt": [
+    "gas shortage",
+    "petrol",
+    "Suez"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1956,
+    1957
+   ],
+   "n": 4,
+   "per_film": 2
+  },
+  {
+   "id": "c_japan",
+   "query": "Japan",
+   "alt": [
+    "Tokyo"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1955,
+    1966
+   ],
+   "n": 4,
+   "per_film": 2
+  },
+  {
+   "id": "v_microcar",
+   "query": "microcar",
+   "alt": [
+    "bubble car",
+    "tiny car"
+   ],
+   "sources": [
+    "commons",
+    "pixabay",
+    "pexels",
+    "coverr"
+   ],
+   "n": 4,
+   "per_film": 1
+  },
+  {
+   "id": "v_isetta",
+   "query": "Isetta",
+   "alt": [
+    "bmw isetta"
+   ],
+   "sources": [
+    "commons",
+    "pixabay",
+    "pexels",
+    "coverr"
+   ],
+   "n": 4,
+   "per_film": 1
+  },
+  {
+   "id": "v_p50",
+   "query": "Peel P50",
+   "alt": [
+    "smallest car"
+   ],
+   "sources": [
+    "commons",
+    "pixabay",
+    "pexels",
+    "coverr"
+   ],
+   "n": 4,
+   "per_film": 1
+  },
+  {
+   "id": "v_subaru360",
+   "query": "Subaru 360",
+   "alt": [
+    "classic subaru"
+   ],
+   "sources": [
+    "commons",
+    "pixabay",
+    "pexels",
+    "coverr"
+   ],
+   "n": 4,
+   "per_film": 1
+  },
+  {
+   "id": "v_messerschmitt",
+   "query": "Messerschmitt",
+   "alt": [
+    "kabinenroller"
+   ],
+   "sources": [
+    "commons",
+    "pixabay",
+    "pexels",
+    "coverr"
+   ],
+   "n": 4,
+   "per_film": 1
+  },
+  {
+   "id": "v_classic_show",
+   "query": "classic car show",
+   "alt": [
+    "vintage car meeting",
+    "oldtimer meeting"
+   ],
+   "sources": [
+    "commons",
+    "pixabay",
+    "pexels",
+    "coverr"
+   ],
+   "n": 4,
+   "per_film": 1
+  },
+  {
+   "id": "v_janus",
+   "query": "Zundapp Janus",
+   "alt": [
+    "zündapp"
+   ],
+   "sources": [
+    "commons",
+    "pixabay",
+    "pexels",
+    "coverr"
+   ],
+   "n": 4,
+   "per_film": 1
+  },
+  {
+   "id": "v_fiat500",
+   "query": "Fiat 500 classic",
+   "alt": [
+    "vintage fiat 500"
+   ],
+   "sources": [
+    "commons",
+    "pixabay",
+    "pexels",
+    "coverr"
+   ],
+   "n": 4,
+   "per_film": 1
+  }
+ ]
+}

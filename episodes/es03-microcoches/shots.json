@@ -1,0 +1,248 @@
+{
+ "defaults": {
+  "n": 4,
+  "sources": [
+   "commons",
+   "openverse",
+   "loc"
+  ]
+ },
+ "shots": [
+  {
+   "id": "m_subaru360",
+   "query": "Subaru 360",
+   "alt": [
+    "Subaru 360 1958",
+    "Subaru 360 ladybug",
+    "Subaru 360 interior"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_heinkel",
+   "query": "Heinkel Kabine",
+   "alt": [
+    "Heinkel Kabine 154",
+    "Heinkel Cabin Cruiser",
+    "Trojan 200"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_tiger",
+   "query": "FMR Tg500",
+   "alt": [
+    "FMR Tiger",
+    "Messerschmitt Tiger Tg500",
+    "Tg 500"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_kr200",
+   "query": "Messerschmitt KR200",
+   "alt": [
+    "Messerschmitt Kabinenroller"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_ptv",
+   "query": "PTV 250",
+   "alt": [
+    "PTV microcar",
+    "Automóviles Utilitarios PTV",
+    "AUSA PTV 250"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_pegasin",
+   "query": "Biscuter Pegasin",
+   "alt": [
+    "Biscúter 200-F",
+    "Biscuter Pegasin 1957"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_biscuter",
+   "query": "Biscúter",
+   "alt": [
+    "Biscuter 200",
+    "Biscuter Voisin"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_pegaso",
+   "query": "Pegaso Z-102",
+   "alt": [
+    "Pegaso Z102"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_inter",
+   "query": "Inter 175A Berline",
+   "alt": [
+    "Inter Autoscooter",
+    "Inter 175 Berline",
+    "SNCAN Inter"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_janus",
+   "query": "Zündapp Janus",
+   "alt": [
+    "Zundapp Janus",
+    "Zündapp Janus 250",
+    "Zündapp Janus rear door"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_mopetta",
+   "query": "Brütsch Mopetta",
+   "alt": [
+    "Brutsch Mopetta",
+    "Opelit Mopetta"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_trident",
+   "query": "Peel Trident",
+   "alt": [
+    "Peel Trident bubble car",
+    "Peel Trident 1965"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_p50",
+   "query": "Peel P50",
+   "alt": [
+    "Peel P50 microcar",
+    "Peel P50 1963",
+    "Peel P50 museum"
+   ],
+   "n": 10
+  },
+  {
+   "id": "m_isetta",
+   "query": "BMW Isetta",
+   "alt": [
+    "Isetta 300"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_mini",
+   "query": "Austin Mini 1959",
+   "alt": [
+    "Morris Mini-Minor",
+    "Mini 1959"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_fiat500",
+   "query": "Fiat 500 1957",
+   "alt": [
+    "Fiat Nuova 500"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_seat600",
+   "query": "SEAT 600",
+   "alt": [
+    "Seat 600 N"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_microcar_museum",
+   "query": "microcar museum",
+   "alt": [
+    "Bruce Weiner Microcar Museum",
+    "Kabinenroller museum",
+    "bubble car museum"
+   ],
+   "n": 8
+  },
+  {
+   "id": "h_bubble_rally",
+   "query": "bubble car rally",
+   "alt": [
+    "microcar meeting",
+    "Kabinenroller Treffen",
+    "bubble car club"
+   ],
+   "n": 6
+  },
+  {
+   "id": "h_isle_of_man",
+   "query": "Peel Isle of Man",
+   "alt": [
+    "Isle of Man harbour",
+    "Peel harbour"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_he111",
+   "query": "Heinkel He 111",
+   "alt": [
+    "Heinkel aircraft"
+   ],
+   "n": 3
+  },
+  {
+   "id": "h_suez",
+   "query": "Suez crisis 1956 petrol rationing",
+   "alt": [
+    "petrol rationing 1956",
+    "Suez Canal 1956"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_manresa",
+   "query": "Manresa",
+   "alt": [
+    "Manresa Catalonia",
+    "Manresa 1950s"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_tokyo_50s",
+   "query": "Tokyo 1960s street",
+   "alt": [
+    "Japan 1960s cars",
+    "Tokyo 1958"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_europe_50s",
+   "query": "1950s European street cars",
+   "alt": [
+    "Germany 1950s street",
+    "Wirtschaftswunder cars"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_bbc",
+   "query": "BBC Television Centre",
+   "alt": [
+    "Television Centre London"
+   ],
+   "n": 3
+  }
+ ]
+}

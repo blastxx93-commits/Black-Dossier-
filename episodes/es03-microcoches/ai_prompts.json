@@ -1,0 +1,40 @@
+{
+ "model": "black-forest-labs/flux-1.1-pro-ultra",
+ "raw": true,
+ "n": 1,
+ "style": ", 1950s documentary photograph, Kodachrome colour, film grain, period-correct vehicles, realistic, cinematic, no logos, no badges, no readable text, no brand names",
+ "shots": [
+  {
+   "id": "ai_p50_handle",
+   "prompt": "A man in 1960s clothes lifting a tiny one-seat three-wheeled microcar by a rear handle and turning it around by hand on a narrow British harbour street, no readable text, no logos"
+  },
+  {
+   "id": "ai_janus_backtoback",
+   "prompt": "Two people sitting back to back inside a tiny 1957 microcar, one looking forward through the front door window, the other looking backward through the rear door window, no readable text, no logos"
+  },
+  {
+   "id": "ai_inter_corridor",
+   "prompt": "A tiny narrow three-wheeled 1950s microcar with its front wheels folded in, being pushed through a house corridor doorway by its owner, no readable text, no logos"
+  },
+  {
+   "id": "ai_mopetta_ride",
+   "prompt": "A smiling man driving a tiny egg-shaped single-seat open three-wheeled microcar along a 1950s German village road, no readable text, no logos"
+  },
+  {
+   "id": "ai_bubble_hot",
+   "prompt": "Close view of a tiny 1960s bubble car with a clear plastic dome under strong summer sun, driver sweating inside, no readable text, no logos"
+  },
+  {
+   "id": "ai_suez_queue",
+   "prompt": "A queue of small 1956 European cars and scooters at a petrol station with a hand-written sign, people waiting, no readable text, no logos"
+  },
+  {
+   "id": "ai_spain_microcar",
+   "prompt": "A small 1950s Spanish two-seat convertible microcar parked in a Catalan town square, people in period clothes looking at it, no readable text, no logos"
+  },
+  {
+   "id": "ai_tiger_race",
+   "prompt": "A tiny four-wheeled 1959 bubble-canopy microcar racing up a mountain road hillclimb, spectators on the side, no readable text, no logos"
+  }
+ ]
+}
