@@ -1,0 +1,195 @@
+[     0s] es03-microcoches: 26 planos, limite 35.0 min
+[     0s] m_subaru360: 'Subaru 360'
+[     1s]     commons: 12 candidatos em 0.7s
+[     1s]     openverse: 8 candidatos em 0.4s
+[     1s]     loc: 0 candidatos em 0.3s
+[     7s]   -> 8 imagens
+[     7s] m_heinkel: 'Heinkel Kabine'
+[     9s]     commons: 12 candidatos em 1.5s
+[     9s]     openverse: 11 candidatos em 0.4s
+[     9s]     loc: 0 candidatos em 0.2s
+[    25s]   -> 8 imagens
+[    25s] m_tiger: 'FMR Tg500'
+[    26s]     commons: 12 candidatos em 0.8s
+[    28s]     openverse: 12 candidatos em 2.4s
+[    29s]     loc: 0 candidatos em 0.3s
+[    45s]   -> 8 imagens
+[    45s] m_kr200: 'Messerschmitt KR200'
+[    45s]     commons: 12 candidatos em 0.4s
+[    46s]     openverse: 10 candidatos em 0.2s
+[    46s]     loc: 0 candidatos em 0.3s
+[    48s]   -> 4 imagens
+[    48s] m_ptv: 'PTV 250'
+[    49s]     commons: 7 candidatos em 0.5s
+[    49s]     openverse: 4 candidatos em 0.3s
+[    50s]     loc: 0 candidatos em 0.4s
+[    84s]     falhou download (openverse) em 30.1s
+[   115s]     falhou download (openverse) em 30.1s
+[   146s]     falhou download (openverse) em 30.1s
+[   150s]   -> 8 imagens
+[   150s] m_pegasin: 'Biscuter Pegasin'
+[   150s]     commons: 6 candidatos em 0.5s
+[   150s]     openverse: 1 candidatos em 0.4s
+[   151s]     loc: 0 candidatos em 0.2s
+[   181s]     falhou download (openverse) em 30.1s
+[   189s]   -> 6 imagens
+[   189s] m_biscuter: 'Biscúter'
+[   190s]     commons: 10 candidatos em 0.9s
+[   191s]     openverse: 12 candidatos em 0.5s
+[   191s]     loc: 0 candidatos em 0.1s
+[   192s]     falhou download (commons) em 0.0s
+[   195s]     falhou download (openverse) em 0.0s
+[   196s]   -> 6 imagens
+[   196s] m_pegaso: 'Pegaso Z-102'
+[   197s]     commons: 12 candidatos em 0.9s
+[   197s]     openverse: 11 candidatos em 0.4s
+[   198s]     loc: 0 candidatos em 0.5s
+[   200s]     falhou download (openverse) em 0.0s
+[   200s]   -> 4 imagens
+[   200s] m_inter: 'Inter 175A Berline'
+[   201s]     commons: 8 candidatos em 0.9s
+[   202s]     openverse: 8 candidatos em 0.9s
+[   203s]     loc: 0 candidatos em 0.5s
+[   203s]     falhou download (openverse) em 0.0s
+[   206s]     falhou download (openverse) em 0.0s
+[   209s]     falhou download (openverse) em 0.0s
+[   211s]     falhou download (openverse) em 0.0s
+[   214s]     falhou download (openverse) em 0.0s
+[   217s]     falhou download (openverse) em 0.0s
+[   219s]     falhou download (openverse) em 0.0s
+[   221s]   -> 8 imagens
+[   221s] m_janus: 'Zündapp Janus'
+[   223s]     commons: 12 candidatos em 1.5s
+[   223s]     openverse: 12 candidatos em 0.5s
+[   224s]     loc: 0 candidatos em 0.2s
+[   226s]     falhou download (openverse) em 0.0s
+[   228s]     falhou download (openverse) em 0.0s
+[   228s]     falhou download (openverse) em 0.0s
+[   228s]     falhou download (commons) em 0.0s
+[   229s]   -> 8 imagens
+[   229s] m_mopetta: 'Brütsch Mopetta'
+[   230s]     commons: 12 candidatos em 0.8s
+[   230s]     openverse: 11 candidatos em 0.5s
+[   231s]     loc: 0 candidatos em 0.4s
+[   231s]     falhou download (commons) em 0.0s
+[   231s]     falhou download (openverse) em 0.0s
+[   231s]     falhou download (openverse) em 0.0s
+[   233s]     falhou download (openverse) em 0.0s
+[   236s]     falhou download (openverse) em 0.0s
+[   236s]     falhou download (openverse) em 0.0s
+[   239s]     falhou download (openverse) em 0.0s
+[   239s]     falhou download (commons) em 0.0s
+[   240s]   -> 6 imagens
+[   240s] m_trident: 'Peel Trident'
+[   241s]     commons: 12 candidatos em 0.6s
+[   241s]     openverse: 10 candidatos em 0.5s
+[   242s]     loc: 2 candidatos em 0.5s
+[   242s]     falhou download (openverse) em 0.0s
+[   244s]     falhou download (openverse) em 0.0s
+[   247s]   -> 8 imagens
+[   247s] m_p50: 'Peel P50'
+[   248s]     commons: 12 candidatos em 0.7s
+[   248s]     openverse: 12 candidatos em 0.5s
+[   249s]     loc: 0 candidatos em 0.8s
+[   251s]     falhou download (openverse) em 0.0s
+[   252s]     falhou download (commons) em 0.0s
+[   252s]     falhou download (openverse) em 0.0s
+[   256s]   -> 10 imagens
+[   256s] m_isetta: 'BMW Isetta'
+[   256s]     commons: 12 candidatos em 0.5s
+[   256s]     openverse: 10 candidatos em 0.2s
+[   257s]     loc: 0 candidatos em 1.2s
+[   260s]   -> 4 imagens
+[   260s] m_mini: 'Austin Mini 1959'
+[   260s]     commons: 12 candidatos em 0.4s
+[   261s]     openverse: 12 candidatos em 0.5s
+[   262s]     loc: 0 candidatos em 0.7s
+[   264s]     falhou download (commons) em 0.0s
+[   265s]   -> 5 imagens
+[   265s] m_fiat500: 'Fiat 500 1957'
+[   266s]     commons: 12 candidatos em 0.6s
+[   266s]     openverse: 12 candidatos em 0.8s
+[   268s]     loc: 0 candidatos em 1.2s
+[   270s]     falhou download (openverse) em 0.0s
+[   270s]   -> 4 imagens
+[   270s] m_seat600: 'SEAT 600'
+[   271s]     commons: 10 candidatos em 0.6s
+[   271s]     openverse: 11 candidatos em 0.3s
+[   275s]     loc: 12 candidatos em 3.8s
+[   276s]     falhou download (loc) em 0.3s
+[   278s]   -> 4 imagens
+[   278s] h_microcar_museum: 'microcar museum'
+[   279s]     commons: 12 candidatos em 1.3s
+[   279s]     openverse: 12 candidatos em 0.4s
+[   283s]     loc: 0 candidatos em 4.1s
+[   283s]     falhou download (commons) em 0.0s
+[   291s]   -> 8 imagens
+[   291s] h_bubble_rally: 'bubble car rally'
+[   292s]     commons: 10 candidatos em 0.8s
+[   292s]     openverse: 12 candidatos em 0.3s
+[   293s]     loc: 12 candidatos em 1.1s
+[   299s]   -> 6 imagens
+[   299s] h_isle_of_man: 'Peel Isle of Man'
+[   300s]     commons: 1 candidatos em 0.8s
+[   300s]     openverse: 7 candidatos em 0.5s
+[   301s]     loc: 12 candidatos em 1.3s
+[   301s]     falhou download (commons) em 0.0s
+[   301s]     falhou download (openverse) em 0.0s
+[   303s]     falhou download (loc) em 0.2s
+[   304s]     falhou download (loc) em 0.1s
+[   304s]   -> 4 imagens
+[   304s] h_he111: 'Heinkel He 111'
+[   305s]     commons: 8 candidatos em 0.4s
+[   306s]     openverse: 8 candidatos em 1.1s
+[   308s]     loc: 3 candidatos em 2.3s
+[   309s]     falhou download (openverse) em 0.0s
+[   309s]     falhou download (loc) em 0.0s
+[   309s]     falhou download (openverse) em 0.0s
+[   318s]     falhou download (loc) em 8.7s
+[   319s]   -> 3 imagens
+[   319s] h_suez: 'Suez crisis 1956 petrol rationing'
+[   319s]     commons: 1 candidatos em 0.5s
+[   320s]     openverse: 1 candidatos em 1.1s
+[   323s]     loc: 0 candidatos em 2.7s
+[   324s]     falhou download (openverse) em 0.0s
+[   325s]     commons: 2 candidatos em 1.2s
+[   325s]     openverse: 1 candidatos em 0.3s
+[   327s]     loc: 0 candidatos em 2.1s
+[   328s]     commons: 6 candidatos em 0.4s
+[   329s]     openverse: 11 candidatos em 0.4s
+[   330s]     loc: 12 candidatos em 1.1s
+[   330s]     falhou download (commons) em 0.0s
+[   330s]     falhou download (openverse) em 0.0s
+[   330s]     falhou download (loc) em 0.0s
+[   330s]     falhou download (commons) em 0.0s
+[   331s]     falhou download (loc) em 0.2s
+[   331s]     falhou download (commons) em 0.0s
+[   331s]   -> 4 imagens
+[   331s] h_manresa: 'Manresa'
+[   332s]     commons: 11 candidatos em 0.5s
+[   332s]     openverse: 9 candidatos em 0.4s
+[   333s]     loc: 5 candidatos em 0.5s
+[   335s]     falhou download (loc) em 0.8s
+[   335s]     falhou download (commons) em 0.0s
+[   335s]     falhou download (openverse) em 0.0s
+[   336s]   -> 4 imagens
+[   336s] h_tokyo_50s: 'Tokyo 1960s street'
+[   337s]     commons: 11 candidatos em 0.4s
+[   337s]     openverse: 12 candidatos em 0.5s
+[   338s]     loc: 1 candidatos em 1.2s
+[   341s]   -> 4 imagens
+[   341s] h_europe_50s: '1950s European street cars'
+[   341s]     commons: 12 candidatos em 0.7s
+[   342s]     openverse: 0 candidatos em 0.9s
+[   348s]     loc: 1 candidatos em 5.2s
+[   348s]     falhou download (commons) em 0.0s
+[   348s]     falhou download (commons) em 0.0s
+[   351s]   -> 5 imagens
+[   351s] h_bbc: 'BBC Television Centre'
+[   351s]     commons: 9 candidatos em 0.4s
+[   352s]     openverse: 8 candidatos em 0.4s
+[   354s]     loc: 0 candidatos em 2.3s
+[   355s]     falhou download (openverse) em 0.0s
+[   355s]     falhou download (commons) em 0.0s
+[   356s]   -> 3 imagens
+[   360s] fim: 150 imagens
