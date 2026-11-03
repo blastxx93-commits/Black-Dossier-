@@ -1,0 +1,36 @@
+ai_p50_handle_1: Gemini falhou (Gemini 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and ), tentando Replicate
+ai_p50_handle_1: 2752x1536
+ai_janus_backtoback_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_janus_backtoback_1: 2752x1536
+ai_inter_corridor_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_inter_corridor_1: 2752x1536
+ai_mopetta_ride_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_mopetta_ride_1: 2752x1536
+ai_bubble_hot_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_bubble_hot_1: 2752x1536
+ai_suez_queue_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_suez_queue_1: 2752x1536
+ai_spain_microcar_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_spain_microcar_1: 2752x1536
+ai_tiger_race_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_tiger_race_1: 2752x1536
+# Imagens IA — es03-microcoches
+
+- Modelo: `gemini-2.5-flash-image`
+- Imagens geradas: 8
+- Folhas: ai_contact_sheet_1.jpg, ai_contact_sheet_2.jpg
+
+| plano | resultado |
+|---|---|
+| `ai_p50_handle` | 1 de 1 |
+| `ai_janus_backtoback` | 1 de 1 |
+| `ai_inter_corridor` | 1 de 1 |
+| `ai_mopetta_ride` | 1 de 1 |
+| `ai_bubble_hot` | 1 de 1 |
+| `ai_suez_queue` | 1 de 1 |
+| `ai_spain_microcar` | 1 de 1 |
+| `ai_tiger_race` | 1 de 1 |
+
