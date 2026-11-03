@@ -1,0 +1,12 @@
+{
+ "intro": [
+  "c_car_show/1"
+ ],
+ "tiger": [
+  "c_three_wheel/2"
+ ],
+ "_generic": [
+  "c_car_show/1",
+  "c_three_wheel/2"
+ ]
+}

@@ -243,6 +243,195 @@
     "Television Centre London"
    ],
    "n": 3
+  },
+  {
+   "id": "m_subaru360_2",
+   "query": "Subaru 360 1960s",
+   "alt": [
+    "Subaru 360 Young SS",
+    "Subaru 360 museum",
+    "Subaru 360 rear"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_heinkel_2",
+   "query": "Heinkel Trojan",
+   "alt": [
+    "Trojan Cabin Cruiser",
+    "Heinkel Kabine 1957",
+    "Heinkel bubble car"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_tiger_2",
+   "query": "Tiger Tg500",
+   "alt": [
+    "FMR Tg 500 Tiger",
+    "Messerschmitt Tg500 race",
+    "Tg500 Tiger 1959"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_janus_2",
+   "query": "Zündapp Janus 1958",
+   "alt": [
+    "Janus 250 Zündapp",
+    "Zündapp Janus Museum",
+    "Zündapp Janus interior"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_trident_2",
+   "query": "Peel Trident replica",
+   "alt": [
+    "Peel Trident microcar",
+    "Trident bubble car"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_p50_2",
+   "query": "Peel P50 red",
+   "alt": [
+    "Peel P50 replica",
+    "Peel P50 electric",
+    "smallest car Peel"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_inter_2",
+   "query": "Inter Autoscooter 175",
+   "alt": [
+    "Inter Berline",
+    "SNCAN Inter 175"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_ptv_2",
+   "query": "PTV 250 microcar",
+   "alt": [
+    "PTV 250 1959",
+    "AUSA PTV"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_goggo",
+   "query": "Goggomobil",
+   "alt": [
+    "Goggomobil T250",
+    "Glas Goggomobil",
+    "Goggomobil Dart"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_fulda",
+   "query": "Fuldamobil",
+   "alt": [
+    "Fuldamobil S-7",
+    "Nobel 200",
+    "Bambi microcar"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_bond",
+   "query": "Bond Minicar",
+   "alt": [
+    "Bond Minicar Mark G",
+    "Bond Minicar 1950s"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_vespa400",
+   "query": "Vespa 400",
+   "alt": [
+    "Vespa 400 1958",
+    "ACMA Vespa 400"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_kapi",
+   "query": "Kapi microcoche",
+   "alt": [
+    "Autos Kapi",
+    "Kapi Chiquitín",
+    "microcoche español"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_scootacar",
+   "query": "Scootacar",
+   "alt": [
+    "Scootacar 1958",
+    "Scootacar microcar"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_frisky",
+   "query": "Frisky microcar",
+   "alt": [
+    "Frisky Sport",
+    "Frisky Family Three"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_lloyd",
+   "query": "Lloyd LP 300",
+   "alt": [
+    "Lloyd 300",
+    "Lloyd 600"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_velam",
+   "query": "Velam Isetta",
+   "alt": [
+    "Iso Isetta",
+    "Romi-Isetta"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_nsu_prinz",
+   "query": "NSU Prinz",
+   "alt": [
+    "NSU Prinz II",
+    "NSU Prinz 1958"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_microcar_show",
+   "query": "microcar show",
+   "alt": [
+    "bubble car festival",
+    "microcar rally",
+    "Kabinenroller"
+   ],
+   "n": 8
+  },
+  {
+   "id": "h_microcar_museum_2",
+   "query": "Lane Motor Museum microcar",
+   "alt": [
+    "microcar collection",
+    "Automuseum Kleinwagen"
+   ],
+   "n": 6
   }
  ]
 }
