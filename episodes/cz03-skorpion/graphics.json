@@ -1,0 +1,91 @@
+[
+ {
+  "id": "g_spec",
+  "kind": "spec",
+  "dur": 10,
+  "title": "Sa vz. 61",
+  "sub": "Miroslav Rybář · Strakonice",
+  "rows": [
+   [
+    "Ráže",
+    "7,65 mm Browning"
+   ],
+   [
+    "Hmotnost",
+    "≈ 1,3 kg"
+   ],
+   [
+    "Délka",
+    "27 cm (složený)"
+   ],
+   [
+    "Kadence",
+    "≈ 850 ran/min"
+   ],
+   [
+    "Zásobník",
+    "10 / 20 nábojů"
+   ]
+  ],
+  "stamp": "Zavedeno 1961"
+ },
+ {
+  "id": "g_users",
+  "kind": "compare",
+  "dur": 9,
+  "label": "Mezi pistolí a samopalem",
+  "names": [
+   "Pistole",
+   "Sa vz. 58"
+  ],
+  "rows": [
+   [
+    "Velikost",
+    "malá",
+    "velký",
+    null
+   ],
+   [
+    "Palebná síla",
+    "slabá",
+    "silná",
+    1
+   ],
+   [
+    "Pro řidiče a spojaře",
+    "málo",
+    "překáží",
+    null
+   ]
+  ]
+ },
+ {
+  "id": "g_timeline",
+  "kind": "timeline",
+  "dur": 9,
+  "label": "Osobní obranná zbraň",
+  "title": "Škorpion předběhl dobu",
+  "events": [
+   [
+    1961,
+    "Škorpion vz. 61"
+   ],
+   [
+    "80. léta",
+    "NATO hledá PDW"
+   ],
+   [
+    1990,
+    "FN P90"
+   ],
+   [
+    2001,
+    "HK MP7"
+   ],
+   [
+    2009,
+    "CZ Scorpion EVO 3"
+   ]
+  ]
+ }
+]

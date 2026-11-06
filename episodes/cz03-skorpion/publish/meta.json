@@ -1,0 +1,23 @@
+{
+ "lang": "cs",
+ "tagline": "Skutečná historie zbraní, se zdroji.",
+ "compact_credits": true,
+ "credits_file": "episodes/cz03-skorpion/publish/creditos_completos.txt",
+ "intro": "Pro koho vlastně vznikl samopal Škorpion vz. 61? Malá zbraň ze Strakonic nebyla navržena pro speciální jednotky ani agenty, ale pro řidiče, tankisty a spojaře – o dvacet let dřív, než svět vymyslel pojem osobní obranná zbraň.\n\nVideo je historický dokument založený na publikovaných zdrojích. Nejde o návod k výrobě ani úpravám zbraní. Některé scény jsou ilustrace vytvořené AI.",
+ "chapters": [
+  "Zbraň do kapsy",
+  "Armáda za frontou",
+  "Miroslav Rybář",
+  "Tajemství rukojeti",
+  "Ve službě a ve světě",
+  "Temná kapitola",
+  "Předběhl dobu",
+  "Návrat jména",
+  "Odpověď"
+ ],
+ "sources": [
+  "Wikipedia (cs/en): Samopal vz. 61 Škorpion; CZ Scorpion EVO 3; Personal defense weapon",
+  "Česká zbrojovka a.s.: historie",
+  "Vojenský historický ústav Praha"
+ ]
+}

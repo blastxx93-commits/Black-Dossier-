@@ -1,0 +1,198 @@
+{
+ "defaults": {
+  "n": 5,
+  "sources": [
+   "commons",
+   "openverse",
+   "loc"
+  ]
+ },
+ "shots": [
+  {
+   "id": "skorpion",
+   "query": "Škorpion vz. 61",
+   "alt": [
+    "vz. 61 Skorpion",
+    "Skorpion submachine gun",
+    "Sa vz. 61",
+    "Samopal vz. 61"
+   ],
+   "n": 15
+  },
+  {
+   "id": "skorpion_museum",
+   "query": "Škorpion museum",
+   "alt": [
+    "vz 61 museum",
+    "Skorpion vz 61 display",
+    "Skorpion folding stock"
+   ],
+   "n": 8
+  },
+  {
+   "id": "skorpion_holster",
+   "query": "Skorpion holster",
+   "alt": [
+    "vz. 61 holster",
+    "Skorpion magazine"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m84",
+   "query": "Zastava M84",
+   "alt": [
+    "M84 Skorpion",
+    "Zastava Skorpion"
+   ],
+   "n": 5
+  },
+  {
+   "id": "evo3",
+   "query": "CZ Scorpion EVO 3",
+   "alt": [
+    "Scorpion EVO 3 A1",
+    "CZ Scorpion Evo"
+   ],
+   "n": 10
+  },
+  {
+   "id": "vz58_army",
+   "query": "Czechoslovak army",
+   "alt": [
+    "Československá lidová armáda",
+    "ČSLA cvičení",
+    "Czechoslovak soldiers"
+   ],
+   "n": 10
+  },
+  {
+   "id": "tank_crew",
+   "query": "tank crew",
+   "alt": [
+    "tankisté",
+    "T-55 tank crew",
+    "tank hatch soldier"
+   ],
+   "n": 8
+  },
+  {
+   "id": "radio_operator",
+   "query": "military radio operator",
+   "alt": [
+    "army signaller radio",
+    "field radio soldier"
+   ],
+   "n": 6
+  },
+  {
+   "id": "army_truck",
+   "query": "military truck Tatra",
+   "alt": [
+    "Tatra 138 army",
+    "Praga V3S",
+    "army trucks convoy"
+   ],
+   "n": 8
+  },
+  {
+   "id": "strakonice",
+   "query": "Strakonice",
+   "alt": [
+    "ČZ Strakonice",
+    "Strakonice hrad",
+    "ČZ motorcycle"
+   ],
+   "n": 8
+  },
+  {
+   "id": "uh_brod",
+   "query": "Česká zbrojovka Uherský Brod",
+   "alt": [
+    "Uherský Brod"
+   ],
+   "n": 5
+  },
+  {
+   "id": "p90",
+   "query": "FN P90",
+   "alt": [
+    "P90 personal defense weapon"
+   ],
+   "n": 5
+  },
+  {
+   "id": "mp7",
+   "query": "HK MP7",
+   "alt": [
+    "MP7 submachine gun"
+   ],
+   "n": 5
+  },
+  {
+   "id": "yugoslav_war",
+   "query": "Yugoslav wars 1991",
+   "alt": [
+    "Vukovar 1991",
+    "Bosnian war soldiers",
+    "Sarajevo 1992"
+   ],
+   "n": 10
+  },
+  {
+   "id": "italy_70s",
+   "query": "Italy 1970s",
+   "alt": [
+    "Rome 1978",
+    "Italian police 1970s",
+    "Years of Lead"
+   ],
+   "n": 8
+  },
+  {
+   "id": "czech_police",
+   "query": "Policie České republiky",
+   "alt": [
+    "Czech police special unit",
+    "URNA"
+   ],
+   "n": 8
+  },
+  {
+   "id": "vb_police",
+   "query": "Veřejná bezpečnost",
+   "alt": [
+    "Czechoslovak police 1970s",
+    "VB policie"
+   ],
+   "n": 5
+  },
+  {
+   "id": "weapons_museum",
+   "query": "Military museum small arms",
+   "alt": [
+    "Vojenské historické muzeum zbraně",
+    "army museum submachine guns"
+   ],
+   "n": 8
+  },
+  {
+   "id": "pistol_32acp",
+   "query": "7.65mm Browning",
+   "alt": [
+    ".32 ACP cartridge",
+    "7,65 Browning"
+   ],
+   "n": 4
+  },
+  {
+   "id": "cold_war_border",
+   "query": "Iron Curtain border",
+   "alt": [
+    "železná opona",
+    "Berlin Wall 1961"
+   ],
+   "n": 6
+  }
+ ]
+}

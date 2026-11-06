@@ -1,0 +1,93 @@
+{
+ "model": "black-forest-labs/flux-1.1-pro-ultra",
+ "raw": true,
+ "n": 1,
+ "style": ", photorealistic historical documentary image, cinematic lighting, muted warm colours, fine film grain, realistic period detail, no readable text, no logos",
+ "shots": [
+  {
+   "id": "ai_driver_cab",
+   "prompt": "A 1960s Czechoslovak army truck driver seen from behind inside a cramped truck cab, a small compact submachine gun in a holster on his belt, forest road ahead"
+  },
+  {
+   "id": "ai_tank_hatch",
+   "prompt": "A 1960s tank crewman seen from behind climbing out of a tank hatch, a tiny compact weapon on his belt, muddy field"
+  },
+  {
+   "id": "ai_signaller",
+   "prompt": "A 1960s Czechoslovak army signaller seen from behind carrying a heavy field radio backpack with antenna in a forest"
+  },
+  {
+   "id": "ai_rybar_desk",
+   "prompt": "A 1959 small arms design office in Strakonice, an engineer in a white shirt seen from behind drawing a compact submachine gun on a drafting board"
+  },
+  {
+   "id": "ai_prototype",
+   "prompt": "A compact steel submachine gun prototype with a folding wire stock lying on a workshop bench next to files and calipers, 1960, warm light"
+  },
+  {
+   "id": "ai_grip_mechanism",
+   "prompt": "Macro close-up of a small spring and weight mechanism inside a pistol grip of a compact firearm, cutaway view on parchment with faint technical drawing"
+  },
+  {
+   "id": "ai_holster_belt",
+   "prompt": "A leather holster with a compact submachine gun on a soldier's belt, close-up, olive uniform, 1960s"
+  },
+  {
+   "id": "ai_staff_officer",
+   "prompt": "A 1960s staff officer seen from behind at a map table in a command tent, a compact weapon in holster on his belt"
+  },
+  {
+   "id": "ai_ambush_column",
+   "prompt": "A 1950s military supply truck column on a forest road under smoke, seen from a distance, tense"
+  },
+  {
+   "id": "ai_police_70s",
+   "prompt": "A 1970s Czechoslovak police patrol seen from behind on a city street at night, old police car"
+  },
+  {
+   "id": "ai_coat_hidden",
+   "prompt": "A man in a 1970s trench coat seen from behind walking down a rainy European street at night, hands in pockets, mysterious"
+  },
+  {
+   "id": "ai_rome_70s",
+   "prompt": "A 1970s Rome street with parked Fiat cars and police cordon tape, overcast, seen from a distance, no people close"
+  },
+  {
+   "id": "ai_newspaper_stack",
+   "prompt": "A stack of 1970s newspapers on a kiosk counter, blurred headlines, no readable text"
+  },
+  {
+   "id": "ai_border_smuggle",
+   "prompt": "A car being searched at a 1980s European border checkpoint at night, customs officers seen from behind"
+  },
+  {
+   "id": "ai_warehouse_90s",
+   "prompt": "An abandoned 1990s military warehouse with open crates of small arms, dust, dim light"
+  },
+  {
+   "id": "ai_balkan_ruins",
+   "prompt": "A ruined 1990s Balkan town street with damaged buildings, seen from a distance, overcast, no people"
+  },
+  {
+   "id": "ai_modern_smg",
+   "prompt": "A modern polymer compact submachine gun with rails lying on a dark table, studio product light"
+  },
+  {
+   "id": "ai_gamer",
+   "prompt": "A young person seen from behind playing a war video game on a large screen in a dark room, screen glow, no readable text"
+  },
+  {
+   "id": "ai_collector",
+   "prompt": "A collector's wall display with several Cold War compact submachine guns, warm lamp light"
+  },
+  {
+   "id": "ai_motorcycle_factory",
+   "prompt": "A 1950s motorcycle factory hall in South Bohemia with rows of motorcycles being assembled, workers seen from behind"
+  },
+  {
+   "id": "thumb_a",
+   "prompt": "A Czechoslovak Skorpion vz. 61 compact machine pistol with a folded wire shoulder stock over the top, short barrel, small curved magazine in front of the trigger guard and brown grip, photorealistic studio product render on cream aged parchment with faint pencil blueprint drawings of it behind, soft shadow, large empty space at the top",
+   "raw": false
+  }
+ ]
+}

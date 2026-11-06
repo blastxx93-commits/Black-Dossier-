@@ -1,0 +1,160 @@
+{
+ "defaults": {
+  "n": 5,
+  "clip": 8,
+  "per_film": 2
+ },
+ "shots": [
+  {
+   "id": "s_army_vehicle",
+   "query": "army truck",
+   "alt": [
+    "military vehicle",
+    "tank driving",
+    "armored vehicle"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "commons"
+   ],
+   "n": 6
+  },
+  {
+   "id": "s_radio",
+   "query": "military radio",
+   "alt": [
+    "soldier radio",
+    "walkie talkie soldier"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "commons"
+   ],
+   "n": 6
+  },
+  {
+   "id": "s_police",
+   "query": "police",
+   "alt": [
+    "police patrol",
+    "police special forces"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "commons"
+   ],
+   "n": 6
+  },
+  {
+   "id": "s_range",
+   "query": "shooting range",
+   "alt": [
+    "target practice",
+    "shooting targets"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "commons"
+   ],
+   "n": 6
+  },
+  {
+   "id": "s_night_city",
+   "query": "night city street",
+   "alt": [
+    "dark alley night",
+    "rainy street night"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "commons"
+   ],
+   "n": 6
+  },
+  {
+   "id": "s_war_ruins",
+   "query": "war ruins",
+   "alt": [
+    "destroyed city",
+    "ruins smoke"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "commons"
+   ],
+   "n": 6
+  },
+  {
+   "id": "s_prague",
+   "query": "Prague",
+   "alt": [
+    "Prague old town",
+    "Czech town"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "commons"
+   ],
+   "n": 6
+  },
+  {
+   "id": "s_factory",
+   "query": "metal factory",
+   "alt": [
+    "machining metal",
+    "lathe"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "commons"
+   ],
+   "n": 6
+  },
+  {
+   "id": "c_czech_army",
+   "query": "Czechoslovakia",
+   "alt": [
+    "Czech army",
+    "Prague"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1958,
+    1980
+   ],
+   "sources": [
+    "archive"
+   ],
+   "n": 4
+  },
+  {
+   "id": "c_italy_terror",
+   "query": "Italy terrorism",
+   "alt": [
+    "Aldo Moro",
+    "Rome police"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1958,
+    1980
+   ],
+   "sources": [
+    "archive"
+   ],
+   "n": 4
+  }
+ ]
+}
