@@ -1,0 +1,10 @@
+provedor: eleven, modelo: eleven_multilingual_v2
+Traceback (most recent call last):
+  File "/home/runner/work/Black-Dossier-/Black-Dossier-/main/agent/tts.py", line 120, in <module>
+    main()
+  File "/home/runner/work/Black-Dossier-/Black-Dossier-/main/agent/tts.py", line 109, in main
+    wav = eleven_synth(key, voice, model, text) if provider == "eleven" else synth(key, voice, model, text, a.speed)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Black-Dossier-/Black-Dossier-/main/agent/tts.py", line 70, in eleven_synth
+    raise RuntimeError(f"ElevenLabs {r.status_code}: {r.text[:300]}")
+RuntimeError: ElevenLabs 403: {"detail":{"type":"authorization_error","code":"subscription_required","message":"Output format 'pcm_44100' is only available on the Pro tier and above.","status":"output_format_not_allowed","request_id":"101a4783d8a5bdc18273eb49d93cda1c"}}
