@@ -170,7 +170,7 @@ def photo(folder, n, move="in", cap=None):
 def credit(path):
     r = CREDITS.get(path, {})
     a = (r.get("author") or "").strip()
-    return f"{'Foto' if CFG.get('lang') == 'es' else 'Photo'}: {a[:40]} · {(r.get('license') or '').strip()}" if a else ""
+    return f"{ {'es': 'Foto', 'cs': 'Foto'}.get(CFG.get('lang'), 'Photo') }: {a[:40]} · {(r.get('license') or '').strip()}" if a else ""
 
 
 # ---------------------------------------------------------------- graphics

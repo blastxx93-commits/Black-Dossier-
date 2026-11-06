@@ -1,0 +1,26 @@
+{
+ "lang": "cs",
+ "tagline": "Skutečná historie zbraní, se zdroji.",
+ "compact_credits": true,
+ "credits_file": "episodes/cz01-vz58/publish/creditos_completos.txt",
+ "other_line": "Archivní záběry: Universal Newsreels a Prelinger Archives (volné dílo, Internet Archive) a Wikimedia Commons. Některé scény jsou ilustrace vytvořené AI, nikoli skutečné záběry.",
+ "intro": "Proč si Československo jako jediná země Varšavské smlouvy dovolilo odmítnout kalašnikov? V tomto dokumentu se podíváme na příběh samopalu vzor 58 – zbraně, která navenek připomíná AK, ale uvnitř s ním nemá téměř nic společného.\n\nOd sporu o náboj s Moskvou a konstruktérů z brněnské Konstrukty přes sklopný uzamykací klín, krátký píst a úderník až po výrobu v Uherském Brodě, noc 21. srpna 1968, export do celého světa a návrat na ukrajinskou frontu.\n\nProč osmapadesátka nikdy nezmizela – a je to opravdu kopie kalašnikova?\n\nVideo je historický dokument založený na publikovaných zdrojích. Nejde o návod k výrobě ani úpravám zbraní. Některé scény jsou ilustrace vytvořené AI.",
+ "chapters": [
+  "Noc, kdy nikdo nevystřelil",
+  "Moskva chce jednotu",
+  "Projekt Koště",
+  "Pod krytem závěru",
+  "Osmapadesátka ve službě",
+  "Srpen 1968",
+  "Zbraň pro celý svět",
+  "BREN a Ukrajina",
+  "Kopie, nebo originál?"
+ ],
+ "sources": [
+  "Wikipedia (cs/en): Samopal vzor 58; vz. 52; Sa vz. 23",
+  "Vojenský historický ústav Praha – sbírka ručních zbraní",
+  "Ústav pro studium totalitních režimů: Oběti okupace 1968",
+  "Armáda ČR: zavedení CZ 805 BREN (2011) a CZ BREN 2",
+  "Zprávy ČTK a iROZHLAS o dodávkách zbraní na Ukrajinu (2022)"
+ ]
+}

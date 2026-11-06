@@ -34,7 +34,8 @@ CHANNEL = os.environ.get("AUS_CHANNEL", "")
 # on-screen labels per channel language (env CHANNEL_LANG, set by the render workflow from episodes/<ep>/lang.txt)
 LANG = os.environ.get("CHANNEL_LANG", "en").strip() or "en"
 LBL = {"en": {"source": "SOURCE: ", "sub": "SUBSCRIBE", "subbed": "SUBSCRIBED"},
-       "es": {"source": "FUENTE: ", "sub": "SUSCRÍBETE", "subbed": "SUSCRITO"}}.get(LANG) or {"source": "SOURCE: ", "sub": "SUBSCRIBE", "subbed": "SUBSCRIBED"}
+       "es": {"source": "FUENTE: ", "sub": "SUSCRÍBETE", "subbed": "SUSCRITO"},
+       "cs": {"source": "ZDROJ: ", "sub": "ODEBÍRAT", "subbed": "ODEBÍRÁTE"}}.get(LANG) or {"source": "SOURCE: ", "sub": "SUBSCRIBE", "subbed": "SUBSCRIBED"}
 
 
 # ---------------------------------------------------------------- motion helpers (sub-pixel, no jitter)

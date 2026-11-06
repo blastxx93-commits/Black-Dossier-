@@ -23,6 +23,11 @@ L = {"tag": "Historia real, con fuentes." if ES else "Real 2026 news. No rumours
      "music": "Música: pista original." if ES else "Music: original track.",
      "full": ("Créditos completos de cada foto, con enlace: en los primeros comentarios del vídeo." if ES
               else "Full photo credits with links: see the pinned comment.")}
+if meta.get("lang") == "cs":
+    L = {"tag": "Skutečná historie zbraní, se zdroji.", "ch": "KAPITOLY", "src": "Zdroje:",
+         "cred": "Autoři fotografií (Wikimedia Commons):",
+         "other": "Další fotografie a archivní záběry: {} (svobodné licence). Některé scény jsou ilustrace vytvořené AI, nikoli skutečné záběry.",
+         "music": "Hudba: původní skladba.", "full": "Kompletní seznam autorů fotografií s odkazy: v připnutém komentáři."}
 out = [meta["intro"].strip(), "", meta.get("tagline", L["tag"]), "", L["ch"]]
 t = 0.0
 used = []
