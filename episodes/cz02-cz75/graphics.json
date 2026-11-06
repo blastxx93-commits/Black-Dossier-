@@ -1,0 +1,97 @@
+[
+ {
+  "id": "g_spec",
+  "kind": "spec",
+  "dur": 10,
+  "title": "CZ 75",
+  "sub": "Josef a František Koucký · Uherský Brod",
+  "rows": [
+   [
+    "Ráže",
+    "9 × 19 mm"
+   ],
+   [
+    "Zásobník",
+    "15 nábojů"
+   ],
+   [
+    "Spoušť",
+    "dvojčinná"
+   ],
+   [
+    "Závěr",
+    "vedený uvnitř rámu"
+   ],
+   [
+    "Rok",
+    "1975"
+   ]
+  ],
+  "stamp": "Export"
+ },
+ {
+  "id": "g_compare",
+  "kind": "compare",
+  "dur": 9,
+  "label": "Vzor a následovník",
+  "names": [
+   "Browning HP",
+   "CZ 75"
+  ],
+  "rows": [
+   [
+    "Rok",
+    "1935",
+    "1975",
+    null
+   ],
+   [
+    "Zásobník",
+    "13",
+    "15",
+    1
+   ],
+   [
+    "Spoušť",
+    "jednočinná",
+    "dvojčinná",
+    1
+   ],
+   [
+    "Závěr",
+    "vně rámu",
+    "uvnitř rámu",
+    null
+   ]
+  ]
+ },
+ {
+  "id": "g_clones",
+  "kind": "timeline",
+  "dur": 9,
+  "label": "Kopie po celém světě",
+  "title": "Rodina CZ 75",
+  "events": [
+   [
+    1975,
+    "originál, Uherský Brod"
+   ],
+   [
+    "80. léta",
+    "Tanfoglio, Itálie"
+   ],
+   [
+    "1990",
+    "Jericho, Izrael"
+   ],
+   [
+    "90. léta",
+    "Sphinx, Švýcarsko"
+   ],
+   [
+    "2000+",
+    "Turecko, Čína"
+   ]
+  ]
+ }
+]

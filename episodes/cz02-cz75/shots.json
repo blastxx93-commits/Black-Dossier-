@@ -1,0 +1,256 @@
+{
+ "defaults": {
+  "n": 5,
+  "sources": [
+   "commons",
+   "openverse",
+   "loc"
+  ]
+ },
+ "shots": [
+  {
+   "id": "cz75",
+   "query": "CZ 75",
+   "alt": [
+    "CZ 75 B",
+    "CZ 75 pistol",
+    "CZ75 9mm",
+    "CZ 75 short rail"
+   ],
+   "n": 15
+  },
+  {
+   "id": "cz75_compact",
+   "query": "CZ 75 Compact",
+   "alt": [
+    "CZ 75 D PCR",
+    "CZ P-01",
+    "CZ 75 P-01"
+   ],
+   "n": 8
+  },
+  {
+   "id": "cz_shadow",
+   "query": "CZ 75 SP-01 Shadow",
+   "alt": [
+    "CZ Shadow 2",
+    "CZ 75 Shadow pistol"
+   ],
+   "n": 8
+  },
+  {
+   "id": "cz75_field",
+   "query": "CZ 75 disassembled",
+   "alt": [
+    "CZ 75 field strip",
+    "CZ 75 slide frame",
+    "CZ 75 magazine"
+   ],
+   "n": 6
+  },
+  {
+   "id": "hi_power",
+   "query": "Browning Hi-Power",
+   "alt": [
+    "Browning HP pistol",
+    "FN High Power",
+    "Browning Hi Power 1935"
+   ],
+   "n": 8
+  },
+  {
+   "id": "tanfoglio",
+   "query": "Tanfoglio",
+   "alt": [
+    "Tanfoglio TZ75",
+    "EAA Witness pistol",
+    "Tanfoglio Force"
+   ],
+   "n": 6
+  },
+  {
+   "id": "jericho",
+   "query": "Jericho 941",
+   "alt": [
+    "IWI Jericho",
+    "Baby Eagle pistol"
+   ],
+   "n": 6
+  },
+  {
+   "id": "sphinx",
+   "query": "Sphinx AT-380",
+   "alt": [
+    "ITM AT 84",
+    "Sphinx 3000 pistol",
+    "Sphinx pistol"
+   ],
+   "n": 5
+  },
+  {
+   "id": "canik",
+   "query": "Canik pistol",
+   "alt": [
+    "Canik TP9",
+    "Sarsılmaz pistol",
+    "Turkish pistol"
+   ],
+   "n": 5
+  },
+  {
+   "id": "nz75",
+   "query": "Norinco NZ75",
+   "alt": [
+    "Norinco pistol"
+   ],
+   "n": 3
+  },
+  {
+   "id": "vz52_pistol",
+   "query": "Pistole vz. 52",
+   "alt": [
+    "CZ 52 pistol",
+    "vz 52 pistol 7.62"
+   ],
+   "n": 6
+  },
+  {
+   "id": "makarov",
+   "query": "Makarov pistol",
+   "alt": [
+    "Makarov PM",
+    "Pistolet Makarova"
+   ],
+   "n": 5
+  },
+  {
+   "id": "vz27",
+   "query": "Pistole vz. 27",
+   "alt": [
+    "CZ vz. 27",
+    "vz. 24 pistol",
+    "CZ 38 pistol"
+   ],
+   "n": 6
+  },
+  {
+   "id": "vz82",
+   "query": "CZ 82",
+   "alt": [
+    "Pistole vz. 82",
+    "CZ 83 pistol"
+   ],
+   "n": 5
+  },
+  {
+   "id": "cz_p07",
+   "query": "CZ P-07",
+   "alt": [
+    "CZ P-10 C",
+    "CZ P-09"
+   ],
+   "n": 5
+  },
+  {
+   "id": "cz_factory",
+   "query": "Česká zbrojovka Uherský Brod",
+   "alt": [
+    "CZ Uherský Brod",
+    "Česká zbrojovka factory"
+   ],
+   "n": 6
+  },
+  {
+   "id": "uh_brod",
+   "query": "Uherský Brod",
+   "alt": [
+    "Uherský Brod náměstí",
+    "Uherský Brod town"
+   ],
+   "n": 5
+  },
+  {
+   "id": "ipsc",
+   "query": "IPSC shooting",
+   "alt": [
+    "practical shooting competition",
+    "IPSC pistol match",
+    "shooting competition pistol"
+   ],
+   "n": 12
+  },
+  {
+   "id": "police_cz",
+   "query": "Policie České republiky",
+   "alt": [
+    "Czech police officers",
+    "Czech police"
+   ],
+   "n": 6
+  },
+  {
+   "id": "czech_army_pistol",
+   "query": "Czech army pistol",
+   "alt": [
+    "Armáda ČR pistole",
+    "Czech soldier pistol"
+   ],
+   "n": 5
+  },
+  {
+   "id": "prague_70s",
+   "query": "Prague 1970s",
+   "alt": [
+    "Praha 1975",
+    "Czechoslovakia 1970s",
+    "Prague 1980"
+   ],
+   "n": 10
+  },
+  {
+   "id": "velvet",
+   "query": "Velvet Revolution 1989",
+   "alt": [
+    "Sametová revoluce",
+    "Prague November 1989"
+   ],
+   "n": 6
+  },
+  {
+   "id": "colt",
+   "query": "Colt's Manufacturing Company",
+   "alt": [
+    "Colt factory Hartford",
+    "Colt pistol"
+   ],
+   "n": 5
+  },
+  {
+   "id": "jeff_cooper",
+   "query": "Jeff Cooper",
+   "alt": [
+    "Gunsite Academy"
+   ],
+   "n": 3
+  },
+  {
+   "id": "gun_show",
+   "query": "gun show",
+   "alt": [
+    "gun store pistols",
+    "firearms exhibition",
+    "IWA OutdoorClassics"
+   ],
+   "n": 8
+  },
+  {
+   "id": "ammo_9mm",
+   "query": "9mm Parabellum",
+   "alt": [
+    "9×19mm Parabellum",
+    "9mm ammunition"
+   ],
+   "n": 5
+  }
+ ]
+}

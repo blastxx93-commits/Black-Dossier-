@@ -1,0 +1,177 @@
+{
+ "defaults": {
+  "n": 5,
+  "clip": 8,
+  "per_film": 2
+ },
+ "shots": [
+  {
+   "id": "s_pistol_range",
+   "query": "pistol shooting range",
+   "alt": [
+    "handgun shooting",
+    "pistol target practice",
+    "shooter pistol"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "commons"
+   ],
+   "n": 6
+  },
+  {
+   "id": "s_pistol_closeup",
+   "query": "pistol close up",
+   "alt": [
+    "handgun detail",
+    "pistol slide",
+    "gun table"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "commons"
+   ],
+   "n": 6
+  },
+  {
+   "id": "s_competition",
+   "query": "shooting competition",
+   "alt": [
+    "practical shooting",
+    "IPSC",
+    "shooting sport"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "commons"
+   ],
+   "n": 6
+  },
+  {
+   "id": "s_police",
+   "query": "police training",
+   "alt": [
+    "police officers",
+    "police car night"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "commons"
+   ],
+   "n": 6
+  },
+  {
+   "id": "s_factory",
+   "query": "metal factory machine",
+   "alt": [
+    "cnc milling metal",
+    "lathe steel",
+    "machining"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "commons"
+   ],
+   "n": 6
+  },
+  {
+   "id": "s_prague",
+   "query": "Prague",
+   "alt": [
+    "Prague old town",
+    "Prague aerial"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "commons"
+   ],
+   "n": 6
+  },
+  {
+   "id": "s_money",
+   "query": "dollar bills",
+   "alt": [
+    "money counting",
+    "cash dollars"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "commons"
+   ],
+   "n": 6
+  },
+  {
+   "id": "s_cargo",
+   "query": "cargo port",
+   "alt": [
+    "container ship",
+    "shipping port"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "commons"
+   ],
+   "n": 6
+  },
+  {
+   "id": "s_ammo",
+   "query": "ammunition",
+   "alt": [
+    "bullets",
+    "9mm bullets"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "commons"
+   ],
+   "n": 6
+  },
+  {
+   "id": "c_czechoslovakia",
+   "query": "Czechoslovakia",
+   "alt": [
+    "Prague",
+    "Czech"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1960,
+    1975
+   ],
+   "sources": [
+    "archive"
+   ],
+   "n": 4
+  },
+  {
+   "id": "c_iron_curtain",
+   "query": "Iron Curtain",
+   "alt": [
+    "border guards",
+    "Berlin wall"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1960,
+    1975
+   ],
+   "sources": [
+    "archive"
+   ],
+   "n": 4
+  }
+ ]
+}

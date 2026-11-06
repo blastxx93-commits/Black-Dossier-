@@ -1,0 +1,113 @@
+{
+ "model": "black-forest-labs/flux-1.1-pro-ultra",
+ "raw": true,
+ "n": 1,
+ "style": ", photorealistic historical documentary image, cinematic lighting, muted warm colours, fine film grain, realistic period detail, no readable text, no logos",
+ "shots": [
+  {
+   "id": "ai_brothers_office",
+   "prompt": "Two engineers in white shirts seen from behind working over a drafting table with pistol technical drawings in a 1970 Czechoslovak design office, desk lamp, no faces"
+  },
+  {
+   "id": "ai_drafting_pistol",
+   "prompt": "Close-up of a 1970s technical pencil drawing of a semi-automatic pistol side view on a drafting table, compass and ruler, no readable text"
+  },
+  {
+   "id": "ai_prototype_bench",
+   "prompt": "A steel pistol prototype partly assembled on a workshop bench with files and calipers, 1970s workshop, warm light"
+  },
+  {
+   "id": "ai_test_range_70s",
+   "prompt": "A 1970s factory test range, a worker in a grey coat seen from behind firing a pistol at a paper target, ear defenders"
+  },
+  {
+   "id": "ai_assembly_70s",
+   "prompt": "1970s pistol assembly line in a Moravian factory, workers in coats seen from behind, steel frames on tables"
+  },
+  {
+   "id": "ai_export_crates",
+   "prompt": "Wooden export crates in a 1970s warehouse, forklift, seen from a distance, no readable text"
+  },
+  {
+   "id": "ai_hard_currency",
+   "prompt": "US dollar bills and a Czechoslovak trade contract on a 1970s office desk, typewriter, no readable text"
+  },
+  {
+   "id": "ai_customs_border",
+   "prompt": "A 1970s customs checkpoint at an Iron Curtain border at night, barrier gate, watchtower, seen from a distance"
+  },
+  {
+   "id": "ai_gun_magazine_70s",
+   "prompt": "A stack of 1980s gun magazines and a steel pistol on a coffee table, warm lamp light, no readable text"
+  },
+  {
+   "id": "ai_us_gun_store",
+   "prompt": "A 1980s American gun store interior with glass counters full of pistols, seen from behind a customer, no readable text"
+  },
+  {
+   "id": "ai_patent_office",
+   "prompt": "An old patent office archive with tall shelves of folders and a clerk seen from behind, 1970s, no readable text"
+  },
+  {
+   "id": "ai_italy_workshop",
+   "prompt": "A small Italian gunsmith workshop in the 1980s, a craftsman seen from behind machining a pistol slide, Alpine town outside the window"
+  },
+  {
+   "id": "ai_swiss_precision",
+   "prompt": "A precise Swiss workshop, a pistol frame on a measuring table with micrometer, clean bright light"
+  },
+  {
+   "id": "ai_frame_rails",
+   "prompt": "Macro close-up of a steel pistol slide riding inside the frame rails, machined steel, oil, studio light on parchment"
+  },
+  {
+   "id": "ai_low_bore",
+   "prompt": "A steel pistol held in a firm two-hand grip, side view, hands only, indoor range, no face"
+  },
+  {
+   "id": "ai_magazine15",
+   "prompt": "A double-stack pistol magazine loaded with brass 9mm cartridges standing on parchment with faint technical drawings"
+  },
+  {
+   "id": "ai_revolver_vs",
+   "prompt": "A six-shot revolver and a steel semi-automatic pistol side by side on a wooden table, warm light"
+  },
+  {
+   "id": "ai_shooter_competition",
+   "prompt": "A practical shooting competitor seen from behind moving between barricades with a pistol, outdoor range, motion"
+  },
+  {
+   "id": "ai_medals",
+   "prompt": "Shooting competition medals and a steel pistol on a table, celebration, soft light"
+  },
+  {
+   "id": "ai_collector_case",
+   "prompt": "A collector's display case with several steel pistols on velvet, warm museum light, no readable text"
+  },
+  {
+   "id": "ai_velvet_keys",
+   "prompt": "A crowd in a winter city square in November 1989 ringing keys, seen from behind, evening"
+  },
+  {
+   "id": "ai_factory_90s",
+   "prompt": "A 1990s arms factory hall modernising, new machines arriving, workers seen from behind"
+  },
+  {
+   "id": "ai_police_holster",
+   "prompt": "A Czech police officer seen from behind with a pistol in a holster, patrol car, city street"
+  },
+  {
+   "id": "ai_hartford",
+   "prompt": "A historic red-brick factory with a blue onion dome in an American city at dusk, seen from a distance"
+  },
+  {
+   "id": "ai_world_map_pins",
+   "prompt": "An old world map on a wall with pins and strings connecting countries, office, warm light, no readable text"
+  },
+  {
+   "id": "thumb_a",
+   "prompt": "A Czech CZ 75 9mm steel pistol with black finish, rounded trigger guard, slim slide riding inside the frame rails and checkered grips, lying sideways, photorealistic studio product render on cream aged parchment with faint pencil blueprint drawings of the pistol behind it, soft shadow, large empty space at the top",
+   "raw": false
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "lang": "cs",
+ "tagline": "Skutečná historie zbraní, se zdroji.",
+ "compact_credits": true,
+ "credits_file": "episodes/cz02-cz75/publish/creditos_completos.txt",
+ "intro": "Proč pistoli CZ 75 z Uherského Brodu kopírovali výrobci po celém světě – od Itálie a Izraele přes Švýcarsko až po Turecko a Čínu? Příběh exportní zbraně komunistického Československa, kterou obdivoval Západ, ale kterou nikdo nechránil patentem.\n\nVideo je historický dokument založený na publikovaných zdrojích. Nejde o návod k výrobě ani úpravám zbraní. Některé scény jsou ilustrace vytvořené AI.",
+ "chapters": [
+  "Pistole za železnou oponou",
+  "Západní náboj, východní stát",
+  "Bratři Kouckých",
+  "Tajemství rámu",
+  "Studená válka a dolary",
+  "Bez patentu",
+  "Proč právě CZ 75",
+  "Po roce 1989",
+  "Odpověď"
+ ],
+ "sources": [
+  "Wikipedia (cs/en): CZ 75; Česká zbrojovka; Tanfoglio; IWI Jericho 941",
+  "Česká zbrojovka a.s.: historie firmy",
+  "Colt CZ Group: akvizice Colt (2021)"
+ ]
+}
