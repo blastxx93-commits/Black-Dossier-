@@ -40,6 +40,15 @@ def synth(key, voice, model, text, speed):
     raise RuntimeError("Fish Audio não respondeu depois de 3 tentativas")
 
 
+ELEVEN_FMT = ["pcm_44100"]
+
+
+def mp3_to_pcm(data):
+    """MP3 bytes -> raw 44.1 kHz mono s16le PCM (same layout as ElevenLabs pcm_44100)."""
+    return subprocess.run([ffmpeg(), "-v", "error", "-i", "pipe:0", "-ac", "1", "-ar", "44100", "-f", "s16le", "-"],
+                          input=data, capture_output=True, check=True).stdout
+
+
 def eleven_synth(key, voice, model, text):
     """ElevenLabs TTS, returns 44.1 kHz 16-bit PCM WAV bytes. Splits on paragraphs (<= ~2,400 chars per call)."""
     import io, wave
@@ -61,10 +70,13 @@ def eleven_synth(key, voice, model, text):
         if i + 1 < len(chunks):
             body["next_text"] = chunks[i + 1][:1000]
         for k in range(4):
-            r = requests.post(f"https://api.elevenlabs.io/v1/text-to-speech/{voice}?output_format=pcm_44100", json=body,
+            r = requests.post(f"https://api.elevenlabs.io/v1/text-to-speech/{voice}?output_format={ELEVEN_FMT[0]}", json=body,
                               headers={"xi-api-key": key, "Content-Type": "application/json"}, timeout=600)
+            if r.status_code == 403 and "output_format" in r.text and ELEVEN_FMT[0] != "mp3_44100_192":
+                # PCM is Pro-tier only: fall back to the best MP3 the plan allows and decode it
+                ELEVEN_FMT[0] = "mp3_44100_192"; continue
             if r.status_code == 200 and r.content:
-                pcm += r.content; break
+                pcm += r.content if ELEVEN_FMT[0].startswith("pcm") else mp3_to_pcm(r.content); break
             if r.status_code in (429, 500, 502, 503) and k < 3:
                 time.sleep(20 * (k + 1)); continue
             raise RuntimeError(f"ElevenLabs {r.status_code}: {r.text[:300]}")
