@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """CZ04 Bren — how a Czechoslovak machine gun became a British legend: full edit, shots anchored to phrases.
     python3 build_cz04.py <narration_dir> > episode.json   (run from the work folder; a/ = assets/cz04-bren)
-Real material only (Replicate out of credit on 06/11), 3 HyperFrames cards.
+Footage first, AI (Replicate) only fills gaps, always last in each pool; 3 HyperFrames cards.
 """
 import json, os, sys
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -9,15 +9,16 @@ sys.path.insert(0, os.path.join(HERE, "..", "..", "..", "engine"))
 import aus_kit as A
 from aus_kit import P, ch, hf, cta
 
+AI = lambda *names: ["ai:" + n for n in names]  # noqa: E731
 PHOTOS = {
-    "bren": ["bren", "bren_l4", "museum_mg"],
-    "war": ["bren_ww2", "normandy", "bren_desert", "bren_burma", "bren_carrier"],
-    "zb": ["zb26", "holek", "museum_mg"],
-    "brno": ["zbrojovka_brno", "brno_old", "czech_bunker"],
-    "uk": ["enfield", "lewis_gun", "bren_girl"],
-    "dunkirk": ["dunkirk", "dunkirk_1945", "czech_exile"],
-    "occupation": ["protectorate", "czech_bunker"],
-    "late": ["bren_l4", "falklands", "cz_bren"],
+    "bren": ["bren", "bren_l4", "museum_mg"] + AI("ai_top_magazine", "ai_barrel_change", "ai_museum_bren"),
+    "war": ["bren_ww2", "normandy", "bren_desert", "bren_burma", "bren_carrier"] + AI("ai_desert_gunner", "ai_jungle_gunner", "ai_normandy_hedge"),
+    "zb": ["zb26", "holek", "museum_mg"] + AI("ai_holek_workshop"),
+    "brno": ["zbrojovka_brno", "brno_old", "czech_bunker"] + AI("ai_brno_factory_1920s"),
+    "uk": ["enfield", "lewis_gun", "bren_girl"] + AI("ai_trials_england", "ai_contract_1935", "ai_enfield_line", "ai_canada_women"),
+    "dunkirk": ["dunkirk", "dunkirk_1945", "czech_exile"] + AI("ai_dunkirk_beach", "ai_exile_camp", "ai_dunkirk_siege", "ai_resistance_drop"),
+    "occupation": ["protectorate", "czech_bunker"] + AI("ai_protectorate_factory", "ai_sabotage"),
+    "late": ["bren_l4", "falklands", "cz_bren"] + AI("ai_falklands", "ai_reenactors"),
 }
 CLIPS = json.load(open(os.path.join(HERE, "clips.json")))
 GENERIC = CLIPS.pop("_generic", [])

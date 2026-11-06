@@ -1,0 +1,93 @@
+{
+ "model": "black-forest-labs/flux-1.1-pro-ultra",
+ "raw": true,
+ "n": 1,
+ "style": ", photorealistic historical documentary image, cinematic lighting, muted warm colours, fine film grain, realistic period detail, no readable text, no logos, no swastikas",
+ "shots": [
+  {
+   "id": "ai_holek_workshop",
+   "prompt": "A 1920s Brno arms factory workshop, a middle-aged engineer in a work coat seen from behind adjusting a light machine gun on a bench, tools, warm window light"
+  },
+  {
+   "id": "ai_brno_factory_1920s",
+   "prompt": "Interior of a large 1920s Czechoslovak arms factory hall with rows of lathes and workers seen from behind, light machine guns on racks"
+  },
+  {
+   "id": "ai_trials_england",
+   "prompt": "1934 British army machine gun trials on a grassy range in England, officers in khaki seen from behind watching a soldier firing a light machine gun lying prone"
+  },
+  {
+   "id": "ai_barrel_change",
+   "prompt": "A soldier's gloved hands lifting a hot light machine gun barrel by its carrying handle, steam rising, close-up, 1940s"
+  },
+  {
+   "id": "ai_top_magazine",
+   "prompt": "A curved 30-round top-mounted magazine on a 1940s British light machine gun, close-up, wooden stock, warm light"
+  },
+  {
+   "id": "ai_contract_1935",
+   "prompt": "A 1935 licence agreement on a desk with fountain pen, wax seal and a small machine gun model, London office, no readable text"
+  },
+  {
+   "id": "ai_enfield_line",
+   "prompt": "A 1938 British arms factory production line with workers in brown coats seen from behind assembling light machine guns"
+  },
+  {
+   "id": "ai_canada_women",
+   "prompt": "1942 Canadian factory, women workers in headscarves seen from behind assembling light machine guns on long benches"
+  },
+  {
+   "id": "ai_dunkirk_beach",
+   "prompt": "Abandoned British military equipment on a French beach in June 1940, trucks and crates in the sand, smoke on the horizon, no people close"
+  },
+  {
+   "id": "ai_desert_gunner",
+   "prompt": "A 1942 British soldier seen from behind lying prone in the North African desert with a light machine gun, sand, heat haze"
+  },
+  {
+   "id": "ai_jungle_gunner",
+   "prompt": "A 1944 British Indian army soldier seen from behind with a light machine gun in a Burmese jungle, humid mist"
+  },
+  {
+   "id": "ai_normandy_hedge",
+   "prompt": "1944 Normandy hedgerow, British soldiers seen from behind with a light machine gun on a bipod, overcast"
+  },
+  {
+   "id": "ai_protectorate_factory",
+   "prompt": "1940 Brno factory under occupation, workers seen from behind at machines, guards in grey uniforms in the distance, grim atmosphere, no insignia visible"
+  },
+  {
+   "id": "ai_sabotage",
+   "prompt": "Close-up of a worker's hands slipping a small metal part into a pocket at a 1940s factory bench, tense, dark"
+  },
+  {
+   "id": "ai_exile_camp",
+   "prompt": "1940 camp in England, Czechoslovak exile soldiers seen from behind in British battledress cleaning light machine guns in front of tents"
+  },
+  {
+   "id": "ai_dunkirk_siege",
+   "prompt": "Winter 1944 flat Flemish coastal landscape, soldiers seen from behind in a trench with a light machine gun facing a distant port town, cold mist"
+  },
+  {
+   "id": "ai_resistance_drop",
+   "prompt": "Night, a parachute container landing in a forest clearing, resistance fighters seen from behind with lanterns, 1944"
+  },
+  {
+   "id": "ai_falklands",
+   "prompt": "1982 British soldier seen from behind on a windswept rocky island hill with a light machine gun, grey sky"
+  },
+  {
+   "id": "ai_museum_bren",
+   "prompt": "A WWII light machine gun displayed in a museum glass case with soft spotlight, dark hall"
+  },
+  {
+   "id": "ai_reenactors",
+   "prompt": "A military history fair with WWII British uniforms and light machine guns displayed on tables, visitors seen from behind, summer day"
+  },
+  {
+   "id": "thumb_a",
+   "prompt": "A British WWII Bren light machine gun with a curved top-mounted magazine, wooden butt, carrying handle and bipod, lying sideways, photorealistic studio product render on cream aged parchment with faint pencil blueprint drawings of the gun behind it, soft shadow, large empty space at the top",
+   "raw": false
+  }
+ ]
+}
