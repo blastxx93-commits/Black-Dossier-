@@ -1,0 +1,266 @@
+{
+ "model": "black-forest-labs/flux-1.1-pro-ultra",
+ "raw": true,
+ "n": 1,
+ "style": ", photorealistic historical documentary image, cinematic lighting, muted warm colours, fine film grain, realistic period detail, no readable text, no logos, no insignia close-ups",
+ "shots": [
+  {
+   "id": "ai_tanks_night_border",
+   "prompt": "Night, August 1968, a column of Soviet T-55 tanks with headlights rolling across a rural Central European border road, dust in the headlight beams, seen from a distance"
+  },
+  {
+   "id": "ai_barracks_rack",
+   "prompt": "Inside a 1960s Czechoslovak army barracks armoury, long wooden racks full of identical assault rifles with wooden stocks and curved magazines, dim light"
+  },
+  {
+   "id": "ai_soldier_window",
+   "prompt": "A 1960s Czechoslovak soldier in an olive uniform and side cap seen from behind, standing at a barracks window at night, watching distant tank headlights, rifle leaning by the wall"
+  },
+  {
+   "id": "ai_rifles_two_table",
+   "prompt": "Two assault rifles lying side by side on an old wooden workbench, both with curved magazines and wooden furniture, warm workshop lamp light, top-down view"
+  },
+  {
+   "id": "ai_engineer_drawing",
+   "prompt": "A 1950s engineer's drafting table in Brno with a large technical blueprint drawing of a rifle, pencils, slide rule, ashtray, desk lamp, no readable text"
+  },
+  {
+   "id": "ai_magazine_closeup",
+   "prompt": "Macro close-up of a curved 30-round rifle magazine made of light grey aluminium alloy with ribbed sides, on aged parchment paper with faint blueprint lines"
+  },
+  {
+   "id": "ai_warsaw_1955",
+   "prompt": "A 1955 conference hall in Warsaw, long table with delegates in dark suits seen from far behind, red flags, chandeliers, signing ceremony atmosphere"
+  },
+  {
+   "id": "ai_soviet_generals_map",
+   "prompt": "Soviet generals in 1950s uniforms gathered around a large map table of Europe, seen from behind and above, smoky room"
+  },
+  {
+   "id": "ai_supply_depot",
+   "prompt": "A 1950s Eastern bloc military supply depot, wooden ammunition crates stacked high, soldiers carrying crates, seen from a distance"
+  },
+  {
+   "id": "ai_brno_factory_1930s",
+   "prompt": "The interior of a 1930s Brno arms factory, rows of lathes and machinists in work coats, rifles on racks, sunlight through tall windows, seen from a distance"
+  },
+  {
+   "id": "ai_export_crates",
+   "prompt": "1930s export shipping crates stencilled with blank labels being loaded onto a freight train at a Czechoslovak railway station, steam"
+  },
+  {
+   "id": "ai_cartridges_compare",
+   "prompt": "Two rifle cartridges standing upright side by side on aged parchment with faint technical drawings, one slightly longer than the other, brass cases, studio light"
+  },
+  {
+   "id": "ai_vz52_render",
+   "prompt": "A 1950s Czechoslovak semi-automatic rifle with a wooden stock and a folding bayonet, photorealistic museum product shot on aged parchment with faint blueprint lines"
+  },
+  {
+   "id": "ai_rechamber_workshop",
+   "prompt": "A military armourer's workshop in the late 1950s, rifles being reworked on benches, barrels and parts in trays, warm light"
+  },
+  {
+   "id": "ai_assembly_line_ak",
+   "prompt": "A 1950s Eastern European factory assembly line producing assault rifles with wooden stocks, workers in grey coats seen from behind"
+  },
+  {
+   "id": "ai_konstrukta_office",
+   "prompt": "A 1956 design bureau office in Brno, several engineers in white shirts and ties bent over drawing boards, seen from behind, technical drawings pinned to walls"
+  },
+  {
+   "id": "ai_designer_prototype",
+   "prompt": "Hands of an engineer in a white shirt holding an unfinished prototype rifle receiver made of bare steel above a drafting table, close-up, no face"
+  },
+  {
+   "id": "ai_broom_corner",
+   "prompt": "An old straw broom leaning against a wall of a 1950s military office next to a rifle prototype on a table, ironic still life, warm light"
+  },
+  {
+   "id": "ai_archive_files",
+   "prompt": "Stacks of old 1950s government files and folders tied with string on metal archive shelves, dust in the light, no readable text"
+  },
+  {
+   "id": "ai_pride_factory_gate",
+   "prompt": "The brick gate of a Czechoslovak arms factory in the 1950s, workers arriving on bicycles in the morning mist, seen from a distance"
+  },
+  {
+   "id": "ai_trade_ship",
+   "prompt": "A 1950s cargo ship being loaded with wooden crates in a busy port at dusk, cranes, seen from a distance"
+  },
+  {
+   "id": "ai_disassembled_vz58",
+   "prompt": "A disassembled assault rifle laid out neatly on aged parchment: receiver, bolt carrier, short gas piston, magazine, springs, top-down technical layout, studio light"
+  },
+  {
+   "id": "ai_rotating_bolt",
+   "prompt": "Macro close-up of a rifle rotating bolt with locking lugs, oily steel, on parchment with faint blueprint lines"
+  },
+  {
+   "id": "ai_locking_block",
+   "prompt": "Macro close-up of a small tilting steel locking block from a rifle mechanism, machined steel, on parchment with faint blueprint lines"
+  },
+  {
+   "id": "ai_mud_test",
+   "prompt": "A rifle lying in wet mud and sand on a 1960s military test range, close-up"
+  },
+  {
+   "id": "ai_gas_piston",
+   "prompt": "Macro close-up of a short rifle gas piston and spring, machined steel parts on aged parchment with faint technical drawings"
+  },
+  {
+   "id": "ai_striker",
+   "prompt": "Macro close-up of a rifle firing pin striker and spring, polished steel on parchment"
+  },
+  {
+   "id": "ai_empty_bolt_open",
+   "prompt": "Close-up of a rifle with its bolt locked open and an empty magazine, cartridge case flying out, shooting range, 1960s"
+  },
+  {
+   "id": "ai_scale_weight",
+   "prompt": "Two rifles placed on an old brass balance scale in a museum, vintage weighing scene, warm light"
+  },
+  {
+   "id": "ai_soldier_march",
+   "prompt": "A column of 1960s Czechoslovak infantry soldiers marching along a forest road with rifles slung, seen from behind"
+  },
+  {
+   "id": "ai_parade_1958",
+   "prompt": "A 1958 military parade in a Central European city square, ranks of soldiers presenting rifles, flags, seen from a high distance"
+  },
+  {
+   "id": "ai_uh_brod_line",
+   "prompt": "A 1960s arms factory production hall in Moravia, receivers and stocks on conveyor tables, workers in coats seen from behind"
+  },
+  {
+   "id": "ai_crates_rifles",
+   "prompt": "Open wooden crates packed with new assault rifles wrapped in oiled paper, factory warehouse, 1960s"
+  },
+  {
+   "id": "ai_paratrooper_folding",
+   "prompt": "A 1960s paratrooper in a camouflage smock seen from behind, rifle with a folded metal stock slung across his chest, standing by a transport aircraft"
+  },
+  {
+   "id": "ai_apc_crew",
+   "prompt": "Crew of a 1960s armoured personnel carrier climbing out of the hatches holding compact rifles, seen from a distance, muddy field"
+  },
+  {
+   "id": "ai_stock_material",
+   "prompt": "Close-up of a rifle buttstock made of a speckled brown wood-fibre resin composite, texture detail on parchment"
+  },
+  {
+   "id": "ai_stripper_clip",
+   "prompt": "Close-up of hands pressing a 10-round stripper clip of brass cartridges into the top of an open rifle action, no face"
+  },
+  {
+   "id": "ai_bayonet",
+   "prompt": "A rifle with a fixed bayonet lying on a wooden table beside a canvas belt and canteen, 1960s military still life"
+  },
+  {
+   "id": "ai_magazine_swap_fail",
+   "prompt": "Two different curved rifle magazines side by side on a table, one aluminium grey, one steel, shown as not interchangeable"
+  },
+  {
+   "id": "ai_cleaning_rifle",
+   "prompt": "A 1960s conscript soldier seen from behind cleaning a disassembled rifle on a barracks table, oil can and rags"
+  },
+  {
+   "id": "ai_prague_tanks_dawn",
+   "prompt": "Dawn, August 1968, tanks parked in a historic Prague street with baroque buildings, crowds of civilians standing around them, seen from a distance"
+  },
+  {
+   "id": "ai_crowd_tank_flag",
+   "prompt": "Civilians holding a national flag climbing onto a tank in a 1968 city street, seen from far behind, smoke"
+  },
+  {
+   "id": "ai_barracks_gate_closed",
+   "prompt": "A closed barracks gate in 1968 Czechoslovakia, soldiers standing still behind it, tanks passing outside on the road"
+  },
+  {
+   "id": "ai_radio_1968",
+   "prompt": "An old 1960s radio receiver on a kitchen table, family hands around it, morning light, tense atmosphere"
+  },
+  {
+   "id": "ai_rifle_on_bunk",
+   "prompt": "A rifle lying unused on a neatly made army bunk bed in empty barracks, morning light"
+  },
+  {
+   "id": "ai_candles_memorial",
+   "prompt": "Candles and flowers on a pavement in a historic square at night in 1968, mourning"
+  },
+  {
+   "id": "ai_africa_patrol",
+   "prompt": "Soldiers in olive uniforms on patrol through tall savanna grass in 1970s Africa, rifles with curved magazines, seen from behind at a distance"
+  },
+  {
+   "id": "ai_jungle_patrol",
+   "prompt": "A 1970s jungle patrol, soldiers crossing a muddy river with rifles held above their heads, seen from behind"
+  },
+  {
+   "id": "ai_news_photo",
+   "prompt": "A 1970s press photographer's darkroom with prints of soldiers with rifles hanging on a line, red safelight"
+  },
+  {
+   "id": "ai_conscripts_range",
+   "prompt": "1980s conscripts lying prone on a shooting range firing rifles, instructor standing behind, seen from a distance"
+  },
+  {
+   "id": "ai_disassembly_timer",
+   "prompt": "A soldier's hands field-stripping a rifle on a table against a stopwatch, close-up, no face"
+  },
+  {
+   "id": "ai_warehouse_racks",
+   "prompt": "A huge military warehouse with endless racks of stored rifles in preservation grease, dim light"
+  },
+  {
+   "id": "ai_flag_split_1993",
+   "prompt": "Two flags on poles outside a government building at dusk in winter 1993, snow, seen from a distance"
+  },
+  {
+   "id": "ai_modern_rifle_render",
+   "prompt": "A modern modular assault rifle with rails and optic, photorealistic product shot on aged parchment with faint blueprint lines"
+  },
+  {
+   "id": "ai_modern_soldier",
+   "prompt": "A modern Czech soldier in pixel camouflage seen from behind with a modern modular rifle, training area forest"
+  },
+  {
+   "id": "ai_trucks_aid",
+   "prompt": "A convoy of military trucks loaded with crates on a highway at dusk, seen from a distance"
+  },
+  {
+   "id": "ai_trench_ukraine",
+   "prompt": "A muddy frontline trench in winter, a soldier seen from behind holding an older rifle with a curved magazine and wooden-coloured stock"
+  },
+  {
+   "id": "ai_sport_shooter",
+   "prompt": "A civilian sport shooter seen from behind at an outdoor range firing a classic semi-automatic rifle, ear protection, sunny day"
+  },
+  {
+   "id": "ai_collector_wall",
+   "prompt": "A collector's wall display of classic rifles in a private study, warm lamplight, no readable text"
+  },
+  {
+   "id": "ai_parts_mismatch",
+   "prompt": "Two different rifle bolts and carriers placed side by side on parchment, clearly different shapes, technical comparison layout"
+  },
+  {
+   "id": "ai_twins_silhouette",
+   "prompt": "Silhouettes of two assault rifles facing each other on aged parchment with blueprint lines, dramatic side lighting"
+  },
+  {
+   "id": "ai_museum_display",
+   "prompt": "A rifle displayed in a glass museum case with soft spotlight, dark museum hall"
+  },
+  {
+   "id": "ai_sunset_soldier",
+   "prompt": "A lone soldier seen from far behind on a hill at sunset with a rifle slung over his shoulder"
+  },
+  {
+   "id": "thumb_a",
+   "prompt": "A Czechoslovak vz. 58 assault rifle with a light brown speckled resin stock, a slim straight receiver cover, a curved light grey aluminium magazine and no wooden handguard on top, lying horizontally, photorealistic studio product render on cream aged parchment paper with faint pencil blueprint drawings of the rifle behind it, soft shadow, large empty space at the top for a title",
+   "raw": false,
+   "aspect": "16:9"
+  }
+ ]
+}

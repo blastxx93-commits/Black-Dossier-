@@ -1,0 +1,141 @@
+{
+ "defaults": {
+  "n": 4,
+  "clip": 8,
+  "per_film": 2,
+  "years": [
+   1945,
+   1975
+  ],
+  "sources": [
+   "archive"
+  ]
+ },
+ "shots": [
+  {
+   "id": "c_invasion68",
+   "query": "Czechoslovakia invasion 1968",
+   "alt": [
+    "Russians invade Czechoslovakia",
+    "Prague crisis 1968",
+    "Czech crisis",
+    "Soviet tanks Prague"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1968,
+    1969
+   ],
+   "n": 6
+  },
+  {
+   "id": "c_prague",
+   "query": "Prague",
+   "alt": [
+    "Czechoslovakia",
+    "Prague Czechoslovakia",
+    "Czech"
+   ],
+   "collections": [
+    "universal_newsreels",
+    "prelinger"
+   ],
+   "years": [
+    1950,
+    1969
+   ],
+   "n": 4
+  },
+  {
+   "id": "c_coldwar_army",
+   "query": "Soviet army maneuvers",
+   "alt": [
+    "Red Army parade",
+    "Warsaw Pact",
+    "Soviet military parade",
+    "communist army"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1955,
+    1969
+   ],
+   "n": 6
+  },
+  {
+   "id": "c_rifle_training",
+   "query": "rifle training",
+   "alt": [
+    "infantry training",
+    "soldiers rifle range",
+    "army rifle"
+   ],
+   "collections": [
+    "universal_newsreels",
+    "prelinger",
+    "fedflix"
+   ],
+   "years": [
+    1950,
+    1975
+   ],
+   "n": 6
+  },
+  {
+   "id": "c_factory_arms",
+   "query": "arms factory",
+   "alt": [
+    "weapons factory",
+    "munitions plant",
+    "rifle production"
+   ],
+   "collections": [
+    "universal_newsreels",
+    "prelinger",
+    "fedflix"
+   ],
+   "years": [
+    1945,
+    1970
+   ],
+   "n": 4
+  },
+  {
+   "id": "c_africa_war",
+   "query": "Congo crisis",
+   "alt": [
+    "Africa rebels",
+    "Angola war",
+    "guerrilla Africa"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1960,
+    1969
+   ],
+   "n": 4
+  },
+  {
+   "id": "c_hungary56",
+   "query": "Hungary revolt 1956",
+   "alt": [
+    "Budapest 1956",
+    "Hungarian revolution"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1956,
+    1957
+   ],
+   "n": 3
+  }
+ ]
+}

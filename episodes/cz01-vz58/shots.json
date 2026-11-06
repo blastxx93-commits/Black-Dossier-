@@ -1,0 +1,215 @@
+{
+ "defaults": {
+  "n": 5,
+  "sources": [
+   "commons",
+   "openverse",
+   "loc"
+  ]
+ },
+ "shots": [
+  {
+   "id": "vz58",
+   "query": "Sa vz. 58",
+   "alt": [
+    "vz. 58 rifle",
+    "Samopal vzor 58",
+    "vz 58 assault rifle",
+    "Sa vz 58 P",
+    "CSA vz. 58"
+   ],
+   "n": 12
+  },
+  {
+   "id": "vz58v",
+   "query": "Sa vz. 58 V folding stock",
+   "alt": [
+    "vz. 58 V",
+    "vz 58 folding stock",
+    "Samopal vz. 58 V"
+   ],
+   "n": 6
+  },
+  {
+   "id": "vz58_soldier",
+   "query": "Czech soldier vz. 58",
+   "alt": [
+    "Czechoslovak army soldier rifle",
+    "Armáda České republiky vz. 58",
+    "Czech army exercise vz 58"
+   ],
+   "n": 8
+  },
+  {
+   "id": "ak47",
+   "query": "AK-47",
+   "alt": [
+    "AK-47 rifle museum",
+    "Kalashnikov AK-47 type 3",
+    "AKM rifle"
+   ],
+   "n": 6
+  },
+  {
+   "id": "vz52",
+   "query": "Samonabíjecí puška vz. 52",
+   "alt": [
+    "vz. 52 rifle",
+    "vz 52 Czechoslovak rifle",
+    "vz. 52/57"
+   ],
+   "n": 6
+  },
+  {
+   "id": "sa23",
+   "query": "Samopal vz. 23",
+   "alt": [
+    "Sa vz. 23",
+    "Sa 25 submachine gun",
+    "vz. 24 submachine gun",
+    "Samopal vz. 26"
+   ],
+   "n": 6
+  },
+  {
+   "id": "bren_zb26",
+   "query": "ZB vz. 26",
+   "alt": [
+    "ZB 26 light machine gun",
+    "Bren gun Mk I",
+    "Bren light machine gun museum"
+   ],
+   "n": 6
+  },
+  {
+   "id": "walther_p38",
+   "query": "Walther P38",
+   "alt": [
+    "Walther P38 pistol",
+    "P38 pistol museum"
+   ],
+   "n": 3
+  },
+  {
+   "id": "cz805",
+   "query": "CZ 805 BREN",
+   "alt": [
+    "CZ 805 BREN A1",
+    "CZ BREN 2",
+    "Czech army CZ BREN 2"
+   ],
+   "n": 8
+  },
+  {
+   "id": "brno_city",
+   "query": "Brno 1960s",
+   "alt": [
+    "Brno panorama",
+    "Brno old town",
+    "Brno 1950s"
+   ],
+   "n": 5
+  },
+  {
+   "id": "uh_brod",
+   "query": "Uherský Brod",
+   "alt": [
+    "Uherský Brod náměstí",
+    "Uherský Brod panorama",
+    "Česká zbrojovka Uherský Brod"
+   ],
+   "n": 5
+  },
+  {
+   "id": "prague_1968",
+   "query": "Prague 1968 invasion",
+   "alt": [
+    "Invasion of Czechoslovakia 1968",
+    "Praha 1968 tanky",
+    "Soviet tanks Prague 1968",
+    "Okupace 1968"
+   ],
+   "n": 12
+  },
+  {
+   "id": "warsaw_pact",
+   "query": "Warsaw Pact 1955",
+   "alt": [
+    "Warsaw Pact signing 1955",
+    "Warsaw Pact parade",
+    "Varšavská smlouva"
+   ],
+   "n": 5
+  },
+  {
+   "id": "czsl_army",
+   "query": "Czechoslovak People's Army",
+   "alt": [
+    "Československá lidová armáda",
+    "ČSLA cvičení",
+    "Czechoslovak army parade 1960"
+   ],
+   "n": 10
+  },
+  {
+   "id": "prague_parade",
+   "query": "Prague military parade 1960",
+   "alt": [
+    "vojenská přehlídka Praha",
+    "Letná parade 1960",
+    "military parade Prague 1985"
+   ],
+   "n": 6
+  },
+  {
+   "id": "velvet_1989",
+   "query": "Velvet Revolution 1989",
+   "alt": [
+    "Sametová revoluce 1989",
+    "Prague November 1989",
+    "Václavské náměstí 1989"
+   ],
+   "n": 5
+  },
+  {
+   "id": "czech_nato",
+   "query": "Czech Republic NATO 1999",
+   "alt": [
+    "Czech army NATO exercise",
+    "Armáda České republiky cvičení",
+    "Czech soldiers NATO"
+   ],
+   "n": 6
+  },
+  {
+   "id": "ukraine_war",
+   "query": "Ukrainian soldier rifle 2022",
+   "alt": [
+    "Ukrainian territorial defense 2022",
+    "Ukrainian soldiers training 2022",
+    "Armed Forces of Ukraine 2023"
+   ],
+   "n": 8
+  },
+  {
+   "id": "museum_lesany",
+   "query": "Vojenské technické muzeum Lešany",
+   "alt": [
+    "Vojenský historický ústav Praha zbraně",
+    "military museum Prague small arms",
+    "Armádní muzeum Žižkov"
+   ],
+   "n": 6
+  },
+  {
+   "id": "ammo_762",
+   "query": "7.62x39mm",
+   "alt": [
+    "7.62×39mm cartridge",
+    "7.62x39 ammunition",
+    "7.62x45mm vz. 52"
+   ],
+   "n": 5
+  }
+ ]
+}
