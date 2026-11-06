@@ -1,0 +1,13 @@
+{
+ "1968": ["c_rifle_training/2", "c_prague/4"],
+ "army": ["c_coldwar_army/1", "c_hungary56/3"],
+ "world": ["c_guerrilla/1", "c_guerrilla/3", "c_guerrilla/4", "c_africa_war/1", "c_africa_war/3", "c_vietnam/1", "c_vietnam/4", "s_brass_shells/3"],
+ "soldier": ["s_soldier_modern/1", "s_soldier_modern/3", "s_soldier_modern/5"],
+ "nato": ["s_shooting_range/5", "s_shooting_range/6", "s_soldier_modern/6"],
+ "ukraine": ["s_ukraine/1", "s_military_trucks/1", "s_military_trucks/2"],
+ "moscow": ["s_brno/3"],
+ "civil": ["s_shooting_range/3"],
+ "split": ["s_brno/1", "s_prague/5"],
+ "brno": ["s_prague/1"],
+ "_generic": ["s_prague/3"]
+}
