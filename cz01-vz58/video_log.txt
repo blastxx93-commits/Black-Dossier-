@@ -1,43 +1,292 @@
-[     0s] cz01-vz58: 7 planos de video
-[     1s]   c_invasion68 / archive: 0 filmes para 'Czechoslovakia invasion 1968'
-[     3s]   c_invasion68 / archive: 0 filmes para 'Russians invade Czechoslovakia'
-[     4s]   c_invasion68 / archive: 0 filmes para 'Prague crisis 1968'
-[     5s]   c_invasion68 / archive: 0 filmes para 'Czech crisis'
-[     7s]   c_invasion68 / archive: 0 filmes para 'Soviet tanks Prague'
-[    15s]   c_prague / archive: 3 filmes para 'Prague'
-[    26s]     + 1_archive.mp4 de 'Challenge of Ideas, The (Part II)' a partir de 29s
-[    50s]     + 2_archive.mp4 de 'Challenge of Ideas, The (Part II)' a partir de 210s
-[    70s]     trecho escuro em 190s, tentando mais adiante
-[   109s]     + 3_archive.mp4 de 'Challenge of Ideas, The (Part I)' a partir de 508s
-[   132s]     + 4_archive.mp4 de 'Challenge of Ideas, The (Part I)' a partir de 1396s
-[   133s]   c_coldwar_army / archive: 0 filmes para 'Soviet army maneuvers'
-[   134s]   c_coldwar_army / archive: 0 filmes para 'Red Army parade'
-[   135s]   c_coldwar_army / archive: 0 filmes para 'Warsaw Pact'
-[   138s]   c_coldwar_army / archive: 1 filmes para 'Soviet military parade'
-[   147s]     + 1_archive.mp4 de 'Reds Withdraw. Cut Down Troops in East Germany, 1956/06/25' a partir de 43s
-[   156s]     + 2_archive.mp4 de 'Reds Withdraw. Cut Down Troops in East Germany, 1956/06/25' a partir de 318s
-[   158s]   c_coldwar_army / archive: 0 filmes para 'communist army'
-[   160s]   c_rifle_training / archive: 1 filmes para 'rifle training'
-[   183s]     + 1_archive.mp4 de 'Answer, An' a partir de 205s
-[   204s]     + 2_archive.mp4 de 'Answer, An' a partir de 1502s
-[   207s]   c_rifle_training / archive: 1 filmes para 'infantry training'
-[   215s]     + 3_archive.mp4 de 'The Chemical, Biological and Radiological Element' a partir de 71s
-[   223s]     + 4_archive.mp4 de 'The Chemical, Biological and Radiological Element' a partir de 522s
-[   225s]   c_rifle_training / archive: 1 filmes para 'soldiers rifle range'
-[   241s]     + 5_archive.mp4 de 'News Magazine of the Screen, The (Vol. 7, Issue 4)' a partir de 156s
-[   258s]     + 6_archive.mp4 de 'News Magazine of the Screen, The (Vol. 7, Issue 4)' a partir de 1147s
-[   270s]   c_factory_arms / archive: 8 filmes para 'arms factory'
-[   283s]     + 1_archive.mp4 de 'American Maker' a partir de 98s
-[   296s]     + 2_archive.mp4 de 'American Maker' a partir de 715s
-[   305s]     + 3_archive.mp4 de '"Your Name Here" Story, The (Outtakes)' a partir de 254s
-[   312s]     + 4_archive.mp4 de '"Your Name Here" Story, The (Outtakes)' a partir de 1860s
-[   316s]   c_africa_war / archive: 2 filmes para 'Congo crisis'
-[   325s]     + 1_archive.mp4 de 'Universal Newsreel Volume 35, Release 2, 01/01/1962' a partir de 46s
-[   331s]     + 2_archive.mp4 de 'Universal Newsreel Volume 35, Release 2, 01/01/1962' a partir de 340s
-[   340s]     + 3_archive.mp4 de 'March Of Events In Congo Crisis, 1960/08/04' a partir de 19s
-[   349s]     + 4_archive.mp4 de 'March Of Events In Congo Crisis, 1960/08/04' a partir de 142s
-[   351s]   c_hungary56 / archive: 1 filmes para 'Hungary revolt 1956'
-[   359s]     + 1_archive.mp4 de 'Freedom Road. Hungarian Patriots force Red Retreat, 1956/10/' a partir de 47s
-[   368s]     + 2_archive.mp4 de 'Freedom Road. Hungarian Patriots force Red Retreat, 1956/10/' a partir de 343s
-[   372s]   c_hungary56 / archive: 2 filmes para 'Budapest 1956'
-[   383s]     + 3_archive.mp4 de 'War in Egypt. British and French Bomb Its Key Cities, 1956/1' a partir de 55s
+[     0s] cz01-vz58: 16 planos de video
+[     1s]   c_czech_army / archive: 0 filmes para 'Czechoslovakia army'
+[     3s]   c_czech_army / archive: 0 filmes para 'Czechoslovak soldiers'
+[     4s]   c_czech_army / archive: 0 filmes para 'Czech troops'
+[     5s]   c_czech_army / archive: 0 filmes para 'Prague parade'
+[     7s]   c_soviet_troops_cs / archive: 0 filmes para 'Soviet troops Czechoslovakia'
+[     8s]   c_soviet_troops_cs / archive: 0 filmes para 'Russians leave Prague'
+[    10s]   c_soviet_troops_cs / archive: 0 filmes para 'Czech occupation'
+[    11s]   c_soviet_troops_cs / archive: 0 filmes para 'Dubcek'
+[    12s]   c_warsaw_maneuvers / archive: 0 filmes para 'Warsaw Pact maneuvers'
+[    13s]   c_warsaw_maneuvers / archive: 0 filmes para 'Soviet army exercises'
+[    15s]   c_warsaw_maneuvers / archive: 0 filmes para 'Russian tanks maneuvers'
+[    16s]   c_warsaw_maneuvers / archive: 0 filmes para 'East German army'
+[    17s]   c_paratroopers / archive: 0 filmes para 'paratroopers jump'
+[    19s]   c_paratroopers / archive: 0 filmes para 'parachute troops'
+[    20s]   c_paratroopers / archive: 0 filmes para 'airborne training'
+[    22s]   c_infantry_rifles / archive: 0 filmes para 'infantry rifles'
+[    24s]   c_infantry_rifles / archive: 0 filmes para 'soldiers firing rifles'
+[    28s]   c_infantry_rifles / archive: 2 filmes para 'rifle drill'
+[    50s]     + 1_archive.mp4 de 'American Maker' a partir de 98s
+[    65s]     + 2_archive.mp4 de 'American Maker' a partir de 715s
+[    73s]     + 3_archive.mp4 de 'American Maker' a partir de 182s
+[    81s]     + 4_archive.mp4 de 'American Maker' a partir de 1334s
+[    84s]   c_infantry_rifles / archive: 1 filmes para 'machine gun crew'
+[    93s]     + 5_archive.mp4 de 'Time Out for Trouble' a partir de 141s
+[   101s]     + 6_archive.mp4 de 'Time Out for Trouble' a partir de 1032s
+[   111s]   c_vietnam / archive: 7 filmes para 'Vietnam war'
+[   119s]     + 1_archive.mp4 de "Vietnam. Big Enemy force Repulsed by G.I.'s, 1967/04/04" a partir de 9s
+[   128s]     + 2_archive.mp4 de "Vietnam. Big Enemy force Repulsed by G.I.'s, 1967/04/04" a partir de 67s
+[   136s]     + 3_archive.mp4 de 'Egypt Accepts United Nations Cease-Fire, 1967/06/09' a partir de 33s
+[   144s]     + 4_archive.mp4 de 'Egypt Accepts United Nations Cease-Fire, 1967/06/09' a partir de 241s
+[   146s]   c_guerrilla / archive: 0 filmes para 'guerrillas'
+[   147s]   c_guerrilla / archive: 0 filmes para 'rebels Africa'
+[   148s]   c_guerrilla / archive: 0 filmes para 'Cuba army'
+[   153s]   c_guerrilla / archive: 2 filmes para 'Castro troops'
+[   160s]     + 1_archive.mp4 de "Invasion Scare. Castro Masses Troops, Claims U.S. 'Aggressio" a partir de 8s
+[   167s]     + 2_archive.mp4 de "Invasion Scare. Castro Masses Troops, Claims U.S. 'Aggressio" a partir de 59s
+[   173s]     + 3_archive.mp4 de 'U.S. Breaks Relations With Cuba, 1961/01/05' a partir de 16s
+[   179s]     + 4_archive.mp4 de 'U.S. Breaks Relations With Cuba, 1961/01/05' a partir de 120s
+[   181s]   c_arms_ship / archive: 0 filmes para 'arms shipment'
+[   182s]   c_arms_ship / archive: 0 filmes para 'weapons ship'
+[   183s]   c_arms_ship / archive: 0 filmes para 'Czech arms'
+[   183s]   s_shooting_range / pexels: 0 filmes para 'shooting range rifle'
+[   184s]   s_shooting_range / pixabay: 10 filmes para 'shooting range rifle'
+[   189s]     + 1_pixabay.mp4 de 'woman, girl, shooting, photography, paint, color, creative, ' a partir de 0s
+[   193s]     + 2_pixabay.mp4 de 'woman, girl, shooting, photography, paint, color, creative, ' a partir de 0s
+[   200s]     + 3_pixabay.mp4 de 'ammo, ammunition, barrel, bullet, charge, closeup, crime, do' a partir de 0s
+[   208s]     + 4_pixabay.mp4 de 'ammo, ammunition, barrel, bullet, charge, closeup, crime, do' a partir de 0s
+[   214s]     + 5_pixabay.mp4 de 'soldiers, military, army, helicopter, attack, defend, weapon' a partir de 15s
+[   223s]     + 6_pixabay.mp4 de 'soldiers, military, army, helicopter, attack, defend, weapon' a partir de 114s
+[   238s]     + 7_pixabay.mp4 de 'mountains, peaks, summit, view, landscape, scenic, range, ro' a partir de 0s
+[   254s]     + 8_pixabay.mp4 de 'mountains, peaks, summit, view, landscape, scenic, range, ro' a partir de 0s
+[   254s]   s_soldier_modern / pexels: 0 filmes para 'soldier rifle'
+[   255s]   s_soldier_modern / pixabay: 12 filmes para 'soldier rifle'
+[   265s]     + 1_pixabay.mp4 de 'sniper, rifle, soldier, war, protection, man, battle, camo, ' a partir de 0s
+[   275s]     + 2_pixabay.mp4 de 'sniper, rifle, soldier, war, protection, man, battle, camo, ' a partir de 0s
+[   278s]     trecho escuro em 8s, tentando mais adiante
+[   280s]     trecho escuro em 8s, tentando mais adiante
+[   283s]     + 3_pixabay.mp4 de 'sniper, rifle, weapon, soldier, war, protection, man, battle' a partir de 8s
+[   285s]     trecho escuro em 11s, tentando mais adiante
+[   286s]     trecho escuro em 10s, tentando mais adiante
+[   295s]     trecho escuro em 8s, tentando mais adiante
+[   302s]     trecho escuro em 8s, tentando mais adiante
+[   309s]     + 4_pixabay.mp4 de 'sniper, rifle, weapon, soldier, war, protection, man, battle' a partir de 8s
+[   311s]     trecho escuro em 13s, tentando mais adiante
+[   313s]     trecho escuro em 13s, tentando mais adiante
+[   324s]     + 5_pixabay.mp4 de 'sniper, rifle, soldier, war, protection, man, battle, camo, ' a partir de 8s
+[   327s]     trecho escuro em 15s, tentando mais adiante
+[   331s]     trecho escuro em 14s, tentando mais adiante
+[   340s]     + 6_pixabay.mp4 de 'nato, military, war, army, spearhead, special forces, armed ' a partir de 8s
+[   344s]     trecho escuro em 21s, tentando mais adiante
+[   348s]     trecho escuro em 20s, tentando mais adiante
+[   354s]     + 7_pixabay.mp4 de 'gi, soldier, army, military, war, armed, rifle, special, for' a partir de 0s
+[   357s]     + 8_pixabay.mp4 de 'gi, soldier, army, military, war, armed, rifle, special, for' a partir de 0s
+[   357s]   s_gun_cleaning / pexels: 0 filmes para 'gun cleaning'
+[   358s]   s_gun_cleaning / pixabay: 10 filmes para 'gun cleaning'
+[   360s]     trecho escuro em 0s, tentando mais adiante
+[   363s]     trecho escuro em 0s, tentando mais adiante
+[   368s]     trecho escuro em 0s, tentando mais adiante
+[   370s]     trecho escuro em 0s, tentando mais adiante
+[   378s]     + 1_pixabay.mp4 de 'robot, broom, automation, cleaning, robotic arm, artificial ' a partir de 0s
+[   383s]     + 2_pixabay.mp4 de 'robot, broom, automation, cleaning, robotic arm, artificial ' a partir de 0s
+[   388s]     + 3_pixabay.mp4 de 'laundry, washing machine, cleaning clothes, clean clothes, w' a partir de 0s
+[   392s]     + 4_pixabay.mp4 de 'laundry, washing machine, cleaning clothes, clean clothes, w' a partir de 0s
+[   400s]     + 5_pixabay.mp4 de 'cute cat, funny cat, kitten, domestic, pet, adorable, small,' a partir de 8s
+[   404s]     trecho escuro em 20s, tentando mais adiante
+[   408s]     trecho escuro em 20s, tentando mais adiante
+[   419s]     + 6_pixabay.mp4 de 'cleaning, street, pressure washer, road, water, high pressur' a partir de 8s
+[   419s]   s_brass_shells / pexels: 0 filmes para 'bullet casings'
+[   420s]   s_brass_shells / pixabay: 12 filmes para 'bullet casings'
+[   424s]     + 1_pixabay.mp4 de 'christmas, christmas decorations, bullet, tree, conifer, bra' a partir de 8s
+[   426s]     trecho escuro em 22s, tentando mais adiante
+[   428s]     trecho escuro em 21s, tentando mais adiante
+[   431s]     + 2_pixabay.mp4 de 'christmas, christmas decorations, bullet, tree, conifer, bra' a partir de 21s
+[   437s]     + 3_pixabay.mp4 de 'earth, globe, country, africa, asia, europe, america, intern' a partir de 8s
+[   443s]     trecho escuro em 53s, tentando mais adiante
+[   449s]     trecho escuro em 51s, tentando mais adiante
+[   460s]     trecho escuro em 8s, tentando mais adiante
+[   465s]     trecho escuro em 8s, tentando mais adiante
+[   470s]     + 4_pixabay.mp4 de 'computer, pc, casing, led, blue, illuminated, fan, motherboa' a partir de 8s
+[   472s]     trecho escuro em 11s, tentando mais adiante
+[   474s]     trecho escuro em 11s, tentando mais adiante
+[   484s]     trecho escuro em 0s, tentando mais adiante
+[   492s]     trecho escuro em 0s, tentando mais adiante
+[   500s]     + 5_pixabay.mp4 de 'fan, computer, cooling, pc, air, case fan, technology, elect' a partir de 0s
+[   500s]   s_prague / pexels: 0 filmes para 'Prague'
+[   501s]   s_prague / pixabay: 9 filmes para 'Prague'
+[   511s]     + 1_pixabay.mp4 de 'helicopter, military, army, czech, fight, flying, sky, pragu' a partir de 8s
+[   515s]     trecho escuro em 21s, tentando mais adiante
+[   521s]     trecho escuro em 20s, tentando mais adiante
+[   527s]     + 2_pixabay.mp4 de 'helicopter, military, army, czech, fight, flying, sky, pragu' a partir de 20s
+[   541s]     + 3_pixabay.mp4 de 'charles bridge, city, tourists, travel, tourism, weather, cl' a partir de 0s
+[   556s]     + 4_pixabay.mp4 de 'charles bridge, city, tourists, travel, tourism, weather, cl' a partir de 0s
+[   568s]     + 5_pixabay.mp4 de 'lights, traffic, cityscape, night, prague, city, car, street' a partir de 0s
+[   580s]     + 6_pixabay.mp4 de 'lights, traffic, cityscape, night, prague, city, car, street' a partir de 0s
+[   580s]   s_brno / pexels: 0 filmes para 'Brno'
+[   581s]   s_brno / pixabay: 1 filmes para 'Brno'
+[   582s]     trecho escuro em 0s, tentando mais adiante
+[   588s]     + 1_pixabay.mp4 de 'bohemia, bohemian paradise, brno, ceske budejovice, cesky kr' a partir de 0s
+[   595s]     + 2_pixabay.mp4 de 'bohemia, bohemian paradise, brno, ceske budejovice, cesky kr' a partir de 0s
+[   595s]   s_brno / pexels: 0 filmes para 'Brno city'
+[   596s]   s_brno / pixabay: 12 filmes para 'Brno city'
+[   603s]     + 3_pixabay.mp4 de 'city, sunset, buildings, skyscrapers, towers, moscow, sky, u' a partir de 0s
+[   611s]     + 4_pixabay.mp4 de 'city, sunset, buildings, skyscrapers, towers, moscow, sky, u' a partir de 0s
+[   613s]   s_ukraine / commons: 10 filmes para 'Ukraine war'
+[   613s]   s_ukraine / pexels: 0 filmes para 'Ukraine war'
+[   617s]     trecho escuro em 179s, tentando mais adiante
+[   623s]     trecho escuro em 477s, tentando mais adiante
+[   624s]     corte falhou (Wikimania_2022_-_How_Russia%27s_war_in_Ukraine_imp): ne_impacted_the_wiki_community_in_Ukraine_and_beyond.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   624s]     corte falhou (Mixed_Feelings_on_the_Russian_Side_of_the_Ukraine_): Side_of_the_Ukraine_Border_Over_Potential_War.webmhd.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   624s]     corte falhou (Mixed_Feelings_on_the_Russian_Side_of_the_Ukraine_): Side_of_the_Ukraine_Border_Over_Potential_War.webmhd.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   625s]     corte falhou (Generations_of_Ukrainian_Women_Flee_War%2C_Share_T): rainian_Women_Flee_War%2C_Share_Their_Stories.webmhd.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   625s]     corte falhou (Generations_of_Ukrainian_Women_Flee_War%2C_Share_T): rainian_Women_Flee_War%2C_Share_Their_Stories.webmhd.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   625s]     corte falhou (War_in_Ukraine_-_Day_7_-shorts.webm?utm_source=com): ikipedia/commons/8/85/War_in_Ukraine_-_Day_7_-shorts.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   625s]     corte falhou (War_in_Ukraine_-_Day_7_-shorts.webm?utm_source=com): ikipedia/commons/8/85/War_in_Ukraine_-_Day_7_-shorts.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   625s]     corte falhou (Russian_soldier_is_directly_hit_by_Ukrainian_FPV_d): V_drone_of_the_Adam_group_in_the_Russo-Ukrainian_War.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   625s]     corte falhou (Russian_soldier_is_directly_hit_by_Ukrainian_FPV_d): V_drone_of_the_Adam_group_in_the_Russo-Ukrainian_War.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   625s]     corte falhou (Russia-Ukraine_War-_Nigerian_Returnees_Test_Positi): Nigerian_Returnees_Test_Positive_For_Covid-19_-_NEWS.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   625s]     corte falhou (Russia-Ukraine_War-_Nigerian_Returnees_Test_Positi): Nigerian_Returnees_Test_Positive_For_Covid-19_-_NEWS.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   625s]     corte falhou (Irpin_after_Russia%27s_war_in_2022.mpg?utm_source=): pedia/commons/4/4e/Irpin_after_Russia%27s_war_in_2022.mpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   625s]     corte falhou (Irpin_after_Russia%27s_war_in_2022.mpg?utm_source=): pedia/commons/4/4e/Irpin_after_Russia%27s_war_in_2022.mpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   625s]     corte falhou (VOA_video_of_Eastern_Ukraine_during_2022_Russian_i): ideo_of_Eastern_Ukraine_during_2022_Russian_invasion.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   626s]     corte falhou (VOA_video_of_Eastern_Ukraine_during_2022_Russian_i): ideo_of_Eastern_Ukraine_during_2022_Russian_invasion.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   626s]     corte falhou (Sclap_strike_ukraine_donetsk_airport.webm?utm_sour): ia/commons/a/af/Sclap_strike_ukraine_donetsk_airport.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   626s]     corte falhou (Sclap_strike_ukraine_donetsk_airport.webm?utm_sour): ia/commons/a/af/Sclap_strike_ukraine_donetsk_airport.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   626s]     corte falhou (Despite_Peace_Talks%2C_Ukrainians_Prepare_for_Long): eace_Talks%2C_Ukrainians_Prepare_for_Long_War.webmhd.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   626s]     corte falhou (Despite_Peace_Talks%2C_Ukrainians_Prepare_for_Long): eace_Talks%2C_Ukrainians_Prepare_for_Long_War.webmhd.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   627s]   s_ukraine / commons: 10 filmes para 'Ukrainian soldiers'
+[   627s]   s_ukraine / pexels: 0 filmes para 'Ukrainian soldiers'
+[   628s]     corte falhou (Ukrainian_Soldier_in_Underwear.ogv?utm_source=comm): wikipedia/commons/c/cb/Ukrainian_Soldier_in_Underwear.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   628s]     corte falhou (Ukrainian_Soldier_in_Underwear.ogv?utm_source=comm): wikipedia/commons/c/cb/Ukrainian_Soldier_in_Underwear.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   628s]     corte falhou (Destruction_of_firing_positions_of_Ukrainian_towed): ion_of_firing_positions_of_Ukrainian_towed_artillery.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   628s]     corte falhou (Destruction_of_firing_positions_of_Ukrainian_towed): ion_of_firing_positions_of_Ukrainian_towed_artillery.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   628s]     corte falhou (Russian_artillery_and_unmanned_aircraft_hunting_th): aft_hunting_the_Ukrainian_battery_with_M777_howitzer.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   628s]     corte falhou (Russian_artillery_and_unmanned_aircraft_hunting_th): aft_hunting_the_Ukrainian_battery_with_M777_howitzer.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   628s]     corte falhou (JMTG-U_Ukrainian_2S1_Howitzer_B-Roll.ogv?utm_sourc): dia/commons/1/1c/JMTG-U_Ukrainian_2S1_Howitzer_B-Roll.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   628s]     corte falhou (JMTG-U_Ukrainian_2S1_Howitzer_B-Roll.ogv?utm_sourc): dia/commons/1/1c/JMTG-U_Ukrainian_2S1_Howitzer_B-Roll.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   628s]     corte falhou (JMTG-U_Ukrainian_BM-21_Rocket_Launcher_B-Roll.ogv?): ns/8/82/JMTG-U_Ukrainian_BM-21_Rocket_Launcher_B-Roll.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   628s]     corte falhou (JMTG-U_Ukrainian_BM-21_Rocket_Launcher_B-Roll.ogv?): ns/8/82/JMTG-U_Ukrainian_BM-21_Rocket_Launcher_B-Roll.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   628s]     corte falhou (Kramatorsk_-_Ukraine_Soldiers_at_Airfield_%28very_): torsk_-_Ukraine_Soldiers_at_Airfield_%28very_short%29.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   629s]     corte falhou (Kramatorsk_-_Ukraine_Soldiers_at_Airfield_%28very_): torsk_-_Ukraine_Soldiers_at_Airfield_%28very_short%29.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   629s]     corte falhou (Kramatorsk_-_April_25th_-_Ukraine_Soldiers_intervi): ramatorsk_-_April_25th_-_Ukraine_Soldiers_interviews.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   629s]     corte falhou (Kramatorsk_-_April_25th_-_Ukraine_Soldiers_intervi): ramatorsk_-_April_25th_-_Ukraine_Soldiers_interviews.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   629s]     corte falhou (%D0%92%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%BE%D0%B2%D): 0%BB%D1%8C%D0%BD%D0%BE%D1%97_%D1%80%D0%BE%D1%82%D0%B8.mpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   629s]     corte falhou (%D0%92%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%BE%D0%B2%D): 0%BB%D1%8C%D0%BD%D0%BE%D1%97_%D1%80%D0%BE%D1%82%D0%B8.mpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   629s]     corte falhou (19th_rbr_counter_artillery_ops.webm?utm_source=com): ikipedia/commons/1/13/19th_rbr_counter_artillery_ops.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   629s]     corte falhou (19th_rbr_counter_artillery_ops.webm?utm_source=com): ikipedia/commons/1/13/19th_rbr_counter_artillery_ops.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   631s]   s_ukraine / commons: 10 filmes para 'trench war'
+[   631s]   s_ukraine / pexels: 0 filmes para 'trench war'
+[   631s]     corte falhou (Into_the_Catacombs_of_War_-_Albert_Dawson_Inspecti): _Dawson_Inspecting_Russian_Trenches_%28August_1915%29.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   631s]     corte falhou (Into_the_Catacombs_of_War_-_Albert_Dawson_Inspecti): _Dawson_Inspecting_Russian_Trenches_%28August_1915%29.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   631s]     corte falhou (German_War_Film%2C_1914-1918.webm?utm_source=commo): /wikipedia/commons/b/bf/German_War_Film%2C_1914-1918.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   631s]     corte falhou (German_War_Film%2C_1914-1918.webm?utm_source=commo): /wikipedia/commons/b/bf/German_War_Film%2C_1914-1918.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   631s]     corte falhou (Russian_VDV_troops_captured_a_Ukrainian_trench_wit): AU_and_2B14_Podnos_mortar_-_Ukraine%2C_February_2023.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   631s]     corte falhou (Russian_VDV_troops_captured_a_Ukrainian_trench_wit): AU_and_2B14_Podnos_mortar_-_Ukraine%2C_February_2023.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   632s]     corte falhou (Why_We_Fight-_War_Comes_to_America.webm?utm_source): edia/commons/6/61/Why_We_Fight-_War_Comes_to_America.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   632s]     corte falhou (Why_We_Fight-_War_Comes_to_America.webm?utm_source): edia/commons/6/61/Why_We_Fight-_War_Comes_to_America.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   632s]     corte falhou (Bloody_WWI_Footage%21_1918_World_War_I_-_Public_Do): tage%21_1918_World_War_I_-_Public_Domain_Blockbuster.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   632s]     corte falhou (Bloody_WWI_Footage%21_1918_World_War_I_-_Public_Do): tage%21_1918_World_War_I_-_Public_Domain_Blockbuster.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   632s]     corte falhou (Flashes_of_Action-_Actualities_of_the_World_War.we): 3/39/Flashes_of_Action-_Actualities_of_the_World_War.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   632s]     corte falhou (Flashes_of_Action-_Actualities_of_the_World_War.we): 3/39/Flashes_of_Action-_Actualities_of_the_World_War.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   632s]     corte falhou (Black_Pepper_White_Pepper_-_Stories_from_the_Trenc): lack_Pepper_White_Pepper_-_Stories_from_the_Trenches.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   632s]     corte falhou (Black_Pepper_White_Pepper_-_Stories_from_the_Trenc): lack_Pepper_White_Pepper_-_Stories_from_the_Trenches.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   632s]     corte falhou (%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D): 1%82%D0%BE%D1%80%D0%B3%D0%BD%D0%B5%D0%BD%D0%BD%D1%8F.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   632s]     corte falhou (%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D): 1%82%D0%BE%D1%80%D0%B3%D0%BD%D0%B5%D0%BD%D0%BD%D1%8F.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   632s]     corte falhou (1040vi0775_ARVN_Arty_%28Artillery%29_%28Reel_5_of_): 40vi0775_ARVN_Arty_%28Artillery%29_%28Reel_5_of_5%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   633s]     corte falhou (1040vi0775_ARVN_Arty_%28Artillery%29_%28Reel_5_of_): 40vi0775_ARVN_Arty_%28Artillery%29_%28Reel_5_of_5%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   633s]     corte falhou (The_Retreat_of_the_Germans_at_the_Battle_of_Arras%): etreat_of_the_Germans_at_the_Battle_of_Arras%2C_1918.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   633s]     corte falhou (The_Retreat_of_the_Germans_at_the_Battle_of_Arras%): etreat_of_the_Germans_at_the_Battle_of_Arras%2C_1918.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   634s]   s_ukraine / commons: 10 filmes para 'Ukraine army'
+[   634s]   s_ukraine / pexels: 0 filmes para 'Ukraine army'
+[   634s]     corte falhou (21starmycoprs.webm?utm_source=commons.wikimedia.or): d.wikimedia.org/wikipedia/commons/e/e8/21starmycoprs.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   634s]     corte falhou (21starmycoprs.webm?utm_source=commons.wikimedia.or): d.wikimedia.org/wikipedia/commons/e/e8/21starmycoprs.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   639s]     + 1_commons.mp4 de 'FlagWaver - Ukrainian Ground Forces.webm' a partir de 0s
+[   643s]     + 2_commons.mp4 de 'FlagWaver - Ukrainian Ground Forces.webm' a partir de 0s
+[   643s]     corte falhou (Ukr_bm-21_hrad_firing.webm?utm_source=commons.wiki): dia.org/wikipedia/commons/e/e1/Ukr_bm-21_hrad_firing.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   643s]     corte falhou (Ukr_bm-21_hrad_firing.webm?utm_source=commons.wiki): dia.org/wikipedia/commons/e/e1/Ukr_bm-21_hrad_firing.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   643s]     corte falhou (Artillery_operations_26th_oabr.webm?utm_source=com): ikipedia/commons/d/d4/Artillery_operations_26th_oabr.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   643s]     corte falhou (Artillery_operations_26th_oabr.webm?utm_source=com): ikipedia/commons/d/d4/Artillery_operations_26th_oabr.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   643s]     corte falhou (Ukr_bm-21_hrad_combat_ops.webm?utm_source=commons.): org/wikipedia/commons/5/50/Ukr_bm-21_hrad_combat_ops.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   644s]     corte falhou (Ukr_bm-21_hrad_combat_ops.webm?utm_source=commons.): org/wikipedia/commons/5/50/Ukr_bm-21_hrad_combat_ops.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   644s]     corte falhou (Vilkha_test_2019.webm?utm_source=commons.wikimedia): ikimedia.org/wikipedia/commons/5/55/Vilkha_test_2019.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   644s]     corte falhou (Vilkha_test_2019.webm?utm_source=commons.wikimedia): ikimedia.org/wikipedia/commons/5/55/Vilkha_test_2019.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   644s]     corte falhou (Mariupol_-_May_9th_-_Locals_Protest_Ukraine_%27arm): May_9th_-_Locals_Protest_Ukraine_%27army%27_-_11-50am.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   644s]     corte falhou (Mariupol_-_May_9th_-_Locals_Protest_Ukraine_%27arm): May_9th_-_Locals_Protest_Ukraine_%27army%27_-_11-50am.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   644s]     corte falhou (Ukrainian-Armed-Forces-equipment-captured-by-the-R): ed-by-the-Russian-Army-and-Marine-Corps_Kursk-Oblast.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   644s]     corte falhou (Ukrainian-Armed-Forces-equipment-captured-by-the-R): ed-by-the-Russian-Army-and-Marine-Corps_Kursk-Oblast.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   644s]     corte falhou (Ammunition_abandoned_by_Russian_army_in_Chernihiv_): nition_abandoned_by_Russian_army_in_Chernihiv_Oblast.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   644s]     corte falhou (Ammunition_abandoned_by_Russian_army_in_Chernihiv_): nition_abandoned_by_Russian_army_in_Chernihiv_Oblast.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   644s]   s_military_trucks / pexels: 0 filmes para 'military trucks convoy'
+[   645s]   s_military_trucks / pixabay: 12 filmes para 'military trucks convoy'
+[   665s]     trecho escuro em 8s, tentando mais adiante
+[   686s]     trecho escuro em 8s, tentando mais adiante
+[   706s]     + 1_pixabay.mp4 de 'truck, military, unimog, mercedes-benz, off-road' a partir de 8s
+[   715s]     trecho escuro em 11s, tentando mais adiante
+[   725s]     trecho escuro em 11s, tentando mais adiante
+[   749s]     + 2_pixabay.mp4 de 'unimog, mercedes-benz, off-road, military, truck' a partir de 0s
+[   763s]     + 3_pixabay.mp4 de 'unimog, mercedes-benz, off-road, military, truck' a partir de 0s
+[   768s]     + 4_pixabay.mp4 de 'truck, camion, lorry, van, 2d, anime, screen, green, lampsha' a partir de 0s
