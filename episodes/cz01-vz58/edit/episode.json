@@ -1,0 +1,1406 @@
+{
+ "output": "CZ01_vz58.mp4",
+ "fps": 24,
+ "music": [
+  {
+   "file": "trilha.wav",
+   "start": 0,
+   "gain": -29,
+   "fade_in": 4,
+   "fade_out": 5
+  }
+ ],
+ "chapters": [
+  {
+   "audio": "audio/ch00_hook.flac",
+   "lead_in": 0,
+   "tail": 0.6,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/c_rifle_training/2_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.673,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/prague_1968/11_commons.jpg",
+     "move": "in",
+     "dur": 4.71,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/prague_1968/12_commons.jpg",
+     "move": "left",
+     "dur": 1.497,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_prague/4_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/prague_1968/1_commons.jpg",
+     "move": "out",
+     "dur": 1.68,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/vz58/10_openverse.jpg",
+     "move": "right",
+     "dur": 9.72,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ak47/1_commons.jpg",
+     "move": "in",
+     "dur": 8.64,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_coldwar_army/1_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 1.68,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/s_prague/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.7,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_rifles_two_table_1.jpg",
+     "move": "up",
+     "dur": 7.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/vz58_more/10_openverse.jpg",
+     "move": "out",
+     "dur": 5.44,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/hf/g_map_cs.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "hold": true,
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -26,
+       "at": 0
+      }
+     ],
+     "dur": 6.84,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/vz58_more/11_commons.jpg",
+     "move": "down",
+     "dur": 6.9,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/s_ukraine/1_commons.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.26,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_twins_silhouette_1.jpg",
+     "move": "in",
+     "dur": 7.36,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/vz58/12_openverse.jpg",
+     "move": "left",
+     "dur": 3.884,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch01.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/s_brno/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/s_prague/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.92,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/warsaw_pact/4_commons.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/soviet_army_parade/7_commons.jpg",
+     "move": "out",
+     "dur": 6.36,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/soviet_army_parade/1_commons.jpg",
+     "move": "right",
+     "dur": 5.74,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/bren_zb26/1_commons.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/bren_zb26/3_commons.jpg",
+     "move": "down",
+     "dur": 4.37,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/bren_zb26/2_openverse.jpg",
+     "move": "up",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/bren_zb26/4_commons.jpg",
+     "move": "in",
+     "dur": 8.65,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/sa23/1_commons.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/sa23/3_commons.jpg",
+     "move": "left",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/sa23/4_commons.jpg",
+     "move": "out",
+     "dur": 5.62,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/sa23/2_commons.jpg",
+     "move": "down",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/sa23/5_commons.jpg",
+     "move": "right",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/sa23/6_commons.jpg",
+     "move": "in",
+     "dur": 5.725,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/vz52/1_commons.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/vz52/4_openverse.jpg",
+     "move": "up",
+     "dur": 8.675,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/soviet_army_parade/3_commons.jpg",
+     "move": "left",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ak47/4_openverse.jpg",
+     "move": "out",
+     "dur": 7.62,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/vz52/3_commons.jpg",
+     "move": "out",
+     "dur": 9.32,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_hungary56/3_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.685,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch02.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/ak47/2_openverse.jpg",
+     "move": "right",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ak47/6_openverse.jpg",
+     "move": "down",
+     "dur": 7.87,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/brno_city/2_openverse.jpg",
+     "move": "in",
+     "dur": 9.71,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_konstrukta_office_1.jpg",
+     "move": "up",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/cz_ub_factory/5_commons.jpg",
+     "move": "in",
+     "dur": 10.92,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_engineer_drawing_1.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/cz_ub_factory/6_commons.jpg",
+     "move": "left",
+     "dur": 5.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ak47/3_commons.jpg",
+     "move": "down",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/soviet_army_parade/8_openverse.jpg",
+     "move": "out",
+     "dur": 9.94,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/cz_ub_factory/1_commons.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/uh_brod/1_commons.jpg",
+     "move": "right",
+     "dur": 4.14,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_guerrilla/1_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.38,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_designer_prototype_1.jpg",
+     "move": "left",
+     "dur": 6.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_broom_corner_1.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/uh_brod/4_commons.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/uh_brod/5_commons.jpg",
+     "move": "up",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_uh_brod_line_1.jpg",
+     "move": "out",
+     "dur": 6.74,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/czsl_army/10_commons.jpg",
+     "move": "right",
+     "dur": 10.14,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/cz_ub_factory/2_commons.jpg",
+     "move": "in",
+     "dur": 7.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/vz58/2_openverse.jpg",
+     "move": "up",
+     "dur": 9.868,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch03.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/vz58/5_commons.jpg",
+     "move": "out",
+     "dur": 0.3,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_scale_weight_1.jpg",
+     "move": "down",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/walther_p38/1_commons.jpg",
+     "move": "down",
+     "dur": 9.52,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/vz58_more/12_openverse.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/vz58_soldier/2_commons.jpg",
+     "move": "in",
+     "dur": 8.7,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/vz58_more/1_commons.jpg",
+     "move": "left",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/vz58_soldier/3_commons.jpg",
+     "move": "left",
+     "dur": 5.22,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/vz58_more/2_openverse.jpg",
+     "move": "out",
+     "dur": 7.56,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/vz58_more/4_openverse.jpg",
+     "move": "right",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/vz58_soldier/4_commons.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/vz58_soldier/5_commons.jpg",
+     "move": "right",
+     "dur": 6.78,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/weapons_museum/10_openverse.jpg",
+     "move": "in",
+     "dur": 9.973,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/weapons_museum/3_openverse.jpg",
+     "move": "up",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/vz58_soldier/6_commons.jpg",
+     "move": "in",
+     "dur": 5.427,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/hf/g_compare.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "hold": true,
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -26,
+       "at": 0
+      }
+     ],
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/walther_p38/2_openverse.jpg",
+     "move": "up",
+     "dur": 8.8,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/s_soldier_modern/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.215,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch04.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/czsl_army/1_commons.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/vz58_soldier/7_commons.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/vz58_soldier/8_commons.jpg",
+     "move": "down",
+     "dur": 8.62,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/cz_ub_factory/3_commons.jpg",
+     "move": "down",
+     "dur": 5.8,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/hf/g_spec.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "hold": true,
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -26,
+       "at": 0
+      }
+     ],
+     "dur": 7.32,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_apc_crew_1.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/czsl_army/3_commons.jpg",
+     "move": "in",
+     "dur": 10.16,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/weapons_museum/4_commons.jpg",
+     "move": "left",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/slovak_army/1_commons.jpg",
+     "move": "left",
+     "dur": 8.7,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/weapons_museum/6_commons.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/slovak_army/2_commons.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/slovak_army/3_commons.jpg",
+     "move": "right",
+     "dur": 9.44,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/s_soldier_modern/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.34,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/weapons_museum/8_commons.jpg",
+     "move": "right",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/slovak_army/5_commons.jpg",
+     "move": "in",
+     "dur": 6.22,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_mud_test_1.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/slovak_army/6_commons.jpg",
+     "move": "up",
+     "dur": 7.88,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/prague_1968/2_openverse.jpg",
+     "move": "up",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_barracks_gate_closed_1.jpg",
+     "move": "out",
+     "dur": 4.857,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch05.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "cta",
+     "text": "Odeb\u00edrat",
+     "sub": "p\u0159\u00edb\u011bhy zbran\u00ed, kter\u00e9 zm\u011bnily d\u011bjiny",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_radio_1968_1.jpg",
+     "move": "down",
+     "dur": 4.62,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/prague_1968/3_commons.jpg",
+     "move": "out",
+     "dur": 8.04,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/prague_1968/4_openverse.jpg",
+     "move": "down",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_rifle_on_bunk_1.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_candles_memorial_1.jpg",
+     "move": "left",
+     "dur": 7.94,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/soviet_army_parade/5_commons.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_assembly_line_ak_1.jpg",
+     "move": "out",
+     "dur": 6.989,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/prague_1968/5_commons.jpg",
+     "move": "left",
+     "dur": 5.711,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/invasion_1968_more/15_commons.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_soldier_window_1.jpg",
+     "move": "right",
+     "dur": 7.473,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/dubcek/1_commons.jpg",
+     "move": "right",
+     "dur": 5.327,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/dubcek/3_commons.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_barracks_rack_1.jpg",
+     "move": "in",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/dubcek/5_commons.jpg",
+     "move": "up",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/czsl_army/6_commons.jpg",
+     "move": "up",
+     "dur": 6.1,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_tanks_night_border_1.jpg",
+     "move": "out",
+     "dur": 7.98,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_prague_tanks_dawn_1.jpg",
+     "move": "down",
+     "dur": 10.657,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_guerrilla/3_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_vietnam/1_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.505,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch06.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/c_guerrilla/4_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_vietnam/4_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.98,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_africa_war/1_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/s_brass_shells/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_africa_patrol_1.jpg",
+     "move": "out",
+     "dur": 5.74,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_africa_war/3_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_jungle_patrol_1.jpg",
+     "move": "down",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_news_photo_1.jpg",
+     "move": "in",
+     "dur": 4.22,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_disassembly_timer_1.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/czsl_army/8_commons.jpg",
+     "move": "left",
+     "dur": 8.927,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_warehouse_racks_1.jpg",
+     "move": "left",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_soldier_march_1.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/cold_war_army/1_openverse.jpg",
+     "move": "right",
+     "dur": 7.253,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_cleaning_rifle_1.jpg",
+     "move": "out",
+     "dur": 8.02,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/s_brno/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.28,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/s_soldier_modern/5_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.74,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/s_shooting_range/5_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/cz805/4_commons.jpg",
+     "move": "in",
+     "dur": 7.913,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch07.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/s_shooting_range/6_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/cz805/5_commons.jpg",
+     "move": "up",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/cz805/6_commons.jpg",
+     "move": "out",
+     "dur": 5.06,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/s_soldier_modern/6_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/cold_war_army/6_openverse.jpg",
+     "move": "down",
+     "dur": 5.74,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/cz805/1_commons.jpg",
+     "move": "right",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/cz805/7_commons.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/cz805/8_commons.jpg",
+     "move": "left",
+     "dur": 5.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/vz58/8_openverse.jpg",
+     "move": "in",
+     "dur": 3.66,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/s_military_trucks/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ukraine_war/1_commons.jpg",
+     "move": "out",
+     "dur": 9.02,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/s_military_trucks/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ukraine_war/2_commons.jpg",
+     "move": "right",
+     "dur": 4.88,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/hf/g_timeline_life.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "hold": true,
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -26,
+       "at": 0
+      }
+     ],
+     "dur": 5.48,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/s_shooting_range/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/bren2/1_commons.jpg",
+     "move": "in",
+     "dur": 10.14,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_museum_display_1.jpg",
+     "move": "up",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_parade_1958_1.jpg",
+     "move": "up",
+     "dur": 9.16,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_magazine_closeup_1.jpg",
+     "move": "out",
+     "dur": 2.939,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch08.flac",
+   "lead_in": 0,
+   "tail": 2.5,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/ai/ai_stock_material_1.jpg",
+     "move": "down",
+     "dur": 7.92,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_stripper_clip_1.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/vz52/5_commons.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/vz52/6_commons.jpg",
+     "move": "down",
+     "dur": 4.82,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_bayonet_1.jpg",
+     "move": "left",
+     "dur": 2.92,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/czsl_army/2_commons.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ammo_762/1_commons.jpg",
+     "move": "in",
+     "dur": 8.28,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_magazine_swap_fail_1.jpg",
+     "move": "right",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ammo_762/2_commons.jpg",
+     "move": "left",
+     "dur": 8.37,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/vz58_soldier/1_commons.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ammo_762/4_commons.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ammo_762/5_commons.jpg",
+     "move": "right",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_rechamber_workshop_1.jpg",
+     "move": "in",
+     "dur": 6.43,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_sunset_soldier_1.jpg",
+     "move": "up",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_cartridges_compare_1.jpg",
+     "move": "up",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/bren_zb26/5_commons.jpg",
+     "move": "out",
+     "dur": 5.06,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Vz. 58, nebo kala\u0161nikov?",
+     "sub": "napi\u0161te do koment\u00e1\u0159\u016f",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/bren_zb26/6_commons.jpg",
+     "move": "down",
+     "dur": 8.62,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Odeb\u00edrat",
+     "sub": "p\u0159\u00ed\u0161t\u011b: CZ 75",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 7.0,
+     "fixed": true,
+     "fade_out": 0
+    },
+    {
+     "type": "image",
+     "src": "a/brno_zbrojovka/1_commons.jpg",
+     "move": "in",
+     "dur": 9.547,
+     "fixed": false
+    }
+   ]
+  }
+ ],
+ "size": [
+  1920,
+  1080
+ ],
+ "subtitles": "CZ01.ass"
+}

@@ -43,7 +43,7 @@ FALLBACK.update({"1968": ["army", "soldier"], "moscow": ["army"], "world": ["sol
                  "mech": ["vz58", "pair"], "pair": ["vz58", "mech"], "brno": ["factory", "bren"], "factory": ["brno", "vz58"]})
 A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FALLBACK, ["vz58", "soldier", "army"])
 A.CLIP_TARGET = 0.45   # owner 06/11: footage first (photos + clips); only 4 essential cards
-A.MAX_HOLD, A.KEEP = 9.0, 6.0
+A.MAX_HOLD, A.KEEP = 11.0, 7.0
 A.ARCHIVE_OK = True
 A.SPLIT_BY_SUBJECT = True
 chapters = []
