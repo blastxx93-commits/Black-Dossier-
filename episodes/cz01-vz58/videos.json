@@ -381,6 +381,186 @@
     "pixabay"
    ],
    "n": 4
+  },
+  {
+   "id": "s_army_training",
+   "query": "army training",
+   "alt": [
+    "soldiers training",
+    "military exercise",
+    "infantry exercise"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "commons"
+   ],
+   "n": 6
+  },
+  {
+   "id": "s_marching",
+   "query": "soldiers marching",
+   "alt": [
+    "military march",
+    "army parade",
+    "troops marching"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "commons"
+   ],
+   "n": 6
+  },
+  {
+   "id": "s_tank",
+   "query": "tank driving",
+   "alt": [
+    "military tank",
+    "armored vehicle",
+    "tank field"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "commons"
+   ],
+   "n": 6
+  },
+  {
+   "id": "s_rifle_closeup",
+   "query": "rifle close up",
+   "alt": [
+    "assault rifle",
+    "rifle detail",
+    "gun close up"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "commons"
+   ],
+   "n": 6
+  },
+  {
+   "id": "s_ammo_box",
+   "query": "ammunition",
+   "alt": [
+    "ammunition box",
+    "bullets table",
+    "cartridges brass"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "commons"
+   ],
+   "n": 6
+  },
+  {
+   "id": "s_old_film",
+   "query": "old film",
+   "alt": [
+    "vintage film footage",
+    "black and white footage",
+    "film grain old"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "commons"
+   ],
+   "n": 6
+  },
+  {
+   "id": "s_factory_metal",
+   "query": "metal factory",
+   "alt": [
+    "lathe metal",
+    "machining steel",
+    "cnc machine metal",
+    "steel workshop"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "commons"
+   ],
+   "n": 6
+  },
+  {
+   "id": "s_prague_oldtown",
+   "query": "Prague old town",
+   "alt": [
+    "Prague castle",
+    "Charles bridge",
+    "Prague street"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "commons"
+   ],
+   "n": 6
+  },
+  {
+   "id": "s_czech_country",
+   "query": "Czech countryside",
+   "alt": [
+    "Moravia landscape",
+    "Czech village",
+    "Czech forest"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "commons"
+   ],
+   "n": 6
+  },
+  {
+   "id": "s_flag_wave",
+   "query": "flag waving",
+   "alt": [
+    "Ukraine flag",
+    "NATO flag",
+    "red flag"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "commons"
+   ],
+   "n": 6
+  },
+  {
+   "id": "s_war_ruins",
+   "query": "war ruins",
+   "alt": [
+    "destroyed building",
+    "ruins smoke",
+    "war damage"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "commons"
+   ],
+   "n": 6
+  },
+  {
+   "id": "s_night_convoy",
+   "query": "convoy night",
+   "alt": [
+    "trucks night road",
+    "headlights night road"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "commons"
+   ],
+   "n": 6
   }
  ]
 }
