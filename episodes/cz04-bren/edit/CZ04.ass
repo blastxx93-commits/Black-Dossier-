@@ -1,0 +1,313 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Doc,Inter SemiBold,44,&H0000E6FF,&H0000E6FF,&H00000000,&H96000000,0,0,0,0,100,100,0.5,0,1,2.4,1.2,2,200,200,62,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.04,Doc,,0,0,0,,Červen devatenáct set čtyřicet.
+Dialogue: 0,0:00:02.09,0:00:04.45,Doc,,0,0,0,,Pláže u francouzského Dunkerque.
+Dialogue: 0,0:00:04.50,0:00:07.89,Doc,,0,0,0,,Britská armáda se zoufale\Nevakuuje přes kanál La Manche.
+Dialogue: 0,0:00:07.94,0:00:11.29,Doc,,0,0,0,,A na písku za sebou nechává tisíce zbraní.
+Dialogue: 0,0:00:11.34,0:00:16.53,Doc,,0,0,0,,Mezi nimi lehký kulomet, kterému\Nbritští vojáci s láskou říkají Bren.
+Dialogue: 0,0:00:16.58,0:00:21.03,Doc,,0,0,0,,O pár let později budou tentýž\Nkulomet nosit vojáci po celém světě.
+Dialogue: 0,0:00:21.08,0:00:25.47,Doc,,0,0,0,,V pouštích severní Afriky, v\Ndžunglích Barmy, na plážích Normandie.
+Dialogue: 0,0:00:25.52,0:00:28.67,Doc,,0,0,0,,Stane se jedním ze symbolů britské armády.
+Dialogue: 0,0:00:28.72,0:00:32.45,Doc,,0,0,0,,Bude sloužit ve válce o\NFalklandy i v Perském zálivu.
+Dialogue: 0,0:00:32.50,0:00:34.41,Doc,,0,0,0,,Celkem přes půl století.
+Dialogue: 0,0:00:34.46,0:00:37.49,Doc,,0,0,0,,Jenže tahle britská legenda\Nnevznikla v Británii.
+Dialogue: 0,0:00:37.54,0:00:38.81,Doc,,0,0,0,,Vznikla v Brně.
+Dialogue: 0,0:00:38.86,0:00:42.71,Doc,,0,0,0,,Navrhli ji čeští konstruktéři\Nv československé zbrojovce.
+Dialogue: 0,0:00:42.76,0:00:47.33,Doc,,0,0,0,,A i samotné jméno Bren v sobě\Ndodnes nese název moravského města.
+Dialogue: 0,0:00:47.38,0:00:48.47,Doc,,0,0,0,,Jak se stalo,
+Dialogue: 0,0:00:48.52,0:00:52.67,Doc,,0,0,0,,že si jedna z největších armád světa\Nvybrala kulomet z malé středoevropské
+Dialogue: 0,0:00:52.72,0:00:53.25,Doc,,0,0,0,,země?
+Dialogue: 0,0:00:53.30,0:00:56.17,Doc,,0,0,0,,Proč ho Britové nepřevzali beze změny?
+Dialogue: 0,0:00:56.22,0:00:58.05,Doc,,0,0,0,,A jak je možné, že v době,
+Dialogue: 0,0:00:58.10,0:01:00.95,Doc,,0,0,0,,kdy britské továrny chrlily\NBreny proti Hitlerovi,
+Dialogue: 0,0:01:01.00,0:01:05.49,Doc,,0,0,0,,vyráběla zbrojovka v Brně podobné\Nkulomety pro německou armádu?
+Dialogue: 0,0:01:05.54,0:01:08.95,Doc,,0,0,0,,Je to příběh o geniální\Nkonstrukci, o obchodu,
+Dialogue: 0,0:01:09.00,0:01:13.23,Doc,,0,0,0,,o zradě i o české stopě v\Ndějinách druhé světové války.
+Dialogue: 0,0:01:13.28,0:01:15.28,Doc,,0,0,0,,Tohle je příběh kulometu Bren.
+Dialogue: 0,0:01:15.82,0:01:21.43,Doc,,0,0,0,,Abychom pochopili, jak vznikl Bren,\Nmusíme se vrátit do dvacátých let.
+Dialogue: 0,0:01:21.48,0:01:23.55,Doc,,0,0,0,,Československo je mladý stát.
+Dialogue: 0,0:01:23.60,0:01:28.65,Doc,,0,0,0,,Vznikl teprve v roce devatenáct set\Nosmnáct a potřebuje vlastní armádu i
+Dialogue: 0,0:01:28.70,0:01:30.03,Doc,,0,0,0,,vlastní zbraně.
+Dialogue: 0,0:01:30.08,0:01:32.73,Doc,,0,0,0,,V Brně proto vzniká státní zbrojovka.
+Dialogue: 0,0:01:32.78,0:01:39.47,Doc,,0,0,0,,Zpočátku opravuje a předělává zbraně,\Nkteré zbyly po rakousko-uherské armádě.
+Dialogue: 0,0:01:39.52,0:01:42.81,Doc,,0,0,0,,Ale velmi brzy začne\Nvyvíjet vlastní konstrukce.
+Dialogue: 0,0:01:42.86,0:01:47.01,Doc,,0,0,0,,A mezi konstruktéry, kteří\Ntam pracují, vyniká jeden muž.
+Dialogue: 0,0:01:47.06,0:01:48.03,Doc,,0,0,0,,Václav Holek.
+Dialogue: 0,0:01:48.08,0:01:53.49,Doc,,0,0,0,,Narodil se koncem devatenáctého století\Na ke zbraním se dostal přes práci v
+Dialogue: 0,0:01:53.54,0:01:54.39,Doc,,0,0,0,,dílnách.
+Dialogue: 0,0:01:54.44,0:01:57.07,Doc,,0,0,0,,Postupně si vybudoval pověst člověka,
+Dialogue: 0,0:01:57.12,0:02:00.11,Doc,,0,0,0,,který dokáže z jednoduchých\Ndílů postavit zbraň,
+Dialogue: 0,0:02:00.16,0:02:02.83,Doc,,0,0,0,,jež funguje i v nejhorších podmínkách.
+Dialogue: 0,0:02:02.88,0:02:07.31,Doc,,0,0,0,,V Brně měl k dispozici moderní\Nstroje a tým schopných techniků.
+Dialogue: 0,0:02:07.36,0:02:08.77,Doc,,0,0,0,,A hlavně měl stát,
+Dialogue: 0,0:02:08.82,0:02:13.01,Doc,,0,0,0,,který chtěl mít vlastní zbraně a\Nbyl ochotný do nich investovat.
+Dialogue: 0,0:02:13.06,0:02:14.25,Doc,,0,0,0,,Holek byl samouk.
+Dialogue: 0,0:02:14.30,0:02:17.23,Doc,,0,0,0,,Neměl vysokou školu ani akademické tituly.
+Dialogue: 0,0:02:17.28,0:02:21.23,Doc,,0,0,0,,Měl ale mimořádný cit\Npro mechaniku a pro to,
+Dialogue: 0,0:02:21.28,0:02:24.65,Doc,,0,0,0,,jak má zbraň fungovat v\Nrukou obyčejného vojáka.
+Dialogue: 0,0:02:24.70,0:02:27.71,Doc,,0,0,0,,Spolu se svým týmem se pustil do úkolu,
+Dialogue: 0,0:02:27.76,0:02:30.41,Doc,,0,0,0,,který tehdy trápil všechny armády světa.
+Dialogue: 0,0:02:30.46,0:02:35.23,Doc,,0,0,0,,První světová válka ukázala, že\Npěchota potřebuje lehký kulomet.
+Dialogue: 0,0:02:35.28,0:02:37.43,Doc,,0,0,0,,Zbraň, kterou unese jeden voják,
+Dialogue: 0,0:02:37.48,0:02:42.25,Doc,,0,0,0,,která střílí rychle, a přitom nepotřebuje\Ntěžký podstavec a vodní chlazení.
+Dialogue: 0,0:02:42.30,0:02:43.84,Doc,,0,0,0,,Pokusů bylo mnoho.
+Dialogue: 0,0:02:43.89,0:02:46.95,Doc,,0,0,0,,Francouzský Chauchat byl nespolehlivý.
+Dialogue: 0,0:02:47.00,0:02:52.39,Doc,,0,0,0,,Americký Browning Automatic Rifle měl\Nmalý zásobník a nedal se rychle chladit.
+Dialogue: 0,0:02:52.44,0:02:55.05,Doc,,0,0,0,,Britský Lewis byl těžký a složitý.
+Dialogue: 0,0:02:55.10,0:02:57.47,Doc,,0,0,0,,Holek chtěl postavit něco lepšího.
+Dialogue: 0,0:02:57.52,0:03:00.67,Doc,,0,0,0,,Zbraň jednoduchou, spolehlivou a odolnou.
+Dialogue: 0,0:03:00.72,0:03:05.73,Doc,,0,0,0,,A podle mnoha historiků se mu to podařilo\Nlépe, než komukoli jinému té doby.
+Dialogue: 0,0:03:05.78,0:03:07.99,Doc,,0,0,0,,Výsledkem byl lehký kulomet,
+Dialogue: 0,0:03:08.04,0:03:12.03,Doc,,0,0,0,,který československá armáda\Nzavedla v polovině dvacátých let.
+Dialogue: 0,0:03:12.08,0:03:15.06,Doc,,0,0,0,,Dostal označení ZB vzor dvacet šest.
+Dialogue: 0,0:03:15.11,0:03:18.17,Doc,,0,0,0,,Písmena ZB znamenala Zbrojovka Brno.
+Dialogue: 0,0:03:18.22,0:03:21.08,Doc,,0,0,0,,A tahle zbraň brzy začne dobývat svět.
+Dialogue: 0,0:03:21.70,0:03:25.37,Doc,,0,0,0,,Co bylo na ZB vzor dvacet\Nšest tak výjimečného?
+Dialogue: 0,0:03:25.42,0:03:27.99,Doc,,0,0,0,,Kulomet byl poháněný plyny z hlavně.
+Dialogue: 0,0:03:28.04,0:03:32.93,Doc,,0,0,0,,Část prachových plynů po výstřelu\Nodebíral a jejich silou poháněl píst,
+Dialogue: 0,0:03:32.98,0:03:35.93,Doc,,0,0,0,,který pak natahoval a odemykal závěr.
+Dialogue: 0,0:03:35.98,0:03:41.68,Doc,,0,0,0,,Sklopný závěr se při výstřelu zamkl do\Npouzdra a po výstřelu se zase odemkl.
+Dialogue: 0,0:03:41.73,0:03:45.01,Doc,,0,0,0,,Jednoduché, robustní a spolehlivé řešení.
+Dialogue: 0,0:03:45.06,0:03:47.15,Doc,,0,0,0,,Zásobník se nasazoval shora.
+Dialogue: 0,0:03:47.20,0:03:50.59,Doc,,0,0,0,,Na první pohled neobvyklé,\Nale mělo to svou logiku.
+Dialogue: 0,0:03:50.64,0:03:56.60,Doc,,0,0,0,,Gravitace pomáhala podávat náboje do\Nkomory a střelec mohl ležet nízko u
+Dialogue: 0,0:03:56.65,0:03:59.33,Doc,,0,0,0,,země, protože zásobník netrčel dolů.
+Dialogue: 0,0:03:59.38,0:04:02.31,Doc,,0,0,0,,Mířidla ale musela být posunutá na stranu.
+Dialogue: 0,0:04:02.36,0:04:05.01,Doc,,0,0,0,,Největší předností ale byla hlaveň.
+Dialogue: 0,0:04:05.06,0:04:07.53,Doc,,0,0,0,,Dala se vyměnit během pár vteřin.
+Dialogue: 0,0:04:07.58,0:04:13.63,Doc,,0,0,0,,Stačilo uvolnit páku, vytáhnout rozpálenou\Nhlaveň za držadlo a nasadit novou.
+Dialogue: 0,0:04:13.68,0:04:17.55,Doc,,0,0,0,,Při dlouhé palbě se hlaveň\Npřehřívá a ztrácí přesnost.
+Dialogue: 0,0:04:17.60,0:04:20.43,Doc,,0,0,0,,S rychlou výměnou mohl\Nkulometčík střílet dál,
+Dialogue: 0,0:04:20.48,0:04:23.47,Doc,,0,0,0,,zatímco se původní hlaveň chladila.
+Dialogue: 0,0:04:23.52,0:04:25.46,Doc,,0,0,0,,A pak tu byla kvalita výroby.
+Dialogue: 0,0:04:25.51,0:04:28.65,Doc,,0,0,0,,Brněnská zbrojovka pracovala s přesností,
+Dialogue: 0,0:04:28.70,0:04:31.69,Doc,,0,0,0,,kterou oceňovali zahraniční odborníci.
+Dialogue: 0,0:04:31.74,0:04:33.41,Doc,,0,0,0,,Díly do sebe pasovaly,
+Dialogue: 0,0:04:33.46,0:04:38.69,Doc,,0,0,0,,zbraň vydržela obrovské množství\Nvýstřelů a vojáci ji dokázali rozebrat a
+Dialogue: 0,0:04:38.74,0:04:40.93,Doc,,0,0,0,,vyčistit v polních podmínkách.
+Dialogue: 0,0:04:40.98,0:04:44.25,Doc,,0,0,0,,Zbrojovka začala kulomet nabízet do světa.
+Dialogue: 0,0:04:44.30,0:04:45.81,Doc,,0,0,0,,A zájem byl obrovský.
+Dialogue: 0,0:04:45.86,0:04:51.23,Doc,,0,0,0,,Podle dostupných pramenů ZB vzor dvacet\Nšest a jeho varianty koupily desítky
+Dialogue: 0,0:04:51.28,0:04:52.05,Doc,,0,0,0,,zemí.
+Dialogue: 0,0:04:52.10,0:04:56.63,Doc,,0,0,0,,Od Číny přes Jugoslávii a\NRumunsko až po Jižní Ameriku.
+Dialogue: 0,0:04:56.68,0:05:01.51,Doc,,0,0,0,,V Číně se kulomety z Brna dostaly do\Nbojů proti japonské armádě a podle
+Dialogue: 0,0:05:01.56,0:05:05.99,Doc,,0,0,0,,dostupných zpráv se tam brzy\Nzačaly vyrábět i místní kopie.
+Dialogue: 0,0:05:06.04,0:05:09.77,Doc,,0,0,0,,V Jugoslávii a v Rumunsku\Nvznikly licenční verze.
+Dialogue: 0,0:05:09.82,0:05:14.37,Doc,,0,0,0,,Zbrojovka Brno se během pár let stala\Njedním z největších vývozců zbraní na
+Dialogue: 0,0:05:14.42,0:05:18.89,Doc,,0,0,0,,světě a lehký kulomet byl\Njejím nejúspěšnějším výrobkem.
+Dialogue: 0,0:05:18.94,0:05:24.02,Doc,,0,0,0,,Doma mezitím kulomet vzor dvacet šest\Ntvořil páteř palebné síly československé
+Dialogue: 0,0:05:24.07,0:05:25.07,Doc,,0,0,0,,pěchoty.
+Dialogue: 0,0:05:25.12,0:05:29.79,Doc,,0,0,0,,Když v třicátých letech rostlo napětí\Ns nacistickým Německem a v pohraničí
+Dialogue: 0,0:05:29.84,0:05:35.15,Doc,,0,0,0,,vznikala soustava betonových opevnění,\Npočítalo se s ním i v jejich obraně.
+Dialogue: 0,0:05:35.20,0:05:38.75,Doc,,0,0,0,,Armáda měla moderní zbraně\Na byla připravená bránit se.
+Dialogue: 0,0:05:38.80,0:05:41.59,Doc,,0,0,0,,Jenže o osudu země se\Nnakonec rozhodlo jinde.
+Dialogue: 0,0:05:41.64,0:05:47.23,Doc,,0,0,0,,Na začátku třicátých let se o zbraň\Nz Brna začala zajímat i jedna velmoc.
+Dialogue: 0,0:05:47.28,0:05:49.78,Doc,,0,0,0,,A ta měla velmi zvláštní požadavky.
+Dialogue: 0,0:05:50.48,0:05:55.81,Doc,,0,0,0,,Britská armáda na začátku třicátých\Nlet hledala náhradu za kulomet Lewis.
+Dialogue: 0,0:05:55.86,0:05:58.69,Doc,,0,0,0,,Ten sloužil už od první světové války.
+Dialogue: 0,0:05:58.74,0:06:03.01,Doc,,0,0,0,,Byl spolehlivý, ale těžký,\Nsložitý na výrobu a drahý.
+Dialogue: 0,0:06:03.06,0:06:05.47,Doc,,0,0,0,,Britové proto vyhlásili zkoušky.
+Dialogue: 0,0:06:05.52,0:06:09.03,Doc,,0,0,0,,Do soutěže se přihlásily\Nzbraně z několika zemí.
+Dialogue: 0,0:06:09.08,0:06:10.97,Doc,,0,0,0,,Mezi nimi dánský Madsen,
+Dialogue: 0,0:06:11.02,0:06:12.87,Doc,,0,0,0,,kulomet s dlouhou tradicí,
+Dialogue: 0,0:06:12.92,0:06:16.81,Doc,,0,0,0,,nebo britský Vickers-Berthier,\Nkterý měl výhodu domácího výrobce.
+Dialogue: 0,0:06:16.86,0:06:20.87,Doc,,0,0,0,,Zbraň z Brna tedy nesoutěžila\Ns žádnými amatéry,
+Dialogue: 0,0:06:20.92,0:06:23.75,Doc,,0,0,0,,ale s nejlepšími konstrukcemi své doby.
+Dialogue: 0,0:06:23.80,0:06:28.87,Doc,,0,0,0,,Českoslovenští konstruktéři do Anglie\Nposlali vylepšenou verzi svého kulometu.
+Dialogue: 0,0:06:28.92,0:06:32.46,Doc,,0,0,0,,Britští vojenští experti ji\Npodrobili tvrdým zkouškám.
+Dialogue: 0,0:06:32.51,0:06:37.69,Doc,,0,0,0,,Střílelo se z ní tisíce ran, testovala\Nse v prachu, v blátě i ve vodě.
+Dialogue: 0,0:06:37.74,0:06:41.73,Doc,,0,0,0,,A zbraň z Brna podle dobových\Nzpráv překonala konkurenci.
+Dialogue: 0,0:06:41.78,0:06:43.59,Doc,,0,0,0,,Jenže tu byl jeden problém.
+Dialogue: 0,0:06:43.64,0:06:46.17,Doc,,0,0,0,,Britská armáda používala vlastní náboj.
+Dialogue: 0,0:06:46.22,0:06:51.33,Doc,,0,0,0,,Starý puškový náboj ráže tři sta\Ntři, s okrajem na dně nábojnice.
+Dialogue: 0,0:06:51.38,0:06:56.47,Doc,,0,0,0,,Takový náboj se v zásobníku chová úplně\Njinak než moderní náboje bez okraje.
+Dialogue: 0,0:06:56.52,0:06:58.65,Doc,,0,0,0,,Má tendenci se zasekávat.
+Dialogue: 0,0:06:58.70,0:07:01.71,Doc,,0,0,0,,Zbrojovka proto musela\Nkulomet přepracovat.
+Dialogue: 0,0:07:01.76,0:07:04.55,Doc,,0,0,0,,Vznikla nová verze s upravenou komorou,
+Dialogue: 0,0:07:04.60,0:07:08.27,Doc,,0,0,0,,jiným závěrem a hlavně\Nse zahnutým zásobníkem,
+Dialogue: 0,0:07:08.32,0:07:11.19,Doc,,0,0,0,,který měl náboje s okrajem\Npodávat spolehlivě.
+Dialogue: 0,0:07:11.24,0:07:16.47,Doc,,0,0,0,,Právě tenhle typický zahnutý zásobník\Nnahoře se pak stal poznávacím znamením
+Dialogue: 0,0:07:16.52,0:07:17.53,Doc,,0,0,0,,Brenu.
+Dialogue: 0,0:07:17.58,0:07:22.19,Doc,,0,0,0,,V roce devatenáct set třicet pět\Npodepsali Britové licenční smlouvu.
+Dialogue: 0,0:07:22.24,0:07:24.21,Doc,,0,0,0,,Kulomet se měl vyrábět v Anglii,
+Dialogue: 0,0:07:24.26,0:07:27.67,Doc,,0,0,0,,v královské zbrojovce v\NEnfieldu nedaleko Londýna.
+Dialogue: 0,0:07:27.72,0:07:29.47,Doc,,0,0,0,,A tady vzniklo jméno.
+Dialogue: 0,0:07:29.52,0:07:33.71,Doc,,0,0,0,,Dvě první písmena z Brna a\Ndvě první písmena z Enfieldu.
+Dialogue: 0,0:07:33.76,0:07:35.23,Doc,,0,0,0,,BR a EN.
+Dialogue: 0,0:07:35.28,0:07:36.07,Doc,,0,0,0,,Bren.
+Dialogue: 0,0:07:36.12,0:07:40.33,Doc,,0,0,0,,V roce devatenáct set třicet sedm\Nsjely z linky první sériové kusy.
+Dialogue: 0,0:07:40.38,0:07:42.99,Doc,,0,0,0,,Britská armáda měla nový kulomet.
+Dialogue: 0,0:07:43.04,0:07:45.86,Doc,,0,0,0,,Ten se měl brzy dostat do skutečné války.
+Dialogue: 0,0:07:46.56,0:07:50.19,Doc,,0,0,0,,Válka přišla v září\Ndevatenáct set třicet devět.
+Dialogue: 0,0:07:50.24,0:07:52.68,Doc,,0,0,0,,A Bren do ní vstoupil hned od začátku.
+Dialogue: 0,0:07:52.73,0:07:55.77,Doc,,0,0,0,,Britští vojáci si ho rychle oblíbili.
+Dialogue: 0,0:07:55.82,0:07:59.73,Doc,,0,0,0,,Vážil zhruba deset kilogramů,\Ncož bylo na kulomet málo.
+Dialogue: 0,0:07:59.78,0:08:01.61,Doc,,0,0,0,,Unesl ho jeden muž.
+Dialogue: 0,0:08:01.66,0:08:06.79,Doc,,0,0,0,,Střílel kolem pěti set ran za minutu,\Ntedy pomaleji než německé kulomety.
+Dialogue: 0,0:08:06.84,0:08:09.78,Doc,,0,0,0,,Ale díky tomu byl\Npřesnější a šetřil munici.
+Dialogue: 0,0:08:09.83,0:08:13.17,Doc,,0,0,0,,Zkušený kulometčík z něj\Ndokázal střílet krátké,
+Dialogue: 0,0:08:13.22,0:08:15.51,Doc,,0,0,0,,přesné dávky skoro jako z pušky.
+Dialogue: 0,0:08:15.56,0:08:20.00,Doc,,0,0,0,,V britské pěchotní četě se Bren\Nstal základem palebné síly.
+Dialogue: 0,0:08:20.05,0:08:22.25,Doc,,0,0,0,,Každé družstvo mělo jeden.
+Dialogue: 0,0:08:22.30,0:08:24.33,Doc,,0,0,0,,Kolem něj se točila celá taktika.
+Dialogue: 0,0:08:24.38,0:08:27.68,Doc,,0,0,0,,Bren kryl postup, zatímco\Npuškaři manévrovali.
+Dialogue: 0,0:08:27.73,0:08:31.43,Doc,,0,0,0,,Jméno Bren se dokonce\Ndostalo i na vozidlo.
+Dialogue: 0,0:08:31.48,0:08:32.80,Doc,,0,0,0,,Malý pásový transportér,
+Dialogue: 0,0:08:32.85,0:08:37.25,Doc,,0,0,0,,který britská armáda používala\Nk převozu vojáků a výzbroje,
+Dialogue: 0,0:08:37.30,0:08:39.07,Doc,,0,0,0,,se lidově nazýval Bren carrier.
+Dialogue: 0,0:08:39.12,0:08:43.91,Doc,,0,0,0,,I když převážel všechno možné,\Njméno kulometu mu už zůstalo.
+Dialogue: 0,0:08:43.96,0:08:45.85,Doc,,0,0,0,,To samo o sobě ukazuje,
+Dialogue: 0,0:08:45.90,0:08:49.73,Doc,,0,0,0,,jak silně se Bren zapsal do\Nbritského vojenského života.
+Dialogue: 0,0:08:49.78,0:08:53.95,Doc,,0,0,0,,Pak přišel rok devatenáct set\Nčtyřicet a katastrofa ve Francii.
+Dialogue: 0,0:08:54.00,0:08:58.89,Doc,,0,0,0,,Britský expediční sbor musel ustoupit\Nk pobřeží a evakuovat se z Dunkerque.
+Dialogue: 0,0:08:58.94,0:09:03.69,Doc,,0,0,0,,Vojáci se zachránili, ale těžká\Nvýzbroj zůstala na plážích.
+Dialogue: 0,0:09:03.74,0:09:07.69,Doc,,0,0,0,,Podle odhadů tam Británie\Nztratila velkou část svých Brenů.
+Dialogue: 0,0:09:07.74,0:09:10.25,Doc,,0,0,0,,Výroba se proto musela rychle zvýšit.
+Dialogue: 0,0:09:10.30,0:09:12.37,Doc,,0,0,0,,Samotný Enfield nestačil.
+Dialogue: 0,0:09:12.42,0:09:14.83,Doc,,0,0,0,,Bren se začal vyrábět i v Kanadě,
+Dialogue: 0,0:09:14.88,0:09:18.67,Doc,,0,0,0,,kde se továrna v Torontu stala\Njedním z největších výrobců.
+Dialogue: 0,0:09:18.72,0:09:21.15,Doc,,0,0,0,,Později přibyla Austrálie a Indie.
+Dialogue: 0,0:09:21.20,0:09:24.43,Doc,,0,0,0,,V kanadské továrně pracovaly tisíce žen.
+Dialogue: 0,0:09:24.48,0:09:27.36,Doc,,0,0,0,,Jedna z nich, mladá\Ndělnice Veronica Fosterová,
+Dialogue: 0,0:09:27.41,0:09:31.03,Doc,,0,0,0,,se stala tváří propagandistických plakátů.
+Dialogue: 0,0:09:31.08,0:09:34.59,Doc,,0,0,0,,Celá Kanada ji znala jako\NRonnie, dívku od Brenu.
+Dialogue: 0,0:09:34.64,0:09:39.11,Doc,,0,0,0,,Bren se tak během pár let proměnil z\Ncizí licence ve zbraň celého britského
+Dialogue: 0,0:09:39.16,0:09:40.13,Doc,,0,0,0,,impéria.
+Dialogue: 0,0:09:40.18,0:09:43.31,Doc,,0,0,0,,Jenže zatímco v Kanadě a\NBritánii jely linky naplno,
+Dialogue: 0,0:09:43.36,0:09:48.56,Doc,,0,0,0,,v jeho rodném městě se děly věci, které\Nmají s hrdostí jen málo společného.
+Dialogue: 0,0:09:49.25,0:09:53.28,Doc,,0,0,0,,Než se podíváme, co se\Ndělo v Brně, krátká prosba.
+Dialogue: 0,0:09:53.33,0:09:57.90,Doc,,0,0,0,,Pokud vás historie zbraní baví,\Ndejte odběr a zapněte zvoneček.
+Dialogue: 0,0:09:57.95,0:10:00.44,Doc,,0,0,0,,Pomáhá to kanálu a je to zdarma.
+Dialogue: 0,0:10:00.49,0:10:01.97,Doc,,0,0,0,,A teď zpátky.
+Dialogue: 0,0:10:02.02,0:10:07.52,Doc,,0,0,0,,Patnáctého března devatenáct set třicet\Ndevět obsadila německá armáda zbytek
+Dialogue: 0,0:10:07.57,0:10:08.17,Doc,,0,0,0,,Česka.
+Dialogue: 0,0:10:08.22,0:10:10.10,Doc,,0,0,0,,Vznikl protektorát.
+Dialogue: 0,0:10:10.15,0:10:15.42,Doc,,0,0,0,,A zbrojovka v Brně, jedna z nejmodernějších\Nv Evropě, padla Němcům do rukou.
+Dialogue: 0,0:10:15.47,0:10:18.92,Doc,,0,0,0,,Pro nacistické Německo\Nto byla obrovská kořist.
+Dialogue: 0,0:10:18.97,0:10:23.44,Doc,,0,0,0,,Továrny, stroje, plány, zkušení\Ndělníci a zásoby zbraní.
+Dialogue: 0,0:10:23.49,0:10:25.98,Doc,,0,0,0,,Kulomety ZB vzor dvacet šest,
+Dialogue: 0,0:10:26.03,0:10:28.86,Doc,,0,0,0,,které měla československá\Narmáda ve skladech,
+Dialogue: 0,0:10:28.91,0:10:31.58,Doc,,0,0,0,,převzal wehrmacht pod vlastním označením.
+Dialogue: 0,0:10:31.63,0:10:35.14,Doc,,0,0,0,,A brněnská zbrojovka musela\Nvyrábět pro okupanty.
+Dialogue: 0,0:10:35.19,0:10:38.56,Doc,,0,0,0,,Vznikla tak jedna z\Nnejpodivnějších situací celé války.
+Dialogue: 0,0:10:38.61,0:10:43.44,Doc,,0,0,0,,V Enfieldu a v Torontu se vyráběly\NBreny pro boj proti Německu.
+Dialogue: 0,0:10:43.49,0:10:47.80,Doc,,0,0,0,,V Brně se zároveň vyráběly zbraně\Npodobné konstrukce pro Německo.
+Dialogue: 0,0:10:47.85,0:10:52.16,Doc,,0,0,0,,Dva kulomety ze stejného rodokmenu\Nstály proti sobě na opačných stranách
+Dialogue: 0,0:10:52.21,0:10:53.10,Doc,,0,0,0,,fronty.
+Dialogue: 0,0:10:53.15,0:10:56.57,Doc,,0,0,0,,Mnoho českých dělníků se\Nsnažilo výrobu sabotovat.
+Dialogue: 0,0:10:56.62,0:10:58.82,Doc,,0,0,0,,Někteří za to zaplatili životem.
+Dialogue: 0,0:10:58.87,0:11:04.68,Doc,,0,0,0,,Zbraně odcházely z linky s drobnými\Nvadami, výroba se zdržovala, plány mizely.
+Dialogue: 0,0:11:04.73,0:11:09.74,Doc,,0,0,0,,Šlo o nebezpečnou hru, protože gestapo\Nmělo v továrnách své informátory.
+Dialogue: 0,0:11:09.79,0:11:14.40,Doc,,0,0,0,,Odboj v protektorátu byl krutě\Npronásledován a zbrojovky byly pod přísným
+Dialogue: 0,0:11:14.45,0:11:15.44,Doc,,0,0,0,,dohledem.
+Dialogue: 0,0:11:15.49,0:11:20.22,Doc,,0,0,0,,A pak tu byla ještě jedna skupina lidí,\Npro kterou měl Bren zvláštní význam.
+Dialogue: 0,0:11:20.27,0:11:25.22,Doc,,0,0,0,,Českoslovenští vojáci, kteří utekli\Nz okupované vlasti a bojovali dál v
+Dialogue: 0,0:11:25.27,0:11:25.80,Doc,,0,0,0,,zahraničí.
+Dialogue: 0,0:11:25.85,0:11:28.78,Doc,,0,0,0,,Ti dostali do rukou britské kulomety.
+Dialogue: 0,0:11:28.83,0:11:32.41,Doc,,0,0,0,,Kulomety, které vznikly z\Nkonstrukce jejich vlastní země.
+Dialogue: 0,0:11:33.13,0:11:38.16,Doc,,0,0,0,,Českoslovenští vojáci v exilu se po\Npádu Francie dostali do Británie.
+Dialogue: 0,0:11:38.21,0:11:41.46,Doc,,0,0,0,,Tam vznikla samostatná\Nčeskoslovenská brigáda.
+Dialogue: 0,0:11:41.51,0:11:43.94,Doc,,0,0,0,,A její muži dostali britskou výzbroj.
+Dialogue: 0,0:11:43.99,0:11:45.47,Doc,,0,0,0,,Včetně Brenů.
+Dialogue: 0,0:11:45.52,0:11:51.22,Doc,,0,0,0,,Pro mnoho z nich to\Nmusel být zvláštní pocit.
+Dialogue: 0,0:11:51.27,0:11:54.46,Doc,,0,0,0,,Drželi v rukou zbraň,\Nkterou znali z domova,
+Dialogue: 0,0:11:54.51,0:11:57.36,Doc,,0,0,0,,jen s jiným zásobníkem a jiným jménem.
+Dialogue: 0,0:11:57.41,0:12:00.98,Doc,,0,0,0,,Kulomet z Brna se k\Nnim vrátil přes Anglii.
+Dialogue: 0,0:12:01.03,0:12:05.20,Doc,,0,0,0,,V letech devatenáct set čtyřicet čtyři\Na čtyřicet pět obléhala československá
+Dialogue: 0,0:12:05.25,0:12:07.12,Doc,,0,0,0,,obrněná brigáda francouzský\Npřístav Dunkerque.
+Dialogue: 0,0:12:07.17,0:12:08.76,Doc,,0,0,0,,Ten samý Dunkerque,
+Dialogue: 0,0:12:08.81,0:12:13.40,Doc,,0,0,0,,kde Britové v roce devatenáct set\Nčtyřicet zanechali svoje Breny.
+Dialogue: 0,0:12:13.45,0:12:16.14,Doc,,0,0,0,,Teď se tam s Breny vrátili Čechoslováci.
+Dialogue: 0,0:12:16.19,0:12:20.52,Doc,,0,0,0,,A právě oni na konci války přijali\Nkapitulaci tamní německé posádky.
+Dialogue: 0,0:12:20.57,0:12:24.92,Doc,,0,0,0,,Bren mezitím bojoval na všech frontách.
+Dialogue: 0,0:12:24.97,0:12:31.28,Doc,,0,0,0,,V severní Africe, kde ho britští vojáci\Nchválili, protože snesl poušť a písek.
+Dialogue: 0,0:12:31.33,0:12:34.34,Doc,,0,0,0,,V Itálii, v Normandii, v Nizozemsku.
+Dialogue: 0,0:12:34.39,0:12:36.66,Doc,,0,0,0,,V barmské džungli proti Japoncům.
+Dialogue: 0,0:12:36.71,0:12:39.74,Doc,,0,0,0,,Používaly ho jednotky\Nz celého Commonwealthu.
+Dialogue: 0,0:12:39.79,0:12:44.44,Doc,,0,0,0,,Australané, Kanaďané,\NIndové, Novozélanďané.
+Dialogue: 0,0:12:44.49,0:12:48.72,Doc,,0,0,0,,Breny dostávaly i exilové\Narmády dalších okupovaných zemí.
+Dialogue: 0,0:12:48.77,0:12:52.32,Doc,,0,0,0,,Poláci, Francouzi, Nizozemci, Norové.
+Dialogue: 0,0:12:52.37,0:12:56.70,Doc,,0,0,0,,A přes Británii se dostávaly i\Nk odbojářům v okupované Evropě,
+Dialogue: 0,0:12:56.75,0:13:01.90,Doc,,0,0,0,,kterým je shazovala letadla na\Npadácích spolu s municí a výbušninami.
+Dialogue: 0,0:13:01.95,0:13:07.09,Doc,,0,0,0,,Dokonce i Němci si ukořistěné Breny\Ncenili a používali je, když je získali.
+Dialogue: 0,0:13:07.14,0:13:12.18,Doc,,0,0,0,,Do konce války se podle odhadů\Nvyrobily stovky tisíc Brenů.
+Dialogue: 0,0:13:12.23,0:13:16.40,Doc,,0,0,0,,Kulomet se stal jedním ze\Nsymbolů spojeneckého vítězství.
+Dialogue: 0,0:13:16.45,0:13:18.64,Doc,,0,0,0,,A pro britské vojáky byl tím,
+Dialogue: 0,0:13:18.69,0:13:22.98,Doc,,0,0,0,,čím byl pro Američany Browning\Nnebo pro Rusy jejich samopal.
+Dialogue: 0,0:13:23.03,0:13:26.36,Doc,,0,0,0,,Spolehlivý kamarád, na\Nkterého se dalo spolehnout.
+Dialogue: 0,0:13:26.41,0:13:28.04,Doc,,0,0,0,,Jenže válka skončila.
+Dialogue: 0,0:13:28.09,0:13:29.88,Doc,,0,0,0,,A s ní měl skončit i Bren.
+Dialogue: 0,0:13:29.93,0:13:31.17,Doc,,0,0,0,,Nestalo se tak.
+Dialogue: 0,0:13:31.87,0:13:34.26,Doc,,0,0,0,,Po válce přišla nová doba.
+Dialogue: 0,0:13:34.31,0:13:39.76,Doc,,0,0,0,,Armády NATO se na začátku padesátých\Nlet dohodly na novém společném náboji.
+Dialogue: 0,0:13:39.81,0:13:43.84,Doc,,0,0,0,,Starý britský náboj ráže tři\Nsta tři se stal minulostí.
+Dialogue: 0,0:13:43.89,0:13:46.38,Doc,,0,0,0,,Britové ale svůj Bren nezahodili.
+Dialogue: 0,0:13:46.43,0:13:49.56,Doc,,0,0,0,,Místo toho ho upravili na nový náboj NATO.
+Dialogue: 0,0:13:49.61,0:13:53.72,Doc,,0,0,0,,Vznikla verze označená L\Nčtyři s rovným zásobníkem,
+Dialogue: 0,0:13:53.77,0:13:56.88,Doc,,0,0,0,,kterou britská armáda\Npoužívala ještě desítky let.
+Dialogue: 0,0:13:56.93,0:13:58.76,Doc,,0,0,0,,A Bren dál bojoval.
+Dialogue: 0,0:13:58.81,0:14:02.86,Doc,,0,0,0,,V Koreji, v Malajsku, v\NKeni, na Kypru, v Adenu.
+Dialogue: 0,0:14:02.91,0:14:08.04,Doc,,0,0,0,,V roce devatenáct set osmdesát dva\Nho britští vojáci nesli na Falklandy.
+Dialogue: 0,0:14:08.09,0:14:12.36,Doc,,0,0,0,,A některé jednotky ho měly ještě v\Nroce devatenáct set devadesát jedna ve
+Dialogue: 0,0:14:12.41,0:14:14.40,Doc,,0,0,0,,válce v Perském zálivu.
+Dialogue: 0,0:14:14.45,0:14:18.84,Doc,,0,0,0,,Teprve v devadesátých letech začala\Nbritská armáda Breny definitivně
+Dialogue: 0,0:14:18.89,0:14:19.84,Doc,,0,0,0,,vyřazovat.
+Dialogue: 0,0:14:19.89,0:14:24.71,Doc,,0,0,0,,Podle některých zdrojů zůstaly u vybraných\Njednotek ještě i na začátku nového
+Dialogue: 0,0:14:24.76,0:14:25.44,Doc,,0,0,0,,tisíciletí.
+Dialogue: 0,0:14:25.49,0:14:28.50,Doc,,0,0,0,,Celkem tedy Bren sloužil přes půl století.
+Dialogue: 0,0:14:28.55,0:14:32.28,Doc,,0,0,0,,Dnes jsou Breny oblíbeným\Nsběratelským kouskem.
+Dialogue: 0,0:14:32.33,0:14:36.24,Doc,,0,0,0,,V Británii se konají setkání\Nmilovníků vojenské historie,
+Dialogue: 0,0:14:36.29,0:14:41.26,Doc,,0,0,0,,kde se znehodnocené Breny vystavují\Nvedle uniforem a vozidel z druhé světové
+Dialogue: 0,0:14:41.31,0:14:42.18,Doc,,0,0,0,,války.
+Dialogue: 0,0:14:42.23,0:14:45.22,Doc,,0,0,0,,Pro mnoho Britů je to\Nkus rodinné historie,
+Dialogue: 0,0:14:45.27,0:14:47.28,Doc,,0,0,0,,protože s ním bojovali jejich dědové.
+Dialogue: 0,0:14:47.33,0:14:49.10,Doc,,0,0,0,,A co jeho domov?
+Dialogue: 0,0:14:49.15,0:14:52.94,Doc,,0,0,0,,V Československu se po válce\Nvyráběly další kulomety,
+Dialogue: 0,0:14:52.99,0:14:55.32,Doc,,0,0,0,,které na tradici z Brna navazovaly.
+Dialogue: 0,0:14:55.37,0:14:57.82,Doc,,0,0,0,,A v roce dva tisíce jedenáct,
+Dialogue: 0,0:14:57.87,0:15:02.50,Doc,,0,0,0,,když česká armáda dostala novou\Nútočnou pušku z Uherského Brodu,
+Dialogue: 0,0:15:02.55,0:15:04.70,Doc,,0,0,0,,dostala tahle zbraň jméno BREN.
+Dialogue: 0,0:15:04.75,0:15:07.62,Doc,,0,0,0,,Česká zbrojovka tak vzdala hold legendě,
+Dialogue: 0,0:15:07.67,0:15:12.06,Doc,,0,0,0,,kterou kdysi vymysleli čeští\Nkonstruktéři a proslavili Britové.
+Dialogue: 0,0:15:12.11,0:15:18.14,Doc,,0,0,0,,Jméno, které vzniklo z Brna a Enfieldu,\Nse po sedmdesáti letech vrátilo domů.
+Dialogue: 0,0:15:18.19,0:15:21.22,Doc,,0,0,0,,Ale proč vlastně kulomet\Nz Brna dokázal tolik?
+Dialogue: 0,0:15:21.27,0:15:24.59,Doc,,0,0,0,,Proč si ho vybrala velmoc,\Nkterá mohla mít cokoli?
+Dialogue: 0,0:15:25.34,0:15:27.27,Doc,,0,0,0,,Odpověď je v Holkově konstrukci.
+Dialogue: 0,0:15:27.32,0:15:31.82,Doc,,0,0,0,,ZB vzor dvacet šest a z něj\Nvycházející Bren byly jednoduché,
+Dialogue: 0,0:15:31.87,0:15:34.08,Doc,,0,0,0,,spolehlivé a dobře se ovládaly.
+Dialogue: 0,0:15:34.13,0:15:37.77,Doc,,0,0,0,,Měly hlaveň, kterou šlo\Nvyměnit za pár vteřin.
+Dialogue: 0,0:15:37.82,0:15:39.35,Doc,,0,0,0,,Střílely přesně.
+Dialogue: 0,0:15:39.40,0:15:41.75,Doc,,0,0,0,,A daly se vyrábět ve velkých sériích,
+Dialogue: 0,0:15:41.80,0:15:45.87,Doc,,0,0,0,,v různých zemích, různými\Ndělníky, bez ztráty kvality.
+Dialogue: 0,0:15:45.92,0:15:49.89,Doc,,0,0,0,,Britové si nevybrali Bren kvůli\Nsympatiím k Československu.
+Dialogue: 0,0:15:49.94,0:15:53.47,Doc,,0,0,0,,Vybrali si ho, protože ve\Nzkouškách porazil konkurenci.
+Dialogue: 0,0:15:53.52,0:15:57.27,Doc,,0,0,0,,A pak ho dokázali přizpůsobit\Nvlastním potřebám,
+Dialogue: 0,0:15:57.32,0:16:01.47,Doc,,0,0,0,,nejdřív starému náboji s\Nokrajem, později náboji NATO.
+Dialogue: 0,0:16:01.52,0:16:03.53,Doc,,0,0,0,,Je v tom zvláštní ironie.
+Dialogue: 0,0:16:03.58,0:16:09.27,Doc,,0,0,0,,Malá země, která v roce devatenáct set\Ntřicet osm neměla šanci se ubránit,
+Dialogue: 0,0:16:09.32,0:16:11.49,Doc,,0,0,0,,dala světu jednu z nejlepších zbraní,
+Dialogue: 0,0:16:11.54,0:16:14.57,Doc,,0,0,0,,které pomohly porazit nacistické Německo.
+Dialogue: 0,0:16:14.62,0:16:19.23,Doc,,0,0,0,,Československá armáda svůj kulomet v\Nboji o vlastní vlast nikdy nepoužila.
+Dialogue: 0,0:16:19.28,0:16:25.07,Doc,,0,0,0,,Ale jeho britský potomek bojoval na všech\Nfrontách a pomáhal osvobodit Evropu.
+Dialogue: 0,0:16:25.12,0:16:29.77,Doc,,0,0,0,,A čeští vojáci v exilu nesli kus\Ndomova v rukou až k Dunkerque.
+Dialogue: 0,0:16:29.82,0:16:32.87,Doc,,0,0,0,,Dnes najdete Bren v\Nmuzeích po celém světě.
+Dialogue: 0,0:16:32.92,0:16:37.49,Doc,,0,0,0,,A když se podíváte zblízka na\Njeho jméno, uvidíte v něm Brno.
+Dialogue: 0,0:16:37.54,0:16:41.89,Doc,,0,0,0,,Malé připomenutí, že jedna z britských\Nlegend se narodila na Moravě.
+Dialogue: 0,0:16:41.94,0:16:43.43,Doc,,0,0,0,,Teď je řada na vás.
+Dialogue: 0,0:16:43.48,0:16:47.89,Doc,,0,0,0,,Napište do komentářů, jestli jste o\Nčeské stopě v historii Brenu věděli.
+Dialogue: 0,0:16:47.94,0:16:52.75,Doc,,0,0,0,,A znáte další zbraň, kterou vymysleli\NČeši a proslavil někdo jiný?
+Dialogue: 0,0:16:52.80,0:16:56.05,Doc,,0,0,0,,A pokud vás zajímají další\Npříběhy, dejte odběr.
+Dialogue: 0,0:16:56.10,0:16:58.05,Doc,,0,0,0,,Příště se podíváme na to,
+Dialogue: 0,0:16:58.10,0:17:02.45,Doc,,0,0,0,,proč česká armáda začala nahrazovat\Nsamopal vzor padesát osm.
+Dialogue: 0,0:17:02.50,0:17:04.30,Doc,,0,0,0,,Díky, že jste se dívali.

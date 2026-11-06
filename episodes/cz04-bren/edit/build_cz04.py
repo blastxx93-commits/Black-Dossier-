@@ -13,11 +13,11 @@ AI = lambda *names: ["ai:" + n for n in names]  # noqa: E731
 PHOTOS = {
     "bren": ["bren", "bren_l4", "museum_mg"] + AI("ai_top_magazine", "ai_barrel_change", "ai_museum_bren"),
     "war": ["bren_ww2", "normandy", "bren_desert", "bren_burma", "bren_carrier"] + AI("ai_desert_gunner", "ai_jungle_gunner", "ai_normandy_hedge"),
-    "zb": ["zb26", "holek", "museum_mg"] + AI("ai_holek_workshop"),
-    "brno": ["zbrojovka_brno", "brno_old", "czech_bunker"] + AI("ai_brno_factory_1920s"),
-    "uk": ["enfield", "lewis_gun", "bren_girl"] + AI("ai_trials_england", "ai_contract_1935", "ai_enfield_line", "ai_canada_women"),
+    "zb": ["zb26", "holek", "museum_mg", "x_bren_zb26", "x_weapons_museum", "x_sa23", "x_vz27"] + AI("ai_holek_workshop"),
+    "brno": ["zbrojovka_brno", "brno_old", "czech_bunker", "x_brno_zbrojovka", "x_brno_city", "x_czsl_army"] + AI("ai_brno_factory_1920s"),
+    "uk": ["enfield", "lewis_gun", "bren_girl", "x_hi_power"] + AI("ai_trials_england", "ai_contract_1935", "ai_enfield_line", "ai_canada_women"),
     "dunkirk": ["dunkirk", "dunkirk_1945", "czech_exile"] + AI("ai_dunkirk_beach", "ai_exile_camp", "ai_dunkirk_siege", "ai_resistance_drop"),
-    "occupation": ["protectorate", "czech_bunker"] + AI("ai_protectorate_factory", "ai_sabotage"),
+    "occupation": ["protectorate", "czech_bunker", "x_cold_war_army", "x_conscripts"] + AI("ai_protectorate_factory", "ai_sabotage"),
     "late": ["bren_l4", "falklands", "cz_bren"] + AI("ai_falklands", "ai_reenactors"),
 }
 CLIPS = json.load(open(os.path.join(HERE, "clips.json")))
@@ -25,7 +25,7 @@ GENERIC = CLIPS.pop("_generic", [])
 FALLBACK = {k: ["war", "bren", "zb"] for k in PHOTOS}
 A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FALLBACK, ["war", "bren", "zb"])
 A.CLIP_TARGET = 0.45
-A.MAX_HOLD, A.KEEP = 11.0, 7.0
+A.MAX_HOLD, A.KEEP = 12.0, 8.0
 A.ARCHIVE_OK = True
 A.SPLIT_BY_SUBJECT = True
 chapters = []

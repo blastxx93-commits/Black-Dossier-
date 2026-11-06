@@ -1,0 +1,18 @@
+{
+ "war": [
+  "c_british_army/2",
+  "c_british_army/5",
+  "c_burma/3",
+  "c_north_africa/1",
+  "c_north_africa/4"
+ ],
+ "dunkirk": [
+  "s_beach/2",
+  "s_beach/3",
+  "c_normandy/5"
+ ],
+ "brno": [
+  "s_brno/1"
+ ],
+ "_generic": []
+}
