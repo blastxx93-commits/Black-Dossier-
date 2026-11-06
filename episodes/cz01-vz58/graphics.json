@@ -1,17 +1,134 @@
 [
- {"id":"g_map_cs","kind":"map","dur":7,"label":"Střední Evropa · 1958","title":"Československo","pins":[["Praha",14.42,50.08],["Brno",16.61,49.19,"l"],["Uherský Brod",17.65,49.03,"b"]]},
- {"id":"g_warsaw","kind":"timeline","dur":8,"label":"Studená válka","title":"Cesta k vlastní zbrani","events":[[1952,"puška vz. 52, vlastní náboj"],[1955,"Varšavská smlouva"],[1957,"přechod na sovětský náboj"],[1958,"Sa vz. 58 zavedena"]]},
- {"id":"g_cartridges","kind":"compare","dur":8,"label":"Dva náboje","names":["vz. 52","M43 (SSSR)"],"rows":[["Ráže","7,62 × 45 mm","7,62 × 39 mm",null],["Původ","Československo","Sovětský svaz",null],["Osud","nahrazen","standard bloku",1]]},
- {"id":"g_reasons","kind":"chapter","dur":6,"num":"Proč ne kalašnikov?","title":"Hrdost · Vývoz · Sebevědomí","sub":"tři důvody, které zmiňují historici","size":110},
- {"id":"g_chap_inside","kind":"chapter","dur":5,"num":"Kapitola 3","title":"Pod krytem závěru","sub":"proč to není kalašnikov"},
- {"id":"g_compare","kind":"compare","dur":11,"label":"Srovnání konstrukce","names":["Sa vz. 58","AK-47"],"rows":[["Uzamčení","sklopný klín","otočný závěr",null],["Píst","krátký zdvih","dlouhý zdvih",null],["Odpálení","úderník","kohout",null],["Záchyt závěru","ano","ne",0],["Hmotnost (prázdná)","≈ 2,9 kg","≈ 3,5 kg",0]]},
- {"id":"g_spec","kind":"spec","dur":10,"title":"Sa vz. 58","sub":"Konstrukta Brno · Jiří Čermák","rows":[["Ráže","7,62 × 39 mm"],["Hmotnost","2,91 kg"],["Kadence","≈ 800 ran/min"],["Zásobník","30 nábojů"],["Výroba","1959 – 1984"]],"stamp":"Zavedeno 1958","img":"ai/thumb_a_1.jpg"},
- {"id":"g_production","kind":"stat","dur":6,"value":920000,"suffix":" ks","kicker":"Uherský Brod · 1959–1984","label":"vyrobených samopalů vz. 58","source":"odhad · různé prameny"},
- {"id":"g_variants","kind":"spec","dur":8,"label":"Varianty","title":"P · V · Pi","sub":"jedna zbraň, tři verze","rows":[["vz. 58 P","pěchota, pevná pažba"],["vz. 58 V","výsadkáři, sklopná opěrka"],["vz. 58 Pi","držák nočního zaměřovače"]]},
- {"id":"g_1968","kind":"chapter","dur":6,"num":"20.–21. srpna 1968","title":"Noc, kdy nikdo nevystřelil","sub":"invaze vojsk Varšavské smlouvy","size":120},
- {"id":"g_invasion_map","kind":"map","dur":7,"label":"Srpen 1968","title":"Invaze do Československa","pins":[["Praha",14.42,50.08],["Bratislava",17.11,48.15,"b"]],"bbox":[11.0,24.0,46.9,52.0]},
- {"id":"g_victims","kind":"stat","dur":6,"value":137,"kicker":"srpen – prosinec 1968","label":"civilních obětí okupace","source":"Ústav pro studium totalitních režimů"},
- {"id":"g_timeline_life","kind":"timeline","dur":9,"label":"Život jedné zbraně","title":"Šedesát let ve službě","events":[[1958,"zavedení"],[1968,"invaze"],[1984,"konec výroby"],[1993,"rozdělení státu"],[2011,"nástupce BREN"],[2022,"Ukrajina"]]},
- {"id":"g_quote_twins","kind":"quote","dur":6,"text":"Navenek dvojčata. Uvnitř cizinci.","who":"Sa vz. 58 a kalašnikov","size":96},
- {"id":"g_answers","kind":"spec","dur":10,"label":"Tři odpovědi","title":"Proč vz. 58?","sub":"shrnutí","rows":[["Proč ne AK","hrdost, vývoz, sebevědomí"],["Co je uvnitř","klín, krátký píst, úderník"],["Proč dodnes","funguje a je jí dost"]]}
+ {
+  "id": "g_map_cs",
+  "kind": "map",
+  "dur": 7,
+  "label": "Střední Evropa · 1958",
+  "title": "Československo",
+  "pins": [
+   [
+    "Praha",
+    14.42,
+    50.08
+   ],
+   [
+    "Brno",
+    16.61,
+    49.19,
+    "l"
+   ],
+   [
+    "Uherský Brod",
+    17.65,
+    49.03,
+    "b"
+   ]
+  ]
+ },
+ {
+  "id": "g_compare",
+  "kind": "compare",
+  "dur": 11,
+  "label": "Srovnání konstrukce",
+  "names": [
+   "Sa vz. 58",
+   "AK-47"
+  ],
+  "rows": [
+   [
+    "Uzamčení",
+    "sklopný klín",
+    "otočný závěr",
+    null
+   ],
+   [
+    "Píst",
+    "krátký zdvih",
+    "dlouhý zdvih",
+    null
+   ],
+   [
+    "Odpálení",
+    "úderník",
+    "kohout",
+    null
+   ],
+   [
+    "Záchyt závěru",
+    "ano",
+    "ne",
+    0
+   ],
+   [
+    "Hmotnost (prázdná)",
+    "≈ 2,9 kg",
+    "≈ 3,5 kg",
+    0
+   ]
+  ]
+ },
+ {
+  "id": "g_spec",
+  "kind": "spec",
+  "dur": 10,
+  "title": "Sa vz. 58",
+  "sub": "Konstrukta Brno · Jiří Čermák",
+  "rows": [
+   [
+    "Ráže",
+    "7,62 × 39 mm"
+   ],
+   [
+    "Hmotnost",
+    "2,91 kg"
+   ],
+   [
+    "Kadence",
+    "≈ 800 ran/min"
+   ],
+   [
+    "Zásobník",
+    "30 nábojů"
+   ],
+   [
+    "Výroba",
+    "1959 – 1984"
+   ]
+  ],
+  "stamp": "Zavedeno 1958",
+  "img": "ai/thumb_a_1.jpg"
+ },
+ {
+  "id": "g_timeline_life",
+  "kind": "timeline",
+  "dur": 9,
+  "label": "Život jedné zbraně",
+  "title": "Šedesát let ve službě",
+  "events": [
+   [
+    1958,
+    "zavedení"
+   ],
+   [
+    1968,
+    "invaze"
+   ],
+   [
+    1984,
+    "konec výroby"
+   ],
+   [
+    1993,
+    "rozdělení státu"
+   ],
+   [
+    2011,
+    "nástupce BREN"
+   ],
+   [
+    2022,
+    "Ukrajina"
+   ]
+  ]
+ }
 ]

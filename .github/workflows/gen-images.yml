@@ -16,6 +16,10 @@ on:
         description: "Regerar planos que já têm imagem"
         type: boolean
         default: false
+      provider:
+        description: "Gerador: replicate (Flux, padrão) ou gemini"
+        required: false
+        default: "replicate"
 
 permissions:
   contents: write
@@ -43,7 +47,7 @@ jobs:
         working-directory: main
         env:
           REPLICATE_API_TOKEN: ${{ secrets.REPLICATE_API_TOKEN }}
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_API_KEY: ${{ inputs.provider == 'gemini' && secrets.GEMINI_API_KEY || '' }}
           GEMINI_IMAGE_MODEL: ${{ vars.GEMINI_IMAGE_MODEL }}
         run: |
           args=(--out ../out --only "${{ inputs.only }}" --existing "../assets/${{ inputs.episode }}/ai")

@@ -32,11 +32,13 @@ o dono dá o aval antes de gastar créditos grandes (voz do episódio inteiro + 
 
 ## 4. Edição (estilo do canal de referência + motor do canal Austrália/ES)
 - Visual "pergaminho e blueprint": fundo de papel envelhecido, grade técnica, tinta preta, carimbo vermelho-ferrugem.
-- **Gráficos em HyperFrames** (`engine/hf_graphics.py`, lista em `episodes/<ep>/graphics.json`):
-  ficha técnica, comparação A × B, linha do tempo, mapa da Europa Central, título de capítulo, citação, número grande.
-  Viram MP4 e entram na montagem como clipes de tela cheia.
-- Fotos reais (Wikimedia Commons / Openverse / LoC, só licenças livres) das armas sempre que existirem;
-  cinejornais de domínio público para guerra/época; cenas de IA (Flux) no estilo "foto documental cinematográfica" para o resto.
+- **Material real é o principal do vídeo (pedido do dono, 06/11/2026):** banco de fotos e clipes primeiro
+  (Wikimedia Commons / Openverse / LoC para fotos; cinejornais de domínio público + Pexels/Pixabay/Commons para clipes),
+  com muitas buscas por tema. Meta de ~45% do tempo de imagem em clipes.
+- **Cenas de IA só onde não houver foto ou clipe real que sirva**, geradas no **Replicate (Flux)** — o workflow
+  "Gerar imagens IA" agora usa Replicate por padrão. Nas listas de montagem, a IA fica sempre por último em cada cena.
+- **Gráficos HyperFrames só o essencial** (~3–5 por vídeo: mapa, ficha técnica, comparação, linha do tempo),
+  gerados por `engine/hf_graphics.py` a partir de `episodes/<ep>/graphics.json`.
 - Mesmo motor e regras de montagem dos outros canais: nunca tela preta, nada parado, nada repetido, cada corte preso à frase,
   legendas amarelas gravadas + .srt, trilha baixa (-29 dB), voz a 1.0, render paralelo no GitHub.
 

@@ -210,6 +210,198 @@
     "7.62x45mm vz. 52"
    ],
    "n": 5
+  },
+  {
+   "id": "vz58_more",
+   "query": "vz. 58",
+   "alt": [
+    "Sa 58",
+    "vz58 Czech rifle",
+    "Samopal vz. 58 muzeum",
+    "vz. 58 Pi",
+    "vz 58 compact"
+   ],
+   "n": 12
+  },
+  {
+   "id": "czech_soldiers_vz58",
+   "query": "Czech soldiers vz. 58 exercise",
+   "alt": [
+    "Armáda ČR samopal",
+    "Czech Army training rifle",
+    "Czech soldier 2000s"
+   ],
+   "n": 10
+  },
+  {
+   "id": "slovak_army",
+   "query": "Slovak army vz. 58",
+   "alt": [
+    "Ozbrojené sily Slovenskej republiky",
+    "Slovak soldiers rifle"
+   ],
+   "n": 6
+  },
+  {
+   "id": "invasion_1968_more",
+   "query": "Prague 1968",
+   "alt": [
+    "Soviet invasion Czechoslovakia",
+    "Praha srpen 1968",
+    "1968 Prague tanks crowd",
+    "Liberec 1968",
+    "Bratislava 1968"
+   ],
+   "n": 15
+  },
+  {
+   "id": "dubcek",
+   "query": "Alexander Dubček",
+   "alt": [
+    "Prague Spring 1968",
+    "Pražské jaro"
+   ],
+   "n": 5
+  },
+  {
+   "id": "soviet_army_parade",
+   "query": "Soviet army parade",
+   "alt": [
+    "Red Square parade 1960s",
+    "Soviet soldiers AK-47 parade"
+   ],
+   "n": 8
+  },
+  {
+   "id": "kalashnikov_museum",
+   "query": "Kalashnikov museum",
+   "alt": [
+    "AK-47 museum display",
+    "Mikhail Kalashnikov"
+   ],
+   "n": 6
+  },
+  {
+   "id": "brno_zbrojovka",
+   "query": "Zbrojovka Brno",
+   "alt": [
+    "Československá zbrojovka Brno",
+    "Brno arms factory"
+   ],
+   "n": 6
+  },
+  {
+   "id": "cz_ub_factory",
+   "query": "Česká zbrojovka",
+   "alt": [
+    "CZ Uherský Brod factory",
+    "Česká zbrojovka a.s."
+   ],
+   "n": 6
+  },
+  {
+   "id": "weapons_museum",
+   "query": "military museum small arms",
+   "alt": [
+    "army museum rifles display",
+    "muzeum zbraní",
+    "Vojenský historický ústav"
+   ],
+   "n": 10
+  },
+  {
+   "id": "cold_war_army",
+   "query": "Cold War soldiers",
+   "alt": [
+    "NVA East German army",
+    "Polish army 1970s",
+    "Hungarian army 1960s"
+   ],
+   "n": 8
+  },
+  {
+   "id": "africa_rifle_70s",
+   "query": "Africa liberation war rifles",
+   "alt": [
+    "Angola war 1970s",
+    "Mozambique FRELIMO",
+    "Rhodesian bush war"
+   ],
+   "n": 8
+  },
+  {
+   "id": "israel_1948_czech",
+   "query": "Avia S-199",
+   "alt": [
+    "Czech arms Israel 1948",
+    "Operation Balak"
+   ],
+   "n": 4
+  },
+  {
+   "id": "uzi",
+   "query": "Uzi submachine gun",
+   "alt": [
+    "Uzi museum",
+    "IMI Uzi"
+   ],
+   "n": 4
+  },
+  {
+   "id": "velvet_more",
+   "query": "Velvet Revolution",
+   "alt": [
+    "November 1989 Prague crowd",
+    "Wenceslas Square 1989"
+   ],
+   "n": 6
+  },
+  {
+   "id": "nato_1999",
+   "query": "Czech Republic NATO accession 1999",
+   "alt": [
+    "Czech NATO 1999",
+    "NATO flags Prague"
+   ],
+   "n": 4
+  },
+  {
+   "id": "bren2",
+   "query": "CZ BREN 2",
+   "alt": [
+    "CZ BREN 2 Czech army",
+    "BREN 2 rifle"
+   ],
+   "n": 8
+  },
+  {
+   "id": "ukraine_more",
+   "query": "Ukrainian soldiers 2022",
+   "alt": [
+    "Ukrainian army rifle",
+    "Ukraine territorial defense rifle",
+    "Ukrainian infantry 2023"
+   ],
+   "n": 12
+  },
+  {
+   "id": "conscripts",
+   "query": "Czechoslovak conscripts",
+   "alt": [
+    "základní vojenská služba",
+    "vojáci ČSLA 1980",
+    "Czechoslovak army 1980s"
+   ],
+   "n": 8
+  },
+  {
+   "id": "uh_brod_town",
+   "query": "Uherský Brod",
+   "alt": [
+    "Uherský Brod town",
+    "Uherský Brod kostel"
+   ],
+   "n": 5
   }
  ]
 }

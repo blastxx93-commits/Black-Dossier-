@@ -136,6 +136,251 @@
     1957
    ],
    "n": 3
+  },
+  {
+   "id": "c_czech_army",
+   "query": "Czechoslovakia army",
+   "alt": [
+    "Czechoslovak soldiers",
+    "Czech troops",
+    "Prague parade"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1948,
+    1975
+   ],
+   "n": 6
+  },
+  {
+   "id": "c_soviet_troops_cs",
+   "query": "Soviet troops Czechoslovakia",
+   "alt": [
+    "Russians leave Prague",
+    "Czech occupation",
+    "Dubcek"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1968,
+    1970
+   ],
+   "n": 6
+  },
+  {
+   "id": "c_warsaw_maneuvers",
+   "query": "Warsaw Pact maneuvers",
+   "alt": [
+    "Soviet army exercises",
+    "Russian tanks maneuvers",
+    "East German army"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1955,
+    1975
+   ],
+   "n": 6
+  },
+  {
+   "id": "c_paratroopers",
+   "query": "paratroopers jump",
+   "alt": [
+    "parachute troops",
+    "airborne training"
+   ],
+   "collections": [
+    "universal_newsreels",
+    "fedflix"
+   ],
+   "years": [
+    1950,
+    1975
+   ],
+   "n": 4
+  },
+  {
+   "id": "c_infantry_rifles",
+   "query": "infantry rifles",
+   "alt": [
+    "soldiers firing rifles",
+    "rifle drill",
+    "machine gun crew"
+   ],
+   "collections": [
+    "universal_newsreels",
+    "fedflix",
+    "prelinger"
+   ],
+   "years": [
+    1950,
+    1975
+   ],
+   "n": 6
+  },
+  {
+   "id": "c_vietnam",
+   "query": "Vietnam war",
+   "alt": [
+    "Viet Cong weapons",
+    "captured weapons Vietnam"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1964,
+    1970
+   ],
+   "n": 4
+  },
+  {
+   "id": "c_guerrilla",
+   "query": "guerrillas",
+   "alt": [
+    "rebels Africa",
+    "Cuba army",
+    "Castro troops"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1958,
+    1970
+   ],
+   "n": 4
+  },
+  {
+   "id": "c_arms_ship",
+   "query": "arms shipment",
+   "alt": [
+    "weapons ship",
+    "Czech arms"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1950,
+    1970
+   ],
+   "n": 3
+  },
+  {
+   "id": "s_shooting_range",
+   "query": "shooting range rifle",
+   "alt": [
+    "rifle shooting",
+    "shooter rifle slow motion",
+    "target shooting"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay"
+   ],
+   "n": 8
+  },
+  {
+   "id": "s_soldier_modern",
+   "query": "soldier rifle",
+   "alt": [
+    "military training",
+    "army soldiers forest",
+    "soldier camouflage"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay"
+   ],
+   "n": 8
+  },
+  {
+   "id": "s_gun_cleaning",
+   "query": "gun cleaning",
+   "alt": [
+    "rifle disassembly",
+    "weapon maintenance",
+    "gun parts"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay"
+   ],
+   "n": 6
+  },
+  {
+   "id": "s_brass_shells",
+   "query": "bullet casings",
+   "alt": [
+    "ammunition close up",
+    "cartridges"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay"
+   ],
+   "n": 5
+  },
+  {
+   "id": "s_prague",
+   "query": "Prague",
+   "alt": [
+    "Prague aerial",
+    "Prague old town",
+    "Czech Republic"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay"
+   ],
+   "n": 6
+  },
+  {
+   "id": "s_brno",
+   "query": "Brno",
+   "alt": [
+    "Brno city",
+    "Moravia"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay"
+   ],
+   "n": 4
+  },
+  {
+   "id": "s_ukraine",
+   "query": "Ukraine war",
+   "alt": [
+    "Ukrainian soldiers",
+    "trench war",
+    "Ukraine army"
+   ],
+   "sources": [
+    "commons",
+    "pexels"
+   ],
+   "n": 6
+  },
+  {
+   "id": "s_military_trucks",
+   "query": "military trucks convoy",
+   "alt": [
+    "army convoy",
+    "military vehicles"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay"
+   ],
+   "n": 4
   }
  ]
 }

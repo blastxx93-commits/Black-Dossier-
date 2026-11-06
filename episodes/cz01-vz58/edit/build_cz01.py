@@ -12,27 +12,27 @@ from aus_kit import P, ch, hf, cta
 
 AI = lambda *names: ["ai:" + n for n in names]  # noqa: E731
 PHOTOS = {
-    "vz58": ["vz58", "vz58v", "museum_lesany"] + AI("ai_disassembled_vz58", "ai_museum_display"),
-    "soldier": ["vz58_soldier", "czsl_army"] + AI("ai_soldier_march", "ai_conscripts_range", "ai_cleaning_rifle"),
-    "army": ["czsl_army", "prague_parade"] + AI("ai_parade_1958", "ai_soldier_march", "ai_apc_crew"),
-    "ak": ["ak47"] + AI("ai_assembly_line_ak"),
+    "vz58": ["vz58", "vz58_more", "vz58v", "museum_lesany", "weapons_museum"] + AI("ai_disassembled_vz58", "ai_museum_display"),
+    "soldier": ["vz58_soldier", "czech_soldiers_vz58", "slovak_army", "czsl_army", "conscripts"] + AI("ai_soldier_march", "ai_conscripts_range", "ai_cleaning_rifle"),
+    "army": ["czsl_army", "prague_parade", "conscripts", "cold_war_army"] + AI("ai_parade_1958", "ai_soldier_march", "ai_apc_crew"),
+    "ak": ["ak47", "kalashnikov_museum", "soviet_army_parade"] + AI("ai_assembly_line_ak"),
     "pair": AI("ai_rifles_two_table", "ai_twins_silhouette", "ai_parts_mismatch", "ai_scale_weight"),
     "vz52": ["vz52", "ammo_762"] + AI("ai_vz52_render", "ai_rechamber_workshop", "ai_cartridges_compare"),
-    "sa23": ["sa23"],
-    "bren": ["bren_zb26"] + AI("ai_brno_factory_1930s", "ai_export_crates"),
+    "sa23": ["sa23", "uzi", "israel_1948_czech"],
+    "bren": ["bren_zb26", "brno_zbrojovka"] + AI("ai_brno_factory_1930s", "ai_export_crates"),
     "brno": ["brno_city"] + AI("ai_konstrukta_office", "ai_engineer_drawing", "ai_designer_prototype", "ai_broom_corner"),
-    "factory": ["uh_brod"] + AI("ai_uh_brod_line", "ai_crates_rifles", "ai_pride_factory_gate"),
-    "moscow": ["warsaw_pact"] + AI("ai_warsaw_1955", "ai_soviet_generals_map", "ai_supply_depot", "ai_archive_files"),
-    "mech": AI("ai_rotating_bolt", "ai_locking_block", "ai_gas_piston", "ai_striker", "ai_empty_bolt_open", "ai_mud_test",
+    "factory": ["cz_ub_factory", "uh_brod", "uh_brod_town"] + AI("ai_uh_brod_line", "ai_crates_rifles", "ai_pride_factory_gate"),
+    "moscow": ["warsaw_pact", "soviet_army_parade", "cold_war_army"] + AI("ai_warsaw_1955", "ai_soviet_generals_map", "ai_supply_depot", "ai_archive_files"),
+    "mech": ["vz58_more", "weapons_museum"] + AI("ai_rotating_bolt", "ai_locking_block", "ai_gas_piston", "ai_striker", "ai_empty_bolt_open", "ai_mud_test",
                "ai_magazine_closeup", "ai_stock_material", "ai_stripper_clip", "ai_bayonet", "ai_magazine_swap_fail") + ["walther_p38"],
     "variants": ["vz58v"] + AI("ai_paratrooper_folding", "ai_apc_crew"),
-    "1968": ["prague_1968"] + AI("ai_tanks_night_border", "ai_prague_tanks_dawn", "ai_crowd_tank_flag", "ai_barracks_gate_closed",
+    "1968": ["prague_1968", "invasion_1968_more", "dubcek"] + AI("ai_tanks_night_border", "ai_prague_tanks_dawn", "ai_crowd_tank_flag", "ai_barracks_gate_closed",
                                  "ai_radio_1968", "ai_rifle_on_bunk", "ai_candles_memorial", "ai_soldier_window", "ai_barracks_rack"),
-    "world": AI("ai_africa_patrol", "ai_jungle_patrol", "ai_news_photo", "ai_trade_ship"),
-    "conscript": AI("ai_conscripts_range", "ai_disassembly_timer", "ai_warehouse_racks", "ai_cleaning_rifle"),
-    "split": ["velvet_1989"] + AI("ai_flag_split_1993"),
-    "nato": ["cz805", "czech_nato"] + AI("ai_modern_rifle_render", "ai_modern_soldier"),
-    "ukraine": ["ukraine_war"] + AI("ai_trucks_aid", "ai_trench_ukraine"),
+    "world": ["africa_rifle_70s"] + AI("ai_africa_patrol", "ai_jungle_patrol", "ai_news_photo", "ai_trade_ship"),
+    "conscript": ["conscripts"] + AI("ai_conscripts_range", "ai_disassembly_timer", "ai_warehouse_racks", "ai_cleaning_rifle"),
+    "split": ["velvet_1989", "velvet_more", "nato_1999"] + AI("ai_flag_split_1993"),
+    "nato": ["cz805", "bren2", "czech_nato", "nato_1999"] + AI("ai_modern_rifle_render", "ai_modern_soldier"),
+    "ukraine": ["ukraine_war", "ukraine_more"] + AI("ai_trucks_aid", "ai_trench_ukraine"),
     "civil": AI("ai_sport_shooter", "ai_collector_wall"),
     "end": AI("ai_sunset_soldier", "ai_museum_display", "ai_twins_silhouette"),
 }
@@ -42,7 +42,7 @@ FALLBACK = {k: ["vz58", "soldier", "army"] for k in PHOTOS}
 FALLBACK.update({"1968": ["army", "soldier"], "moscow": ["army"], "world": ["soldier", "vz58"], "ukraine": ["nato", "soldier"],
                  "mech": ["vz58", "pair"], "pair": ["vz58", "mech"], "brno": ["factory", "bren"], "factory": ["brno", "vz58"]})
 A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FALLBACK, ["vz58", "soldier", "army"])
-A.CLIP_TARGET = 0.25
+A.CLIP_TARGET = 0.45   # owner 06/11: footage first (photos + clips); only 4 essential cards
 A.MAX_HOLD, A.KEEP = 9.0, 6.0
 A.ARCHIVE_OK = True
 A.SPLIT_BY_SUBJECT = True
@@ -78,8 +78,8 @@ c.at("Lehký kulomet z Brna si dokonce koupila", P("bren"))
 c.at("Krátce po válce vznikla v Československu řada samopalů", P("sa23"))
 c.at("Pokud vám to něco připomíná", P("sa23"))
 c.at("Hned po válce se proto", P("vz52"))
-c.at("A tady přichází první střet", hf("g_warsaw"))
-c.at("Praha nakonec ustoupila", hf("g_cartridges"))
+c.at("A tady přichází první střet", P("moscow"))
+c.at("Praha nakonec ustoupila", P("vz52"))
 c.at("Jenže u náboje ústupky skončily", P("army"))
 chapters.append(c)
 
@@ -89,7 +89,7 @@ c.at(0, P("ak"))
 c.at("Československo se rozhodlo jinak", P("brno"))
 c.at("Zadání znělo jednoduše", P("brno"))
 c.at("Podle dobových pramenů dostal projekt", P("brno"))
-c.at("Proč ale Praha prostě nevzala kalašnikov", hf("g_reasons"))
+c.at("Proč ale Praha prostě nevzala kalašnikov", P("ak"))
 c.at("Za prvé, hrdost", P("factory"))
 c.at("Za druhé, peníze", P("world"))
 c.at("A za třetí", P("brno"))
@@ -98,7 +98,7 @@ chapters.append(c)
 
 # ---------------------------------------------------------------- inside the action
 c = ch("ch03")
-c.at(0, hf("g_chap_inside"))
+c.at(0, P("vz58"))
 c.at("Položme vedle sebe", P("pair"))
 c.at("Začněme tím, co rozhoduje", P("mech"))
 c.at("Čermák šel úplně jinou cestou", P("mech"))
@@ -114,8 +114,8 @@ chapters.append(c)
 c = ch("ch04")
 c.at(0, P("army"))
 c.at("Výroba se rozjela v Uherském Brodě", P("factory"))
-c.at("Až do roku devatenáct set osmdesát čtyři", hf("g_production"))
-c.at("Armáda dostala několik verzí", hf("g_variants"))
+c.at("Až do roku devatenáct set osmdesát čtyři", hf("g_spec"))
+c.at("Armáda dostala několik verzí", P("variants"))
 c.at("Pažby se zpočátku vyráběly", P("mech"))
 c.at("Konstruktéři mysleli i na drobnosti", P("mech"))
 c.at("Jak se se zbraní sloužilo", P("soldier"))
@@ -127,13 +127,13 @@ chapters.append(c)
 # ---------------------------------------------------------------- mid CTA + August 1968
 c = ch("ch05")
 c.at(0, cta("Odebírat", "příběhy zbraní, které změnily dějiny"))
-c.at("A teď zpátky do srpna", hf("g_1968"))
-c.at("překročila hranice Československa", hf("g_invasion_map"))
+c.at("A teď zpátky do srpna", P("1968"))
+c.at("překročila hranice Československa", P("1968"))
 c.at("Stejní spojenci", P("1968"))
 c.at("Československá armáda v té době", P("1968"))
 c.at("Politické vedení chtělo", P("1968"))
 c.at("Je to zvláštní paradox", P("1968"))
-c.at("Na ulicích se přitom umíralo", hf("g_victims"))
+c.at("Na ulicích se přitom umíralo", P("1968"))
 c.at("Pro samopal vzor padesát osm to ale nebyl konec", P("world"))
 chapters.append(c)
 
@@ -168,10 +168,10 @@ chapters.append(c)
 c = ch("ch08", 2.5)
 c.at(0, P("pair"))
 c.at("Vezměte samopal vzor padesát osm", P("mech"))
-c.at("Navenek dvojčata", hf("g_quote_twins"))
+c.at("Navenek dvojčata", P("pair"))
 c.at("A to nebyla náhoda", P("army"))
 c.at("Byla lepší než kalašnikov", P("pair"))
-c.at("Vraťme se ještě ke třem otázkám", hf("g_answers"))
+c.at("Vraťme se ještě ke třem otázkám", P("vz58"))
 c.at("Jisté je jedno", P("end"))
 c.at("Teď je řada na vás", cta("Vz. 58, nebo kalašnikov?", "napište do komentářů"))
 c.at("A pokud chcete vidět další příběhy", cta("Odebírat", "příště: CZ 75"))
