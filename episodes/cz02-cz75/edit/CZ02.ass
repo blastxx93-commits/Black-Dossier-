@@ -1,0 +1,329 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Doc,Inter SemiBold,44,&H0000E6FF,&H0000E6FF,&H00000000,&H96000000,0,0,0,0,100,100,0.5,0,1,2.4,1.2,2,200,200,62,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.67,Doc,,0,0,0,,Rok devatenáct set sedmdesát pět.
+Dialogue: 0,0:00:02.72,0:00:04.89,Doc,,0,0,0,,Komunistické Československo.
+Dialogue: 0,0:00:04.94,0:00:06.77,Doc,,0,0,0,,Země za železnou oponou,
+Dialogue: 0,0:00:06.82,0:00:11.95,Doc,,0,0,0,,kde se na nové auto čeká roky a kde se\No cestě na Západ může většina lidí jen
+Dialogue: 0,0:00:12.00,0:00:12.79,Doc,,0,0,0,,zdát.
+Dialogue: 0,0:00:12.84,0:00:13.97,Doc,,0,0,0,,A právě tady,
+Dialogue: 0,0:00:14.02,0:00:17.57,Doc,,0,0,0,,v zbrojovce v malém\Nmoravském městě Uherský Brod,
+Dialogue: 0,0:00:17.62,0:00:21.99,Doc,,0,0,0,,vzniká pistole, po které začne\Ntoužit celý západní svět.
+Dialogue: 0,0:00:22.04,0:00:26.31,Doc,,0,0,0,,Američtí instruktoři o ní píší jako o\Njedné z nejlepších devítimilimetrových
+Dialogue: 0,0:00:26.36,0:00:28.47,Doc,,0,0,0,,pistolí, jaké kdy vznikly.
+Dialogue: 0,0:00:28.52,0:00:32.29,Doc,,0,0,0,,Sportovní střelci za ni\Nplatí přemrštěné ceny.
+Dialogue: 0,0:00:32.34,0:00:38.09,Doc,,0,0,0,,A výrobci od Itálie přes Izrael a\NŠvýcarsko až po Turecko a Čínu ji začnou
+Dialogue: 0,0:00:38.14,0:00:39.21,Doc,,0,0,0,,kopírovat.
+Dialogue: 0,0:00:39.26,0:00:40.13,Doc,,0,0,0,,Otevřeně.
+Dialogue: 0,0:00:40.18,0:00:41.15,Doc,,0,0,0,,Ve velkém.
+Dialogue: 0,0:00:41.20,0:00:43.43,Doc,,0,0,0,,A nikdo jim v tom nemůže zabránit.
+Dialogue: 0,0:00:43.48,0:00:45.25,Doc,,0,0,0,,Jenže je tu háček.
+Dialogue: 0,0:00:45.30,0:00:48.51,Doc,,0,0,0,,Československá armáda tu\Npistoli tehdy vůbec nechtěla.
+Dialogue: 0,0:00:48.56,0:00:53.42,Doc,,0,0,0,,Vojáci a policisté východního\Nbloku nosili úplně jiné zbraně.
+Dialogue: 0,0:00:53.47,0:00:58.77,Doc,,0,0,0,,Pistole z Uherského Brodu byla od\Nzačátku postavená pro někoho jiného.
+Dialogue: 0,0:00:58.82,0:01:00.63,Doc,,0,0,0,,Tak pro koho vlastně vznikla?
+Dialogue: 0,0:01:00.68,0:01:05.59,Doc,,0,0,0,,Co bylo na její konstrukci tak\Nvýjimečného, že ji kopíroval celý svět?
+Dialogue: 0,0:01:05.64,0:01:10.13,Doc,,0,0,0,,A proč se proti všem těm kopiím\Nnemohla Česká zbrojovka nijak bránit?
+Dialogue: 0,0:01:10.18,0:01:15.49,Doc,,0,0,0,,Odpověď na tu poslední otázku je možná\Nnejpodivnější kapitolou celé historie.
+Dialogue: 0,0:01:15.54,0:01:17.33,Doc,,0,0,0,,A dostaneme se k ní.
+Dialogue: 0,0:01:17.38,0:01:20.36,Doc,,0,0,0,,Tohle je příběh pistole CZ sedmdesát pět.
+Dialogue: 0,0:01:20.91,0:01:25.52,Doc,,0,0,0,,Abychom pochopili, proč\NCZ sedmdesát pět vznikla,
+Dialogue: 0,0:01:25.57,0:01:31.56,Doc,,0,0,0,,musíme se podívat na to, co v té době\Nnosili vojáci a policisté na Východě.
+Dialogue: 0,0:01:31.61,0:01:36.44,Doc,,0,0,0,,Československá armáda měla v padesátých\Na šedesátých letech pistoli vzor
+Dialogue: 0,0:01:36.49,0:01:37.70,Doc,,0,0,0,,padesát dva.
+Dialogue: 0,0:01:37.75,0:01:43.41,Doc,,0,0,0,,Silnou, spolehlivou, ale stavěnou na\Nnáboj sedm celých šedesát dva krát dvacet
+Dialogue: 0,0:01:43.46,0:01:45.72,Doc,,0,0,0,,pět milimetru, tedy na sovětský standard.
+Dialogue: 0,0:01:45.77,0:01:50.47,Doc,,0,0,0,,V ostatních zemích bloku se postupně\Nprosazoval jiný sovětský náboj,
+Dialogue: 0,0:01:50.52,0:01:54.72,Doc,,0,0,0,,devět krát osmnáct milimetru,\Na k němu pistole Makarov.
+Dialogue: 0,0:01:54.77,0:01:57.26,Doc,,0,0,0,,Na Západě se ale střílelo jinak.
+Dialogue: 0,0:01:57.31,0:02:00.56,Doc,,0,0,0,,Tam vládl náboj devět\Nkrát devatenáct milimetru,
+Dialogue: 0,0:02:00.61,0:02:03.00,Doc,,0,0,0,,známý také jako devítka Parabellum.
+Dialogue: 0,0:02:03.05,0:02:07.00,Doc,,0,0,0,,Používala ho většina armád NATO,\Npolicie i sportovní střelci.
+Dialogue: 0,0:02:07.05,0:02:12.44,Doc,,0,0,0,,Kdo chtěl prodávat pistole na Západ,\Nmusel mít zbraň právě na tuhle munici.
+Dialogue: 0,0:02:12.49,0:02:16.24,Doc,,0,0,0,,Přitom Československo mělo\Ns pistolemi bohatou tradici.
+Dialogue: 0,0:02:16.29,0:02:20.22,Doc,,0,0,0,,Už mezi válkami vznikaly v\NČesku pistole vzor dvacet čtyři,
+Dialogue: 0,0:02:20.27,0:02:23.33,Doc,,0,0,0,,vzor dvacet sedm a vzor třicet osm.
+Dialogue: 0,0:02:23.38,0:02:28.86,Doc,,0,0,0,,Pistole vzor dvacet sedm se vyráběla ve\Nvelkém ještě během okupace a sloužila
+Dialogue: 0,0:02:28.91,0:02:31.06,Doc,,0,0,0,,policii dlouho po válce.
+Dialogue: 0,0:02:31.11,0:02:35.14,Doc,,0,0,0,,Čeští konstruktéři tedy věděli,\Njak se ruční zbraně dělají.
+Dialogue: 0,0:02:35.19,0:02:40.40,Doc,,0,0,0,,Jen jim chyběla zakázka, která by\Njim dovolila ukázat, co opravdu umí.
+Dialogue: 0,0:02:40.45,0:02:42.78,Doc,,0,0,0,,A Československo prodávat chtělo.
+Dialogue: 0,0:02:42.83,0:02:45.52,Doc,,0,0,0,,Komunistický stát potřeboval tvrdou měnu.
+Dialogue: 0,0:02:45.57,0:02:47.82,Doc,,0,0,0,,Dolary, marky, franky.
+Dialogue: 0,0:02:47.87,0:02:52.50,Doc,,0,0,0,,Peníze, za které se dalo nakoupit\Nto, co se doma vyrobit nedalo.
+Dialogue: 0,0:02:52.55,0:02:55.04,Doc,,0,0,0,,A zbraně patřily k několika málo věcem,
+Dialogue: 0,0:02:55.09,0:03:00.32,Doc,,0,0,0,,které uměla československá\Nekonomika prodat za západní peníze.
+Dialogue: 0,0:03:00.37,0:03:02.67,Doc,,0,0,0,,Zbrojovky to dělaly už před válkou.
+Dialogue: 0,0:03:02.72,0:03:06.66,Doc,,0,0,0,,Pušky a kulomety z Brna\Njezdily do celého světa.
+Dialogue: 0,0:03:06.71,0:03:12.16,Doc,,0,0,0,,Po válce se ale vývoz na Západ zúžil a\Nvětšina produkce šla do zemí východního
+Dialogue: 0,0:03:12.21,0:03:14.64,Doc,,0,0,0,,bloku a spřátelených režimů.
+Dialogue: 0,0:03:14.69,0:03:17.60,Doc,,0,0,0,,Na konci šedesátých let tak vznikl plán.
+Dialogue: 0,0:03:17.65,0:03:20.24,Doc,,0,0,0,,Postavit moderní pistoli na západní náboj,
+Dialogue: 0,0:03:20.29,0:03:24.04,Doc,,0,0,0,,která obstojí v konkurenci\Nnejlepších zbraní světa.
+Dialogue: 0,0:03:24.09,0:03:27.12,Doc,,0,0,0,,A prodávat ji tam, kde\Nse platí v dolarech.
+Dialogue: 0,0:03:27.17,0:03:30.03,Doc,,0,0,0,,Úkol dostali dva bratři z Uherského Brodu.
+Dialogue: 0,0:03:30.75,0:03:34.10,Doc,,0,0,0,,Josef a František Koucký\Nnebyli žádní nováčci.
+Dialogue: 0,0:03:34.15,0:03:39.78,Doc,,0,0,0,,Patřili k nejzkušenějším konstruktérům\Nčeskoslovenského zbrojního průmyslu a v
+Dialogue: 0,0:03:39.83,0:03:42.29,Doc,,0,0,0,,Uherském Brodě pracovali na řadě zbraní.
+Dialogue: 0,0:03:42.34,0:03:46.64,Doc,,0,0,0,,Teď ale dostali úkol, který\Nbyl v mnoha ohledech výjimečný.
+Dialogue: 0,0:03:46.69,0:03:51.52,Doc,,0,0,0,,Podle dostupných pramenů začal vývoj\Nnové pistole kolem roku devatenáct set
+Dialogue: 0,0:03:51.57,0:03:52.45,Doc,,0,0,0,,šedesát devět.
+Dialogue: 0,0:03:52.50,0:03:55.98,Doc,,0,0,0,,A bratři prý dostali\Nnezvykle velkou volnost.
+Dialogue: 0,0:03:56.03,0:04:00.38,Doc,,0,0,0,,Nemuseli se ohlížet na armádní\Npředpisy ani na sovětské standardy.
+Dialogue: 0,0:04:00.43,0:04:03.56,Doc,,0,0,0,,Měli postavit zbraň, která uspěje na trhu.
+Dialogue: 0,0:04:03.61,0:04:06.56,Doc,,0,0,0,,Za vzor si vzali to nejlepší,\Nco tehdy existovalo.
+Dialogue: 0,0:04:06.61,0:04:12.10,Doc,,0,0,0,,Belgickou pistoli Browning High Power,\Nkterou používaly desítky armád světa.
+Dialogue: 0,0:04:12.15,0:04:16.13,Doc,,0,0,0,,Ta měla zásobník na třináct nábojů\Na byla symbolem spolehlivosti.
+Dialogue: 0,0:04:16.18,0:04:19.08,Doc,,0,0,0,,Bratři Kouckých ale chtěli jít dál.
+Dialogue: 0,0:04:19.13,0:04:22.62,Doc,,0,0,0,,Nová pistole měla mít\Nzásobník na patnáct nábojů.
+Dialogue: 0,0:04:22.67,0:04:26.61,Doc,,0,0,0,,Měla mít spoušť, se kterou se\Ndá vystřelit i z napnutého,
+Dialogue: 0,0:04:26.66,0:04:30.26,Doc,,0,0,0,,i z nenapnutého kohoutu,\Ntedy dvojčinnou spoušť.
+Dialogue: 0,0:04:30.31,0:04:35.20,Doc,,0,0,0,,A měla padnout do ruky tak, aby se\Nz ní střílelo přirozeně a přesně.
+Dialogue: 0,0:04:35.25,0:04:37.18,Doc,,0,0,0,,Vývoj trval několik let.
+Dialogue: 0,0:04:37.23,0:04:41.25,Doc,,0,0,0,,Prototypy se zkoušely,\Npředělávaly a znovu zkoušely.
+Dialogue: 0,0:04:41.30,0:04:45.96,Doc,,0,0,0,,Konstruktéři ladili tvar rukojeti,\Naby seděla různě velkým rukám.
+Dialogue: 0,0:04:46.01,0:04:51.68,Doc,,0,0,0,,Hledali správnou pružinu, správný úhel\Nzásobníku i správnou hmotnost závěru.
+Dialogue: 0,0:04:51.73,0:04:56.54,Doc,,0,0,0,,Každá drobná změna znamenala nové\Nkusy, nové střelby a nová měření.
+Dialogue: 0,0:04:56.59,0:05:02.53,Doc,,0,0,0,,V roce devatenáct set sedmdesát pět\Nbyla pistole hotová a dostala jednoduché
+Dialogue: 0,0:05:02.58,0:05:03.13,Doc,,0,0,0,,jméno.
+Dialogue: 0,0:05:03.18,0:05:04.92,Doc,,0,0,0,,CZ sedmdesát pět.
+Dialogue: 0,0:05:04.97,0:05:08.12,Doc,,0,0,0,,Podle zbrojovky a podle roku, kdy vznikla.
+Dialogue: 0,0:05:08.17,0:05:12.56,Doc,,0,0,0,,Na první pohled to byla elegantní,\Nale nijak výstřední zbraň.
+Dialogue: 0,0:05:12.61,0:05:16.80,Doc,,0,0,0,,Ocelový rám, ocelový\Nzávěr, štíhlá rukojeť.
+Dialogue: 0,0:05:16.85,0:05:19.00,Doc,,0,0,0,,Žádné futuristické tvary.
+Dialogue: 0,0:05:19.05,0:05:21.48,Doc,,0,0,0,,Její tajemství ale nebylo vidět zvenku.
+Dialogue: 0,0:05:21.53,0:05:25.91,Doc,,0,0,0,,Skrývalo se v tom, jak do sebe\Nzapadají dva hlavní díly zbraně.
+Dialogue: 0,0:05:26.59,0:05:30.96,Doc,,0,0,0,,U většiny pistolí té doby jezdí\Nzávěr po vnější straně rámu.
+Dialogue: 0,0:05:31.01,0:05:35.78,Doc,,0,0,0,,Závěr obepíná rám zvenku a při\Nvýstřelu se po něm posouvá dozadu.
+Dialogue: 0,0:05:35.83,0:05:38.96,Doc,,0,0,0,,CZ sedmdesát pět to má obráceně.
+Dialogue: 0,0:05:39.01,0:05:42.40,Doc,,0,0,0,,Závěr jezdí po vodicích\Ndrážkách uvnitř rámu.
+Dialogue: 0,0:05:42.45,0:05:45.40,Doc,,0,0,0,,Rám tedy svírá závěr, ne naopak.
+Dialogue: 0,0:05:45.45,0:05:47.06,Doc,,0,0,0,,Proč na tom záleží?
+Dialogue: 0,0:05:47.11,0:05:51.32,Doc,,0,0,0,,Protože díky tomu sedí závěr\Ni hlaveň v ruce střelce níž.
+Dialogue: 0,0:05:51.37,0:05:56.27,Doc,,0,0,0,,Osa hlavně je blíž ruce, a když pistole\Nvystřelí, méně vyskakuje nahoru.
+Dialogue: 0,0:05:56.32,0:05:59.28,Doc,,0,0,0,,Střelec se rychleji vrátí na cíl.
+Dialogue: 0,0:05:59.33,0:06:03.00,Doc,,0,0,0,,Dlouhé vedení závěru v rámu\Nnavíc zlepšuje přesnost,
+Dialogue: 0,0:06:03.05,0:06:04.94,Doc,,0,0,0,,protože se díly méně vůlí.
+Dialogue: 0,0:06:04.99,0:06:06.34,Doc,,0,0,0,,K tomu přidejte ergonomii.
+Dialogue: 0,0:06:06.39,0:06:10.02,Doc,,0,0,0,,Rukojeť CZ sedmdesát pět je tvarovaná tak,
+Dialogue: 0,0:06:10.07,0:06:13.80,Doc,,0,0,0,,že pistole v ruce leží\Nnízko a přirozeně míří.
+Dialogue: 0,0:06:13.85,0:06:15.80,Doc,,0,0,0,,Mnozí střelci dodnes tvrdí,
+Dialogue: 0,0:06:15.85,0:06:19.46,Doc,,0,0,0,,že žádná jiná pistole jim\Ntak dobře nepadla do ruky.
+Dialogue: 0,0:06:19.51,0:06:20.64,Doc,,0,0,0,,Pak je tu zásobník.
+Dialogue: 0,0:06:20.69,0:06:23.00,Doc,,0,0,0,,Patnáct nábojů ve dvou řadách.
+Dialogue: 0,0:06:23.05,0:06:26.74,Doc,,0,0,0,,V roce devatenáct set\Nsedmdesát pět to bylo víc,
+Dialogue: 0,0:06:26.79,0:06:29.32,Doc,,0,0,0,,než nabízela většina konkurence.
+Dialogue: 0,0:06:29.37,0:06:34.28,Doc,,0,0,0,,Policisté i vojáci na Západě v té době\Nčasto nosili revolvery se šesti náboji
+Dialogue: 0,0:06:34.33,0:06:35.78,Doc,,0,0,0,,nebo pistole s osmi.
+Dialogue: 0,0:06:35.83,0:06:37.05,Doc,,0,0,0,,A nakonec spoušť.
+Dialogue: 0,0:06:37.10,0:06:41.94,Doc,,0,0,0,,CZ sedmdesát pět umožňovala nosit\Nzbraň s nabitou komorou a kohoutem
+Dialogue: 0,0:06:41.99,0:06:46.02,Doc,,0,0,0,,spuštěným, a přesto vystřelit\Njediným stiskem spouště.
+Dialogue: 0,0:06:46.07,0:06:49.66,Doc,,0,0,0,,Nebo kohout natáhnout a\Nmít lehký, přesný výstřel.
+Dialogue: 0,0:06:49.71,0:06:53.04,Doc,,0,0,0,,Nic z toho samo o sobě nebylo úplně nové.
+Dialogue: 0,0:06:53.09,0:06:56.84,Doc,,0,0,0,,Výjimečné bylo, jak dobře\Nto všechno do sebe zapadlo.
+Dialogue: 0,0:06:56.89,0:06:59.44,Doc,,0,0,0,,Zbraň byla přesná, spolehlivá,
+Dialogue: 0,0:06:59.49,0:07:03.92,Doc,,0,0,0,,dobře se ovládala a vydržela\Nobrovské množství výstřelů.
+Dialogue: 0,0:07:03.97,0:07:06.20,Doc,,0,0,0,,Celá pistole byla z oceli.
+Dialogue: 0,0:07:06.25,0:07:09.96,Doc,,0,0,0,,Byla proto těžší než dnešní\Nzbraně s plastovým rámem,
+Dialogue: 0,0:07:10.01,0:07:13.42,Doc,,0,0,0,,ale právě hmotnost\Npomáhala tlumit zpětný ráz.
+Dialogue: 0,0:07:13.47,0:07:17.88,Doc,,0,0,0,,Střelci popisovali, že se z ní\Nstřílí klidně a předvídatelně,
+Dialogue: 0,0:07:17.93,0:07:20.50,Doc,,0,0,0,,i po stovkách ran za jediný den.
+Dialogue: 0,0:07:20.55,0:07:22.88,Doc,,0,0,0,,Jenže kvalitní konstrukce nestačí.
+Dialogue: 0,0:07:22.93,0:07:25.36,Doc,,0,0,0,,Zbraň se musí dostat ke kupcům.
+Dialogue: 0,0:07:25.41,0:07:28.72,Doc,,0,0,0,,A tady narazila CZ\Nsedmdesát pět na problém,
+Dialogue: 0,0:07:28.77,0:07:31.33,Doc,,0,0,0,,který neměl nic společného s technikou.
+Dialogue: 0,0:07:31.99,0:07:34.62,Doc,,0,0,0,,Ten problém se jmenoval studená válka.
+Dialogue: 0,0:07:34.67,0:07:40.05,Doc,,0,0,0,,Pistole z komunistického Československa\Nse na západní trhy nedostávala snadno.
+Dialogue: 0,0:07:40.10,0:07:45.55,Doc,,0,0,0,,Prodej šel přes státní obchodní podniky\Na do některých zemí platila na zboží z
+Dialogue: 0,0:07:45.60,0:07:46.85,Doc,,0,0,0,,východního bloku omezení.
+Dialogue: 0,0:07:46.90,0:07:48.86,Doc,,0,0,0,,Ve Spojených státech,
+Dialogue: 0,0:07:48.91,0:07:51.90,Doc,,0,0,0,,tedy na největším trhu\Ns pistolemi na světě,
+Dialogue: 0,0:07:51.95,0:07:56.75,Doc,,0,0,0,,byla CZ sedmdesát pět v osmdesátých\Nletech podle dobových svědectví vzácností.
+Dialogue: 0,0:07:56.80,0:08:01.06,Doc,,0,0,0,,Kdo ji chtěl, často ji\Nsháněl oklikou a draho.
+Dialogue: 0,0:08:01.11,0:08:06.56,Doc,,0,0,0,,Dnes jsou mezi sběrateli ceněné\Nhlavně první série z let sedmdesátých.
+Dialogue: 0,0:08:06.61,0:08:09.80,Doc,,0,0,0,,Poznají se podle kratšího\Nvedení závěru v rámu.
+Dialogue: 0,0:08:09.85,0:08:14.10,Doc,,0,0,0,,Později zbrojovka vedení prodloužila\Na zbraň dál zdokonalovala.
+Dialogue: 0,0:08:14.15,0:08:17.24,Doc,,0,0,0,,Ty nejstarší kusy se\Nale staly symbolem doby,
+Dialogue: 0,0:08:17.29,0:08:21.44,Doc,,0,0,0,,kdy byla CZ sedmdesát pět za železnou\Noponou skoro mýtickou zbraní.
+Dialogue: 0,0:08:21.49,0:08:26.14,Doc,,0,0,0,,A přesto, nebo možná právě\Nproto, se z ní stala legenda.
+Dialogue: 0,0:08:26.19,0:08:29.32,Doc,,0,0,0,,Zbraňové časopisy o ní psaly s nadšením.
+Dialogue: 0,0:08:29.37,0:08:31.40,Doc,,0,0,0,,Americký instruktor Jeff Cooper,
+Dialogue: 0,0:08:31.45,0:08:34.60,Doc,,0,0,0,,jeden z nejvlivnějších\Nautorů o obranné střelbě,
+Dialogue: 0,0:08:34.65,0:08:38.36,Doc,,0,0,0,,ji podle mnoha zdrojů označil za\Njednu z nejlepších devítimilimetrových
+Dialogue: 0,0:08:38.41,0:08:40.26,Doc,,0,0,0,,pistolí na světě.
+Dialogue: 0,0:08:40.31,0:08:44.84,Doc,,0,0,0,,Taková pochvala z úst Američana o zbrani\Nz komunistické země měla obrovskou
+Dialogue: 0,0:08:44.89,0:08:45.50,Doc,,0,0,0,,váhu.
+Dialogue: 0,0:08:45.55,0:08:48.58,Doc,,0,0,0,,Ještě zajímavější je, co se dělo doma.
+Dialogue: 0,0:08:48.63,0:08:53.22,Doc,,0,0,0,,Československá armáda CZ sedmdesát\Npět ve velkém nepřevzala.
+Dialogue: 0,0:08:53.27,0:08:58.52,Doc,,0,0,0,,Vojáci dál nosili starší pistole na\Nsovětské náboje a později pistoli vzor
+Dialogue: 0,0:08:58.57,0:09:00.93,Doc,,0,0,0,,osmdesát dva, opět na východní munici.
+Dialogue: 0,0:09:00.98,0:09:06.76,Doc,,0,0,0,,Zbraň, kterou obdivoval Západ, tak doma\Nzůstala především exportním zbožím.
+Dialogue: 0,0:09:06.81,0:09:11.18,Doc,,0,0,0,,Jeden z nejlepších výrobků československého\Nzbrojního průmyslu tedy nebyl
+Dialogue: 0,0:09:11.23,0:09:12.68,Doc,,0,0,0,,určen vlastním lidem.
+Dialogue: 0,0:09:12.73,0:09:15.56,Doc,,0,0,0,,Byl určen k tomu, aby vydělával dolary.
+Dialogue: 0,0:09:15.61,0:09:20.60,Doc,,0,0,0,,Pro komunistické hospodářství byla\Ntvrdá měna doslova krví v žilách.
+Dialogue: 0,0:09:20.65,0:09:23.36,Doc,,0,0,0,,Za dolary se nakupovaly západní stroje,
+Dialogue: 0,0:09:23.41,0:09:27.47,Doc,,0,0,0,,licence, technologie, ale třeba\Ni léky nebo spotřební zboží,
+Dialogue: 0,0:09:27.52,0:09:29.54,Doc,,0,0,0,,které v obchodech chybělo.
+Dialogue: 0,0:09:29.59,0:09:33.42,Doc,,0,0,0,,Každá pistole prodaná na Západ\Ntak znamenala malý kousek peněz,
+Dialogue: 0,0:09:33.47,0:09:35.90,Doc,,0,0,0,,které stát jinak získat nedokázal.
+Dialogue: 0,0:09:35.95,0:09:39.60,Doc,,0,0,0,,Uherský Brod tím pádem\Nnevyráběl jen zbraně.
+Dialogue: 0,0:09:39.65,0:09:40.82,Doc,,0,0,0,,Vyráběl devizy.
+Dialogue: 0,0:09:40.87,0:09:42.14,Doc,,0,0,0,,A vydělával.
+Dialogue: 0,0:09:42.19,0:09:44.62,Doc,,0,0,0,,Jenže ne zdaleka tolik, kolik mohl.
+Dialogue: 0,0:09:44.67,0:09:48.68,Doc,,0,0,0,,Protože zatímco se Československo\Nsnažilo prodávat originál,
+Dialogue: 0,0:09:48.73,0:09:50.36,Doc,,0,0,0,,ve světě už vznikaly kopie.
+Dialogue: 0,0:09:50.41,0:09:52.57,Doc,,0,0,0,,A bylo jich čím dál víc.
+Dialogue: 0,0:09:53.29,0:09:58.42,Doc,,0,0,0,,Než se podíváme, proč se kopie\Nnedaly zastavit, krátká prosba.
+Dialogue: 0,0:09:58.47,0:10:03.00,Doc,,0,0,0,,Pokud vás historie zbraní baví,\Ndejte odběr a zapněte zvoneček.
+Dialogue: 0,0:10:03.05,0:10:05.64,Doc,,0,0,0,,Pomáhá to kanálu a je to zdarma.
+Dialogue: 0,0:10:05.69,0:10:09.34,Doc,,0,0,0,,A teď zpátky k pistoli,\Nkterou kopíroval celý svět.
+Dialogue: 0,0:10:09.39,0:10:11.22,Doc,,0,0,0,,Tady je ta nejpodivnější kapitola.
+Dialogue: 0,0:10:11.27,0:10:16.68,Doc,,0,0,0,,CZ sedmdesát pět podle mnoha zdrojů\Nnebyla nikdy chráněna patentem v západních
+Dialogue: 0,0:10:16.73,0:10:17.46,Doc,,0,0,0,,zemích.
+Dialogue: 0,0:10:17.51,0:10:18.90,Doc,,0,0,0,,Jak je to možné?
+Dialogue: 0,0:10:18.95,0:10:22.98,Doc,,0,0,0,,Socialistické Československo\Nfungovalo jinak než západní firmy.
+Dialogue: 0,0:10:23.03,0:10:26.76,Doc,,0,0,0,,Patentová přihláška v\Nzahraničí stála peníze,
+Dialogue: 0,0:10:26.81,0:10:29.98,Doc,,0,0,0,,cizí měnu a složité úřední řízení.
+Dialogue: 0,0:10:30.03,0:10:35.26,Doc,,0,0,0,,A celý systém státního hospodářství na\Nochranu duševního vlastnictví v cizině
+Dialogue: 0,0:10:35.31,0:10:36.58,Doc,,0,0,0,,příliš nemyslel.
+Dialogue: 0,0:10:36.63,0:10:38.30,Doc,,0,0,0,,Výsledek byl jednoduchý.
+Dialogue: 0,0:10:38.35,0:10:41.30,Doc,,0,0,0,,Konstrukci, kterou bratři\NKouckých vyvíjeli roky,
+Dialogue: 0,0:10:41.35,0:10:44.42,Doc,,0,0,0,,mohl kdokoli na Západě legálně okopírovat.
+Dialogue: 0,0:10:44.47,0:10:46.12,Doc,,0,0,0,,A přesně to se stalo.
+Dialogue: 0,0:10:46.17,0:10:48.00,Doc,,0,0,0,,Jako první se přidali Italové.
+Dialogue: 0,0:10:48.05,0:10:54.10,Doc,,0,0,0,,Firma Tanfoglio začala vyrábět vlastní\Nverze inspirované CZ sedmdesát pět
+Dialogue: 0,0:10:54.15,0:10:59.76,Doc,,0,0,0,,a z jejích pistolí později vznikla\Ncelá rodina zbraní pro sport i obranu.
+Dialogue: 0,0:10:59.81,0:11:04.98,Doc,,0,0,0,,Ve Spojených státech se tyto italské\Npistole prodávaly pod různými jmény a pro
+Dialogue: 0,0:11:05.03,0:11:08.00,Doc,,0,0,0,,mnoho Američanů byly první možností,
+Dialogue: 0,0:11:08.05,0:11:12.64,Doc,,0,0,0,,jak si koupit něco, co se CZ\Nsedmdesát pět aspoň blížilo.
+Dialogue: 0,0:11:12.69,0:11:14.80,Doc,,0,0,0,,Na italský základ navázal Izrael.
+Dialogue: 0,0:11:14.85,0:11:20.18,Doc,,0,0,0,,Pistole Jericho devět set čtyřicet\Njedna vycházela právě z této linie.
+Dialogue: 0,0:11:20.23,0:11:22.94,Doc,,0,0,0,,V Americe se jí dlouho říkalo Baby Eagle,
+Dialogue: 0,0:11:22.99,0:11:27.82,Doc,,0,0,0,,i když s velkou pistolí Desert Eagle\Nneměla konstrukčně skoro nic společného.
+Dialogue: 0,0:11:27.87,0:11:30.52,Doc,,0,0,0,,Ve Švýcarsku vznikla precizní pistole,
+Dialogue: 0,0:11:30.57,0:11:33.54,Doc,,0,0,0,,ze které se později stala značka Sphinx.
+Dialogue: 0,0:11:33.59,0:11:36.62,Doc,,0,0,0,,V Turecku začaly klony CZ vyrábět firmy,
+Dialogue: 0,0:11:36.67,0:11:40.34,Doc,,0,0,0,,které dnes patří k největším\Nvývozcům pistolí na světě.
+Dialogue: 0,0:11:40.39,0:11:44.40,Doc,,0,0,0,,A v Číně vznikla verze pod\Noznačením NZ sedmdesát pět.
+Dialogue: 0,0:11:44.45,0:11:48.66,Doc,,0,0,0,,Odhaduje se, že po světě dnes\Nexistují desítky různých pistolí,
+Dialogue: 0,0:11:48.71,0:11:51.69,Doc,,0,0,0,,které z konstrukce CZ\Nsedmdesát pět vycházejí.
+Dialogue: 0,0:11:51.74,0:11:56.74,Doc,,0,0,0,,Některé jsou téměř přesné kopie,\Njiné ji jen volně následují.
+Dialogue: 0,0:11:56.79,0:12:01.36,Doc,,0,0,0,,Česká zbrojovka se dívala, jak\Nostatní vydělávají na jejím nápadu.
+Dialogue: 0,0:12:01.41,0:12:03.67,Doc,,0,0,0,,A nemohla s tím udělat vůbec nic.
+Dialogue: 0,0:12:04.43,0:12:08.52,Doc,,0,0,0,,Proč ale výrobci po celém světě\Nkopírovali právě tuhle pistoli?
+Dialogue: 0,0:12:08.57,0:12:11.96,Doc,,0,0,0,,Vždyť volně dostupných\Nkonstrukcí bylo víc.
+Dialogue: 0,0:12:12.01,0:12:14.64,Doc,,0,0,0,,Prvním důvodem byla sama konstrukce.
+Dialogue: 0,0:12:14.69,0:12:17.70,Doc,,0,0,0,,Byla vyzkoušená, přesná a spolehlivá.
+Dialogue: 0,0:12:17.75,0:12:23.40,Doc,,0,0,0,,Kdo ji převzal, nemusel roky vyvíjet\Nvlastní zbraň a riskovat, že selže.
+Dialogue: 0,0:12:23.45,0:12:26.04,Doc,,0,0,0,,Dostal hotový recept, který fungoval.
+Dialogue: 0,0:12:26.09,0:12:27.82,Doc,,0,0,0,,Druhým důvodem byla poptávka.
+Dialogue: 0,0:12:27.87,0:12:33.30,Doc,,0,0,0,,CZ sedmdesát pět měla pověst, ale\Noriginál byl na Západě těžko k mání.
+Dialogue: 0,0:12:33.35,0:12:37.54,Doc,,0,0,0,,Kdo dokázal nabídnout podobnou\Nzbraň bez obchodních překážek,
+Dialogue: 0,0:12:37.59,0:12:40.04,Doc,,0,0,0,,měl zákazníky téměř zaručené.
+Dialogue: 0,0:12:40.09,0:12:42.22,Doc,,0,0,0,,Třetím důvodem byla výroba.
+Dialogue: 0,0:12:42.27,0:12:47.31,Doc,,0,0,0,,Ocelová pistole s dobře promyšlenými\Ndíly se dala vyrábět na běžných strojích.
+Dialogue: 0,0:12:47.36,0:12:49.54,Doc,,0,0,0,,Nepotřebovala exotické\Nmateriály ani drahé technologie.
+Dialogue: 0,0:12:49.59,0:12:53.40,Doc,,0,0,0,,A čtvrtým důvodem byl sport.
+Dialogue: 0,0:12:53.45,0:12:58.56,Doc,,0,0,0,,V osmdesátých a devadesátých letech se\Npo světě rozšířila dynamická sportovní
+Dialogue: 0,0:12:58.61,0:13:00.64,Doc,,0,0,0,,střelba, kde rozhoduje\Nrychlost i přesnost.
+Dialogue: 0,0:13:00.69,0:13:03.86,Doc,,0,0,0,,A nízko položená hlaveň,
+Dialogue: 0,0:13:03.91,0:13:09.78,Doc,,0,0,0,,dobrý úchop a velký zásobník byly přesně\Nto, co sportovní střelci potřebovali.
+Dialogue: 0,0:13:09.83,0:13:14.10,Doc,,0,0,0,,Z CZ sedmdesát pět a jejích potomků\Nse stala jedna z nejoblíbenějších
+Dialogue: 0,0:13:14.15,0:13:16.34,Doc,,0,0,0,,platforem na soutěžích.
+Dialogue: 0,0:13:16.39,0:13:20.80,Doc,,0,0,0,,Na velkých mezinárodních soutěžích\Nse začali objevovat střelci,
+Dialogue: 0,0:13:20.85,0:13:25.34,Doc,,0,0,0,,kteří závodili s pistolemi z Uherského\NBrodu nebo s jejich italskými a
+Dialogue: 0,0:13:25.39,0:13:26.96,Doc,,0,0,0,,izraelskými příbuznými.
+Dialogue: 0,0:13:27.01,0:13:29.74,Doc,,0,0,0,,Upravené verze s delší hlavní,
+Dialogue: 0,0:13:29.79,0:13:34.96,Doc,,0,0,0,,lepšími mířidly a vyladěnou spouští\Nvyhrávaly tituly a sbíraly medaile.
+Dialogue: 0,0:13:35.01,0:13:38.04,Doc,,0,0,0,,Pro mnoho mladých střelců\Nse tak stala zbraň,
+Dialogue: 0,0:13:38.09,0:13:43.50,Doc,,0,0,0,,o které jejich otcové jen četli v\Nčasopisech, úplně běžným sportovním náčiním.
+Dialogue: 0,0:13:43.55,0:13:45.30,Doc,,0,0,0,,A pak tu byli sběratelé.
+Dialogue: 0,0:13:45.35,0:13:47.66,Doc,,0,0,0,,Pro ně měla každá verze svůj příběh.
+Dialogue: 0,0:13:47.71,0:13:50.50,Doc,,0,0,0,,Rané kusy s krátkým vedením závěru,
+Dialogue: 0,0:13:50.55,0:13:54.38,Doc,,0,0,0,,exportní série, italské\Nklony, izraelské varianty.
+Dialogue: 0,0:13:54.43,0:13:57.96,Doc,,0,0,0,,Celá rodina pistolí se\Nrozrostla do takové šíře,
+Dialogue: 0,0:13:58.01,0:14:01.14,Doc,,0,0,0,,že o ní dnes vycházejí samostatné knihy.
+Dialogue: 0,0:14:01.19,0:14:06.44,Doc,,0,0,0,,Zajímavé je, že kopie nakonec\Noriginálu spíš pomohly, než uškodily.
+Dialogue: 0,0:14:06.49,0:14:11.22,Doc,,0,0,0,,Každá další pistole na stejném principu\Nšířila pověst konstrukce z Uherského
+Dialogue: 0,0:14:11.27,0:14:11.92,Doc,,0,0,0,,Brodu.
+Dialogue: 0,0:14:11.97,0:14:16.84,Doc,,0,0,0,,Střelci, kteří začínali s kopií,\Nse často chtěli dostat k originálu.
+Dialogue: 0,0:14:16.89,0:14:21.56,Doc,,0,0,0,,Jenže aby se k originálu mohli dostat,\Nmusela padnout jedna velká překážka.
+Dialogue: 0,0:14:21.61,0:14:25.73,Doc,,0,0,0,,A ta padla na konci roku\Ndevatenáct set osmdesát devět.
+Dialogue: 0,0:14:26.40,0:14:29.38,Doc,,0,0,0,,Listopad devatenáct set osmdesát devět.
+Dialogue: 0,0:14:29.43,0:14:30.87,Doc,,0,0,0,,Sametová revoluce.
+Dialogue: 0,0:14:30.92,0:14:34.95,Doc,,0,0,0,,Komunistický režim v Československu\Npadá a s ním i bariéry,
+Dialogue: 0,0:14:35.00,0:14:38.77,Doc,,0,0,0,,které CZ sedmdesát pět držely\Nstranou západních trhů.
+Dialogue: 0,0:14:38.82,0:14:43.33,Doc,,0,0,0,,Česká zbrojovka v Uherském Brodě se\Nběhem devadesátých let musela naučit
+Dialogue: 0,0:14:43.38,0:14:45.71,Doc,,0,0,0,,fungovat v tržním hospodářství.
+Dialogue: 0,0:14:45.76,0:14:47.27,Doc,,0,0,0,,Nebylo to snadné.
+Dialogue: 0,0:14:47.32,0:14:51.33,Doc,,0,0,0,,Státní zakázky se scvrkly,\Nkonkurence byla obrovská.
+Dialogue: 0,0:14:51.38,0:14:55.06,Doc,,0,0,0,,Jenže firma měla jeden trumf,\Nkterý jí nikdo nemohl vzít.
+Dialogue: 0,0:14:55.11,0:14:57.49,Doc,,0,0,0,,Jméno CZ sedmdesát pět.
+Dialogue: 0,0:14:57.54,0:15:02.29,Doc,,0,0,0,,Pistole se konečně začala ve velkém\Nprodávat ve Spojených státech i v západní
+Dialogue: 0,0:15:02.34,0:15:03.25,Doc,,0,0,0,,Evropě.
+Dialogue: 0,0:15:03.30,0:15:04.83,Doc,,0,0,0,,Vznikaly nové verze.
+Dialogue: 0,0:15:04.88,0:15:10.01,Doc,,0,0,0,,Kompaktní varianta, verze s pojistkou\Ni s odjišťovací pákou kohoutu,
+Dialogue: 0,0:15:10.06,0:15:11.49,Doc,,0,0,0,,sportovní modely.
+Dialogue: 0,0:15:11.54,0:15:14.03,Doc,,0,0,0,,Mezi nimi SP nula jedna Shadow,
+Dialogue: 0,0:15:14.08,0:15:18.89,Doc,,0,0,0,,která se stala jednou z nejúspěšnějších\Nsoutěžních pistolí své doby.
+Dialogue: 0,0:15:18.94,0:15:19.99,Doc,,0,0,0,,A doma?
+Dialogue: 0,0:15:20.04,0:15:25.17,Doc,,0,0,0,,Česká policie a později i armáda pistoli\Nz rodiny CZ sedmdesát pět nakonec
+Dialogue: 0,0:15:25.22,0:15:25.99,Doc,,0,0,0,,převzaly.
+Dialogue: 0,0:15:26.04,0:15:30.73,Doc,,0,0,0,,Zbraň, která vznikla pro export, se\Npo letech vrátila k vlastním lidem.
+Dialogue: 0,0:15:30.78,0:15:32.37,Doc,,0,0,0,,Jedna z policejních verzí,
+Dialogue: 0,0:15:32.42,0:15:35.29,Doc,,0,0,0,,kompaktní pistole s rámem z lehké slitiny,
+Dialogue: 0,0:15:35.34,0:15:39.13,Doc,,0,0,0,,prošla podle výrobce náročnými\Nzkouškami podle standardů NATO.
+Dialogue: 0,0:15:39.18,0:15:42.97,Doc,,0,0,0,,Pistole, která kdysi nesměla\Nbýt doma standardní výzbrojí,
+Dialogue: 0,0:15:43.02,0:15:48.35,Doc,,0,0,0,,tak splnila požadavky aliance, proti\Nkteré byla ve studené válce postavena.
+Dialogue: 0,0:15:48.40,0:15:50.87,Doc,,0,0,0,,Česká zbrojovka mezitím rostla.
+Dialogue: 0,0:15:50.92,0:15:53.97,Doc,,0,0,0,,Vyvinula moderní pistole\Ns polymerovým rámem,
+Dialogue: 0,0:15:54.02,0:15:57.45,Doc,,0,0,0,,které na konstrukci CZ\Nsedmdesát pět volně navazují.
+Dialogue: 0,0:15:57.50,0:16:00.85,Doc,,0,0,0,,A v roce dva tisíce dvacet\Njedna se stalo něco,
+Dialogue: 0,0:16:00.90,0:16:04.53,Doc,,0,0,0,,co by v sedmdesátých letech\Nnikdo nepovažoval za možné.
+Dialogue: 0,0:16:04.58,0:16:08.43,Doc,,0,0,0,,Česká skupina koupila\Nlegendární americkou firmu Colt.
+Dialogue: 0,0:16:08.48,0:16:11.13,Doc,,0,0,0,,Zbrojovka z malého moravského města,
+Dialogue: 0,0:16:11.18,0:16:14.57,Doc,,0,0,0,,jejíž nejslavnější pistoli\Nkdysi kopíroval celý svět,
+Dialogue: 0,0:16:14.62,0:16:18.85,Doc,,0,0,0,,dnes vlastní jedno z nejslavnějších\Njmen americké zbraňové historie.
+Dialogue: 0,0:16:18.90,0:16:22.02,Doc,,0,0,0,,Ale vraťme se ještě k\Notázce z úplného začátku.
+Dialogue: 0,0:16:22.62,0:16:26.81,Doc,,0,0,0,,Proč CZ sedmdesát pět kopírovali\Nvýrobci po celém světě?
+Dialogue: 0,0:16:26.86,0:16:28.31,Doc,,0,0,0,,Protože byla dobrá.
+Dialogue: 0,0:16:28.36,0:16:29.69,Doc,,0,0,0,,Opravdu dobrá.
+Dialogue: 0,0:16:29.74,0:16:31.75,Doc,,0,0,0,,Závěr jezdící uvnitř rámu,
+Dialogue: 0,0:16:31.80,0:16:34.87,Doc,,0,0,0,,nízko položená hlaveň, patnáct nábojů,
+Dialogue: 0,0:16:34.92,0:16:39.23,Doc,,0,0,0,,výborná ergonomie a spoušť,\Nkterá dávala střelci volbu.
+Dialogue: 0,0:16:39.28,0:16:43.73,Doc,,0,0,0,,Na svou dobu to byl jeden z\Nnejvyváženějších návrhů, jaké kdy vznikly.
+Dialogue: 0,0:16:43.78,0:16:47.77,Doc,,0,0,0,,Protože ji Západ chtěl, ale\Nnemohl ji snadno dostat.
+Dialogue: 0,0:16:47.82,0:16:52.41,Doc,,0,0,0,,Studená válka vytvořila hlad po zbrani,\Nkterou originál nedokázal nasytit.
+Dialogue: 0,0:16:52.46,0:16:55.17,Doc,,0,0,0,,A protože ji nikdo neochránil.
+Dialogue: 0,0:16:55.22,0:16:57.29,Doc,,0,0,0,,Stát, který potřeboval dolary,
+Dialogue: 0,0:16:57.34,0:17:01.35,Doc,,0,0,0,,zapomněl pohlídat to nejcennější,\Nco v Uherském Brodě vzniklo.
+Dialogue: 0,0:17:01.40,0:17:02.43,Doc,,0,0,0,,Samotný nápad.
+Dialogue: 0,0:17:02.48,0:17:04.32,Doc,,0,0,0,,Je v tom zvláštní ironie.
+Dialogue: 0,0:17:04.37,0:17:07.03,Doc,,0,0,0,,Komunistický systém vytvořil podmínky,
+Dialogue: 0,0:17:07.08,0:17:11.15,Doc,,0,0,0,,ve kterých dva konstruktéři mohli\Npostavit světovou pistoli bez ohledu na
+Dialogue: 0,0:17:11.20,0:17:12.79,Doc,,0,0,0,,sovětské standardy.
+Dialogue: 0,0:17:12.84,0:17:16.91,Doc,,0,0,0,,A stejný systém pak nechal ten\Núspěch rozkrást po celém světě.
+Dialogue: 0,0:17:16.96,0:17:22.82,Doc,,0,0,0,,Dnes, po padesáti letech, se pistole z\Nrodiny CZ sedmdesát pět pořád vyrábějí.
+Dialogue: 0,0:17:22.87,0:17:25.23,Doc,,0,0,0,,Nosí je policisté, vojáci,
+Dialogue: 0,0:17:25.28,0:17:28.97,Doc,,0,0,0,,sportovní střelci i sběratelé\Nna všech kontinentech.
+Dialogue: 0,0:17:29.02,0:17:31.35,Doc,,0,0,0,,Originál i jeho desítky potomků.
+Dialogue: 0,0:17:31.40,0:17:32.89,Doc,,0,0,0,,Teď je řada na vás.
+Dialogue: 0,0:17:32.94,0:17:37.59,Doc,,0,0,0,,Napište do komentářů, jestli jste\Nz CZ sedmdesát pět někdy stříleli.
+Dialogue: 0,0:17:37.64,0:17:38.59,Doc,,0,0,0,,A pokud ano,
+Dialogue: 0,0:17:38.64,0:17:42.19,Doc,,0,0,0,,je to podle vás opravdu jedna\Nz nejlepších pistolí historie,
+Dialogue: 0,0:17:42.24,0:17:45.49,Doc,,0,0,0,,nebo jen legenda, kterou\Nvytvořila studená válka?
+Dialogue: 0,0:17:45.54,0:17:50.87,Doc,,0,0,0,,A pokud vás zajímají další příběhy\Nzbraní, které změnily dějiny, dejte odběr.
+Dialogue: 0,0:17:50.92,0:17:54.73,Doc,,0,0,0,,Příště se podíváme na malý\Nsamopal Škorpion a na otázku,
+Dialogue: 0,0:17:54.78,0:17:56.45,Doc,,0,0,0,,pro koho vlastně vznikl.
+Dialogue: 0,0:17:56.50,0:17:58.04,Doc,,0,0,0,,Díky, že jste se dívali.

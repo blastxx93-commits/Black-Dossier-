@@ -28,7 +28,7 @@ GENERIC = CLIPS.pop("_generic", [])
 FALLBACK = {k: ["cz75", "sport", "clones"] for k in PHOTOS}
 A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FALLBACK, ["cz75", "sport", "clones"])
 A.CLIP_TARGET = 0.45
-A.MAX_HOLD, A.KEEP = 11.0, 7.0
+A.MAX_HOLD, A.KEEP = 13.0, 8.5
 A.ARCHIVE_OK = True
 A.SPLIT_BY_SUBJECT = True
 chapters = []

@@ -1,0 +1,33 @@
+{
+ "cold": [
+  "c_iron_curtain/1",
+  "c_iron_curtain/3",
+  "c_iron_curtain/4",
+  "c_czechoslovakia/3",
+  "s_cargo/1",
+  "s_cargo/5",
+  "s_cargo/6",
+  "s_money/3",
+  "s_money/4",
+  "s_prague/1"
+ ],
+ "factory": [
+  "s_factory/1",
+  "s_factory/2",
+  "s_factory/6"
+ ],
+ "west": [
+  "s_ammo/1"
+ ],
+ "sport": [
+  "s_police/3"
+ ],
+ "1989": [
+  "s_prague/3",
+  "s_prague/5"
+ ],
+ "east": [
+  "s_ammo/5"
+ ],
+ "_generic": []
+}
