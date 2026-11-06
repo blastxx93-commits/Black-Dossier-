@@ -174,6 +174,15 @@ def credit(path):
 
 
 # ---------------------------------------------------------------- graphics
+def hf(gid, sfx="whoosh"):
+    """HyperFrames card rendered by engine/hf_graphics.py into a/hf/<gid>.mp4: full frame, holds its last frame."""
+    f = f"hf/{gid}.mp4"
+    if not os.path.exists(os.path.join("a", f)):
+        sys.exit(f"Cartela HyperFrames {f} não existe — rodar engine/hf_graphics.py")
+    USED.add(f)
+    return K.vid(f, fit="crop", hold=True, trans="fade", sfx=[fx(sfx, 0, -6)] if sfx else [])
+
+
 def rank(num, name, folder, n, tag=None, sub=None):
     f = M(folder, n)
     s = {"type": "rank", "num": num, "name": name, "photo": "a/" + f, "credit": credit(f), "trans": "wipe",

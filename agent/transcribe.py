@@ -15,7 +15,7 @@ ap.add_argument("out_dir")
 ap.add_argument("--lang", default="en")
 ap.add_argument("--model", default="")
 a = ap.parse_args()
-a.model = a.model or ("small.en" if a.lang == "en" else "small")
+a.model = a.model or {"en": "small.en", "cs": "medium"}.get(a.lang, "small")  # Czech: "small" mishears too many words for the cue alignment
 os.makedirs(a.out_dir, exist_ok=True)
 FFMPEG = shutil.which("ffmpeg")
 if not FFMPEG:  # newer runners ship without ffmpeg

@@ -440,7 +440,9 @@ def shot_video(ctx, s, n):
               f"boxblur=8:2,scale={W}:{H},eq=brightness=-0.12[bg];"
               f"[b]scale={W}:{H}:force_original_aspect_ratio=decrease[fg];"
               f"[bg][fg]overlay=(W-w)/2:(H-h)/2")
-    cmd = ["ffmpeg", "-v", "error", "-stream_loop", "-1", "-ss", str(s.get("start", 0)), "-i", ctx.path(s["src"]),
+    # "hold": animated cards (HyperFrames) freeze on their last frame instead of looping
+    loop = [] if s.get("hold") else ["-stream_loop", "-1"]
+    cmd = ["ffmpeg", "-v", "error", *loop, "-ss", str(s.get("start", 0)), "-i", ctx.path(s["src"]),
            "-filter_complex" if ";" in vf else "-vf", vf,
            "-frames:v", str(n), "-f", "rawvideo", "-pix_fmt", "rgb24", "-"]
     p = subprocess.Popen(cmd, stdout=subprocess.PIPE)
