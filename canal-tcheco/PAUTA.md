@@ -1,24 +1,24 @@
-# Pauta — 15 primeiros vídeos (títulos em tcheco)
+# Pauta do canal tcheco (definida pelo dono em 06/11/2026)
 
-Ordem pensada para abrir com os temas tchecos mais fortes e intercalar com os outliers do canal de referência.
-Tradução em português entre parênteses.
-
-| # | Título (tcheco) | Tradução | Origem do ângulo |
+| # | Pasta | Título (tcheco) | Tradução |
 |---|---|---|---|
-| 01 | Proč Československo jako jediné odmítlo kalašnikov | Por que a Tchecoslováquia foi a única a recusar o Kalashnikov | tcheco (vz. 58) · decisão de país (FAMAS) |
-| 02 | CZ 75: Pistole, kterou chtěl celý Západ, ale Východ ji schovával | CZ 75: a pistola que o Ocidente queria e o Leste escondia | tcheco · mito/segredo |
-| 03 | Dragunov nebyl postaven pro odstřelovače. Ale pro něco horšího | Dragunov não foi feito para sniper. Mas para algo pior | outlier 121 mil |
-| 04 | Jak kulomet z Brna vyzbrojil britskou armádu | Como uma metralhadora de Brno armou o exército britânico (ZB 26 → Bren) | tcheco |
-| 05 | Co se stalo s německými MP40 po válce (a proč skončily v Československu) | O que aconteceu com as MP40 depois da guerra | outlier 43 mil + ponte tcheca |
-| 06 | Slovo „pistole“ je české. Tohle je jeho krvavý původ | A palavra "pistola" é tcheca. Esta é a origem (píšťala hussita) | tcheco · curiosidade |
-| 07 | Škorpion: Malý samopal, který si oblíbil celý svět | Škorpion: a pequena submetralhadora que o mundo adotou | tcheco |
-| 08 | Proč Francie vyměnila FAMAS za německou pušku | Por que a França trocou o FAMAS por um fuzil alemão | outlier 90 mil |
-| 09 | Zbraně, které zachránily Izrael, přišly z Československa | As armas que salvaram Israel vieram da Tchecoslováquia (1948) | tcheco · história forte |
-| 10 | StG 44 změnila pušky navždy. Proč přišla pozdě? | O StG 44 mudou os fuzis para sempre. Por que chegou tarde? | referência |
-| 11 | Puška vz. 52: Česká chyba, kterou Moskva nedovolila opravit | O fuzil vz. 52: o erro tcheco que Moscou não deixou corrigir | tcheco |
-| 12 | Český ježek: Překážka, kterou převzal celý svět | O "ouriço tcheco": o obstáculo que o mundo copiou | tcheco |
-| 13 | Proč česká armáda vyměnila vz. 58 za BREN | Por que o exército tcheco trocou o vz. 58 pelo BREN | tcheco |
-| 14 | PKM: Komunistický kulomet, kterému NATO dodnes nestačí | PKM: a metralhadora comunista que a OTAN ainda não alcança | referência |
-| 15 | Zbraně Theodora Roosevelta a příběhy za nimi | As armas de Theodore Roosevelt | outlier 52 mil |
+| 01 | cz01-vz58 | Vz. 58: Proč si Československo vyvinulo vlastní pušku místo AK? | Vz. 58: por que a Tchecoslováquia criou seu próprio fuzil em vez do AK? |
+| 02 | cz02-cz75 | CZ 75: Proč ji kopírovali výrobci po celém světě? | CZ 75: por que fabricantes do mundo todo a copiaram? |
+| 03 | cz03-skorpion | Škorpion vz. 61: Pro koho vlastně vznikl? | Škorpion vz. 61: para quem ele foi criado, afinal? |
+| 04 | cz04-bren | Bren: Jak se československý kulomet stal britskou legendou | Bren: como uma metralhadora tchecoslovaca virou lenda britânica |
+| 05 | cz05-vz58-nahrada | Vz. 58: Proč ho česká armáda začala nahrazovat? | Vz. 58: por que o exército tcheco começou a substituí-lo? |
+| 06 | cz06-dragunov | Dragunov SVD: Jakou roli měl v sovětské armádě? | Dragunov SVD: qual era seu papel no exército soviético? |
+| 07 | cz07-zb26 | ZB vz. 26: Jak se kulomet z Brna dostal do světa | ZB vz. 26: como a metralhadora de Brno ganhou o mundo |
+| 08 | cz08-famas | FAMAS: Proč Francie přešla na německou pušku? | FAMAS: por que a França passou para um fuzil alemão? |
+| 09 | cz09-zbrojovky-1939 | Československé zbrojovky po roce 1939: Kdo převzal jejich výrobu? | As fábricas de armas tchecoslovacas depois de 1939: quem assumiu a produção? |
+| 10 | cz10-mp40 | MP40 po roce 1945: Kam zmizely německé samopaly? | MP40 depois de 1945: para onde foram as submetralhadoras alemãs? |
 
-Frequência sugerida: 2 vídeos por semana no início (o canal de referência posta a cada 2–3 dias).
+## Notas de produção (para não repetir conteúdo entre vídeos)
+- **01 × 05:** o 01 conta a origem (recusa do AK, mecanismo, 1968, legado). O 05 aprofunda a substituição
+  (limites do vz. 58 no NATO, concursos dos anos 2000, CZ 805 BREN, BREN 2, onde o vz. 58 ainda serve, Ucrânia).
+  Por isso, no 01 a parte do BREN fica curta.
+- **04 × 07:** o 07 é a história da ZB vz. 26 (Brno, Václav Holek, exportações para dezenas de países); o 04 segue o Bren
+  na Grã-Bretanha (licença, Enfield, Segunda Guerra, serviço até os anos 1990). Cada um só cita o outro de passagem.
+- **09** liga com 04/07 (Brno sob ocupação alemã) e com 10 (produção para a Wehrmacht).
+- Mesmo formato do 01: ~20 min, narração em tcheco com números por extenso, material real como base, IA (Replicate) só
+  para lacunas, 3–5 cartelas HyperFrames.
