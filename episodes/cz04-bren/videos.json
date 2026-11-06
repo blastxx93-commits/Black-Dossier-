@@ -1,0 +1,197 @@
+{
+ "defaults": {
+  "n": 5,
+  "clip": 8,
+  "per_film": 2
+ },
+ "shots": [
+  {
+   "id": "c_dunkirk",
+   "query": "Dunkirk",
+   "alt": [
+    "evacuation Dunkirk",
+    "British troops France 1940"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1940,
+    1940
+   ],
+   "sources": [
+    "archive",
+    "commons"
+   ],
+   "n": 5
+  },
+  {
+   "id": "c_british_army",
+   "query": "British army",
+   "alt": [
+    "British troops",
+    "Tommies"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1939,
+    1945
+   ],
+   "sources": [
+    "archive",
+    "commons"
+   ],
+   "n": 5
+  },
+  {
+   "id": "c_north_africa",
+   "query": "Libya",
+   "alt": [
+    "Tobruk",
+    "desert war",
+    "Eighth Army"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1941,
+    1943
+   ],
+   "sources": [
+    "archive",
+    "commons"
+   ],
+   "n": 5
+  },
+  {
+   "id": "c_normandy",
+   "query": "Normandy",
+   "alt": [
+    "invasion France",
+    "D-Day"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1944,
+    1944
+   ],
+   "sources": [
+    "archive",
+    "commons"
+   ],
+   "n": 5
+  },
+  {
+   "id": "c_czech_1939",
+   "query": "Czechoslovakia",
+   "alt": [
+    "Prague",
+    "Czech crisis",
+    "Sudeten"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1938,
+    1939
+   ],
+   "sources": [
+    "archive",
+    "commons"
+   ],
+   "n": 5
+  },
+  {
+   "id": "c_factory_war",
+   "query": "war production",
+   "alt": [
+    "arms factory",
+    "munitions workers",
+    "women war work"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1940,
+    1945
+   ],
+   "sources": [
+    "archive",
+    "commons"
+   ],
+   "n": 5
+  },
+  {
+   "id": "c_burma",
+   "query": "Burma",
+   "alt": [
+    "jungle war",
+    "British India troops"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1942,
+    1945
+   ],
+   "sources": [
+    "archive",
+    "commons"
+   ],
+   "n": 5
+  },
+  {
+   "id": "c_falklands",
+   "query": "Falklands",
+   "alt": [
+    "Argentina Britain"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1982,
+    1982
+   ],
+   "sources": [
+    "archive",
+    "commons"
+   ],
+   "n": 5
+  },
+  {
+   "id": "s_brno",
+   "query": "Brno",
+   "alt": [
+    "Brno city",
+    "Moravia"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay"
+   ],
+   "n": 5
+  },
+  {
+   "id": "s_beach",
+   "query": "beach France waves",
+   "alt": [
+    "sandy beach waves",
+    "English channel"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay"
+   ],
+   "n": 5
+  }
+ ]
+}

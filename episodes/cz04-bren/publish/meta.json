@@ -1,0 +1,23 @@
+{
+ "lang": "cs",
+ "tagline": "Skutečná historie zbraní, se zdroji.",
+ "compact_credits": true,
+ "credits_file": "episodes/cz04-bren/publish/creditos_completos.txt",
+ "intro": "Jak se kulomet ZB vz. 26 z brněnské zbrojovky stal britskou legendou Bren? Příběh konstruktéra Václava Holka, britských zkoušek, licence z roku 1935, Dunkerque, protektorátu a československých vojáků v exilu, kteří s Breny obléhali Dunkerque v letech 1944–1945.\n\nVideo je historický dokument založený na publikovaných zdrojích. Nejde o návod k výrobě ani úpravám zbraní.",
+ "chapters": [
+  "Britská legenda z Brna",
+  "Václav Holek",
+  "ZB vz. 26",
+  "Britské zkoušky a jméno",
+  "Bren ve válce",
+  "Brno pod okupací",
+  "Čechoslováci s Breny",
+  "Půl století ve službě",
+  "Odpověď"
+ ],
+ "sources": [
+  "Wikipedia (cs/en): Bren light machine gun; ZB vz. 26; Václav Holek",
+  "Imperial War Museums: Bren gun",
+  "Vojenský historický ústav Praha: Čs. samostatná obrněná brigáda"
+ ]
+}

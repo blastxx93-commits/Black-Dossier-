@@ -1,0 +1,74 @@
+[
+ {
+  "id": "g_name",
+  "kind": "chapter",
+  "dur": 6,
+  "num": "BRno + ENfield",
+  "title": "BREN",
+  "sub": "jméno, které vzniklo ze dvou měst",
+  "size": 200
+ },
+ {
+  "id": "g_spec",
+  "kind": "spec",
+  "dur": 10,
+  "title": "Bren Mk I",
+  "sub": "podle ZB vz. 26 · Václav Holek",
+  "rows": [
+   [
+    "Ráže",
+    ".303 British"
+   ],
+   [
+    "Hmotnost",
+    "≈ 10 kg"
+   ],
+   [
+    "Kadence",
+    "≈ 500 ran/min"
+   ],
+   [
+    "Zásobník",
+    "30 nábojů"
+   ],
+   [
+    "Licence",
+    "1935"
+   ]
+  ],
+  "stamp": "Made in Brno"
+ },
+ {
+  "id": "g_timeline",
+  "kind": "timeline",
+  "dur": 10,
+  "label": "Půl století ve službě",
+  "title": "Z Brna do světa",
+  "events": [
+   [
+    1926,
+    "ZB vz. 26"
+   ],
+   [
+    1935,
+    "britská licence"
+   ],
+   [
+    1937,
+    "první Bren"
+   ],
+   [
+    1940,
+    "Dunkerque"
+   ],
+   [
+    1982,
+    "Falklandy"
+   ],
+   [
+    2011,
+    "CZ BREN"
+   ]
+  ]
+ }
+]

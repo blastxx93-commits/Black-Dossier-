@@ -1,0 +1,218 @@
+{
+ "defaults": {
+  "n": 5,
+  "sources": [
+   "commons",
+   "openverse",
+   "loc"
+  ]
+ },
+ "shots": [
+  {
+   "id": "bren",
+   "query": "Bren gun",
+   "alt": [
+    "Bren light machine gun",
+    "Bren Mk I",
+    "Bren Mk II",
+    "Bren gun museum"
+   ],
+   "n": 15
+  },
+  {
+   "id": "bren_ww2",
+   "query": "Bren gun 1944",
+   "alt": [
+    "Bren gunner",
+    "Bren gun team",
+    "British soldier Bren gun",
+    "Bren gun Normandy"
+   ],
+   "n": 15
+  },
+  {
+   "id": "bren_desert",
+   "query": "Bren gun North Africa",
+   "alt": [
+    "Bren gun desert",
+    "Eighth Army Bren"
+   ],
+   "n": 8
+  },
+  {
+   "id": "bren_burma",
+   "query": "Bren gun Burma",
+   "alt": [
+    "Bren gun jungle",
+    "Bren gun India"
+   ],
+   "n": 6
+  },
+  {
+   "id": "bren_l4",
+   "query": "L4A4 Bren",
+   "alt": [
+    "L4 light machine gun",
+    "Bren 7.62"
+   ],
+   "n": 6
+  },
+  {
+   "id": "bren_carrier",
+   "query": "Universal Carrier",
+   "alt": [
+    "Bren carrier",
+    "Universal Carrier museum"
+   ],
+   "n": 8
+  },
+  {
+   "id": "bren_girl",
+   "query": "Ronnie the Bren Gun Girl",
+   "alt": [
+    "Veronica Foster",
+    "John Inglis Bren factory",
+    "Inglis Bren gun"
+   ],
+   "n": 6
+  },
+  {
+   "id": "zb26",
+   "query": "ZB vz. 26",
+   "alt": [
+    "ZB 26 light machine gun",
+    "lehký kulomet vz. 26",
+    "ZB-26",
+    "ZB vz. 30"
+   ],
+   "n": 12
+  },
+  {
+   "id": "holek",
+   "query": "Václav Holek",
+   "alt": [
+    "Holek zbrojovka"
+   ],
+   "n": 3
+  },
+  {
+   "id": "zbrojovka_brno",
+   "query": "Zbrojovka Brno",
+   "alt": [
+    "Československá zbrojovka Brno",
+    "Zbrojovka Brno historie"
+   ],
+   "n": 8
+  },
+  {
+   "id": "brno_old",
+   "query": "Brno 1930",
+   "alt": [
+    "Brno historické",
+    "Brno náměstí Svobody"
+   ],
+   "n": 8
+  },
+  {
+   "id": "enfield",
+   "query": "Royal Small Arms Factory Enfield",
+   "alt": [
+    "Enfield Lock",
+    "RSAF Enfield"
+   ],
+   "n": 6
+  },
+  {
+   "id": "lewis_gun",
+   "query": "Lewis gun",
+   "alt": [
+    "Lewis gun 1918",
+    "Lewis machine gun"
+   ],
+   "n": 5
+  },
+  {
+   "id": "dunkirk",
+   "query": "Dunkirk evacuation 1940",
+   "alt": [
+    "Dunkirk 1940",
+    "Dunkirk beach soldiers",
+    "Dunkerque 1940"
+   ],
+   "n": 12
+  },
+  {
+   "id": "dunkirk_1945",
+   "query": "Czechoslovak Armoured Brigade Dunkirk",
+   "alt": [
+    "Československá samostatná obrněná brigáda",
+    "Czechoslovak brigade 1944"
+   ],
+   "n": 8
+  },
+  {
+   "id": "czech_exile",
+   "query": "Czechoslovak army in Britain",
+   "alt": [
+    "Czechoslovak soldiers England 1940",
+    "Cholmondeley 1940"
+   ],
+   "n": 8
+  },
+  {
+   "id": "protectorate",
+   "query": "Protectorate of Bohemia and Moravia",
+   "alt": [
+    "German army Prague 1939",
+    "Protektorát Čechy a Morava",
+    "Prague March 1939"
+   ],
+   "n": 10
+  },
+  {
+   "id": "czech_bunker",
+   "query": "Czechoslovak border fortifications",
+   "alt": [
+    "řopík",
+    "ŘOP bunker",
+    "Czechoslovak bunker 1938"
+   ],
+   "n": 8
+  },
+  {
+   "id": "normandy",
+   "query": "Normandy 1944 British",
+   "alt": [
+    "British infantry Normandy",
+    "Sword Beach 1944"
+   ],
+   "n": 10
+  },
+  {
+   "id": "cz_bren",
+   "query": "CZ BREN 2",
+   "alt": [
+    "CZ 805 BREN",
+    "Czech soldier BREN 2"
+   ],
+   "n": 8
+  },
+  {
+   "id": "falklands",
+   "query": "Falklands War 1982 British",
+   "alt": [
+    "Falklands 1982 soldiers"
+   ],
+   "n": 5
+  },
+  {
+   "id": "museum_mg",
+   "query": "machine gun museum",
+   "alt": [
+    "light machine guns display",
+    "military museum machine guns"
+   ],
+   "n": 8
+  }
+ ]
+}
