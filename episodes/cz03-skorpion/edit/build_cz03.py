@@ -11,12 +11,12 @@ from aus_kit import P, ch, hf, cta
 
 AI = lambda *names: ["ai:" + n for n in names]  # noqa: E731
 PHOTOS = {
-    "skorpion": ["skorpion", "skorpion_museum", "skorpion_holster", "weapons_museum"] + AI("ai_holster_belt", "ai_collector"),
-    "rear": ["tank_crew", "radio_operator", "army_truck", "vz58_army"] + AI("ai_driver_cab", "ai_tank_hatch", "ai_signaller", "ai_staff_officer", "ai_ambush_column"),
+    "skorpion": ["skorpion", "skorpion_museum", "skorpion_holster", "weapons_museum", "x_weapons_museum"] + AI("ai_holster_belt", "ai_collector"),
+    "rear": ["tank_crew", "radio_operator", "army_truck", "vz58_army", "x_czsl_army", "x_conscripts", "x_vz58_soldier", "x_czech_soldiers_vz58", "x_slovak_army", "x_cold_war_army"] + AI("ai_driver_cab", "ai_tank_hatch", "ai_signaller", "ai_staff_officer", "ai_ambush_column"),
     "design": ["strakonice", "pistol_32acp"] + AI("ai_rybar_desk", "ai_prototype", "ai_grip_mechanism", "ai_motorcycle_factory"),
     "factory": ["uh_brod", "strakonice"],
-    "police": ["vb_police", "czech_police"] + AI("ai_police_70s"),
-    "dark": ["italy_70s", "cold_war_border"] + AI("ai_coat_hidden", "ai_rome_70s", "ai_newspaper_stack", "ai_border_smuggle", "ai_warehouse_90s"),
+    "police": ["vb_police", "czech_police", "x_police_cz", "x_czech_army_pistol"] + AI("ai_police_70s"),
+    "dark": ["italy_70s", "cold_war_border", "x_prague_70s", "x_invasion_1968_more", "x_prague_1968", "x_soviet_army_parade", "x_velvet_1989", "x_velvet"] + AI("ai_coat_hidden", "ai_rome_70s", "ai_newspaper_stack", "ai_border_smuggle", "ai_warehouse_90s"),
     "balkan": ["yugoslav_war", "m84"] + AI("ai_balkan_ruins"),
     "pdw": ["p90", "mp7"],
     "modern": ["evo3", "czech_police"] + AI("ai_modern_smg", "ai_gamer"),
@@ -26,7 +26,7 @@ GENERIC = CLIPS.pop("_generic", [])
 FALLBACK = {k: ["skorpion", "rear", "police"] for k in PHOTOS}
 A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FALLBACK, ["skorpion", "rear", "police"])
 A.CLIP_TARGET = 0.45
-A.MAX_HOLD, A.KEEP = 13.0, 8.5
+A.MAX_HOLD, A.KEEP = 11.0, 7.0
 A.ARCHIVE_OK = True
 A.SPLIT_BY_SUBJECT = True
 chapters = []

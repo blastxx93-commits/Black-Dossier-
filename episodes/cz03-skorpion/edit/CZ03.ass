@@ -1,0 +1,316 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Doc,Inter SemiBold,44,&H0000E6FF,&H0000E6FF,&H00000000,&H96000000,0,0,0,0,100,100,0.5,0,1,2.4,1.2,2,200,200,62,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.39,Doc,,0,0,0,,Vypadá skoro jako hračka.
+Dialogue: 0,0:00:02.44,0:00:04.97,Doc,,0,0,0,,Celá zbraň se vejde do kapsy kabátu.
+Dialogue: 0,0:00:05.02,0:00:08.93,Doc,,0,0,0,,Se sklopenou ramenní opěrkou\Nje kratší než lidské předloktí.
+Dialogue: 0,0:00:08.98,0:00:12.58,Doc,,0,0,0,,A přesto dokáže vystřelit\Npřes osm set ran za minutu.
+Dialogue: 0,0:00:12.63,0:00:14.57,Doc,,0,0,0,,Jmenuje se Škorpion.
+Dialogue: 0,0:00:14.62,0:00:16.71,Doc,,0,0,0,,Samopal vzor šedesát jedna.
+Dialogue: 0,0:00:16.76,0:00:22.11,Doc,,0,0,0,,Vznikl v Československu na začátku\Nšedesátých let a během několika desetiletí
+Dialogue: 0,0:00:22.16,0:00:24.27,Doc,,0,0,0,,se rozšířil do celého světa.
+Dialogue: 0,0:00:24.32,0:00:27.87,Doc,,0,0,0,,Používaly ho armády,\Npolicie, tajné služby.
+Dialogue: 0,0:00:27.92,0:00:31.43,Doc,,0,0,0,,Objevil se ve válkách\Nna Balkáně i v Africe.
+Dialogue: 0,0:00:31.48,0:00:33.55,Doc,,0,0,0,,A bohužel se dostal i do rukou lidí,
+Dialogue: 0,0:00:33.60,0:00:37.85,Doc,,0,0,0,,kteří psali ty nejtemnější\Nkapitoly evropského terorismu.
+Dialogue: 0,0:00:37.90,0:00:40.05,Doc,,0,0,0,,Jenže nic z toho nebylo v plánu.
+Dialogue: 0,0:00:40.10,0:00:43.05,Doc,,0,0,0,,Když konstruktéři v Česku\NŠkorpion navrhovali,
+Dialogue: 0,0:00:43.10,0:00:47.89,Doc,,0,0,0,,neměli na mysli ani speciální\Njednotky, ani agenty, ani teroristy.
+Dialogue: 0,0:00:47.94,0:00:50.07,Doc,,0,0,0,,Měli na mysli úplně jiné lidi.
+Dialogue: 0,0:00:50.12,0:00:53.51,Doc,,0,0,0,,Lidi, o kterých se ve\Nválečných filmech moc nemluví.
+Dialogue: 0,0:00:53.56,0:00:56.01,Doc,,0,0,0,,Tak pro koho vlastně Škorpion vznikl?
+Dialogue: 0,0:00:56.06,0:01:00.81,Doc,,0,0,0,,Proč střílí tak slabý náboj, že ho\Nmnozí považují spíš za pistolový?
+Dialogue: 0,0:01:00.86,0:01:05.49,Doc,,0,0,0,,A jak se z nenápadné zbraně pro armádní\Ntýl stala jedna z nejznámějších malých
+Dialogue: 0,0:01:05.54,0:01:06.89,Doc,,0,0,0,,zbraní světa?
+Dialogue: 0,0:01:06.94,0:01:09.37,Doc,,0,0,0,,Odpověď je překvapivě jednoduchá.
+Dialogue: 0,0:01:09.42,0:01:10.85,Doc,,0,0,0,,A zároveň ukazuje,
+Dialogue: 0,0:01:10.90,0:01:15.35,Doc,,0,0,0,,že českoslovenští konstruktéři\Npřemýšleli o desítky let dopředu.
+Dialogue: 0,0:01:15.40,0:01:17.56,Doc,,0,0,0,,Tohle je příběh samopalu Škorpion.
+Dialogue: 0,0:01:18.08,0:01:20.15,Doc,,0,0,0,,Konec padesátých let.
+Dialogue: 0,0:01:20.20,0:01:22.44,Doc,,0,0,0,,Československá armáda se přezbrojuje.
+Dialogue: 0,0:01:22.49,0:01:26.61,Doc,,0,0,0,,Pěchota dostává nový\Nsamopal vzor padesát osm.
+Dialogue: 0,0:01:26.66,0:01:31.31,Doc,,0,0,0,,Lehký, moderní, na náboj, který\Npoužívá celý východní blok.
+Dialogue: 0,0:01:31.36,0:01:33.71,Doc,,0,0,0,,Jenže armáda není jen pěchota.
+Dialogue: 0,0:01:33.76,0:01:36.70,Doc,,0,0,0,,Jsou tu řidiči nákladních aut a tankisté.
+Dialogue: 0,0:01:36.75,0:01:39.69,Doc,,0,0,0,,Spojaři s těžkými vysílačkami na zádech.
+Dialogue: 0,0:01:39.74,0:01:41.62,Doc,,0,0,0,,Obsluhy děl a raketometů.
+Dialogue: 0,0:01:41.67,0:01:43.93,Doc,,0,0,0,,Důstojníci na štábech.
+Dialogue: 0,0:01:43.98,0:01:46.23,Doc,,0,0,0,,Strážní u skladů a letišť.
+Dialogue: 0,0:01:46.28,0:01:49.83,Doc,,0,0,0,,Desetitisíce lidí, kteří\Nnejsou v první linii,
+Dialogue: 0,0:01:49.88,0:01:55.27,Doc,,0,0,0,,ale přesto potřebují nějakou zbraň pro\Npřípad, že se k nim nepřítel dostane.
+Dialogue: 0,0:01:55.32,0:02:01.11,Doc,,0,0,0,,Druhá světová válka ukázala, že tihle\Nlidé jsou zranitelnější, než se zdá.
+Dialogue: 0,0:02:01.16,0:02:03.19,Doc,,0,0,0,,Fronta se často hýbala rychle.
+Dialogue: 0,0:02:03.24,0:02:09.19,Doc,,0,0,0,,Výsadky, průzkumné skupiny a obklíčené\Njednotky se objevovaly hluboko v týlu.
+Dialogue: 0,0:02:09.24,0:02:11.61,Doc,,0,0,0,,Kolony zásobování padaly do přepadů.
+Dialogue: 0,0:02:11.66,0:02:13.71,Doc,,0,0,0,,A řidič nebo spojař,
+Dialogue: 0,0:02:13.76,0:02:16.19,Doc,,0,0,0,,který měl u sebe jen malou pistoli,
+Dialogue: 0,0:02:16.24,0:02:19.59,Doc,,0,0,0,,neměl proti skupině\Nnepřátel téměř žádnou šanci.
+Dialogue: 0,0:02:19.64,0:02:22.73,Doc,,0,0,0,,Armádní plánovači si\Ntuhle lekci pamatovali.
+Dialogue: 0,0:02:22.78,0:02:23.94,Doc,,0,0,0,,Co jim dát?
+Dialogue: 0,0:02:23.99,0:02:26.75,Doc,,0,0,0,,Plnohodnotný samopal\Nje pro ně příliš velký.
+Dialogue: 0,0:02:26.80,0:02:30.12,Doc,,0,0,0,,Tankista se s ním v\Nocelové věži sotva otočí.
+Dialogue: 0,0:02:30.17,0:02:35.38,Doc,,0,0,0,,Spojař s vysílačkou na zádech a dlouhou\Nzbraní přes rameno se nemůže pořádně
+Dialogue: 0,0:02:35.43,0:02:35.93,Doc,,0,0,0,,pohnout.
+Dialogue: 0,0:02:35.98,0:02:37.61,Doc,,0,0,0,,Řidič ho nemá kam dát.
+Dialogue: 0,0:02:37.66,0:02:40.13,Doc,,0,0,0,,Pistole je zase příliš slabá.
+Dialogue: 0,0:02:40.18,0:02:43.45,Doc,,0,0,0,,V boji na krátkou\Nvzdálenost má sice smysl,
+Dialogue: 0,0:02:43.50,0:02:45.99,Doc,,0,0,0,,ale proti skupině nepřátel nestačí.
+Dialogue: 0,0:02:46.04,0:02:49.39,Doc,,0,0,0,,A naučit se z pistole\Ndobře střílet trvá dlouho.
+Dialogue: 0,0:02:49.44,0:02:52.31,Doc,,0,0,0,,Armáda tedy potřebovala něco mezi tím.
+Dialogue: 0,0:02:52.36,0:02:56.43,Doc,,0,0,0,,Zbraň velikosti pistole, ale\Ns palebnou silou samopalu.
+Dialogue: 0,0:02:56.48,0:02:58.59,Doc,,0,0,0,,Lehkou, malou, jednoduchou,
+Dialogue: 0,0:02:58.64,0:03:02.86,Doc,,0,0,0,,kterou člověk nosí celý den\Nna opasku a skoro o ní neví.
+Dialogue: 0,0:03:02.91,0:03:06.35,Doc,,0,0,0,,Dnes by se takové zbrani\Nřeklo osobní obranná zbraň.
+Dialogue: 0,0:03:06.40,0:03:11.27,Doc,,0,0,0,,Ten pojem se ve světě začal\Npoužívat až o dvacet let později.
+Dialogue: 0,0:03:11.32,0:03:16.13,Doc,,0,0,0,,Ale v Československu už na konci\Npadesátých let přesně tuhle zbraň chtěli.
+Dialogue: 0,0:03:16.18,0:03:20.24,Doc,,0,0,0,,Úkol dostal konstruktér, jehož\Njméno dnes zná jen málokdo.
+Dialogue: 0,0:03:20.99,0:03:23.37,Doc,,0,0,0,,Jmenoval se Miroslav Rybář.
+Dialogue: 0,0:03:23.42,0:03:26.42,Doc,,0,0,0,,Pracoval ve zbrojovce ve Strakonicích,
+Dialogue: 0,0:03:26.47,0:03:29.93,Doc,,0,0,0,,kde se tehdy vyráběly hlavně\Nmotocykly a menší zbraně.
+Dialogue: 0,0:03:29.98,0:03:33.36,Doc,,0,0,0,,Strakonická zbrojovka\Nměla dlouhou tradici.
+Dialogue: 0,0:03:33.41,0:03:36.71,Doc,,0,0,0,,Po válce se proslavila\Nmotocykly značky ČZ,
+Dialogue: 0,0:03:36.76,0:03:40.06,Doc,,0,0,0,,které vyhrávaly závody po celém světě.
+Dialogue: 0,0:03:40.11,0:03:45.48,Doc,,0,0,0,,Výroba zbraní tam ale nikdy úplně neustala\Na konstruktéři z jihočeského města
+Dialogue: 0,0:03:45.53,0:03:48.64,Doc,,0,0,0,,uměli pracovat s malými a přesnými díly.
+Dialogue: 0,0:03:48.69,0:03:53.37,Doc,,0,0,0,,Podle dostupných pramenů začal na\Nnovém samopalu pracovat kolem roku
+Dialogue: 0,0:03:53.42,0:03:55.66,Doc,,0,0,0,,devatenáct set padesát devět.
+Dialogue: 0,0:03:55.71,0:03:59.70,Doc,,0,0,0,,Jeho úkol byl v jednom ohledu\Nsložitější, než se zdá.
+Dialogue: 0,0:03:59.75,0:04:02.06,Doc,,0,0,0,,Udělat malou zbraň není těžké.
+Dialogue: 0,0:04:02.11,0:04:03.13,Doc,,0,0,0,,Udělat malou zbraň,
+Dialogue: 0,0:04:03.18,0:04:07.34,Doc,,0,0,0,,ze které se dá automaticky střílet\Na přitom ji udržet v rukou,
+Dialogue: 0,0:04:07.39,0:04:08.86,Doc,,0,0,0,,to už je jiná věc.
+Dialogue: 0,0:04:08.91,0:04:11.07,Doc,,0,0,0,,První rozhodnutí se týkalo náboje.
+Dialogue: 0,0:04:11.12,0:04:16.90,Doc,,0,0,0,,Rybář nesáhl po silné sovětské munici,\Njakou používaly samopaly pěchoty.
+Dialogue: 0,0:04:16.95,0:04:21.06,Doc,,0,0,0,,Vybral náboj sedm celých\Nšedesát pět milimetru Browning.
+Dialogue: 0,0:04:21.11,0:04:22.47,Doc,,0,0,0,,Slabý pistolový náboj,
+Dialogue: 0,0:04:22.52,0:04:26.84,Doc,,0,0,0,,který se do té doby používal hlavně\Nv malých kapesních pistolích.
+Dialogue: 0,0:04:26.89,0:04:27.84,Doc,,0,0,0,,Proč?
+Dialogue: 0,0:04:27.89,0:04:32.74,Doc,,0,0,0,,Protože silný náboj by malou a lehkou\Nzbraň při automatické střelbě doslova
+Dialogue: 0,0:04:32.79,0:04:34.16,Doc,,0,0,0,,vytrhl z rukou.
+Dialogue: 0,0:04:34.21,0:04:36.96,Doc,,0,0,0,,Slabší náboj znamenal menší zpětný ráz.
+Dialogue: 0,0:04:37.01,0:04:39.04,Doc,,0,0,0,,A menší zpětný ráz znamenal,
+Dialogue: 0,0:04:39.09,0:04:43.98,Doc,,0,0,0,,že i netrénovaný řidič nebo spojař\Ndokáže zbraň udržet a trefit se na pár
+Dialogue: 0,0:04:44.03,0:04:44.97,Doc,,0,0,0,,desítek metrů.
+Dialogue: 0,0:04:45.02,0:04:49.32,Doc,,0,0,0,,Na víc ostatně zbraň určená\Npro sebeobranu ani nebyla.
+Dialogue: 0,0:04:49.37,0:04:52.22,Doc,,0,0,0,,Prototypy se zkoušely\Nv různých podmínkách.
+Dialogue: 0,0:04:52.27,0:04:56.71,Doc,,0,0,0,,Střílelo se z nich jednou rukou i z\Nramene, vleže i z jedoucího vozidla.
+Dialogue: 0,0:04:56.76,0:05:01.26,Doc,,0,0,0,,Konstruktéři sledovali, jak rychle\Nse dá zbraň připravit k palbě,
+Dialogue: 0,0:05:01.31,0:05:06.40,Doc,,0,0,0,,jak se nosí v pouzdře a jak se chová,\Nkdyž ji voják celý den nosí na opasku.
+Dialogue: 0,0:05:06.45,0:05:08.43,Doc,,0,0,0,,Každý detail musel sloužit tomu,
+Dialogue: 0,0:05:08.48,0:05:11.20,Doc,,0,0,0,,kdo zbraň nebude používat každý den,
+Dialogue: 0,0:05:11.25,0:05:14.08,Doc,,0,0,0,,ale ve chvíli nouze na ní\Nbude záviset jeho život.
+Dialogue: 0,0:05:14.13,0:05:18.30,Doc,,0,0,0,,Výsledek vážil prázdný zhruba\Njeden a čtvrt kilogramu.
+Dialogue: 0,0:05:18.35,0:05:23.67,Doc,,0,0,0,,S ramenní opěrkou sklopenou přes horní\Nčást zbraně měřil asi dvacet sedm
+Dialogue: 0,0:05:23.72,0:05:24.22,Doc,,0,0,0,,centimetrů.
+Dialogue: 0,0:05:24.27,0:05:27.16,Doc,,0,0,0,,Zásobník pojal deset nebo dvacet nábojů.
+Dialogue: 0,0:05:27.21,0:05:32.19,Doc,,0,0,0,,V roce devatenáct set šedesát jedna\Narmáda zbraň přijala jako samopal vzor
+Dialogue: 0,0:05:32.24,0:05:33.42,Doc,,0,0,0,,šedesát jedna.
+Dialogue: 0,0:05:33.47,0:05:36.74,Doc,,0,0,0,,Výroba se brzy přesunula\Ndo Uherského Brodu.
+Dialogue: 0,0:05:36.79,0:05:37.60,Doc,,0,0,0,,A jméno?
+Dialogue: 0,0:05:37.65,0:05:38.60,Doc,,0,0,0,,Škorpion.
+Dialogue: 0,0:05:38.65,0:05:40.72,Doc,,0,0,0,,Podle mnoha vyprávění kvůli tvaru,
+Dialogue: 0,0:05:40.77,0:05:45.56,Doc,,0,0,0,,který se zahnutým zásobníkem a ramenní\Nopěrkou připomíná štíra se zdviženým
+Dialogue: 0,0:05:45.61,0:05:46.34,Doc,,0,0,0,,ocasem.
+Dialogue: 0,0:05:46.39,0:05:50.38,Doc,,0,0,0,,Jenže to nejzajímavější na\NŠkorpionu nebylo vidět zvenku.
+Dialogue: 0,0:05:50.43,0:05:52.55,Doc,,0,0,0,,Bylo schované v jeho rukojeti.
+Dialogue: 0,0:05:53.24,0:05:55.97,Doc,,0,0,0,,Malý samopal má jeden velký problém.
+Dialogue: 0,0:05:56.02,0:06:01.51,Doc,,0,0,0,,Čím je zbraň lehčí a čím kratší dráhu\Nurazí její závěr, tím rychleji střílí.
+Dialogue: 0,0:06:01.56,0:06:03.55,Doc,,0,0,0,,A příliš rychlá střelba znamená,
+Dialogue: 0,0:06:03.60,0:06:05.61,Doc,,0,0,0,,že zásobník je prázdný dřív,
+Dialogue: 0,0:06:05.66,0:06:10.27,Doc,,0,0,0,,než se střelec stačí nadechnout, a\Nzbraň při tom poskakuje do všech stran.
+Dialogue: 0,0:06:10.32,0:06:12.97,Doc,,0,0,0,,Rybář tento problém vyřešil chytře.
+Dialogue: 0,0:06:13.02,0:06:18.43,Doc,,0,0,0,,Do rukojeti Škorpionu umístil zařízení,\Nkterému se říká zpomalovač kadence.
+Dialogue: 0,0:06:18.48,0:06:23.21,Doc,,0,0,0,,Když závěr po výstřelu dojede\Ndozadu, zachytí ho malá západka.
+Dialogue: 0,0:06:23.26,0:06:27.61,Doc,,0,0,0,,Teprve když se v rukojeti pohne\Nzávažíčko a západku uvolní,
+Dialogue: 0,0:06:27.66,0:06:29.81,Doc,,0,0,0,,může závěr znovu vyrazit dopředu.
+Dialogue: 0,0:06:29.86,0:06:33.01,Doc,,0,0,0,,Celé to trvá jen nepatrný zlomek sekundy.
+Dialogue: 0,0:06:33.06,0:06:38.13,Doc,,0,0,0,,Ale stačí to, aby se kadence udržela\Nkolem osmi set padesáti ran za minutu.
+Dialogue: 0,0:06:38.18,0:06:43.19,Doc,,0,0,0,,Bez zpomalovače by byla podle odhadů\Nvýrazně vyšší a zbraň by se téměř nedala
+Dialogue: 0,0:06:43.24,0:06:43.70,Doc,,0,0,0,,ovládat.
+Dialogue: 0,0:06:43.75,0:06:46.83,Doc,,0,0,0,,Dalším chytrým prvkem byla jednoduchost.
+Dialogue: 0,0:06:46.88,0:06:48.87,Doc,,0,0,0,,Škorpion nestřílí z otevřeného,
+Dialogue: 0,0:06:48.92,0:06:53.05,Doc,,0,0,0,,ale z uzavřeného závěru,\Ntedy podobně jako pistole.
+Dialogue: 0,0:06:53.10,0:06:55.57,Doc,,0,0,0,,První výstřel je proto přesnější.
+Dialogue: 0,0:06:55.62,0:06:59.65,Doc,,0,0,0,,Volič palby umožňuje přepnout\Nmezi jednotlivými ranami a dávkou.
+Dialogue: 0,0:06:59.70,0:07:03.35,Doc,,0,0,0,,A celou zbraň lze držet jednou\Nrukou jako velkou pistoli,
+Dialogue: 0,0:07:03.40,0:07:06.51,Doc,,0,0,0,,nebo vyklopit opěrku a opřít ji o rameno.
+Dialogue: 0,0:07:06.56,0:07:09.44,Doc,,0,0,0,,Nábojnice vylétají nahoru, ne do strany.
+Dialogue: 0,0:07:09.49,0:07:11.42,Doc,,0,0,0,,Pro střelce v úzkém prostoru,
+Dialogue: 0,0:07:11.47,0:07:15.73,Doc,,0,0,0,,třeba ve voze nebo v tanku,\Nje to drobnost, kterou ocení.
+Dialogue: 0,0:07:15.78,0:07:20.37,Doc,,0,0,0,,Škorpion se nosil v koženém pouzdře\Nna opasku, podobně jako pistole.
+Dialogue: 0,0:07:20.42,0:07:24.93,Doc,,0,0,0,,Do pouzdra se vešla zbraň se sklopenou\Nopěrkou i náhradní zásobníky.
+Dialogue: 0,0:07:24.98,0:07:28.13,Doc,,0,0,0,,Rozebrat ho šlo rychle a bez nářadí,
+Dialogue: 0,0:07:28.18,0:07:31.67,Doc,,0,0,0,,a protože měl málo dílů,\Nbylo i čištění jednoduché.
+Dialogue: 0,0:07:31.72,0:07:36.59,Doc,,0,0,0,,Pro vojáky, kteří se zbraní nepracovali\Nkaždý den, to byla velká výhoda.
+Dialogue: 0,0:07:36.64,0:07:40.57,Doc,,0,0,0,,Na papíře tak Škorpion vypadal\Njako ideální zbraň pro řidiče,
+Dialogue: 0,0:07:40.62,0:07:42.36,Doc,,0,0,0,,tankisty a spojaře.
+Dialogue: 0,0:07:42.41,0:07:46.02,Doc,,0,0,0,,Malý, ovladatelný, dostatečně\Nsilný na pár metrů.
+Dialogue: 0,0:07:46.07,0:07:49.23,Doc,,0,0,0,,Jenže na ty pár metrů byl až příliš dobrý.
+Dialogue: 0,0:07:49.28,0:07:53.42,Doc,,0,0,0,,A to si brzy všimli i lidé, pro\Nkteré původně vůbec určen nebyl.
+Dialogue: 0,0:07:54.07,0:07:58.96,Doc,,0,0,0,,Českoslovenští vojáci dostali Škorpion\Ndo rukou během šedesátých let.
+Dialogue: 0,0:07:59.01,0:08:05.16,Doc,,0,0,0,,Nosili ho řidiči, příslušníci posádek\Nobrněných vozidel, spojaři i důstojníci.
+Dialogue: 0,0:08:05.21,0:08:09.68,Doc,,0,0,0,,V armádním žargonu se mu brzy začalo\Nříkat prostě štír nebo škorpík.
+Dialogue: 0,0:08:09.73,0:08:12.57,Doc,,0,0,0,,Ale zbraň si rychle\Nnašla i jiné uživatele.
+Dialogue: 0,0:08:12.62,0:08:16.30,Doc,,0,0,0,,Policie ocenila, že je malá a nenápadná.
+Dialogue: 0,0:08:16.35,0:08:21.12,Doc,,0,0,0,,Příslušníci ochranky a bezpečnostních\Nsložek ji mohli nosit pod kabátem.
+Dialogue: 0,0:08:21.17,0:08:23.86,Doc,,0,0,0,,Pro tajné služby byla ideální,
+Dialogue: 0,0:08:23.91,0:08:29.08,Doc,,0,0,0,,protože kombinovala velikost pistole\Ns palebnou silou, jakou pistole nemá.
+Dialogue: 0,0:08:29.13,0:08:34.06,Doc,,0,0,0,,Škorpion používala i tehdejší Veřejná\Nbezpečnost a různé útvary ministerstva
+Dialogue: 0,0:08:34.11,0:08:34.84,Doc,,0,0,0,,vnitra.
+Dialogue: 0,0:08:34.89,0:08:40.04,Doc,,0,0,0,,Pro hlídky, ochranu objektů nebo doprovod\Npřevozů byl praktičtější než dlouhý
+Dialogue: 0,0:08:40.09,0:08:40.90,Doc,,0,0,0,,samopal.
+Dialogue: 0,0:08:40.95,0:08:45.00,Doc,,0,0,0,,A protože byl tak malý, dal se\Nnosit i v civilním oblečení.
+Dialogue: 0,0:08:45.05,0:08:46.32,Doc,,0,0,0,,A pak přišel export.
+Dialogue: 0,0:08:46.37,0:08:51.15,Doc,,0,0,0,,Podobně jako u jiných zbraní z\NUherského Brodu prodávalo Československo
+Dialogue: 0,0:08:51.20,0:08:55.38,Doc,,0,0,0,,Škorpiony do spřátelených\Nzemí a za tvrdou měnu i dál.
+Dialogue: 0,0:08:55.43,0:09:00.28,Doc,,0,0,0,,Podle dostupných pramenů se jich v\Nletech šedesátých a sedmdesátých vyrobily
+Dialogue: 0,0:09:00.33,0:09:02.48,Doc,,0,0,0,,přes dvě stě tisíc kusů.
+Dialogue: 0,0:09:02.53,0:09:05.54,Doc,,0,0,0,,Zbrojovka zkoušela i silnější verze.
+Dialogue: 0,0:09:05.59,0:09:08.86,Doc,,0,0,0,,Vznikly varianty na náboj\Ndevět milimetru kurz,
+Dialogue: 0,0:09:08.91,0:09:14.26,Doc,,0,0,0,,na sovětský náboj devět krát osmnáct a\Ndokonce na západní devítku Parabellum.
+Dialogue: 0,0:09:14.31,0:09:17.26,Doc,,0,0,0,,Ty se ale vyráběly jen v malém množství.
+Dialogue: 0,0:09:17.31,0:09:21.14,Doc,,0,0,0,,Původní Škorpion na slabý\Nnáboj zůstal tím pravým.
+Dialogue: 0,0:09:21.19,0:09:25.46,Doc,,0,0,0,,V Jugoslávii se Škorpion vyráběl\Nv licenci pod vlastním označením.
+Dialogue: 0,0:09:25.51,0:09:28.76,Doc,,0,0,0,,A právě tam, o několik desetiletí později,
+Dialogue: 0,0:09:28.81,0:09:33.36,Doc,,0,0,0,,sehraje v krvavých válkách\Ndevadesátých let velmi smutnou roli.
+Dialogue: 0,0:09:33.41,0:09:36.66,Doc,,0,0,0,,Ale ještě předtím se Škorpion\Nobjevil v událostech,
+Dialogue: 0,0:09:36.71,0:09:38.87,Doc,,0,0,0,,které otřásly celou západní Evropou.
+Dialogue: 0,0:09:38.92,0:09:44.37,Doc,,0,0,0,,A stal se zbraní, jejíž jméno se začalo\Nobjevovat v novinových titulcích.
+Dialogue: 0,0:09:45.05,0:09:49.18,Doc,,0,0,0,,Než se dostaneme k té temné\Nkapitole, jedna rychlá prosba.
+Dialogue: 0,0:09:49.23,0:09:53.92,Doc,,0,0,0,,Pokud vás historie zbraní baví,\Ndejte odběr a zapněte zvoneček.
+Dialogue: 0,0:09:53.97,0:09:56.78,Doc,,0,0,0,,Je to zdarma a pomáhá to dalším dílům.
+Dialogue: 0,0:09:56.83,0:09:58.60,Doc,,0,0,0,,A teď zpět.
+Dialogue: 0,0:09:58.65,0:10:02.88,Doc,,0,0,0,,Sedmdesátá léta byla v Evropě\Ndobou extremistických skupin.
+Dialogue: 0,0:10:02.93,0:10:06.62,Doc,,0,0,0,,V Itálii, v Německu i\Njinde operovaly organizace,
+Dialogue: 0,0:10:06.67,0:10:10.40,Doc,,0,0,0,,které používaly násilí k\Nprosazování politických cílů.
+Dialogue: 0,0:10:10.45,0:10:13.66,Doc,,0,0,0,,A potřebovaly zbraně,\Nkteré se dají snadno ukrýt.
+Dialogue: 0,0:10:13.71,0:10:19.40,Doc,,0,0,0,,Škorpion jim vyhovoval přesně ze stejných\Ndůvodů, proč ho kdysi chtěla armáda.
+Dialogue: 0,0:10:19.45,0:10:23.36,Doc,,0,0,0,,Byl malý, lehký a vešel se\Npod kabát nebo do tašky.
+Dialogue: 0,0:10:23.41,0:10:27.53,Doc,,0,0,0,,Podle vyšetřování se zbraně tohoto\Ntypu objevily při několika útocích,
+Dialogue: 0,0:10:27.58,0:10:30.96,Doc,,0,0,0,,které tehdy otřásly evropskou veřejností.
+Dialogue: 0,0:10:31.01,0:10:36.14,Doc,,0,0,0,,Mezi nimi i při jednom z nejznámějších\Npolitických zločinů poválečné Itálie.
+Dialogue: 0,0:10:36.19,0:10:38.52,Doc,,0,0,0,,Pro konstruktéry z Československa,
+Dialogue: 0,0:10:38.57,0:10:42.94,Doc,,0,0,0,,kteří Škorpion navrhovali pro řidiče\Na spojaře, to musel být hořký pocit.
+Dialogue: 0,0:10:42.99,0:10:47.80,Doc,,0,0,0,,Zbraň vytvořená jako nástroj sebeobrany\Nse v rukou jiných lidí stala symbolem
+Dialogue: 0,0:10:47.85,0:10:48.78,Doc,,0,0,0,,teroru.
+Dialogue: 0,0:10:48.83,0:10:51.74,Doc,,0,0,0,,Je to ale osud, který potkal mnoho zbraní.
+Dialogue: 0,0:10:51.79,0:10:54.62,Doc,,0,0,0,,Konstruktér rozhoduje o\Ntom, jak zbraň funguje.
+Dialogue: 0,0:10:54.67,0:10:59.14,Doc,,0,0,0,,O tom, kdo ji jednou použije,\Nrozhoduje už někdo úplně jiný.
+Dialogue: 0,0:10:59.19,0:11:01.40,Doc,,0,0,0,,Na Škorpionu se také ukázalo,
+Dialogue: 0,0:11:01.45,0:11:05.94,Doc,,0,0,0,,jak obtížné je kontrolovat malé\Nzbraně, jakmile jednou opustí sklady.
+Dialogue: 0,0:11:05.99,0:11:09.72,Doc,,0,0,0,,Pistoli velikosti dlaně lze\Nsnadno propašovat přes hranice.
+Dialogue: 0,0:11:09.77,0:11:14.68,Doc,,0,0,0,,A s koncem studené války se skladů s\Ntakovými zbraněmi po Evropě otevřelo
+Dialogue: 0,0:11:14.73,0:11:15.54,Doc,,0,0,0,,hodně.
+Dialogue: 0,0:11:15.59,0:11:18.11,Doc,,0,0,0,,Jenže zatímco jedni Škorpion zneužívali,
+Dialogue: 0,0:11:18.16,0:11:21.92,Doc,,0,0,0,,jiní ho dál používali přesně\Nk tomu, k čemu vznikl.
+Dialogue: 0,0:11:21.97,0:11:26.05,Doc,,0,0,0,,A dělali to ještě dlouho po tom,\Nco se jeho výroba zastavila.
+Dialogue: 0,0:11:26.75,0:11:31.80,Doc,,0,0,0,,V Československu se původní Škorpion\Nvyráběl zhruba do poloviny sedmdesátých
+Dialogue: 0,0:11:31.85,0:11:32.48,Doc,,0,0,0,,let.
+Dialogue: 0,0:11:32.53,0:11:36.36,Doc,,0,0,0,,Pak výroba skončila, ale\Nzbraně ve výzbroji zůstaly.
+Dialogue: 0,0:11:36.41,0:11:38.48,Doc,,0,0,0,,A zůstaly tam překvapivě dlouho.
+Dialogue: 0,0:11:38.53,0:11:42.62,Doc,,0,0,0,,Česká armáda i policie používaly\NŠkorpion ještě dlouho po rozdělení
+Dialogue: 0,0:11:42.67,0:11:43.42,Doc,,0,0,0,,Československa.
+Dialogue: 0,0:11:43.47,0:11:49.00,Doc,,0,0,0,,Pro řidiče, strážné a příslušníky\Nněkterých útvarů pořád dávala smysl.
+Dialogue: 0,0:11:49.05,0:11:53.92,Doc,,0,0,0,,Malá zbraň, která nepřekáží, ale v\Npřípadě potřeby poskytne palebnou sílu.
+Dialogue: 0,0:11:53.97,0:11:59.26,Doc,,0,0,0,,Mnoho českých vojáků a policistů z\Ndevadesátých let si Škorpion pamatuje jako
+Dialogue: 0,0:11:59.31,0:12:03.66,Doc,,0,0,0,,zbraň, se kterou se setkali při\Nslužbě na strážích nebo v autě.
+Dialogue: 0,0:12:03.71,0:12:06.97,Doc,,0,0,0,,Někteří na něj vzpomínají s\Núsměvem, jiní s respektem.
+Dialogue: 0,0:12:07.02,0:12:12.96,Doc,,0,0,0,,Málokdo ale tušil, že drží v ruce zbraň,\Nkterá svým konceptem předběhla dobu.
+Dialogue: 0,0:12:13.01,0:12:17.64,Doc,,0,0,0,,Ve světě mezitím pojem osobní obranná\Nzbraň dostal oficiální podobu.
+Dialogue: 0,0:12:17.69,0:12:22.12,Doc,,0,0,0,,V osmdesátých letech začaly armády\NNATO hledat zbraň právě pro ty,
+Dialogue: 0,0:12:22.17,0:12:25.04,Doc,,0,0,0,,které Československo\Nmyslelo už o generaci dřív.
+Dialogue: 0,0:12:25.09,0:12:28.88,Doc,,0,0,0,,Pro posádky vozidel,\Nspojaře, obsluhy techniky.
+Dialogue: 0,0:12:28.93,0:12:32.78,Doc,,0,0,0,,Vznikly pistole a samopaly\Nna nové speciální náboje,
+Dialogue: 0,0:12:32.83,0:12:34.96,Doc,,0,0,0,,jako belgická P devadesát.
+Dialogue: 0,0:12:35.01,0:12:39.80,Doc,,0,0,0,,Později přišel i německý samopal\NMP sedm a další podobné zbraně.
+Dialogue: 0,0:12:39.85,0:12:41.88,Doc,,0,0,0,,Všechny vycházely ze stejné úvahy.
+Dialogue: 0,0:12:41.93,0:12:44.50,Doc,,0,0,0,,Voják, který nebojuje v první linii,
+Dialogue: 0,0:12:44.55,0:12:48.00,Doc,,0,0,0,,potřebuje zbraň, která ho\Nnebude omezovat při práci,
+Dialogue: 0,0:12:48.05,0:12:50.42,Doc,,0,0,0,,ale v nouzi mu dá šanci se ubránit.
+Dialogue: 0,0:12:50.47,0:12:54.12,Doc,,0,0,0,,Na Západě na to přišli po\Ndlouhých studiích a zkouškách.
+Dialogue: 0,0:12:54.17,0:12:56.98,Doc,,0,0,0,,V Československu to\Ntušili o generaci dřív,
+Dialogue: 0,0:12:57.03,0:13:00.71,Doc,,0,0,0,,i když bez drahých výzkumů a\Ns mnohem jednodušší technikou.
+Dialogue: 0,0:13:00.76,0:13:05.73,Doc,,0,0,0,,Když se na ty požadavky díváte dnes,\Nje to skoro jako popis Škorpionu.
+Dialogue: 0,0:13:05.78,0:13:08.99,Doc,,0,0,0,,Zbraň menší než samopal,\Nsilnější než pistole,
+Dialogue: 0,0:13:09.04,0:13:11.84,Doc,,0,0,0,,pro ty, kteří nebojují v první linii.
+Dialogue: 0,0:13:11.89,0:13:13.78,Doc,,0,0,0,,Rozdíl byl jen v náboji.
+Dialogue: 0,0:13:13.83,0:13:18.05,Doc,,0,0,0,,Západní osobní obranné zbraně\Nměly prorazit neprůstřelnou vestu.
+Dialogue: 0,0:13:18.10,0:13:21.26,Doc,,0,0,0,,Škorpion na slabé munici by to nedokázal.
+Dialogue: 0,0:13:21.31,0:13:24.28,Doc,,0,0,0,,V době, kdy vznikal,\Nale vesty nikdo nenosil.
+Dialogue: 0,0:13:24.33,0:13:28.30,Doc,,0,0,0,,V devadesátých letech se Škorpion\Nbohužel znovu objevil ve válce.
+Dialogue: 0,0:13:28.35,0:13:31.25,Doc,,0,0,0,,Na Balkáně, kde se rozpadla Jugoslávie,
+Dialogue: 0,0:13:31.30,0:13:34.84,Doc,,0,0,0,,bojovaly všechny strany\Nzbraněmi ze starých skladů.
+Dialogue: 0,0:13:34.89,0:13:38.30,Doc,,0,0,0,,A licenční jugoslávské\NŠkorpiony mezi nimi nechyběly.
+Dialogue: 0,0:13:38.35,0:13:40.40,Doc,,0,0,0,,Pak přišlo nové tisíciletí.
+Dialogue: 0,0:13:40.45,0:13:44.04,Doc,,0,0,0,,A s ním se jméno Škorpion\Nvrátilo do Uherského Brodu.
+Dialogue: 0,0:13:44.09,0:13:45.95,Doc,,0,0,0,,Tentokrát ale úplně jinak.
+Dialogue: 0,0:13:46.62,0:13:51.13,Doc,,0,0,0,,V roce dva tisíce devět představila\NČeská zbrojovka nový samopal.
+Dialogue: 0,0:13:51.18,0:13:53.25,Doc,,0,0,0,,Nese jméno Scorpion EVO tři.
+Dialogue: 0,0:13:53.30,0:13:57.13,Doc,,0,0,0,,Na první pohled nemá s původním\NŠkorpionem nic společného.
+Dialogue: 0,0:13:57.18,0:13:59.50,Doc,,0,0,0,,Je větší, má plastové tělo,
+Dialogue: 0,0:13:59.55,0:14:03.25,Doc,,0,0,0,,kolejnice na příslušenství\Na střílí devítku Parabellum.
+Dialogue: 0,0:14:03.30,0:14:04.91,Doc,,0,0,0,,Proč tedy stejné jméno?
+Dialogue: 0,0:14:04.96,0:14:08.83,Doc,,0,0,0,,Protože značka Škorpion\Nměla ve světě takový zvuk,
+Dialogue: 0,0:14:08.88,0:14:10.97,Doc,,0,0,0,,že by bylo škoda ji nevyužít.
+Dialogue: 0,0:14:11.02,0:14:15.61,Doc,,0,0,0,,Nový samopal převzala řada policejních\Na armádních jednotek v Evropě i jinde.
+Dialogue: 0,0:14:15.66,0:14:20.57,Doc,,0,0,0,,A ve Spojených státech se jeho civilní\Npoloautomatická verze stala jednou z
+Dialogue: 0,0:14:20.62,0:14:23.41,Doc,,0,0,0,,nejprodávanějších zbraní tohoto typu.
+Dialogue: 0,0:14:23.46,0:14:27.55,Doc,,0,0,0,,Nový samopal se dostal i do výzbroje\Nčeských bezpečnostních složek.
+Dialogue: 0,0:14:27.60,0:14:31.11,Doc,,0,0,0,,Jméno, které kdysi nesl\Nmalý samopal pro spojaře,
+Dialogue: 0,0:14:31.16,0:14:34.05,Doc,,0,0,0,,tak dnes nosí zbraň pro zásahové jednotky.
+Dialogue: 0,0:14:34.10,0:14:38.81,Doc,,0,0,0,,Ukazuje to, jak dlouhou cestu česká\Nzbrojovka za ta desetiletí ušla.
+Dialogue: 0,0:14:38.86,0:14:42.69,Doc,,0,0,0,,Původní Škorpion mezitím zažil\Nještě jeden zvláštní návrat.
+Dialogue: 0,0:14:42.74,0:14:43.57,Doc,,0,0,0,,Do kultury.
+Dialogue: 0,0:14:43.62,0:14:47.71,Doc,,0,0,0,,Objevuje se ve filmech,\Nseriálech a hlavně ve videohrách.
+Dialogue: 0,0:14:47.76,0:14:51.43,Doc,,0,0,0,,Generace hráčů po celém\Nsvětě zná jeho siluetu,
+Dialogue: 0,0:14:51.48,0:14:55.83,Doc,,0,0,0,,aniž by tušila, že vznikl ve\NStrakonicích pro československé spojaře.
+Dialogue: 0,0:14:55.88,0:14:57.17,Doc,,0,0,0,,A sběratelé?
+Dialogue: 0,0:14:57.22,0:15:01.83,Doc,,0,0,0,,Pro ně je původní vzor šedesát jedna\Njedním z nejzajímavějších kusů studené
+Dialogue: 0,0:15:01.88,0:15:02.61,Doc,,0,0,0,,války.
+Dialogue: 0,0:15:02.66,0:15:04.73,Doc,,0,0,0,,Malá zbraň s velkým příběhem.
+Dialogue: 0,0:15:04.78,0:15:08.11,Doc,,0,0,0,,Je ironií, že zbraň,\Nkterá měla být nenápadná,
+Dialogue: 0,0:15:08.16,0:15:09.91,Doc,,0,0,0,,se stala jednou z nejznámějších.
+Dialogue: 0,0:15:09.96,0:15:11.23,Doc,,0,0,0,,A že jméno,
+Dialogue: 0,0:15:11.28,0:15:15.29,Doc,,0,0,0,,které vymyslel někdo v\NČeskoslovensku podle tvaru zbraně,
+Dialogue: 0,0:15:15.34,0:15:19.39,Doc,,0,0,0,,dnes nese moderní samopal\Npoužívaný na několika kontinentech.
+Dialogue: 0,0:15:19.44,0:15:22.86,Doc,,0,0,0,,Ale vraťme se ještě k otázce,\Nse kterou jsme začali.
+Dialogue: 0,0:15:23.59,0:15:26.02,Doc,,0,0,0,,Pro koho vlastně Škorpion vznikl?
+Dialogue: 0,0:15:26.07,0:15:28.04,Doc,,0,0,0,,Ne pro speciální jednotky.
+Dialogue: 0,0:15:28.09,0:15:29.34,Doc,,0,0,0,,Ne pro agenty.
+Dialogue: 0,0:15:29.39,0:15:31.50,Doc,,0,0,0,,A rozhodně ne pro teroristy.
+Dialogue: 0,0:15:31.55,0:15:34.90,Doc,,0,0,0,,Vznikl pro řidiče nákladních\Naut, pro tankisty,
+Dialogue: 0,0:15:34.95,0:15:39.56,Doc,,0,0,0,,pro spojaře s vysílačkou na zádech\Na pro důstojníky na štábech.
+Dialogue: 0,0:15:39.61,0:15:42.46,Doc,,0,0,0,,Pro lidi, kteří ve válce nejdou do útoku,
+Dialogue: 0,0:15:42.51,0:15:46.06,Doc,,0,0,0,,ale přesto se mohou ocitnout\Ntváří v tvář nepříteli.
+Dialogue: 0,0:15:46.11,0:15:47.44,Doc,,0,0,0,,Proto je tak malý.
+Dialogue: 0,0:15:47.49,0:15:50.10,Doc,,0,0,0,,Proto střílí slabý pistolový náboj.
+Dialogue: 0,0:15:50.15,0:15:52.90,Doc,,0,0,0,,A proto má v rukojeti chytrý zpomalovač,
+Dialogue: 0,0:15:52.95,0:15:57.96,Doc,,0,0,0,,aby ho udržel i člověk, který\Nna střelnici netráví celé dny.
+Dialogue: 0,0:15:58.01,0:16:01.76,Doc,,0,0,0,,Českoslovenští konstruktéři tak na\Npřelomu padesátých a šedesátých let
+Dialogue: 0,0:16:01.81,0:16:06.87,Doc,,0,0,0,,vymysleli kategorii zbraně, kterou svět\Npojmenoval až o dvacet let později.
+Dialogue: 0,0:16:06.92,0:16:08.88,Doc,,0,0,0,,Osobní obrannou zbraň.
+Dialogue: 0,0:16:08.93,0:16:12.46,Doc,,0,0,0,,To, co se stalo potom,\Nuž nebylo v jejich rukou.
+Dialogue: 0,0:16:12.51,0:16:17.22,Doc,,0,0,0,,Malá a nenápadná zbraň přitahovala\Ni ty, kteří ji chtěli zneužít.
+Dialogue: 0,0:16:17.27,0:16:21.20,Doc,,0,0,0,,A stejné vlastnosti, které z ní\Ndělaly dobrou zbraň pro spojaře,
+Dialogue: 0,0:16:21.25,0:16:25.46,Doc,,0,0,0,,z ní udělaly nebezpečný\Nnástroj v nesprávných rukou.
+Dialogue: 0,0:16:25.51,0:16:27.32,Doc,,0,0,0,,Škorpion je tak příběhem o tom,
+Dialogue: 0,0:16:27.37,0:16:31.14,Doc,,0,0,0,,jak dobrá myšlenka může mít\Ndva úplně odlišné konce.
+Dialogue: 0,0:16:31.19,0:16:34.60,Doc,,0,0,0,,A jak jedna malá zbraň z\NČeska dokázala ovlivnit,
+Dialogue: 0,0:16:34.65,0:16:39.42,Doc,,0,0,0,,jak celý svět přemýšlí o tom, čím\Nvyzbrojit ty, kteří nestojí v první linii.
+Dialogue: 0,0:16:39.47,0:16:41.56,Doc,,0,0,0,,Teď je řada na vás.
+Dialogue: 0,0:16:41.61,0:16:46.06,Doc,,0,0,0,,Napište do komentářů, jestli jste\Nse se Škorpionem někdy setkali.
+Dialogue: 0,0:16:46.11,0:16:50.52,Doc,,0,0,0,,Na vojně, u policie, ve sbírce,\Nnebo třeba jen ve videohře.
+Dialogue: 0,0:16:50.57,0:16:55.80,Doc,,0,0,0,,A pokud vás zajímají další příběhy\Nzbraní, které změnily dějiny, dejte odběr.
+Dialogue: 0,0:16:55.85,0:16:58.54,Doc,,0,0,0,,Příště se podíváme na\Nkulomet Bren a na to,
+Dialogue: 0,0:16:58.59,0:17:01.48,Doc,,0,0,0,,jak se zbraň z Brna\Nstala britskou legendou.
+Dialogue: 0,0:17:01.53,0:17:03.11,Doc,,0,0,0,,Díky, že jste se dívali.

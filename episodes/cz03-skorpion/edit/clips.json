@@ -1,0 +1,26 @@
+{
+ "rear": [
+  "s_army_vehicle/5",
+  "s_radio/1"
+ ],
+ "design": [
+  "s_factory/1",
+  "s_factory/2",
+  "s_factory/5"
+ ],
+ "factory": [
+  "s_factory/5"
+ ],
+ "dark": [
+  "s_night_city/2",
+  "s_night_city/4"
+ ],
+ "police": [
+  "s_police/4"
+ ],
+ "_generic": [
+  "s_prague/1",
+  "s_prague/3",
+  "s_prague/6"
+ ]
+}
