@@ -1,224 +1,210 @@
 [     0s] cz01-vz58: 20 planos, limite 35.0 min
-[     0s] vz58: 'Sa vz. 58'
-[     0s]     commons: 12 candidatos em 0.4s
-[    11s]     openverse: 7 candidatos em 10.1s
-[    20s]     loc: 5 candidatos em 9.8s
-[    52s]     falhou download (loc) em 30.1s
-[    86s]     falhou download (loc) em 30.0s
-[   117s]     falhou download (loc) em 30.0s
-[   149s]     falhou download (loc) em 30.0s
-[   150s]     falhou download (loc) em 0.0s
-[   152s]   -> 12 imagens
-[   152s] vz58v: 'Sa vz. 58 V folding stock'
-[   152s]     commons: 0 candidatos em 0.5s
-[   155s]     openverse: 0 candidatos em 2.7s
-[   179s]   ! www.loc.gov: 429 rate limit
-[   179s]     loc: 0 candidatos em 24.0s
-[   180s]     commons: 12 candidatos em 0.5s
-[   190s]     openverse: 1 candidatos em 10.7s
-[   214s]   ! www.loc.gov: 429 rate limit
-[   214s]     loc: 0 candidatos em 24.0s
-[   218s]   -> 6 imagens
-[   218s] vz58_soldier: 'Czech soldier vz. 58'
-[   219s]     commons: 8 candidatos em 0.6s
-[   222s]     openverse: 0 candidatos em 3.2s
-[   246s]   ! www.loc.gov: 429 rate limit
-[   246s]   ! www.loc.gov desligado nesta execucao (3 falhas seguidas)
-[   246s]     loc: 0 candidatos em 24.0s
-[   256s]   -> 8 imagens
-[   256s] ak47: 'AK-47'
-[   256s]     commons: 10 candidatos em 0.4s
-[   261s]     openverse: 7 candidatos em 4.5s
-[   261s]     loc: 0 candidatos em 0.0s
-[   265s]   -> 6 imagens
-[   265s] vz52: 'Samonabíjecí puška vz. 52'
-[   265s]     commons: 0 candidatos em 0.3s
-[   268s]     openverse: 0 candidatos em 2.9s
-[   268s]     loc: 0 candidatos em 0.0s
-[   269s]     commons: 10 candidatos em 0.5s
-[   273s]     openverse: 2 candidatos em 4.8s
-[   273s]     loc: 0 candidatos em 0.0s
-[   306s]     falhou download (commons) em 30.0s
-[   337s]     falhou download (commons) em 30.0s
-[   338s]   -> 6 imagens
-[   338s] sa23: 'Samopal vz. 23'
-[   339s]     commons: 10 candidatos em 1.2s
-[   341s]     openverse: 0 candidatos em 2.1s
-[   341s]     loc: 0 candidatos em 0.0s
-[   371s]     falhou download (commons) em 30.0s
-[   402s]     falhou download (commons) em 30.0s
-[   410s]   -> 6 imagens
-[   410s] bren_zb26: 'ZB vz. 26'
-[   410s]     commons: 7 candidatos em 0.3s
-[   412s]     openverse: 3 candidatos em 1.6s
-[   412s]     loc: 0 candidatos em 0.0s
-[   443s]     falhou download (openverse) em 30.0s
-[   473s]     falhou download (commons) em 30.0s
-[   503s]     falhou download (openverse) em 30.0s
-[   503s]     falhou download (commons) em 0.0s
-[   504s]     falhou download (commons) em 0.0s
-[   506s]     commons: 9 candidatos em 0.6s
-[   508s]     openverse: 1 candidatos em 1.8s
-[   508s]     loc: 0 candidatos em 0.0s
-[   511s]   -> 6 imagens
-[   511s] walther_p38: 'Walther P38'
-[   512s]     commons: 9 candidatos em 0.4s
-[   515s]     openverse: 10 candidatos em 2.9s
-[   515s]     loc: 0 candidatos em 0.0s
-[   515s]     falhou download (openverse) em 0.0s
-[   515s]     falhou download (commons) em 0.0s
-[   517s]   -> 3 imagens
-[   517s] cz805: 'CZ 805 BREN'
-[   517s]     commons: 12 candidatos em 0.4s
-[   519s]     openverse: 7 candidatos em 2.1s
+[     0s] vz58_more: 'vz. 58'
+[     1s]     commons: 12 candidatos em 0.8s
+[     7s]     openverse: 12 candidatos em 5.8s
+[    12s]     loc: 5 candidatos em 5.8s
+[    44s]     falhou download (loc) em 30.1s
+[    76s]     falhou download (loc) em 30.0s
+[   107s]     falhou download (loc) em 30.0s
+[   139s]     falhou download (loc) em 30.0s
+[   140s]     falhou download (loc) em 0.0s
+[   141s]   -> 12 imagens
+[   141s] czech_soldiers_vz58: 'Czech soldiers vz. 58 exercise'
+[   142s]     commons: 4 candidatos em 0.5s
+[   144s]     openverse: 0 candidatos em 2.3s
+[   168s]   ! www.loc.gov: 429 rate limit
+[   168s]     loc: 0 candidatos em 24.0s
+[   172s]     commons: 0 candidatos em 0.4s
+[   173s]     openverse: 0 candidatos em 1.4s
+[   197s]   ! www.loc.gov: 429 rate limit
+[   197s]     loc: 0 candidatos em 24.0s
+[   198s]     commons: 11 candidatos em 0.7s
+[   202s]     openverse: 10 candidatos em 4.0s
+[   226s]   ! www.loc.gov: 429 rate limit
+[   226s]   ! www.loc.gov desligado nesta execucao (3 falhas seguidas)
+[   226s]     loc: 0 candidatos em 24.0s
+[   235s]   -> 10 imagens
+[   235s] slovak_army: 'Slovak army vz. 58'
+[   236s]     commons: 11 candidatos em 0.6s
+[   238s]     openverse: 0 candidatos em 2.2s
+[   238s]     loc: 0 candidatos em 0.0s
+[   247s]   -> 6 imagens
+[   247s] invasion_1968_more: 'Prague 1968'
+[   248s]     commons: 6 candidatos em 0.7s
+[   256s]     openverse: 9 candidatos em 7.6s
+[   256s]     loc: 0 candidatos em 0.0s
+[   263s]     falhou download (openverse) em 6.1s
+[   276s]     commons: 12 candidatos em 0.6s
+[   280s]     openverse: 9 candidatos em 3.8s
+[   280s]     loc: 0 candidatos em 0.0s
+[   280s]   -> 15 imagens
+[   280s] dubcek: 'Alexander Dubček'
+[   281s]     commons: 8 candidatos em 0.5s
+[   285s]     openverse: 8 candidatos em 4.8s
+[   285s]     loc: 0 candidatos em 0.0s
+[   300s]   -> 5 imagens
+[   300s] soviet_army_parade: 'Soviet army parade'
+[   301s]     commons: 9 candidatos em 1.0s
+[   307s]     openverse: 12 candidatos em 5.9s
+[   307s]     loc: 0 candidatos em 0.0s
+[   313s]   -> 8 imagens
+[   313s] kalashnikov_museum: 'Kalashnikov museum'
+[   313s]     commons: 12 candidatos em 0.7s
+[   320s]     openverse: 12 candidatos em 7.1s
+[   320s]     loc: 0 candidatos em 0.0s
+[   351s]     falhou download (openverse) em 30.1s
+[   382s]     falhou download (openverse) em 30.1s
+[   413s]     falhou download (openverse) em 30.1s
+[   444s]     falhou download (openverse) em 30.1s
+[   445s]     falhou download (openverse) em 0.0s
+[   446s]   -> 6 imagens
+[   446s] brno_zbrojovka: 'Zbrojovka Brno'
+[   447s]     commons: 11 candidatos em 1.2s
+[   452s]     openverse: 12 candidatos em 5.5s
+[   452s]     loc: 0 candidatos em 0.0s
+[   453s]     falhou download (openverse) em 0.0s
+[   458s]     falhou download (openverse) em 0.0s
+[   459s]     falhou download (openverse) em 0.0s
+[   462s]     falhou download (openverse) em 0.0s
+[   465s]     falhou download (openverse) em 0.0s
+[   467s]   -> 6 imagens
+[   467s] cz_ub_factory: 'Česká zbrojovka'
+[   468s]     commons: 12 candidatos em 0.7s
+[   474s]     openverse: 9 candidatos em 6.4s
+[   474s]     loc: 0 candidatos em 0.0s
+[   477s]     falhou download (openverse) em 0.0s
+[   479s]     falhou download (openverse) em 0.0s
+[   480s]     falhou download (openverse) em 0.0s
+[   481s]     falhou download (openverse) em 0.0s
+[   482s]     falhou download (openverse) em 0.0s
+[   482s]   -> 6 imagens
+[   482s] weapons_museum: 'military museum small arms'
+[   483s]     commons: 5 candidatos em 0.6s
+[   488s]     openverse: 10 candidatos em 5.2s
+[   488s]     loc: 0 candidatos em 0.0s
+[   488s]     falhou download (commons) em 0.0s
+[   500s]   -> 10 imagens
+[   500s] cold_war_army: 'Cold War soldiers'
+[   501s]     commons: 9 candidatos em 0.9s
+[   505s]     openverse: 8 candidatos em 4.5s
+[   505s]     loc: 0 candidatos em 0.0s
+[   505s]     falhou download (commons) em 0.0s
+[   506s]     falhou download (commons) em 0.0s
+[   513s]   -> 8 imagens
+[   513s] africa_rifle_70s: 'Africa liberation war rifles'
+[   514s]     commons: 1 candidatos em 0.4s
+[   519s]     openverse: 2 candidatos em 5.2s
 [   519s]     loc: 0 candidatos em 0.0s
-[   520s]     falhou download (openverse) em 0.0s
-[   521s]     falhou download (openverse) em 0.0s
-[   522s]     falhou download (openverse) em 0.0s
-[   523s]     falhou download (openverse) em 0.0s
-[   523s]     falhou download (openverse) em 0.0s
-[   524s]     falhou download (openverse) em 0.0s
-[   525s]     falhou download (openverse) em 0.0s
-[   527s]   -> 8 imagens
-[   527s] brno_city: 'Brno 1960s'
-[   529s]     commons: 7 candidatos em 1.9s
-[   531s]     openverse: 9 candidatos em 1.2s
-[   531s]     loc: 0 candidatos em 0.0s
-[   539s]   -> 5 imagens
-[   539s] uh_brod: 'Uherský Brod'
-[   540s]     commons: 10 candidatos em 0.7s
-[   544s]     openverse: 10 candidatos em 3.5s
-[   544s]     loc: 0 candidatos em 0.0s
-[   546s]     falhou download (openverse) em 0.0s
+[   519s]     falhou download (commons) em 0.0s
+[   522s]     commons: 7 candidatos em 0.5s
+[   526s]     openverse: 4 candidatos em 3.9s
+[   526s]     loc: 0 candidatos em 0.0s
+[   532s]     falhou download (commons) em 0.0s
+[   533s]     falhou download (commons) em 0.0s
+[   534s]   -> 8 imagens
+[   534s] israel_1948_czech: 'Avia S-199'
+[   535s]     commons: 10 candidatos em 0.5s
+[   539s]     openverse: 11 candidatos em 4.5s
+[   539s]     loc: 0 candidatos em 0.0s
+[   540s]     falhou download (openverse) em 0.0s
+[   541s]     falhou download (commons) em 0.0s
+[   542s]   -> 4 imagens
+[   542s] uzi: 'Uzi submachine gun'
+[   543s]     commons: 8 candidatos em 0.4s
+[   547s]     openverse: 10 candidatos em 4.7s
+[   547s]     loc: 0 candidatos em 0.0s
+[   548s]     falhou download (openverse) em 0.0s
+[   548s]     falhou download (commons) em 0.0s
+[   548s]     falhou download (openverse) em 0.0s
+[   548s]     falhou download (commons) em 0.0s
+[   548s]     falhou download (openverse) em 0.0s
 [   549s]     falhou download (openverse) em 0.0s
-[   552s]     falhou download (openverse) em 0.0s
-[   553s]     falhou download (openverse) em 0.0s
-[   553s]     falhou download (commons) em 0.0s
-[   553s]     falhou download (openverse) em 0.0s
-[   553s]     falhou download (commons) em 0.0s
-[   553s]     falhou download (openverse) em 0.0s
-[   553s]     falhou download (commons) em 0.0s
-[   553s]     falhou download (openverse) em 0.0s
-[   553s]   -> 5 imagens
-[   553s] prague_1968: 'Prague 1968 invasion'
-[   554s]     commons: 6 candidatos em 0.4s
-[   558s]     openverse: 8 candidatos em 4.1s
-[   558s]     loc: 0 candidatos em 0.0s
-[   564s]     falhou download (openverse) em 0.0s
-[   566s]     falhou download (openverse) em 0.0s
-[   566s]     falhou download (openverse) em 0.0s
-[   566s]     falhou download (openverse) em 0.0s
-[   568s]     commons: 11 candidatos em 1.2s
-[   572s]     openverse: 7 candidatos em 4.2s
-[   572s]     loc: 0 candidatos em 0.0s
-[   572s]     falhou download (commons) em 0.0s
-[   572s]     falhou download (commons) em 0.0s
-[   572s]     falhou download (openverse) em 0.0s
-[   572s]     falhou download (commons) em 0.0s
-[   572s]     falhou download (commons) em 0.0s
-[   572s]     falhou download (openverse) em 0.0s
-[   572s]     falhou download (commons) em 0.0s
-[   572s]     falhou download (openverse) em 0.0s
-[   573s]     falhou download (openverse) em 0.0s
-[   574s]   -> 12 imagens
-[   574s] warsaw_pact: 'Warsaw Pact 1955'
-[   574s]     commons: 8 candidatos em 0.6s
-[   577s]     openverse: 11 candidatos em 2.9s
-[   577s]     loc: 0 candidatos em 0.0s
-[   577s]     falhou download (commons) em 0.0s
-[   578s]     falhou download (commons) em 0.0s
-[   578s]     falhou download (openverse) em 0.0s
-[   581s]   -> 5 imagens
-[   581s] czsl_army: "Czechoslovak People's Army"
-[   582s]     commons: 0 candidatos em 0.8s
-[   584s]     openverse: 0 candidatos em 2.6s
-[   584s]     loc: 0 candidatos em 0.0s
-[   585s]     commons: 11 candidatos em 0.7s
-[   587s]     openverse: 2 candidatos em 2.0s
-[   587s]     loc: 0 candidatos em 0.0s
-[   590s]     falhou download (openverse) em 0.0s
-[   591s]     falhou download (openverse) em 0.0s
-[   598s]     falhou download (commons) em 0.0s
-[   600s]     falhou download (commons) em 0.0s
-[   603s]     commons: 3 candidatos em 0.3s
-[   607s]     openverse: 2 candidatos em 3.8s
-[   607s]     loc: 0 candidatos em 0.0s
-[   608s]   -> 10 imagens
-[   608s] prague_parade: 'Prague military parade 1960'
-[   608s]     commons: 0 candidatos em 0.3s
-[   609s]     openverse: 0 candidatos em 1.2s
-[   609s]     loc: 0 candidatos em 0.0s
-[   610s]     commons: 0 candidatos em 0.3s
-[   611s]     openverse: 0 candidatos em 1.6s
-[   611s]     loc: 0 candidatos em 0.0s
-[   611s]     commons: 0 candidatos em 0.3s
-[   612s]     openverse: 0 candidatos em 0.9s
-[   612s]     loc: 0 candidatos em 0.0s
-[   613s]     commons: 11 candidatos em 0.6s
-[   614s]     openverse: 11 candidatos em 1.3s
-[   614s]     loc: 0 candidatos em 0.0s
-[   614s]     falhou download (commons) em 0.0s
-[   614s]     falhou download (openverse) em 0.0s
-[   614s]     falhou download (commons) em 0.0s
-[   614s]     falhou download (openverse) em 0.0s
-[   614s]     falhou download (commons) em 0.0s
-[   614s]     falhou download (openverse) em 0.0s
-[   614s]     falhou download (commons) em 0.0s
-[   614s]     falhou download (openverse) em 0.0s
-[   614s]     falhou download (commons) em 0.0s
-[   614s]     falhou download (openverse) em 0.0s
-[   614s]     falhou download (commons) em 0.0s
-[   614s]     falhou download (openverse) em 0.0s
-[   614s]     falhou download (commons) em 0.0s
-[   614s]     falhou download (openverse) em 0.0s
-[   614s]     falhou download (commons) em 0.0s
-[   614s]     falhou download (openverse) em 0.0s
-[   614s]     falhou download (commons) em 0.0s
-[   614s]     falhou download (openverse) em 0.0s
-[   614s]     falhou download (commons) em 0.0s
-[   614s]     falhou download (openverse) em 0.0s
-[   614s]     falhou download (commons) em 0.0s
-[   614s]     falhou download (openverse) em 0.0s
-[   614s]   -> 0 imagens
-[   614s] velvet_1989: 'Velvet Revolution 1989'
-[   615s]     commons: 12 candidatos em 0.6s
-[   616s]     openverse: 12 candidatos em 1.3s
-[   616s]     loc: 0 candidatos em 0.0s
-[   618s]     falhou download (openverse) em 0.0s
-[   619s]     falhou download (openverse) em 0.0s
-[   620s]   -> 5 imagens
-[   620s] czech_nato: 'Czech Republic NATO 1999'
-[   621s]     commons: 6 candidatos em 0.6s
-[   625s]     openverse: 0 candidatos em 4.1s
-[   625s]     loc: 0 candidatos em 0.0s
-[   628s]     falhou download (commons) em 0.0s
-[   631s]     commons: 12 candidatos em 0.6s
-[   633s]     openverse: 10 candidatos em 2.6s
-[   633s]     loc: 0 candidatos em 0.0s
-[   634s]   -> 6 imagens
-[   634s] ukraine_war: 'Ukrainian soldier rifle 2022'
-[   635s]     commons: 10 candidatos em 0.5s
-[   636s]     openverse: 1 candidatos em 0.9s
-[   636s]     loc: 0 candidatos em 0.0s
-[   636s]     falhou download (commons) em 0.0s
-[   636s]     falhou download (openverse) em 0.0s
-[   636s]     falhou download (commons) em 0.0s
-[   643s]   -> 8 imagens
-[   643s] museum_lesany: 'Vojenské technické muzeum Lešany'
-[   645s]     commons: 12 candidatos em 1.4s
-[   649s]     openverse: 8 candidatos em 4.3s
-[   649s]     loc: 0 candidatos em 0.0s
-[   650s]     falhou download (openverse) em 0.0s
-[   651s]     falhou download (openverse) em 0.0s
-[   652s]     falhou download (openverse) em 0.0s
-[   652s]     falhou download (openverse) em 0.0s
-[   653s]     falhou download (openverse) em 0.0s
-[   655s]   -> 6 imagens
-[   655s] ammo_762: '7.62x39mm'
-[   664s]     commons: 11 candidatos em 8.6s
-[   669s]     openverse: 11 candidatos em 5.3s
+[   549s]     falhou download (commons) em 0.0s
+[   550s]     falhou download (commons) em 0.0s
+[   550s]   -> 4 imagens
+[   550s] velvet_more: 'Velvet Revolution'
+[   551s]     commons: 11 candidatos em 0.5s
+[   556s]     openverse: 10 candidatos em 5.1s
+[   556s]     loc: 0 candidatos em 0.0s
+[   558s]     falhou download (commons) em 0.0s
+[   559s]     falhou download (openverse) em 0.0s
+[   560s]     falhou download (openverse) em 0.0s
+[   561s]   -> 6 imagens
+[   561s] nato_1999: 'Czech Republic NATO accession 1999'
+[   562s]     commons: 0 candidatos em 0.4s
+[   565s]     openverse: 0 candidatos em 3.2s
+[   565s]     loc: 0 candidatos em 0.0s
+[   565s]     commons: 10 candidatos em 0.6s
+[   568s]     openverse: 0 candidatos em 3.0s
+[   568s]     loc: 0 candidatos em 0.0s
+[   572s]   -> 4 imagens
+[   572s] bren2: 'CZ BREN 2'
+[   573s]     commons: 12 candidatos em 0.5s
+[   579s]     openverse: 12 candidatos em 6.3s
+[   579s]     loc: 0 candidatos em 0.0s
+[   580s]     falhou download (openverse) em 0.0s
+[   580s]     falhou download (openverse) em 0.0s
+[   581s]     falhou download (openverse) em 0.0s
+[   582s]     falhou download (openverse) em 0.0s
+[   583s]     falhou download (openverse) em 0.0s
+[   584s]     falhou download (openverse) em 0.0s
+[   584s]     falhou download (openverse) em 0.0s
+[   585s]   -> 8 imagens
+[   585s] ukraine_more: 'Ukrainian soldiers 2022'
+[   586s]     commons: 12 candidatos em 0.7s
+[   620s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[   620s]     openverse: 0 candidatos em 34.1s
+[   620s]     loc: 0 candidatos em 0.0s
+[   621s]     falhou download (commons) em 0.0s
+[   621s]     falhou download (commons) em 0.0s
+[   621s]     falhou download (commons) em 0.0s
+[   621s]     falhou download (commons) em 0.0s
+[   621s]     falhou download (commons) em 0.0s
+[   621s]     falhou download (commons) em 0.0s
+[   621s]     falhou download (commons) em 0.0s
+[   621s]     falhou download (commons) em 0.0s
+[   621s]     falhou download (commons) em 0.0s
+[   621s]     falhou download (commons) em 0.0s
+[   621s]     falhou download (commons) em 0.0s
+[   621s]     commons: 8 candidatos em 0.7s
+[   634s]     openverse: 6 candidatos em 12.6s
+[   634s]     loc: 0 candidatos em 0.0s
+[   637s]     falhou download (commons) em 0.0s
+[   641s]     falhou download (commons) em 0.0s
+[   642s]     falhou download (commons) em 0.0s
+[   643s]     falhou download (commons) em 0.0s
+[   644s]     commons: 10 candidatos em 1.0s
+[   647s]     openverse: 0 candidatos em 2.9s
+[   647s]     loc: 0 candidatos em 0.0s
+[   648s]   -> 12 imagens
+[   648s] conscripts: 'Czechoslovak conscripts'
+[   648s]     commons: 0 candidatos em 0.4s
+[   652s]     openverse: 0 candidatos em 3.6s
+[   652s]     loc: 0 candidatos em 0.0s
+[   653s]     commons: 1 candidatos em 0.6s
+[   660s]     openverse: 1 candidatos em 7.5s
+[   660s]     loc: 0 candidatos em 0.0s
+[   662s]     falhou download (openverse) em 0.0s
+[   662s]     commons: 0 candidatos em 0.3s
+[   666s]     openverse: 0 candidatos em 3.7s
+[   666s]     loc: 0 candidatos em 0.0s
+[   667s]     commons: 4 candidatos em 0.4s
+[   669s]     openverse: 0 candidatos em 2.3s
 [   669s]     loc: 0 candidatos em 0.0s
-[   670s]     falhou download (openverse) em 0.0s
-[   672s]     falhou download (openverse) em 0.0s
-[   673s]   -> 5 imagens
-[   677s] fim: 128 imagens
+[   674s]   -> 5 imagens
+[   674s] uh_brod_town: 'Uherský Brod'
+[   675s]     commons: 10 candidatos em 0.5s
+[   682s]     openverse: 10 candidatos em 6.7s
+[   682s]     loc: 0 candidatos em 0.0s
+[   683s]     falhou download (openverse) em 0.0s
+[   683s]     falhou download (openverse) em 0.0s
+[   684s]     falhou download (openverse) em 0.0s
+[   685s]     falhou download (openverse) em 0.0s
+[   685s]     falhou download (commons) em 0.0s
+[   685s]     falhou download (openverse) em 0.0s
+[   685s]     falhou download (commons) em 0.0s
+[   685s]     falhou download (openverse) em 0.0s
+[   685s]     falhou download (commons) em 0.0s
+[   685s]     falhou download (openverse) em 0.0s
+[   686s]   -> 5 imagens
+[   690s] fim: 148 imagens
