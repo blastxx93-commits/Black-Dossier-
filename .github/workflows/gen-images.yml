@@ -1,7 +1,7 @@
 name: Gerar imagens IA
 
-# Gera as imagens de IA de um episódio (Replicate / Flux) e publica no branch assets.
-# Precisa do segredo REPLICATE_API_TOKEN.
+# Gera as imagens de IA de um episódio (Gemini, ou Replicate / Flux) e publica no branch assets.
+# Precisa do segredo GEMINI_API_KEY ou REPLICATE_API_TOKEN.
 on:
   workflow_dispatch:
     inputs:
@@ -32,6 +32,8 @@ jobs:
         with:
           ref: assets
           path: assets
+          # only this episode's folder: the whole assets branch no longer fits on the runner disk
+          sparse-checkout: ${{ inputs.episode }}
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -41,6 +43,8 @@ jobs:
         working-directory: main
         env:
           REPLICATE_API_TOKEN: ${{ secrets.REPLICATE_API_TOKEN }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_IMAGE_MODEL: ${{ vars.GEMINI_IMAGE_MODEL }}
         run: |
           args=(--out ../out --only "${{ inputs.only }}" --existing "../assets/${{ inputs.episode }}/ai")
           if [ "${{ inputs.force }}" = "true" ]; then args+=(--force); fi

@@ -145,7 +145,89 @@ def search_commons(q, rows=10, years=None, collections=None, item=None):
     return out
 
 
-SOURCES = {"archive": search_archive, "commons": search_commons}
+def search_pexels(q, rows=12, years=None, collections=None, item=None):
+    """Pexels stock video (free to use, Pexels license). Needs env PEXELS_API_KEY; skipped without it."""
+    key = os.environ.get("PEXELS_API_KEY", "").strip()
+    if item or not key:
+        return []
+    try:
+        time.sleep(0.5)
+        r = S.get("https://api.pexels.com/videos/search", params={"query": q, "per_page": rows, "orientation": "landscape",
+                  "size": "medium"}, headers={"Authorization": key}, timeout=25)
+        r.raise_for_status()
+        data = r.json()
+    except Exception as e:
+        log(f"  ! pexels: {str(e)[:140]}")
+        return []
+    out = []
+    for v in data.get("videos", []):
+        files = [f for f in v.get("video_files", []) if f.get("width") and f["width"] >= 1280 and f.get("file_type") == "video/mp4"]
+        if not files:
+            continue
+        f = min(files, key=lambda f: abs(f["width"] - 1920))
+        out.append({"source": "pexels", "url": f["link"], "title": (v.get("url", "").rstrip("/").split("/")[-1])[:150],
+                    "license": "Pexels License (free to use)", "page": v.get("url", ""), "length": float(v.get("duration") or 0),
+                    "author": (v.get("user") or {}).get("name", "")[:100]})
+    return out
+
+
+def search_pixabay(q, rows=12, years=None, collections=None, item=None):
+    """Pixabay stock video (free to use, Pixabay Content License). Needs env PIXABAY_API_KEY; skipped without it."""
+    key = os.environ.get("PIXABAY_API_KEY", "").strip()
+    if item or not key:
+        return []
+    data = get_json("https://pixabay.com/api/videos/", {"key": key, "q": q[:100], "per_page": max(3, rows), "safesearch": "true"})
+    out = []
+    for h in (data or {}).get("hits", []):
+        vids = h.get("videos", {})
+        f = vids.get("large") if (vids.get("large") or {}).get("url") else vids.get("medium")
+        if not f or not f.get("url") or (f.get("width") or 0) < 1280:
+            continue
+        out.append({"source": "pixabay", "url": f["url"], "title": (h.get("tags") or "")[:150],
+                    "license": "Pixabay Content License (free to use)", "page": h.get("pageURL", ""),
+                    "length": float(h.get("duration") or 0), "author": (h.get("user") or "")[:100]})
+    return out
+
+
+def search_coverr(q, rows=8, years=None, collections=None, item=None):
+    """Coverr stock video (free to use). Needs env COVERR_API_KEY; skipped without it.
+    Coverr requires a download ping (PATCH /videos/:id/stats/downloads) for every clip kept."""
+    key = os.environ.get("COVERR_API_KEY", "").strip()
+    if item or not key:
+        return []
+    try:
+        time.sleep(0.5)
+        r = S.get("https://api.coverr.co/videos", params={"query": q, "page_size": rows, "urls": "true", "api_key": key},
+                  headers={"Authorization": f"Bearer {key}"}, timeout=25)
+        r.raise_for_status()
+        data = r.json()
+    except Exception as e:
+        log(f"  ! coverr: {str(e)[:140]}")
+        return []
+    out = []
+    for h in data.get("hits", []):
+        u = h.get("urls") or {}
+        url = u.get("mp4_download") or u.get("mp4")
+        if not url or h.get("is_vertical"):
+            continue
+        out.append({"source": "coverr", "url": url, "title": (h.get("title") or "")[:150],
+                    "license": "Coverr License (free to use)", "page": f"https://coverr.co/videos/{h.get('slug') or h.get('id')}",
+                    "length": float(h.get("duration") or 0), "author": "Coverr", "coverr_id": h.get("id")})
+    return out
+
+
+def coverr_ping(c):
+    key = os.environ.get("COVERR_API_KEY", "").strip()
+    if c.get("coverr_id") and key:
+        try:
+            S.patch(f"https://api.coverr.co/videos/{c['coverr_id']}/stats/downloads", params={"api_key": key},
+                    headers={"Authorization": f"Bearer {key}"}, timeout=15)
+        except Exception:
+            pass
+
+
+SOURCES = {"archive": search_archive, "commons": search_commons, "pexels": search_pexels, "pixabay": search_pixabay,
+           "coverr": search_coverr}
 
 
 # ------------------------------------------------------------ clips
@@ -176,7 +258,8 @@ def cut_clip(url, length, clip, out_path, where=0.35, _retry=0, at=None):
     else:
         start = max(8.0, (length or 120) * where)  # skip leaders and title cards
     cmd = [FF, "-v", "error", "-y", *ua(url), "-ss", f"{start:.1f}", "-i", url, "-t", f"{clip}",
-           "-an", "-vf", "scale=-2:1080:flags=lanczos,fps=24", "-c:v", "libx264", "-preset", "veryfast", "-crf", "18",
+           "-an", "-vf", "scale=-2:1080:flags=lanczos,fps=24", "-c:v", "libx264", "-preset", "veryfast",
+           "-crf", os.environ.get("CLIP_CRF", "23"),  # 23: light files so a big batch still publishes
            "-pix_fmt", "yuv420p", "-movflags", "+faststart", out_path]
     try:
         r = subprocess.run(cmd, timeout=300, capture_output=True, text=True)
@@ -287,6 +370,7 @@ def run(ep, out_root, only=None, budget_min=40):
                     if start is None:
                         continue
                     files.append(fp)
+                    coverr_ping(c)
                     credits.append({"file": f"video/{sid}/{os.path.basename(fp)}", "shot": sid, "source": c["source"],
                                     "license": c["license"], "title": c["title"], "page": c["page"],
                                     "start_sec": round(start, 1), "author": c.get("author", ""), "query": q})

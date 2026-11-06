@@ -9,10 +9,12 @@ image sources for every shot, downloads the best candidates and writes:
     <out>/<ep>/contact_sheet_<k>.jpg        numbered thumbnails to pick from (phone-friendly)
     <out>/<ep>/report.md                    what was found / missing
 
-Sources (no API keys needed):
+Sources:
     commons  - Wikimedia Commons (public domain / CC0 / CC BY / CC BY-SA only)
     loc      - Library of Congress photos (skips items with a rights restriction)
     openverse- Openverse (licenses pdm, cc0, by, by-sa only)
+    pixabay  - Pixabay photos, needs env PIXABAY_API_KEY (skipped without it)
+    unsplash - Unsplash photos, needs env UNSPLASH_ACCESS_KEY (skipped without it)
 
 Usage:
     python3 agent/search_images.py ep01-apalachin [--out assets_out] [--only id1,id2]
@@ -143,7 +145,71 @@ def search_openverse(q):
     return out
 
 
-SOURCES = {"commons": search_commons, "loc": search_loc, "openverse": search_openverse}
+def search_pixabay(q):
+    """Pixabay photos (Pixabay Content License, free to use). Needs env PIXABAY_API_KEY."""
+    key = os.environ.get("PIXABAY_API_KEY", "").strip()
+    if not key:
+        return []
+    data = get_json("https://pixabay.com/api/", {"key": key, "q": q[:100], "image_type": "photo",
+                                                 "orientation": "horizontal", "per_page": max(3, PER_SOURCE),
+                                                 "safesearch": "true", "min_width": MIN_W})
+    out = []
+    for h in (data or {}).get("hits", []):
+        url = h.get("largeImageURL") or h.get("webformatURL")
+        if not url:
+            continue
+        out.append({"source": "pixabay", "url": url, "title": (h.get("tags") or "")[:160],
+                    "license": "Pixabay Content License", "author": (h.get("user") or "")[:120],
+                    "page": h.get("pageURL", "")})
+    return out
+
+
+def search_unsplash(q):
+    """Unsplash photos (Unsplash License, free to use). Needs env UNSPLASH_ACCESS_KEY.
+    Per the API guidelines, the photo's download endpoint is pinged when a photo is kept."""
+    key = os.environ.get("UNSPLASH_ACCESS_KEY", "").strip()
+    if not key:
+        return []
+    host = "api.unsplash.com"
+    if host in DEAD:
+        return []
+    try:
+        time.sleep(0.5)
+        r = S.get("https://api.unsplash.com/search/photos", params={"query": q, "per_page": PER_SOURCE,
+                  "orientation": "landscape", "content_filter": "high"},
+                  headers={"Authorization": f"Client-ID {key}", "Accept-Version": "v1"}, timeout=25)
+        r.raise_for_status()
+        data = r.json()
+    except Exception as e:
+        FAILS[host] = FAILS.get(host, 0) + 1
+        if FAILS[host] >= MAX_FAILS:
+            DEAD.add(host)
+        log(f"  ! unsplash: {str(e)[:140]}")
+        return []
+    out = []
+    for it in data.get("results", []):
+        raw = (it.get("urls") or {}).get("raw")
+        if not raw or (it.get("width") or 0) < MIN_W:
+            continue
+        user = it.get("user") or {}
+        out.append({"source": "unsplash", "url": raw + "&w=2400&q=85&fm=jpg", "title": (it.get("alt_description") or "")[:160],
+                    "license": "Unsplash License", "author": (user.get("name") or "")[:120],
+                    "page": (it.get("links") or {}).get("html", ""),
+                    "ping": ((it.get("links") or {}).get("download_location") or "") , "_key": key})
+    return out
+
+
+def keep_ping(c):
+    """Unsplash asks API users to hit download_location when a photo is used."""
+    if c.get("ping"):
+        try:
+            S.get(c["ping"], headers={"Authorization": f"Client-ID {c['_key']}"}, timeout=10)
+        except Exception:
+            pass
+
+
+SOURCES = {"commons": search_commons, "loc": search_loc, "openverse": search_openverse,
+           "pixabay": search_pixabay, "unsplash": search_unsplash}
 
 
 # ------------------------------------------------------------ download
@@ -195,14 +261,15 @@ def load_font(size):
 
 
 def contact_sheets(ep_dir, rows, per_sheet=8):
-    """One row per shot, up to 4 thumbs each, 8 shots per sheet. Portrait so it reads on a phone."""
+    """One block per shot showing EVERY downloaded photo (4 per row, wrapping), 8 shots per sheet.
+    Every file the edit can use must appear here, so nothing reaches a video unreviewed."""
     tw, th, pad, label_h = 360, 240, 16, 56
     f_big, f_small = load_font(30), load_font(24)
     sheets = []
     for k in range(0, len(rows), per_sheet):
         chunk = rows[k:k + per_sheet]
         W = pad + 4 * (tw + pad)
-        H = pad + len(chunk) * (label_h + th + pad)
+        H = pad + sum(label_h + max(1, (len(f) + 3) // 4) * (th + pad) for _, f in chunk)
         sheet = Image.new("RGB", (W, H), (18, 16, 16))
         d = ImageDraw.Draw(sheet)
         y = pad
@@ -212,17 +279,18 @@ def contact_sheets(ep_dir, rows, per_sheet=8):
             if not files:
                 d.text((pad, y + th // 2 - 15), "nada encontrado - mande uma imagem ou gere por IA",
                        font=f_small, fill=(196, 72, 62))
-            for j, fp in enumerate(files[:4]):
+            for j, fp in enumerate(files):
                 try:
                     im = ImageOps.fit(Image.open(fp).convert("RGB"), (tw, th), Image.LANCZOS)
                 except Exception:
                     continue
-                x = pad + j * (tw + pad)
-                sheet.paste(im, (x, y))
+                x = pad + (j % 4) * (tw + pad)
+                yy = y + (j // 4) * (th + pad)
+                sheet.paste(im, (x, yy))
                 num = os.path.basename(fp).split("_")[0]
-                d.rectangle([x, y, x + 54, y + 40], fill=(196, 72, 62))
-                d.text((x + 10, y + 4), num, font=f_big, fill=(255, 255, 255))
-            y += th + pad
+                d.rectangle([x, yy, x + 54, yy + 40], fill=(196, 72, 62))
+                d.text((x + 10, yy + 4), num, font=f_big, fill=(255, 255, 255))
+            y += max(1, (len(files) + 3) // 4) * (th + pad)
         path = os.path.join(ep_dir, f"contact_sheet_{k // per_sheet + 1}.jpg")
         sheet.save(path, quality=82)
         sheets.append(path)
@@ -279,7 +347,9 @@ def run(ep, out_root, only=None, budget_min=35):
                 fp = os.path.join(shot_dir, name)
                 im.save(fp, quality=88)
                 files.append(fp)
-                credits.append({"file": f"{sid}/{name}", "shot": sid, "query": q, **c})
+                keep_ping(c)
+                credits.append({"file": f"{sid}/{name}", "shot": sid, "query": q,
+                                **{k: v for k, v in c.items() if k not in ("ping", "_key")}})
                 time.sleep(0.5)
         if not files:
             missing.append(sid)

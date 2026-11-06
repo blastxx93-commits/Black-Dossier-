@@ -38,6 +38,9 @@ jobs:
       - name: Buscar imagens
         timeout-minutes: 42
         continue-on-error: true
+        env:
+          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+          UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
         run: python3 agent/search_images.py "${{ inputs.episode }}" --out assets_out --only "${{ inputs.only }}" --budget 35
 
       - name: Guardar cópia (backup)

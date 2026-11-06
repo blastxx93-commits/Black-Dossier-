@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""AI image agent (Replicate / Flux).
+"""AI image agent (Google Gemini image models, or Replicate / Flux).
 
 Reads episodes/<ep>/ai_prompts.json and generates N options per shot in the channel style.
 
@@ -9,7 +9,9 @@ Reads episodes/<ep>/ai_prompts.json and generates N options per shot in the chan
      "shots": [{"id": "ch00_apalachin_meeting", "prompt": "Stone farmhouse ...", "n": 2}]}
 
 Writes <out>/<ep>/ai/<id>_<k>.jpg, ai_contact_sheet_<k>.jpg, ai_report.md.
-Needs env REPLICATE_API_TOKEN (GitHub secret). Never prints the token.
+Provider: Gemini when env GEMINI_API_KEY is set (model from env GEMINI_IMAGE_MODEL, default
+gemini-2.5-flash-image), otherwise Replicate (env REPLICATE_API_TOKEN). If Gemini fails on a shot and a
+Replicate token exists, that shot falls back to Replicate. Never prints a key.
 
 Usage: python3 agent/gen_images.py ep01-apalachin [--out assets_out] [--only id1,id2] [--force]
 """
@@ -26,10 +28,48 @@ GUARD_FICTIONAL = (" The character is entirely fictional and must not resemble a
                    " No text, no letters, no logos, no watermark.")
 
 
+GEMINI_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
+GEMINI_MODEL = os.environ.get("GEMINI_IMAGE_MODEL", "").strip() or "gemini-2.5-flash-image"
+
+
+GEMINI_OFF = [False]
+
+
+def gemini_image(prompt, aspect="16:9"):
+    """One image from the Gemini API (generateContent with an image response). Returns a PIL image.
+    A quota error (429 after retries) switches Gemini off for the rest of the run."""
+    import base64
+    if GEMINI_OFF[0]:
+        raise RuntimeError("Gemini desligado nesta execução (sem cota)")
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
+    body = {"contents": [{"parts": [{"text": prompt}]}],
+            "generationConfig": {"responseModalities": ["IMAGE"], "imageConfig": {"aspectRatio": aspect}}}
+    for k in range(3):
+        r = requests.post(url, json=body, headers={"x-goog-api-key": GEMINI_KEY, "Content-Type": "application/json"}, timeout=180)
+        if r.status_code in (429, 500, 503) and k < 2:
+            time.sleep(20 * (k + 1)); continue
+        if r.status_code == 429:
+            GEMINI_OFF[0] = True
+        if r.status_code >= 400:
+            raise RuntimeError(f"Gemini {r.status_code}: {r.text[:300]}")
+        for cand in r.json().get("candidates", []):
+            for part in (cand.get("content") or {}).get("parts", []):
+                data = (part.get("inlineData") or part.get("inline_data") or {}).get("data")
+                if data:
+                    img = Image.open(io.BytesIO(base64.b64decode(data))).convert("RGB")
+                    if img.width < 1920:  # Gemini returns ~1344x768: upscale once for the 1080p edit
+                        img = img.resize((1920, int(img.height * 1920 / img.width)), Image.LANCZOS)
+                    return img
+        raise RuntimeError(f"Gemini sem imagem na resposta: {r.text[:200]}")
+    raise RuntimeError("Gemini não respondeu")
+
+
 def session():
     tok = os.environ.get("REPLICATE_API_TOKEN", "").strip()
     if not tok:
-        sys.exit("REPLICATE_API_TOKEN não configurado (GitHub > Settings > Secrets and variables > Actions).")
+        if GEMINI_KEY:
+            return None
+        sys.exit("Nenhuma chave de IA: configure GEMINI_API_KEY ou REPLICATE_API_TOKEN (GitHub > Settings > Secrets and variables > Actions).")
     s = requests.Session()
     s.headers.update({"Authorization": f"Bearer {tok}", "Content-Type": "application/json", "Prefer": "wait=60"})
     return s
@@ -113,8 +153,17 @@ def main():
             inp = {"prompt": prompt, "aspect_ratio": "16:9", "output_format": "jpg",
                    "safety_tolerance": 2, "raw": bool(sh.get("raw", spec.get("raw", True))), "seed": 1000 * k + len(sid)}
             try:
-                url = predict(s, model, inp)
-                img = Image.open(io.BytesIO(requests.get(url, timeout=120).content)).convert("RGB")
+                img = None
+                if GEMINI_KEY:
+                    try:
+                        img = gemini_image(prompt)
+                    except Exception as e:
+                        if s is None:
+                            raise
+                        print(f"{sid}_{k}: Gemini falhou ({str(e)[:120]}), tentando Replicate", flush=True)
+                if img is None:
+                    url = predict(s, model, inp)
+                    img = Image.open(io.BytesIO(requests.get(url, timeout=120).content)).convert("RGB")
                 fp = os.path.join(ai_dir, f"{sid}_{k}.jpg")
                 img.save(fp, quality=92)
                 files.append(fp); cost_n += 1
@@ -125,7 +174,7 @@ def main():
         rows.append((sid, files))
         log.append(f"| `{sid}` | {len(files)} de {n} |")
     sheets = contact_sheets(ep_dir, [r for r in rows if r[1]])
-    rep = "\n".join([f"# Imagens IA — {a.episode}", "", f"- Modelo: `{model}`", f"- Imagens geradas: {cost_n}",
+    rep = "\n".join([f"# Imagens IA — {a.episode}", "", f"- Modelo: `{GEMINI_MODEL if GEMINI_KEY else model}`", f"- Imagens geradas: {cost_n}",
                      f"- Folhas: {', '.join(os.path.basename(p) for p in sheets)}", "", "| plano | resultado |", "|---|---|"] + log) + "\n"
     open(os.path.join(ep_dir, "ai_report.md"), "w").write(rep)
     if os.environ.get("GITHUB_STEP_SUMMARY"):

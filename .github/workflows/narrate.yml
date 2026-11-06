@@ -2,7 +2,7 @@ name: Gerar narração
 
 # Gera a narração de cada capítulo (Fish Audio) a partir do roteiro e já transcreve
 # palavra por palavra para a sincronia da edição. Publica tudo no branch assets.
-# Precisa dos segredos FISH_API_KEY e FISH_VOICE_ID.
+# Provedor padrão: Fish Audio (FISH_API_KEY, FISH_VOICE_ID). Opcional: provider=eleven (segredo ELEVENLABS_API_KEY).
 on:
   workflow_dispatch:
     inputs:
@@ -17,6 +17,18 @@ on:
         description: "Velocidade da voz (1.0 = normal)"
         required: false
         default: "1.0"
+      voice:
+        description: "Opcional: ID de outra voz Fish Audio (vazio = voz padrão do canal)"
+        required: false
+        default: ""
+      model:
+        description: "Opcional: modelo (Fish: s2.1-pro-free; ElevenLabs: eleven_v3...; vazio = padrão)"
+        required: false
+        default: ""
+      provider:
+        description: "Provedor de voz: fish (Fish Audio) ou eleven (ElevenLabs)"
+        required: false
+        default: "fish"
 
 permissions:
   contents: write
@@ -33,6 +45,8 @@ jobs:
         with:
           ref: assets
           path: assets
+          # only this episode's folder: the whole assets branch no longer fits on the runner disk
+          sparse-checkout: ${{ inputs.episode }}
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -41,8 +55,12 @@ jobs:
         working-directory: main
         env:
           FISH_API_KEY: ${{ secrets.FISH_API_KEY }}
-          FISH_VOICE_ID: ${{ secrets.FISH_VOICE_ID }}
-          FISH_MODEL: ${{ vars.FISH_MODEL }}
+          FISH_VOICE_ID: ${{ inputs.provider != 'eleven' && inputs.voice != '' && inputs.voice || secrets.FISH_VOICE_ID }}
+          FISH_MODEL: ${{ inputs.provider != 'eleven' && inputs.model != '' && inputs.model || vars.FISH_MODEL }}
+          TTS_PROVIDER: ${{ inputs.provider }}
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          ELEVEN_VOICE_ID: ${{ inputs.provider == 'eleven' && inputs.voice || '' }}
+          ELEVEN_MODEL: ${{ inputs.provider == 'eleven' && inputs.model || '' }}
         continue-on-error: true
         run: |
           mkdir -p "../out/${{ inputs.episode }}"
@@ -50,7 +68,9 @@ jobs:
           python3 agent/tts.py "${{ inputs.episode }}" --out ../out --only "${{ inputs.only }}" --speed "${{ inputs.speed }}" 2>&1 | tee "../out/${{ inputs.episode }}/tts_log.txt"
       - name: Transcrever (tempo de cada palavra)
         if: ${{ hashFiles(format('out/{0}/audio/*.mp3', inputs.episode)) != '' }}
-        run: python3 main/agent/transcribe.py "out/${{ inputs.episode }}/audio" "out/${{ inputs.episode }}/words"
+        run: |
+          LANG_EP=$(cat "main/episodes/${{ inputs.episode }}/lang.txt" 2>/dev/null || echo en)
+          python3 main/agent/transcribe.py "out/${{ inputs.episode }}/audio" "out/${{ inputs.episode }}/words" --lang "$LANG_EP"
       - name: Guardar cópia (backup)
         if: ${{ !cancelled() }}
         uses: actions/upload-artifact@v4

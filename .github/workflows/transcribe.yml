@@ -24,6 +24,8 @@ jobs:
         with:
           ref: assets
           path: assets
+          # only this episode's folder: the whole assets branch no longer fits on the runner disk
+          sparse-checkout: ${{ inputs.episode }}
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -34,7 +36,7 @@ jobs:
           mkdir -p "assets/${{ inputs.episode }}/words"
           ls -la "assets/${{ inputs.episode }}/audio" > "assets/${{ inputs.episode }}/words/transcribe_log.txt" 2>&1
           set -o pipefail
-          python3 main/agent/transcribe.py "assets/${{ inputs.episode }}/audio" "assets/${{ inputs.episode }}/words" 2>&1 | tee -a "assets/${{ inputs.episode }}/words/transcribe_log.txt"
+          python3 main/agent/transcribe.py "assets/${{ inputs.episode }}/audio" "assets/${{ inputs.episode }}/words" --lang "$(cat main/episodes/${{ inputs.episode }}/lang.txt 2>/dev/null || echo en)" 2>&1 | tee -a "assets/${{ inputs.episode }}/words/transcribe_log.txt"
       - name: Publicar
         if: ${{ !cancelled() }}
         run: |

@@ -10,7 +10,9 @@ for attempt in 1 2 3 4 5 6; do
   WT="$ROOT/pubwt"
   rm -rf "$WT"; git -C main worktree prune
   git -C main fetch -q --depth=1 origin +refs/heads/assets:refs/remotes/origin/assets || { sleep 5; continue; }
-  git -C main worktree add -q -f --detach "$WT" origin/assets || { sleep 5; continue; }
+  # sparse worktree: check out only the destination folder (the full assets branch is several GB)
+  git -C main worktree add -q -f --detach --no-checkout "$WT" origin/assets || { sleep 5; continue; }
+  git -C "$WT" sparse-checkout set --no-cone "/$DEST/" && git -C "$WT" checkout -q --detach origin/assets || { sleep 5; continue; }
   mkdir -p "$WT/$DEST"
   cp -r "$SRC"/. "$WT/$DEST/"
   cd "$WT"
