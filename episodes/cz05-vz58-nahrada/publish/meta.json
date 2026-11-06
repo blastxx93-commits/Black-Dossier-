@@ -1,0 +1,23 @@
+{
+ "lang": "cs",
+ "tagline": "Skutečná historie zbraní, se zdroji.",
+ "compact_credits": true,
+ "credits_file": "episodes/cz05-vz58-nahrada/publish/creditos_completos.txt",
+ "intro": "Proč česká armáda začala nahrazovat legendární samopal vz. 58? Vstup do NATO, jiná munice než spojenci, chybějící kolejnice na optiku, stáří zbraní a kritika první verze CZ 805 BREN – až po úspěch CZ BREN 2 a návrat osmapadesátek na ukrajinskou frontu.\n\nÚvodní scéna z Afghánistánu je ilustrativní. Video je historický dokument založený na publikovaných zdrojích. Nejde o návod k výrobě ani úpravám zbraní. Některé scény jsou ilustrace vytvořené AI.",
+ "chapters": [
+  "Zásobník, který nepasoval",
+  "Vstup do NATO",
+  "Čtyři problémy",
+  "Hledání nástupce",
+  "Kritika CZ 805",
+  "BREN 2",
+  "Osmapadesátky na Ukrajinu",
+  "Nebyla špatná",
+  "Odpověď"
+ ],
+ "sources": [
+  "Wikipedia (cs/en): Sa vz. 58; CZ 805 BREN; CZ BREN 2",
+  "Ministerstvo obrany ČR / Armáda ČR: zavedení BREN",
+  "Zprávy ČTK, iROZHLAS, Seznam Zprávy (2010–2022)"
+ ]
+}

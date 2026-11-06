@@ -1,0 +1,80 @@
+{
+ "model": "black-forest-labs/flux-1.1-pro-ultra",
+ "raw": true,
+ "n": 1,
+ "style": ", photorealistic documentary image, cinematic lighting, muted colours, fine film grain, realistic detail, no readable text, no logos, no national insignia close-ups",
+ "shots": [
+  {
+   "id": "ai_logar_road",
+   "prompt": "A dusty mountain road in Logar province Afghanistan, a NATO patrol of armored vehicles seen from a distance, haze, 2010"
+  },
+  {
+   "id": "ai_ally_hand",
+   "prompt": "Two NATO soldiers in desert camouflage seen from behind crouching behind a mud wall, one handing a curved rifle magazine to the other, dust, tension, faces not visible"
+  },
+  {
+   "id": "ai_mag_mismatch",
+   "prompt": "Close-up of a curved steel rifle magazine and a straight NATO rifle magazine side by side on a dusty ammo crate, desert light"
+  },
+  {
+   "id": "ai_base_afghan",
+   "prompt": "A NATO forward operating base in Afghanistan with HESCO barriers and mountains behind, soldiers seen from far, dusk"
+  },
+  {
+   "id": "ai_old_rifles_rack",
+   "prompt": "A long rack of old wooden-stocked Cold War assault rifles in a modern army armory, fluorescent light"
+  },
+  {
+   "id": "ai_worn_rifle",
+   "prompt": "Close-up of a heavily worn old assault rifle with scratched finish and chipped stock on a workbench, armourer's tools"
+  },
+  {
+   "id": "ai_soldier_gear",
+   "prompt": "A modern Czech soldier seen from behind in full gear with plate carrier, helmet with headset and rifle with optic, training area"
+  },
+  {
+   "id": "ai_meeting_ministry",
+   "prompt": "A government defense ministry meeting room with officials seen from behind around a table, rifle prototype on the table, no readable text"
+  },
+  {
+   "id": "ai_factory_modern",
+   "prompt": "A modern arms factory with CNC machines and polymer rifle parts on a conveyor, workers seen from behind"
+  },
+  {
+   "id": "ai_heavy_rifle",
+   "prompt": "A soldier seen from behind in hot desert sun resting a heavy modern rifle on his shoulder, sweat, fatigue"
+  },
+  {
+   "id": "ai_design_cad",
+   "prompt": "Engineers seen from behind looking at a 3D CAD model of a modular rifle on large monitors"
+  },
+  {
+   "id": "ai_feedback",
+   "prompt": "Soldiers seen from behind sitting on boxes giving feedback to an engineer with a notebook at a field camp"
+  },
+  {
+   "id": "ai_new_rifles_crates",
+   "prompt": "Open crates of brand-new black modular rifles in a military warehouse, clean light"
+  },
+  {
+   "id": "ai_reserve_storage",
+   "prompt": "A military storage depot with rows of old rifles in crates being inventoried, worker seen from behind"
+  },
+  {
+   "id": "ai_trucks_ukraine",
+   "prompt": "A convoy of military trucks crossing a border at dawn in 2022, seen from a distance"
+  },
+  {
+   "id": "ai_trench_vz58",
+   "prompt": "A Ukrainian soldier seen from behind in a muddy trench in winter holding an older assault rifle with a light brown stock"
+  },
+  {
+   "id": "ai_handover",
+   "prompt": "An older soldier handing a rifle to a young recruit in a barracks, seen from the side, faces in shadow"
+  },
+  {
+   "id": "ai_sunset_two_rifles",
+   "prompt": "Two rifles, an old wooden-stocked assault rifle and a modern black modular rifle, lying side by side on a table at sunset light"
+  }
+ ]
+}

@@ -1,0 +1,179 @@
+{
+ "defaults": {
+  "n": 5,
+  "sources": [
+   "commons",
+   "openverse",
+   "loc"
+  ]
+ },
+ "shots": [
+  {
+   "id": "vz58",
+   "query": "Sa vz. 58",
+   "alt": [
+    "vz. 58 rifle",
+    "Samopal vz. 58",
+    "vz 58 Czech army"
+   ],
+   "n": 12
+  },
+  {
+   "id": "vz58_mod",
+   "query": "vz. 58 modernized",
+   "alt": [
+    "vz. 58 picatinny",
+    "vz 58 tactical",
+    "Sa vz. 58 upgrade"
+   ],
+   "n": 6
+  },
+  {
+   "id": "cz805",
+   "query": "CZ 805 BREN",
+   "alt": [
+    "CZ 805 BREN A1",
+    "CZ 805 A2",
+    "Czech soldier CZ 805"
+   ],
+   "n": 12
+  },
+  {
+   "id": "bren2",
+   "query": "CZ BREN 2",
+   "alt": [
+    "BREN 2 Czech army",
+    "CZ BREN 2 rifle",
+    "Czech soldier BREN 2"
+   ],
+   "n": 12
+  },
+  {
+   "id": "acr_afghanistan",
+   "query": "Czech army Afghanistan",
+   "alt": [
+    "Armáda České republiky Afghánistán",
+    "Czech soldiers Afghanistan",
+    "ISAF Czech",
+    "Logar Czech PRT"
+   ],
+   "n": 15
+  },
+  {
+   "id": "acr_kosovo",
+   "query": "Czech army KFOR",
+   "alt": [
+    "Czech soldiers Kosovo",
+    "KFOR Czech"
+   ],
+   "n": 6
+  },
+  {
+   "id": "acr_iraq",
+   "query": "Czech army Iraq",
+   "alt": [
+    "Czech soldiers Iraq 2003"
+   ],
+   "n": 5
+  },
+  {
+   "id": "acr_training",
+   "query": "Czech army exercise",
+   "alt": [
+    "Armáda ČR cvičení",
+    "Czech soldiers training",
+    "Czech infantry exercise"
+   ],
+   "n": 15
+  },
+  {
+   "id": "nato_1999",
+   "query": "Czech Republic NATO 1999",
+   "alt": [
+    "Czech NATO accession",
+    "NATO flags Czech"
+   ],
+   "n": 6
+  },
+  {
+   "id": "ammo_556",
+   "query": "5.56×45mm NATO",
+   "alt": [
+    "5.56 NATO cartridge",
+    "STANAG magazine"
+   ],
+   "n": 6
+  },
+  {
+   "id": "ammo_762",
+   "query": "7.62×39mm",
+   "alt": [
+    "7.62x39 cartridge"
+   ],
+   "n": 4
+  },
+  {
+   "id": "optics",
+   "query": "rifle optic red dot",
+   "alt": [
+    "Aimpoint sight",
+    "ACOG rifle",
+    "picatinny rail rifle"
+   ],
+   "n": 6
+  },
+  {
+   "id": "ukraine",
+   "query": "Ukrainian soldiers 2022",
+   "alt": [
+    "Ukrainian army rifle",
+    "Ukraine territorial defense",
+    "Ukrainian infantry"
+   ],
+   "n": 12
+  },
+  {
+   "id": "uh_brod",
+   "query": "Česká zbrojovka Uherský Brod",
+   "alt": [
+    "CZ Uherský Brod",
+    "Česká zbrojovka"
+   ],
+   "n": 6
+  },
+  {
+   "id": "hungary",
+   "query": "Hungarian Defence Forces rifle",
+   "alt": [
+    "Hungarian soldiers BREN",
+    "Magyar Honvédség"
+   ],
+   "n": 6
+  },
+  {
+   "id": "grot",
+   "query": "MSBS Grot",
+   "alt": [
+    "Polish army Grot rifle"
+   ],
+   "n": 4
+  },
+  {
+   "id": "colt",
+   "query": "Colt CZ Group",
+   "alt": [
+    "Colt factory"
+   ],
+   "n": 3
+  },
+  {
+   "id": "museum_vz58",
+   "query": "vz. 58 museum",
+   "alt": [
+    "Vojenské historické muzeum samopal",
+    "army museum rifles"
+   ],
+   "n": 6
+  }
+ ]
+}

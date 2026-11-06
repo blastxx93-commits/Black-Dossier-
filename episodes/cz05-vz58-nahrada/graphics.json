@@ -1,0 +1,99 @@
+[
+ {
+  "id": "g_compare",
+  "kind": "compare",
+  "dur": 11,
+  "label": "Stará a nová generace",
+  "names": [
+   "Sa vz. 58",
+   "CZ BREN 2"
+  ],
+  "rows": [
+   [
+    "Ráže",
+    "7,62 × 39 mm",
+    "5,56 × 45 mm NATO",
+    1
+   ],
+   [
+    "Kolejnice",
+    "ne",
+    "ano",
+    1
+   ],
+   [
+    "Pažba",
+    "pevná / sklopná",
+    "nastavitelná",
+    1
+   ],
+   [
+    "Zásobník",
+    "vlastní",
+    "STANAG (NATO)",
+    1
+   ],
+   [
+    "Vyrobeno",
+    "1959 – 1984",
+    "od 2016",
+    null
+   ]
+  ]
+ },
+ {
+  "id": "g_timeline",
+  "kind": "timeline",
+  "dur": 10,
+  "label": "Cesta k náhradě",
+  "title": "Od vz. 58 k BREN 2",
+  "events": [
+   [
+    1958,
+    "Sa vz. 58"
+   ],
+   [
+    1999,
+    "vstup do NATO"
+   ],
+   [
+    2011,
+    "CZ 805 BREN"
+   ],
+   [
+    2016,
+    "CZ BREN 2"
+   ],
+   [
+    2022,
+    "vz. 58 na Ukrajinu"
+   ]
+  ]
+ },
+ {
+  "id": "g_problems",
+  "kind": "spec",
+  "dur": 10,
+  "label": "Proč odchází",
+  "title": "Čtyři problémy",
+  "sub": "vz. 58 v jednadvacátém století",
+  "rows": [
+   [
+    "Munice",
+    "jiná než NATO"
+   ],
+   [
+    "Příslušenství",
+    "bez kolejnic"
+   ],
+   [
+    "Stáří",
+    "poslední kusy 1984"
+   ],
+   [
+    "Ergonomie",
+    "pro vojáka bez vesty"
+   ]
+  ]
+ }
+]

@@ -1,0 +1,105 @@
+{
+ "defaults": {
+  "n": 5,
+  "clip": 8,
+  "per_film": 2
+ },
+ "shots": [
+  {
+   "id": "s_desert_patrol",
+   "query": "military patrol desert",
+   "alt": [
+    "soldiers desert",
+    "army convoy desert"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "commons"
+   ],
+   "n": 6
+  },
+  {
+   "id": "s_soldier_rifle",
+   "query": "soldier rifle",
+   "alt": [
+    "military training",
+    "soldiers forest"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "commons"
+   ],
+   "n": 6
+  },
+  {
+   "id": "s_range",
+   "query": "rifle shooting range",
+   "alt": [
+    "target shooting rifle"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "commons"
+   ],
+   "n": 6
+  },
+  {
+   "id": "s_helicopter",
+   "query": "military helicopter",
+   "alt": [
+    "army helicopter landing"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "commons"
+   ],
+   "n": 6
+  },
+  {
+   "id": "s_war",
+   "query": "war",
+   "alt": [
+    "war smoke",
+    "explosion field"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "commons"
+   ],
+   "n": 6
+  },
+  {
+   "id": "s_factory",
+   "query": "cnc metal machining",
+   "alt": [
+    "steel factory",
+    "lathe"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "commons"
+   ],
+   "n": 6
+  },
+  {
+   "id": "s_flag",
+   "query": "NATO flag",
+   "alt": [
+    "Czech flag",
+    "Ukraine flag"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "commons"
+   ],
+   "n": 6
+  }
+ ]
+}
