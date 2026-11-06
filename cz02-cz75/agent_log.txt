@@ -1,0 +1,355 @@
+[     0s] cz02-cz75: 26 planos, limite 35.0 min
+[     0s] cz75: 'CZ 75'
+[     1s]     commons: 12 candidatos em 0.6s
+[    21s]   ! api.openverse.org: 504 Server Error: Gateway Timeout for url: https://api.openverse.org/v1/images/?q=CZ+75&license=pdm%2Ccc0%2Cby%2Cby-sa&page_size=12&mature=false
+[    21s]     openverse: 0 candidatos em 20.4s
+[    36s]     loc: 7 candidatos em 14.8s
+[    67s]     falhou download (loc) em 30.1s
+[    98s]     falhou download (loc) em 30.0s
+[   128s]     falhou download (loc) em 30.0s
+[   159s]     falhou download (loc) em 30.0s
+[   160s]     falhou download (loc) em 0.0s
+[   161s]     falhou download (loc) em 0.0s
+[   161s]     falhou download (loc) em 0.0s
+[   165s]     commons: 12 candidatos em 1.1s
+[   188s]     openverse: 1 candidatos em 22.6s
+[   212s]   ! www.loc.gov: 429 rate limit
+[   212s]     loc: 0 candidatos em 24.0s
+[   214s]   -> 15 imagens
+[   214s] cz75_compact: 'CZ 75 Compact'
+[   214s]     commons: 12 candidatos em 0.5s
+[   225s]     openverse: 2 candidatos em 10.2s
+[   249s]   ! www.loc.gov: 429 rate limit
+[   249s]     loc: 0 candidatos em 24.0s
+[   252s]     commons: 0 candidatos em 0.2s
+[   257s]     openverse: 0 candidatos em 4.8s
+[   281s]   ! www.loc.gov: 429 rate limit
+[   281s]   ! www.loc.gov desligado nesta execucao (3 falhas seguidas)
+[   281s]     loc: 0 candidatos em 24.0s
+[   282s]     commons: 12 candidatos em 0.5s
+[   289s]     openverse: 9 candidatos em 7.6s
+[   289s]     loc: 0 candidatos em 0.0s
+[   292s]   -> 8 imagens
+[   292s] cz_shadow: 'CZ 75 SP-01 Shadow'
+[   292s]     commons: 12 candidatos em 0.4s
+[   301s]     openverse: 4 candidatos em 8.4s
+[   301s]     loc: 0 candidatos em 0.0s
+[   332s]     falhou download (openverse) em 30.0s
+[   362s]     falhou download (openverse) em 30.0s
+[   393s]     falhou download (commons) em 30.0s
+[   393s]     commons: 11 candidatos em 0.4s
+[   407s]     openverse: 2 candidatos em 13.4s
+[   407s]     loc: 0 candidatos em 0.0s
+[   437s]     falhou download (commons) em 30.0s
+[   467s]     falhou download (openverse) em 30.0s
+[   497s]     falhou download (openverse) em 30.0s
+[   497s]     falhou download (commons) em 0.0s
+[   497s]     falhou download (commons) em 0.0s
+[   502s]     falhou download (commons) em 0.0s
+[   503s]   -> 8 imagens
+[   503s] cz75_field: 'CZ 75 disassembled'
+[   503s]     commons: 0 candidatos em 0.2s
+[   507s]     openverse: 0 candidatos em 4.0s
+[   507s]     loc: 0 candidatos em 0.0s
+[   508s]     commons: 1 candidatos em 0.3s
+[   511s]     openverse: 0 candidatos em 3.4s
+[   511s]     loc: 0 candidatos em 0.0s
+[   511s]     falhou download (commons) em 0.0s
+[   511s]     commons: 0 candidatos em 0.2s
+[   514s]     openverse: 0 candidatos em 2.3s
+[   514s]     loc: 0 candidatos em 0.0s
+[   514s]     commons: 10 candidatos em 0.3s
+[   521s]     openverse: 1 candidatos em 7.2s
+[   521s]     loc: 0 candidatos em 0.0s
+[   522s]     falhou download (openverse) em 0.0s
+[   522s]     falhou download (commons) em 0.0s
+[   530s]     falhou download (commons) em 0.0s
+[   530s]     falhou download (commons) em 0.0s
+[   530s]   -> 4 imagens
+[   530s] hi_power: 'Browning Hi-Power'
+[   530s]     commons: 10 candidatos em 0.4s
+[   542s]     openverse: 10 candidatos em 11.2s
+[   542s]     loc: 0 candidatos em 0.0s
+[   546s]     falhou download (commons) em 0.0s
+[   547s]   -> 8 imagens
+[   547s] tanfoglio: 'Tanfoglio'
+[   548s]     commons: 9 candidatos em 0.7s
+[   557s]     openverse: 10 candidatos em 9.1s
+[   557s]     loc: 0 candidatos em 0.0s
+[   557s]     falhou download (commons) em 0.0s
+[   557s]     falhou download (openverse) em 0.0s
+[   558s]     falhou download (openverse) em 0.0s
+[   559s]     falhou download (openverse) em 0.0s
+[   559s]     falhou download (commons) em 0.0s
+[   559s]     falhou download (openverse) em 0.0s
+[   559s]     falhou download (commons) em 0.0s
+[   559s]     falhou download (openverse) em 0.0s
+[   559s]     falhou download (commons) em 0.0s
+[   559s]     falhou download (openverse) em 0.0s
+[   559s]     falhou download (commons) em 0.0s
+[   559s]     falhou download (openverse) em 0.0s
+[   559s]     falhou download (openverse) em 0.0s
+[   559s]     falhou download (commons) em 0.0s
+[   559s]     falhou download (openverse) em 0.0s
+[   559s]     falhou download (openverse) em 0.0s
+[   559s]     commons: 0 candidatos em 0.2s
+[   563s]     openverse: 0 candidatos em 3.8s
+[   563s]     loc: 0 candidatos em 0.0s
+[   564s]     commons: 10 candidatos em 0.4s
+[   574s]     openverse: 1 candidatos em 10.2s
+[   574s]     loc: 0 candidatos em 0.0s
+[   581s]   -> 6 imagens
+[   581s] jericho: 'Jericho 941'
+[   582s]     commons: 11 candidatos em 0.5s
+[   592s]     openverse: 8 candidatos em 10.4s
+[   592s]     loc: 0 candidatos em 0.0s
+[   593s]     falhou download (openverse) em 0.0s
+[   593s]     falhou download (openverse) em 0.0s
+[   594s]     falhou download (openverse) em 0.0s
+[   594s]     falhou download (commons) em 0.0s
+[   594s]     falhou download (openverse) em 0.0s
+[   594s]     falhou download (commons) em 0.0s
+[   594s]     falhou download (openverse) em 0.0s
+[   595s]     falhou download (openverse) em 0.0s
+[   595s]     falhou download (commons) em 0.0s
+[   595s]     falhou download (openverse) em 0.0s
+[   596s]   -> 6 imagens
+[   596s] sphinx: 'Sphinx AT-380'
+[   597s]     commons: 11 candidatos em 1.4s
+[   606s]     openverse: 12 candidatos em 8.2s
+[   606s]     loc: 0 candidatos em 0.0s
+[   606s]     falhou download (openverse) em 0.0s
+[   611s]   -> 5 imagens
+[   611s] canik: 'Canik pistol'
+[   611s]     commons: 6 candidatos em 0.3s
+[   622s]     openverse: 12 candidatos em 10.6s
+[   622s]     loc: 0 candidatos em 0.0s
+[   622s]     falhou download (commons) em 0.0s
+[   622s]     falhou download (openverse) em 0.0s
+[   625s]   -> 5 imagens
+[   625s] nz75: 'Norinco NZ75'
+[   626s]     commons: 0 candidatos em 0.2s
+[   630s]     openverse: 0 candidatos em 4.4s
+[   630s]     loc: 0 candidatos em 0.0s
+[   631s]     commons: 9 candidatos em 0.5s
+[   638s]     openverse: 5 candidatos em 7.5s
+[   638s]     loc: 0 candidatos em 0.0s
+[   639s]     falhou download (openverse) em 0.0s
+[   639s]     falhou download (openverse) em 0.0s
+[   639s]     falhou download (commons) em 0.0s
+[   639s]     falhou download (openverse) em 0.0s
+[   639s]     falhou download (commons) em 0.0s
+[   639s]     falhou download (openverse) em 0.0s
+[   640s]   -> 3 imagens
+[   640s] vz52_pistol: 'Pistole vz. 52'
+[   640s]     commons: 10 candidatos em 0.5s
+[   648s]     openverse: 11 candidatos em 7.8s
+[   648s]     loc: 0 candidatos em 0.0s
+[   649s]     falhou download (openverse) em 0.0s
+[   649s]     falhou download (commons) em 0.0s
+[   649s]     falhou download (openverse) em 0.0s
+[   649s]     falhou download (commons) em 0.0s
+[   649s]     falhou download (openverse) em 0.0s
+[   649s]     falhou download (commons) em 0.0s
+[   649s]     falhou download (openverse) em 0.0s
+[   649s]     falhou download (commons) em 0.0s
+[   649s]     falhou download (openverse) em 0.0s
+[   649s]     falhou download (commons) em 0.0s
+[   649s]     falhou download (openverse) em 0.0s
+[   649s]     falhou download (commons) em 0.0s
+[   649s]     falhou download (openverse) em 0.0s
+[   649s]     falhou download (commons) em 0.0s
+[   649s]     falhou download (openverse) em 0.0s
+[   649s]     falhou download (commons) em 0.0s
+[   649s]     falhou download (openverse) em 0.0s
+[   649s]     falhou download (commons) em 0.0s
+[   649s]     falhou download (openverse) em 0.0s
+[   649s]     falhou download (openverse) em 0.0s
+[   649s]     commons: 7 candidatos em 0.5s
+[   660s]     openverse: 6 candidatos em 10.3s
+[   660s]     loc: 0 candidatos em 0.0s
+[   660s]     falhou download (openverse) em 0.0s
+[   660s]     falhou download (commons) em 0.0s
+[   661s]     commons: 0 candidatos em 0.3s
+[   663s]     openverse: 0 candidatos em 2.5s
+[   663s]     loc: 0 candidatos em 0.0s
+[   663s]   -> 2 imagens
+[   663s] makarov: 'Makarov pistol'
+[   663s]     commons: 10 candidatos em 0.3s
+[   673s]     openverse: 9 candidatos em 9.9s
+[   673s]     loc: 0 candidatos em 0.0s
+[   675s]     falhou download (openverse) em 0.0s
+[   676s]     falhou download (openverse) em 0.0s
+[   677s]   -> 5 imagens
+[   677s] vz27: 'Pistole vz. 27'
+[   677s]     commons: 11 candidatos em 0.6s
+[   686s]     openverse: 0 candidatos em 8.5s
+[   686s]     loc: 0 candidatos em 0.0s
+[   686s]     falhou download (commons) em 0.0s
+[   686s]     falhou download (commons) em 0.0s
+[   686s]     falhou download (commons) em 0.0s
+[   686s]     falhou download (commons) em 0.0s
+[   686s]     falhou download (commons) em 0.0s
+[   689s]     falhou download (commons) em 0.0s
+[   689s]     commons: 11 candidatos em 0.3s
+[   696s]     openverse: 7 candidatos em 7.0s
+[   696s]     loc: 0 candidatos em 0.0s
+[   696s]     falhou download (openverse) em 0.0s
+[   696s]     falhou download (openverse) em 0.0s
+[   696s]     falhou download (openverse) em 0.0s
+[   696s]     falhou download (openverse) em 0.0s
+[   696s]     falhou download (openverse) em 0.0s
+[   696s]     falhou download (openverse) em 0.0s
+[   696s]     falhou download (openverse) em 0.0s
+[   696s]     commons: 1 candidatos em 0.5s
+[   703s]     openverse: 4 candidatos em 6.9s
+[   703s]     loc: 0 candidatos em 0.0s
+[   703s]     falhou download (commons) em 0.0s
+[   703s]     falhou download (openverse) em 0.0s
+[   703s]     falhou download (openverse) em 0.0s
+[   703s]     falhou download (openverse) em 0.0s
+[   703s]     falhou download (openverse) em 0.0s
+[   704s]     commons: 11 candidatos em 0.5s
+[   712s]     openverse: 10 candidatos em 8.5s
+[   712s]     loc: 0 candidatos em 0.0s
+[   712s]     falhou download (commons) em 0.0s
+[   713s]   -> 6 imagens
+[   713s] vz82: 'CZ 82'
+[   714s]     commons: 12 candidatos em 0.8s
+[   721s]     openverse: 10 candidatos em 7.6s
+[   721s]     loc: 0 candidatos em 0.0s
+[   722s]     falhou download (openverse) em 0.0s
+[   724s]   -> 5 imagens
+[   724s] cz_p07: 'CZ P-07'
+[   725s]     commons: 12 candidatos em 0.4s
+[   732s]     openverse: 8 candidatos em 7.3s
+[   732s]     loc: 0 candidatos em 0.0s
+[   732s]     falhou download (openverse) em 0.0s
+[   732s]     falhou download (commons) em 0.0s
+[   732s]     falhou download (openverse) em 0.0s
+[   732s]     falhou download (openverse) em 0.0s
+[   732s]     falhou download (openverse) em 0.0s
+[   732s]     falhou download (openverse) em 0.0s
+[   733s]     falhou download (openverse) em 0.0s
+[   733s]     falhou download (openverse) em 0.0s
+[   734s]     commons: 10 candidatos em 0.6s
+[   743s]     openverse: 7 candidatos em 9.1s
+[   743s]     loc: 0 candidatos em 0.0s
+[   743s]     falhou download (commons) em 0.0s
+[   743s]     falhou download (openverse) em 0.0s
+[   744s]     falhou download (openverse) em 0.0s
+[   744s]     falhou download (openverse) em 0.0s
+[   745s]   -> 5 imagens
+[   745s] cz_factory: 'Česká zbrojovka Uherský Brod'
+[   745s]     commons: 12 candidatos em 0.4s
+[   756s]     openverse: 5 candidatos em 10.4s
+[   756s]     loc: 0 candidatos em 0.0s
+[   756s]     falhou download (openverse) em 0.0s
+[   757s]     falhou download (openverse) em 0.0s
+[   758s]     falhou download (openverse) em 0.0s
+[   758s]     falhou download (openverse) em 0.0s
+[   759s]     falhou download (openverse) em 0.0s
+[   759s]   -> 6 imagens
+[   759s] uh_brod: 'Uherský Brod'
+[   760s]     commons: 10 candidatos em 0.5s
+[   767s]     openverse: 9 candidatos em 7.7s
+[   767s]     loc: 0 candidatos em 0.0s
+[   768s]     falhou download (openverse) em 0.0s
+[   769s]     falhou download (openverse) em 0.0s
+[   769s]     falhou download (openverse) em 0.0s
+[   770s]     falhou download (openverse) em 0.0s
+[   770s]     falhou download (commons) em 0.0s
+[   770s]     falhou download (openverse) em 0.0s
+[   770s]     falhou download (commons) em 0.0s
+[   770s]     falhou download (openverse) em 0.0s
+[   770s]     falhou download (commons) em 0.0s
+[   770s]     falhou download (openverse) em 0.0s
+[   770s]   -> 5 imagens
+[   770s] ipsc: 'IPSC shooting'
+[   771s]     commons: 11 candidatos em 0.8s
+[   781s]     openverse: 10 candidatos em 9.5s
+[   781s]     loc: 0 candidatos em 0.0s
+[   781s]     falhou download (commons) em 0.0s
+[   781s]     falhou download (openverse) em 0.0s
+[   781s]     falhou download (commons) em 0.0s
+[   781s]     falhou download (commons) em 0.0s
+[   782s]     falhou download (commons) em 0.0s
+[   783s]     falhou download (commons) em 0.0s
+[   783s]     falhou download (openverse) em 0.0s
+[   783s]     falhou download (commons) em 0.0s
+[   783s]     falhou download (openverse) em 0.0s
+[   783s]     falhou download (commons) em 0.0s
+[   784s]     falhou download (commons) em 0.0s
+[   784s]     falhou download (openverse) em 0.0s
+[   784s]     falhou download (commons) em 0.0s
+[   784s]     falhou download (commons) em 0.0s
+[   785s]     falhou download (commons) em 0.0s
+[   786s]     commons: 10 candidatos em 0.9s
+[   793s]     openverse: 9 candidatos em 6.8s
+[   793s]     loc: 0 candidatos em 0.0s
+[   793s]     falhou download (commons) em 0.0s
+[   799s]   -> 12 imagens
+[   799s] police_cz: 'Policie České republiky'
+[   800s]     commons: 12 candidatos em 0.7s
+[   808s]     openverse: 12 candidatos em 8.5s
+[   808s]     loc: 0 candidatos em 0.0s
+[   810s]     falhou download (openverse) em 0.0s
+[   810s]     falhou download (commons) em 0.0s
+[   810s]     falhou download (openverse) em 0.0s
+[   812s]     falhou download (openverse) em 0.0s
+[   812s]     falhou download (openverse) em 0.0s
+[   819s]     falhou download (openverse) em 0.0s
+[   821s]     falhou download (openverse) em 0.0s
+[   822s]   -> 6 imagens
+[   822s] czech_army_pistol: 'Czech army pistol'
+[   822s]     commons: 12 candidatos em 0.6s
+[   833s]     openverse: 10 candidatos em 10.7s
+[   833s]     loc: 0 candidatos em 0.0s
+[   838s]   -> 5 imagens
+[   838s] prague_70s: 'Prague 1970s'
+[   839s]     commons: 12 candidatos em 0.4s
+[   848s]     openverse: 9 candidatos em 9.6s
+[   848s]     loc: 0 candidatos em 0.0s
+[   848s]     falhou download (commons) em 0.0s
+[   848s]     falhou download (openverse) em 0.0s
+[   854s]     falhou download (commons) em 0.0s
+[   860s]     falhou download (commons) em 0.0s
+[   860s]   -> 10 imagens
+[   860s] velvet: 'Velvet Revolution 1989'
+[   861s]     commons: 12 candidatos em 0.3s
+[   874s]     openverse: 12 candidatos em 13.5s
+[   874s]     loc: 0 candidatos em 0.0s
+[   876s]     falhou download (openverse) em 0.0s
+[   877s]     falhou download (openverse) em 0.0s
+[   877s]     falhou download (openverse) em 0.0s
+[   878s]   -> 6 imagens
+[   878s] colt: "Colt's Manufacturing Company"
+[   879s]     commons: 6 candidatos em 0.6s
+[   886s]     openverse: 12 candidatos em 7.7s
+[   886s]     loc: 0 candidatos em 0.0s
+[   886s]     falhou download (commons) em 0.0s
+[   890s]   -> 5 imagens
+[   890s] jeff_cooper: 'Jeff Cooper'
+[   890s]     commons: 12 candidatos em 0.4s
+[   901s]     openverse: 7 candidatos em 10.9s
+[   901s]     loc: 0 candidatos em 0.0s
+[   903s]   -> 3 imagens
+[   903s] gun_show: 'gun show'
+[   904s]     commons: 12 candidatos em 0.6s
+[   934s]     openverse: 7 candidatos em 30.1s
+[   934s]     loc: 0 candidatos em 0.0s
+[   937s]     falhou download (commons) em 0.0s
+[   937s]     falhou download (commons) em 0.0s
+[   937s]     falhou download (openverse) em 0.0s
+[   937s]     falhou download (commons) em 0.0s
+[   940s]   -> 8 imagens
+[   940s] ammo_9mm: '9mm Parabellum'
+[   941s]     commons: 7 candidatos em 0.8s
+[   948s]     openverse: 7 candidatos em 7.3s
+[   948s]     loc: 0 candidatos em 0.0s
+[   948s]     falhou download (commons) em 0.0s
+[   949s]     falhou download (commons) em 0.0s
+[   950s]     falhou download (openverse) em 0.0s
+[   957s]     falhou download (openverse) em 6.1s
+[   957s]   -> 5 imagens
+[   961s] fim: 162 imagens
