@@ -3,7 +3,8 @@
 
 Reads episodes/<ep>/edit/trilha.json:
     {"moods": {"tensao": ["Gathering Darkness", "The Descent"], "misterio": [...], ...}}
-For each mood it downloads the first track that exists from Kevin MacLeod's library (incompetech.com,
+For each mood, a track the owner downloaded from the YouTube Audio Library wins: <work>/a/musica/<mood>.mp3
+(assets branch, episode folder). Otherwise it downloads the first track that exists from Kevin MacLeod's library (incompetech.com,
 Creative Commons BY 4.0: credit goes in the video description) into <work>/musica/<mood>.mp3 and writes
 <work>/musica/creditos.txt. If no track of a mood can be downloaded, a synthesized bed of a similar
 style (engine/aus_music.py) is written instead, so a render never fails for lack of music.
@@ -40,6 +41,11 @@ def main(spec_path, work):
     credits = []
     for mood, titles in spec["moods"].items():
         out = os.path.join(d, f"{mood}.mp3")
+        own = os.path.join(work, "a", "musica", f"{mood}.mp3")
+        if os.path.exists(own):   # YouTube Audio Library track sent by the owner: no Content ID risk
+            subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", own, "-b:a", "192k", out], check=True)
+            print(f"{mood}: faixa do dono (Biblioteca de Áudio do YouTube)", flush=True)
+            continue
         got = next((t for t in titles if fetch(t, out)), None)
         if got:
             credits.append(f'"{got}" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 '
