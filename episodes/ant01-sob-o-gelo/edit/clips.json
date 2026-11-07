@@ -11,7 +11,17 @@
   "v_ice_sheet_aerial/2",
   "v_blue_ice/3",
   "v_icebergs/3",
-  "v_ocean_ice/3"
+  "v_ocean_ice/3",
+  "x_iceberg_drone/1",
+  "x_iceberg_drone/3",
+  "x_antarctica/1",
+  "x_antarctica/3",
+  "x_antarctica/4",
+  "x_antarctica/5",
+  "x_snow_mountain/3",
+  "x_ice_texture/5",
+  "x_snow_wind/1",
+  "x_snow_wind/2"
  ],
  "escala": [
   "v_bedmachine/2",
@@ -22,11 +32,15 @@
   "v_radar_plane/1",
   "v_radar_plane/2",
   "v_satellite_orbit/1",
-  "v_satellite_orbit/2"
+  "v_satellite_orbit/2",
+  "x_starry_snow/5"
  ],
  "vostok": [
   "v_plateau_snow/1",
-  "v_icesat/2"
+  "v_icesat/2",
+  "x_starry_snow/1",
+  "x_starry_snow/4",
+  "x_aurora/5"
  ],
  "lago": [
   "v_dark_water/1",
@@ -51,7 +65,9 @@
  ],
  "montanhas": [
   "v_mountains_peaks/1",
-  "v_ice_layers/1"
+  "v_ice_layers/1",
+  "x_crevasse/2",
+  "x_crevasse/3"
  ],
  "cachoeira": [
   "v_rust/1"
@@ -62,19 +78,35 @@
   "v_rainforest/3"
  ],
  "arquivo": [
-  "v_bubbles_ice/3"
+  "v_bubbles_ice/3",
+  "x_ice_melt/1",
+  "x_underwater_ice/1",
+  "x_seal/2"
  ],
  "thwaites": [
   "v_glacier_front/2",
   "v_glacier_front/1",
   "v_glacier_front/3",
   "v_glacier_front/4",
-  "v_snowfall/2"
+  "v_snowfall/2",
+  "x_ice_melt/2",
+  "x_ice_melt/4",
+  "x_whale/5"
  ],
  "_generic": [
   "v_ice_sheet_aerial/1",
   "v_icebergs/1",
   "v_ocean_ice/1",
-  "v_ice_cave/2"
+  "v_ice_cave/2",
+  "x_antarctica/5",
+  "x_snow_wind/1",
+  "x_iceberg_drone/3"
+ ],
+ "final": [
+  "x_polar_ship/5",
+  "x_penguin_colony/2",
+  "x_whale/1",
+  "x_whale/2",
+  "x_whale/3"
  ]
 }

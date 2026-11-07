@@ -51,6 +51,7 @@ FALLBACK = {
     "passado": ["scott", "gelo"], "arquivo": ["perfuracao", "gelo"], "meteorito": ["arquivo", "espaco"],
     "thwaites": ["gelo", "litoral"], "litoral": ["thwaites"], "brasil": ["gelo", "final"], "final": ["gelo"], "gelo": ["final"],
 }
+PHOTOS.setdefault("vostok", []); PHOTOS.setdefault("final", [])
 A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FALLBACK, ["gelo", "final"])
 A.CLIP_TARGET = 0.45
 A.MAX_HOLD, A.KEEP = 8.0, 5.0     # owner rule: 3–6 s per shot on average; clips can run their full 8 s
