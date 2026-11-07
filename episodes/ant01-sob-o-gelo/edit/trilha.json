@@ -1,0 +1,12 @@
+{
+ "_nota": "Faixas de Kevin MacLeod (incompetech.com, CC BY 4.0). Em cada clima vale a primeira que baixar. Crédito vai na descrição.",
+ "moods": {
+  "tensao":    ["Gathering Darkness", "The Descent", "Darkest Child", "Impact Prelude"],
+  "misterio":  ["Ossuary 6 - Air", "Lost Time", "Echoes of Time v2", "Darkness Speaks"],
+  "maravilha": ["Ice Flow", "Lightless Dawn", "Floating Cities", "Long Note Four"],
+  "frio":      ["Frost Waltz", "Long Note Two", "Ice Flow"],
+  "epico":     ["Heroic Age", "Five Armies", "Volatile Reaction"],
+  "drama":     ["Dark Times", "Heartbreaking", "Sad Trio"],
+  "reflexivo": ["Peaceful Desolation", "Clean Soul", "Touching Moments Two - Higher"]
+ }
+}

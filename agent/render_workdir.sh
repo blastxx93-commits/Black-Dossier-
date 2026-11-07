@@ -12,6 +12,10 @@ if [ -f "main/episodes/$EP/edit/music.txt" ]; then
   read -r STYLE SEED < "main/episodes/$EP/edit/music.txt"
   python3 main/engine/aus_music.py work/trilha.wav "$STYLE" "${SEED:-1}"
 fi
+# canal Abaixo de Zero: faixas reais por clima (edit/trilha.json), trocadas conforme a cena
+if [ -f "main/episodes/$EP/edit/trilha.json" ]; then
+  python3 main/engine/ant_music.py "main/episodes/$EP/edit/trilha.json" work
+fi
 cp "main/episodes/$EP/edit/episode.json" work/
 cp main/episodes/"$EP"/edit/*.ass work/ 2>/dev/null || true
 mkdir -p ~/.fonts && cp main/engine/fonts/*.otf ~/.fonts/ && fc-cache -f > /dev/null || true

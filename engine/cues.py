@@ -9,13 +9,15 @@ from agent/transcribe.py, so each shot starts exactly when its phrase is spoken.
     ch.at(0, chapter_card)                             # or at a time in seconds
     episode["chapters"].append(ch.build())
 """
-import difflib, json, re
+import difflib, json, re, unicodedata
 
 LEAD = 0.12  # picture lands this many seconds before the word
 
 
 def norm(t):
-    t = t.lower().replace("’", "'")
+    # accents folded first (Portuguese channel): "água" -> "agua", not "gua"
+    t = unicodedata.normalize("NFKD", t.lower().replace("’", "'"))
+    t = "".join(ch for ch in t if not unicodedata.combining(ch))
     return re.sub(r"[^a-z0-9']", "", t)
 
 
