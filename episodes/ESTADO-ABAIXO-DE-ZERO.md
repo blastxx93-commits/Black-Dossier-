@@ -1,6 +1,7 @@
 # Abaixo de Zero — onde paramos (07/11/2026, pausado a pedido do dono)
 
-## ant01 — Por Que Os Cientistas Temem o Que Existe Sob a Antártida
+## ant01 — Por Que Os Cientistas Temem o Que Existe Sob a Antártida — **RENDERIZADO (07/11, 26:34)**: branch render-ant01-sob-o-gelo
+
 - Pronto: roteiro, narração (voz B, ~26 min, sem falhas), trilha (5 faixas do dono, edit/musica/), fotos/clipes/IA revisados
   (lista em edit/reviewed.json e edit/skip.json), edição em edit/build_ant01.py.
 - Teste local da montagem: 309 planos; faltavam 31 (capítulos 8 e 9: "arquivo" e "thwaites").
