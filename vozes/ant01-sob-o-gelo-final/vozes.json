@@ -1,0 +1,83 @@
+[
+ {
+  "n": 1,
+  "id": "0ba1afd27db44eb2b4cb27fd331b93aa",
+  "nome": "Narrador de Historias e Ciências",
+  "usos": 40613,
+  "likes": 434,
+  "idiomas": "pt",
+  "segundos": 83.2
+ },
+ {
+  "n": 2,
+  "id": "c9d3da0bdf61417d929dc67966e4befe",
+  "nome": "Meu narrador",
+  "usos": 7759,
+  "likes": 193,
+  "idiomas": "pt",
+  "segundos": 86.0
+ },
+ {
+  "n": 3,
+  "id": "df1fa6d2ae194b3ebcbae60df48fde35",
+  "nome": "Narrador Propagandas",
+  "usos": 131460,
+  "likes": 920,
+  "idiomas": "pt",
+  "segundos": 94.1
+ },
+ {
+  "n": 4,
+  "id": "4305c58915854b59aa041c0f4c38afd9",
+  "nome": "Cebolinha",
+  "usos": 9045,
+  "likes": 49,
+  "idiomas": "pt",
+  "segundos": 83.6
+ },
+ {
+  "n": 5,
+  "id": "f34ac2d6b77248aaaf226ca77b7d4487",
+  "nome": "Omni man",
+  "usos": 4343,
+  "likes": 33,
+  "idiomas": "pt",
+  "segundos": 90.7
+ },
+ {
+  "n": 6,
+  "id": "be369df2b7ae48c99a9100049b0f76df",
+  "nome": "Voz fina",
+  "usos": 2544,
+  "likes": 19,
+  "idiomas": "pt",
+  "segundos": 81.4
+ },
+ {
+  "n": 7,
+  "id": "4230ae7151a14d1a8e765fef72202828",
+  "nome": "Garota",
+  "usos": 1895,
+  "likes": 17,
+  "idiomas": "pt",
+  "segundos": 86.3
+ },
+ {
+  "n": 8,
+  "id": "643d45638bd44aeab9b8d3dba1157599",
+  "nome": "Voz Jovem Sunny",
+  "usos": 1522,
+  "likes": 19,
+  "idiomas": "pt",
+  "segundos": 79.9
+ },
+ {
+  "n": 9,
+  "id": "d81d727c80bb4090be79ca5dbd55969b",
+  "nome": "Ayrton Senna",
+  "usos": 1472,
+  "likes": 12,
+  "idiomas": "pt",
+  "segundos": 87.2
+ }
+]
