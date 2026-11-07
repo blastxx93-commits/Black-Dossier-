@@ -91,7 +91,12 @@
   "v_snowfall/2",
   "x_ice_melt/2",
   "x_ice_melt/4",
-  "x_whale/5"
+  "x_whale/5",
+  "v_sunset_ice/2",
+  "v_cracks/1",
+  "v_cracks/2",
+  "v_sunset_ice/3",
+  "v_thwaites/3"
  ],
  "_generic": [
   "v_ice_sheet_aerial/1",
@@ -107,6 +112,19 @@
   "x_penguin_colony/2",
   "x_whale/1",
   "x_whale/2",
-  "x_whale/3"
+  "x_whale/3",
+  "v_ferraz/1",
+  "v_penguins/3",
+  "v_research_ship/1",
+  "v_sunset_ice/1"
+ ],
+ "litoral": [
+  "v_rio/1",
+  "v_rio/3",
+  "v_rio/2",
+  "v_tide_waves/1",
+  "v_recife/3",
+  "v_recife/1",
+  "v_recife/2"
  ]
 }

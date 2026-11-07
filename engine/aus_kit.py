@@ -116,7 +116,9 @@ def _photo(scene, move=None, cap=None, **kw):
 def _clip_file(spec):
     folder, n = spec.split("/")
     fs = [f[2:] for f in sorted(glob.glob(f"a/video/{folder}/{n}_*.mp4"))
-          if not f.endswith(("_archive.mp4", "_commons.mp4"))]
+          if CFG.get("reviewed") is not None or not f.endswith(("_archive.mp4", "_commons.mp4"))]
+    if CFG.get("reviewed") is not None:  # with a reviewed list, only reviewed files count (archive films allowed)
+        fs = [f for f in fs if f in CFG["reviewed"]]
     return fs[0] if fs and fs[0] not in CFG["skip"] else None
 
 
