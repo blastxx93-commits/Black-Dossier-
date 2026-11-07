@@ -13,13 +13,13 @@ AI = lambda *names: ["ai:" + n for n in names]  # noqa: E731
 PHOTOS = {
     "afghan": ["acr_afghanistan", "acr_iraq"] + AI("ai_logar_road", "ai_ally_hand", "ai_base_afghan", "ai_heavy_rifle"),
     "mag": ["ammo_556", "ammo_762"] + AI("ai_mag_mismatch"),
-    "vz58": ["vz58", "vz58_mod", "museum_vz58"] + AI("ai_old_rifles_rack", "ai_worn_rifle"),
+    "vz58": ["vz58", "vz58_mod", "museum_vz58", "x_vz58_more", "x_vz58_soldier", "x_conscripts", "x_czsl_army"] + AI("ai_old_rifles_rack", "ai_worn_rifle"),
     "nato": ["nato_1999", "acr_kosovo", "acr_training"] + AI("ai_soldier_gear"),
-    "army": ["acr_training", "acr_kosovo"] + AI("ai_soldier_gear", "ai_handover"),
-    "bren": ["cz805", "bren2", "optics"] + AI("ai_new_rifles_crates"),
+    "army": ["acr_training", "acr_kosovo", "x_czech_soldiers_vz58", "x_slovak_army", "x_czech_nato"] + AI("ai_soldier_gear", "ai_handover"),
+    "bren": ["cz805", "bren2", "optics", "x_cz805", "x_bren2"] + AI("ai_new_rifles_crates"),
     "factory": ["uh_brod", "colt"] + AI("ai_factory_modern", "ai_design_cad", "ai_meeting_ministry", "ai_feedback"),
     "abroad": ["hungary", "grot"],
-    "ukraine": ["ukraine"] + AI("ai_trucks_ukraine", "ai_trench_vz58", "ai_reserve_storage"),
+    "ukraine": ["ukraine", "x_ukraine_war", "x_ukraine_more"] + AI("ai_trucks_ukraine", "ai_trench_vz58", "ai_reserve_storage"),
     "end": AI("ai_sunset_two_rifles", "ai_handover"),
 }
 CLIPS = json.load(open(os.path.join(HERE, "clips.json")))

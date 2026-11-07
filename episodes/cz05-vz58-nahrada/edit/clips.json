@@ -1,0 +1,19 @@
+{
+ "afghan": [
+  "s_desert_patrol/2",
+  "s_desert_patrol/3",
+  "s_desert_patrol/4",
+  "s_desert_patrol/6"
+ ],
+ "army": [
+  "s_soldier_rifle/1",
+  "s_soldier_rifle/3",
+  "s_soldier_rifle/4",
+  "s_soldier_rifle/6"
+ ],
+ "ukraine": [
+  "s_war/1",
+  "s_war/2"
+ ],
+ "_generic": []
+}

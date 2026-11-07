@@ -1,0 +1,307 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Doc,Inter SemiBold,44,&H0000E6FF,&H0000E6FF,&H00000000,&H96000000,0,0,0,0,100,100,0.5,0,1,2.4,1.2,2,200,200,62,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.23,0:00:01.29,Doc,,0,0,0,,Afghánistán.
+Dialogue: 0,0:00:01.34,0:00:03.70,Doc,,0,0,0,,Prašná cesta v provincii Lógar.
+Dialogue: 0,0:00:03.75,0:00:07.35,Doc,,0,0,0,,Hlídka spojeneckých vojáků\Nse dostane pod palbu.
+Dialogue: 0,0:00:07.40,0:00:12.83,Doc,,0,0,0,,Američan vedle českého vojáka vystřílí\Nposlední zásobník a natáhne ruku.
+Dialogue: 0,0:00:12.88,0:00:14.21,Doc,,0,0,0,,Potřebuje munici.
+Dialogue: 0,0:00:14.26,0:00:14.87,Doc,,0,0,0,,Hned.
+Dialogue: 0,0:00:14.92,0:00:17.59,Doc,,0,0,0,,Český voják mu podá svůj zásobník.
+Dialogue: 0,0:00:17.64,0:00:18.87,Doc,,0,0,0,,A ten nepasuje.
+Dialogue: 0,0:00:18.92,0:00:19.89,Doc,,0,0,0,,Jiný náboj.
+Dialogue: 0,0:00:19.94,0:00:21.13,Doc,,0,0,0,,Jiný tvar.
+Dialogue: 0,0:00:21.18,0:00:21.87,Doc,,0,0,0,,Jiná zbraň.
+Dialogue: 0,0:00:21.92,0:00:23.19,Doc,,0,0,0,,Přesně ta zbraň,
+Dialogue: 0,0:00:23.24,0:00:27.63,Doc,,0,0,0,,kterou Československo kdysi postavilo,\Naby nemuselo poslouchat Moskvu.
+Dialogue: 0,0:00:27.68,0:00:30.07,Doc,,0,0,0,,Tahle scéna je jen ilustrace.
+Dialogue: 0,0:00:30.12,0:00:32.71,Doc,,0,0,0,,Ale problém, který ukazuje, byl skutečný.
+Dialogue: 0,0:00:32.76,0:00:34.90,Doc,,0,0,0,,A česká armáda o něm věděla roky.
+Dialogue: 0,0:00:34.95,0:00:38.43,Doc,,0,0,0,,Samopal vzor padesát\Nosm byl kdysi chloubou.
+Dialogue: 0,0:00:38.48,0:00:41.11,Doc,,0,0,0,,Lehký, přesný, spolehlivý.
+Dialogue: 0,0:00:41.16,0:00:43.21,Doc,,0,0,0,,Generace vojáků ho milovaly.
+Dialogue: 0,0:00:43.26,0:00:45.64,Doc,,0,0,0,,Jenže svět, pro který vznikl, zmizel.
+Dialogue: 0,0:00:45.69,0:00:48.11,Doc,,0,0,0,,Varšavská smlouva se rozpadla,
+Dialogue: 0,0:00:48.16,0:00:52.89,Doc,,0,0,0,,Česká republika vstoupila do NATO a\Nzačala posílat vojáky do misí po boku
+Dialogue: 0,0:00:52.94,0:00:55.11,Doc,,0,0,0,,Američanů, Britů a Francouzů.
+Dialogue: 0,0:00:55.16,0:00:58.01,Doc,,0,0,0,,A najednou se z legendy stal problém.
+Dialogue: 0,0:00:58.06,0:01:02.39,Doc,,0,0,0,,Proč musela česká armáda vyměnit\Nzbraň, na kterou byla tak hrdá?
+Dialogue: 0,0:01:02.44,0:01:06.69,Doc,,0,0,0,,Co přesně bylo na osmapadesátce\Nv jednadvacátém století špatně?
+Dialogue: 0,0:01:06.74,0:01:08.03,Doc,,0,0,0,,A proč se náhrada,
+Dialogue: 0,0:01:08.08,0:01:12.07,Doc,,0,0,0,,na kterou se čekalo přes deset\Nlet, nejdřív setkala s kritikou?
+Dialogue: 0,0:01:12.12,0:01:16.35,Doc,,0,0,0,,Na konci se podíváme i na to,\Nkde osmapadesátka slouží dnes.
+Dialogue: 0,0:01:16.40,0:01:18.48,Doc,,0,0,0,,A proč její příběh zdaleka neskončil.
+Dialogue: 0,0:01:18.53,0:01:20.45,Doc,,0,0,0,,Tohle je příběh o tom,
+Dialogue: 0,0:01:20.50,0:01:24.52,Doc,,0,0,0,,jak česká armáda začala nahrazovat\Nsamopal vzor padesát osm.
+Dialogue: 0,0:01:25.10,0:01:29.49,Doc,,0,0,0,,Vraťme se na chvíli do roku\Ndevatenáct set devadesát devět.
+Dialogue: 0,0:01:29.54,0:01:34.17,Doc,,0,0,0,,Dvanáctého března toho roku vstoupila\NČeská republika do Severoatlantické
+Dialogue: 0,0:01:34.22,0:01:35.13,Doc,,0,0,0,,aliance.
+Dialogue: 0,0:01:35.18,0:01:39.49,Doc,,0,0,0,,Pro zemi, která ještě před deseti\Nlety patřila do Varšavské smlouvy,
+Dialogue: 0,0:01:39.54,0:01:41.63,Doc,,0,0,0,,to byl historický okamžik.
+Dialogue: 0,0:01:41.68,0:01:44.99,Doc,,0,0,0,,Jenže vstup do NATO nebyl\Njen politický podpis.
+Dialogue: 0,0:01:45.04,0:01:49.31,Doc,,0,0,0,,Znamenal, že česká armáda musí\Numět spolupracovat s armádami,
+Dialogue: 0,0:01:49.36,0:01:52.67,Doc,,0,0,0,,které desítky let stály na\Ndruhé straně železné opony.
+Dialogue: 0,0:01:52.72,0:01:55.13,Doc,,0,0,0,,Musí mluvit stejným jazykem,
+Dialogue: 0,0:01:55.18,0:01:58.91,Doc,,0,0,0,,používat stejné postupy,\Nstejné rádiové frekvence.
+Dialogue: 0,0:01:58.96,0:02:01.05,Doc,,0,0,0,,A ideálně i stejnou munici.
+Dialogue: 0,0:02:01.10,0:02:02.53,Doc,,0,0,0,,A tady byl problém.
+Dialogue: 0,0:02:02.58,0:02:07.47,Doc,,0,0,0,,Česká armáda měla výzbroj, která\Nvznikla pro úplně jinou alianci.
+Dialogue: 0,0:02:07.52,0:02:12.81,Doc,,0,0,0,,Samopal vzor padesát osm střílel náboj\Nsedm celých šedesát dva krát třicet
+Dialogue: 0,0:02:12.86,0:02:13.71,Doc,,0,0,0,,devět milimetru.
+Dialogue: 0,0:02:13.76,0:02:17.21,Doc,,0,0,0,,Sovětský standard z\Npoloviny dvacátého století.
+Dialogue: 0,0:02:17.26,0:02:19.48,Doc,,0,0,0,,Armády NATO používaly jiný náboj.
+Dialogue: 0,0:02:19.53,0:02:23.58,Doc,,0,0,0,,Pět celých padesát šest\Nkrát čtyřicet pět milimetru.
+Dialogue: 0,0:02:23.63,0:02:26.21,Doc,,0,0,0,,Lehčí, rychlejší, s jinou balistikou.
+Dialogue: 0,0:02:26.26,0:02:29.13,Doc,,0,0,0,,A k němu zásobníky standardního rozměru,
+Dialogue: 0,0:02:29.18,0:02:32.87,Doc,,0,0,0,,které pasovaly do většiny\Nzápadních útočných pušek.
+Dialogue: 0,0:02:32.92,0:02:36.07,Doc,,0,0,0,,Na papíře to nemusel být velký problém.
+Dialogue: 0,0:02:36.12,0:02:40.35,Doc,,0,0,0,,Česká armáda mohla mít vlastní\Nmunici a vlastní logistiku.
+Dialogue: 0,0:02:40.40,0:02:44.89,Doc,,0,0,0,,Jenže v devadesátých letech začala\Nposílat vojáky do zahraničních misí.
+Dialogue: 0,0:02:44.94,0:02:48.43,Doc,,0,0,0,,Na Balkán, později do\NIráku a Afghánistánu.
+Dialogue: 0,0:02:48.48,0:02:50.99,Doc,,0,0,0,,A tam už se nebojovalo samostatně.
+Dialogue: 0,0:02:51.04,0:02:54.03,Doc,,0,0,0,,Tam se bojovalo bok po boku se spojenci.
+Dialogue: 0,0:02:54.08,0:02:57.83,Doc,,0,0,0,,Čeští vojáci sloužili v Bosně\Na v Kosovu v mírových misích.
+Dialogue: 0,0:02:57.88,0:03:01.65,Doc,,0,0,0,,Později se objevili v Iráku\Na hlavně v Afghánistánu,
+Dialogue: 0,0:03:01.70,0:03:05.65,Doc,,0,0,0,,kde česká armáda dlouhé roky\Npůsobila v různých provinciích.
+Dialogue: 0,0:03:05.70,0:03:09.82,Doc,,0,0,0,,Vedla tam i vlastní provinční\Nrekonstrukční tým a její jednotky chránily
+Dialogue: 0,0:03:09.87,0:03:11.27,Doc,,0,0,0,,základny i konvoje.
+Dialogue: 0,0:03:11.32,0:03:15.21,Doc,,0,0,0,,A všude tam se ukazovalo,\Nže vlastní výzbroj,
+Dialogue: 0,0:03:15.26,0:03:19.44,Doc,,0,0,0,,která se liší od spojenců, je\Nv každodenní práci překážkou.
+Dialogue: 0,0:03:19.49,0:03:23.57,Doc,,0,0,0,,Osmapadesátka, která vznikla\Njako symbol vzdoru vůči Moskvě,
+Dialogue: 0,0:03:23.62,0:03:27.93,Doc,,0,0,0,,se tak paradoxně stala posledním velkým\Nkusem sovětského dědictví v rukou
+Dialogue: 0,0:03:27.98,0:03:29.53,Doc,,0,0,0,,českých vojáků.
+Dialogue: 0,0:03:29.58,0:03:33.50,Doc,,0,0,0,,A čím déle sloužila, tím\Nvíc problémů se objevovalo.
+Dialogue: 0,0:03:34.23,0:03:36.44,Doc,,0,0,0,,Prvním problémem byla munice.
+Dialogue: 0,0:03:36.49,0:03:40.98,Doc,,0,0,0,,V misích se česká jednotka mohla\Nocitnout daleko od vlastních skladů.
+Dialogue: 0,0:03:41.03,0:03:46.48,Doc,,0,0,0,,Pokud došly náboje, nemohla si je jen\Ntak vypůjčit od Američanů nebo Britů.
+Dialogue: 0,0:03:46.53,0:03:49.38,Doc,,0,0,0,,Musela spoléhat na vlastní zásobování,
+Dialogue: 0,0:03:49.43,0:03:53.06,Doc,,0,0,0,,které bylo v odlehlých\Noblastech složité a drahé.
+Dialogue: 0,0:03:53.11,0:03:55.06,Doc,,0,0,0,,Druhým problémem bylo příslušenství.
+Dialogue: 0,0:03:55.11,0:03:59.80,Doc,,0,0,0,,Moderní voják v jednadvacátém\Nstoletí nebojuje jen s holou zbraní.
+Dialogue: 0,0:03:59.85,0:04:02.88,Doc,,0,0,0,,Potřebuje optický zaměřovač, kolimátor,
+Dialogue: 0,0:04:02.93,0:04:06.66,Doc,,0,0,0,,laserový značkovač,\Nsvítilnu, noční vidění.
+Dialogue: 0,0:04:06.71,0:04:10.68,Doc,,0,0,0,,To všechno se na moderní pušky\Nmontuje na takzvané kolejnice,
+Dialogue: 0,0:04:10.73,0:04:15.07,Doc,,0,0,0,,standardizované lišty, na které\Nse dá přidělat téměř cokoli.
+Dialogue: 0,0:04:15.12,0:04:18.48,Doc,,0,0,0,,Osmapadesátka žádné kolejnice neměla.
+Dialogue: 0,0:04:18.53,0:04:22.80,Doc,,0,0,0,,Byla navržena v době, kdy voják\Nmířil jen přes mechanická mířidla.
+Dialogue: 0,0:04:22.85,0:04:28.38,Doc,,0,0,0,,Česká armáda i soukromé firmy sice\Nvyvíjely různé modernizační sady,
+Dialogue: 0,0:04:28.43,0:04:31.60,Doc,,0,0,0,,nové předpažbí s lištami nebo nové pažby.
+Dialogue: 0,0:04:31.65,0:04:36.70,Doc,,0,0,0,,Ale byla to jen záplata na zbrani,\Njejíž základ pocházel z padesátých let.
+Dialogue: 0,0:04:36.75,0:04:38.90,Doc,,0,0,0,,Třetím problémem bylo stáří.
+Dialogue: 0,0:04:38.95,0:04:44.39,Doc,,0,0,0,,Poslední kusy sjely z linky v Uherském\NBrodě v roce devatenáct set osmdesát
+Dialogue: 0,0:04:44.44,0:04:44.96,Doc,,0,0,0,,čtyři.
+Dialogue: 0,0:04:45.01,0:04:50.54,Doc,,0,0,0,,V roce dva tisíce deset tedy i ty\Nnejmladší zbraně měly přes čtvrt století.
+Dialogue: 0,0:04:50.59,0:04:56.22,Doc,,0,0,0,,Hlavně byly opotřebované, pružiny\Nunavené, díly vyměňované znovu a znovu.
+Dialogue: 0,0:04:56.27,0:04:59.13,Doc,,0,0,0,,A čtvrtým problémem byla ergonomie.
+Dialogue: 0,0:04:59.18,0:05:03.68,Doc,,0,0,0,,Osmapadesátka vznikla pro vojáka v\Njednoduché uniformě s pár zásobníky na
+Dialogue: 0,0:05:03.73,0:05:04.80,Doc,,0,0,0,,opasku.
+Dialogue: 0,0:05:04.85,0:05:07.62,Doc,,0,0,0,,Dnešní voják nosí neprůstřelnou vestu,
+Dialogue: 0,0:05:07.67,0:05:10.81,Doc,,0,0,0,,přilbu se sluchátky a\Ndesítky kilogramů výstroje.
+Dialogue: 0,0:05:10.86,0:05:16.24,Doc,,0,0,0,,S pevnou pažbou bez možnosti nastavení\Ndélky se taková zbraň ovládá hůř.
+Dialogue: 0,0:05:16.29,0:05:20.00,Doc,,0,0,0,,Žádný z těch problémů nebyl\Nsám o sobě katastrofou.
+Dialogue: 0,0:05:20.05,0:05:22.70,Doc,,0,0,0,,Ale dohromady vytvořily jasný obraz.
+Dialogue: 0,0:05:22.75,0:05:25.33,Doc,,0,0,0,,Česká armáda potřebovala novou zbraň.
+Dialogue: 0,0:05:26.34,0:05:29.52,Doc,,0,0,0,,Jenže nová zbraň pro\Ncelou armádu není jen tak.
+Dialogue: 0,0:05:29.57,0:05:32.03,Doc,,0,0,0,,Jde o desítky tisíc kusů,
+Dialogue: 0,0:05:32.08,0:05:37.21,Doc,,0,0,0,,obrovské peníze a rozhodnutí, které\Novlivní vojáky na desítky let dopředu.
+Dialogue: 0,0:05:37.26,0:05:41.47,Doc,,0,0,0,,Některé elitní jednotky na\Nproblém reagovaly rychleji.
+Dialogue: 0,0:05:41.52,0:05:46.63,Doc,,0,0,0,,Speciální síly začaly už během prvního\Ndesetiletí nového tisíciletí používat
+Dialogue: 0,0:05:46.68,0:05:48.39,Doc,,0,0,0,,zahraniční zbraně.
+Dialogue: 0,0:05:48.44,0:05:51.53,Doc,,0,0,0,,Například německé pušky\Nnebo americké karabiny,
+Dialogue: 0,0:05:51.58,0:05:53.91,Doc,,0,0,0,,které odpovídaly standardům NATO.
+Dialogue: 0,0:05:53.96,0:05:56.19,Doc,,0,0,0,,Pro malou jednotku to šlo.
+Dialogue: 0,0:05:56.24,0:05:59.07,Doc,,0,0,0,,Pro celou armádu to bylo složitější.
+Dialogue: 0,0:05:59.12,0:06:03.79,Doc,,0,0,0,,Řada lidí v armádě i v politice\Nchtěla, aby nová zbraň byla česká.
+Dialogue: 0,0:06:03.84,0:06:07.67,Doc,,0,0,0,,Česká republika měla vlastní\Nzbrojovku s dlouhou tradicí,
+Dialogue: 0,0:06:07.72,0:06:12.57,Doc,,0,0,0,,v Uherském Brodě, tam, kde se\Nkdysi vyráběla i osmapadesátka.
+Dialogue: 0,0:06:12.62,0:06:15.79,Doc,,0,0,0,,Bylo by zvláštní kupovat\Npušky v zahraničí,
+Dialogue: 0,0:06:15.84,0:06:20.10,Doc,,0,0,0,,když doma stojí továrna, která\Nzbraně vyváží do celého světa.
+Dialogue: 0,0:06:20.15,0:06:23.55,Doc,,0,0,0,,Kolem výběru nové zbraně\Nse vedly dlouhé debaty.
+Dialogue: 0,0:06:23.60,0:06:26.45,Doc,,0,0,0,,Řešila se cena, počet kusů,
+Dialogue: 0,0:06:26.50,0:06:28.41,Doc,,0,0,0,,termíny dodávek i to,
+Dialogue: 0,0:06:28.46,0:06:33.03,Doc,,0,0,0,,jestli má smysl kupovat zbraň, která\Nještě nebyla odzkoušená v boji.
+Dialogue: 0,0:06:33.08,0:06:37.97,Doc,,0,0,0,,Některé zakázky české armády v té\Ndobě provázely spory a podezření.
+Dialogue: 0,0:06:38.02,0:06:43.23,Doc,,0,0,0,,Výběr nové pušky proto sledovala\Nmédia i veřejnost s velkou pozorností.
+Dialogue: 0,0:06:43.28,0:06:47.33,Doc,,0,0,0,,Česká zbrojovka proto začala\Nvyvíjet novou útočnou pušku.
+Dialogue: 0,0:06:47.38,0:06:51.15,Doc,,0,0,0,,Modulární, moderní, postavenou\Npodle požadavků NATO.
+Dialogue: 0,0:06:51.20,0:06:54.23,Doc,,0,0,0,,Měla mít kolejnice na příslušenství,
+Dialogue: 0,0:06:54.28,0:06:59.87,Doc,,0,0,0,,nastavitelnou pažbu a hlavně měla střílet\Nnáboj pět celých padesát šest krát
+Dialogue: 0,0:06:59.92,0:07:01.33,Doc,,0,0,0,,čtyřicet pět milimetru.
+Dialogue: 0,0:07:01.38,0:07:06.05,Doc,,0,0,0,,Zajímavostí bylo, že konstruktéři\Npočítali s možností výměny ráže.
+Dialogue: 0,0:07:06.10,0:07:11.39,Doc,,0,0,0,,Výměnou hlavně a několika dílů se\Nzbraň dala upravit i na jiné náboje.
+Dialogue: 0,0:07:11.44,0:07:15.31,Doc,,0,0,0,,Včetně toho starého, který\Npoužívala osmapadesátka.
+Dialogue: 0,0:07:15.36,0:07:19.13,Doc,,0,0,0,,Kolem roku dva tisíce devět vypsalo\Nministerstvo obrany zakázku.
+Dialogue: 0,0:07:19.18,0:07:23.47,Doc,,0,0,0,,A v ní zvítězila právě\Npuška z Uherského Brodu.
+Dialogue: 0,0:07:23.52,0:07:26.35,Doc,,0,0,0,,Dostala označení CZ osm set pět.
+Dialogue: 0,0:07:26.40,0:07:29.21,Doc,,0,0,0,,A k tomu jméno, které mělo silný zvuk.
+Dialogue: 0,0:07:29.26,0:07:29.84,Doc,,0,0,0,,BREN.
+Dialogue: 0,0:07:29.89,0:07:33.45,Doc,,0,0,0,,Jméno odkazovalo na\Nlegendární kulomet z Brna,
+Dialogue: 0,0:07:33.50,0:07:36.27,Doc,,0,0,0,,který kdysi proslavila britská armáda.
+Dialogue: 0,0:07:36.32,0:07:41.18,Doc,,0,0,0,,Česká zbrojovka tak spojila novou pušku\Ns nejslavnější kapitolou české zbrojní
+Dialogue: 0,0:07:41.23,0:07:41.95,Doc,,0,0,0,,historie.
+Dialogue: 0,0:07:42.00,0:07:45.29,Doc,,0,0,0,,Jenže začátky nové pušky\Nrozhodně nebyly tak slavné,
+Dialogue: 0,0:07:45.34,0:07:47.30,Doc,,0,0,0,,jak by si zbrojovka přála.
+Dialogue: 0,0:07:47.96,0:07:53.05,Doc,,0,0,0,,V roce dva tisíce jedenáct začala\Nčeská armáda nové pušky přebírat.
+Dialogue: 0,0:07:53.10,0:07:56.87,Doc,,0,0,0,,První je dostali vojáci,\Nkteří odjížděli do misí.
+Dialogue: 0,0:07:56.92,0:08:00.05,Doc,,0,0,0,,A brzy se začaly ozývat\Nprvní hlasy kritiky.
+Dialogue: 0,0:08:00.10,0:08:03.82,Doc,,0,0,0,,Podle dobových zpráv si vojáci\Nstěžovali hlavně na hmotnost.
+Dialogue: 0,0:08:03.87,0:08:08.34,Doc,,0,0,0,,CZ osm set pět byla výrazně\Ntěžší než osmapadesátka.
+Dialogue: 0,0:08:08.39,0:08:13.09,Doc,,0,0,0,,Prázdná vážila podle dostupných\Núdajů kolem tří a půl kilogramu,
+Dialogue: 0,0:08:13.14,0:08:16.15,Doc,,0,0,0,,tedy zhruba o půl kilogramu\Nvíc než stará zbraň.
+Dialogue: 0,0:08:16.20,0:08:20.89,Doc,,0,0,0,,Pro vojáka, který ji nosí celý\Nden v horku a prachu Afghánistánu,
+Dialogue: 0,0:08:20.94,0:08:22.55,Doc,,0,0,0,,to byl znatelný rozdíl.
+Dialogue: 0,0:08:22.60,0:08:27.13,Doc,,0,0,0,,Objevily se i výtky k ergonomii\Na k některým detailům konstrukce.
+Dialogue: 0,0:08:27.18,0:08:30.95,Doc,,0,0,0,,Část médií psala o problémech\Nse spolehlivostí a o tom,
+Dialogue: 0,0:08:31.00,0:08:35.07,Doc,,0,0,0,,že armáda převzala zbraň, která\Nještě nebyla úplně odladěná.
+Dialogue: 0,0:08:35.12,0:08:40.85,Doc,,0,0,0,,Zbrojovka i ministerstvo některé výtky\Nodmítaly, jiné uznaly a slíbily úpravy.
+Dialogue: 0,0:08:40.90,0:08:45.27,Doc,,0,0,0,,Je potřeba říct, že podobné problémy\Nmívá téměř každá nová zbraň.
+Dialogue: 0,0:08:45.32,0:08:50.25,Doc,,0,0,0,,Když britská armáda zavedla svou\Nnovou pušku v osmdesátých letech,
+Dialogue: 0,0:08:50.30,0:08:55.31,Doc,,0,0,0,,čelila tak tvrdé kritice, že ji\Nnakonec musela zásadně přepracovat.
+Dialogue: 0,0:08:55.36,0:08:59.77,Doc,,0,0,0,,Americká armáda zažila vlnu stížností\Nna svou novou pušku ve Vietnamu.
+Dialogue: 0,0:08:59.82,0:09:03.89,Doc,,0,0,0,,Nová zbraň v rukou tisíců\Nvojáků prostě odhalí věci,
+Dialogue: 0,0:09:03.94,0:09:06.39,Doc,,0,0,0,,které na střelnici nikdo nenajde.
+Dialogue: 0,0:09:06.44,0:09:09.45,Doc,,0,0,0,,Čeští vojáci si mezitím\Npomáhali, jak uměli.
+Dialogue: 0,0:09:09.50,0:09:15.31,Doc,,0,0,0,,Upravovali výstroj, kupovali si\Nvlastní doplňky a sdíleli zkušenosti s
+Dialogue: 0,0:09:15.36,0:09:15.89,Doc,,0,0,0,,ostatními.
+Dialogue: 0,0:09:15.94,0:09:20.05,Doc,,0,0,0,,Zpětná vazba z misí se postupně\Ndostávala až do Uherského Brodu.
+Dialogue: 0,0:09:20.10,0:09:23.05,Doc,,0,0,0,,A tam ji konstruktéři brali vážně,
+Dialogue: 0,0:09:23.10,0:09:27.09,Doc,,0,0,0,,protože věděli, že pověst\Nnové zbraně rozhodne o tom,
+Dialogue: 0,0:09:27.14,0:09:30.21,Doc,,0,0,0,,jestli ji budou chtít\Ni zahraniční zákazníci.
+Dialogue: 0,0:09:30.26,0:09:32.61,Doc,,0,0,0,,Česká zbrojovka zareagovala.
+Dialogue: 0,0:09:32.66,0:09:38.11,Doc,,0,0,0,,Pušku upravovala, vznikla vylepšená verze\Na hlavně se začalo pracovat na úplně
+Dialogue: 0,0:09:38.16,0:09:39.45,Doc,,0,0,0,,nové generaci.
+Dialogue: 0,0:09:39.50,0:09:43.81,Doc,,0,0,0,,Lehčí, jednodušší, poučené\Nze zkušeností z misí.
+Dialogue: 0,0:09:43.86,0:09:48.36,Doc,,0,0,0,,A zatímco se v Uherském Brodě\Nvyvíjel nástupce nástupce,
+Dialogue: 0,0:09:48.41,0:09:50.01,Doc,,0,0,0,,osmapadesátka dál sloužila.
+Dialogue: 0,0:09:50.06,0:09:51.75,Doc,,0,0,0,,U většiny armády.
+Dialogue: 0,0:09:51.80,0:09:55.62,Doc,,0,0,0,,Protože nahradit desítky\Ntisíc zbraní nejde přes noc.
+Dialogue: 0,0:09:56.34,0:10:00.51,Doc,,0,0,0,,Než se podíváme, jak to\Ncelé dopadlo, krátká prosba.
+Dialogue: 0,0:10:00.56,0:10:04.83,Doc,,0,0,0,,Pokud vás tahle historie baví,\Ndejte odběr a zapněte zvoneček.
+Dialogue: 0,0:10:04.88,0:10:07.41,Doc,,0,0,0,,Je to zdarma a pomáhá to kanálu růst.
+Dialogue: 0,0:10:07.46,0:10:09.09,Doc,,0,0,0,,A teď zpátky.
+Dialogue: 0,0:10:09.14,0:10:13.54,Doc,,0,0,0,,V roce dva tisíce šestnáct představila\NČeská zbrojovka novou pušku.
+Dialogue: 0,0:10:13.59,0:10:15.03,Doc,,0,0,0,,CZ BREN dva.
+Dialogue: 0,0:10:15.08,0:10:18.05,Doc,,0,0,0,,Na první pohled vypadala\Npodobně jako předchůdce,
+Dialogue: 0,0:10:18.10,0:10:20.23,Doc,,0,0,0,,ale pod povrchem se změnilo hodně.
+Dialogue: 0,0:10:20.28,0:10:24.63,Doc,,0,0,0,,Byla lehčí, jednodušší a\Nvycházela ze zkušeností vojáků,
+Dialogue: 0,0:10:24.68,0:10:27.11,Doc,,0,0,0,,kteří s první verzí sloužili v misích.
+Dialogue: 0,0:10:27.16,0:10:29.91,Doc,,0,0,0,,Pro českou armádu to byl zlomový moment.
+Dialogue: 0,0:10:29.96,0:10:33.55,Doc,,0,0,0,,Ministerstvo obrany začalo\Nnakupovat BREN dva ve velkém.
+Dialogue: 0,0:10:33.60,0:10:36.17,Doc,,0,0,0,,Postupně je dostávaly bojové jednotky,
+Dialogue: 0,0:10:36.22,0:10:39.54,Doc,,0,0,0,,výsadkáři, průzkumníci\Ni mechanizované prapory.
+Dialogue: 0,0:10:39.59,0:10:43.33,Doc,,0,0,0,,Osmapadesátky odcházely do\Nskladů a k záložním jednotkám.
+Dialogue: 0,0:10:43.38,0:10:45.61,Doc,,0,0,0,,A tady přichází zajímavý obrat.
+Dialogue: 0,0:10:45.66,0:10:47.61,Doc,,0,0,0,,BREN dva neuspěl jen doma.
+Dialogue: 0,0:10:47.66,0:10:52.85,Doc,,0,0,0,,Zbraň z Uherského Brodu začaly kupovat\Ni zahraniční armády a bezpečnostní
+Dialogue: 0,0:10:52.90,0:10:53.69,Doc,,0,0,0,,složky.
+Dialogue: 0,0:10:53.74,0:10:58.65,Doc,,0,0,0,,Podle dostupných zpráv ji převzaly i\Nelitní jednotky ve Francii a Maďarsko se
+Dialogue: 0,0:10:58.70,0:11:03.19,Doc,,0,0,0,,rozhodlo pušky z rodiny BREN vyrábět\Nv licenci pro vlastní armádu.
+Dialogue: 0,0:11:03.24,0:11:06.81,Doc,,0,0,0,,Česká zbrojovka se tak během\Npár let dostala z pozice firmy,
+Dialogue: 0,0:11:06.86,0:11:09.61,Doc,,0,0,0,,která čelí kritice za první verzi pušky,
+Dialogue: 0,0:11:09.66,0:11:13.07,Doc,,0,0,0,,do pozice výrobce, kterého\Nsi vybírají armády NATO.
+Dialogue: 0,0:11:13.12,0:11:16.97,Doc,,0,0,0,,Příběh, který začal ostudou,\Nskončil vývozním úspěchem.
+Dialogue: 0,0:11:17.02,0:11:19.47,Doc,,0,0,0,,Ale co se stalo s osmapadesátkami?
+Dialogue: 0,0:11:19.52,0:11:24.87,Doc,,0,0,0,,Desítky tisíc zbraní, které generace\Nvojáků nosily na cvičení i ve službě.
+Dialogue: 0,0:11:24.92,0:11:25.40,Doc,,0,0,0,,Kam zmizely?
+Dialogue: 0,0:11:25.45,0:11:28.69,Doc,,0,0,0,,Odpověď přišla v únoru\Ndva tisíce dvacet dva.
+Dialogue: 0,0:11:28.74,0:11:32.10,Doc,,0,0,0,,A byla úplně jiná, než by kdokoli čekal.
+Dialogue: 0,0:11:32.75,0:11:38.90,Doc,,0,0,0,,Dvacátého čtvrtého února dva tisíce\Ndvacet dva zaútočilo Rusko na Ukrajinu.
+Dialogue: 0,0:11:38.95,0:11:44.06,Doc,,0,0,0,,Během několika dní se Evropa probudila\Ndo války, jakou neviděla desítky let.
+Dialogue: 0,0:11:44.11,0:11:46.48,Doc,,0,0,0,,Ukrajina potřebovala zbraně.
+Dialogue: 0,0:11:46.53,0:11:48.36,Doc,,0,0,0,,Rychle a ve velkém.
+Dialogue: 0,0:11:48.41,0:11:53.22,Doc,,0,0,0,,A Česká republika patřila mezi\Nprvní země, které začaly pomáhat.
+Dialogue: 0,0:11:53.27,0:11:57.94,Doc,,0,0,0,,Podle dostupných zpráv odešly na\NUkrajinu i samopaly vzor padesát osm ze
+Dialogue: 0,0:11:57.99,0:11:59.36,Doc,,0,0,0,,skladů české armády.
+Dialogue: 0,0:11:59.41,0:12:04.82,Doc,,0,0,0,,Najednou se ukázalo, že stará\Nosmapadesátka má jednu obrovskou výhodu.
+Dialogue: 0,0:12:04.87,0:12:06.62,Doc,,0,0,0,,Střílí sovětský náboj.
+Dialogue: 0,0:12:06.67,0:12:10.70,Doc,,0,0,0,,Ten samý, který Ukrajina měla ve\Nskladech v obrovském množství.
+Dialogue: 0,0:12:10.75,0:12:14.00,Doc,,0,0,0,,Zbraň, která byla v NATO\Nproblémem kvůli munici,
+Dialogue: 0,0:12:14.05,0:12:16.90,Doc,,0,0,0,,byla na Ukrajině výhodou\Nprávě kvůli munici.
+Dialogue: 0,0:12:16.95,0:12:21.84,Doc,,0,0,0,,Na fotografiích z ukrajinské fronty\Nse tak objevovali vojáci se zbraní,
+Dialogue: 0,0:12:21.89,0:12:26.40,Doc,,0,0,0,,kterou Československo postavilo v\Npadesátých letech jako odpověď Moskvě.
+Dialogue: 0,0:12:26.45,0:12:31.55,Doc,,0,0,0,,A znovu stála proti armádě, která\Nji kdysi chtěla mít pod kontrolou.
+Dialogue: 0,0:12:31.60,0:12:36.16,Doc,,0,0,0,,Ukrajinští vojáci podle dostupných\Nsvědectví oceňovali hlavně to,
+Dialogue: 0,0:12:36.21,0:12:41.84,Doc,,0,0,0,,že je osmapadesátka lehká a že se\Nsnadno ovládá i po krátkém výcviku.
+Dialogue: 0,0:12:41.89,0:12:43.27,Doc,,0,0,0,,Pro tisíce dobrovolníků,
+Dialogue: 0,0:12:43.32,0:12:47.32,Doc,,0,0,0,,kteří v prvních týdnech války\Nbrali zbraň do ruky poprvé,
+Dialogue: 0,0:12:47.37,0:12:49.10,Doc,,0,0,0,,to byla velká výhoda.
+Dialogue: 0,0:12:49.15,0:12:52.40,Doc,,0,0,0,,Stará zbraň z Uherského\NBrodu tak znovu dokázala,
+Dialogue: 0,0:12:52.45,0:12:57.88,Doc,,0,0,0,,že dobře navržená konstrukce dokáže\Nsloužit i desítky let po svém vzniku.
+Dialogue: 0,0:12:57.93,0:13:00.78,Doc,,0,0,0,,Je v tom zvláštní historická symetrie.
+Dialogue: 0,0:13:00.83,0:13:04.18,Doc,,0,0,0,,Zbraň, kterou Praha odmítla\Nnahradit kalašnikovem,
+Dialogue: 0,0:13:04.23,0:13:07.04,Doc,,0,0,0,,aby si zachovala kus nezávislosti,
+Dialogue: 0,0:13:07.09,0:13:10.46,Doc,,0,0,0,,nakonec pomáhala bránit\Nnezávislost jiné země.
+Dialogue: 0,0:13:10.51,0:13:16.32,Doc,,0,0,0,,Doma mezitím osmapadesátky dál slouží\Nv aktivní záloze a u některých útvarů.
+Dialogue: 0,0:13:16.37,0:13:20.18,Doc,,0,0,0,,Vojáci, kteří s nimi začínali,\Nje dnes předávají mladším.
+Dialogue: 0,0:13:20.23,0:13:24.32,Doc,,0,0,0,,Ale jejich čas v první\Nlinii české armády skončil.
+Dialogue: 0,0:13:24.37,0:13:29.24,Doc,,0,0,0,,Jenže otázka, proč je armáda vlastně\Nnahradila, má ještě jednu vrstvu.
+Dialogue: 0,0:13:29.29,0:13:31.11,Doc,,0,0,0,,Tu si nechám na konec.
+Dialogue: 0,0:13:31.75,0:13:35.28,Doc,,0,0,0,,Když se podíváte na příběh\Nnáhrady osmapadesátky,
+Dialogue: 0,0:13:35.33,0:13:40.04,Doc,,0,0,0,,snadno byste mohli dojít k závěru,\Nže stará zbraň byla prostě špatná.
+Dialogue: 0,0:13:40.09,0:13:42.60,Doc,,0,0,0,,Že ji armáda měla vyměnit dávno.
+Dialogue: 0,0:13:42.65,0:13:44.35,Doc,,0,0,0,,Jenže to by byl omyl.
+Dialogue: 0,0:13:44.40,0:13:47.88,Doc,,0,0,0,,Osmapadesátka nebyla\Nnahrazena, protože by selhala.
+Dialogue: 0,0:13:47.93,0:13:51.38,Doc,,0,0,0,,Byla nahrazena, protože\Nse změnil svět kolem ní.
+Dialogue: 0,0:13:51.43,0:13:54.56,Doc,,0,0,0,,Byla navržena pro armádu\NVaršavské smlouvy,
+Dialogue: 0,0:13:54.61,0:13:56.84,Doc,,0,0,0,,pro boj na území střední Evropy,
+Dialogue: 0,0:13:56.89,0:13:59.70,Doc,,0,0,0,,pro vojáka bez optiky a\Nbez neprůstřelné vesty.
+Dialogue: 0,0:13:59.75,0:14:02.04,Doc,,0,0,0,,V tom světě byla výborná.
+Dialogue: 0,0:14:02.09,0:14:04.64,Doc,,0,0,0,,Lehká, spolehlivá, přesná.
+Dialogue: 0,0:14:04.69,0:14:08.76,Doc,,0,0,0,,Vydržela víc než půl století\Na sloužila v tolika situacích,
+Dialogue: 0,0:14:08.81,0:14:11.20,Doc,,0,0,0,,že by se o ní dala napsat celá kniha.
+Dialogue: 0,0:14:11.25,0:14:14.32,Doc,,0,0,0,,Česká armáda ale dnes žije v jiném světě.
+Dialogue: 0,0:14:14.37,0:14:15.45,Doc,,0,0,0,,Bojuje v alianci.
+Dialogue: 0,0:14:15.50,0:14:18.98,Doc,,0,0,0,,Sdílí munici, postupy\Ni zbraně se spojenci.
+Dialogue: 0,0:14:19.03,0:14:22.36,Doc,,0,0,0,,Používá optiku, noční\Nvidění a moderní komunikaci.
+Dialogue: 0,0:14:22.41,0:14:27.92,Doc,,0,0,0,,A v tomhle světě stará zbraň prostě\Nnemohla obstát, ať byla jakkoli dobrá.
+Dialogue: 0,0:14:27.97,0:14:30.58,Doc,,0,0,0,,Česká republika přitom nebyla jediná.
+Dialogue: 0,0:14:30.63,0:14:34.94,Doc,,0,0,0,,Podobnou cestou prošly i další\Nzemě bývalého východního bloku.
+Dialogue: 0,0:14:34.99,0:14:40.18,Doc,,0,0,0,,Polsko vyvinulo vlastní moderní pušku a\Npostupně jí nahrazuje své kalašnikovy.
+Dialogue: 0,0:14:40.23,0:14:45.86,Doc,,0,0,0,,Podle dostupných zpráv se i slovenská\Narmáda rozhodla pro pušky z rodiny BREN.
+Dialogue: 0,0:14:45.91,0:14:49.48,Doc,,0,0,0,,Celý region, který kdysi\Nstřílel sovětskými náboji,
+Dialogue: 0,0:14:49.53,0:14:53.26,Doc,,0,0,0,,se během dvaceti let přestěhoval\Ndo světa standardů NATO.
+Dialogue: 0,0:14:53.31,0:14:57.26,Doc,,0,0,0,,Je to podobné, jako když\Nvyměníte spolehlivé staré auto.
+Dialogue: 0,0:14:57.31,0:14:58.29,Doc,,0,0,0,,Nebylo špatné.
+Dialogue: 0,0:14:58.34,0:15:02.46,Doc,,0,0,0,,Jen už neodpovídá tomu, co\Nod auta dnes potřebujete.
+Dialogue: 0,0:15:02.51,0:15:04.44,Doc,,0,0,0,,A je tu ještě jedna věc.
+Dialogue: 0,0:15:04.49,0:15:08.96,Doc,,0,0,0,,Náhrada osmapadesátky nakonec přinesla\Nčeskému zbrojnímu průmyslu nový
+Dialogue: 0,0:15:09.01,0:15:09.52,Doc,,0,0,0,,rozmach.
+Dialogue: 0,0:15:09.57,0:15:14.62,Doc,,0,0,0,,Česká zbrojovka se díky zakázce pro\Nvlastní armádu stala jedním z významných
+Dialogue: 0,0:15:14.67,0:15:17.34,Doc,,0,0,0,,dodavatelů zbraní pro země NATO.
+Dialogue: 0,0:15:17.39,0:15:21.70,Doc,,0,0,0,,A její skupina dnes vlastní i\Nlegendární americkou firmu Colt.
+Dialogue: 0,0:15:21.75,0:15:25.02,Doc,,0,0,0,,Takže zatímco osmapadesátka\Nodchází do historie,
+Dialogue: 0,0:15:25.07,0:15:29.59,Doc,,0,0,0,,firma, která ji kdysi vyráběla,\Nje silnější než kdy předtím.
+Dialogue: 0,0:15:30.27,0:15:34.90,Doc,,0,0,0,,Proč tedy česká armáda začala\Nnahrazovat samopal vzor padesát osm?
+Dialogue: 0,0:15:34.95,0:15:38.11,Doc,,0,0,0,,Protože střílel jiný\Nnáboj než spojenci v NATO.
+Dialogue: 0,0:15:38.16,0:15:41.05,Doc,,0,0,0,,Protože neměl kolejnice\Nna moderní příslušenství.
+Dialogue: 0,0:15:41.10,0:15:46.76,Doc,,0,0,0,,Protože poslední kusy byly vyrobené\Nv roce devatenáct set osmdesát čtyři.
+Dialogue: 0,0:15:46.81,0:15:49.06,Doc,,0,0,0,,A protože dnešní voják s vestou,
+Dialogue: 0,0:15:49.11,0:15:53.86,Doc,,0,0,0,,přilbou a optikou potřebuje jinou\Nzbraň než voják z dob studené války.
+Dialogue: 0,0:15:53.91,0:15:56.02,Doc,,0,0,0,,Náhrada ale nebyla jednoduchá.
+Dialogue: 0,0:15:56.07,0:15:58.52,Doc,,0,0,0,,První verze nové pušky čelila kritice.
+Dialogue: 0,0:15:58.57,0:16:02.26,Doc,,0,0,0,,Trvalo roky, než se zbrojovka\Npoučila a přišla s verzí,
+Dialogue: 0,0:16:02.31,0:16:05.02,Doc,,0,0,0,,kterou si vybírají i zahraniční armády.
+Dialogue: 0,0:16:05.07,0:16:08.12,Doc,,0,0,0,,A ani dnes osmapadesátka úplně nezmizela.
+Dialogue: 0,0:16:08.17,0:16:11.92,Doc,,0,0,0,,Je to příběh o tom, že i ta\Nnejlepší zbraň má svůj čas.
+Dialogue: 0,0:16:11.97,0:16:15.40,Doc,,0,0,0,,A že konec jedné legendy\Nmůže být začátkem druhé.
+Dialogue: 0,0:16:15.45,0:16:18.92,Doc,,0,0,0,,Možná za padesát let bude\Nněkdo natáčet video o tom,
+Dialogue: 0,0:16:18.97,0:16:21.72,Doc,,0,0,0,,proč česká armáda nahrazuje BREN dva.
+Dialogue: 0,0:16:21.77,0:16:24.46,Doc,,0,0,0,,A možná bude ten příběh stejně zajímavý.
+Dialogue: 0,0:16:24.51,0:16:26.22,Doc,,0,0,0,,Teď je řada na vás.
+Dialogue: 0,0:16:26.27,0:16:29.68,Doc,,0,0,0,,Sloužili jste s osmapadesátkou,\Nnebo už s BRENem?
+Dialogue: 0,0:16:29.73,0:16:33.34,Doc,,0,0,0,,Napište do komentářů, kterou\Nzbraň máte radši a proč.
+Dialogue: 0,0:16:33.39,0:16:35.62,Doc,,0,0,0,,Zajímají mě vaše zkušenosti.
+Dialogue: 0,0:16:35.67,0:16:41.02,Doc,,0,0,0,,A pokud chcete vidět další příběhy\Nzbraní, které změnily dějiny, dejte odběr.
+Dialogue: 0,0:16:41.07,0:16:45.68,Doc,,0,0,0,,Příště se podíváme na legendární\Nsovětskou pušku Dragunov a na to,
+Dialogue: 0,0:16:45.73,0:16:48.44,Doc,,0,0,0,,jakou roli vlastně měla v sovětské armádě.
+Dialogue: 0,0:16:48.49,0:16:50.09,Doc,,0,0,0,,Díky, že jste se dívali.
