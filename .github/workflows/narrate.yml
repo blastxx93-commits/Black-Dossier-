@@ -86,6 +86,29 @@ jobs:
         if: ${{ inputs.voice_test == '' && hashFiles(format('out/{0}/audio/*.mp3', inputs.episode)) != '' }}
         # idioma do episódio: arquivo episodes/<ep>/lang (ex.: "pt" no canal Antártica); sem ele, inglês
         run: python3 main/agent/transcribe.py "out/${{ inputs.episode }}/audio" "out/${{ inputs.episode }}/words" --lang "$(cat main/episodes/${{ inputs.episode }}/lang 2>/dev/null || echo en)"
+      - name: Conferir falhas da voz e regravar (até 2 vezes)
+        if: ${{ inputs.voice_test == '' && hashFiles(format('out/{0}/audio/*.mp3', inputs.episode)) != '' }}
+        working-directory: main
+        env:
+          FISH_API_KEY: ${{ secrets.FISH_API_KEY }}
+          FISH_VOICE_ID: ${{ inputs.provider != 'eleven' && inputs.voice != '' && inputs.voice || secrets.FISH_VOICE_ID }}
+          FISH_MODEL: ${{ inputs.provider != 'eleven' && inputs.model != '' && inputs.model || vars.FISH_MODEL }}
+          TTS_PROVIDER: ${{ inputs.provider }}
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          ELEVEN_VOICE_ID: ${{ inputs.provider == 'eleven' && inputs.voice || '' }}
+          ELEVEN_MODEL: ${{ inputs.provider == 'eleven' && inputs.model || '' }}
+        run: |
+          EP="${{ inputs.episode }}"; L="$(cat episodes/$EP/lang 2>/dev/null || echo en)"
+          for k in 1 2; do
+            BAD=$(python3 agent/check_narration.py "../out/$EP/words")
+            [ -z "$BAD" ] && { echo "narração sem falhas"; break; }
+            echo "regravando: $BAD (tentativa $k)"
+            python3 agent/tts.py "$EP" --out ../out --only "$BAD" --speed "${{ inputs.speed }}" 2>&1 | tee -a "../out/$EP/tts_log.txt"
+            mkdir -p ../redo && rm -f ../redo/*.mp3
+            for c in ${BAD//,/ }; do cp "../out/$EP/audio/$c.mp3" ../redo/; done
+            python3 agent/transcribe.py ../redo "../out/$EP/words" --lang "$L"
+          done
+          python3 agent/check_narration.py "../out/$EP/words" > "../out/$EP/falhas_voz.txt" || true
       - name: Guardar cópia (backup)
         if: ${{ !cancelled() && inputs.voice_test == '' }}
         uses: actions/upload-artifact@v4
