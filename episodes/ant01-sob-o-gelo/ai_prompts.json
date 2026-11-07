@@ -447,6 +447,86 @@
   {
    "id": "ai_x_final_horizon",
    "prompt": "An endless white Antarctic horizon at golden hour with soft wind-blown snow, cinematic"
+  },
+  {
+   "id": "ai_y_scott_march",
+   "prompt": "Five polar explorers of 1912 in beige canvas windproofs and fur mittens walking in a line across an endless white ice shelf, seen from far behind, no faces"
+  },
+  {
+   "id": "ai_y_scott_flag",
+   "prompt": "A small tattered Norwegian-style tent with a dark flag standing alone at the South Pole, 1911, flat white horizon, no text"
+  },
+  {
+   "id": "ai_y_sledge_tracks",
+   "prompt": "Long wooden sledge tracks disappearing into a white haze on an ice shelf, grey light, melancholic"
+  },
+  {
+   "id": "ai_y_rescue_cairn",
+   "prompt": "A snow cairn with a pair of crossed skis on top on a vast white plain, 1912, memorial, overcast"
+  },
+  {
+   "id": "ai_y_museum_fossil",
+   "prompt": "A grey fossil rock with tongue-shaped leaf imprints displayed on a dark museum table under a spotlight, no labels"
+  },
+  {
+   "id": "ai_y_gondwana_land",
+   "prompt": "An ancient lush supercontinent landscape with rivers and conifer forests 250 million years ago, aerial view, misty"
+  },
+  {
+   "id": "ai_y_jurassic_river",
+   "prompt": "An early Jurassic river valley with tall conifers and ferns, mild climate, a large dinosaur silhouette far away in the mist"
+  },
+  {
+   "id": "ai_y_core_lab_drill",
+   "prompt": "A sediment core being pulled out of a drilling pipe on a ship's deck at night, floodlights, ice outside, no faces"
+  },
+  {
+   "id": "ai_y_snow_falling_plateau",
+   "prompt": "Fine snow falling gently on the flat Antarctic plateau at dusk, soft blue light"
+  },
+  {
+   "id": "ai_y_ice_core_slice",
+   "prompt": "A thin slice of ancient clear ice held up to the light, tiny bubbles visible, cold blue background, gloved fingertips only"
+  },
+  {
+   "id": "ai_y_meteorite_field",
+   "prompt": "Several small dark meteorites scattered on a wind-polished blue ice field, mountains far away, Antarctica"
+  },
+  {
+   "id": "ai_y_mars_rock_lab",
+   "prompt": "A small dark rock in a sterile glass case in a laboratory clean room, blue light, no people, no text"
+  },
+  {
+   "id": "ai_y_glacier_flow_aerial",
+   "prompt": "Aerial view of a huge Antarctic glacier flowing between mountains toward the sea, crevasse fields, golden light"
+  },
+  {
+   "id": "ai_y_ice_shelf_edge",
+   "prompt": "The edge of a floating ice shelf seen from a ship, a towering white cliff over dark water, small icebergs"
+  },
+  {
+   "id": "ai_y_seawater_under",
+   "prompt": "Underwater view of seawater flowing into a narrow gap beneath grounded glacier ice, sediment swirling, dim blue light"
+  },
+  {
+   "id": "ai_y_satellite_ice_loss",
+   "prompt": "A radar satellite above West Antarctica at dawn, the ice sheet glowing below, realistic"
+  },
+  {
+   "id": "ai_y_rio_sunset",
+   "prompt": "Aerial view of a Brazilian beach city with mountains and a long sandy beach at sunset, high-rise buildings, calm sea"
+  },
+  {
+   "id": "ai_y_northeast_coast",
+   "prompt": "Aerial view of a tropical Brazilian coastal city with palm trees, reef and tall buildings along the shore, sunny"
+  },
+  {
+   "id": "ai_y_station_bay",
+   "prompt": "A small modern green-and-white research station complex on the rocky shore of an Antarctic bay with a glacier behind, plain walls, no text, no flags"
+  },
+  {
+   "id": "ai_y_scientist_ice",
+   "prompt": "A scientist in a red parka seen from behind kneeling on blue ice, taking a sample with a small drill, Antarctic mountains far away, no face"
   }
  ]
 }
