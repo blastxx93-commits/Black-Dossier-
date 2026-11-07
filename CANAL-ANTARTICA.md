@@ -58,23 +58,26 @@ O Claude cuida de temas, roteiro, narração e edição; o dono só dá o aval e
 - Fórmulas: "Por Que É Impossível [X] na Antártica" · "O Que Existe Debaixo do Gelo da Antártica" · "O [Coisa] Que [Paradoxo]".
 - Até ~70 caracteres, termo mais buscado no começo (ver agente Palavras-chave com idioma pt e país br). 3 opções para teste A/B.
 
-## Thumbnails (2 por vídeo, teste A/B)
-- A: imagem real ou IA impactante do tema (ex.: corte do gelo com o lago embaixo), 2–4 palavras grandes, uma em laranja.
-- B: mapa/globo estilizado da Antártica com seta ou destaque + pergunta curta.
+## Thumbnails
+- **O dono faz as thumbnails** (07/11/2026). O Claude entrega sugestões de texto (2–4 palavras, complementando o título, sem repeti-lo)
+  e de imagem de fundo para cada vídeo.
 
-## Pauta inicial (ordem sugerida)
-1. O que existe debaixo do gelo da Antártica (lagos, montanhas, cachoeira de sangue) — **ant01, roteiro pronto**
-2. Por que é (quase) proibido ir para a Antártica — Tratado Antártico, quem pode ir e como
-3. Os animais que sobrevivem no lugar mais frio da Terra (peixe de sangue transparente, foca-de-weddell, pinguim-imperador)
-4. O navio Endurance: achado 107 anos depois a 3 mil metros de profundidade
-5. O que aconteceria se todo o gelo da Antártica derretesse (e o que muda no litoral do Brasil)
-6. Monte Erebus: o vulcão de lava sob o gelo que solta poeira de ouro
-7. A Geleira do Juízo Final (Thwaites) por dentro
-8. Quem é o dono da Antártica? Os 7 países que reivindicam o continente
-9. O Brasil na Antártica: a estação que pegou fogo e renasceu
-10. Como é passar um inverno inteiro na Antártica (6 meses de noite)
-11. Os mitos da Antártica: o que é verdade e o que é teoria da conspiração
-12. A Corrida ao Polo Sul: Amundsen x Scott
+## Pauta (atualizada em 07/11/2026, ordem sugerida)
+1. ant01 — Por Que Os Cientistas Temem o Que Existe Sob a Antártida (lagos, montanhas, cachoeira de sangue, Thwaites) — **em produção**
+2. ant02 — Por que ninguém pode ir para a Antártida (tratado, regras, Rogozov, 2048) — **roteiro pronto, aguardando aval**
+3. Os animais que sobrevivem no lugar mais frio da Terra (peixe de sangue transparente, foca-de-weddell, pinguim-imperador, tardígrados)
+4. O navio Endurance: achado 107 anos depois a 3 mil metros de profundidade (Shackleton)
+5. O que aconteceria se todo o gelo da Antártida derretesse (e o mapa do Brasil depois disso)
+6. A Corrida ao Polo Sul: Amundsen x Scott (a vitória e a tragédia)
+7. Monte Erebus: o vulcão de lava sob o gelo que solta poeira de ouro
+8. Quem é o dono da Antártida? Os 7 países que reivindicam o continente
+9. O Brasil na Antártida: a estação que pegou fogo e renasceu
+10. Como é passar um inverno inteiro na Antártida (6 meses de noite)
+11. Os mitos da Antártida: o que é verdade e o que é teoria da conspiração (Operação Highjump, "base nazista", "muralha de gelo")
+12. O iceberg gigante A23a: o maior do mundo, preso por 30 anos e à deriva
+13. A Geleira do Juízo Final (Thwaites) por dentro
+14. Os Vales Secos: o lugar sem neve onde a NASA treina para Marte
+15. A anomalia de Wilkes Land: existe uma cratera gigante sob o gelo?
 
 ## Produção (mesmos agentes do repositório, branch deste canal)
 - Episódios em `episodes/antNN-<tema>/` com o arquivo `lang` = `pt` (transcrição em português).
