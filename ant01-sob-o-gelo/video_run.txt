@@ -1,171 +1,238 @@
 [     0s] ant01-sob-o-gelo: 16 planos de video
-[     1s]   v_meteorite / nasa: 0 filmes para 'meteorite antarctica'
-[     3s]   v_meteorite / commons: 0 filmes para 'meteorite antarctica'
-[     4s]   v_meteorite / nasa: 0 filmes para 'ANSMET meteorite'
-[     5s]   v_meteorite / commons: 0 filmes para 'ANSMET meteorite'
-[     9s]   v_meteor_space / nasa: 8 filmes para 'meteor space'
-[     9s]   v_meteor_space / pexels: 0 filmes para 'meteor space'
-[    10s]   v_meteor_space / pixabay: 12 filmes para 'meteor space'
-[    21s]     + 1_nasa.mp4 de "What's Up: October 2026 Skywatching Tips from NASA" a partir de 57s
-[    31s]     trecho escuro em 72s, tentando mais adiante
-[    41s]     + 2_nasa.mp4 de "What's Up: August 2021 Skywatching Tips from NASA" a partir de 113s
-[    43s]   v_mars_planet / nasa: 2 filmes para 'mars planet rotating'
-[    43s]   v_mars_planet / pexels: 0 filmes para 'mars planet rotating'
-[    44s]   v_mars_planet / pixabay: 12 filmes para 'mars planet rotating'
-[    60s]     + 1_nasa.mp4 de 'Inside KSC! for July. 24, 2020' a partir de 52s
-[    68s]     + 2_nasa.mp4 de 'NASA Science Live: The Science Behind Your Favorite Planet B' a partir de 1148s
-[    81s]   v_thwaites / svs: 5 filmes para 'Thwaites Glacier'
-[    83s]   v_thwaites / nasa: 0 filmes para 'Thwaites Glacier'
-[    88s]     + 1_svs.mp4 de 'Antarctic Ice Mass Loss 2002-2025' a partir de 18s
-[    96s]     + 2_svs.mp4 de 'Antarctic Ocean Flows: an excerpt from Atlas of a Changing E' a partir de 40s
-[   107s]     + 3_svs.mp4 de 'Antarctic Ocean Flows: an excerpt from Atlas of a Changing E' a partir de 44s
-[   116s]     + 4_svs.mp4 de 'BedMachine: A high-precision map of Antarctic ice sheet bed ' a partir de 66s
-[   134s]   v_ice_loss / svs: 5 filmes para 'antarctica ice mass loss'
-[   135s]   v_ice_loss / nasa: 1 filmes para 'antarctica ice mass loss'
-[   141s]     + 1_svs.mp4 de 'GRACE and GRACE-FO polar ice mass loss' a partir de 18s
-[   146s]     + 2_svs.mp4 de 'ICESat-2 Land Ice Height Change' a partir de 8s
-[   153s]     + 3_svs.mp4 de 'Global Temperature Anomalies from 1880 to 2019' a partir de 11s
-[   173s]   v_ocean_warm / svs: 4 filmes para 'ocean warming antarctica'
-[   174s]   v_ocean_warm / nasa: 0 filmes para 'ocean warming antarctica'
-[   183s]     + 1_svs.mp4 de 'What NASA Knows from Decades of Earth System Observations' a partir de 288s
-[   197s]   v_ocean_warm / svs: 6 filmes para 'warm water ice shelf'
-[   198s]   v_ocean_warm / nasa: 0 filmes para 'warm water ice shelf'
-[   204s]     + 2_svs.mp4 de 'ICESat-2 Land Ice Height Change (2020-2025)' a partir de 8s
-[   204s]   v_tide_waves / pexels: 0 filmes para 'waves ice shelf'
-[   205s]   v_tide_waves / pixabay: 9 filmes para 'waves ice shelf'
-[   206s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=waves+ice+shelf&page_size=8&urls=true&api_key=e46f0775805a10c2dd34
-[   206s]   v_tide_waves / coverr: 0 filmes para 'waves ice shelf'
-[   225s]     + 1_pixabay.mp4 de 'sea, beach, waves' a partir de 15s
-[   229s]     + 2_pixabay.mp4 de 'soap bubble, freeze, winter, cold, freezing, ice cream, froz' a partir de 14s
-[   246s]     + 3_pixabay.mp4 de 'waterfall, ice, water, melting, cold, spring, landscape, nat' a partir de 0s
-[   247s]   v_icefin / nasa: 0 filmes para 'Icefin robot'
-[   249s]   v_icefin / commons: 0 filmes para 'Icefin robot'
-[   250s]   v_icefin / svs: 0 filmes para 'Icefin robot'
-[   251s]   v_icefin / nasa: 0 filmes para 'underwater robot under ice'
-[   252s]   v_icefin / commons: 0 filmes para 'underwater robot under ice'
-[   253s]   v_icefin / svs: 0 filmes para 'underwater robot under ice'
-[   253s]   v_cracks / pexels: 0 filmes para 'ice cracking'
-[   255s]   v_cracks / pixabay: 8 filmes para 'ice cracking'
-[   256s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=ice+cracking&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444a
-[   256s]   v_cracks / coverr: 0 filmes para 'ice cracking'
+[     0s]   x_glacier_drone / pexels: 0 filmes para 'glacier drone aerial'
+[     1s]   x_glacier_drone / pixabay: 12 filmes para 'glacier drone aerial'
+[     2s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=glacier+drone+aerial&page_size=8&urls=true&api_key=e46f0775805a10c
+[     2s]   x_glacier_drone / coverr: 0 filmes para 'glacier drone aerial'
+[     9s]     + 1_pixabay.mp4 de 'mountain, glacier, snow, slope, swiss, nature, alps, aerial,' a partir de 0s
+[    17s]     trecho escuro em 8s, tentando mais adiante
+[    23s]     trecho escuro em 8s, tentando mais adiante
+[    28s]     + 2_pixabay.mp4 de 'trees, leaves, foliage, sunlight, mountain, glacier, snow, s' a partir de 10s
+[    38s]     + 3_pixabay.mp4 de 'mountain, glacier, snow, slope, swiss, nature, alps, aerial,' a partir de 0s
+[    45s]     + 4_pixabay.mp4 de 'mountain, glacier, snow, slope, swiss, nature, alps, aerial,' a partir de 8s
+[    46s]     trecho escuro em 8s, tentando mais adiante
+[    47s]     trecho escuro em 8s, tentando mais adiante
+[    54s]     + 5_pixabay.mp4 de 'mountains, lakes, waterfalls, dolomites, alps, forests, rive' a partir de 10s
+[    54s]   x_iceberg_drone / pexels: 0 filmes para 'iceberg drone'
+[    56s]   x_iceberg_drone / pixabay: 12 filmes para 'iceberg drone'
+[    56s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=iceberg+drone&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444
+[    56s]   x_iceberg_drone / coverr: 0 filmes para 'iceberg drone'
+[    71s]     + 1_pixabay.mp4 de 'drone, landscape, green, greenland, iceberg, sea, arctic, ic' a partir de 8s
+[    79s]     + 2_pixabay.mp4 de 'glacier, lagoon, iceland, iceberg, landscape, nature, cold, ' a partir de 8s
+[    87s]     + 3_pixabay.mp4 de 'lagoon, glacier, iceland, landscape, iceberg, arctic, water,' a partir de 8s
+[    87s]     trecho escuro em 21s, tentando mais adiante
+[    87s]     trecho escuro em 33s, tentando mais adiante
+[    88s]     trecho escuro em 8s, tentando mais adiante
+[    89s]     trecho escuro em 13s, tentando mais adiante
+[    93s]     + 4_pixabay.mp4 de 'iceberg, arctic, drone, transparent, water, nature, ocean, i' a partir de 18s
+[    94s]     trecho escuro em 0s, tentando mais adiante
+[    94s]     trecho escuro em 0s, tentando mais adiante
+[   104s]     + 5_pixabay.mp4 de 'greenland, giant iceberg, arctic, icebergs, massive ice, gla' a partir de 0s
+[   104s]   x_antarctica / pexels: 0 filmes para 'antarctica'
+[   105s]   x_antarctica / pixabay: 11 filmes para 'antarctica'
+[   106s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=antarctica&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa8
+[   106s]   x_antarctica / coverr: 0 filmes para 'antarctica'
+[   115s]     trecho escuro em 8s, tentando mais adiante
+[   124s]     trecho escuro em 8s, tentando mais adiante
+[   129s]     + 1_pixabay.mp4 de 'penguin, nature, animal, wildlife, fauna, winter, birds, sno' a partir de 10s
+[   134s]     + 2_pixabay.mp4 de 'antarctica, map, global, international, earth, world, oceani' a partir de 8s
+[   145s]     + 3_pixabay.mp4 de 'mountains, ice, iceberg, snow, cold, frozen, winter, antarct' a partir de 8s
+[   152s]     + 4_pixabay.mp4 de 'glaciers, ice, ocean, icebergs, winter, cold, antarctica' a partir de 0s
+[   158s]     + 5_pixabay.mp4 de 'icebergs, antarctica, ice, arctic, cold, glacier, sea, winte' a partir de 22s
+[   158s]   x_penguin_colony / pexels: 0 filmes para 'penguin colony'
+[   159s]   x_penguin_colony / pixabay: 12 filmes para 'penguin colony'
+[   159s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=penguin+colony&page_size=8&urls=true&api_key=e46f0775805a10c2dd344
+[   159s]   x_penguin_colony / coverr: 0 filmes para 'penguin colony'
+[   165s]     + 1_pixabay.mp4 de 'south africa, cape town, boulder beach, penguin, colony, vie' a partir de 0s
+[   165s]     trecho escuro em 8s, tentando mais adiante
+[   166s]     trecho escuro em 13s, tentando mais adiante
+[   175s]     + 2_pixabay.mp4 de 'penguin, snow, ice, winter, cold, antarctica, wildlife, natu' a partir de 17s
+[   175s]     trecho escuro em 0s, tentando mais adiante
+[   181s]     + 3_pixabay.mp4 de 'ring colony, ring, space colony, universe, humans, future, e' a partir de 0s
+[   185s]     + 4_pixabay.mp4 de 'planet, mars, surface, astronauts, red planet, mars colony, ' a partir de 0s
+[   186s]     trecho escuro em 0s, tentando mais adiante
+[   191s]     + 5_pixabay.mp4 de 'base march, colony, space colony, mars colony, terraformatio' a partir de 0s
+[   191s]   x_snow_mountain / pexels: 0 filmes para 'snow mountain aerial'
+[   192s]   x_snow_mountain / pixabay: 12 filmes para 'snow mountain aerial'
+[   193s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=snow+mountain+aerial&page_size=8&urls=true&api_key=e46f0775805a10c
+[   193s]   x_snow_mountain / coverr: 0 filmes para 'snow mountain aerial'
+[   199s]     trecho escuro em 8s, tentando mais adiante
+[   204s]     trecho escuro em 8s, tentando mais adiante
+[   208s]     trecho escuro em 9s, tentando mais adiante
+[   209s]     trecho escuro em 15s, tentando mais adiante
+[   223s]     + 1_pixabay.mp4 de 'road, snow, pickup, aerial, landscape, winter, mountains, hi' a partir de 8s
+[   237s]     + 2_pixabay.mp4 de 'road, snow, pickup, aerial, landscape, winter, mountains, hi' a partir de 8s
+[   247s]     + 3_pixabay.mp4 de 'mountains, rocks, snow, winter, cold, snowfall, snowy, hill,' a partir de 8s
+[   256s]     + 4_pixabay.mp4 de 'mountain, snow, winter, travel, outdoor, nature, hill, peak,' a partir de 8s
+[   264s]     trecho escuro em 8s, tentando mais adiante
 [   271s]     trecho escuro em 8s, tentando mais adiante
-[   286s]     trecho escuro em 8s, tentando mais adiante
-[   297s]     + 1_pixabay.mp4 de 'ice, ice cracks, frozen body of water, beautiful ice, frozen' a partir de 10s
-[   297s]     trecho escuro em 0s, tentando mais adiante
-[   298s]     trecho escuro em 0s, tentando mais adiante
-[   317s]     + 2_pixabay.mp4 de 'ice, ice bubbles, beautiful ice, cracks in the ice, thick cl' a partir de 0s
-[   318s]     trecho escuro em 0s, tentando mais adiante
-[   332s]     + 3_pixabay.mp4 de 'ai generated, volcano, polar, ice, fire, eruption, arctic, g' a partir de 0s
-[   332s]   v_rio / pexels: 0 filmes para 'Rio de Janeiro aerial beach'
-[   334s]   v_rio / pixabay: 12 filmes para 'Rio de Janeiro aerial beach'
-[   335s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=Rio+de+Janeiro+aerial+beach&page_size=8&urls=true&api_key=e46f0775
-[   335s]   v_rio / coverr: 0 filmes para 'Rio de Janeiro aerial beach'
-[   343s]     + 1_pixabay.mp4 de 'beach, sea, rio de janeiro, copacabana, brazil' a partir de 9s
-[   363s]     + 2_pixabay.mp4 de 'hang gliding, paragliding, adrenaline, extreme sports, fligh' a partir de 8s
-[   363s]     trecho escuro em 0s, tentando mais adiante
-[   371s]     + 3_pixabay.mp4 de 'island, ocean, sea, beach, piratininga beach, sugarloaf moun' a partir de 0s
-[   371s]   v_recife / pexels: 0 filmes para 'Recife aerial'
-[   372s]   v_recife / pixabay: 12 filmes para 'Recife aerial'
-[   373s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=Recife+aerial&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444
-[   373s]   v_recife / coverr: 0 filmes para 'Recife aerial'
-[   385s]     + 1_pixabay.mp4 de 'city, bridge, rush hour, billboards, downtown, panoramic, 4k' a partir de 12s
-[   395s]     + 2_pixabay.mp4 de 'city, urban, rush hour, billboards, downtown, panoramic, 4k,' a partir de 12s
-[   408s]     + 3_pixabay.mp4 de 'city, urban, rush hour, billboards, downtown, panoramic, 4k,' a partir de 9s
-[   408s]   v_coast_flood / pexels: 0 filmes para 'coastal flooding'
-[   409s]   v_coast_flood / pixabay: 11 filmes para 'coastal flooding'
-[   410s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=coastal+flooding&page_size=8&urls=true&api_key=e46f0775805a10c2dd3
-[   410s]   v_coast_flood / coverr: 0 filmes para 'coastal flooding'
-[   410s]     trecho escuro em 8s, tentando mais adiante
-[   411s]     trecho escuro em 8s, tentando mais adiante
-[   412s]     trecho escuro em 0s, tentando mais adiante
-[   412s]     trecho escuro em 0s, tentando mais adiante
-[   425s]     + 1_pixabay.mp4 de 'tree roots, autumn forest, autumn, bank of the volga river, ' a partir de 0s
-[   425s]     trecho escuro em 0s, tentando mais adiante
-[   440s]     + 2_pixabay.mp4 de 'autumn forest, tree roots, autumn, bank of the volga river, ' a partir de 0s
-[   441s]   v_ferraz / commons: 10 filmes para 'Estação Antártica Comandante Ferraz'
-[   441s]   v_ferraz / pexels: 0 filmes para 'Estação Antártica Comandante Ferraz'
-[   443s]   v_ferraz / pixabay: 11 filmes para 'Estação Antártica Comandante Ferraz'
-[   443s]     trecho escuro em 54s, tentando mais adiante
-[   444s]     trecho escuro em 85s, tentando mais adiante
-[   444s]     corte falhou (Inc%C3%AAndio_atinge_base_militar_cient%C3%ADfica_): a_Esta%C3%A7%C3%A3o_Ant%C3%A1rtica_Comandante_Ferraz.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
-Error opening input files: Server returned 429 Too Many Requests
-[   444s]     corte falhou (R%242_milh%C3%B5es_ser%C3%A3o_investidos_em_labora): a_esta%C3%A7%C3%A3o_ant%C3%A1rtica_Comandante_Ferraz.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
-Error opening input files: Server returned 429 Too Many Requests
-[   444s]     corte falhou (Brasil_quer_construir_a_base_cient%C3%ADfica_Esta%): %C3%A7%C3%A3o_Comandante_Ferraz%2C_na_Ant%C3%A1rtica.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
-Error opening input files: Server returned 429 Too Many Requests
-[   444s]     corte falhou (Equipe_da_TV_NBR_mostra_a_detalhes_da_Esta%C3%A7%C): %A3o_de_Pesquisa_Comandante_Ferraz_na_Ant%C3%A1rtica.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
-Error opening input files: Server returned 429 Too Many Requests
-[   444s]     corte falhou (Governo_Federal_inaugura_nova_infraestrutura_de_te): C3%A7%C3%B5es_da_Esta%C3%A7%C3%A3o_Comandante_Ferraz.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
-Error opening input files: Server returned 429 Too Many Requests
-[   444s]     corte falhou (BrasilNaAntartica-_Nova_Esta%C3%A7%C3%A3o_Comandan): sta%C3%A7%C3%A3o_Comandante_Ferraz_-_Epis%C3%B3dio_6.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
-Error opening input files: Server returned 429 Too Many Requests
-[   445s]     corte falhou (BrasilNaAntartica-_Nova_Esta%C3%A7%C3%A3o_Comandan): sta%C3%A7%C3%A3o_Comandante_Ferraz_-_Epis%C3%B3dio_7.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
-Error opening input files: Server returned 429 Too Many Requests
-[   445s]     corte falhou (-BrasilNaAntartica-_Nova_Esta%C3%A7%C3%A3o_Comanda): sta%C3%A7%C3%A3o_Comandante_Ferraz_-_Epis%C3%B3dio_4.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
-Error opening input files: Server returned 429 Too Many Requests
-[   445s]     corte falhou (-BrasilNaAntartica-_Nova_Esta%C3%A7%C3%A3o_Comanda): 3%A7%C3%A3o_Comandante_Ferraz_-_Entrevista_exclusiva.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
-Error opening input files: Server returned 429 Too Many Requests
-[   445s]     corte falhou (-BrasilNaAntartica-_Nova_Esta%C3%A7%C3%A3o_Comanda): ta%C3%A7%C3%A3o_Comandante_Ferraz_-_Epis%C3%B3dio_10.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
-Error opening input files: Server returned 429 Too Many Requests
-[   445s]     trecho escuro em 0s, tentando mais adiante
-[   456s]     + 1_pixabay.mp4 de 'penguins, birds, snow, ice, frozen, nature, antartica, water' a partir de 0s
-[   468s]     trecho escuro em 8s, tentando mais adiante
-[   480s]     trecho escuro em 8s, tentando mais adiante
-[   487s]     + 2_pixabay.mp4 de 'penguin, nature, animal, wildlife, fauna, winter, birds, sno' a partir de 10s
-[   487s]   v_penguins / pexels: 0 filmes para 'penguins antarctica'
-[   488s]   v_penguins / pixabay: 12 filmes para 'penguins antarctica'
-[   489s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=penguins+antarctica&page_size=8&urls=true&api_key=e46f0775805a10c2
-[   489s]   v_penguins / coverr: 0 filmes para 'penguins antarctica'
-[   497s]     + 1_pixabay.mp4 de 'zoo, aquarium, exhibit, penguins, fish, underwater, water, n' a partir de 10s
-[   503s]     + 2_pixabay.mp4 de 'penguin, nature, wildlife, bird, animal, fauna, ornithology,' a partir de 0s
-[   513s]     + 3_pixabay.mp4 de 'penguin, baby penguin, animal, wildlife, arctic, antarctica,' a partir de 8s
-[   513s]   v_research_ship / pexels: 0 filmes para 'icebreaker ship antarctica'
-[   514s]   v_research_ship / pixabay: 11 filmes para 'icebreaker ship antarctica'
-[   515s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=icebreaker+ship+antarctica&page_size=8&urls=true&api_key=e46f07758
-[   515s]   v_research_ship / coverr: 0 filmes para 'icebreaker ship antarctica'
-[   524s]     + 1_pixabay.mp4 de 'icebergs, antarctica, ice, arctic, cold, glacier, sea, winte' a partir de 22s
-[   532s]     + 2_pixabay.mp4 de 'cruise ship, cruises, harbour, ship, sea, port, transport, c' a partir de 8s
-[   539s]     + 3_pixabay.mp4 de 'ship, lake, clouds, heaven, shipping, cloud formation' a partir de 20s
-[   539s]   v_sunset_ice / pexels: 0 filmes para 'sunset antarctica ice'
-[   540s]   v_sunset_ice / pixabay: 12 filmes para 'sunset antarctica ice'
-[   541s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=sunset+antarctica+ice&page_size=8&urls=true&api_key=e46f0775805a10
-[   541s]   v_sunset_ice / coverr: 0 filmes para 'sunset antarctica ice'
-[   550s]     + 1_pixabay.mp4 de 'sunset, antarctica, landscape, ocean, water, snow, clouds, i' a partir de 0s
-[   551s]     trecho escuro em 12s, tentando mais adiante
-[   551s]     trecho escuro em 19s, tentando mais adiante
-[   552s]     trecho escuro em 8s, tentando mais adiante
-[   553s]     trecho escuro em 10s, tentando mais adiante
-[   565s]     + 2_pixabay.mp4 de 'glacier, ice, sunset, river, channel, melting, evaporation, ' a partir de 14s
-[   566s]     trecho escuro em 12s, tentando mais adiante
-[   566s]     trecho escuro em 19s, tentando mais adiante
-[   567s]     trecho escuro em 8s, tentando mais adiante
-[   574s]     + 3_pixabay.mp4 de 'iceberg, ice, glacier, arctic, antarctica, ocean, sea, water' a partir de 10s
+[   287s]     + 5_pixabay.mp4 de 'mountains, snow, trees, forest, alps, autumn, aerial, aerial' a partir de 8s
+[   287s]   x_ice_texture / pexels: 0 filmes para 'ice texture closeup'
+[   289s]   x_ice_texture / pixabay: 9 filmes para 'ice texture closeup'
+[   289s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=ice+texture+closeup&page_size=8&urls=true&api_key=e46f0775805a10c2
+[   289s]   x_ice_texture / coverr: 0 filmes para 'ice texture closeup'
+[   290s]     trecho escuro em 0s, tentando mais adiante
+[   294s]     + 1_pixabay.mp4 de 'summer, kakigori, shaved ice, dessert, ice, syrup, strawberr' a partir de 0s
+[   297s]     + 2_pixabay.mp4 de 'soap bubble, freeze, winter, cold, freezing, ice cream, froz' a partir de 14s
+[   308s]     + 3_pixabay.mp4 de 'waterfall, ice, water, melting, cold, spring, landscape, nat' a partir de 0s
+[   312s]     + 4_pixabay.mp4 de 'soap bubble, freeze, crystal formation, crystals, ice crysta' a partir de 8s
+[   313s]     trecho escuro em 8s, tentando mais adiante
+[   313s]     trecho escuro em 10s, tentando mais adiante
+[   320s]     + 5_pixabay.mp4 de 'cold, winter, snow, nature, ice, cliff, landscape, rural, bl' a partir de 0s
+[   320s]   x_aurora / pexels: 0 filmes para 'aurora australis'
+[   321s]   x_aurora / pixabay: 12 filmes para 'aurora australis'
+[   322s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=aurora+australis&page_size=8&urls=true&api_key=e46f0775805a10c2dd3
+[   322s]   x_aurora / coverr: 0 filmes para 'aurora australis'
+[   323s]     trecho escuro em 0s, tentando mais adiante
+[   323s]     trecho escuro em 0s, tentando mais adiante
+[   332s]     + 1_pixabay.mp4 de 'aurora, northern lights, night sky, glow, waves, stars, pola' a partir de 0s
+[   333s]     trecho escuro em 0s, tentando mais adiante
+[   341s]     + 2_pixabay.mp4 de 'aurora, northern lights, night sky, glow, waves, stars, pola' a partir de 0s
+[   342s]     trecho escuro em 0s, tentando mais adiante
+[   350s]     trecho escuro em 0s, tentando mais adiante
+[   358s]     + 3_pixabay.mp4 de 'aurora, northern lights, night sky, glow, waves, stars, pola' a partir de 0s
+[   358s]     trecho escuro em 0s, tentando mais adiante
+[   358s]     trecho escuro em 0s, tentando mais adiante
+[   368s]     + 4_pixabay.mp4 de 'aurora, northern lights, night sky, glow, waves, stars, pola' a partir de 0s
+[   374s]     + 5_pixabay.mp4 de 'aurora borealis, northern lights, atmosphere, nature, earth ' a partir de 10s
+[   374s]   x_polar_ship / pexels: 0 filmes para 'icebreaker ship ice'
+[   375s]   x_polar_ship / pixabay: 9 filmes para 'icebreaker ship ice'
+[   376s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=icebreaker+ship+ice&page_size=8&urls=true&api_key=e46f0775805a10c2
+[   376s]   x_polar_ship / coverr: 0 filmes para 'icebreaker ship ice'
+[   381s]     + 1_pixabay.mp4 de 'cruise ship, cruises, harbour, ship, sea, port, transport, c' a partir de 8s
+[   386s]     + 2_pixabay.mp4 de 'ship, lake, clouds, heaven, shipping, cloud formation' a partir de 20s
+[   392s]     + 3_pixabay.mp4 de 'hong kong, cruise, harbour, transport, aerial video, ocean, ' a partir de 27s
+[   404s]     + 4_pixabay.mp4 de 'bridge, terminal, architecture, traffic, cargo, lights, city' a partir de 11s
+[   404s]   x_polar_ship / pexels: 0 filmes para 'ship in sea ice'
+[   405s]   x_polar_ship / pixabay: 10 filmes para 'ship in sea ice'
+[   406s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=ship+in+sea+ice&page_size=8&urls=true&api_key=e46f0775805a10c2dd34
+[   406s]   x_polar_ship / coverr: 0 filmes para 'ship in sea ice'
+[   415s]     + 5_pixabay.mp4 de 'ship, vessel, sea, boat, ocean, water, port, transport, suns' a partir de 8s
+[   415s]   x_crevasse / pexels: 0 filmes para 'crevasse glacier'
+[   416s]   x_crevasse / pixabay: 12 filmes para 'crevasse glacier'
+[   417s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=crevasse+glacier&page_size=8&urls=true&api_key=e46f0775805a10c2dd3
+[   417s]   x_crevasse / coverr: 0 filmes para 'crevasse glacier'
+[   417s]     trecho escuro em 14s, tentando mais adiante
+[   418s]     trecho escuro em 21s, tentando mais adiante
+[   427s]     + 1_pixabay.mp4 de 'arctic, glacier, ice, underwater, cave, exploration, diving,' a partir de 13s
+[   434s]     + 2_pixabay.mp4 de 'mountain, mount, drone, glacier, alpine, landscape, nature, ' a partir de 8s
+[   444s]     trecho escuro em 8s, tentando mais adiante
+[   455s]     trecho escuro em 8s, tentando mais adiante
+[   471s]     + 3_pixabay.mp4 de 'aletsch glacier, glacier, landscape, eternal ice, ice stream' a partir de 13s
+[   482s]     + 4_pixabay.mp4 de 'geology, nature, landscape, canyon, cliff, volcano, travel, ' a partir de 8s
+[   495s]     + 5_pixabay.mp4 de 'glacier express, bernina express, rhb, lake, lago bianco, be' a partir de 8s
+[   495s]   x_ice_melt / pexels: 0 filmes para 'ice melting water drops'
+[   496s]   x_ice_melt / pixabay: 11 filmes para 'ice melting water drops'
+[   497s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=ice+melting+water+drops&page_size=8&urls=true&api_key=e46f0775805a
+[   497s]   x_ice_melt / coverr: 0 filmes para 'ice melting water drops'
+[   497s]     trecho escuro em 0s, tentando mais adiante
+[   502s]     + 1_pixabay.mp4 de 'ice, water, snow, drop, winter, relax, cold, nature, drops, ' a partir de 0s
+[   503s]     trecho escuro em 10s, tentando mais adiante
+[   503s]     trecho escuro em 16s, tentando mais adiante
+[   504s]     trecho escuro em 0s, tentando mais adiante
+[   505s]     trecho escuro em 0s, tentando mais adiante
+[   510s]     + 2_pixabay.mp4 de 'iceland, ireland, antarctic, ice, ice melting, polar ice, ic' a partir de 19s
+[   514s]     + 3_pixabay.mp4 de 'snow, melt, water, cold, ice cream, nature, black, white, fr' a partir de 22s
+[   519s]     + 4_pixabay.mp4 de 'glacier, melting, water, whooshing, snowmelt, melt water, sn' a partir de 8s
+[   528s]     + 5_pixabay.mp4 de 'ink, paint, water, acrylic, smoke, watercolor, abstract, dro' a partir de 21s
+[   528s]   x_underwater_ice / pexels: 0 filmes para 'underwater ice'
+[   529s]   x_underwater_ice / pixabay: 12 filmes para 'underwater ice'
+[   530s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=underwater+ice&page_size=8&urls=true&api_key=e46f0775805a10c2dd344
+[   530s]   x_underwater_ice / coverr: 0 filmes para 'underwater ice'
+[   536s]     + 1_pixabay.mp4 de 'ai generated, lake, winter, ice, rocks, bubbles, underwater,' a partir de 0s
+[   536s]     trecho escuro em 8s, tentando mais adiante
+[   536s]     trecho escuro em 11s, tentando mais adiante
+[   544s]     + 2_pixabay.mp4 de 'ice, glacier, underwater, canyon, water, arctic, frozen, col' a partir de 15s
+[   545s]     trecho escuro em 8s, tentando mais adiante
+[   545s]     trecho escuro em 13s, tentando mais adiante
+[   552s]     + 3_pixabay.mp4 de 'ai generated, iceberg, ice, ocean, waves, sunset, underwater' a partir de 17s
+[   552s]     trecho escuro em 0s, tentando mais adiante
+[   559s]     + 4_pixabay.mp4 de 'ice, underwater, cave, arctic, frozen, blue, glacier, twilig' a partir de 0s
+[   559s]     trecho escuro em 11s, tentando mais adiante
+[   560s]     trecho escuro em 17s, tentando mais adiante
+[   571s]     + 5_pixabay.mp4 de 'ai generated, underwater, temple, ocean, ice, cave, ruins, a' a partir de 23s
+[   571s]   x_snow_wind / pexels: 0 filmes para 'snow blowing wind'
+[   572s]   x_snow_wind / pixabay: 12 filmes para 'snow blowing wind'
+[   573s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=snow+blowing+wind&page_size=8&urls=true&api_key=e46f0775805a10c2dd
+[   573s]   x_snow_wind / coverr: 0 filmes para 'snow blowing wind'
+[   578s]     + 1_pixabay.mp4 de 'mountains, blizzard, winter, peak, ridge, cold, freezing, wi' a partir de 8s
+[   585s]     + 2_pixabay.mp4 de 'sky, wind, blow, clouds, snow, ice, cold, weather, winter, a' a partir de 12s
+[   592s]     + 3_pixabay.mp4 de 'wheat, wheat field, nature, agriculture, field, summer, grai' a partir de 10s
+[   599s]     trecho escuro em 9s, tentando mais adiante
+[   606s]     trecho escuro em 14s, tentando mais adiante
+[   611s]     + 4_pixabay.mp4 de 'smoke, steam, dust, fire, background, orange, blowing, wind,' a partir de 20s
+[   618s]     trecho escuro em 8s, tentando mais adiante
+[   626s]     trecho escuro em 8s, tentando mais adiante
+[   639s]     + 5_pixabay.mp4 de 'sakura, white sakura, blossom, bloom, wind, blowing in the w' a partir de 8s
+[   639s]   x_seal / pexels: 0 filmes para 'seal on ice'
+[   641s]   x_seal / pixabay: 8 filmes para 'seal on ice'
+[   641s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=seal+on+ice&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa
+[   641s]   x_seal / coverr: 0 filmes para 'seal on ice'
+[   657s]     + 1_pixabay.mp4 de 'watercourse, ice formations, frost, water, cold, winter, ice' a partir de 14s
+[   675s]     + 2_pixabay.mp4 de 'watercourse, ice formations, frost, water, cold, winter, ice' a partir de 14s
+[   693s]     + 3_pixabay.mp4 de 'watercourse, ice formations, frost, water, cold, winter, ice' a partir de 14s
+[   699s]     + 4_pixabay.mp4 de 'seal, baby seal, mammal, beach, sand, sea, animal, nature' a partir de 0s
+[   706s]     + 5_pixabay.mp4 de 'seal, swimming, pool, zoo, animal, harbor seal, mammal' a partir de 19s
+[   706s]   x_whale / pexels: 0 filmes para 'whale antarctica'
+[   707s]   x_whale / pixabay: 11 filmes para 'whale antarctica'
+[   708s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=whale+antarctica&page_size=8&urls=true&api_key=e46f0775805a10c2dd3
+[   708s]   x_whale / coverr: 0 filmes para 'whale antarctica'
+[   712s]     + 1_pixabay.mp4 de 'blue whale, whale, ocean, underwater, fauna' a partir de 8s
+[   724s]     + 2_pixabay.mp4 de 'whale, animal, ocean, wildlife, sea, safari, nature' a partir de 0s
+[   734s]     + 3_pixabay.mp4 de 'iceberg, ice, water, antarctica, sea, cold, ocean, glacier, ' a partir de 0s
+[   739s]     + 4_pixabay.mp4 de 'australia, map, geography, earth, world, globe, asia, africa' a partir de 8s
+[   739s]     trecho escuro em 0s, tentando mais adiante
+[   745s]     + 5_pixabay.mp4 de 'sunset, antarctica, landscape, ocean, water, snow, clouds, i' a partir de 0s
+[   745s]   x_sunset_snow / pexels: 0 filmes para 'sunset snow mountains'
+[   747s]   x_sunset_snow / pixabay: 12 filmes para 'sunset snow mountains'
+[   747s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=sunset+snow+mountains&page_size=8&urls=true&api_key=e46f0775805a10
+[   747s]   x_sunset_snow / coverr: 0 filmes para 'sunset snow mountains'
+[   756s]     + 1_pixabay.mp4 de 'sunrise, mountain village, mountains, snow, fog, snow landsc' a partir de 8s
+[   764s]     + 2_pixabay.mp4 de 'cello, instrument, peak, mountain, landscape, nature, succes' a partir de 0s
+[   772s]     + 3_pixabay.mp4 de 'sunset, pine trees, forest, winter, mountain, snow, sunrays,' a partir de 11s
+[   778s]     + 4_pixabay.mp4 de 'mountain, volcano, snow, sunset, tokyo, fuji, lake, asian, a' a partir de 0s
+[   787s]     trecho escuro em 8s, tentando mais adiante
+[   797s]     trecho escuro em 8s, tentando mais adiante
+[   809s]     trecho escuro em 8s, tentando mais adiante
+[   815s]     trecho escuro em 8s, tentando mais adiante
+[   822s]     + 5_pixabay.mp4 de 'mountain, road, sunset, sky, nature, pink, winter, snow, lan' a partir de 21s
+[   822s]   x_starry_snow / pexels: 0 filmes para 'night sky snow timelapse'
+[   823s]   x_starry_snow / pixabay: 11 filmes para 'night sky snow timelapse'
+[   824s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=night+sky+snow+timelapse&page_size=8&urls=true&api_key=e46f0775805
+[   824s]   x_starry_snow / coverr: 0 filmes para 'night sky snow timelapse'
+[   831s]     + 1_pixabay.mp4 de 'day, night, dark, time lapse, timelapse, dusk, star, mountai' a partir de 8s
+[   840s]     + 2_pixabay.mp4 de 'lights, houses, streets, sissach, sissacher flue, snow, snow' a partir de 9s
+[   848s]     trecho escuro em 8s, tentando mais adiante
+[   857s]     trecho escuro em 8s, tentando mais adiante
+[   870s]     trecho escuro em 8s, tentando mais adiante
+[   879s]     trecho escuro em 8s, tentando mais adiante
+[   894s]     + 3_pixabay.mp4 de 'moon, night, crescent moon, night sky, increasingly, time la' a partir de 8s
+[   900s]     trecho escuro em 8s, tentando mais adiante
+[   906s]     trecho escuro em 8s, tentando mais adiante
+[   921s]     + 4_pixabay.mp4 de 'starry sky, seis am schlern, south-tirol, heaven, stars, nig' a partir de 8s
+[   926s]     trecho escuro em 8s, tentando mais adiante
+[   930s]     trecho escuro em 8s, tentando mais adiante
+[   934s]     + 5_pixabay.mp4 de 'milky way, heaven, starry sky, night, stars, evening sky, sp' a partir de 10s
 # Videos — ant01-sob-o-gelo
 
-- Planos: 16 · clipes: 38 · sem resultado: 2
-- Folhas: video_contact_sheet_1.jpg, video_contact_sheet_2.jpg, video_contact_sheet_3.jpg, video_contact_sheet_4.jpg
-
-## Sem video livre (usar foto/IA)
-
-- `v_meteorite`
-- `v_icefin`
+- Planos: 16 · clipes: 80 · sem resultado: 0
+- Folhas: video_contact_sheet_1.jpg, video_contact_sheet_2.jpg, video_contact_sheet_3.jpg, video_contact_sheet_4.jpg, video_contact_sheet_5.jpg, video_contact_sheet_6.jpg, video_contact_sheet_7.jpg, video_contact_sheet_8.jpg
 
 | plano | clipes |
 |---|---|
-| `v_meteorite` | 0 |
-| `v_meteor_space` | 2 |
-| `v_mars_planet` | 2 |
-| `v_thwaites` | 4 |
-| `v_ice_loss` | 3 |
-| `v_ocean_warm` | 2 |
-| `v_tide_waves` | 3 |
-| `v_icefin` | 0 |
-| `v_cracks` | 3 |
-| `v_rio` | 3 |
-| `v_recife` | 3 |
-| `v_coast_flood` | 2 |
-| `v_ferraz` | 2 |
-| `v_penguins` | 3 |
-| `v_research_ship` | 3 |
-| `v_sunset_ice` | 3 |
+| `x_glacier_drone` | 5 |
+| `x_iceberg_drone` | 5 |
+| `x_antarctica` | 5 |
+| `x_penguin_colony` | 5 |
+| `x_snow_mountain` | 5 |
+| `x_ice_texture` | 5 |
+| `x_aurora` | 5 |
+| `x_polar_ship` | 5 |
+| `x_crevasse` | 5 |
+| `x_ice_melt` | 5 |
+| `x_underwater_ice` | 5 |
+| `x_snow_wind` | 5 |
+| `x_seal` | 5 |
+| `x_whale` | 5 |
+| `x_sunset_snow` | 5 |
+| `x_starry_snow` | 5 |
 

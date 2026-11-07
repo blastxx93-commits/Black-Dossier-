@@ -1,28 +1,23 @@
 # Videos — ant01-sob-o-gelo
 
-- Planos: 16 · clipes: 38 · sem resultado: 2
-- Folhas: video_contact_sheet_1.jpg, video_contact_sheet_2.jpg, video_contact_sheet_3.jpg, video_contact_sheet_4.jpg
-
-## Sem video livre (usar foto/IA)
-
-- `v_meteorite`
-- `v_icefin`
+- Planos: 16 · clipes: 80 · sem resultado: 0
+- Folhas: video_contact_sheet_1.jpg, video_contact_sheet_2.jpg, video_contact_sheet_3.jpg, video_contact_sheet_4.jpg, video_contact_sheet_5.jpg, video_contact_sheet_6.jpg, video_contact_sheet_7.jpg, video_contact_sheet_8.jpg
 
 | plano | clipes |
 |---|---|
-| `v_meteorite` | 0 |
-| `v_meteor_space` | 2 |
-| `v_mars_planet` | 2 |
-| `v_thwaites` | 4 |
-| `v_ice_loss` | 3 |
-| `v_ocean_warm` | 2 |
-| `v_tide_waves` | 3 |
-| `v_icefin` | 0 |
-| `v_cracks` | 3 |
-| `v_rio` | 3 |
-| `v_recife` | 3 |
-| `v_coast_flood` | 2 |
-| `v_ferraz` | 2 |
-| `v_penguins` | 3 |
-| `v_research_ship` | 3 |
-| `v_sunset_ice` | 3 |
+| `x_glacier_drone` | 5 |
+| `x_iceberg_drone` | 5 |
+| `x_antarctica` | 5 |
+| `x_penguin_colony` | 5 |
+| `x_snow_mountain` | 5 |
+| `x_ice_texture` | 5 |
+| `x_aurora` | 5 |
+| `x_polar_ship` | 5 |
+| `x_crevasse` | 5 |
+| `x_ice_melt` | 5 |
+| `x_underwater_ice` | 5 |
+| `x_snow_wind` | 5 |
+| `x_seal` | 5 |
+| `x_whale` | 5 |
+| `x_sunset_snow` | 5 |
+| `x_starry_snow` | 5 |
