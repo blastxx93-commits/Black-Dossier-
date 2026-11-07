@@ -1,4 +1,4 @@
-# Canal Antártica — regras e identidade (proposta de 07/11/2026, aguardando aval do dono)
+# Canal Antártida — regras e identidade (07/11/2026; nome do canal e voz aguardando aval do dono)
 
 Canal brasileiro de documentários sobre a Antártica: mistérios, montanhas, gelo, animais, história e curiosidades.
 Referência de estilo: "Por que é impossível explorar a Amazônia profunda" (canal Kairus) — explicativo, calmo, cheio de mapas.
@@ -19,16 +19,33 @@ O Claude cuida de temas, roteiro, narração e edição; o dono só dá o aval e
 - Fatos com fonte (lista no fim do roteiro); hipóteses e polêmicas sempre com ressalva ("segundo as estimativas", "nunca foi provado").
   Mistério sim, desinformação não: nada de "pirâmides", "base nazista" ou "entrada para a Terra oca" apresentados como verdade.
 
-## Edição (estilo Kairus adaptado)
-- Imagens reais em primeiro lugar: NASA (Scientific Visualization Studio, Landsat, MODIS), NOAA, USAP/NSF, British Antarctic Survey,
-  Wikimedia Commons (domínio público / CC BY / CC BY-SA). Clipes de drone, satélite e expedições históricas (Scott, Shackleton, Byrd).
-- Mapas e gráficos animados como assinatura: globo girando até a Antártica, mapa do continente com rótulos, corte do gelo
-  (perfil de radar), comparação de tamanho com o Brasil, linha do tempo geológica.
-- Cenas de IA (Flux) só onde não há imagem real: lagos subglaciais, florestas de 90 milhões de anos, dinossauros, interior das montanhas.
-- Ritmo 3–6 s por plano, primeiro minuto 2,5–4 s; nada estático (zoom/pan lento), nada de tela preta, nada repetido.
+## Roteiro (pedido do dono, 07/11/2026)
+- Roteiro de alta qualidade, **hook forte e impactante** (número ou cena que choca nos primeiros segundos, 2–3 perguntas abertas,
+  promessa da maior revelação, que só é paga no fim).
+- **CTA na metade** (logo depois de um cliffhanger, ~50%) e **CTA no final**.
+- **O CTA final nunca chama outro vídeo** ("no próximo vídeo…", "até o próximo…"): pergunta para os comentários + like/inscrição + agradecimento.
+- A voz é escolhida depois do roteiro pronto (teste com o hook final).
+
+## Edição (pedido do dono, 07/11/2026 — estilo do vídeo de referência do Kairus)
+- **Imagens e clipes de alta qualidade**, buscados pelo Claude nos bancos livres (NASA SVS/Images, NOAA, USAP/NSF, BAS, USGS,
+  Wikimedia Commons, Internet Archive). Mínimo 1080p para clipes e ~1600 px para fotos; descartar imagem borrada, com marca d'água ou texto.
+- **Nada se repete**: nenhuma foto, clipe ou cena de IA duas vezes no mesmo vídeo (checagem automática por conteúdo bloqueia a montagem).
+- **Trilha sonora de qualidade** (faixas reais licenciadas, não sintetizadas: Kevin MacLeod/Incompetech CC BY 4.0 com crédito na descrição,
+  ou faixas da Biblioteca de Áudio do YouTube enviadas pelo dono). Baixa sob a voz.
+- **Troca de trilha nos momentos de tensão**, como no vídeo de referência: a música muda junto com o clima da cena
+  (ambiente/maravilhamento → tensão → mistério → épico), com transição suave entre faixas. Plano por capítulo em `episodes/<ep>/edit/musica.txt`.
+- **Movimento em todas as imagens**, reais ou de IA: zoom lento, pan, parallax; nada parado.
+- **Transições diferenciadas** entre as cenas (corte seco, dissolve, zoom, slide, whip, wipe de gelo/neve, flash branco), variando sempre.
+- **Nunca tela preta** em nenhum momento: cartelas e gráficos aparecem sobre a cena anterior desfocada/escurecida ou sobre fundo animado de gelo.
+- **Layouts de destaque** nos momentos importantes: número gigante (ex.: "3.769 m"), comparação lado a lado (Antártida x Brasil),
+  ficha do lugar (nome, profundidade, ano da descoberta), mapa com marcador, linha do tempo, citação em tela.
+- Mapas e gráficos animados como assinatura: globo girando até a Antártida, mapa do continente com rótulos, corte do gelo
+  (perfil de radar), linha do tempo geológica.
+- Cenas de IA (Flux) só onde não há imagem real: interior dos lagos subglaciais, florestas de 90 milhões de anos, dinossauros, montanhas sob o gelo.
+- Ritmo 3–6 s por plano, primeiro minuto 2,5–4 s.
 - Paleta fria: azul-gelo (#8FD3FF), branco (#F2F6F8), azul-noite (#0A1A2A) e laranja de destaque (#FF7A1A) para números e alertas.
-  Tipografia Inter. Legendas brancas com contorno escuro (ou amarelas, a decidir) gravadas + .srt.
-- Som: trilha ambiente/cinemática baixa (-29 dB sob a voz), vento e gelo rangendo como efeitos discretos, silêncio curto antes das revelações.
+  Tipografia Inter. Legendas gravadas + .srt.
+- Som: efeitos discretos (vento, gelo rangendo, sonar), silêncio curto antes das revelações.
 
 ## Títulos
 - Fórmulas: "Por Que É Impossível [X] na Antártica" · "O Que Existe Debaixo do Gelo da Antártica" · "O [Coisa] Que [Paradoxo]".
