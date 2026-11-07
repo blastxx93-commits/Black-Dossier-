@@ -15,6 +15,7 @@ Sources:
     openverse- Openverse (licenses pdm, cc0, by, by-sa only)
     pixabay  - Pixabay photos, needs env PIXABAY_API_KEY (skipped without it)
     unsplash - Unsplash photos, needs env UNSPLASH_ACCESS_KEY (skipped without it)
+    nasa     - NASA Image and Video Library (public domain)
 
 Usage:
     python3 agent/search_images.py ep01-apalachin [--out assets_out] [--only id1,id2]
@@ -208,7 +209,24 @@ def keep_ping(c):
             pass
 
 
-SOURCES = {"commons": search_commons, "loc": search_loc, "openverse": search_openverse,
+def search_nasa(q):
+    """NASA Image and Video Library (images.nasa.gov). NASA media is generally public domain."""
+    data = get_json("https://images-api.nasa.gov/search", {"q": q[:100], "media_type": "image", "page_size": PER_SOURCE})
+    out = []
+    for it in ((data or {}).get("collection") or {}).get("items", [])[:PER_SOURCE]:
+        d = (it.get("data") or [{}])[0]
+        nid = d.get("nasa_id", "")
+        thumb = ((it.get("links") or [{}])[0]).get("href", "")
+        if not nid or "~thumb" not in thumb:
+            continue
+        out.append({"source": "nasa", "url": thumb.replace("~thumb", "~large").replace("http://", "https://"),
+                    "title": (d.get("title") or "")[:160], "license": "public domain (NASA)",
+                    "author": (d.get("photographer") or d.get("center") or "NASA")[:120],
+                    "page": f"https://images.nasa.gov/details/{nid}"})
+    return out
+
+
+SOURCES = {"nasa": search_nasa, "commons": search_commons, "loc": search_loc, "openverse": search_openverse,
            "pixabay": search_pixabay, "unsplash": search_unsplash}
 
 

@@ -1,0 +1,308 @@
+{
+ "model": "black-forest-labs/flux-1.1-pro-ultra",
+ "raw": true,
+ "n": 1,
+ "style": ", photorealistic documentary still, Antarctica, cold blue and white color grade, natural light, high detail, cinematic 16:9, no people's faces, no readable text, no logos",
+ "shots": [
+  {
+   "id": "ai_drill_dark",
+   "prompt": "A drill bit deep inside a narrow borehole in ancient blue ice, lit by a single headlamp, frost crystals, claustrophobic"
+  },
+  {
+   "id": "ai_breakthrough",
+   "prompt": "Cross-section view of a thin borehole piercing the bottom of a four-kilometre ice sheet into a dark liquid lake, faint blue glow at the contact point",
+   "raw": false,
+   "style": ", cinematic scientific 3D visualization, documentary quality, cold blue palette, dramatic lighting, high detail, 16:9, no text, no labels, no logos"
+  },
+  {
+   "id": "ai_lake_under_ice",
+   "prompt": "A vast dark subglacial lake under a ceiling of thick ancient ice, faint blue light filtering, still black water, sense of enormous scale"
+  },
+  {
+   "id": "ai_cutaway_continent",
+   "prompt": "Scientific cutaway illustration of Antarctica showing the thick ice sheet on top and hidden lakes, rivers and mountains in the bedrock beneath, cinematic lighting",
+   "raw": false,
+   "style": ", cinematic scientific 3D visualization, documentary quality, cold blue palette, dramatic lighting, high detail, 16:9, no text, no labels, no logos"
+  },
+  {
+   "id": "ai_hidden_rivers",
+   "prompt": "Dark subglacial river flowing in a tunnel beneath glacier ice, water carving the bedrock, eerie blue light"
+  },
+  {
+   "id": "ai_mountains_under_ice",
+   "prompt": "Jagged alpine mountain peaks completely buried inside a translucent ice sheet, cross-section view, the peaks visible through blue ice",
+   "raw": false,
+   "style": ", cinematic scientific 3D visualization, documentary quality, cold blue palette, dramatic lighting, high detail, 16:9, no text, no labels, no logos"
+  },
+  {
+   "id": "ai_blood_falls_dusk",
+   "prompt": "A blood-red waterfall streaming from the face of a white glacier into a frozen valley at dusk, dramatic sky"
+  },
+  {
+   "id": "ai_ice_weight",
+   "prompt": "A giant ice sheet pressing the Earth's crust downward, geological cross-section, bedrock bent below sea level, ocean on the side",
+   "raw": false,
+   "style": ", cinematic scientific 3D visualization, documentary quality, cold blue palette, dramatic lighting, high detail, 16:9, no text, no labels, no logos"
+  },
+  {
+   "id": "ai_archipelago",
+   "prompt": "Antarctica without its ice: a dark rocky archipelago of islands scattered in a cold grey ocean, aerial view, realistic"
+  },
+  {
+   "id": "ai_pao_acucar_stack",
+   "prompt": "Five copies of a rounded granite dome mountain stacked on top of each other next to a towering wall of glacier ice, scale comparison, surreal but realistic"
+  },
+  {
+   "id": "ai_flooded_beach",
+   "prompt": "A tropical Brazilian-style beach city with tall apartment buildings half submerged by the sea, calm water, overcast, realistic"
+  },
+  {
+   "id": "ai_vostok_1957",
+   "prompt": "A small 1950s Soviet research station of wooden huts and radio masts on a flat endless polar plateau, tractors, snow, grainy archival look, no readable text"
+  },
+  {
+   "id": "ai_extreme_cold",
+   "prompt": "Frost-covered steel bolts and a frozen fuel barrel at minus eighty degrees, ice crystals, harsh polar light"
+  },
+  {
+   "id": "ai_radar_plane_1970s",
+   "prompt": "A 1970s propeller research aircraft flying low over a white ice sheet, radar antenna under the wing, golden low sun"
+  },
+  {
+   "id": "ai_radar_mirror",
+   "prompt": "Radar waves travelling down through an ice sheet and bouncing off a perfectly flat mirror-like lake surface, scientific visualization style",
+   "raw": false,
+   "style": ", cinematic scientific 3D visualization, documentary quality, cold blue palette, dramatic lighting, high detail, 16:9, no text, no labels, no logos"
+  },
+  {
+   "id": "ai_satellite_ice",
+   "prompt": "A radar satellite orbiting above the Antarctic ice sheet at night, thin beam scanning the surface, Earth curvature"
+  },
+  {
+   "id": "ai_pressure_heat",
+   "prompt": "Diagram-like realistic render: geothermal heat rising from the Earth's interior into the base of an ice sheet, warm orange glow under blue ice",
+   "raw": false,
+   "style": ", cinematic scientific 3D visualization, documentary quality, cold blue palette, dramatic lighting, high detail, 16:9, no text, no labels, no logos"
+  },
+  {
+   "id": "ai_vostok_lake_life",
+   "prompt": "Microscopic view of tiny bacteria floating in black cold water, faint bioluminescent glow, scientific macro"
+  },
+  {
+   "id": "ai_drill_camp",
+   "prompt": "A drilling tent and tower on a vast frozen plateau at twilight, steam escaping, tiny figures in orange parkas seen from far away, no faces"
+  },
+  {
+   "id": "ai_kerosene_hole",
+   "prompt": "A borehole in ice filled with amber drilling fluid, cross-section, warning atmosphere",
+   "raw": false,
+   "style": ", cinematic scientific 3D visualization, documentary quality, cold blue palette, dramatic lighting, high detail, 16:9, no text, no labels, no logos"
+  },
+  {
+   "id": "ai_water_rising",
+   "prompt": "Lake water surging upward inside a narrow ice borehole, cross-section, bubbles, pressure",
+   "raw": false,
+   "style": ", cinematic scientific 3D visualization, documentary quality, cold blue palette, dramatic lighting, high detail, 16:9, no text, no labels, no logos"
+  },
+  {
+   "id": "ai_lab_sample",
+   "prompt": "A frosted ice core sample in a sterile cold laboratory under blue light, gloved hands only"
+  },
+  {
+   "id": "ai_lakes_network",
+   "prompt": "Aerial satellite-style view of Antarctica with glowing blue dots of hundreds of hidden lakes connected by faint rivers beneath the ice"
+  },
+  {
+   "id": "ai_lake_draining",
+   "prompt": "Cross-section of two subglacial lakes connected by a channel, water draining from one into the other, ice surface sagging above",
+   "raw": false,
+   "style": ", cinematic scientific 3D visualization, documentary quality, cold blue palette, dramatic lighting, high detail, 16:9, no text, no labels, no logos"
+  },
+  {
+   "id": "ai_hot_drill_camp",
+   "prompt": "Modern hot-water drilling camp on an Antarctic ice stream, hoses, sterile tent, bright orange equipment, midnight sun, no faces"
+  },
+  {
+   "id": "ai_microbe_rock",
+   "prompt": "Microbes clinging to crushed mineral grains in dark water, iron and sulfur colors, scientific macro render"
+  },
+  {
+   "id": "ai_mercer_mud",
+   "prompt": "A camera light illuminating dark lake-bottom mud under the ice, tiny translucent crustacean shells scattered, mysterious"
+  },
+  {
+   "id": "ai_ancient_stream",
+   "prompt": "Ancient Antarctic mountain stream with small ponds and moss thousands of years ago, cold but ice-free valley"
+  },
+  {
+   "id": "ai_seismic_1958",
+   "prompt": "1958 Soviet expedition with tracked vehicles crossing the polar plateau, a small explosion of snow in the distance, archival grain, no readable text"
+  },
+  {
+   "id": "ai_dome_a",
+   "prompt": "The highest point of the Antarctic ice sheet, a vast flat white dome under a deep blue sky, tiny research station, extreme emptiness"
+  },
+  {
+   "id": "ai_gamburtsev_reveal",
+   "prompt": "Radar-like 3D reconstruction of a hidden mountain range beneath an ice sheet, glowing contour lines, dark background, scientific visualization",
+   "raw": false,
+   "style": ", cinematic scientific 3D visualization, documentary quality, cold blue palette, dramatic lighting, high detail, 16:9, no text, no labels, no logos"
+  },
+  {
+   "id": "ai_first_glaciers",
+   "prompt": "34 million years ago: the first glaciers forming on the summits of a jagged mountain range, the valleys below still brown and bare, cold mist"
+  },
+  {
+   "id": "ai_ice_dome_protect",
+   "prompt": "An ice sheet acting like a protective dome over sharp mountain peaks, cross-section, peaks pristine inside the ice",
+   "raw": false,
+   "style": ", cinematic scientific 3D visualization, documentary quality, cold blue palette, dramatic lighting, high detail, 16:9, no text, no labels, no logos"
+  },
+  {
+   "id": "ai_denman_canyon",
+   "prompt": "A colossal dark canyon filled with blue glacial ice plunging deep below sea level, cross-section showing ocean level line far above, dramatic",
+   "raw": false,
+   "style": ", cinematic scientific 3D visualization, documentary quality, cold blue palette, dramatic lighting, high detail, 16:9, no text, no labels, no logos"
+  },
+  {
+   "id": "ai_dry_valley",
+   "prompt": "A vast ice-free valley in Antarctica with brown rock, frozen lake and distant glaciers, Mars-like, wind-swept"
+  },
+  {
+   "id": "ai_taylor_1911",
+   "prompt": "An Edwardian-era polar explorer seen from behind, in fur and wool clothing, standing before a white glacier with a red stain streaming down, 1911 photograph style"
+  },
+  {
+   "id": "ai_brine_under",
+   "prompt": "Hypersaline liquid brine trapped beneath a glacier, clear water inside dark ice pockets, iron-orange tint at the edges"
+  },
+  {
+   "id": "ai_rust_reaction",
+   "prompt": "Clear water emerging from an ice crack turning orange-red as it touches the air, macro close-up, frost"
+  },
+  {
+   "id": "ai_europa_ocean",
+   "prompt": "Cutaway of Jupiter's moon Europa showing an icy crust and a hidden dark ocean underneath, Jupiter in the sky",
+   "raw": false,
+   "style": ", cinematic scientific 3D visualization, documentary quality, cold blue palette, dramatic lighting, high detail, 16:9, no text, no labels, no logos"
+  },
+  {
+   "id": "ai_scott_sledge",
+   "prompt": "Three early 1900s polar explorers seen from behind pulling a heavy wooden sledge across a white wasteland in a blizzard, no faces visible"
+  },
+  {
+   "id": "ai_scott_rocks",
+   "prompt": "Weathered wooden sledge with a canvas bag of fossil rock samples in snow, early 1900s, frost, close-up"
+  },
+  {
+   "id": "ai_scott_tent",
+   "prompt": "A lone canvas tent half buried in snow on the Antarctic ice shelf under a pale grey sky, silence, 1912"
+  },
+  {
+   "id": "ai_glossopteris_forest",
+   "prompt": "A Permian forest of Glossopteris trees with tongue-shaped leaves beside a swampy river, 260 million years ago, misty"
+  },
+  {
+   "id": "ai_gondwana_globe",
+   "prompt": "Globe showing the supercontinent Gondwana with South America, Africa, India, Australia and Antarctica joined together, realistic satellite style, no labels",
+   "raw": false,
+   "style": ", cinematic scientific 3D visualization, documentary quality, cold blue palette, dramatic lighting, high detail, 16:9, no text, no labels, no logos"
+  },
+  {
+   "id": "ai_cryolophosaurus",
+   "prompt": "A Cryolophosaurus dinosaur with a crest on its head standing in an early Jurassic Antarctic forest, realistic, misty light"
+  },
+  {
+   "id": "ai_cretaceous_rainforest",
+   "prompt": "A dense temperate rainforest with tall conifers and ferns near the South Pole 90 million years ago, low sun, mist, rivers"
+  },
+  {
+   "id": "ai_polar_dark_forest",
+   "prompt": "The same ancient polar rainforest during months of winter darkness, faint twilight, moonlight on wet leaves"
+  },
+  {
+   "id": "ai_drill_seabed",
+   "prompt": "A research icebreaker at night drilling into the seabed in an Antarctic bay, floodlights, sea ice"
+  },
+  {
+   "id": "ai_fossil_roots",
+   "prompt": "Fossilized tree roots embedded in a grey sediment core on a laboratory table, macro, pollen grains visible under a lens"
+  },
+  {
+   "id": "ai_snow_layers",
+   "prompt": "Seasonal snow layers compressing into ice, cross-section of a glacier showing hundreds of fine annual bands",
+   "raw": false,
+   "style": ", cinematic scientific 3D visualization, documentary quality, cold blue palette, dramatic lighting, high detail, 16:9, no text, no labels, no logos"
+  },
+  {
+   "id": "ai_air_bubbles",
+   "prompt": "Tiny ancient air bubbles trapped inside clear ice, macro photography, backlit blue"
+  },
+  {
+   "id": "ai_ice_ages",
+   "prompt": "A frozen Earth during an ice age seen from orbit, ice sheets covering northern continents"
+  },
+  {
+   "id": "ai_meteorite_blue_ice",
+   "prompt": "A dark meteorite resting on a vast field of wind-polished blue ice in Antarctica, mountains far away"
+  },
+  {
+   "id": "ai_mars_impact",
+   "prompt": "A huge asteroid impact on Mars throwing rock fragments into space"
+  },
+  {
+   "id": "ai_rock_journey",
+   "prompt": "A small dark rock tumbling through space toward a blue Earth, the white South Pole visible"
+  },
+  {
+   "id": "ai_microfossil",
+   "prompt": "Electron-microscope style image of tiny worm-like structures inside a Martian rock, monochrome"
+  },
+  {
+   "id": "ai_ice_river",
+   "prompt": "An enormous river of ice flowing from the interior of Antarctica to the sea, aerial view, crevasses, cinematic"
+  },
+  {
+   "id": "ai_thwaites_front",
+   "prompt": "The towering calving front of a gigantic West Antarctic glacier, collapsing ice blocks, grey ocean"
+  },
+  {
+   "id": "ai_bowl_bed",
+   "prompt": "Cross-section of a glacier resting on bedrock that slopes downward inland like a bowl, ocean on the left, warm water sneaking beneath",
+   "raw": false,
+   "style": ", cinematic scientific 3D visualization, documentary quality, cold blue palette, dramatic lighting, high detail, 16:9, no text, no labels, no logos"
+  },
+  {
+   "id": "ai_warm_water_under",
+   "prompt": "Warm dark ocean water flowing beneath the underside of a floating glacier, melting it from below, underwater view, light rays"
+  },
+  {
+   "id": "ai_tide_intrusion",
+   "prompt": "Seawater intruding kilometers under a grounded glacier at high tide, thin sheet of water spreading under the ice, scientific visualization",
+   "raw": false,
+   "style": ", cinematic scientific 3D visualization, documentary quality, cold blue palette, dramatic lighting, high detail, 16:9, no text, no labels, no logos"
+  },
+  {
+   "id": "ai_cork",
+   "prompt": "A giant glacier acting as a cork holding back a huge basin of ice behind it, aerial conceptual view, realistic"
+  },
+  {
+   "id": "ai_ferraz_station",
+   "prompt": "A modern green-and-white Brazilian Antarctic research station beside a bay with icebergs on a clear day, no readable text, no flags"
+  },
+  {
+   "id": "ai_white_desert",
+   "prompt": "An endless silent white desert of ice under a pale sun, a single tiny figure far away, minimalism"
+  },
+  {
+   "id": "ai_hidden_world_final",
+   "prompt": "Final reveal: cutaway of Antarctica glowing with hidden lakes, rivers, mountains and canyons under the ice, Earth from space",
+   "raw": false,
+   "style": ", cinematic scientific 3D visualization, documentary quality, cold blue palette, dramatic lighting, high detail, 16:9, no text, no labels, no logos"
+  },
+  {
+   "id": "ai_camera_under_ice",
+   "prompt": "A small underwater camera robot descending into a dark lake beneath the ice, its light beam piercing black water"
+  }
+ ]
+}

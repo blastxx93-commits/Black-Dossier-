@@ -1,0 +1,470 @@
+{
+ "defaults": {
+  "n": 3,
+  "sources": [
+   "nasa",
+   "commons",
+   "openverse",
+   "pixabay",
+   "unsplash"
+  ]
+ },
+ "shots": [
+  {
+   "id": "p_vostok_station",
+   "query": "Vostok Station",
+   "alt": [
+    "Vostok research station Antarctica"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_vostok_lake_map",
+   "query": "Lake Vostok map",
+   "alt": [
+    "Lake Vostok radar"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_vostok_satellite",
+   "query": "Lake Vostok satellite",
+   "alt": [
+    "Lake Vostok RADARSAT"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_vostok_core",
+   "query": "Vostok ice core",
+   "alt": [
+    "ice core section"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_ice_core_lab",
+   "query": "ice core laboratory",
+   "alt": [
+    "ice core scientist"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_antarctica_mosaic",
+   "query": "Antarctica mosaic satellite",
+   "alt": [
+    "Landsat Image Mosaic of Antarctica",
+    "Antarctica Blue Marble"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_bedmap",
+   "query": "Bedmap2 Antarctica",
+   "alt": [
+    "Antarctica bedrock elevation map"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_bellingshausen",
+   "query": "Fabian Gottlieb von Bellingshausen",
+   "alt": [
+    "Vostok ship 1820"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_radar_echo",
+   "query": "radio echo sounding Antarctica",
+   "alt": [
+    "ice penetrating radar profile"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_ers1",
+   "query": "ERS-1 satellite",
+   "alt": [
+    "radar altimetry satellite"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_whillans",
+   "query": "Subglacial Lake Whillans",
+   "alt": [
+    "WISSARD drill"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_mercer",
+   "query": "Subglacial Lake Mercer",
+   "alt": [
+    "SALSA Antarctica drill"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_tardigrade",
+   "query": "tardigrade",
+   "alt": [
+    "Hypsibius"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_gamburtsev",
+   "query": "Gamburtsev Mountains",
+   "alt": [
+    "Gamburtsev Subglacial Mountains radar",
+    "Dome Argus"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_dome_a",
+   "query": "Dome A Antarctica",
+   "alt": [
+    "Kunlun Station"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_agap",
+   "query": "AGAP Antarctica Twin Otter",
+   "alt": [
+    "Twin Otter Antarctica"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_pico_neblina",
+   "query": "Pico da Neblina",
+   "alt": [],
+   "n": 3
+  },
+  {
+   "id": "p_alps",
+   "query": "Matterhorn",
+   "alt": [
+    "Alps panorama"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_denman",
+   "query": "Denman Glacier",
+   "alt": [
+    "Shackleton Ice Shelf"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_dead_sea",
+   "query": "Dead Sea shore",
+   "alt": [],
+   "n": 3
+  },
+  {
+   "id": "p_blood_falls",
+   "query": "Blood Falls Antarctica",
+   "alt": [
+    "Taylor Glacier Blood Falls"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_taylor_glacier",
+   "query": "Taylor Glacier",
+   "alt": [
+    "Taylor Valley Antarctica"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_griffith_taylor",
+   "query": "Thomas Griffith Taylor",
+   "alt": [],
+   "n": 3
+  },
+  {
+   "id": "p_dry_valleys",
+   "query": "McMurdo Dry Valleys",
+   "alt": [
+    "Wright Valley Antarctica"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_europa",
+   "query": "Europa moon",
+   "alt": [
+    "Enceladus"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_scott",
+   "query": "Robert Falcon Scott",
+   "alt": [
+    "Scott polar party South Pole 1912"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_amundsen",
+   "query": "Roald Amundsen",
+   "alt": [
+    "Amundsen South Pole 1911 tent"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_scott_tent",
+   "query": "Scott expedition tent",
+   "alt": [
+    "Terra Nova Expedition"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_terra_nova",
+   "query": "Terra Nova ship",
+   "alt": [
+    "Terra Nova expedition ship ice"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_glossopteris",
+   "query": "Glossopteris fossil",
+   "alt": [
+    "Glossopteris leaf"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_gondwana",
+   "query": "Gondwana map",
+   "alt": [
+    "Gondwana supercontinent"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_cryolophosaurus",
+   "query": "Cryolophosaurus",
+   "alt": [
+    "Cryolophosaurus skeleton"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_kirkpatrick",
+   "query": "Mount Kirkpatrick",
+   "alt": [
+    "Transantarctic Mountains"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_polarstern",
+   "query": "Polarstern",
+   "alt": [
+    "Polarstern icebreaker"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_rainforest_nz",
+   "query": "New Zealand temperate rainforest",
+   "alt": [
+    "Fiordland rainforest"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_epica",
+   "query": "EPICA Dome C",
+   "alt": [
+    "Concordia Station"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_beyond_epica",
+   "query": "Beyond EPICA",
+   "alt": [
+    "Little Dome C"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_allan_hills",
+   "query": "Allan Hills Antarctica",
+   "alt": [
+    "blue ice meteorite field"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_alh84001",
+   "query": "ALH84001",
+   "alt": [
+    "Allan Hills 84001 meteorite"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_meteorite_ice",
+   "query": "meteorite on ice Antarctica",
+   "alt": [
+    "ANSMET"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_mars",
+   "query": "Mars globe",
+   "alt": [
+    "Mars Valles Marineris"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_thwaites",
+   "query": "Thwaites Glacier",
+   "alt": [
+    "Thwaites Ice Shelf"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_thwaites_front",
+   "query": "Thwaites Glacier calving front",
+   "alt": [
+    "Pine Island Glacier"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_icefin",
+   "query": "Icefin robot",
+   "alt": [],
+   "n": 3
+  },
+  {
+   "id": "p_ice_shelf",
+   "query": "Antarctic ice shelf edge",
+   "alt": [
+    "ice shelf cliff"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_ferraz",
+   "query": "Estação Antártica Comandante Ferraz",
+   "alt": [
+    "Comandante Ferraz Antarctic Station"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_king_george",
+   "query": "King George Island",
+   "alt": [
+    "Admiralty Bay"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_rio",
+   "query": "Rio de Janeiro Copacabana",
+   "alt": [
+    "Rio de Janeiro coastline"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_recife",
+   "query": "Recife Boa Viagem",
+   "alt": [
+    "Recife aerial"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_santos",
+   "query": "Santos São Paulo orla",
+   "alt": [
+    "Santos beach"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_belem",
+   "query": "Belém Pará",
+   "alt": [
+    "Belém aerial"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_salvador",
+   "query": "Salvador Bahia",
+   "alt": [
+    "Salvador coastline"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_pao_acucar",
+   "query": "Pão de Açúcar",
+   "alt": [
+    "Sugarloaf Mountain"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_df",
+   "query": "Brasília aerial",
+   "alt": [
+    "Lago Paranoá"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_penguins",
+   "query": "emperor penguins",
+   "alt": [
+    "Adelie penguins"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_iceberg",
+   "query": "tabular iceberg Antarctica",
+   "alt": [
+    "iceberg Antarctica"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_station_night",
+   "query": "Antarctic station winter night",
+   "alt": [
+    "Amundsen-Scott South Pole Station"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_aurora",
+   "query": "aurora australis Antarctica",
+   "alt": [],
+   "n": 3
+  }
+ ]
+}

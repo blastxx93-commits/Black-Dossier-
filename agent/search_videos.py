@@ -9,6 +9,8 @@ Sources (no API keys):
     archive  - Internet Archive: Prelinger Archives, Universal Newsreels, FedFlix (US government works)
                and items whose license is public domain / CC0 / CC BY / CC BY-SA
     commons  - Wikimedia Commons videos (public domain / CC0 / CC BY / CC BY-SA)
+    nasa     - NASA Image and Video Library (public domain)
+    svs      - NASA Scientific Visualization Studio (satellite visualizations, public domain)
 
 For each candidate film it cuts a clip straight from the remote file (no full download),
 skipping the opening titles. Writes:
@@ -226,8 +228,73 @@ def coverr_ping(c):
             pass
 
 
+def _nasa_assets(manifest):
+    """URLs listed in a NASA Images asset manifest (collection.json)."""
+    try:
+        r = S.get(manifest, timeout=25)
+        r.raise_for_status()
+        return [u.replace("http://", "https://") for u in r.json() if isinstance(u, str)]
+    except Exception:
+        return []
+
+
+def search_nasa(q, rows=8, years=None, collections=None, item=None):
+    """NASA Image and Video Library (images.nasa.gov). NASA media is generally public domain."""
+    if item:
+        return []
+    data = get_json("https://images-api.nasa.gov/search", {"q": q, "media_type": "video", "page_size": rows})
+    out = []
+    for it in ((data or {}).get("collection") or {}).get("items", [])[:rows]:
+        d = (it.get("data") or [{}])[0]
+        urls = [u for u in _nasa_assets(it.get("href", "")) if u.lower().endswith(".mp4")]
+        pick = next((u for k in ("~orig.mp4", "~large.mp4", "~medium.mp4") for u in urls if u.endswith(k)), None)
+        if not pick:
+            continue
+        out.append({"source": "nasa", "url": pick, "title": (d.get("title") or "")[:150],
+                    "license": "NASA (public domain; credit NASA)", "page": f"https://images.nasa.gov/details/{d.get('nasa_id', '')}",
+                    "length": 0, "author": (d.get("center") or "NASA")[:100]})
+    return out
+
+
+def _walk_mp4(o, acc):
+    if isinstance(o, dict):
+        u = o.get("url")
+        if isinstance(u, str) and u.lower().endswith(".mp4"):
+            acc.append((int(o.get("width") or 0), u))
+        for v in o.values():
+            _walk_mp4(v, acc)
+    elif isinstance(o, list):
+        for v in o:
+            _walk_mp4(v, acc)
+
+
+def search_svs(q, rows=6, years=None, collections=None, item=None):
+    """NASA Scientific Visualization Studio (svs.gsfc.nasa.gov): satellite data visualizations and flyovers.
+    Picks the movie closest to 1920 px wide (ignores tiny previews)."""
+    if item:
+        return []
+    data = get_json("https://svs.gsfc.nasa.gov/api/search/", {"search": q})
+    res = (data or {}).get("results") or (data if isinstance(data, list) else [])
+    out = []
+    for r in res[:rows]:
+        vid = r.get("id")
+        if not vid:
+            continue
+        page = get_json(f"https://svs.gsfc.nasa.gov/api/{vid}")
+        acc = []
+        _walk_mp4(page or {}, acc)
+        acc = [a for a in acc if a[0] == 0 or a[0] >= 1280]
+        if not acc:
+            continue
+        w, u = min(acc, key=lambda a: abs((a[0] or 1920) - 1920))
+        out.append({"source": "svs", "url": u, "title": (r.get("title") or (page or {}).get("title") or "")[:150],
+                    "license": "NASA Scientific Visualization Studio (public domain; credit NASA SVS)",
+                    "page": f"https://svs.gsfc.nasa.gov/{vid}", "length": 0, "author": "NASA SVS"})
+    return out
+
+
 SOURCES = {"archive": search_archive, "commons": search_commons, "pexels": search_pexels, "pixabay": search_pixabay,
-           "coverr": search_coverr}
+           "coverr": search_coverr, "nasa": search_nasa, "svs": search_svs}
 
 
 # ------------------------------------------------------------ clips

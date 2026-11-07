@@ -1,11 +1,13 @@
-# Canal Antártida — regras e identidade (07/11/2026; nome do canal e voz aguardando aval do dono)
+# Abaixo de Zero (canal Antártida) — regras e identidade
 
 Canal brasileiro de documentários sobre a Antártica: mistérios, montanhas, gelo, animais, história e curiosidades.
 Referência de estilo: "Por que é impossível explorar a Amazônia profunda" (canal Kairus) — explicativo, calmo, cheio de mapas.
 O Claude cuida de temas, roteiro, narração e edição; o dono só dá o aval em cada etapa.
 
-## Nome (escolher 1)
-- **Continente Gelado** (sugestão principal) · Abaixo de Zero · Terra Austral
+## Decisões do dono (07/11/2026)
+- Nome do canal: **Abaixo de Zero**
+- Voz: **B — "Meu narrador"** (Fish Audio, id `c9d3da0bdf61417d929dc67966e4befe`), velocidade 1.0
+- ant01, título: **Por Que Os Cientistas Temem o Que Existe Sob a Antártida**
 
 ## Formato
 - Idioma: **português do Brasil** (roteiro, narração, legendas, título, descrição). Conversa com o dono também em português.

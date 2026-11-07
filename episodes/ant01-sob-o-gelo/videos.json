@@ -1,0 +1,954 @@
+{
+ "defaults": {
+  "n": 3,
+  "clip": 8,
+  "sources": [
+   "pexels",
+   "pixabay",
+   "coverr"
+  ]
+ },
+ "shots": [
+  {
+   "id": "v_ice_sheet_aerial",
+   "query": "antarctica ice sheet aerial",
+   "alt": [
+    "antarctica drone flight",
+    "ice sheet flyover"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_blizzard",
+   "query": "antarctica blizzard snow storm",
+   "alt": [
+    "polar blizzard wind snow"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_drill_ice",
+   "query": "ice core drilling",
+   "alt": [
+    "drilling ice antarctica",
+    "ice drill"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "nasa",
+    "svs",
+    "commons",
+    "coverr"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_ice_cave",
+   "query": "ice cave blue glacier inside",
+   "alt": [
+    "glacier ice cave"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_dark_water",
+   "query": "dark underwater bubbles",
+   "alt": [
+    "underwater dark water"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_glacier_front",
+   "query": "glacier calving",
+   "alt": [
+    "antarctica glacier front",
+    "iceberg calving"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_icebergs",
+   "query": "antarctica icebergs aerial",
+   "alt": [
+    "icebergs ocean drone"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_globe",
+   "query": "earth rotating antarctica",
+   "alt": [
+    "globe south pole rotation",
+    "antarctica from space"
+   ],
+   "sources": [
+    "svs",
+    "nasa",
+    "pexels",
+    "pixabay"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_antarctica_space",
+   "query": "antarctica from space satellite",
+   "alt": [
+    "antarctica satellite view"
+   ],
+   "sources": [
+    "nasa",
+    "svs"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_bedmachine",
+   "query": "BedMachine Antarctica",
+   "alt": [
+    "antarctica bedrock topography",
+    "antarctica without ice"
+   ],
+   "sources": [
+    "svs"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_ice_thickness",
+   "query": "antarctic ice sheet thickness",
+   "alt": [
+    "ice sheet elevation antarctica"
+   ],
+   "sources": [
+    "svs",
+    "nasa"
+   ],
+   "n": 2
+  },
+  {
+   "id": "v_sea_level",
+   "query": "sea level rise visualization",
+   "alt": [
+    "sea level rise coast"
+   ],
+   "sources": [
+    "svs",
+    "nasa"
+   ],
+   "n": 2
+  },
+  {
+   "id": "v_mountains_peaks",
+   "query": "antarctica mountains drone",
+   "alt": [
+    "snow mountains peaks aerial antarctica"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_ocean_ice",
+   "query": "antarctic sea ice ocean",
+   "alt": [
+    "sea ice floating drone"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_vostok_station",
+   "query": "Vostok station antarctica",
+   "alt": [
+    "russian antarctic station"
+   ],
+   "sources": [
+    "commons",
+    "archive",
+    "nasa"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_plateau_snow",
+   "query": "polar plateau snow wind",
+   "alt": [
+    "snow drift flat desert wind",
+    "snowfield wind"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_polar_night",
+   "query": "polar night aurora australis",
+   "alt": [
+    "aurora australis antarctica",
+    "southern lights"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr",
+    "nasa"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_frost_breath",
+   "query": "frozen breath cold winter",
+   "alt": [
+    "extreme cold frost beard"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 2
+  },
+  {
+   "id": "v_radar_plane",
+   "query": "icebridge plane antarctica",
+   "alt": [
+    "Operation IceBridge",
+    "airborne radar ice"
+   ],
+   "sources": [
+    "nasa",
+    "svs"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_satellite_orbit",
+   "query": "satellite orbit earth",
+   "alt": [
+    "satellite in space"
+   ],
+   "sources": [
+    "nasa",
+    "pexels",
+    "pixabay"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_subglacial_lakes",
+   "query": "subglacial lakes antarctica",
+   "alt": [
+    "Lake Vostok",
+    "antarctic subglacial water"
+   ],
+   "sources": [
+    "svs",
+    "nasa"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_lake_dark",
+   "query": "frozen lake ice cracks",
+   "alt": [
+    "ice surface frozen lake"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_geothermal",
+   "query": "magma lava underground",
+   "alt": [
+    "lava flow closeup"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 2
+  },
+  {
+   "id": "v_ice_core",
+   "query": "ice core",
+   "alt": [
+    "ice core laboratory",
+    "ice core sample"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "nasa",
+    "svs",
+    "commons",
+    "coverr"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_bubbles_ice",
+   "query": "air bubbles in ice macro",
+   "alt": [
+    "ice bubbles closeup"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_lab_microscope",
+   "query": "microscope laboratory bacteria",
+   "alt": [
+    "scientist microscope lab"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_dna",
+   "query": "dna strand animation",
+   "alt": [
+    "dna helix"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 2
+  },
+  {
+   "id": "v_oil_fluid",
+   "query": "oil liquid flowing dark",
+   "alt": [
+    "black liquid pouring"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 2
+  },
+  {
+   "id": "v_river_ice",
+   "query": "glacial meltwater river",
+   "alt": [
+    "meltwater stream glacier"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_icesat",
+   "query": "ICESat antarctica",
+   "alt": [
+    "ice elevation change antarctica"
+   ],
+   "sources": [
+    "nasa",
+    "svs"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_hotwater_drill",
+   "query": "WISSARD drilling",
+   "alt": [
+    "Subglacial Lake Whillans",
+    "hot water drill ice"
+   ],
+   "sources": [
+    "nasa",
+    "commons",
+    "svs"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_bacteria",
+   "query": "bacteria microscope",
+   "alt": [
+    "microbes moving microscope"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_tardigrade",
+   "query": "tardigrade",
+   "alt": [
+    "water bear microscope"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr",
+    "commons"
+   ],
+   "n": 2
+  },
+  {
+   "id": "v_ice_flow",
+   "query": "antarctic ice flow velocity",
+   "alt": [
+    "ice velocity antarctica"
+   ],
+   "sources": [
+    "svs"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_seismic",
+   "query": "seismic survey",
+   "alt": [
+    "geophone explosion survey"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "nasa",
+    "svs",
+    "commons",
+    "coverr"
+   ],
+   "n": 2
+  },
+  {
+   "id": "v_twin_otter",
+   "query": "twin otter antarctica",
+   "alt": [
+    "plane landing antarctica ice"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr",
+    "nasa",
+    "commons"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_alps",
+   "query": "alps aerial mountains",
+   "alt": [
+    "swiss alps drone"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_canyon_dark",
+   "query": "deep canyon aerial",
+   "alt": [
+    "canyon drone flight"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 2
+  },
+  {
+   "id": "v_denman",
+   "query": "Denman Glacier",
+   "alt": [
+    "east antarctica glacier canyon"
+   ],
+   "sources": [
+    "svs",
+    "nasa"
+   ],
+   "n": 2
+  },
+  {
+   "id": "v_dead_sea",
+   "query": "dead sea aerial",
+   "alt": [
+    "dead sea shore"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 2
+  },
+  {
+   "id": "v_dry_valleys",
+   "query": "McMurdo Dry Valleys",
+   "alt": [
+    "antarctica dry valley"
+   ],
+   "sources": [
+    "nasa",
+    "commons",
+    "pexels",
+    "pixabay"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_mars_surface",
+   "query": "mars surface",
+   "alt": [
+    "mars landscape rover"
+   ],
+   "sources": [
+    "nasa",
+    "pexels",
+    "pixabay"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_red_water",
+   "query": "red water flowing ice",
+   "alt": [
+    "rust water stream"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 2
+  },
+  {
+   "id": "v_rust",
+   "query": "rust iron oxidation",
+   "alt": [
+    "rusty metal closeup"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 2
+  },
+  {
+   "id": "v_europa",
+   "query": "Europa moon ice",
+   "alt": [
+    "Enceladus",
+    "jupiter moon"
+   ],
+   "sources": [
+    "nasa",
+    "svs"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_scott_film",
+   "query": "Scott Antarctic expedition 1911",
+   "alt": [
+    "Terra Nova expedition",
+    "The Great White Silence"
+   ],
+   "sources": [
+    "archive",
+    "commons"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_sledge",
+   "query": "sled dogs snow",
+   "alt": [
+    "man pulling sledge snow",
+    "polar expedition sled"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr",
+    "archive"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_tent_storm",
+   "query": "tent snow storm",
+   "alt": [
+    "camping blizzard tent"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 2
+  },
+  {
+   "id": "v_fossil",
+   "query": "fossil plant leaf",
+   "alt": [
+    "fossil rock closeup"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 2
+  },
+  {
+   "id": "v_continents",
+   "query": "pangaea continental drift",
+   "alt": [
+    "continental drift animation",
+    "gondwana"
+   ],
+   "sources": [
+    "nasa",
+    "svs",
+    "commons",
+    "pexels"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_rainforest",
+   "query": "temperate rainforest",
+   "alt": [
+    "new zealand rainforest",
+    "fern forest"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_dinosaur",
+   "query": "dinosaur",
+   "alt": [
+    "dinosaur fossil skeleton"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 2
+  },
+  {
+   "id": "v_snowfall",
+   "query": "snowfall slow motion",
+   "alt": [
+    "snow falling night"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_ice_layers",
+   "query": "ice layers glacier wall",
+   "alt": [
+    "glacier layers"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 2
+  },
+  {
+   "id": "v_blue_ice",
+   "query": "blue ice antarctica",
+   "alt": [
+    "blue ice field"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr",
+    "nasa"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_meteorite",
+   "query": "meteorite antarctica",
+   "alt": [
+    "ANSMET meteorite"
+   ],
+   "sources": [
+    "nasa",
+    "commons"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_meteor_space",
+   "query": "meteor space",
+   "alt": [
+    "asteroid space"
+   ],
+   "sources": [
+    "nasa",
+    "pexels",
+    "pixabay"
+   ],
+   "n": 2
+  },
+  {
+   "id": "v_mars_planet",
+   "query": "mars planet rotating",
+   "alt": [
+    "planet mars"
+   ],
+   "sources": [
+    "nasa",
+    "pexels",
+    "pixabay"
+   ],
+   "n": 2
+  },
+  {
+   "id": "v_thwaites",
+   "query": "Thwaites Glacier",
+   "alt": [
+    "thwaites ice shelf"
+   ],
+   "sources": [
+    "svs",
+    "nasa"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_ice_loss",
+   "query": "antarctica ice mass loss",
+   "alt": [
+    "GRACE antarctica"
+   ],
+   "sources": [
+    "svs",
+    "nasa"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_ocean_warm",
+   "query": "ocean warming antarctica",
+   "alt": [
+    "warm water ice shelf"
+   ],
+   "sources": [
+    "svs",
+    "nasa"
+   ],
+   "n": 2
+  },
+  {
+   "id": "v_tide_waves",
+   "query": "waves ice shelf",
+   "alt": [
+    "ocean waves ice edge"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_icefin",
+   "query": "Icefin robot",
+   "alt": [
+    "underwater robot under ice"
+   ],
+   "sources": [
+    "nasa",
+    "commons",
+    "svs"
+   ],
+   "n": 2
+  },
+  {
+   "id": "v_cracks",
+   "query": "ice cracking",
+   "alt": [
+    "crack in ice"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_rio",
+   "query": "Rio de Janeiro aerial beach",
+   "alt": [
+    "Copacabana drone"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_recife",
+   "query": "Recife aerial",
+   "alt": [
+    "Salvador Bahia aerial",
+    "Santos beach aerial"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_coast_flood",
+   "query": "coastal flooding",
+   "alt": [
+    "storm surge waves city"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 2
+  },
+  {
+   "id": "v_ferraz",
+   "query": "Estação Antártica Comandante Ferraz",
+   "alt": [
+    "brazilian antarctic station"
+   ],
+   "sources": [
+    "commons",
+    "pexels",
+    "pixabay"
+   ],
+   "n": 2
+  },
+  {
+   "id": "v_penguins",
+   "query": "penguins antarctica",
+   "alt": [
+    "emperor penguins"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_research_ship",
+   "query": "icebreaker ship antarctica",
+   "alt": [
+    "research vessel ice"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_sunset_ice",
+   "query": "sunset antarctica ice",
+   "alt": [
+    "midnight sun antarctica"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  }
+ ]
+}
