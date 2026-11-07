@@ -1,0 +1,292 @@
+[     0s] ant02-proibido: 42 planos, limite 35.0 min
+[     0s] p_rogozov: 'Leonid Rogozov'
+[     0s]     commons: 0 candidatos em 0.3s
+[     1s]     nasa: 0 candidatos em 0.3s
+[     2s]     openverse: 0 candidatos em 1.2s
+[     2s]   -> 0 imagens
+[     2s] p_novolazarevskaya: 'Novolazarevskaya Station'
+[     2s]     commons: 10 candidatos em 0.4s
+[     2s]     nasa: 0 candidatos em 0.1s
+[     6s]     openverse: 5 candidatos em 3.4s
+[     8s]   -> 3 imagens
+[     8s] p_treaty_signing: 'Antarctic Treaty signing 1959'
+[     9s]     commons: 5 candidatos em 0.4s
+[     9s]     nasa: 0 candidatos em 0.1s
+[    13s]     openverse: 1 candidatos em 4.4s
+[    15s]   -> 3 imagens
+[    15s] p_claims_map: 'Antarctic territorial claims map'
+[    15s]     commons: 10 candidatos em 0.6s
+[    16s]     nasa: 0 candidatos em 0.1s
+[    21s]     openverse: 9 candidatos em 5.8s
+[    28s]     falhou download (openverse) em 6.1s
+[    35s]     falhou download (openverse) em 6.1s
+[    38s]   -> 3 imagens
+[    38s] p_hope_bay: 'Hope Bay Antarctica'
+[    39s]     commons: 12 candidatos em 0.5s
+[    39s]     nasa: 0 candidatos em 0.1s
+[    41s]     openverse: 2 candidatos em 1.8s
+[    43s]   -> 3 imagens
+[    43s] p_igy: 'International Geophysical Year 1957 Antarctica'
+[    43s]     commons: 2 candidatos em 0.5s
+[    43s]     nasa: 0 candidatos em 0.1s
+[    44s]     openverse: 0 candidatos em 0.8s
+[    46s]     commons: 0 candidatos em 0.3s
+[    46s]     nasa: 0 candidatos em 0.1s
+[    46s]     openverse: 0 candidatos em 0.5s
+[    46s]   -> 2 imagens
+[    46s] p_mcmurdo: 'McMurdo Station'
+[    47s]     commons: 12 candidatos em 0.5s
+[    47s]     nasa: 1 candidatos em 0.2s
+[    50s]     openverse: 11 candidatos em 2.8s
+[    57s]     falhou download (nasa) em 6.4s
+[    58s]   -> 3 imagens
+[    58s] p_south_pole: 'Amundsen-Scott South Pole Station'
+[    58s]     commons: 12 candidatos em 0.4s
+[    59s]     nasa: 0 candidatos em 0.1s
+[    64s]     openverse: 11 candidatos em 5.0s
+[    66s]   -> 3 imagens
+[    66s] p_esperanza: 'Esperanza Base Argentina'
+[    66s]     commons: 12 candidatos em 0.6s
+[    66s]     nasa: 0 candidatos em 0.1s
+[    69s]     openverse: 10 candidatos em 2.5s
+[    71s]   -> 3 imagens
+[    71s] p_villa_estrellas: 'Villa Las Estrellas'
+[    71s]     commons: 11 candidatos em 0.4s
+[    71s]     nasa: 0 candidatos em 0.1s
+[    75s]     openverse: 6 candidatos em 3.6s
+[   106s]     falhou download (commons) em 30.0s
+[   136s]     falhou download (openverse) em 30.0s
+[   137s]   -> 3 imagens
+[   137s] p_ferraz: 'Estação Antártica Comandante Ferraz'
+[   138s]     commons: 12 candidatos em 0.7s
+[   138s]     nasa: 0 candidatos em 0.1s
+[   140s]     openverse: 0 candidatos em 1.9s
+[   170s]     falhou download (commons) em 30.0s
+[   200s]     falhou download (commons) em 30.0s
+[   230s]     falhou download (commons) em 30.0s
+[   260s]     falhou download (commons) em 30.0s
+[   260s]     falhou download (commons) em 0.0s
+[   260s]     falhou download (commons) em 0.0s
+[   260s]     falhou download (commons) em 0.0s
+[   260s]     falhou download (commons) em 0.0s
+[   260s]     falhou download (commons) em 0.0s
+[   260s]     falhou download (commons) em 0.0s
+[   260s]     falhou download (commons) em 0.0s
+[   261s]     commons: 12 candidatos em 0.8s
+[   261s]     nasa: 0 candidatos em 0.1s
+[   264s]     openverse: 3 candidatos em 3.0s
+[   265s]     falhou download (openverse) em 0.0s
+[   265s]     falhou download (commons) em 0.0s
+[   265s]     falhou download (openverse) em 0.0s
+[   266s]   -> 3 imagens
+[   266s] p_ferraz_fire: 'Comandante Ferraz fire 2012'
+[   266s]     commons: 1 candidatos em 0.4s
+[   266s]     nasa: 0 candidatos em 0.1s
+[   267s]     openverse: 0 candidatos em 0.8s
+[   267s]     commons: 2 candidatos em 0.4s
+[   267s]     nasa: 0 candidatos em 0.1s
+[   270s]     openverse: 1 candidatos em 3.0s
+[   270s]     falhou download (openverse) em 0.0s
+[   272s]   -> 1 imagens
+[   272s] p_navio_brasil: 'Navio Polar Almirante Maximiano'
+[   273s]     commons: 12 candidatos em 0.8s
+[   273s]     nasa: 0 candidatos em 0.1s
+[   274s]     openverse: 0 candidatos em 1.0s
+[   274s]     falhou download (commons) em 0.0s
+[   276s]   -> 3 imagens
+[   276s] p_hercules_fab: 'C-130 Hercules Antarctica'
+[   276s]     commons: 11 candidatos em 0.5s
+[   276s]     nasa: 0 candidatos em 0.1s
+[   278s]     openverse: 12 candidatos em 1.4s
+[   280s]   -> 3 imagens
+[   280s] p_drake: 'Drake Passage waves'
+[   280s]     pixabay: 12 candidatos em 0.3s
+[   280s]     commons: 1 candidatos em 0.4s
+[   283s]   -> 3 imagens
+[   283s] p_ushuaia: 'Ushuaia harbor'
+[   283s]     pixabay: 12 candidatos em 0.4s
+[   284s]     commons: 10 candidatos em 0.5s
+[   285s]     falhou download (commons) em 0.0s
+[   286s]   -> 3 imagens
+[   286s] p_expedition_ship: 'Antarctica expedition cruise ship'
+[   287s]     pixabay: 12 candidatos em 0.4s
+[   287s]     commons: 12 candidatos em 0.6s
+[   290s]   -> 3 imagens
+[   290s] p_zodiac: 'zodiac boat Antarctica tourists'
+[   290s]     pixabay: 12 candidatos em 0.2s
+[   291s]     commons: 9 candidatos em 0.6s
+[   293s]   -> 3 imagens
+[   293s] p_penguins_tourists: 'penguins tourists Antarctica'
+[   293s]     pixabay: 12 candidatos em 0.2s
+[   294s]     commons: 12 candidatos em 0.7s
+[   296s]   -> 3 imagens
+[   296s] p_deception: 'Deception Island'
+[   305s]     commons: 11 candidatos em 9.1s
+[   305s]     nasa: 0 candidatos em 0.1s
+[   308s]     openverse: 10 candidatos em 2.9s
+[   310s]   -> 3 imagens
+[   310s] p_mawson: 'Douglas Mawson'
+[   310s]     commons: 6 candidatos em 0.7s
+[   311s]     nasa: 0 candidatos em 0.1s
+[   314s]     openverse: 7 candidatos em 3.5s
+[   316s]   -> 3 imagens
+[   316s] p_scott_hut: "Scott's Hut Cape Evans"
+[   317s]     commons: 12 candidatos em 0.5s
+[   317s]     nasa: 0 candidatos em 0.1s
+[   321s]     openverse: 12 candidatos em 4.2s
+[   323s]   -> 3 imagens
+[   323s] p_sled_dogs: 'sled dogs Antarctica historic'
+[   323s]     commons: 1 candidatos em 0.3s
+[   323s]     nasa: 0 candidatos em 0.1s
+[   325s]     openverse: 0 candidatos em 1.5s
+[   326s]     commons: 7 candidatos em 0.6s
+[   326s]     nasa: 0 candidatos em 0.1s
+[   330s]     openverse: 3 candidatos em 4.2s
+[   330s]     falhou download (commons) em 0.0s
+[   332s]   -> 3 imagens
+[   332s] p_boot_wash: 'boot cleaning biosecurity Antarctica'
+[   332s]     commons: 0 candidatos em 0.4s
+[   332s]     nasa: 0 candidatos em 0.1s
+[   335s]     openverse: 0 candidatos em 2.4s
+[   335s]     commons: 0 candidatos em 0.3s
+[   335s]     nasa: 0 candidatos em 0.1s
+[   337s]     openverse: 0 candidatos em 2.3s
+[   337s]   -> 0 imagens
+[   337s] p_moss: 'Antarctic moss'
+[   338s]     commons: 12 candidatos em 0.8s
+[   338s]     nasa: 0 candidatos em 0.2s
+[   342s]     openverse: 3 candidatos em 4.0s
+[   342s]     falhou download (commons) em 0.0s
+[   343s]     falhou download (commons) em 0.0s
+[   344s]     falhou download (commons) em 0.0s
+[   344s]     falhou download (openverse) em 0.0s
+[   344s]   -> 3 imagens
+[   344s] p_bellingshausen_church: 'Trinity Church King George Island'
+[   345s]     commons: 12 candidatos em 0.5s
+[   345s]     nasa: 0 candidatos em 0.1s
+[   349s]     openverse: 7 candidatos em 4.0s
+[   349s]     falhou download (commons) em 0.0s
+[   349s]     falhou download (openverse) em 0.0s
+[   350s]     falhou download (openverse) em 0.0s
+[   351s]   -> 3 imagens
+[   351s] p_qinling: 'Qinling Station'
+[   352s]     commons: 12 candidatos em 0.8s
+[   352s]     nasa: 0 candidatos em 0.1s
+[   357s]     openverse: 12 candidatos em 4.7s
+[   357s]     falhou download (commons) em 0.0s
+[   357s]     falhou download (openverse) em 0.0s
+[   357s]     falhou download (commons) em 0.0s
+[   357s]     falhou download (openverse) em 0.0s
+[   357s]     falhou download (commons) em 0.0s
+[   357s]     falhou download (openverse) em 0.0s
+[   357s]     falhou download (commons) em 0.0s
+[   357s]     falhou download (openverse) em 0.0s
+[   357s]     falhou download (commons) em 0.0s
+[   357s]     falhou download (openverse) em 0.0s
+[   357s]     falhou download (commons) em 0.0s
+[   357s]     falhou download (openverse) em 0.0s
+[   357s]     falhou download (openverse) em 0.0s
+[   358s]     falhou download (openverse) em 0.0s
+[   358s]   -> 3 imagens
+[   358s] p_krill: 'Antarctic krill'
+[   367s]     commons: 7 candidatos em 8.4s
+[   367s]     nasa: 0 candidatos em 0.1s
+[   371s]     openverse: 10 candidatos em 4.0s
+[   371s]     falhou download (commons) em 0.0s
+[   371s]     falhou download (openverse) em 0.0s
+[   371s]     falhou download (commons) em 0.0s
+[   371s]     falhou download (openverse) em 0.0s
+[   371s]     falhou download (openverse) em 0.0s
+[   372s]     falhou download (openverse) em 0.0s
+[   372s]     falhou download (commons) em 0.0s
+[   372s]     falhou download (openverse) em 0.0s
+[   372s]     falhou download (commons) em 0.0s
+[   372s]     falhou download (openverse) em 0.0s
+[   372s]     falhou download (commons) em 0.0s
+[   372s]     falhou download (openverse) em 0.0s
+[   372s]     falhou download (openverse) em 0.0s
+[   372s]     falhou download (openverse) em 0.0s
+[   373s]   -> 3 imagens
+[   373s] p_ross_sea: 'Ross Sea'
+[   374s]     commons: 11 candidatos em 0.8s
+[   374s]     nasa: 0 candidatos em 0.2s
+[   375s]     openverse: 11 candidatos em 1.3s
+[   377s]   -> 3 imagens
+[   377s] p_vinson: 'Mount Vinson'
+[   377s]     commons: 8 candidatos em 0.5s
+[   378s]     nasa: 0 candidatos em 0.1s
+[   379s]     openverse: 11 candidatos em 1.3s
+[   379s]     falhou download (commons) em 0.0s
+[   379s]     falhou download (openverse) em 0.0s
+[   379s]     falhou download (openverse) em 0.0s
+[   381s]   -> 3 imagens
+[   381s] p_aurora_station: 'aurora australis station'
+[   381s]     commons: 11 candidatos em 0.4s
+[   381s]     nasa: 0 candidatos em 0.2s
+[   384s]     openverse: 11 candidatos em 2.8s
+[   386s]   -> 3 imagens
+[   386s] p_iceberg: 'iceberg Antarctica'
+[   386s]     pixabay: 12 candidatos em 0.3s
+[   387s]     commons: 11 candidatos em 0.4s
+[   389s]   -> 3 imagens
+[   389s] p_glacier: 'Antarctic glacier'
+[   389s]     pixabay: 12 candidatos em 0.2s
+[   390s]     commons: 9 candidatos em 0.7s
+[   391s]     falhou download (commons) em 0.0s
+[   392s]     falhou download (commons) em 0.0s
+[   392s]   -> 3 imagens
+[   392s] p_blizzard: 'blizzard Antarctica'
+[   393s]     pixabay: 12 candidatos em 0.2s
+[   394s]     commons: 10 candidatos em 1.3s
+[   395s]     falhou download (commons) em 0.0s
+[   396s]     falhou download (commons) em 0.0s
+[   397s]   -> 3 imagens
+[   397s] p_weddell_seal: 'Weddell seal'
+[   397s]     commons: 12 candidatos em 0.5s
+[   398s]     nasa: 0 candidatos em 0.1s
+[   402s]     openverse: 9 candidatos em 4.1s
+[   402s]     falhou download (openverse) em 0.0s
+[   402s]     falhou download (commons) em 0.0s
+[   402s]     falhou download (openverse) em 0.0s
+[   403s]     falhou download (openverse) em 0.0s
+[   403s]   -> 3 imagens
+[   403s] p_emperor: 'emperor penguin'
+[   404s]     pixabay: 12 candidatos em 0.5s
+[   404s]     commons: 11 candidatos em 0.4s
+[   406s]   -> 3 imagens
+[   406s] p_whale: 'humpback whale Antarctica'
+[   407s]     pixabay: 12 candidatos em 0.5s
+[   407s]     commons: 12 candidatos em 0.6s
+[   410s]   -> 3 imagens
+[   410s] p_drill_rig: 'oil platform'
+[   410s]     pixabay: 12 candidatos em 0.2s
+[   434s]   ! commons.wikimedia.org: 429 rate limit
+[   434s]     commons: 0 candidatos em 24.0s
+[   436s]   -> 3 imagens
+[   436s] p_madrid: 'Madrid Protocol 1991'
+[   437s]     commons: 2 candidatos em 0.4s
+[   437s]     nasa: 0 candidatos em 0.1s
+[   438s]     openverse: 0 candidatos em 1.3s
+[   439s]     falhou download (commons) em 0.0s
+[   439s]     commons: 4 candidatos em 0.5s
+[   439s]     nasa: 0 candidatos em 0.1s
+[   442s]     openverse: 3 candidatos em 2.5s
+[   443s]     falhou download (openverse) em 0.0s
+[   443s]     falhou download (commons) em 0.0s
+[   443s]     falhou download (openverse) em 0.0s
+[   443s]   -> 3 imagens
+[   443s] p_washington: 'Washington 1959'
+[   443s]     pixabay: 12 candidatos em 0.2s
+[   444s]     commons: 7 candidatos em 0.7s
+[   446s]   -> 3 imagens
+[   446s] p_punta_arenas: 'Punta Arenas'
+[   446s]     pixabay: 12 candidatos em 0.2s
+[   447s]     commons: 12 candidatos em 0.5s
+[   450s]   -> 3 imagens
+[   450s] p_mars_analog: 'Concordia Station'
+[   450s]     commons: 12 candidatos em 0.6s
+[   450s]     nasa: 0 candidatos em 0.1s
+[   457s]     openverse: 10 candidatos em 6.6s
+[   457s]     falhou download (commons) em 0.0s
+[   459s]   -> 3 imagens
+[   461s] fim: 117 imagens
