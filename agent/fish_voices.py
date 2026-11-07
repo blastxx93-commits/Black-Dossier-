@@ -53,9 +53,9 @@ def main():
     model = os.environ.get("FISH_MODEL", "").strip() or "s2.1-pro"
     text = open(a.text).read().strip()
     voices = [info(key, v) for v in a.ids.split(",") if v.strip()]
-    seen = {v.get("_id") for v in voices}
+    seen, limit = {v.get("_id") for v in voices}, len(voices) + a.n
     for m in search(key, a.lang, a.query, max(a.n * 3, 20)):
-        if len(voices) >= a.n + len(seen):
+        if len(voices) >= limit:
             break
         if m.get("_id") not in seen:
             voices.append(m); seen.add(m.get("_id"))

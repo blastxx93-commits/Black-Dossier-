@@ -30,7 +30,7 @@ on:
         required: false
         default: "fish"
       voice_test:
-        description: "Teste de vozes: idioma (ex.: pt). Narra só o ch00_hook com as vozes mais usadas da Fish nesse idioma (+ as de 'voice', separadas por vírgula) e publica em vozes/<episódio>/"
+        description: "Teste de vozes: idioma (ex.: pt). Narra só o ch00_hook com as vozes mais usadas da Fish nesse idioma (+ as de 'voice', separadas por vírgula; 'only' vira palavra de busca no nome da voz, ex.: narrador) e publica em vozes/<episódio>[-busca]/"
         required: false
         default: ""
 
@@ -63,8 +63,9 @@ jobs:
           FISH_MODEL: ${{ inputs.model != '' && inputs.model || vars.FISH_MODEL }}
         run: |
           python3 agent/fish_voices.py --text "episodes/${{ inputs.episode }}/narration/ch00_hook.txt" --lang "${{ inputs.voice_test }}" \
-            --n 6 --ids "${{ inputs.voice }}" --tag "${{ inputs.episode }}" --out ../out
-          cd .. && bash main/agent/publish_assets.sh "out/vozes/${{ inputs.episode }}" "vozes/${{ inputs.episode }}" "Teste de vozes: ${{ inputs.episode }}"
+            --n 6 --ids "${{ inputs.voice }}" --query "${{ inputs.only }}" --tag "${{ inputs.episode }}${{ inputs.only != '' && format('-{0}', inputs.only) || '' }}" --out ../out
+          T="${{ inputs.episode }}${{ inputs.only != '' && format('-{0}', inputs.only) || '' }}"
+          cd .. && bash main/agent/publish_assets.sh "out/vozes/$T" "vozes/$T" "Teste de vozes: ${{ inputs.episode }}"
       - name: Narrar
         if: ${{ inputs.voice_test == '' }}
         working-directory: main
