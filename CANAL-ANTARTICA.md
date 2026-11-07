@@ -34,6 +34,8 @@ O Claude cuida de temas, roteiro, narração e edição; o dono só dá o aval e
 - **Descartar tudo que não tem a ver com o tema** (pedido do dono): toda foto, clipe e cena de IA passa pela revisão das folhas de contato;
   só o que está em `edit/reviewed.json` pode entrar no vídeo (o resto é bloqueado automaticamente).
 - **Nada se repete**: nenhuma foto, clipe ou cena de IA duas vezes no mesmo vídeo (checagem automática por conteúdo bloqueia a montagem).
+- **Trilha (ant01):** 5 faixas enviadas pelo dono, geradas no Suno (`edit/musica/`), em loop com emendas suaves; mistério usa a faixa de drama
+  e frio usa a reflexiva. Uso comercial de música do Suno depende do plano pago do dono na época da geração.
 - **Trilha sonora de qualidade e sem risco de direitos autorais**: preferência pela Biblioteca de Áudio do YouTube ("atribuição não obrigatória",
   baixada pelo dono, 1 faixa por clima em `edit/musica/<clima>.mp3`). Kevin MacLeod (CC BY) só como reserva: é legal, mas às vezes gera
   reivindicação falsa de Content ID. Baixa sob a voz.

@@ -3,8 +3,8 @@
 
 Reads episodes/<ep>/edit/trilha.json:
     {"moods": {"tensao": ["Gathering Darkness", "The Descent"], "misterio": [...], ...}}
-For each mood, a track the owner downloaded from the YouTube Audio Library wins: <work>/a/musica/<mood>.mp3
-(assets branch, episode folder). Otherwise it downloads the first track that exists from Kevin MacLeod's library (incompetech.com,
+For each mood, a track sent by the owner wins: episodes/<ep>/edit/musica/<mood>.mp3 (or the track named in
+"aliases" for a mood without its own file). Otherwise it downloads the first track that exists from Kevin MacLeod's library (incompetech.com,
 Creative Commons BY 4.0: credit goes in the video description) into <work>/musica/<mood>.mp3 and writes
 <work>/musica/creditos.txt. If no track of a mood can be downloaded, a synthesized bed of a similar
 style (engine/aus_music.py) is written instead, so a render never fails for lack of music.
@@ -41,10 +41,16 @@ def main(spec_path, work):
     credits = []
     for mood, titles in spec["moods"].items():
         out = os.path.join(d, f"{mood}.mp3")
-        own = os.path.join(work, "a", "musica", f"{mood}.mp3")
-        if os.path.exists(own):   # YouTube Audio Library track sent by the owner: no Content ID risk
-            subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", own, "-b:a", "192k", out], check=True)
-            print(f"{mood}: faixa do dono (Biblioteca de Áudio do YouTube)", flush=True)
+        src = mood
+        own = os.path.join(os.path.dirname(os.path.abspath(spec_path)), "musica", f"{mood}.mp3")
+        if not os.path.exists(own) and spec.get("aliases", {}).get(mood):
+            src = spec["aliases"][mood]
+            own = os.path.join(os.path.dirname(os.path.abspath(spec_path)), "musica", f"{src}.mp3")
+        if os.path.exists(own):   # track sent by the owner: 4 copies joined with 4 s crossfades = a long bed, no jump at the loop
+            subprocess.run(["ffmpeg", "-v", "error", "-y"] + ["-i", own] * 4 + ["-filter_complex",
+                            "[0][1]acrossfade=d=4:c1=tri:c2=tri[a];[a][2]acrossfade=d=4:c1=tri:c2=tri[b];"
+                            "[b][3]acrossfade=d=4:c1=tri:c2=tri[o]", "-map", "[o]", "-ar", "48000", "-b:a", "192k", out], check=True)
+            print(f"{mood}: faixa do dono ({src}.mp3)", flush=True)
             continue
         got = next((t for t in titles if fetch(t, out)), None)
         if got:
