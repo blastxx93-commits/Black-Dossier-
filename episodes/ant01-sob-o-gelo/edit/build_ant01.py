@@ -17,7 +17,7 @@ PHOTOS = {
     "gelo": ["p_antarctica_mosaic", "p_iceberg", "p_ice_shelf", "ai:ai_white_desert", "p_station_night", "p_aurora",
              "x_p_iceberg", "x_p_glacier", "x_p_mountains", "x_p_snowfield", "x_p_ice"],
     "escala": ["p_bedmap", "ai:ai_ice_weight", "ai:ai_archipelago", "ai:ai_pao_acucar_stack", "p_pao_acucar", "ai:ai_x_ice_cross", "ai:ai_x_crust_press"],
-    "vostok": ["p_vostok_station", "ai:ai_vostok_1957", "ai:ai_extreme_cold", "p_bellingshausen", "p_vostok_satellite", "ai:ai_x_station_lights", "ai:ai_x_plateau_night", "ai:ai_x_borehole_top"],
+    "vostok": ["p_vostok_station", "ai:ai_vostok_1957", "ai:ai_extreme_cold", "p_bellingshausen", "p_vostok_satellite", "ai:ai_x_station_lights", "ai:ai_x_plateau_night", "ai:ai_x_borehole_top", "x_p_polar_night"],
     "radar": ["ai:ai_radar_plane_1970s", "p_radar_echo", "ai:ai_radar_mirror", "p_ers1", "ai:ai_satellite_ice", "ai:ai_x_satellite_scan", "ai:ai_x_lake_reflection"],
     "lago": ["ai:ai_lake_under_ice", "p_vostok_lake_map", "ai:ai_breakthrough", "ai:ai_pressure_heat", "ai:ai_cutaway_continent", "ai:ai_x_lake_ceiling"],
     "perfuracao": ["ai:ai_drill_dark", "p_vostok_core", "p_ice_core_lab", "ai:ai_drill_camp", "ai:ai_kerosene_hole",
@@ -33,12 +33,12 @@ PHOTOS = {
     "scott": ["p_scott", "p_amundsen", "p_terra_nova", "p_scott_tent", "ai:ai_scott_sledge", "ai:ai_scott_rocks", "ai:ai_scott_tent", "ai:ai_y_scott_march", "ai:ai_y_scott_flag", "ai:ai_y_sledge_tracks", "ai:ai_y_rescue_cairn"],
     "passado": ["p_glossopteris", "ai:ai_glossopteris_forest", "p_gondwana", "ai:ai_gondwana_globe", "p_cryolophosaurus",
                 "ai:ai_cryolophosaurus", "p_kirkpatrick", "ai:ai_cretaceous_rainforest", "ai:ai_polar_dark_forest",
-                "p_polarstern", "ai:ai_drill_seabed", "ai:ai_fossil_roots", "p_rainforest_nz", "ai:ai_x_fossil_leaf", "ai:ai_x_fern_forest", "ai:ai_x_polar_sun_forest", "ai:ai_y_museum_fossil", "ai:ai_y_gondwana_land", "ai:ai_y_jurassic_river", "ai:ai_y_core_lab_drill"],
-    "arquivo": ["ai:ai_snow_layers", "ai:ai_air_bubbles", "p_epica", "p_beyond_epica", "ai:ai_ice_ages", "p_allan_hills", "ai:ai_x_ice_core_rack", "ai:ai_x_bubble_macro", "ai:ai_y_snow_falling_plateau", "ai:ai_y_ice_core_slice"],
+                "p_polarstern", "ai:ai_drill_seabed", "ai:ai_fossil_roots", "p_rainforest_nz", "ai:ai_x_fossil_leaf", "ai:ai_x_fern_forest", "ai:ai_x_polar_sun_forest", "ai:ai_y_museum_fossil", "ai:ai_y_gondwana_land", "ai:ai_y_jurassic_river", "ai:ai_y_core_lab_drill", "x_p_fern_forest", "x_p_fossil"],
+    "arquivo": ["ai:ai_snow_layers", "ai:ai_air_bubbles", "p_epica", "p_beyond_epica", "ai:ai_ice_ages", "p_allan_hills", "ai:ai_x_ice_core_rack", "ai:ai_x_bubble_macro", "ai:ai_y_snow_falling_plateau", "ai:ai_y_ice_core_slice", "x_p_snow_crystal", "x_p_ice_bubbles", "x_p_ice_cave"],
     "meteorito": ["p_alh84001", "p_meteorite_ice", "ai:ai_meteorite_blue_ice", "ai:ai_microfossil", "ai:ai_y_meteorite_field", "ai:ai_y_mars_rock_lab"],
     "thwaites": ["p_thwaites", "p_thwaites_front", "ai:ai_thwaites_front", "ai:ai_ice_river", "ai:ai_bowl_bed",
-                 "ai:ai_warm_water_under", "ai:ai_tide_intrusion", "p_icefin", "ai:ai_cork", "ai:ai_x_glacier_front_storm", "ai:ai_x_warm_current", "ai:ai_x_grounding_line", "ai:ai_x_cracking_shelf", "ai:ai_x_icebergs_sea", "ai:ai_y_glacier_flow_aerial", "ai:ai_y_ice_shelf_edge", "ai:ai_y_seawater_under", "ai:ai_y_satellite_ice_loss"],
-    "litoral": ["p_rio", "p_santos", "p_salvador", "p_recife", "p_belem", "ai:ai_flooded_beach", "ai:ai_x_coast_city", "ai:ai_x_high_tide", "ai:ai_y_rio_sunset", "ai:ai_y_northeast_coast"],
+                 "ai:ai_warm_water_under", "ai:ai_tide_intrusion", "p_icefin", "ai:ai_cork", "ai:ai_x_glacier_front_storm", "ai:ai_x_warm_current", "ai:ai_x_grounding_line", "ai:ai_x_cracking_shelf", "ai:ai_x_icebergs_sea", "ai:ai_y_glacier_flow_aerial", "ai:ai_y_ice_shelf_edge", "ai:ai_y_seawater_under", "ai:ai_y_satellite_ice_loss", "x_p_glacier_wall", "x_p_calving", "x_p_ice_crack", "x_p_frozen_sea", "x_p_ocean_ice"],
+    "litoral": ["p_rio", "p_santos", "p_salvador", "p_recife", "p_belem", "ai:ai_flooded_beach", "ai:ai_x_coast_city", "ai:ai_x_high_tide", "ai:ai_y_rio_sunset", "ai:ai_y_northeast_coast", "x_p_coast_brazil"],
     "brasil": ["p_ferraz", "ai:ai_ferraz_station", "p_king_george", "p_df", "ai:ai_y_station_bay", "ai:ai_y_scientist_ice"],
     "final": ["ai:ai_hidden_world_final", "ai:ai_camera_under_ice", "p_penguins", "x_p_penguin", "x_p_seal", "x_p_ship", "ai:ai_x_penguins_station", "ai:ai_x_ice_glow", "ai:ai_x_final_horizon"],
 }
@@ -101,7 +101,7 @@ c.at("Uma cordilheira do tamanho dos Alpes", P("montanhas"))
 c.at("O ponto mais fundo", P("abismo"))
 c.at("uma cachoeira que parece sangrar", P("cachoeira"))
 c.at("Neste vídeo, a gente vai remover", P("gelo"))
-questions(c, ["Água líquida no lugar mais frio do mundo?", "O que foi encontrado vivo lá embaixo?", "Por que os cientistas estão com medo?"],
+questions(c, ["Água líquida a −89 °C?", "O que vive lá embaixo?", "Por que os cientistas temem?"],
           ["Como pode existir água líquida", "O que foi encontrado vivo", "E por que a descoberta"])
 c.at("uma coisa que está acontecendo agora", P("thwaites"))
 c.at("inclusive do Brasil", P("litoral"))

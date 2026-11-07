@@ -1,0 +1,3047 @@
+{
+ "output": "ANT01_Sob_o_Gelo.mp4",
+ "fps": 24,
+ "music": [
+  {
+   "file": "musica/tensao.mp3",
+   "start": 0.0,
+   "end": 42.92,
+   "gain": -26,
+   "fade_in": 0.5,
+   "fade_out": 2.4
+  },
+  {
+   "file": "musica/misterio.mp3",
+   "start": 40.52,
+   "end": 89.86,
+   "gain": -27,
+   "fade_in": 2.0,
+   "fade_out": 2.4
+  },
+  {
+   "file": "musica/maravilha.mp3",
+   "start": 87.46,
+   "end": 191.31,
+   "gain": -28,
+   "fade_in": 2.0,
+   "fade_out": 2.4
+  },
+  {
+   "file": "musica/frio.mp3",
+   "start": 188.91,
+   "end": 245.45,
+   "gain": -28,
+   "fade_in": 2.0,
+   "fade_out": 2.4
+  },
+  {
+   "file": "musica/misterio.mp3",
+   "start": 243.05,
+   "end": 382.59,
+   "gain": -27,
+   "fade_in": 2.0,
+   "fade_out": 2.4
+  },
+  {
+   "file": "musica/tensao.mp3",
+   "start": 380.19,
+   "end": 451.03,
+   "gain": -26,
+   "fade_in": 2.0,
+   "fade_out": 2.4
+  },
+  {
+   "file": "musica/misterio.mp3",
+   "start": 448.63,
+   "end": 491.71,
+   "gain": -27,
+   "fade_in": 2.0,
+   "fade_out": 2.4
+  },
+  {
+   "file": "musica/maravilha.mp3",
+   "start": 489.31,
+   "end": 668.3,
+   "gain": -28,
+   "fade_in": 2.0,
+   "fade_out": 2.4
+  },
+  {
+   "file": "musica/epico.mp3",
+   "start": 665.9,
+   "end": 797.46,
+   "gain": -27,
+   "fade_in": 2.0,
+   "fade_out": 2.4
+  },
+  {
+   "file": "musica/tensao.mp3",
+   "start": 795.06,
+   "end": 869.48,
+   "gain": -26,
+   "fade_in": 2.0,
+   "fade_out": 2.4
+  },
+  {
+   "file": "musica/misterio.mp3",
+   "start": 867.08,
+   "end": 1012.19,
+   "gain": -27,
+   "fade_in": 2.0,
+   "fade_out": 2.4
+  },
+  {
+   "file": "musica/drama.mp3",
+   "start": 1009.79,
+   "end": 1060.73,
+   "gain": -28,
+   "fade_in": 2.0,
+   "fade_out": 2.4
+  },
+  {
+   "file": "musica/maravilha.mp3",
+   "start": 1058.33,
+   "end": 1181.07,
+   "gain": -28,
+   "fade_in": 2.0,
+   "fade_out": 2.4
+  },
+  {
+   "file": "musica/misterio.mp3",
+   "start": 1178.67,
+   "end": 1336.31,
+   "gain": -27,
+   "fade_in": 2.0,
+   "fade_out": 2.4
+  },
+  {
+   "file": "musica/tensao.mp3",
+   "start": 1333.91,
+   "end": 1349.16,
+   "gain": -26,
+   "fade_in": 2.0,
+   "fade_out": 2.4
+  },
+  {
+   "file": "musica/tensao.mp3",
+   "start": 1346.76,
+   "end": 1523.59,
+   "gain": -26,
+   "fade_in": 2.0,
+   "fade_out": 2.4
+  },
+  {
+   "file": "musica/reflexivo.mp3",
+   "start": 1521.19,
+   "end": 1595.06,
+   "gain": -28,
+   "fade_in": 2.0,
+   "fade_out": 5
+  }
+ ],
+ "chapters": [
+  {
+   "audio": "audio/ch00_hook.flac",
+   "lead_in": 0,
+   "tail": 0.6,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_ice_sheet_aerial/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.46,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "3.769 m",
+     "label": "o buraco mais solitário da Terra",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "color": "red",
+     "dur": 3.39,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_vostok_station/1_commons.jpg",
+     "move": "in",
+     "caption": "Estação Vostok|5 de fevereiro de 2012",
+     "dur": 4.45,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "−89,2 °C",
+     "label": "a menor temperatura já medida na superfície da Terra",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "OMM",
+     "dur": 7.12,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_drill_dark_1.jpg",
+     "move": "left",
+     "dur": 3.62,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_oil_fluid/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 1.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_ice_core_lab/1_commons.jpg",
+     "move": "out",
+     "dur": 4.98,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Embaixo dela não havia rocha.",
+     "highlight": "ROCHA.",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 2.12,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_dark_water/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_lake_under_ice_1.jpg",
+     "move": "right",
+     "dur": 3.3,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_subglacial_lakes/3_svs.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.42,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_lakes_network_1.jpg",
+     "move": "in",
+     "dur": 5.96,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_bedmachine/3_svs.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.06,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_seismic_1958_1.jpg",
+     "move": "up",
+     "dur": 4.4,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_denman_canyon_1.jpg",
+     "move": "out",
+     "dur": 4.84,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_rust/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.38,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_antarctica_mosaic/1_commons.jpg",
+     "move": "down",
+     "dur": 6.28,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Água líquida a −89 °C?",
+      "O que vive lá embaixo?",
+      "Por que os cientistas temem?"
+     ],
+     "starts": [
+      0,
+      92,
+      156
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 3.8599999999999994
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 6.540000000000006
+      }
+     ],
+     "dur": 11.3,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_glacier_front/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.68,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_rio/1_openverse.jpg",
+     "move": "in",
+     "dur": 2.156,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch01.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_ice_sheet_aerial/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.16,
+     "fixed": true
+    },
+    {
+     "type": "compare",
+     "title": "Área",
+     "left": [
+      "Antártida",
+      "14 mi km²",
+      "98% sob o gelo"
+     ],
+     "right": [
+      "Brasil",
+      "8,5 mi km²",
+      ""
+     ],
+     "accent": "left",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.8
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/x_snow_wind/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.46,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_antarctica_mosaic/2_openverse.jpg",
+     "move": "left",
+     "dur": 2.18,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_bedmachine/2_svs.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/x_snow_wind/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.46,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "4.776 m",
+     "label": "a parte mais grossa da camada de gelo",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "BedMachine",
+     "dur": 4.64,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_iceberg/1_commons.jpg",
+     "move": "out",
+     "dur": 3.2,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "70%",
+     "label": "da água doce da Terra",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "+58 m",
+     "label": "no nível dos oceanos se tudo derretesse",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "BedMachine",
+     "color": "red",
+     "dur": 3.54,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_rio/3_commons.jpg",
+     "move": "right",
+     "dur": 4.02,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_globe/1_svs.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.94,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_bedmap/1_commons.jpg",
+     "move": "in",
+     "dur": 6.12,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_bedmap/2_openverse.jpg",
+     "move": "up",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_snowfield/2_pixabay.jpg",
+     "move": "down",
+     "dur": 5.2,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_bedmap/3_pixabay.jpg",
+     "move": "out",
+     "dur": 4.78,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_icebergs/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.58,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Você está vendo a tampa.",
+     "highlight": "TAMPA.",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 1.18,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_icebergs/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_snowfield/4_pixabay.jpg",
+     "move": "in",
+     "dur": 6.86,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_plateau_snow/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.136,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch02.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/p_vostok_station/2_openverse.jpg",
+     "move": "down",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/x_starry_snow/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.76,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_icesat/2_nasa.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/x_aurora/5_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.78,
+     "fixed": true
+    },
+    {
+     "type": "map",
+     "src": "a/p_iceberg/2_openverse.jpg",
+     "x": 0.62,
+     "y": 0.55,
+     "label": "Estação Vostok",
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.3
+      }
+     ],
+     "sub": "3.488 m de altitude",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_polar_night/2_pixabay.jpg",
+     "move": "left",
+     "dur": 3.9,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "−89,2 °C",
+     "label": "21 de julho de 1983 · Vostok",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "OMM",
+     "color": "red",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_polar_night/3_pixabay.jpg",
+     "move": "out",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_polar_night/4_pixabay.jpg",
+     "move": "right",
+     "dur": 3.12,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_vostok_1957_1.jpg",
+     "move": "left",
+     "dur": 7.56,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ocean_ice/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_radar_plane_1970s_1.jpg",
+     "move": "out",
+     "dur": 7.9,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_radar_plane/3_svs.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_polar_night/5_pixabay.jpg",
+     "move": "in",
+     "dur": 3.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_radar_echo/2_unsplash.jpg",
+     "move": "right",
+     "dur": 6.94,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_radar_plane/1_svs.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_polar_night/6_pixabay.jpg",
+     "move": "up",
+     "dur": 5.4,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_vostok_lake_map/1_commons.jpg",
+     "move": "in",
+     "dur": 1.68,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/x_starry_snow/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "caption": "1996|a confirmação",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_snowfield/5_pixabay.jpg",
+     "move": "out",
+     "dur": 6.4,
+     "fixed": true
+    },
+    {
+     "type": "fact",
+     "name": "Lago Vostok",
+     "tag": "confirmado em 1996",
+     "bg": "a/ai/ai_breakthrough_1.jpg",
+     "rows": [
+      [
+       "comprimento",
+       "~250 km"
+      ],
+      [
+       "largura",
+       "~50 km"
+      ],
+      [
+       "profundidade",
+       "+800 m"
+      ],
+      [
+       "gelo por cima",
+       "~3,7 km"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.5
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_snowfield/6_pixabay.jpg",
+     "move": "down",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_ice/1_pixabay.jpg",
+     "move": "in",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_ice/2_pixabay.jpg",
+     "move": "left",
+     "dur": 3.16,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Por que essa água não congela?",
+     "highlight": "CONGELA?",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 6.1,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_cutaway_continent_1.jpg",
+     "move": "out",
+     "dur": 7.42,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_dark_water/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.28,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_iceberg/3_pixabay.jpg",
+     "move": "down",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_ice/3_pixabay.jpg",
+     "move": "out",
+     "dur": 3.08,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_lake_draining_1.jpg",
+     "move": "in",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_ice/4_pixabay.jpg",
+     "move": "right",
+     "dur": 6.42,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_tardigrade/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.64,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch03.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_bubbles_ice/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_ice/5_pixabay.jpg",
+     "move": "in",
+     "dur": 5.02,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_snow_layers_1.jpg",
+     "move": "left",
+     "dur": 7.7,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_lab_microscope/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_hidden_world_final_1.jpg",
+     "move": "up",
+     "dur": 5.2,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Não por falta de tecnologia. Por medo.",
+     "highlight": "MEDO.",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 2.86,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_drill_camp_1.jpg",
+     "move": "out",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_penguins/1_commons.jpg",
+     "move": "out",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_penguins/3_pixabay.jpg",
+     "move": "down",
+     "dur": 7.56,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_water_rising_1.jpg",
+     "move": "right",
+     "dur": 4.053,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_lab_sample_1.jpg",
+     "move": "in",
+     "dur": 6.447,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_hidden_rivers_1.jpg",
+     "move": "up",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_penguin/2_pixabay.jpg",
+     "move": "in",
+     "dur": 7.64,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_bellingshausen/1_commons.jpg",
+     "move": "out",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_penguin/3_pixabay.jpg",
+     "move": "left",
+     "dur": 5.32,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "3.769,3 m",
+     "label": "5 de fevereiro de 2012 · a broca chega à água",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Nature",
+     "color": "red",
+     "dur": 6.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_vostok_satellite/1_commons.jpg",
+     "move": "down",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_penguin/4_pixabay.jpg",
+     "move": "out",
+     "dur": 3.32,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_x_station_lights_1.jpg",
+     "move": "in",
+     "dur": 3.16,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_bacteria/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_penguin/5_pixabay.jpg",
+     "move": "right",
+     "dur": 5.14,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_polar_night/1_pixabay.jpg",
+     "move": "left",
+     "dur": 7.08,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Até hoje, nenhuma prova definitiva.",
+     "highlight": "NENHUMA",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.76,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_river_ice/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_penguin/6_pixabay.jpg",
+     "move": "in",
+     "dur": 6.1,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_tardigrade/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.56,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch04.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "stat",
+     "value": "675",
+     "label": "lagos escondidos sob o gelo da Antártida",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Livingstone et al., 2022",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_seal/1_pixabay.jpg",
+     "move": "up",
+     "dur": 3.38,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_hotwater_drill/3_svs.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.92,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_whillans/1_commons.jpg",
+     "move": "out",
+     "dur": 2.2,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_radar_plane/2_svs.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_seal/2_pixabay.jpg",
+     "move": "out",
+     "dur": 7.74,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_hot_drill_camp_1.jpg",
+     "move": "right",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_seal/3_pixabay.jpg",
+     "move": "down",
+     "dur": 3.58,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_x_river_tunnel_1.jpg",
+     "move": "in",
+     "dur": 5.78,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_plateau_snow/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.28,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_x_ice_stream_1.jpg",
+     "move": "up",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_seal/5_pixabay.jpg",
+     "move": "in",
+     "dur": 4.46,
+     "fixed": true
+    },
+    {
+     "type": "fact",
+     "name": "Lago Whillans",
+     "tag": "perfurado em jan/2013",
+     "bg": "a/ai/ai_vostok_lake_life_1.jpg",
+     "rows": [
+      [
+       "gelo por cima",
+       "~800 m"
+      ],
+      [
+       "broca",
+       "água quente esterilizada"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.5
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_seal/6_pixabay.jpg",
+     "move": "left",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_ship/2_pixabay.jpg",
+     "move": "out",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_ship/3_pixabay.jpg",
+     "move": "right",
+     "dur": 7.14,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_lab_microscope/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.64,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "130 mil",
+     "label": "células por mililitro de água",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Christner et al., Nature 2014",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_ship/5_pixabay.jpg",
+     "move": "in",
+     "dur": 7.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_microbe_rock_1.jpg",
+     "move": "down",
+     "dur": 4.56,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_tardigrade/1_commons.jpg",
+     "move": "in",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_ship/6_pixabay.jpg",
+     "move": "up",
+     "dur": 3.78,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_mercer_mud_1.jpg",
+     "move": "left",
+     "dur": 6.04,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_ancient_stream_1.jpg",
+     "move": "out",
+     "caption": "Lago Mercer|2019",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_x_penguins_station_1.jpg",
+     "move": "out",
+     "dur": 6.12,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_ice_shelf/1_commons.jpg",
+     "move": "right",
+     "dur": 6.54,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_ice_shelf/3_pixabay.jpg",
+     "move": "in",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_x_ice_glow_1.jpg",
+     "move": "down",
+     "dur": 3.84,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_station_night/1_commons.jpg",
+     "move": "up",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_x_final_horizon_1.jpg",
+     "move": "in",
+     "dur": 4.46,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_station_night/3_pixabay.jpg",
+     "move": "out",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_ice_weight_1.jpg",
+     "move": "left",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_archipelago_1.jpg",
+     "move": "out",
+     "dur": 3.26,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ice_cave/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_pao_acucar/2_openverse.jpg",
+     "move": "right",
+     "dur": 4.58,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_mountains_peaks/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.048,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch05.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_ice_layers/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.82,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/x_crevasse/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_x_valley_ice_1.jpg",
+     "move": "in",
+     "dur": 3.38,
+     "fixed": true
+    },
+    {
+     "type": "map",
+     "src": "a/p_aurora/1_commons.jpg",
+     "x": 0.55,
+     "y": 0.5,
+     "label": "Domo A",
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.3
+      }
+     ],
+     "sub": "o ponto mais alto do gelo",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_dead_sea/3_pixabay.jpg",
+     "move": "up",
+     "dur": 4.98,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_dome_a_1.jpg",
+     "move": "in",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_pao_acucar/3_pixabay.jpg",
+     "move": "out",
+     "dur": 4.82,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_dome_a/1_commons.jpg",
+     "move": "left",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_radar_mirror_1.jpg",
+     "move": "down",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_ers1/1_commons.jpg",
+     "move": "in",
+     "dur": 3.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_dome_a/2_openverse.jpg",
+     "move": "out",
+     "dur": 3.353,
+     "fixed": true
+    },
+    {
+     "type": "fact",
+     "name": "Montanhas Gamburtsev",
+     "tag": "descobertas em 1958",
+     "bg": "a/ai/ai_mountains_under_ice_1.jpg",
+     "rows": [
+      [
+       "extensão",
+       "~1.200 km"
+      ],
+      [
+       "picos",
+       "2.700 a 3.400 m"
+      ],
+      [
+       "gelo por cima",
+       "centenas de metros"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.5
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_satellite_ice_1.jpg",
+     "move": "left",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_x_lake_reflection_1.jpg",
+     "move": "out",
+     "dur": 3.407,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_alps/1_commons.jpg",
+     "move": "in",
+     "dur": 7.38,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_alps/2_openverse.jpg",
+     "move": "up",
+     "dur": 7.92,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_alps/3_pixabay.jpg",
+     "move": "out",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_rock_journey_1.jpg",
+     "move": "right",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_x_mars_view_1.jpg",
+     "move": "in",
+     "dur": 7.22,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Velha demais para ter cara de nova.",
+     "highlight": "NOVA.",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.58,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_pico_neblina/1_commons.jpg",
+     "move": "down",
+     "dur": 3.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_first_glaciers_1.jpg",
+     "move": "in",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_scott_tent_1.jpg",
+     "move": "up",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_drill_seabed_1.jpg",
+     "move": "out",
+     "dur": 7.74,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_blue_ice/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.84,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_denman/2_commons.jpg",
+     "move": "left",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_fossil_roots_1.jpg",
+     "move": "down",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_rainforest_nz/1_commons.jpg",
+     "move": "in",
+     "dur": 6.42,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "−3.500 m",
+     "label": "o fundo do cânion da Geleira Denman",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Morlighem et al., 2019",
+     "color": "red",
+     "dur": 3.88,
+     "fixed": true
+    },
+    {
+     "type": "compare",
+     "title": "Abaixo do nível do mar",
+     "left": [
+      "Mar Morto",
+      "−430 m",
+      "margem"
+     ],
+     "right": [
+      "Cânion da Denman",
+      "−3.500 m",
+      "8x mais fundo"
+     ],
+     "accent": "right",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.8
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_rainforest_nz/3_pixabay.jpg",
+     "move": "left",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_x_fern_forest_1.jpg",
+     "move": "out",
+     "dur": 3.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_dead_sea/2_openverse.jpg",
+     "move": "out",
+     "dur": 5.94,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ice_sheet_aerial/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.38,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_blood_falls/1_commons.jpg",
+     "move": "right",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_fern_forest/1_pixabay.jpg",
+     "move": "right",
+     "dur": 6.2,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch06.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "cta",
+     "text": "Gostando dessa descida?",
+     "sub": "Inscreva-se e ative o sininho · é de graça",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_fern_forest/2_pixabay.jpg",
+     "move": "in",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_fern_forest/3_pixabay.jpg",
+     "move": "up",
+     "dur": 4.96,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_blood_falls_dusk_1.jpg",
+     "move": "in",
+     "dur": 2.86,
+     "fixed": true
+    },
+    {
+     "type": "map",
+     "src": "a/p_taylor_glacier/1_commons.jpg",
+     "x": 0.5,
+     "y": 0.5,
+     "label": "Vales Secos de McMurdo",
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.3
+      }
+     ],
+     "dur": 7.96,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_dry_valley_1.jpg",
+     "move": "out",
+     "dur": 7.34,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_europa_ocean_1.jpg",
+     "move": "down",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_brine_under_1.jpg",
+     "move": "in",
+     "dur": 7.04,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_griffith_taylor/1_commons.jpg",
+     "move": "left",
+     "dur": 6.02,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_x_red_ice_1.jpg",
+     "move": "out",
+     "caption": "Geleira Taylor|Vales Secos de McMurdo",
+     "dur": 6.82,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_aurora/3_commons.jpg",
+     "move": "right",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_fern_forest/4_pixabay.jpg",
+     "move": "out",
+     "dur": 7.54,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_iceberg/2_pixabay.jpg",
+     "move": "in",
+     "dur": 4.76,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "2,5x",
+     "label": "mais salgada que o mar",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Mikucki et al., Science 2009",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_fern_forest/5_pixabay.jpg",
+     "move": "down",
+     "dur": 4.66,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_iceberg/3_pixabay.jpg",
+     "move": "up",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_fern_forest/6_pixabay.jpg",
+     "move": "in",
+     "dur": 4.88,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_iceberg/4_pixabay.jpg",
+     "move": "out",
+     "dur": 5.56,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_iceberg/6_pixabay.jpg",
+     "move": "down",
+     "dur": 6.66,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "1,5 milhão",
+     "label": "de anos isolados sob a geleira",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Mikucki et al., Science 2009",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_fossil/2_pixabay.jpg",
+     "move": "left",
+     "dur": 5.18,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_glacier/5_pixabay.jpg",
+     "move": "in",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_fossil/5_pixabay.jpg",
+     "move": "out",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_ice_ages_1.jpg",
+     "move": "right",
+     "dur": 3.56,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_glacier/6_pixabay.jpg",
+     "move": "left",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_allan_hills/1_commons.jpg",
+     "move": "in",
+     "dur": 4.26,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_europa/1_commons.jpg",
+     "move": "out",
+     "dur": 5.72,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_blue_ice/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_x_ice_core_rack_1.jpg",
+     "move": "up",
+     "dur": 4.008,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch07.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/p_scott/1_openverse.jpg",
+     "move": "right",
+     "caption": "Expedição Terra Nova|1912",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_snow_crystal/1_pixabay.jpg",
+     "move": "out",
+     "dur": 3.82,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_amundsen/2_commons.jpg",
+     "move": "in",
+     "dur": 6.74,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_terra_nova/1_commons.jpg",
+     "move": "up",
+     "dur": 7.36,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "16 kg",
+     "label": "de pedras arrastadas no trenó",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Natural History Museum",
+     "dur": 5.02,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_scott_sledge_1.jpg",
+     "move": "out",
+     "dur": 7.06,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_scott_rocks_1.jpg",
+     "move": "down",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_snow_crystal/2_pixabay.jpg",
+     "move": "down",
+     "dur": 5.38,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_rainforest/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.04,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_rainforest/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_snow_crystal/3_pixabay.jpg",
+     "move": "in",
+     "dur": 5.3,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_rainforest/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.82,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_glossopteris/1_commons.jpg",
+     "move": "in",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_snow_crystal/4_pixabay.jpg",
+     "move": "left",
+     "dur": 4.22,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_glossopteris/2_openverse.jpg",
+     "move": "left",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_snow_crystal/5_pixabay.jpg",
+     "move": "out",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_snow_crystal/6_pixabay.jpg",
+     "move": "right",
+     "dur": 6.82,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_cryolophosaurus/2_openverse.jpg",
+     "move": "out",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_ice_bubbles/2_pixabay.jpg",
+     "move": "in",
+     "dur": 7.92,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_cryolophosaurus/3_commons.jpg",
+     "move": "right",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_ice_bubbles/3_pixabay.jpg",
+     "move": "up",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_ice_bubbles/4_pixabay.jpg",
+     "move": "out",
+     "dur": 6.32,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_cretaceous_rainforest_1.jpg",
+     "move": "in",
+     "dur": 7.64,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_polarstern/1_commons.jpg",
+     "move": "up",
+     "dur": 6.18,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "900 km",
+     "label": "do Polo Sul · há 90 milhões de anos",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Klages et al., Nature 2020",
+     "dur": 4.12,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_polarstern/3_unsplash.jpg",
+     "move": "out",
+     "dur": 3.22,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "~12 °C",
+     "label": "de média anual perto do Polo Sul",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Klages et al., Nature 2020",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_ice_bubbles/5_pixabay.jpg",
+     "move": "down",
+     "dur": 6.42,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_icebergs/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_ice_cave/2_pixabay.jpg",
+     "move": "in",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_ice_cave/3_pixabay.jpg",
+     "move": "left",
+     "dur": 3.484,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch08.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_bubbles_ice/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_ice_cave/4_pixabay.jpg",
+     "move": "out",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_ice_cave/5_pixabay.jpg",
+     "move": "right",
+     "dur": 5.36,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/x_ice_melt/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_ice_cave/6_pixabay.jpg",
+     "move": "in",
+     "dur": 7.38,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/x_underwater_ice/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "caption": "EPICA|Domo C",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_thwaites_front_1.jpg",
+     "move": "up",
+     "dur": 6.14,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "800 mil anos",
+     "label": "de clima registrados no gelo",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "EPICA, 2004",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_ice_river_1.jpg",
+     "move": "out",
+     "dur": 6.356,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "1,2 milhão",
+     "label": "de anos · Beyond EPICA, 2025",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "comunicado de 09/01/2025",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_bowl_bed_1.jpg",
+     "move": "down",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_warm_water_under_1.jpg",
+     "move": "in",
+     "dur": 6.604,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/x_seal/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_tide_intrusion_1.jpg",
+     "move": "left",
+     "dur": 4.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_alh84001/1_commons.jpg",
+     "move": "down",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_cork_1.jpg",
+     "move": "out",
+     "dur": 3.12,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_meteorite_ice/1_commons.jpg",
+     "move": "in",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_x_glacier_front_storm_1.jpg",
+     "move": "right",
+     "dur": 5.44,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_meteorite_blue_ice_1.jpg",
+     "move": "left",
+     "dur": 3.65,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_microfossil_1.jpg",
+     "move": "out",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_x_warm_current_1.jpg",
+     "move": "in",
+     "dur": 6.35,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_europa/3_unsplash.jpg",
+     "move": "right",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_x_grounding_line_1.jpg",
+     "move": "up",
+     "dur": 3.36,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_mars/3_pixabay.jpg",
+     "move": "in",
+     "dur": 2.72,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_air_bubbles_1.jpg",
+     "move": "up",
+     "caption": "ALH84001|meteorito de Marte",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_x_cracking_shelf_1.jpg",
+     "move": "out",
+     "dur": 5.14,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_mars_impact_1.jpg",
+     "move": "out",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_x_icebergs_sea_1.jpg",
+     "move": "down",
+     "dur": 6.1,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "A pergunta nunca foi encerrada.",
+     "highlight": "ENCERRADA.",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.34,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ocean_ice/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_glacier_wall/1_pixabay.jpg",
+     "move": "in",
+     "dur": 5.16,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_glacier_front/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.26,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_glacier_front/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.712,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch09.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/x_p_mountains/6_pixabay.jpg",
+     "move": "down",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_glacier_wall/3_pixabay.jpg",
+     "move": "left",
+     "dur": 3.4,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_glacier_front/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_glacier_wall/4_pixabay.jpg",
+     "move": "out",
+     "dur": 3.74,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_snowfall/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_glacier_wall/5_pixabay.jpg",
+     "move": "right",
+     "dur": 4.52,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/x_iceberg_drone/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_calving/1_pixabay.jpg",
+     "move": "in",
+     "dur": 6.5,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "A Antártida está perdendo mais gelo do que ganha.",
+     "highlight": "PERDENDO",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.3,
+     "fixed": true
+    },
+    {
+     "type": "fact",
+     "name": "Geleira Thwaites",
+     "tag": "oeste da Antártida",
+     "bg": "a/p_thwaites/1_commons.jpg",
+     "rows": [
+      [
+       "área",
+       "~192 mil km² (≈ Paraná)"
+      ],
+      [
+       "apelido",
+       "geleira do Juízo Final"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.5
+      }
+     ],
+     "source": "ITGC",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_calving/2_pixabay.jpg",
+     "move": "up",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_calving/4_pixabay.jpg",
+     "move": "out",
+     "dur": 5.78,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/x_ice_melt/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.38,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/x_ice_melt/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.86,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_sunset_ice/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.16,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_cracks/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_calving/5_pixabay.jpg",
+     "move": "down",
+     "dur": 6.22,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_cracks/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "caption": "2024|água do mar sob o gelo na maré alta",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_calving/6_pixabay.jpg",
+     "move": "in",
+     "dur": 7.2,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_sunset_ice/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_ice_crack/2_pixabay.jpg",
+     "move": "left",
+     "dur": 4.96,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "+65 cm",
+     "label": "no nível do mar só com a Thwaites",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "ITGC / BedMachine",
+     "color": "red",
+     "dur": 6.78,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_thwaites/2_openverse.jpg",
+     "move": "left",
+     "dur": 6.86,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "+3 m",
+     "label": "com o gelo do oeste da Antártida",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "ITGC",
+     "color": "red",
+     "dur": 3.86,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/x_iceberg_drone/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_ice_crack/3_pixabay.jpg",
+     "move": "out",
+     "dur": 5.14,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_rio/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.52,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_rio/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "caption": "Rio de Janeiro",
+     "dur": 5.6,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_rio/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.6,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "O perigo está no que ninguém vê.",
+     "highlight": "NINGUÉM",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_ice_crack/5_pixabay.jpg",
+     "move": "right",
+     "dur": 3.48,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_thwaites_front/3_pixabay.jpg",
+     "move": "out",
+     "dur": 6.68,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/x_polar_ship/5_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.888,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch10.flac",
+   "lead_in": 0,
+   "tail": 1.5,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/p_ferraz/1_pixabay.jpg",
+     "move": "right",
+     "dur": 5.78,
+     "fixed": true
+    },
+    {
+     "type": "fact",
+     "name": "Estação Antártica Comandante Ferraz",
+     "tag": "Brasil na Antártida",
+     "bg": "a/ai/ai_ferraz_station_1.jpg",
+     "rows": [
+      [
+       "desde",
+       "1984"
+      ],
+      [
+       "onde",
+       "Ilha Rei George"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.5
+      }
+     ],
+     "source": "Marinha do Brasil / PROANTAR",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ferraz/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.22,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/x_snow_mountain/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.3,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/x_penguin_colony/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.72,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_snowfield/1_pixabay.jpg",
+     "move": "up",
+     "dur": 3.76,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_ice_dome_protect_1.jpg",
+     "move": "out",
+     "dur": 7.23,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/x_whale/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_penguins/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.87,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Lago Vostok?",
+      "Montanhas Gamburtsev?",
+      "Cachoeira de Sangue?"
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      }
+     ],
+     "dur": 14.84,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Obrigado por assistir",
+     "sub": "Deixe seu like e inscreva-se no Abaixo de Zero",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true,
+     "fade_out": 0
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_ice_crack/6_pixabay.jpg",
+     "move": "in",
+     "dur": 3.952,
+     "fixed": false
+    }
+   ]
+  }
+ ],
+ "size": [
+  1920,
+  1080
+ ]
+}
