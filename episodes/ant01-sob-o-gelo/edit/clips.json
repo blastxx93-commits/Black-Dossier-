@@ -1,1 +1,80 @@
-{"_generic": []}
+{
+ "gelo": [
+  "v_ice_sheet_aerial/1",
+  "v_ice_sheet_aerial/3",
+  "v_icebergs/1",
+  "v_icebergs/2",
+  "v_ocean_ice/1",
+  "v_plateau_snow/2",
+  "v_ice_cave/2",
+  "v_blue_ice/1",
+  "v_ice_sheet_aerial/2",
+  "v_blue_ice/3",
+  "v_icebergs/3",
+  "v_ocean_ice/3"
+ ],
+ "escala": [
+  "v_bedmachine/2",
+  "v_globe/1"
+ ],
+ "radar": [
+  "v_radar_plane/3",
+  "v_radar_plane/1",
+  "v_radar_plane/2",
+  "v_satellite_orbit/1",
+  "v_satellite_orbit/2"
+ ],
+ "vostok": [
+  "v_plateau_snow/1",
+  "v_icesat/2"
+ ],
+ "lago": [
+  "v_dark_water/1",
+  "v_subglacial_lakes/3",
+  "v_dark_water/3"
+ ],
+ "perfuracao": [
+  "v_oil_fluid/1",
+  "v_bubbles_ice/1",
+  "v_lab_microscope/1"
+ ],
+ "vida": [
+  "v_tardigrade/1",
+  "v_bacteria/2",
+  "v_tardigrade/2",
+  "v_lab_microscope/2"
+ ],
+ "rede": [
+  "v_bedmachine/3",
+  "v_river_ice/1",
+  "v_hotwater_drill/3"
+ ],
+ "montanhas": [
+  "v_mountains_peaks/1",
+  "v_ice_layers/1"
+ ],
+ "cachoeira": [
+  "v_rust/1"
+ ],
+ "passado": [
+  "v_rainforest/1",
+  "v_rainforest/2",
+  "v_rainforest/3"
+ ],
+ "arquivo": [
+  "v_bubbles_ice/3"
+ ],
+ "thwaites": [
+  "v_glacier_front/2",
+  "v_glacier_front/1",
+  "v_glacier_front/3",
+  "v_glacier_front/4",
+  "v_snowfall/2"
+ ],
+ "_generic": [
+  "v_ice_sheet_aerial/1",
+  "v_icebergs/1",
+  "v_ocean_ice/1",
+  "v_ice_cave/2"
+ ]
+}

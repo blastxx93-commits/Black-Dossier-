@@ -949,6 +949,214 @@
     "coverr"
    ],
    "n": 3
+  },
+  {
+   "id": "x_glacier_drone",
+   "query": "glacier drone aerial",
+   "alt": [
+    "glacier aerial footage"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 5
+  },
+  {
+   "id": "x_iceberg_drone",
+   "query": "iceberg drone",
+   "alt": [
+    "iceberg aerial"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 5
+  },
+  {
+   "id": "x_antarctica",
+   "query": "antarctica",
+   "alt": [
+    "antarctic landscape"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 5
+  },
+  {
+   "id": "x_penguin_colony",
+   "query": "penguin colony",
+   "alt": [
+    "penguins walking"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 5
+  },
+  {
+   "id": "x_snow_mountain",
+   "query": "snow mountain aerial",
+   "alt": [
+    "snowy peaks drone"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 5
+  },
+  {
+   "id": "x_ice_texture",
+   "query": "ice texture closeup",
+   "alt": [
+    "frozen ice macro"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 5
+  },
+  {
+   "id": "x_aurora",
+   "query": "aurora australis",
+   "alt": [
+    "northern lights timelapse"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 5
+  },
+  {
+   "id": "x_polar_ship",
+   "query": "icebreaker ship ice",
+   "alt": [
+    "ship in sea ice"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 5
+  },
+  {
+   "id": "x_crevasse",
+   "query": "crevasse glacier",
+   "alt": [
+    "glacier crack"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 5
+  },
+  {
+   "id": "x_ice_melt",
+   "query": "ice melting water drops",
+   "alt": [
+    "melting glacier water"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 5
+  },
+  {
+   "id": "x_underwater_ice",
+   "query": "underwater ice",
+   "alt": [
+    "under ice diving"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 5
+  },
+  {
+   "id": "x_snow_wind",
+   "query": "snow blowing wind",
+   "alt": [
+    "drifting snow"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 5
+  },
+  {
+   "id": "x_seal",
+   "query": "seal on ice",
+   "alt": [
+    "leopard seal"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 5
+  },
+  {
+   "id": "x_whale",
+   "query": "whale antarctica",
+   "alt": [
+    "humpback whale tail"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 5
+  },
+  {
+   "id": "x_sunset_snow",
+   "query": "sunset snow mountains",
+   "alt": [
+    "golden hour glacier"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 5
+  },
+  {
+   "id": "x_starry_snow",
+   "query": "night sky snow timelapse",
+   "alt": [
+    "milky way snow"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 5
   }
  ]
 }

@@ -52,7 +52,7 @@ FALLBACK = {
 }
 A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FALLBACK, ["gelo", "final"])
 A.CLIP_TARGET = 0.45
-A.MAX_HOLD, A.KEEP = 7.0, 4.5     # 3–6 s per shot; anything longer hands over to fresh footage
+A.MAX_HOLD, A.KEEP = 8.0, 5.0     # owner rule: 3–6 s per shot on average; clips can run their full 8 s
 chapters = []
 
 

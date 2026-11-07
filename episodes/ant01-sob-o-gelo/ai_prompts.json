@@ -303,6 +303,150 @@
   {
    "id": "ai_camera_under_ice",
    "prompt": "A small yellow underwater robot with a bright headlight descending into pitch-black water beneath a thick ice ceiling, the light beam revealing particles in the water, cinematic, no text, no watermark"
+  },
+  {
+   "id": "ai_x_lake_ceiling",
+   "prompt": "Looking up from inside a dark subglacial lake at a ceiling of ancient blue ice, faint light"
+  },
+  {
+   "id": "ai_x_ice_cross",
+   "prompt": "Cross-section of a four-kilometre ice sheet showing hundreds of horizontal layers down to dark bedrock"
+  },
+  {
+   "id": "ai_x_borehole_top",
+   "prompt": "A narrow borehole opening in the snow surface with a drilling tower above it at dusk, frost"
+  },
+  {
+   "id": "ai_x_plateau_night",
+   "prompt": "The flat polar plateau at night under a sky full of stars and the Milky Way, faint aurora"
+  },
+  {
+   "id": "ai_x_station_lights",
+   "prompt": "A lone research station's lights on an endless frozen plateau at twilight, wind-blown snow"
+  },
+  {
+   "id": "ai_x_crust_press",
+   "prompt": "A colossal white ice mass pressing down on bent rock layers, geological cutaway, dramatic lighting"
+  },
+  {
+   "id": "ai_x_lake_reflection",
+   "prompt": "A perfectly flat, mirror-like ice surface reflecting a pale sky on the Antarctic plateau"
+  },
+  {
+   "id": "ai_x_microbes_dark",
+   "prompt": "Microscopic single-celled organisms drifting in black water lit by a thin beam of light"
+  },
+  {
+   "id": "ai_x_river_tunnel",
+   "prompt": "A meandering blue river channel flowing beneath a glacier, seen through a cross-section of ice"
+  },
+  {
+   "id": "ai_x_satellite_scan",
+   "prompt": "A satellite above Antarctica scanning the ice with a faint laser beam, night side, realistic"
+  },
+  {
+   "id": "ai_x_ice_stream",
+   "prompt": "Aerial view of a fast ice stream with flow lines and crevasses running toward the sea"
+  },
+  {
+   "id": "ai_x_buried_peaks",
+   "prompt": "Sharp mountain summits barely poking through an endless white ice sheet, aerial, low sun"
+  },
+  {
+   "id": "ai_x_valley_ice",
+   "prompt": "A deep valley carved in dark rock completely filled with blue glacial ice, cutaway"
+  },
+  {
+   "id": "ai_x_ancient_glacier",
+   "prompt": "Glaciers creeping over green valleys as the climate cools, 34 million years ago, epic landscape"
+  },
+  {
+   "id": "ai_x_red_ice",
+   "prompt": "A thin red-orange stain trickling down a white glacier face onto a frozen lake, close view"
+  },
+  {
+   "id": "ai_x_brine_pool",
+   "prompt": "A pool of very salty dark water in a frozen valley, ice crystals on the edges, Antarctica"
+  },
+  {
+   "id": "ai_x_explorer_tent_snow",
+   "prompt": "A 1912 canvas tent half buried in drifting snow, wooden skis stuck in the snow beside it, grey light"
+  },
+  {
+   "id": "ai_x_fossil_leaf",
+   "prompt": "A fossil leaf imprint in a dark grey rock, tongue-shaped leaf, macro photograph"
+  },
+  {
+   "id": "ai_x_fern_forest",
+   "prompt": "An ancient fern forest with tall conifers in mist beside a river, 90 million years ago"
+  },
+  {
+   "id": "ai_x_polar_sun_forest",
+   "prompt": "A temperate forest under a very low polar sun with long shadows, mild climate, ancient Antarctica"
+  },
+  {
+   "id": "ai_x_ice_core_rack",
+   "prompt": "Rows of ice core sections stored on shelves in a freezer archive, blue light, frost"
+  },
+  {
+   "id": "ai_x_bubble_macro",
+   "prompt": "Macro of ancient air bubbles trapped inside a polished slice of ice core, backlit"
+  },
+  {
+   "id": "ai_x_meteorite_hand",
+   "prompt": "A gloved hand next to a small dark meteorite lying on blue ice, Antarctica, no face"
+  },
+  {
+   "id": "ai_x_mars_view",
+   "prompt": "The planet Mars seen from space, realistic, rusty surface, thin atmosphere"
+  },
+  {
+   "id": "ai_x_glacier_front_storm",
+   "prompt": "The front of a huge glacier under a stormy sky, waves crashing at its base"
+  },
+  {
+   "id": "ai_x_warm_current",
+   "prompt": "Dark ocean water flowing under a floating ice shelf, seen from below, light rays, particles"
+  },
+  {
+   "id": "ai_x_grounding_line",
+   "prompt": "Underwater view of the point where a massive glacier meets the seabed, sediment clouds"
+  },
+  {
+   "id": "ai_x_cracking_shelf",
+   "prompt": "A huge crack splitting an Antarctic ice shelf, aerial view, deep blue inside the crack"
+  },
+  {
+   "id": "ai_x_icebergs_sea",
+   "prompt": "Hundreds of icebergs drifting in a calm grey sea from above, after a glacier collapse"
+  },
+  {
+   "id": "ai_x_coast_city",
+   "prompt": "A modern Brazilian coastal city with high-rise buildings along a long beach at sunset, aerial"
+  },
+  {
+   "id": "ai_x_high_tide",
+   "prompt": "Waves washing over a seaside promenade in a tropical city during a very high tide"
+  },
+  {
+   "id": "ai_x_research_ship",
+   "prompt": "A red polar research ship anchored in an Antarctic bay among small icebergs, calm water"
+  },
+  {
+   "id": "ai_x_penguins_station",
+   "prompt": "Gentoo penguins walking near a small research station on a rocky Antarctic shore"
+  },
+  {
+   "id": "ai_x_aerial_continent",
+   "prompt": "Antarctica seen from high orbit, the whole white continent surrounded by dark ocean, realistic"
+  },
+  {
+   "id": "ai_x_ice_glow",
+   "prompt": "Inside a glacier crevasse glowing intense blue, sunlight filtering through the ice"
+  },
+  {
+   "id": "ai_x_final_horizon",
+   "prompt": "An endless white Antarctic horizon at golden hour with soft wind-blown snow, cinematic"
   }
  ]
 }
