@@ -374,7 +374,9 @@ def run(ep, out_root, only=None, budget_min=35):
         rows.append((sid, files))
         log(f"  -> {len(files)} imagens")
 
-    with open(os.path.join(ep_dir, "credits.csv"), "w", newline="") as fh:
+    # partial runs (--only) write their own credits file, so the full list is never overwritten
+    cred_name = "credits.csv" if not only else f"credits_parcial_{time.strftime('%m%d-%H%M')}.csv"
+    with open(os.path.join(ep_dir, cred_name), "w", newline="") as fh:
         w = csv.DictWriter(fh, fieldnames=["file", "shot", "source", "license", "author", "title", "page", "url", "query"])
         w.writeheader()
         w.writerows(credits)
