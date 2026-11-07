@@ -14,7 +14,8 @@ from cues import Chapter
 
 # ---------------------------------------------------------------- scenes: photo folders + AI scenes, in order of preference
 PHOTOS = {
-    "gelo": ["p_antarctica_mosaic", "p_iceberg", "p_ice_shelf", "ai:ai_white_desert", "p_station_night", "p_aurora"],
+    "gelo": ["p_antarctica_mosaic", "p_iceberg", "p_ice_shelf", "ai:ai_white_desert", "p_station_night", "p_aurora",
+             "x_p_iceberg", "x_p_glacier", "x_p_mountains", "x_p_snowfield", "x_p_ice"],
     "escala": ["p_bedmap", "ai:ai_ice_weight", "ai:ai_archipelago", "ai:ai_pao_acucar_stack", "p_pao_acucar"],
     "vostok": ["p_vostok_station", "ai:ai_vostok_1957", "ai:ai_extreme_cold", "p_bellingshausen", "p_vostok_satellite"],
     "radar": ["ai:ai_radar_plane_1970s", "p_radar_echo", "ai:ai_radar_mirror", "p_ers1", "ai:ai_satellite_ice"],
@@ -39,7 +40,7 @@ PHOTOS = {
                  "ai:ai_warm_water_under", "ai:ai_tide_intrusion", "p_icefin", "ai:ai_cork"],
     "litoral": ["p_rio", "p_santos", "p_salvador", "p_recife", "p_belem", "ai:ai_flooded_beach"],
     "brasil": ["p_ferraz", "ai:ai_ferraz_station", "p_king_george", "p_df"],
-    "final": ["ai:ai_hidden_world_final", "ai:ai_camera_under_ice", "p_penguins"],
+    "final": ["ai:ai_hidden_world_final", "ai:ai_camera_under_ice", "p_penguins", "x_p_penguin", "x_p_seal", "x_p_ship"],
 }
 CLIPS = json.load(open(os.path.join(HERE, "clips.json")))
 GENERIC = CLIPS.pop("_generic", [])
