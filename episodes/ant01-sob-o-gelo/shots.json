@@ -537,6 +537,114 @@
     "pixabay"
    ],
    "n": 6
+  },
+  {
+   "id": "x_p_glacier_wall",
+   "query": "glacier ice wall",
+   "alt": [],
+   "sources": [
+    "pixabay"
+   ],
+   "n": 6
+  },
+  {
+   "id": "x_p_ice_crack",
+   "query": "ice crack",
+   "alt": [],
+   "sources": [
+    "pixabay"
+   ],
+   "n": 6
+  },
+  {
+   "id": "x_p_frozen_sea",
+   "query": "frozen sea ice",
+   "alt": [],
+   "sources": [
+    "pixabay"
+   ],
+   "n": 6
+  },
+  {
+   "id": "x_p_calving",
+   "query": "glacier calving",
+   "alt": [],
+   "sources": [
+    "pixabay"
+   ],
+   "n": 6
+  },
+  {
+   "id": "x_p_ocean_ice",
+   "query": "ocean ice floes",
+   "alt": [],
+   "sources": [
+    "pixabay"
+   ],
+   "n": 6
+  },
+  {
+   "id": "x_p_snow_crystal",
+   "query": "snow crystal macro",
+   "alt": [],
+   "sources": [
+    "pixabay"
+   ],
+   "n": 6
+  },
+  {
+   "id": "x_p_ice_bubbles",
+   "query": "ice bubbles",
+   "alt": [],
+   "sources": [
+    "pixabay"
+   ],
+   "n": 6
+  },
+  {
+   "id": "x_p_fern_forest",
+   "query": "fern forest",
+   "alt": [],
+   "sources": [
+    "pixabay"
+   ],
+   "n": 6
+  },
+  {
+   "id": "x_p_fossil",
+   "query": "fossil leaf",
+   "alt": [],
+   "sources": [
+    "pixabay"
+   ],
+   "n": 6
+  },
+  {
+   "id": "x_p_ice_cave",
+   "query": "ice cave",
+   "alt": [],
+   "sources": [
+    "pixabay"
+   ],
+   "n": 6
+  },
+  {
+   "id": "x_p_polar_night",
+   "query": "polar night snow stars",
+   "alt": [],
+   "sources": [
+    "pixabay"
+   ],
+   "n": 6
+  },
+  {
+   "id": "x_p_coast_brazil",
+   "query": "Copacabana Rio de Janeiro",
+   "alt": [],
+   "sources": [
+    "pixabay"
+   ],
+   "n": 6
   }
  ]
 }
