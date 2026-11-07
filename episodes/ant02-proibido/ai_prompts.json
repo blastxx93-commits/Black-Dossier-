@@ -1,0 +1,156 @@
+{
+ "model": "black-forest-labs/flux-1.1-pro-ultra",
+ "raw": true,
+ "n": 1,
+ "style": ", photorealistic documentary still, Antarctica, cold blue and white color grade, natural light, high detail, cinematic 16:9, no people's faces, no readable text, no logos, no watermark",
+ "shots": [
+  {
+   "id": "ai_rogozov_room",
+   "prompt": "A tiny 1961 Soviet polar station room lit by a single lamp, a metal bed with white sheets, surgical instruments on a tray, a round hand mirror on a stand, frost on the window, night, no people"
+  },
+  {
+   "id": "ai_rogozov_blizzard",
+   "prompt": "A small 1961 wooden polar station half buried in snow during a dark winter blizzard, one window glowing, no people"
+  },
+  {
+   "id": "ai_mirror_scalpel",
+   "prompt": "Close-up of a vintage surgical scalpel and a round hand mirror on a white cloth under a warm lamp, 1960s"
+  },
+  {
+   "id": "ai_pizza_map",
+   "prompt": "Antarctica seen from above with seven colored wedge-shaped sectors radiating from the South Pole like slices, realistic satellite style, no text, no labels"
+  },
+  {
+   "id": "ai_hope_bay_1952",
+   "prompt": "1952 rocky Antarctic bay with a small boat landing, soldiers in winter coats on the shore seen from behind, tension, archival grain, no faces, no text"
+  },
+  {
+   "id": "ai_cold_war_desk",
+   "prompt": "1950s diplomatic conference table with papers, fountain pens and glasses of water, flags out of focus, no readable text"
+  },
+  {
+   "id": "ai_igy_camp",
+   "prompt": "1957 Antarctic research camp with orange huts, radio masts and tracked vehicles under a pale sun, archival color photo style, no text"
+  },
+  {
+   "id": "ai_baby_base",
+   "prompt": "1978 Antarctic base with small red houses, snow and mountains, a warm window glow, no people, no text"
+  },
+  {
+   "id": "ai_defrontacao",
+   "prompt": "South America and Antarctica seen from space with straight light lines drawn from the South American coast to the South Pole, conceptual, no text"
+  },
+  {
+   "id": "ai_ferraz_fire",
+   "prompt": "A research station on an Antarctic shore at night with a distant orange glow and smoke, seen from far away, dramatic, no people, no text"
+  },
+  {
+   "id": "ai_drake_storm",
+   "prompt": "A small expedition ship climbing a huge wave in the Drake Passage under a dark stormy sky, spray, dramatic"
+  },
+  {
+   "id": "ai_katabatic",
+   "prompt": "Katabatic wind blasting snow down a slope of an Antarctic glacier toward the sea, streams of blowing snow, harsh light"
+  },
+  {
+   "id": "ai_mawson_hut",
+   "prompt": "Early 1900s wooden hut on a rocky Antarctic shore in a fierce blizzard, snow streaming horizontally"
+  },
+  {
+   "id": "ai_rescue_plane",
+   "prompt": "A small twin-engine ski plane on a dark polar runway at night, landing lights on, snow blowing, aurora in the sky, no markings, no text"
+  },
+  {
+   "id": "ai_seed_jacket",
+   "prompt": "Macro of a tiny grass seed caught in the velcro of an outdoor jacket, cold blue light"
+  },
+  {
+   "id": "ai_boot_wash",
+   "prompt": "Close-up of rubber boots being scrubbed in a basin of disinfectant on a ship deck, Antarctic ice in background, no faces"
+  },
+  {
+   "id": "ai_take_nothing",
+   "prompt": "A hand gently placing a small pebble back on a rocky Antarctic beach with penguins in the background, no face"
+  },
+  {
+   "id": "ai_moss_bank",
+   "prompt": "A centuries-old green moss bank on a rocky Antarctic island under grey sky"
+  },
+  {
+   "id": "ai_deception_caldera",
+   "prompt": "A ship sailing through a narrow gap into a flooded volcanic caldera, steaming black beach, ruined whaling station, Antarctic sky"
+  },
+  {
+   "id": "ai_hot_beach",
+   "prompt": "Steam rising from a black volcanic beach at the edge of icy water, Antarctica, a few people in swimsuits far away, no faces"
+  },
+  {
+   "id": "ai_vinson_camp",
+   "prompt": "Tents of a mountaineering camp on a vast glacier below the high peaks of the Vinson massif, clear blue sky"
+  },
+  {
+   "id": "ai_hercules_ice",
+   "prompt": "A large four-engine military transport plane parked on a gravel runway on an Antarctic island, plain grey fuselage, no markings, no text"
+  },
+  {
+   "id": "ai_mcmurdo_town",
+   "prompt": "A small industrial town of colorful buildings and fuel tanks on volcanic ground beside frozen sea, Antarctica, aerial view, no text"
+  },
+  {
+   "id": "ai_south_pole_night",
+   "prompt": "A futuristic elevated research station at the South Pole in total winter darkness, stars and green aurora, no text"
+  },
+  {
+   "id": "ai_sauna_run",
+   "prompt": "Silhouettes of people running in the snow toward a striped pole at night at the South Pole, steam rising from their bodies, aurora, no faces"
+  },
+  {
+   "id": "ai_winter_window",
+   "prompt": "A person seen from behind looking out of a frosted station window at endless polar night, warm room, no face"
+  },
+  {
+   "id": "ai_new_station",
+   "prompt": "A modern futuristic research station of hexagonal modules on an Antarctic coast, cranes, ships, no flags, no text"
+  },
+  {
+   "id": "ai_seismic_ship",
+   "prompt": "A survey ship towing long seismic cables in icy grey Antarctic waters, icebergs in the distance, no text"
+  },
+  {
+   "id": "ai_krill_swarm",
+   "prompt": "A dense swarm of glowing pink krill underwater with light rays, Southern Ocean"
+  },
+  {
+   "id": "ai_fishing_ship",
+   "prompt": "A large trawler fishing in Antarctic waters among icebergs, nets, gulls, overcast, no text"
+  },
+  {
+   "id": "ai_soot_snow",
+   "prompt": "Close-up of white snow darkened by a thin layer of black soot near a ship's exhaust, Antarctic"
+  },
+  {
+   "id": "ai_2048_door",
+   "prompt": "A massive door of ice standing alone on the Antarctic ice sheet, slightly open with light behind it, symbolic, cinematic"
+  },
+  {
+   "id": "ai_mine_ice",
+   "prompt": "A conceptual image of a mining machine frozen and abandoned in Antarctic ice, ghostly, symbolic"
+  },
+  {
+   "id": "ai_conference_2048",
+   "prompt": "A modern international conference hall with delegates' empty chairs and a huge screen showing an icy continent, no text, no flags"
+  },
+  {
+   "id": "ai_fragile_balance",
+   "prompt": "A cracked ice sheet seen from above with a narrow dark crack spreading, symbolic of a fragile agreement"
+  },
+  {
+   "id": "ai_pristine",
+   "prompt": "Pristine Antarctic landscape at golden hour, mountains, calm sea with icebergs, penguins on the shore, no people"
+  },
+  {
+   "id": "ai_white_desert",
+   "prompt": "Endless white Antarctic plateau under a pale sun with a single tiny figure far away"
+  }
+ ]
+}

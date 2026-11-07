@@ -1,0 +1,536 @@
+{
+ "defaults": {
+  "n": 3,
+  "sources": [
+   "commons",
+   "nasa",
+   "openverse"
+  ]
+ },
+ "shots": [
+  {
+   "id": "p_rogozov",
+   "query": "Leonid Rogozov",
+   "alt": [],
+   "sources": [
+    "commons",
+    "nasa",
+    "openverse"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_novolazarevskaya",
+   "query": "Novolazarevskaya Station",
+   "alt": [
+    "Schirmacher Oasis"
+   ],
+   "sources": [
+    "commons",
+    "nasa",
+    "openverse"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_treaty_signing",
+   "query": "Antarctic Treaty signing 1959",
+   "alt": [
+    "Antarctic Treaty"
+   ],
+   "sources": [
+    "commons",
+    "nasa",
+    "openverse"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_claims_map",
+   "query": "Antarctic territorial claims map",
+   "alt": [
+    "Antarctica claims"
+   ],
+   "sources": [
+    "commons",
+    "nasa",
+    "openverse"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_hope_bay",
+   "query": "Hope Bay Antarctica",
+   "alt": [
+    "Esperanza Base"
+   ],
+   "sources": [
+    "commons",
+    "nasa",
+    "openverse"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_igy",
+   "query": "International Geophysical Year 1957 Antarctica",
+   "alt": [
+    "IGY Antarctica station 1957"
+   ],
+   "sources": [
+    "commons",
+    "nasa",
+    "openverse"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_mcmurdo",
+   "query": "McMurdo Station",
+   "alt": [],
+   "sources": [
+    "commons",
+    "nasa",
+    "openverse"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_south_pole",
+   "query": "Amundsen-Scott South Pole Station",
+   "alt": [
+    "ceremonial South Pole"
+   ],
+   "sources": [
+    "commons",
+    "nasa",
+    "openverse"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_esperanza",
+   "query": "Esperanza Base Argentina",
+   "alt": [
+    "Base Esperanza"
+   ],
+   "sources": [
+    "commons",
+    "nasa",
+    "openverse"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_villa_estrellas",
+   "query": "Villa Las Estrellas",
+   "alt": [
+    "Frei Montalva Base"
+   ],
+   "sources": [
+    "commons",
+    "nasa",
+    "openverse"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_ferraz",
+   "query": "Estação Antártica Comandante Ferraz",
+   "alt": [
+    "Comandante Ferraz Antarctic Station",
+    "Admiralty Bay King George Island"
+   ],
+   "sources": [
+    "commons",
+    "nasa",
+    "openverse"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_ferraz_fire",
+   "query": "Comandante Ferraz fire 2012",
+   "alt": [
+    "estação Ferraz incêndio"
+   ],
+   "sources": [
+    "commons",
+    "nasa",
+    "openverse"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_navio_brasil",
+   "query": "Navio Polar Almirante Maximiano",
+   "alt": [
+    "Ary Rongel navio"
+   ],
+   "sources": [
+    "commons",
+    "nasa",
+    "openverse"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_hercules_fab",
+   "query": "C-130 Hercules Antarctica",
+   "alt": [
+    "Hercules King George Island"
+   ],
+   "sources": [
+    "commons",
+    "nasa",
+    "openverse"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_drake",
+   "query": "Drake Passage waves",
+   "alt": [
+    "stormy sea ship"
+   ],
+   "sources": [
+    "pixabay",
+    "commons"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_ushuaia",
+   "query": "Ushuaia harbor",
+   "alt": [
+    "Ushuaia"
+   ],
+   "sources": [
+    "pixabay",
+    "commons"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_expedition_ship",
+   "query": "Antarctica expedition cruise ship",
+   "alt": [
+    "cruise ship Antarctica"
+   ],
+   "sources": [
+    "pixabay",
+    "commons"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_zodiac",
+   "query": "zodiac boat Antarctica tourists",
+   "alt": [
+    "Antarctica landing tourists"
+   ],
+   "sources": [
+    "pixabay",
+    "commons"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_penguins_tourists",
+   "query": "penguins tourists Antarctica",
+   "alt": [
+    "gentoo penguins"
+   ],
+   "sources": [
+    "pixabay",
+    "commons"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_deception",
+   "query": "Deception Island",
+   "alt": [
+    "Whalers Bay Deception Island"
+   ],
+   "sources": [
+    "commons",
+    "nasa",
+    "openverse"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_mawson",
+   "query": "Douglas Mawson",
+   "alt": [
+    "Mawson's Huts"
+   ],
+   "sources": [
+    "commons",
+    "nasa",
+    "openverse"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_scott_hut",
+   "query": "Scott's Hut Cape Evans",
+   "alt": [
+    "Discovery Hut"
+   ],
+   "sources": [
+    "commons",
+    "nasa",
+    "openverse"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_sled_dogs",
+   "query": "sled dogs Antarctica historic",
+   "alt": [
+    "huskies antarctic expedition"
+   ],
+   "sources": [
+    "commons",
+    "nasa",
+    "openverse"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_boot_wash",
+   "query": "boot cleaning biosecurity Antarctica",
+   "alt": [
+    "biosecurity Antarctica"
+   ],
+   "sources": [
+    "commons",
+    "nasa",
+    "openverse"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_moss",
+   "query": "Antarctic moss",
+   "alt": [
+    "moss Antarctica"
+   ],
+   "sources": [
+    "commons",
+    "nasa",
+    "openverse"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_bellingshausen_church",
+   "query": "Trinity Church King George Island",
+   "alt": [
+    "Bellingshausen Station"
+   ],
+   "sources": [
+    "commons",
+    "nasa",
+    "openverse"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_qinling",
+   "query": "Qinling Station",
+   "alt": [
+    "Chinese Antarctic station"
+   ],
+   "sources": [
+    "commons",
+    "nasa",
+    "openverse"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_krill",
+   "query": "Antarctic krill",
+   "alt": [
+    "krill"
+   ],
+   "sources": [
+    "commons",
+    "nasa",
+    "openverse"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_ross_sea",
+   "query": "Ross Sea",
+   "alt": [
+    "Ross Ice Shelf"
+   ],
+   "sources": [
+    "commons",
+    "nasa",
+    "openverse"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_vinson",
+   "query": "Mount Vinson",
+   "alt": [
+    "Vinson Massif"
+   ],
+   "sources": [
+    "commons",
+    "nasa",
+    "openverse"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_aurora_station",
+   "query": "aurora australis station",
+   "alt": [
+    "South Pole aurora"
+   ],
+   "sources": [
+    "commons",
+    "nasa",
+    "openverse"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_iceberg",
+   "query": "iceberg Antarctica",
+   "alt": [
+    "tabular iceberg"
+   ],
+   "sources": [
+    "pixabay",
+    "commons"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_glacier",
+   "query": "Antarctic glacier",
+   "alt": [
+    "glacier Antarctica"
+   ],
+   "sources": [
+    "pixabay",
+    "commons"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_blizzard",
+   "query": "blizzard Antarctica",
+   "alt": [
+    "snow storm"
+   ],
+   "sources": [
+    "pixabay",
+    "commons"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_weddell_seal",
+   "query": "Weddell seal",
+   "alt": [],
+   "sources": [
+    "commons",
+    "nasa",
+    "openverse"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_emperor",
+   "query": "emperor penguin",
+   "alt": [],
+   "sources": [
+    "pixabay",
+    "commons"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_whale",
+   "query": "humpback whale Antarctica",
+   "alt": [
+    "whale tail"
+   ],
+   "sources": [
+    "pixabay",
+    "commons"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_drill_rig",
+   "query": "oil platform",
+   "alt": [
+    "offshore drilling"
+   ],
+   "sources": [
+    "pixabay",
+    "commons"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_madrid",
+   "query": "Madrid Protocol 1991",
+   "alt": [
+    "Environmental Protocol Antarctic"
+   ],
+   "sources": [
+    "commons",
+    "nasa",
+    "openverse"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_washington",
+   "query": "Washington 1959",
+   "alt": [
+    "Washington DC Capitol"
+   ],
+   "sources": [
+    "pixabay",
+    "commons"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_punta_arenas",
+   "query": "Punta Arenas",
+   "alt": [],
+   "sources": [
+    "pixabay",
+    "commons"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_mars_analog",
+   "query": "Concordia Station",
+   "alt": [
+    "Dome C"
+   ],
+   "sources": [
+    "commons",
+    "nasa",
+    "openverse"
+   ],
+   "n": 3
+  }
+ ]
+}

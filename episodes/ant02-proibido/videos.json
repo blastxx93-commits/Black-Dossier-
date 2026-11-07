@@ -1,0 +1,402 @@
+{
+ "defaults": {
+  "n": 3,
+  "clip": 8,
+  "sources": [
+   "pexels",
+   "pixabay",
+   "coverr"
+  ]
+ },
+ "shots": [
+  {
+   "id": "v_drake_waves",
+   "query": "ship rough sea waves",
+   "alt": [
+    "stormy ocean ship bow"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_icebergs",
+   "query": "antarctica icebergs drone",
+   "alt": [
+    "icebergs aerial"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_expedition_ship",
+   "query": "antarctica cruise ship",
+   "alt": [
+    "ship sailing ice"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_zodiac",
+   "query": "zodiac boat ice",
+   "alt": [
+    "inflatable boat antarctica"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_penguins",
+   "query": "penguins antarctica",
+   "alt": [
+    "penguin colony"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_seals",
+   "query": "seal antarctica",
+   "alt": [
+    "seal on ice"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_whales",
+   "query": "humpback whale antarctica",
+   "alt": [
+    "whale breaching"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_blizzard",
+   "query": "blizzard snow wind",
+   "alt": [
+    "snowstorm"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_glacier_calving",
+   "query": "glacier calving",
+   "alt": [
+    "ice collapse"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_mountains",
+   "query": "antarctica mountains aerial",
+   "alt": [
+    "snow mountains drone"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_ice_sheet",
+   "query": "ice sheet aerial",
+   "alt": [
+    "snowfield drone"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_station",
+   "query": "research station snow",
+   "alt": [
+    "antarctic base"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr",
+    "nasa"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_plane_ice",
+   "query": "plane landing on ice",
+   "alt": [
+    "aircraft snow runway"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr",
+    "nasa"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_surgery",
+   "query": "surgery operating room",
+   "alt": [
+    "surgeon scalpel"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 2
+  },
+  {
+   "id": "v_mirror",
+   "query": "mirror reflection",
+   "alt": [
+    "hand mirror"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 1
+  },
+  {
+   "id": "v_scientist_lab",
+   "query": "scientist laboratory",
+   "alt": [
+    "researcher microscope"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 2
+  },
+  {
+   "id": "v_sea_ice",
+   "query": "sea ice floating",
+   "alt": [
+    "pack ice"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_ushuaia",
+   "query": "Ushuaia",
+   "alt": [
+    "Patagonia port"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 2
+  },
+  {
+   "id": "v_aurora",
+   "query": "aurora australis",
+   "alt": [
+    "aurora night sky"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_snow_walk",
+   "query": "people walking snow expedition",
+   "alt": [
+    "hikers snow"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_volcano_steam",
+   "query": "volcano steam",
+   "alt": [
+    "fumarole"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 2
+  },
+  {
+   "id": "v_krill",
+   "query": "krill",
+   "alt": [
+    "plankton underwater"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 2
+  },
+  {
+   "id": "v_oil",
+   "query": "oil drilling rig",
+   "alt": [
+    "offshore oil platform"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 2
+  },
+  {
+   "id": "v_globe",
+   "query": "earth rotating",
+   "alt": [
+    "globe spinning"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr",
+    "nasa"
+   ],
+   "n": 2
+  },
+  {
+   "id": "v_sunset_ice",
+   "query": "sunset ice",
+   "alt": [
+    "midnight sun ice"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_cold_war",
+   "query": "cold war newsreel",
+   "alt": [
+    "nuclear test 1950s"
+   ],
+   "sources": [
+    "archive"
+   ],
+   "n": 2
+  },
+  {
+   "id": "v_washington",
+   "query": "Washington DC 1950s",
+   "alt": [
+    "capitol newsreel"
+   ],
+   "sources": [
+    "archive"
+   ],
+   "n": 2
+  },
+  {
+   "id": "v_byrd",
+   "query": "Operation Deep Freeze",
+   "alt": [
+    "Antarctica 1957 expedition film"
+   ],
+   "sources": [
+    "archive",
+    "nasa"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_sled",
+   "query": "sled dogs",
+   "alt": [
+    "dog sled snow"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr",
+    "archive"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_tent",
+   "query": "tent snow",
+   "alt": [
+    "camping in snow"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 2
+  }
+ ]
+}
