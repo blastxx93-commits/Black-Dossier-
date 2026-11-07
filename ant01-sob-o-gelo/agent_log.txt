@@ -1,26 +1,38 @@
-[     0s] ant01-sob-o-gelo: 8 planos, limite 35.0 min
-[     0s] x_p_iceberg: 'antarctica iceberg'
-[     0s]     pixabay: 12 candidatos em 0.2s
+[     0s] ant01-sob-o-gelo: 12 planos, limite 35.0 min
+[     0s] x_p_glacier_wall: 'glacier ice wall'
+[     0s]     pixabay: 12 candidatos em 0.4s
 [     6s]   -> 6 imagens
-[     6s] x_p_glacier: 'antarctica glacier'
-[     6s]     pixabay: 12 candidatos em 0.2s
-[    10s]   -> 6 imagens
-[    10s] x_p_penguin: 'penguins antarctica'
-[    11s]     pixabay: 12 candidatos em 0.2s
-[    15s]   -> 6 imagens
-[    15s] x_p_mountains: 'antarctica mountains'
-[    15s]     pixabay: 12 candidatos em 0.2s
-[    19s]   -> 6 imagens
-[    19s] x_p_ice: 'blue ice'
-[    20s]     pixabay: 12 candidatos em 0.2s
-[    24s]   -> 6 imagens
-[    24s] x_p_snowfield: 'snow field polar'
-[    24s]     pixabay: 12 candidatos em 0.2s
-[    31s]   -> 6 imagens
-[    31s] x_p_ship: 'ship antarctica'
-[    31s]     pixabay: 12 candidatos em 0.2s
-[    37s]   -> 6 imagens
-[    37s] x_p_seal: 'seal antarctica'
-[    37s]     pixabay: 12 candidatos em 0.3s
-[    42s]   -> 6 imagens
-[    43s] fim: 48 imagens
+[     6s] x_p_ice_crack: 'ice crack'
+[     7s]     pixabay: 12 candidatos em 0.5s
+[    12s]   -> 6 imagens
+[    12s] x_p_frozen_sea: 'frozen sea ice'
+[    12s]     pixabay: 12 candidatos em 0.2s
+[    17s]   -> 6 imagens
+[    17s] x_p_calving: 'glacier calving'
+[    18s]     pixabay: 12 candidatos em 0.2s
+[    23s]   -> 6 imagens
+[    23s] x_p_ocean_ice: 'ocean ice floes'
+[    24s]     pixabay: 12 candidatos em 0.3s
+[    30s]   -> 6 imagens
+[    30s] x_p_snow_crystal: 'snow crystal macro'
+[    30s]     pixabay: 12 candidatos em 0.2s
+[    35s]   -> 6 imagens
+[    35s] x_p_ice_bubbles: 'ice bubbles'
+[    35s]     pixabay: 12 candidatos em 0.2s
+[    39s]   -> 6 imagens
+[    39s] x_p_fern_forest: 'fern forest'
+[    39s]     pixabay: 12 candidatos em 0.2s
+[    44s]   -> 6 imagens
+[    44s] x_p_fossil: 'fossil leaf'
+[    45s]     pixabay: 12 candidatos em 0.3s
+[    50s]   -> 6 imagens
+[    50s] x_p_ice_cave: 'ice cave'
+[    50s]     pixabay: 12 candidatos em 0.2s
+[    54s]   -> 6 imagens
+[    54s] x_p_polar_night: 'polar night snow stars'
+[    55s]     pixabay: 12 candidatos em 0.3s
+[    59s]   -> 6 imagens
+[    59s] x_p_coast_brazil: 'Copacabana Rio de Janeiro'
+[    60s]     pixabay: 12 candidatos em 0.4s
+[    64s]   -> 6 imagens
+[    66s] fim: 72 imagens
