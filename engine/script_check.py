@@ -14,11 +14,25 @@ can will would could should may might must do does did done have has had having 
 during against because while until if one two said""".split())
 CRUTCH = {"really", "very", "just", "actually", "basically", "simply", "literally", "suddenly"}
 
+# Portuguese (canal Antártica): used automatically when the text has Portuguese accents/words
+STOP_PT = set("""a o as os um uma uns umas de do da dos das em no na nos nas por pelo pela pelos pelas para pra com sem
+sob sobre entre até ate e ou mas que se não nao sim é ser era foi são sao está esta estão estao estava eram foram tem têm
+ter tinha há ha isso isto aquilo esse essa esses essas este esta estes estas aquele aquela aqueles aquelas ele ela eles
+elas você voce vocês nós nos seu sua seus suas dele dela deles delas meu minha qual quais quem quando onde como porque
+porquê muito muita muitos muitas mais menos já ja ainda também tambem só so então entao assim lhe lhes me te mesmo mesma
+cada todo toda todos todas outro outra outros outras dois duas três tres mil vez vezes pode podem num numa ao aos à às
+""".split())
+CRUTCH_PT = {"realmente", "simplesmente", "basicamente", "literalmente", "praticamente", "incrível", "inacreditável", "de repente"}
+
 
 def main(path):
+    global STOP, CRUTCH
     text = open(path).read()
-    names = set(re.findall(r"\b([A-Z][a-z]+)\b", text))
-    words = [w.lower() for w in re.findall(r"[A-Za-z']+", text)]
+    pt = len(re.findall(r"[ãõçáéíóúâêô]", text.lower())) > len(text) / 400
+    if pt:
+        STOP, CRUTCH = STOP | STOP_PT, CRUTCH_PT
+    names = set(re.findall(r"\b([A-ZÁÉÍÓÚÂÊÔÃÕ][a-zà-ÿ]+)\b", text))
+    words = [w.lower() for w in re.findall(r"[A-Za-zÀ-ÿ']+", text)]
     total = len(words)
     sents = [s.strip() for s in re.split(r"(?<=[.!?])\s+", text.replace("\n", " ")) if s.strip()]
     problems = 0
@@ -51,13 +65,15 @@ def main(path):
             print(f"  \"{st}…\" → {s}")
 
     first = collections.Counter(s.split()[0].lower() for s in sents if s.split())
-    for w in ("and", "but", "so"):
+    for w in (("e", "mas", "então") if pt else ("and", "but", "so")):
         share = first[w] / max(1, len(sents))
         if share > 0.08:
             problems += 1
             print(f"\nMuitas frases começando com \"{w.capitalize()}\": {first[w]} ({share:.0%})")
 
-    cr = [(w, cnt[w] if w in cnt else words.count(w)) for w in CRUTCH if words.count(w) > 2]
+    low = " ".join(words)
+    cr = [(w, low.count(w) if " " in w else words.count(w)) for w in CRUTCH]
+    cr = [(w, n) for w, n in cr if n > 2]
     if cr:
         problems += len(cr)
         print("\nMuletas:", ", ".join(f"{w} ({n}x)" for w, n in cr))

@@ -7,6 +7,14 @@ on:
       episode:
         description: "Pasta do episódio (ex.: ep03-bonanno)"
         required: true
+      lang:
+        description: "Idioma das sugestões (en; pt para o canal Antártica)"
+        required: false
+        default: "en"
+      country:
+        description: "País (us; br para o canal Antártica)"
+        required: false
+        default: "us"
 
 permissions:
   contents: write
@@ -26,7 +34,7 @@ jobs:
       - name: Buscar termos
         continue-on-error: true
         working-directory: main
-        run: python3 agent/keywords.py "${{ inputs.episode }}" --out ../out
+        run: python3 agent/keywords.py "${{ inputs.episode }}" --out ../out --hl "${{ inputs.lang }}" --gl "${{ inputs.country }}"
       - name: Publicar
         if: ${{ !cancelled() }}
         run: |

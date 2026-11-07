@@ -36,7 +36,7 @@ jobs:
           mkdir -p "assets/${{ inputs.episode }}/words"
           ls -la "assets/${{ inputs.episode }}/audio" > "assets/${{ inputs.episode }}/words/transcribe_log.txt" 2>&1
           set -o pipefail
-          python3 main/agent/transcribe.py "assets/${{ inputs.episode }}/audio" "assets/${{ inputs.episode }}/words" 2>&1 | tee -a "assets/${{ inputs.episode }}/words/transcribe_log.txt"
+          python3 main/agent/transcribe.py "assets/${{ inputs.episode }}/audio" "assets/${{ inputs.episode }}/words" --lang "$(cat main/episodes/${{ inputs.episode }}/lang 2>/dev/null || echo en)" 2>&1 | tee -a "assets/${{ inputs.episode }}/words/transcribe_log.txt"
       - name: Publicar
         if: ${{ !cancelled() }}
         run: |

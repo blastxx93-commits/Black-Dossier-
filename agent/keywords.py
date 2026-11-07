@@ -15,10 +15,13 @@ S = requests.Session()
 S.headers["User-Agent"] = "Mozilla/5.0 (BlackDossierKeywords/1.0)"
 
 
+HL, GL = "en", "us"
+
+
 def suggest(q):
     for k in range(3):
         try:
-            r = S.get(URL, params={"client": "firefox", "ds": "yt", "hl": "en", "gl": "us", "q": q}, timeout=15)
+            r = S.get(URL, params={"client": "firefox", "ds": "yt", "hl": HL, "gl": GL, "q": q}, timeout=15)
             if r.status_code == 200:
                 return json.loads(r.text)[1]
         except Exception:
@@ -31,7 +34,11 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("episode")
     ap.add_argument("--out", default="assets_out")
+    ap.add_argument("--hl", default="en", help="idioma das sugestões (pt para o canal Antártica)")
+    ap.add_argument("--gl", default="us", help="país (br para o canal Antártica)")
     a = ap.parse_args()
+    global HL, GL
+    HL, GL = a.hl, a.gl
     seeds = [l.strip() for l in open(os.path.join("episodes", a.episode, "keywords_seeds.txt")) if l.strip()]
     score, origin = collections.Counter(), collections.defaultdict(set)
     for seed in seeds:
@@ -47,7 +54,7 @@ def main():
     os.makedirs(d, exist_ok=True)
     with open(os.path.join(d, "keywords.csv"), "w", newline="") as fh:
         w = csv.writer(fh); w.writerow(["termo", "pontuacao", "sementes"]); w.writerows(rows)
-    md = [f"# Palavras-chave — {a.episode}", "", "Sugestões reais da busca do YouTube (EUA, inglês). Pontuação maior = mais demanda.", "",
+    md = [f"# Palavras-chave — {a.episode}", "", f"Sugestões reais da busca do YouTube (país {GL.upper()}, idioma {HL}). Pontuação maior = mais demanda.", "",
           "| # | termo | pontuação | aparece em |", "|---|---|---|---|"]
     md += [f"| {i+1} | {t} | {s} | {n} semente(s) |" for i, (t, s, n) in enumerate(rows[:80])]
     open(os.path.join(d, "keywords.md"), "w").write("\n".join(md) + "\n")
