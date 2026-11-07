@@ -66,7 +66,7 @@
   },
   {
    "id": "ai_radar_plane_1970s",
-   "prompt": "A 1970s propeller research aircraft flying low over a white ice sheet, radar antenna under the wing, golden low sun"
+   "prompt": "A plain unmarked white four-engine propeller aircraft flying low over a flat white Antarctic ice sheet at golden hour, seen from the side, completely clean fuselage with no numbers, no letters, no insignia, no logos"
   },
   {
    "id": "ai_radar_mirror",
@@ -76,7 +76,7 @@
   },
   {
    "id": "ai_satellite_ice",
-   "prompt": "A radar satellite orbiting above the Antarctic ice sheet at night, thin beam scanning the surface, Earth curvature"
+   "prompt": "A realistic radar satellite with large solar panels orbiting high above the white Antarctic ice sheet, Earth's curvature and the dark blue ocean visible, sunlight glinting, no text, no logos"
   },
   {
    "id": "ai_pressure_heat",
@@ -188,7 +188,7 @@
   },
   {
    "id": "ai_scott_sledge",
-   "prompt": "Three early 1900s polar explorers seen from behind pulling a heavy wooden sledge across a white wasteland in a blizzard, no faces visible"
+   "prompt": "Three polar explorers of 1912 seen from behind, wearing plain beige canvas windproof smocks and fur mittens, pulling a heavy wooden sledge by harness across a white ice shelf in drifting snow, historical recreation, no modern clothing, no faces visible"
   },
   {
    "id": "ai_scott_rocks",
@@ -210,7 +210,7 @@
   },
   {
    "id": "ai_cryolophosaurus",
-   "prompt": "A Cryolophosaurus dinosaur with a crest on its head standing in an early Jurassic Antarctic forest, realistic, misty light"
+   "prompt": "Realistic museum-quality paleoart of a Cryolophosaurus, a slender six-metre theropod dinosaur with a single thin transverse bony crest on its head, walking through a temperate Jurassic forest of conifers and ferns, mild climate, no snow, mist, natural colors, National Geographic style"
   },
   {
    "id": "ai_cretaceous_rainforest",
@@ -288,7 +288,7 @@
   },
   {
    "id": "ai_ferraz_station",
-   "prompt": "A modern green-and-white Brazilian Antarctic research station beside a bay with icebergs on a clear day, no readable text, no flags"
+   "prompt": "A modern research station of light grey and green modular buildings on a rocky shore of an Antarctic bay with icebergs, overcast sky, completely plain walls with no signs, no letters, no flags, no logos"
   },
   {
    "id": "ai_white_desert",
@@ -302,7 +302,7 @@
   },
   {
    "id": "ai_camera_under_ice",
-   "prompt": "A small underwater camera robot descending into a dark lake beneath the ice, its light beam piercing black water"
+   "prompt": "A small yellow underwater robot with a bright headlight descending into pitch-black water beneath a thick ice ceiling, the light beam revealing particles in the water, cinematic, no text, no watermark"
   }
  ]
 }
