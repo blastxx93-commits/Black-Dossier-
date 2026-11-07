@@ -64,7 +64,7 @@ O Claude cuida de temas, roteiro, narração e edição; o dono só dá o aval e
 
 ## Pauta (atualizada em 07/11/2026, ordem sugerida)
 1. ant01 — Por Que Os Cientistas Temem o Que Existe Sob a Antártida (lagos, montanhas, cachoeira de sangue, Thwaites) — **em produção**
-2. ant02 — Por que ninguém pode ir para a Antártida (tratado, regras, Rogozov, 2048) — **roteiro pronto, aguardando aval**
+2. ant02 — **Por Que Ninguém Pode Ir Para a Antártida?** (tratado, regras, Rogozov, 2048) — **roteiro aprovado, em produção**
 3. Os animais que sobrevivem no lugar mais frio da Terra (peixe de sangue transparente, foca-de-weddell, pinguim-imperador, tardígrados)
 4. O navio Endurance: achado 107 anos depois a 3 mil metros de profundidade (Shackleton)
 5. O que aconteceria se todo o gelo da Antártida derretesse (e o mapa do Brasil depois disso)
