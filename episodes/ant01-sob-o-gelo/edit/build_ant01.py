@@ -344,8 +344,7 @@ MOODS = [  # (chapter, phrase or 0, mood)
 GAIN = {"tensao": -26, "epico": -27, "misterio": -27, "drama": -28, "maravilha": -28, "frio": -28, "reflexivo": -28}
 
 ep = json.loads(A.finish(chapters, "ANT01_Sob_o_Gelo.mp4", ctx=["gelo", "gelo", "vostok", "perfuracao", "rede", "montanhas",
-                                                                  "cachoeira", "passado", "arquivo", "thwaites", "final"],
-                         subtitles="ANT01.ass"))
+                                                                  "cachoeira", "passado", "arquivo", "thwaites", "final"]))   # sem legendas gravadas no vídeo (pedido do dono, 07/11/2026)
 starts, t = {}, 0.0
 for chap in ep["chapters"]:
     starts[os.path.splitext(os.path.basename(chap["audio"]))[0]] = t

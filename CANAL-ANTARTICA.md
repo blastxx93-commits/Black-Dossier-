@@ -46,7 +46,7 @@ O Claude cuida de temas, roteiro, narração e edição; o dono só dá o aval e
 - Cenas de IA (Flux) só onde não há imagem real: interior dos lagos subglaciais, florestas de 90 milhões de anos, dinossauros, montanhas sob o gelo.
 - Ritmo 3–6 s por plano, primeiro minuto 2,5–4 s.
 - Paleta fria: azul-gelo (#8FD3FF), branco (#F2F6F8), azul-noite (#0A1A2A) e laranja de destaque (#FF7A1A) para números e alertas.
-  Tipografia Inter. Legendas gravadas + .srt.
+  Tipografia Inter. **Sem legendas gravadas no vídeo** (pedido do dono, 07/11/2026); o .srt pode ir só para o YouTube, se o dono quiser.
 - Som: efeitos discretos (vento, gelo rangendo, sonar), silêncio curto antes das revelações.
 
 ## Títulos
