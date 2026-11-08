@@ -12,7 +12,10 @@ for attempt in 1 2 3 4 5 6; do
   git -C main fetch -q --depth=1 origin +refs/heads/assets:refs/remotes/origin/assets || { sleep 5; continue; }
   # sparse worktree: check out only the destination folder (the full assets branch is several GB)
   git -C main worktree add -q -f --detach --no-checkout "$WT" origin/assets || { sleep 5; continue; }
-  git -C "$WT" sparse-checkout set --no-cone "/$DEST/" && git -C "$WT" checkout -q --detach origin/assets || { sleep 5; continue; }
+  # only the paths this agent writes (the episode folder can hold GBs of clips): one pattern per top-level entry
+  PATS=$(cd "$SRC" && for e in * .[!.]*; do [ -e "$e" ] && printf '/%s/%s\n' "$DEST" "$e"; done; true)
+  [ -z "$PATS" ] && PATS="/$DEST/"
+  printf '%s\n' "$PATS" | git -C "$WT" sparse-checkout set --no-cone --stdin && git -C "$WT" checkout -q --detach origin/assets || { sleep 5; continue; }
   mkdir -p "$WT/$DEST"
   cp -r "$SRC"/. "$WT/$DEST/"
   cd "$WT"

@@ -29,6 +29,10 @@ on:
         description: "Provedor de voz: fish (Fish Audio) ou eleven (ElevenLabs)"
         required: false
         default: "fish"
+      from_run:
+        description: "Recuperar: só publica a cópia de segurança de outra execução (número da execução), sem gerar voz"
+        required: false
+        default: ""
       voice_test:
         description: "Teste de vozes: idioma (ex.: pt). Narra só o ch00_hook com as vozes mais usadas da Fish nesse idioma (+ as de 'voice', separadas por vírgula; 'only' vira palavra de busca no nome da voz, ex.: narrador) e publica em vozes/<episódio>[-busca]/"
         required: false
@@ -36,6 +40,7 @@ on:
 
 permissions:
   contents: write
+  actions: read
 
 jobs:
   narrate:
@@ -67,7 +72,7 @@ jobs:
           T="${{ inputs.episode }}${{ inputs.only != '' && format('-{0}', inputs.only) || '' }}"
           cd .. && bash main/agent/publish_assets.sh "out/vozes/$T" "vozes/$T" "Teste de vozes: ${{ inputs.episode }}"
       - name: Narrar
-        if: ${{ inputs.voice_test == '' }}
+        if: ${{ inputs.from_run == '' && inputs.voice_test == '' }}
         working-directory: main
         env:
           FISH_API_KEY: ${{ secrets.FISH_API_KEY }}
@@ -89,11 +94,11 @@ jobs:
             python3 agent/tts.py "${{ inputs.episode }}" --out ../out --only "${{ inputs.only }}" --speed "${{ inputs.speed }}" 2>&1 | tee "../out/${{ inputs.episode }}/tts_log.txt"
           fi
       - name: Transcrever (tempo de cada palavra)
-        if: ${{ inputs.voice_test == '' && hashFiles(format('out/{0}/audio/*.mp3', inputs.episode)) != '' }}
+        if: ${{ inputs.from_run == '' && inputs.voice_test == '' && hashFiles(format('out/{0}/audio/*.mp3', inputs.episode)) != '' }}
         # idioma do episódio: arquivo episodes/<ep>/lang (ex.: "pt" no canal Antártica); sem ele, inglês
         run: python3 main/agent/transcribe.py "out/${{ inputs.episode }}/audio" "out/${{ inputs.episode }}/words" --lang "$(cat main/episodes/${{ inputs.episode }}/lang 2>/dev/null || echo en)"
       - name: Conferir falhas da voz e regravar (até 2 vezes)
-        if: ${{ inputs.voice_test == '' && hashFiles(format('out/{0}/audio/*.mp3', inputs.episode)) != '' }}
+        if: ${{ inputs.from_run == '' && inputs.voice_test == '' && hashFiles(format('out/{0}/audio/*.mp3', inputs.episode)) != '' }}
         working-directory: main
         env:
           FISH_API_KEY: ${{ secrets.FISH_API_KEY }}
@@ -122,13 +127,21 @@ jobs:
           done
           python3 agent/check_narration.py "../out/$EP/words" > "../out/$EP/falhas_voz.txt" || true
       - name: Guardar cópia (backup)
-        if: ${{ !cancelled() && inputs.voice_test == '' }}
+        if: ${{ inputs.from_run == '' && !cancelled() && inputs.voice_test == '' }}
         uses: actions/upload-artifact@v4
         with:
           name: saida-${{ inputs.episode }}-${{ github.run_id }}
           path: out/${{ inputs.episode }}
           retention-days: 7
           if-no-files-found: ignore
+      - name: Recuperar cópia de outra execução
+        if: ${{ inputs.from_run != '' }}
+        uses: actions/download-artifact@v4
+        with:
+          name: saida-${{ inputs.episode }}-${{ inputs.from_run }}
+          path: out/${{ inputs.episode }}
+          run-id: ${{ inputs.from_run }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
       - name: Publicar
         if: ${{ !cancelled() && inputs.voice_test == '' }}
         run: |
