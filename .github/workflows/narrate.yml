@@ -54,7 +54,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install requests imageio-ffmpeg faster-whisper==1.1.1
+      - run: pip install requests imageio-ffmpeg faster-whisper==1.1.1 librosa
       - name: Testar vozes
         if: ${{ inputs.voice_test != '' }}
         working-directory: main
@@ -81,7 +81,13 @@ jobs:
         run: |
           mkdir -p "../out/${{ inputs.episode }}"
           set -o pipefail
-          python3 agent/tts.py "${{ inputs.episode }}" --out ../out --only "${{ inputs.only }}" --speed "${{ inputs.speed }}" 2>&1 | tee "../out/${{ inputs.episode }}/tts_log.txt"
+          L="$(cat episodes/${{ inputs.episode }}/lang 2>/dev/null || echo en)"
+          if [ "$L" != "en" ] && [ "${{ inputs.provider }}" != "eleven" ]; then
+            # canal em português: narração estável, parágrafo a parágrafo, com conferência de bugs e de tom
+            python3 agent/tts_stable.py "${{ inputs.episode }}" --out ../out --only "${{ inputs.only }}" --lang "$L" 2>&1 | tee "../out/${{ inputs.episode }}/tts_log.txt"
+          else
+            python3 agent/tts.py "${{ inputs.episode }}" --out ../out --only "${{ inputs.only }}" --speed "${{ inputs.speed }}" 2>&1 | tee "../out/${{ inputs.episode }}/tts_log.txt"
+          fi
       - name: Transcrever (tempo de cada palavra)
         if: ${{ inputs.voice_test == '' && hashFiles(format('out/{0}/audio/*.mp3', inputs.episode)) != '' }}
         # idioma do episódio: arquivo episodes/<ep>/lang (ex.: "pt" no canal Antártica); sem ele, inglês
@@ -103,7 +109,11 @@ jobs:
             BAD=$(python3 agent/check_narration.py "../out/$EP/words")
             [ -z "$BAD" ] && { echo "narração sem falhas"; break; }
             echo "regravando: $BAD (tentativa $k)"
-            python3 agent/tts.py "$EP" --out ../out --only "$BAD" --speed "${{ inputs.speed }}" 2>&1 | tee -a "../out/$EP/tts_log.txt"
+            if [ "$L" != "en" ]; then
+              python3 agent/tts_stable.py "$EP" --out ../out --only "$BAD" --lang "$L" 2>&1 | tee -a "../out/$EP/tts_log.txt"
+            else
+              python3 agent/tts.py "$EP" --out ../out --only "$BAD" --speed "${{ inputs.speed }}" 2>&1 | tee -a "../out/$EP/tts_log.txt"
+            fi
             mkdir -p ../redo && rm -f ../redo/*.mp3
             for c in ${BAD//,/ }; do cp "../out/$EP/audio/$c.mp3" ../redo/; done
             python3 agent/transcribe.py ../redo "../out/$EP/words" --lang "$L"

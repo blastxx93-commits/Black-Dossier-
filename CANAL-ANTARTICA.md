@@ -28,6 +28,11 @@ O Claude cuida de temas, roteiro, narração e edição; o dono só dá o aval e
 - **O CTA final nunca chama outro vídeo** ("no próximo vídeo…", "até o próximo…"): pergunta para os comentários + like/inscrição + agradecimento.
 - A voz é escolhida depois do roteiro pronto (teste com o hook final).
 
+## Narração (corrigido em 08/11/2026, após o dono apontar bugs e mudanças de tom no ant01)
+- Gerada parágrafo a parágrafo (`agent/tts_stable.py`), temperatura 0.5, cada parágrafo transcrito e comparado com o roteiro
+  (sons estranhos / trechos errados) e com o tom-alvo da voz (máx. 1 semitom de desvio); falhou → regrava até 3x.
+- Relatório `qa_narracao.md` no branch assets, por episódio.
+
 ## Edição (pedido do dono, 07/11/2026 — estilo do vídeo de referência do Kairus)
 - **Imagens e clipes de alta qualidade**, buscados pelo Claude nos bancos livres (NASA SVS/Images, NOAA, USAP/NSF, BAS, USGS,
   Wikimedia Commons, Internet Archive). Mínimo 1080p para clipes e ~1600 px para fotos; descartar imagem borrada, com marca d'água ou texto.
