@@ -38,6 +38,8 @@ O Claude cuida de temas, roteiro, narração e edição; o dono só dá o aval e
   1. transcrição x roteiro (sons sem sentido, palavras trocadas ou puladas);
   2. tom de cada trecho (pitch) contra o tom-alvo da voz e a média entre capítulos;
   3. trechos longos sem fala e volume de cada capítulo.
+  O tom é igualado automaticamente (`agent/fix_tone.py`): parágrafo fora de ±0,6 semitom do tom médio é ajustado
+  (timbre preservado, sem mudar a duração), mantendo a 1ª geração da Fish.
   Qualquer problema é mostrado ao dono (capítulo, segundo e trecho) antes de seguir; nada vai para a edição sem essa conferência.
 
 ## Edição (pedido do dono, 07/11/2026 — estilo do vídeo de referência do Kairus)
