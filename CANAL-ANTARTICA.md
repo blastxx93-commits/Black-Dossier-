@@ -34,6 +34,11 @@ O Claude cuida de temas, roteiro, narração e edição; o dono só dá o aval e
 - **Regra do dono: na Fish, sempre a 1ª geração** de cada trecho. Nada de regravar automaticamente (as regravações costumam
   trazer os bugs); problemas só são apontados no relatório para o dono decidir.
 - Relatório `qa_narracao.md` no branch assets, por episódio.
+- **Regra do dono (08/11/2026): o Claude SEMPRE analisa a narração antes de montar e renderizar**, capítulo por capítulo:
+  1. transcrição x roteiro (sons sem sentido, palavras trocadas ou puladas);
+  2. tom de cada trecho (pitch) contra o tom-alvo da voz e a média entre capítulos;
+  3. trechos longos sem fala e volume de cada capítulo.
+  Qualquer problema é mostrado ao dono (capítulo, segundo e trecho) antes de seguir; nada vai para a edição sem essa conferência.
 
 ## Edição (pedido do dono, 07/11/2026 — estilo do vídeo de referência do Kairus)
 - **Imagens e clipes de alta qualidade**, buscados pelo Claude nos bancos livres (NASA SVS/Images, NOAA, USAP/NSF, BAS, USGS,
