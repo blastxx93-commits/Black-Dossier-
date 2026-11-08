@@ -5,135 +5,135 @@
   {
    "file": "musica/tensao.mp3",
    "start": 0.0,
-   "end": 42.92,
+   "end": 44.08,
    "gain": -26,
    "fade_in": 0.5,
    "fade_out": 2.4
   },
   {
    "file": "musica/misterio.mp3",
-   "start": 40.52,
-   "end": 89.86,
+   "start": 41.68,
+   "end": 91.48,
    "gain": -27,
    "fade_in": 2.0,
    "fade_out": 2.4
   },
   {
    "file": "musica/maravilha.mp3",
-   "start": 87.46,
-   "end": 191.31,
+   "start": 89.08,
+   "end": 193.29,
    "gain": -28,
    "fade_in": 2.0,
    "fade_out": 2.4
   },
   {
    "file": "musica/frio.mp3",
-   "start": 188.91,
-   "end": 245.45,
+   "start": 190.89,
+   "end": 247.98,
    "gain": -28,
    "fade_in": 2.0,
    "fade_out": 2.4
   },
   {
    "file": "musica/misterio.mp3",
-   "start": 243.05,
-   "end": 382.59,
+   "start": 245.58,
+   "end": 389.0,
    "gain": -27,
    "fade_in": 2.0,
    "fade_out": 2.4
   },
   {
    "file": "musica/tensao.mp3",
-   "start": 380.19,
-   "end": 451.03,
+   "start": 386.6,
+   "end": 458.58,
    "gain": -26,
    "fade_in": 2.0,
    "fade_out": 2.4
   },
   {
    "file": "musica/misterio.mp3",
-   "start": 448.63,
-   "end": 491.71,
+   "start": 456.18,
+   "end": 501.86,
    "gain": -27,
    "fade_in": 2.0,
    "fade_out": 2.4
   },
   {
    "file": "musica/maravilha.mp3",
-   "start": 489.31,
-   "end": 668.3,
+   "start": 499.46,
+   "end": 679.75,
    "gain": -28,
    "fade_in": 2.0,
    "fade_out": 2.4
   },
   {
    "file": "musica/epico.mp3",
-   "start": 665.9,
-   "end": 797.46,
+   "start": 677.35,
+   "end": 813.31,
    "gain": -27,
    "fade_in": 2.0,
    "fade_out": 2.4
   },
   {
    "file": "musica/tensao.mp3",
-   "start": 795.06,
-   "end": 869.48,
+   "start": 810.91,
+   "end": 887.1,
    "gain": -26,
    "fade_in": 2.0,
    "fade_out": 2.4
   },
   {
    "file": "musica/misterio.mp3",
-   "start": 867.08,
-   "end": 1012.19,
+   "start": 884.7,
+   "end": 1029.83,
    "gain": -27,
    "fade_in": 2.0,
    "fade_out": 2.4
   },
   {
    "file": "musica/drama.mp3",
-   "start": 1009.79,
-   "end": 1060.73,
+   "start": 1027.43,
+   "end": 1077.25,
    "gain": -28,
    "fade_in": 2.0,
    "fade_out": 2.4
   },
   {
    "file": "musica/maravilha.mp3",
-   "start": 1058.33,
-   "end": 1181.07,
+   "start": 1074.85,
+   "end": 1195.4,
    "gain": -28,
    "fade_in": 2.0,
    "fade_out": 2.4
   },
   {
    "file": "musica/misterio.mp3",
-   "start": 1178.67,
-   "end": 1336.31,
+   "start": 1193.0,
+   "end": 1357.56,
    "gain": -27,
    "fade_in": 2.0,
    "fade_out": 2.4
   },
   {
    "file": "musica/tensao.mp3",
-   "start": 1333.91,
-   "end": 1349.16,
+   "start": 1355.16,
+   "end": 1370.76,
    "gain": -26,
    "fade_in": 2.0,
    "fade_out": 2.4
   },
   {
    "file": "musica/tensao.mp3",
-   "start": 1346.76,
-   "end": 1523.59,
+   "start": 1368.36,
+   "end": 1546.42,
    "gain": -26,
    "fade_in": 2.0,
    "fade_out": 2.4
   },
   {
    "file": "musica/reflexivo.mp3",
-   "start": 1521.19,
-   "end": 1595.06,
+   "start": 1544.02,
+   "end": 1622.1,
    "gain": -28,
    "fade_in": 2.0,
    "fade_out": 5
@@ -151,7 +151,7 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 3.46,
+     "dur": 3.64,
      "fixed": true
     },
     {
@@ -167,7 +167,7 @@
       }
      ],
      "color": "red",
-     "dur": 3.39,
+     "dur": 3.65,
      "fixed": true
     },
     {
@@ -175,7 +175,7 @@
      "src": "a/p_vostok_station/1_commons.jpg",
      "move": "in",
      "caption": "Estação Vostok|5 de fevereiro de 2012",
-     "dur": 4.45,
+     "dur": 4.43,
      "fixed": true
     },
     {
@@ -191,14 +191,14 @@
       }
      ],
      "source": "OMM",
-     "dur": 7.12,
+     "dur": 6.8,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/ai/ai_drill_dark_1.jpg",
      "move": "left",
-     "dur": 3.62,
+     "dur": 3.5,
      "fixed": true
     },
     {
@@ -207,14 +207,14 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 1.5,
+     "dur": 1.32,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/p_ice_core_lab/1_commons.jpg",
      "move": "out",
-     "dur": 4.98,
+     "dur": 5.44,
      "fixed": true
     },
     {
@@ -229,7 +229,7 @@
        "at": 0
       }
      ],
-     "dur": 2.12,
+     "dur": 2.2,
      "fixed": true
     },
     {
@@ -238,14 +238,14 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 2.24,
+     "dur": 2.5,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/ai/ai_lake_under_ice_1.jpg",
      "move": "right",
-     "dur": 3.3,
+     "dur": 3.32,
      "fixed": true
     },
     {
@@ -254,14 +254,14 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 6.42,
+     "dur": 6.96,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/ai/ai_lakes_network_1.jpg",
      "move": "in",
-     "dur": 5.96,
+     "dur": 6.34,
      "fixed": true
     },
     {
@@ -270,21 +270,21 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 2.06,
+     "dur": 2.02,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/ai/ai_seismic_1958_1.jpg",
      "move": "up",
-     "dur": 4.4,
+     "dur": 4.24,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/ai/ai_denman_canyon_1.jpg",
      "move": "out",
-     "dur": 4.84,
+     "dur": 4.86,
      "fixed": true
     },
     {
@@ -293,14 +293,14 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 2.38,
+     "dur": 2.3,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/p_antarctica_mosaic/1_commons.jpg",
      "move": "down",
-     "dur": 6.28,
+     "dur": 6.7,
      "fixed": true
     },
     {
@@ -312,8 +312,8 @@
      ],
      "starts": [
       0,
-      92,
-      156
+      94,
+      151
      ],
      "sfx": [
       {
@@ -324,15 +324,15 @@
       {
        "file": "sfx/pop.wav",
        "gain": -22,
-       "at": 3.8599999999999994
+       "at": 3.9200000000000017
       },
       {
        "file": "sfx/pop.wav",
        "gain": -22,
-       "at": 6.540000000000006
+       "at": 6.319999999999993
       }
      ],
-     "dur": 11.3,
+     "dur": 11.22,
      "fixed": true
     },
     {
@@ -341,14 +341,14 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 6.68,
+     "dur": 6.8,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/p_rio/1_openverse.jpg",
      "move": "in",
-     "dur": 2.156,
+     "dur": 2.036,
      "fixed": false
     }
    ]
@@ -364,7 +364,7 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 5.16,
+     "dur": 5.38,
      "fixed": true
     },
     {
@@ -402,14 +402,14 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 7.46,
+     "dur": 7.56,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/p_antarctica_mosaic/2_openverse.jpg",
      "move": "left",
-     "dur": 2.18,
+     "dur": 2.32,
      "fixed": true
     },
     {
@@ -427,7 +427,7 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 3.46,
+     "dur": 4.0,
      "fixed": true
     },
     {
@@ -443,14 +443,14 @@
       }
      ],
      "source": "BedMachine",
-     "dur": 4.64,
+     "dur": 4.24,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/p_iceberg/1_commons.jpg",
      "move": "out",
-     "dur": 3.2,
+     "dur": 3.25,
      "fixed": true
     },
     {
@@ -465,7 +465,7 @@
        "at": 0.05
       }
      ],
-     "dur": 6.0,
+     "dur": 6.41,
      "fixed": true
     },
     {
@@ -482,14 +482,14 @@
      ],
      "source": "BedMachine",
      "color": "red",
-     "dur": 3.54,
+     "dur": 3.68,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/p_rio/3_commons.jpg",
      "move": "right",
-     "dur": 4.02,
+     "dur": 4.08,
      "fixed": true
     },
     {
@@ -498,14 +498,14 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 6.94,
+     "dur": 7.38,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/p_bedmap/1_commons.jpg",
      "move": "in",
-     "dur": 6.12,
+     "dur": 5.44,
      "fixed": true
     },
     {
@@ -519,14 +519,14 @@
      "type": "image",
      "src": "a/x_p_snowfield/2_pixabay.jpg",
      "move": "down",
-     "dur": 5.2,
+     "dur": 5.28,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/p_bedmap/3_pixabay.jpg",
      "move": "out",
-     "dur": 4.78,
+     "dur": 5.12,
      "fixed": true
     },
     {
@@ -535,7 +535,7 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 5.58,
+     "dur": 5.68,
      "fixed": true
     },
     {
@@ -550,7 +550,7 @@
        "at": 0
       }
      ],
-     "dur": 1.18,
+     "dur": 1.44,
      "fixed": true
     },
     {
@@ -566,7 +566,7 @@
      "type": "image",
      "src": "a/x_p_snowfield/4_pixabay.jpg",
      "move": "in",
-     "dur": 6.86,
+     "dur": 5.7,
      "fixed": true
     },
     {
@@ -575,7 +575,7 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 5.136,
+     "dur": 4.856,
      "fixed": false
     }
    ]
@@ -598,7 +598,7 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 4.76,
+     "dur": 4.72,
      "fixed": true
     },
     {
@@ -616,7 +616,7 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 5.78,
+     "dur": 5.86,
      "fixed": true
     },
     {
@@ -640,7 +640,7 @@
      "type": "image",
      "src": "a/x_p_polar_night/2_pixabay.jpg",
      "move": "left",
-     "dur": 3.9,
+     "dur": 4.0,
      "fixed": true
     },
     {
@@ -664,21 +664,14 @@
      "type": "image",
      "src": "a/x_p_polar_night/3_pixabay.jpg",
      "move": "out",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/x_p_polar_night/4_pixabay.jpg",
-     "move": "right",
-     "dur": 3.12,
+     "dur": 7.98,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/ai/ai_vostok_1957_1.jpg",
      "move": "left",
-     "dur": 7.56,
+     "dur": 7.9,
      "fixed": true
     },
     {
@@ -687,14 +680,21 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 4.9,
+     "dur": 5.11,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/ai/ai_radar_plane_1970s_1.jpg",
      "move": "out",
-     "dur": 7.9,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_polar_night/4_pixabay.jpg",
+     "move": "right",
+     "dur": 3.39,
      "fixed": true
     },
     {
@@ -710,14 +710,14 @@
      "type": "image",
      "src": "a/x_p_polar_night/5_pixabay.jpg",
      "move": "in",
-     "dur": 3.8,
+     "dur": 3.98,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/p_radar_echo/2_unsplash.jpg",
      "move": "right",
-     "dur": 6.94,
+     "dur": 7.12,
      "fixed": true
     },
     {
@@ -733,14 +733,14 @@
      "type": "image",
      "src": "a/x_p_polar_night/6_pixabay.jpg",
      "move": "up",
-     "dur": 5.4,
+     "dur": 6.1,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/p_vostok_lake_map/1_commons.jpg",
      "move": "in",
-     "dur": 1.68,
+     "dur": 1.52,
      "fixed": true
     },
     {
@@ -757,7 +757,7 @@
      "type": "image",
      "src": "a/x_p_snowfield/5_pixabay.jpg",
      "move": "out",
-     "dur": 6.4,
+     "dur": 4.72,
      "fixed": true
     },
     {
@@ -816,7 +816,7 @@
      "type": "image",
      "src": "a/x_p_ice/2_pixabay.jpg",
      "move": "left",
-     "dur": 3.16,
+     "dur": 3.08,
      "fixed": true
     },
     {
@@ -831,14 +831,14 @@
        "at": 0
       }
      ],
-     "dur": 6.1,
+     "dur": 7.1,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/ai/ai_cutaway_continent_1.jpg",
      "move": "out",
-     "dur": 7.42,
+     "dur": 7.86,
      "fixed": true
     },
     {
@@ -847,7 +847,7 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 7.28,
+     "dur": 7.64,
      "fixed": true
     },
     {
@@ -861,7 +861,7 @@
      "type": "image",
      "src": "a/x_p_ice/3_pixabay.jpg",
      "move": "out",
-     "dur": 3.08,
+     "dur": 3.94,
      "fixed": true
     },
     {
@@ -875,7 +875,7 @@
      "type": "image",
      "src": "a/x_p_ice/4_pixabay.jpg",
      "move": "right",
-     "dur": 6.42,
+     "dur": 6.68,
      "fixed": true
     },
     {
@@ -884,7 +884,7 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 3.64,
+     "dur": 4.068,
      "fixed": false
     }
    ]
@@ -907,14 +907,21 @@
      "type": "image",
      "src": "a/x_p_ice/5_pixabay.jpg",
      "move": "in",
-     "dur": 5.02,
+     "dur": 5.32,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/ai/ai_snow_layers_1.jpg",
      "move": "left",
-     "dur": 7.7,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_hidden_world_final_1.jpg",
+     "move": "up",
+     "dur": 3.16,
      "fixed": true
     },
     {
@@ -928,9 +935,9 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_hidden_world_final_1.jpg",
-     "move": "up",
-     "dur": 5.2,
+     "src": "a/p_penguins/1_commons.jpg",
+     "move": "out",
+     "dur": 5.34,
      "fixed": true
     },
     {
@@ -945,7 +952,7 @@
        "at": 0
       }
      ],
-     "dur": 2.86,
+     "dur": 3.86,
      "fixed": true
     },
     {
@@ -957,30 +964,37 @@
     },
     {
      "type": "image",
-     "src": "a/p_penguins/1_commons.jpg",
-     "move": "out",
+     "src": "a/p_penguins/3_pixabay.jpg",
+     "move": "down",
      "dur": 5.0,
      "fixed": true
     },
     {
      "type": "image",
-     "src": "a/p_penguins/3_pixabay.jpg",
-     "move": "down",
-     "dur": 7.56,
+     "src": "a/x_p_penguin/2_pixabay.jpg",
+     "move": "in",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_penguin/3_pixabay.jpg",
+     "move": "left",
+     "dur": 3.78,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/ai/ai_water_rising_1.jpg",
      "move": "right",
-     "dur": 4.053,
+     "dur": 3.96,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/ai/ai_lab_sample_1.jpg",
      "move": "in",
-     "dur": 6.447,
+     "dur": 6.88,
      "fixed": true
     },
     {
@@ -992,9 +1006,9 @@
     },
     {
      "type": "image",
-     "src": "a/x_p_penguin/2_pixabay.jpg",
-     "move": "in",
-     "dur": 7.64,
+     "src": "a/x_p_penguin/4_pixabay.jpg",
+     "move": "out",
+     "dur": 7.98,
      "fixed": true
     },
     {
@@ -1006,9 +1020,9 @@
     },
     {
      "type": "image",
-     "src": "a/x_p_penguin/3_pixabay.jpg",
-     "move": "left",
-     "dur": 5.32,
+     "src": "a/x_p_penguin/5_pixabay.jpg",
+     "move": "right",
+     "dur": 5.26,
      "fixed": true
     },
     {
@@ -1025,28 +1039,21 @@
      ],
      "source": "Nature",
      "color": "red",
-     "dur": 6.24,
+     "dur": 5.1,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/p_vostok_satellite/1_commons.jpg",
      "move": "down",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/x_p_penguin/4_pixabay.jpg",
-     "move": "out",
-     "dur": 3.32,
+     "dur": 7.76,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/ai/ai_x_station_lights_1.jpg",
      "move": "in",
-     "dur": 3.16,
+     "dur": 3.24,
      "fixed": true
     },
     {
@@ -1060,16 +1067,16 @@
     },
     {
      "type": "image",
-     "src": "a/x_p_penguin/5_pixabay.jpg",
-     "move": "right",
-     "dur": 5.14,
+     "src": "a/x_p_penguin/6_pixabay.jpg",
+     "move": "in",
+     "dur": 5.12,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/x_p_polar_night/1_pixabay.jpg",
      "move": "left",
-     "dur": 7.08,
+     "dur": 7.64,
      "fixed": true
     },
     {
@@ -1084,7 +1091,7 @@
        "at": 0
       }
      ],
-     "dur": 4.76,
+     "dur": 5.02,
      "fixed": true
     },
     {
@@ -1098,9 +1105,9 @@
     },
     {
      "type": "image",
-     "src": "a/x_p_penguin/6_pixabay.jpg",
-     "move": "in",
-     "dur": 6.1,
+     "src": "a/x_p_seal/1_pixabay.jpg",
+     "move": "up",
+     "dur": 7.58,
      "fixed": true
     },
     {
@@ -1109,7 +1116,7 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 3.56,
+     "dur": 3.804,
      "fixed": false
     }
    ]
@@ -1137,9 +1144,9 @@
     },
     {
      "type": "image",
-     "src": "a/x_p_seal/1_pixabay.jpg",
-     "move": "up",
-     "dur": 3.38,
+     "src": "a/x_p_seal/2_pixabay.jpg",
+     "move": "out",
+     "dur": 3.82,
      "fixed": true
     },
     {
@@ -1148,14 +1155,14 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 5.92,
+     "dur": 5.74,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/p_whillans/1_commons.jpg",
      "move": "out",
-     "dur": 2.2,
+     "dur": 2.38,
      "fixed": true
     },
     {
@@ -1169,9 +1176,9 @@
     },
     {
      "type": "image",
-     "src": "a/x_p_seal/2_pixabay.jpg",
-     "move": "out",
-     "dur": 7.74,
+     "src": "a/x_p_seal/3_pixabay.jpg",
+     "move": "down",
+     "dur": 7.88,
      "fixed": true
     },
     {
@@ -1183,16 +1190,16 @@
     },
     {
      "type": "image",
-     "src": "a/x_p_seal/3_pixabay.jpg",
-     "move": "down",
-     "dur": 3.58,
+     "src": "a/x_p_seal/5_pixabay.jpg",
+     "move": "in",
+     "dur": 3.14,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/ai/ai_x_river_tunnel_1.jpg",
      "move": "in",
-     "dur": 5.78,
+     "dur": 5.3,
      "fixed": true
     },
     {
@@ -1201,7 +1208,7 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 6.28,
+     "dur": 6.38,
      "fixed": true
     },
     {
@@ -1213,9 +1220,9 @@
     },
     {
      "type": "image",
-     "src": "a/x_p_seal/5_pixabay.jpg",
-     "move": "in",
-     "dur": 4.46,
+     "src": "a/x_p_seal/6_pixabay.jpg",
+     "move": "left",
+     "dur": 3.82,
      "fixed": true
     },
     {
@@ -1250,13 +1257,6 @@
     },
     {
      "type": "image",
-     "src": "a/x_p_seal/6_pixabay.jpg",
-     "move": "left",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
      "src": "a/x_p_ship/2_pixabay.jpg",
      "move": "out",
      "dur": 5.0,
@@ -1266,7 +1266,14 @@
      "type": "image",
      "src": "a/x_p_ship/3_pixabay.jpg",
      "move": "right",
-     "dur": 7.14,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_ship/5_pixabay.jpg",
+     "move": "in",
+     "dur": 5.2,
      "fixed": true
     },
     {
@@ -1275,7 +1282,7 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 2.64,
+     "dur": 4.4,
      "fixed": true
     },
     {
@@ -1296,16 +1303,16 @@
     },
     {
      "type": "image",
-     "src": "a/x_p_ship/5_pixabay.jpg",
-     "move": "in",
-     "dur": 7.24,
+     "src": "a/x_p_ship/6_pixabay.jpg",
+     "move": "up",
+     "dur": 7.98,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/ai/ai_microbe_rock_1.jpg",
      "move": "down",
-     "dur": 4.56,
+     "dur": 4.0,
      "fixed": true
     },
     {
@@ -1317,16 +1324,16 @@
     },
     {
      "type": "image",
-     "src": "a/x_p_ship/6_pixabay.jpg",
-     "move": "up",
-     "dur": 3.78,
+     "src": "a/ai/ai_x_penguins_station_1.jpg",
+     "move": "out",
+     "dur": 3.88,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/ai/ai_mercer_mud_1.jpg",
      "move": "left",
-     "dur": 6.04,
+     "dur": 6.32,
      "fixed": true
     },
     {
@@ -1339,16 +1346,16 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_x_penguins_station_1.jpg",
-     "move": "out",
-     "dur": 6.12,
+     "src": "a/ai/ai_x_ice_glow_1.jpg",
+     "move": "down",
+     "dur": 6.78,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/p_ice_shelf/1_commons.jpg",
      "move": "right",
-     "dur": 6.54,
+     "dur": 6.88,
      "fixed": true
     },
     {
@@ -1360,9 +1367,9 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_x_ice_glow_1.jpg",
-     "move": "down",
-     "dur": 3.84,
+     "src": "a/ai/ai_x_final_horizon_1.jpg",
+     "move": "in",
+     "dur": 4.76,
      "fixed": true
     },
     {
@@ -1374,9 +1381,9 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_x_final_horizon_1.jpg",
-     "move": "in",
-     "dur": 4.46,
+     "src": "a/ai/ai_ice_weight_1.jpg",
+     "move": "left",
+     "dur": 4.22,
      "fixed": true
     },
     {
@@ -1388,16 +1395,16 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_ice_weight_1.jpg",
-     "move": "left",
+     "src": "a/ai/ai_archipelago_1.jpg",
+     "move": "out",
      "dur": 5.0,
      "fixed": true
     },
     {
      "type": "image",
-     "src": "a/ai/ai_archipelago_1.jpg",
-     "move": "out",
-     "dur": 3.26,
+     "src": "a/p_pao_acucar/2_openverse.jpg",
+     "move": "right",
+     "dur": 3.22,
      "fixed": true
     },
     {
@@ -1411,9 +1418,9 @@
     },
     {
      "type": "image",
-     "src": "a/p_pao_acucar/2_openverse.jpg",
-     "move": "right",
-     "dur": 4.58,
+     "src": "a/p_pao_acucar/3_pixabay.jpg",
+     "move": "in",
+     "dur": 4.96,
      "fixed": true
     },
     {
@@ -1422,7 +1429,7 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 2.048,
+     "dur": 1.824,
      "fixed": false
     }
    ]
@@ -1438,7 +1445,14 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 7.82,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_x_valley_ice_1.jpg",
+     "move": "up",
+     "dur": 3.16,
      "fixed": true
     },
     {
@@ -1452,9 +1466,9 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_x_valley_ice_1.jpg",
-     "move": "in",
-     "dur": 3.38,
+     "src": "a/p_dead_sea/3_pixabay.jpg",
+     "move": "out",
+     "dur": 4.02,
      "fixed": true
     },
     {
@@ -1476,9 +1490,9 @@
     },
     {
      "type": "image",
-     "src": "a/p_dead_sea/3_pixabay.jpg",
-     "move": "up",
-     "dur": 4.98,
+     "src": "a/ai/ai_radar_mirror_1.jpg",
+     "move": "down",
+     "dur": 6.36,
      "fixed": true
     },
     {
@@ -1490,9 +1504,9 @@
     },
     {
      "type": "image",
-     "src": "a/p_pao_acucar/3_pixabay.jpg",
-     "move": "out",
-     "dur": 4.82,
+     "src": "a/p_ers1/1_commons.jpg",
+     "move": "in",
+     "dur": 4.74,
      "fixed": true
     },
     {
@@ -1504,23 +1518,23 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_radar_mirror_1.jpg",
-     "move": "down",
+     "src": "a/ai/ai_satellite_ice_1.jpg",
+     "move": "left",
      "dur": 5.0,
      "fixed": true
     },
     {
      "type": "image",
-     "src": "a/p_ers1/1_commons.jpg",
-     "move": "in",
-     "dur": 3.8,
+     "src": "a/ai/ai_x_lake_reflection_1.jpg",
+     "move": "out",
+     "dur": 5.5,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/p_dome_a/2_openverse.jpg",
      "move": "out",
-     "dur": 3.353,
+     "dur": 3.0,
      "fixed": true
     },
     {
@@ -1559,41 +1573,6 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_satellite_ice_1.jpg",
-     "move": "left",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/ai/ai_x_lake_reflection_1.jpg",
-     "move": "out",
-     "dur": 3.407,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/p_alps/1_commons.jpg",
-     "move": "in",
-     "dur": 7.38,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/p_alps/2_openverse.jpg",
-     "move": "up",
-     "dur": 7.92,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/p_alps/3_pixabay.jpg",
-     "move": "out",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
      "src": "a/ai/ai_rock_journey_1.jpg",
      "move": "right",
      "dur": 5.0,
@@ -1603,35 +1582,27 @@
      "type": "image",
      "src": "a/ai/ai_x_mars_view_1.jpg",
      "move": "in",
-     "dur": 7.22,
-     "fixed": true
-    },
-    {
-     "type": "statement",
-     "text": "Velha demais para ter cara de nova.",
-     "highlight": "NOVA.",
-     "size": 120,
-     "sfx": [
-      {
-       "file": "sfx/hit.wav",
-       "gain": -20,
-       "at": 0
-      }
-     ],
-     "dur": 3.58,
+     "dur": 3.76,
      "fixed": true
     },
     {
      "type": "image",
-     "src": "a/p_pico_neblina/1_commons.jpg",
-     "move": "down",
-     "dur": 3.8,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/ai/ai_first_glaciers_1.jpg",
+     "src": "a/p_alps/1_commons.jpg",
      "move": "in",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_alps/2_openverse.jpg",
+     "move": "up",
+     "dur": 5.14,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_alps/3_pixabay.jpg",
+     "move": "out",
      "dur": 5.0,
      "fixed": true
     },
@@ -1646,22 +1617,35 @@
      "type": "image",
      "src": "a/ai/ai_drill_seabed_1.jpg",
      "move": "out",
-     "dur": 7.74,
+     "dur": 7.9,
      "fixed": true
     },
     {
-     "type": "video",
-     "src": "a/video/v_blue_ice/1_pixabay.mp4",
-     "fit": "crop",
-     "start": 0,
-     "xfade": 0.35,
-     "dur": 5.84,
+     "type": "statement",
+     "text": "Velha demais para ter cara de nova.",
+     "highlight": "NOVA.",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.0,
      "fixed": true
     },
     {
      "type": "image",
-     "src": "a/p_denman/2_commons.jpg",
-     "move": "left",
+     "src": "a/p_pico_neblina/1_commons.jpg",
+     "move": "down",
+     "dur": 4.01,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_first_glaciers_1.jpg",
+     "move": "in",
      "dur": 5.0,
      "fixed": true
     },
@@ -1676,7 +1660,44 @@
      "type": "image",
      "src": "a/p_rainforest_nz/1_commons.jpg",
      "move": "in",
-     "dur": 6.42,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_rainforest_nz/3_pixabay.jpg",
+     "move": "left",
+     "dur": 3.55,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_blue_ice/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.3,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_denman/2_commons.jpg",
+     "move": "left",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_x_fern_forest_1.jpg",
+     "move": "out",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_fern_forest/1_pixabay.jpg",
+     "move": "right",
+     "dur": 6.9,
      "fixed": true
     },
     {
@@ -1693,7 +1714,7 @@
      ],
      "source": "Morlighem et al., 2019",
      "color": "red",
-     "dur": 3.88,
+     "dur": 4.62,
      "fixed": true
     },
     {
@@ -1727,23 +1748,23 @@
     },
     {
      "type": "image",
-     "src": "a/p_rainforest_nz/3_pixabay.jpg",
-     "move": "left",
+     "src": "a/x_p_fern_forest/2_pixabay.jpg",
+     "move": "in",
      "dur": 5.0,
      "fixed": true
     },
     {
      "type": "image",
-     "src": "a/ai/ai_x_fern_forest_1.jpg",
-     "move": "out",
-     "dur": 3.24,
+     "src": "a/x_p_fern_forest/3_pixabay.jpg",
+     "move": "up",
+     "dur": 3.2,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/p_dead_sea/2_openverse.jpg",
      "move": "out",
-     "dur": 5.94,
+     "dur": 6.18,
      "fixed": true
     },
     {
@@ -1752,7 +1773,7 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 6.38,
+     "dur": 6.6,
      "fixed": true
     },
     {
@@ -1764,9 +1785,9 @@
     },
     {
      "type": "image",
-     "src": "a/x_p_fern_forest/1_pixabay.jpg",
-     "move": "right",
-     "dur": 6.2,
+     "src": "a/x_p_fern_forest/4_pixabay.jpg",
+     "move": "out",
+     "dur": 6.532,
      "fixed": false
     }
    ]
@@ -1797,23 +1818,23 @@
     },
     {
      "type": "image",
-     "src": "a/x_p_fern_forest/2_pixabay.jpg",
-     "move": "in",
+     "src": "a/x_p_fern_forest/5_pixabay.jpg",
+     "move": "down",
      "dur": 5.0,
      "fixed": true
     },
     {
      "type": "image",
-     "src": "a/x_p_fern_forest/3_pixabay.jpg",
-     "move": "up",
-     "dur": 4.96,
+     "src": "a/x_p_fern_forest/6_pixabay.jpg",
+     "move": "in",
+     "dur": 4.76,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/ai/ai_blood_falls_dusk_1.jpg",
      "move": "in",
-     "dur": 2.86,
+     "dur": 2.78,
      "fixed": true
     },
     {
@@ -1829,35 +1850,42 @@
        "at": 0.3
       }
      ],
-     "dur": 7.96,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_p_fossil/2_pixabay.jpg",
+     "move": "left",
+     "dur": 3.98,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/ai/ai_dry_valley_1.jpg",
      "move": "out",
-     "dur": 7.34,
+     "dur": 7.22,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/ai/ai_europa_ocean_1.jpg",
      "move": "down",
-     "dur": 7.0,
+     "dur": 5.26,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/ai/ai_brine_under_1.jpg",
      "move": "in",
-     "dur": 7.04,
+     "dur": 7.8,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/p_griffith_taylor/1_commons.jpg",
      "move": "left",
-     "dur": 6.02,
+     "dur": 6.18,
      "fixed": true
     },
     {
@@ -1865,7 +1893,7 @@
      "src": "a/ai/ai_x_red_ice_1.jpg",
      "move": "out",
      "caption": "Geleira Taylor|Vales Secos de McMurdo",
-     "dur": 6.82,
+     "dur": 7.04,
      "fixed": true
     },
     {
@@ -1877,16 +1905,16 @@
     },
     {
      "type": "image",
-     "src": "a/x_p_fern_forest/4_pixabay.jpg",
+     "src": "a/x_p_fossil/5_pixabay.jpg",
      "move": "out",
-     "dur": 7.54,
+     "dur": 6.14,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/x_p_iceberg/2_pixabay.jpg",
      "move": "in",
-     "dur": 4.76,
+     "dur": 4.96,
      "fixed": true
     },
     {
@@ -1907,9 +1935,9 @@
     },
     {
      "type": "image",
-     "src": "a/x_p_fern_forest/5_pixabay.jpg",
-     "move": "down",
-     "dur": 4.66,
+     "src": "a/ai/ai_ice_ages_1.jpg",
+     "move": "right",
+     "dur": 4.5,
      "fixed": true
     },
     {
@@ -1921,23 +1949,23 @@
     },
     {
      "type": "image",
-     "src": "a/x_p_fern_forest/6_pixabay.jpg",
+     "src": "a/p_allan_hills/1_commons.jpg",
      "move": "in",
-     "dur": 4.88,
+     "dur": 4.84,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/x_p_iceberg/4_pixabay.jpg",
      "move": "out",
-     "dur": 5.56,
+     "dur": 4.98,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/x_p_iceberg/6_pixabay.jpg",
      "move": "down",
-     "dur": 6.66,
+     "dur": 6.58,
      "fixed": true
     },
     {
@@ -1958,9 +1986,9 @@
     },
     {
      "type": "image",
-     "src": "a/x_p_fossil/2_pixabay.jpg",
-     "move": "left",
-     "dur": 5.18,
+     "src": "a/ai/ai_x_ice_core_rack_1.jpg",
+     "move": "up",
+     "dur": 5.8,
      "fixed": true
     },
     {
@@ -1972,16 +2000,16 @@
     },
     {
      "type": "image",
-     "src": "a/x_p_fossil/5_pixabay.jpg",
+     "src": "a/x_p_snow_crystal/1_pixabay.jpg",
      "move": "out",
      "dur": 5.0,
      "fixed": true
     },
     {
      "type": "image",
-     "src": "a/ai/ai_ice_ages_1.jpg",
-     "move": "right",
-     "dur": 3.56,
+     "src": "a/x_p_snow_crystal/2_pixabay.jpg",
+     "move": "down",
+     "dur": 4.3,
      "fixed": true
     },
     {
@@ -1993,16 +2021,16 @@
     },
     {
      "type": "image",
-     "src": "a/p_allan_hills/1_commons.jpg",
+     "src": "a/x_p_snow_crystal/3_pixabay.jpg",
      "move": "in",
-     "dur": 4.26,
+     "dur": 4.42,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/p_europa/1_commons.jpg",
      "move": "out",
-     "dur": 5.72,
+     "dur": 6.14,
      "fixed": true
     },
     {
@@ -2016,9 +2044,9 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_x_ice_core_rack_1.jpg",
-     "move": "up",
-     "dur": 4.008,
+     "src": "a/x_p_snow_crystal/4_pixabay.jpg",
+     "move": "left",
+     "dur": 3.928,
      "fixed": false
     }
    ]
@@ -2038,23 +2066,23 @@
     },
     {
      "type": "image",
-     "src": "a/x_p_snow_crystal/1_pixabay.jpg",
+     "src": "a/x_p_snow_crystal/5_pixabay.jpg",
      "move": "out",
-     "dur": 3.82,
+     "dur": 3.54,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/p_amundsen/2_commons.jpg",
      "move": "in",
-     "dur": 6.74,
+     "dur": 6.98,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/p_terra_nova/1_commons.jpg",
      "move": "up",
-     "dur": 7.36,
+     "dur": 7.44,
      "fixed": true
     },
     {
@@ -2070,14 +2098,14 @@
       }
      ],
      "source": "Natural History Museum",
-     "dur": 5.02,
+     "dur": 3.48,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/ai/ai_scott_sledge_1.jpg",
      "move": "out",
-     "dur": 7.06,
+     "dur": 7.26,
      "fixed": true
     },
     {
@@ -2089,9 +2117,9 @@
     },
     {
      "type": "image",
-     "src": "a/x_p_snow_crystal/2_pixabay.jpg",
-     "move": "down",
-     "dur": 5.38,
+     "src": "a/x_p_snow_crystal/6_pixabay.jpg",
+     "move": "right",
+     "dur": 5.4,
      "fixed": true
     },
     {
@@ -2100,7 +2128,7 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 4.04,
+     "dur": 4.2,
      "fixed": true
     },
     {
@@ -2114,9 +2142,9 @@
     },
     {
      "type": "image",
-     "src": "a/x_p_snow_crystal/3_pixabay.jpg",
+     "src": "a/x_p_ice_bubbles/2_pixabay.jpg",
      "move": "in",
-     "dur": 5.3,
+     "dur": 6.18,
      "fixed": true
     },
     {
@@ -2125,7 +2153,7 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 7.82,
+     "dur": 7.96,
      "fixed": true
     },
     {
@@ -2137,9 +2165,9 @@
     },
     {
      "type": "image",
-     "src": "a/x_p_snow_crystal/4_pixabay.jpg",
-     "move": "left",
-     "dur": 4.22,
+     "src": "a/x_p_ice_bubbles/3_pixabay.jpg",
+     "move": "up",
+     "dur": 4.66,
      "fixed": true
     },
     {
@@ -2151,16 +2179,16 @@
     },
     {
      "type": "image",
-     "src": "a/x_p_snow_crystal/5_pixabay.jpg",
+     "src": "a/x_p_ice_bubbles/4_pixabay.jpg",
      "move": "out",
      "dur": 5.0,
      "fixed": true
     },
     {
      "type": "image",
-     "src": "a/x_p_snow_crystal/6_pixabay.jpg",
-     "move": "right",
-     "dur": 6.82,
+     "src": "a/x_p_ice_bubbles/5_pixabay.jpg",
+     "move": "down",
+     "dur": 6.94,
      "fixed": true
     },
     {
@@ -2172,9 +2200,9 @@
     },
     {
      "type": "image",
-     "src": "a/x_p_ice_bubbles/2_pixabay.jpg",
+     "src": "a/x_p_ice_cave/2_pixabay.jpg",
      "move": "in",
-     "dur": 7.92,
+     "dur": 6.38,
      "fixed": true
     },
     {
@@ -2186,30 +2214,23 @@
     },
     {
      "type": "image",
-     "src": "a/x_p_ice_bubbles/3_pixabay.jpg",
-     "move": "up",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/x_p_ice_bubbles/4_pixabay.jpg",
-     "move": "out",
-     "dur": 6.32,
+     "src": "a/x_p_ice_cave/3_pixabay.jpg",
+     "move": "left",
+     "dur": 7.42,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/ai/ai_cretaceous_rainforest_1.jpg",
      "move": "in",
-     "dur": 7.64,
+     "dur": 7.92,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/p_polarstern/1_commons.jpg",
      "move": "up",
-     "dur": 6.18,
+     "dur": 5.36,
      "fixed": true
     },
     {
@@ -2225,14 +2246,14 @@
       }
      ],
      "source": "Klages et al., Nature 2020",
-     "dur": 4.12,
+     "dur": 4.94,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/p_polarstern/3_unsplash.jpg",
      "move": "out",
-     "dur": 3.22,
+     "dur": 3.42,
      "fixed": true
     },
     {
@@ -2253,9 +2274,9 @@
     },
     {
      "type": "image",
-     "src": "a/x_p_ice_bubbles/5_pixabay.jpg",
-     "move": "down",
-     "dur": 6.42,
+     "src": "a/x_p_ice_cave/4_pixabay.jpg",
+     "move": "out",
+     "dur": 7.48,
      "fixed": true
     },
     {
@@ -2269,16 +2290,16 @@
     },
     {
      "type": "image",
-     "src": "a/x_p_ice_cave/2_pixabay.jpg",
-     "move": "in",
+     "src": "a/x_p_ice_cave/5_pixabay.jpg",
+     "move": "right",
      "dur": 5.0,
      "fixed": true
     },
     {
      "type": "image",
-     "src": "a/x_p_ice_cave/3_pixabay.jpg",
-     "move": "left",
-     "dur": 3.484,
+     "src": "a/x_p_ice_cave/6_pixabay.jpg",
+     "move": "in",
+     "dur": 3.612,
      "fixed": false
     }
    ]
@@ -2299,16 +2320,16 @@
     },
     {
      "type": "image",
-     "src": "a/x_p_ice_cave/4_pixabay.jpg",
-     "move": "out",
+     "src": "a/ai/ai_thwaites_front_1.jpg",
+     "move": "up",
      "dur": 5.0,
      "fixed": true
     },
     {
      "type": "image",
-     "src": "a/x_p_ice_cave/5_pixabay.jpg",
-     "move": "right",
-     "dur": 5.36,
+     "src": "a/ai/ai_ice_river_1.jpg",
+     "move": "out",
+     "dur": 6.22,
      "fixed": true
     },
     {
@@ -2322,9 +2343,16 @@
     },
     {
      "type": "image",
-     "src": "a/x_p_ice_cave/6_pixabay.jpg",
+     "src": "a/ai/ai_bowl_bed_1.jpg",
+     "move": "down",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_warm_water_under_1.jpg",
      "move": "in",
-     "dur": 7.38,
+     "dur": 3.88,
      "fixed": true
     },
     {
@@ -2339,9 +2367,9 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_thwaites_front_1.jpg",
-     "move": "up",
-     "dur": 6.14,
+     "src": "a/ai/ai_tide_intrusion_1.jpg",
+     "move": "left",
+     "dur": 5.98,
      "fixed": true
     },
     {
@@ -2362,9 +2390,9 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_ice_river_1.jpg",
+     "src": "a/ai/ai_cork_1.jpg",
      "move": "out",
-     "dur": 6.356,
+     "dur": 6.48,
      "fixed": true
     },
     {
@@ -2385,16 +2413,16 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_bowl_bed_1.jpg",
-     "move": "down",
+     "src": "a/ai/ai_x_glacier_front_storm_1.jpg",
+     "move": "right",
      "dur": 5.0,
      "fixed": true
     },
     {
      "type": "image",
-     "src": "a/ai/ai_warm_water_under_1.jpg",
+     "src": "a/ai/ai_x_warm_current_1.jpg",
      "move": "in",
-     "dur": 6.604,
+     "dur": 6.24,
      "fixed": true
     },
     {
@@ -2408,23 +2436,16 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_tide_intrusion_1.jpg",
-     "move": "left",
-     "dur": 4.9,
+     "src": "a/ai/ai_x_grounding_line_1.jpg",
+     "move": "up",
+     "dur": 5.74,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/p_alh84001/1_commons.jpg",
      "move": "down",
-     "dur": 5.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/ai/ai_cork_1.jpg",
-     "move": "out",
-     "dur": 3.12,
+     "dur": 7.88,
      "fixed": true
     },
     {
@@ -2436,16 +2457,16 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_x_glacier_front_storm_1.jpg",
-     "move": "right",
-     "dur": 5.44,
+     "src": "a/ai/ai_x_cracking_shelf_1.jpg",
+     "move": "out",
+     "dur": 6.11,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/ai/ai_meteorite_blue_ice_1.jpg",
      "move": "left",
-     "dur": 3.65,
+     "dur": 4.69,
      "fixed": true
     },
     {
@@ -2457,9 +2478,9 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_x_warm_current_1.jpg",
-     "move": "in",
-     "dur": 6.35,
+     "src": "a/ai/ai_x_icebergs_sea_1.jpg",
+     "move": "down",
+     "dur": 6.86,
      "fixed": true
     },
     {
@@ -2471,16 +2492,16 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_x_grounding_line_1.jpg",
-     "move": "up",
-     "dur": 3.36,
+     "src": "a/x_p_glacier_wall/1_pixabay.jpg",
+     "move": "in",
+     "dur": 3.48,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/p_mars/3_pixabay.jpg",
      "move": "in",
-     "dur": 2.72,
+     "dur": 3.04,
      "fixed": true
     },
     {
@@ -2493,9 +2514,9 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_x_cracking_shelf_1.jpg",
-     "move": "out",
-     "dur": 5.14,
+     "src": "a/x_p_glacier_wall/3_pixabay.jpg",
+     "move": "left",
+     "dur": 5.68,
      "fixed": true
     },
     {
@@ -2507,9 +2528,9 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_x_icebergs_sea_1.jpg",
-     "move": "down",
-     "dur": 6.1,
+     "src": "a/x_p_glacier_wall/4_pixabay.jpg",
+     "move": "out",
+     "dur": 6.58,
      "fixed": true
     },
     {
@@ -2538,9 +2559,9 @@
     },
     {
      "type": "image",
-     "src": "a/x_p_glacier_wall/1_pixabay.jpg",
-     "move": "in",
-     "dur": 5.16,
+     "src": "a/x_p_glacier_wall/5_pixabay.jpg",
+     "move": "right",
+     "dur": 5.84,
      "fixed": true
     },
     {
@@ -2549,7 +2570,7 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 4.26,
+     "dur": 4.92,
      "fixed": true
     },
     {
@@ -2558,7 +2579,7 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 7.712,
+     "dur": 7.404,
      "fixed": false
     }
    ]
@@ -2577,9 +2598,9 @@
     },
     {
      "type": "image",
-     "src": "a/x_p_glacier_wall/3_pixabay.jpg",
-     "move": "left",
-     "dur": 3.4,
+     "src": "a/x_p_calving/1_pixabay.jpg",
+     "move": "in",
+     "dur": 3.64,
      "fixed": true
     },
     {
@@ -2593,9 +2614,9 @@
     },
     {
      "type": "image",
-     "src": "a/x_p_glacier_wall/4_pixabay.jpg",
-     "move": "out",
-     "dur": 3.74,
+     "src": "a/x_p_calving/2_pixabay.jpg",
+     "move": "up",
+     "dur": 4.06,
      "fixed": true
     },
     {
@@ -2609,9 +2630,9 @@
     },
     {
      "type": "image",
-     "src": "a/x_p_glacier_wall/5_pixabay.jpg",
-     "move": "right",
-     "dur": 4.52,
+     "src": "a/x_p_calving/4_pixabay.jpg",
+     "move": "out",
+     "dur": 4.36,
      "fixed": true
     },
     {
@@ -2625,9 +2646,9 @@
     },
     {
      "type": "image",
-     "src": "a/x_p_calving/1_pixabay.jpg",
-     "move": "in",
-     "dur": 6.5,
+     "src": "a/x_p_calving/5_pixabay.jpg",
+     "move": "down",
+     "dur": 6.84,
      "fixed": true
     },
     {
@@ -2642,7 +2663,7 @@
        "at": 0
       }
      ],
-     "dur": 5.3,
+     "dur": 3.08,
      "fixed": true
     },
     {
@@ -2678,16 +2699,16 @@
     },
     {
      "type": "image",
-     "src": "a/x_p_calving/2_pixabay.jpg",
-     "move": "up",
+     "src": "a/x_p_calving/6_pixabay.jpg",
+     "move": "in",
      "dur": 5.0,
      "fixed": true
     },
     {
      "type": "image",
-     "src": "a/x_p_calving/4_pixabay.jpg",
-     "move": "out",
-     "dur": 5.78,
+     "src": "a/x_p_ice_crack/2_pixabay.jpg",
+     "move": "left",
+     "dur": 5.28,
      "fixed": true
     },
     {
@@ -2696,7 +2717,7 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 6.38,
+     "dur": 6.9,
      "fixed": true
     },
     {
@@ -2705,7 +2726,7 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 7.86,
+     "dur": 7.76,
      "fixed": true
     },
     {
@@ -2714,7 +2735,7 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 4.16,
+     "dur": 3.78,
      "fixed": true
     },
     {
@@ -2728,9 +2749,9 @@
     },
     {
      "type": "image",
-     "src": "a/x_p_calving/5_pixabay.jpg",
-     "move": "down",
-     "dur": 6.22,
+     "src": "a/x_p_ice_crack/3_pixabay.jpg",
+     "move": "out",
+     "dur": 6.1,
      "fixed": true
     },
     {
@@ -2745,9 +2766,9 @@
     },
     {
      "type": "image",
-     "src": "a/x_p_calving/6_pixabay.jpg",
-     "move": "in",
-     "dur": 7.2,
+     "src": "a/x_p_ice_crack/5_pixabay.jpg",
+     "move": "right",
+     "dur": 7.58,
      "fixed": true
     },
     {
@@ -2761,9 +2782,9 @@
     },
     {
      "type": "image",
-     "src": "a/x_p_ice_crack/2_pixabay.jpg",
-     "move": "left",
-     "dur": 4.96,
+     "src": "a/x_p_ice_crack/6_pixabay.jpg",
+     "move": "in",
+     "dur": 4.23,
      "fixed": true
     },
     {
@@ -2780,14 +2801,14 @@
      ],
      "source": "ITGC / BedMachine",
      "color": "red",
-     "dur": 6.78,
+     "dur": 7.67,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/p_thwaites/2_openverse.jpg",
      "move": "left",
-     "dur": 6.86,
+     "dur": 7.06,
      "fixed": true
     },
     {
@@ -2804,7 +2825,7 @@
      ],
      "source": "ITGC",
      "color": "red",
-     "dur": 3.86,
+     "dur": 4.04,
      "fixed": true
     },
     {
@@ -2818,9 +2839,9 @@
     },
     {
      "type": "image",
-     "src": "a/x_p_ice_crack/3_pixabay.jpg",
-     "move": "out",
-     "dur": 5.14,
+     "src": "a/x_p_frozen_sea/2_pixabay.jpg",
+     "move": "up",
+     "dur": 5.04,
      "fixed": true
     },
     {
@@ -2829,7 +2850,7 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 6.52,
+     "dur": 7.34,
      "fixed": true
     },
     {
@@ -2839,7 +2860,7 @@
      "start": 0,
      "xfade": 0.35,
      "caption": "Rio de Janeiro",
-     "dur": 5.6,
+     "dur": 5.94,
      "fixed": true
     },
     {
@@ -2848,7 +2869,7 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 2.6,
+     "dur": 3.1,
      "fixed": true
     },
     {
@@ -2868,16 +2889,16 @@
     },
     {
      "type": "image",
-     "src": "a/x_p_ice_crack/5_pixabay.jpg",
-     "move": "right",
-     "dur": 3.48,
+     "src": "a/x_p_frozen_sea/3_pixabay.jpg",
+     "move": "out",
+     "dur": 3.92,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/p_thwaites_front/3_pixabay.jpg",
      "move": "out",
-     "dur": 6.68,
+     "dur": 7.0,
      "fixed": true
     },
     {
@@ -2886,7 +2907,7 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 5.888,
+     "dur": 5.932,
      "fixed": false
     }
    ]
@@ -2900,7 +2921,7 @@
      "type": "image",
      "src": "a/p_ferraz/1_pixabay.jpg",
      "move": "right",
-     "dur": 5.78,
+     "dur": 6.08,
      "fixed": true
     },
     {
@@ -2940,7 +2961,7 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 7.22,
+     "dur": 7.88,
      "fixed": true
     },
     {
@@ -2949,7 +2970,7 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 6.3,
+     "dur": 6.96,
      "fixed": true
     },
     {
@@ -2958,21 +2979,30 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 4.72,
+     "dur": 4.82,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/x_p_snowfield/1_pixabay.jpg",
      "move": "up",
-     "dur": 3.76,
+     "dur": 4.08,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/ai/ai_ice_dome_protect_1.jpg",
      "move": "out",
-     "dur": 7.23,
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_penguins/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.34,
      "fixed": true
     },
     {
@@ -2985,12 +3015,10 @@
      "fixed": true
     },
     {
-     "type": "video",
-     "src": "a/video/v_penguins/3_pixabay.mp4",
-     "fit": "crop",
-     "start": 0,
-     "xfade": 0.35,
-     "dur": 3.87,
+     "type": "image",
+     "src": "a/x_p_ocean_ice/1_pixabay.jpg",
+     "move": "down",
+     "dur": 4.5,
      "fixed": true
     },
     {
@@ -3007,7 +3035,7 @@
        "at": 0.0
       }
      ],
-     "dur": 14.84,
+     "dur": 14.94,
      "fixed": true
     },
     {
@@ -3032,9 +3060,9 @@
     },
     {
      "type": "image",
-     "src": "a/x_p_ice_crack/6_pixabay.jpg",
+     "src": "a/x_p_ocean_ice/2_pixabay.jpg",
      "move": "in",
-     "dur": 3.952,
+     "dur": 4.284,
      "fixed": false
     }
    ]
