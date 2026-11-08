@@ -105,6 +105,8 @@ jobs:
           ELEVEN_MODEL: ${{ inputs.provider == 'eleven' && inputs.model || '' }}
         run: |
           EP="${{ inputs.episode }}"; L="$(cat episodes/$EP/lang 2>/dev/null || echo en)"
+          # canal em português: regra do dono (08/11/2026) = sempre a 1ª geração da Fish, nada de regravar sozinho
+          if [ "$L" != "en" ]; then python3 agent/check_narration.py "../out/$EP/words" > "../out/$EP/falhas_voz.txt" || true; exit 0; fi
           for k in 1 2; do
             BAD=$(python3 agent/check_narration.py "../out/$EP/words")
             [ -z "$BAD" ] && { echo "narração sem falhas"; break; }

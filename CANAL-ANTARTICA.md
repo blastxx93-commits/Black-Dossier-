@@ -30,7 +30,9 @@ O Claude cuida de temas, roteiro, narração e edição; o dono só dá o aval e
 
 ## Narração (corrigido em 08/11/2026, após o dono apontar bugs e mudanças de tom no ant01)
 - Gerada parágrafo a parágrafo (`agent/tts_stable.py`), temperatura 0.5, cada parágrafo transcrito e comparado com o roteiro
-  (sons estranhos / trechos errados) e com o tom-alvo da voz (máx. 1 semitom de desvio); falhou → regrava até 3x.
+  (sons estranhos / trechos errados) e com o tom-alvo da voz (máx. 1 semitom de desvio).
+- **Regra do dono: na Fish, sempre a 1ª geração** de cada trecho. Nada de regravar automaticamente (as regravações costumam
+  trazer os bugs); problemas só são apontados no relatório para o dono decidir.
 - Relatório `qa_narracao.md` no branch assets, por episódio.
 
 ## Edição (pedido do dono, 07/11/2026 — estilo do vídeo de referência do Kairus)

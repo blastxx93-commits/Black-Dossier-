@@ -8,7 +8,8 @@ temperature, then:
     stretch of the text that was not said, mean a glitch;
   * its median pitch is compared with the voice's target pitch (median of the first good paragraphs, or --pitch):
     more than --max-st semitones away means a tone change.
-A paragraph that fails is regenerated (up to --tries times) and the best attempt is kept. Paragraphs are joined
+Owner rule (08/11/2026): always keep the FIRST generation of each paragraph (Fish re-generations tend to bring
+the glitches). Problems are only reported in qa_narracao.md; --tries > 1 re-enables regeneration. Paragraphs are joined
 with a short natural pause. Writes the same files as tts.py (narration_audio/*.flac, audio/*.mp3) plus
 <ep>/qa_narracao.md (one line per paragraph: attempts, pitch, problems).
 
@@ -109,7 +110,8 @@ def main():
     ap.add_argument("--lang", default="pt")
     ap.add_argument("--pitch", type=float, default=0, help="tom-alvo em Hz (0 = medido nos primeiros parágrafos)")
     ap.add_argument("--max-st", type=float, default=1.0, help="desvio máximo de tom em semitons")
-    ap.add_argument("--tries", type=int, default=3)
+    ap.add_argument("--tries", type=int, default=1,
+                    help="tentativas por parágrafo; padrão 1: o dono pede sempre a 1ª geração da Fish (as regravações trazem bugs)")
     ap.add_argument("--temperature", type=float, default=0.5)
     ap.add_argument("--top-p", type=float, default=0.6)
     a = ap.parse_args()
