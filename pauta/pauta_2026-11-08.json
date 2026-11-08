@@ -1,0 +1,1286 @@
+{
+ "date": "2026-11-08",
+ "days": 14,
+ "brands": [
+  {
+   "subject": "Tesla",
+   "score": 84.0,
+   "ideas": [
+    "Tesla and the EV shift: winning or losing in 2026?"
+   ],
+   "news": [
+    {
+     "title": "Tesla sales surge 342 per cent year-on-year as EV demand grows",
+     "source": "WhichCar",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdUpRYzhWRzhJMkdiaGFsRzZuNUJabXcyeDMwZkdCdFB2bUZrZUtwVDVJVURwUXFGQ2xLdDN6VWVYc2lHUEEyQkM0bm5UeWJhLUI2YWlyeUdYaW91eFRGLVhHempnbFJKUE1IQ1VBTmNmWmRsWHUxSWhEcUpSc2pTYkp0Z1B2a1hVMWtucVN2NW9pQ1R2djNXdjhQVQ?oc=5",
+     "date": "2026-11-03T06:44:38+00:00"
+    },
+    {
+     "title": "Tesla Sales Up 342% in October as Model Y Passes 39,000 for 2026",
+     "source": "CarSauce",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTTZReVp6dklzd0F4QVFtbmVoM0dLUnVJT2taZFVZRnF3bm1keHBXcnlTNWEtY0tUZl9KVV9XSVRpaFQ2RU1qd0dsTG5MZHBtOENFQnZHMWh2ZjdvTU1kek5mcmdHX3JVbUNYZTJmQms0cE9uU19PYlg2Mm5RbUNGSnBB?oc=5",
+     "date": "2026-11-03T22:47:20+00:00"
+    },
+    {
+     "title": "Tesla nears Australian sales record",
+     "source": "Carsales",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUFV5VTVMUUhCRmstdi05U2NPaHZ1RXlkOHUxNDQyTmVlT1ZsbU5rOXpzNldzUk04MGE3aDFBdUdOQlp4dzRNOEt2WGJ2YlBUMzVwV29ZOVhjbG9mSTJIaUk3Yi1kTkU0ZnFLUW1NR1BKVTVPNDdVWHRHaGdpRjQySDdFOEk4endfRk5fUTVjQ0R4QXM?oc=5",
+     "date": "2026-11-04T23:57:37+00:00"
+    },
+    {
+     "title": "Tesla calls for Australian road-user charge on all cars, not just EVs",
+     "source": "CarExpert",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVDIydkd0a1dYZlRiQXpoaXFZYVRsZFpSVkxvSUVOQkRJX3RrOXM0aV9UMU1vSUhDMWxkYlhfS20yVHZmdWxzTkl2SFc4SmFGNGpLZEtqOU40VnRsVU01Y0tUdDRHOGdBaUwxRDhndXluRWJYOWdnREhBcG1vNy1jdDd4NTd4OVYzRG9wV1FXcl9rZldraEUzY0xfZ3o0MWxYTzJxTTZoa1Nadw?oc=5",
+     "date": "2026-10-29T07:00:00+00:00"
+    },
+    {
+     "title": "Shop Tesla Model Y Cars",
+     "source": "CarsGuide",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaFk1cXQtc3ZsVGR1blA3N0lVamJYSkI3SEFpOFEtWnZ2SUNPZUZuUENPLWRkUnhoeUhEMTNVYjMxa2x3OGFvX3VXNUN5X2NmN293ZENIekthM0s5b3F5VlN6OWRTN2Zra2tzX1pkb3FLUmVCY2l4eXFkS19KMGt1SXVqZWpfZVFjOVhaODZrNVAtY01jSWk1WWhUMS16eFNvYWtwbEcxMW8yd1dOWEVWb2lxenJOeVBiQS13eWV3TXA?oc=5",
+     "date": "2026-11-06T03:02:25+00:00"
+    },
+    {
+     "title": "The Tesla Model Y has sold more units than the Toyota RAV4 in Australia up to October 2026",
+     "source": "CarsGuide",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNHNRdE0wUEtxeEY3NGhnUHluQWNnTVpHaDVKejdXb0hjY3NpQVoxR1hnaS1VOWkxMWpoN2FxT0NqMnZSN0QwWi1vVXhmRmRwQVBMRWZ5WEt2eDNMVFUxOURRVFl1NDI5a213Zzg2QlVEYnVRNkR1Mzg5VFRwa0lWdGdyNHROT0paemJMWUVFel9kWWVWandCd2hOVG5sQnY2eWJXaWN0XzlSNW9SZ2tUMWl1Qzl5dHpHRTdXTmtZbU0xdVBBTXhZ?oc=5",
+     "date": "2026-11-05T16:00:00+00:00"
+    },
+    {
+     "title": "2026 Tesla Model Y SUV and Model 3 sedan discounted in Australia in battle against Geely EX5 and BYD Seal electric cars",
+     "source": "CarsGuide",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUnBUZzVsTFVmaThyZlQtb3lEcVRFVThTajRiZWNjci1xaUltYmJSanhsa3U1elJuNnhrUnhSWHJsNmd0Q0VvYUtydFlKTkM1ZFhMeVdMZUZtYUlxajc3ZGdyclVjUF8yYWJ0bmxiZ1dMenJ6SDBWUFo1WHl6aGhoTHlqZ000OGRzelRnQXJtTzNRUEtYeTdwYjhnaThWekNHU0g0MzI1ZDZ4b0haeC1nMkRkYlhmcHhBcGNXR0Nja0U5N2xI?oc=5",
+     "date": "2026-10-26T07:00:00+00:00"
+    },
+    {
+     "title": "Tesla's quiet EV software update is unplugging Australian homes from their batteries on wheels",
+     "source": "The Driven",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV0UwTUlEQjRfRi14cUdacUJqaUswc1NkcmwwUmt3VkgxaXZ4Z0RyT3NZdkhrbk9FTjh4Ym5hbV81dnJOOURkMjlFRmVBcDJteTdhQ0Q2QkE0N1JEN3l2R2NvbThCek05eWtfWGMyZGFMUVhlMTRuUUdRVHJtWm9QeHJLTGVhVllXa094N1JFTWotc0FvaFQyTTBoUQ?oc=5",
+     "date": "2026-11-07T08:16:51+00:00"
+    },
+    {
+     "title": "\u2018Free\u2019: Huge change for Tesla\u2019s No. 1 Aus rival",
+     "source": "News.com.au",
+     "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPUFU2ZDNXUnNMQTNfcjliU1ZhdEhfOV9vT1NZbHVMOHg3ZzNPRWlITHNOYW1uSE15S3BGTDlaN2lLNmJEQ3FOYm9obnc1c3ZYQjhTMnl0M1lDRlJBdUlreWo3SlRTSG5aWFM5MldtZEdKM1Z2TXZhaGs0X05TUHNYeGxWOTQ5ZGNRVHRoeUJJSWxiTnZiZUJUZDhHWUZqT2prYmlpRmU3SXJTVmNpNlg2ZE9qRjhJOWt5UWlUejZ6YS1XSEdNR014TVp6WFB5VG43Q2NEa240YkR6WGpZV21VZGpKaDNGbXNMS25uYnRZaTk5a25YWlJ4UG1pdlhFaTUzVGY4NndR0gGLAkFVX3lxTE02OTNFZDhoUjlhbGFuTDlxTUhSMW93LTJsWDB1X2RRV0k2d3Z4VHF6QzNQekNucEFKX3ZldldTOEQyZ2RNWjN2dVg4ZW1tWElhb01wU2JfRUtQaDl3QU90d0k3MjBjOVRnX3NMb0VjLWwzS0NOUnpKMi1QS3JXeFBzdnMxYm1TNkEzc0I3aWd4ZjRrcURzSVMtalFzZWxXSFp2TG5pSXhYbEF6X25MOUV0d2tFNlN2end3Q1RHeFlCVEdrTlJLbGtsRS11Y211em1OdmF3RWlWeGoySEhNTC1zVVA3el9XVWdKdzk5VEVCNEdLb19xTlZ2Wnk0NEc0dFJmYWFNcmNweGV6dw?oc=5",
+     "date": "2026-11-05T02:46:41+00:00"
+    },
+    {
+     "title": "Tesla Wants Driverless Car Trials on Australian Roads in 2027",
+     "source": "Zecar",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN3JqakRxNGR4a0RoOTNJLTIxeTB0V2JNOUF2WHI0US0taDVRSHFVTklDNkpMcWcxUVQwNlRDa01hcWVJcDJxbVdLZTVleVk4ZWZzc3dJcG9xZnBqLTFIajlBbzRvXzYyQTZUazBqYkVnNXJxVnBEejNTWEhLVnc0LWJjRlNGOXN1ZWpObjR5dDc?oc=5",
+     "date": "2026-11-08T02:09:39+00:00"
+    },
+    {
+     "title": "Xiaomi YU7 and SU7 electric cars to blow 2026 Zeekr 7X, Tesla Model Y out of the water | Opinion",
+     "source": "CarsGuide",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaWZ5X0hDaXhkU0FEcTNtWUR2ZlZOeXhnbWZBNFFRdjh4LXR6a0FmZXlZM1JOLWdWN2lLaWxwRjVqbF9iOUFOTUVMajhWTXpydkxsbnN5Q1RTR0d5dTk1Z3B1U1Vfak9qekpxS1pOZ3F5VFNldjhya1FEYTZ6VGo2a0pRNzJNdm1lN2tkcGNzdktucVI3aGRsLXV5eW9GanAxbnVTdDlTSE42MTI2dk50ZlV4VDREdm1obU15eGQyRkw?oc=5",
+     "date": "2026-11-06T16:00:00+00:00"
+    },
+    {
+     "title": "Tesla Model Y L Secures 5-Star ANCAP Rating Across Safety Tests",
+     "source": "ACKO Drive",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd1FlYXJlNDJhSkVRbDJ4LWsyNjV6emtpOEk1Tk1lYm9RZS1VMjJacVlBN0JYSXVfcGdyWlEtX3RDSWh6TFllamsyMXlENXAzVU91Zm43ajRaaTFNZmhKSlJrc0lGVjlLUDQ3R2x2eVBJQlQtYXJwcXJWcXEzYVdBSHJn?oc=5",
+     "date": "2026-10-30T07:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "subject": "Toyota",
+   "score": 70.1,
+   "ideas": [
+    "The Toyota ute battle in 2026",
+    "Toyota and the EV shift: winning or losing in 2026?"
+   ],
+   "news": [
+    {
+     "title": "New car sales rise as Toyota HiLux and Ford Ranger trade blows",
+     "source": "Carsales",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR2dLTDd2QTY1elFlQ253WHRzWW53UF84RTNzNzk0QndhRVkxV2RZekxMQzNlWEp4czNtUU4ycmZpMFFzVUI2M2JJMHlaRUptWEllVmRheHFsT1FVa00zRUkybkdqdVdRa0R1aUUtQlg1WEM1V0V1QTZXUGtoSjlhcV9qMUN2NExpVl9OYm5KeW5iT3RLYVo4dFJoM1lHQzNYc20yS0tXMjdvSmF6bXBLci1UcnZzR00?oc=5",
+     "date": "2026-11-05T01:22:46+00:00"
+    },
+    {
+     "title": "VFACTS October 2026: Diesels overtake EVs, Toyota HiLux reigns supreme",
+     "source": "CarExpert",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOak9PVnlVMG94cE9LM1UzT3Bmano2bm9HV3hWdmZVci1hY3dkXzN4bmFnT0xUb3hHY2dCbjVBcXRVNlZiZ2pwWG5Oc1I3eDNZSzRPZzN5YUxlSi1DSWlSWnIwcG1ROVFCbXhZdWdiUGR2VkFFZUR5cGJxRlBXdXdjTWVkaFpZMy0xaGt3TEpWdm1JS3VzRG5lbkRmV2Z5WFpKcE5vTmgyT2tzdw?oc=5",
+     "date": "2026-11-05T01:16:00+00:00"
+    },
+    {
+     "title": "VFACTS October 2026: Toyota HiLux beats the Ford Ranger to title of Australia's favourite car as petrol sales take a hammering",
+     "source": "WhichCar",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYmNDQUo3OFRrblQ2SE5EX1hiNDRoMkRWaXlFVXdwYzF5bWFWai15TUJra3hoUEpadHlvZC1FVEI1MGg0WXRUSWp1Z1RXN1ZqbVlpYldrcE9Gck5wOGhOTlZSNGw3R0xqRTBxc0Fab29UajFPTmhFQWtqaHJtYl9kZVpvc1NHV0JwSmRnYkZBUml3TVlmYUMzN2k2X1gxZw?oc=5",
+     "date": "2026-11-05T03:20:20+00:00"
+    },
+    {
+     "title": "LandCruiser leaves Patrol in its dust: 2026 Toyota LandCruiser outsells Nissan Y62 Patrol, but moderate sale for hybrid version",
+     "source": "CarsGuide",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbVFPVDl5TXFpOWV1bE1Jb205WUdpY1ZSUV9COVVtWjluLVNnc01CbUlOQXJnRVlaUTVhTGE4WnBWODM0QkVYc3JKVG96RDlLVnYwMzd3Skh6T04zNGkyc2lXcFpOYURQZkh4cF93OXpSZHI1TE12Vk96X1pveUdlbE1oZS0wdkppVTNGWmpZSEJDeXRfZGw2VDdyUVpZMGNLZDdoRzdodHVEU0phdmRjRUI2OTBzSzRjVVhxTVRHeFZVSHc5?oc=5",
+     "date": "2026-11-02T16:00:00+00:00"
+    },
+    {
+     "title": "'With success comes scrutiny': BYD Australia boss responds to 2026 BYD Shark 6 hacking claim as it prepares to hunt down Toyota for top spot on the sales charts",
+     "source": "CarsGuide",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFdMaklqOERUMGVWVUZDRnVBTXRWdnBhUFVuTU9HT1NqQWI2VHJBdWxkUTFZZ2dEQXN5V1VHUUwxOEpSdWVUUC1yWmRlTkVXOTVZVk1jdW9WYWQ2SGRUQXZRd1ZKbDlVenhpcXRTd0QwMFlYVXRjSG5FelJmRTFUdUtyYWtHeW1RYXlWUnFaaTJZRkJyVm5nUko3U212eWo2MkczMC1WTGlnOWJpUnpVLW9YTWxuellwdnQ5bThfVHJZSnY3UXc?oc=5",
+     "date": "2026-10-26T07:00:00+00:00"
+    },
+    {
+     "title": "2026 Jaecoo J7 Black Edition priced in Australia to rival BYD Sealion 6, Toyota RAV4 plug-in hybrid mid-size SUVs",
+     "source": "CarsGuide",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNkotbXE3UVlHYVV3cHJnNmYzYmRmcWZPc3NUNmlUcnR0eE5ELUJMTUFUV29lby1YbkJIZjU4Q2xsTkZfYmg4SWpKXzJpbFl6VzBKZWhHWXNIeWlTZEp4YnEwbjBnRmRMQ2hlanBxcHdvSURYaXFTcDBZelVja3NYUmJOclUtdWE0Vmt6Ukc0dkNFdS0yclhVZGlBS29NcXl0OHdNUHU1MEM2NWlfT0hMV2cyekRFbFg4d1lJXzlNOEhPdjBy?oc=5",
+     "date": "2026-11-02T04:39:01+00:00"
+    },
+    {
+     "title": "Denza B5 price cut: BYD\u2019s Toyota Prado rival now priced under $75k drive-away",
+     "source": "CarExpert",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUJ6TGVVOUlzMFVMSjFhcTNfSDV6Zk4wRUQ5S2NFZFo4REpQY0RfSzRTNFBTUnU4SFo3UjJmaklqRzYxQmY3dWVsTFVXUF92ZkFYNTFmRHEzeFlPdUp3WFYtVUl6anREaGU2c0czN1dTcVZLbXZaSWpoUXRad3E5amg0emxPaWtXNlNvdmUyZDZRWXJlbjRVMWx2SVJsZVhPRDBybVpLUFlhTkcwQWtCM213eno5SGFsMEE?oc=5",
+     "date": "2026-10-30T07:00:00+00:00"
+    },
+    {
+     "title": "Toyota HiLux closes in on Ford Ranger in Australian sales race",
+     "source": "CarExpert",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdGdON252ZWY2MVl4WV9uYTczQ0RrWW1ldExsR2hBYjB5NlA0bXpQemJ4MEJMeHdXMTFaUzNOQUpsNGp1eWRtdy1zYkFOLWcwRDNBeVdKZlROaGVtNzNqM0xtZS1CdEVHTUw1aHM3aC1Ua21wLWw5dm9Mak5kWkN5dGJ1NnJoUXRzcHVXREgtbTZzYkRSbjkzRFdDUFZUZGFqa1E?oc=5",
+     "date": "2026-11-05T02:19:00+00:00"
+    },
+    {
+     "title": "Ford Ranger and Toyota HiLux slug it out as private buyers wane",
+     "source": "Carsales",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORHlyWFNNQjMzTkFRdlhiTjA4N0J0ZVVZQV9pTmFlYVdDeXZNM1hSUzc2OV9tQVFZZ3YwSVZEVmxYVjRiVEE4Qm5Md1FJRGs5OU1laXhWSDJBUVBNaHg5Q2xzcUJ1VVJSdmdyRVQzcU9LTDJVNmd1ZnJubkJRcjl6RHdSQmNNMXJQQ3ZUUkZ2NWRVSmF3b2ptc0dnODg4SFVmZklvOUZCR1pRY1dFLWlIbV8waXF2bjAt?oc=5",
+     "date": "2026-11-06T02:39:47+00:00"
+    },
+    {
+     "title": "Toyota's rare HiLux move announced as discount applied to 2026 Toyota HiLux to boost sales of Ford Ranger, BYD Shark 6 rival",
+     "source": "CarsGuide",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMU51bDcxamx1WHY4ZUhoenc3U2lXdnVMWWZsRkdMQ0dIaXdwRWpNQXNPREVjaGpCeUhkR3dkUmxGdlNnMmlXckJqLXF5VGFvS3pNYldIcG41bmJkeGkxV0dKQlFHcE13RXBFTlBOYjBRS3VHSDJKV1dyaWFVUXVLN3NxeDFieXR6R0RRZzF1QUc5aXdyWlh0YllwbXIzVTBacDVnc3UzcHlGLWx6bm1Xa0tza0lSZ1FYcFZwZEV6X2RaN0JNZ0E?oc=5",
+     "date": "2026-10-26T07:00:00+00:00"
+    },
+    {
+     "title": "Toyota's most hardcore HiLux is returning",
+     "source": "Drive",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTzNqSGRVdWs4S0JfdjZfSW9Eb1JQMWl6VENad2lJeXFfRUluRDRwSV81WHdiRGljU01ZdFRFWGdmR3ZpOGpxS1FrRUNSS2NYbjBiM3l5bzF5Slh4akYxaGRBRjBqUi1Ea1BuZmJUNFlBeTAxQ2Q4TWZ2RG5Nb3EzOEluYw?oc=5",
+     "date": "2026-11-02T07:52:31+00:00"
+    },
+    {
+     "title": "Subaru's plan to ditch Toyota takes shape: New electric car prototype breaks away from 2026 Trailseeker, Uncharted EVs - Car News",
+     "source": "CarsGuide",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQblhUVmhkTC1TZDNVRUhNbnROSExGR1h0UFdSUmZrVkdZa245Sjkwc0pQVzEzc0U5VS0xaVpDN0xzaUNBMUUwWEpkdF84bWhqaEwzOG5FQk5SR0ZCZ2U3TS1jLWNhd1k4XzJPTTFUdTdaTnJzdjhPSTMwdGZLemdLa0xrVThEajloNlZyYzhlQkxlam9jQ19PY1BTTVNZcnl1dldTdXMtZ1JfbWZwek9DckZtek1lWklYbldSUmNVbU16WmlvYVE?oc=5",
+     "date": "2026-10-29T07:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "subject": "BYD",
+   "score": 68.4,
+   "ideas": [
+    "The BYD ute battle in 2026",
+    "BYD and the EV shift: winning or losing in 2026?"
+   ],
+   "news": [
+    {
+     "title": "'Australia remains a challenge': Subaru's Australian importer admits to struggle amid the rise of Chinese rivals such as BYD and Chery",
+     "source": "CarsGuide",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNai1IcXVoWnZlblhYSXNHRG8wQzJtdXhiYVh4d2MzcEMyZFBzVzdlTy02d1ZSNmZRSkhwaldkSDhXSmVLZ19uWnBCSWtObnNvcnFjdTVMN0dzc2E3dU5ibGtMVXVlTlJ0eEZjNzZSRTB5MER4emxwLTNFVkpfOURMVFFkODdGckRpdmVpdVUtQ0ZnMHF5TzZ3MGx4ajFkcUdQeHJPbWNqY1pIa1FzekpFTmEzWWZBYnlPalNYb1VydnAxZXd1NzNr?oc=5",
+     "date": "2026-10-31T07:00:00+00:00"
+    },
+    {
+     "title": "Subaru hits the panic button in Australia to compete with brands like BYD",
+     "source": "Drive",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSjk4eFJlTTUxOGdlcmNkb2x2R2lBSkx4d0Q4c2ViYlItdTluT01uQ1lEMVl4Qm1rZWMwaHRIOWJSbmlPTnRlVElHYVJtOGx0ZVZldndiMmpVSjR4QjJ0WWtTYmJrcDBfeXBfTlRSOWlReGxKRmhrLU5fRmdDd29NOXlTeHZmN3daa1d1WkNiX2x0ZGliVEd0dWxPOEloaW5u?oc=5",
+     "date": "2026-10-27T07:00:00+00:00"
+    },
+    {
+     "title": "'With success comes scrutiny': BYD Australia boss responds to 2026 BYD Shark 6 hacking claim as it prepares to hunt down Toyota for top spot on the sales charts",
+     "source": "CarsGuide",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFdMaklqOERUMGVWVUZDRnVBTXRWdnBhUFVuTU9HT1NqQWI2VHJBdWxkUTFZZ2dEQXN5V1VHUUwxOEpSdWVUUC1yWmRlTkVXOTVZVk1jdW9WYWQ2SGRUQXZRd1ZKbDlVenhpcXRTd0QwMFlYVXRjSG5FelJmRTFUdUtyYWtHeW1RYXlWUnFaaTJZRkJyVm5nUko3U212eWo2MkczMC1WTGlnOWJpUnpVLW9YTWxuellwdnQ5bThfVHJZSnY3UXc?oc=5",
+     "date": "2026-10-26T07:00:00+00:00"
+    },
+    {
+     "title": "2026 Jaecoo J7 Black Edition priced in Australia to rival BYD Sealion 6, Toyota RAV4 plug-in hybrid mid-size SUVs",
+     "source": "CarsGuide",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNkotbXE3UVlHYVV3cHJnNmYzYmRmcWZPc3NUNmlUcnR0eE5ELUJMTUFUV29lby1YbkJIZjU4Q2xsTkZfYmg4SWpKXzJpbFl6VzBKZWhHWXNIeWlTZEp4YnEwbjBnRmRMQ2hlanBxcHdvSURYaXFTcDBZelVja3NYUmJOclUtdWE0Vmt6Ukc0dkNFdS0yclhVZGlBS29NcXl0OHdNUHU1MEM2NWlfT0hMV2cyekRFbFg4d1lJXzlNOEhPdjBy?oc=5",
+     "date": "2026-11-02T04:39:01+00:00"
+    },
+    {
+     "title": "Denza B5 price cut: BYD\u2019s Toyota Prado rival now priced under $75k drive-away",
+     "source": "CarExpert",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUJ6TGVVOUlzMFVMSjFhcTNfSDV6Zk4wRUQ5S2NFZFo4REpQY0RfSzRTNFBTUnU4SFo3UjJmaklqRzYxQmY3dWVsTFVXUF92ZkFYNTFmRHEzeFlPdUp3WFYtVUl6anREaGU2c0czN1dTcVZLbXZaSWpoUXRad3E5amg0emxPaWtXNlNvdmUyZDZRWXJlbjRVMWx2SVJsZVhPRDBybVpLUFlhTkcwQWtCM213eno5SGFsMEE?oc=5",
+     "date": "2026-10-30T07:00:00+00:00"
+    },
+    {
+     "title": "BYD Mako ruled out for Australia",
+     "source": "Carsales",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaW9QY092eV84bl9qVFVsWk5sbjFCenZKQ2R0bkVJV1lXZ3otWndLODFzV3JneVVKVjc3RkFfU0Q3aENYV1Z4bGFDai1VNGtrbDgwMkFSYWNNQ1BxU0NYYU1Xak9Kay1hdVJOM0tmSTRmMldqZU8tQ0xDRFgwanlGeUNPTm1rc0F4cHJaS29Raw?oc=5",
+     "date": "2026-11-05T23:39:26+00:00"
+    },
+    {
+     "title": "Surprise Ford ute takes aim at BYD and GWM",
+     "source": "Drive",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOVBKRVhfVmR4MzM3NEtEMlhOQkRVc3FtZlpPRzZ1MTAwSHprcFNhN0hQemVOMlZFVjhMQ0l2VlpOM0libXZ5VEZCZFFZa3pteVdRZ2drYjQ1aGY2V3hiSFctVnlDS1JJM1pqQ3RNaUtaNk1JRGszQTllODJFekpwVDhfVXRjYmJqRW5reWJQa3R2SUI5SnBBY042RkJzWGJvUXc?oc=5",
+     "date": "2026-11-04T00:08:02+00:00"
+    },
+    {
+     "title": "VFACTS October 2026: HiLux back on top as BYD sales surge",
+     "source": "4X4 Australia",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMWFfSVljRTA1bUFDZkRkd2dYOWNEMERiNm54Q3NTV2hZWUR4Y21LQzRQUEpnSm15ZkI2S0dIODVXSW5GMnp4UU4zUHN2d3hTQlJDSk00dkxreEFCeWx0QVB4UVlwVExLZW1fekQtekxyeE5fWlUwQjZHck1IV2FraXFRbmw4NWxRY1lTUHY0Q3o?oc=5",
+     "date": "2026-11-05T06:47:29+00:00"
+    },
+    {
+     "title": "Toyota's rare HiLux move announced as discount applied to 2026 Toyota HiLux to boost sales of Ford Ranger, BYD Shark 6 rival",
+     "source": "CarsGuide",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMU51bDcxamx1WHY4ZUhoenc3U2lXdnVMWWZsRkdMQ0dIaXdwRWpNQXNPREVjaGpCeUhkR3dkUmxGdlNnMmlXckJqLXF5VGFvS3pNYldIcG41bmJkeGkxV0dKQlFHcE13RXBFTlBOYjBRS3VHSDJKV1dyaWFVUXVLN3NxeDFieXR6R0RRZzF1QUc5aXdyWlh0YllwbXIzVTBacDVnc3UzcHlGLWx6bm1Xa0tza0lSZ1FYcFZwZEV6X2RaN0JNZ0E?oc=5",
+     "date": "2026-10-26T07:00:00+00:00"
+    },
+    {
+     "title": "Where Australia sits on global EV uptake: Booming sales of 2026 BYD Sealion 7, Zeekr X and Geely EX5 put us above US, South Korea",
+     "source": "CarsGuide",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSDdKMlRDa1Q0cUU3WlNHdGp0RzJFMkZQbVZRaTJwRUlQSmtsWFNWaGtXZGhkbEcxQXRXRVlSbDh1RDJqdjRHSXEtUFlFMVpXWDFjZXhuZGx6OHU2bTkyMW51WU51Sko4Y3lVQXF1SGFnTUEwb0dvLUlsRUM3RnRXZWVfNHBkRmZOb1Jvem13ZFhZWmFZMUp6aV9NSEI4eTR6VzBmTElwb1QyQ3FtS1R1REhDeGNEOGdwM0JIbXVMZXVtZFRk?oc=5",
+     "date": "2026-11-02T00:35:40+00:00"
+    },
+    {
+     "title": "2026 Tesla Model Y SUV and Model 3 sedan discounted in Australia in battle against Geely EX5 and BYD Seal electric cars",
+     "source": "CarsGuide",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUnBUZzVsTFVmaThyZlQtb3lEcVRFVThTajRiZWNjci1xaUltYmJSanhsa3U1elJuNnhrUnhSWHJsNmd0Q0VvYUtydFlKTkM1ZFhMeVdMZUZtYUlxajc3ZGdyclVjUF8yYWJ0bmxiZ1dMenJ6SDBWUFo1WHl6aGhoTHlqZ000OGRzelRnQXJtTzNRUEtYeTdwYjhnaThWekNHU0g0MzI1ZDZ4b0haeC1nMkRkYlhmcHhBcGNXR0Nja0U5N2xI?oc=5",
+     "date": "2026-10-26T07:00:00+00:00"
+    },
+    {
+     "title": "BYD expands Australian parts network as local fleet passes 150,000 cars",
+     "source": "The Driven",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNREN1ZEJmczROU3NWbmZoMTdkZE1TZmF5YzNiRGdtLWFzRmZjalpMT3JtZGE4VlZ4Y0xYSXVINWZVb254ektNU1dpR2x3b2lHSmVYdjRXNDVzeElkV2xOdEhuSFpsVGpKOE14cUNLck53d1FFLVV1WlZvNXUxNG9EcHVRcUpqcm91dUhWek1UMFZxU2Rzc1preTdXQ1JrYlNHX2NvTWx3?oc=5",
+     "date": "2026-11-05T04:48:03+00:00"
+    }
+   ]
+  },
+  {
+   "subject": "Mitsubishi",
+   "score": 42.1,
+   "ideas": [
+    "The Mitsubishi ute battle in 2026"
+   ],
+   "news": [
+    {
+     "title": "2027 Mitsubishi Pajero to champion Australian-designed accessories",
+     "source": "Torquecafe",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWnUwcXJvS0VtLXpNb1FXOWxqZ1hRSkxjcjVhaVdEcFFpUkg1eW5YLVZYYUlyQVhxT2VpQVNkQTdLVUplSVhtOXRjejZVRnBOZmZTcUZmOWwwNEJMRUVZeDBab2h6Wmd6OU5zTXBnMk5uVWJfTXY5TERtcnI5alEtWHNRYUwwQnlkWjFsOExVeHpacHdxTmc?oc=5",
+     "date": "2026-11-06T00:37:29+00:00"
+    },
+    {
+     "title": "Mitsubishi ASX VR-e priced against legacy-brand EVs, not Chinese upstarts",
+     "source": "Carsales",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS2xJQ1hHbkxDTGg1dTRuejU0NlpPQkNMRG5lU2dJcGVPTENHUjFBSWMzMjhzb2UtMWRsOFN4RUxRZjQtNjloYVZ6WXZJLXJVdnp1ZFRGamo2MDhqZmpaN3ltZnFmclluQ2MwMkNUSTg0UEFDcm1HZWlOc2NFYUhVMGVLNGpERmo0RVZrOF82ME50eXpMbE5Ea3pPaDdVdWw4U0FIX291ZXpvRmJSeTNYM1N6SmExR01vZENhajlfdHc2cnUz?oc=5",
+     "date": "2026-10-28T07:00:00+00:00"
+    },
+    {
+     "title": "Mitsubishi Pajero all-in on diesel, requires AdBlue",
+     "source": "CarExpert",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX3B3TlZmYUhGTWlDMkpDYWhGTHM1SFk1azBiTGdXaVBvdmM0a2JrNkZtUGUzOWk1OUdyYzZ1NlBQQVJMMWhrM2F4OTBfZEpWVDlqYngtNlZ0dDBBeUhHUm1xNlBXZGxYYU1NWUlvS29ob2x4VlhNVnRJbS15SEtlN0tGNjd0UnBubmdiSGx2Qk1tUQ?oc=5",
+     "date": "2026-10-26T07:00:00+00:00"
+    },
+    {
+     "title": "2026 Mitsubishi Pajero Gets Australian-Made Protection Bars and Towing Accessories",
+     "source": "CarSauce",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcUxqTUdFOFhyRFZkWkNPU2hQelgxbHF0aUhVVXpWbV9xLWFTdWZSU0o4YUZJUmw3X3lqZWZSaEE2WXBXdlJ2cGtFSTAySDZuVVpFZlJvRG1NOFBQb0NPSEVUN1hhYWNBalplMXNldXdYRHpsdkdJbGJZRkI4NnJOODRQTmpfX3UzNVhzODRvdElZOXdoZEcxN3p3?oc=5",
+     "date": "2026-11-06T05:12:29+00:00"
+    },
+    {
+     "title": "Mitsubishi Pajero 2026 review: Australian first drive | Toyota Prado rival tested",
+     "source": "CarsGuide",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MaVVqZTM4ci14a0QyR0RodFhGdTEwSVZ4cThfV1BxVElxdjJ5bGdwcERyTjVvS08tajNHQmdOa0FfT2R6c3ZxSjV4M3NrejRvSnRPMlN2VWRuZGNnOWFhcFd5bzV3Mm5qbURfZUg1THo?oc=5",
+     "date": "2026-10-26T07:00:00+00:00"
+    },
+    {
+     "title": "Hyundai's double ute and 4WD plan revealed: 2026 BYD Shark 6, Toyota HiLux, Mitsubishi Pajero rivals on the way",
+     "source": "CarsGuide",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbFAtaGJHck4wSmJnXzdhb3I1ZGktaUhNY1YzNnVCc1g2VWhfLVJEaENQdkJmR3JHdHNOT0REWWlYNGdwYTJxQmxTaTgtbTF3VWxFaEM1NVkzRjNlUmNmekVqTjVhNmpjeUJLeS03c1g4c1p5ZjkycllmM0lfSXU0NWd0a1EzclBBTGlWaTc2bDdoSDkwUmw3c216LWs3dEF1Nl9KY09pSC03cTF4UHF6b0RoRmZfR2U2RUtfSUZiOW1vT3FIY2c?oc=5",
+     "date": "2026-11-02T06:00:00+00:00"
+    },
+    {
+     "title": "More rugged Mitsubishi Outlander revealed, and something like it could come to Australia",
+     "source": "CarExpert",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLUVrSjc3T1BQWGN4U25HTHlSb2tTNWJPSGNJUjRRUTNqaERzaEFDY0lyNXR0ZTRwcFdPNFYtR0RuQUdac3ctWlIxWDB3XzZJSUE5cUVsZzNpZ1FveDhqQ2txLUxwdE1ITVFubngtN1JFYTZ3MmtiWjNmMmxZRTk3dVhUOVJNTDRZcGdHNFNtRkgxV1FDRTU0WDF5aHhkR0JlYm45RGZDSEpjSWtXbGpjUFdQRGUyYkowbDkwb0RhWE9DaEE?oc=5",
+     "date": "2026-10-27T07:00:00+00:00"
+    },
+    {
+     "title": "Tough new Mitsubishi Outlander revealed in the US, and Australia could get something even tougher",
+     "source": "Drive",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb3A2aVVUMmM3ZEhvang5STBMd18wRFJiMnhPYllrcXBCaU5RbS13YThIa3NkOEJwYm9OR1A1dThwc3JrZnZ2M1huMDJtcVZCZ2E4aG9ZNGQ5NTY0OU5oZ2N3OFl6NEJJRlkxRE5fZC1CR19kTy1jRXlwUU9yMWdXbEoyMFpLX0RwVWhuUjhaS2Y3NWlxVVhlTHRqWXJxakVmdFlVaDRHMjJjR1l4ZGx3?oc=5",
+     "date": "2026-10-27T07:00:00+00:00"
+    },
+    {
+     "title": "A different Pajero PHEV? Mitsubishi wants smaller plug-in hybrid SUV for Australia",
+     "source": "EV Central",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRHZUbXlZWERrLXNPTG9vY3BxTHJmOWxuNGxzR1huMzBDbWJDMlFCSFFNekNJN1JaX1o5VUplS0FNVDVJeTIzZWhfWXhFYjJpM0Iwd0lwd3VFZ1Zid2x5eERlemNBVVMzNmhHaUxsMEJHN2xEa254dGV5S1JEMlg1cTVxbzlwYkVVLW1sTXZkdVV6eHFncTlFLUJseFpaeUJtOXhuTlZnSnk1WEE?oc=5",
+     "date": "2026-11-02T12:33:26+00:00"
+    },
+    {
+     "title": "Shop Mitsubishi Pajero Cars",
+     "source": "CarsGuide",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNnlIYy05R2tiTDlJbExlYVFsMElGeVpNQVZtSDR1TkktUEJMMXBEWDVULUhqeXZabXFIM2E2TEk0U3lZVEl3XzFScGhET2htOGRQNjMyOU9xOXlkNmEya3pyMDY0aHdJN2RvWGlPVkxrbUFsaUdVQ3lEd2VINWpqUVR2a3pNVkpadVFLdnN4WlpYaVNpR3JObEJVb003SzJJdVVhZExROVc1X3VVQnR6MWZrLVVTZWcya0EyVllDdw?oc=5",
+     "date": "2026-10-31T07:00:00+00:00"
+    },
+    {
+     "title": "Inside how Mitsubishi used local know-how to give the new Pajero the full Australian treatment before its arrival this year",
+     "source": "WhichCar",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN0Qta3JHX1BQMFNNQk5hRTUwT2JVN1ZjY3c2SVFxdld5c0VRellxOUJKRldoNk5YcDFrSmVSaS1NYmZRLURPemJCRkd3OTU4Vm0xVTV6TmpfbWFpUzFiVW1TZFhrMGdiYUtETXpReTRpa3RocUxRSEZaN0JVWGFoM3BaZ2hwdUMtVmt4VGxVRHhMbU0?oc=5",
+     "date": "2026-11-06T01:29:46+00:00"
+    },
+    {
+     "title": "2026 Mitsubishi Triton Raider (car review)",
+     "source": "Exhaust Notes Australia",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9TQTRSZU5zWGp4YjNLYWsyTWpUbjU4bFJfVFdBOFdqLWItY0MwNjRBbDMxaXpKYnhIVU9hTFdhdmNJUVBlX3AtdkdiVWtkdm4yV3QtOTFTLTVqcmRMWGFlSmJiVkRPeEJ2dWEyU0d3Q1ViMUxTYnFzcHdydzdyUQ?oc=5",
+     "date": "2026-11-05T13:16:36+00:00"
+    }
+   ]
+  },
+  {
+   "subject": "Mazda",
+   "score": 40.9,
+   "ideas": [
+    "Mazda and the EV shift: winning or losing in 2026?",
+    "Is Mazda leaving Australia? What owners need to know"
+   ],
+   "news": [
+    {
+     "title": "Mazda eyes more Changan EVs for Australia",
+     "source": "Carsales",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWENwaEJ6dGpFdlRlYzdvLWktM1pWWEdNN00yMVlORUp2eWMtQ0RBMjljdFU1V0tqQnMtVlV2ZHdtQU9uSkJMWEh1TmZKV2xvSkNvcXFRaG5wTTNZNEE2d1lBM2xoX0RqbDNqR3dfallNNVJBU2ExaEg1UnZxdGJMUTdUT2ZVa3l6cVJ4ZDEzRVp3ZGxBU3BxWk90Yw?oc=5",
+     "date": "2026-11-01T22:51:43+00:00"
+    },
+    {
+     "title": "2026 Mazda CX-6e review",
+     "source": "RACV",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYlJqS2d3LUtRbDNMWGZTVDRYakRkRU81MlFGbWt6NlZXNFhYNzZlUmFEWWptZi1fSzI0UC10dXUwOWVFR3FiX3VLbUlDeXF6TzBtdnA5RXlWZFZpWFhueUhJYzBqYmdKQVJfaDZiZERUUmtmeWFoSUc4Q2g1b0g2UEJRTEJveWs?oc=5",
+     "date": "2026-11-04T23:55:19+00:00"
+    },
+    {
+     "title": "Mazda CX-60, CX-80 and CX-90 upgrades coming",
+     "source": "Carsales",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYlJWd180VlNzUWh4N0p5ZkdOOUNHbTJlTlZMeEJXU3p5UElIX3dfcmJ3RzRzbzhPVzlJc0FTSTJiczJ6bTUyLWdOUVQ5a1VvVUowbkVCcnYyZjdSQ0JkR3NDMGFhbXRIdHlZODdBbmVtZmdFRkg4aWR4Tm9Dc2w1dzU4YjNiWHRmRlV6Zmg5a2FoUzgwZEM4cUR4Wll6QQ?oc=5",
+     "date": "2026-10-30T07:00:00+00:00"
+    },
+    {
+     "title": "Mazda axes confusing SUV in major market",
+     "source": "Drive",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTWJRWVVoQmdVVjNQd1FaWE9zSGpoSW11UVJnT3dDajRSdXZCMGVMclF0V2pQaWVaUjh5eHI2NXlQRm9Jd0VfRm43R2g4eUliSVFzR3gxQ0V4QzQwck5rcXZXX1NFVVA2ZjFaSXdZWjBRTU85VE52QTFDVFdfN0thX1pyLWJRM1FhRjZxVkJTRF90NnhV?oc=5",
+     "date": "2026-10-28T07:00:00+00:00"
+    },
+    {
+     "title": "Iconic Mazda to be dropped",
+     "source": "caradvice.com.au",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdFZoek9hY2I3cUZkQ0t0bzJGQjQxYlVUVXlNanJzN2pSRVJwMnN6dVBSX3JYT1ZZb1EyLXZ2b2lNY2taUC1NQVRSUkxxVmVwa1VIRzBXQjVmZ2xEOEdGR3Zfdy1zalFkenBpZkVfNzhjWE1KTWFldWJScDNlUzFabVRBbjFHQWxCU0tXVDZnS1NqZE0?oc=5",
+     "date": "2026-11-08T19:08:23+00:00"
+    },
+    {
+     "title": "Mazda CX-70 axed in US, safe in Australia \u2013 for now",
+     "source": "CarExpert",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM0dUQXFsUGFrYlE4YW91UUtrc29IRlZ6MWlYMEJMTnVYU2hWUEhSZTJNTm51VVh0eEdibHJMbUJOSjJENzR3VXJ0S005NWpJSC1Yd3FGOG9GRHpGSEt1UmZEVkVoT1JEdmh2MGc4c1I3NTJ6TVJJV1JxcGY5cG1lSWpwR2dxVHk0VlNRUXBEcw?oc=5",
+     "date": "2026-10-27T07:00:00+00:00"
+    },
+    {
+     "title": "Mazda has culled the slow-selling CX-70 from its overseas line-up amid tough tariffs and falling sales",
+     "source": "CarsGuide",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVDVKMXdobS1yWmg1N0I4YmY3dGZqRzFkYWhQRUdKeURYb3VFdDBTa292TUdhb1J5cmRqWDZWVEc3SVhZYnI4bzRsNlVpUHp4Y1R6ZUNlZ3VwQnVFOHdCU1otVUpzVVo1LVFuWWNvbmpobURNX2NXVE5kVHk0Yk9Hb3U3QVdET3NoXzFyV2hXVmZ3ZXpkUHQzTms2UnZvSVNWZUpOWjR2WVhCSDlhTEtkTU1JTnRHbVNNaHVIbUQxVVRjN3BMMWlj?oc=5",
+     "date": "2026-10-28T07:00:00+00:00"
+    },
+    {
+     "title": "2026 Mazda CX-90 G50e Touring (car review)",
+     "source": "Exhaust Notes Australia",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9aMUt4NGhoSTdRcUtSUXRBdXpuN3BvS0hhVXd5anpzWVlZT2ZCeVZ5RkVXT1VkajhjSmtyMk5tTXV6Szg2a1NqNWpYYzVQSXRBYzA0Y2IyNnFwTHc4LWxRTUJ2clcwSjYzS0w3aXd5cUpodUw3bnBZYUdhVXBHQQ?oc=5",
+     "date": "2026-11-03T00:37:32+00:00"
+    },
+    {
+     "title": "Mazda\u2019s revolutionary Skyactiv-X engine faces uncertain future as hybrid successor looms",
+     "source": "WhichCar",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPd1N1dkRrY3ZzS3FEcGpRSGN6MjgtRTVnbWJuYkMwNEJ1SlBvZUNST0U5ay1EaXRMVnJOcUl1dWNOOWxqaEJ2ejExakdQUV94Z3JyWmplSlZGTjRXSVo0cnpqRlNURXZzcGlibVhDZVZUVWFuWVJ3QzVhTG5faGU0LXpaaEdlTzVDWWJFMlQyQTRyei15aVRCdXBNU0Z6cjRkTmpxN0pCZGpBYi1zN2pnZA?oc=5",
+     "date": "2026-10-30T07:00:00+00:00"
+    },
+    {
+     "title": "Want an EV but don\u2019t like Tesla\u2019s CEO? Mazda has the answer with its Model 3 rival",
+     "source": "Region Canberra",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTnJzc1oxMUQ2cEJ3amZHZ2kzTzhpQ3NXbUt5REU2cnRuUnZfaXVyUEVodmtsSHRCN1YwUTh6SjFrOG9MRC1zbFhJdUNXWVdlX0pEczF2aVJKR09JYlVWdmRfRTBrbDAtby1COUFhaEpPUHRNbi1IYjc2WC1FYWJhV3VzWVItc0ttd0g4TzVpMFo2U09mZXZPR0lBRVN5OEFRdWE3NGpDWmpmQUNzVVR3?oc=5",
+     "date": "2026-10-27T07:00:00+00:00"
+    },
+    {
+     "title": "From hybrid zero to Toyota rival? Mazda plots petrol-electric SUV expansion beyond CX-5",
+     "source": "EV Central",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUjM1V2RlYkR1OWNKcWFLbk03UnFQXzRYSmRKa2hzTzkzVGZSNTdmS29EQmpiNG0xendkdTZxZ2RhWjhIMGUwMEk3LU9jQVVNWEhmZWNZOTlsbV83V0U3WkpTQ3FFd240d1hYOWdORzlfSVFiZWt1X01OQk1hYlBrTzlsZG56dlBTNGs5d3JqdTc2WElwSXRzcXBaMjVNTjlSWThwei1qS0VEV3ZPZzFTTkRR?oc=5",
+     "date": "2026-11-03T04:27:57+00:00"
+    },
+    {
+     "title": "Next-gen Mazda SUV favourite takes shape",
+     "source": "Eastern Riverina Chronicle",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb2twRHR2dEdYc08zcTAzYVJFb2FFTHBVTlFlUDZONFdSSXFpRXJTc3hvVWhkWEdsaVJsb0tKeEpPbEpUYVhaQWpHSHQyZ212c1duRVpRVS11eDd2dEpVTllHTFNoLVdqR1lYNk5fdGxKanU1RHBEVjhvbHkzRWhNLXRFRGtTX2QwbGpsM2lWSzBIYlpuaFIwMTVvN0dLcGRs?oc=5",
+     "date": "2026-11-08T01:50:47+00:00"
+    }
+   ]
+  },
+  {
+   "subject": "GWM",
+   "score": 39.7,
+   "ideas": [
+    "GWM and the EV shift: winning or losing in 2026?"
+   ],
+   "news": [
+    {
+     "title": "GWM Haval H7 pricing confirmed for Australia",
+     "source": "Carsales",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRHU0bnVnTUlxclVEdHg2RllXSHFtbjRsQTVnQTdYOVQ0eTA4Qk5oeC0xNWM4c0dqdFByazIzQnBOQ09xVzNkRF9VeHZubVVkVUo4ZUZ1cXdfUDRjV0FZRUk0SG4wZkU3Q3RSeGRRdEIxYmt3X2F5cVpBUHVmSEcxbTgydDVPc3VDRkx2cVV0M1BBR1VEbm8xa1lvQ3BhQ0U?oc=5",
+     "date": "2026-10-30T07:00:00+00:00"
+    },
+    {
+     "title": "GWM rival to RAV4 replaced after just over 12 months in Australia",
+     "source": "Drive",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeFhSZnhtQi1fdFRFOThXYzNpZ3U2TnB1RGRtU3N3Wk51UjRJSnpGZ3M4cWpJbm5zMUZGNzBxaW01V08zLThYRnp1ZE5ONEVrVDhsYlk2TUp5RmxWbXJ4dXRMZ2NYeGxtUk9hNnQxdmdwQVJKSkF6RUVuby1LaWNRZkFWWGlVdnQ4cnVfS0ZvdUctLUd6OGFCR0xpMGZxNTEyTk56RERVd1NLZGc?oc=5",
+     "date": "2026-10-29T07:00:00+00:00"
+    },
+    {
+     "title": "Surprise Ford ute takes aim at BYD and GWM",
+     "source": "Drive",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOVBKRVhfVmR4MzM3NEtEMlhOQkRVc3FtZlpPRzZ1MTAwSHprcFNhN0hQemVOMlZFVjhMQ0l2VlpOM0libXZ5VEZCZFFZa3pteVdRZ2drYjQ1aGY2V3hiSFctVnlDS1JJM1pqQ3RNaUtaNk1JRGszQTllODJFekpwVDhfVXRjYmJqRW5reWJQa3R2SUI5SnBBY042RkJzWGJvUXc?oc=5",
+     "date": "2026-11-04T00:08:02+00:00"
+    },
+    {
+     "title": "GWM expands SUV line-up and confirms Wey arrival\u2026 as diesel sales surge",
+     "source": "WhichCar",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcHhpUVFfQ1JjQ1RycDRtcDl1enI4bHluSEJ5NHh5OWYwLTR2Wm9QX05TdkU2dFVrSUJucWJJUE5KZVpiWFhoM0dtaTBJc09jNEdjTGluOHdkNk9QYldQdHlHSzJicmFjRXpVcXgzRWxnRmNJYkl3eVgxeGkyY25nUmFWQ2trdTd1dlpBLXg5bFBhb1NmRUpkZHMwYS0?oc=5",
+     "date": "2026-11-06T00:44:40+00:00"
+    },
+    {
+     "title": "GWM's first electric Haval revealed! Jolion Max EV and PHEV confirmed for Australia as Chinese brand targets SUV domination",
+     "source": "EV Central",
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbWxnQjcyYVR4VDFwMmVQVzY3Z2RTYXNmY1ZLUXRpOGN4QkE3NXo4Nlh3Y1BfTXZYRVAzUHRkYjB0YUF0bzFNVHZEQkRmRHlkUE01bXo0TVgwb0dWZ2d2NVpnQS1XNmw3ZXppTldFZzNnbzNSdXIxZXVJcDV6Nnc3dVFHek9LcDJ4bGxZdHVwM0ItbUJGVUVTcGVCeEtsd0tVOTVsX091bVFzMTR1d3Fyb0tSdFlFVElGby1fSzhENUo4ekt1UlQ4TFJYQjl3dHJPeTVGUU9ac3JVRng1SFI2Yg?oc=5",
+     "date": "2026-11-05T23:00:00+00:00"
+    },
+    {
+     "title": "GWM Haval Jolion Max revealed ahead of 2027 Australian launch",
+     "source": "Carsales",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcE1jZ0o0NEJubFRGSXlIZWY5c1FqRW9OMDg5NHR1RENwSFR4YmxUdUJLVkpZYzdmSkZ3RlNjZWZaNFN2OEhjZVBuZjJOYzFENFo0dFNINGp6UkNUN2FrakE5R29qZzRwbVFueXRfb216T0ppTVZqNHdHQUthSDROQkFtaWtkVXBXNVMzd2lYay0xUS1RZkFqQy0yUi1KZmJ5cjdKMFRPSWp0YlZRVFBmaHM2b2dfZw?oc=5",
+     "date": "2026-11-05T23:39:26+00:00"
+    },
+    {
+     "title": "Haval H7 Arrives in Australia as GWM Confirms Two More Medium SUVs",
+     "source": "CarSauce",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbmRzMk5kaDR0NnYyRkE0UjBqUHFHVnVraDlNWG1uTURhdktSdjdVQ3JRWm9LUjQ1SE1oaXhBRm8tT3FYWTNKVFNWb2loM19vSExBbnBKbDJuTmNJOFZ6cjMxR3NmQ2tlekJTSTlRVVVqdFNLWGFfQTFQUnFPdThveGJVYUVhMWw0N2Fj?oc=5",
+     "date": "2026-10-26T07:00:00+00:00"
+    },
+    {
+     "title": "2026 Toyota LandCruiser Prado scores official retro kit as tough diesel 4WD faces off against aggressive rivals like the GWM Tank 300 and Geely Battleship 700",
+     "source": "CarsGuide",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTUtWZm5nWjNfcFpmdFUwdlN2NUZkTTJrNDNoVzdIT29hSlZMQ2hYczltNEduTzNYOHRkdWk2QkxKcEFEU3ZMRXJCemRDcEZSRHBrMC1heThydmJxa3BiTkVxeDNwRzVpREVrRlduMDFrdDg5Y2hEY3lFUTBpbFJVVE9CalU1SlhfaEJvMkFDSW01eUxIVUV3V1p2ZTNGcHVmbDNoS0c5TXh3azh6THk0bDFJY2p6NDBuWHAzaFAxU3M?oc=5",
+     "date": "2026-10-26T07:00:00+00:00"
+    },
+    {
+     "title": "GWM Haval H7 PHEV Priced From $49,990 Driveaway in Australia",
+     "source": "Zecar",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwRDl4V1c2TmNUemZWTUlFR05rVXpmV09OUjF6RF91Uk9fTXQ3M1lOc1lnTHdaelVKcXBneTVBZDhjX19LYlBFQWJ6OVVUNVhINlB3NTViWjgxdlR5UG1VRTJydHNKNVIwWS0xTElSMlVfZmM?oc=5",
+     "date": "2026-10-29T07:00:00+00:00"
+    },
+    {
+     "title": "GWM's first V8 in Australia may go without hybrid assistance",
+     "source": "CarExpert",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR3FtVDNEM2ZmeDlwdnd6SG9yemNDb3FSTUNTVUM1bWxxeGcxYUR2dWY5Yl9UZEpXMy1uTk0xek5iQ19Helc1eWZlYXVhZ282WnhJUDRBUXVGSDJEOTZkNWNDMzI0UDNkcGR6emNoQ0NlNUdHaUJDT0d5eWU3RDlLOTVWaXhxXy1MN1c4aXMybVhaVkZNZm1kakUxOVItdw?oc=5",
+     "date": "2026-11-05T23:00:00+00:00"
+    },
+    {
+     "title": "GWM to launch 14 new cars in 2027, including 2026 Wey G9, Wey V9X and Haval H10 likely to battle Denza and Zeekr",
+     "source": "CarsGuide",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN3VLYkRCa1l6bUtXVTlUb0I3NTQ3MDloNFE0aFl2eTFMVWhYcFQxYVJjdkdfUUpod3ltZWNVY1FXVFNXcEpxMTQ5MTljdi12bktDUlA0dTRZZk9ab3JxZVhlbTVQcXduVTVYRTJTMzlYdDM1djVTZWtLZTVfWEZBZkU1empjRzU2eUVJeEhTZDJ5X2tmOHpqb3ktMkNwRXZJWmNxejR2WnQyVTI3VGNzM0hCM1U4cXZkWi0zNi1lNVI1dkU?oc=5",
+     "date": "2026-11-05T23:15:28+00:00"
+    },
+    {
+     "title": "2027 GWM Haval H7 Price: Hybrid vs PHEV, Lux vs Vanta",
+     "source": "https://www.carseekers.com.au/",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYmlwaXVSREt1UWhaNkRvSWJmVVdhczVUVEgxd3laSG1TV3FjN3FVa2tpZTZzTWVkWk9RV25FWmZIWTA2UG1laU4tbXdHV2xYc1lYNFYtNldUZDZuOXBVNENmc00yTlRQZlFqRlVYRkNtYnVvTHd3ZGNXRGdqbEdlNXNwWkQ1a1U?oc=5",
+     "date": "2026-10-29T22:15:40+00:00"
+    }
+   ]
+  },
+  {
+   "subject": "Kia",
+   "score": 38.3,
+   "ideas": [
+    "Kia and the EV shift: winning or losing in 2026?"
+   ],
+   "news": [
+    {
+     "title": "Kia\u2019s NZ boss agrees we have too many car brands, but says it\u2019s too late to cap them",
+     "source": "Auto Trader NZ",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSkJ5LW9QWDJLWEFzWVBWNEpRZVZFeWtzdXc2VFd1OVNVQi1STy1PZ2djMEdYdUpkTS1fWGp6OVRjUlE1WFJRT0ZxYU4wcEhqUnpGdUJLcHRTQm1yZnZkeWtEYndMR3p4bU1tbk12cGhpV3NvTU9Dbjc3VGRESF9sZGVIV3JHcFVLeGNDd1dHazVjYWVOYUZLOHNaZVNuN2JWSXkyM2lvM3pYekhlTE1QUQ?oc=5",
+     "date": "2026-11-06T00:21:25+00:00"
+    },
+    {
+     "title": "Kia K4 Hybrid Australia: Not Confirmed, What to Buy Now",
+     "source": "https://www.carseekers.com.au/",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR2xZMVAtUWFCMGROZDFwemIxRmo2OWxMVEVkNUwyb29TeUpKemg4TmJ3YUJTTUo3NUZ6ZGlfdHlheGNSLVhwZkp3N1o2M1FJU3RhMFpuc05rMmpUUHdGUjYzSlBBcUZhcXVxazFDOHdfWnZnYVd4MS15VzF6cXpPMldnUjJfUFczRkNkWnN3?oc=5",
+     "date": "2026-10-30T22:19:57+00:00"
+    },
+    {
+     "title": "2026 Kia Seltos Price and Specs: Hybrid SUV From $39,990 Drive-Away",
+     "source": "CarSauce",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nekZVWkdZdDNCcEd6NS1TMnZWZUU3TUpfQjk4aWI3MGZlTURwX2UtQ3UyRmVrZkF3SHRxV0hvRm5KZmgtaTVnSzZsTlFJOFJiSnhtNnllSXNZTlhFc2dZcGZLaS1rcU5KdUZmYXhCUHc?oc=5",
+     "date": "2026-11-06T06:27:30+00:00"
+    },
+    {
+     "title": "Kia aims for more Tasman sales",
+     "source": "GoAuto.com.au",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVTNTVEUzRnBNdDNhWFJkQ0x6bDVBWVBlZnpsU0M0QmRKWnliZHZoSGpwRWdKS3p0cUx6WmRlVEpJazRIeHgyT3FRUGxPbWNZS3RqRHdqTzFNLWItNVE3dURPbndmYnJSa2xieHB2LXZyQ3RrXzdvbDRJME1BTU00ZlVvbzhKZU9TMV9iYWNzX3BOWE5nZ1J2VjhCSQ?oc=5",
+     "date": "2026-10-30T07:00:00+00:00"
+    },
+    {
+     "title": "Updated 2027 Kia EV5 exposed in Korea",
+     "source": "Carsales",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ0RwU0VSVTkzZWFZSldzdkVpel9EVjYzejhlQ2FlVE9MSncyd3hITlBzZzR5OWgzT1dZOEt1UG5laHVleWgwYU1xNmJUM25UVmphdnZYZTZidTg5a0JzLUFfZkNOQVIyd2MwclprYmxtWkpSYkdXUEp6VnA1NzgxQkJsak4tRWVURWlqZ3NwYktDUENXOVE?oc=5",
+     "date": "2026-11-05T00:47:42+00:00"
+    },
+    {
+     "title": "Kia Seltos 2026 review: Australian first drive | Toyota Corolla Cross rival tested",
+     "source": "CarsGuide",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBONnZ5ZjJYR2ZRdjJndG82ZGZXcTFHVTZ1ZDBtRHRaVS1xbVJjSVd3Yy1CNHZWN2J1TzBad2M1TkVCcndOdkZxeU5LMTEwMlh2UGZqVFo2NHZHWkUtR2c?oc=5",
+     "date": "2026-11-06T06:00:00+00:00"
+    },
+    {
+     "title": "Kia considering more PHEVs, but EVs and hybrids are satisfying Australia's emissions regulations",
+     "source": "CarExpert",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUFRvcHVQSlZidEtvYkZUN1dkNWpmTDVRZ2Y5VDU2c1dxYTNKdWNsMkkzeXBFYVNZcW9uUUo4QkFLd0pOczhXRUJqelo2VGl4ZFNCS2pYZW5wbDZZRHFyNDB4TlA3S19DY1JtR0dWOFplTDFfUkNFWGNiMHF4SG1lVV9hRWl5dlN4bVRrN2Rpemhwa0xneVUtQ2FmLVNTTXZDTkl6dDdwejBIaHI2akZOWHRFUDM1VXRPalIxSHBBUENhU094MjczbVhmcWU?oc=5",
+     "date": "2026-11-02T20:00:00+00:00"
+    },
+    {
+     "title": "Kia stays mum on Corolla Hybrid rival for Australia",
+     "source": "CarExpert",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeXU0UkdlQS1VMGxWd1o1SnpVUFUtdjN0OUdaNEZOVDNfZmdNcThiNk5qYUoxekRSNEUzSmpaX3ZEUVpoVERnWm9pWkRoajlsQjZVQnFXbXRRdWdyT0ZMRHlLbFl4OXd0U1U2dGpNWU9ZcV9ZeWhpLWViUlB1S0xQU0lqVV9kV2N0MTQtSEk1czA3ajg?oc=5",
+     "date": "2026-10-29T07:00:00+00:00"
+    },
+    {
+     "title": "Top ute gets $5000 price cut: 2025 Kia Tasman SX and SX+ variants score big discounts to battle 2026 Toyota HiLux, Ford Ranger",
+     "source": "CarsGuide",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV0dBVFNLU0pHR0lvTmRUYWNVMloyT0tGQ3JSMkZKaFVldDdvRkstQVA1V3ktMGVBei0wOGxMRjBmVlF6RW1YMUJhd0lkOGxWQnNSQlptQUJzTk5KY0VvTXBXWTNqS2tyNlpfNUloRnAtNkNSbkRoWWktZjNaaVNzWldkS2tTX05iUmpUVmZRUjVIa25pcGdYUnR4SUdYQy12TUpmX1hOaGJTSW43NWsxXzd1ZWh0Z05haW9xWDI4Y3g?oc=5",
+     "date": "2026-11-04T00:38:53+00:00"
+    },
+    {
+     "title": "Kia explains Seltos dual ANCAP approach",
+     "source": "GoAuto.com.au",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb3pFb2VyUFZHVlplNC1odTFNT0RhekJxV2FmZjd1Und6VUQtbmw0QWRtZjdod21WY0owbGhkbXM3Mml2Zkw4eDlZbXNsaWl5QmhFQzFSY1EwR182Z1IwSHdPSnpSTTZMTk95NTl1VWJQM0M1M0UzNTlZVUdVWnFRdlZtRUlweFBUM0NWTzYwZ0dlMzBIaWUtTXdTTC1HRTkyWTdhT1A0cw?oc=5",
+     "date": "2026-11-06T06:53:20+00:00"
+    },
+    {
+     "title": "2027 Kia Seltos price and specs",
+     "source": "CarExpert",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1nRGVYRFNZOVp3WkVKZlRZaXR6cHVzVGJBNkppcTRPMTIxdE9vQTdQZXJOZmZPWVkwNXFKUkZqQVY1dTNkemRaNmVSZ2E2THNBc3lZaTd0eENHeTQ3SzFtSUQ2SWhXSFBWY3R5M2RMUlBULXZkYU10MQ?oc=5",
+     "date": "2026-11-06T06:14:00+00:00"
+    },
+    {
+     "title": "Kia Tasman 2.0! Work has begun in Australia on next-gen workhorse as brand recalibrates against 2026 Toyota HiLux, Ford Ranger",
+     "source": "CarsGuide",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNek5SQzVncjFkR0xUWkIxcnp6RnJPSGR4c0VuYzI2bEZpR0o4T25RdnpJTk5rSUZHc2NsUWZ3akFJSXptaWRLM0hsaDhTMDdqYnVoUGZDR3IzcDlyRGtIVlJrRlA0bENBRU50aGIzLXRGOVFKelM3ZlA5YWxBWTQ3V05JUG5vem9FM0dIbjZCZ2VQSmVNYVdaWG9WWWs0ZUJEU0VVa05FbzNFa0VfNXVEWlJxV3h2VHQ3SFFWRjZuRng?oc=5",
+     "date": "2026-10-30T07:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "subject": "Volkswagen",
+   "score": 37.1,
+   "ideas": [
+    "Volkswagen and the EV shift: winning or losing in 2026?"
+   ],
+   "news": [
+    {
+     "title": "Walkinshaw engineering turns Australia into a continent-sized amusement park in Volkswagen Amarok V6 W600 campaign via Bernbach",
+     "source": "Campaign Brief",
+     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaFM1VUhVN0FIRDNZQUhpV2hZeVFSSWRyWll2TWRPVUt6X3JaVTVWa3pNVlpmdVdRTk1Ba29MUUp5SlB3TmRtalJqRE9PWjlJWFBpbk9jX1hTTHI1Y1hXWjdnU25Oa1Rab3JEMXpjZ3VEenhEV2VZRzJZamx5cEczNmpmR2lLSlF4WC1aZzhLYXJ3cVlXOFlBaThLb01vOGJRbTNLdTRvM29TaVllZEZkZExvVzdNcEF2c3dXcjA2aDFlOGVEOUhtOEpvZ09Nc1V5WVRnYjFJaDRqMG02ZTZaR09nSkh3R3RvRGc?oc=5",
+     "date": "2026-10-26T07:00:00+00:00"
+    },
+    {
+     "title": "Volkswagen Transporter to ditch Ford underpinnings",
+     "source": "Carsales",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORFYxWXB4a3hUOC1JYVhtM0habkZNVzRieHZ5aWRLa0R0WWVscllqV1dEXzVfemVZSi05SEk5c003YVE0UUlnai1Jbk9vZGNoOWF5b3VseXhDcGkxbHp3VzkwUHlpYk4xMmk4M1Jsd21EX3o4MWgxS1Z5Tmx2amVsdkhNejhhdFBFZXRta1c5bDhrM1g5WDNKdGE4ZHcxVnRpejRtekxoMA?oc=5",
+     "date": "2026-10-30T21:02:12+00:00"
+    },
+    {
+     "title": "Volkswagen has just confirmed its next-generation T-Roc will launch in Australia with a mild-hybrid set-up.",
+     "source": "CarsGuide",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZm1QLTZneXFtSWU0Z05hb2xDaVdLY3RhZURXSGhMdUJTY0hjaFM3THhYSjNhRmE2bUttRTFEZlhiMTRPb0QtNUtjbTZMbXpmRnFZRG5kVWxVVnZ5MDVoOHpqUkdWTDQ2YnJ3SllUcWItX0RtSmNFalpqSktKNFlfT3hZelp3aEVobXhZRzlSb0YtcXdPMGJxOGlYcTZuQ0FZNHl2SlhuYk05NWdrQ1BkdEN0bHk1bEFkRmFpSDlENU1sa1d3bFJn?oc=5",
+     "date": "2026-11-03T01:00:00+00:00"
+    },
+    {
+     "title": "2027 Volkswagen T-Roc: Initial details for Australia",
+     "source": "CarExpert",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSGoxT2IyLUF3LWpLMmRFZzlVZmlRQlhLMGxfTXJMX0prQmpKcUZxVDFFMXZkUEZFR1QySndkY2hjRjAyc3NNamJSV2I3Um11b3ZONlphSlBTOVRqNWw4Zm1QSmRNei1VS1Job05iLTRFS1F4b2RZeXpnMG1IcXBoQzhyeXhqaG9JaGtFSG5nU0ItQUU?oc=5",
+     "date": "2026-11-03T01:00:00+00:00"
+    },
+    {
+     "title": "New version of popular Volkswagen SUV locked in for Australia",
+     "source": "Drive",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRlNnVTFwLVcxN1VqNV9wYW5ESV9qVjk0ODZVUDRMaE90N1paSklaRUM0QUVocnZ0VG5UY3ZpWVBIRmlZWGloMkhFRW4zbGxYNDk1OWhrdThZdHF6RDBZSzduWW1ZOXAyNXdaSWJHTEdvSkJCVDN6SDhweW8teEp2ejJ2bm45N0VmajdDS2NLU2ZEeU9rWmdv?oc=5",
+     "date": "2026-11-04T23:41:48+00:00"
+    },
+    {
+     "title": "New Volkswagen T-Roc confirmed for Australia in early 2027",
+     "source": "WhichCar",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPemZLZGtweW5FR0dLOF9zSVZqYnUtQnRsSXZqRGxWUEo2RUNnQnNIRlVDeHhBeEkwRnBUemRKU01nTG9vTVNvX0VpYVNpSWNkSU1jMExFSU03bVo5VDdGYVJqSzg5QmdzcFFoazVYNGg5UElIekJKcWt0bk1hSmNUbVpqR0lTNXRpdzlyTWNBamc?oc=5",
+     "date": "2026-11-03T05:59:31+00:00"
+    },
+    {
+     "title": "All-New Volkswagen T-Roc Confirmed for Australia with Mild-Hybrid Tech",
+     "source": "CarSauce",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUU92VmpyVmdkU2xTcGd6Q1liMWp1T1FTLW56OTMwQ2lnSS1qc3h1QXVieV9OeDV2Y1lqcjdOSmM0Z3JZU1V3T1I4M3YzTVRwb0kyYjVlVVBBWEFmQXgyLVFIUWZ2a2pfZ1RmUlJ2bzZHNVRMTk0yblZ5RmpHWmtaN2JneUdfVlMxSUNj?oc=5",
+     "date": "2026-11-03T02:07:04+00:00"
+    },
+    {
+     "title": "Walkinshaw turns Australia into \u2018Walkinshaw World\u2019 for Volkswagen Amarok V6 W600 campaign",
+     "source": "Mi-3.com.au.",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT2pYWHpKMFczcEdlczFjQkl5c2xYSUFUZG5qVzVEUEhCSWhWcE85Sjhidml0U21Sek1qT2t4dDQyVnd6SHdfSzNhOWlZVUozczF4a3pTdnZrajlkMUhZb2F0enVMckFLTVU0X3RIekk5QVgwM2xpOVF3a3EwdnJQWU1xbEd6QjBSNUpUUUpTQjJLd08zMmNoUlViSHZqV2syaks1bE1vS3FhbE5JcFBab0Z3?oc=5",
+     "date": "2026-10-26T07:00:00+00:00"
+    },
+    {
+     "title": "Volkswagen confirms Australian arrival for 2027 T-Roc",
+     "source": "Exhaust Notes Australia",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObDE2Vm1qdUo4c1RNeUNJWXF4VkFhU1dpcGhZSWYwaUxWWTdfMUxKRlNIZUVINjJyY1M4MDY2MGhSR1k4U0tDMW9hYVVZSlo3TU50RnlPa1dDdlljandfMWpPcjBoLW1fY0hpU3hSTHlScDJFSVdTS05pSFlXU2JkWGxyMm1SRENNQkFqeFpLbw?oc=5",
+     "date": "2026-11-03T01:34:35+00:00"
+    },
+    {
+     "title": "Volkswagen builds a continent-sized amusement park in Amarok campaign",
+     "source": "Mumbrella",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUFBzSDVyTDVPRTFfRTlMRWpsRFhEcGNPOW5tWTRXVWZSRkxweTlOaGVEelc5b1QtNlBFQlo3dHFqamw2X3Q3UHZId0ctTlFqNk1Sa0ZORUVGakpsMEtwNjBpQmYzX2t5ZEVaVUxPWGExbk5CNU92aEw1MHRzWmQyazhSdEFKMkh3dnk3T01RaVRUY0RJYk1ib1NyYS1UcHlnNnFZ?oc=5",
+     "date": "2026-10-26T07:00:00+00:00"
+    },
+    {
+     "title": "Volkswagen ID.3 GTI Deep Dive: Can an EV have a hot-hatch soul? VW says yes and this is how it's being delivered",
+     "source": "EV Central",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSDJ6dWVEeHNIWDZrN2FmUVRnOGNIWjBQeUxCR2JMUWFYN0hzakhvZFpBRHdIZTc2T2o5RmVxQXNsNng4T0lOSkZXdy1ZX29TWV92bk9mS2hmTUw2Q2ZOX0hNT0dtZmdDVmhSNWR3dVpZQ2FBV3dRd0F5dGtYMk8wQmpEN2lnNzFaUWdhVUdqQTZaQ0VqYWV1OXFhbmdqN3cxUVNLZE1qZ2puOHRPRWJTUUw2SkxON21lVFNCM2JaV2NZUkFFeng0Tm1ta2NfZ2V2?oc=5",
+     "date": "2026-11-02T05:00:00+00:00"
+    },
+    {
+     "title": "Volkswagen\u2019s Popular T-Roc Goes Mild-Hybrid",
+     "source": "Fleet Auto News",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPd1pHTmRxLUREdEwwZDZWaWNZQVBSVGZaVEFieV9KNVEzZDhnYVRTdnVDQkg1V0VZZmk1Ull6aG5yMkF1bmNiY1ZJT0lkTkdNN3VfbktUNXV4Z25QLU91VXNyY2ZwWFpMQ3ZOTWJhU2M5UzY1LXVRMWFubF8?oc=5",
+     "date": "2026-11-08T19:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "subject": "Ford",
+   "score": 37.0,
+   "ideas": [
+    "The Ford ute battle in 2026",
+    "Ford is slashing prices \u2013 are the deals worth it?"
+   ],
+   "news": [
+    {
+     "title": "New car sales rise as Toyota HiLux and Ford Ranger trade blows",
+     "source": "Carsales",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR2dLTDd2QTY1elFlQ253WHRzWW53UF84RTNzNzk0QndhRVkxV2RZekxMQzNlWEp4czNtUU4ycmZpMFFzVUI2M2JJMHlaRUptWEllVmRheHFsT1FVa00zRUkybkdqdVdRa0R1aUUtQlg1WEM1V0V1QTZXUGtoSjlhcV9qMUN2NExpVl9OYm5KeW5iT3RLYVo4dFJoM1lHQzNYc20yS0tXMjdvSmF6bXBLci1UcnZzR00?oc=5",
+     "date": "2026-11-05T01:22:46+00:00"
+    },
+    {
+     "title": "VFACTS October 2026: Toyota HiLux beats the Ford Ranger to title of Australia's favourite car as petrol sales take a hammering",
+     "source": "WhichCar",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYmNDQUo3OFRrblQ2SE5EX1hiNDRoMkRWaXlFVXdwYzF5bWFWai15TUJra3hoUEpadHlvZC1FVEI1MGg0WXRUSWp1Z1RXN1ZqbVlpYldrcE9Gck5wOGhOTlZSNGw3R0xqRTBxc0Fab29UajFPTmhFQWtqaHJtYl9kZVpvc1NHV0JwSmRnYkZBUml3TVlmYUMzN2k2X1gxZw?oc=5",
+     "date": "2026-11-05T03:20:20+00:00"
+    },
+    {
+     "title": "2024-2026 Ford Ranger and Everest recalled in Australia for rear-view camera fault",
+     "source": "Drive",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTW9GSUs3MU40a2JnendPRjRUVnF4MUgyemZxY0d1SnhyYzVlVWZlemxuamtSV2hhbklGOU12Tm40ejZGZkFiMzZFV2dTYVI1MVNmeV9uenBYdzl4LWdCX21XX3JzazRSaFpBd0tjMjF0NnJuYXdqczBMcFE1VFpna1lPeEhEaXkwVzVlU1BHb1ZMYUFvNERhZnpoNVlOX3VLNGRwSkpzc0ZDWUhGUm1QM0tYTQ?oc=5",
+     "date": "2026-10-29T07:00:00+00:00"
+    },
+    {
+     "title": "Toyota HiLux closes in on Ford Ranger in Australian sales race",
+     "source": "CarExpert",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdGdON252ZWY2MVl4WV9uYTczQ0RrWW1ldExsR2hBYjB5NlA0bXpQemJ4MEJMeHdXMTFaUzNOQUpsNGp1eWRtdy1zYkFOLWcwRDNBeVdKZlROaGVtNzNqM0xtZS1CdEVHTUw1aHM3aC1Ua21wLWw5dm9Mak5kWkN5dGJ1NnJoUXRzcHVXREgtbTZzYkRSbjkzRFdDUFZUZGFqa1E?oc=5",
+     "date": "2026-11-05T02:19:00+00:00"
+    },
+    {
+     "title": "Ford CEO: Australia Needs A New Ute",
+     "source": "Motor1.com",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kbXUyY05HaG1nWTZXUEo0dktRUEZORjRhZlZIR3U0NWo0Wk04TnBBTTJGZFRfNW54NF9UWEpuaUx5RWVpek5VekhzMFBNeGZPS0MzZWVRUVB3SHlkMHkwV2x4V1B0V3g2cm8xQmdvb3lidEE?oc=5",
+     "date": "2026-11-08T16:26:59+00:00"
+    },
+    {
+     "title": "Ford Ranger and Toyota HiLux slug it out as private buyers wane",
+     "source": "Carsales",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORHlyWFNNQjMzTkFRdlhiTjA4N0J0ZVVZQV9pTmFlYVdDeXZNM1hSUzc2OV9tQVFZZ3YwSVZEVmxYVjRiVEE4Qm5Md1FJRGs5OU1laXhWSDJBUVBNaHg5Q2xzcUJ1VVJSdmdyRVQzcU9LTDJVNmd1ZnJubkJRcjl6RHdSQmNNMXJQQ3ZUUkZ2NWRVSmF3b2ptc0dnODg4SFVmZklvOUZCR1pRY1dFLWlIbV8waXF2bjAt?oc=5",
+     "date": "2026-11-06T02:39:47+00:00"
+    },
+    {
+     "title": "Cheaper Ford ute to slot under Ranger in global markets, potentially including Australia",
+     "source": "CarExpert",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX3BsS2RGMkxwU3lFS2xGRmRpX2hrbElzRG1FdnJuNFlfREd4S3k1Q2NkbWdPakxPZnJLX3VRdVRKeGYyU2JMb2o4V3FuUVhVZzNKSjdVMVYyRWFtWjdXczFzNWxkdUUwV2p5Z2VSS05zbDZtTE5YZUZlc3pYWlNIUXRRcXVjLWt1LWtCQmNJSjJXYU1WYk9ZQ2VaWVlmOXR5cjVaUjA5M0ktclpPVUsyMVE0V1lmUzR2VmYyaHhrMjA3Njg?oc=5",
+     "date": "2026-11-03T02:44:00+00:00"
+    },
+    {
+     "title": "Surprise Ford ute takes aim at BYD and GWM",
+     "source": "Drive",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOVBKRVhfVmR4MzM3NEtEMlhOQkRVc3FtZlpPRzZ1MTAwSHprcFNhN0hQemVOMlZFVjhMQ0l2VlpOM0libXZ5VEZCZFFZa3pteVdRZ2drYjQ1aGY2V3hiSFctVnlDS1JJM1pqQ3RNaUtaNk1JRGszQTllODJFekpwVDhfVXRjYmJqRW5reWJQa3R2SUI5SnBBY042RkJzWGJvUXc?oc=5",
+     "date": "2026-11-04T00:08:02+00:00"
+    },
+    {
+     "title": "New Ford budget ute confirmed",
+     "source": "Carsales",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRS1xNlZGRkItNXBGZGFkTU0wZmRLYTFLdjRVdEt6MG4zVGZnVVg5WjJqMmdFd0k5RGNoNEJUanRlNVBkM0EwdnhFVjRfSDFVTXQxcUxCQlNNYkZJRG9FRDIwRmNuUURWeG9SbXdiYm9MSC04elgtZkJMUGNrbmNBTmhzZUNtODRCU1dn?oc=5",
+     "date": "2026-11-06T03:39:46+00:00"
+    },
+    {
+     "title": "Toyota's rare HiLux move announced as discount applied to 2026 Toyota HiLux to boost sales of Ford Ranger, BYD Shark 6 rival",
+     "source": "CarsGuide",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMU51bDcxamx1WHY4ZUhoenc3U2lXdnVMWWZsRkdMQ0dIaXdwRWpNQXNPREVjaGpCeUhkR3dkUmxGdlNnMmlXckJqLXF5VGFvS3pNYldIcG41bmJkeGkxV0dKQlFHcE13RXBFTlBOYjBRS3VHSDJKV1dyaWFVUXVLN3NxeDFieXR6R0RRZzF1QUc5aXdyWlh0YllwbXIzVTBacDVnc3UzcHlGLWx6bm1Xa0tza0lSZ1FYcFZwZEV6X2RaN0JNZ0E?oc=5",
+     "date": "2026-10-26T07:00:00+00:00"
+    },
+    {
+     "title": "Hyundai Staria Load 2026 review: Electric - Australian first drive | Ford Transit Custom EV rival tested",
+     "source": "CarsGuide",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IYldxbXZ0d1Vna3pNQmtFUko3UDZjbzcxVjZYNTlvdTZMWkIweFNyLVhkMVJob21JU1hUUXI0S0hUd2tma0RFZUxUR0pQRHdFVnZ2RTRxWlBhNzRQQzkxNVUxMk45TzZ2NWFVNjIyeXJ2VEZuSFE?oc=5",
+     "date": "2026-11-05T06:00:00+00:00"
+    },
+    {
+     "title": "Toyota HiLux gets $4000 discount amid Ford Ranger deals",
+     "source": "CarExpert",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLTdFNF9XcU1EcTFaOGNKUXFLR2JOQ3Y0TXNubmJnOEpGNXEyMmpVQXl5NFlMeF9Yc2QtM1dQNEQtWGNZZFJ0VWNlbmRYX081RFVwRlp4YUJrT3p2TkpVLXBxMU15Q3R4MkliVDlpaG5sejVNazFPaHpLRjNCMGh0R0llNllaazBRRlNYVWVFaVJVSXcxR2UwZjllSklEVW8?oc=5",
+     "date": "2026-10-29T07:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "subject": "Geely",
+   "score": 33.6,
+   "ideas": [
+    "Geely and the EV shift: winning or losing in 2026?",
+    "Geely is slashing prices \u2013 are the deals worth it?"
+   ],
+   "news": [
+    {
+     "title": "Geely EX2 Hits One Million Global Sales in Just Two Years",
+     "source": "CarSauce",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51WlBmdWIxVWdGUG83SVpxOFBTWnJXbUJWS09EVjZfc3V0aUJlZlpIR2Zob0JkRDNYT3pJVWNvVTA2Ri1vdmNqMTY3SUhKOGY5NGRfbjhZZHp2MWhXcTVvQWIyc3ZiTHkyNkRuUw?oc=5",
+     "date": "2026-11-04T04:47:04+00:00"
+    },
+    {
+     "title": "Where Australia sits on global EV uptake: Booming sales of 2026 BYD Sealion 7, Zeekr X and Geely EX5 put us above US, South Korea",
+     "source": "CarsGuide",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSDdKMlRDa1Q0cUU3WlNHdGp0RzJFMkZQbVZRaTJwRUlQSmtsWFNWaGtXZGhkbEcxQXRXRVlSbDh1RDJqdjRHSXEtUFlFMVpXWDFjZXhuZGx6OHU2bTkyMW51WU51Sko4Y3lVQXF1SGFnTUEwb0dvLUlsRUM3RnRXZWVfNHBkRmZOb1Jvem13ZFhZWmFZMUp6aV9NSEI4eTR6VzBmTElwb1QyQ3FtS1R1REhDeGNEOGdwM0JIbXVMZXVtZFRk?oc=5",
+     "date": "2026-11-02T00:35:40+00:00"
+    },
+    {
+     "title": "2026 Tesla Model Y SUV and Model 3 sedan discounted in Australia in battle against Geely EX5 and BYD Seal electric cars",
+     "source": "CarsGuide",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUnBUZzVsTFVmaThyZlQtb3lEcVRFVThTajRiZWNjci1xaUltYmJSanhsa3U1elJuNnhrUnhSWHJsNmd0Q0VvYUtydFlKTkM1ZFhMeVdMZUZtYUlxajc3ZGdyclVjUF8yYWJ0bmxiZ1dMenJ6SDBWUFo1WHl6aGhoTHlqZ000OGRzelRnQXJtTzNRUEtYeTdwYjhnaThWekNHU0g0MzI1ZDZ4b0haeC1nMkRkYlhmcHhBcGNXR0Nja0U5N2xI?oc=5",
+     "date": "2026-10-26T07:00:00+00:00"
+    },
+    {
+     "title": "Geely launches big deals across its entire model range \u2013 but you\u2019ll need to act fast",
+     "source": "WhichCar",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYVFISnFJN3pqM05Vd2RiMkd3RlVZR0dEMTZjOWRiVUpyS2xUVmFobXNxeE1oM0Jab0ROR2JEekZDN0I5Yy1yV1dwQi1uanpBbk13emdBZHFwQkV3bldBbVRUTGwzck5Zc3pteTdwTzJERWdwWno3U0FQLUxLNFBpWGVZS0l6QU9HcGRsX055S3c5NDdCMnFJ?oc=5",
+     "date": "2026-11-02T00:30:17+00:00"
+    },
+    {
+     "title": "2026 Toyota LandCruiser Prado scores official retro kit as tough diesel 4WD faces off against aggressive rivals like the GWM Tank 300 and Geely Battleship 700",
+     "source": "CarsGuide",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTUtWZm5nWjNfcFpmdFUwdlN2NUZkTTJrNDNoVzdIT29hSlZMQ2hYczltNEduTzNYOHRkdWk2QkxKcEFEU3ZMRXJCemRDcEZSRHBrMC1heThydmJxa3BiTkVxeDNwRzVpREVrRlduMDFrdDg5Y2hEY3lFUTBpbFJVVE9CalU1SlhfaEJvMkFDSW01eUxIVUV3V1p2ZTNGcHVmbDNoS0c5TXh3azh6THk0bDFJY2p6NDBuWHAzaFAxU3M?oc=5",
+     "date": "2026-10-26T07:00:00+00:00"
+    },
+    {
+     "title": "Going Up a Gear: Geely Continue Partnership with Bulldogs",
+     "source": "Bulldogs",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV2syM2k0eW1vbEFJZkRLZElNVThDcjlCMVlJXzJyXzIxZk01U3BEa1ZJUWMyMy0zaEM5aWtlR3djV2tTaDd1a3FtYk93ekJ1cWx2V25pUEF0cFlKMlQ2MFhmd1pLUWUxVlowQi12RnJMbTZLdEtoQm5OUEk1amQ1bk9QTVVza0pLbmw0RjVKRDFIR1BoeUV3cTdWeEo0Qm9DNURj?oc=5",
+     "date": "2026-10-29T07:00:00+00:00"
+    },
+    {
+     "title": "Geely Auto Australia extends partnership with Canterbury-Bankstown Bulldogs",
+     "source": "Mi-3.com.au.",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOV9uSzZ4N2RIZnRERDNMaGFELUp1ZlJtLXFYTXFFTkEtdlM4TEtoZV9NejdqOFRYWUJBWE02Sk05VHdQVUxaVkJ0QTdGa1VRaWZKV19wd3B5UlI1dXowTTk5ZXBJQ2p1TjBrMl9DODVMcERoTkZCbmljZWdvLXpPNmZBWGNxd1gzWmVKeWxFd09GTEk0QnJENWtmbG9sRUtwcmJlN0V0QQ?oc=5",
+     "date": "2026-11-03T04:52:08+00:00"
+    },
+    {
+     "title": "Geely launches methanol plug-in hybrid sedan with 1880km range",
+     "source": "CarExpert",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWk9EenE1Q1Z3aVB6eDMyQnFHc3cxV3hydE0yZEpWd3BBc3Bqb0FZTXZsc2ptT0N4MGd1NU4wUmZyNm0xcE5vakZERXFjRGNRUEV3YzJvRi1xRmZIZE9TT2U4MWZDYndlUUxoT1k3WlBMb0dyUVpydDBmbERQYW9xLUp3MW1EcS1HT2pVakloX0xUYVM4ejBfY2RfV3hTbmRuWEE?oc=5",
+     "date": "2026-11-04T21:49:00+00:00"
+    },
+    {
+     "title": "Geely sweetens November sales deals",
+     "source": "GoAuto.com.au",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNalZkbjI5cUFFeVF4R3d6NU9Lam82MFg1bHE3aERscWN2R1pUaWh5NTZrT0I2dGtjX0NBMmptZE9haFpXSE9GclAydHdkVTFLeFh0ZFo3aWFaUmVoUFZCTGlyMkZMejM1MU13eWU2QzVPMUtWZW5aOXNKb3VuVlhRY19GdXpaaGgzQXZxVEhHMUFLRzFqTjBLZFlDTQ?oc=5",
+     "date": "2026-11-03T00:32:29+00:00"
+    },
+    {
+     "title": "Geely November 2026 Offers: 0.68% Finance, Evie Credit",
+     "source": "Zecar",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQVNvcTBrYkc4ZmhxMGNSckdyT01VMHpVM3dyOUZBSUFwNnlodXZjODdYMmVPRHRjaTdJd0hmSHVWSnFvWVU1c2hXckEwLTVLaUlvUzZQOXNQUTNlQWt3NDFFUXVTbjBIRjRGNUhzS3QxeXJuOXpyR3pBRE1wLXdrUTI1MGlqV1o0?oc=5",
+     "date": "2026-11-01T23:28:21+00:00"
+    },
+    {
+     "title": "ENERGEE Showcased Geely-Backed Battery Technology at All Energy Australia 2026",
+     "source": "The Times Australia",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc3FUQW42QkE1NDJoWFBqanVJZV9kdndhRjZmc1FqYmRqSTJmaGdCa0NyZWphV09SZ25ZQVJRZ0JqcjQ1enBtc05GYXVJU2JEN2VXT2ZoRGJEejdTNzZFczVqRnlvZ1FxSnhqMmR2Nzk4am9PSkdZU3V6aXRGaVVIVWxpa2lVM0c1MWlWQzgyS2tLSUdDaDFXSmNQNHJJZmJMdFh4YWJtUC0tY0p5Yk5leGRwVzhLZURBNU9fd2VvZw?oc=5",
+     "date": "2026-11-04T08:00:00+00:00"
+    },
+    {
+     "title": "Geely launches hyper-efficient new hybrid sedan that can run on methanol",
+     "source": "WhichCar",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQWVrallEeXNaNU1EcWxwTjJYdVV6T0V6OUR4ZDF1Uks5bGJPc281Rk41dkRxUU1SSVVPeDBOb3Q3OEluVWNjbURfUEZlaEk1UGhjNXNQLWlodlo2ZkxPTHBVZTdvMExRdjUzRDQtWVh1d1N6Y1FZcVNEeEE3MnpDdmh4SmJ3OUxObzJJ?oc=5",
+     "date": "2026-11-02T08:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "subject": "MG",
+   "score": 33.6,
+   "ideas": [
+    "MG and the EV shift: winning or losing in 2026?",
+    "The MG ute battle in 2026"
+   ],
+   "news": [
+    {
+     "title": "2027 MG MGU9 EV Price and Specs: Electric Ute Now On Sale From $78,990",
+     "source": "CarSauce",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ0x5NU5VMnZmd1ZBTXlzQS1iWXEwSDFmNXdLMTgwcDBDYS1qWlVYVmtMZWQyTno5T3ZBWGViWEg4eDlKNlcyenZDM0pXNlh2WXUxYWt0eDRPYVhkbmRYUS1nX3lHeHktc1FJandRSk82WjdSSWhaTHktcFA3N24yQQ?oc=5",
+     "date": "2026-10-28T07:00:00+00:00"
+    },
+    {
+     "title": "MG and Thule to strengthen partnership",
+     "source": "GoAuto.com.au",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWXBQUTRYQmIzYVdBalBqekJtZlF5aEdGdlpCay1RV0RkVndhSGMwQWJwVTlTWGZ1YWxKMWJnZ1VnUGRIMXBFOXpKVVhjT3Z1N1gtdWtTdDdwUm9mTlVIbWdmSnZURUQ3MTJKaW9ZSkRLZjFjakVHQTVWUkdIQ0RRWGhyZHpDMnFzSU11b0JpczdJc21yV1pDME9KTQ?oc=5",
+     "date": "2026-10-27T07:00:00+00:00"
+    },
+    {
+     "title": "2027 MG U9 EV review: Quick drive",
+     "source": "CarExpert",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nenFvMy14TnE4c2lBYjQ2Z3ZDYVRISkt2bkpmN0JSaUdRWEVZOGFDODNPdUlpMTJFS1pmSm1YNm1OaEhtOFFVTDE3bFZQUXdOU3E2S2lxN0o4YlhiQUU4b3ZZRTlsY3ZSbkpXa0R5Y0djLTc5dHBmT1RrVUtGdw?oc=5",
+     "date": "2026-10-28T07:00:00+00:00"
+    },
+    {
+     "title": "MG reveals why it isn't worried about the huge influx of new Chinese car brands in Australia: 'Let them come'",
+     "source": "WhichCar",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mY29WMExtZEtPdWFCc3hMSDdEcl9DNVNRYTFzOTdLaVpOd1UyT2FkdTVncnBDaFpOX2VNV0dCSVN3SnVPZ29LOFdkUVZVLU9vS0VoR01vWnctS0dxdXZKcVRGT2M0NVJwU1VOMnY2V1ZHSUV0S05HS1E2cw?oc=5",
+     "date": "2026-10-27T07:00:00+00:00"
+    },
+    {
+     "title": "Australia gets first taste of MG\u2019s electric ute",
+     "source": "Fleet EV News",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSZktocGVoNG1CMWFXZVRwZWpTc3ZnOXJBNXFWOXZlcVRZSFZ4SFhYYkpmVlhNQWZNalZlQnM5bHRzbmdRWlRtTHN5d3YxR05xWWtmSUxRcFZWUjhhNUItMjVsRHlRWFFXSE1aM2dhcVJxQmRLcDc1Uk5xbGlxYTQ?oc=5",
+     "date": "2026-10-30T07:00:00+00:00"
+    },
+    {
+     "title": "MG U9 EV electric ute price confirmed for Australia",
+     "source": "BabyDrive",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ONTJLXzFzRzhKZ0tzbmFfX3Vfc1dkQlc0U09uMlRfdTNhSV9uN0pjRW9zQVpnVmpvNlNGX0k5ZUs5cGx0emlZUGxTS2l5X2gzMHFmWjVacHNfSDRYd1VPOVQ1dUxyaGVWbUE?oc=5",
+     "date": "2026-10-29T07:48:41+00:00"
+    },
+    {
+     "title": "Old v new luxury showdown: Which is better, the Lexus RZ500e or MG IM6?",
+     "source": "Drive",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVURDa0JKZzhBNlFLeVp3d0JhbFJyYUlFbUVZMWFWTi1DQkVzdmg0Y2JlOWlHc3p5LVpTUUg2WmJRTzgtUjNRUXNpSmNFZ2JPamRiRjhWZGc4Z2U3ZmNlYzR1TkpVWWVoMXhsVjB5UEJJNTcxazFrTk53ODdIdXNJQ3hNSjEyVUl3ZDVvUl96VzZPQV9adkZ1RmFxaUJmQ29JeXhXT0Zqa3RyUlFfR19veFFBTkVBOU9qM1ZLQlZHZzR3VGpTRTZV?oc=5",
+     "date": "2026-11-05T00:31:44+00:00"
+    },
+    {
+     "title": "2026 MG MGU9 EV Review: Australia's Electric Ute Tested",
+     "source": "Boss Hunting",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ERm5Dbl9ZczZucUpySWRuTlFaWklCYkdWU0I2QmZtNkJxYW56SnY4U1lpUGJ6ckdhbHE3V215Z1hEek5KWUNRWHY2UXVPTHhBdTFsWi1fOGJiaWFfWTJOUzVFcE9ibndUOXdoR2JiOEVDN2xt?oc=5",
+     "date": "2026-10-30T00:31:38+00:00"
+    },
+    {
+     "title": "MG Motor and Reese's team up for Halloween brand activation at Sydney's Ghost Festival",
+     "source": "Mi-3.com.au.",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVVRhRElRTG5FZmZKX0VZWXdZMEZaVVphT0w2RzdmWnlzelg1akphUjg5MkF0SFAyOHRSa1ZRS3Z6WldXS2N0NE00RmFtNThkRFpqeHRQY0hNR3V3YVd1dGZzSlVSVC0wWTMzeHFvR1FfRnF3bFl6WDJkbEZxcFlXWmpnQzhxa2REc1B6R0dPaWhfX2p4dW1jTFhyNXNUNVJYUFh4cFRfUFh3S0Fkdnc?oc=5",
+     "date": "2026-11-05T21:40:10+00:00"
+    },
+    {
+     "title": "MG U9 2026 review: EV - Australian first drive | Toyota HiLux BEV rival tested",
+     "source": "CarsGuide",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1M2dmZGQ5bm5QdmZlSlA0QzVIdVNzWHlidnhGOE1UcnRtbHE1U1kwc2Q3RzZfTVZkeV9tUWRsb0VhM1pDTGpBX2VZb0VfZUNRRXpobkx1OUpQNW8?oc=5",
+     "date": "2026-10-29T07:00:00+00:00"
+    },
+    {
+     "title": "MG offers cashback on its larger MGS6 electric SUV",
+     "source": "The Driven",
+     "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOT3ZFTjZ2alBDaVMzTlVJMlo1REU3eXFPNThibjMybE5nSHZBQTdlNnhRRERYTTdsam5OVUttQW1WSjNYSmFMT09CX1Fxb2FOOXRfMGM0ZHFMR0drSUZsMWwwZ3BaNjlwalpNSUF6MUQxWlhBTnN2SS1jQy0wbVk4ak9GZkUzdmFYUGpBX0Y3MXBqVFZXVlQzWEdFcVk0M1dHZmk0MkdDLWoza2d5bU9ZRVkwSkhIMUpzM1V5cEF3UXY3SE9RczVoZkZvejZINlZOb1R2blNWOGVIUW9sdG1Ec2FRanF5ZUxHWFloN0MwNTNhcWpwOVpraWJySjdmcjg1SkpXb3pQNFU?oc=5",
+     "date": "2026-11-07T08:28:00+00:00"
+    },
+    {
+     "title": "MG says plug-in hybrid U9 ute is still on the cards for Australia \u2013 but will it arrive in 2027?",
+     "source": "WhichCar",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaDJoQjZBTUh2QzlRMmdhdzc1YUx3Wk80UE9CbE5RUDRGNjVoa21kZTJEQ09UbWFkanR3TGRjTGNYSlhZYjhpeG5SMTFPeTdYSE9IZVpFZFdnSnNnR1hEbVNpWVZjTlU0QUxYUlBoY1V6TFpiQks3d0xkYV9CNURmU3ZTVWM1UmdmamVjWA?oc=5",
+     "date": "2026-10-26T07:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "subject": "Honda",
+   "score": 33.2,
+   "ideas": [
+    "Honda is slashing prices \u2013 are the deals worth it?",
+    "The Honda ute battle in 2026"
+   ],
+   "news": [
+    {
+     "title": "Honda to grow in defiance of Chinese cars",
+     "source": "The Advocate | Burnie, TAS",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV1Q4VEdvSDZOXzR4TFRMUkY1MkRUcUdXdnFMSDFhNW9KNml6eTFuY0tFbXY2eUZRdFlvLUc0elpqWUVtZUVnd3JJeEtRb0pEOWhhS0FjOHhnQkxPdk9sdjVIdWlNSXNGc3JyZEY0VG4xUExRV21qOXk3SmhGbmlyZXlHVHlJcE0xLXM2MmxVUWo?oc=5",
+     "date": "2026-11-07T22:49:18+00:00"
+    },
+    {
+     "title": "Honda's Toyota Kluger rival confirmed",
+     "source": "Redland City Bulletin",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbzloZXcwdlVBbEN4UDlXUDlqc1ZpblNkMmdlMGRGSUtfUGFOb2JBVGdkOW4yZkowbzFhN3VZLVh3clhLZGlmRVdiT0w4V01jTjczNDA2SV9sV1Q5Zm9SQ3RxS2pXZXVvQnRZWExDZXJ5Y0x5QklhcjBZa2stcV9WVjNfdFdQMkxNaklwWk4zOTZ2RURk?oc=5",
+     "date": "2026-11-06T11:30:30+00:00"
+    },
+    {
+     "title": "Honda Deals: Up to $3000 Gift Card and Five Free Services",
+     "source": "https://www.carseekers.com.au/",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWXBLVmxncVhvQ1YwYVVQdFNoM25yaXBMWHFTNmFqOVdtckE2aU5xUnNoYWwxcHNTR3h6OGZvdk1QdTNWU2twNGluYzFiQWpPaGxtS3hRWXZyU1I3N0w2R3RoMnhValBsTDVQalp0ZHlzMU9QM05xTnFNdWN6VXdlUkVxaW50QmM?oc=5",
+     "date": "2026-11-01T22:13:21+00:00"
+    },
+    {
+     "title": "Honda announces sharp new car deals",
+     "source": "Glen Innes Examiner",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQTN0QVRwRWJ5NzEzN01yVGVmWWpCX3ctWnk3dzluRng5dWZuR0FrakU4QkNzRUUwc3BBb0htRDBhRVdLMmtLX3lZNUVPNG04ZTVnbE5SMF9pZFNiRm43a0Z4NFF2UWlhNlY4LXJTOERfSGFucUo4a05zY1E0cGFlZmZ6VC1mbWRCcTlkcEVtVU0?oc=5",
+     "date": "2026-11-01T04:07:59+00:00"
+    },
+    {
+     "title": "Honda unveils bold deals on new cars that could save customers thousands",
+     "source": "WhichCar",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc0xoSnIxTDdXbFNGcFZ2OHRpRmVZYmNyazdIVzVJSVZTSV9scURMcnhTNENGV3UwN2ozWnRFLXFoMjZBVzFNVk5DNjVjR1pOWkVvOXZ1QkJJQm5KekhTSTl1N2Nzd2gwVE1Jcm4wVG95V2NSUGlfREJqTm53cnRFNEVkZkZMM2hDS0c0TzZETDQxUQ?oc=5",
+     "date": "2026-11-01T22:55:05+00:00"
+    },
+    {
+     "title": "Honda's ute plans for Australia revealed",
+     "source": "Wellington Times",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMW10dUdXMnZ0NEdzTkxMMEs1T3dTRzJWSnB0RU1ZX2FIMTdsRUJkTElEaXBmc2pJWWJUWlVwaU5SS1BWNkdycGxOYTN2ak0wdlQxTlVsRDBwUDB4bkJPeTFRR0V3d3M3Mm14TW9tRzd4cHhvVXhBcjJodm5pSXB6VDl3OS1HM1pZZk1RWXRCTkE4OFU?oc=5",
+     "date": "2026-11-03T08:24:21+00:00"
+    },
+    {
+     "title": "This Honda will be the first of its kind",
+     "source": "Drive",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSm9yd1F6QU9FQ0RmRXJHYWt4dVhKRlhINklBR1c3S0UzLXdCR2FrQUtFODREYlpITkw3VzFiVzk4dkNlS2xmUktJYkZ4YXpXR1c3YkI1Q1hSS0ZHajN3STYzOWxNSjRHZFpjUzh1dm96Y1FHR1Rpc194cUFBbTgyRzlsSGZtUmdfOF8wLU9RTDViSTY5S0Q5ZldKcnVCWnlwM1NUWHJIQW5RRV9CTmViaQ?oc=5",
+     "date": "2026-11-06T04:00:22+00:00"
+    },
+    {
+     "title": "Honda Avancier teased as new Hyundai Santa Fe rival for Australia",
+     "source": "CarExpert",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObU1tOW11WXNTcm1KakdWX0N4dzQ2ZFpQZzBvSWpjbHEyU1VMQmVYY2cweWZkMFBoUVJHdVZzN1VZSU5lVWVlY2U2a2FRWFN2ZjBfa1l5eG9JYzc2WUgyU3BWNUtkYThfTEExXzJHa2piLUN5S0J3ZU1FSklBODJYYV8yb2llZHNSQlJxcFlJcWFLX0FyZ1JuM240QXhyUkY2aXZhSmFn?oc=5",
+     "date": "2026-11-06T03:51:00+00:00"
+    },
+    {
+     "title": "Honda Avancier Teased by Honda Australia Ahead of Reveal",
+     "source": "CarSauce",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rU0xCTm5jRmt0MFVpUnptc1NHVTRWekxma0ptUE5rUmRsLXRIREtqTzg4OXhUeTd5SEZJZzVSUmVFQmNPb1dBb0pMVjJaMTNHMl9wbUJTdWhGRHdHSWxLMVFBVVk0T3JMNWtmWW04UW54Zw?oc=5",
+     "date": "2026-11-06T07:47:13+00:00"
+    },
+    {
+     "title": "2027 Honda Ridgeline: Honda Australia is plotting to \u2018get in early\u2019 on new ute to rival 2026 BYD Shark 6 and Toyota HiLux",
+     "source": "CarsGuide",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPa29WaHRxeWdOMU9QcG00VlFVb0Z2RlN0ZGZoZlpfcWRIZVctT3l0NTNHV1VBTWFSQ1p1cTl6bXVoS1NramNDZ2swVmNuajIzeGpaazdnQmhfbWEyVWNtX1dwQVBmOE9aOTM1UUhDN1RlVkRSNHlnUnpDQndqUGpIRGR6dFRuaFBfVm1Dc2ZlMGFmRDY2dGpxb25sb1pOclFsMUVaTERfWUt5REctdEtQaFlVNnhWNlN3dXJuYW9EVFlpTzV4d2c?oc=5",
+     "date": "2026-11-03T02:10:09+00:00"
+    },
+    {
+     "title": "2027 Honda Avancier teased ahead of likely Australian launch to rival 2026 Kia Sorento, Toyota Kluger hybrid three-row SUVs",
+     "source": "CarsGuide",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZE12cHpfWTNpdUx6VFBiMk9JSHdRaUVYOU9TSTc0dU55aEFnczd6UGhtOG5wenZFdi1rSUt0b3ktekk5RGVNRnZ1dlljLVU3YmhrQkRLS2huenV0R19JVXh1b2lDV3V4MVNHcVRXSW5JcWpYYVZWM19yZHlSSGE0QS13Ump6bWVPS2N3S0tMRkpLbzhVcXpfdlpNcjVmLW5idnlKdW1UZi14NkpaUzYyczJjdDllZzJ0bnhfci1wUUdWZw?oc=5",
+     "date": "2026-11-06T05:25:21+00:00"
+    },
+    {
+     "title": "Honda Plugs Into Home Charging with Ohme",
+     "source": "Fleet EV News",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBENkpmQkRIcDZ1SEM2Z0FjRjZYU3RSeDFNMjM5Q0VlVXNlaURCeUVRdGNwcl9henRESVU3UWpzVUpVcEUyNTRrbGpoT0x0RDI5NnRSR0dvbFhTYUE1R3JtYkRQWEZZMzY0VEVjb3dHMF94NF9jVldB?oc=5",
+     "date": "2026-10-28T07:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "subject": "Haval",
+   "score": 28.9,
+   "ideas": [
+    "Haval and the EV shift: winning or losing in 2026?"
+   ],
+   "news": [
+    {
+     "title": "GWM Haval H7 pricing confirmed for Australia",
+     "source": "Carsales",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRHU0bnVnTUlxclVEdHg2RllXSHFtbjRsQTVnQTdYOVQ0eTA4Qk5oeC0xNWM4c0dqdFByazIzQnBOQ09xVzNkRF9VeHZubVVkVUo4ZUZ1cXdfUDRjV0FZRUk0SG4wZkU3Q3RSeGRRdEIxYmt3X2F5cVpBUHVmSEcxbTgydDVPc3VDRkx2cVV0M1BBR1VEbm8xa1lvQ3BhQ0U?oc=5",
+     "date": "2026-10-30T07:00:00+00:00"
+    },
+    {
+     "title": "GWM's first electric Haval revealed! Jolion Max EV and PHEV confirmed for Australia as Chinese brand targets SUV domination",
+     "source": "EV Central",
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbWxnQjcyYVR4VDFwMmVQVzY3Z2RTYXNmY1ZLUXRpOGN4QkE3NXo4Nlh3Y1BfTXZYRVAzUHRkYjB0YUF0bzFNVHZEQkRmRHlkUE01bXo0TVgwb0dWZ2d2NVpnQS1XNmw3ZXppTldFZzNnbzNSdXIxZXVJcDV6Nnc3dVFHek9LcDJ4bGxZdHVwM0ItbUJGVUVTcGVCeEtsd0tVOTVsX091bVFzMTR1d3Fyb0tSdFlFVElGby1fSzhENUo4ekt1UlQ4TFJYQjl3dHJPeTVGUU9ac3JVRng1SFI2Yg?oc=5",
+     "date": "2026-11-05T23:00:00+00:00"
+    },
+    {
+     "title": "GWM Haval Jolion Max revealed ahead of 2027 Australian launch",
+     "source": "Carsales",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcE1jZ0o0NEJubFRGSXlIZWY5c1FqRW9OMDg5NHR1RENwSFR4YmxUdUJLVkpZYzdmSkZ3RlNjZWZaNFN2OEhjZVBuZjJOYzFENFo0dFNINGp6UkNUN2FrakE5R29qZzRwbVFueXRfb216T0ppTVZqNHdHQUthSDROQkFtaWtkVXBXNVMzd2lYay0xUS1RZkFqQy0yUi1KZmJ5cjdKMFRPSWp0YlZRVFBmaHM2b2dfZw?oc=5",
+     "date": "2026-11-05T23:39:26+00:00"
+    },
+    {
+     "title": "Haval H7 Arrives in Australia as GWM Confirms Two More Medium SUVs",
+     "source": "CarSauce",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbmRzMk5kaDR0NnYyRkE0UjBqUHFHVnVraDlNWG1uTURhdktSdjdVQ3JRWm9LUjQ1SE1oaXhBRm8tT3FYWTNKVFNWb2loM19vSExBbnBKbDJuTmNJOFZ6cjMxR3NmQ2tlekJTSTlRVVVqdFNLWGFfQTFQUnFPdThveGJVYUVhMWw0N2Fj?oc=5",
+     "date": "2026-10-26T07:00:00+00:00"
+    },
+    {
+     "title": "Haval H7 2027: all-new, all-hybrid, medium SUV range priced from $45,990 driveaway",
+     "source": "Chasing Cars",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVGxqdHp5dFY0V25lbEIyMkY5alczaVotb3FtOGIyRTRON1hRZFFrZ09BZDRZRkw0Qml0OXdieFVoNDlySm0ybXFpUVpsMGdSQ2pRbkJIdF9JUmpXUVVDNXo0eWVISGs5Nk44dW5pVDNrYXlZM3NwcF9hY3J3OEc0V240aUkxeEt3cldiaFJFQzQ2UVRSWE5SY1IyNzVycG5mbmhtWUIzR2kzeXVaVFdyTENHdGRSNi0yVm5pY0hHUWUzczVvLXVDbA?oc=5",
+     "date": "2026-10-30T07:00:00+00:00"
+    },
+    {
+     "title": "2027 Haval H7 pricing and specs: Hybrid-only Chinese Subaru Outback and Nissan X-Trail competitor gets sharp price",
+     "source": "CarsGuide",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOXy1zVVNoWFUyc29XOEJvc1ZLTnRISVRXcG1FQXRWM1BUMGViUFo3cGh0NjZDVmZ4SzIyMGFoWFdlblZadUtDNURFdjdVV0lESm8zZVFkTGtHNVdWTTljMElIVEkyQTREaC1KMlZkdXRhVGFzR0Z4OTZrSUxkYTNjdmZHclk2Y1ZhXy1nS3YxSzdaUkw0S3JVTFQ1dGtwLTFrcjlZMERjU283Qk5wX1M3NHhlZFcxbmdzcWRJWDU3VDA?oc=5",
+     "date": "2026-10-29T07:00:00+00:00"
+    },
+    {
+     "title": "GWM Haval H7 PHEV Priced From $49,990 Driveaway in Australia",
+     "source": "Zecar",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwRDl4V1c2TmNUemZWTUlFR05rVXpmV09OUjF6RF91Uk9fTXQ3M1lOc1lnTHdaelVKcXBneTVBZDhjX19LYlBFQWJ6OVVUNVhINlB3NTViWjgxdlR5UG1VRTJydHNKNVIwWS0xTElSMlVfZmM?oc=5",
+     "date": "2026-10-29T07:00:00+00:00"
+    },
+    {
+     "title": "GWM to launch 14 new cars in 2027, including 2026 Wey G9, Wey V9X and Haval H10 likely to battle Denza and Zeekr",
+     "source": "CarsGuide",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN3VLYkRCa1l6bUtXVTlUb0I3NTQ3MDloNFE0aFl2eTFMVWhYcFQxYVJjdkdfUUpod3ltZWNVY1FXVFNXcEpxMTQ5MTljdi12bktDUlA0dTRZZk9ab3JxZVhlbTVQcXduVTVYRTJTMzlYdDM1djVTZWtLZTVfWEZBZkU1empjRzU2eUVJeEhTZDJ5X2tmOHpqb3ktMkNwRXZJWmNxejR2WnQyVTI3VGNzM0hCM1U4cXZkWi0zNi1lNVI1dkU?oc=5",
+     "date": "2026-11-05T23:15:28+00:00"
+    },
+    {
+     "title": "New Haval H6 Spotted in Australia Ahead of 2027 Launch",
+     "source": "CarSauce",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVWZhN0gyQm9MWmlhbXd1cGFwZVV3YldLaHhKNW5OSDBldGxPNkVPOXV1Zng2cjVxQnBYLUF1dmc5Zk0ydkZtdks0VDdiVHNJenVQZEJKMVNudGNGRUV5cC1pRzJMOS0wWjNUZEc1WHUwOV9SUk9QQWRYQnVKdHVqRnMwZmhHTEU?oc=5",
+     "date": "2026-11-04T06:27:05+00:00"
+    },
+    {
+     "title": "2027 GWM Haval H7 Price: Hybrid vs PHEV, Lux vs Vanta",
+     "source": "https://www.carseekers.com.au/",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYmlwaXVSREt1UWhaNkRvSWJmVVdhczVUVEgxd3laSG1TV3FjN3FVa2tpZTZzTWVkWk9RV25FWmZIWTA2UG1laU4tbXdHV2xYc1lYNFYtNldUZDZuOXBVNENmc00yTlRQZlFqRlVYRkNtYnVvTHd3ZGNXRGdqbEdlNXNwWkQ1a1U?oc=5",
+     "date": "2026-10-29T22:15:40+00:00"
+    },
+    {
+     "title": "GWM prices new Haval H7 from $45,990",
+     "source": "GoAuto.com.au",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZFJzUU4teHF4a2lkaFk1dHZCR2ZyV2ktdkY5X0QtVWVLVlJ5M0hwNDhBVlR3VU0ta1gzMUU5OHdpWUdvU0hMLVFyUlVnMi1sZXNaU2Eyc2ZlS0FTYnpGQ1ptWGVkYWV0T0daT2JMNFZGNndFdzVpVVBYdXBpUjlEUk1VM3lyaFZmTkl4WlpGLUNkcXFQUVdnMF95QjJEY3BKUWNraHJrWExQcnUy?oc=5",
+     "date": "2026-10-29T07:00:00+00:00"
+    },
+    {
+     "title": "2027 GWM Haval H7 price and specs: Boxy new-generation PHEV, hybrid SUV reaches showrooms",
+     "source": "CarExpert",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaTFhcjM4S2F6Nm83QVBVc09SNHFJY2sxS3hJSHV0Ull3SncyLTdibjBHRW43ZFhSMW5RaHpXRkhOMFRrMVVQWnlkbEdmNnRxNDR2ZlItQW1FRGNOUmZ1U280Szdhc2E0ZmxWY0J4M1UyN3lpNWx4dEVMVFV1cEhFeGd3Rmc0SW1lZkpJclBMbGc5cU9xdURRZUctOUhMUV9rZWlGR3ZnQUZoNXRvdEpNcDU5WU1kTGthT292aGJMc0oxQlU?oc=5",
+     "date": "2026-10-28T07:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "subject": "Nissan",
+   "score": 28.4,
+   "ideas": [
+    "Nissan and the EV shift: winning or losing in 2026?",
+    "The Nissan ute battle in 2026"
+   ],
+   "news": [
+    {
+     "title": "LandCruiser leaves Patrol in its dust: 2026 Toyota LandCruiser outsells Nissan Y62 Patrol, but moderate sale for hybrid version",
+     "source": "CarsGuide",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbVFPVDl5TXFpOWV1bE1Jb205WUdpY1ZSUV9COVVtWjluLVNnc01CbUlOQXJnRVlaUTVhTGE4WnBWODM0QkVYc3JKVG96RDlLVnYwMzd3Skh6T04zNGkyc2lXcFpOYURQZkh4cF93OXpSZHI1TE12Vk96X1pveUdlbE1oZS0wdkppVTNGWmpZSEJDeXRfZGw2VDdyUVpZMGNLZDdoRzdodHVEU0phdmRjRUI2OTBzSzRjVVhxTVRHeFZVSHc5?oc=5",
+     "date": "2026-11-02T16:00:00+00:00"
+    },
+    {
+     "title": "Navara PHEV could outsell the diesel, says Nissan boss",
+     "source": "Carsales",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPblplLTYxSElvdWprd0hfbWlFOUU5b1YyY0J2TkdBNlJ0UHRaR1p0RTIxSGlQemd5VjdHRkZXejlEY1czMzc3R0RwRi0wSW1yU21sRkN5ZFA3YjhrX25Xc0RYcU83Y1FQSDVHWTVFSXpycUZSQWpWQmRDQXJOR2VoNUx4UG9jMk1HWnJmWU1hQ2xHOC1HRFlvRVlUblJjT29OQmd0alBrWExWXzdidldlTlFSUDZPSHNSUm5LYw?oc=5",
+     "date": "2026-10-29T23:43:06+00:00"
+    },
+    {
+     "title": "Top six cheap used electric cars under $25,000: Second-hand Hyundai Kona, Ioniq, MG4 and Nissan Leaf among the best buys",
+     "source": "CarsGuide",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTDl4YkN5dU5rc1czS0VTVTYyU09fekR3U243dVdjUmNlcEJpZHVlbXFZbWFzVFlNaUw2VzMxblRYMV9QX3pYYkZOYnBKWEljUVdlcEJGUUhrOEZBeWd6MGxLRDNRRTBjS3MwQ3lRZXd0Qk5ZeDh4UUd1Tk0wUEpJcGpidUNLemZSWTN0TUZhUEJvOFhYQ0tnUTAzZGVvLVAyUnVGWFZzVmNjQzNGamViSmZkTFEya0dNY0hpMGFGMHIySEZtN2Jz?oc=5",
+     "date": "2026-11-06T16:00:00+00:00"
+    },
+    {
+     "title": "BYD replaces Nissan as Hawthorn Hawks AFL, AFLW sponsor",
+     "source": "Torquecafe",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2TUJwOGhhNWVXdTdGNDgzZU02RG5ZX080VmxadFdWY1o1ZFM5QWlIVDl3LVczMUp1cTBGYm9zUldxMEtLZGt2UHdHekc5SHhNcDJXeWxJVlhKT1dvenVzaEZua2VVZ1FjOGl0RXhMUllGX0VVRVcxendwMW0?oc=5",
+     "date": "2026-11-04T01:41:43+00:00"
+    },
+    {
+     "title": "2027 Nissan Patrol 4WD orders surge: Australians lining up to buy 2026 Toyota LandCruiser, Mitsubishi Pajero rival",
+     "source": "CarsGuide",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWEFBTmtfSmNRUkpNQkZDZUFRR3AtYTFqaVBxdU1RRmt3NUd0T2pHZHY0Tnh6SUN1cmo5OTFDMllabG85TTNkUkVpSUxJUUxvRFlBWXFNRWNfYkF0eVNLdGl5NVRhU3Jtc2E0Y3hMS3BaY000X05XSlRlYnB1Ukp0SXNib2R1RXRxT3BEaldlY2V6cC1zNFlYaThkQ09oaGQzcDgyM2pjZkFoTHRIeUhKVk1TcEtYNU1KRDd3VzBUTlJYSVpO?oc=5",
+     "date": "2026-10-29T07:00:00+00:00"
+    },
+    {
+     "title": "Nissan celebrates 60 years in Australia",
+     "source": "Carsales",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb3pTUlRxYnJITnlMdVlrSG5ZQlkzRWE3VUhzbUZiR3RUOFJyWHlKbUg1VDJNNXFMcFVWNWQxci1vVkFUTW1FOWtJVmJMVHc5X3JyazVmWE82Z0JySFhSSC14clRIa0tnVlVtcTFmOU5MTzFkQS1uazJ0bmpUREd5LWJDU01WbHgtT0FYcFk3QTBKN3Q2c0VSdg?oc=5",
+     "date": "2026-10-26T07:00:00+00:00"
+    },
+    {
+     "title": "Nissan Navara Pro PHEV confirmed for Australia",
+     "source": "RACQ",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWDBWek1rTkRXTlBCejlBcDFMSFp0dWxCN2k5RnEyUTZOOEhhZmdMdG5GalpuU2Z1OXIxM3V4bWxMSVFJWDVZWnQwUEU2NFNHMGdGdzRLSVI1eXk1bHplUjBLNzdSbjNTT1drR1JvQjZ1SVNROGJ6c3RFWWVSbFdIa216VUJwdDFrbmx0V2tjNEh3d3JCcUE?oc=5",
+     "date": "2026-11-05T02:54:46+00:00"
+    },
+    {
+     "title": "Nissan's Navara Pro PHEV to sell alongside diesel Navara",
+     "source": "Drive",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOFkzZkVSLThUUk1fWWJneHRSWDNuM213SUpYS1J0WF9BV0ptNEpWc1I3emVmQ2dVRGt5WERUdDBpdVJfZE02b2RRX3Vnb3BXMXBMWDN4OXRnY2U5ZXptbVE0WVNBVU1aOG13YU5UVzdVYms2d0pzRkVpZzM1T1gzQlYxNVV0UQ?oc=5",
+     "date": "2026-11-03T00:11:10+00:00"
+    },
+    {
+     "title": "Affordable new Nissan SUV on the cards",
+     "source": "St George & Sutherland Shire Leader",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObVdUOXJYN2IyeHdYN1lKSnJ4UnVJeU1QdUpoYmNYRmw4MnVEMmpNeWR0MS1yc1ZDeXZOVjBMZ0JwZkdrckxKaVk4T1NVTnpUNWRaRWp5N1NPODB1Vzk0dlFWWkFQM2JUVjM5NnBMa3NZZURmZG1SODlUTlNSQ2NhODh6QXVMa1FLcnFNM1J3VXZSY3Z2dTFPSVdR?oc=5",
+     "date": "2026-11-05T22:03:26+00:00"
+    },
+    {
+     "title": "Nissan Navara Pro plug-in hybrid ute coming in 2027",
+     "source": "BabyDrive",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xVXo4eDdMYVRKNnZoNVpGM3ZwT3gyRjZPZlU1SWlsbXF3TDAxUm1rRExVNE44dzFmZjR0OXFvWjRlRDEtYW04M2lKdjBVMllxSDB3M2FGRk1IeGV6ZFFlMmxkUk1zOVR1SjBWSHFTVzlabWNDYUkw?oc=5",
+     "date": "2026-11-05T07:47:16+00:00"
+    },
+    {
+     "title": "The new Navara isn\u2019t Nissan around \u2013 even if it is a Mitsubishi Triton underneath",
+     "source": "Region Canberra",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZG1yZ0lmUnk4aWFUc3EzMGl5UDRCdDFheFFTdENzQ2xCcFY3SEdrRENJYV80NXVrSkZSMEdCdTkyR2stckJjR1lEOWFCSWQzSEh1WllCM3dibHNDSWNDbVVmR21HRXctMzQ1WTRkVU56TmtxU3BvMmNmbnRCZlBld24wWHdBVWdfM3VmZU94ekx0MXNNRV8xTVJCVkMyQllwRU1pbmxsSldpNEhQbkE?oc=5",
+     "date": "2026-11-03T08:00:00+00:00"
+    },
+    {
+     "title": "Brisbane Secures 2027 World Wheelchair Rugby Cup at Nissan Arena",
+     "source": "Ministry of Sport",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSkdYbXpTTkoxNm92c3JUNld3VTQ1VVhqUmJYX2d2LXZOVlZtMWFZT3d5RGhxTlhqbXI5eHpheGc4eklDbmJmZXB6MEgtNlQ4U3BkbDJKckRBOUJZWkZ0VDhwNE5vRjFBcjFsZ3NEOThrbTlJZHQzQjJoRWVRWTFWYjV0Tl9NRDJtN1JxWTd5TTZXNUdCNEdndQ?oc=5",
+     "date": "2026-10-28T23:29:49+00:00"
+    }
+   ]
+  },
+  {
+   "subject": "Zeekr",
+   "score": 27.0,
+   "ideas": [
+    "Zeekr and the EV shift: winning or losing in 2026?"
+   ],
+   "news": [
+    {
+     "title": "Zeekr's updated top seller is finally on sale in Australia, with more power",
+     "source": "Drive",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbjRDOVBOM2RkNEZXc2ZwNC04TzJQbGllMVB4VjZ6aW1FT1FmcVRTN0UxdVg2cHVUODJCMDVySE9seEtVSmhXbmdOQkMydEFkdWYzeXJIUU40RlpjU0lZWWtyOXJVUlNZNk9DcHE3UmR3MkNvMUhjeXFMUmRGR0JtNy1wZmNaM2Y2TTFrWnZQYXBUVkJQWVhfT2hn?oc=5",
+     "date": "2026-10-31T13:05:34+00:00"
+    },
+    {
+     "title": "Zeekr 7X to face fresh rival on price, not size",
+     "source": "Drive",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcjZlWi1odjVfZmhWZ2k1RkVQMXlpcW1zYjZzY2RzdkwwenlfV3Y2bEZiZFRtd21SLV81QVhiU3VKT013c2RPaVRESUR4WVlvZ0tZZmNwakJ0U2tZUVVkYlpCZ3hoeGhfc2JEaF9fOXZsazJpNVBsVUVnMlNOSGNhS0dweTNxaExQc2k0MEk1RFZYNFVvZm5Zemo2S1E?oc=5",
+     "date": "2026-11-08T06:01:14+00:00"
+    },
+    {
+     "title": "2027 Zeekr 7X update: More power, same price",
+     "source": "CarExpert",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaVZLT3N0TzctNjM0MFB6ZTN5ZWNEaDRlTTkzUHh3Q0l2ME1tZWRieEV3eWVqc011WFpuU2wzYWNjN3N5UGQ2cmx0UW8yQkpLQlUta0ZkV3R1ckQwNmszZ3QwUWM0Y1drSDEyNzVya05xdlUycmZ4TW1mY25hak1lV2lGMVctblE?oc=5",
+     "date": "2026-10-31T07:00:00+00:00"
+    },
+    {
+     "title": "2027 Zeekr 7X Price and Specs: More Power, Up to 627km Range",
+     "source": "CarSauce",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xdmFkVnU2RU1yVTU2QWdBYUphWjNyMV9PTjdnRHlXalptRUJLRGdhX0w2M24xYmFhT3o3UnRQbGhxaldtZHJjYXFPTlpiWW1VMm0wbVk1YmctSkpmVjZSSVktLWdFSTctbUp3MnphVE9rcGhydWR4ZVhqaUtSdw?oc=5",
+     "date": "2026-10-31T13:10:42+00:00"
+    },
+    {
+     "title": "Where Australia sits on global EV uptake: Booming sales of 2026 BYD Sealion 7, Zeekr X and Geely EX5 put us above US, South Korea",
+     "source": "CarsGuide",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSDdKMlRDa1Q0cUU3WlNHdGp0RzJFMkZQbVZRaTJwRUlQSmtsWFNWaGtXZGhkbEcxQXRXRVlSbDh1RDJqdjRHSXEtUFlFMVpXWDFjZXhuZGx6OHU2bTkyMW51WU51Sko4Y3lVQXF1SGFnTUEwb0dvLUlsRUM3RnRXZWVfNHBkRmZOb1Jvem13ZFhZWmFZMUp6aV9NSEI4eTR6VzBmTElwb1QyQ3FtS1R1REhDeGNEOGdwM0JIbXVMZXVtZFRk?oc=5",
+     "date": "2026-11-02T00:35:40+00:00"
+    },
+    {
+     "title": "From Avatr to Zeekr: 10+ new car brands set to shake up the Australian market",
+     "source": "My NRMA",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01QklUZDhiVG1ob0gxT1Z1T19TR1ZRWXNtRVFsZV9KZW9TeHp0ZXZWVGkzT1RxVzRmc0NjVVFWeDhPOTRGb1RVVkhzNE9RTFcyQzZMbldSQlVWZ2RzVVB3ODdQRVVsaEhHWGpqLVp0Zk9mbVdUZGdB?oc=5",
+     "date": "2026-10-29T06:51:37+00:00"
+    },
+    {
+     "title": "2027 Zeekr 7X arrives in Australia with more power, faster charging",
+     "source": "WhichCar",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTUpWT2Z3WExaWGRBUDZodzRVdXhmTFA4N2JnNDhmeENPVzJ1QkRQbjZKbjhsWnd6MTJicUN4bTF2UXIyUWIzeU5YNXl5bFktS3JtUlRjakdmQ1NlWnlJWTM0LTJIWjktZWFkRkV6RzlETVlwWjZBS1BYeUo5NElFNXBqWktOZHg0c3pWSEpwdTRiOXc2VlhWcjB1dS1aS0No?oc=5",
+     "date": "2026-11-01T01:31:31+00:00"
+    },
+    {
+     "title": "Xiaomi YU7 and SU7 electric cars to blow 2026 Zeekr 7X, Tesla Model Y out of the water | Opinion",
+     "source": "CarsGuide",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaWZ5X0hDaXhkU0FEcTNtWUR2ZlZOeXhnbWZBNFFRdjh4LXR6a0FmZXlZM1JOLWdWN2lLaWxwRjVqbF9iOUFOTUVMajhWTXpydkxsbnN5Q1RTR0d5dTk1Z3B1U1Vfak9qekpxS1pOZ3F5VFNldjhya1FEYTZ6VGo2a0pRNzJNdm1lN2tkcGNzdktucVI3aGRsLXV5eW9GanAxbnVTdDlTSE42MTI2dk50ZlV4VDREdm1obU15eGQyRkw?oc=5",
+     "date": "2026-11-06T16:00:00+00:00"
+    },
+    {
+     "title": "Zeekr 7X Launch Offer: Free Servicing, Wallbox and Paint",
+     "source": "Zecar",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTTA4a0VVN0lYaGtKV3k1WVVPbVlTM29RVTd3OFNTTjB3WlFPSUZUM3pEdWo2a25QRnJoMDZrMW1IWXk5ZGJfNl9pWWVOQTRwLXBLa0dUblNzM0F3QUZESWNfcWY5T2VRMXlCM1Z1ZDBaYVp0VG0xZ19XRHQ2R1RWeHBn?oc=5",
+     "date": "2026-11-04T00:35:00+00:00"
+    },
+    {
+     "title": "How long does it take to repair a Zeekr?",
+     "source": "Drive",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdDVvZE9VMGpWeTlENGxoX3RyNVlpN3QxRUhwNzF0YWRJVG1YZDFJejNBcXB5amp3bElnZVhjdWkwS2V6SzZrNnNkYkdJM1puN0h3Z1otTzJNTUJnbXlfUHFQa2RUOHlUd19ReTB6bkk0M3RhVnBYM1BaQ2ppb3FrSzBKb0g0RWhmZmV6QTd1dk5hZw?oc=5",
+     "date": "2026-11-01T18:55:52+00:00"
+    },
+    {
+     "title": "2026 Mazda CX-6e electric SUV is a big misstep for the brand as it chases Tesla Model Y, Zeekr 7X | Opinion",
+     "source": "CarsGuide",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRlU4RGY3eThKclZMdmR2eGpVRmc1ZHFreUdDQ0hicVNYY1ZJVExIT1dnZV9LWFlEQ1A5NVhodVVpN0gxY3NRTEhvSHloWU1RckV3ckJ3VktFZkZhTWViTUpxeE03NnF0ZG4xQlYySEdIZ242OWU0R1BKaWJkWmVyQ0RCam9EbVQ1d2NvOVlGamhhZmUydlYtTUFZS2Q2ZG5pZS1pV05GSjhSUE83WVYxZi1jdTV5cTFqcUJIU0tWZTRTdXc?oc=5",
+     "date": "2026-11-04T04:31:28+00:00"
+    },
+    {
+     "title": "GWM to launch 14 new cars in 2027, including 2026 Wey G9, Wey V9X and Haval H10 likely to battle Denza and Zeekr",
+     "source": "CarsGuide",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN3VLYkRCa1l6bUtXVTlUb0I3NTQ3MDloNFE0aFl2eTFMVWhYcFQxYVJjdkdfUUpod3ltZWNVY1FXVFNXcEpxMTQ5MTljdi12bktDUlA0dTRZZk9ab3JxZVhlbTVQcXduVTVYRTJTMzlYdDM1djVTZWtLZTVfWEZBZkU1empjRzU2eUVJeEhTZDJ5X2tmOHpqb3ktMkNwRXZJWmNxejR2WnQyVTI3VGNzM0hCM1U4cXZkWi0zNi1lNVI1dkU?oc=5",
+     "date": "2026-11-05T23:15:28+00:00"
+    }
+   ]
+  }
+ ],
+ "themes": [
+  {
+   "theme": "EV shift",
+   "score": 197.6,
+   "count": 161
+  },
+  {
+   "theme": "2027 outlook",
+   "score": 127.0,
+   "count": 104
+  },
+  {
+   "theme": "utes",
+   "score": 85.2,
+   "count": 63
+  },
+  {
+   "theme": "price cuts / deals",
+   "score": 85.1,
+   "count": 51
+  },
+  {
+   "theme": "Chinese brands",
+   "score": 48.1,
+   "count": 41
+  },
+  {
+   "theme": "recall / safety",
+   "score": 41.9,
+   "count": 25
+  },
+  {
+   "theme": "policy / tax",
+   "score": 38.5,
+   "count": 19
+  },
+  {
+   "theme": "repairs / parts",
+   "score": 37.9,
+   "count": 18
+  },
+  {
+   "theme": "leaving / exit",
+   "score": 17.9,
+   "count": 9
+  },
+  {
+   "theme": "consumer rights",
+   "score": 14.2,
+   "count": 6
+  },
+  {
+   "theme": "sales slump",
+   "score": 2.6,
+   "count": 1
+  }
+ ]
+}
