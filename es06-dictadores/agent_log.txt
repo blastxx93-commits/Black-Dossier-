@@ -1,0 +1,263 @@
+[     0s] es06-dictadores: 29 planos, limite 35.0 min
+[     0s] m_zis110: 'ZIS-110'
+[     1s]     commons: 12 candidatos em 0.5s
+[    12s]     openverse: 12 candidatos em 11.1s
+[    16s]     loc: 2 candidatos em 4.3s
+[    47s]     falhou download (loc) em 30.1s
+[    79s]     falhou download (loc) em 30.0s
+[    81s]   -> 8 imagens
+[    81s] h_stalin: 'Joseph Stalin'
+[    82s]     commons: 9 candidatos em 0.5s
+[    94s]     openverse: 11 candidatos em 12.0s
+[   118s]   ! www.loc.gov: 429 rate limit
+[   118s]     loc: 0 candidatos em 24.0s
+[   121s]   -> 4 imagens
+[   121s] h_kremlin: 'Moscow Kremlin 1950s'
+[   121s]     commons: 3 candidatos em 0.5s
+[   142s]     openverse: 3 candidatos em 20.6s
+[   166s]   ! www.loc.gov: 429 rate limit
+[   166s]     loc: 0 candidatos em 24.0s
+[   169s]   -> 5 imagens
+[   169s] m_hongqi: 'Hongqi CA72'
+[   169s]     commons: 11 candidatos em 0.3s
+[   182s]     openverse: 12 candidatos em 12.3s
+[   206s]   ! www.loc.gov: 429 rate limit
+[   206s]   ! www.loc.gov desligado nesta execucao (3 falhas seguidas)
+[   206s]     loc: 0 candidatos em 24.0s
+[   221s]   -> 8 imagens
+[   221s] h_mao: 'Mao Zedong'
+[   222s]     commons: 2 candidatos em 0.4s
+[   234s]     openverse: 6 candidatos em 12.5s
+[   234s]     loc: 0 candidatos em 0.0s
+[   237s]   -> 4 imagens
+[   237s] m_tito_cadillac: 'Tito Cadillac Brijuni'
+[   237s]     commons: 2 candidatos em 0.3s
+[   244s]     openverse: 2 candidatos em 7.0s
+[   244s]     loc: 0 candidatos em 0.0s
+[   275s]     falhou download (commons) em 30.0s
+[   277s]     commons: 1 candidatos em 0.5s
+[   281s]     openverse: 0 candidatos em 4.7s
+[   281s]     loc: 0 candidatos em 0.0s
+[   282s]     commons: 0 candidatos em 0.4s
+[   285s]     openverse: 0 candidatos em 3.0s
+[   285s]     loc: 0 candidatos em 0.0s
+[   285s]   -> 3 imagens
+[   285s] m_eldorado53: '1953 Cadillac Eldorado'
+[   285s]     commons: 9 candidatos em 0.6s
+[   297s]     openverse: 10 candidatos em 11.7s
+[   297s]     loc: 0 candidatos em 0.0s
+[   330s]     falhou download (openverse) em 30.0s
+[   360s]     falhou download (commons) em 30.0s
+[   361s]   -> 6 imagens
+[   361s] h_tito: 'Josip Broz Tito'
+[   362s]     commons: 8 candidatos em 0.5s
+[   376s]     openverse: 9 candidatos em 14.1s
+[   376s]     loc: 0 candidatos em 0.0s
+[   406s]     falhou download (openverse) em 30.0s
+[   407s]     falhou download (openverse) em 0.0s
+[   407s]     falhou download (commons) em 0.0s
+[   407s]     falhou download (openverse) em 0.0s
+[   408s]     falhou download (commons) em 0.0s
+[   409s]   -> 5 imagens
+[   409s] m_maserati5000: 'Maserati 5000 GT'
+[   409s]     commons: 7 candidatos em 0.3s
+[   416s]     openverse: 11 candidatos em 6.8s
+[   416s]     loc: 0 candidatos em 0.0s
+[   416s]     falhou download (commons) em 0.0s
+[   416s]     falhou download (openverse) em 0.0s
+[   416s]     falhou download (commons) em 0.0s
+[   416s]     falhou download (openverse) em 0.0s
+[   416s]     falhou download (commons) em 0.0s
+[   416s]     falhou download (openverse) em 0.0s
+[   416s]     falhou download (commons) em 0.0s
+[   417s]     falhou download (commons) em 0.0s
+[   418s]     falhou download (commons) em 0.0s
+[   418s]     falhou download (commons) em 0.0s
+[   420s]     falhou download (openverse) em 0.0s
+[   420s]     falhou download (openverse) em 0.0s
+[   421s]     commons: 1 candidatos em 0.4s
+[   424s]     openverse: 0 candidatos em 3.2s
+[   424s]     loc: 0 candidatos em 0.0s
+[   425s]     commons: 10 candidatos em 0.8s
+[   437s]     openverse: 12 candidatos em 11.7s
+[   437s]     loc: 0 candidatos em 0.0s
+[   438s]   -> 8 imagens
+[   438s] h_shah: 'Mohammad Reza Pahlavi'
+[   438s]     commons: 8 candidatos em 0.5s
+[   444s]     openverse: 9 candidatos em 6.0s
+[   444s]     loc: 0 candidatos em 0.0s
+[   445s]     falhou download (openverse) em 0.0s
+[   446s]     falhou download (openverse) em 0.0s
+[   446s]     falhou download (openverse) em 0.0s
+[   447s]     falhou download (openverse) em 0.0s
+[   448s]   -> 5 imagens
+[   448s] m_zil111: 'ZIL-111'
+[   449s]     commons: 10 candidatos em 1.3s
+[   456s]     openverse: 12 candidatos em 6.9s
+[   456s]     loc: 0 candidatos em 0.0s
+[   459s]     falhou download (openverse) em 0.0s
+[   459s]     falhou download (openverse) em 0.0s
+[   461s]   -> 8 imagens
+[   461s] h_castro: 'Fidel Castro 1960s'
+[   461s]     commons: 7 candidatos em 0.5s
+[   471s]     openverse: 10 candidatos em 9.3s
+[   471s]     loc: 0 candidatos em 0.0s
+[   473s]     falhou download (commons) em 0.0s
+[   474s]   -> 5 imagens
+[   474s] h_havana_cars: 'Havana classic cars'
+[   475s]     commons: 12 candidatos em 0.5s
+[   481s]     openverse: 10 candidatos em 6.8s
+[   481s]     loc: 0 candidatos em 0.0s
+[   485s]   -> 6 imagens
+[   485s] m_mb600: 'Mercedes-Benz 600 Pullman'
+[   486s]     commons: 10 candidatos em 0.4s
+[   494s]     openverse: 9 candidatos em 8.1s
+[   494s]     loc: 0 candidatos em 0.0s
+[   495s]     falhou download (commons) em 0.0s
+[   497s]     falhou download (commons) em 0.0s
+[   501s]     falhou download (commons) em 0.0s
+[   501s]     falhou download (openverse) em 0.0s
+[   502s]   -> 12 imagens
+[   502s] h_idi_amin_car: 'Idi Amin Mercedes'
+[   502s]     commons: 1 candidatos em 0.4s
+[   505s]     openverse: 0 candidatos em 3.2s
+[   505s]     loc: 0 candidatos em 0.0s
+[   505s]     falhou download (commons) em 0.0s
+[   506s]     commons: 12 candidatos em 0.7s
+[   512s]     openverse: 8 candidatos em 6.1s
+[   512s]     loc: 0 candidatos em 0.0s
+[   512s]     falhou download (commons) em 0.0s
+[   513s]     falhou download (openverse) em 0.6s
+[   513s]     falhou download (commons) em 0.0s
+[   513s]     falhou download (openverse) em 0.0s
+[   513s]     falhou download (openverse) em 0.0s
+[   515s]     falhou download (commons) em 0.0s
+[   515s]   -> 4 imagens
+[   515s] m_fleetwood70: 'Cadillac Fleetwood 75 1970'
+[   516s]     commons: 11 candidatos em 0.9s
+[   523s]     openverse: 12 candidatos em 6.4s
+[   523s]     loc: 0 candidatos em 0.0s
+[   523s]     falhou download (commons) em 0.0s
+[   525s]     falhou download (commons) em 0.0s
+[   525s]     falhou download (commons) em 0.0s
+[   528s]     falhou download (commons) em 0.0s
+[   528s]   -> 8 imagens
+[   528s] h_salamanca_museum: 'Museo de la Automoción Salamanca'
+[   537s]     commons: 12 candidatos em 9.0s
+[   546s]     openverse: 11 candidatos em 8.4s
+[   546s]     loc: 0 candidatos em 0.0s
+[   546s]     falhou download (openverse) em 0.0s
+[   549s]   -> 5 imagens
+[   549s] h_franco: 'Francisco Franco'
+[   550s]     commons: 6 candidatos em 0.5s
+[   559s]     openverse: 8 candidatos em 8.9s
+[   559s]     loc: 0 candidatos em 0.0s
+[   559s]     falhou download (openverse) em 0.0s
+[   559s]     falhou download (commons) em 0.0s
+[   559s]     falhou download (openverse) em 0.0s
+[   559s]     falhou download (commons) em 0.0s
+[   559s]     falhou download (openverse) em 0.0s
+[   560s]     falhou download (openverse) em 0.0s
+[   560s]     falhou download (commons) em 0.0s
+[   560s]     falhou download (openverse) em 0.0s
+[   560s]     falhou download (commons) em 0.0s
+[   560s]     falhou download (openverse) em 0.0s
+[   560s]     falhou download (openverse) em 0.0s
+[   560s]     falhou download (openverse) em 0.0s
+[   561s]     commons: 8 candidatos em 0.6s
+[   569s]     openverse: 4 candidatos em 8.0s
+[   569s]     loc: 0 candidatos em 0.0s
+[   569s]     falhou download (openverse) em 0.0s
+[   569s]     falhou download (openverse) em 0.0s
+[   570s]     falhou download (openverse) em 0.0s
+[   570s]     falhou download (commons) em 0.0s
+[   571s]   -> 5 imagens
+[   571s] m_pegaso_cupula: 'Pegaso Cúpula'
+[   571s]     commons: 12 candidatos em 0.2s
+[   580s]     openverse: 12 candidatos em 9.5s
+[   580s]     loc: 0 candidatos em 0.0s
+[   584s]   -> 6 imagens
+[   584s] m_belair57: '1957 Chevrolet Bel Air sedan'
+[   585s]     commons: 12 candidatos em 0.3s
+[   590s]     openverse: 10 candidatos em 5.9s
+[   590s]     loc: 0 candidatos em 0.0s
+[   594s]     falhou download (openverse) em 0.0s
+[   594s]     falhou download (openverse) em 0.0s
+[   596s]   -> 8 imagens
+[   596s] h_trujillo: 'Rafael Trujillo'
+[   596s]     commons: 8 candidatos em 0.4s
+[   602s]     openverse: 4 candidatos em 6.3s
+[   602s]     loc: 0 candidatos em 0.0s
+[   602s]     falhou download (commons) em 0.0s
+[   602s]     falhou download (openverse) em 0.0s
+[   603s]     falhou download (openverse) em 0.0s
+[   603s]     falhou download (commons) em 0.0s
+[   604s]     falhou download (openverse) em 0.0s
+[   605s]   -> 4 imagens
+[   605s] h_santo_domingo: 'Santo Domingo 1950s'
+[   605s]     commons: 10 candidatos em 0.5s
+[   610s]     openverse: 8 candidatos em 4.3s
+[   610s]     loc: 0 candidatos em 0.0s
+[   612s]   -> 4 imagens
+[   612s] m_dodge3700: 'Dodge 3700 GT'
+[   613s]     commons: 12 candidatos em 0.7s
+[   619s]     openverse: 12 candidatos em 6.6s
+[   619s]     loc: 0 candidatos em 0.0s
+[   630s]   -> 10 imagens
+[   630s] h_carrero: 'Luis Carrero Blanco'
+[   631s]     commons: 6 candidatos em 0.8s
+[   638s]     openverse: 9 candidatos em 7.0s
+[   638s]     loc: 0 candidatos em 0.0s
+[   638s]     falhou download (openverse) em 0.0s
+[   640s]     falhou download (openverse) em 0.0s
+[   640s]     falhou download (commons) em 0.0s
+[   640s]     falhou download (openverse) em 0.0s
+[   640s]     falhou download (commons) em 0.0s
+[   640s]     falhou download (openverse) em 0.0s
+[   640s]     falhou download (commons) em 0.0s
+[   640s]     falhou download (openverse) em 0.0s
+[   642s]   -> 3 imagens
+[   642s] h_villaverde: 'Barreiros Villaverde'
+[   642s]     commons: 9 candidatos em 0.7s
+[   651s]     openverse: 3 candidatos em 8.3s
+[   651s]     loc: 0 candidatos em 0.0s
+[   653s]   -> 4 imagens
+[   653s] m_phantom4: 'Rolls-Royce Phantom IV'
+[   654s]     commons: 12 candidatos em 0.3s
+[   661s]     openverse: 12 candidatos em 7.3s
+[   661s]     loc: 0 candidatos em 0.0s
+[   664s]     falhou download (openverse) em 0.0s
+[   666s]     falhou download (openverse) em 0.0s
+[   667s]     falhou download (openverse) em 0.0s
+[   667s]     falhou download (openverse) em 0.0s
+[   669s]   -> 12 imagens
+[   669s] h_guardia_real: 'Guardia Real Rolls-Royce'
+[   669s]     commons: 3 candidatos em 0.5s
+[   677s]     openverse: 2 candidatos em 7.5s
+[   677s]     loc: 0 candidatos em 0.0s
+[   680s]     commons: 0 candidatos em 0.4s
+[   683s]     openverse: 0 candidatos em 3.0s
+[   683s]     loc: 0 candidatos em 0.0s
+[   684s]     commons: 0 candidatos em 0.5s
+[   686s]     openverse: 0 candidatos em 2.0s
+[   686s]     loc: 0 candidatos em 0.0s
+[   687s]     commons: 9 candidatos em 0.6s
+[   693s]     openverse: 9 candidatos em 6.5s
+[   693s]     loc: 0 candidatos em 0.0s
+[   695s]   -> 8 imagens
+[   695s] h_madrid_1950s: 'Madrid 1950s'
+[   695s]     commons: 9 candidatos em 0.5s
+[   704s]     openverse: 7 candidatos em 8.5s
+[   704s]     loc: 0 candidatos em 0.0s
+[   707s]     falhou download (openverse) em 0.0s
+[   707s]     falhou download (commons) em 0.0s
+[   708s]   -> 6 imagens
+[   708s] h_el_pardo: 'Palacio de El Pardo'
+[   708s]     commons: 11 candidatos em 0.5s
+[   715s]     openverse: 12 candidatos em 7.1s
+[   715s]     loc: 0 candidatos em 0.0s
+[   716s]     falhou download (openverse) em 0.0s
+[   717s]     falhou download (openverse) em 0.0s
+[   718s]     falhou download (openverse) em 0.0s
+[   718s]   -> 4 imagens
+[   721s] fim: 178 imagens
