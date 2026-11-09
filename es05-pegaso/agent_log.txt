@@ -1,0 +1,230 @@
+[     0s] es05-pegaso: 28 planos, limite 35.0 min
+[     0s] m_z102: 'Pegaso Z-102'
+[     1s]     commons: 12 candidatos em 0.6s
+[    27s]     openverse: 11 candidatos em 26.2s
+[    41s]     loc: 0 candidatos em 14.7s
+[    49s]   -> 12 imagens
+[    49s] m_z102_saoutchik: 'Pegaso Z-102 Saoutchik'
+[    50s]     commons: 12 candidatos em 0.5s
+[    61s]     openverse: 12 candidatos em 11.4s
+[    85s]   ! www.loc.gov: 429 rate limit
+[    85s]     loc: 0 candidatos em 24.0s
+[    93s]   -> 8 imagens
+[    93s] m_z102_touring: 'Pegaso Z-102 Touring Superleggera'
+[    94s]     commons: 12 candidatos em 0.7s
+[   109s]     openverse: 12 candidatos em 15.0s
+[   133s]   ! www.loc.gov: 429 rate limit
+[   133s]     loc: 0 candidatos em 24.0s
+[   158s]   -> 8 imagens
+[   158s] m_z102_cupula: 'Pegaso Cúpula'
+[   158s]     commons: 12 candidatos em 0.7s
+[   170s]     openverse: 12 candidatos em 12.0s
+[   194s]   ! www.loc.gov: 429 rate limit
+[   194s]   ! www.loc.gov desligado nesta execucao (3 falhas seguidas)
+[   194s]     loc: 0 candidatos em 24.0s
+[   198s]   -> 5 imagens
+[   198s] m_z102_spider: 'Pegaso Z-102 spider'
+[   199s]     commons: 12 candidatos em 0.5s
+[   221s]     openverse: 11 candidatos em 22.1s
+[   221s]     loc: 0 candidatos em 0.0s
+[   228s]     falhou download (openverse) em 6.6s
+[   259s]     falhou download (openverse) em 30.0s
+[   289s]     falhou download (openverse) em 30.0s
+[   321s]     falhou download (openverse) em 30.0s
+[   321s]   -> 6 imagens
+[   321s] m_z102_engine: 'Pegaso V8 engine'
+[   322s]     commons: 9 candidatos em 0.5s
+[   331s]     openverse: 12 candidatos em 9.0s
+[   331s]     loc: 0 candidatos em 0.0s
+[   334s]   -> 5 imagens
+[   334s] m_z102_interior: 'Pegaso Z-102 interior'
+[   334s]     commons: 0 candidatos em 0.4s
+[   339s]     openverse: 0 candidatos em 5.1s
+[   339s]     loc: 0 candidatos em 0.0s
+[   340s]     commons: 0 candidatos em 0.4s
+[   343s]     openverse: 0 candidatos em 3.6s
+[   343s]     loc: 0 candidatos em 0.0s
+[   343s]   -> 0 imagens
+[   343s] m_z103: 'Pegaso Z-103'
+[   344s]     commons: 7 candidatos em 0.4s
+[   348s]     openverse: 0 candidatos em 3.8s
+[   348s]     loc: 0 candidatos em 0.0s
+[   351s]   -> 4 imagens
+[   351s] m_hispano: 'Hispano-Suiza'
+[   352s]     commons: 12 candidatos em 0.6s
+[   365s]     openverse: 12 candidatos em 13.5s
+[   365s]     loc: 0 candidatos em 0.0s
+[   369s]     falhou download (openverse) em 0.0s
+[   370s]   -> 8 imagens
+[   370s] m_hispano_engine: 'Hispano-Suiza aircraft engine'
+[   371s]     commons: 11 candidatos em 0.8s
+[   381s]     openverse: 12 candidatos em 9.8s
+[   381s]     loc: 0 candidatos em 0.0s
+[   383s]   -> 4 imagens
+[   383s] m_spad: 'SPAD S.XIII'
+[   384s]     commons: 12 candidatos em 0.4s
+[   393s]     openverse: 10 candidatos em 8.7s
+[   393s]     loc: 0 candidatos em 0.0s
+[   394s]     falhou download (commons) em 0.0s
+[   395s]   -> 3 imagens
+[   395s] m_mofletes: 'Pegaso Mofletes'
+[   395s]     commons: 3 candidatos em 0.4s
+[   409s]     openverse: 4 candidatos em 14.3s
+[   409s]     loc: 0 candidatos em 0.0s
+[   412s]     falhou download (commons) em 0.0s
+[   412s]     falhou download (openverse) em 0.0s
+[   412s]     falhou download (openverse) em 0.0s
+[   412s]     commons: 0 candidatos em 0.3s
+[   417s]     openverse: 0 candidatos em 4.3s
+[   417s]     loc: 0 candidatos em 0.0s
+[   417s]     commons: 0 candidatos em 0.4s
+[   419s]     openverse: 0 candidatos em 2.6s
+[   419s]     loc: 0 candidatos em 0.0s
+[   419s]   -> 4 imagens
+[   419s] m_barajas: 'Pegaso Barajas'
+[   420s]     commons: 1 candidatos em 0.3s
+[   428s]     openverse: 0 candidatos em 8.6s
+[   428s]     loc: 0 candidatos em 0.0s
+[   429s]     commons: 1 candidatos em 0.1s
+[   432s]     openverse: 0 candidatos em 3.2s
+[   432s]     loc: 0 candidatos em 0.0s
+[   433s]     commons: 0 candidatos em 0.4s
+[   435s]     openverse: 0 candidatos em 2.5s
+[   435s]     loc: 0 candidatos em 0.0s
+[   435s]   -> 1 imagens
+[   435s] m_pegaso_truck: 'camión Pegaso'
+[   436s]     commons: 10 candidatos em 0.5s
+[   446s]     openverse: 12 candidatos em 10.6s
+[   446s]     loc: 0 candidatos em 0.0s
+[   448s]     falhou download (commons) em 0.0s
+[   449s]     falhou download (openverse) em 0.0s
+[   451s]     falhou download (openverse) em 0.0s
+[   453s]   -> 8 imagens
+[   453s] m_xk120: 'Jaguar XK120'
+[   453s]     commons: 12 candidatos em 0.3s
+[   466s]     openverse: 12 candidatos em 13.6s
+[   466s]     loc: 0 candidatos em 0.0s
+[   468s]     falhou download (openverse) em 0.0s
+[   469s]   -> 4 imagens
+[   469s] m_alfa_1930s: 'Alfa Romeo 158 Alfetta'
+[   469s]     commons: 11 candidatos em 0.3s
+[   479s]     openverse: 10 candidatos em 9.7s
+[   479s]     loc: 0 candidatos em 0.0s
+[   480s]     falhou download (openverse) em 0.0s
+[   480s]     falhou download (openverse) em 0.0s
+[   481s]     falhou download (openverse) em 0.0s
+[   481s]     falhou download (commons) em 0.0s
+[   481s]     falhou download (openverse) em 0.0s
+[   482s]     falhou download (openverse) em 0.0s
+[   482s]   -> 5 imagens
+[   482s] m_seat1400: 'SEAT 1400'
+[   482s]     commons: 10 candidatos em 0.3s
+[   495s]     openverse: 12 candidatos em 12.6s
+[   495s]     loc: 0 candidatos em 0.0s
+[   495s]     falhou download (commons) em 0.0s
+[   497s]   -> 3 imagens
+[   497s] m_biscuter: 'Biscúter'
+[   497s]     commons: 10 candidatos em 0.3s
+[   505s]     openverse: 12 candidatos em 7.5s
+[   505s]     loc: 0 candidatos em 0.0s
+[   506s]     falhou download (commons) em 0.0s
+[   507s]   -> 3 imagens
+[   507s] m_seat600: 'SEAT 600'
+[   507s]     commons: 10 candidatos em 0.5s
+[   516s]     openverse: 11 candidatos em 8.3s
+[   516s]     loc: 0 candidatos em 0.0s
+[   517s]   -> 3 imagens
+[   517s] h_ricart: 'Wifredo Ricart'
+[   518s]     commons: 5 candidatos em 0.5s
+[   530s]     openverse: 4 candidatos em 12.2s
+[   530s]     loc: 0 candidatos em 0.0s
+[   531s]     falhou download (openverse) em 0.0s
+[   531s]     falhou download (openverse) em 0.0s
+[   531s]     falhou download (commons) em 0.0s
+[   531s]     falhou download (openverse) em 0.0s
+[   531s]     falhou download (openverse) em 0.0s
+[   532s]     commons: 1 candidatos em 0.5s
+[   536s]     openverse: 0 candidatos em 4.3s
+[   536s]     loc: 0 candidatos em 0.0s
+[   537s]     commons: 6 candidatos em 0.5s
+[   548s]     openverse: 1 candidatos em 11.1s
+[   548s]     loc: 0 candidatos em 0.0s
+[   548s]     falhou download (openverse) em 0.0s
+[   548s]   -> 3 imagens
+[   548s] h_trujillo: 'Rafael Trujillo'
+[   549s]     commons: 8 candidatos em 0.4s
+[   558s]     openverse: 4 candidatos em 9.7s
+[   558s]     loc: 0 candidatos em 0.0s
+[   558s]     falhou download (commons) em 0.0s
+[   558s]     falhou download (openverse) em 0.0s
+[   559s]     falhou download (openverse) em 0.0s
+[   559s]     falhou download (commons) em 0.0s
+[   560s]   -> 3 imagens
+[   560s] h_jabbeke: 'Jabbeke'
+[   561s]     commons: 12 candidatos em 0.4s
+[   569s]     openverse: 10 candidatos em 8.4s
+[   569s]     loc: 0 candidatos em 0.0s
+[   570s]     falhou download (openverse) em 0.0s
+[   570s]     falhou download (openverse) em 0.0s
+[   571s]     falhou download (openverse) em 0.0s
+[   571s]     falhou download (commons) em 0.0s
+[   571s]     falhou download (openverse) em 0.0s
+[   571s]     falhou download (commons) em 0.0s
+[   571s]     falhou download (openverse) em 0.0s
+[   571s]     falhou download (commons) em 0.0s
+[   571s]     falhou download (openverse) em 0.0s
+[   571s]     falhou download (openverse) em 0.0s
+[   572s]   -> 5 imagens
+[   572s] h_carrera_panamericana: 'Carrera Panamericana'
+[   573s]     commons: 9 candidatos em 0.5s
+[   583s]     openverse: 7 candidatos em 10.9s
+[   583s]     loc: 0 candidatos em 0.0s
+[   583s]     falhou download (commons) em 0.0s
+[   583s]     falhou download (openverse) em 0.0s
+[   584s]     falhou download (openverse) em 0.0s
+[   585s]     falhou download (commons) em 0.0s
+[   586s]   -> 5 imagens
+[   586s] h_le_mans_1952: 'Le Mans 1952'
+[   587s]     commons: 10 candidatos em 0.8s
+[   598s]     openverse: 8 candidatos em 10.4s
+[   598s]     loc: 0 candidatos em 0.0s
+[   598s]     falhou download (commons) em 0.0s
+[   598s]     falhou download (openverse) em 0.0s
+[   600s]     falhou download (openverse) em 0.0s
+[   600s]     falhou download (commons) em 0.0s
+[   600s]     falhou download (openverse) em 0.0s
+[   600s]     falhou download (commons) em 0.0s
+[   601s]   -> 4 imagens
+[   601s] h_paris_salon: "Salon de l'Automobile Paris 1950s"
+[   602s]     commons: 1 candidatos em 0.4s
+[   612s]     openverse: 1 candidatos em 10.6s
+[   612s]     loc: 0 candidatos em 0.0s
+[   614s]     commons: 11 candidatos em 0.4s
+[   622s]     openverse: 8 candidatos em 7.8s
+[   622s]     loc: 0 candidatos em 0.0s
+[   622s]     falhou download (commons) em 0.0s
+[   622s]     falhou download (openverse) em 0.0s
+[   622s]     falhou download (openverse) em 0.0s
+[   622s]     falhou download (commons) em 0.0s
+[   622s]     falhou download (openverse) em 0.0s
+[   623s]   -> 4 imagens
+[   623s] h_sagrera: 'La Sagrera Barcelona'
+[   624s]     commons: 11 candidatos em 0.9s
+[   631s]     openverse: 8 candidatos em 6.8s
+[   631s]     loc: 0 candidatos em 0.0s
+[   631s]     falhou download (openverse) em 0.0s
+[   632s]     falhou download (openverse) em 0.0s
+[   633s]     falhou download (openverse) em 0.0s
+[   633s]   -> 4 imagens
+[   633s] h_concours: "concours d'elegance Pegaso"
+[   634s]     commons: 12 candidatos em 0.5s
+[   664s]     openverse: 12 candidatos em 30.2s
+[   664s]     loc: 0 candidatos em 0.0s
+[   667s]   -> 5 imagens
+[   667s] h_museum: 'Pegaso museo'
+[   668s]     commons: 12 candidatos em 0.9s
+[   680s]     openverse: 11 candidatos em 12.2s
+[   680s]     loc: 0 candidatos em 0.0s
+[   681s]     falhou download (openverse) em 0.0s
+[   685s]   -> 5 imagens
+[   689s] fim: 132 imagens
