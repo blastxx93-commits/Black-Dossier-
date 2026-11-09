@@ -261,6 +261,99 @@
     "Madrid 1950s"
    ],
    "n": 5
+  },
+  {
+   "id": "h_marin_600",
+   "query": "Pascual Marín Seat 600",
+   "alt": [
+    "Fondo Marín Seiscientos",
+    "Kutxa Fototeka Seat 600",
+    "Marín Seat 600 1960"
+   ],
+   "n": 10
+  },
+  {
+   "id": "h_marin_cars",
+   "query": "Pascual Marín coche 1960",
+   "alt": [
+    "Fondo Marín automóvil",
+    "Pascual Marín tráfico San Sebastián",
+    "Kutxa Fototeka coches"
+   ],
+   "n": 10
+  },
+  {
+   "id": "h_marin_beach",
+   "query": "Pascual Marín playa",
+   "alt": [
+    "Fondo Marín playa de la Concha",
+    "Pascual Marín verano 1960"
+   ],
+   "n": 8
+  },
+  {
+   "id": "h_marin_family",
+   "query": "Pascual Marín familia",
+   "alt": [
+    "Fondo Marín excursión",
+    "Pascual Marín domingo"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_600_2",
+   "query": "Seat 600 restaurado",
+   "alt": [
+    "Seat 600 clásico",
+    "Seat 600 museo",
+    "Seat 600 blanco"
+   ],
+   "n": 10
+  },
+  {
+   "id": "m_600_3",
+   "query": "Fiat 600 D",
+   "alt": [
+    "Fiat 600 1960",
+    "Fiat 600 rear engine"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_600_rear",
+   "query": "Seat 600 trasera motor",
+   "alt": [
+    "Seat 600 rear",
+    "Fiat 600 rear view"
+   ],
+   "n": 6
+  },
+  {
+   "id": "h_spain_1960_photo",
+   "query": "España 1960 fotografía",
+   "alt": [
+    "Spain 1960 photograph",
+    "Madrid 1960 street cars"
+   ],
+   "n": 6
+  },
+  {
+   "id": "h_seat_museum",
+   "query": "Museo SEAT",
+   "alt": [
+    "SEAT historic collection",
+    "Seat A-122"
+   ],
+   "n": 6
+  },
+  {
+   "id": "h_traffic_spain",
+   "query": "atasco España años 60",
+   "alt": [
+    "tráfico Madrid 1965",
+    "Barcelona tráfico 1960"
+   ],
+   "n": 6
   }
  ]
 }
