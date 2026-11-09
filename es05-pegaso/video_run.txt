@@ -1,0 +1,163 @@
+[     0s] es05-pegaso: 9 planos de video
+[     1s]   c_speed_record / archive: 0 filmes para 'speed record'
+[     3s]   c_speed_record / archive: 0 filmes para 'record run'
+[     5s]   c_speed_record / archive: 1 filmes para 'fastest car'
+[    10s]     trecho escuro em 48s, tentando mais adiante
+[    20s]     + 1_archive.mp4 de 'Cyprus Riots, 1956/05/31' a partir de 127s
+[    30s]     + 2_archive.mp4 de 'Cyprus Riots, 1956/05/31' a partir de 349s
+[    33s]   c_auto_race / archive: 1 filmes para 'sports car race'
+[    43s]     + 1_archive.mp4 de 'Army Digs In for Defense of Arctic, 1956/02/27' a partir de 46s
+[    52s]     + 2_archive.mp4 de 'Army Digs In for Defense of Arctic, 1956/02/27' a partir de 340s
+[    55s]   c_auto_race / archive: 2 filmes para 'road race'
+[    64s]     + 3_archive.mp4 de 'Freedom Road. Hungarian Patriots force Red Retreat, 1956/10/' a partir de 47s
+[    72s]     + 4_archive.mp4 de 'Freedom Road. Hungarian Patriots force Red Retreat, 1956/10/' a partir de 343s
+[    75s]   c_auto_race / archive: 1 filmes para 'Mexico race'
+[    76s]   c_auto_race / archive: 0 filmes para 'Le Mans'
+[    78s]   c_auto_show / archive: 0 filmes para 'Paris auto show'
+[    79s]   c_auto_show / archive: 0 filmes para 'auto show'
+[    80s]   c_auto_show / archive: 0 filmes para 'motor show'
+[    85s]   c_spain / archive: 3 filmes para 'Spain'
+[    94s]     + 1_archive.mp4 de 'Spanish Revolution Anniversary, 1957/04/08' a partir de 11s
+[   103s]     + 2_archive.mp4 de 'Spanish Revolution Anniversary, 1957/04/08' a partir de 77s
+[   114s]     + 3_archive.mp4 de "Ike's Challenge, 1955/07/21" a partir de 48s
+[   125s]     + 4_archive.mp4 de "Ike's Challenge, 1955/07/21" a partir de 349s
+[   126s]   c_spain / archive: 0 filmes para 'Madrid'
+[   128s]   c_spain / archive: 0 filmes para 'Barcelona'
+[   147s]   c_trucks / archive: 8 filmes para 'trucks'
+[   166s]     + 1_archive.mp4 de 'Aluminum on the March (Part II)' a partir de 101s
+[   180s]     + 2_archive.mp4 de 'Aluminum on the March (Part II)' a partir de 744s
+[   189s]     + 3_archive.mp4 de "It's a Wonderful World" a partir de 72s
+[   198s]     + 4_archive.mp4 de "It's a Wonderful World" a partir de 526s
+[   199s]   v_pegaso / commons: 0 filmes para 'Pegaso Z-102'
+[   201s]   v_pegaso / pixabay: 3 filmes para 'Pegaso Z-102'
+[   201s]   v_pegaso / pexels: 0 filmes para 'Pegaso Z-102'
+[   201s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=Pegaso+Z-102&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444a
+[   201s]   v_pegaso / coverr: 0 filmes para 'Pegaso Z-102'
+[   206s]     + 1_pixabay.mp4 de 'alphabet, letters, greenscreen, fly through, a, b, c, d, e, ' a partir de 10s
+[   213s]     + 2_pixabay.mp4 de 'computer, home computer, vz 200, 8bit, z80, retro, 80s, 3d, ' a partir de 8s
+[   214s]     trecho escuro em 0s, tentando mais adiante
+[   217s]     trecho escuro em 0s, tentando mais adiante
+[   221s]   v_pegaso / commons: 0 filmes para 'pegaso car'
+[   222s]   v_pegaso / pixabay: 11 filmes para 'pegaso car'
+[   222s]   v_pegaso / pexels: 0 filmes para 'pegaso car'
+[   223s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=pegaso+car&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa8
+[   223s]   v_pegaso / coverr: 0 filmes para 'pegaso car'
+[   231s]     + 3_pixabay.mp4 de 'car, road, transportation, vehicle, driving, car on road, tr' a partir de 21s
+[   247s]     + 4_pixabay.mp4 de 'car, desert, driving, drone, sand, arial, tajikistan' a partir de 0s
+[   248s]   v_classic_luxury / commons: 0 filmes para 'classic luxury car'
+[   249s]   v_classic_luxury / pixabay: 12 filmes para 'classic luxury car'
+[   249s]   v_classic_luxury / pexels: 0 filmes para 'classic luxury car'
+[   250s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=classic+luxury+car&page_size=8&urls=true&api_key=e46f0775805a10c2d
+[   250s]   v_classic_luxury / coverr: 0 filmes para 'classic luxury car'
+[   258s]     + 1_pixabay.mp4 de 'car, red, rotate, rotating, 360, showroom, red car, vehicle,' a partir de 0s
+[   268s]     trecho escuro em 8s, tentando mais adiante
+[   277s]     trecho escuro em 8s, tentando mais adiante
+[   293s]     + 2_pixabay.mp4 de 'monaco, streets, color, pastel, orange, pink, europe, travel' a partir de 8s
+[   309s]     + 3_pixabay.mp4 de 'jaguar, xj, luxury, antique car, old car, elegant, limousine' a partir de 11s
+[   325s]     + 4_pixabay.mp4 de 'steampunk, car, victorian, street, retro, futuristic, automo' a partir de 0s
+[   326s]   v_vintage_race / commons: 2 filmes para 'vintage car race'
+[   327s]   v_vintage_race / pixabay: 12 filmes para 'vintage car race'
+[   327s]   v_vintage_race / pexels: 0 filmes para 'vintage car race'
+[   328s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=vintage+car+race&page_size=8&urls=true&api_key=e46f0775805a10c2dd3
+[   328s]   v_vintage_race / coverr: 0 filmes para 'vintage car race'
+[   329s]     trecho escuro em 65s, tentando mais adiante
+[   329s]     trecho escuro em 102s, tentando mais adiante
+[   329s]     corte falhou (Stop_motion_aut%C3%B3s_%C3%BCld%C3%B6z%C3%A9s_a_%E): tj%C3%A9n_kereszt%C3%BCl_%28stop_motion_car_chase%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   330s]     corte falhou (Festival_of_Speed_2026_Goodwood_-FAST_CARS_-_Walki): val_of_Speed_2026_Goodwood_-FAST_CARS_-_Walking_tour.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   330s]     trecho escuro em 8s, tentando mais adiante
+[   330s]     trecho escuro em 8s, tentando mais adiante
+[   346s]     trecho escuro em 21s, tentando mais adiante
+[   346s]     trecho escuro em 33s, tentando mais adiante
+[   360s]     + 1_pixabay.mp4 de 'road, palm trees, futuristic, retro, loop, cyber, cyberpunk,' a partir de 45s
+[   360s]     trecho escuro em 21s, tentando mais adiante
+[   361s]     trecho escuro em 33s, tentando mais adiante
+[   362s]     trecho escuro em 21s, tentando mais adiante
+[   362s]     trecho escuro em 33s, tentando mais adiante
+[   363s]     trecho escuro em 21s, tentando mais adiante
+[   363s]     trecho escuro em 33s, tentando mais adiante
+[   364s]     trecho escuro em 21s, tentando mais adiante
+[   365s]     trecho escuro em 33s, tentando mais adiante
+[   366s]     trecho escuro em 21s, tentando mais adiante
+[   366s]     trecho escuro em 33s, tentando mais adiante
+[   367s]     trecho escuro em 21s, tentando mais adiante
+[   367s]     trecho escuro em 33s, tentando mais adiante
+[   368s]     trecho escuro em 22s, tentando mais adiante
+[   369s]     trecho escuro em 34s, tentando mais adiante
+[   380s]     + 2_pixabay.mp4 de 'road, palm, palm trees, tree, trees, futuristic, retro, loop' a partir de 46s
+[   380s]     trecho escuro em 0s, tentando mais adiante
+[   384s]     + 3_pixabay.mp4 de 'car, vehicle, automobile, road, street, city, travel, auto, ' a partir de 0s
+[   385s]     trecho escuro em 21s, tentando mais adiante
+[   385s]     trecho escuro em 33s, tentando mais adiante
+[   386s]     trecho escuro em 21s, tentando mais adiante
+[   386s]     trecho escuro em 33s, tentando mais adiante
+[   388s]   v_vintage_race / commons: 10 filmes para 'historic racing'
+[   390s]   v_vintage_race / pixabay: 10 filmes para 'historic racing'
+[   390s]   v_vintage_race / pexels: 0 filmes para 'historic racing'
+[   390s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=historic+racing&page_size=8&urls=true&api_key=e46f0775805a10c2dd34
+[   390s]   v_vintage_race / coverr: 0 filmes para 'historic racing'
+[   391s]     trecho escuro em 1011s, tentando mais adiante
+[   391s]     corte falhou (SPX_2017_Panel_-_Eleanor_Davis_and_Jillian_Tamaki_): l_-_Eleanor_Davis_and_Jillian_Tamaki_in_Conversation.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   391s]     corte falhou (Eleanor_Roosevelt_e_a_Declara%C3%A7%C3%A3o_Univers): _Declara%C3%A7%C3%A3o_Universal_dos_Direitos_Humanos.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   391s]     corte falhou (Tropical_Cyclone_Eleanor_Forms_%28CIRA_2024-02-20_): clone_Eleanor_Forms_%28CIRA_2024-02-20_-_nolabels%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   391s]     corte falhou (Tropical_Cyclone_Eleanor_Forms_%28CIRA_2024-02-20_): Cyclone_Eleanor_Forms_%28CIRA_2024-02-20_-_labels%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   391s]     corte falhou (Eleanor_Passes_By_Mauritius_%28CIRA_2024-02-22_-_l): r_Passes_By_Mauritius_%28CIRA_2024-02-22_-_labels%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   392s]     corte falhou (Eleanor_Passes_By_Mauritius_%28CIRA_2024-02-22_-_n): Passes_By_Mauritius_%28CIRA_2024-02-22_-_nolabels%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   392s]     corte falhou (Eleanor_Passes_By_Mauritius_%28CIRA_2024-02-22_-_n): _Mauritius_%28CIRA_2024-02-22_-_nolabels_portrait%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   392s]     corte falhou (Tropical_Cyclone_Eleanor_Tracks_Southward_%28CIRA_): anor_Tracks_Southward_%28CIRA_2024-02-21_-_labels%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   392s]     corte falhou (Tropical_Cyclone_Eleanor_Tracks_Southward_%28CIRA_): or_Tracks_Southward_%28CIRA_2024-02-21_-_nolabels%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   392s]     corte falhou (Tropical_Cyclone_Eleanor_Tracks_Southward_%28CIRA_): _Southward_%28CIRA_2024-02-21_-_nolabels_portrait%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   393s]     trecho escuro em 10s, tentando mais adiante
+[   394s]     trecho escuro em 15s, tentando mais adiante
+[   409s]     trecho escuro em 8s, tentando mais adiante
+[   424s]     trecho escuro em 8s, tentando mais adiante
+[   443s]     trecho escuro em 8s, tentando mais adiante
+[   450s]     trecho escuro em 10s, tentando mais adiante
+[   455s]     trecho escuro em 0s, tentando mais adiante
+[   455s]     trecho escuro em 0s, tentando mais adiante
+[   484s]     + 4_pixabay.mp4 de 'train, mountains, rhb, switzerland, unesco, bernina, forest,' a partir de 0s
+[   485s]   v_truck_classic / commons: 2 filmes para 'classic truck'
+[   486s]   v_truck_classic / pixabay: 12 filmes para 'classic truck'
+[   486s]   v_truck_classic / pexels: 0 filmes para 'classic truck'
+[   487s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=classic+truck&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444
+[   487s]   v_truck_classic / coverr: 0 filmes para 'classic truck'
+[   487s]     corte falhou (Spring_Branch_Community_Car_Show.webm?utm_source=c): ipedia/commons/b/b2/Spring_Branch_Community_Car_Show.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   487s]     corte falhou (0603_Look_at_Pontiac_for_1954_M02940_20_01_09_00_3): 0603_Look_at_Pontiac_for_1954_M02940_20_01_09_00_3mb.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   493s]     + 1_pixabay.mp4 de 'truck, pumpkin, leaves, forest, autumn, trees, fall, relaxin' a partir de 21s
+[   502s]     + 2_pixabay.mp4 de 'truck, c-10, chevrolet, cheyenne, classic, beautiful wallpap' a partir de 10s
+[   511s]     + 3_pixabay.mp4 de 'hot rod, ford, custom, automobile, car, vehicle, vintage, cl' a partir de 8s
+[   521s]     + 4_pixabay.mp4 de 'porsche, vintage speedster, speedster, classic, classic cars' a partir de 18s
+# Videos — es05-pegaso
+
+- Planos: 9 · clipes: 30 · sem resultado: 1
+- Folhas: video_contact_sheet_1.jpg, video_contact_sheet_2.jpg, video_contact_sheet_3.jpg
+
+## Sem video livre (usar foto/IA)
+
+- `c_auto_show`
+
+| plano | clipes |
+|---|---|
+| `c_speed_record` | 2 |
+| `c_auto_race` | 4 |
+| `c_auto_show` | 0 |
+| `c_spain` | 4 |
+| `c_trucks` | 4 |
+| `v_pegaso` | 4 |
+| `v_classic_luxury` | 4 |
+| `v_vintage_race` | 4 |
+| `v_truck_classic` | 4 |
+
