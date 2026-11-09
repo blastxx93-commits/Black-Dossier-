@@ -1,0 +1,48 @@
+[     0s] es06-dictadores: 5 planos de video
+[    11s]   c_parade / archive: 8 filmes para 'parade'
+[    18s]     + 1_archive.mp4 de 'New York City, 1959/08/27' a partir de 8s
+[    27s]     + 2_archive.mp4 de 'New York City, 1959/08/27' a partir de 61s
+[    37s]     + 3_archive.mp4 de 'Universal Newsreel Volume 35, Release 75, 09/13/1962' a partir de 44s
+[    46s]     + 4_archive.mp4 de 'Universal Newsreel Volume 35, Release 75, 09/13/1962' a partir de 323s
+[    56s]     + 5_archive.mp4 de 'Universal Newsreel Volume 34, Issue 8: 01/23/1961' a partir de 46s
+[    58s]   c_spain / archive: 1 filmes para 'Franco Spain'
+[    67s]     + 1_archive.mp4 de 'Spanish Revolution Anniversary, 1957/04/08' a partir de 11s
+[    76s]     + 2_archive.mp4 de 'Spanish Revolution Anniversary, 1957/04/08' a partir de 77s
+[    77s]   c_spain / archive: 0 filmes para 'Madrid'
+[    82s]   c_spain / archive: 3 filmes para 'Spain'
+[    91s]     + 3_archive.mp4 de 'Army Digs In for Defense of Arctic, 1956/02/27' a partir de 46s
+[   101s]     + 4_archive.mp4 de 'Army Digs In for Defense of Arctic, 1956/02/27' a partir de 340s
+[   110s]     + 5_archive.mp4 de "Ike's Challenge, 1955/07/21" a partir de 48s
+[   111s]   c_limousine / archive: 0 filmes para 'limousine'
+[   114s]   c_limousine / archive: 1 filmes para 'motorcade'
+[   124s]     + 1_archive.mp4 de 'Universal Newsreel Volume 36, Release 96, 11/24/1963' a partir de 48s
+[   131s]     + 2_archive.mp4 de 'Universal Newsreel Volume 36, Release 96, 11/24/1963' a partir de 355s
+[   134s]   c_limousine / archive: 2 filmes para 'state visit'
+[   144s]     + 3_archive.mp4 de 'Freedom Flight. Hungarians Seize Plane to Germany, 1956/07/1' a partir de 22s
+[   152s]     + 4_archive.mp4 de 'Freedom Flight. Hungarians Seize Plane to Germany, 1956/07/1' a partir de 160s
+[   162s]     + 5_archive.mp4 de "'Dead' A-Bomb Hits U.S. Town, 1958/03/13" a partir de 14s
+[   169s]   c_cuba / archive: 3 filmes para 'Castro Havana'
+[   178s]     + 1_archive.mp4 de 'Castro Triumphs. Havana Crowds Hail Success Of Revolt, 1959/' a partir de 17s
+[   188s]     + 2_archive.mp4 de 'Castro Triumphs. Havana Crowds Hail Success Of Revolt, 1959/' a partir de 122s
+[   197s]     + 3_archive.mp4 de "Rally For Castro. One Million Roar 'Si' To Cuban Executions," a partir de 8s
+[   204s]     + 4_archive.mp4 de "Rally For Castro. One Million Roar 'Si' To Cuban Executions," a partir de 56s
+[   204s]   v_limousine / pexels: 0 filmes para 'vintage limousine'
+[   205s]   v_limousine / pixabay: 12 filmes para 'vintage limousine'
+[   219s]     + 1_pixabay.mp4 de 'alarm, clock, watch, time, retro, vintage' a partir de 0s
+[   232s]     + 2_pixabay.mp4 de 'alarm, clock, watch, time, retro, vintage' a partir de 0s
+[   241s]     + 3_pixabay.mp4 de 'porsche, vintage speedster, speedster, classic, classic cars' a partir de 8s
+[   249s]     trecho escuro em 44s, tentando mais adiante
+[   259s]     + 4_pixabay.mp4 de 'porsche, vintage speedster, speedster, classic, classic cars' a partir de 42s
+# Videos — es06-dictadores
+
+- Planos: 5 · clipes: 23 · sem resultado: 0
+- Folhas: video_contact_sheet_1.jpg, video_contact_sheet_2.jpg, video_contact_sheet_3.jpg
+
+| plano | clipes |
+|---|---|
+| `c_parade` | 5 |
+| `c_spain` | 5 |
+| `c_limousine` | 5 |
+| `c_cuba` | 4 |
+| `v_limousine` | 4 |
+
