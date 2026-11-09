@@ -1,0 +1,284 @@
+{
+ "defaults": {
+  "n": 4,
+  "sources": [
+   "commons",
+   "openverse",
+   "loc"
+  ]
+ },
+ "shots": [
+  {
+   "id": "m_trabant",
+   "query": "Trabant P50",
+   "alt": [
+    "Trabant 601",
+    "Trabant 1960s",
+    "Trabant"
+   ],
+   "n": 12
+  },
+  {
+   "id": "h_zwickau",
+   "query": "Sachsenring Zwickau",
+   "alt": [
+    "Trabant factory Zwickau",
+    "Trabant production"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_wall_fall",
+   "query": "Trabant Berlin Wall 1989",
+   "alt": [
+    "fall of the Berlin Wall Trabant",
+    "Trabant border crossing 1989"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_zastava750",
+   "query": "Zastava 750",
+   "alt": [
+    "Fića Zastava",
+    "Zastava 750 Yugoslavia"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_seat600",
+   "query": "SEAT 600",
+   "alt": [
+    "SEAT 600 D",
+    "SEAT 600 E"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_tatra603",
+   "query": "Tatra 603",
+   "alt": [
+    "Tatra T603",
+    "Tatra 603 three headlights",
+    "Tatra 2-603"
+   ],
+   "n": 12
+  },
+  {
+   "id": "m_gaz21",
+   "query": "GAZ-21 Volga",
+   "alt": [
+    "Volga GAZ-21 black",
+    "GAZ M21 Volga"
+   ],
+   "n": 10
+  },
+  {
+   "id": "h_volga_deer",
+   "query": "GAZ-21 deer hood ornament",
+   "alt": [
+    "Volga deer mascot",
+    "GAZ-21 hood ornament"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_chaika",
+   "query": "GAZ-13 Chaika",
+   "alt": [
+    "GAZ Chaika",
+    "GAZ-13B convertible",
+    "Chaika limousine"
+   ],
+   "n": 10
+  },
+  {
+   "id": "h_soviet_wedding",
+   "query": "Soviet wedding car",
+   "alt": [
+    "Chaika wedding",
+    "Soviet wedding 1970s"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_seat124",
+   "query": "SEAT 124",
+   "alt": [
+    "SEAT 124 D",
+    "SEAT 124 Especial",
+    "SEAT 124 taxi"
+   ],
+   "n": 10
+  },
+  {
+   "id": "m_lada2101",
+   "query": "VAZ-2101",
+   "alt": [
+    "Lada 2101 Zhiguli",
+    "Lada 1200",
+    "VAZ 2101 Zhiguli"
+   ],
+   "n": 10
+  },
+  {
+   "id": "h_togliatti",
+   "query": "AvtoVAZ Togliatti",
+   "alt": [
+    "Togliatti car plant",
+    "VAZ factory"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_fiat124",
+   "query": "Fiat 124",
+   "alt": [
+    "Fiat 124 berlina 1966"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_zil114",
+   "query": "ZIL-114",
+   "alt": [
+    "ZiL-114 limousine",
+    "ZIL 114"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_zil111",
+   "query": "ZIL-111",
+   "alt": [
+    "ZiL-111 limousine"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_moscow_avenue",
+   "query": "Moscow Kalinin Prospekt 1970s",
+   "alt": [
+    "Moscow avenue 1970s",
+    "Moscow 1960s street"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_volvo264te",
+   "query": "Volvo 264 TE",
+   "alt": [
+    "Volvo 264 TE limousine",
+    "Volvo 264 Bertone limousine"
+   ],
+   "n": 8
+  },
+  {
+   "id": "h_wandlitz",
+   "query": "Waldsiedlung Wandlitz",
+   "alt": [
+    "Wandlitz Politbüro",
+    "Waldsiedlung Wandlitz Honecker"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_berlin_wall",
+   "query": "Berlin Wall 1961",
+   "alt": [
+    "Berlin Wall construction 1961",
+    "Berlin Wall 1960s"
+   ],
+   "n": 8
+  },
+  {
+   "id": "h_checkpoint",
+   "query": "Checkpoint Charlie 1960s",
+   "alt": [
+    "Checkpoint Charlie 1961",
+    "Checkpoint Charlie barrier"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_sprite",
+   "query": "Austin-Healey Sprite",
+   "alt": [
+    "Austin-Healey Sprite Mk1 frogeye",
+    "Austin Healey Sprite red"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_isetta",
+   "query": "BMW Isetta",
+   "alt": [
+    "BMW Isetta 300",
+    "Isetta escape car Mauermuseum"
+   ],
+   "n": 8
+  },
+  {
+   "id": "h_mauermuseum",
+   "query": "Mauermuseum Haus am Checkpoint Charlie",
+   "alt": [
+    "Checkpoint Charlie museum escape car",
+    "Mauermuseum Isetta"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_lincoln73",
+   "query": "1973 Lincoln Continental",
+   "alt": [
+    "Lincoln Continental 1973",
+    "Lincoln Continental 1973 Brezhnev Riga"
+   ],
+   "n": 8
+  },
+  {
+   "id": "h_riga_museum",
+   "query": "Riga Motor Museum",
+   "alt": [
+    "Riga Motor Museum Brezhnev",
+    "Rīgas Motormuzejs"
+   ],
+   "n": 6
+  },
+  {
+   "id": "h_nixon_brezhnev",
+   "query": "Nixon Brezhnev 1973",
+   "alt": [
+    "Brezhnev Nixon Camp David",
+    "Leonid Brezhnev"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_gaz23",
+   "query": "GAZ-23 Volga",
+   "alt": [
+    "GAZ-23 KGB",
+    "Volga GAZ-23 V8"
+   ],
+   "n": 6
+  },
+  {
+   "id": "h_kgb",
+   "query": "Lubyanka building",
+   "alt": [
+    "KGB headquarters Lubyanka",
+    "Lubyanka Moscow"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_gaz24",
+   "query": "GAZ-24 Volga",
+   "alt": [
+    "Volga GAZ-24 black"
+   ],
+   "n": 5
+  }
+ ]
+}

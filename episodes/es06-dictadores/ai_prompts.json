@@ -1,0 +1,40 @@
+{
+ "model": "black-forest-labs/flux-1.1-pro-ultra",
+ "raw": true,
+ "n": 1,
+ "style": ", 1960s documentary photograph, rich Kodachrome colour, film grain, period-correct vehicles and clothes, realistic, cinematic, no logos, no badges, no readable text, no brand names",
+ "shots": [
+  {
+   "id": "ai_motorcade",
+   "prompt": "A convoy of identical black 1950s limousines driving through an empty wide Moscow avenue at dusk, seen from a distance, snow on the ground, no readable text, no logos"
+  },
+  {
+   "id": "ai_hongqi_factory",
+   "prompt": "Chinese engineers in 1958 work clothes examining a large black American luxury sedan taken apart in a factory hall, parts laid on the floor, no readable text, no logos"
+  },
+  {
+   "id": "ai_brioni_drive",
+   "prompt": "A white 1953 American convertible with large chrome bumpers driving on a gravel road among Mediterranean pines and the sea, seen from behind, no faces, no readable text, no logos"
+  },
+  {
+   "id": "ai_modena_workshop",
+   "prompt": "A 1959 Italian sports car workshop, mechanics fitting a big racing V8 engine into a dark grand touring coupe chassis, warm light, no readable text, no logos"
+  },
+  {
+   "id": "ai_havana_zil",
+   "prompt": "A long black 1960s Soviet limousine parked on a sunny Havana street among faded pastel buildings and old American cars, no people close, no readable text, no logos"
+  },
+  {
+   "id": "ai_franco_motorcade",
+   "prompt": "A 1960s motorcade of black American limousines escorted by motorcycle police on a wide Madrid avenue, crowd at a distance, black and white photograph, no readable text, no logos"
+  },
+  {
+   "id": "ai_rolls_parade",
+   "prompt": "A black 1950s Rolls-Royce open-top state car with large headlamps driving slowly along a Madrid boulevard lined with spectators, seen from the side at a distance, no recognisable faces, no readable text, no logos"
+  },
+  {
+   "id": "ai_guard_garage",
+   "prompt": "A large old garage in a Spanish palace with polished black 1950s state limousines lined up, soft daylight, no people, no readable text, no logos"
+  }
+ ]
+}

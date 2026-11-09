@@ -1,0 +1,104 @@
+{
+ "defaults": {
+  "n": 4,
+  "clip": 8,
+  "per_film": 2,
+  "years": [
+   1950,
+   1970
+  ],
+  "sources": [
+   "archive"
+  ]
+ },
+ "shots": [
+  {
+   "id": "c_berlin",
+   "query": "Berlin wall",
+   "alt": [
+    "East Berlin",
+    "Berlin border",
+    "Checkpoint Charlie"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1961,
+    1967
+   ],
+   "n": 6,
+   "per_film": 2
+  },
+  {
+   "id": "c_moscow",
+   "query": "Moscow",
+   "alt": [
+    "Soviet Union",
+    "Red Square",
+    "Kremlin"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1955,
+    1967
+   ],
+   "n": 5,
+   "per_film": 2
+  },
+  {
+   "id": "c_escape",
+   "query": "escape East Germany",
+   "alt": [
+    "refugees East Berlin",
+    "flee communist"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1961,
+    1967
+   ],
+   "n": 4,
+   "per_film": 2
+  },
+  {
+   "id": "c_cold_war",
+   "query": "cold war",
+   "alt": [
+    "Khrushchev",
+    "Iron Curtain"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1955,
+    1967
+   ],
+   "n": 4,
+   "per_film": 2
+  },
+  {
+   "id": "c_soviet_cars",
+   "query": "Soviet automobile",
+   "alt": [
+    "Russian cars",
+    "Moscow traffic"
+   ],
+   "collections": [
+    "prelinger",
+    "universal_newsreels"
+   ],
+   "years": [
+    1955,
+    1970
+   ],
+   "n": 4,
+   "per_film": 2
+  }
+ ]
+}

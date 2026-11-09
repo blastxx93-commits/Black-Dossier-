@@ -1,0 +1,275 @@
+{
+ "defaults": {
+  "n": 4,
+  "sources": [
+   "commons",
+   "openverse",
+   "loc"
+  ]
+ },
+ "shots": [
+  {
+   "id": "m_zis110",
+   "query": "ZIS-110",
+   "alt": [
+    "ZiS-110 limousine",
+    "ZIS 110 Packard"
+   ],
+   "n": 8
+  },
+  {
+   "id": "h_stalin",
+   "query": "Joseph Stalin",
+   "alt": [
+    "Stalin portrait",
+    "Stalin 1950"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_kremlin",
+   "query": "Moscow Kremlin 1950s",
+   "alt": [
+    "Kremlin Red Square 1950s",
+    "Red Square parade"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_hongqi",
+   "query": "Hongqi CA72",
+   "alt": [
+    "Hongqi CA72 limousine",
+    "Hongqi Red Flag limousine 1960s",
+    "Hongqi CA770"
+   ],
+   "n": 8
+  },
+  {
+   "id": "h_mao",
+   "query": "Mao Zedong",
+   "alt": [
+    "Mao Zedong 1959",
+    "Tiananmen 1959 parade"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_tito_cadillac",
+   "query": "Tito Cadillac Brijuni",
+   "alt": [
+    "Cadillac Eldorado 1953 Brijuni",
+    "Titov Cadillac"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_eldorado53",
+   "query": "1953 Cadillac Eldorado",
+   "alt": [
+    "Cadillac Eldorado 1953 convertible"
+   ],
+   "n": 6
+  },
+  {
+   "id": "h_tito",
+   "query": "Josip Broz Tito",
+   "alt": [
+    "Tito 1950s",
+    "Brijuni islands"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_maserati5000",
+   "query": "Maserati 5000 GT",
+   "alt": [
+    "Maserati 5000GT Touring",
+    "Maserati 5000 GT Allemano"
+   ],
+   "n": 8
+  },
+  {
+   "id": "h_shah",
+   "query": "Mohammad Reza Pahlavi",
+   "alt": [
+    "Shah of Iran 1960s",
+    "Tehran car museum"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_zil111",
+   "query": "ZIL-111",
+   "alt": [
+    "ZiL-111 limousine",
+    "ZIL 111 convertible",
+    "ZIL-111D"
+   ],
+   "n": 8
+  },
+  {
+   "id": "h_castro",
+   "query": "Fidel Castro 1960s",
+   "alt": [
+    "Fidel Castro Havana 1961",
+    "Havana 1960s street"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_havana_cars",
+   "query": "Havana classic cars",
+   "alt": [
+    "Havana vintage taxi",
+    "old American cars Havana"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_mb600",
+   "query": "Mercedes-Benz 600 Pullman",
+   "alt": [
+    "Mercedes 600 W100",
+    "Mercedes-Benz 600 landaulet",
+    "Mercedes 600 Pullman"
+   ],
+   "n": 12
+  },
+  {
+   "id": "h_idi_amin_car",
+   "query": "Idi Amin Mercedes",
+   "alt": [
+    "Uganda Museum Kampala",
+    "Mercedes 600 Uganda"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_fleetwood70",
+   "query": "Cadillac Fleetwood 75 1970",
+   "alt": [
+    "Cadillac Fleetwood Seventy-Five 1970",
+    "Cadillac Fleetwood 1970 limousine"
+   ],
+   "n": 8
+  },
+  {
+   "id": "h_salamanca_museum",
+   "query": "Museo de la Automoción Salamanca",
+   "alt": [
+    "Museo Historia Automoción Salamanca",
+    "Salamanca car museum"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_franco",
+   "query": "Francisco Franco",
+   "alt": [
+    "Franco 1950s",
+    "Franco desfile"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_pegaso_cupula",
+   "query": "Pegaso Cúpula",
+   "alt": [
+    "Pegaso Z-102 Cupula"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_belair57",
+   "query": "1957 Chevrolet Bel Air sedan",
+   "alt": [
+    "Chevrolet Bel Air 1957 four door",
+    "Chevrolet Bel Air 1957"
+   ],
+   "n": 8
+  },
+  {
+   "id": "h_trujillo",
+   "query": "Rafael Trujillo",
+   "alt": [
+    "Trujillo dictator",
+    "Ciudad Trujillo 1950s"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_santo_domingo",
+   "query": "Santo Domingo 1950s",
+   "alt": [
+    "Ciudad Trujillo",
+    "Santo Domingo malecón"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_dodge3700",
+   "query": "Dodge 3700 GT",
+   "alt": [
+    "Dodge 3700",
+    "Dodge 3700 GT Barreiros",
+    "Dodge Dart Barreiros"
+   ],
+   "n": 10
+  },
+  {
+   "id": "h_carrero",
+   "query": "Luis Carrero Blanco",
+   "alt": [
+    "Carrero Blanco 1973"
+   ],
+   "n": 3
+  },
+  {
+   "id": "h_villaverde",
+   "query": "Barreiros Villaverde",
+   "alt": [
+    "fábrica Barreiros",
+    "Chrysler España Villaverde"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_phantom4",
+   "query": "Rolls-Royce Phantom IV",
+   "alt": [
+    "Rolls-Royce Phantom IV Franco",
+    "Rolls-Royce Phantom IV landaulette",
+    "Rolls Royce Phantom IV Mulliner"
+   ],
+   "n": 12
+  },
+  {
+   "id": "h_guardia_real",
+   "query": "Guardia Real Rolls-Royce",
+   "alt": [
+    "Rolls-Royce Patrimonio Nacional",
+    "Felipe VI proclamación Rolls-Royce",
+    "Guardia Real España"
+   ],
+   "n": 8
+  },
+  {
+   "id": "h_madrid_1950s",
+   "query": "Madrid 1950s",
+   "alt": [
+    "Madrid Gran Vía 1950s",
+    "Madrid street 1960s"
+   ],
+   "n": 6
+  },
+  {
+   "id": "h_el_pardo",
+   "query": "Palacio de El Pardo",
+   "alt": [
+    "El Pardo palace"
+   ],
+   "n": 4
+  }
+ ]
+}

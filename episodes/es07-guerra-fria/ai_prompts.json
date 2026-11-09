@@ -1,0 +1,40 @@
+{
+ "model": "black-forest-labs/flux-1.1-pro-ultra",
+ "raw": true,
+ "n": 1,
+ "style": ", 1960s documentary photograph, rich Kodachrome colour, film grain, period-correct vehicles and clothes, realistic, cinematic, no logos, no badges, no readable text, no brand names",
+ "shots": [
+  {
+   "id": "ai_checkpoint_night",
+   "prompt": "A small red 1960s British roadster without windscreen racing under a lowered striped border barrier at night, floodlights, East Berlin checkpoint, no readable text, no readable text, no logos"
+  },
+  {
+   "id": "ai_isetta_hidden",
+   "prompt": "Cutaway-style view of a tiny 1960s bubble car with a young man curled up in a hidden compartment beside the engine, dim light, tense, no readable text, no logos"
+  },
+  {
+   "id": "ai_trabant_queue",
+   "prompt": "East German 1970s street with a long line of people waiting outside a car sales office, a few small two-stroke cars parked, grey sky, no readable text, no logos"
+  },
+  {
+   "id": "ai_black_volga_night",
+   "prompt": "A black 1960s Soviet sedan with curtained rear windows driving slowly down an empty Eastern European street at night, wet cobblestones, streetlights, no readable text, no logos"
+  },
+  {
+   "id": "ai_zil_lane",
+   "prompt": "A convoy of black Soviet limousines speeding down the empty central lane of a wide Moscow avenue while traffic waits on the sides, 1970s, no readable text, no logos"
+  },
+  {
+   "id": "ai_wandlitz",
+   "prompt": "A row of dark blue 1970s Swedish luxury limousines parked in a quiet forest compound with security fence, East Germany, no readable text, no logos"
+  },
+  {
+   "id": "ai_kgb_chase",
+   "prompt": "A plain-looking black 1960s Soviet sedan accelerating hard on a snowy Moscow road at night, motion blur, headlights, no readable text, no logos"
+  },
+  {
+   "id": "ai_camp_david",
+   "prompt": "A dark blue 1973 American luxury sedan driving on a narrow wooded road at Camp David, two men in suits in the front seats seen from far away, no faces, no readable text, no logos"
+  }
+ ]
+}
