@@ -21,6 +21,7 @@ from PIL import Image, ImageDraw, ImageEnhance, ImageFilter, ImageFont, ImageOps
 HERE = os.path.dirname(os.path.abspath(__file__))
 W, H = 1280, 720
 YEL, RED, WHITE, BLACK = (255, 212, 0), (225, 12, 6), (255, 255, 255), (8, 8, 10)
+HEAD = "InterDisplay-Black.otf"   # headline font; --theme swaps it and the two accent colours (engine/themes.py)
 
 
 def font(name, size):
@@ -92,7 +93,7 @@ def big_words(d, words, x0, max_w):
     """4 huge words stacked one per line (white / yellow alternating); each line as big as it can be, short words capped
     so the block stays balanced, the whole block scaled to fit the frame height."""
     lines = words
-    sizes = [fit(d, l, "InterDisplay-Black.otf", 230, max_w).size for l in lines]
+    sizes = [fit(d, l, HEAD, 230, max_w).size for l in lines]
     cap = int(sorted(sizes)[len(sizes) // 2] * 1.15)        # stop 3-letter words from becoming giant
     sizes = [min(s_, cap) for s_ in sizes]
     total = sum(int(s_ * 0.96) for s_ in sizes)
@@ -101,7 +102,7 @@ def big_words(d, words, x0, max_w):
     y = max(20, (H - sum(int(s_ * 0.96) for s_ in sizes)) // 2)
     cols = [WHITE, YEL, WHITE, YEL]
     for i, (l, s_) in enumerate(zip(lines, sizes)):
-        f = font("InterDisplay-Black.otf", s_)
+        f = font(HEAD, s_)
         outlined(d, (x0, y - int(s_ * 0.12)), l, f, cols[i % 4], max(8, s_ // 18))
         y += int(s_ * 0.96)
 
@@ -113,7 +114,13 @@ def main():
     ap.add_argument("--words", default="", help="channel rule from 31/10/2026: only 4 big words, e.g. 'NOBODY WANTS THESE CARS'")
     ap.add_argument("--tag", default=""); ap.add_argument("--badge", default=""); ap.add_argument("--badge-sub", default="")
     ap.add_argument("--blur", type=float, default=3.5); ap.add_argument("--text-side", default="left")
+    ap.add_argument("--theme", default="")
     a = ap.parse_args()
+    if a.theme:
+        import sys as _s; _s.path.insert(0, HERE)
+        import themes as TH
+        global YEL, RED, HEAD
+        T = TH.get(a.theme); YEL, RED, HEAD = T["accent"], T["accent2"], T["impact"]
     canvas = background(a.bg, a.blur, a.text_side).convert("RGBA")
     if a.persona:
         place_persona(canvas, key_green(a.persona), a.text_side)
@@ -125,12 +132,12 @@ def main():
         canvas.convert("RGB").save(a.out, quality=93)
         print("thumbnail ->", a.out)
         return
-    f1 = fit(d, a.line1, "InterDisplay-Black.otf", 120, max_w)
-    f2 = fit(d, a.line2, "InterDisplay-Black.otf", 140, max_w)
+    f1 = fit(d, a.line1, HEAD, 120, max_w)
+    f2 = fit(d, a.line2, HEAD, 140, max_w)
     y2 = H - 40 - f2.size
     y1 = y2 - f1.size - 6
     if a.tag:
-        ft = font("InterDisplay-Black.otf", 46)
+        ft = font(HEAD, 46)
         tw = d.textlength(a.tag, font=ft)
         ty = y1 - 78
         d.rectangle([x0, ty, x0 + tw + 34, ty + 66], fill=RED)
@@ -138,7 +145,7 @@ def main():
     outlined(d, (x0, y1), a.line1, f1, WHITE)
     outlined(d, (x0, y2), a.line2, f2, YEL, 8)
     if a.badge:
-        fb = fit(d, a.badge, "InterDisplay-Black.otf", 72, W * 0.42)
+        fb = fit(d, a.badge, HEAD, 72, W * 0.42)
         bw = d.textlength(a.badge, font=fb)
         bx = 36 if a.text_side == "left" else W - bw - 90
         d.rounded_rectangle([bx, 34, bx + bw + 50, 34 + fb.size + 34], radius=16, fill=YEL)

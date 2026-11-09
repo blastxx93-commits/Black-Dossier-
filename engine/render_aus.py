@@ -30,6 +30,22 @@ R.FONT_CANDIDATES["impact"] = ["fonts/InterDisplay-Black.otf", "fonts/Anton-Regu
 R.FONT_CANDIDATES["body"] = ["fonts/Inter-SemiBold.otf", "/usr/share/fonts/opentype/inter/Inter-SemiBold.otf",
                              "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"]
 font, ease, wrap = R.font, R.ease, R.wrap
+import themes as TH
+THEME = TH.get("clasico")
+
+
+def apply_theme(ep):
+    """Episode look (episode.json "theme"): accent colours, fonts, studio background. Default "clasico" = original look."""
+    global THEME
+    THEME = TH.get(ep.get("theme"))
+    B.update({"yellow": THEME["accent"], "red": THEME["accent2"], "red_dark": THEME["accent2_dark"],
+              "white": THEME["white"], "grey": THEME["grey"]})
+    R.FONT_CANDIDATES["impact"] = ["fonts/" + THEME["impact"], "fonts/InterDisplay-Black.otf",
+                                   "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"]
+    R.FONT_CANDIDATES["body"] = ["fonts/" + THEME["body"], "fonts/Inter-SemiBold.otf",
+                                 "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"]
+    R._font_cache.clear()
+    _studio.clear()
 CHANNEL = os.environ.get("AUS_CHANNEL", "")
 # on-screen labels per channel language (env CHANNEL_LANG, set by the render workflow from episodes/<ep>/lang.txt)
 LANG = os.environ.get("CHANNEL_LANG", "en").strip() or "en"
@@ -57,11 +73,12 @@ def studio(ctx, seed=0):
     key = (ctx.W, seed % 4)
     if key not in _studio:
         W, H = int(ctx.W * 1.3), int(ctx.H * 1.3)
-        small = Image.new("RGB", (W // 4, H // 4), (12, 12, 15))
+        small = Image.new("RGB", (W // 4, H // 4), THEME["bg"])
         g = ImageDraw.Draw(small)
-        cols = [((255, 190, 0), (0.18, 0.25)), ((210, 10, 5), (0.85, 0.8))]
+        g1, g2 = THEME["glows"]
+        cols = [(g1, (0.18, 0.25)), (g2, (0.85, 0.8))]
         if seed % 2:
-            cols = [((210, 10, 5), (0.15, 0.75)), ((255, 190, 0), (0.85, 0.2))]
+            cols = [(g2, (0.15, 0.75)), (g1, (0.85, 0.2))]
         for col, (fx, fy) in cols:
             glow = Image.new("RGB", small.size, (0, 0, 0))
             ImageDraw.Draw(glow).ellipse([small.width * (fx - 0.35), small.height * (fy - 0.45),
@@ -72,7 +89,7 @@ def studio(ctx, seed=0):
         d = ImageDraw.Draw(im)
         step = ctx.px(46)
         for x in range(-H, W, step):
-            d.line([(x, 0), (x + H, H)], fill=(24, 24, 28), width=max(1, ctx.px(2)))
+            d.line([(x, 0), (x + H, H)], fill=THEME["hairline"], width=max(1, ctx.px(2)))
         _studio[key] = im
     return _studio[key]
 
@@ -592,13 +609,17 @@ def transition(ctx, kind, a, b, t):
 
 # ---------------------------------------------------------------- render (resumable, with transitions)
 def grade_vf(ep):
-    g = ep.get("grade", {})
+    # a themed episode takes the theme's grade (ep "grade" can still fine-tune it); others keep their own grade
+    g = dict(TH.get(ep.get("theme"))["grade"], **ep.get("grade", {})) if ep.get("theme") else ep.get("grade", {})
+    tone = TH.get(ep.get("theme"))["tone"] if ep.get("theme") else ""
     return (f"eq=contrast={g.get('contrast', 1.06)}:saturation={g.get('saturation', 1.08)}:gamma={g.get('gamma', 1.0)},"
+            + (tone + "," if tone else "") +
             f"noise=alls={g.get('grain', 2)}:allf=t,vignette=angle=PI/5,format=yuv420p")
 
 
 def render(ep_path, preview=False, seg_shots=16):
     ep = json.load(open(ep_path))
+    apply_theme(ep)
     base = os.path.dirname(os.path.abspath(ep_path))
     W, H = (960, 540) if preview else tuple(ep.get("size", [1920, 1080]))
     fps = ep.get("fps", 24)
@@ -672,6 +693,7 @@ def render(ep_path, preview=False, seg_shots=16):
 # ---------------------------------------------------------------- split render (cloud: one machine per part)
 def _setup(ep_path, preview=False):
     ep = json.load(open(ep_path))
+    apply_theme(ep)
     base = os.path.dirname(os.path.abspath(ep_path))
     W, H = (960, 540) if preview else tuple(ep.get("size", [1920, 1080]))
     ctx = R.Ctx(W, H, ep.get("fps", 24), base)

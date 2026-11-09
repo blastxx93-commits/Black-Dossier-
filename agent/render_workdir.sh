@@ -14,5 +14,5 @@ if [ -f "main/episodes/$EP/edit/music.txt" ]; then
 fi
 cp "main/episodes/$EP/edit/episode.json" work/
 cp main/episodes/"$EP"/edit/*.ass work/ 2>/dev/null || true
-mkdir -p ~/.fonts && cp main/engine/fonts/*.otf ~/.fonts/ && fc-cache -f > /dev/null || true
+mkdir -p ~/.fonts && cp main/engine/fonts/*.otf main/engine/fonts/*.ttf ~/.fonts/ && fc-cache -f > /dev/null || true
 echo "pasta de render pronta: $(ls work)"

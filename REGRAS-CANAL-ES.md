@@ -40,6 +40,12 @@ Mesmo motor (`engine/render_aus.py`, `engine/aus_kit.py`) e mesmas regras de mon
 - Legendas amarelas gravadas no vídeo + .srt; trilha sintetizada a -29 dB sob a voz; voz sempre a 1.0.
 - Render paralelo no GitHub (workflow "Renderizar vídeo") com versão de entrega leve.
 
+## 3b. Visual diferente a cada vídeo (pedido do dono, 09/11/2026)
+- Cada episódio usa um **tema visual** de `engine/themes.py` (no build: `A.THEME = "..."`): cores das cartelas,
+  fonte dos títulos, fundo dos gráficos, tratamento de cor do vídeo inteiro, cor da legenda e thumbnail (`--theme`).
+- Temas: `clasico` (ep. 1–3), `retro60` (quente/anos 60), `noir_oro` (preto e dourado), `revista` (ciano/magenta),
+  `periodico` (quase P&B, jornal). Nunca repetir o tema do episódio anterior; escolher o que combina com o assunto.
+
 ## 4. Imagens e segurança
 - **Prioridade máxima para material real (pedido do dono, 02/11/2026):** fotos reais dos modelos e clipes de arquivo de época
   em primeiro lugar, buscando bastante (várias buscas por carro, muitas opções). Cena de IA **só** onde não houver foto ou

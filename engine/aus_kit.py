@@ -25,6 +25,7 @@ USED, HASHES, POOLS, CREDITS = set(), [], {}, {}
 COUNT = {"img": 0, "vid": 0}
 CLIP_TARGET = 0.40
 MAX_HOLD, KEEP = 7.5, 5.0
+THEME = None  # es* builds pick a look from engine/themes.py (e.g. "retro60"); None keeps the original look
 SPLIT_BY_SUBJECT = False  # es* builds set True: long holds continue on the same car, not the chapter's car
 ARCHIVE_OK = False  # period channels (es*) set True: archive newsreels are their best footage
 MOVES = ["in", "left", "out", "right", "in", "up", "out", "down"]
@@ -259,6 +260,8 @@ def finish(chapters, output, ctx, subtitles=None, music_gain=-29):  # -29 dB: be
     """Builds episode JSON: timings from the narration, long holds split, channel checks. Returns the JSON text."""
     ep = K.build_episode(chapters, output, music="trilha.wav", music_gain=music_gain, final_fade=0)
     ep["size"] = [1920, 1080]
+    if THEME:
+        ep["theme"] = THEME
     if subtitles:
         ep["subtitles"] = subtitles
     misses = [m for c in chapters for m in c.misses]
