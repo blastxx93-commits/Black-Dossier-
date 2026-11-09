@@ -1,0 +1,103 @@
+[     0s] es04-seat600: 10 planos de video
+[     6s]   c_spain / archive: 4 filmes para 'Spain'
+[    15s]     + 1_archive.mp4 de 'Army Digs In for Defense of Arctic, 1956/02/27' a partir de 46s
+[    25s]     + 2_archive.mp4 de 'Army Digs In for Defense of Arctic, 1956/02/27' a partir de 340s
+[    34s]     + 3_archive.mp4 de 'Spanish Revolution Anniversary, 1957/04/08' a partir de 11s
+[    43s]     + 4_archive.mp4 de 'Spanish Revolution Anniversary, 1957/04/08' a partir de 77s
+[    54s]     + 5_archive.mp4 de "Ike's Challenge, 1955/07/21" a partir de 48s
+[    65s]     + 6_archive.mp4 de "Ike's Challenge, 1955/07/21" a partir de 349s
+[    77s]   c_beach / archive: 8 filmes para 'beach'
+[    87s]     + 1_archive.mp4 de 'American Maker' a partir de 182s
+[    97s]     + 2_archive.mp4 de 'American Maker' a partir de 1334s
+[   106s]     + 3_archive.mp4 de 'Ike Tells U.N. Direct U.N. Action Is Key To Mid-East Peace, ' a partir de 45s
+[   117s]     + 4_archive.mp4 de 'Ike Tells U.N. Direct U.N. Action Is Key To Mid-East Peace, ' a partir de 327s
+[   125s]     + 5_archive.mp4 de 'Home Movie: 97247: Lake Isabella, Long Beach and Shrine Para' a partir de 164s
+[   136s]   c_traffic / archive: 8 filmes para 'traffic jam'
+[   145s]     + 1_archive.mp4 de 'Hear and Now' a partir de 131s
+[   153s]     + 2_archive.mp4 de 'Hear and Now' a partir de 959s
+[   156s]     corte falhou (American1956_3_edit.mp4): : Server returned 5XX Server Error reply
+Error opening input file https://archive.org/download/American1956_3/American1956_3_edit.mp4.
+Error opening input files: Server returned 5XX Server Error reply
+[   177s]     + 3_archive.mp4 de 'American Engineer (Part III)' a partir de 466s
+[   197s]     + 4_archive.mp4 de 'Rochester: A City of Quality (Part II)' a partir de 112s
+[   212s]     + 5_archive.mp4 de 'Rochester: A City of Quality (Part II)' a partir de 823s
+[   225s]   c_factory / archive: 8 filmes para 'assembly line'
+[   240s]     + 1_archive.mp4 de 'American Maker' a partir de 98s
+[   257s]     + 2_archive.mp4 de 'American Maker' a partir de 715s
+[   266s]     + 3_archive.mp4 de 'Threads of Technology' a partir de 126s
+[   275s]     + 4_archive.mp4 de 'Threads of Technology' a partir de 921s
+[   284s]     + 5_archive.mp4 de 'DEW Line Story' a partir de 197s
+[   286s]   c_italy / archive: 1 filmes para 'Turin'
+[   297s]     + 1_archive.mp4 de 'Journey Bound. Fliers Freed After Two Years Captivity, 1955/' a partir de 33s
+[   308s]     + 2_archive.mp4 de 'Journey Bound. Fliers Freed After Two Years Captivity, 1955/' a partir de 240s
+[   310s]   c_italy / archive: 1 filmes para 'Fiat'
+[   311s]   c_italy / archive: 0 filmes para 'Italy cars'
+[   312s]   v_seat600 / commons: 4 filmes para 'Seat 600'
+[   313s]   v_seat600 / pixabay: 10 filmes para 'Seat 600'
+[   313s]   v_seat600 / pexels: 0 filmes para 'Seat 600'
+[   314s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=Seat+600&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e
+[   314s]   v_seat600 / coverr: 0 filmes para 'Seat 600'
+[   315s]     trecho escuro em 172s, tentando mais adiante
+[   315s]     trecho escuro em 271s, tentando mais adiante
+[   315s]     corte falhou (The_Best_Commuter_Bike_I%27ve_Ever_Owned-The_Prior): ve_Ever_Owned-The_Priority_600_with_Gates_and_Pinion.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   315s]     corte falhou (Late_Night_Traffic_Stop_Erupts_Into_Gunfire_After_): fic_Stop_Erupts_Into_Gunfire_After_Man_Grabs_Handgun.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   316s]     corte falhou (Armstrong_Whitworth_AW.15_Atalanta_1932.webm?utm_s): commons/8/89/Armstrong_Whitworth_AW.15_Atalanta_1932.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   316s]     corte falhou (Recording_of_discussion_-_WMF_Annual_Plan_2023-34_): WMF_Annual_Plan_2023-34_-_regarding_Future_Audiences.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   326s]     + 1_pixabay.mp4 de 'spring, park, swinging bench, seat, relax, romantic, nature,' a partir de 8s
+[   339s]     trecho escuro em 8s, tentando mais adiante
+[   351s]     trecho escuro em 8s, tentando mais adiante
+[   365s]     + 2_pixabay.mp4 de 'sofa, chromakey, new, design, leather, brown, white, checker' a partir de 0s
+[   373s]     + 3_pixabay.mp4 de 'chairs, empty, concept, desert, business, leadership, insura' a partir de 8s
+[   382s]     + 4_pixabay.mp4 de 'church, religion, god, light, holy, trinity, jesus, cathedra' a partir de 10s
+[   383s]   v_fiat600 / commons: 0 filmes para 'Fiat 600 classic'
+[   384s]   v_fiat600 / pixabay: 11 filmes para 'Fiat 600 classic'
+[   384s]   v_fiat600 / pexels: 0 filmes para 'Fiat 600 classic'
+[   385s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=Fiat+600+classic&page_size=8&urls=true&api_key=e46f0775805a10c2dd3
+[   385s]   v_fiat600 / coverr: 0 filmes para 'Fiat 600 classic'
+[   393s]     + 1_pixabay.mp4 de 'porsche, vintage speedster, speedster, classic, classic cars' a partir de 18s
+[   406s]     + 2_pixabay.mp4 de 'vinyl, lp, turntable, analog, retro, sound, record, music, a' a partir de 10s
+[   414s]     trecho escuro em 8s, tentando mais adiante
+[   421s]     trecho escuro em 8s, tentando mais adiante
+[   440s]     + 3_pixabay.mp4 de 'car, highway, road, classic, mountain' a partir de 8s
+[   446s]     + 4_pixabay.mp4 de 'porsche spyder, vintage porsche, porsche, classic, car' a partir de 10s
+[   447s]   v_spain_road / commons: 0 filmes para 'Spain road classic car'
+[   449s]   v_spain_road / pixabay: 12 filmes para 'Spain road classic car'
+[   449s]   v_spain_road / pexels: 0 filmes para 'Spain road classic car'
+[   449s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=Spain+road+classic+car&page_size=8&urls=true&api_key=e46f0775805a1
+[   449s]   v_spain_road / coverr: 0 filmes para 'Spain road classic car'
+[   457s]     + 1_pixabay.mp4 de 'car, road, transportation, vehicle, driving, car on road, tr' a partir de 21s
+[   473s]     + 2_pixabay.mp4 de 'traffic, city, stop, road, car, bridge, river, urban' a partir de 8s
+[   486s]     trecho escuro em 8s, tentando mais adiante
+[   498s]     trecho escuro em 8s, tentando mais adiante
+[   529s]     + 3_pixabay.mp4 de 'winter, snow, nature, cold, frost, landscape, wonderland, fo' a partir de 8s
+[   539s]     + 4_pixabay.mp4 de 'rallye, car race, rally, drifting, dirt, dust, curve, speed,' a partir de 0s
+[   540s]   v_beach_retro / commons: 1 filmes para 'retro beach'
+[   541s]   v_beach_retro / pixabay: 12 filmes para 'retro beach'
+[   541s]   v_beach_retro / pexels: 0 filmes para 'retro beach'
+[   542s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=retro+beach&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa
+[   542s]   v_beach_retro / coverr: 0 filmes para 'retro beach'
+[   542s]     corte falhou (Muizenberg_Fires_of_2015.webm?utm_source=commons.w): .org/wikipedia/commons/3/38/Muizenberg_Fires_of_2015.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   559s]     + 1_pixabay.mp4 de 'hats, women, fashion, accesories, holiday, retro, style, bea' a partir de 8s
+[   560s]     trecho escuro em 0s, tentando mais adiante
+[   564s]     + 2_pixabay.mp4 de 'retro, beach, drive, 80s, glitch, visuals, background' a partir de 0s
+[   568s]     + 3_pixabay.mp4 de 'skateboard, skating, skateboarding, shoes, sport, beach, sun' a partir de 0s
+[   569s]     trecho escuro em 0s, tentando mais adiante
+[   582s]     + 4_pixabay.mp4 de 'steampunk, jetski, summer, fun, tropical, sea, water, crysta' a partir de 0s
+[   583s]   v_classic_meeting / commons: 0 filmes para 'classic car meeting'
+[   584s]   v_classic_meeting / pixabay: 12 filmes para 'classic car meeting'
+[   584s]   v_classic_meeting / pexels: 0 filmes para 'classic car meeting'
+[   585s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=classic+car+meeting&page_size=8&urls=true&api_key=e46f0775805a10c2
+[   585s]   v_classic_meeting / coverr: 0 filmes para 'classic car meeting'
+[   590s]     + 1_pixabay.mp4 de 'meeting, planning, marketing, business, team, people, office' a partir de 15s
+[   596s]     + 2_pixabay.mp4 de 'meeting, conference, talk, blur, bokeh, business, people, co' a partir de 8s
+[   599s]     trecho escuro em 8s, tentando mais adiante
+[   602s]     trecho escuro em 8s, tentando mais adiante
+[   619s]     + 3_pixabay.mp4 de 'car, desert, driving, drone, sand, arial, tajikistan' a partir de 0s
+[   629s]     trecho escuro em 8s, tentando mais adiante
+[   638s]     trecho escuro em 8s, tentando mais adiante
+[   652s]     + 4_pixabay.mp4 de 'car, red, rotate, rotating, 360, showroom, red car, vehicle,' a partir de 0s
