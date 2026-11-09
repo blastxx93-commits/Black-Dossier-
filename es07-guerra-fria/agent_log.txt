@@ -1,0 +1,235 @@
+[     0s] es07-guerra-fria: 30 planos, limite 35.0 min
+[     0s] m_trabant: 'Trabant P50'
+[     1s]     commons: 10 candidatos em 0.9s
+[    11s]     openverse: 11 candidatos em 10.0s
+[    13s]     loc: 0 candidatos em 2.0s
+[    22s]   -> 12 imagens
+[    22s] h_zwickau: 'Sachsenring Zwickau'
+[    23s]     commons: 12 candidatos em 0.9s
+[    35s]     openverse: 2 candidatos em 11.5s
+[    59s]   ! www.loc.gov: 429 rate limit
+[    59s]     loc: 0 candidatos em 24.0s
+[    62s]     falhou download (openverse) em 0.1s
+[    64s]     falhou download (openverse) em 0.2s
+[    68s]   -> 5 imagens
+[    68s] h_wall_fall: 'Trabant Berlin Wall 1989'
+[    69s]     commons: 10 candidatos em 0.6s
+[    79s]     openverse: 10 candidatos em 10.3s
+[   103s]   ! www.loc.gov: 429 rate limit
+[   103s]     loc: 0 candidatos em 24.0s
+[   108s]   -> 6 imagens
+[   108s] m_zastava750: 'Zastava 750'
+[   109s]     commons: 12 candidatos em 0.4s
+[   139s]     openverse: 9 candidatos em 30.6s
+[   163s]   ! www.loc.gov: 429 rate limit
+[   163s]   ! www.loc.gov desligado nesta execucao (3 falhas seguidas)
+[   163s]     loc: 0 candidatos em 24.0s
+[   170s]   -> 8 imagens
+[   170s] m_seat600: 'SEAT 600'
+[   170s]     commons: 10 candidatos em 0.5s
+[   184s]     openverse: 11 candidatos em 13.7s
+[   184s]     loc: 0 candidatos em 0.0s
+[   188s]   -> 6 imagens
+[   188s] m_tatra603: 'Tatra 603'
+[   189s]     commons: 12 candidatos em 0.5s
+[   203s]     openverse: 12 candidatos em 14.7s
+[   203s]     loc: 0 candidatos em 0.0s
+[   215s]   -> 12 imagens
+[   215s] m_gaz21: 'GAZ-21 Volga'
+[   216s]     commons: 12 candidatos em 1.5s
+[   229s]     openverse: 11 candidatos em 12.5s
+[   229s]     loc: 0 candidatos em 0.0s
+[   237s]   -> 10 imagens
+[   237s] h_volga_deer: 'GAZ-21 deer hood ornament'
+[   237s]     commons: 11 candidatos em 0.6s
+[   245s]     openverse: 7 candidatos em 7.7s
+[   245s]     loc: 0 candidatos em 0.0s
+[   258s]   -> 4 imagens
+[   258s] m_chaika: 'GAZ-13 Chaika'
+[   258s]     commons: 11 candidatos em 0.4s
+[   270s]     openverse: 11 candidatos em 11.5s
+[   270s]     loc: 0 candidatos em 0.0s
+[   302s]     falhou download (commons) em 30.1s
+[   336s]     falhou download (openverse) em 30.1s
+[   367s]     falhou download (openverse) em 30.1s
+[   368s]   -> 10 imagens
+[   368s] h_soviet_wedding: 'Soviet wedding car'
+[   370s]     commons: 11 candidatos em 1.6s
+[   382s]     openverse: 11 candidatos em 12.5s
+[   382s]     loc: 0 candidatos em 0.0s
+[   385s]   -> 4 imagens
+[   385s] m_seat124: 'SEAT 124'
+[   386s]     commons: 11 candidatos em 0.8s
+[   396s]     openverse: 10 candidatos em 9.5s
+[   396s]     loc: 0 candidatos em 0.0s
+[   430s]     falhou download (commons) em 30.1s
+[   462s]     falhou download (openverse) em 30.1s
+[   464s]   -> 10 imagens
+[   464s] m_lada2101: 'VAZ-2101'
+[   464s]     commons: 12 candidatos em 0.7s
+[   474s]     openverse: 12 candidatos em 9.4s
+[   474s]     loc: 0 candidatos em 0.0s
+[   475s]     falhou download (openverse) em 0.0s
+[   480s]     falhou download (openverse) em 0.0s
+[   481s]     falhou download (openverse) em 0.0s
+[   482s]     falhou download (openverse) em 0.0s
+[   484s]   -> 10 imagens
+[   484s] h_togliatti: 'AvtoVAZ Togliatti'
+[   484s]     commons: 11 candidatos em 0.6s
+[   491s]     openverse: 8 candidatos em 6.4s
+[   491s]     loc: 0 candidatos em 0.0s
+[   491s]     falhou download (commons) em 0.0s
+[   491s]     falhou download (commons) em 0.0s
+[   491s]     falhou download (openverse) em 0.0s
+[   491s]     falhou download (commons) em 0.0s
+[   491s]     falhou download (openverse) em 0.0s
+[   491s]     falhou download (commons) em 0.0s
+[   491s]     falhou download (openverse) em 0.0s
+[   492s]     falhou download (openverse) em 0.0s
+[   493s]     falhou download (openverse) em 0.0s
+[   493s]     falhou download (commons) em 0.0s
+[   493s]     falhou download (openverse) em 0.0s
+[   493s]     falhou download (commons) em 0.0s
+[   493s]     falhou download (openverse) em 0.0s
+[   495s]   -> 5 imagens
+[   495s] m_fiat124: 'Fiat 124'
+[   496s]     commons: 12 candidatos em 0.5s
+[   502s]     openverse: 9 candidatos em 6.8s
+[   502s]     loc: 0 candidatos em 0.0s
+[   506s]   -> 5 imagens
+[   506s] m_zil114: 'ZIL-114'
+[   507s]     commons: 11 candidatos em 0.4s
+[   515s]     openverse: 8 candidatos em 8.1s
+[   515s]     loc: 0 candidatos em 0.0s
+[   515s]     falhou download (commons) em 0.0s
+[   516s]     falhou download (commons) em 0.0s
+[   517s]     falhou download (openverse) em 0.0s
+[   518s]     falhou download (openverse) em 0.0s
+[   518s]     falhou download (commons) em 0.0s
+[   518s]     falhou download (openverse) em 0.0s
+[   521s]     falhou download (openverse) em 0.0s
+[   523s]     falhou download (openverse) em 0.0s
+[   526s]     falhou download (openverse) em 0.0s
+[   528s]   -> 8 imagens
+[   528s] m_zil111: 'ZIL-111'
+[   529s]     commons: 10 candidatos em 0.7s
+[   537s]     openverse: 12 candidatos em 7.9s
+[   537s]     loc: 0 candidatos em 0.0s
+[   541s]   -> 5 imagens
+[   541s] h_moscow_avenue: 'Moscow Kalinin Prospekt 1970s'
+[   541s]     commons: 0 candidatos em 0.4s
+[   544s]     openverse: 0 candidatos em 3.0s
+[   544s]     loc: 0 candidatos em 0.0s
+[   547s]     commons: 12 candidatos em 3.2s
+[   557s]     openverse: 3 candidatos em 10.0s
+[   557s]     loc: 0 candidatos em 0.0s
+[   565s]   -> 5 imagens
+[   565s] m_volvo264te: 'Volvo 264 TE'
+[   566s]     commons: 12 candidatos em 0.5s
+[   574s]     openverse: 12 candidatos em 7.8s
+[   574s]     loc: 0 candidatos em 0.0s
+[   577s]     falhou download (commons) em 0.0s
+[   579s]     falhou download (commons) em 0.0s
+[   580s]   -> 8 imagens
+[   580s] h_wandlitz: 'Waldsiedlung Wandlitz'
+[   581s]     commons: 12 candidatos em 0.5s
+[   587s]     openverse: 11 candidatos em 5.7s
+[   587s]     loc: 0 candidatos em 0.0s
+[   587s]     falhou download (commons) em 0.0s
+[   587s]     falhou download (openverse) em 0.0s
+[   589s]     falhou download (openverse) em 0.0s
+[   592s]     falhou download (openverse) em 0.0s
+[   593s]     falhou download (openverse) em 0.0s
+[   594s]   -> 4 imagens
+[   594s] h_berlin_wall: 'Berlin Wall 1961'
+[   594s]     commons: 6 candidatos em 0.4s
+[   600s]     openverse: 2 candidatos em 5.4s
+[   600s]     loc: 0 candidatos em 0.0s
+[   600s]     falhou download (commons) em 0.0s
+[   602s]     falhou download (commons) em 0.0s
+[   602s]     falhou download (commons) em 0.0s
+[   605s]     commons: 10 candidatos em 0.5s
+[   613s]     openverse: 7 candidatos em 7.7s
+[   613s]     loc: 0 candidatos em 0.0s
+[   613s]     falhou download (commons) em 0.0s
+[   615s]   -> 8 imagens
+[   615s] h_checkpoint: 'Checkpoint Charlie 1960s'
+[   616s]     commons: 5 candidatos em 0.9s
+[   624s]     openverse: 1 candidatos em 8.3s
+[   624s]     loc: 0 candidatos em 0.0s
+[   625s]     falhou download (openverse) em 0.0s
+[   625s]     falhou download (commons) em 0.0s
+[   630s]     commons: 10 candidatos em 0.6s
+[   636s]     openverse: 5 candidatos em 5.3s
+[   636s]     loc: 0 candidatos em 0.0s
+[   636s]     falhou download (commons) em 0.0s
+[   637s]     falhou download (commons) em 0.0s
+[   639s]   -> 8 imagens
+[   639s] m_sprite: 'Austin-Healey Sprite'
+[   639s]     commons: 12 candidatos em 0.7s
+[   649s]     openverse: 6 candidatos em 9.6s
+[   649s]     loc: 0 candidatos em 0.0s
+[   654s]     falhou download (commons) em 0.0s
+[   655s]   -> 8 imagens
+[   655s] m_isetta: 'BMW Isetta'
+[   656s]     commons: 12 candidatos em 0.4s
+[   661s]     openverse: 10 candidatos em 5.0s
+[   661s]     loc: 0 candidatos em 0.0s
+[   667s]   -> 8 imagens
+[   667s] h_mauermuseum: 'Mauermuseum Haus am Checkpoint Charlie'
+[   668s]     commons: 12 candidatos em 0.9s
+[   676s]     openverse: 2 candidatos em 7.7s
+[   676s]     loc: 0 candidatos em 0.0s
+[   676s]     falhou download (commons) em 0.0s
+[   677s]     falhou download (openverse) em 0.0s
+[   677s]     falhou download (commons) em 0.0s
+[   677s]     falhou download (commons) em 0.0s
+[   680s]   -> 5 imagens
+[   680s] m_lincoln73: '1973 Lincoln Continental'
+[   681s]     commons: 12 candidatos em 0.8s
+[   687s]     openverse: 6 candidatos em 6.0s
+[   687s]     loc: 0 candidatos em 0.0s
+[   690s]     falhou download (commons) em 0.0s
+[   698s]   -> 8 imagens
+[   698s] h_riga_museum: 'Riga Motor Museum'
+[   698s]     commons: 12 candidatos em 0.6s
+[   707s]     openverse: 11 candidatos em 8.9s
+[   707s]     loc: 0 candidatos em 0.0s
+[   708s]     falhou download (openverse) em 0.0s
+[   709s]     falhou download (openverse) em 0.0s
+[   712s]   -> 6 imagens
+[   712s] h_nixon_brezhnev: 'Nixon Brezhnev 1973'
+[   713s]     commons: 7 candidatos em 1.2s
+[   722s]     openverse: 1 candidatos em 8.4s
+[   722s]     loc: 0 candidatos em 0.0s
+[   723s]     falhou download (openverse) em 0.0s
+[   723s]     falhou download (commons) em 0.0s
+[   723s]     falhou download (commons) em 0.0s
+[   723s]     falhou download (commons) em 0.0s
+[   726s]     commons: 1 candidatos em 1.0s
+[   730s]     openverse: 0 candidatos em 3.6s
+[   730s]     loc: 0 candidatos em 0.0s
+[   730s]   -> 5 imagens
+[   730s] m_gaz23: 'GAZ-23 Volga'
+[   731s]     commons: 11 candidatos em 0.5s
+[   734s]     openverse: 0 candidatos em 3.6s
+[   734s]     loc: 0 candidatos em 0.0s
+[   735s]     falhou download (commons) em 0.0s
+[   739s]     falhou download (commons) em 0.0s
+[   741s]   -> 6 imagens
+[   741s] h_kgb: 'Lubyanka building'
+[   742s]     commons: 12 candidatos em 0.4s
+[   752s]     openverse: 12 candidatos em 10.5s
+[   752s]     loc: 0 candidatos em 0.0s
+[   753s]     falhou download (openverse) em 0.0s
+[   754s]     falhou download (openverse) em 0.0s
+[   755s]     falhou download (openverse) em 0.0s
+[   755s]   -> 4 imagens
+[   755s] m_gaz24: 'GAZ-24 Volga'
+[   756s]     commons: 12 candidatos em 0.5s
+[   764s]     openverse: 12 candidatos em 7.7s
+[   764s]     loc: 0 candidatos em 0.0s
+[   766s]     falhou download (openverse) em 0.0s
+[   766s]     falhou download (openverse) em 0.0s
+[   768s]   -> 5 imagens
+[   773s] fim: 208 imagens
