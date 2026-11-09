@@ -1,0 +1,40 @@
+{
+ "model": "black-forest-labs/flux-1.1-pro-ultra",
+ "raw": true,
+ "n": 1,
+ "style": ", documentary photograph, Kodachrome colour, film grain, period-correct vehicles and clothes, realistic, cinematic, no logos, no badges, no readable text, no brand names",
+ "shots": [
+  {
+   "id": "ai_family_baca",
+   "prompt": "A Spanish family of five packing suitcases, folding chairs and an umbrella onto the roof rack of a small cream-coloured late-1950s rear-engine car in a sunny village street, 1962, no readable text, no logos"
+  },
+  {
+   "id": "ai_first_sea",
+   "prompt": "A small 1960s rear-engine car parked near a Mediterranean beach in Spain, a family running towards the sea for the first time, 1963, no readable text, no logos"
+  },
+  {
+   "id": "ai_queue_dealer",
+   "prompt": "A queue of hopeful Spanish people in 1957 clothes waiting outside a car dealership with a small new car in the window, Barcelona street, no readable text, no logos"
+  },
+  {
+   "id": "ai_factory_1957",
+   "prompt": "A 1957 car factory assembly line in Barcelona with workers in blue overalls building small rounded rear-engine cars, no readable text, no logos"
+  },
+  {
+   "id": "ai_push_hill",
+   "prompt": "A family pushing a heavily loaded small 1960s car up a steep mountain road in Spain, laughing, summer, no readable text, no logos"
+  },
+  {
+   "id": "ai_sunday_wash",
+   "prompt": "A man washing his small cream-coloured 1960s car on a Sunday morning in a Spanish neighbourhood, children helping, no readable text, no logos"
+  },
+  {
+   "id": "ai_last_car",
+   "prompt": "A white small early-1970s rear-engine car at the end of a factory assembly line, workers in overalls gathered around it applauding, emotional, no readable text, no logos"
+  },
+  {
+   "id": "ai_rationing",
+   "prompt": "Spain 1950: people with ration books queuing outside a grocery shop, black and white, no readable text, no logos"
+  }
+ ]
+}

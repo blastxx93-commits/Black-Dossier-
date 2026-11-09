@@ -1,0 +1,184 @@
+{
+ "defaults": {
+  "n": 4,
+  "clip": 8,
+  "per_film": 2,
+  "years": [
+   1955,
+   1973
+  ],
+  "sources": [
+   "archive"
+  ]
+ },
+ "shots": [
+  {
+   "id": "c_spain",
+   "query": "Spain",
+   "alt": [
+    "Madrid",
+    "Barcelona",
+    "Spanish"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1955,
+    1973
+   ],
+   "n": 6,
+   "per_film": 2
+  },
+  {
+   "id": "c_beach",
+   "query": "beach",
+   "alt": [
+    "seaside",
+    "vacation",
+    "Costa Brava"
+   ],
+   "collections": [
+    "universal_newsreels",
+    "prelinger"
+   ],
+   "years": [
+    1955,
+    1972
+   ],
+   "n": 5,
+   "per_film": 2
+  },
+  {
+   "id": "c_traffic",
+   "query": "traffic jam",
+   "alt": [
+    "traffic",
+    "small cars"
+   ],
+   "collections": [
+    "universal_newsreels",
+    "prelinger"
+   ],
+   "years": [
+    1955,
+    1972
+   ],
+   "n": 5,
+   "per_film": 2
+  },
+  {
+   "id": "c_factory",
+   "query": "assembly line",
+   "alt": [
+    "automobile plant",
+    "car factory"
+   ],
+   "collections": [
+    "universal_newsreels",
+    "prelinger"
+   ],
+   "years": [
+    1950,
+    1970
+   ],
+   "n": 5,
+   "per_film": 2
+  },
+  {
+   "id": "c_italy",
+   "query": "Turin",
+   "alt": [
+    "Fiat",
+    "Italy cars"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1955,
+    1965
+   ],
+   "n": 4,
+   "per_film": 2
+  },
+  {
+   "id": "v_seat600",
+   "query": "Seat 600",
+   "alt": [
+    "fiat 600",
+    "seat 600 driving"
+   ],
+   "sources": [
+    "commons",
+    "pixabay",
+    "pexels",
+    "coverr"
+   ],
+   "n": 4,
+   "per_film": 1
+  },
+  {
+   "id": "v_fiat600",
+   "query": "Fiat 600 classic",
+   "alt": [
+    "vintage fiat"
+   ],
+   "sources": [
+    "commons",
+    "pixabay",
+    "pexels",
+    "coverr"
+   ],
+   "n": 4,
+   "per_film": 1
+  },
+  {
+   "id": "v_spain_road",
+   "query": "Spain road classic car",
+   "alt": [
+    "vintage car spain",
+    "classic car road"
+   ],
+   "sources": [
+    "commons",
+    "pixabay",
+    "pexels",
+    "coverr"
+   ],
+   "n": 4,
+   "per_film": 1
+  },
+  {
+   "id": "v_beach_retro",
+   "query": "retro beach",
+   "alt": [
+    "vintage beach"
+   ],
+   "sources": [
+    "commons",
+    "pixabay",
+    "pexels",
+    "coverr"
+   ],
+   "n": 4,
+   "per_film": 1
+  },
+  {
+   "id": "v_classic_meeting",
+   "query": "classic car meeting",
+   "alt": [
+    "vintage car show",
+    "oldtimer"
+   ],
+   "sources": [
+    "commons",
+    "pixabay",
+    "pexels",
+    "coverr"
+   ],
+   "n": 4,
+   "per_film": 1
+  }
+ ]
+}

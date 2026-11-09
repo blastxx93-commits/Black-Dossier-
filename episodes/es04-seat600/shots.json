@@ -1,0 +1,266 @@
+{
+ "defaults": {
+  "n": 4,
+  "sources": [
+   "commons",
+   "openverse",
+   "loc"
+  ]
+ },
+ "shots": [
+  {
+   "id": "m_600n",
+   "query": "SEAT 600 N",
+   "alt": [
+    "Seat 600 1957",
+    "Seat 600 Normal",
+    "SEAT 600 primera serie"
+   ],
+   "n": 10
+  },
+  {
+   "id": "m_600d",
+   "query": "SEAT 600 D",
+   "alt": [
+    "Seat 600D",
+    "Seat 600 D 1965"
+   ],
+   "n": 10
+  },
+  {
+   "id": "m_600e",
+   "query": "SEAT 600 E",
+   "alt": [
+    "Seat 600E",
+    "Seat 600 L Especial"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_600_interior",
+   "query": "SEAT 600 interior",
+   "alt": [
+    "Seat 600 dashboard",
+    "Seat 600 salpicadero",
+    "Fiat 600 interior"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_600_engine",
+   "query": "SEAT 600 motor",
+   "alt": [
+    "Fiat 600 engine",
+    "Seat 600 engine"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_600_doors",
+   "query": "SEAT 600 puertas suicidas",
+   "alt": [
+    "Seat 600 door open",
+    "Fiat 600 suicide doors"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_600_baca",
+   "query": "Seat 600 baca",
+   "alt": [
+    "Seat 600 roof rack",
+    "Seat 600 equipaje"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_seat800",
+   "query": "SEAT 800",
+   "alt": [
+    "Seat 800 cuatro puertas",
+    "Seat 800 Costa Flores"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_600_furgoneta",
+   "query": "Seat 600 furgoneta",
+   "alt": [
+    "Seat 600 descapotable",
+    "Seat 600 Formichetta"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_600_rally",
+   "query": "Seat 600 Abarth",
+   "alt": [
+    "Seat 600 rally",
+    "Seat 600 competición"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_fiat600",
+   "query": "Fiat 600 1955",
+   "alt": [
+    "Fiat 600 Mirafiori",
+    "Fiat 600 Multipla"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_zastava750",
+   "query": "Zastava 750",
+   "alt": [
+    "Fića",
+    "Zastava 750 Fiat"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_fitito",
+   "query": "Fiat 600 Argentina",
+   "alt": [
+    "Fiat 600 R",
+    "Fitito"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_jagst",
+   "query": "NSU-Fiat Jagst",
+   "alt": [
+    "NSU Fiat Jagst 770"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_seat1400",
+   "query": "SEAT 1400",
+   "alt": [
+    "Seat 1400 B",
+    "Seat 1400 taxi"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_biscuter",
+   "query": "Biscúter",
+   "alt": [
+    "Biscuter 200"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_fiat500",
+   "query": "Fiat 500 1957",
+   "alt": [
+    "Fiat Nuova 500"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_seat850",
+   "query": "SEAT 850",
+   "alt": [
+    "Seat 850 coupé",
+    "Seat 124",
+    "Seat 1430"
+   ],
+   "n": 6
+  },
+  {
+   "id": "h_giacosa",
+   "query": "Dante Giacosa",
+   "alt": [
+    "Dante Giacosa Fiat"
+   ],
+   "n": 3
+  },
+  {
+   "id": "h_zona_franca",
+   "query": "SEAT Zona Franca",
+   "alt": [
+    "SEAT factory Barcelona",
+    "fábrica SEAT Barcelona"
+   ],
+   "n": 6
+  },
+  {
+   "id": "h_fuengirola",
+   "query": "monumento Seat 600 Fuengirola",
+   "alt": [
+    "Seat 600 sculpture Fuengirola",
+    "Rotonda Seat 600"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_montmelo",
+   "query": "Circuit de Barcelona-Catalunya",
+   "alt": [
+    "Montmeló circuit",
+    "Circuit de Catalunya"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_spain_60s_street",
+   "query": "Madrid años 60",
+   "alt": [
+    "Barcelona años 60",
+    "Spain 1960s street",
+    "Gran Vía Madrid 1960"
+   ],
+   "n": 8
+  },
+  {
+   "id": "h_spain_beach",
+   "query": "Benidorm años 60",
+   "alt": [
+    "Torremolinos 1960s",
+    "Costa Brava 1960s",
+    "playa España años 60"
+   ],
+   "n": 6
+  },
+  {
+   "id": "h_spain_road",
+   "query": "carretera España años 60",
+   "alt": [
+    "Spanish road 1960s",
+    "puerto de montaña coche antiguo"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_seat600_meeting",
+   "query": "concentración Seat 600",
+   "alt": [
+    "Seat 600 club",
+    "Seat 600 rally clásicos",
+    "Seat 600 meeting"
+   ],
+   "n": 8
+  },
+  {
+   "id": "h_peseta",
+   "query": "peseta",
+   "alt": [
+    "billete pesetas",
+    "moneda peseta"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_spain_50s",
+   "query": "España años 50",
+   "alt": [
+    "Barcelona 1950s",
+    "Madrid 1950s"
+   ],
+   "n": 5
+  }
+ ]
+}
