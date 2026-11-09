@@ -1,201 +1,168 @@
-[     0s] es04-seat600: 28 planos, limite 35.0 min
-[     0s] m_600n: 'SEAT 600 N'
-[     1s]     commons: 10 candidatos em 0.6s
-[     9s]     openverse: 11 candidatos em 8.7s
-[    18s]     loc: 12 candidatos em 8.5s
-[    49s]     falhou download (loc) em 30.1s
-[    81s]     falhou download (loc) em 30.0s
-[   114s]     falhou download (loc) em 30.0s
-[   146s]     falhou download (loc) em 30.0s
-[   147s]   -> 10 imagens
-[   147s] m_600d: 'SEAT 600 D'
-[   147s]     commons: 12 candidatos em 0.6s
-[   160s]     openverse: 10 candidatos em 12.5s
-[   184s]   ! www.loc.gov: 429 rate limit
-[   184s]     loc: 0 candidatos em 24.0s
-[   192s]   -> 10 imagens
-[   192s] m_600e: 'SEAT 600 E'
-[   192s]     commons: 12 candidatos em 0.4s
-[   199s]     openverse: 12 candidatos em 7.4s
-[   223s]   ! www.loc.gov: 429 rate limit
-[   223s]     loc: 0 candidatos em 24.0s
-[   229s]   -> 8 imagens
-[   229s] m_600_interior: 'SEAT 600 interior'
-[   229s]     commons: 12 candidatos em 0.5s
-[   242s]     openverse: 9 candidatos em 12.5s
-[   266s]   ! www.loc.gov: 429 rate limit
-[   266s]   ! www.loc.gov desligado nesta execucao (3 falhas seguidas)
-[   266s]     loc: 0 candidatos em 24.0s
-[   270s]   -> 6 imagens
-[   270s] m_600_engine: 'SEAT 600 motor'
-[   270s]     commons: 9 candidatos em 0.5s
-[   277s]     openverse: 9 candidatos em 6.0s
-[   277s]     loc: 0 candidatos em 0.0s
-[   280s]   -> 5 imagens
-[   280s] m_600_doors: 'SEAT 600 puertas suicidas'
-[   280s]     commons: 1 candidatos em 0.4s
-[   289s]     openverse: 1 candidatos em 9.3s
-[   289s]     loc: 0 candidatos em 0.0s
-[   291s]     commons: 12 candidatos em 0.5s
-[   301s]     openverse: 0 candidatos em 9.4s
+[     0s] es04-seat600: 10 planos, limite 35.0 min
+[     0s] h_marin_600: 'Pascual Marín Seat 600'
+[     0s]     commons: 0 candidatos em 0.4s
+[     5s]     openverse: 0 candidatos em 4.6s
+[    11s]     loc: 0 candidatos em 5.5s
+[    11s]     commons: 0 candidatos em 0.4s
+[    14s]     openverse: 0 candidatos em 2.7s
+[    38s]   ! www.loc.gov: 429 rate limit
+[    38s]     loc: 0 candidatos em 24.0s
+[    38s]     commons: 0 candidatos em 0.3s
+[    41s]     openverse: 0 candidatos em 3.4s
+[    65s]   ! www.loc.gov: 429 rate limit
+[    65s]     loc: 0 candidatos em 24.0s
+[    66s]     commons: 0 candidatos em 0.3s
+[    71s]     openverse: 0 candidatos em 5.8s
+[    95s]   ! www.loc.gov: 429 rate limit
+[    95s]   ! www.loc.gov desligado nesta execucao (3 falhas seguidas)
+[    95s]     loc: 0 candidatos em 24.0s
+[    95s]   -> 0 imagens
+[    95s] h_marin_cars: 'Pascual Marín coche 1960'
+[    96s]     commons: 0 candidatos em 0.3s
+[    99s]     openverse: 0 candidatos em 3.5s
+[    99s]     loc: 0 candidatos em 0.0s
+[   103s]     commons: 10 candidatos em 3.2s
+[   127s]   ! api.openverse.org: 504 Server Error: Gateway Timeout for url: https://api.openverse.org/v1/images/?q=Fondo+Mar%C3%ADn+autom%C3%B3vil&license=pdm%2Ccc0%2Cby%2Cby-sa&page_size=12&ma
+[   127s]     openverse: 0 candidatos em 24.9s
+[   127s]     loc: 0 candidatos em 0.0s
+[   183s]     falhou download (commons) em 30.1s
+[   213s]     falhou download (commons) em 30.1s
+[   243s]     falhou download (commons) em 30.1s
+[   245s]     commons: 11 candidatos em 2.3s
+[   250s]     openverse: 0 candidatos em 4.6s
+[   250s]     loc: 0 candidatos em 0.0s
+[   280s]     falhou download (commons) em 30.1s
+[   280s]     falhou download (commons) em 0.0s
+[   280s]     falhou download (commons) em 0.0s
+[   280s]     falhou download (commons) em 0.0s
+[   280s]     falhou download (commons) em 0.0s
+[   280s]     falhou download (commons) em 0.0s
+[   281s]     commons: 12 candidatos em 1.4s
+[   290s]     openverse: 1 candidatos em 9.2s
+[   290s]     loc: 0 candidatos em 0.0s
+[   290s]     falhou download (commons) em 0.0s
+[   290s]     falhou download (openverse) em 0.0s
+[   290s]     falhou download (commons) em 0.0s
+[   290s]     falhou download (commons) em 0.0s
+[   290s]     falhou download (commons) em 0.0s
+[   290s]     falhou download (commons) em 0.0s
+[   290s]     falhou download (commons) em 0.0s
+[   290s]     falhou download (commons) em 0.0s
+[   290s]     falhou download (commons) em 0.0s
+[   290s]     falhou download (commons) em 0.0s
+[   290s]     falhou download (commons) em 0.0s
+[   290s]     falhou download (commons) em 0.0s
+[   290s]     falhou download (commons) em 0.0s
+[   290s]   -> 7 imagens
+[   290s] h_marin_beach: 'Pascual Marín playa'
+[   293s]     commons: 12 candidatos em 2.8s
+[   301s]     openverse: 0 candidatos em 8.2s
 [   301s]     loc: 0 candidatos em 0.0s
-[   306s]   -> 5 imagens
-[   306s] m_600_baca: 'Seat 600 baca'
-[   307s]     commons: 0 candidatos em 0.5s
-[   310s]     openverse: 0 candidatos em 2.9s
-[   310s]     loc: 0 candidatos em 0.0s
-[   310s]     commons: 0 candidatos em 0.4s
-[   314s]     openverse: 0 candidatos em 3.9s
-[   314s]     loc: 0 candidatos em 0.0s
-[   314s]     commons: 0 candidatos em 0.4s
-[   319s]     openverse: 0 candidatos em 4.6s
-[   319s]     loc: 0 candidatos em 0.0s
-[   319s]   -> 0 imagens
-[   319s] m_seat800: 'SEAT 800'
-[   319s]     commons: 8 candidatos em 0.5s
-[   330s]     openverse: 10 candidatos em 10.9s
+[   301s]     falhou download (commons) em 0.0s
+[   301s]     falhou download (commons) em 0.0s
+[   301s]     falhou download (commons) em 0.0s
+[   301s]     falhou download (commons) em 0.0s
+[   301s]     falhou download (commons) em 0.0s
+[   301s]     falhou download (commons) em 0.0s
+[   301s]     falhou download (commons) em 0.0s
+[   301s]     falhou download (commons) em 0.0s
+[   301s]     falhou download (commons) em 0.0s
+[   301s]     falhou download (commons) em 0.0s
+[   301s]     falhou download (commons) em 0.0s
+[   301s]     falhou download (commons) em 0.0s
+[   302s]     commons: 12 candidatos em 1.0s
+[   315s]     openverse: 11 candidatos em 12.2s
+[   315s]     loc: 0 candidatos em 0.0s
+[   315s]     falhou download (openverse) em 0.0s
+[   315s]     falhou download (openverse) em 0.0s
+[   315s]     falhou download (openverse) em 0.0s
+[   315s]     falhou download (openverse) em 0.0s
+[   315s]     falhou download (openverse) em 0.0s
+[   315s]     falhou download (commons) em 0.0s
+[   315s]     falhou download (openverse) em 0.0s
+[   315s]     falhou download (commons) em 0.0s
+[   315s]     falhou download (openverse) em 0.0s
+[   315s]     falhou download (commons) em 0.0s
+[   315s]     falhou download (openverse) em 0.0s
+[   315s]     falhou download (commons) em 0.0s
+[   315s]     falhou download (openverse) em 0.0s
+[   315s]     falhou download (commons) em 0.0s
+[   315s]     falhou download (openverse) em 0.0s
+[   315s]     falhou download (commons) em 0.0s
+[   316s]     commons: 0 candidatos em 0.3s
+[   321s]     openverse: 0 candidatos em 5.6s
+[   321s]     loc: 0 candidatos em 0.0s
+[   321s]   -> 1 imagens
+[   321s] h_marin_family: 'Pascual Marín familia'
+[   324s]     commons: 11 candidatos em 2.6s
+[   330s]     openverse: 0 candidatos em 5.6s
 [   330s]     loc: 0 candidatos em 0.0s
-[   334s]   -> 6 imagens
-[   334s] m_600_furgoneta: 'Seat 600 furgoneta'
-[   335s]     commons: 1 candidatos em 0.4s
-[   345s]     openverse: 1 candidatos em 10.6s
+[   330s]     falhou download (commons) em 0.0s
+[   330s]     falhou download (commons) em 0.0s
+[   330s]     falhou download (commons) em 0.0s
+[   330s]     falhou download (commons) em 0.0s
+[   330s]     falhou download (commons) em 0.0s
+[   330s]     falhou download (commons) em 0.0s
+[   330s]     falhou download (commons) em 0.0s
+[   330s]     falhou download (commons) em 0.0s
+[   330s]     falhou download (commons) em 0.0s
+[   330s]     falhou download (commons) em 0.0s
+[   330s]     falhou download (commons) em 0.0s
+[   330s]     commons: 0 candidatos em 0.3s
+[   336s]     openverse: 0 candidatos em 6.3s
+[   336s]     loc: 0 candidatos em 0.0s
+[   337s]     commons: 1 candidatos em 0.5s
+[   341s]     openverse: 0 candidatos em 4.5s
+[   341s]     loc: 0 candidatos em 0.0s
+[   341s]     falhou download (commons) em 0.0s
+[   341s]   -> 0 imagens
+[   341s] m_600_2: 'Seat 600 restaurado'
+[   341s]     commons: 0 candidatos em 0.3s
+[   345s]     openverse: 0 candidatos em 3.4s
 [   345s]     loc: 0 candidatos em 0.0s
-[   347s]     commons: 8 candidatos em 0.5s
-[   359s]     openverse: 7 candidatos em 12.2s
-[   359s]     loc: 0 candidatos em 0.0s
-[   362s]   -> 5 imagens
-[   362s] m_600_rally: 'Seat 600 Abarth'
-[   362s]     commons: 10 candidatos em 0.5s
-[   373s]     openverse: 11 candidatos em 10.7s
-[   373s]     loc: 0 candidatos em 0.0s
-[   376s]   -> 5 imagens
-[   376s] m_fiat600: 'Fiat 600 1955'
-[   377s]     commons: 11 candidatos em 0.6s
-[   385s]     openverse: 12 candidatos em 7.9s
-[   385s]     loc: 0 candidatos em 0.0s
-[   390s]   -> 8 imagens
-[   390s] m_zastava750: 'Zastava 750'
-[   390s]     commons: 12 candidatos em 0.3s
-[   398s]     openverse: 9 candidatos em 7.6s
-[   398s]     loc: 0 candidatos em 0.0s
-[   402s]   -> 5 imagens
-[   402s] m_fitito: 'Fiat 600 Argentina'
-[   402s]     commons: 11 candidatos em 0.3s
-[   412s]     openverse: 11 candidatos em 9.9s
-[   412s]     loc: 0 candidatos em 0.0s
-[   442s]     falhou download (commons) em 30.0s
-[   472s]     falhou download (openverse) em 30.0s
-[   504s]     falhou download (commons) em 30.0s
-[   505s]   -> 5 imagens
-[   505s] m_jagst: 'NSU-Fiat Jagst'
-[   506s]     commons: 10 candidatos em 0.8s
-[   520s]     openverse: 9 candidatos em 13.6s
-[   520s]     loc: 0 candidatos em 0.0s
-[   550s]     falhou download (openverse) em 30.0s
-[   552s]   -> 4 imagens
-[   552s] m_seat1400: 'SEAT 1400'
-[   552s]     commons: 10 candidatos em 0.3s
-[   565s]     openverse: 12 candidatos em 12.7s
-[   565s]     loc: 0 candidatos em 0.0s
-[   565s]     falhou download (commons) em 0.0s
-[   569s]   -> 6 imagens
-[   569s] m_biscuter: 'Biscúter'
-[   570s]     commons: 10 candidatos em 0.7s
-[   597s]   ! api.openverse.org: 504 Server Error: Gateway Timeout for url: https://api.openverse.org/v1/images/?q=Bisc%C3%BAter&license=pdm%2Ccc0%2Cby%2Cby-sa&page_size=12&mature=false
-[   597s]     openverse: 0 candidatos em 27.3s
-[   597s]     loc: 0 candidatos em 0.0s
-[   598s]     falhou download (commons) em 0.0s
-[   600s]   -> 4 imagens
-[   600s] m_fiat500: 'Fiat 500 1957'
-[   600s]     commons: 12 candidatos em 0.3s
-[   613s]     openverse: 12 candidatos em 13.0s
-[   613s]     loc: 0 candidatos em 0.0s
-[   615s]     falhou download (openverse) em 0.0s
-[   615s]   -> 4 imagens
-[   615s] m_seat850: 'SEAT 850'
-[   616s]     commons: 8 candidatos em 0.5s
-[   628s]     openverse: 9 candidatos em 11.8s
-[   628s]     loc: 0 candidatos em 0.0s
-[   635s]   -> 6 imagens
-[   635s] h_giacosa: 'Dante Giacosa'
-[   636s]     commons: 8 candidatos em 0.5s
-[   647s]     openverse: 9 candidatos em 11.0s
-[   647s]     loc: 0 candidatos em 0.0s
-[   647s]     falhou download (commons) em 0.0s
-[   647s]     falhou download (openverse) em 0.0s
-[   647s]     falhou download (commons) em 0.0s
-[   647s]     falhou download (openverse) em 0.0s
-[   647s]     falhou download (openverse) em 0.0s
-[   647s]     falhou download (commons) em 0.0s
-[   647s]     falhou download (openverse) em 0.0s
-[   649s]   -> 3 imagens
-[   649s] h_zona_franca: 'SEAT Zona Franca'
-[   650s]     commons: 12 candidatos em 0.7s
-[   664s]     openverse: 12 candidatos em 14.4s
-[   664s]     loc: 0 candidatos em 0.0s
-[   665s]     falhou download (openverse) em 0.0s
-[   665s]     falhou download (openverse) em 0.0s
-[   668s]   -> 6 imagens
-[   668s] h_fuengirola: 'monumento Seat 600 Fuengirola'
-[   668s]     commons: 1 candidatos em 0.5s
-[   683s]     openverse: 1 candidatos em 14.2s
-[   683s]     loc: 0 candidatos em 0.0s
-[   683s]     falhou download (openverse) em 0.0s
-[   684s]     commons: 1 candidatos em 0.5s
-[   689s]     openverse: 0 candidatos em 5.3s
-[   689s]     loc: 0 candidatos em 0.0s
-[   689s]     commons: 1 candidatos em 0.4s
-[   695s]     openverse: 0 candidatos em 5.8s
-[   695s]     loc: 0 candidatos em 0.0s
-[   696s]   -> 2 imagens
-[   696s] h_montmelo: 'Circuit de Barcelona-Catalunya'
-[   696s]     commons: 12 candidatos em 0.3s
-[   722s]     openverse: 12 candidatos em 26.3s
-[   722s]     loc: 0 candidatos em 0.0s
-[   723s]     falhou download (openverse) em 0.0s
-[   724s]     falhou download (openverse) em 0.0s
-[   725s]   -> 5 imagens
-[   725s] h_spain_60s_street: 'Madrid años 60'
-[   726s]     commons: 12 candidatos em 0.5s
-[   739s]     openverse: 8 candidatos em 13.0s
-[   739s]     loc: 0 candidatos em 0.0s
-[   749s]     falhou download (openverse) em 0.0s
-[   752s]   -> 8 imagens
-[   752s] h_spain_beach: 'Benidorm años 60'
-[   752s]     commons: 0 candidatos em 0.3s
-[   758s]     openverse: 0 candidatos em 5.5s
-[   758s]     loc: 0 candidatos em 0.0s
-[   758s]     commons: 0 candidatos em 0.2s
-[   783s]     openverse: 8 candidatos em 24.5s
-[   783s]     loc: 0 candidatos em 0.0s
-[   787s]   -> 6 imagens
-[   787s] h_spain_road: 'carretera España años 60'
-[   787s]     commons: 1 candidatos em 0.7s
-[   801s]     openverse: 1 candidatos em 13.8s
-[   801s]     loc: 0 candidatos em 0.0s
-[   803s]     commons: 10 candidatos em 0.5s
-[   815s]     openverse: 11 candidatos em 11.5s
-[   815s]     loc: 0 candidatos em 0.0s
-[   816s]   -> 5 imagens
-[   816s] h_seat600_meeting: 'concentración Seat 600'
-[   817s]     commons: 11 candidatos em 0.4s
-[   829s]     openverse: 11 candidatos em 12.2s
-[   829s]     loc: 0 candidatos em 0.0s
-[   834s]   -> 8 imagens
-[   834s] h_peseta: 'peseta'
-[   835s]     commons: 10 candidatos em 0.7s
-[   862s]     openverse: 6 candidatos em 27.5s
-[   862s]     loc: 0 candidatos em 0.0s
-[   864s]     falhou download (commons) em 0.0s
-[   865s]     falhou download (commons) em 0.0s
-[   865s]     falhou download (openverse) em 0.0s
-[   865s]     falhou download (commons) em 0.0s
-[   865s]     falhou download (openverse) em 0.0s
-[   865s]     falhou download (commons) em 0.0s
-[   865s]   -> 4 imagens
-[   865s] h_spain_50s: 'España años 50'
-[   866s]     commons: 12 candidatos em 0.7s
-[   877s]     openverse: 10 candidatos em 10.6s
-[   877s]     loc: 0 candidatos em 0.0s
-[   881s]   -> 5 imagens
-[   884s] fim: 154 imagens
+[   345s]     commons: 7 candidatos em 0.4s
+[   358s]     openverse: 12 candidatos em 13.0s
+[   358s]     loc: 0 candidatos em 0.0s
+[   360s]     falhou download (commons) em 0.0s
+[   361s]     falhou download (commons) em 0.0s
+[   361s]     falhou download (commons) em 0.0s
+[   362s]     falhou download (commons) em 0.0s
+[   366s]   -> 10 imagens
+[   366s] m_600_3: 'Fiat 600 D'
+[   367s]     commons: 10 candidatos em 0.6s
+[   380s]     openverse: 12 candidatos em 13.5s
+[   380s]     loc: 0 candidatos em 0.0s
+[   382s]     falhou download (commons) em 0.0s
+[   389s]   -> 8 imagens
+[   389s] m_600_rear: 'Seat 600 trasera motor'
+[   389s]     commons: 1 candidatos em 0.4s
+[   394s]     openverse: 0 candidatos em 5.0s
+[   394s]     loc: 0 candidatos em 0.0s
+[   398s]     commons: 11 candidatos em 0.4s
+[   406s]     openverse: 12 candidatos em 7.8s
+[   406s]     loc: 0 candidatos em 0.0s
+[   406s]     falhou download (commons) em 0.0s
+[   412s]   -> 6 imagens
+[   412s] h_spain_1960_photo: 'España 1960 fotografía'
+[   413s]     commons: 8 candidatos em 0.9s
+[   438s]     openverse: 11 candidatos em 24.8s
+[   438s]     loc: 0 candidatos em 0.0s
+[   438s]     falhou download (commons) em 0.0s
+[   443s]   -> 6 imagens
+[   443s] h_seat_museum: 'Museo SEAT'
+[   447s]     commons: 12 candidatos em 4.2s
+[   457s]     openverse: 9 candidatos em 9.7s
+[   457s]     loc: 0 candidatos em 0.0s
+[   466s]   -> 6 imagens
+[   466s] h_traffic_spain: 'atasco España años 60'
+[   467s]     commons: 0 candidatos em 0.4s
+[   473s]     openverse: 0 candidatos em 6.1s
+[   473s]     loc: 0 candidatos em 0.0s
+[   473s]     commons: 0 candidatos em 0.3s
+[   478s]     openverse: 0 candidatos em 5.3s
+[   478s]     loc: 0 candidatos em 0.0s
+[   479s]     commons: 0 candidatos em 0.3s
+[   485s]     openverse: 0 candidatos em 6.5s
+[   485s]     loc: 0 candidatos em 0.0s
+[   485s]   -> 0 imagens
+[   486s] fim: 44 imagens
