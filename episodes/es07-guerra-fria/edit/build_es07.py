@@ -19,7 +19,7 @@ PHOTOS = {
     "trabant": ["m_trabant"] + ai("ai_trabant_queue"), "wallfall": ["h_wall_fall"],
     "zastava": ["m_zastava750"], "s600": ["m_seat600"],
     "tatra": ["m_tatra603"],
-    "volga": ["m_gaz21", "h_volga_deer"] + ai("ai_black_volga_night"),
+    "volga": ai("ai_black_volga_night") + ["m_gaz21", "h_volga_deer"],
     "chaika": ["m_chaika"], "wedding": ["h_soviet_wedding"],
     "s124": ["m_seat124"], "lada": ["m_lada2101"], "fiat124": ["m_fiat124"],
     "zil": ["m_zil114"] + ai("ai_zil_lane") + ["m_zil111"], "moscow": ["h_kgb"],

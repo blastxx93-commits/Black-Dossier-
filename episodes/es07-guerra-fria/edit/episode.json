@@ -1,0 +1,1324 @@
+{
+ "output": "ES07_GUERRA_FRIA.mp4",
+ "fps": 24,
+ "music": [
+  {
+   "file": "trilha.wav",
+   "start": 0,
+   "gain": -29,
+   "fade_in": 4,
+   "fade_out": 5
+  }
+ ],
+ "chapters": [
+  {
+   "audio": "audio/ch00_hook.flac",
+   "lead_in": 0,
+   "tail": 0.6,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/m_sprite/3_commons.jpg",
+     "move": "in",
+     "caption": "Berl\u00edn|mayo de 1963",
+     "dur": 9.58,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_checkpoint_night_1.jpg",
+     "move": "in",
+     "dur": 8.12,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_checkpoint/6_openverse.jpg",
+     "move": "in",
+     "caption": "Checkpoint Charlie",
+     "dur": 5.52,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_berlin/1_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.34,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_kgb/1_commons.jpg",
+     "move": "left",
+     "dur": 4.32,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_trabant/10_openverse.jpg",
+     "move": "out",
+     "dur": 8.16,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seat124/10_openverse.jpg",
+     "move": "right",
+     "dur": 5.38,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "Coches secretos",
+     "subtitle": "de la Guerra Fr\u00eda",
+     "tag": "1957 \u2013 1979",
+     "bg": "a/m_trabant/11_commons.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 2.0,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Un Seiscientos comunista",
+      "Coches que cruzaron el Muro",
+      "El Volga que el KGB destru\u00eda"
+     ],
+     "starts": [
+      0,
+      22,
+      94
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.9399999999999977
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 3.9200000000000017
+      }
+     ],
+     "dur": 6.047,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch01.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 12,
+     "name": "Trabant",
+     "photo": "a/m_trabant/1_commons.jpg",
+     "credit": "Foto: burts \u00b7 CC BY-SA 3.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "Alemania Oriental \u00b7 1957",
+     "sub": "el coche de cart\u00f3n",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_trabant/7_commons.jpg",
+     "move": "out",
+     "dur": 10.14,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_trabant/3_commons.jpg",
+     "move": "up",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_trabant/9_commons.jpg",
+     "move": "right",
+     "dur": 11.24,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "10\u201315 a\u00f1os",
+     "label": "de espera para un Trabant nuevo",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "seg\u00fan la fuente",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_wall_fall/4_openverse.jpg",
+     "move": "in",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_wall_fall/5_commons.jpg",
+     "move": "up",
+     "dur": 5.4,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_trabant/5_commons.jpg",
+     "move": "out",
+     "dur": 1.92,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_wall_fall/3_commons.jpg",
+     "move": "in",
+     "caption": "Berl\u00edn|noviembre de 1989",
+     "dur": 9.82,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_wall_fall/1_commons.jpg",
+     "move": "down",
+     "dur": 4.6,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 11,
+     "name": "SEAT 600 \u00b7 Zastava 750",
+     "photo": "a/m_zastava750/1_commons.jpg",
+     "credit": "Foto: Alexander Migl \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "Espa\u00f1a \u00b7 Yugoslavia",
+     "sub": "los gemelos del Tel\u00f3n de Acero",
+     "dur": 5.58,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seat600/1_commons.jpg",
+     "move": "in",
+     "caption": "SEAT 600|Barcelona",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seat600/3_commons.jpg",
+     "move": "out",
+     "dur": 5.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_zastava750/3_commons.jpg",
+     "move": "in",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_zastava750/5_commons.jpg",
+     "move": "down",
+     "dur": 9.82,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seat600/2_openverse.jpg",
+     "move": "left",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seat600/4_openverse.jpg",
+     "move": "in",
+     "dur": 9.66,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_zastava750/4_openverse.jpg",
+     "move": "out",
+     "dur": 6.257,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch02.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 10,
+     "name": "Tatra 603",
+     "photo": "a/m_tatra603/3_commons.jpg",
+     "credit": "Foto: Spurzem - Lothar Spurzem \u00b7 CC BY-SA 2.0 de",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "Checoslovaquia \u00b7 1956",
+     "sub": "el coche que el pueblo no pod\u00eda comprar",
+     "dur": 5.52,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_tatra603/10_openverse.jpg",
+     "move": "right",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_tatra603/2_openverse.jpg",
+     "move": "left",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_tatra603/4_openverse.jpg",
+     "move": "out",
+     "dur": 4.54,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_tatra603/11_commons.jpg",
+     "move": "in",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_tatra603/5_commons.jpg",
+     "move": "right",
+     "dur": 9.253,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_tatra603/12_openverse.jpg",
+     "move": "up",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_tatra603/6_openverse.jpg",
+     "move": "in",
+     "dur": 7.567,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 9,
+     "name": "GAZ-21 Volga",
+     "photo": "a/m_gaz21/6_openverse.jpg",
+     "credit": "Foto: Alex Panoiu \u00b7 CC BY 2.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "Uni\u00f3n Sovi\u00e9tica \u00b7 1956",
+     "sub": "la leyenda del Volga negro",
+     "dur": 10.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_volga_deer/1_commons.jpg",
+     "move": "in",
+     "dur": 12.54,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_black_volga_night_1.jpg",
+     "move": "out",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_gaz21/1_commons.jpg",
+     "move": "up",
+     "dur": 12.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_gaz21/10_openverse.jpg",
+     "move": "down",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_gaz21/2_openverse.jpg",
+     "move": "out",
+     "dur": 9.055,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch03.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 8,
+     "name": "GAZ-13 Chaika",
+     "photo": "a/m_chaika/1_commons.jpg",
+     "credit": "Foto: \u0418\u0433\u043e\u0440\u0435\u0432\u0438\u0447 \u00b7 Public domain",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "Uni\u00f3n Sovi\u00e9tica \u00b7 1959",
+     "sub": "la gaviota del Partido",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_chaika/3_openverse.jpg",
+     "move": "down",
+     "dur": 5.94,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_chaika/10_commons.jpg",
+     "move": "in",
+     "dur": 12.38,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_chaika/2_openverse.jpg",
+     "move": "left",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_chaika/4_commons.jpg",
+     "move": "in",
+     "dur": 6.02,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_soviet_wedding/1_commons.jpg",
+     "move": "out",
+     "dur": 7.46,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "\u22483.100",
+     "label": "GAZ-13 Chaika \u00b7 1959\u20131981",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "GAZ",
+     "dur": 8.6,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 7,
+     "name": "SEAT 124 \u00b7 Lada",
+     "photo": "a/m_seat124/3_commons.jpg",
+     "credit": "Foto: No machine-readable author provided. Ran \u00b7 CC BY-SA 3.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "Espa\u00f1a \u00b7 URSS",
+     "sub": "el mismo coche a los dos lados",
+     "dur": 4.78,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_fiat124/1_commons.jpg",
+     "move": "right",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_fiat124/2_openverse.jpg",
+     "move": "left",
+     "dur": 8.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_lada2101/1_commons.jpg",
+     "move": "in",
+     "caption": "VAZ-2101 \u00abZhiguli\u00bb|1970",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_lada2101/3_openverse.jpg",
+     "move": "out",
+     "dur": 7.26,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seat124/1_commons.jpg",
+     "move": "in",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seat124/2_openverse.jpg",
+     "move": "right",
+     "dur": 9.06,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_lada2101/10_openverse.jpg",
+     "move": "up",
+     "dur": 12.66,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_lada2101/2_commons.jpg",
+     "move": "out",
+     "dur": 12.26,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch04.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 6,
+     "name": "ZIL-114",
+     "photo": "a/m_zil114/1_openverse.jpg",
+     "credit": "Foto: 1970_Lincoln_Continental \u00b7 CC BY 2.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "Mosc\u00fa \u00b7 1967",
+     "sub": "la limusina del Politbur\u00f3",
+     "dur": 8.62,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_zil114/2_openverse.jpg",
+     "move": "down",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_zil114/4_commons.jpg",
+     "move": "in",
+     "dur": 11.56,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_zil114/3_commons.jpg",
+     "move": "in",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_zil_lane_1.jpg",
+     "move": "up",
+     "dur": 5.18,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\u00abEl carril ZIL\u00bb",
+     "highlight": "ZIL",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 10.72,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_moscow/1_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_kgb/3_commons.jpg",
+     "move": "out",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_kgb/4_commons.jpg",
+     "move": "down",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 5,
+     "name": "Volvo 264 TE",
+     "photo": "a/m_volvo264te/1_commons.jpg",
+     "credit": "Foto: Kroelleboelle \u00b7 Public domain",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "Alemania Oriental \u00b7 1976",
+     "sub": "los Volvo de los comunistas",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_volvo264te/4_openverse.jpg",
+     "move": "in",
+     "dur": 8.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_volvo264te/2_openverse.jpg",
+     "move": "left",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_volvo264te/5_openverse.jpg",
+     "move": "left",
+     "dur": 9.68,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_wandlitz/1_commons.jpg",
+     "move": "out",
+     "dur": 10.2,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\u00abVolvogrado\u00bb",
+     "highlight": "VOLVOGRADO",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 0.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_volvo264te/3_commons.jpg",
+     "move": "right",
+     "dur": 6.318,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch05.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/h_berlin_wall/2_commons.jpg",
+     "move": "in",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_berlin_wall/5_commons.jpg",
+     "move": "out",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_berlin_wall/7_openverse.jpg",
+     "move": "right",
+     "dur": 4.98,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_berlin_wall/4_commons.jpg",
+     "move": "up",
+     "dur": 10.86,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 4,
+     "name": "Austin-Healey Sprite",
+     "photo": "a/m_sprite/5_commons.jpg",
+     "credit": "Foto: Berthold Werner \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "Berl\u00edn \u00b7 1963",
+     "sub": "por debajo de la barrera",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_sprite/2_openverse.jpg",
+     "move": "in",
+     "dur": 6.225,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_checkpoint/1_commons.jpg",
+     "move": "out",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_checkpoint/5_openverse.jpg",
+     "move": "up",
+     "dur": 6.555,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "\u224895 cm",
+     "label": "de altura sin parabrisas",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "seg\u00fan la fuente",
+     "dur": 7.36,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_checkpoint/2_commons.jpg",
+     "move": "down",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_checkpoint/7_commons.jpg",
+     "move": "out",
+     "dur": 11.14,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_sprite/1_commons.jpg",
+     "move": "in",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_sprite/4_openverse.jpg",
+     "move": "down",
+     "dur": 6.44,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 3,
+     "name": "BMW Isetta",
+     "photo": "a/m_isetta/1_commons.jpg",
+     "credit": "Foto: Lothar Spurzem \u00b7 CC BY-SA 2.0 de",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "Berl\u00edn \u00b7 a\u00f1os 60",
+     "sub": "el coche que escond\u00eda personas",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_isetta/3_commons.jpg",
+     "move": "in",
+     "dur": 6.78,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_isetta/2_openverse.jpg",
+     "move": "left",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_isetta/4_openverse.jpg",
+     "move": "left",
+     "dur": 12.9,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "9",
+     "label": "personas escaparon en coches como este",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Museo del Muro de Berl\u00edn",
+     "dur": 9.58,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_mauermuseum/2_commons.jpg",
+     "move": "in",
+     "caption": "Museo del Muro|Checkpoint Charlie",
+     "dur": 4.131,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch06.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 2,
+     "name": "Lincoln Continental",
+     "photo": "a/m_lincoln73/1_commons.jpg",
+     "credit": "Foto: Calreyn88 \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "EE. UU. \u00b7 1973",
+     "sub": "el regalo de Nixon a Br\u00e9zhnev",
+     "dur": 10.92,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_nixon_brezhnev/1_commons.jpg",
+     "move": "in",
+     "caption": "Nixon y Br\u00e9zhnev|1973",
+     "dur": 6.2,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_camp_david_1.jpg",
+     "move": "out",
+     "dur": 6.85,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_lincoln73/2_openverse.jpg",
+     "move": "right",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_lincoln73/4_openverse.jpg",
+     "move": "out",
+     "dur": 5.23,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_nixon_brezhnev/2_commons.jpg",
+     "move": "in",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_nixon_brezhnev/5_commons.jpg",
+     "move": "right",
+     "dur": 6.37,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_lincoln73/3_commons.jpg",
+     "move": "up",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_lincoln73/5_openverse.jpg",
+     "move": "in",
+     "dur": 11.11,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_riga_museum/1_commons.jpg",
+     "move": "in",
+     "caption": "Museo del Motor|Riga",
+     "dur": 5.058,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch07.flac",
+   "lead_in": 0,
+   "tail": 2.5,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 1,
+     "name": "GAZ-23 Volga",
+     "photo": "a/m_gaz23/6_commons.jpg",
+     "credit": "Foto: simka \u00b7 CC BY-SA 3.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "KGB \u00b7 1962",
+     "sub": "el coche que el KGB destru\u00eda",
+     "dur": 7.06,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_kgb/2_commons.jpg",
+     "move": "out",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_zil111/1_commons.jpg",
+     "move": "up",
+     "dur": 8.88,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_gaz23/3_commons.jpg",
+     "move": "down",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_gaz23/5_commons.jpg",
+     "move": "out",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_kgb_chase_1.jpg",
+     "move": "down",
+     "dur": 9.97,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\u00abDogoni\u00e1lka\u00bb: la que te alcanza.",
+     "highlight": "TE ALCANZA",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_gaz21/3_commons.jpg",
+     "move": "in",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_gaz21/4_openverse.jpg",
+     "move": "left",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_gaz21/5_commons.jpg",
+     "move": "out",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_gaz21/7_commons.jpg",
+     "move": "right",
+     "dur": 7.07,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_gaz23/4_commons.jpg",
+     "move": "in",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_gaz21/8_openverse.jpg",
+     "move": "in",
+     "dur": 7.12,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "\u2248600",
+     "label": "GAZ-23 fabricados \u00b7 1962\u20131970",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "seg\u00fan la fuente",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_gaz21/9_commons.jpg",
+     "move": "up",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_volga_deer/2_openverse.jpg",
+     "move": "out",
+     "dur": 6.317,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_trabant/6_openverse.jpg",
+     "move": "left",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_wall_fall/6_openverse.jpg",
+     "move": "down",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_checkpoint/8_openverse.jpg",
+     "move": "in",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_tatra603/7_commons.jpg",
+     "move": "left",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_tatra603/9_commons.jpg",
+     "move": "out",
+     "dur": 10.102,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_berlin/2_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_berlin/3_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_berlin/5_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_chaika/5_openverse.jpg",
+     "move": "right",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_chaika/7_openverse.jpg",
+     "move": "in",
+     "dur": 10.089,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Suscr\u00edbete",
+     "sub": "historias de coches cl\u00e1sicos",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 6.05,
+     "fixed": false,
+     "fade_out": 0
+    }
+   ]
+  }
+ ],
+ "size": [
+  1920,
+  1080
+ ],
+ "theme": "revista",
+ "subtitles": "ES07.ass"
+}

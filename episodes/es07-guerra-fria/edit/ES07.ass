@@ -1,0 +1,372 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Doc,Inter SemiBold,44,&H00FFFFFF,&H00FFFFFF,&H00401000,&H96000000,0,0,0,0,100,100,0.5,0,1,2.4,1.2,2,200,200,62,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.97,Doc,,0,0,0,,Berlín, mayo de 1963.
+Dialogue: 0,0:00:03.02,0:00:04.29,Doc,,0,0,0,,Pasada la medianoche,
+Dialogue: 0,0:00:04.34,0:00:08.35,Doc,,0,0,0,,un pequeño deportivo rojo se acerca al\Npaso fronterizo más vigilado del mundo,
+Dialogue: 0,0:00:08.40,0:00:09.65,Doc,,0,0,0,,el Checkpoint Charlie.
+Dialogue: 0,0:00:09.70,0:00:11.59,Doc,,0,0,0,,Al volante va un joven austriaco.
+Dialogue: 0,0:00:11.64,0:00:14.51,Doc,,0,0,0,,A su lado, escondidas, su\Nnovia y la madre de ella.
+Dialogue: 0,0:00:14.56,0:00:15.79,Doc,,0,0,0,,El coche no lleva parabrisas.
+Dialogue: 0,0:00:15.84,0:00:17.77,Doc,,0,0,0,,Y no piensa detenerse.
+Dialogue: 0,0:00:17.82,0:00:19.71,Doc,,0,0,0,,Delante hay una barrera de hierro.
+Dialogue: 0,0:00:19.76,0:00:21.23,Doc,,0,0,0,,Los guardias levantan la mano.
+Dialogue: 0,0:00:21.28,0:00:23.29,Doc,,0,0,0,,Y el conductor pisa el acelerador.
+Dialogue: 0,0:00:23.34,0:00:27.07,Doc,,0,0,0,,Durante más de cuarenta años,\Nel mundo estuvo partido en dos.
+Dialogue: 0,0:00:27.12,0:00:29.97,Doc,,0,0,0,,A un lado, Estados Unidos\Ny Europa occidental.
+Dialogue: 0,0:00:30.02,0:00:32.63,Doc,,0,0,0,,Al otro, la Unión Soviética y sus aliados.
+Dialogue: 0,0:00:32.68,0:00:36.95,Doc,,0,0,0,,Fue la Guerra Fría: espías, muros,\Ncarreras espaciales… y coches.
+Dialogue: 0,0:00:37.00,0:00:39.19,Doc,,0,0,0,,Coches para huir, coches para vigilar,
+Dialogue: 0,0:00:39.24,0:00:42.35,Doc,,0,0,0,,coches para que los jefes del Partido\Nvivieran como reyes mientras el pueblo
+Dialogue: 0,0:00:42.40,0:00:45.11,Doc,,0,0,0,,esperaba años por un\Nutilitario de plástico.
+Dialogue: 0,0:00:45.16,0:00:50.49,Doc,,0,0,0,,Y en esa historia, aunque te sorprenda,\NEspaña también tiene sus coches.
+Dialogue: 0,0:00:50.54,0:00:53.43,Doc,,0,0,0,,Hoy vas a conocer los doce coches\Nsecretos de la Guerra Fría.
+Dialogue: 0,0:00:53.48,0:00:55.09,Doc,,0,0,0,,Y el número uno era tan secreto que,
+Dialogue: 0,0:00:55.14,0:00:57.96,Doc,,0,0,0,,cuando dejaba de servir,\Nel KGB lo destruía.
+Dialogue: 0,0:00:59.56,0:00:59.55,Doc,,0,0,0,,Número doce.
+Dialogue: 0,0:00:59.60,0:01:02.90,Doc,,0,0,0,,El Trabant, el coche de cartón.
+Dialogue: 0,0:01:02.95,0:01:08.79,Doc,,0,0,0,,Zwickau, Alemania Oriental,\Nsiete de noviembre de 1957.
+Dialogue: 0,0:01:08.84,0:01:10.85,Doc,,0,0,0,,De la fábrica sale el primer Trabant.
+Dialogue: 0,0:01:10.90,0:01:13.23,Doc,,0,0,0,,Su nombre significa «compañero de viaje»,
+Dialogue: 0,0:01:13.28,0:01:17.67,Doc,,0,0,0,,un homenaje al Sputnik soviético,\Nlanzado al espacio apenas un mes antes.
+Dialogue: 0,0:01:17.72,0:01:19.75,Doc,,0,0,0,,El Trabant tenía un motor de dos tiempos,
+Dialogue: 0,0:01:19.80,0:01:23.49,Doc,,0,0,0,,de moto, que echaba humo azul\Ny sonaba como una cortacésped.
+Dialogue: 0,0:01:23.54,0:01:26.73,Doc,,0,0,0,,Y su carrocería no era de\Nacero, que escaseaba en el Este.
+Dialogue: 0,0:01:26.78,0:01:27.83,Doc,,0,0,0,,Era de Duroplast,
+Dialogue: 0,0:01:27.88,0:01:30.33,Doc,,0,0,0,,un material hecho con\Nresina y fibras de algodón,
+Dialogue: 0,0:01:30.38,0:01:32.87,Doc,,0,0,0,,el mismo que se usaba\Npara fabricar maletas.
+Dialogue: 0,0:01:32.92,0:01:37.91,Doc,,0,0,0,,En el Oeste se burlaban de él\Nllamándolo «el coche de cartón».
+Dialogue: 0,0:01:37.96,0:01:39.53,Doc,,0,0,0,,Pero lo peor no era el coche.
+Dialogue: 0,0:01:39.58,0:01:40.65,Doc,,0,0,0,,Era la espera.
+Dialogue: 0,0:01:40.70,0:01:44.07,Doc,,0,0,0,,En la Alemania comunista no podías\Nentrar en una tienda y comprarte un
+Dialogue: 0,0:01:44.12,0:01:44.81,Doc,,0,0,0,,Trabant.
+Dialogue: 0,0:01:44.86,0:01:46.81,Doc,,0,0,0,,Tenías que apuntarte en una lista.
+Dialogue: 0,0:01:46.86,0:01:50.93,Doc,,0,0,0,,Y en los años setenta y ochenta, la\Nespera media era de diez a quince años.
+Dialogue: 0,0:01:50.98,0:01:54.15,Doc,,0,0,0,,Muchos padres apuntaban a sus hijos\Nen cuanto cumplían la edad mínima,
+Dialogue: 0,0:01:54.20,0:01:56.75,Doc,,0,0,0,,para que tuvieran coche\Nal llegar a la treintena.
+Dialogue: 0,0:01:56.80,0:01:59.65,Doc,,0,0,0,,Y un Trabant usado, que\Npodías llevarte en el momento,
+Dialogue: 0,0:01:59.70,0:02:01.31,Doc,,0,0,0,,costaba más que uno nuevo.
+Dialogue: 0,0:02:01.36,0:02:03.23,Doc,,0,0,0,,Se fabricaron más de tres millones.
+Dialogue: 0,0:02:03.28,0:02:05.67,Doc,,0,0,0,,Y en noviembre de 1989,
+Dialogue: 0,0:02:05.72,0:02:07.37,Doc,,0,0,0,,cuando cayó el Muro de Berlín,
+Dialogue: 0,0:02:07.42,0:02:09.99,Doc,,0,0,0,,las imágenes de miles de\NTrabants cruzando la frontera,
+Dialogue: 0,0:02:10.04,0:02:13.05,Doc,,0,0,0,,entre bocinazos y aplausos,\Ndieron la vuelta al mundo.
+Dialogue: 0,0:02:13.10,0:02:17.65,Doc,,0,0,0,,El coche de cartón se convirtió\Nen el símbolo de la libertad.
+Dialogue: 0,0:02:17.70,0:02:18.85,Doc,,0,0,0,,Número once.
+Dialogue: 0,0:02:18.90,0:02:23.23,Doc,,0,0,0,,El Seiscientos del otro lado del Telón.
+Dialogue: 0,0:02:23.28,0:02:25.67,Doc,,0,0,0,,Si viste nuestro vídeo sobre el SEAT 600,
+Dialogue: 0,0:02:25.72,0:02:29.93,Doc,,0,0,0,,ya sabes que el coche que motorizó\NEspaña nació en Turín, como Fiat 600.
+Dialogue: 0,0:02:29.98,0:02:31.93,Doc,,0,0,0,,Pero lo que mucha gente no sabe es que,
+Dialogue: 0,0:02:31.98,0:02:34.83,Doc,,0,0,0,,mientras en Barcelona salían\NSeiscientos de la Zona Franca,
+Dialogue: 0,0:02:34.88,0:02:38.03,Doc,,0,0,0,,al otro lado del Telón de Acero\Nse fabricaba su hermano gemelo.
+Dialogue: 0,0:02:38.08,0:02:40.29,Doc,,0,0,0,,En Yugoslavia, la fábrica Zastava,
+Dialogue: 0,0:02:40.34,0:02:41.75,Doc,,0,0,0,,en la ciudad de Kragujevac,
+Dialogue: 0,0:02:41.80,0:02:46.41,Doc,,0,0,0,,fabricó el Fiat 600 bajo licencia\Ncon el nombre de Zastava 750.
+Dialogue: 0,0:02:46.46,0:02:49.27,Doc,,0,0,0,,Los yugoslavos lo llamaron\Ncariñosamente «Fića».
+Dialogue: 0,0:02:49.32,0:02:50.19,Doc,,0,0,0,,Y fue, para ellos,
+Dialogue: 0,0:02:50.24,0:02:53.27,Doc,,0,0,0,,exactamente lo mismo que el\NSeiscientos para nosotros:
+Dialogue: 0,0:02:53.32,0:02:56.85,Doc,,0,0,0,,el primer coche de millones de familias.
+Dialogue: 0,0:02:56.90,0:02:57.77,Doc,,0,0,0,,Piénsalo.
+Dialogue: 0,0:02:57.82,0:03:02.35,Doc,,0,0,0,,La España de Franco, anticomunista,\Ny la Yugoslavia de Tito, comunista.
+Dialogue: 0,0:03:02.40,0:03:05.83,Doc,,0,0,0,,Dos dictaduras enfrentadas en\Ntodo… y los dos pueblos conduciendo
+Dialogue: 0,0:03:05.88,0:03:09.05,Doc,,0,0,0,,prácticamente el mismo\Ncoche, diseñado en Italia.
+Dialogue: 0,0:03:09.10,0:03:15.51,Doc,,0,0,0,,Un SEAT 600 y un Fića aparcados juntos\Nson casi imposibles de distinguir.
+Dialogue: 0,0:03:15.56,0:03:18.37,Doc,,0,0,0,,La Guerra Fría separó a\NEuropa con muros y alambradas.
+Dialogue: 0,0:03:18.42,0:03:20.96,Doc,,0,0,0,,Pero Fiat encontró la manera\Nde cruzar la frontera.
+Dialogue: 0,0:03:22.67,0:03:22.67,Doc,,0,0,0,,Número diez.
+Dialogue: 0,0:03:22.72,0:03:27.29,Doc,,0,0,0,,El Tatra 603, el coche que\Nel pueblo no podía comprar.
+Dialogue: 0,0:03:27.34,0:03:30.77,Doc,,0,0,0,,Checoslovaquia, 1956.
+Dialogue: 0,0:03:30.82,0:03:33.47,Doc,,0,0,0,,La fábrica Tatra, una de\Nlas más antiguas del mundo,
+Dialogue: 0,0:03:33.52,0:03:36.93,Doc,,0,0,0,,presenta un coche que parece salido\Nde una película de ciencia ficción:
+Dialogue: 0,0:03:36.98,0:03:38.51,Doc,,0,0,0,,el Tatra 603.
+Dialogue: 0,0:03:38.56,0:03:40.33,Doc,,0,0,0,,Una berlina enorme y redondeada,
+Dialogue: 0,0:03:40.38,0:03:42.81,Doc,,0,0,0,,con tres faros delanteros\Nen sus primeras versiones.
+Dialogue: 0,0:03:42.86,0:03:49.83,Doc,,0,0,0,,Y lo más raro de todo: el motor iba\Ndetrás, y era un V8 refrigerado por aire.
+Dialogue: 0,0:03:49.88,0:03:52.61,Doc,,0,0,0,,Pero el Tatra 603 tenía\Notra particularidad.
+Dialogue: 0,0:03:52.66,0:03:53.77,Doc,,0,0,0,,Estaba reservado.
+Dialogue: 0,0:03:53.82,0:03:56.83,Doc,,0,0,0,,En la práctica, un ciudadano\Nnormal no podía comprarlo.
+Dialogue: 0,0:03:56.88,0:03:59.57,Doc,,0,0,0,,Era el coche de los altos\Ncargos del Partido Comunista,
+Dialogue: 0,0:03:59.62,0:04:02.83,Doc,,0,0,0,,de los directores de las grandes\Nfábricas, de la policía secreta.
+Dialogue: 0,0:04:02.88,0:04:04.85,Doc,,0,0,0,,Y se exportaba a los gobiernos amigos:
+Dialogue: 0,0:04:04.90,0:04:08.08,Doc,,0,0,0,,a Alemania Oriental, a\NCuba, a China, a Egipto.
+Dialogue: 0,0:04:08.13,0:04:14.21,Doc,,0,0,0,,Se fabricaron unos veinte\Nmil entre 1956 y 1975.
+Dialogue: 0,0:04:14.26,0:04:18.05,Doc,,0,0,0,,Si en la Checoslovaquia de los sesenta\Nveías un Tatra 603 negro aparcado
+Dialogue: 0,0:04:18.10,0:04:21.13,Doc,,0,0,0,,delante de tu casa, mejor\Nno hacer muchas preguntas.
+Dialogue: 0,0:04:21.18,0:04:24.65,Doc,,0,0,0,,Probablemente no eran buenas noticias.
+Dialogue: 0,0:04:24.70,0:04:25.67,Doc,,0,0,0,,Número nueve.
+Dialogue: 0,0:04:25.72,0:04:28.81,Doc,,0,0,0,,El Volga negro, la leyenda\Nque aterrorizó a los niños.
+Dialogue: 0,0:04:28.86,0:04:31.55,Doc,,0,0,0,,En 1956, la fábrica GAZ,
+Dialogue: 0,0:04:31.60,0:04:35.45,Doc,,0,0,0,,en la ciudad soviética de Gorki,\Nempezó a fabricar el GAZ-21 Volga.
+Dialogue: 0,0:04:35.50,0:04:38.23,Doc,,0,0,0,,Era el coche soñado por\Ncualquier ciudadano soviético:
+Dialogue: 0,0:04:38.28,0:04:41.41,Doc,,0,0,0,,grande, robusto y con un ciervo\Ncromado saltando sobre el capó.
+Dialogue: 0,0:04:41.46,0:04:43.39,Doc,,0,0,0,,Pero muy pocos podían tenerlo.
+Dialogue: 0,0:04:43.44,0:04:47.99,Doc,,0,0,0,,La mayoría de los Volga eran coches\Noficiales, y casi siempre eran negros.
+Dialogue: 0,0:04:48.04,0:04:49.65,Doc,,0,0,0,,Y de ahí nació una leyenda.
+Dialogue: 0,0:04:49.70,0:04:51.19,Doc,,0,0,0,,En los años sesenta y setenta,
+Dialogue: 0,0:04:51.24,0:04:52.39,Doc,,0,0,0,,por toda Europa del Este,
+Dialogue: 0,0:04:52.44,0:04:53.67,Doc,,0,0,0,,de Polonia a Rumanía,
+Dialogue: 0,0:04:53.72,0:04:56.83,Doc,,0,0,0,,los niños crecieron escuchando\Nla historia del Volga negro.
+Dialogue: 0,0:04:56.88,0:04:59.27,Doc,,0,0,0,,Un coche oscuro, con\Nlas cortinillas echadas,
+Dialogue: 0,0:04:59.32,0:05:02.73,Doc,,0,0,0,,que recorría las calles de noche y se\Nllevaba a los niños que andaban solos.
+Dialogue: 0,0:05:02.78,0:05:05.73,Doc,,0,0,0,,Según algunas versiones, los\Nconductores eran sacerdotes,
+Dialogue: 0,0:05:05.78,0:05:07.09,Doc,,0,0,0,,monjas o hasta vampiros.
+Dialogue: 0,0:05:07.14,0:05:09.89,Doc,,0,0,0,,Según otras, eran agentes del Gobierno.
+Dialogue: 0,0:05:09.94,0:05:11.47,Doc,,0,0,0,,Nunca se demostró nada.
+Dialogue: 0,0:05:11.52,0:05:14.67,Doc,,0,0,0,,Los folcloristas creen que la\Nleyenda nació de algo muy real:
+Dialogue: 0,0:05:14.72,0:05:16.59,Doc,,0,0,0,,el miedo a los coches negros del Estado,
+Dialogue: 0,0:05:16.64,0:05:19.91,Doc,,0,0,0,,que a veces aparecían de noche y\Nse llevaban a alguien para siempre.
+Dialogue: 0,0:05:19.96,0:05:20.91,Doc,,0,0,0,,En una dictadura,
+Dialogue: 0,0:05:20.96,0:05:24.57,Doc,,0,0,0,,el coche oficial era el símbolo del\Npoder que nadie podía controlar.
+Dialogue: 0,0:05:24.62,0:05:27.18,Doc,,0,0,0,,Y los niños, a su manera,\Nlo habían entendido.
+Dialogue: 0,0:05:29.13,0:05:29.16,Doc,,0,0,0,,Número ocho.
+Dialogue: 0,0:05:29.21,0:05:32.18,Doc,,0,0,0,,El GAZ Chaika, la gaviota del Partido.
+Dialogue: 0,0:05:32.23,0:05:36.76,Doc,,0,0,0,,Gorki, diecinueve de enero de 1959.
+Dialogue: 0,0:05:36.81,0:05:39.26,Doc,,0,0,0,,De la misma fábrica sale\Nun coche muy distinto:
+Dialogue: 0,0:05:39.31,0:05:42.88,Doc,,0,0,0,,el GAZ-13 Chaika, que en\Nruso significa «gaviota».
+Dialogue: 0,0:05:42.93,0:05:44.96,Doc,,0,0,0,,Una limusina de inspiración americana,
+Dialogue: 0,0:05:45.01,0:05:49.08,Doc,,0,0,0,,con aletas traseras, cromados y\Nun V8 de cinco litros y medio.
+Dialogue: 0,0:05:49.13,0:05:50.28,Doc,,0,0,0,,El cambio era automático,
+Dialogue: 0,0:05:50.33,0:05:52.86,Doc,,0,0,0,,y se manejaba con botones\Nen el salpicadero,
+Dialogue: 0,0:05:52.91,0:05:55.26,Doc,,0,0,0,,como algunos Chrysler de la época.
+Dialogue: 0,0:05:55.31,0:05:56.96,Doc,,0,0,0,,El Chaika no se vendía.
+Dialogue: 0,0:05:57.01,0:05:57.86,Doc,,0,0,0,,Se asignaba.
+Dialogue: 0,0:05:57.91,0:05:59.26,Doc,,0,0,0,,Era el coche de los ministros,
+Dialogue: 0,0:05:59.31,0:06:01.56,Doc,,0,0,0,,de los embajadores, de los\Naltos cargos regionales.
+Dialogue: 0,0:06:01.61,0:06:03.40,Doc,,0,0,0,,Y también de los cosmonautas,
+Dialogue: 0,0:06:03.45,0:06:06.80,Doc,,0,0,0,,que desfilaban en Chaika\Ndescapotables tras volver del espacio.
+Dialogue: 0,0:06:06.85,0:06:11.26,Doc,,0,0,0,,Para los ciudadanos de a pie había una\Núnica manera de subirse a uno: casarse.
+Dialogue: 0,0:06:11.31,0:06:12.74,Doc,,0,0,0,,En algunas ciudades soviéticas,
+Dialogue: 0,0:06:12.79,0:06:15.86,Doc,,0,0,0,,los Chaika retirados del servicio\Noficial se alquilaban para llevar a los
+Dialogue: 0,0:06:15.91,0:06:17.74,Doc,,0,0,0,,novios a la boda.
+Dialogue: 0,0:06:17.79,0:06:23.14,Doc,,0,0,0,,Entre 1959 y 1981 se\Nfabricaron unos tres mil cien.
+Dialogue: 0,0:06:23.19,0:06:26.34,Doc,,0,0,0,,En un país de doscientos\Nmillones de habitantes.
+Dialogue: 0,0:06:26.39,0:06:27.58,Doc,,0,0,0,,Número siete.
+Dialogue: 0,0:06:27.63,0:06:31.12,Doc,,0,0,0,,El SEAT 124 y su gemelo soviético.
+Dialogue: 0,0:06:31.17,0:06:33.82,Doc,,0,0,0,,Moscú, 1966.
+Dialogue: 0,0:06:33.87,0:06:35.18,Doc,,0,0,0,,En plena Guerra Fría,
+Dialogue: 0,0:06:35.23,0:06:38.66,Doc,,0,0,0,,la Unión Soviética firma un acuerdo con\Nuna empresa capitalista para construir
+Dialogue: 0,0:06:38.71,0:06:41.48,Doc,,0,0,0,,una ciudad-fábrica de\Ncoches junto al río Volga.
+Dialogue: 0,0:06:41.53,0:06:42.74,Doc,,0,0,0,,La empresa es Fiat.
+Dialogue: 0,0:06:42.79,0:06:45.18,Doc,,0,0,0,,Y el modelo elegido es el Fiat 124,
+Dialogue: 0,0:06:45.23,0:06:48.36,Doc,,0,0,0,,que acababa de ser elegido\NCoche del Año en Europa.
+Dialogue: 0,0:06:48.41,0:06:52.06,Doc,,0,0,0,,Fiat ayudó a levantar la fábrica de\NTogliatti y formó en Turín a miles de
+Dialogue: 0,0:06:52.11,0:06:53.64,Doc,,0,0,0,,trabajadores soviéticos.
+Dialogue: 0,0:06:53.69,0:06:57.50,Doc,,0,0,0,,En 1970 salió el primer VAZ-2101 Zhiguli,
+Dialogue: 0,0:06:57.55,0:06:59.56,Doc,,0,0,0,,que en el extranjero se vendió como Lada.
+Dialogue: 0,0:06:59.61,0:07:04.62,Doc,,0,0,0,,Era un Fiat 124 reforzado para el\Nfrío y los malos caminos soviéticos.
+Dialogue: 0,0:07:04.67,0:07:06.20,Doc,,0,0,0,,Y aquí entra España.
+Dialogue: 0,0:07:06.25,0:07:09.70,Doc,,0,0,0,,Porque desde 1968, en la\NZona Franca de Barcelona,
+Dialogue: 0,0:07:09.75,0:07:14.26,Doc,,0,0,0,,SEAT fabricaba su propio 124,\Ntambién bajo licencia de Fiat.
+Dialogue: 0,0:07:14.31,0:07:17.58,Doc,,0,0,0,,Fue uno de los coches más populares\Nde la España del desarrollismo:
+Dialogue: 0,0:07:17.63,0:07:20.76,Doc,,0,0,0,,el coche de la familia que ya\Nhabía dejado atrás el Seiscientos.
+Dialogue: 0,0:07:20.81,0:07:22.68,Doc,,0,0,0,,Se fabricaron cientos de miles.
+Dialogue: 0,0:07:22.73,0:07:24.46,Doc,,0,0,0,,Así que, en los años setenta,
+Dialogue: 0,0:07:24.51,0:07:28.06,Doc,,0,0,0,,el mismo coche italiano se fabricaba a\Nla vez en la España de Franco y en la
+Dialogue: 0,0:07:28.11,0:07:29.94,Doc,,0,0,0,,Unión Soviética de Brézhnev.
+Dialogue: 0,0:07:29.99,0:07:32.36,Doc,,0,0,0,,Un taxista de Madrid\Ny un taxista de Moscú,
+Dialogue: 0,0:07:32.41,0:07:35.34,Doc,,0,0,0,,sin saberlo, conducían\Nprácticamente el mismo coche.
+Dialogue: 0,0:07:35.39,0:07:36.94,Doc,,0,0,0,,Y el Lada siguió fabricándose,
+Dialogue: 0,0:07:36.99,0:07:39.66,Doc,,0,0,0,,con pocos cambios, durante\Nmás de cuarenta años.
+Dialogue: 0,0:07:39.71,0:07:41.84,Doc,,0,0,0,,Así que aquel Fiat de los años sesenta,
+Dialogue: 0,0:07:41.89,0:07:43.76,Doc,,0,0,0,,el mismo que conducían nuestros padres,
+Dialogue: 0,0:07:43.81,0:07:46.65,Doc,,0,0,0,,acabó siendo uno de los coches\Nmás longevos de la historia.
+Dialogue: 0,0:07:47.53,0:07:48.52,Doc,,0,0,0,,Número seis.
+Dialogue: 0,0:07:48.57,0:07:52.14,Doc,,0,0,0,,El ZIL, la limusina del Politburó.
+Dialogue: 0,0:07:52.19,0:07:56.22,Doc,,0,0,0,,Si el Chaika era el coche de los\Nministros, el ZIL era el de los dioses.
+Dialogue: 0,0:07:56.27,0:07:58.62,Doc,,0,0,0,,La fábrica ZIL de Moscú fabricaba a mano,
+Dialogue: 0,0:07:58.67,0:08:02.76,Doc,,0,0,0,,en series minúsculas, las limusinas\Nde los máximos dirigentes soviéticos.
+Dialogue: 0,0:08:02.81,0:08:05.68,Doc,,0,0,0,,El ZIL-111 de 1958,
+Dialogue: 0,0:08:05.73,0:08:09.14,Doc,,0,0,0,,y desde 1967 el ZIL-114:
+Dialogue: 0,0:08:09.19,0:08:10.82,Doc,,0,0,0,,más de seis metros de coche,
+Dialogue: 0,0:08:10.87,0:08:12.34,Doc,,0,0,0,,un V8 de siete litros,
+Dialogue: 0,0:08:12.39,0:08:16.78,Doc,,0,0,0,,y un interior con cortinillas para\Nque nadie viera quién iba dentro.
+Dialogue: 0,0:08:16.83,0:08:20.50,Doc,,0,0,0,,Solo podían viajar en él los miembros\Ndel Politburó y los máximos dirigentes
+Dialogue: 0,0:08:20.55,0:08:21.50,Doc,,0,0,0,,del país.
+Dialogue: 0,0:08:21.55,0:08:25.86,Doc,,0,0,0,,Y para ellos existía algo todavía más\Nexclusivo que el coche: la carretera.
+Dialogue: 0,0:08:25.91,0:08:29.54,Doc,,0,0,0,,En Moscú, el carril central de las\Ngrandes avenidas estaba reservado para las
+Dialogue: 0,0:08:29.59,0:08:30.96,Doc,,0,0,0,,limusinas del Partido.
+Dialogue: 0,0:08:31.01,0:08:33.28,Doc,,0,0,0,,La gente lo llamaba «el carril ZIL».
+Dialogue: 0,0:08:33.33,0:08:36.10,Doc,,0,0,0,,Mientras los moscovitas\Nhacían cola para el autobús,
+Dialogue: 0,0:08:36.15,0:08:39.10,Doc,,0,0,0,,las caravanas negras pasaban a\Ntoda velocidad por el centro,
+Dialogue: 0,0:08:39.15,0:08:41.68,Doc,,0,0,0,,sin semáforos y sin tráfico.
+Dialogue: 0,0:08:41.73,0:08:44.06,Doc,,0,0,0,,Aquellas caravanas también eran un blanco.
+Dialogue: 0,0:08:44.11,0:08:47.76,Doc,,0,0,0,,En enero de 1969, en\Nla entrada del Kremlin,
+Dialogue: 0,0:08:47.81,0:08:51.34,Doc,,0,0,0,,un joven militar disparó contra un coche\Nde la comitiva oficial creyendo que
+Dialogue: 0,0:08:51.39,0:08:52.82,Doc,,0,0,0,,en él viajaba Brézhnev.
+Dialogue: 0,0:08:52.87,0:08:54.22,Doc,,0,0,0,,Se equivocó de coche:
+Dialogue: 0,0:08:54.27,0:08:57.46,Doc,,0,0,0,,dentro iban varios cosmonautas\Nque volvían de una ceremonia.
+Dialogue: 0,0:08:57.51,0:09:01.56,Doc,,0,0,0,,Murió el chófer, y Brézhnev, que\Niba en otro vehículo, salió ileso.
+Dialogue: 0,0:09:01.61,0:09:04.94,Doc,,0,0,0,,Desde entonces, la seguridad de las\Nlimusinas del Kremlin se volvió todavía
+Dialogue: 0,0:09:04.99,0:09:06.68,Doc,,0,0,0,,más estricta.
+Dialogue: 0,0:09:06.73,0:09:07.80,Doc,,0,0,0,,Número cinco.
+Dialogue: 0,0:09:07.85,0:09:10.37,Doc,,0,0,0,,Volvogrado, los Volvo de los comunistas.
+Dialogue: 0,0:09:10.42,0:09:13.56,Doc,,0,0,0,,Alemania Oriental, años setenta.
+Dialogue: 0,0:09:13.61,0:09:16.94,Doc,,0,0,0,,Los dirigentes del país más comunista\Nde Europa tenían un problema:
+Dialogue: 0,0:09:16.99,0:09:20.20,Doc,,0,0,0,,los coches del Este les parecían\Npoco fiables para ellos mismos.
+Dialogue: 0,0:09:20.25,0:09:22.76,Doc,,0,0,0,,La solución fue tan\Nsorprendente como discreta.
+Dialogue: 0,0:09:22.81,0:09:24.48,Doc,,0,0,0,,Compraron coches suecos.
+Dialogue: 0,0:09:24.53,0:09:26.74,Doc,,0,0,0,,A partir de 1976,
+Dialogue: 0,0:09:26.79,0:09:31.48,Doc,,0,0,0,,la dirección de la República Democrática\NAlemana encargó el Volvo 264 TE,
+Dialogue: 0,0:09:31.53,0:09:36.06,Doc,,0,0,0,,una limusina alargada construida con la\Nayuda del carrocero italiano Bertone.
+Dialogue: 0,0:09:36.11,0:09:39.68,Doc,,0,0,0,,Más de cinco metros y medio,\Nseis plazas y un motor V6.
+Dialogue: 0,0:09:39.73,0:09:43.16,Doc,,0,0,0,,Según la prensa alemana, se\Ncompraron más de cien unidades.
+Dialogue: 0,0:09:43.21,0:09:45.44,Doc,,0,0,0,,Los altos dirigentes vivían todos juntos,
+Dialogue: 0,0:09:45.49,0:09:49.32,Doc,,0,0,0,,en una urbanización vigilada en los\Nbosques de Wandlitz, al norte de Berlín.
+Dialogue: 0,0:09:49.37,0:09:52.48,Doc,,0,0,0,,Y había tantos Volvo aparcados allí\Nque la gente la empezó a llamar,
+Dialogue: 0,0:09:52.53,0:09:54.26,Doc,,0,0,0,,con ironía, «Volvogrado».
+Dialogue: 0,0:09:54.31,0:09:57.64,Doc,,0,0,0,,El pueblo esperaba quince años\Npor un Trabant de dos tiempos.
+Dialogue: 0,0:09:57.69,0:09:59.81,Doc,,0,0,0,,Y los jefes del Partido iban en Volvo.
+Dialogue: 0,0:10:00.51,0:10:03.38,Doc,,0,0,0,,Antes de llegar a los tres primeros,\Nhay que entender una fecha.
+Dialogue: 0,0:10:03.43,0:10:07.22,Doc,,0,0,0,,El trece de agosto de 1961, de madrugada,
+Dialogue: 0,0:10:07.27,0:10:10.54,Doc,,0,0,0,,los berlineses se despertaron\Ncon su ciudad partida en dos.
+Dialogue: 0,0:10:10.59,0:10:11.18,Doc,,0,0,0,,Durante la noche,
+Dialogue: 0,0:10:11.23,0:10:14.52,Doc,,0,0,0,,los soldados de Alemania Oriental habían\Nlevantado alambradas a lo largo de
+Dialogue: 0,0:10:14.57,0:10:16.66,Doc,,0,0,0,,toda la frontera entre los dos Berlines.
+Dialogue: 0,0:10:16.71,0:10:17.24,Doc,,0,0,0,,En pocos meses,
+Dialogue: 0,0:10:17.29,0:10:19.98,Doc,,0,0,0,,las alambradas se convirtieron\Nen un muro de hormigón,
+Dialogue: 0,0:10:20.03,0:10:23.56,Doc,,0,0,0,,con torres de vigilancia, perros\Ny guardias con orden de disparar.
+Dialogue: 0,0:10:23.61,0:10:26.96,Doc,,0,0,0,,Familias, parejas y amigos quedaron\Nseparados de un día para otro.
+Dialogue: 0,0:10:27.01,0:10:29.62,Doc,,0,0,0,,Y muchos de ellos empezaron\Na pensar en cómo cruzar.
+Dialogue: 0,0:10:29.67,0:10:31.16,Doc,,0,0,0,,Algunos cavaron túneles.
+Dialogue: 0,0:10:31.21,0:10:32.76,Doc,,0,0,0,,Otros saltaron desde ventanas.
+Dialogue: 0,0:10:32.81,0:10:34.42,Doc,,0,0,0,,Y otros usaron coches.
+Dialogue: 0,0:10:34.47,0:10:35.58,Doc,,0,0,0,,Número cuatro.
+Dialogue: 0,0:10:35.63,0:10:38.22,Doc,,0,0,0,,El Austin-Healey que pasó\Npor debajo de la barrera.
+Dialogue: 0,0:10:38.27,0:10:39.86,Doc,,0,0,0,,Volvemos al principio.
+Dialogue: 0,0:10:39.91,0:10:43.30,Doc,,0,0,0,,Heinz Meixner era un ingeniero\Naustriaco que vivía en Berlín Este.
+Dialogue: 0,0:10:43.35,0:10:46.46,Doc,,0,0,0,,Se había enamorado de una joven\Nberlinesa, Margarete Thurau.
+Dialogue: 0,0:10:46.51,0:10:49.02,Doc,,0,0,0,,Como era extranjero, él\Npodía cruzar al Oeste.
+Dialogue: 0,0:10:49.07,0:10:49.65,Doc,,0,0,0,,Ella no.
+Dialogue: 0,0:10:49.70,0:10:53.26,Doc,,0,0,0,,Así que Meixner estudió el\NCheckpoint Charlie durante días.
+Dialogue: 0,0:10:53.31,0:10:54.96,Doc,,0,0,0,,Midió la altura de la barrera.
+Dialogue: 0,0:10:55.01,0:10:58.24,Doc,,0,0,0,,Y recorrió las agencias de alquiler de\Ncoches de Berlín Occidental buscando
+Dialogue: 0,0:10:58.29,0:11:00.74,Doc,,0,0,0,,uno lo bastante bajo\Npara pasar por debajo.
+Dialogue: 0,0:11:00.79,0:11:05.20,Doc,,0,0,0,,Lo encontró: un pequeño deportivo\Nbritánico, un Austin-Healey Sprite rojo.
+Dialogue: 0,0:11:05.25,0:11:08.38,Doc,,0,0,0,,Le quitó el parabrisas y le sacó\Nun poco de aire a las ruedas.
+Dialogue: 0,0:11:08.43,0:11:12.56,Doc,,0,0,0,,Así, el coche apenas superaba los\Nnoventa centímetros de altura.
+Dialogue: 0,0:11:12.61,0:11:15.86,Doc,,0,0,0,,En la madrugada del cinco de mayo de 1963,
+Dialogue: 0,0:11:15.91,0:11:18.91,Doc,,0,0,0,,con su novia escondida detrás y\Nla madre de ella en el maletero,
+Dialogue: 0,0:11:18.96,0:11:21.14,Doc,,0,0,0,,Meixner llegó al paso fronterizo.
+Dialogue: 0,0:11:21.19,0:11:22.66,Doc,,0,0,0,,Enseñó su pasaporte.
+Dialogue: 0,0:11:22.71,0:11:24.58,Doc,,0,0,0,,El guardia le indicó que se apartara.
+Dialogue: 0,0:11:24.63,0:11:25.28,Doc,,0,0,0,,Y él aceleró.
+Dialogue: 0,0:11:25.33,0:11:27.66,Doc,,0,0,0,,El Sprite pasó por debajo de las barreras,
+Dialogue: 0,0:11:27.71,0:11:30.58,Doc,,0,0,0,,entre los obstáculos, y\Nllegó al lado occidental.
+Dialogue: 0,0:11:30.63,0:11:32.70,Doc,,0,0,0,,Los tres estaban libres.
+Dialogue: 0,0:11:32.75,0:11:33.28,Doc,,0,0,0,,Al día siguiente,
+Dialogue: 0,0:11:33.33,0:11:37.42,Doc,,0,0,0,,las autoridades del Este reforzaron\Ntodas las barreras con barras verticales.
+Dialogue: 0,0:11:37.47,0:11:39.36,Doc,,0,0,0,,Pero según la revista Hagerty,
+Dialogue: 0,0:11:39.41,0:11:41.86,Doc,,0,0,0,,dos meses después otro\Njoven, un argentino,
+Dialogue: 0,0:11:41.91,0:11:45.26,Doc,,0,0,0,,alquiló el mismo Sprite y\Nrepitió la hazaña de otra forma.
+Dialogue: 0,0:11:45.31,0:11:48.14,Doc,,0,0,0,,Ese coche se escapó de\NAlemania Oriental dos veces.
+Dialogue: 0,0:11:48.19,0:11:48.88,Doc,,0,0,0,,Número tres.
+Dialogue: 0,0:11:48.93,0:11:51.30,Doc,,0,0,0,,El Isetta que escondía personas.
+Dialogue: 0,0:11:51.35,0:11:53.78,Doc,,0,0,0,,Si un deportivo bajo\Npodía cruzar la frontera,
+Dialogue: 0,0:11:53.83,0:11:56.16,Doc,,0,0,0,,un coche diminuto podía\Nesconder a alguien.
+Dialogue: 0,0:11:56.21,0:12:00.46,Doc,,0,0,0,,Esa fue la idea de Klaus-Günter\NJacobi, un joven de Berlín Occidental.
+Dialogue: 0,0:12:00.51,0:12:03.92,Doc,,0,0,0,,Su amigo Manfred Koster vivía\Nen el Este y quería escapar.
+Dialogue: 0,0:12:03.97,0:12:08.68,Doc,,0,0,0,,Jacobi tenía un BMW Isetta, el famoso\Ncoche burbuja con la puerta delantera.
+Dialogue: 0,0:12:08.73,0:12:12.00,Doc,,0,0,0,,Era tan pequeño que ningún guardia\Nimaginaría que dentro pudiera esconderse
+Dialogue: 0,0:12:12.05,0:12:13.02,Doc,,0,0,0,,una persona.
+Dialogue: 0,0:12:13.07,0:12:14.36,Doc,,0,0,0,,Así que lo modificó:
+Dialogue: 0,0:12:14.41,0:12:16.44,Doc,,0,0,0,,quitó la calefacción y el filtro del aire,
+Dialogue: 0,0:12:16.49,0:12:20.20,Doc,,0,0,0,,cambió el depósito de gasolina por uno\Nmás pequeño y creó un hueco junto al
+Dialogue: 0,0:12:20.25,0:12:20.90,Doc,,0,0,0,,motor.
+Dialogue: 0,0:12:20.95,0:12:23.70,Doc,,0,0,0,,Allí, encogido, retorcido\Ny sin apenas respirar,
+Dialogue: 0,0:12:23.75,0:12:25.82,Doc,,0,0,0,,viajó Koster a través de la frontera.
+Dialogue: 0,0:12:25.87,0:12:26.96,Doc,,0,0,0,,Funcionó.
+Dialogue: 0,0:12:27.01,0:12:29.80,Doc,,0,0,0,,Y según la historia que hoy cuenta\Nel museo del Muro de Berlín,
+Dialogue: 0,0:12:29.85,0:12:33.74,Doc,,0,0,0,,aquel Isetta y otros coches parecidos\Nayudaron a escapar a nueve personas a
+Dialogue: 0,0:12:33.79,0:12:35.40,Doc,,0,0,0,,mediados de los años sesenta.
+Dialogue: 0,0:12:35.45,0:12:38.69,Doc,,0,0,0,,El coche original se puede ver hoy\Nen el museo del Checkpoint Charlie.
+Dialogue: 0,0:12:39.46,0:12:40.41,Doc,,0,0,0,,Número dos.
+Dialogue: 0,0:12:40.46,0:12:42.85,Doc,,0,0,0,,El Lincoln que Nixon le regaló a Brézhnev.
+Dialogue: 0,0:12:42.90,0:12:46.81,Doc,,0,0,0,,Camp David, Estados Unidos, junio de 1973.
+Dialogue: 0,0:12:46.86,0:12:50.45,Doc,,0,0,0,,La Guerra Fría vive un momento de\Ndeshielo, la llamada distensión.
+Dialogue: 0,0:12:50.50,0:12:53.73,Doc,,0,0,0,,El líder soviético Leonid\NBrézhnev visita a Richard Nixon.
+Dialogue: 0,0:12:53.78,0:12:56.65,Doc,,0,0,0,,Y Nixon sabe que a su invitado\Nle encantan los coches.
+Dialogue: 0,0:12:56.70,0:12:58.63,Doc,,0,0,0,,Así que le tiene preparado un regalo:
+Dialogue: 0,0:12:58.68,0:13:00.59,Doc,,0,0,0,,un Lincoln Continental azul oscuro,
+Dialogue: 0,0:13:00.64,0:13:03.50,Doc,,0,0,0,,con una placa grabada en el\Nsalpicadero con buenos deseos.
+Dialogue: 0,0:13:03.55,0:13:05.51,Doc,,0,0,0,,Brézhnev no se lo pensó.
+Dialogue: 0,0:13:05.56,0:13:06.63,Doc,,0,0,0,,Se puso al volante,
+Dialogue: 0,0:13:06.68,0:13:10.13,Doc,,0,0,0,,invitó a Nixon a subirse a su lado y\Nsalió a toda velocidad por las carreteras
+Dialogue: 0,0:13:10.18,0:13:11.49,Doc,,0,0,0,,estrechas de Camp David,
+Dialogue: 0,0:13:11.54,0:13:14.65,Doc,,0,0,0,,con el presidente de Estados Unidos\Nagarrado al asiento y los escoltas del
+Dialogue: 0,0:13:14.70,0:13:17.73,Doc,,0,0,0,,Servicio Secreto detrás, sin\Nsaber muy bien qué hacer.
+Dialogue: 0,0:13:17.78,0:13:19.43,Doc,,0,0,0,,Y no fue el único regalo.
+Dialogue: 0,0:13:19.48,0:13:20.87,Doc,,0,0,0,,Según la Fundación Nixon,
+Dialogue: 0,0:13:20.92,0:13:23.93,Doc,,0,0,0,,el presidente americano ya le\Nhabía regalado antes un Cadillac,
+Dialogue: 0,0:13:23.98,0:13:26.89,Doc,,0,0,0,,y en 1974, en su visita a Moscú,
+Dialogue: 0,0:13:26.94,0:13:29.79,Doc,,0,0,0,,le llevó otro coche más:\Nun Chevrolet Monte Carlo.
+Dialogue: 0,0:13:29.84,0:13:33.10,Doc,,0,0,0,,La diplomacia de la Guerra Fría\Ntambién se hacía con llaves de coche.
+Dialogue: 0,0:13:33.15,0:13:36.79,Doc,,0,0,0,,Brézhnev fue el mayor coleccionista\Nde coches del mundo comunista.
+Dialogue: 0,0:13:36.84,0:13:39.85,Doc,,0,0,0,,Tuvo Rolls-Royce, Mercedes, un Citroën SM,
+Dialogue: 0,0:13:39.90,0:13:41.55,Doc,,0,0,0,,un Cadillac… La mayoría,
+Dialogue: 0,0:13:41.60,0:13:44.97,Doc,,0,0,0,,regalos de jefes de Estado que\Nsabían cómo ganarse su simpatía.
+Dialogue: 0,0:13:45.02,0:13:47.75,Doc,,0,0,0,,Mientras sus ciudadanos\Nesperaban años por un Lada,
+Dialogue: 0,0:13:47.80,0:13:51.21,Doc,,0,0,0,,el secretario general del Partido\NComunista conducía por la Unión Soviética
+Dialogue: 0,0:13:51.26,0:13:53.21,Doc,,0,0,0,,coches del enemigo capitalista.
+Dialogue: 0,0:13:53.26,0:13:57.44,Doc,,0,0,0,,El Lincoln de Nixon se conserva hoy en\Nel Museo del Motor de Riga, en Letonia.
+Dialogue: 0,0:13:58.20,0:13:59.93,Doc,,0,0,0,,Y llegamos al número uno.
+Dialogue: 0,0:13:59.98,0:14:05.33,Doc,,0,0,0,,El coche más secreto de la Guerra Fría.
+Dialogue: 0,0:14:05.38,0:14:08.19,Doc,,0,0,0,,Unión Soviética, 1962.
+Dialogue: 0,0:14:08.24,0:14:10.99,Doc,,0,0,0,,El KGB, la policía\Nsecreta, tiene un problema.
+Dialogue: 0,0:14:11.04,0:14:12.91,Doc,,0,0,0,,Sus agentes necesitan seguir coches,
+Dialogue: 0,0:14:12.96,0:14:14.71,Doc,,0,0,0,,escoltar a los dirigentes y, a veces,
+Dialogue: 0,0:14:14.76,0:14:17.31,Doc,,0,0,0,,alcanzar a alguien que\Nno quiere ser alcanzado.
+Dialogue: 0,0:14:17.36,0:14:23.21,Doc,,0,0,0,,Pero no pueden hacerlo con una\Nlimusina que llame la atención.
+Dialogue: 0,0:14:23.26,0:14:25.55,Doc,,0,0,0,,La solución salió de la fábrica GAZ.
+Dialogue: 0,0:14:25.60,0:14:28.51,Doc,,0,0,0,,Por fuera era un Volga\NGAZ-21 normal y corriente,
+Dialogue: 0,0:14:28.56,0:14:31.61,Doc,,0,0,0,,el coche oficial que se veía\Nen cualquier ciudad soviética.
+Dialogue: 0,0:14:31.66,0:14:34.95,Doc,,0,0,0,,Pero debajo del capó, ligeramente\Ninclinado para que cupiera,
+Dialogue: 0,0:14:35.00,0:14:38.73,Doc,,0,0,0,,llevaba el V8 de cinco litros\Ny medio de la limusina Chaika.
+Dialogue: 0,0:14:38.78,0:14:46.28,Doc,,0,0,0,,Más el cambio automático, una\Nsuspensión reforzada y frenos mejores.
+Dialogue: 0,0:14:51.23,0:14:58.73,Doc,,0,0,0,,Lo
+Dialogue: 0,0:15:00.30,0:15:07.80,Doc,,0,0,0,,llamaron
+Dialogue: 0,0:15:09.37,0:15:16.87,Doc,,0,0,0,,GAZ-23.
+Dialogue: 0,0:15:18.44,0:15:23.69,Doc,,0,0,0,,En los documentos oficiales aparecía\Ncomo «coche rápido» o «coche de escolta».
+Dialogue: 0,0:15:23.74,0:15:26.52,Doc,,0,0,0,,Pero entre los agentes tenía\Nun apodo mucho más claro:
+Dialogue: 0,0:15:26.57,0:15:34.07,Doc,,0,0,0,,«dogoniálka», que en ruso significa,\Nmás o menos, «la que te alcanza».
+Dialogue: 0,0:15:34.30,0:15:36.45,Doc,,0,0,0,,Por fuera, nadie notaba nada.
+Dialogue: 0,0:15:36.50,0:15:38.25,Doc,,0,0,0,,Hasta que pisaba el acelerador.
+Dialogue: 0,0:15:38.30,0:15:39.67,Doc,,0,0,0,,Según las pruebas de la época,
+Dialogue: 0,0:15:39.72,0:15:42.29,Doc,,0,0,0,,podía pasar de los ciento\Nsetenta kilómetros por hora.
+Dialogue: 0,0:15:42.34,0:15:48.74,Doc,,0,0,0,,Un coche familiar\Nsoviético con potencia de
+Dialogue: 0,0:15:48.79,0:15:50.37,Doc,,0,0,0,,deportivo americano.
+Dialogue: 0,0:15:50.42,0:15:55.01,Doc,,0,0,0,,Entre 1962 y 1970 se\Nfabricaron unos seiscientos.
+Dialogue: 0,0:15:55.06,0:15:59.11,Doc,,0,0,0,,No se vendían, no aparecían en los\Ncatálogos y no se podían comprar.
+Dialogue: 0,0:15:59.16,0:16:00.43,Doc,,0,0,0,,Y según varias fuentes,
+Dialogue: 0,0:16:00.48,0:16:03.69,Doc,,0,0,0,,cuando un GAZ-23 terminaba\Nsu vida al servicio del KGB,
+Dialogue: 0,0:16:03.74,0:16:05.21,Doc,,0,0,0,,no se vendía a un particular.
+Dialogue: 0,0:16:05.26,0:16:06.21,Doc,,0,0,0,,Se desguazaba.
+Dialogue: 0,0:16:06.26,0:16:07.59,Doc,,0,0,0,,Por eso hoy quedan poquísimos,
+Dialogue: 0,0:16:07.64,0:16:14.69,Doc,,0,0,0,,y los que sobreviven son auténticas\Njoyas para los coleccionistas.
+Dialogue: 0,0:16:14.74,0:16:22.24,Doc,,0,0,0,,Así era
+Dialogue: 0,0:16:23.93,0:16:31.43,Doc,,0,0,0,,la Guerra
+Dialogue: 0,0:16:33.13,0:16:40.63,Doc,,0,0,0,,Fría sobre
+Dialogue: 0,0:16:42.32,0:16:46.87,Doc,,0,0,0,,ruedas.
+Dialogue: 0,0:16:46.92,0:16:48.51,Doc,,0,0,0,,Coches de plástico para el pueblo,
+Dialogue: 0,0:16:48.56,0:16:51.19,Doc,,0,0,0,,limusinas con carriles\Npropios para los jefes,
+Dialogue: 0,0:16:51.24,0:16:53.31,Doc,,0,0,0,,Volvo suecos para los comunistas,
+Dialogue: 0,0:16:53.36,0:16:55.67,Doc,,0,0,0,,deportivos que pasaban por\Ndebajo de las barreras,
+Dialogue: 0,0:16:55.72,0:16:59.49,Doc,,0,0,0,,coches burbuja que escondían personas…\Ny un Volga inofensivo que en realidad
+Dialogue: 0,0:16:59.54,0:17:00.79,Doc,,0,0,0,,era un cazador.
+Dialogue: 0,0:17:00.84,0:17:02.09,Doc,,0,0,0,,Ahora te pregunto a ti:
+Dialogue: 0,0:17:02.14,0:17:04.05,Doc,,0,0,0,,si tuvieras que cruzar el Muro de Berlín,
+Dialogue: 0,0:17:04.10,0:17:06.11,Doc,,0,0,0,,¿en cuál de estos coches lo intentarías?
+Dialogue: 0,0:17:06.16,0:17:13.66,Doc,,0,0,0,,¿En el Sprite, en el Isetta…\No en el Volga del KGB?
+Dialogue: 0,0:17:46.60,0:17:46.88,Doc,,0,0,0,,Te leo en los comentarios.
+Dialogue: 0,0:17:46.93,0:17:47.38,Doc,,0,0,0,,Y si te ha gustado el vídeo,
+Dialogue: 0,0:17:47.43,0:17:48.25,Doc,,0,0,0,,dale a me gusta y suscríbete para\Nmás historias de coches clásicos.
+Dialogue: 0,0:17:48.30,0:17:50.18,Doc,,0,0,0,,Nos vemos en el próximo.
