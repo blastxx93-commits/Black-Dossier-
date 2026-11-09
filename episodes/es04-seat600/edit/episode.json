@@ -1,0 +1,1081 @@
+{
+ "output": "ES04_SEAT600.mp4",
+ "fps": 24,
+ "music": [
+  {
+   "file": "trilha.wav",
+   "start": 0,
+   "gain": -29,
+   "fade_in": 4,
+   "fade_out": 5
+  }
+ ],
+ "chapters": [
+  {
+   "audio": "audio/ch00_hook.flac",
+   "lead_in": 0,
+   "tail": 0.6,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/m_600n/1_commons.jpg",
+     "move": "in",
+     "caption": "Barcelona|27 de junio de 1957",
+     "dur": 9.96,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_zona_franca/1_commons.jpg",
+     "move": "in",
+     "dur": 10.54,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_peseta/3_openverse.jpg",
+     "move": "left",
+     "dur": 6.34,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Hasta dos a\u00f1os de espera.",
+     "highlight": "DOS A\u00d1OS",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.42,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_spain_beach/1_openverse.jpg",
+     "move": "out",
+     "dur": 5.42,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_traffic/4_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.02,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "El SEAT 600",
+     "subtitle": "el coche que cambi\u00f3 Espa\u00f1a",
+     "tag": "1957 \u2013 1973",
+     "bg": "a/m_600n/10_openverse.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 5.14,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Colas de dos a\u00f1os",
+      "Un secreto sobre su origen",
+      "La frase de la \u00faltima pancarta"
+     ],
+     "starts": [
+      0,
+      86,
+      167
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 3.6199999999999974
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 6.979999999999997
+      }
+     ],
+     "dur": 13.769,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch01.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/h_spain_1960_photo/3_openverse.jpg",
+     "move": "in",
+     "dur": 5.34,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_marin_beach/1_openverse.jpg",
+     "move": "up",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_seat_museum/6_openverse.jpg",
+     "move": "down",
+     "dur": 10.74,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "1 / 55",
+     "label": "un veh\u00edculo por cada 55 habitantes \u00b7 1960",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "estudio acad\u00e9mico",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seat1400/2_commons.jpg",
+     "move": "in",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seat1400/4_commons.jpg",
+     "move": "left",
+     "dur": 5.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_zona_franca/2_commons.jpg",
+     "move": "out",
+     "dur": 9.9,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "51% \u00b7 42% \u00b7 7%",
+     "label": "INI \u00b7 seis bancos \u00b7 Fiat",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "SEAT, 1950",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seat1400/5_openverse.jpg",
+     "move": "out",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_600d/5_commons.jpg",
+     "move": "right",
+     "dur": 5.16,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "600.000.000",
+     "label": "pesetas de capital inicial de SEAT",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "SEAT, 1950",
+     "dur": 8.57,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_zona_franca/4_openverse.jpg",
+     "move": "down",
+     "dur": 3.19,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seat1400/3_openverse.jpg",
+     "move": "in",
+     "caption": "SEAT 1400|1953",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_600d/6_openverse.jpg",
+     "move": "in",
+     "dur": 8.12,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seat1400/1_openverse.jpg",
+     "move": "in",
+     "dur": 4.43,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_biscuter/1_commons.jpg",
+     "move": "in",
+     "caption": "Bisc\u00fater|1953",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_biscuter/3_commons.jpg",
+     "move": "up",
+     "dur": 7.42,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_spain/6_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.08,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_fiat600/1_commons.jpg",
+     "move": "in",
+     "caption": "Fiat 600|Tur\u00edn, 1955",
+     "dur": 3.632,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch02.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/m_fiat600/2_openverse.jpg",
+     "move": "left",
+     "dur": 10.74,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_giacosa/3_openverse.jpg",
+     "move": "in",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_fiat600/3_commons.jpg",
+     "move": "out",
+     "dur": 11.04,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "El coche que motoriz\u00f3 Espa\u00f1a naci\u00f3 en Tur\u00edn.",
+     "highlight": "TUR\u00cdN",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_600d/7_commons.jpg",
+     "move": "down",
+     "dur": 5.66,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_zastava750/1_commons.jpg",
+     "move": "in",
+     "caption": "Zastava 750|\u00abFi\u0107a\u00bb \u00b7 Yugoslavia",
+     "dur": 10.62,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_fitito/1_commons.jpg",
+     "move": "in",
+     "caption": "Fiat 600|\u00abFitito\u00bb \u00b7 Argentina",
+     "dur": 4.18,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_jagst/1_commons.jpg",
+     "move": "in",
+     "caption": "NSU-Fiat Jagst",
+     "dur": 9.32,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_600n/3_commons.jpg",
+     "move": "out",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_600d/9_commons.jpg",
+     "move": "in",
+     "dur": 7.39,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_600n/2_openverse.jpg",
+     "move": "in",
+     "caption": "SEAT 600|70.000 pesetas",
+     "dur": 7.29,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Matr\u00edcula B-141141",
+     "highlight": "B-141141",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 9.12,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_peseta/4_openverse.jpg",
+     "move": "right",
+     "dur": 10.88,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "30.000",
+     "label": "personas en lista de espera",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Tinsa / Mapfre",
+     "dur": 9.1,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_600n/4_openverse.jpg",
+     "move": "in",
+     "dur": 10.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_600_interior/1_commons.jpg",
+     "move": "up",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_600e/4_openverse.jpg",
+     "move": "left",
+     "dur": 8.76,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_600_doors/1_commons.jpg",
+     "move": "in",
+     "caption": "Puertas \u00absuicidas\u00bb",
+     "dur": 4.1,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_biscuter/2_commons.jpg",
+     "move": "out",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_biscuter/4_commons.jpg",
+     "move": "out",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_600e/5_commons.jpg",
+     "move": "right",
+     "dur": 8.96,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_600n/5_commons.jpg",
+     "move": "down",
+     "dur": 7.639,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch03.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/c_traffic/5_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.2,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_spain_beach/2_openverse.jpg",
+     "move": "in",
+     "dur": 11.92,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_spain_beach/3_openverse.jpg",
+     "move": "left",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_600e/6_openverse.jpg",
+     "move": "in",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_600e/7_commons.jpg",
+     "move": "up",
+     "dur": 4.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_spain_beach/4_openverse.jpg",
+     "move": "out",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_600e/8_openverse.jpg",
+     "move": "out",
+     "dur": 4.14,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_traffic/2_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_600_2/2_openverse.jpg",
+     "move": "down",
+     "dur": 4.28,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "1958\u20131966",
+     "label": "coche m\u00e1s vendido de Espa\u00f1a (y en 1968)",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "SEAT",
+     "dur": 7.5,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "1 / 9",
+     "label": "un veh\u00edculo por cada 9 habitantes \u00b7 1974",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "estudio acad\u00e9mico",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_600_2/3_openverse.jpg",
+     "move": "in",
+     "dur": 10.7,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_zona_franca/5_commons.jpg",
+     "move": "right",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_600_2/6_openverse.jpg",
+     "move": "left",
+     "dur": 9.82,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_spain_beach/5_openverse.jpg",
+     "move": "in",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_600_2/7_commons.jpg",
+     "move": "out",
+     "dur": 9.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_600_interior/3_commons.jpg",
+     "move": "up",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_600_2/9_commons.jpg",
+     "move": "right",
+     "dur": 5.3,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_600n/6_openverse.jpg",
+     "move": "out",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_600_3/1_commons.jpg",
+     "move": "in",
+     "dur": 10.173,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch04.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/m_600n/9_commons.jpg",
+     "move": "down",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_600_3/2_openverse.jpg",
+     "move": "up",
+     "dur": 5.746,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_600d/1_commons.jpg",
+     "move": "in",
+     "caption": "SEAT 600 D|1963 \u00b7 767 cc",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_600_3/3_openverse.jpg",
+     "move": "out",
+     "dur": 10.574,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seat800/1_commons.jpg",
+     "move": "in",
+     "caption": "SEAT 800|cuatro puertas",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seat800/3_commons.jpg",
+     "move": "down",
+     "dur": 6.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seat800/2_openverse.jpg",
+     "move": "in",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seat800/4_openverse.jpg",
+     "move": "in",
+     "dur": 9.2,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_600e/2_openverse.jpg",
+     "move": "in",
+     "caption": "SEAT 600 E|puertas normales",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_600_3/4_commons.jpg",
+     "move": "left",
+     "dur": 6.12,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_600e/1_commons.jpg",
+     "move": "left",
+     "dur": 7.08,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_600_rally/1_commons.jpg",
+     "move": "in",
+     "dur": 11.373,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seat850/1_commons.jpg",
+     "move": "out",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seat850/2_openverse.jpg",
+     "move": "out",
+     "dur": 10.931,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch05.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/h_zona_franca/6_openverse.jpg",
+     "move": "right",
+     "dur": 4.532,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_600e/3_commons.jpg",
+     "move": "in",
+     "dur": 6.928,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_seat_museum/2_openverse.jpg",
+     "move": "up",
+     "dur": 10.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_600d/10_openverse.jpg",
+     "move": "out",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_600_3/5_openverse.jpg",
+     "move": "right",
+     "dur": 10.03,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\u00abNaciste pr\u00edncipe y mueres rey\u00bb",
+     "highlight": "REY",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_600_3/6_commons.jpg",
+     "move": "in",
+     "dur": 8.05,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_600d/2_openverse.jpg",
+     "move": "down",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_600_3/7_openverse.jpg",
+     "move": "up",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_600_rear/3_commons.jpg",
+     "move": "out",
+     "dur": 5.37,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "\u2248800.000",
+     "label": "SEAT 600 fabricados \u00b7 1957\u20131973",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "SEAT",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_600_rear/5_commons.jpg",
+     "move": "down",
+     "dur": 6.449,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch06.flac",
+   "lead_in": 0,
+   "tail": 2.5,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/h_fuengirola/2_commons.jpg",
+     "move": "in",
+     "dur": 5.68,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_600d/3_commons.jpg",
+     "move": "left",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_600_interior/6_openverse.jpg",
+     "move": "in",
+     "dur": 6.42,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_fuengirola/1_commons.jpg",
+     "move": "in",
+     "caption": "Fuengirola|2008",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_seat600_meeting/7_openverse.jpg",
+     "move": "left",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_montmelo/5_commons.jpg",
+     "move": "out",
+     "dur": 5.74,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_seat600_meeting/1_commons.jpg",
+     "move": "out",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_600_engine/1_commons.jpg",
+     "move": "right",
+     "dur": 4.64,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_montmelo/4_openverse.jpg",
+     "move": "in",
+     "caption": "Montmel\u00f3|9 de septiembre de 2017",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_600_engine/3_commons.jpg",
+     "move": "in",
+     "dur": 9.497,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "787",
+     "label": "SEAT 600 juntos \u00b7 R\u00e9cord Guinness",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Guinness World Records",
+     "dur": 6.663,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_seat600_meeting/3_openverse.jpg",
+     "move": "right",
+     "dur": 10.448,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_seat600_meeting/5_openverse.jpg",
+     "move": "in",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_600_engine/5_commons.jpg",
+     "move": "up",
+     "dur": 9.032,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_600d/4_openverse.jpg",
+     "move": "up",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seat800/5_commons.jpg",
+     "move": "out",
+     "dur": 4.72,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_spain_beach/6_openverse.jpg",
+     "move": "out",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seat800/6_openverse.jpg",
+     "move": "down",
+     "dur": 7.12,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Naci\u00f3 pr\u00edncipe. Y muri\u00f3 rey.",
+     "highlight": "REY",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 2.28,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Suscr\u00edbete",
+     "sub": "historias de coches cl\u00e1sicos",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 8.42,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "\u00bfTu familia tuvo un Seiscientos?",
+     "sub": "cu\u00e9ntamelo en los comentarios",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 5.942,
+     "fixed": false,
+     "fade_out": 0
+    }
+   ]
+  }
+ ],
+ "size": [
+  1920,
+  1080
+ ],
+ "theme": "retro60",
+ "subtitles": "ES04.ass"
+}

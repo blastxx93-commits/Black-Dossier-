@@ -18,16 +18,16 @@ PHOTOS = {
     "fiat": ["m_fiat600", "h_giacosa", "m_fiat500"], "world": ["m_zastava750", "m_fitito", "m_jagst"],
     "s1400": ["m_seat1400"], "micro": ["m_biscuter"], "later": ["m_seat850"],
     "factory": ["h_zona_franca", "h_seat_museum"],
-    "era": ["h_marin_cars", "h_spain_1960_photo", "h_traffic_spain", "h_marin_600"],
-    "life": ["h_marin_600", "h_marin_family", "h_marin_cars", "h_spain_beach", "h_marin_beach"],
+    "era": ["h_spain_1960_photo", "h_marin_beach", "h_traffic_spain", "h_marin_600"],
+    "life": ["h_marin_600", "h_marin_family", "h_spain_1960_photo", "h_spain_beach", "h_marin_beach"],
     "beach": ["h_spain_beach", "h_marin_beach"],
-    "legacy": ["h_fuengirola", "h_seat600_meeting", "h_montmelo"],
+    "legacy": ["h_fuengirola", "h_seat600_meeting", "h_montmelo", "h_seat_museum"],
     "money": ["h_peseta"],
 }
 CLIPS = json.load(open(os.path.join(HERE, "clips.json")))
 GENERIC = CLIPS.pop("_generic", [])
 FALLBACK = {k: ["s600"] for k in PHOTOS}
-FALLBACK.update({"s600": ["life"], "fiat": ["world", "s600"], "world": ["fiat", "s600"], "era": ["life", "s600"],
+FALLBACK.update({"s600": ["life"], "fiat": ["world", "s600"], "world": ["fiat", "s600"], "era": ["factory", "s1400", "micro", "life", "s600"],
                  "life": ["era", "s600"], "beach": ["life"], "legacy": ["s600"], "money": ["s600"], "factory": ["s600"]})
 RES = ["m_600n/1", "m_600n/2", "m_600d/1", "m_600e/2", "m_seat800/1", "m_fiat600/1", "h_giacosa/3", "m_seat1400/3", "m_biscuter/1",
        "h_fuengirola/1", "m_600_doors/1", "m_zastava750/1", "m_fitito/1", "m_jagst/1", "m_600_rally/1", "h_montmelo/4"]

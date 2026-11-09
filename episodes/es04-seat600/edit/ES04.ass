@@ -1,0 +1,332 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Doc,Inter SemiBold,44,&H00E1F0F8,&H00E1F0F8,&H00102030,&H96000000,0,0,0,0,100,100,0.5,0,1,2.4,1.2,2,200,200,62,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.01,Doc,,0,0,0,,Barcelona, veintisiete de junio de 1957.
+Dialogue: 0,0:00:04.06,0:00:06.65,Doc,,0,0,0,,De una fábrica de la Zona\NFranca sale un coche pequeño,
+Dialogue: 0,0:00:06.70,0:00:10.03,Doc,,0,0,0,,redondo, con el motor detrás y\Nlas puertas que se abren al revés.
+Dialogue: 0,0:00:10.08,0:00:17.58,Doc,,0,0,0,,Nadie en aquella fábrica sabe\Ntodavía lo que acaba de pasar.
+Dialogue: 0,0:00:20.62,0:00:24.01,Doc,,0,0,0,,Ese coche costaba una fortuna\Npara un trabajador de la época.
+Dialogue: 0,0:00:24.06,0:00:26.91,Doc,,0,0,0,,Aun así, miles de familias se\Napuntaron a una lista de espera.
+Dialogue: 0,0:00:26.96,0:00:31.33,Doc,,0,0,0,,Y hubo quien esperó hasta\Ndos años para recibirlo.
+Dialogue: 0,0:00:31.38,0:00:34.35,Doc,,0,0,0,,Con él, millones de españoles\Nvieron el mar por primera vez.
+Dialogue: 0,0:00:34.40,0:00:36.75,Doc,,0,0,0,,Hicieron su primer viaje de vacaciones.
+Dialogue: 0,0:00:36.80,0:00:38.07,Doc,,0,0,0,,Descubrieron las carreteras,
+Dialogue: 0,0:00:38.12,0:00:42.77,Doc,,0,0,0,,los atascos y la palabra\Nlibertad sobre cuatro ruedas.
+Dialogue: 0,0:00:42.82,0:00:45.49,Doc,,0,0,0,,Hoy vas a conocer la\Nhistoria del SEAT 600.
+Dialogue: 0,0:00:45.54,0:00:47.91,Doc,,0,0,0,,El coche que cambió España para siempre.
+Dialogue: 0,0:00:47.96,0:00:51.53,Doc,,0,0,0,,Te contaré por qué un coche tan\Npequeño provocó colas de dos años.
+Dialogue: 0,0:00:51.58,0:00:54.89,Doc,,0,0,0,,Te contaré un secreto sobre su\Norigen que mucha gente no conoce.
+Dialogue: 0,0:00:54.94,0:00:55.59,Doc,,0,0,0,,Y al final,
+Dialogue: 0,0:00:55.64,0:00:58.93,Doc,,0,0,0,,te contaré la frase que escribieron los\Npropios trabajadores de la fábrica el
+Dialogue: 0,0:00:58.98,0:01:00.68,Doc,,0,0,0,,día que salió el último Seiscientos.
+Dialogue: 0,0:01:01.60,0:01:07.01,Doc,,0,0,0,,Para entender el Seiscientos, primero\Nhay que entender la España de 1950.
+Dialogue: 0,0:01:07.06,0:01:08.25,Doc,,0,0,0,,Era un país pobre,
+Dialogue: 0,0:01:08.30,0:01:11.85,Doc,,0,0,0,,que salía de una guerra civil y de\Nuna década de posguerra muy dura.
+Dialogue: 0,0:01:11.90,0:01:14.07,Doc,,0,0,0,,Había muy pocos coches particulares.
+Dialogue: 0,0:01:14.12,0:01:16.19,Doc,,0,0,0,,La mayoría de la gente se movía andando,
+Dialogue: 0,0:01:16.24,0:01:20.69,Doc,,0,0,0,,en bicicleta, en tren, en\Nautobús o, con suerte, en moto.
+Dialogue: 0,0:01:20.74,0:01:22.39,Doc,,0,0,0,,Un coche era un objeto de lujo,
+Dialogue: 0,0:01:22.44,0:01:25.75,Doc,,0,0,0,,reservado para médicos, empresarios,\Ntaxistas y funcionarios.
+Dialogue: 0,0:01:25.80,0:01:30.99,Doc,,0,0,0,,Hasta 1952, los españoles todavía\Nusaban cartillas de racionamiento para
+Dialogue: 0,0:01:31.04,0:01:32.67,Doc,,0,0,0,,comprar productos básicos.
+Dialogue: 0,0:01:32.72,0:01:37.01,Doc,,0,0,0,,Pensar en un coche propio, en esas\Ncondiciones, era casi ciencia ficción.
+Dialogue: 0,0:01:37.06,0:01:40.09,Doc,,0,0,0,,En 1960, según un estudio académico,
+Dialogue: 0,0:01:40.14,0:01:44.21,Doc,,0,0,0,,en España había más o menos un vehículo\Npor cada cincuenta y cinco habitantes.
+Dialogue: 0,0:01:44.26,0:01:47.25,Doc,,0,0,0,,Y eso contando camiones,\Nautobuses y furgonetas.
+Dialogue: 0,0:01:47.30,0:01:51.87,Doc,,0,0,0,,El nueve de mayo de 1950 se funda\Nuna empresa con un objetivo enorme:
+Dialogue: 0,0:01:51.92,0:01:53.15,Doc,,0,0,0,,fabricar coches en España.
+Dialogue: 0,0:01:53.20,0:01:56.34,Doc,,0,0,0,,Se llama Sociedad Española\Nde Automóviles de Turismo.
+Dialogue: 0,0:01:56.39,0:01:57.15,Doc,,0,0,0,,SEAT.
+Dialogue: 0,0:01:57.20,0:01:59.93,Doc,,0,0,0,,El reparto del dinero dice\Nmucho de aquella época.
+Dialogue: 0,0:01:59.98,0:02:03.45,Doc,,0,0,0,,El cincuenta y uno por ciento era\Ndel Instituto Nacional de Industria,
+Dialogue: 0,0:02:03.50,0:02:05.01,Doc,,0,0,0,,el gran holding del Estado.
+Dialogue: 0,0:02:05.06,0:02:08.65,Doc,,0,0,0,,Un cuarenta y dos por ciento se\Nrepartía entre seis bancos españoles.
+Dialogue: 0,0:02:08.70,0:02:11.05,Doc,,0,0,0,,Y el siete por ciento\Nrestante era de Fiat,
+Dialogue: 0,0:02:11.10,0:02:12.13,Doc,,0,0,0,,la marca italiana,
+Dialogue: 0,0:02:12.18,0:02:15.03,Doc,,0,0,0,,que aportaba algo todavía\Nmás importante que el dinero:
+Dialogue: 0,0:02:15.08,0:02:18.31,Doc,,0,0,0,,la tecnología y la licencia\Npara fabricar sus coches.
+Dialogue: 0,0:02:18.36,0:02:19.81,Doc,,0,0,0,,Y aquí va una curiosidad.
+Dialogue: 0,0:02:19.86,0:02:23.81,Doc,,0,0,0,,El capital con el que nació SEAT fue\Nde seiscientos millones de pesetas.
+Dialogue: 0,0:02:23.86,0:02:24.77,Doc,,0,0,0,,Seiscientos.
+Dialogue: 0,0:02:24.82,0:02:26.88,Doc,,0,0,0,,Como si el destino ya estuviera escrito.
+Dialogue: 0,0:02:26.93,0:02:30.07,Doc,,0,0,0,,SEAT construyó su fábrica en\Nla Zona Franca de Barcelona.
+Dialogue: 0,0:02:30.12,0:02:36.15,Doc,,0,0,0,,Y el trece de noviembre de 1953 salió\Nde allí su primer coche: el SEAT 1400.
+Dialogue: 0,0:02:36.20,0:02:38.83,Doc,,0,0,0,,Una berlina grande, seria, elegante.
+Dialogue: 0,0:02:38.88,0:02:42.57,Doc,,0,0,0,,Se fabricaron casi cien mil hasta 1964.
+Dialogue: 0,0:02:42.62,0:02:46.19,Doc,,0,0,0,,Fue el coche de los taxis, de los\Nmédicos y de las familias con dinero.
+Dialogue: 0,0:02:46.24,0:02:50.62,Doc,,0,0,0,,Pero para un trabajador normal,\Nun 1400 era un sueño imposible.
+Dialogue: 0,0:02:50.67,0:02:54.02,Doc,,0,0,0,,Mientras tanto, la gente que quería\Nmoverse por su cuenta se las arreglaba
+Dialogue: 0,0:02:54.07,0:02:55.12,Doc,,0,0,0,,como podía.
+Dialogue: 0,0:02:55.17,0:02:57.42,Doc,,0,0,0,,En nuestro canal ya te\Nhemos hablado del Biscúter,
+Dialogue: 0,0:02:57.47,0:03:01.32,Doc,,0,0,0,,el microcoche barcelonés sin\Nmarcha atrás, y del PTV de Manresa.
+Dialogue: 0,0:03:01.37,0:03:03.50,Doc,,0,0,0,,Eran pequeños, baratos y valientes.
+Dialogue: 0,0:03:03.55,0:03:06.04,Doc,,0,0,0,,Pero no eran coches de\Nverdad para una familia.
+Dialogue: 0,0:03:06.09,0:03:08.16,Doc,,0,0,0,,España necesitaba otra cosa.
+Dialogue: 0,0:03:08.21,0:03:10.94,Doc,,0,0,0,,Un coche pequeño, barato,\Ncon cuatro plazas,
+Dialogue: 0,0:03:10.99,0:03:15.12,Doc,,0,0,0,,capaz de llevar a una familia entera y\Nde aguantar las carreteras españolas.
+Dialogue: 0,0:03:15.17,0:03:16.74,Doc,,0,0,0,,Y ese coche ya existía.
+Dialogue: 0,0:03:16.79,0:03:17.79,Doc,,0,0,0,,Pero no en España.
+Dialogue: 0,0:03:18.69,0:03:21.62,Doc,,0,0,0,,En 1955, en Italia,
+Dialogue: 0,0:03:21.67,0:03:25.02,Doc,,0,0,0,,Fiat presentó un pequeño coche diseñado\Npor uno de los grandes ingenieros de
+Dialogue: 0,0:03:25.07,0:03:27.70,Doc,,0,0,0,,la historia del automóvil, Dante Giacosa.
+Dialogue: 0,0:03:27.75,0:03:29.50,Doc,,0,0,0,,Se llamaba Fiat 600.
+Dialogue: 0,0:03:29.55,0:03:32.52,Doc,,0,0,0,,Se presentó en el Salón\Nde Ginebra de 1955.
+Dialogue: 0,0:03:32.57,0:03:35.94,Doc,,0,0,0,,Giacosa había resuelto\Nun problema muy difícil:
+Dialogue: 0,0:03:35.99,0:03:38.92,Doc,,0,0,0,,meter cuatro personas en un\Ncoche de poco más de tres metros,
+Dialogue: 0,0:03:38.97,0:03:41.30,Doc,,0,0,0,,con un motor trasero refrigerado por agua,
+Dialogue: 0,0:03:41.35,0:03:43.46,Doc,,0,0,0,,barato de fabricar y fácil de reparar.
+Dialogue: 0,0:03:43.51,0:03:44.18,Doc,,0,0,0,,Dos años después,
+Dialogue: 0,0:03:44.23,0:03:48.54,Doc,,0,0,0,,el mismo Giacosa diseñaría otro\Ncoche legendario, el Fiat 500.
+Dialogue: 0,0:03:48.59,0:03:50.64,Doc,,0,0,0,,Ese es el secreto que\Nmucha gente no conoce,
+Dialogue: 0,0:03:50.69,0:03:54.36,Doc,,0,0,0,,o prefiere olvidar: el coche que\Nmotorizó España nació en Turín.
+Dialogue: 0,0:03:54.41,0:03:58.46,Doc,,0,0,0,,El SEAT 600 era un Fiat 600\Nfabricado bajo licencia en Barcelona.
+Dialogue: 0,0:03:58.51,0:04:02.20,Doc,,0,0,0,,Las primeras unidades que llegaron a\NEspaña eran, de hecho, Fiat importados.
+Dialogue: 0,0:04:02.25,0:04:03.80,Doc,,0,0,0,,Y no fue solo España.
+Dialogue: 0,0:04:03.85,0:04:06.56,Doc,,0,0,0,,La familia del 600 se\Nfabricó en muchos países.
+Dialogue: 0,0:04:06.61,0:04:11.30,Doc,,0,0,0,,En Yugoslavia, la marca Zastava lo\Nconstruyó desde 1962 y la gente lo llamaba
+Dialogue: 0,0:04:11.35,0:04:12.82,Doc,,0,0,0,,cariñosamente Fića.
+Dialogue: 0,0:04:12.87,0:04:17.00,Doc,,0,0,0,,En Argentina, el Fiat 600 se hizo tan\Npopular que lo apodaron el Fitito.
+Dialogue: 0,0:04:17.05,0:04:21.58,Doc,,0,0,0,,En Alemania incluso hubo una versión\Ncon otro nombre, el NSU-Fiat Jagst.
+Dialogue: 0,0:04:21.63,0:04:23.56,Doc,,0,0,0,,En Italia se fabricaron millones.
+Dialogue: 0,0:04:23.61,0:04:26.32,Doc,,0,0,0,,El pequeño coche de Giacosa\Nmotorizó a medio mundo.
+Dialogue: 0,0:04:26.37,0:04:27.84,Doc,,0,0,0,,Pero que nadie se engañe.
+Dialogue: 0,0:04:27.89,0:04:30.18,Doc,,0,0,0,,Aquel coche se construyó\Ncon manos españolas,
+Dialogue: 0,0:04:30.23,0:04:34.40,Doc,,0,0,0,,en una fábrica española, y se adaptó a\Nlas carreteras y al bolsillo de España.
+Dialogue: 0,0:04:34.45,0:04:38.76,Doc,,0,0,0,,Con los años, el Seiscientos se volvió\Ntan español como la paella o la siesta.
+Dialogue: 0,0:04:38.81,0:04:41.71,Doc,,0,0,0,,Hoy, poca gente en España\Npiensa en Italia cuando ve uno.
+Dialogue: 0,0:04:41.76,0:04:44.94,Doc,,0,0,0,,Veintisiete de junio de 1957.
+Dialogue: 0,0:04:44.99,0:04:47.10,Doc,,0,0,0,,El SEAT 600 sale a la venta.
+Dialogue: 0,0:04:47.15,0:04:49.00,Doc,,0,0,0,,Precio: setenta mil pesetas.
+Dialogue: 0,0:04:49.05,0:04:52.40,Doc,,0,0,0,,El primer Seiscientos que se matriculó\Nen España lo hizo en Barcelona,
+Dialogue: 0,0:04:52.45,0:04:55.32,Doc,,0,0,0,,con la matrícula B-141141.
+Dialogue: 0,0:04:55.37,0:04:58.12,Doc,,0,0,0,,Un número que muchos\Naficionados se saben de memoria.
+Dialogue: 0,0:04:58.17,0:04:59.36,Doc,,0,0,0,,Para hacerse una idea,
+Dialogue: 0,0:04:59.41,0:05:02.44,Doc,,0,0,0,,era una auténtica fortuna para\Nun trabajador de la época.
+Dialogue: 0,0:05:02.49,0:05:04.64,Doc,,0,0,0,,Las estimaciones cambian según la fuente,
+Dialogue: 0,0:05:04.69,0:05:06.78,Doc,,0,0,0,,pero hablamos de varios años de sueldo.
+Dialogue: 0,0:05:06.83,0:05:09.00,Doc,,0,0,0,,Aun así, la gente se volvió loca por él.
+Dialogue: 0,0:05:09.05,0:05:10.66,Doc,,0,0,0,,Poco después de salir a la venta,
+Dialogue: 0,0:05:10.71,0:05:13.60,Doc,,0,0,0,,la lista de espera ya era de\Nunas treinta mil personas.
+Dialogue: 0,0:05:13.65,0:05:18.10,Doc,,0,0,0,,En 1957, el plazo de entrega\Nera de unos seis meses.
+Dialogue: 0,0:05:18.15,0:05:21.34,Doc,,0,0,0,,En 1960, había llegado a los dos años.
+Dialogue: 0,0:05:21.39,0:05:23.42,Doc,,0,0,0,,Dos años esperando un coche.
+Dialogue: 0,0:05:23.47,0:05:25.90,Doc,,0,0,0,,Muchas familias ahorraban\Ncada peseta durante meses,
+Dialogue: 0,0:05:25.95,0:05:28.34,Doc,,0,0,0,,y contaban los días como\Nquien espera un hijo.
+Dialogue: 0,0:05:28.39,0:05:30.16,Doc,,0,0,0,,Y el coche, ¿qué ofrecía?
+Dialogue: 0,0:05:30.21,0:05:33.68,Doc,,0,0,0,,Un motor de cuatro cilindros de\Nseiscientos treinta y tres centímetros
+Dialogue: 0,0:05:33.73,0:05:35.44,Doc,,0,0,0,,cúbicos, colocado detrás.
+Dialogue: 0,0:05:35.49,0:05:37.34,Doc,,0,0,0,,Veintiún caballos y medio.
+Dialogue: 0,0:05:37.39,0:05:40.58,Doc,,0,0,0,,Una velocidad máxima de unos\Nnoventa y cinco kilómetros por hora.
+Dialogue: 0,0:05:40.63,0:05:44.40,Doc,,0,0,0,,Cuatro plazas, aunque los españoles\Ndemostrarían enseguida que cabían muchas
+Dialogue: 0,0:05:44.45,0:05:45.10,Doc,,0,0,0,,más personas.
+Dialogue: 0,0:05:45.15,0:05:49.20,Doc,,0,0,0,,Y aquellas famosas puertas\Nsuicidas, que se abrían al revés.
+Dialogue: 0,0:05:49.25,0:05:52.96,Doc,,0,0,0,,Para los fabricantes de microcoches,\Nsu llegada fue una sentencia.
+Dialogue: 0,0:05:53.01,0:05:54.02,Doc,,0,0,0,,Nuestro querido Biscúter,
+Dialogue: 0,0:05:54.07,0:05:56.40,Doc,,0,0,0,,que había sido el primer\Ncoche de miles de familias,
+Dialogue: 0,0:05:56.45,0:05:58.48,Doc,,0,0,0,,no pudo competir: por poco más dinero,
+Dialogue: 0,0:05:58.53,0:06:00.64,Doc,,0,0,0,,el Seiscientos ofrecía cuatro plazas,
+Dialogue: 0,0:06:00.69,0:06:03.88,Doc,,0,0,0,,un motor de verdad y la\Ngarantía de una gran fábrica.
+Dialogue: 0,0:06:03.93,0:06:05.62,Doc,,0,0,0,,El PTV de Manresa sufrió lo mismo,
+Dialogue: 0,0:06:05.67,0:06:09.22,Doc,,0,0,0,,y su fábrica dejó de hacer coches\Na principios de los sesenta.
+Dialogue: 0,0:06:09.27,0:06:12.28,Doc,,0,0,0,,En pocos años, los microcoches\Nespañoles desaparecieron.
+Dialogue: 0,0:06:12.33,0:06:14.16,Doc,,0,0,0,,El Seiscientos se los había comido.
+Dialogue: 0,0:06:14.21,0:06:15.16,Doc,,0,0,0,,No era rápido.
+Dialogue: 0,0:06:15.21,0:06:16.12,Doc,,0,0,0,,No era lujoso.
+Dialogue: 0,0:06:16.17,0:06:17.60,Doc,,0,0,0,,Pero era suficiente.
+Dialogue: 0,0:06:17.65,0:06:20.77,Doc,,0,0,0,,Y para un país que venía de la\Nnada, suficiente era muchísimo.
+Dialogue: 0,0:06:21.73,0:06:24.76,Doc,,0,0,0,,Lo que cambió con el Seiscientos\Nno fue solo la forma de moverse.
+Dialogue: 0,0:06:24.81,0:06:26.00,Doc,,0,0,0,,Fue la forma de vivir.
+Dialogue: 0,0:06:26.05,0:06:29.26,Doc,,0,0,0,,Por primera vez, una familia de\Nclase trabajadora podía decidir,
+Dialogue: 0,0:06:29.31,0:06:33.02,Doc,,0,0,0,,un sábado por la mañana, irse al\Npueblo, a la sierra o a la playa.
+Dialogue: 0,0:06:33.07,0:06:34.22,Doc,,0,0,0,,Sin horarios de tren.
+Dialogue: 0,0:06:34.27,0:06:35.74,Doc,,0,0,0,,Sin depender de nadie.
+Dialogue: 0,0:06:35.79,0:06:37.92,Doc,,0,0,0,,Y los españoles lo aprovecharon a fondo.
+Dialogue: 0,0:06:37.97,0:06:41.14,Doc,,0,0,0,,Los veranos de los años sesenta se\Nllenaron de Seiscientos cargados hasta
+Dialogue: 0,0:06:41.19,0:06:41.80,Doc,,0,0,0,,arriba.
+Dialogue: 0,0:06:41.85,0:06:43.76,Doc,,0,0,0,,La baca en el techo, con las maletas,
+Dialogue: 0,0:06:43.81,0:06:47.04,Doc,,0,0,0,,las sillas plegables, la sombrilla\Ny, a veces, hasta el colchón.
+Dialogue: 0,0:06:47.09,0:06:50.30,Doc,,0,0,0,,Dentro, el padre al\Nvolante, la madre al lado,
+Dialogue: 0,0:06:50.35,0:06:54.70,Doc,,0,0,0,,los niños detrás, la abuela si había\Nsitio, y alguna vez hasta el perro.
+Dialogue: 0,0:06:54.75,0:06:56.86,Doc,,0,0,0,,Hoy, viajar así te costaría el carnet.
+Dialogue: 0,0:06:56.91,0:06:58.82,Doc,,0,0,0,,Entonces, era una aventura.
+Dialogue: 0,0:06:58.87,0:07:00.76,Doc,,0,0,0,,Una historiadora lo resumía así:
+Dialogue: 0,0:07:00.81,0:07:04.00,Doc,,0,0,0,,gracias al Seiscientos, mucha\Ngente vio el mar por primera vez.
+Dialogue: 0,0:07:04.05,0:07:05.78,Doc,,0,0,0,,Muchos españoles viajaron por Europa.
+Dialogue: 0,0:07:05.83,0:07:09.16,Doc,,0,0,0,,Y muchos emigrantes que trabajaban\Nfuera pudieron volver al pueblo de
+Dialogue: 0,0:07:09.21,0:07:10.96,Doc,,0,0,0,,vacaciones en su propio coche.
+Dialogue: 0,0:07:11.01,0:07:13.88,Doc,,0,0,0,,El Seiscientos llegó en plena\Ntransformación del país.
+Dialogue: 0,0:07:13.93,0:07:16.46,Doc,,0,0,0,,En los años sesenta,\NEspaña empezaba a crecer,
+Dialogue: 0,0:07:16.51,0:07:19.04,Doc,,0,0,0,,las ciudades se llenaban de\Ngente que venía del campo,
+Dialogue: 0,0:07:19.09,0:07:21.16,Doc,,0,0,0,,y el turismo empezaba a cambiar la costa.
+Dialogue: 0,0:07:21.21,0:07:23.24,Doc,,0,0,0,,Y el Seiscientos estaba en todas partes.
+Dialogue: 0,0:07:23.29,0:07:30.74,Doc,,0,0,0,,Fue el coche más vendido de España\Nentre 1958 y 1966, y otra vez en 1968.
+Dialogue: 0,0:07:30.79,0:07:33.16,Doc,,0,0,0,,Algunas estimaciones\Nvan todavía más lejos:
+Dialogue: 0,0:07:33.21,0:07:34.68,Doc,,0,0,0,,a principios de los setenta,
+Dialogue: 0,0:07:34.73,0:07:38.08,Doc,,0,0,0,,uno de cada cuatro coches que circulaban\Npor las carreteras españolas habría
+Dialogue: 0,0:07:38.13,0:07:39.22,Doc,,0,0,0,,sido un Seiscientos.
+Dialogue: 0,0:07:39.27,0:07:42.02,Doc,,0,0,0,,Y el país se motorizó a\Nuna velocidad increíble.
+Dialogue: 0,0:07:42.07,0:07:46.14,Doc,,0,0,0,,Si en 1960 había un vehículo por\Ncada cincuenta y cinco habitantes,
+Dialogue: 0,0:07:46.19,0:07:49.44,Doc,,0,0,0,,en 1974 ya había uno por cada nueve.
+Dialogue: 0,0:07:49.49,0:07:51.44,Doc,,0,0,0,,Con él llegaron también cosas nuevas.
+Dialogue: 0,0:07:51.49,0:07:53.92,Doc,,0,0,0,,Los primeros atascos de\Nlos domingos por la tarde.
+Dialogue: 0,0:07:53.97,0:07:55.70,Doc,,0,0,0,,Las gasolineras en las carreteras.
+Dialogue: 0,0:07:55.75,0:07:57.30,Doc,,0,0,0,,Los talleres en cada pueblo.
+Dialogue: 0,0:07:57.35,0:07:58.58,Doc,,0,0,0,,Y una nueva cultura:
+Dialogue: 0,0:07:58.63,0:08:01.46,Doc,,0,0,0,,la de cuidar el coche como a\Nun miembro más de la familia.
+Dialogue: 0,0:08:01.51,0:08:03.26,Doc,,0,0,0,,Mucha gente lo lavaba los domingos,
+Dialogue: 0,0:08:03.31,0:08:07.26,Doc,,0,0,0,,lo bautizaba con un nombre y se sabía\Nde memoria cada ruido del motor.
+Dialogue: 0,0:08:07.31,0:08:10.88,Doc,,0,0,0,,Un museo de automoción de Salamanca lo\Ndescribe como el coche que ayudó a toda
+Dialogue: 0,0:08:10.93,0:08:13.38,Doc,,0,0,0,,una sociedad a emigrar\Ndel campo a la ciudad.
+Dialogue: 0,0:08:13.43,0:08:15.40,Doc,,0,0,0,,Muchos jóvenes de pueblo\Nllegaron a Madrid,
+Dialogue: 0,0:08:15.45,0:08:19.10,Doc,,0,0,0,,Barcelona, Bilbao o Valencia para\Ntrabajar en fábricas y oficinas.
+Dialogue: 0,0:08:19.15,0:08:22.92,Doc,,0,0,0,,Y cuando por fin podían comprarse un\Ncoche, casi siempre era un Seiscientos.
+Dialogue: 0,0:08:22.97,0:08:25.16,Doc,,0,0,0,,Era el símbolo de que\Nlas cosas iban mejor.
+Dialogue: 0,0:08:25.21,0:08:28.82,Doc,,0,0,0,,Y como era sencillo, muchos\Naprendieron a arreglarlo ellos mismos.
+Dialogue: 0,0:08:28.87,0:08:31.34,Doc,,0,0,0,,Con unas pocas herramientas\Ny algo de paciencia,
+Dialogue: 0,0:08:31.39,0:08:33.90,Doc,,0,0,0,,se podía cambiar casi cualquier\Npieza en la puerta de casa.
+Dialogue: 0,0:08:33.95,0:08:35.70,Doc,,0,0,0,,Para muchos españoles,
+Dialogue: 0,0:08:35.75,0:08:38.46,Doc,,0,0,0,,el Seiscientos fue también su\Nprimera escuela de mecánica.
+Dialogue: 0,0:08:38.51,0:08:40.12,Doc,,0,0,0,,Tenía también sus manías.
+Dialogue: 0,0:08:40.17,0:08:42.38,Doc,,0,0,0,,El motor iba detrás y el maletero delante,
+Dialogue: 0,0:08:42.43,0:08:45.34,Doc,,0,0,0,,así que la gente cargaba el\Nequipaje en el morro y en la baca.
+Dialogue: 0,0:08:45.39,0:08:47.12,Doc,,0,0,0,,En verano, con el coche cargado,
+Dialogue: 0,0:08:47.17,0:08:49.92,Doc,,0,0,0,,las cuestas de los puertos de\Nmontaña se subían despacio,
+Dialogue: 0,0:08:49.97,0:08:53.00,Doc,,0,0,0,,a veces con la familia bajando a\Nempujar en los tramos más duros.
+Dialogue: 0,0:08:53.05,0:08:54.38,Doc,,0,0,0,,Y nadie se quejaba.
+Dialogue: 0,0:08:54.43,0:08:55.83,Doc,,0,0,0,,Era parte de la aventura.
+Dialogue: 0,0:08:56.56,0:08:59.05,Doc,,0,0,0,,Durante dieciséis años, el\NSeiscientos fue cambiando,
+Dialogue: 0,0:08:59.10,0:09:03.53,Doc,,0,0,0,,poco a poco, sin perder su esencia.
+Dialogue: 0,0:09:03.58,0:09:06.57,Doc,,0,0,0,,El primer modelo, el que\Nhoy se llama 600 Normal,
+Dialogue: 0,0:09:06.62,0:09:10.37,Doc,,0,0,0,,o 600 N, fue el de las primeras\Ncolas y las primeras vacaciones.
+Dialogue: 0,0:09:10.42,0:09:15.21,Doc,,0,0,0,,En 1963 llegó el 600 D.
+Dialogue: 0,0:09:15.26,0:09:16.75,Doc,,0,0,0,,Tenía un motor más grande,
+Dialogue: 0,0:09:16.80,0:09:20.43,Doc,,0,0,0,,de setecientos sesenta y siete centímetros\Ncúbicos y veinticinco caballos,
+Dialogue: 0,0:09:20.48,0:09:22.37,Doc,,0,0,0,,y ya superaba los cien\Nkilómetros por hora.
+Dialogue: 0,0:09:22.42,0:09:24.45,Doc,,0,0,0,,Fue una versión muy importante,
+Dialogue: 0,0:09:24.50,0:09:27.35,Doc,,0,0,0,,porque llegó justo cuando el\Npaís empezaba a crecer de verdad,
+Dialogue: 0,0:09:27.40,0:09:28.95,Doc,,0,0,0,,y se vendió muchísimo.
+Dialogue: 0,0:09:29.00,0:09:31.27,Doc,,0,0,0,,Hubo incluso una versión\Nde cuatro puertas,
+Dialogue: 0,0:09:31.32,0:09:35.77,Doc,,0,0,0,,el SEAT 800, alargado para que fuera\Nmás fácil entrar en la parte de atrás.
+Dialogue: 0,0:09:35.82,0:09:37.61,Doc,,0,0,0,,Era una rareza muy española,
+Dialogue: 0,0:09:37.66,0:09:43.75,Doc,,0,0,0,,porque el Fiat 600 original\Nnunca tuvo esa versión de serie.
+Dialogue: 0,0:09:43.80,0:09:49.01,Doc,,0,0,0,,El SEAT 800 se lanzó en 1964,\Nsobre la base del 600 D.
+Dialogue: 0,0:09:49.06,0:09:52.35,Doc,,0,0,0,,Para conseguir las cuatro puertas,\Nhubo que alargar la carrocería.
+Dialogue: 0,0:09:52.40,0:09:55.19,Doc,,0,0,0,,Fue un invento muy español\Npara un problema muy español:
+Dialogue: 0,0:09:55.24,0:09:58.69,Doc,,0,0,0,,familias numerosas que querían entrar\Ny salir del asiento de atrás sin hacer
+Dialogue: 0,0:09:58.74,0:10:00.95,Doc,,0,0,0,,contorsionismo.
+Dialogue: 0,0:10:01.00,0:10:04.11,Doc,,0,0,0,,A finales de los sesenta llegó el 600 E.
+Dialogue: 0,0:10:04.16,0:10:06.81,Doc,,0,0,0,,Y con él, una novedad\Nque muchos agradecieron:
+Dialogue: 0,0:10:06.86,0:10:10.57,Doc,,0,0,0,,las puertas por fin se abrían de forma\Nnormal, con las bisagras delante.
+Dialogue: 0,0:10:10.62,0:10:15.07,Doc,,0,0,0,,Las famosas puertas suicidas\Npasaron a la historia.
+Dialogue: 0,0:10:15.12,0:10:18.07,Doc,,0,0,0,,La última evolución fue el 600 L Especial,
+Dialogue: 0,0:10:18.12,0:10:22.15,Doc,,0,0,0,,a principios de los setenta, con algunos\Ndetalles más modernos en el interior.
+Dialogue: 0,0:10:22.20,0:10:23.81,Doc,,0,0,0,,En total, según la fuente,
+Dialogue: 0,0:10:23.86,0:10:26.67,Doc,,0,0,0,,se habla de hasta nueve versiones\Ndiferentes del Seiscientos.
+Dialogue: 0,0:10:26.72,0:10:31.17,Doc,,0,0,0,,Turismos, furgonetas, versiones\Ndescapotables y preparaciones deportivas.
+Dialogue: 0,0:10:31.22,0:10:33.52,Doc,,0,0,0,,El pequeño coche de\NBarcelona se adaptaba a todo.
+Dialogue: 0,0:10:33.57,0:10:36.27,Doc,,0,0,0,,Pero los años setenta traían otra España.
+Dialogue: 0,0:10:36.32,0:10:39.99,Doc,,0,0,0,,Los compradores querían coches más\Ngrandes, más cómodos y más modernos.
+Dialogue: 0,0:10:40.04,0:10:45.99,Doc,,0,0,0,,SEAT ya fabricaba modelos\Ncomo el 850, el 124 o el 1430.
+Dialogue: 0,0:10:46.04,0:10:46.95,Doc,,0,0,0,,Y el Seiscientos,
+Dialogue: 0,0:10:47.00,0:10:49.29,Doc,,0,0,0,,que había sido el gran\Nsueño de los años cincuenta,
+Dialogue: 0,0:10:49.34,0:10:51.52,Doc,,0,0,0,,empezaba a parecer un coche de otra época.
+Dialogue: 0,0:10:52.38,0:10:55.23,Doc,,0,0,0,,Tres de agosto de 1973.
+Dialogue: 0,0:10:55.28,0:10:56.98,Doc,,0,0,0,,Fábrica de la Zona Franca, Barcelona.
+Dialogue: 0,0:10:57.04,0:11:01.83,Doc,,0,0,0,,Por la cadena de montaje avanza\Nun 600 L Especial de color blanco.
+Dialogue: 0,0:11:01.88,0:11:03.91,Doc,,0,0,0,,Es el último Seiscientos\Nque se va a fabricar.
+Dialogue: 0,0:11:03.96,0:11:06.83,Doc,,0,0,0,,Hacía ya meses que SEAT\Npreparaba el relevo.
+Dialogue: 0,0:11:06.88,0:11:08.47,Doc,,0,0,0,,Los tiempos habían cambiado,
+Dialogue: 0,0:11:08.52,0:11:11.51,Doc,,0,0,0,,y el pequeño coche que había llevado\Na España de la posguerra al desarrollo
+Dialogue: 0,0:11:11.56,0:11:14.15,Doc,,0,0,0,,tenía que dejar paso a\Nmodelos más modernos.
+Dialogue: 0,0:11:14.20,0:11:15.77,Doc,,0,0,0,,Los trabajadores lo saben.
+Dialogue: 0,0:11:15.82,0:11:19.03,Doc,,0,0,0,,Muchos de ellos llevaban años\Nmontando aquel coche, pieza a pieza.
+Dialogue: 0,0:11:19.08,0:11:20.91,Doc,,0,0,0,,Y decidieron despedirlo a su manera.
+Dialogue: 0,0:11:20.96,0:11:23.19,Doc,,0,0,0,,Le prepararon una pancarta.
+Dialogue: 0,0:11:23.24,0:11:26.35,Doc,,0,0,0,,Y en ella escribieron una frase que\Nse ha repetido desde entonces en cada
+Dialogue: 0,0:11:26.40,0:11:27.87,Doc,,0,0,0,,aniversario del coche.
+Dialogue: 0,0:11:27.92,0:11:30.31,Doc,,0,0,0,,Las fuentes recogen la frase\Ncon pequeñas diferencias,
+Dialogue: 0,0:11:30.36,0:11:34.57,Doc,,0,0,0,,pero el mensaje es siempre el mismo:\N«Naciste príncipe y mueres rey».
+Dialogue: 0,0:11:34.62,0:11:39.47,Doc,,0,0,0,,Nació príncipe, porque en 1957\Nera un coche pequeño y humilde,
+Dialogue: 0,0:11:39.52,0:11:41.93,Doc,,0,0,0,,una versión española de un Fiat italiano.
+Dialogue: 0,0:11:41.98,0:11:42.93,Doc,,0,0,0,,Y murió rey,
+Dialogue: 0,0:11:42.98,0:11:48.23,Doc,,0,0,0,,porque en esos dieciséis años se había\Nconvertido en el coche de todo un país.
+Dialogue: 0,0:11:48.28,0:11:51.17,Doc,,0,0,0,,Y hay un detalle casi\Npoético en esa fecha.
+Dialogue: 0,0:11:51.22,0:11:55.51,Doc,,0,0,0,,El último Seiscientos salió de\Nla fábrica en agosto de 1973.
+Dialogue: 0,0:11:55.56,0:11:58.39,Doc,,0,0,0,,Solo dos meses después estalló\Nla crisis del petróleo,
+Dialogue: 0,0:11:58.44,0:12:01.79,Doc,,0,0,0,,que disparó el precio de la gasolina en\Ntodo el mundo y cambió para siempre la
+Dialogue: 0,0:12:01.84,0:12:03.87,Doc,,0,0,0,,forma de entender el automóvil.
+Dialogue: 0,0:12:03.92,0:12:07.31,Doc,,0,0,0,,El Seiscientos se despidió justo antes\Nde que terminara la época que él mismo
+Dialogue: 0,0:12:07.36,0:12:09.60,Doc,,0,0,0,,había ayudado a crear.
+Dialogue: 0,0:12:09.65,0:12:11.30,Doc,,0,0,0,,¿Cuántos se fabricaron?
+Dialogue: 0,0:12:11.35,0:12:12.04,Doc,,0,0,0,,Aquí las cifras cambian según la fuente.
+Dialogue: 0,0:12:12.09,0:12:13.29,Doc,,0,0,0,,Algunas hablan de unos setecientos ochenta\Nmil, otras de casi ochocientos mil.
+Dialogue: 0,0:12:13.34,0:12:17.39,Doc,,0,0,0,,En cualquier caso, cerca de ochocientos\Nmil Seiscientos salieron de Barcelona.
+Dialogue: 0,0:12:17.44,0:12:21.65,Doc,,0,0,0,,En un país que en 1957 casi\Nno tenía coches particulares,
+Dialogue: 0,0:12:21.70,0:12:23.22,Doc,,0,0,0,,eso fue una revolución.
+Dialogue: 0,0:12:23.98,0:12:27.75,Doc,,0,0,0,,Pero la historia del\NSeiscientos no terminó en 1973.
+Dialogue: 0,0:12:27.80,0:12:29.73,Doc,,0,0,0,,En cierto modo, empezó ahí.
+Dialogue: 0,0:12:29.78,0:12:33.11,Doc,,0,0,0,,Durante décadas, los Seiscientos\Nsiguieron circulando por toda España.
+Dialogue: 0,0:12:33.16,0:12:35.61,Doc,,0,0,0,,Pasaron de padres a\Nhijos, de hijos a nietos.
+Dialogue: 0,0:12:35.66,0:12:38.41,Doc,,0,0,0,,Muchos acabaron olvidados\Nen garajes y pajares.
+Dialogue: 0,0:12:38.46,0:12:41.71,Doc,,0,0,0,,Y muchos otros fueron restaurados\Ncon un cariño que pocas marcas pueden
+Dialogue: 0,0:12:41.76,0:12:44.15,Doc,,0,0,0,,imaginar.
+Dialogue: 0,0:12:44.20,0:12:46.23,Doc,,0,0,0,,Hoy, el Seiscientos\Ntiene incluso monumentos.
+Dialogue: 0,0:12:46.28,0:12:48.49,Doc,,0,0,0,,En Fuengirola, en la costa de Málaga,
+Dialogue: 0,0:12:48.54,0:12:51.17,Doc,,0,0,0,,una escultura del Seiscientos recibe\Na los que entran en la ciudad.
+Dialogue: 0,0:12:51.22,0:12:55.31,Doc,,0,0,0,,La ciudad lo eligió porque el coche está\Nunido al comienzo del turismo y de la
+Dialogue: 0,0:12:55.36,0:12:56.61,Doc,,0,0,0,,prosperidad en la zona.
+Dialogue: 0,0:12:56.66,0:12:59.51,Doc,,0,0,0,,Y hay esculturas del Seiscientos\Nen otros pueblos españoles,
+Dialogue: 0,0:12:59.56,0:13:03.17,Doc,,0,0,0,,como Churriana de la Vega, en\NGranada, o Martos, en Jaén.
+Dialogue: 0,0:13:03.22,0:13:05.89,Doc,,0,0,0,,¿Cuántos coches tienen un\Nmonumento en una rotonda?
+Dialogue: 0,0:13:05.94,0:13:07.83,Doc,,0,0,0,,La de Fuengirola se inauguró en 2008,
+Dialogue: 0,0:13:07.88,0:13:10.47,Doc,,0,0,0,,y es obra del escultor\NJosé Gómez Guerrero,
+Dialogue: 0,0:13:10.52,0:13:12.81,Doc,,0,0,0,,el mismo que hizo un\Nmonumento a la peseta.
+Dialogue: 0,0:13:12.86,0:13:14.29,Doc,,0,0,0,,Un coche y una moneda:
+Dialogue: 0,0:13:14.34,0:13:18.53,Doc,,0,0,0,,dos símbolos de una época que muchos\Nespañoles recuerdan con nostalgia.
+Dialogue: 0,0:13:18.58,0:13:23.21,Doc,,0,0,0,,Y en 2017, para celebrar su sesenta\Naniversario, pasó algo increíble.
+Dialogue: 0,0:13:23.26,0:13:25.47,Doc,,0,0,0,,El nueve de septiembre, en\Nel circuito de Montmeló,
+Dialogue: 0,0:13:25.52,0:13:26.77,Doc,,0,0,0,,cerca de Barcelona,
+Dialogue: 0,0:13:26.82,0:13:30.07,Doc,,0,0,0,,se reunieron cientos de Seiscientos\Npara intentar batir un récord.
+Dialogue: 0,0:13:30.12,0:13:33.13,Doc,,0,0,0,,En el primer intento salieron a la\Npista más de ochocientos coches,
+Dialogue: 0,0:13:33.18,0:13:34.91,Doc,,0,0,0,,pero el juez no pudo validarlo.
+Dialogue: 0,0:13:34.96,0:13:36.03,Doc,,0,0,0,,En el segundo, sí.
+Dialogue: 0,0:13:36.08,0:13:39.33,Doc,,0,0,0,,Setecientos ochenta y siete\NSeiscientos rodando juntos.
+Dialogue: 0,0:13:39.38,0:13:42.69,Doc,,0,0,0,,El récord Guinness al mayor\Ndesfile de coches SEAT.
+Dialogue: 0,0:13:42.74,0:13:43.22,Doc,,0,0,0,,Al circuito acudieron\Nunas cuatro mil personas.
+Dialogue: 0,0:13:43.27,0:13:46.55,Doc,,0,0,0,,Familias enteras, clubes de toda\NEspaña, coleccionistas y curiosos.
+Dialogue: 0,0:13:46.60,0:13:50.11,Doc,,0,0,0,,Y el certificado Guinness se entregó a\Nlos responsables de SEAT de entonces,
+Dialogue: 0,0:13:50.16,0:13:53.14,Doc,,0,0,0,,en el mismo circuito donde hoy\Ncompiten coches de Fórmula 1.
+Dialogue: 0,0:13:53.19,0:13:56.61,Doc,,0,0,0,,Setecientos ochenta y siete\Ncoches con más de cuarenta años,
+Dialogue: 0,0:13:56.66,0:13:58.73,Doc,,0,0,0,,muchos de ellos con sus dueños originales,
+Dialogue: 0,0:13:58.78,0:14:01.61,Doc,,0,0,0,,o con los hijos y nietos de\Naquellos primeros dueños.
+Dialogue: 0,0:14:01.66,0:14:05.39,Doc,,0,0,0,,Algunos habían esperado dos años\Npara recibirlo en los años sesenta.
+Dialogue: 0,0:14:05.44,0:14:10.17,Doc,,0,0,0,,Y ahí estaban, sesenta años\Ndespués, en un circuito de carreras.
+Dialogue: 0,0:14:10.22,0:14:13.49,Doc,,0,0,0,,Para la mayoría de sus dueños,\Nun Seiscientos no está en venta.
+Dialogue: 0,0:14:13.54,0:14:14.75,Doc,,0,0,0,,No es una inversión.
+Dialogue: 0,0:14:14.80,0:14:16.75,Doc,,0,0,0,,Es un trozo de historia familiar.
+Dialogue: 0,0:14:16.80,0:14:19.11,Doc,,0,0,0,,Es el coche en el que\Nalguien aprendió a conducir,
+Dialogue: 0,0:14:19.16,0:14:22.89,Doc,,0,0,0,,en el que fue de luna de miel, o en\Nel que trajo a casa a su primer hijo.
+Dialogue: 0,0:14:22.94,0:14:24.95,Doc,,0,0,0,,Esa es la verdadera\Nhistoria del Seiscientos.
+Dialogue: 0,0:14:25.00,0:14:28.49,Doc,,0,0,0,,No fue el coche más rápido, ni\Nel más cómodo, ni el más bonito.
+Dialogue: 0,0:14:28.54,0:14:31.53,Doc,,0,0,0,,Pero llevó a un país entero desde\Nla posguerra hasta la playa.
+Dialogue: 0,0:14:31.58,0:14:35.15,Doc,,0,0,0,,Y para millones de españoles, sigue\Nsiendo el coche de su infancia.
+Dialogue: 0,0:14:35.20,0:14:36.03,Doc,,0,0,0,,El coche de su padre.
+Dialogue: 0,0:14:36.08,0:14:38.01,Doc,,0,0,0,,El primer coche de la familia.
+Dialogue: 0,0:14:38.06,0:14:38.83,Doc,,0,0,0,,Nació príncipe.
+Dialogue: 0,0:14:38.88,0:14:40.29,Doc,,0,0,0,,Y murió rey.
+Dialogue: 0,0:14:40.34,0:14:41.21,Doc,,0,0,0,,Si te ha gustado el vídeo,
+Dialogue: 0,0:14:41.26,0:14:42.17,Doc,,0,0,0,,dale a me gusta,
+Dialogue: 0,0:14:42.22,0:14:45.79,Doc,,0,0,0,,suscríbete para más historias de coches\Nclásicos y compártelo con alguien que
+Dialogue: 0,0:14:45.84,0:14:47.15,Doc,,0,0,0,,tuviera un Seiscientos.
+Dialogue: 0,0:14:47.20,0:14:50.26,Doc,,0,0,0,,Y cuéntame en los comentarios:\N¿tu familia tuvo un Seiscientos?
+Dialogue: 0,0:14:50.31,0:14:52.08,Doc,,0,0,0,,¿Adónde fue en su primer viaje?
