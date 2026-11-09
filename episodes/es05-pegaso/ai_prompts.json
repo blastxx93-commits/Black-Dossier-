@@ -1,0 +1,40 @@
+{
+ "model": "black-forest-labs/flux-1.1-pro-ultra",
+ "raw": true,
+ "n": 1,
+ "style": ", 1950s documentary photograph, rich Kodachrome colour, film grain, period-correct vehicles and clothes, realistic, cinematic, no logos, no badges, no readable text, no brand names",
+ "shots": [
+  {
+   "id": "ai_jabbeke_run",
+   "prompt": "A sleek silver 1953 grand touring coupe speeding along a straight Belgian motorway at dawn, timekeepers with stopwatches and a small crowd on the side, motion blur, no readable text, no logos"
+  },
+  {
+   "id": "ai_timekeepers",
+   "prompt": "Close view of 1953 race officials in overcoats holding stopwatches and clipboards beside a straight motorway, Belgium, overcast, no readable text, no logos"
+  },
+  {
+   "id": "ai_workshop",
+   "prompt": "A 1950s Barcelona workshop where engineers in white coats assemble an aluminium V8 engine by hand on a stand, precision tools, warm light, no readable text, no logos"
+  },
+  {
+   "id": "ai_drawing_board",
+   "prompt": "A 1950s engineer's drawing board with technical drawings of a sports car chassis and engine, slide rule and pencils, no readable text, no logos"
+  },
+  {
+   "id": "ai_paris_crowd",
+   "prompt": "Crowd of 1951 visitors in hats and coats admiring a silver sports coupe on a turntable at a grand motor show hall, Paris, no readable text, no logos"
+  },
+  {
+   "id": "ai_leopard_seats",
+   "prompt": "Interior of a luxurious 1953 grand touring coupe with leopard-skin upholstered seats and gold-plated controls, rich warm light, no readable text, no logos"
+  },
+  {
+   "id": "ai_mexico_race",
+   "prompt": "A 1954 sports car racing through a dusty Mexican mountain road in an endurance race, spectators on rocks, dramatic, no readable text, no logos"
+  },
+  {
+   "id": "ai_truck_road",
+   "prompt": "A 1950s Spanish heavy truck with a rounded front driving on a narrow mountain road in Castile, dust, summer, no readable text, no logos"
+  }
+ ]
+}

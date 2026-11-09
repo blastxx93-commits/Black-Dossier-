@@ -1,0 +1,262 @@
+{
+ "defaults": {
+  "n": 4,
+  "sources": [
+   "commons",
+   "openverse",
+   "loc"
+  ]
+ },
+ "shots": [
+  {
+   "id": "m_z102",
+   "query": "Pegaso Z-102",
+   "alt": [
+    "Pegaso Z102",
+    "Pegaso Z-102 Touring",
+    "Pegaso Z-102 berlinetta"
+   ],
+   "n": 12
+  },
+  {
+   "id": "m_z102_saoutchik",
+   "query": "Pegaso Z-102 Saoutchik",
+   "alt": [
+    "Pegaso Saoutchik",
+    "Pegaso Z-102 cabriolet Saoutchik"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_z102_touring",
+   "query": "Pegaso Z-102 Touring Superleggera",
+   "alt": [
+    "Pegaso Z-102 Thrill",
+    "Pegaso Touring berlinetta"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_z102_cupula",
+   "query": "Pegaso Cúpula",
+   "alt": [
+    "Pegaso Z-102 Cupula",
+    "Pegaso El Dominicano"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_z102_spider",
+   "query": "Pegaso Z-102 spider",
+   "alt": [
+    "Pegaso Z-102 Serra",
+    "Pegaso Z102 roadster",
+    "Pegaso Z-102 spyder"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_z102_engine",
+   "query": "Pegaso V8 engine",
+   "alt": [
+    "Pegaso Z-102 motor",
+    "Pegaso Z102 engine"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_z102_interior",
+   "query": "Pegaso Z-102 interior",
+   "alt": [
+    "Pegaso Z102 dashboard"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_z103",
+   "query": "Pegaso Z-103",
+   "alt": [
+    "Pegaso Z-102B",
+    "Pegaso Panoramica"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_hispano",
+   "query": "Hispano-Suiza",
+   "alt": [
+    "Hispano-Suiza Alfonso XIII",
+    "Hispano-Suiza H6",
+    "Hispano Suiza car"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_hispano_engine",
+   "query": "Hispano-Suiza aircraft engine",
+   "alt": [
+    "Hispano-Suiza 8",
+    "Hispano-Suiza V8 aero engine"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_spad",
+   "query": "SPAD S.XIII",
+   "alt": [
+    "SPAD VII",
+    "stork emblem Hispano-Suiza"
+   ],
+   "n": 3
+  },
+  {
+   "id": "m_mofletes",
+   "query": "Pegaso Mofletes",
+   "alt": [
+    "Pegaso Z-202",
+    "Pegaso camión 1950"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_barajas",
+   "query": "Pegaso Barajas",
+   "alt": [
+    "Pegaso Z-207",
+    "Pegaso camión clásico"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_pegaso_truck",
+   "query": "camión Pegaso",
+   "alt": [
+    "Pegaso truck",
+    "Pegaso Comet",
+    "Pegaso autobús"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_xk120",
+   "query": "Jaguar XK120",
+   "alt": [
+    "Jaguar XK 120 1949"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_alfa_1930s",
+   "query": "Alfa Romeo 158 Alfetta",
+   "alt": [
+    "Alfa Romeo 8C 2900",
+    "Alfa Romeo 1930s racing"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_seat1400",
+   "query": "SEAT 1400",
+   "alt": [
+    "Seat 1400 1953"
+   ],
+   "n": 3
+  },
+  {
+   "id": "m_biscuter",
+   "query": "Biscúter",
+   "alt": [
+    "Biscuter 200"
+   ],
+   "n": 3
+  },
+  {
+   "id": "m_seat600",
+   "query": "SEAT 600",
+   "alt": [
+    "Seat 600 N"
+   ],
+   "n": 3
+  },
+  {
+   "id": "h_ricart",
+   "query": "Wifredo Ricart",
+   "alt": [
+    "Wifredo Pelayo Ricart",
+    "Ricart ingeniero"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_trujillo",
+   "query": "Rafael Trujillo",
+   "alt": [
+    "Rafael Leónidas Trujillo"
+   ],
+   "n": 3
+  },
+  {
+   "id": "h_jabbeke",
+   "query": "Jabbeke",
+   "alt": [
+    "Jabbeke autosnelweg",
+    "Jabbeke highway",
+    "Ostend Brussels motorway"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_carrera_panamericana",
+   "query": "Carrera Panamericana",
+   "alt": [
+    "Carrera Panamericana 1953",
+    "Carrera Panamericana 1954"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_le_mans_1952",
+   "query": "Le Mans 1952",
+   "alt": [
+    "24 Hours of Le Mans 1952"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_paris_salon",
+   "query": "Salon de l'Automobile Paris 1950s",
+   "alt": [
+    "Paris Motor Show 1951",
+    "Grand Palais salon automobile"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_sagrera",
+   "query": "La Sagrera Barcelona",
+   "alt": [
+    "Hispano-Suiza fábrica Barcelona",
+    "Pegaso fábrica Sagrera"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_concours",
+   "query": "concours d'elegance Pegaso",
+   "alt": [
+    "Pebble Beach Pegaso",
+    "Villa d'Este Pegaso"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_museum",
+   "query": "Pegaso museo",
+   "alt": [
+    "Museo de la Automoción Pegaso",
+    "Pegaso Z-102 museum"
+   ],
+   "n": 5
+  }
+ ]
+}

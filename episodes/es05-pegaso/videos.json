@@ -1,0 +1,165 @@
+{
+ "defaults": {
+  "n": 4,
+  "clip": 8,
+  "per_film": 2,
+  "years": [
+   1948,
+   1960
+  ],
+  "sources": [
+   "archive"
+  ]
+ },
+ "shots": [
+  {
+   "id": "c_speed_record",
+   "query": "speed record",
+   "alt": [
+    "record run",
+    "fastest car"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1949,
+    1956
+   ],
+   "n": 5,
+   "per_film": 2
+  },
+  {
+   "id": "c_auto_race",
+   "query": "sports car race",
+   "alt": [
+    "road race",
+    "Mexico race",
+    "Le Mans"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1950,
+    1956
+   ],
+   "n": 6,
+   "per_film": 2
+  },
+  {
+   "id": "c_auto_show",
+   "query": "Paris auto show",
+   "alt": [
+    "auto show",
+    "motor show"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1950,
+    1956
+   ],
+   "n": 5,
+   "per_film": 2
+  },
+  {
+   "id": "c_spain",
+   "query": "Spain",
+   "alt": [
+    "Madrid",
+    "Barcelona"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1948,
+    1960
+   ],
+   "n": 5,
+   "per_film": 2
+  },
+  {
+   "id": "c_trucks",
+   "query": "trucks",
+   "alt": [
+    "truck convoy",
+    "highway trucks"
+   ],
+   "collections": [
+    "prelinger",
+    "universal_newsreels"
+   ],
+   "years": [
+    1950,
+    1965
+   ],
+   "n": 4,
+   "per_film": 2
+  },
+  {
+   "id": "v_pegaso",
+   "query": "Pegaso Z-102",
+   "alt": [
+    "pegaso car"
+   ],
+   "sources": [
+    "commons",
+    "pixabay",
+    "pexels",
+    "coverr"
+   ],
+   "n": 4,
+   "per_film": 1
+  },
+  {
+   "id": "v_classic_luxury",
+   "query": "classic luxury car",
+   "alt": [
+    "vintage sports car",
+    "1950s sports car"
+   ],
+   "sources": [
+    "commons",
+    "pixabay",
+    "pexels",
+    "coverr"
+   ],
+   "n": 4,
+   "per_film": 1
+  },
+  {
+   "id": "v_vintage_race",
+   "query": "vintage car race",
+   "alt": [
+    "historic racing",
+    "classic racing car"
+   ],
+   "sources": [
+    "commons",
+    "pixabay",
+    "pexels",
+    "coverr"
+   ],
+   "n": 4,
+   "per_film": 1
+  },
+  {
+   "id": "v_truck_classic",
+   "query": "classic truck",
+   "alt": [
+    "vintage truck"
+   ],
+   "sources": [
+    "commons",
+    "pixabay",
+    "pexels",
+    "coverr"
+   ],
+   "n": 4,
+   "per_film": 1
+  }
+ ]
+}
