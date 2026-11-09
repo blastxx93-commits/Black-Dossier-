@@ -1,0 +1,985 @@
+{
+ "output": "ES05_PEGASO.mp4",
+ "fps": 24,
+ "music": [
+  {
+   "file": "trilha.wav",
+   "start": 0,
+   "gain": -29,
+   "fade_in": 4,
+   "fade_out": 5
+  }
+ ],
+ "chapters": [
+  {
+   "audio": "audio/ch00_hook.flac",
+   "lead_in": 0,
+   "tail": 0.6,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/m_z102/7_commons.jpg",
+     "move": "in",
+     "caption": "Pegaso Z-102|1951 \u2013 1958",
+     "dur": 7.06,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_jabbeke_run_1.jpg",
+     "move": "in",
+     "dur": 7.9,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "4",
+     "label": "r\u00e9cords oficiales \u00b7 Jabbeke, 1953",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Real Autom\u00f3vil Club de B\u00e9lgica",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_z102_touring/7_commons.jpg",
+     "move": "left",
+     "dur": 7.3,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_z102_touring/2_openverse.jpg",
+     "move": "left",
+     "dur": 0.357,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Es espa\u00f1ol.",
+     "highlight": "ESPA\u00d1OL",
+     "size": 150,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 0.3,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_pegaso_truck/2_openverse.jpg",
+     "move": "out",
+     "dur": 0.714,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ricart/2_commons.jpg",
+     "move": "right",
+     "dur": 4.04,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_z102_saoutchik/1_commons.jpg",
+     "move": "in",
+     "dur": 6.36,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "Pegaso Z-102",
+     "subtitle": "el coche espa\u00f1ol que bati\u00f3 r\u00e9cords del mundo",
+     "tag": "1951 \u2013 1958",
+     "bg": "a/m_z102/10_openverse.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 7.74,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Qui\u00e9n lo dise\u00f1\u00f3",
+      "Qui\u00e9n lo conduc\u00eda",
+      "Por qu\u00e9 desapareci\u00f3"
+     ],
+     "starts": [
+      0,
+      51,
+      77
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 2.1600000000000037
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 3.240000000000002
+      }
+     ],
+     "dur": 5.268,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch01.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/m_pegaso_truck/4_commons.jpg",
+     "move": "out",
+     "dur": 4.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_spain/1_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.42,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "1946",
+     "label": "nace ENASA \u00b7 Instituto Nacional de Industria",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "ENASA",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_z102_touring/8_openverse.jpg",
+     "move": "out",
+     "dur": 4.68,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_hispano/1_commons.jpg",
+     "move": "in",
+     "caption": "Hispano-Suiza|Barcelona",
+     "dur": 8.95,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_hispano/2_openverse.jpg",
+     "move": "down",
+     "dur": 10.65,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_hispano/3_commons.jpg",
+     "move": "in",
+     "dur": 8.4,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_hispano_engine/1_commons.jpg",
+     "move": "in",
+     "caption": "Motor Hispano-Suiza V8|aviaci\u00f3n",
+     "dur": 4.42,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_spad/1_commons.jpg",
+     "move": "in",
+     "caption": "SPAD XIII|motor Hispano-Suiza",
+     "dur": 4.52,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_hispano/4_openverse.jpg",
+     "move": "left",
+     "dur": 7.34,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_museum/1_commons.jpg",
+     "move": "in",
+     "caption": "Pegaso|el caballo alado",
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_pegaso_truck/5_commons.jpg",
+     "move": "out",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_z102_spider/1_commons.jpg",
+     "move": "right",
+     "dur": 5.7,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_mofletes/1_commons.jpg",
+     "move": "in",
+     "caption": "Pegaso \u00abMofletes\u00bb|1949",
+     "dur": 10.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_barajas/1_commons.jpg",
+     "move": "in",
+     "caption": "Pegaso \u00abBarajas\u00bb",
+     "dur": 6.86,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "\u2248405.000",
+     "label": "veh\u00edculos Pegaso \u00b7 Madrid, 1946\u20131990",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "ENASA",
+     "dur": 6.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_z102/11_commons.jpg",
+     "move": "right",
+     "dur": 10.047,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch02.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/h_ricart/1_commons.jpg",
+     "move": "in",
+     "caption": "Wifredo Ricart|1897 \u2013 1974",
+     "dur": 9.04,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_alfa_1930s/1_commons.jpg",
+     "move": "in",
+     "caption": "Alfa Romeo|a\u00f1os 30 y 40",
+     "dur": 8.54,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_alfa_1930s/2_commons.jpg",
+     "move": "in",
+     "dur": 7.94,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Seg\u00fan algunas versiones, Ferrari le culp\u00f3 de su salida.",
+     "highlight": "FERRARI",
+     "size": 100,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 6.76,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_alfa_1930s/3_commons.jpg",
+     "move": "up",
+     "dur": 10.68,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_workshop_1.jpg",
+     "move": "out",
+     "dur": 10.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_alfa_1930s/4_commons.jpg",
+     "move": "down",
+     "dur": 9.36,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_z102_engine/1_commons.jpg",
+     "move": "in",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_z102_spider/3_commons.jpg",
+     "move": "in",
+     "dur": 6.78,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_z102/5_commons.jpg",
+     "move": "in",
+     "caption": "Pegaso Z-102",
+     "dur": 2.969,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch03.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/m_z102/12_openverse.jpg",
+     "move": "left",
+     "dur": 8.66,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_paris_salon/1_commons.jpg",
+     "move": "in",
+     "caption": "Sal\u00f3n de Par\u00eds|a\u00f1os 50",
+     "dur": 10.76,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_z102/1_commons.jpg",
+     "move": "out",
+     "dur": 9.28,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_z102_engine/2_openverse.jpg",
+     "move": "right",
+     "dur": 8.02,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "2,5 \u00b7 2,8 \u00b7 3,2",
+     "label": "litros \u00b7 motor V8 de aluminio",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "ENASA",
+     "dur": 9.44,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_z102_engine/3_commons.jpg",
+     "move": "in",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_z102_spider/4_commons.jpg",
+     "move": "up",
+     "dur": 8.12,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_z102/2_openverse.jpg",
+     "move": "up",
+     "dur": 10.14,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_z102_touring/1_commons.jpg",
+     "move": "in",
+     "caption": "Carrocer\u00eda Touring|Superleggera",
+     "dur": 8.16,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_z102_touring/3_commons.jpg",
+     "move": "out",
+     "dur": 5.94,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_z102_saoutchik/2_openverse.jpg",
+     "move": "in",
+     "caption": "Carrocer\u00eda Saoutchik",
+     "dur": 6.5,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "18 \u00b7 19",
+     "label": "carrocer\u00edas Saoutchik \u00b7 carrocer\u00edas ENASA",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "seg\u00fan la fuente",
+     "dur": 2.44,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_z102_spider/2_commons.jpg",
+     "move": "in",
+     "caption": "Pegaso Z-102 Spider",
+     "dur": 9.32,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_z102/3_commons.jpg",
+     "move": "down",
+     "dur": 6.078,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch04.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/h_concours/1_openverse.jpg",
+     "move": "in",
+     "dur": 6.38,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_z102/4_openverse.jpg",
+     "move": "left",
+     "dur": 4.88,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_z102_saoutchik/3_openverse.jpg",
+     "move": "out",
+     "dur": 5.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_leopard_seats_1.jpg",
+     "move": "right",
+     "dur": 3.68,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_z102_saoutchik/5_openverse.jpg",
+     "move": "in",
+     "dur": 5.1,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_z102_cupula/2_commons.jpg",
+     "move": "in",
+     "caption": "Pegaso Z-102 \u00abC\u00fapula\u00bb",
+     "dur": 9.3,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_z102_cupula/1_commons.jpg",
+     "move": "up",
+     "dur": 6.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_z102_cupula/3_commons.jpg",
+     "move": "out",
+     "dur": 5.52,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_z102_touring/4_openverse.jpg",
+     "move": "down",
+     "dur": 7.38,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_z102_saoutchik/7_openverse.jpg",
+     "move": "in",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_z102_spider/5_commons.jpg",
+     "move": "out",
+     "dur": 4.52,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Todo eso sali\u00f3 de una f\u00e1brica de camiones.",
+     "highlight": "CAMIONES",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 10.142,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch05.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/c_speed_record/2_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.02,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_auto_race/2_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 10.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_mexico_race_1.jpg",
+     "move": "left",
+     "dur": 10.82,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_le_mans_1952/1_commons.jpg",
+     "move": "out",
+     "dur": 5.94,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_timekeepers_1.jpg",
+     "move": "right",
+     "dur": 3.18,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_jabbeke/1_commons.jpg",
+     "move": "in",
+     "dur": 7.98,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_z102_touring/5_commons.jpg",
+     "move": "up",
+     "dur": 9.16,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_xk120/1_commons.jpg",
+     "move": "in",
+     "caption": "Jaguar XK120|Jabbeke, 1949",
+     "dur": 8.59,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_xk120/2_openverse.jpg",
+     "move": "out",
+     "dur": 7.79,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_jabbeke/2_commons.jpg",
+     "move": "down",
+     "dur": 10.68,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "\u2248244 km/h",
+     "label": "Pegaso Z-102 \u00b7 Jabbeke, 25/09/1953",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "RACB \u00b7 seg\u00fan la fuente",
+     "dur": 10.04,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "El coche de producci\u00f3n m\u00e1s r\u00e1pido del mundo.",
+     "highlight": "R\u00c1PIDO",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.74,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seat600/1_commons.jpg",
+     "move": "in",
+     "caption": "SEAT 600|1957",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seat600/2_openverse.jpg",
+     "move": "down",
+     "dur": 6.14,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seat1400/3_openverse.jpg",
+     "move": "in",
+     "caption": "SEAT 1400|1953",
+     "dur": 9.44,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_biscuter/1_commons.jpg",
+     "move": "in",
+     "caption": "Bisc\u00fater|1953",
+     "dur": 2.92,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_z102/6_openverse.jpg",
+     "move": "in",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_z102_spider/6_commons.jpg",
+     "move": "in",
+     "dur": 5.691,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch06.flac",
+   "lead_in": 0,
+   "tail": 2.5,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/m_z102/8_openverse.jpg",
+     "move": "left",
+     "dur": 1.38,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_z102_engine/4_openverse.jpg",
+     "move": "out",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_concours/3_openverse.jpg",
+     "move": "left",
+     "dur": 4.8,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "\u224884",
+     "label": "Pegaso Z-102 fabricados \u00b7 1951\u20131958",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "seg\u00fan la fuente",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_concours/5_openverse.jpg",
+     "move": "out",
+     "dur": 8.3,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_z102/9_commons.jpg",
+     "move": "right",
+     "dur": 8.72,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_z103/3_commons.jpg",
+     "move": "in",
+     "caption": "Pegaso Z-103",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_z103/1_commons.jpg",
+     "move": "right",
+     "dur": 4.82,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_alfa_1930s/5_commons.jpg",
+     "move": "in",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_z103/2_commons.jpg",
+     "move": "in",
+     "dur": 5.44,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_pegaso_truck/6_commons.jpg",
+     "move": "up",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_z103/4_commons.jpg",
+     "move": "up",
+     "dur": 5.94,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_pegaso_truck/8_commons.jpg",
+     "move": "out",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_hispano/5_commons.jpg",
+     "move": "out",
+     "dur": 11.08,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_concours/4_commons.jpg",
+     "move": "in",
+     "dur": 5.52,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_concours/2_commons.jpg",
+     "move": "down",
+     "dur": 8.54,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_truck_road_1.jpg",
+     "move": "in",
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_hispano/6_openverse.jpg",
+     "move": "down",
+     "dur": 5.42,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Un coche espa\u00f1ol que bati\u00f3 r\u00e9cords del mundo.",
+     "highlight": "R\u00c9CORDS",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.28,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Suscr\u00edbete",
+     "sub": "historias de coches cl\u00e1sicos",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 8.94,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "\u00bfConoc\u00edas el Pegaso Z-102?",
+     "sub": "cu\u00e9ntamelo en los comentarios",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 5.601,
+     "fixed": false,
+     "fade_out": 0
+    }
+   ]
+  }
+ ],
+ "size": [
+  1920,
+  1080
+ ],
+ "theme": "noir_oro",
+ "subtitles": "ES05.ass"
+}

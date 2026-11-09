@@ -1,0 +1,278 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Doc,Inter SemiBold,44,&H00A0DCF0,&H00A0DCF0,&H00000000,&H96000000,0,0,0,0,100,100,0.5,0,1,2.4,1.2,2,200,200,62,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.99,Doc,,0,0,0,,Bélgica, veinticinco\Nde septiembre de 1953.
+Dialogue: 0,0:00:04.04,0:00:07.13,Doc,,0,0,0,,Una autopista recta cerca de\Nun pueblo llamado Jabbeke.
+Dialogue: 0,0:00:07.18,0:00:10.75,Doc,,0,0,0,,Un coche plateado acelera y pasa por\Ndelante de los cronometradores a más de
+Dialogue: 0,0:00:10.80,0:00:15.03,Doc,,0,0,0,,doscientos cuarenta kilómetros por hora.
+Dialogue: 0,0:00:15.08,0:00:17.97,Doc,,0,0,0,,Ese coche acaba de batir\Ncuatro récords oficiales.
+Dialogue: 0,0:00:18.02,0:00:18.81,Doc,,0,0,0,,Durante un tiempo,
+Dialogue: 0,0:00:18.86,0:00:26.36,Doc,,0,0,0,,se le considera el coche de\Nproducción más rápido del mundo.
+Dialogue: 0,0:00:30.38,0:00:30.50,Doc,,0,0,0,,Y no es italiano.
+Dialogue: 0,0:00:30.55,0:00:30.59,Doc,,0,0,0,,Ni alemán.
+Dialogue: 0,0:00:30.64,0:00:30.68,Doc,,0,0,0,,Ni inglés.
+Dialogue: 0,0:00:30.73,0:00:30.77,Doc,,0,0,0,,Es español.
+Dialogue: 0,0:00:30.82,0:00:31.04,Doc,,0,0,0,,Lo fabricaba una empresa de camiones,
+Dialogue: 0,0:00:31.09,0:00:31.49,Doc,,0,0,0,,en una España donde casi nadie\Npodía comprarse un coche.
+Dialogue: 0,0:00:31.54,0:00:35.53,Doc,,0,0,0,,Lo diseñó un ingeniero que había\Ntrabajado codo con codo con Enzo Ferrari.
+Dialogue: 0,0:00:35.58,0:00:37.37,Doc,,0,0,0,,Lo compraron un barón millonario,
+Dialogue: 0,0:00:37.42,0:00:41.89,Doc,,0,0,0,,un dictador del Caribe y algunas de\Nlas personas más ricas del mundo.
+Dialogue: 0,0:00:41.94,0:00:44.03,Doc,,0,0,0,,Se llamaba Pegaso Z-102.
+Dialogue: 0,0:00:44.08,0:00:46.87,Doc,,0,0,0,,Y hoy, en España, casi nadie lo recuerda.
+Dialogue: 0,0:00:46.92,0:00:49.63,Doc,,0,0,0,,En este vídeo vas a conocer\Nsu historia completa.
+Dialogue: 0,0:00:49.68,0:00:51.79,Doc,,0,0,0,,De dónde salió, por qué era tan especial,
+Dialogue: 0,0:00:51.84,0:00:54.32,Doc,,0,0,0,,quién lo conducía… y por qué desapareció.
+Dialogue: 0,0:00:55.03,0:00:59.60,Doc,,0,0,0,,Para entender el Pegaso, hay que volver\Na la España de los años cuarenta.
+Dialogue: 0,0:00:59.65,0:01:03.24,Doc,,0,0,0,,Era un país aislado, empobrecido\Ny con una industria muy débil.
+Dialogue: 0,0:01:03.29,0:01:06.54,Doc,,0,0,0,,Faltaban camiones, autobuses y\Nmaquinaria de casi todo tipo.
+Dialogue: 0,0:01:06.59,0:01:09.02,Doc,,0,0,0,,Y el Estado decidió fabricarlos en España.
+Dialogue: 0,0:01:09.07,0:01:13.52,Doc,,0,0,0,,En 1946 nació la Empresa\NNacional de Autocamiones, ENASA.
+Dialogue: 0,0:01:13.57,0:01:17.00,Doc,,0,0,0,,Su accionista mayoritario era el\NInstituto Nacional de Industria,
+Dialogue: 0,0:01:17.05,0:01:20.12,Doc,,0,0,0,,el mismo grupo público que\Naños después crearía SEAT.
+Dialogue: 0,0:01:20.17,0:01:21.70,Doc,,0,0,0,,Y ENASA no empezó de cero:
+Dialogue: 0,0:01:21.75,0:01:24.36,Doc,,0,0,0,,se instaló en la antigua fábrica\Nde Hispano-Suiza en Barcelona,
+Dialogue: 0,0:01:24.41,0:01:28.04,Doc,,0,0,0,,una marca española que antes de la\Nguerra había fabricado algunos de los
+Dialogue: 0,0:01:28.09,0:01:30.65,Doc,,0,0,0,,coches de lujo más admirados del mundo.
+Dialogue: 0,0:01:30.70,0:01:33.44,Doc,,0,0,0,,Hispano-Suiza merece un vídeo propio.
+Dialogue: 0,0:01:33.49,0:01:35.48,Doc,,0,0,0,,Se fundó en Barcelona en 1904,
+Dialogue: 0,0:01:35.53,0:01:38.50,Doc,,0,0,0,,con capital catalán y un\Ningeniero suizo brillante,
+Dialogue: 0,0:01:38.55,0:01:41.30,Doc,,0,0,0,,Marc Birkigt, al frente\Nde la parte técnica.
+Dialogue: 0,0:01:41.35,0:01:44.38,Doc,,0,0,0,,El rey Alfonso XIII fue tan admirador\Nde sus coches que llegó a ser
+Dialogue: 0,0:01:44.43,0:01:47.36,Doc,,0,0,0,,accionista, y uno de los\Nmodelos llevó su nombre.
+Dialogue: 0,0:01:47.41,0:01:49.04,Doc,,0,0,0,,Y durante la Primera Guerra Mundial,
+Dialogue: 0,0:01:49.09,0:01:53.20,Doc,,0,0,0,,Hispano-Suiza fabricó motores de avión\NV8 que impulsaron cazas franceses y
+Dialogue: 0,0:01:53.25,0:01:54.12,Doc,,0,0,0,,británicos.
+Dialogue: 0,0:01:54.17,0:01:56.32,Doc,,0,0,0,,Por eso su emblema lleva una cigüeña,
+Dialogue: 0,0:01:56.37,0:01:58.64,Doc,,0,0,0,,un guiño a los aviones de aquella guerra.
+Dialogue: 0,0:01:58.69,0:01:59.24,Doc,,0,0,0,,Con el tiempo,
+Dialogue: 0,0:01:59.29,0:02:01.58,Doc,,0,0,0,,la marca hizo gran parte de\Nsu producción en Francia,
+Dialogue: 0,0:02:01.63,0:02:05.98,Doc,,0,0,0,,y su fábrica de Barcelona acabaría siendo\Nla base de algo completamente nuevo.
+Dialogue: 0,0:02:06.03,0:02:08.82,Doc,,0,0,0,,La marca de los vehículos\Nde ENASA se llamaría Pegaso,
+Dialogue: 0,0:02:08.87,0:02:10.98,Doc,,0,0,0,,como el caballo alado de la mitología.
+Dialogue: 0,0:02:11.03,0:02:14.94,Doc,,0,0,0,,Y durante décadas, en España, Pegaso\Nsignificó camiones y autobuses.
+Dialogue: 0,0:02:14.99,0:02:16.66,Doc,,0,0,0,,Los camiones que llevaban la fruta,
+Dialogue: 0,0:02:16.71,0:02:19.64,Doc,,0,0,0,,el cemento y la mercancía\Npor las carreteras del país.
+Dialogue: 0,0:02:19.69,0:02:23.20,Doc,,0,0,0,,Muchos españoles todavía recuerdan el\Nlogotipo del caballo alado en el frontal
+Dialogue: 0,0:02:23.25,0:02:24.68,Doc,,0,0,0,,de aquellos camiones.
+Dialogue: 0,0:02:24.73,0:02:26.06,Doc,,0,0,0,,El primer camión de la marca,
+Dialogue: 0,0:02:26.11,0:02:30.54,Doc,,0,0,0,,presentado en 1949, heredaba\Nun diseño de Hispano-Suiza.
+Dialogue: 0,0:02:30.59,0:02:34.10,Doc,,0,0,0,,Tenía un frontal tan redondeado y\Nabultado que la gente lo bautizó enseguida
+Dialogue: 0,0:02:34.15,0:02:35.48,Doc,,0,0,0,,como el Mofletes.
+Dialogue: 0,0:02:35.53,0:02:37.52,Doc,,0,0,0,,Unos años después llegaría el Barajas,
+Dialogue: 0,0:02:37.57,0:02:40.94,Doc,,0,0,0,,llamado así porque se fabricaba en una\Nnueva planta cerca del aeropuerto de
+Dialogue: 0,0:02:40.99,0:02:42.34,Doc,,0,0,0,,Barajas, en Madrid.
+Dialogue: 0,0:02:42.39,0:02:45.54,Doc,,0,0,0,,Entre 1946 y 1990,
+Dialogue: 0,0:02:45.59,0:02:48.62,Doc,,0,0,0,,de la fábrica de Madrid salieron unos\Ncuatrocientos cinco mil vehículos
+Dialogue: 0,0:02:48.67,0:02:49.14,Doc,,0,0,0,,Pegaso.
+Dialogue: 0,0:02:49.19,0:02:52.70,Doc,,0,0,0,,Pero dentro de esa empresa de camiones\Nhabía un hombre con un sueño muy
+Dialogue: 0,0:02:52.75,0:02:53.56,Doc,,0,0,0,,distinto.
+Dialogue: 0,0:02:53.61,0:02:56.90,Doc,,0,0,0,,Y ese hombre había trabajado en una\Nde las marcas de coches deportivos más
+Dialogue: 0,0:02:56.95,0:02:58.35,Doc,,0,0,0,,prestigiosas del mundo.
+Dialogue: 0,0:02:59.12,0:03:00.87,Doc,,0,0,0,,Se llamaba Wifredo Ricart.
+Dialogue: 0,0:03:00.92,0:03:03.89,Doc,,0,0,0,,Había nacido en Barcelona en 1897.
+Dialogue: 0,0:03:03.94,0:03:07.49,Doc,,0,0,0,,Era ingeniero, y uno de los grandes\Ntalentos de la automoción española de su
+Dialogue: 0,0:03:07.54,0:03:08.23,Doc,,0,0,0,,época.
+Dialogue: 0,0:03:08.28,0:03:10.33,Doc,,0,0,0,,En los años treinta,\NRicart se marchó a Italia.
+Dialogue: 0,0:03:10.38,0:03:13.61,Doc,,0,0,0,,Y en 1936 entró en Alfa Romeo,
+Dialogue: 0,0:03:13.66,0:03:16.77,Doc,,0,0,0,,la marca que entonces dominaba\Nlas carreras de coches en Europa.
+Dialogue: 0,0:03:16.82,0:03:19.23,Doc,,0,0,0,,Allí trabajó en la división\Nde proyectos especiales.
+Dialogue: 0,0:03:19.28,0:03:22.89,Doc,,0,0,0,,Y en esos años coincidió con un hombre\Nque todavía no era famoso por su propia
+Dialogue: 0,0:03:22.94,0:03:24.71,Doc,,0,0,0,,marca: Enzo Ferrari.
+Dialogue: 0,0:03:24.76,0:03:26.71,Doc,,0,0,0,,La relación entre los dos no fue buena.
+Dialogue: 0,0:03:26.76,0:03:27.85,Doc,,0,0,0,,Según algunas versiones,
+Dialogue: 0,0:03:27.90,0:03:31.47,Doc,,0,0,0,,Enzo Ferrari llegó a culpar a\NRicart de su salida de Alfa Romeo.
+Dialogue: 0,0:03:31.52,0:03:34.15,Doc,,0,0,0,,Las fechas y los detalles\Ncambian según la fuente.
+Dialogue: 0,0:03:34.20,0:03:35.45,Doc,,0,0,0,,Pero lo que está claro es que,
+Dialogue: 0,0:03:35.50,0:03:38.99,Doc,,0,0,0,,años después, el coche de Ricart se\Nconvertiría en un rival directo de Alfa
+Dialogue: 0,0:03:39.04,0:03:42.15,Doc,,0,0,0,,Romeo y de la nueva marca\Nque Ferrari acababa de crear.
+Dialogue: 0,0:03:42.20,0:03:45.67,Doc,,0,0,0,,Los ingenieros que trabajaron con Ricart\Nen Alfa Romeo le tenían un respeto
+Dialogue: 0,0:03:45.72,0:03:46.43,Doc,,0,0,0,,enorme.
+Dialogue: 0,0:03:46.48,0:03:48.31,Doc,,0,0,0,,Uno de ellos, Giuseppe Busso,
+Dialogue: 0,0:03:48.36,0:03:51.61,Doc,,0,0,0,,recordaba que en el departamento de\Nestudios especiales todos lo consideraban
+Dialogue: 0,0:03:51.66,0:03:53.05,Doc,,0,0,0,,casi un ser superior.
+Dialogue: 0,0:03:53.10,0:03:56.47,Doc,,0,0,0,,En 1946, Ricart volvió a España.
+Dialogue: 0,0:03:56.52,0:03:59.41,Doc,,0,0,0,,Se puso al frente de un centro de\Nestudios técnicos de automoción.
+Dialogue: 0,0:03:59.46,0:04:02.41,Doc,,0,0,0,,Y poco después, de la\Nparte técnica de ENASA.
+Dialogue: 0,0:04:02.46,0:04:06.37,Doc,,0,0,0,,Y entonces tuvo una idea que, en la\NEspaña de la época, parecía una locura.
+Dialogue: 0,0:04:06.42,0:04:09.59,Doc,,0,0,0,,Si una empresa española de camiones\Nera capaz de fabricar un deportivo de
+Dialogue: 0,0:04:09.64,0:04:13.09,Doc,,0,0,0,,primer nivel, el mundo tendría que\Ntomarse en serio a la industria española.
+Dialogue: 0,0:04:13.14,0:04:17.19,Doc,,0,0,0,,Y sus ingenieros y técnicos aprenderían\Na trabajar con la máxima precisión.
+Dialogue: 0,0:04:17.24,0:04:19.32,Doc,,0,0,0,,Así nació el Pegaso Z-102.
+Dialogue: 0,0:04:20.09,0:04:23.60,Doc,,0,0,0,,Los primeros prototipos\Naparecieron en 1951.
+Dialogue: 0,0:04:23.65,0:04:25.68,Doc,,0,0,0,,Y lo que había debajo\Nde la carrocería era,
+Dialogue: 0,0:04:25.73,0:04:28.82,Doc,,0,0,0,,sencillamente, de otro planeta\Npara la España de entonces.
+Dialogue: 0,0:04:28.87,0:04:32.94,Doc,,0,0,0,,El primer Z-102 que vio el público\Nllevaba una carrocería de acero diseñada
+Dialogue: 0,0:04:32.99,0:04:34.54,Doc,,0,0,0,,por la propia Pegaso.
+Dialogue: 0,0:04:34.59,0:04:39.58,Doc,,0,0,0,,Se presentó en el Salón del Automóvil\Nde París de 1951, y causó sensación.
+Dialogue: 0,0:04:39.63,0:04:41.92,Doc,,0,0,0,,Imagina la cara de los\Nperiodistas europeos:
+Dialogue: 0,0:04:41.97,0:04:43.70,Doc,,0,0,0,,un deportivo de motor V8,
+Dialogue: 0,0:04:43.75,0:04:45.26,Doc,,0,0,0,,con soluciones de coche de carreras,
+Dialogue: 0,0:04:45.31,0:04:48.86,Doc,,0,0,0,,llegado desde una España que todavía\Nestaba saliendo de la posguerra.
+Dialogue: 0,0:04:48.91,0:04:51.06,Doc,,0,0,0,,El motor era un V8 de aluminio,
+Dialogue: 0,0:04:51.11,0:04:54.46,Doc,,0,0,0,,con cuatro árboles de levas en\Ncabeza y lubricación por cárter seco,
+Dialogue: 0,0:04:54.51,0:04:56.88,Doc,,0,0,0,,una solución propia de\Nlos coches de carreras.
+Dialogue: 0,0:04:56.93,0:05:00.74,Doc,,0,0,0,,Las primeras versiones tenían dos\Nlitros y medio o dos coma ocho litros.
+Dialogue: 0,0:05:00.79,0:05:03.78,Doc,,0,0,0,,Más tarde llegarían versiones\Nde tres coma dos litros.
+Dialogue: 0,0:05:03.83,0:05:06.32,Doc,,0,0,0,,Algunos coches llevaban incluso compresor.
+Dialogue: 0,0:05:06.37,0:05:09.48,Doc,,0,0,0,,La caja de cambios tenía cinco\Nmarchas y estaba colocada atrás,
+Dialogue: 0,0:05:09.53,0:05:12.48,Doc,,0,0,0,,junto al diferencial, para\Nrepartir mejor el peso.
+Dialogue: 0,0:05:12.53,0:05:14.46,Doc,,0,0,0,,La suspensión trasera era de tipo De Dion,
+Dialogue: 0,0:05:14.51,0:05:17.88,Doc,,0,0,0,,y en lugar de muelles normales\Nusaba barras de torsión.
+Dialogue: 0,0:05:17.93,0:05:21.34,Doc,,0,0,0,,Eran soluciones que en aquella época\Nsolo se veían en los coches de carreras
+Dialogue: 0,0:05:21.39,0:05:22.44,Doc,,0,0,0,,más avanzados.
+Dialogue: 0,0:05:22.49,0:05:26.06,Doc,,0,0,0,,Muchas piezas se fabricaban casi\Na mano, con una precisión enorme.
+Dialogue: 0,0:05:26.11,0:05:29.02,Doc,,0,0,0,,Para ENASA, el Z-102 no era solo un coche.
+Dialogue: 0,0:05:29.07,0:05:32.58,Doc,,0,0,0,,Era una demostración de lo que sus\Ningenieros eran capaces de hacer.
+Dialogue: 0,0:05:32.63,0:05:35.04,Doc,,0,0,0,,El chasis y la mecánica\Nsalían de Barcelona.
+Dialogue: 0,0:05:35.09,0:05:37.18,Doc,,0,0,0,,Pero las carrocerías eran otra historia.
+Dialogue: 0,0:05:37.23,0:05:38.82,Doc,,0,0,0,,La mayoría las hizo Touring,
+Dialogue: 0,0:05:38.87,0:05:40.74,Doc,,0,0,0,,uno de los grandes carroceros de Milán,
+Dialogue: 0,0:05:40.79,0:05:42.42,Doc,,0,0,0,,con su técnica Superleggera:
+Dialogue: 0,0:05:42.47,0:05:46.68,Doc,,0,0,0,,una carrocería de aluminio ligerísima\Nsobre una estructura de tubos finos.
+Dialogue: 0,0:05:46.73,0:05:48.24,Doc,,0,0,0,,El carrocero francés Saoutchik,
+Dialogue: 0,0:05:48.29,0:05:49.90,Doc,,0,0,0,,famoso por sus coches de lujo,
+Dialogue: 0,0:05:49.95,0:05:53.18,Doc,,0,0,0,,hizo dieciocho carrocerías,\Nalgunas de ellas descapotables.
+Dialogue: 0,0:05:53.23,0:05:55.62,Doc,,0,0,0,,Y la propia ENASA carrozó diecinueve.
+Dialogue: 0,0:05:55.67,0:05:59.02,Doc,,0,0,0,,Y también hubo carrocerías hechas\Nen casa por artesanos catalanes,
+Dialogue: 0,0:05:59.07,0:06:02.70,Doc,,0,0,0,,como Pedro Serra, que construyó\Nunos pocos spider descapotables,
+Dialogue: 0,0:06:02.75,0:06:04.94,Doc,,0,0,0,,ligeros y muy bonitos, sobre\Nla mecánica del Pegaso.
+Dialogue: 0,0:06:04.99,0:06:04.94,Doc,,0,0,0,,Por eso no hay dos Pegaso iguales.
+Dialogue: 0,0:06:04.99,0:06:10.19,Doc,,0,0,0,,Cada uno era casi una pieza única,\Nhecha a la medida de su dueño.
+Dialogue: 0,0:06:10.95,0:06:13.64,Doc,,0,0,0,,¿Y quién se compraba un Pegaso Z-102?
+Dialogue: 0,0:06:13.69,0:06:17.40,Doc,,0,0,0,,Desde luego, no un trabajador\Nespañol de los años cincuenta.
+Dialogue: 0,0:06:17.45,0:06:21.24,Doc,,0,0,0,,Los Pegaso acabaron en manos de algunas\Nde las personas más ricas y poderosas
+Dialogue: 0,0:06:21.29,0:06:22.28,Doc,,0,0,0,,de su tiempo.
+Dialogue: 0,0:06:22.33,0:06:27.25,Doc,,0,0,0,,Uno de los más famosos fue un Z-102\Ncarrozado por Saoutchik para el barón
+Dialogue: 0,0:06:27.30,0:06:27.88,Doc,,0,0,0,,Thyssen-Bornemisza.
+Dialogue: 0,0:06:27.93,0:06:31.56,Doc,,0,0,0,,Tenía los asientos tapizados en piel\Nde leopardo y los mandos dorados.
+Dialogue: 0,0:06:31.61,0:06:36.66,Doc,,0,0,0,,En 1953 ganó el Gran Premio de Elegancia\Nde Enghien-les-Bains, en Francia.
+Dialogue: 0,0:06:36.71,0:06:39.44,Doc,,0,0,0,,Otro de los más extraños\Nes el llamado Cúpula.
+Dialogue: 0,0:06:39.49,0:06:42.28,Doc,,0,0,0,,Una berlineta con una\Nenorme cúpula transparente,
+Dialogue: 0,0:06:42.33,0:06:45.96,Doc,,0,0,0,,inspirada, según se dice, en los\Nplatillos volantes de los años cincuenta.
+Dialogue: 0,0:06:46.01,0:06:47.40,Doc,,0,0,0,,Se construyeron dos.
+Dialogue: 0,0:06:47.45,0:06:49.88,Doc,,0,0,0,,Y uno de ellos, pintado\Nde amarillo brillante,
+Dialogue: 0,0:06:49.93,0:06:52.76,Doc,,0,0,0,,acabó en manos del dictador\Nde la República Dominicana,
+Dialogue: 0,0:06:52.81,0:06:57.28,Doc,,0,0,0,,Rafael Trujillo, que lo tuvo\Nhasta su muerte en 1961.
+Dialogue: 0,0:06:57.33,0:06:58.28,Doc,,0,0,0,,Y hay más.
+Dialogue: 0,0:06:58.33,0:06:59.17,Doc,,0,0,0,,Según algunas fuentes,
+Dialogue: 0,0:06:59.22,0:07:02.32,Doc,,0,0,0,,Touring hizo una carrocería\Núnica, llamada Thrill,
+Dialogue: 0,0:07:02.37,0:07:05.66,Doc,,0,0,0,,pensada para Eva Perón, la\Nesposa del presidente argentino.
+Dialogue: 0,0:07:05.71,0:07:07.86,Doc,,0,0,0,,Hasta los propios materiales eran de lujo.
+Dialogue: 0,0:07:07.91,0:07:10.04,Doc,,0,0,0,,Algunos interiores se hacían por encargo,
+Dialogue: 0,0:07:10.09,0:07:13.52,Doc,,0,0,0,,con pieles, maderas y acabados\Nelegidos por el cliente.
+Dialogue: 0,0:07:13.57,0:07:16.22,Doc,,0,0,0,,Comprar un Pegaso no era\Ncomprar un coche de serie:
+Dialogue: 0,0:07:16.27,0:07:18.18,Doc,,0,0,0,,era encargar una obra a medida.
+Dialogue: 0,0:07:18.23,0:07:20.08,Doc,,0,0,0,,Un barón con asientos de leopardo,
+Dialogue: 0,0:07:20.13,0:07:22.54,Doc,,0,0,0,,un dictador caribeño con\Nun coche-platillo volante,
+Dialogue: 0,0:07:22.59,0:07:24.62,Doc,,0,0,0,,y la primera dama de Argentina.
+Dialogue: 0,0:07:24.67,0:07:27.29,Doc,,0,0,0,,Todo eso salió de una fábrica\Nde camiones de Barcelona.
+Dialogue: 0,0:07:28.25,0:07:31.40,Doc,,0,0,0,,Pero un deportivo no se demuestra\Nsolo en los salones de elegancia.
+Dialogue: 0,0:07:31.45,0:07:33.34,Doc,,0,0,0,,Se demuestra en la pista.
+Dialogue: 0,0:07:33.39,0:07:37.66,Doc,,0,0,0,,Pegaso intentó correr en las\Nveinticuatro horas de Le Mans en 1952.
+Dialogue: 0,0:07:37.71,0:07:38.94,Doc,,0,0,0,,El coche se clasificó,
+Dialogue: 0,0:07:38.99,0:07:40.68,Doc,,0,0,0,,con el piloto Joaquín Palacio al volante,
+Dialogue: 0,0:07:40.73,0:07:43.58,Doc,,0,0,0,,pero la fábrica decidió\Nretirarlo antes de la carrera.
+Dialogue: 0,0:07:43.63,0:07:46.16,Doc,,0,0,0,,En México, en la legendaria\NCarrera Panamericana,
+Dialogue: 0,0:07:46.21,0:07:48.46,Doc,,0,0,0,,una de las carreras más\Npeligrosas del mundo,
+Dialogue: 0,0:07:48.51,0:07:51.62,Doc,,0,0,0,,Palacio llegó a ir tercero,\Nsolo por detrás de los Ferrari.
+Dialogue: 0,0:07:51.67,0:07:54.40,Doc,,0,0,0,,Pero sufrió un fuerte\Naccidente y no pudo terminar.
+Dialogue: 0,0:07:54.45,0:07:58.58,Doc,,0,0,0,,Las fuentes no se ponen de acuerdo en\Nsi fue en la edición de 1953 o en la de
+Dialogue: 0,0:07:58.63,0:08:00.34,Doc,,0,0,0,,1954.
+Dialogue: 0,0:08:00.39,0:08:03.52,Doc,,0,0,0,,Y entonces llegó Jabbeke.
+Dialogue: 0,0:08:03.57,0:08:05.36,Doc,,0,0,0,,En aquella época, la autopista de Jabbeke,
+Dialogue: 0,0:08:05.41,0:08:08.86,Doc,,0,0,0,,en Bélgica, era famosa porque las\Nmarcas iban allí a batir récords de
+Dialogue: 0,0:08:08.91,0:08:09.70,Doc,,0,0,0,,velocidad.
+Dialogue: 0,0:08:09.75,0:08:11.50,Doc,,0,0,0,,Era larga, recta y lisa.
+Dialogue: 0,0:08:11.55,0:08:14.50,Doc,,0,0,0,,Y el veinticinco de septiembre de 1953,
+Dialogue: 0,0:08:14.55,0:08:17.10,Doc,,0,0,0,,un Pegaso Z-102 con carrocería Touring,
+Dialogue: 0,0:08:17.15,0:08:20.66,Doc,,0,0,0,,conducido por el piloto Celso\NFernández, salió a la autopista.
+Dialogue: 0,0:08:20.71,0:08:23.08,Doc,,0,0,0,,Allí, en 1949,
+Dialogue: 0,0:08:23.13,0:08:27.24,Doc,,0,0,0,,un Jaguar XK120 había alcanzado unos\Ndoscientos trece kilómetros por hora,
+Dialogue: 0,0:08:27.29,0:08:29.25,Doc,,0,0,0,,y la noticia dio la vuelta al mundo.
+Dialogue: 0,0:08:29.30,0:08:33.06,Doc,,0,0,0,,Jabbeke era, por así decirlo, el\Nescaparate de la velocidad en Europa.
+Dialogue: 0,0:08:33.11,0:08:37.04,Doc,,0,0,0,,Si un coche quería demostrar que era el\Nmás rápido, tenía que pasar por allí.
+Dialogue: 0,0:08:37.09,0:08:38.08,Doc,,0,0,0,,Según se cuenta,
+Dialogue: 0,0:08:38.13,0:08:40.54,Doc,,0,0,0,,hubo un primer intento que\Nlos jueces no aceptaron,
+Dialogue: 0,0:08:40.59,0:08:43.94,Doc,,0,0,0,,porque el coche había necesitado más\Ndistancia de la permitida para lanzarse.
+Dialogue: 0,0:08:43.99,0:08:45.82,Doc,,0,0,0,,Pero el Pegaso volvió a intentarlo.
+Dialogue: 0,0:08:45.87,0:08:47.72,Doc,,0,0,0,,Y esta vez lo consiguió.
+Dialogue: 0,0:08:47.77,0:08:51.62,Doc,,0,0,0,,Batió cuatro récords oficiales del\NReal Automóvil Club de Bélgica.
+Dialogue: 0,0:08:51.67,0:08:53.90,Doc,,0,0,0,,Las cifras varían\Nligeramente según la fuente,
+Dialogue: 0,0:08:53.95,0:08:57.76,Doc,,0,0,0,,pero la velocidad rondó los doscientos\Ncuarenta y cuatro kilómetros por hora.
+Dialogue: 0,0:08:57.81,0:09:00.30,Doc,,0,0,0,,Con eso, el Pegaso Z-102 se convirtió,
+Dialogue: 0,0:09:00.35,0:09:03.50,Doc,,0,0,0,,durante un tiempo, en el coche de\Nproducción más rápido del mundo.
+Dialogue: 0,0:09:03.55,0:09:05.34,Doc,,0,0,0,,Piénsalo un momento.
+Dialogue: 0,0:09:05.39,0:09:06.44,Doc,,0,0,0,,Pocos años después,
+Dialogue: 0,0:09:06.49,0:09:08.80,Doc,,0,0,0,,el coche más vendido de\NEspaña sería el Seiscientos,
+Dialogue: 0,0:09:08.85,0:09:11.22,Doc,,0,0,0,,un pequeño utilitario que\Nno llegaba a cien por hora.
+Dialogue: 0,0:09:11.27,0:09:12.94,Doc,,0,0,0,,Y en 1953,
+Dialogue: 0,0:09:12.99,0:09:16.26,Doc,,0,0,0,,una fábrica de camiones de Barcelona\Ntenía en sus manos el coche de serie más
+Dialogue: 0,0:09:16.31,0:09:17.64,Doc,,0,0,0,,rápido del planeta.
+Dialogue: 0,0:09:17.69,0:09:19.98,Doc,,0,0,0,,Ese mismo año, 1953,
+Dialogue: 0,0:09:20.03,0:09:23.40,Doc,,0,0,0,,salían de las fábricas españolas otros\Ndos coches que ya conoces si sigues el
+Dialogue: 0,0:09:23.45,0:09:27.08,Doc,,0,0,0,,canal: el SEAT 1400, la\Nprimera berlina de SEAT,
+Dialogue: 0,0:09:27.13,0:09:30.00,Doc,,0,0,0,,y el Biscúter, el pequeño\Nmicrocoche sin marcha atrás.
+Dialogue: 0,0:09:30.05,0:09:31.98,Doc,,0,0,0,,Tres coches españoles del mismo año.
+Dialogue: 0,0:09:32.03,0:09:34.26,Doc,,0,0,0,,Uno, para las familias acomodadas.
+Dialogue: 0,0:09:34.31,0:09:36.90,Doc,,0,0,0,,Otro, para quien apenas\Npodía permitirse un coche.
+Dialogue: 0,0:09:36.95,0:09:39.45,Doc,,0,0,0,,Y el tercero, el Pegaso,\Ncompitiendo con Ferrari,
+Dialogue: 0,0:09:39.50,0:09:42.83,Doc,,0,0,0,,Jaguar y Mercedes por el título\Nde coche más rápido del mundo.
+Dialogue: 0,0:09:43.62,0:09:45.07,Doc,,0,0,0,,Entonces, ¿qué salió mal?
+Dialogue: 0,0:09:45.12,0:09:47.45,Doc,,0,0,0,,La respuesta es sencilla: el dinero.
+Dialogue: 0,0:09:47.50,0:09:49.89,Doc,,0,0,0,,Cada Pegaso costaba muchísimo de fabricar.
+Dialogue: 0,0:09:49.94,0:09:53.93,Doc,,0,0,0,,Casi todo se hacía a mano, con materiales\Ncaros y una precisión de relojero.
+Dialogue: 0,0:09:53.98,0:09:57.87,Doc,,0,0,0,,Y en el mundo había muy pocos clientes\Ndispuestos a pagar lo que costaba.
+Dialogue: 0,0:09:57.92,0:10:04.85,Doc,,0,0,0,,Entre 1951 y 1958 se fabricaron\Nunos ochenta y cuatro Pegaso Z-102.
+Dialogue: 0,0:10:04.90,0:10:07.70,Doc,,0,0,0,,Muy pocos para que el proyecto\Ntuviera sentido económico.
+Dialogue: 0,0:10:07.75,0:10:10.97,Doc,,0,0,0,,ENASA, al final, era una\Nempresa de camiones y autobuses,
+Dialogue: 0,0:10:11.02,0:10:14.17,Doc,,0,0,0,,y eso era lo que el país\Nnecesitaba de verdad.
+Dialogue: 0,0:10:14.22,0:10:16.91,Doc,,0,0,0,,Las cifras exactas cambian\Nsegún el investigador.
+Dialogue: 0,0:10:16.96,0:10:19.65,Doc,,0,0,0,,Algunos estudios, como el\Ndel historiador Mario Laguna,
+Dialogue: 0,0:10:19.70,0:10:22.89,Doc,,0,0,0,,hablan de solo ochenta y tres\Nchasis, contando los prototipos.
+Dialogue: 0,0:10:22.94,0:10:26.29,Doc,,0,0,0,,Pegaso intentó también una\Nversión más grande y más sencilla,
+Dialogue: 0,0:10:26.34,0:10:30.07,Doc,,0,0,0,,el Z-103, con motores V8 de\Ncasi cuatro litros y más.
+Dialogue: 0,0:10:30.12,0:10:31.89,Doc,,0,0,0,,Pero apenas se fabricaron tres.
+Dialogue: 0,0:10:31.94,0:10:35.71,Doc,,0,0,0,,El sueño deportivo se estaba\Nquedando sin gasolina.
+Dialogue: 0,0:10:35.76,0:10:40.17,Doc,,0,0,0,,En 1959, Wifredo Ricart\Ndejó la dirección de ENASA.
+Dialogue: 0,0:10:40.22,0:10:43.47,Doc,,0,0,0,,Le criticaban por haberse centrado\Nmás en la perfección técnica que en la
+Dialogue: 0,0:10:43.52,0:10:44.56,Doc,,0,0,0,,realidad económica.
+Dialogue: 0,0:10:44.61,0:10:49.15,Doc,,0,0,0,,Ricart murió en Barcelona en 1974.
+Dialogue: 0,0:10:49.20,0:10:51.23,Doc,,0,0,0,,Los camiones Pegaso siguieron.
+Dialogue: 0,0:10:51.28,0:10:54.47,Doc,,0,0,0,,Durante décadas, fueron los reyes\Nde las carreteras españolas.
+Dialogue: 0,0:10:54.52,0:10:58.97,Doc,,0,0,0,,Pero en 1990, ENASA pasó a manos\Nde la empresa italiana Iveco.
+Dialogue: 0,0:10:59.02,0:11:03.09,Doc,,0,0,0,,Y en 1994, el nombre Pegaso desapareció.
+Dialogue: 0,0:11:03.14,0:11:05.65,Doc,,0,0,0,,Llegaron modelos cada vez\Nmás grandes y potentes,
+Dialogue: 0,0:11:05.70,0:11:09.25,Doc,,0,0,0,,y durante muchos años el caballo alado\Ndel frontal fue una imagen inseparable
+Dialogue: 0,0:11:09.30,0:11:11.03,Doc,,0,0,0,,de las carreteras de España.
+Dialogue: 0,0:11:11.08,0:11:12.11,Doc,,0,0,0,,Para muchos camioneros,
+Dialogue: 0,0:11:12.16,0:11:15.43,Doc,,0,0,0,,un Pegaso era sinónimo de\Ntrabajo duro y de fiabilidad.
+Dialogue: 0,0:11:15.48,0:11:18.13,Doc,,0,0,0,,Pocos de ellos sabían que la\Nmisma marca había fabricado,
+Dialogue: 0,0:11:18.18,0:11:22.17,Doc,,0,0,0,,años antes, uno de los\Ncoches más rápidos del mundo.
+Dialogue: 0,0:11:22.22,0:11:26.39,Doc,,0,0,0,,Hoy, los Pegaso Z-102 que sobreviven\Nestán repartidos por museos y colecciones
+Dialogue: 0,0:11:26.44,0:11:27.69,Doc,,0,0,0,,de todo el mundo.
+Dialogue: 0,0:11:27.74,0:11:31.15,Doc,,0,0,0,,Aparecen en los concursos de elegancia\Nmás prestigiosos y se pagan como
+Dialogue: 0,0:11:31.20,0:11:32.47,Doc,,0,0,0,,verdaderas joyas.
+Dialogue: 0,0:11:32.52,0:11:36.23,Doc,,0,0,0,,Fuera de España, muchos coleccionistas\Nconocen bien su historia.
+Dialogue: 0,0:11:36.28,0:11:39.25,Doc,,0,0,0,,Pero en España, si preguntas\Npor la calle qué fue el Pegaso,
+Dialogue: 0,0:11:39.30,0:11:41.43,Doc,,0,0,0,,la mayoría te hablará de camiones.
+Dialogue: 0,0:11:41.48,0:11:44.07,Doc,,0,0,0,,Muy pocos saben que,\Nen los años cincuenta,
+Dialogue: 0,0:11:44.12,0:11:47.81,Doc,,0,0,0,,una fábrica española construyó uno\Nde los deportivos más avanzados y más
+Dialogue: 0,0:11:47.86,0:11:49.65,Doc,,0,0,0,,rápidos del mundo.
+Dialogue: 0,0:11:49.70,0:11:51.81,Doc,,0,0,0,,Un coche español que\Nbatió récords del mundo.
+Dialogue: 0,0:11:51.86,0:11:53.93,Doc,,0,0,0,,Y que casi nadie recuerda.
+Dialogue: 0,0:11:53.98,0:11:54.91,Doc,,0,0,0,,Si te ha gustado el vídeo,
+Dialogue: 0,0:11:54.96,0:11:55.85,Doc,,0,0,0,,dale a me gusta,
+Dialogue: 0,0:11:55.90,0:11:59.19,Doc,,0,0,0,,suscríbete para más historias de coches\Nclásicos y compártelo para que más
+Dialogue: 0,0:11:59.24,0:12:01.27,Doc,,0,0,0,,gente conozca la historia del Pegaso.
+Dialogue: 0,0:12:01.32,0:12:02.87,Doc,,0,0,0,,Y cuéntame en los comentarios:
+Dialogue: 0,0:12:02.92,0:12:05.90,Doc,,0,0,0,,¿habías oído hablar alguna\Nvez del Pegaso Z-102?

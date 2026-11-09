@@ -1,0 +1,25 @@
+{
+ "lang": "es",
+ "tagline": "Historia real del automóvil, con fuentes.",
+ "compact_credits": true,
+ "credits_file": "episodes/es05-pegaso/publish/creditos_completos.txt",
+ "other_line": "Imágenes de archivo: Wikimedia Commons, Openverse y Universal Newsreels (dominio público, Internet Archive). Algunas escenas son ilustraciones generadas por IA (el récord de Jabbeke, los cronometradores, el taller, la Carrera Panamericana, el interior de leopardo y el camión en la carretera), no fotografías reales.",
+ "intro": "Bélgica, 25 de septiembre de 1953. En la autopista de Jabbeke, un coche español bate cuatro récords oficiales y se convierte, durante un tiempo, en el coche de producción más rápido del mundo. Lo fabricaba ENASA, la empresa de los camiones Pegaso, en la antigua fábrica de Hispano-Suiza en Barcelona. Lo diseñó Wifredo Ricart, que había coincidido con Enzo Ferrari en Alfa Romeo. Carrocerías de Touring y Saoutchik, el Cúpula del dictador Trujillo, los asientos de leopardo del barón Thyssen, Le Mans, la Carrera Panamericana… y por qué solo se fabricaron unos 84.\n\nVídeo divulgativo basado en fuentes publicadas. Las cifras que varían según la fuente se indican como estimaciones. Algunas escenas son recreaciones generadas por IA.",
+ "chapters": [
+  "El coche más rápido del mundo era español",
+  "ENASA, Hispano-Suiza y los camiones Pegaso",
+  "Wifredo Ricart, el rival de Enzo Ferrari",
+  "El V8 de aluminio y las carrocerías Touring y Saoutchik",
+  "El barón Thyssen, Trujillo y el Pegaso Cúpula",
+  "Le Mans, la Panamericana y el récord de Jabbeke",
+  "Por qué desapareció el Pegaso Z-102"
+ ],
+ "sources": [
+  "Wikipedia: Pegaso Z-102; Pegaso (marca); ENASA; Wifredo Ricart",
+  "Wikipedia: Hispano-Suiza; Marc Birkigt",
+  "Mario Laguna: estudios sobre la producción del Pegaso Z-102",
+  "Real Automóvil Club de Bélgica: récords de Jabbeke (1953)",
+  "Wikipedia: Jaguar XK120 (récord de Jabbeke, 1949); Carrera Panamericana"
+ ],
+ "tags_line": "#pegaso #pegasoz102 #cochesclasicos #cochesespañoles #historia"
+}
