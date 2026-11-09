@@ -1,0 +1,1253 @@
+{
+ "output": "ES06_DICTADORES.mp4",
+ "fps": 24,
+ "music": [
+  {
+   "file": "trilha.wav",
+   "start": 0,
+   "gain": -29,
+   "fade_in": 4,
+   "fade_out": 5
+  }
+ ],
+ "chapters": [
+  {
+   "audio": "audio/ch00_hook.flac",
+   "lead_in": 0,
+   "tail": 0.6,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/h_guardia_real/5_commons.jpg",
+     "move": "in",
+     "caption": "Madrid|19 de junio de 2014",
+     "dur": 9.7,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_guardia_real/1_commons.jpg",
+     "move": "in",
+     "dur": 1.74,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_phantom4/4_openverse.jpg",
+     "move": "in",
+     "caption": "Rolls-Royce Phantom IV|1952",
+     "dur": 6.42,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Su primer due\u00f1o fue un dictador.",
+     "highlight": "DICTADOR",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 2.84,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_parade/5_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.18,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_mb600/10_openverse.jpg",
+     "move": "left",
+     "dur": 3.88,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_mb600/11_commons.jpg",
+     "move": "out",
+     "dur": 4.14,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_pegaso_cupula/1_commons.jpg",
+     "move": "right",
+     "dur": 2.58,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_mb600/12_openverse.jpg",
+     "move": "in",
+     "dur": 10.02,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "Los coches de los dictadores",
+     "subtitle": "lujo, blindaje y miedo",
+     "tag": "1950 \u2013 1979",
+     "bg": "a/m_mb600/1_commons.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 3.78,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Un platillo volante espa\u00f1ol",
+      "Un regalo del Kremlin",
+      "El coche que hoy lleva al rey"
+     ],
+     "starts": [
+      0,
+      18,
+      41
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.759999999999998
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.7199999999999989
+      }
+     ],
+     "dur": 5.167,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch01.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 10,
+     "name": "ZIS-110",
+     "photo": "a/m_zis110/2_openverse.jpg",
+     "credit": "Foto: When reusing, please credit me as author \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "Uni\u00f3n Sovi\u00e9tica",
+     "sub": "el coche de Stalin",
+     "dur": 5.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_stalin/1_commons.jpg",
+     "move": "out",
+     "dur": 10.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_zis110/1_commons.jpg",
+     "move": "down",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_zis110/5_commons.jpg",
+     "move": "in",
+     "dur": 10.54,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_zis110/3_commons.jpg",
+     "move": "in",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_zis110/6_openverse.jpg",
+     "move": "up",
+     "dur": 4.48,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_stalin/3_commons.jpg",
+     "move": "in",
+     "caption": "Stalin|Yalta, 1945",
+     "dur": 5.72,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_zis110/4_openverse.jpg",
+     "move": "left",
+     "dur": 5.92,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_spain/1_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.627,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 9,
+     "name": "Hongqi CA72",
+     "photo": "a/m_hongqi/6_openverse.jpg",
+     "credit": "Foto: Navigator84 \u00b7 CC BY-SA 3.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "China",
+     "sub": "la \u00abBandera Roja\u00bb de Mao",
+     "dur": 5.693,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_mao/3_commons.jpg",
+     "move": "in",
+     "caption": "Mao Zedong",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_mao/2_openverse.jpg",
+     "move": "out",
+     "dur": 6.2,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_hongqi_factory_1.jpg",
+     "move": "out",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_hongqi/3_commons.jpg",
+     "move": "down",
+     "dur": 12.64,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Hongqi: \u00abbandera roja\u00bb.",
+     "highlight": "BANDERA ROJA",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 12.7,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_mao/1_commons.jpg",
+     "move": "right",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_mao/4_openverse.jpg",
+     "move": "in",
+     "dur": 5.88,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_hongqi/1_commons.jpg",
+     "move": "in",
+     "dur": 10.547,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch02.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 8,
+     "name": "Cadillac Eldorado",
+     "photo": "a/m_tito_cadillac/1_commons.jpg",
+     "credit": "Foto: Berthold Werner \u00b7 CC BY-SA 3.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "Yugoslavia",
+     "sub": "el coche de Tito",
+     "dur": 7.78,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_tito/2_commons.jpg",
+     "move": "in",
+     "caption": "Josip Broz Tito",
+     "dur": 10.58,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_tito_cadillac/3_openverse.jpg",
+     "move": "up",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_eldorado53/3_commons.jpg",
+     "move": "left",
+     "dur": 7.48,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_eldorado53/1_commons.jpg",
+     "move": "out",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_eldorado53/4_openverse.jpg",
+     "move": "out",
+     "dur": 11.98,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_eldorado53/2_openverse.jpg",
+     "move": "down",
+     "dur": 10.08,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 7,
+     "name": "Maserati 5000 GT",
+     "photo": "a/m_maserati5000/2_openverse.jpg",
+     "credit": "Foto: Rex Gray \u00b7 CC BY 2.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "Ir\u00e1n",
+     "sub": "el capricho del sha",
+     "dur": 3.56,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_shah/4_commons.jpg",
+     "move": "in",
+     "caption": "Mohammad Reza Pahlavi|sha de Ir\u00e1n",
+     "dur": 11.2,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_maserati5000/1_openverse.jpg",
+     "move": "in",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_maserati5000/5_openverse.jpg",
+     "move": "right",
+     "dur": 11.84,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_maserati5000/3_openverse.jpg",
+     "move": "left",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_maserati5000/6_openverse.jpg",
+     "move": "in",
+     "dur": 7.78,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_shah/1_commons.jpg",
+     "move": "out",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_maserati5000/4_openverse.jpg",
+     "move": "right",
+     "dur": 10.362,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch03.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 6,
+     "name": "ZIL-111",
+     "photo": "a/m_zil111/3_commons.jpg",
+     "credit": "Foto: Stas Kozlovskiy \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "Cuba",
+     "sub": "el regalo del Kremlin a Fidel Castro",
+     "dur": 4.18,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_cuba/1_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 12.04,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_zil111/1_commons.jpg",
+     "move": "in",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_zil111/5_commons.jpg",
+     "move": "up",
+     "dur": 12.84,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_havana_cars/1_commons.jpg",
+     "move": "up",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_cuba/3_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.78,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_zil111/2_openverse.jpg",
+     "move": "out",
+     "dur": 10.56,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_havana_cars/2_openverse.jpg",
+     "move": "down",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_cuba/4_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.84,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 5,
+     "name": "Mercedes-Benz 600",
+     "photo": "a/m_mb600/4_commons.jpg",
+     "credit": "Foto: Pedro Ribeiro Sim\u00f5es from Lisboa, Portug \u00b7 CC BY 2.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "1963 \u2013 1981",
+     "sub": "el coche de los dictadores",
+     "dur": 4.4,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_mb600/2_openverse.jpg",
+     "move": "in",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_zil111/6_commons.jpg",
+     "move": "out",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_zil111/7_commons.jpg",
+     "move": "down",
+     "dur": 10.64,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_mb600/3_openverse.jpg",
+     "move": "left",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_zil111/8_openverse.jpg",
+     "move": "in",
+     "dur": 4.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_mb600/5_openverse.jpg",
+     "move": "out",
+     "dur": 5.68,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_idi_amin_car/1_commons.jpg",
+     "move": "right",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_fleetwood70/4_openverse.jpg",
+     "move": "left",
+     "dur": 9.14,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Al menos diez Mercedes 600, comprados en secreto.",
+     "highlight": "EN SECRETO",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_havana_zil_1.jpg",
+     "move": "out",
+     "dur": 4.18,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "< 3.000",
+     "label": "Mercedes-Benz 600 fabricados \u00b7 1963\u20131981",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Mercedes-Benz",
+     "dur": 6.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_mb600/6_openverse.jpg",
+     "move": "in",
+     "dur": 11.788,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch04.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/m_mb600/7_commons.jpg",
+     "move": "up",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_fleetwood70/5_openverse.jpg",
+     "move": "right",
+     "dur": 12.12,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Y aqu\u00ed, Espa\u00f1a tiene mucho que decir.",
+     "highlight": "ESPA\u00d1A",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 3.78,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 4,
+     "name": "Cadillac Fleetwood 75",
+     "photo": "a/m_fleetwood70/2_commons.jpg",
+     "credit": "Foto: Hugh Llewelyn \u00b7 CC BY-SA 2.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "Espa\u00f1a",
+     "sub": "los Cadillac de Franco",
+     "dur": 3.26,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_franco/2_commons.jpg",
+     "move": "in",
+     "caption": "Francisco Franco",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_el_pardo/1_commons.jpg",
+     "move": "in",
+     "dur": 6.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_fleetwood70/1_openverse.jpg",
+     "move": "out",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_fleetwood70/6_commons.jpg",
+     "move": "up",
+     "dur": 11.4,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_salamanca_museum/2_commons.jpg",
+     "move": "in",
+     "caption": "Museo de la Automoci\u00f3n|Salamanca",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_salamanca_museum/1_commons.jpg",
+     "move": "out",
+     "dur": 6.928,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_fleetwood70/3_openverse.jpg",
+     "move": "down",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_fleetwood70/7_openverse.jpg",
+     "move": "down",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_fleetwood70/8_openverse.jpg",
+     "move": "in",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_franco_motorcade_1.jpg",
+     "move": "left",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_el_pardo/2_commons.jpg",
+     "move": "out",
+     "dur": 4.772,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 3,
+     "name": "Pegaso Z-102 C\u00fapula",
+     "photo": "a/m_pegaso_cupula/2_openverse.jpg",
+     "credit": "Foto: Rutger van der Maar \u00b7 CC BY 2.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "Hecho en Espa\u00f1a",
+     "sub": "el coche del dictador Trujillo",
+     "dur": 10.58,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_trujillo/3_commons.jpg",
+     "move": "in",
+     "caption": "Rafael Le\u00f3nidas Trujillo",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_trujillo/1_commons.jpg",
+     "move": "right",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_santo_domingo/1_commons.jpg",
+     "move": "in",
+     "dur": 9.52,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_pegaso_cupula/3_commons.jpg",
+     "move": "in",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_pegaso_cupula/5_commons.jpg",
+     "move": "up",
+     "dur": 9.42,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_belair57/5_commons.jpg",
+     "move": "in",
+     "caption": "Chevrolet Bel Air|1957",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_belair57/1_commons.jpg",
+     "move": "out",
+     "dur": 5.4,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "\u224860",
+     "label": "impactos de bala \u00b7 30 de mayo de 1961",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "prensa dominicana",
+     "dur": 7.18,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_pegaso_cupula/4_openverse.jpg",
+     "move": "left",
+     "dur": 6.717,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch05.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 2,
+     "name": "Dodge 3700 GT",
+     "photo": "a/m_dodge3700/1_commons.jpg",
+     "credit": "Foto: Spanish Coches \u00b7 CC BY 2.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "Hecho en Espa\u00f1a",
+     "sub": "el coche de Carrero Blanco",
+     "dur": 10.08,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_carrero/1_commons.jpg",
+     "move": "in",
+     "caption": "Luis Carrero Blanco",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_carrero/3_commons.jpg",
+     "move": "down",
+     "dur": 5.96,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_dodge3700/10_openverse.jpg",
+     "move": "out",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_dodge3700/5_commons.jpg",
+     "move": "in",
+     "dur": 4.48,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_dodge3700/2_openverse.jpg",
+     "move": "right",
+     "dur": 9.82,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "20 de diciembre de 1973",
+     "highlight": "1973",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_dodge3700/8_openverse.jpg",
+     "move": "left",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_villaverde/1_commons.jpg",
+     "move": "out",
+     "dur": 6.84,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_dodge3700/3_commons.jpg",
+     "move": "in",
+     "dur": 5.94,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_dodge3700/4_openverse.jpg",
+     "move": "up",
+     "dur": 11.081,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch06.flac",
+   "lead_in": 0,
+   "tail": 2.5,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 1,
+     "name": "Rolls-Royce Phantom IV",
+     "photo": "a/m_phantom4/7_openverse.jpg",
+     "credit": "Foto: aldenjewell \u00b7 CC BY 2.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "Reino Unido \u00b7 1950",
+     "sub": "solo 18 en el mundo",
+     "dur": 4.58,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_phantom4/10_commons.jpg",
+     "move": "out",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_phantom4/2_openverse.jpg",
+     "move": "right",
+     "dur": 11.92,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "18",
+     "label": "Rolls-Royce Phantom IV fabricados \u00b7 1950\u20131956",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Rolls-Royce",
+     "dur": 12.04,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "3 de 18",
+     "label": "Phantom IV para Francisco Franco \u00b7 1952",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Patrimonio Nacional",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_phantom4/3_commons.jpg",
+     "move": "in",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_phantom4/6_commons.jpg",
+     "move": "up",
+     "dur": 8.54,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_phantom4/11_commons.jpg",
+     "move": "down",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_phantom4/8_commons.jpg",
+     "move": "out",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_rolls_parade_1.jpg",
+     "move": "down",
+     "dur": 6.64,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_phantom4/12_openverse.jpg",
+     "move": "in",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_guardia_real/4_openverse.jpg",
+     "move": "in",
+     "dur": 4.36,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_guardia_real/3_commons.jpg",
+     "move": "in",
+     "caption": "Guardia Real|El Pardo",
+     "dur": 6.52,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_guardia_real/2_openverse.jpg",
+     "move": "left",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_guardia_real/6_commons.jpg",
+     "move": "left",
+     "dur": 6.53,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Del dictador\u2026 al rey.",
+     "highlight": "REY",
+     "size": 140,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 10.73,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_zil111/4_openverse.jpg",
+     "move": "out",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_castro/5_openverse.jpg",
+     "move": "out",
+     "dur": 7.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_phantom4/1_commons.jpg",
+     "move": "right",
+     "dur": 11.28,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Suscr\u00edbete",
+     "sub": "historias de coches cl\u00e1sicos",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 8.404,
+     "fixed": false,
+     "fade_out": 0
+    }
+   ]
+  }
+ ],
+ "size": [
+  1920,
+  1080
+ ],
+ "theme": "periodico",
+ "subtitles": "ES06.ass"
+}

@@ -1,0 +1,14 @@
+{
+ "berlin": [
+  "c_berlin/1",
+  "c_berlin/2",
+  "c_berlin/3",
+  "c_berlin/5"
+ ],
+ "moscow": [
+  "c_moscow/1"
+ ],
+ "_generic": [
+  "c_berlin/1"
+ ]
+}

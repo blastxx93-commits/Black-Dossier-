@@ -1,0 +1,15 @@
+{
+ "parade": [
+  "c_parade/5",
+  "c_spain/1",
+  "c_limousine/1"
+ ],
+ "cuba": [
+  "c_cuba/1",
+  "c_cuba/3",
+  "c_cuba/4"
+ ],
+ "_generic": [
+  "c_parade/5"
+ ]
+}

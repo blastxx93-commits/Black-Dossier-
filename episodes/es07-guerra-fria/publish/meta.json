@@ -1,0 +1,27 @@
+{
+ "lang": "es",
+ "tagline": "Historia real del automóvil, con fuentes.",
+ "compact_credits": true,
+ "credits_file": "episodes/es07-guerra-fria/publish/creditos_completos.txt",
+ "other_line": "Imágenes de archivo: Wikimedia Commons, Openverse y Universal Newsreels (dominio público, Internet Archive). Algunas escenas son ilustraciones generadas por IA (el paso fronterizo de noche, el carril ZIL, Camp David y el Volga del KGB), no fotografías reales.",
+ "intro": "Durante la Guerra Fría hubo coches para huir, coches para vigilar y coches para que los jefes del Partido vivieran como reyes. El Trabant y sus quince años de espera, el SEAT 600 y su gemelo yugoslavo, el Tatra 603, la leyenda del Volga negro, el Chaika, el SEAT 124 que era el mismo coche que el Lada, las limusinas ZIL con carril propio, los Volvo de «Volvogrado», el Austin-Healey que pasó por debajo de la barrera del Checkpoint Charlie, el Isetta que escondía personas, el Lincoln que Nixon le regaló a Brézhnev… y el Volga V8 del KGB.\n\nVídeo divulgativo basado en fuentes publicadas. Los datos disputados se indican como tales. Algunas escenas son recreaciones generadas por IA.",
+ "chapters": [
+  "La fuga del Checkpoint Charlie",
+  "12 · Trabant y 11 · SEAT 600 / Zastava 750",
+  "10 · Tatra 603 y 9 · el Volga negro",
+  "8 · GAZ Chaika y 7 · SEAT 124 / Lada",
+  "6 · ZIL-114 y 5 · Volvo 264 TE",
+  "4 · Austin-Healey Sprite y 3 · BMW Isetta",
+  "2 · el Lincoln de Nixon y Brézhnev",
+  "1 · GAZ-23, el Volga del KGB"
+ ],
+ "sources": [
+  "Wikipedia: Trabant; Zastava 750; Tatra 603; Black Volga; GAZ Chaika; VAZ-2101; ZIL-114",
+  "Za Rulem / Autocade: GAZ-23",
+  "Jalopnik / Schwäbische Zeitung: Volvo 264 TE y Wandlitz",
+  "Hagerty / History.co.uk: Heinz Meixner y el Austin-Healey Sprite (1963)",
+  "BMW / Museo del Muro de Berlín: la fuga en Isetta",
+  "Richard Nixon Foundation: el Lincoln de Brézhnev; Museo del Motor de Riga"
+ ],
+ "tags_line": "#guerrafria #cochessovieticos #trabant #kgb #cochesclasicos"
+}

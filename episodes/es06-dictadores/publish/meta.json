@@ -1,0 +1,28 @@
+{
+ "lang": "es",
+ "tagline": "Historia real del automóvil, con fuentes.",
+ "compact_credits": true,
+ "credits_file": "episodes/es06-dictadores/publish/creditos_completos.txt",
+ "other_line": "Imágenes de archivo: Wikimedia Commons, Openverse y Universal Newsreels (dominio público, Internet Archive). Algunas escenas son ilustraciones generadas por IA (comitivas, desfiles y garajes), no fotografías reales.",
+ "intro": "Los dictadores del siglo XX tenían algo en común: necesitaban que el pueblo los viera pasar. Del ZIS-110 de Stalin y la limusina Hongqi de Mao al Cadillac de Tito, el Maserati del sha de Persia, el ZIL que el Kremlin regaló a Fidel Castro y el Mercedes 600 de Idi Amin y Kim Il-sung. Y en España: los Cadillac de Franco, el Pegaso Cúpula del dictador Trujillo, el Dodge 3700 GT de Carrero Blanco y los Rolls-Royce Phantom IV de Franco, de los que solo se fabricaron 18 en el mundo… y que hoy llevan a la Familia Real.\n\nVídeo divulgativo basado en fuentes publicadas. Los datos disputados se indican como tales. Algunas escenas son recreaciones generadas por IA.",
+ "chapters": [
+  "El Rolls-Royce del dictador que hoy lleva al rey",
+  "10 · ZIS-110 (Stalin) y 9 · Hongqi CA72 (Mao)",
+  "8 · Cadillac Eldorado (Tito) y 7 · Maserati 5000 GT (el sha)",
+  "6 · ZIL-111 (Fidel Castro) y 5 · Mercedes-Benz 600",
+  "4 · Cadillac Fleetwood (Franco) y 3 · Pegaso Cúpula (Trujillo)",
+  "2 · Dodge 3700 GT (Carrero Blanco)",
+  "1 · Rolls-Royce Phantom IV (Franco)"
+ ],
+ "sources": [
+  "Wikipedia: Rolls-Royce Phantom IV; eldiario.es y coches.com: los Rolls-Royce de Franco",
+  "Wikipedia: ZIS-110; ZIL-111; Hongqi CA72",
+  "Parque Nacional de Brioni: el Cadillac de Tito",
+  "Wikipedia: Mercedes-Benz 600; SlashGear",
+  "Museo de la Automoción de Salamanca",
+  "Prensa dominicana (Diario Libre, El Caribe): 30 de mayo de 1961",
+  "Wikipedia: Barreiros; Dodge 3700",
+  "Wikipedia: Maserati 5000 GT"
+ ],
+ "tags_line": "#cochesdedictadores #franco #rollsroyce #cochesclasicos #historia"
+}

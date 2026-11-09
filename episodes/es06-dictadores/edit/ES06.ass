@@ -1,0 +1,369 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Doc,Inter SemiBold,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0.5,0,1,2.4,1.2,2,200,200,62,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.01,Doc,,0,0,0,,Madrid, junio de 2014.
+Dialogue: 0,0:00:02.06,0:00:04.41,Doc,,0,0,0,,Un nuevo rey recorre las\Ncalles de la capital,
+Dialogue: 0,0:00:04.46,0:00:07.63,Doc,,0,0,0,,de pie, saludando a la multitud\Ndesde un descapotable negro.
+Dialogue: 0,0:00:07.68,0:00:09.77,Doc,,0,0,0,,Miles de personas lo graban con el móvil.
+Dialogue: 0,0:00:09.82,0:00:11.51,Doc,,0,0,0,,Casi nadie se fija en el coche.
+Dialogue: 0,0:00:11.56,0:00:13.97,Doc,,0,0,0,,Pero ese coche tiene más de sesenta años.
+Dialogue: 0,0:00:14.02,0:00:17.37,Doc,,0,0,0,,Es un Rolls-Royce del que solo se\Nfabricaron dieciocho unidades en todo el
+Dialogue: 0,0:00:17.42,0:00:17.93,Doc,,0,0,0,,mundo.
+Dialogue: 0,0:00:17.98,0:00:19.73,Doc,,0,0,0,,Y su primer dueño no fue un rey.
+Dialogue: 0,0:00:19.78,0:00:20.77,Doc,,0,0,0,,Fue un dictador.
+Dialogue: 0,0:00:20.82,0:00:22.65,Doc,,0,0,0,,Los hombres que mandaban sin elecciones,
+Dialogue: 0,0:00:22.70,0:00:25.53,Doc,,0,0,0,,sin oposición y sin límites\Ntenían algo en común:
+Dialogue: 0,0:00:25.58,0:00:27.95,Doc,,0,0,0,,necesitaban que el pueblo los viera pasar.
+Dialogue: 0,0:00:28.00,0:00:31.83,Doc,,0,0,0,,Coches enormes, blindados, regalados\Nentre ellos como si fueran medallas.
+Dialogue: 0,0:00:31.88,0:00:34.57,Doc,,0,0,0,,Algunos de esos coches salieron\Nde fábricas americanas.
+Dialogue: 0,0:00:34.62,0:00:35.97,Doc,,0,0,0,,Otros, de la Unión Soviética.
+Dialogue: 0,0:00:36.02,0:00:38.55,Doc,,0,0,0,,Y dos de ellos se fabricaron en España.
+Dialogue: 0,0:00:38.60,0:00:41.07,Doc,,0,0,0,,Y detrás de cada uno de esos\Ncoches hay una historia:
+Dialogue: 0,0:00:41.12,0:00:43.51,Doc,,0,0,0,,regalos entre tiranos, copias secretas,
+Dialogue: 0,0:00:43.56,0:00:48.57,Doc,,0,0,0,,compras a escondidas, atentados… y\Nalgún final que nadie se esperaba.
+Dialogue: 0,0:00:48.62,0:00:51.88,Doc,,0,0,0,,Hoy vas a conocer los diez coches de\Nlos dictadores más temidos del siglo
+Dialogue: 0,0:00:51.93,0:00:52.35,Doc,,0,0,0,,veinte.
+Dialogue: 0,0:00:52.40,0:00:54.07,Doc,,0,0,0,,Del más curioso al más sorprendente.
+Dialogue: 0,0:00:54.12,0:00:56.72,Doc,,0,0,0,,Y el número uno todavía sigue en servicio.
+Dialogue: 0,0:00:57.44,0:00:58.45,Doc,,0,0,0,,Número diez.
+Dialogue: 0,0:00:58.50,0:01:03.11,Doc,,0,0,0,,El ZIS-110, el coche de Stalin.
+Dialogue: 0,0:01:03.16,0:01:05.51,Doc,,0,0,0,,Moscú, finales de los años cuarenta.
+Dialogue: 0,0:01:05.56,0:01:07.65,Doc,,0,0,0,,La Unión Soviética acaba\Nde ganar la guerra,
+Dialogue: 0,0:01:07.70,0:01:10.25,Doc,,0,0,0,,pero sus fábricas de coches\Nestán casi destruidas.
+Dialogue: 0,0:01:10.30,0:01:14.01,Doc,,0,0,0,,Y Iósif Stalin quiere una\Nlimusina digna del vencedor.
+Dialogue: 0,0:01:14.06,0:01:15.67,Doc,,0,0,0,,La solución fue copiar.
+Dialogue: 0,0:01:15.72,0:01:17.75,Doc,,0,0,0,,Los ingenieros de la\Nfábrica ZIS, en Moscú,
+Dialogue: 0,0:01:17.80,0:01:21.27,Doc,,0,0,0,,tomaron como modelo uno de los coches\Nde lujo americanos más admirados de
+Dialogue: 0,0:01:21.32,0:01:23.81,Doc,,0,0,0,,antes de la guerra, el\NPackard Super Eight.
+Dialogue: 0,0:01:23.86,0:01:25.65,Doc,,0,0,0,,El resultado fue el ZIS-110:
+Dialogue: 0,0:01:25.70,0:01:27.89,Doc,,0,0,0,,más de seis metros de coche negro,
+Dialogue: 0,0:01:27.94,0:01:31.71,Doc,,0,0,0,,un motor de ocho cilindros en línea y\Nun interior pensado para que el pasajero
+Dialogue: 0,0:01:31.76,0:01:33.55,Doc,,0,0,0,,de atrás viajara como un zar.
+Dialogue: 0,0:01:33.60,0:01:36.07,Doc,,0,0,0,,Se fabricó hasta 1958.
+Dialogue: 0,0:01:36.12,0:01:38.21,Doc,,0,0,0,,Lo usaban los altos cargos del Partido,
+Dialogue: 0,0:01:38.26,0:01:40.27,Doc,,0,0,0,,los ministros y los invitados de honor.
+Dialogue: 0,0:01:40.32,0:01:42.31,Doc,,0,0,0,,Para el propio Stalin, según las fuentes,
+Dialogue: 0,0:01:42.36,0:01:44.33,Doc,,0,0,0,,se preparó una versión aún más extrema,
+Dialogue: 0,0:01:44.38,0:01:47.03,Doc,,0,0,0,,blindada por completo y\Ncon cristales muy gruesos.
+Dialogue: 0,0:01:47.08,0:01:50.53,Doc,,0,0,0,,Stalin tenía miedo de casi todo,\Ny sobre todo de que lo mataran.
+Dialogue: 0,0:01:50.58,0:01:52.75,Doc,,0,0,0,,Por eso nunca viajaba en un solo coche.
+Dialogue: 0,0:01:52.80,0:01:55.67,Doc,,0,0,0,,Salía del Kremlin en una\Ncaravana de limusinas idénticas,
+Dialogue: 0,0:01:55.72,0:01:58.67,Doc,,0,0,0,,y nadie en la calle podía\Nsaber en cuál de ellas iba él.
+Dialogue: 0,0:01:58.72,0:02:01.51,Doc,,0,0,0,,Esa idea, la caravana de\Ncoches negros iguales,
+Dialogue: 0,0:02:01.56,0:02:04.33,Doc,,0,0,0,,la copiarían después casi\Ntodos los dictadores del mundo.
+Dialogue: 0,0:02:04.38,0:02:06.30,Doc,,0,0,0,,Incluido el siguiente de la lista.
+Dialogue: 0,0:02:06.35,0:02:07.79,Doc,,0,0,0,,Número nueve.
+Dialogue: 0,0:02:07.84,0:02:11.99,Doc,,0,0,0,,El Hongqi CA72, la Bandera Roja de Mao.
+Dialogue: 0,0:02:12.04,0:02:14.43,Doc,,0,0,0,,China, 1958.
+Dialogue: 0,0:02:14.48,0:02:17.01,Doc,,0,0,0,,Mao Zedong ha lanzado\Nel Gran Salto Adelante,
+Dialogue: 0,0:02:17.06,0:02:20.25,Doc,,0,0,0,,un plan para convertir en pocos años\Nun país campesino en una potencia
+Dialogue: 0,0:02:20.30,0:02:20.77,Doc,,0,0,0,,industrial.
+Dialogue: 0,0:02:20.82,0:02:22.51,Doc,,0,0,0,,Y en medio de ese plan,
+Dialogue: 0,0:02:22.56,0:02:25.95,Doc,,0,0,0,,alguien pensó que la China comunista no\Npodía seguir paseando a sus líderes en
+Dialogue: 0,0:02:26.00,0:02:27.19,Doc,,0,0,0,,coches soviéticos.
+Dialogue: 0,0:02:27.24,0:02:29.29,Doc,,0,0,0,,En la fábrica FAW de Changchun,
+Dialogue: 0,0:02:29.34,0:02:30.53,Doc,,0,0,0,,en el norte del país,
+Dialogue: 0,0:02:30.58,0:02:33.19,Doc,,0,0,0,,un grupo de ingenieros\Nrecibió un encargo urgente:
+Dialogue: 0,0:02:33.24,0:02:35.21,Doc,,0,0,0,,construir la primera limusina china.
+Dialogue: 0,0:02:35.26,0:02:36.77,Doc,,0,0,0,,No tenían experiencia.
+Dialogue: 0,0:02:36.82,0:02:37.85,Doc,,0,0,0,,Así que, según las fuentes,
+Dialogue: 0,0:02:37.90,0:02:43.19,Doc,,0,0,0,,desmontaron pieza a pieza un Chrysler\NImperial americano de 1955 y lo usaron
+Dialogue: 0,0:02:43.24,0:02:44.39,Doc,,0,0,0,,como referencia.
+Dialogue: 0,0:02:44.44,0:02:48.83,Doc,,0,0,0,,En agosto de 1958 presentaron\Nel primer prototipo.
+Dialogue: 0,0:02:48.88,0:02:51.89,Doc,,0,0,0,,Lo llamaron Hongqi, que\Nsignifica «bandera roja».
+Dialogue: 0,0:02:51.94,0:02:53.45,Doc,,0,0,0,,Tenía un motor V8,
+Dialogue: 0,0:02:53.50,0:02:57.11,Doc,,0,0,0,,puertas traseras que se abrían al revés\Ny una calandra inspirada en un abanico
+Dialogue: 0,0:02:57.16,0:02:58.53,Doc,,0,0,0,,tradicional chino.
+Dialogue: 0,0:02:58.58,0:03:01.53,Doc,,0,0,0,,Los faros traseros tenían\Nforma de farolillo.
+Dialogue: 0,0:03:01.58,0:03:04.67,Doc,,0,0,0,,Lo curioso es que no está nada\Nclaro que Mao lo usara mucho.
+Dialogue: 0,0:03:04.72,0:03:08.01,Doc,,0,0,0,,Algunas fuentes dicen que la versión\Ndescapotable lo llevó en el desfile del
+Dialogue: 0,0:03:08.06,0:03:12.35,Doc,,0,0,0,,décimo aniversario de la\NRepública Popular, en 1959.
+Dialogue: 0,0:03:12.40,0:03:16.41,Doc,,0,0,0,,Otras aseguran que Mao no se subió a\Nun Hongqi de verdad hasta años después.
+Dialogue: 0,0:03:16.46,0:03:18.89,Doc,,0,0,0,,Lo que sí es seguro es que\Nse fabricaron muy pocos,
+Dialogue: 0,0:03:18.94,0:03:20.09,Doc,,0,0,0,,apenas unos cientos,
+Dialogue: 0,0:03:20.14,0:03:23.51,Doc,,0,0,0,,y que durante décadas el Hongqi fue el\Ncoche que solo podían ver de cerca los
+Dialogue: 0,0:03:23.56,0:03:26.20,Doc,,0,0,0,,jefes del Partido y los\Nvisitantes extranjeros.
+Dialogue: 0,0:03:26.89,0:03:27.86,Doc,,0,0,0,,Número ocho.
+Dialogue: 0,0:03:27.91,0:03:31.26,Doc,,0,0,0,,El Cadillac Eldorado de Tito.
+Dialogue: 0,0:03:31.31,0:03:34.74,Doc,,0,0,0,,Yugoslavia era un país comunista,\Npero no obedecía a Moscú.
+Dialogue: 0,0:03:34.79,0:03:36.92,Doc,,0,0,0,,Su líder, el mariscal Josip Broz Tito,
+Dialogue: 0,0:03:36.97,0:03:42.02,Doc,,0,0,0,,rompió con Stalin en 1948 y se dedicó\Ndurante décadas a jugar a dos bandas
+Dialogue: 0,0:03:42.07,0:03:43.50,Doc,,0,0,0,,entre el Este y el Oeste.
+Dialogue: 0,0:03:43.55,0:03:45.32,Doc,,0,0,0,,Y eso se notaba en su garaje.
+Dialogue: 0,0:03:45.37,0:03:50.20,Doc,,0,0,0,,En 1953, un grupo de emigrantes croatas\Nque vivían en Canadá le regaló un
+Dialogue: 0,0:03:50.25,0:03:53.10,Doc,,0,0,0,,coche que en Yugoslavia\Nparecía venido de otro planeta:
+Dialogue: 0,0:03:53.15,0:03:55.08,Doc,,0,0,0,,un Cadillac Eldorado descapotable,
+Dialogue: 0,0:03:55.13,0:03:57.63,Doc,,0,0,0,,el coche de lujo americano\Nmás llamativo del momento.
+Dialogue: 0,0:03:57.68,0:04:01.80,Doc,,0,0,0,,Parabrisas panorámico, cromados\Npor todas partes y un V8 enorme.
+Dialogue: 0,0:04:01.85,0:04:06.00,Doc,,0,0,0,,Tito se lo llevó a su refugio favorito,\Nlas islas Brioni, en el Adriático.
+Dialogue: 0,0:04:06.05,0:04:08.94,Doc,,0,0,0,,Allí recibía a reyes,\Npresidentes y estrellas de cine.
+Dialogue: 0,0:04:08.99,0:04:11.32,Doc,,0,0,0,,Y, según el propio parque\Nnacional de las islas,
+Dialogue: 0,0:04:11.37,0:04:18.08,Doc,,0,0,0,,lo usó para pasear por ellas desde 1953\Nhasta 1979, un año antes de su muerte.
+Dialogue: 0,0:04:18.13,0:04:20.46,Doc,,0,0,0,,Por aquel Cadillac pasaron, de copiloto,
+Dialogue: 0,0:04:20.51,0:04:22.78,Doc,,0,0,0,,algunas de las personas\Nmás famosas del mundo.
+Dialogue: 0,0:04:22.83,0:04:26.64,Doc,,0,0,0,,Hoy el coche sigue allí, en\NBrioni, expuesto delante del museo.
+Dialogue: 0,0:04:26.69,0:04:30.18,Doc,,0,0,0,,Un dictador comunista paseando a sus\Ninvitados en el símbolo más claro del
+Dialogue: 0,0:04:30.23,0:04:31.66,Doc,,0,0,0,,capitalismo americano.
+Dialogue: 0,0:04:31.71,0:04:32.86,Doc,,0,0,0,,Así era Tito.
+Dialogue: 0,0:04:32.91,0:04:34.36,Doc,,0,0,0,,Número siete.
+Dialogue: 0,0:04:34.41,0:04:36.42,Doc,,0,0,0,,El Maserati del Sha de Persia.
+Dialogue: 0,0:04:36.47,0:04:38.58,Doc,,0,0,0,,Irán, finales de los cincuenta.
+Dialogue: 0,0:04:38.63,0:04:42.16,Doc,,0,0,0,,El sha Mohammad Reza Pahlavi\Ngobierna el país con mano de hierro,
+Dialogue: 0,0:04:42.21,0:04:44.96,Doc,,0,0,0,,con una policía secreta\Ntemida en todo Oriente Medio.
+Dialogue: 0,0:04:45.01,0:04:47.62,Doc,,0,0,0,,Y tiene una pasión: los coches rápidos.
+Dialogue: 0,0:04:47.67,0:04:50.44,Doc,,0,0,0,,A finales de los cincuenta,\Nsegún la historia de la marca,
+Dialogue: 0,0:04:50.49,0:04:52.74,Doc,,0,0,0,,el sha le pidió a Maserati\Nalgo que no existía:
+Dialogue: 0,0:04:52.79,0:04:55.78,Doc,,0,0,0,,un coche de calle con el\Nmotor de un coche de carreras.
+Dialogue: 0,0:04:55.83,0:04:57.58,Doc,,0,0,0,,Maserati aceptó el reto.
+Dialogue: 0,0:04:57.63,0:05:01.56,Doc,,0,0,0,,Tomó el V8 del 450S, un\Ndeportivo de competición,
+Dialogue: 0,0:05:01.61,0:05:04.58,Doc,,0,0,0,,y lo metió en un gran turismo\Nde lujo carrozado por Touring,
+Dialogue: 0,0:05:04.63,0:05:08.46,Doc,,0,0,0,,el mismo carrocero\Nitaliano del Pegaso Z-102.
+Dialogue: 0,0:05:08.51,0:05:10.88,Doc,,0,0,0,,El resultado fue el Maserati 5000 GT,
+Dialogue: 0,0:05:10.93,0:05:13.58,Doc,,0,0,0,,uno de los coches más\Nrápidos y caros de su época.
+Dialogue: 0,0:05:13.63,0:05:15.26,Doc,,0,0,0,,El primero fue para el sha.
+Dialogue: 0,0:05:15.31,0:05:18.46,Doc,,0,0,0,,Y luego, como ocurre siempre con\Nlos caprichos de los poderosos,
+Dialogue: 0,0:05:18.51,0:05:20.58,Doc,,0,0,0,,otros millonarios quisieron uno igual.
+Dialogue: 0,0:05:20.63,0:05:25.24,Doc,,0,0,0,,Se hicieron muy pocas unidades, cada\Nuna con una carrocería distinta.
+Dialogue: 0,0:05:25.29,0:05:28.97,Doc,,0,0,0,,El sha llegó a reunir una de las\Nmayores colecciones de coches del mundo:
+Dialogue: 0,0:05:29.02,0:05:33.14,Doc,,0,0,0,,Rolls-Royce, Lamborghini,\NMercedes… En 1979,
+Dialogue: 0,0:05:33.19,0:05:35.34,Doc,,0,0,0,,la revolución lo obligó a huir del país.
+Dialogue: 0,0:05:35.39,0:05:37.18,Doc,,0,0,0,,Sus coches se quedaron en Teherán.
+Dialogue: 0,0:05:37.23,0:05:40.79,Doc,,0,0,0,,Muchos acabaron en un museo, y\Nalgunos todavía se pueden ver allí.
+Dialogue: 0,0:05:41.53,0:05:42.52,Doc,,0,0,0,,Número seis.
+Dialogue: 0,0:05:42.57,0:05:45.78,Doc,,0,0,0,,El ZIL de Fidel Castro.
+Dialogue: 0,0:05:45.83,0:05:48.56,Doc,,0,0,0,,Cuba, principios de los años sesenta.
+Dialogue: 0,0:05:48.61,0:05:50.12,Doc,,0,0,0,,La revolución ha triunfado,
+Dialogue: 0,0:05:50.17,0:05:53.58,Doc,,0,0,0,,Estados Unidos ha roto relaciones con\Nla isla y la Unión Soviética se ha
+Dialogue: 0,0:05:53.63,0:05:55.30,Doc,,0,0,0,,convertido en su gran aliado.
+Dialogue: 0,0:05:55.35,0:05:57.82,Doc,,0,0,0,,Y entre aliados, los regalos importan.
+Dialogue: 0,0:05:57.87,0:06:00.22,Doc,,0,0,0,,Nikita Jrushchov, el líder soviético,
+Dialogue: 0,0:06:00.27,0:06:02.80,Doc,,0,0,0,,le regaló a Fidel Castro un ZIL-111,
+Dialogue: 0,0:06:02.85,0:06:05.62,Doc,,0,0,0,,la limusina más exclusiva\Nde la Unión Soviética.
+Dialogue: 0,0:06:05.67,0:06:08.22,Doc,,0,0,0,,Era el coche del Kremlin:\Nmás de seis metros,
+Dialogue: 0,0:06:08.27,0:06:09.68,Doc,,0,0,0,,un V8 de seis litros,
+Dialogue: 0,0:06:09.73,0:06:13.74,Doc,,0,0,0,,cambio automático y un interior\Nreservado para los máximos dirigentes.
+Dialogue: 0,0:06:13.79,0:06:15.02,Doc,,0,0,0,,Según algunas fuentes,
+Dialogue: 0,0:06:15.07,0:06:17.94,Doc,,0,0,0,,el de Castro era una de las poquísimas\Nunidades descapotables que se
+Dialogue: 0,0:06:17.99,0:06:19.66,Doc,,0,0,0,,fabricaron.
+Dialogue: 0,0:06:19.71,0:06:20.72,Doc,,0,0,0,,En aquellos años,
+Dialogue: 0,0:06:20.77,0:06:24.10,Doc,,0,0,0,,la limusina soviética tenía un\Nsignificado político muy claro.
+Dialogue: 0,0:06:24.15,0:06:25.24,Doc,,0,0,0,,Hasta la revolución,
+Dialogue: 0,0:06:25.29,0:06:29.38,Doc,,0,0,0,,los coches del poder en Cuba eran\Namericanos, igual que casi todo en la isla.
+Dialogue: 0,0:06:29.43,0:06:31.30,Doc,,0,0,0,,Recibir un ZIL era dejar claro,
+Dialogue: 0,0:06:31.35,0:06:35.44,Doc,,0,0,0,,delante de todo el mundo, de\Nqué lado estaba ahora La Habana.
+Dialogue: 0,0:06:35.49,0:06:36.82,Doc,,0,0,0,,Imagínate la escena.
+Dialogue: 0,0:06:36.87,0:06:40.70,Doc,,0,0,0,,En una isla llena de Chevrolets y\NCadillacs americanos de los años cincuenta,
+Dialogue: 0,0:06:40.75,0:06:43.02,Doc,,0,0,0,,que ya no podían recibir\Npiezas por el embargo,
+Dialogue: 0,0:06:43.07,0:06:46.00,Doc,,0,0,0,,el comandante se paseaba\Nen una limusina soviética.
+Dialogue: 0,0:06:46.05,0:06:48.44,Doc,,0,0,0,,Pero la historia tiene\Nun final inesperado.
+Dialogue: 0,0:06:48.49,0:06:51.38,Doc,,0,0,0,,Décadas después, algunas de aquellas\Nlimusinas soviéticas que habían
+Dialogue: 0,0:06:51.43,0:06:55.02,Doc,,0,0,0,,pertenecido al Gobierno cubano terminaron\Nconvertidas en taxis para turistas
+Dialogue: 0,0:06:55.07,0:06:56.16,Doc,,0,0,0,,en La Habana.
+Dialogue: 0,0:06:56.21,0:06:57.66,Doc,,0,0,0,,Hoy, por unos cuantos pesos,
+Dialogue: 0,0:06:57.71,0:07:00.70,Doc,,0,0,0,,un visitante puede sentarse en el\Nmismo asiento que ocupó el hombre que
+Dialogue: 0,0:07:00.75,0:07:03.84,Doc,,0,0,0,,gobernó Cuba durante casi cincuenta años.
+Dialogue: 0,0:07:03.89,0:07:04.92,Doc,,0,0,0,,Número cinco.
+Dialogue: 0,0:07:04.97,0:07:08.24,Doc,,0,0,0,,El Mercedes 600, el\Ncoche de los dictadores.
+Dialogue: 0,0:07:08.29,0:07:11.07,Doc,,0,0,0,,Salón de Frankfurt, 1963.
+Dialogue: 0,0:07:11.12,0:07:15.30,Doc,,0,0,0,,Mercedes-Benz presenta el coche más\Ncaro y más avanzado que ha fabricado
+Dialogue: 0,0:07:15.35,0:07:17.32,Doc,,0,0,0,,nunca: el 600.
+Dialogue: 0,0:07:17.37,0:07:19.40,Doc,,0,0,0,,Un V8 de más de seis litros,
+Dialogue: 0,0:07:19.45,0:07:22.72,Doc,,0,0,0,,suspensión neumática y un sistema\Nhidráulico que abría y cerraba las
+Dialogue: 0,0:07:22.77,0:07:26.42,Doc,,0,0,0,,ventanillas, los asientos, el\Nmaletero y hasta las puertas.
+Dialogue: 0,0:07:26.47,0:07:28.20,Doc,,0,0,0,,En versión Pullman, alargada,
+Dialogue: 0,0:07:28.25,0:07:31.48,Doc,,0,0,0,,medía más de seis metros y podía\Nllevar seis o siete personas.
+Dialogue: 0,0:07:31.53,0:07:34.32,Doc,,0,0,0,,Algunas unidades eran descapotables\Nsolo en la parte trasera,
+Dialogue: 0,0:07:34.37,0:07:36.88,Doc,,0,0,0,,para que el pasajero\Npudiera saludar de pie.
+Dialogue: 0,0:07:36.93,0:07:38.84,Doc,,0,0,0,,Para hacerse una idea de su categoría:
+Dialogue: 0,0:07:38.89,0:07:44.28,Doc,,0,0,0,,en 1965, Mercedes preparó un 600\Nespecial para el papa Pablo VI,
+Dialogue: 0,0:07:44.33,0:07:47.80,Doc,,0,0,0,,con un asiento elevado en la parte trasera\Npara que los fieles pudieran verlo.
+Dialogue: 0,0:07:47.85,0:07:50.38,Doc,,0,0,0,,Y Elvis Presley tuvo otro.
+Dialogue: 0,0:07:50.43,0:07:54.78,Doc,,0,0,0,,Mercedes lo vendía a reyes, a papas,\Na estrellas de rock… y a dictadores.
+Dialogue: 0,0:07:54.83,0:07:56.06,Doc,,0,0,0,,Muchos dictadores.
+Dialogue: 0,0:07:56.11,0:07:59.40,Doc,,0,0,0,,El ugandés Idi Amin, uno de\Nlos más sanguinarios de África,
+Dialogue: 0,0:07:59.45,0:08:03.10,Doc,,0,0,0,,tenía uno, y hoy se puede ver en\Nel Museo de Uganda, en Kampala.
+Dialogue: 0,0:08:03.15,0:08:07.12,Doc,,0,0,0,,Según varias fuentes, el rumano\NNicolae Ceaușescu tenía otro.
+Dialogue: 0,0:08:07.17,0:08:10.72,Doc,,0,0,0,,El propio Tito tenía una versión\Ncon la parte trasera descapotable,
+Dialogue: 0,0:08:10.77,0:08:14.20,Doc,,0,0,0,,que salió a subasta en 2017.
+Dialogue: 0,0:08:14.25,0:08:17.46,Doc,,0,0,0,,Y luego está Kim Il-sung, el\Nfundador de Corea del Norte.
+Dialogue: 0,0:08:17.51,0:08:18.68,Doc,,0,0,0,,Según varias fuentes,
+Dialogue: 0,0:08:18.73,0:08:22.60,Doc,,0,0,0,,un agente de su régimen compró en secreto\Nen Europa al menos diez Mercedes 600
+Dialogue: 0,0:08:22.65,0:08:24.92,Doc,,0,0,0,,Pullman para él y su entorno.
+Dialogue: 0,0:08:24.97,0:08:27.38,Doc,,0,0,0,,En un país donde casi nadie tenía coche.
+Dialogue: 0,0:08:27.43,0:08:29.88,Doc,,0,0,0,,El Mercedes 600 se fabricó hasta 1981,
+Dialogue: 0,0:08:29.93,0:08:33.62,Doc,,0,0,0,,y salieron de la fábrica\Nmenos de tres mil unidades.
+Dialogue: 0,0:08:33.67,0:08:36.86,Doc,,0,0,0,,Hoy es uno de los clásicos más\Nbuscados por los coleccionistas.
+Dialogue: 0,0:08:36.91,0:08:38.82,Doc,,0,0,0,,Y también uno de los más incómodos:
+Dialogue: 0,0:08:38.87,0:08:42.22,Doc,,0,0,0,,es difícil encontrar un Mercedes\N600 cuya historia no pase,
+Dialogue: 0,0:08:42.27,0:08:44.61,Doc,,0,0,0,,en algún momento, por el\Ngaraje de un dictador.
+Dialogue: 0,0:08:45.34,0:08:47.21,Doc,,0,0,0,,Antes de seguir, piensa en algo.
+Dialogue: 0,0:08:47.26,0:08:49.53,Doc,,0,0,0,,Todos estos coches tienen\Nun detalle en común:
+Dialogue: 0,0:08:49.58,0:08:51.51,Doc,,0,0,0,,casi ninguno lo condujo su dueño.
+Dialogue: 0,0:08:51.56,0:08:53.49,Doc,,0,0,0,,Los dictadores iban siempre detrás,
+Dialogue: 0,0:08:53.54,0:08:54.89,Doc,,0,0,0,,en el asiento del pasajero,
+Dialogue: 0,0:08:54.94,0:08:57.89,Doc,,0,0,0,,protegidos por cristales\Ngruesos y rodeados de escoltas.
+Dialogue: 0,0:08:57.94,0:09:00.41,Doc,,0,0,0,,El coche no era para\Ndisfrutar de la carretera.
+Dialogue: 0,0:09:00.46,0:09:01.67,Doc,,0,0,0,,Era un escenario.
+Dialogue: 0,0:09:01.72,0:09:06.53,Doc,,0,0,0,,Una forma de aparecer ante el\Npueblo, saludar y desaparecer.
+Dialogue: 0,0:09:06.58,0:09:08.47,Doc,,0,0,0,,Y ahora llegamos a los cuatro primeros.
+Dialogue: 0,0:09:08.52,0:09:10.31,Doc,,0,0,0,,Y aquí, España tiene mucho que decir.
+Dialogue: 0,0:09:10.36,0:09:11.91,Doc,,0,0,0,,Número cuatro.
+Dialogue: 0,0:09:11.96,0:09:13.57,Doc,,0,0,0,,Los Cadillac de Franco.
+Dialogue: 0,0:09:13.62,0:09:15.87,Doc,,0,0,0,,En la España de los años\Ncincuenta y sesenta,
+Dialogue: 0,0:09:15.92,0:09:18.59,Doc,,0,0,0,,ver pasar un coche americano\Nera un acontecimiento.
+Dialogue: 0,0:09:18.64,0:09:21.75,Doc,,0,0,0,,Y el coche americano más famoso\Ndel país era el del Caudillo.
+Dialogue: 0,0:09:21.80,0:09:24.79,Doc,,0,0,0,,Francisco Franco tuvo varios\NCadillac a lo largo de su vida,
+Dialogue: 0,0:09:24.84,0:09:29.07,Doc,,0,0,0,,casi siempre negros, casi siempre\Nblindados, y siempre rodeados de escolta.
+Dialogue: 0,0:09:29.12,0:09:33.97,Doc,,0,0,0,,Uno de los que mejor se conservan\Nes un Cadillac Fleetwood 75 de 1970.
+Dialogue: 0,0:09:34.02,0:09:39.27,Doc,,0,0,0,,Una limusina enorme, de más de seis\Nmetros, con un V8 de casi ocho litros.
+Dialogue: 0,0:09:39.32,0:09:42.57,Doc,,0,0,0,,Franco lo usó para sus desplazamientos\Noficiales en los últimos años de su
+Dialogue: 0,0:09:42.62,0:09:43.31,Doc,,0,0,0,,vida.
+Dialogue: 0,0:09:43.36,0:09:49.47,Doc,,0,0,0,,Y cuando murió, en noviembre de\N1975, el coche pasó a la Casa Real.
+Dialogue: 0,0:09:49.52,0:09:52.31,Doc,,0,0,0,,Hoy se puede ver en el Museo\Nde la Automoción de Salamanca,
+Dialogue: 0,0:09:52.36,0:09:54.81,Doc,,0,0,0,,uno de los mejores museos\Nde coches de España.
+Dialogue: 0,0:09:54.86,0:09:57.55,Doc,,0,0,0,,Es una pieza que impresiona:\Ncarrocería negra,
+Dialogue: 0,0:09:57.60,0:10:01.09,Doc,,0,0,0,,cristales gruesos y un interior pensado\Npara que el ocupante de atrás pudiera
+Dialogue: 0,0:10:01.14,0:10:05.40,Doc,,0,0,0,,trabajar, leer y, sobre\Ntodo, sentirse seguro.
+Dialogue: 0,0:10:05.45,0:10:11.48,Doc,,0,0,0,,Porque Franco, como
+Dialogue: 0,0:10:11.53,0:10:17.57,Doc,,0,0,0,,Stalin, tenía muy
+Dialogue: 0,0:10:17.62,0:10:23.65,Doc,,0,0,0,,presente que un
+Dialogue: 0,0:10:23.70,0:10:29.74,Doc,,0,0,0,,coche podía ser
+Dialogue: 0,0:10:29.79,0:10:35.82,Doc,,0,0,0,,el lugar más
+Dialogue: 0,0:10:35.87,0:10:41.91,Doc,,0,0,0,,peligroso del mundo.
+Dialogue: 0,0:10:41.96,0:10:46.17,Doc,,0,0,0,,Y la historia le acabaría dando\Nla razón, aunque no con él.
+Dialogue: 0,0:10:46.22,0:10:47.27,Doc,,0,0,0,,Número tres.
+Dialogue: 0,0:10:47.32,0:10:50.17,Doc,,0,0,0,,El Pegaso del dictador del Caribe.
+Dialogue: 0,0:10:50.22,0:10:54.25,Doc,,0,0,0,,Si viste nuestro vídeo sobre el\NPegaso Z-102, ya conoces este coche.
+Dialogue: 0,0:10:54.30,0:10:56.75,Doc,,0,0,0,,Pero merece estar en esta lista.
+Dialogue: 0,0:10:56.80,0:10:59.39,Doc,,0,0,0,,República Dominicana, años cincuenta.
+Dialogue: 0,0:10:59.44,0:11:02.85,Doc,,0,0,0,,Rafael Leónidas Trujillo lleva\Nmás de veinte años en el poder.
+Dialogue: 0,0:11:02.90,0:11:06.31,Doc,,0,0,0,,Ha cambiado el nombre de la capital\Npor el suyo: Ciudad Trujillo.
+Dialogue: 0,0:11:06.36,0:11:08.25,Doc,,0,0,0,,Hay estatuas suyas por todas partes.
+Dialogue: 0,0:11:08.30,0:11:09.69,Doc,,0,0,0,,Y es amigo de Franco.
+Dialogue: 0,0:11:09.74,0:11:14.01,Doc,,0,0,0,,Tan amigo, que en 1954 hizo\Nuna visita oficial a España,
+Dialogue: 0,0:11:14.06,0:11:15.49,Doc,,0,0,0,,con desfiles y recepciones,
+Dialogue: 0,0:11:15.54,0:11:18.87,Doc,,0,0,0,,en plena época de aislamiento\Ninternacional del régimen franquista.
+Dialogue: 0,0:11:18.92,0:11:21.51,Doc,,0,0,0,,Para Franco, que tenía\Nmuy pocos amigos fuera,
+Dialogue: 0,0:11:21.56,0:11:24.27,Doc,,0,0,0,,aquella visita era un\Npequeño triunfo diplomático.
+Dialogue: 0,0:11:24.32,0:11:27.05,Doc,,0,0,0,,Entre sus coches había una\Njoya fabricada en Barcelona:
+Dialogue: 0,0:11:27.10,0:11:29.07,Doc,,0,0,0,,un Pegaso Z-102 Cúpula,
+Dialogue: 0,0:11:29.12,0:11:31.41,Doc,,0,0,0,,una berlineta pintada\Nde amarillo brillante,
+Dialogue: 0,0:11:31.46,0:11:33.71,Doc,,0,0,0,,con una enorme cúpula\Ntransparente inspirada,
+Dialogue: 0,0:11:33.76,0:11:36.01,Doc,,0,0,0,,según se dice, en los platillos volantes.
+Dialogue: 0,0:11:36.06,0:11:37.75,Doc,,0,0,0,,Solo se construyeron dos.
+Dialogue: 0,0:11:37.80,0:11:42.69,Doc,,0,0,0,,Y uno acabó en el garaje del dictador\Ndominicano, que lo tuvo hasta su muerte.
+Dialogue: 0,0:11:42.74,0:11:44.89,Doc,,0,0,0,,Y esa muerte también tiene un coche.
+Dialogue: 0,0:11:44.94,0:11:47.93,Doc,,0,0,0,,La noche del treinta de mayo de 1961,
+Dialogue: 0,0:11:47.98,0:11:51.47,Doc,,0,0,0,,Trujillo viajaba por la carretera de\NSan Cristóbal en un Chevrolet Bel Air de
+Dialogue: 0,0:11:51.52,0:11:55.05,Doc,,0,0,0,,1957, azul claro, sin escolta.
+Dialogue: 0,0:11:55.10,0:11:57.09,Doc,,0,0,0,,Un grupo de conjurados lo esperaba.
+Dialogue: 0,0:11:57.14,0:12:01.23,Doc,,0,0,0,,Según la prensa dominicana, el coche\Nrecibió unos sesenta impactos de bala.
+Dialogue: 0,0:12:01.28,0:12:04.27,Doc,,0,0,0,,Aquella noche terminaron\Ntreinta y un años de dictadura.
+Dialogue: 0,0:12:04.32,0:12:07.31,Doc,,0,0,0,,Un dictador que paseaba en\Nun platillo volante español,
+Dialogue: 0,0:12:07.36,0:12:10.20,Doc,,0,0,0,,y que cayó dentro de un coche\Namericano de lo más corriente.
+Dialogue: 0,0:12:11.92,0:12:11.91,Doc,,0,0,0,,Número dos.
+Dialogue: 0,0:12:11.96,0:12:14.19,Doc,,0,0,0,,El Dodge de Carrero Blanco.
+Dialogue: 0,0:12:14.24,0:12:16.67,Doc,,0,0,0,,Este coche no perteneció a un dictador.
+Dialogue: 0,0:12:16.72,0:12:19.87,Doc,,0,0,0,,Perteneció al hombre que debía garantizar\Nque la dictadura continuara después
+Dialogue: 0,0:12:19.92,0:12:21.07,Doc,,0,0,0,,de él.
+Dialogue: 0,0:12:21.12,0:12:26.79,Doc,,0,0,0,,En junio de 1973, Franco tiene ochenta\Naños y su salud empieza a fallar.
+Dialogue: 0,0:12:26.84,0:12:30.25,Doc,,0,0,0,,Por primera vez en más de tres décadas,\Ncede la presidencia del Gobierno.
+Dialogue: 0,0:12:30.30,0:12:33.23,Doc,,0,0,0,,Y el elegido es el almirante\NLuis Carrero Blanco,
+Dialogue: 0,0:12:33.28,0:12:36.03,Doc,,0,0,0,,su hombre de confianza\Ndurante treinta años.
+Dialogue: 0,0:12:36.08,0:12:41.87,Doc,,0,0,0,,Carrero se movía por Madrid en un coche\Nfabricado en España: un Dodge 3700 GT.
+Dialogue: 0,0:12:41.92,0:12:45.25,Doc,,0,0,0,,Era la berlina más grande y más\Nlujosa que se fabricaba en el país,
+Dialogue: 0,0:12:45.30,0:12:48.45,Doc,,0,0,0,,con un motor de seis cilindros y\Ncasi tres mil setecientos centímetros
+Dialogue: 0,0:12:48.50,0:12:49.51,Doc,,0,0,0,,cúbicos.
+Dialogue: 0,0:12:49.56,0:12:51.29,Doc,,0,0,0,,Salía de la fábrica de Villaverde,
+Dialogue: 0,0:12:51.34,0:12:54.99,Doc,,0,0,0,,en Madrid, la que había fundado Eduardo\NBarreiros y que en aquellos años ya
+Dialogue: 0,0:12:55.04,0:12:56.67,Doc,,0,0,0,,pertenecía a Chrysler.
+Dialogue: 0,0:12:56.72,0:12:59.33,Doc,,0,0,0,,El de Carrero, además, estaba blindado.
+Dialogue: 0,0:12:59.38,0:13:03.03,Doc,,0,0,0,,El veinte de diciembre\Nde 1973, por la mañana,
+Dialogue: 0,0:13:03.08,0:13:04.57,Doc,,0,0,0,,después de oír misa como cada día,
+Dialogue: 0,0:13:04.62,0:13:07.99,Doc,,0,0,0,,el Dodge de Carrero pasó por\Nla calle de Claudio Coello.
+Dialogue: 0,0:13:08.04,0:13:09.03,Doc,,0,0,0,,Bajo el asfalto,
+Dialogue: 0,0:13:09.08,0:13:12.91,Doc,,0,0,0,,ETA había cavado un túnel y\Ncolocado una enorme carga explosiva.
+Dialogue: 0,0:13:12.96,0:13:14.67,Doc,,0,0,0,,La explosión lanzó el coche,
+Dialogue: 0,0:13:14.72,0:13:18.21,Doc,,0,0,0,,de más de una tonelada y media, por\Nencima del edificio que tenía al lado.
+Dialogue: 0,0:13:18.26,0:13:21.01,Doc,,0,0,0,,Fue a parar a una terraza\Ndel patio interior.
+Dialogue: 0,0:13:21.06,0:13:24.17,Doc,,0,0,0,,Murieron Carrero Blanco,\Nsu chófer y su escolta.
+Dialogue: 0,0:13:24.22,0:13:26.97,Doc,,0,0,0,,Fue uno de los atentados más\Nconocidos de la historia de España,
+Dialogue: 0,0:13:27.02,0:13:30.11,Doc,,0,0,0,,y cambió el rumbo de los\Núltimos años del franquismo.
+Dialogue: 0,0:13:30.16,0:13:31.53,Doc,,0,0,0,,El coche se conservó.
+Dialogue: 0,0:13:31.58,0:13:35.85,Doc,,0,0,0,,Durante años ha estado custodiado por\Nel Ejército, y se ha exhibido en museos.
+Dialogue: 0,0:13:35.90,0:13:39.43,Doc,,0,0,0,,Es, probablemente, el coche español más\Nfamoso de la historia por la peor de
+Dialogue: 0,0:13:39.48,0:13:40.32,Doc,,0,0,0,,las razones.
+Dialogue: 0,0:13:41.12,0:13:42.67,Doc,,0,0,0,,Y llegamos al número uno.
+Dialogue: 0,0:13:42.72,0:13:45.77,Doc,,0,0,0,,El coche de los dictadores\Nque hoy lleva a un rey.
+Dialogue: 0,0:13:45.82,0:13:48.36,Doc,,0,0,0,,Inglaterra, 1950.
+Dialogue: 0,0:13:48.41,0:13:53.61,Doc,,0,0,0,,Rolls-Royce decide fabricar el coche\Nmás exclusivo del mundo: el Phantom IV.
+Dialogue: 0,0:13:53.66,0:13:55.67,Doc,,0,0,0,,No se podía comprar en un concesionario.
+Dialogue: 0,0:13:55.72,0:13:57.41,Doc,,0,0,0,,No bastaba con tener dinero.
+Dialogue: 0,0:13:57.46,0:13:58.97,Doc,,0,0,0,,Según la tradición de la marca,
+Dialogue: 0,0:13:59.02,0:14:02.33,Doc,,0,0,0,,solo se vendía a la familia real\Nbritánica y a jefes de Estado.
+Dialogue: 0,0:14:02.38,0:14:04.79,Doc,,0,0,0,,El primero fue para la\Nentonces princesa Isabel,
+Dialogue: 0,0:14:04.84,0:14:06.69,Doc,,0,0,0,,la futura reina de Inglaterra.
+Dialogue: 0,0:14:06.74,0:14:12.17,Doc,,0,0,0,,Entre 1950 y 1956 se\Nfabricaron solo dieciocho.
+Dialogue: 0,0:14:12.22,0:14:15.07,Doc,,0,0,0,,Los compraron el sha de\NPersia, el rey de Irak,
+Dialogue: 0,0:14:15.12,0:14:18.73,Doc,,0,0,0,,el emir de Kuwait, el Aga\NKhan… Y un general español.
+Dialogue: 0,0:14:18.78,0:14:21.19,Doc,,0,0,0,,Porque tres de esos dieciocho Rolls-Royce,
+Dialogue: 0,0:14:21.24,0:14:23.89,Doc,,0,0,0,,uno de cada seis, fueron\Npara Francisco Franco.
+Dialogue: 0,0:14:23.94,0:14:25.44,Doc,,0,0,0,,Llegaron en 1952.
+Dialogue: 0,0:14:25.49,0:14:28.51,Doc,,0,0,0,,Dos limusinas carrozadas por Mulliner,
+Dialogue: 0,0:14:28.56,0:14:31.65,Doc,,0,0,0,,con blindaje en la parte\Ntrasera, y un descapotable.
+Dialogue: 0,0:14:31.70,0:14:33.23,Doc,,0,0,0,,Un ocho cilindros en línea,
+Dialogue: 0,0:14:33.28,0:14:36.89,Doc,,0,0,0,,más de cinco metros y medio de\Ncoche y casi tres toneladas de peso.
+Dialogue: 0,0:14:36.94,0:14:37.67,Doc,,0,0,0,,Según las fuentes,
+Dialogue: 0,0:14:37.72,0:14:41.11,Doc,,0,0,0,,el Estado español pagó por ellos\Nvarios miles de libras de la época,
+Dialogue: 0,0:14:41.16,0:14:45.27,Doc,,0,0,0,,una fortuna en una España que todavía\Nvivía con cartillas de racionamiento.
+Dialogue: 0,0:14:45.32,0:14:47.91,Doc,,0,0,0,,Franco los usó durante más de veinte años:
+Dialogue: 0,0:14:47.96,0:14:51.79,Doc,,0,0,0,,desfiles, recepciones, visitas\Nde jefes de Estado extranjeros.
+Dialogue: 0,0:14:51.84,0:14:54.15,Doc,,0,0,0,,El descapotable era el\Nde las grandes ocasiones,
+Dialogue: 0,0:14:54.20,0:14:57.29,Doc,,0,0,0,,el de los desfiles de la Victoria\Ny las entradas triunfales.
+Dialogue: 0,0:14:57.34,0:15:00.61,Doc,,0,0,0,,Las limusinas blindadas,\Nlas del día a día oficial.
+Dialogue: 0,0:15:00.66,0:15:03.25,Doc,,0,0,0,,En una España donde la\Nmayoría de la gente iba a pie,
+Dialogue: 0,0:15:03.30,0:15:04.93,Doc,,0,0,0,,en bicicleta o en tranvía,
+Dialogue: 0,0:15:04.98,0:15:08.07,Doc,,0,0,0,,ver pasar aquel Rolls-Royce\Nnegro, enorme y silencioso,
+Dialogue: 0,0:15:08.12,0:15:09.91,Doc,,0,0,0,,era ver pasar el poder en persona.
+Dialogue: 0,0:15:09.96,0:15:15.05,Doc,,0,0,0,,Y cuando murió, en 1975, ocurrió\Nalgo que nadie había previsto.
+Dialogue: 0,0:15:15.10,0:15:19.21,Doc,,0,0,0,,Los Rolls-Royce no se vendieron, ni se\Ndesguazaron, ni acabaron en un museo.
+Dialogue: 0,0:15:19.26,0:15:21.03,Doc,,0,0,0,,Pasaron al Patrimonio Nacional.
+Dialogue: 0,0:15:21.08,0:15:23.27,Doc,,0,0,0,,Y siguieron trabajando.
+Dialogue: 0,0:15:23.32,0:15:26.23,Doc,,0,0,0,,Hoy esos coches se guardan en\Nel cuartel de la Guardia Real,
+Dialogue: 0,0:15:26.28,0:15:29.79,Doc,,0,0,0,,en El Pardo, a pocos metros\Ndel palacio donde vivió Franco.
+Dialogue: 0,0:15:29.84,0:15:32.41,Doc,,0,0,0,,Y siguen saliendo a la calle\Nen las grandes ocasiones.
+Dialogue: 0,0:15:32.46,0:15:35.49,Doc,,0,0,0,,En junio de 2014, el\Ndía de su proclamación,
+Dialogue: 0,0:15:35.54,0:15:39.21,Doc,,0,0,0,,el rey Felipe VI recorrió Madrid de\Npie en el Phantom IV descapotable de
+Dialogue: 0,0:15:39.26,0:15:39.93,Doc,,0,0,0,,Franco.
+Dialogue: 0,0:15:39.98,0:15:41.29,Doc,,0,0,0,,Y en 2023,
+Dialogue: 0,0:15:41.34,0:15:44.73,Doc,,0,0,0,,el Rolls-Royce volvió a salir para la\Njura de la Constitución de la princesa
+Dialogue: 0,0:15:44.78,0:15:45.32,Doc,,0,0,0,,Leonor.
+Dialogue: 0,0:15:45.37,0:15:46.89,Doc,,0,0,0,,Piénsalo un momento.
+Dialogue: 0,0:15:46.94,0:15:48.73,Doc,,0,0,0,,Un coche encargado por un dictador,
+Dialogue: 0,0:15:48.78,0:15:51.51,Doc,,0,0,0,,en plena posguerra, para\Nmostrarse ante su pueblo.
+Dialogue: 0,0:15:51.56,0:15:56.05,Doc,,0,0,0,,Y setenta años después, el mismo coche\Nlleva a los reyes de una democracia.
+Dialogue: 0,0:15:56.10,0:15:59.11,Doc,,0,0,0,,Así de extraña es la historia\Nde los coches del poder.
+Dialogue: 0,0:15:59.16,0:16:00.43,Doc,,0,0,0,,Los dictadores se van.
+Dialogue: 0,0:16:00.48,0:16:01.89,Doc,,0,0,0,,Sus coches se quedan.
+Dialogue: 0,0:16:01.94,0:16:04.63,Doc,,0,0,0,,Algunos acaban en museos,\Notros en subastas,
+Dialogue: 0,0:16:04.68,0:16:06.85,Doc,,0,0,0,,otros convertidos en taxis para turistas.
+Dialogue: 0,0:16:06.90,0:16:09.29,Doc,,0,0,0,,Y uno de ellos, el más exclusivo de todos,
+Dialogue: 0,0:16:09.34,0:16:12.29,Doc,,0,0,0,,sigue recorriendo las calles\Nde Madrid con la Familia Real.
+Dialogue: 0,0:16:12.34,0:16:13.91,Doc,,0,0,0,,Y ahora te pregunto a ti:
+Dialogue: 0,0:16:13.96,0:16:17.11,Doc,,0,0,0,,de todos estos coches, ¿cuál\Nte parece el más impresionante?
+Dialogue: 0,0:16:17.16,0:16:18.97,Doc,,0,0,0,,¿El platillo volante de Trujillo,
+Dialogue: 0,0:16:19.02,0:16:21.87,Doc,,0,0,0,,el Maserati del sha o el\NRolls-Royce de Franco?
+Dialogue: 0,0:16:21.92,0:16:23.57,Doc,,0,0,0,,Cuéntamelo en los comentarios.
+Dialogue: 0,0:16:23.62,0:16:24.75,Doc,,0,0,0,,Si te ha gustado el vídeo,
+Dialogue: 0,0:16:24.80,0:16:28.07,Doc,,0,0,0,,dale a me gusta y suscríbete para\Nmás historias de coches clásicos.
+Dialogue: 0,0:16:28.12,0:16:29.24,Doc,,0,0,0,,Nos vemos en el próximo.
