@@ -1,0 +1,36 @@
+ai_jabbeke_run_1: Gemini falhou (Gemini 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and ), tentando Replicate
+ai_jabbeke_run_1: 2752x1536
+ai_timekeepers_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_timekeepers_1: 2752x1536
+ai_workshop_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_workshop_1: 2752x1536
+ai_drawing_board_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_drawing_board_1: 2752x1536
+ai_paris_crowd_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_paris_crowd_1: 2752x1536
+ai_leopard_seats_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_leopard_seats_1: 2752x1536
+ai_mexico_race_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_mexico_race_1: 2752x1536
+ai_truck_road_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_truck_road_1: 2752x1536
+# Imagens IA — es05-pegaso
+
+- Modelo: `gemini-2.5-flash-image`
+- Imagens geradas: 8
+- Folhas: ai_contact_sheet_1.jpg, ai_contact_sheet_2.jpg
+
+| plano | resultado |
+|---|---|
+| `ai_jabbeke_run` | 1 de 1 |
+| `ai_timekeepers` | 1 de 1 |
+| `ai_workshop` | 1 de 1 |
+| `ai_drawing_board` | 1 de 1 |
+| `ai_paris_crowd` | 1 de 1 |
+| `ai_leopard_seats` | 1 de 1 |
+| `ai_mexico_race` | 1 de 1 |
+| `ai_truck_road` | 1 de 1 |
+
