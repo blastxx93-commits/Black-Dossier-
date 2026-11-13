@@ -11,7 +11,8 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import aus_kit as A
 import edit_kit as K
 
-K.SFX.update({n: (f"sfx/{n}.wav", g) for n, g in {
+SFX_DOWN = 9   # owner (13/11/2026): transition sounds were too loud; everything 9 dB lower, transitions a further 3 dB
+K.SFX.update({n: (f"sfx/{n}.wav", g - SFX_DOWN) for n, g in {
     "whoosh_a": -21, "whoosh_b": -21, "whoosh_c": -22, "whoosh_low": -19, "swipe": -22, "whip": -20, "riser": -21,
     "reverse": -21, "impact": -15, "thud": -16, "bell": -20, "tick": -22, "shutter": -18, "stinger": -17, "win": -18,
     "heartbeat": -15, "growl": -18, "snow": -24}.items()})
@@ -215,5 +216,5 @@ def cut_rhythm(ep, scene_of=None):
             name = opts[snd.get(kind, 0) % len(opts)]; snd[kind] = snd.get(kind, 0) + 1
             if name:
                 s.setdefault("sfx", [])
-                s["sfx"] = [fx(name, 0, -1)] + list(s["sfx"])
+                s["sfx"] = [fx(name, 0, -4)] + list(s["sfx"])
     return ep

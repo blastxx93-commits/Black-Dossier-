@@ -15,6 +15,7 @@ Referência de edição: vídeo do tigre do Mundo Fósil (enviado pelo dono em 1
 - Layouts do canal: etiqueta marfim com serifa (nome do animal), barra de medida ("200 kg"), cartela serifada sobre a cena desfocada,
   **cartela de rodada** (número + nome + 10 pontos de progresso), **VS em tela dividida**, **veredito** (cena vira preto e branco + carimbo),
   **placar** TIGRE × FERAS com o número virando, **ficha técnica**, **HUD** de rodada/placar no canto durante as lutas.
+- Efeitos sonoros **baixos** (pedido do dono 13/11/2026: −9 dB no kit todo, transições −12 dB), só pontuando a cena.
 - **Transições variadas** (fade, slide, punch, blur, zoom, whip, wipe, flash, mono) e **efeitos sonoros variados em cada transição**
   (4 whooshes diferentes, swipe, whip, impacto, reverse, obturador…), mais sons de assinatura: sino na rodada, impacto + rosnado no VS,
   batimento + obturador + carimbo no veredito, tiques + vitória/derrota no placar. Kit sintetizado: `engine/feras_audio.py` (sem direitos autorais).
