@@ -174,10 +174,10 @@ def render(path, preview=False, t_from=None, t_to=None):
         if ep.get("music"):
             cmd += ["-stream_loop", "-1"] + ss + ["-i", os.path.join(base, ep["music"])]
             g = ep.get("music_gain", -24)
-            amap = ["-filter_complex", f"[1:a]loudnorm=I=-14:TP=-1.5[v];[2:a]volume={g}dB[m];[v][m]amix=inputs=2:duration=first:normalize=0[a]",
+            amap = ["-filter_complex", f"[1:a]loudnorm=I=-14:TP=-1.5,aresample=48000,aformat=channel_layouts=stereo[v];[2:a]volume={g}dB,aresample=48000,aformat=channel_layouts=stereo[m];[v][m]amix=inputs=2:duration=first:normalize=0,alimiter=limit=0.9[a]",
                     "-map", "0:v", "-map", "[a]"]
         else:
-            amap = ["-map", "0:v", "-map", "1:a", "-af", "loudnorm=I=-14:TP=-1.5"]
+            amap = ["-map", "0:v", "-map", "1:a", "-af", "loudnorm=I=-14:TP=-1.5,aresample=48000,aformat=channel_layouts=stereo"]
         amap += ["-c:a", "aac", "-b:a", "192k"]
     cmd += amap + ["-vf", vf, "-c:v", "libx264", "-preset", "veryfast" if preview else "medium", "-crf", "23" if preview else "18",
                    "-movflags", "+faststart", "-shortest", out]

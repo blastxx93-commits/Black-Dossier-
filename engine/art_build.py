@@ -71,8 +71,9 @@ def main():
                     heard.append(tk); htimes.append(w["s"])
             idx = align(script, heard)
             toks, times = script, [htimes[j] for j in idx]     # o roteiro é a referência; a transcrição só dá os tempos
-            f = os.path.join(a.assets, "narration_audio", ch["id"] + ".flac")
-            length = dur(f); audio.append(f)
+            f = os.path.join(a.assets, "narration_audio", ch["id"] + (".wav" if os.path.exists(os.path.join(a.assets, "narration_audio", ch["id"] + ".wav")) else ".flac"))
+            import soundfile as sf
+            length = sf.info(f).duration; audio.append(f)
         else:
             toks = script
             times = [i * 60.0 / a.wpm for i in range(len(toks))]
@@ -94,15 +95,13 @@ def main():
         t0 += length + gap
     out = {"output": plan.get("output", a.episode + ".mp4"), "size": [1920, 1080], "fps": 30, "xfade": 0.35, "tail": 1.0, "shots": shots}
     if audio:
-        lst = os.path.join(ep, "edit", "narration.txt")
-        sil = os.path.join(ep, "edit", "_gap.flac")
-        subprocess.run(["ffmpeg", "-v", "error", "-y", "-f", "lavfi", "-i", "anullsrc=r=44100:cl=mono", "-t", str(gap), sil], check=True)
-        with open(lst, "w") as fh:
-            for f in audio:
-                fh.write(f"file '{os.path.abspath(f)}'\nfile '{os.path.abspath(sil)}'\n")
-        subprocess.run(["ffmpeg", "-v", "error", "-y", "-f", "concat", "-safe", "0", "-i", lst, "-ar", "44100", "-ac", "1",
-                        os.path.join(ep, "edit", "narration.flac")], check=True)
-        out["audio"] = "narration.flac"
+        import numpy as np, soundfile as sf       # pip install soundfile (lê qualquer FLAC/WAV, sem depender do ffmpeg)
+        parts, sr = [], 44100
+        for f in audio:
+            d, sr = sf.read(f, always_2d=True)
+            parts += [d.mean(axis=1), np.zeros(int(gap * sr))]
+        sf.write(os.path.join(ep, "edit", "narration.wav"), np.concatenate(parts), sr, subtype="PCM_16")
+        out["audio"] = "narration.wav"
         if plan.get("music"):
             out["music"] = plan["music"]; out["music_gain"] = plan.get("music_gain", -24)
     else:
