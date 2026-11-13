@@ -1,0 +1,31 @@
+{
+  "output": "ART-FR01_demo.mp4", "size": [1920, 1080], "fps": 30, "xfade": 0.35,
+  "_nota": "Demonstração do estilo: accroche + início de 'Ce que l'on voit' (~1min50 de narração a ~150 mots/min). A edição completa é ancorada na narração ('at') quando o áudio existir.",
+  "shots": [
+    {"type": "card",   "src": "img/radeau.jpg", "dur": 5, "zoom": [1.0, 1.06]},
+    {"type": "card",   "src": "img/gericault_vernet.jpg", "dur": 4, "bg": "img/radeau.jpg"},
+    {"type": "detail", "src": "img/radeau.jpg", "from": [0.50, 0.50, 1.0], "to": [0.56, 0.50, 0.80], "dur": 6},
+    {"type": "detail", "src": "img/radeau.jpg", "from": [0.70, 0.36, 0.36], "to": [0.72, 0.30, 0.26], "dur": 5},
+    {"type": "card",   "src": "img/louis18.jpg", "dur": 4, "bg": "img/radeau.jpg"},
+
+    {"type": "detail", "src": "img/radeau.jpg", "from": [0.80, 0.40, 0.30], "to": [0.815, 0.397, 0.10], "dur": 5},
+    {"type": "detail", "src": "img/radeau.jpg", "from": [0.30, 0.30, 0.50], "to": [0.24, 0.30, 0.42], "dur": 5},
+    {"type": "detail", "src": "img/radeau.jpg", "from": [0.22, 0.76, 0.34], "to": [0.42, 0.80, 0.34], "dur": 5},
+    {"type": "card",   "src": "img/etude_joseph.jpg", "dur": 5, "bg": "img/radeau.jpg"},
+
+    {"type": "card",   "src": "img/radeau.jpg", "dur": 4, "zoom": [1.06, 1.0]},
+    {"type": "detail", "src": "img/radeau.jpg", "from": [0.50, 0.50, 0.90], "to": [0.50, 0.50, 0.70], "dur": 5},
+
+    {"type": "detail", "src": "img/radeau.jpg", "from": [0.50, 0.78, 0.62], "to": [0.50, 0.80, 0.50], "dur": 6},
+    {"type": "detail", "src": "img/radeau.jpg", "from": [0.27, 0.72, 0.44], "to": [0.29, 0.62, 0.24], "dur": 6},
+    {"type": "detail", "src": "img/radeau.jpg", "from": [0.29, 0.58, 0.14], "to": [0.28, 0.57, 0.11], "dur": 4},
+    {"type": "detail", "src": "img/radeau.jpg", "from": [0.33, 0.74, 0.30], "to": [0.38, 0.76, 0.26], "dur": 4},
+    {"type": "detail", "src": "img/radeau.jpg", "from": [0.50, 0.36, 0.26], "to": [0.52, 0.36, 0.18], "dur": 6},
+    {"type": "detail", "src": "img/radeau.jpg", "from": [0.52, 0.62, 0.40], "to": [0.66, 0.44, 0.40], "dur": 6},
+    {"type": "detail", "src": "img/radeau.jpg", "from": [0.70, 0.30, 0.30], "to": [0.70, 0.20, 0.20], "dur": 5},
+    {"type": "detail", "src": "img/radeau.jpg", "from": [0.77, 0.34, 0.18], "to": [0.78, 0.32, 0.14], "dur": 4},
+    {"type": "detail", "src": "img/radeau.jpg", "from": [0.72, 0.36, 0.30], "to": [0.80, 0.40, 0.22], "dur": 5},
+    {"type": "detail", "src": "img/radeau.jpg", "from": [0.80, 0.40, 0.22], "to": [0.815, 0.397, 0.07], "dur": 7},
+    {"type": "card",   "src": "img/radeau.jpg", "dur": 4, "zoom": [1.0, 1.04]}
+  ]
+}

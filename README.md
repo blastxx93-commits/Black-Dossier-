@@ -69,3 +69,9 @@ Segredo: `REPLICATE_API_TOKEN`.
 black, image (Ken Burns: in/out/left/right/up/down, legenda), typewriter, statement, title, chapter,
 dossier (foto + ficha + carimbo), counter, document (memorando "dramatization"), timeline, video.
 Grade padrão: contraste 1.08, saturação 0.72, grão 9, vinheta. Música abaixa sozinha quando a voz fala.
+
+## Canal de arte em francês (novo)
+- Análise da referência e da demanda: `canal-arte-fr/ANALISE.md` · regras: `canal-arte-fr/REGRAS.md`.
+- Motor de edição: `python3 engine/art_render.py episodes/<ep>/edit/episode.json [--preview]` (planos `detail` e `card`).
+- Imagens: `python3 agent/fetch_commons.py <ep>` lê `episodes/<ep>/images.json` e baixa do Wikimedia Commons com créditos.
+- Piloto: `episodes/art-fr01-radeau` (roteiro em francês, pacote de publicação e lista de planos da demonstração).
