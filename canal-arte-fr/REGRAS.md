@@ -58,3 +58,12 @@ temas, títulos e textos são sempre próprios.
 10. Impression, soleil levant — Monet (Marmottan): a hora exata da pintura
 11. La Mort de Marat — David
 12. Les Raboteurs de parquet — Caillebotte (Orsay)
+
+## Fluxo de um episódio
+1. `episodes/<ep>/narration/ch00_hook.txt … chNN.txt` (um arquivo por bloco) e `images.json` (títulos no Commons).
+2. `python3 agent/fetch_commons.py <ep>` baixa as imagens e grava `credits.json` (pode rodar de novo: pula as já baixadas).
+3. GitHub → Actions → **Gerar narração** → episódio, `voice` = ID da voz francesa, `lang` = `fr`.
+4. `edit/plan.json`: planos por capítulo, cada um com `cue` = primeiras palavras da frase que ele ilustra.
+5. `python3 engine/art_build.py <ep> --assets <pasta do episódio no branch assets>` gera `edit/episode.json` com os tempos reais
+   (sem `--assets`, estima os tempos pelo texto para uma prévia muda).
+6. `python3 engine/art_render.py episodes/<ep>/edit/episode.json` renderiza em 1080p (`--preview` = 720p).

@@ -1,31 +1,1404 @@
 {
-  "output": "ART-FR01_demo.mp4", "size": [1920, 1080], "fps": 30, "xfade": 0.35,
-  "_nota": "Demonstração do estilo: accroche + início de 'Ce que l'on voit' (~1min50 de narração a ~150 mots/min). A edição completa é ancorada na narração ('at') quando o áudio existir.",
-  "shots": [
-    {"type": "card",   "src": "img/radeau.jpg", "dur": 5, "zoom": [1.0, 1.06]},
-    {"type": "card",   "src": "img/gericault_vernet.jpg", "dur": 4, "bg": "img/radeau.jpg"},
-    {"type": "detail", "src": "img/radeau.jpg", "from": [0.50, 0.50, 1.0], "to": [0.56, 0.50, 0.80], "dur": 6},
-    {"type": "detail", "src": "img/radeau.jpg", "from": [0.70, 0.36, 0.36], "to": [0.72, 0.30, 0.26], "dur": 5},
-    {"type": "card",   "src": "img/louis18.jpg", "dur": 4, "bg": "img/radeau.jpg"},
-
-    {"type": "detail", "src": "img/radeau.jpg", "from": [0.80, 0.40, 0.30], "to": [0.815, 0.397, 0.10], "dur": 5},
-    {"type": "detail", "src": "img/radeau.jpg", "from": [0.30, 0.30, 0.50], "to": [0.24, 0.30, 0.42], "dur": 5},
-    {"type": "detail", "src": "img/radeau.jpg", "from": [0.22, 0.76, 0.34], "to": [0.42, 0.80, 0.34], "dur": 5},
-    {"type": "card",   "src": "img/etude_joseph.jpg", "dur": 5, "bg": "img/radeau.jpg"},
-
-    {"type": "card",   "src": "img/radeau.jpg", "dur": 4, "zoom": [1.06, 1.0]},
-    {"type": "detail", "src": "img/radeau.jpg", "from": [0.50, 0.50, 0.90], "to": [0.50, 0.50, 0.70], "dur": 5},
-
-    {"type": "detail", "src": "img/radeau.jpg", "from": [0.50, 0.78, 0.62], "to": [0.50, 0.80, 0.50], "dur": 6},
-    {"type": "detail", "src": "img/radeau.jpg", "from": [0.27, 0.72, 0.44], "to": [0.29, 0.62, 0.24], "dur": 6},
-    {"type": "detail", "src": "img/radeau.jpg", "from": [0.29, 0.58, 0.14], "to": [0.28, 0.57, 0.11], "dur": 4},
-    {"type": "detail", "src": "img/radeau.jpg", "from": [0.33, 0.74, 0.30], "to": [0.38, 0.76, 0.26], "dur": 4},
-    {"type": "detail", "src": "img/radeau.jpg", "from": [0.50, 0.36, 0.26], "to": [0.52, 0.36, 0.18], "dur": 6},
-    {"type": "detail", "src": "img/radeau.jpg", "from": [0.52, 0.62, 0.40], "to": [0.66, 0.44, 0.40], "dur": 6},
-    {"type": "detail", "src": "img/radeau.jpg", "from": [0.70, 0.30, 0.30], "to": [0.70, 0.20, 0.20], "dur": 5},
-    {"type": "detail", "src": "img/radeau.jpg", "from": [0.77, 0.34, 0.18], "to": [0.78, 0.32, 0.14], "dur": 4},
-    {"type": "detail", "src": "img/radeau.jpg", "from": [0.72, 0.36, 0.30], "to": [0.80, 0.40, 0.22], "dur": 5},
-    {"type": "detail", "src": "img/radeau.jpg", "from": [0.80, 0.40, 0.22], "to": [0.815, 0.397, 0.07], "dur": 7},
-    {"type": "card",   "src": "img/radeau.jpg", "dur": 4, "zoom": [1.0, 1.04]}
-  ]
+ "output": "ART-FR01_radeau.mp4",
+ "size": [
+  1920,
+  1080
+ ],
+ "fps": 30,
+ "xfade": 0.35,
+ "tail": 1.0,
+ "shots": [
+  {
+   "type": "card",
+   "src": "img/radeau.jpg",
+   "at": 0.0
+  },
+  {
+   "type": "card",
+   "src": "img/gericault_vernet.jpg",
+   "bg": "img/radeau.jpg",
+   "at": 3.45
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.5,
+    0.5,
+    1.0
+   ],
+   "to": [
+    0.52,
+    0.5,
+    0.8
+   ],
+   "at": 10.25
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.7,
+    0.3,
+    0.32
+   ],
+   "to": [
+    0.7,
+    0.22,
+    0.22
+   ],
+   "at": 13.85
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.5,
+    0.8,
+    0.6
+   ],
+   "to": [
+    0.47,
+    0.8,
+    0.3
+   ],
+   "at": 16.65
+  },
+  {
+   "type": "card",
+   "src": "img/louis18.jpg",
+   "bg": "img/radeau.jpg",
+   "at": 20.25
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.8,
+    0.4,
+    0.24
+   ],
+   "to": [
+    0.815,
+    0.397,
+    0.07
+   ],
+   "at": 23.45
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.27,
+    0.3,
+    0.45
+   ],
+   "to": [
+    0.33,
+    0.16,
+    0.3
+   ],
+   "at": 27.85
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.14,
+    0.76,
+    0.26
+   ],
+   "to": [
+    0.36,
+    0.75,
+    0.28
+   ],
+   "at": 33.05
+  },
+  {
+   "type": "card",
+   "src": "img/etude_joseph.jpg",
+   "bg": "img/radeau.jpg",
+   "at": 37.45
+  },
+  {
+   "type": "card",
+   "src": "img/radeau.jpg",
+   "zoom": [
+    1.06,
+    1.0
+   ],
+   "at": 43.85
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.52,
+    0.5,
+    0.8
+   ],
+   "to": [
+    0.62,
+    0.5,
+    0.6
+   ],
+   "at": 46.65
+  },
+  {
+   "type": "card",
+   "src": "img/radeau.jpg",
+   "zoom": [
+    1.0,
+    1.05
+   ],
+   "at": 53.0
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.5,
+    0.8,
+    0.6
+   ],
+   "to": [
+    0.47,
+    0.8,
+    0.3
+   ],
+   "at": 60.85
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.36,
+    0.75,
+    0.28
+   ],
+   "to": [
+    0.29,
+    0.62,
+    0.24
+   ],
+   "at": 64.85
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.29,
+    0.62,
+    0.24
+   ],
+   "to": [
+    0.285,
+    0.57,
+    0.11
+   ],
+   "at": 69.25
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.29,
+    0.62,
+    0.24
+   ],
+   "to": [
+    0.36,
+    0.75,
+    0.28
+   ],
+   "at": 71.25
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.285,
+    0.57,
+    0.11
+   ],
+   "at": 75.65
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.29,
+    0.62,
+    0.24
+   ],
+   "to": [
+    0.66,
+    0.44,
+    0.4
+   ],
+   "at": 80.05
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.29,
+    0.62,
+    0.24
+   ],
+   "at": 83.25
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.53,
+    0.55,
+    0.16
+   ],
+   "to": [
+    0.51,
+    0.36,
+    0.2
+   ],
+   "at": 86.45
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.51,
+    0.36,
+    0.2
+   ],
+   "to": [
+    0.56,
+    0.34,
+    0.2
+   ],
+   "at": 90.85
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.51,
+    0.36,
+    0.2
+   ],
+   "at": 94.85
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.52,
+    0.62,
+    0.4
+   ],
+   "to": [
+    0.66,
+    0.44,
+    0.4
+   ],
+   "at": 100.45
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.7,
+    0.3,
+    0.32
+   ],
+   "to": [
+    0.7,
+    0.22,
+    0.22
+   ],
+   "at": 108.85
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.7,
+    0.22,
+    0.22
+   ],
+   "at": 112.85
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.7,
+    0.22,
+    0.22
+   ],
+   "to": [
+    0.775,
+    0.33,
+    0.15
+   ],
+   "at": 117.25
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.775,
+    0.33,
+    0.15
+   ],
+   "to": [
+    0.8,
+    0.4,
+    0.24
+   ],
+   "at": 121.25
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.8,
+    0.4,
+    0.24
+   ],
+   "to": [
+    0.815,
+    0.397,
+    0.07
+   ],
+   "at": 125.25
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.815,
+    0.397,
+    0.07
+   ],
+   "at": 130.05
+  },
+  {
+   "type": "card",
+   "src": "img/radeau.jpg",
+   "zoom": [
+    1.0,
+    1.04
+   ],
+   "at": 132.05
+  },
+  {
+   "type": "card",
+   "src": "img/fregate.jpg",
+   "bg": "img/radeau.jpg",
+   "at": 137.6
+  },
+  {
+   "type": "detail",
+   "src": "img/fregate.jpg",
+   "from": [
+    0.5,
+    0.5,
+    1.0
+   ],
+   "to": [
+    0.52,
+    0.5,
+    0.8
+   ],
+   "at": 143.05
+  },
+  {
+   "type": "card",
+   "src": "img/louis18.jpg",
+   "bg": "img/radeau.jpg",
+   "at": 147.05
+  },
+  {
+   "type": "card",
+   "src": "img/fregate.jpg",
+   "bg": "img/radeau.jpg",
+   "zoom": [
+    1.05,
+    1.0
+   ],
+   "at": 159.05
+  },
+  {
+   "type": "card",
+   "src": "img/plan_radeau.jpg",
+   "bg": "img/radeau.jpg",
+   "at": 166.25
+  },
+  {
+   "type": "detail",
+   "src": "img/plan_radeau.jpg",
+   "from": [
+    0.5,
+    0.5,
+    1.0
+   ],
+   "to": [
+    0.52,
+    0.5,
+    0.8
+   ],
+   "at": 171.85
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.6,
+    0.84,
+    0.3
+   ],
+   "to": [
+    0.5,
+    0.8,
+    0.6
+   ],
+   "at": 178.25
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.16,
+    0.92,
+    0.2
+   ],
+   "to": [
+    0.14,
+    0.76,
+    0.26
+   ],
+   "at": 181.45
+  },
+  {
+   "type": "card",
+   "src": "img/plan_radeau.jpg",
+   "bg": "img/radeau.jpg",
+   "zoom": [
+    1.05,
+    1.0
+   ],
+   "at": 184.65
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.9,
+    0.55,
+    0.2
+   ],
+   "to": [
+    0.8,
+    0.4,
+    0.24
+   ],
+   "at": 189.45
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.45,
+    0.12,
+    0.5
+   ],
+   "to": [
+    0.07,
+    0.34,
+    0.28
+   ],
+   "at": 196.25
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.74,
+    0.87,
+    0.34
+   ],
+   "at": 198.65
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.5,
+    0.8,
+    0.6
+   ],
+   "to": [
+    0.42,
+    0.47,
+    0.3
+   ],
+   "at": 203.05
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.14,
+    0.76,
+    0.26
+   ],
+   "to": [
+    0.285,
+    0.57,
+    0.11
+   ],
+   "at": 206.25
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.8,
+    0.4,
+    0.24
+   ],
+   "to": [
+    0.815,
+    0.397,
+    0.07
+   ],
+   "at": 211.85
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.62,
+    0.5,
+    0.6
+   ],
+   "to": [
+    0.52,
+    0.5,
+    0.8
+   ],
+   "at": 215.45
+  },
+  {
+   "type": "card",
+   "src": "img/radeau.jpg",
+   "at": 219.85
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.52,
+    0.5,
+    0.8
+   ],
+   "to": [
+    0.51,
+    0.36,
+    0.2
+   ],
+   "at": 229.05
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.51,
+    0.36,
+    0.2
+   ],
+   "to": [
+    0.56,
+    0.34,
+    0.2
+   ],
+   "at": 231.4
+  },
+  {
+   "type": "card",
+   "src": "img/louis18.jpg",
+   "bg": "img/radeau.jpg",
+   "at": 236.85
+  },
+  {
+   "type": "card",
+   "src": "img/gericault_vernet.jpg",
+   "bg": "img/radeau.jpg",
+   "at": 242.85
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.56,
+    0.34,
+    0.2
+   ],
+   "to": [
+    0.51,
+    0.36,
+    0.2
+   ],
+   "at": 249.25
+  },
+  {
+   "type": "card",
+   "src": "img/plan_radeau.jpg",
+   "bg": "img/radeau.jpg",
+   "at": 251.25
+  },
+  {
+   "type": "card",
+   "src": "img/esquisse.jpg",
+   "bg": "img/radeau.jpg",
+   "at": 258.85
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.14,
+    0.76,
+    0.26
+   ],
+   "at": 264.85
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.36,
+    0.75,
+    0.28
+   ],
+   "to": [
+    0.14,
+    0.76,
+    0.26
+   ],
+   "at": 272.05
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.285,
+    0.57,
+    0.11
+   ],
+   "at": 276.05
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.16,
+    0.92,
+    0.2
+   ],
+   "to": [
+    0.74,
+    0.87,
+    0.34
+   ],
+   "at": 278.45
+  },
+  {
+   "type": "card",
+   "src": "img/gericault_vernet.jpg",
+   "bg": "img/radeau.jpg",
+   "zoom": [
+    1.05,
+    1.0
+   ],
+   "at": 283.25
+  },
+  {
+   "type": "card",
+   "src": "img/esquisse.jpg",
+   "bg": "img/radeau.jpg",
+   "zoom": [
+    1.05,
+    1.0
+   ],
+   "at": 286.85
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.52,
+    0.5,
+    0.8
+   ],
+   "to": [
+    0.5,
+    0.8,
+    0.6
+   ],
+   "at": 289.65
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.5,
+    0.8,
+    0.6
+   ],
+   "to": [
+    0.47,
+    0.8,
+    0.3
+   ],
+   "at": 291.65
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.47,
+    0.8,
+    0.3
+   ],
+   "at": 296.45
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.53,
+    0.55,
+    0.16
+   ],
+   "to": [
+    0.51,
+    0.36,
+    0.2
+   ],
+   "at": 300.45
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.62,
+    0.5,
+    0.6
+   ],
+   "to": [
+    0.7,
+    0.3,
+    0.32
+   ],
+   "at": 306.85
+  },
+  {
+   "type": "card",
+   "src": "img/etude_joseph.jpg",
+   "bg": "img/radeau.jpg",
+   "at": 312.85
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.7,
+    0.22,
+    0.22
+   ],
+   "at": 318.05
+  },
+  {
+   "type": "card",
+   "src": "img/radeau.jpg",
+   "at": 320.8
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.14,
+    0.76,
+    0.26
+   ],
+   "to": [
+    0.36,
+    0.75,
+    0.28
+   ],
+   "at": 324.25
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.285,
+    0.57,
+    0.11
+   ],
+   "to": [
+    0.29,
+    0.62,
+    0.24
+   ],
+   "at": 325.85
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.47,
+    0.8,
+    0.3
+   ],
+   "to": [
+    0.74,
+    0.87,
+    0.34
+   ],
+   "at": 332.65
+  },
+  {
+   "type": "card",
+   "src": "img/etude_joseph.jpg",
+   "bg": "img/radeau.jpg",
+   "zoom": [
+    1.05,
+    1.0
+   ],
+   "at": 336.25
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.33,
+    0.16,
+    0.3
+   ],
+   "to": [
+    0.27,
+    0.3,
+    0.45
+   ],
+   "at": 341.85
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.27,
+    0.3,
+    0.45
+   ],
+   "to": [
+    0.07,
+    0.34,
+    0.28
+   ],
+   "at": 344.65
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.52,
+    0.5,
+    0.8
+   ],
+   "to": [
+    0.8,
+    0.4,
+    0.24
+   ],
+   "at": 347.45
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.8,
+    0.4,
+    0.24
+   ],
+   "to": [
+    0.27,
+    0.3,
+    0.45
+   ],
+   "at": 349.45
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.27,
+    0.3,
+    0.45
+   ],
+   "to": [
+    0.07,
+    0.34,
+    0.28
+   ],
+   "at": 354.25
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.07,
+    0.34,
+    0.28
+   ],
+   "at": 361.45
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.8,
+    0.4,
+    0.24
+   ],
+   "to": [
+    0.815,
+    0.397,
+    0.07
+   ],
+   "at": 363.05
+  },
+  {
+   "type": "card",
+   "src": "img/esquisse.jpg",
+   "bg": "img/radeau.jpg",
+   "at": 365.45
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.8,
+    0.4,
+    0.24
+   ],
+   "to": [
+    0.815,
+    0.397,
+    0.07
+   ],
+   "at": 369.45
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.7,
+    0.3,
+    0.32
+   ],
+   "to": [
+    0.775,
+    0.33,
+    0.15
+   ],
+   "at": 374.65
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.815,
+    0.397,
+    0.07
+   ],
+   "at": 382.65
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.9,
+    0.55,
+    0.2
+   ],
+   "to": [
+    0.8,
+    0.4,
+    0.24
+   ],
+   "at": 385.85
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.5,
+    0.8,
+    0.6
+   ],
+   "to": [
+    0.42,
+    0.47,
+    0.3
+   ],
+   "at": 394.25
+  },
+  {
+   "type": "card",
+   "src": "img/esquisse.jpg",
+   "bg": "img/radeau.jpg",
+   "zoom": [
+    1.05,
+    1.0
+   ],
+   "at": 400.25
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.16,
+    0.92,
+    0.2
+   ],
+   "to": [
+    0.14,
+    0.76,
+    0.26
+   ],
+   "at": 405.05
+  },
+  {
+   "type": "card",
+   "src": "img/radeau.jpg",
+   "at": 409.0
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.52,
+    0.5,
+    0.8
+   ],
+   "to": [
+    0.62,
+    0.5,
+    0.6
+   ],
+   "at": 412.85
+  },
+  {
+   "type": "card",
+   "src": "img/louis18.jpg",
+   "bg": "img/radeau.jpg",
+   "at": 419.65
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.62,
+    0.5,
+    0.6
+   ],
+   "to": [
+    0.7,
+    0.3,
+    0.32
+   ],
+   "at": 423.25
+  },
+  {
+   "type": "card",
+   "src": "img/radeau.jpg",
+   "zoom": [
+    1.05,
+    1.0
+   ],
+   "at": 429.25
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.45,
+    0.12,
+    0.5
+   ],
+   "to": [
+    0.33,
+    0.16,
+    0.3
+   ],
+   "at": 434.05
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.52,
+    0.62,
+    0.4
+   ],
+   "to": [
+    0.66,
+    0.44,
+    0.4
+   ],
+   "at": 437.25
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.42,
+    0.47,
+    0.3
+   ],
+   "at": 440.05
+  },
+  {
+   "type": "card",
+   "src": "img/gericault_vernet.jpg",
+   "bg": "img/radeau.jpg",
+   "at": 444.45
+  },
+  {
+   "type": "card",
+   "src": "img/radeau.jpg",
+   "at": 448.45
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.52,
+    0.5,
+    0.8
+   ],
+   "to": [
+    0.42,
+    0.47,
+    0.3
+   ],
+   "at": 456.4
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.42,
+    0.47,
+    0.3
+   ],
+   "to": [
+    0.53,
+    0.55,
+    0.16
+   ],
+   "at": 462.65
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.29,
+    0.62,
+    0.24
+   ],
+   "to": [
+    0.285,
+    0.57,
+    0.11
+   ],
+   "at": 466.65
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.14,
+    0.76,
+    0.26
+   ],
+   "to": [
+    0.16,
+    0.92,
+    0.2
+   ],
+   "at": 471.05
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.27,
+    0.3,
+    0.45
+   ],
+   "to": [
+    0.42,
+    0.47,
+    0.3
+   ],
+   "at": 477.45
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.6,
+    0.84,
+    0.3
+   ],
+   "to": [
+    0.74,
+    0.87,
+    0.34
+   ],
+   "at": 482.65
+  },
+  {
+   "type": "card",
+   "src": "img/radeau.jpg",
+   "at": 489.05
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.5,
+    0.8,
+    0.6
+   ],
+   "to": [
+    0.52,
+    0.62,
+    0.4
+   ],
+   "at": 498.25
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.29,
+    0.62,
+    0.24
+   ],
+   "at": 500.25
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.62,
+    0.5,
+    0.6
+   ],
+   "to": [
+    0.7,
+    0.3,
+    0.32
+   ],
+   "at": 503.05
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.7,
+    0.3,
+    0.32
+   ],
+   "to": [
+    0.7,
+    0.22,
+    0.22
+   ],
+   "at": 509.45
+  },
+  {
+   "type": "card",
+   "src": "img/etude_joseph.jpg",
+   "bg": "img/radeau.jpg",
+   "at": 516.25
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.52,
+    0.5,
+    0.8
+   ],
+   "to": [
+    0.42,
+    0.47,
+    0.3
+   ],
+   "at": 519.45
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.8,
+    0.4,
+    0.24
+   ],
+   "to": [
+    0.815,
+    0.397,
+    0.07
+   ],
+   "at": 523.85
+  },
+  {
+   "type": "detail",
+   "src": "img/radeau.jpg",
+   "from": [
+    0.815,
+    0.397,
+    0.07
+   ],
+   "to": [
+    0.8,
+    0.4,
+    0.24
+   ],
+   "at": 528.25
+  },
+  {
+   "type": "card",
+   "src": "img/radeau.jpg",
+   "zoom": [
+    1.0,
+    1.05
+   ],
+   "at": 535.05
+  },
+  {
+   "type": "card",
+   "src": "img/radeau.jpg",
+   "at": 539.8,
+   "dur": 1
+  }
+ ],
+ "_mudo": true
 }

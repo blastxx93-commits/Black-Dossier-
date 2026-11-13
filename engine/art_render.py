@@ -127,33 +127,32 @@ def timeline(ep, base):
     shots = ep["shots"]
     total = sum(s.get("dur", 4) for s in shots)
     audio = os.path.join(base, ep["audio"]) if ep.get("audio") else None
-    if audio:
+    anchored = any("at" in s for s in shots)
+    if not audio and not anchored:
+        return [(s, s.get("dur", 4)) for s in shots], total
+    if not anchored:                               # sem âncoras: estica as durações para caber na narração
         target = probe(audio) + ep.get("tail", 1.5)
-        if any("at" in s for s in shots):          # planos ancorados na narração
-            starts = []
-            for k, s in enumerate(shots):
-                starts.append(s["at"] if "at" in s else None)
-            starts[0] = 0.0
-            # preenche os buracos proporcionalmente ao "dur"
-            k = 0
-            while k < len(shots):
-                if starts[k] is None:
-                    j = k
-                    while j < len(shots) and starts[j] is None:
-                        j += 1
-                    t0, t1 = starts[k - 1], (starts[j] if j < len(shots) else target)
-                    w = [shots[m].get("dur", 4) for m in range(k - 1, j)]
-                    acc = 0
-                    for m in range(k, j):
-                        acc += w[m - k]
-                        starts[m] = t0 + (t1 - t0) * acc / sum(w)
-                    k = j
-                else:
-                    k += 1
-            return [(s, (starts[i + 1] if i + 1 < len(shots) else target) - starts[i]) for i, s in enumerate(shots)], target
-        f = target / total
-        return [(s, s.get("dur", 4) * f) for s in shots], target
-    return [(s, s.get("dur", 4)) for s in shots], total
+        return [(s, s.get("dur", 4) * target / total) for s in shots], target
+    starts = [s.get("at") for s in shots]
+    starts[0] = 0.0
+    last = max(i for i, v in enumerate(starts) if v is not None)
+    target = probe(audio) + ep.get("tail", 1.5) if audio else starts[last] + sum(s.get("dur", 4) for s in shots[last:])
+    k = 0
+    while k < len(shots):                          # planos sem "at" dividem o intervalo entre duas âncoras
+        if starts[k] is None:
+            j = k
+            while j < len(shots) and starts[j] is None:
+                j += 1
+            t0, t1 = starts[k - 1], (starts[j] if j < len(shots) else target)
+            w = [shots[m].get("dur", 4) for m in range(k - 1, j)]
+            acc = 0
+            for m in range(k, j):
+                acc += w[m - k]
+                starts[m] = t0 + (t1 - t0) * acc / sum(w)
+            k = j
+        else:
+            k += 1
+    return [(s, max(0.2, (starts[i + 1] if i + 1 < len(shots) else target) - starts[i])) for i, s in enumerate(shots)], target
 
 
 def render(path, preview=False, t_from=None, t_to=None):

@@ -1,0 +1,1419 @@
+{
+ "output": "ART-FR01_radeau.mp4",
+ "gap": 0.6,
+ "chapters": [
+  {
+   "id": "ch00_hook",
+   "shots": [
+    {
+     "type": "card",
+     "src": "img/radeau.jpg"
+    },
+    {
+     "cue": "Théodore Géricault l'a peint",
+     "type": "card",
+     "src": "img/gericault_vernet.jpg",
+     "bg": "img/radeau.jpg"
+    },
+    {
+     "cue": "À première vue",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.5,
+      0.5,
+      1.0
+     ],
+     "to": [
+      0.52,
+      0.5,
+      0.8
+     ]
+    },
+    {
+     "cue": "avec des hommes qui appellent",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.7,
+      0.3,
+      0.32
+     ],
+     "to": [
+      0.7,
+      0.22,
+      0.22
+     ]
+    },
+    {
+     "cue": "Mais plus on regarde",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.5,
+      0.8,
+      0.6
+     ],
+     "to": [
+      0.47,
+      0.8,
+      0.3
+     ]
+    },
+    {
+     "cue": "pourquoi cette toile a tant",
+     "type": "card",
+     "src": "img/louis18.jpg",
+     "bg": "img/radeau.jpg"
+    },
+    {
+     "cue": "Il y a un navire presque",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.8,
+      0.4,
+      0.24
+     ],
+     "to": [
+      0.815,
+      0.397,
+      0.07
+     ]
+    },
+    {
+     "cue": "Il y a une voile",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.27,
+      0.3,
+      0.45
+     ],
+     "to": [
+      0.33,
+      0.16,
+      0.3
+     ]
+    },
+    {
+     "cue": "Il y a des morts",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.14,
+      0.76,
+      0.26
+     ],
+     "to": [
+      0.36,
+      0.75,
+      0.28
+     ]
+    },
+    {
+     "cue": "Et pour peindre tout cela",
+     "type": "card",
+     "src": "img/etude_joseph.jpg",
+     "bg": "img/radeau.jpg"
+    },
+    {
+     "cue": "Alors regardons cette toile",
+     "type": "card",
+     "src": "img/radeau.jpg",
+     "zoom": [
+      1.06,
+      1.0
+     ]
+    },
+    {
+     "cue": "Parce qu'à la fin",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.52,
+      0.5,
+      0.8
+     ],
+     "to": [
+      0.62,
+      0.5,
+      0.6
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ch01",
+   "shots": [
+    {
+     "type": "card",
+     "src": "img/radeau.jpg",
+     "zoom": [
+      1.0,
+      1.05
+     ]
+    },
+    {
+     "cue": "Les personnages du premier plan",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.5,
+      0.8,
+      0.6
+     ],
+     "to": [
+      0.47,
+      0.8,
+      0.3
+     ]
+    },
+    {
+     "cue": "Maintenant, regardez en bas",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.36,
+      0.75,
+      0.28
+     ],
+     "to": [
+      0.29,
+      0.62,
+      0.24
+     ]
+    },
+    {
+     "cue": "la tête dans la main",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.29,
+      0.62,
+      0.24
+     ],
+     "to": [
+      0.285,
+      0.57,
+      0.11
+     ]
+    },
+    {
+     "cue": "Sur ses genoux",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.29,
+      0.62,
+      0.24
+     ],
+     "to": [
+      0.36,
+      0.75,
+      0.28
+     ]
+    },
+    {
+     "cue": "Il ne regarde pas l'horizon",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.285,
+      0.57,
+      0.11
+     ]
+    },
+    {
+     "cue": "Tous les autres se tournent",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.29,
+      0.62,
+      0.24
+     ],
+     "to": [
+      0.66,
+      0.44,
+      0.4
+     ]
+    },
+    {
+     "cue": "Lui, il tourne le dos",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.29,
+      0.62,
+      0.24
+     ]
+    },
+    {
+     "cue": "Remontez un peu",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.53,
+      0.55,
+      0.16
+     ],
+     "to": [
+      0.51,
+      0.36,
+      0.2
+     ]
+    },
+    {
+     "cue": "L'un d'eux tend le bras",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.51,
+      0.36,
+      0.2
+     ],
+     "to": [
+      0.56,
+      0.34,
+      0.2
+     ]
+    },
+    {
+     "cue": "Retenez bien ces visages",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.51,
+      0.36,
+      0.2
+     ]
+    },
+    {
+     "cue": "Puis suivez les bras",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.52,
+      0.62,
+      0.4
+     ],
+     "to": [
+      0.66,
+      0.44,
+      0.4
+     ]
+    },
+    {
+     "cue": "Tout en haut",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.7,
+      0.3,
+      0.32
+     ],
+     "to": [
+      0.7,
+      0.22,
+      0.22
+     ]
+    },
+    {
+     "cue": "Il agite un linge",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.7,
+      0.22,
+      0.22
+     ]
+    },
+    {
+     "cue": "À côté de lui",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.7,
+      0.22,
+      0.22
+     ],
+     "to": [
+      0.775,
+      0.33,
+      0.15
+     ]
+    },
+    {
+     "cue": "Que regardent-ils",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.775,
+      0.33,
+      0.15
+     ],
+     "to": [
+      0.8,
+      0.4,
+      0.24
+     ]
+    },
+    {
+     "cue": "Là. Ce minuscule",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.8,
+      0.4,
+      0.24
+     ],
+     "to": [
+      0.815,
+      0.397,
+      0.07
+     ]
+    },
+    {
+     "cue": "Il s'appelle l'Argus",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.815,
+      0.397,
+      0.07
+     ]
+    },
+    {
+     "cue": "Et à cet instant précis",
+     "type": "card",
+     "src": "img/radeau.jpg",
+     "zoom": [
+      1.0,
+      1.04
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ch02",
+   "shots": [
+    {
+     "type": "card",
+     "src": "img/fregate.jpg",
+     "bg": "img/radeau.jpg"
+    },
+    {
+     "cue": "la frégate La Méduse",
+     "type": "detail",
+     "src": "img/fregate.jpg",
+     "from": [
+      0.5,
+      0.5,
+      1.0
+     ],
+     "to": [
+      0.52,
+      0.5,
+      0.8
+     ]
+    },
+    {
+     "cue": "Son commandant s'appelle",
+     "type": "card",
+     "src": "img/louis18.jpg",
+     "bg": "img/radeau.jpg"
+    },
+    {
+     "cue": "Le 2 juillet",
+     "type": "card",
+     "src": "img/fregate.jpg",
+     "bg": "img/radeau.jpg",
+     "zoom": [
+      1.05,
+      1.0
+     ]
+    },
+    {
+     "cue": "Il y a environ quatre cents",
+     "type": "card",
+     "src": "img/plan_radeau.jpg",
+     "bg": "img/radeau.jpg"
+    },
+    {
+     "cue": "Alors on construit un radeau",
+     "type": "detail",
+     "src": "img/plan_radeau.jpg",
+     "from": [
+      0.5,
+      0.5,
+      1.0
+     ],
+     "to": [
+      0.52,
+      0.5,
+      0.8
+     ]
+    },
+    {
+     "cue": "On y entasse",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.6,
+      0.84,
+      0.3
+     ],
+     "to": [
+      0.5,
+      0.8,
+      0.6
+     ]
+    },
+    {
+     "cue": "L'eau leur monte",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.16,
+      0.92,
+      0.2
+     ],
+     "to": [
+      0.14,
+      0.76,
+      0.26
+     ]
+    },
+    {
+     "cue": "Les canots devaient",
+     "type": "card",
+     "src": "img/plan_radeau.jpg",
+     "bg": "img/radeau.jpg",
+     "zoom": [
+      1.05,
+      1.0
+     ]
+    },
+    {
+     "cue": "Le radeau est abandonné",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.9,
+      0.55,
+      0.2
+     ],
+     "to": [
+      0.8,
+      0.4,
+      0.24
+     ]
+    },
+    {
+     "cue": "Ce qui suit dure treize jours",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.45,
+      0.12,
+      0.5
+     ],
+     "to": [
+      0.07,
+      0.34,
+      0.28
+     ]
+    },
+    {
+     "cue": "Des hommes sont emportés",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.74,
+      0.87,
+      0.34
+     ]
+    },
+    {
+     "cue": "Puis viennent les mutineries",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.5,
+      0.8,
+      0.6
+     ],
+     "to": [
+      0.42,
+      0.47,
+      0.3
+     ]
+    },
+    {
+     "cue": "Et, au bout de quelques jours",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.14,
+      0.76,
+      0.26
+     ],
+     "to": [
+      0.285,
+      0.57,
+      0.11
+     ]
+    },
+    {
+     "cue": "Quand l'Argus les retrouve",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.8,
+      0.4,
+      0.24
+     ],
+     "to": [
+      0.815,
+      0.397,
+      0.07
+     ]
+    },
+    {
+     "cue": "ils ne sont plus que quinze",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.62,
+      0.5,
+      0.6
+     ],
+     "to": [
+      0.52,
+      0.5,
+      0.8
+     ]
+    },
+    {
+     "cue": "Une seconde, avant de continuer",
+     "type": "card",
+     "src": "img/radeau.jpg"
+    },
+    {
+     "cue": "Maintenant, revenons",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.52,
+      0.5,
+      0.8
+     ],
+     "to": [
+      0.51,
+      0.36,
+      0.2
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ch03",
+   "shots": [
+    {
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.51,
+      0.36,
+      0.2
+     ],
+     "to": [
+      0.56,
+      0.34,
+      0.2
+     ]
+    },
+    {
+     "cue": "Le scandale est énorme",
+     "type": "card",
+     "src": "img/louis18.jpg",
+     "bg": "img/radeau.jpg"
+    },
+    {
+     "cue": "Géricault a vingt-sept ans",
+     "type": "card",
+     "src": "img/gericault_vernet.jpg",
+     "bg": "img/radeau.jpg"
+    },
+    {
+     "cue": "Il rencontre Savigny",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.56,
+      0.34,
+      0.2
+     ],
+     "to": [
+      0.51,
+      0.36,
+      0.2
+     ]
+    },
+    {
+     "cue": "Avec eux, et avec le charpentier",
+     "type": "card",
+     "src": "img/plan_radeau.jpg",
+     "bg": "img/radeau.jpg"
+    },
+    {
+     "cue": "Puis il s'installe",
+     "type": "card",
+     "src": "img/esquisse.jpg",
+     "bg": "img/radeau.jpg"
+    },
+    {
+     "cue": "Et c'est là que l'histoire",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.14,
+      0.76,
+      0.26
+     ]
+    },
+    {
+     "cue": "Il dessine les corps",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.36,
+      0.75,
+      0.28
+     ],
+     "to": [
+      0.14,
+      0.76,
+      0.26
+     ]
+    },
+    {
+     "cue": "Il observe le visage",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.285,
+      0.57,
+      0.11
+     ]
+    },
+    {
+     "cue": "Il rapporte dans son atelier",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.16,
+      0.92,
+      0.2
+     ],
+     "to": [
+      0.74,
+      0.87,
+      0.34
+     ]
+    },
+    {
+     "cue": "Il se rase la tête",
+     "type": "card",
+     "src": "img/gericault_vernet.jpg",
+     "bg": "img/radeau.jpg",
+     "zoom": [
+      1.05,
+      1.0
+     ]
+    },
+    {
+     "cue": "Il travaille ainsi",
+     "type": "card",
+     "src": "img/esquisse.jpg",
+     "bg": "img/radeau.jpg",
+     "zoom": [
+      1.05,
+      1.0
+     ]
+    },
+    {
+     "cue": "Ses modèles sont ses proches",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.52,
+      0.5,
+      0.8
+     ],
+     "to": [
+      0.5,
+      0.8,
+      0.6
+     ]
+    },
+    {
+     "cue": "L'homme étendu face contre",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.5,
+      0.8,
+      0.6
+     ],
+     "to": [
+      0.47,
+      0.8,
+      0.3
+     ]
+    },
+    {
+     "cue": "c'est un jeune peintre",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.47,
+      0.8,
+      0.3
+     ]
+    },
+    {
+     "cue": "Près du mât, les deux hommes",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.53,
+      0.55,
+      0.16
+     ],
+     "to": [
+      0.51,
+      0.36,
+      0.2
+     ]
+    },
+    {
+     "cue": "Et l'homme tout en haut",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.62,
+      0.5,
+      0.6
+     ],
+     "to": [
+      0.7,
+      0.3,
+      0.32
+     ]
+    },
+    {
+     "cue": "a été peint d'après",
+     "type": "card",
+     "src": "img/etude_joseph.jpg",
+     "bg": "img/radeau.jpg"
+    },
+    {
+     "cue": "que l'on appelait Joseph",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.7,
+      0.22,
+      0.22
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ch04",
+   "shots": [
+    {
+     "type": "card",
+     "src": "img/radeau.jpg"
+    },
+    {
+     "cue": "Premier détail",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.14,
+      0.76,
+      0.26
+     ],
+     "to": [
+      0.36,
+      0.75,
+      0.28
+     ]
+    },
+    {
+     "cue": "Après treize jours",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.285,
+      0.57,
+      0.11
+     ],
+     "to": [
+      0.29,
+      0.62,
+      0.24
+     ]
+    },
+    {
+     "cue": "Ici, les morts ont des muscles",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.47,
+      0.8,
+      0.3
+     ],
+     "to": [
+      0.74,
+      0.87,
+      0.34
+     ]
+    },
+    {
+     "cue": "Géricault a étudié de vrais",
+     "type": "card",
+     "src": "img/etude_joseph.jpg",
+     "bg": "img/radeau.jpg",
+     "zoom": [
+      1.05,
+      1.0
+     ]
+    },
+    {
+     "cue": "Deuxième détail",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.33,
+      0.16,
+      0.3
+     ],
+     "to": [
+      0.27,
+      0.3,
+      0.45
+     ]
+    },
+    {
+     "cue": "Le vent la gonfle",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.27,
+      0.3,
+      0.45
+     ],
+     "to": [
+      0.07,
+      0.34,
+      0.28
+     ]
+    },
+    {
+     "cue": "Le navire est à droite",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.52,
+      0.5,
+      0.8
+     ],
+     "to": [
+      0.8,
+      0.4,
+      0.24
+     ]
+    },
+    {
+     "cue": "Le radeau est donc poussé",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.8,
+      0.4,
+      0.24
+     ],
+     "to": [
+      0.27,
+      0.3,
+      0.45
+     ]
+    },
+    {
+     "cue": "Troisième détail",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.27,
+      0.3,
+      0.45
+     ],
+     "to": [
+      0.07,
+      0.34,
+      0.28
+     ]
+    },
+    {
+     "cue": "Personne ne la regarde",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.07,
+      0.34,
+      0.28
+     ]
+    },
+    {
+     "cue": "Quatrième détail",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.8,
+      0.4,
+      0.24
+     ],
+     "to": [
+      0.815,
+      0.397,
+      0.07
+     ]
+    },
+    {
+     "cue": "Dans les premières esquisses",
+     "type": "card",
+     "src": "img/esquisse.jpg",
+     "bg": "img/radeau.jpg"
+    },
+    {
+     "cue": "Géricault l'a réduit",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.8,
+      0.4,
+      0.24
+     ],
+     "to": [
+      0.815,
+      0.397,
+      0.07
+     ]
+    },
+    {
+     "cue": "Il n'a pas choisi",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.7,
+      0.3,
+      0.32
+     ],
+     "to": [
+      0.775,
+      0.33,
+      0.15
+     ]
+    },
+    {
+     "cue": "et où le navire ne les voit pas",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.815,
+      0.397,
+      0.07
+     ]
+    },
+    {
+     "cue": "D'après les survivants",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.9,
+      0.55,
+      0.2
+     ],
+     "to": [
+      0.8,
+      0.4,
+      0.24
+     ]
+    },
+    {
+     "cue": "Et il y a une chose",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.5,
+      0.8,
+      0.6
+     ],
+     "to": [
+      0.42,
+      0.47,
+      0.3
+     ]
+    },
+    {
+     "cue": "Géricault avait dessiné",
+     "type": "card",
+     "src": "img/esquisse.jpg",
+     "bg": "img/radeau.jpg",
+     "zoom": [
+      1.05,
+      1.0
+     ]
+    },
+    {
+     "cue": "Sur le tableau, l'horreur",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.16,
+      0.92,
+      0.2
+     ],
+     "to": [
+      0.14,
+      0.76,
+      0.26
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ch05",
+   "shots": [
+    {
+     "type": "card",
+     "src": "img/radeau.jpg"
+    },
+    {
+     "cue": "sous un titre prudent",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.52,
+      0.5,
+      0.8
+     ],
+     "to": [
+      0.62,
+      0.5,
+      0.6
+     ]
+    },
+    {
+     "cue": "On raconte que Louis",
+     "type": "card",
+     "src": "img/louis18.jpg",
+     "bg": "img/radeau.jpg"
+    },
+    {
+     "cue": "Monsieur, vous venez",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.62,
+      0.5,
+      0.6
+     ],
+     "to": [
+      0.7,
+      0.3,
+      0.32
+     ]
+    },
+    {
+     "cue": "Le tableau reçoit une médaille",
+     "type": "card",
+     "src": "img/radeau.jpg",
+     "zoom": [
+      1.05,
+      1.0
+     ]
+    },
+    {
+     "cue": "L'année suivante",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.45,
+      0.12,
+      0.5
+     ],
+     "to": [
+      0.33,
+      0.16,
+      0.3
+     ]
+    },
+    {
+     "cue": "Environ quarante mille",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.52,
+      0.62,
+      0.4
+     ],
+     "to": [
+      0.66,
+      0.44,
+      0.4
+     ]
+    },
+    {
+     "cue": "Puis la toile est roulée",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.42,
+      0.47,
+      0.3
+     ]
+    },
+    {
+     "cue": "Géricault meurt en janvier",
+     "type": "card",
+     "src": "img/gericault_vernet.jpg",
+     "bg": "img/radeau.jpg"
+    },
+    {
+     "cue": "Quelques mois plus tard",
+     "type": "card",
+     "src": "img/radeau.jpg"
+    }
+   ]
+  },
+  {
+   "id": "ch06",
+   "shots": [
+    {
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.52,
+      0.5,
+      0.8
+     ],
+     "to": [
+      0.42,
+      0.47,
+      0.3
+     ]
+    },
+    {
+     "cue": "Pour obtenir ces ombres",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.42,
+      0.47,
+      0.3
+     ],
+     "to": [
+      0.53,
+      0.55,
+      0.16
+     ]
+    },
+    {
+     "cue": "C'est un brun magnifique",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.29,
+      0.62,
+      0.24
+     ],
+     "to": [
+      0.285,
+      0.57,
+      0.11
+     ]
+    },
+    {
+     "cue": "Avec le temps, il noircit",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.14,
+      0.76,
+      0.26
+     ],
+     "to": [
+      0.16,
+      0.92,
+      0.2
+     ]
+    },
+    {
+     "cue": "Les parties sombres",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.27,
+      0.3,
+      0.45
+     ],
+     "to": [
+      0.42,
+      0.47,
+      0.3
+     ]
+    },
+    {
+     "cue": "Les restaurateurs peuvent",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.6,
+      0.84,
+      0.3
+     ],
+     "to": [
+      0.74,
+      0.87,
+      0.34
+     ]
+    },
+    {
+     "cue": "Alors, pourquoi cette toile",
+     "type": "card",
+     "src": "img/radeau.jpg"
+    },
+    {
+     "cue": "Elle montre des hommes ordinaires",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.5,
+      0.8,
+      0.6
+     ],
+     "to": [
+      0.52,
+      0.62,
+      0.4
+     ]
+    },
+    {
+     "cue": "abandonnés par ceux",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.29,
+      0.62,
+      0.24
+     ]
+    },
+    {
+     "cue": "Et tout en haut de cette pyramide",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.62,
+      0.5,
+      0.6
+     ],
+     "to": [
+      0.7,
+      0.3,
+      0.32
+     ]
+    },
+    {
+     "cue": "est un homme noir",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.7,
+      0.3,
+      0.32
+     ],
+     "to": [
+      0.7,
+      0.22,
+      0.22
+     ]
+    },
+    {
+     "cue": "Beaucoup d'historiens",
+     "type": "card",
+     "src": "img/etude_joseph.jpg",
+     "bg": "img/radeau.jpg"
+    },
+    {
+     "cue": "Le tableau, lui, continue",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.52,
+      0.5,
+      0.8
+     ],
+     "to": [
+      0.42,
+      0.47,
+      0.3
+     ]
+    },
+    {
+     "cue": "Mais le petit point clair",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.8,
+      0.4,
+      0.24
+     ],
+     "to": [
+      0.815,
+      0.397,
+      0.07
+     ]
+    },
+    {
+     "cue": "Si cette toile vous a surpris",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.815,
+      0.397,
+      0.07
+     ],
+     "to": [
+      0.8,
+      0.4,
+      0.24
+     ]
+    },
+    {
+     "cue": "Abonnez-vous",
+     "type": "card",
+     "src": "img/radeau.jpg",
+     "zoom": [
+      1.0,
+      1.05
+     ]
+    }
+   ]
+  }
+ ]
+}

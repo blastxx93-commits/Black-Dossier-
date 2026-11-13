@@ -48,8 +48,13 @@ if __name__ == "__main__":
     ep = os.path.join("episodes", a.episode)
     out = a.out or os.path.join(ep, "edit", "img")
     os.makedirs(out, exist_ok=True)
-    cred = []
+    cp = os.path.join(ep, "credits.json")
+    cred = json.load(open(cp)) if os.path.exists(cp) else []
+    have = {c["file"] for c in cred}
     for it in json.load(open(os.path.join(ep, "images.json"))):
-        cred.append(fetch(it["title"], it.get("width", 1920), os.path.join(out, it["file"])))
-        time.sleep(6)
-    json.dump(cred, open(os.path.join(ep, "credits.json"), "w"), ensure_ascii=False, indent=1)
+        dst = os.path.join(out, it["file"])
+        if it["file"] in have and os.path.exists(dst):      # já baixada: pula (pode rodar de novo sem repetir)
+            continue
+        cred = [c for c in cred if c["file"] != it["file"]] + [fetch(it["title"], it.get("width", 1920), dst)]
+        json.dump(cred, open(cp, "w"), ensure_ascii=False, indent=1)
+        time.sleep(8)
