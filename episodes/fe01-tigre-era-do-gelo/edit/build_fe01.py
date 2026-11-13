@@ -19,7 +19,7 @@ PHOTOS = {
     "tigre": ai("tiger_taiga", "tiger_stalk", "tiger_leap", "tiger_roar", "tiger_paw", "tiger_claws", "tiger_ridge", "tiger_dusk",
                 "tiger_river", "tiger_ambush", "tiger_walk_steppe", "tiger_rest", "tiger_profile_snow", "tiger_back_view",
                 "tiger_jump_log", "tiger_shake_snow", "tiger_lying_eyes", "tiger_cliff_wind", "tiger_night_snow", "tiger_tracks_line",
-                "tiger_mouth_close", "tiger_run_snow", "tiger_drink_ice", "tiger_glacier", "tiger_forest_dawn", "tiger_snow_close", "tiger_river_cross", "tiger_rock_sit", "tiger_stretch", "tiger_walk_fog", "tiger_grass_frost", "tiger_steppe_wide", "tiger_camtrap") + ["p_amur_tiger"],
+                "tiger_mouth_close", "tiger_run_snow", "tiger_drink_ice", "tiger_glacier", "tiger_forest_dawn", "tiger_snow_close", "tiger_river_cross", "tiger_rock_sit", "tiger_stretch", "tiger_walk_fog", "tiger_grass_frost", "tiger_steppe_wide", "tiger_camtrap", "tiger_portrait_side", "tiger_yawn", "tiger_birch", "tiger_sunlit", "tiger_paws_walk", "tiger_look_back", "tiger_frozen_lake", "tiger_whiskers") + ["p_amur_tiger"],
     "lobo": ai("direwolf_portrait", "direwolf_pack", "direwolf_vs_tiger", "direwolf_circle", "direwolf_teeth", "direwolf_alone") + ["p_dire_wolf"],
     "alce": ai("megaloceros_portrait", "megaloceros_herd", "megaloceros_vs_tiger", "megaloceros_antlers", "megaloceros_forest",
                "megaloceros_charge", "megaloceros_snow") + ["p_megaloceros_skeleton", "p_gaur"],
@@ -45,7 +45,7 @@ FALLBACK = {k: ["tigre", "hook"] for k in PHOTOS}   # a round may show the tiger
 FALLBACK.update({"tigre": ["final"], "hook": ["tigre"], "final": ["tigre"], "humano": ["hook"]})
 A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FALLBACK, ["tigre"])
 A.CLIP_TARGET = 0.40
-A.MAX_HOLD, A.KEEP = 5.0, 3.2       # very dynamic: nothing holds more than ~4.5 s
+A.MAX_HOLD, A.KEEP = 5.6, 3.4       # very dynamic: nothing holds more than ~4.5 s
 ch = A.ch
 chapters = []
 

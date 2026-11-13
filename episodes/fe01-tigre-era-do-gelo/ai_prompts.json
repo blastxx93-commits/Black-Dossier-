@@ -746,6 +746,46 @@
    "id": "ai_final_sunrise",
    "prompt": "Sunrise over a snowy taiga forest, golden light, peaceful, no animals",
    "tier": "cheap"
+  },
+  {
+   "id": "ai_tiger_portrait_side",
+   "prompt": "Side portrait of a Siberian tiger (orange coat with black stripes, white chest, four legs, one tail) head and shoulders, snowy forest blurred behind",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_tiger_yawn",
+   "prompt": "Close-up of a Siberian tiger (orange coat with black stripes, white chest, four legs, one tail) yawning, showing teeth, snow on fur, soft light",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_tiger_birch",
+   "prompt": "a Siberian tiger (orange coat with black stripes, white chest, four legs, one tail) walking between white birch trees in deep snow",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_tiger_sunlit",
+   "prompt": "Telephoto of a Siberian tiger (orange coat with black stripes, white chest, four legs, one tail) standing in golden winter sunlight on a snowy hill",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_tiger_paws_walk",
+   "prompt": "Low angle close-up of the large front paws of a Siberian tiger (orange coat with black stripes, white chest, four legs, one tail) stepping in snow",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_tiger_look_back",
+   "prompt": "a Siberian tiger (orange coat with black stripes, white chest, four legs, one tail) looking back over its shoulder in a snowy clearing",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_tiger_frozen_lake",
+   "prompt": "a Siberian tiger (orange coat with black stripes, white chest, four legs, one tail) walking across a frozen lake, snowy mountains far behind",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_tiger_whiskers",
+   "prompt": "Extreme close-up of the eye and whiskers of a Siberian tiger (orange coat with black stripes, white chest, four legs, one tail), frost crystals",
+   "tier": "cheap"
   }
  ]
 }
