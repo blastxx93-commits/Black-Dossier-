@@ -90,12 +90,12 @@ def cloudflare_image(prompt, seed):
     if CF_OFF[0]:
         raise RuntimeError("Cloudflare desligado nesta execução (sem cota)")
     url = f"https://api.cloudflare.com/client/v4/accounts/{CF_ACCOUNT}/ai/run/@cf/black-forest-labs/flux-1-schnell"
-    r = requests.post(url, json={"prompt": prompt[:2000], "steps": 8, "seed": seed},
+    r = requests.post(url, json={"prompt": prompt[:2000], "steps": 8},
                       headers={"Authorization": f"Bearer {CF_TOKEN}"}, timeout=180)
     if r.status_code == 429 or "neurons" in r.text.lower() and r.status_code >= 400:
         CF_OFF[0] = True
     if r.status_code >= 400:
-        raise RuntimeError(f"Cloudflare {r.status_code}: {r.text[:200]}")
+        raise RuntimeError(f"Cloudflare {r.status_code}: {r.text[:400]}")
     data = (r.json().get("result") or {}).get("image")
     if not data:
         raise RuntimeError(f"Cloudflare sem imagem: {r.text[:200]}")
