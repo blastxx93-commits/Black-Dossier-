@@ -26,3 +26,12 @@ Referência de edição: vídeo do tigre do Mundo Fósil (enviado pelo dono em 1
   fora de época, artefatos. Reprovadas vão para `edit/skip.json` e são regeradas.
 - **Narração revisada** capítulo por capítulo: transcrição x roteiro (palavras trocadas, sons estranhos), tom e silêncios (`qa_narracao.md`).
 - Clipes: mínimo 1080p, sem marca d'água, só o animal certo.
+
+## Economia no Replicate (pedido do dono, 13/11/2026)
+- Meta: **~60–70 imagens de IA por vídeo** (o fe01 precisou de ~140 por falta de clipes).
+- **Duas faixas de modelo** (`"tier"` no ai_prompts.json): `"hero"` = Flux 1.1 Pro Ultra (~US$0,06) só para o animal em destaque
+  e os duelos; `"cheap"` = Flux Dev (mais barato), ampliado para 1080p, para paisagens, fundos, detalhes, pegadas, cavernas.
+- **Mais clipes reais grátis** (Pixabay, Unsplash, Pexels se houver chave) antes de pedir cena de IA; buscas simples ("tiger", "wolf").
+- Fundos das cartelas reaproveitam a cena desfocada (nenhuma imagem nova para cartela).
+- Cada rodada usa as próprias imagens + as do tigre e da paisagem (o tigre aparece em todas as rodadas).
+- Prompts revisados antes de gerar (anatomia descrita explicitamente) para reduzir regerações.

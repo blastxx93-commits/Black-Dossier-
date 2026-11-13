@@ -21,6 +21,7 @@ from PIL import Image
 
 API = "https://api.replicate.com/v1"
 DEFAULT_MODEL = "black-forest-labs/flux-1.1-pro-ultra"
+CHEAP_MODEL = "black-forest-labs/flux-dev"   # ~1/2 to 1/3 of the Ultra price; for non-hero shots
 GUARD = (" Nobody's face is recognizable; no real person's likeness; people only from behind or far away."
          " No text, no logos, no watermark.")
 # thumbnails: an invented illustrated character may show his face, but never a real person's likeness
@@ -217,8 +218,16 @@ def main():
         prompt = sh["prompt"].rstrip(". ") + sh.get("style", style) + guard
         files = []
         for k in range(1, n + 1):
-            inp = {"prompt": prompt, "aspect_ratio": "16:9", "output_format": "jpg",
-                   "safety_tolerance": 2, "raw": bool(sh.get("raw", spec.get("raw", True))), "seed": 1000 * k + len(sid)}
+            # economy (owner, 13/11/2026): "tier": "cheap" shots (landscapes, backgrounds, details) use a much cheaper
+            # Flux model; only the hero animal shots use Ultra. The cheap result is upscaled to 1920x1080.
+            tier = sh.get("tier", spec.get("tier", "hero"))
+            m_shot = sh.get("model") or (spec.get("cheap_model", CHEAP_MODEL) if tier == "cheap" else model)
+            if m_shot == model:
+                inp = {"prompt": prompt, "aspect_ratio": "16:9", "output_format": "jpg",
+                       "safety_tolerance": 2, "raw": bool(sh.get("raw", spec.get("raw", True))), "seed": 1000 * k + len(sid) + 7 * a.attempt}
+            else:
+                inp = {"prompt": prompt, "aspect_ratio": "16:9", "output_format": "jpg", "output_quality": 95,
+                       "seed": 1000 * k + len(sid) + 7 * a.attempt}
             try:
                 img = None
                 if FREE:
@@ -237,8 +246,10 @@ def main():
                             raise
                         print(f"{sid}_{k}: Gemini falhou ({str(e)[:120]}), tentando Replicate", flush=True)
                 if img is None:
-                    url = predict(s, model, inp)
+                    url = predict(s, m_shot, inp)
                     img = Image.open(io.BytesIO(requests.get(url, timeout=120).content)).convert("RGB")
+                    if img.width < 1920:
+                        img = _hd(img)
                 fp = os.path.join(ai_dir, f"{sid}_{k}.jpg")
                 img.save(fp, quality=92)
                 files.append(fp); cost_n += 1
