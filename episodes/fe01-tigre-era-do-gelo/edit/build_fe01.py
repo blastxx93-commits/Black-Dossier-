@@ -41,8 +41,8 @@ PHOTOS = {
 }
 CLIPS = json.load(open(os.path.join(HERE, "clips.json")))
 GENERIC = CLIPS.pop("_generic", [])
-FALLBACK = {k: ["tigre", "hook"] for k in PHOTOS}
-FALLBACK.update({"tigre": ["hook", "final"], "final": ["tigre"], "humano": ["mamute", "final"]})
+FALLBACK = {k: ["tigre", "hook"] for k in PHOTOS}   # a round may show the tiger (the fighter) or the Ice Age landscape
+FALLBACK.update({"tigre": ["final"], "hook": ["tigre"], "final": ["tigre"], "humano": ["hook"]})
 A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FALLBACK, ["tigre"])
 A.CLIP_TARGET = 0.40
 A.MAX_HOLD, A.KEEP = 5.0, 3.2       # very dynamic: nothing holds more than ~4.5 s
@@ -69,6 +69,7 @@ beats(c, "hook", ["Em outras, ele vira", "E uma dessas feras"])
 c.at("vinte e oito centímetros", foot("smilodon"))
 F.questions(c, ["Ele vence o Smilodon?", "Quantas rodadas ele aguenta?", "Qual é a rodada mais perigosa?"],
             ["Será que o tigre", "Quantas rodadas", "E por que a rodada"], "hook")
+c.at("não é contra um monstro", foot("hook"))
 c.at("Fique até o fim", foot("tigre"))
 chapters.append(c)
 

@@ -16,7 +16,32 @@ K.SFX.update({n: (f"sfx/{n}.wav", g) for n, g in {
     "reverse": -21, "impact": -15, "thud": -16, "bell": -20, "tick": -22, "shutter": -18, "stinger": -17, "win": -18,
     "heartbeat": -15, "growl": -18, "snow": -24}.items()})
 fx = K.fx
-A.CFG["review_ai"] = True   # owner rule (13/11/2026): AI images too only after review (edit/reviewed.json)
+A.CFG["review_ai"] = True
+_orig_photo = A._photo
+
+
+def _photo_strict(scene, move=None, cap=None, **kw):
+    """Owner rule (13/11/2026): never an image unrelated to the moment. A scene only borrows from the scenes listed
+    in its own fallback (e.g. the wolf round from the tiger and the Ice Age landscape), never from another beast;
+    when those run out the build stops and asks for more images instead of filling with anything."""
+    allowed = [scene] + CFG_FALLBACK(scene)
+    for sc in allowed:
+        pl = A._pool(sc)
+        while pl:
+            f = pl.pop(0)
+            if f not in A.CFG["reserved"] and A.claim(f):
+                A.COUNT["img"] += 1
+                if move is None:
+                    move = A.MOVES[A._mv[0] % len(A.MOVES)]; A._mv[0] += 1
+                return K.img(f, move, cap=cap, **kw)
+    sys.exit(f"Sem imagens novas e revisadas para '{scene}' (nem em {allowed[1:]}) — gerar mais cenas")
+
+
+def CFG_FALLBACK(scene):
+    return list(A.CFG["fallback"].get(scene, []))
+
+
+A._photo = _photo_strict   # owner rule (13/11/2026): AI images too only after review (edit/reviewed.json)
 
 # transition kind -> sounds that fit it (rotated)
 TRANS_SFX = {"fade": [None, "whoosh_c", None], "slide": ["swipe", "whoosh_b"], "zoom": ["whoosh_a", "whoosh_low"],

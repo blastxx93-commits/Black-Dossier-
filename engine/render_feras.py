@@ -680,7 +680,28 @@ def transition(ctx, kind, a, b, t):
         g = ImageOps.grayscale(b).convert("RGB")
         mid = Image.blend(ImageOps.grayscale(a).convert("RGB"), g, min(1, (e - 0.5) * 4))
         return Image.blend(mid, b, (e - 0.5) * 2)
-    return _base_transition(ctx, {"rise": "slide"}.get(kind, kind), a, b, t)
+    if kind in ("whip", "slide", "rise"):   # edge-safe: everything moves inside an over-scaled frame, no empty border
+        def shift(im, dx, z=1.18):
+            cw, ch = W / z, H / z
+            x0 = (W - cw) / 2 - dx / z
+            x0 = min(max(x0, 0), W - cw)
+            return im.transform((W, H), Image.EXTENT, (x0, (H - ch) / 2, x0 + cw, (H + ch) / 2), Image.BICUBIC)
+        if kind == "whip":
+            src, off, k = (a, -e / 0.5, e / 0.5) if e < 0.5 else (b, (1 - e) / 0.5, (1 - e) / 0.5)
+            im = shift(src, off * W * 0.15)
+            if k > 0.05:
+                small = im.resize((W // 4, H // 4), Image.BILINEAR).filter(ImageFilter.BoxBlur(max(1, int(ctx.px(90) * k) // 8)))
+                im = Image.blend(im, small.resize((W, H), Image.BILINEAR), min(1, k * 1.3))
+            return im
+        out = shift(a, e * W * 0.15)
+        bb = b
+        m = Image.new("L", (W, H), 0)
+        ImageDraw.Draw(m).rectangle([(1 - e) * W, 0, W, H], fill=255)
+        out = out.copy(); out.paste(bb, (0, 0), m)
+        if 0 < e < 1:
+            ImageDraw.Draw(out).rectangle([(1 - e) * W - ctx.px(10), 0, (1 - e) * W, H], fill=B["ivory"])
+        return out
+    return _base_transition(ctx, kind, a, b, t)
 
 
 A.pick_trans, A.transition = pick_trans, transition
