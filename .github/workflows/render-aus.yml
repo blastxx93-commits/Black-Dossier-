@@ -60,7 +60,7 @@ jobs:
           bash main/agent/render_workdir.sh "${{ inputs.episode }}"
       - name: Renderizar parte ${{ matrix.k }}
         working-directory: main/engine
-        run: python3 $( [[ "${{ inputs.episode }}" == ant* ]] && echo render_ant.py || echo render_aus.py ) "$GITHUB_WORKSPACE/work/episode.json" --part ${{ matrix.k }}/${{ inputs.parts }} "$GITHUB_WORKSPACE/part_${{ matrix.k }}.mp4"
+        run: python3 $( case "${{ inputs.episode }}" in ant*) echo render_ant.py;; fe*) echo render_feras.py;; *) echo render_aus.py;; esac ) "$GITHUB_WORKSPACE/work/episode.json" --part ${{ matrix.k }}/${{ inputs.parts }} "$GITHUB_WORKSPACE/part_${{ matrix.k }}.mp4"
       - uses: actions/upload-artifact@v4
         with:
           name: parte-${{ matrix.k }}
@@ -87,7 +87,7 @@ jobs:
           bash main/agent/render_workdir.sh "${{ inputs.episode }}"
       - name: Mixar áudio
         working-directory: main/engine
-        run: python3 $( [[ "${{ inputs.episode }}" == ant* ]] && echo render_ant.py || echo render_aus.py ) "$GITHUB_WORKSPACE/work/episode.json" --audio "$GITHUB_WORKSPACE/mix.wav"
+        run: python3 $( case "${{ inputs.episode }}" in ant*) echo render_ant.py;; fe*) echo render_feras.py;; *) echo render_aus.py;; esac ) "$GITHUB_WORKSPACE/work/episode.json" --audio "$GITHUB_WORKSPACE/mix.wav"
       - uses: actions/upload-artifact@v4
         with:
           name: audio
@@ -107,7 +107,7 @@ jobs:
         run: |
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
           pip install -q pillow numpy scipy
-          mkdir -p ~/.fonts && cp main/engine/fonts/*.otf ~/.fonts/ && fc-cache -f > /dev/null
+          mkdir -p ~/.fonts && cp main/engine/fonts/*.otf main/engine/fonts/*.ttf ~/.fonts/ && fc-cache -f > /dev/null
           mkdir -p work && cp main/episodes/${{ inputs.episode }}/edit/episode.json work/
           cp main/episodes/${{ inputs.episode }}/edit/*.ass work/ 2>/dev/null || true
       - uses: actions/download-artifact@v4
@@ -123,7 +123,7 @@ jobs:
           NAME="${OUT%.mp4}"
           ls "$GITHUB_WORKSPACE"/parts/*/
           PARTS=$(for k in $(seq 1 ${{ inputs.parts }}); do printf '%s ' "$GITHUB_WORKSPACE/parts/parte-$k/part_$k.mp4"; done)
-          python3 $( [[ "${{ inputs.episode }}" == ant* ]] && echo render_ant.py || echo render_aus.py ) "$GITHUB_WORKSPACE/work/episode.json" --join "$GITHUB_WORKSPACE/parts/audio/mix.wav" \
+          python3 $( case "${{ inputs.episode }}" in ant*) echo render_ant.py;; fe*) echo render_feras.py;; *) echo render_aus.py;; esac ) "$GITHUB_WORKSPACE/work/episode.json" --join "$GITHUB_WORKSPACE/parts/audio/mix.wav" \
             "$GITHUB_WORKSPACE/final/$NAME.mp4" --delivery "$GITHUB_WORKSPACE/final/${NAME}_entrega.mp4" $PARTS > join.log 2>&1 \
             || { echo "::error title=join::$( (ls -R "$GITHUB_WORKSPACE/parts" | head -20; tail -c 1500 join.log) | tr '\n' ' ')"; exit 1; }
           cat join.log

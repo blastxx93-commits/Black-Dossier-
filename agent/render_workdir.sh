@@ -7,6 +7,8 @@ mkdir -p work
 ln -sfn "$PWD/assets/$EP" work/a
 ln -sfn "$PWD/assets/$EP/narration_audio" work/audio
 python3 main/engine/aus_audio.py work
+# canal Era das Feras: kit próprio de efeitos (vários whooshes, sino, impacto, veredito...)
+case "$EP" in fe*) python3 main/engine/feras_audio.py work ;; esac
 # per-episode music style (channel rule 01/11/2026): edit/music.txt = "<style> <seed>"
 if [ -f "main/episodes/$EP/edit/music.txt" ]; then
   read -r STYLE SEED < "main/episodes/$EP/edit/music.txt"
@@ -18,5 +20,5 @@ if [ -f "main/episodes/$EP/edit/trilha.json" ]; then
 fi
 cp "main/episodes/$EP/edit/episode.json" work/
 cp main/episodes/"$EP"/edit/*.ass work/ 2>/dev/null || true
-mkdir -p ~/.fonts && cp main/engine/fonts/*.otf ~/.fonts/ && fc-cache -f > /dev/null || true
+mkdir -p ~/.fonts && cp main/engine/fonts/*.otf main/engine/fonts/*.ttf ~/.fonts/ && fc-cache -f > /dev/null || true
 echo "pasta de render pronta: $(ls work)"
