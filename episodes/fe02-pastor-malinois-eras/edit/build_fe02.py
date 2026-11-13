@@ -34,7 +34,7 @@ CLIPS = {"caes": CLIPS["gs"] + CLIPS["ml"] + CLIPS["dogs"], "pastor": CLIPS["gs"
 FALLBACK = {k: ["caes", "pastor", "malinois"] for k in PHOTOS}
 FALLBACK.update({"caes": ["pastor", "malinois"], "pastor": ["caes"], "malinois": ["caes"], "final": ["caes", "iceage", "pastor", "malinois"]})
 PIN_IDS = ["ai_meganeura", "ai_arthropleura", "ai_inostrancevia_portrait", "ai_coelophysis", "ai_allosaurus_portrait", "ai_trex_portrait",
-           "ai_titanoboa", "ai_gs_panting_heat", "ai_direwolf", "ai_terrorbird", "ai_iceage_blizzard", "ai_inostrancevia_ambush"]
+           "ai_titanoboa", "ai_gs_panting_heat", "ai_direwolf", "ai_terrorbird", "ai_iceage_blizzard", "ai_inostrancevia_ambush", "ai_gs_tired"]
 A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, [], FALLBACK, ["caes"])
 F.pin(*PIN_IDS)
 A.CLIP_TARGET = 0.30
@@ -65,7 +65,8 @@ def close(c, phrase_v, scene, winner, text, phrase_s=None, new=None, sub="", img
 
 # ---------------------------------------------------------------- hook
 c = ch("ch00_hook")
-c.at(0, label("pastor", "Paleoceno · 30 °C|Pastor Alemão"))
+import edit_kit as K
+c.at(0, K.img(F.pinned("ai_gs_tired")[2:], "in", cap="Paleoceno · 30 °C|Pastor Alemão"))
 beats(c, "paleocene", ["Faz mais de trinta graus"])
 c.at("a pelagem grossa", foot("pastor"))
 c.at("Chega à margem do rio", foot("paleocene"))

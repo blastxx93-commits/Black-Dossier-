@@ -74,28 +74,28 @@
    "tail": 0.8,
    "shots": [
     {
+     "type": "image",
+     "src": "a/ai/ai_gs_tired_1.jpg",
+     "move": "in",
+     "caption": "Paleoceno · 30 °C|Pastor Alemão",
+     "dur": 2.1,
+     "fixed": true,
+     "motion": "dolly"
+    },
+    {
      "type": "video",
-     "src": "a/video/v_gs/1_pixabay.mp4",
+     "src": "a/video/v_snake/3_pixabay.mp4",
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "caption": "Paleoceno · 30 °C|Pastor Alemão",
-     "dur": 2.1,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/ai/ai_paleocene_jungle_1.jpg",
-     "move": "in",
      "dur": 3.7,
      "fixed": true,
-     "motion": "dolly",
      "trans": "fade"
     },
     {
      "type": "image",
      "src": "a/ai/ai_gs_portrait_1.jpg",
-     "move": "left",
+     "move": "in",
      "dur": 4.22,
      "fixed": true,
      "motion": "drift",
@@ -110,8 +110,8 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_titanoboa_head_1.jpg",
-     "move": "out",
+     "src": "a/ai/ai_paleocene_jungle_1.jpg",
+     "move": "left",
      "dur": 3.52,
      "fixed": true,
      "motion": "orbit",
@@ -125,14 +125,13 @@
      ]
     },
     {
-     "type": "video",
-     "src": "a/video/v_snake/3_pixabay.mp4",
-     "fit": "crop",
-     "start": 0,
-     "xfade": 0.35,
+     "type": "image",
+     "src": "a/ai/ai_titanoboa_head_1.jpg",
+     "move": "out",
      "dur": 2.82,
      "fixed": true,
-     "speed": 0.7,
+     "motion": "handheld",
+     "leak": true,
      "trans": "blur",
      "sfx": [
       {
@@ -155,13 +154,14 @@
      "trans": "blur"
     },
     {
-     "type": "image",
-     "src": "a/ai/ai_trex_vs_dogs_1.jpg",
-     "move": "right",
+     "type": "video",
+     "src": "a/video/v_volcano/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
      "dur": 5.72,
      "fixed": true,
-     "motion": "handheld",
-     "leak": true,
+     "speed": 0.7,
      "trans": "zoom",
      "sfx": [
       {
@@ -173,8 +173,8 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_trex_head_1.jpg",
-     "move": "in",
+     "src": "a/ai/ai_trex_vs_dogs_1.jpg",
+     "move": "right",
      "dur": 1.38,
      "fixed": true,
      "motion": "punchin",
@@ -188,13 +188,12 @@
      ]
     },
     {
-     "type": "video",
-     "src": "a/video/v_gs/4_pixabay.mp4",
-     "fit": "crop",
-     "start": 0,
-     "xfade": 0.35,
+     "type": "image",
+     "src": "a/ai/ai_dogs_portal_1.jpg",
+     "move": "in",
      "dur": 3.66,
      "fixed": true,
+     "motion": "rotate",
      "trans": "whip",
      "sfx": [
       {
@@ -238,12 +237,13 @@
      "trans": "whip"
     },
     {
-     "type": "image",
-     "src": "a/ai/ai_dogs_meganeura_1.jpg",
-     "move": "down",
+     "type": "video",
+     "src": "a/video/v_dragonfly/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
      "dur": 2.86,
      "fixed": true,
-     "motion": "rotate",
      "trans": "wipe",
      "sfx": [
       {
@@ -255,7 +255,7 @@
     },
     {
      "type": "serif",
-     "bg": "a/ai/ai_dogs_portal_1.jpg",
+     "bg": "a/ai/ai_dogs_final_look_1.jpg",
      "text": "Nove chances de não voltar.",
      "lines": [
       "Nove eras"
@@ -266,13 +266,12 @@
      "trans": "blur"
     },
     {
-     "type": "video",
-     "src": "a/video/v_volcano/4_pixabay.mp4",
-     "fit": "crop",
-     "start": 0,
-     "xfade": 0.35,
+     "type": "image",
+     "src": "a/ai/ai_trex_head_1.jpg",
+     "move": "down",
      "dur": 2.52,
      "fixed": true,
+     "motion": "focus",
      "trans": "flash",
      "sfx": [
       {
@@ -283,12 +282,13 @@
      ]
     },
     {
-     "type": "image",
-     "src": "a/ai/ai_gs_permian_1.jpg",
-     "move": "in",
+     "type": "video",
+     "src": "a/video/v_gs/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
      "dur": 2.6,
      "fixed": true,
-     "motion": "focus",
      "trans": "blur",
      "sfx": [
       {
@@ -301,7 +301,7 @@
     {
      "type": "image",
      "src": "a/ai/ai_trex_chase_1.jpg",
-     "move": "left",
+     "move": "in",
      "dur": 5.32,
      "fixed": true,
      "motion": "rise",
@@ -316,7 +316,7 @@
     },
     {
      "type": "serif",
-     "bg": "a/ai/ai_dogs_final_look_1.jpg",
+     "bg": "a/ai/ai_dogs_hide_ferns_1.jpg",
      "text": "Escolha o seu lado.",
      "lines": [
       "Antes de continuar"
@@ -327,13 +327,12 @@
      "trans": "blur"
     },
     {
-     "type": "video",
-     "src": "a/video/v_gs/7_pixabay.mp4",
-     "fit": "crop",
-     "start": 0,
-     "xfade": 0.35,
+     "type": "image",
+     "src": "a/ai/ai_dogs_final_look_1.jpg",
+     "move": "left",
      "dur": 2.24,
      "fixed": true,
+     "motion": "drift",
      "trans": "zoom",
      "sfx": [
       {
@@ -344,12 +343,13 @@
      ]
     },
     {
-     "type": "image",
-     "src": "a/ai/ai_dogs_portal_1.jpg",
-     "move": "out",
+     "type": "video",
+     "src": "a/video/v_gs/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
      "dur": 5.521,
      "fixed": false,
-     "motion": "drift",
      "trans": "fade"
     }
    ]
@@ -361,8 +361,8 @@
    "shots": [
     {
      "type": "image",
-     "src": "a/ai/ai_dogs_final_look_1.jpg",
-     "move": "right",
+     "src": "a/ai/ai_dogs_hide_ferns_1.jpg",
+     "move": "out",
      "caption": "Os competidores|Pastor × Malinois",
      "dur": 3.08,
      "fixed": true,
@@ -377,15 +377,13 @@
      ]
     },
     {
-     "type": "video",
-     "src": "a/video/v_gs/8_pixabay.mp4",
-     "fit": "crop",
-     "start": 0,
-     "xfade": 0.35,
+     "type": "image",
+     "src": "a/ai/ai_gs_permian_1.jpg",
+     "move": "right",
      "caption": "Competidor 1|Pastor Alemão",
      "dur": 3.86,
      "fixed": true,
-     "speed": 0.7,
+     "motion": "dolly",
      "trans": "mono",
      "sfx": [
       {
@@ -420,12 +418,14 @@
      "trans": "fade"
     },
     {
-     "type": "image",
-     "src": "a/ai/ai_gs_run_1.jpg",
-     "move": "up",
+     "type": "video",
+     "src": "a/video/v_gs/7_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
      "dur": 3.86,
      "fixed": true,
-     "motion": "dolly",
+     "speed": 0.7,
      "trans": "slide",
      "sfx": [
       {
@@ -437,8 +437,8 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_gs_close_eyes_1.jpg",
-     "move": "out",
+     "src": "a/ai/ai_gs_run_1.jpg",
+     "move": "up",
      "dur": 3.8,
      "fixed": true,
      "motion": "handheld",
@@ -452,14 +452,14 @@
      ]
     },
     {
-     "type": "video",
-     "src": "a/video/v_malinois/1_pixabay.mp4",
-     "fit": "crop",
-     "start": 0,
-     "xfade": 0.35,
+     "type": "image",
+     "src": "a/ai/ai_ml_leap_1.jpg",
+     "move": "out",
      "caption": "Competidor 2|Malinois",
      "dur": 5.24,
      "fixed": true,
+     "motion": "dolly",
+     "leak": true,
      "trans": "blur",
      "sfx": [
       {
@@ -471,7 +471,7 @@
     },
     {
      "type": "measure",
-     "src": "a/ai/ai_ml_leap_1.jpg",
+     "src": "a/ai/ai_ml_jungle_heat_1.jpg",
      "value": "25–30 kg",
      "side": "left",
      "top": 0.12,
@@ -499,13 +499,13 @@
      "trans": "zoom"
     },
     {
-     "type": "image",
-     "src": "a/ai/ai_ml_jungle_heat_1.jpg",
-     "move": "in",
+     "type": "video",
+     "src": "a/video/v_malinois/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
      "dur": 6.66,
      "fixed": true,
-     "motion": "dolly",
-     "leak": true,
      "trans": "fade",
      "sfx": [
       {
@@ -517,7 +517,7 @@
     },
     {
      "type": "ficha",
-     "bg": "a/ai/ai_dogs_hide_ferns_1.jpg",
+     "bg": "a/ai/ai_dogs_nose_wind_1.jpg",
      "name": "Pastor × Malinois",
      "sci": "Canis lupus familiaris",
      "rows": [
@@ -561,12 +561,13 @@
      "trans": "slide"
     },
     {
-     "type": "image",
-     "src": "a/ai/ai_gs_alert_1.jpg",
-     "move": "out",
+     "type": "video",
+     "src": "a/video/v_gs/8_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
      "dur": 4.42,
      "fixed": true,
-     "motion": "drift",
      "trans": "whip",
      "sfx": [
       {
@@ -579,10 +580,10 @@
     {
      "type": "image",
      "src": "a/ai/ai_ml_run_1.jpg",
-     "move": "right",
+     "move": "left",
      "dur": 4.66,
      "fixed": true,
-     "motion": "orbit",
+     "motion": "drift",
      "trans": "wipe",
      "sfx": [
       {
@@ -594,7 +595,7 @@
     },
     {
      "type": "serif",
-     "bg": "a/ai/ai_dogs_arthropleura_1.jpg",
+     "bg": "a/ai/ai_dogs_meganeura_1.jpg",
      "text": "vai decidir mais de uma rodada.",
      "lines": [
       "E essa diferença"
@@ -606,7 +607,7 @@
     },
     {
      "type": "score",
-     "bg": "a/ai/ai_dogs_rain_1.jpg",
+     "bg": "a/ai/ai_dogs_arthropleura_1.jpg",
      "prev": [
       0,
       0
@@ -653,7 +654,7 @@
      "num": 1,
      "name": "Carbonífero",
      "sub": "≈ 300 milhões de anos · insetos gigantes",
-     "bg": "a/ai/ai_dogs_meganeura_1.jpg",
+     "bg": "a/ai/ai_dogs_arthropleura_1.jpg",
      "of": 9,
      "sfx": [
       {
@@ -672,11 +673,9 @@
      "trans": "flash"
     },
     {
-     "type": "video",
-     "src": "a/video/v_dragonfly/1_pixabay.mp4",
-     "fit": "crop",
-     "start": 0,
-     "xfade": 0.35,
+     "type": "image",
+     "src": "a/ai/ai_dogs_meganeura_1.jpg",
+     "move": "out",
      "hud": [
       1,
       0,
@@ -685,6 +684,7 @@
      ],
      "dur": 4.0,
      "fixed": true,
+     "motion": "orbit",
      "trans": "blur",
      "sfx": [
       {
@@ -805,7 +805,7 @@
     {
      "type": "image",
      "src": "a/ai/ai_dogs_arthropleura_1.jpg",
-     "move": "in",
+     "move": "right",
      "hud": [
       1,
       0,
@@ -826,7 +826,7 @@
     },
     {
      "type": "serif",
-     "bg": "a/ai/ai_dogs_arthropleura_1.jpg",
+     "bg": "a/ai/ai_carbon_trees_1.jpg",
      "text": "não caçavam cães.",
      "lines": [
       "A surpresa"
@@ -839,7 +839,7 @@
     {
      "type": "image",
      "src": "a/ai/ai_carbon_trees_1.jpg",
-     "move": "up",
+     "move": "in",
      "hud": [
       1,
       0,
@@ -850,6 +850,28 @@
      "fixed": true,
      "motion": "punchin",
      "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/p_meganeura/1_commons.jpg",
+     "move": "up",
+     "hud": [
+      1,
+      0,
+      0,
+      9
+     ],
+     "dur": 5.3,
+     "fixed": true,
+     "motion": "rotate",
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
     },
     {
      "type": "video",
@@ -863,30 +885,8 @@
       0,
       9
      ],
-     "dur": 5.3,
-     "fixed": true,
-     "trans": "slide",
-     "sfx": [
-      {
-       "file": "sfx/swipe.wav",
-       "gain": -35,
-       "at": 0
-      }
-     ]
-    },
-    {
-     "type": "image",
-     "src": "a/p_meganeura/1_commons.jpg",
-     "move": "out",
-     "hud": [
-      1,
-      0,
-      0,
-      9
-     ],
      "dur": 4.0,
      "fixed": true,
-     "motion": "rotate",
      "trans": "punch",
      "sfx": [
       {
@@ -915,8 +915,8 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_gs_coat_1.jpg",
-     "move": "down",
+     "src": "a/ai/ai_gs_close_eyes_1.jpg",
+     "move": "out",
      "hud": [
       1,
       0,
@@ -968,7 +968,7 @@
     },
     {
      "type": "score",
-     "bg": "a/ai/ai_dogs_tracks_1.jpg",
+     "bg": "a/ai/ai_dogs_sit_rock_1.jpg",
      "prev": [
       0,
       0
@@ -1027,12 +1027,14 @@
      ]
     },
     {
-     "type": "image",
-     "src": "a/p_arthropleura/1_commons.jpg",
-     "move": "out",
+     "type": "video",
+     "src": "a/video/v_fern/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
      "dur": 4.485,
      "fixed": false,
-     "motion": "rise",
+     "speed": 0.7,
      "trans": "whip",
      "sfx": [
       {
@@ -1075,7 +1077,7 @@
     {
      "type": "image",
      "src": "a/ai/ai_inostrancevia_teeth_1.jpg",
-     "move": "left",
+     "move": "in",
      "caption": "Rodada 2|Inostrancevia",
      "hud": [
       2,
@@ -1085,7 +1087,7 @@
      ],
      "dur": 4.0,
      "fixed": true,
-     "motion": "drift",
+     "motion": "rise",
      "trans": "wipe",
      "sfx": [
       {
@@ -1097,12 +1099,11 @@
     },
     {
      "type": "image",
-     "src": "a/p_inostrancevia/1_commons.jpg",
-     "move": "right",
+     "src": "a/p_inostrancevia/3_commons.jpg",
+     "move": "out",
      "dur": 5.92,
      "fixed": true,
-     "motion": "orbit",
-     "leak": true,
+     "motion": "drift",
      "trans": "flash",
      "sfx": [
       {
@@ -1148,11 +1149,9 @@
      "trans": "blur"
     },
     {
-     "type": "video",
-     "src": "a/video/v_volcano/2_pixabay.mp4",
-     "fit": "crop",
-     "start": 0,
-     "xfade": 0.35,
+     "type": "image",
+     "src": "a/p_inostrancevia/1_commons.jpg",
+     "move": "left",
      "hud": [
       2,
       1,
@@ -1161,7 +1160,8 @@
      ],
      "dur": 6.78,
      "fixed": true,
-     "speed": 0.7,
+     "motion": "orbit",
+     "leak": true,
      "trans": "slide",
      "sfx": [
       {
@@ -1206,17 +1206,18 @@
      ]
     },
     {
-     "type": "image",
-     "src": "a/p_inostrancevia/3_commons.jpg",
-     "move": "in",
+     "type": "video",
+     "src": "a/video/v_desert/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
      "dur": 4.04,
      "fixed": true,
-     "motion": "handheld",
      "trans": "fade"
     },
     {
      "type": "image",
-     "src": "a/ai/ai_gs_stand_rock_1.jpg",
+     "src": "a/ai/ai_gs_alert_1.jpg",
      "move": "right",
      "hud": [
       2,
@@ -1226,7 +1227,7 @@
      ],
      "dur": 5.34,
      "fixed": true,
-     "motion": "dolly",
+     "motion": "handheld",
      "trans": "punch",
      "sfx": [
       {
@@ -1239,7 +1240,7 @@
     {
      "type": "versus",
      "left": {
-      "src": "a/ai/ai_gs_sniff_ground_1.jpg",
+      "src": "a/ai/ai_gs_coat_1.jpg",
       "name": "Pastor Alemão",
       "stat": "mais pesado"
      },
@@ -1339,7 +1340,7 @@
     },
     {
      "type": "video",
-     "src": "a/video/v_desert/3_pixabay.mp4",
+     "src": "a/video/v_volcano/2_pixabay.mp4",
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
@@ -1363,10 +1364,10 @@
     {
      "type": "image",
      "src": "a/ai/ai_dogs_rain_1.jpg",
-     "move": "up",
+     "move": "right",
      "dur": 5.233,
      "fixed": false,
-     "motion": "drift",
+     "motion": "dolly",
      "trans": "fade"
     }
    ]
@@ -1381,7 +1382,7 @@
      "num": 3,
      "name": "Triássico",
      "sub": "os primeiros dinossauros",
-     "bg": "a/ai/ai_triassic_forest_1.jpg",
+     "bg": "a/ai/ai_triassic_plain_1.jpg",
      "of": 9,
      "sfx": [
       {
@@ -1400,9 +1401,11 @@
      "trans": "flash"
     },
     {
-     "type": "image",
-     "src": "a/ai/ai_triassic_plain_1.jpg",
-     "move": "out",
+     "type": "video",
+     "src": "a/video/v_crocodile/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
      "hud": [
       3,
       1,
@@ -1411,7 +1414,6 @@
      ],
      "dur": 4.0,
      "fixed": true,
-     "motion": "orbit",
      "trans": "slide",
      "sfx": [
       {
@@ -1422,13 +1424,12 @@
      ]
     },
     {
-     "type": "video",
-     "src": "a/video/v_crocodile/4_pixabay.mp4",
-     "fit": "crop",
-     "start": 0,
-     "xfade": 0.35,
+     "type": "image",
+     "src": "a/ai/ai_triassic_forest_1.jpg",
+     "move": "in",
      "dur": 4.44,
      "fixed": true,
+     "motion": "drift",
      "trans": "punch",
      "sfx": [
       {
@@ -1439,11 +1440,9 @@
      ]
     },
     {
-     "type": "video",
-     "src": "a/video/v_crocodile/1_pixabay.mp4",
-     "fit": "crop",
-     "start": 0,
-     "xfade": 0.35,
+     "type": "image",
+     "src": "a/ai/ai_triassic_plain_1.jpg",
+     "move": "out",
      "caption": "Rodada 3|Coelophysis",
      "hud": [
       3,
@@ -1453,6 +1452,7 @@
      ],
      "dur": 2.66,
      "fixed": true,
+     "motion": "orbit",
      "trans": "blur",
      "sfx": [
       {
@@ -1499,8 +1499,8 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_triassic_forest_1.jpg",
-     "move": "out",
+     "src": "a/ai/ai_postosuchus_walk_1.jpg",
+     "move": "up",
      "dur": 4.38,
      "fixed": true,
      "motion": "handheld",
@@ -1515,7 +1515,7 @@
     },
     {
      "type": "serif",
-     "bg": "a/ai/ai_coelophysis_run_1.jpg",
+     "bg": "a/ai/ai_postosuchus_walk_1.jpg",
      "text": "os cães são os caçadores.",
      "lines": [
       "Uma inversão"
@@ -1526,9 +1526,11 @@
      "trans": "blur"
     },
     {
-     "type": "image",
-     "src": "a/ai/ai_dogs_nose_wind_1.jpg",
-     "move": "down",
+     "type": "video",
+     "src": "a/video/v_dog_sniff/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
      "hud": [
       3,
       1,
@@ -1537,7 +1539,7 @@
      ],
      "dur": 6.54,
      "fixed": true,
-     "motion": "punchin",
+     "speed": 0.7,
      "trans": "whip",
      "sfx": [
       {
@@ -1550,7 +1552,7 @@
     {
      "type": "image",
      "src": "a/ai/ai_coelophysis_run_1.jpg",
-     "move": "in",
+     "move": "down",
      "hud": [
       3,
       1,
@@ -1559,7 +1561,7 @@
      ],
      "dur": 4.0,
      "fixed": true,
-     "motion": "rotate",
+     "motion": "punchin",
      "trans": "wipe",
      "sfx": [
       {
@@ -1570,13 +1572,13 @@
      ]
     },
     {
-     "type": "image",
-     "src": "a/ai/ai_postosuchus_walk_1.jpg",
-     "move": "down",
+     "type": "video",
+     "src": "a/video/v_crocodile/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
      "dur": 4.0,
      "fixed": true,
-     "motion": "focus",
-     "leak": true,
      "trans": "flash",
      "sfx": [
       {
@@ -1589,10 +1591,10 @@
     {
      "type": "image",
      "src": "a/ai/ai_triassic_dawn_1.jpg",
-     "move": "in",
+     "move": "out",
      "dur": 4.24,
      "fixed": true,
-     "motion": "rise",
+     "motion": "rotate",
      "trans": "blur",
      "sfx": [
       {
@@ -1604,8 +1606,8 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_gs_tired_1.jpg",
-     "move": "left",
+     "src": "a/ai/ai_gs_stand_rock_1.jpg",
+     "move": "in",
      "hud": [
       3,
       1,
@@ -1614,7 +1616,8 @@
      ],
      "dur": 6.8,
      "fixed": true,
-     "motion": "drift",
+     "motion": "focus",
+     "leak": true,
      "trans": "slide",
      "sfx": [
       {
@@ -1706,7 +1709,6 @@
      ],
      "dur": 6.08,
      "fixed": false,
-     "speed": 0.7,
      "trans": "fade"
     }
    ]
@@ -1721,7 +1723,7 @@
      "num": 4,
      "name": "Jurássico",
      "sub": "Alossauro · 8 m · 2 t",
-     "bg": "a/ai/ai_allosaurus_footprint_1.jpg",
+     "bg": "a/ai/ai_allosaurus_dogs_1.jpg",
      "of": 9,
      "sfx": [
       {
@@ -1742,7 +1744,7 @@
     {
      "type": "image",
      "src": "a/ai/ai_jurassic_forest_1.jpg",
-     "move": "right",
+     "move": "out",
      "hud": [
       4,
       2,
@@ -1751,7 +1753,7 @@
      ],
      "dur": 2.5,
      "fixed": true,
-     "motion": "orbit",
+     "motion": "rise",
      "trans": "punch",
      "sfx": [
       {
@@ -1799,18 +1801,16 @@
     {
      "type": "image",
      "src": "a/ai/ai_jurassic_sunset_1.jpg",
-     "move": "left",
+     "move": "down",
      "dur": 3.48,
      "fixed": true,
-     "motion": "dolly",
+     "motion": "drift",
      "trans": "fade"
     },
     {
-     "type": "video",
-     "src": "a/video/v_jungle/4_pixabay.mp4",
-     "fit": "crop",
-     "start": 0,
-     "xfade": 0.35,
+     "type": "image",
+     "src": "a/ai/ai_allosaurus_dogs_1.jpg",
+     "move": "right",
      "hud": [
       4,
       2,
@@ -1819,6 +1819,7 @@
      ],
      "dur": 4.76,
      "fixed": true,
+     "motion": "orbit",
      "trans": "slide",
      "sfx": [
       {
@@ -1836,7 +1837,7 @@
       "stat": "30 kg"
      },
      "right": {
-      "src": "a/ai/ai_allosaurus_dogs_1.jpg",
+      "src": "a/ai/ai_allosaurus_walk_1.jpg",
       "name": "Alossauro",
       "stat": "2.000 kg"
      },
@@ -1863,7 +1864,7 @@
     },
     {
      "type": "serif",
-     "bg": "a/p_allosaurus/1_commons.jpg",
+     "bg": "a/ai/ai_allosaurus_footprint_1.jpg",
      "text": "Não compensa.",
      "lines": [
       "Uma regra da natureza"
@@ -1876,10 +1877,10 @@
     {
      "type": "image",
      "src": "a/ai/ai_allosaurus_footprint_1.jpg",
-     "move": "out",
+     "move": "in",
      "dur": 4.0,
      "fixed": true,
-     "motion": "handheld",
+     "motion": "dolly",
      "trans": "punch",
      "sfx": [
       {
@@ -1892,10 +1893,10 @@
     {
      "type": "image",
      "src": "a/p_allosaurus/1_commons.jpg",
-     "move": "right",
+     "move": "left",
      "dur": 5.88,
      "fixed": true,
-     "motion": "dolly",
+     "motion": "handheld",
      "trans": "blur",
      "sfx": [
       {
@@ -1906,11 +1907,9 @@
      ]
     },
     {
-     "type": "video",
-     "src": "a/video/v_dog_sniff/2_pixabay.mp4",
-     "fit": "crop",
-     "start": 0,
-     "xfade": 0.35,
+     "type": "image",
+     "src": "a/ai/ai_dog_family_1.jpg",
+     "move": "out",
      "hud": [
       4,
       2,
@@ -1919,6 +1918,7 @@
      ],
      "dur": 4.0,
      "fixed": true,
+     "motion": "dolly",
      "trans": "zoom",
      "sfx": [
       {
@@ -1931,7 +1931,7 @@
     {
      "type": "image",
      "src": "a/p_allosaurus/3_commons.jpg",
-     "move": "in",
+     "move": "out",
      "dur": 3.18,
      "fixed": true,
      "motion": "drift",
@@ -1945,9 +1945,11 @@
      ]
     },
     {
-     "type": "image",
-     "src": "a/ai/ai_allosaurus_walk_1.jpg",
-     "move": "out",
+     "type": "video",
+     "src": "a/video/v_jungle/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
      "hud": [
       4,
       2,
@@ -1956,7 +1958,6 @@
      ],
      "dur": 2.82,
      "fixed": true,
-     "motion": "orbit",
      "trans": "whip",
      "sfx": [
       {
@@ -2048,6 +2049,7 @@
      ],
      "dur": 5.57,
      "fixed": false,
+     "speed": 0.7,
      "trans": "wipe",
      "sfx": [
       {
@@ -2134,8 +2136,7 @@
      ],
      "dur": 5.74,
      "fixed": true,
-     "motion": "handheld",
-     "leak": true,
+     "motion": "orbit",
      "trans": "slide",
      "sfx": [
       {
@@ -2160,10 +2161,11 @@
     {
      "type": "image",
      "src": "a/p_trex/3_pixabay.jpg",
-     "move": "up",
+     "move": "right",
      "dur": 3.84,
      "fixed": true,
-     "motion": "punchin",
+     "motion": "handheld",
+     "leak": true,
      "trans": "zoom",
      "sfx": [
       {
@@ -2185,7 +2187,7 @@
      ],
      "dur": 2.7,
      "fixed": true,
-     "motion": "rotate",
+     "motion": "punchin",
      "trans": "fade"
     },
     {
@@ -2200,7 +2202,7 @@
      ],
      "dur": 5.24,
      "fixed": true,
-     "motion": "focus",
+     "motion": "rotate",
      "trans": "punch",
      "sfx": [
       {
@@ -2213,7 +2215,7 @@
     {
      "type": "versus",
      "left": {
-      "src": "a/ai/ai_dog_family_1.jpg",
+      "src": "a/ai/ai_dogs_walk_ferns_1.jpg",
       "name": "Cães",
       "stat": "≈ 50 km/h"
      },
@@ -2255,7 +2257,7 @@
      ],
      "dur": 4.0,
      "fixed": true,
-     "motion": "rise",
+     "motion": "focus",
      "trans": "mono",
      "sfx": [
       {
@@ -2268,19 +2270,19 @@
     {
      "type": "image",
      "src": "a/p_velociraptor/1_commons.jpg",
-     "move": "out",
+     "move": "in",
      "dur": 4.0,
      "fixed": true,
-     "motion": "drift",
+     "motion": "rise",
      "trans": "fade"
     },
     {
      "type": "image",
      "src": "a/p_velociraptor/2_openverse.jpg",
-     "move": "down",
+     "move": "up",
      "dur": 4.62,
      "fixed": true,
-     "motion": "orbit",
+     "motion": "drift",
      "trans": "slide",
      "sfx": [
       {
@@ -2292,7 +2294,7 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_dogs_walk_ferns_1.jpg",
+     "src": "a/ai/ai_dogs_sit_rock_1.jpg",
      "move": "out",
      "hud": [
       5,
@@ -2302,7 +2304,7 @@
      ],
      "dur": 3.33,
      "fixed": true,
-     "motion": "dolly",
+     "motion": "orbit",
      "trans": "punch",
      "sfx": [
       {
@@ -2345,7 +2347,7 @@
     },
     {
      "type": "score",
-     "bg": "a/ai/ai_dogs_meganeura_1.jpg",
+     "bg": "a/ai/ai_dogs_portal_1.jpg",
      "prev": [
       3,
       4
@@ -2392,7 +2394,7 @@
      ],
      "dur": 5.8,
      "fixed": true,
-     "motion": "handheld",
+     "motion": "dolly",
      "trans": "blur",
      "sfx": [
       {
@@ -2436,7 +2438,7 @@
      "type": "cta",
      "text": "Curtindo essa viagem?",
      "sub": "Inscreva-se e ative o sininho · é de graça",
-     "bg": "a/ai/ai_dogs_portal_1.jpg",
+     "bg": "a/ai/ai_dogs_final_look_1.jpg",
      "sfx": [
       {
        "file": "sfx/whoosh_a.wav",
@@ -2461,11 +2463,10 @@
     {
      "type": "image",
      "src": "a/ai/ai_ml_shade_1.jpg",
-     "move": "in",
+     "move": "out",
      "dur": 4.0,
      "fixed": true,
-     "motion": "dolly",
-     "leak": true,
+     "motion": "handheld",
      "trans": "fade",
      "sfx": [
       {
@@ -2478,10 +2479,11 @@
     {
      "type": "image",
      "src": "a/p_titanoboa/1_commons.jpg",
-     "move": "left",
+     "move": "down",
      "dur": 5.62,
      "fixed": true,
-     "motion": "drift",
+     "motion": "dolly",
+     "leak": true,
      "trans": "whip",
      "sfx": [
       {
@@ -2526,7 +2528,7 @@
      ],
      "dur": 6.22,
      "fixed": true,
-     "motion": "orbit",
+     "motion": "drift",
      "trans": "wipe",
      "sfx": [
       {
@@ -2562,10 +2564,10 @@
     {
      "type": "image",
      "src": "a/ai/ai_dogs_tracks_1.jpg",
-     "move": "out",
+     "move": "in",
      "dur": 5.86,
      "fixed": true,
-     "motion": "handheld",
+     "motion": "orbit",
      "trans": "blur",
      "sfx": [
       {
@@ -2648,7 +2650,7 @@
     },
     {
      "type": "image",
-     "src": "a/p_gs/3_unsplash.jpg",
+     "src": "a/ai/ai_gs_sniff_ground_1.jpg",
      "move": "out",
      "hud": [
       6,
@@ -2658,12 +2660,12 @@
      ],
      "dur": 3.96,
      "fixed": true,
-     "motion": "punchin",
+     "motion": "handheld",
      "trans": "fade"
     },
     {
      "type": "image",
-     "src": "a/ai/ai_dogs_sit_rock_1.jpg",
+     "src": "a/p_gs/3_unsplash.jpg",
      "move": "right",
      "hud": [
       6,
@@ -2673,7 +2675,7 @@
      ],
      "dur": 4.0,
      "fixed": true,
-     "motion": "rotate",
+     "motion": "punchin",
      "trans": "punch",
      "sfx": [
       {
@@ -2686,10 +2688,10 @@
     {
      "type": "image",
      "src": "a/ai/ai_dogs_dusk_ridge_1.jpg",
-     "move": "right",
+     "move": "left",
      "dur": 4.26,
      "fixed": true,
-     "motion": "focus",
+     "motion": "rotate",
      "trans": "mono",
      "sfx": [
       {
@@ -2711,7 +2713,7 @@
      ],
      "dur": 4.34,
      "fixed": true,
-     "motion": "rise",
+     "motion": "focus",
      "trans": "fade"
     },
     {
@@ -2726,7 +2728,7 @@
      ],
      "dur": 5.14,
      "fixed": true,
-     "motion": "drift",
+     "motion": "rise",
      "trans": "slide",
      "sfx": [
       {
@@ -2769,7 +2771,7 @@
     },
     {
      "type": "score",
-     "bg": "a/ai/ai_dogs_rain_1.jpg",
+     "bg": "a/ai/ai_dogs_arthropleura_1.jpg",
      "prev": [
       4,
       5
@@ -2818,6 +2820,7 @@
      ],
      "dur": 4.39,
      "fixed": false,
+     "speed": 0.7,
      "trans": "punch",
      "sfx": [
       {
@@ -2870,8 +2873,7 @@
      ],
      "dur": 4.0,
      "fixed": true,
-     "motion": "orbit",
-     "leak": true,
+     "motion": "drift",
      "trans": "blur",
      "sfx": [
       {
@@ -2884,10 +2886,11 @@
     {
      "type": "image",
      "src": "a/ai/ai_amphicyon_walk_1.jpg",
-     "move": "in",
+     "move": "out",
      "dur": 4.16,
      "fixed": true,
-     "motion": "dolly",
+     "motion": "orbit",
+     "leak": true,
      "trans": "zoom",
      "sfx": [
       {
@@ -2944,7 +2947,7 @@
      ],
      "dur": 6.087,
      "fixed": true,
-     "motion": "handheld",
+     "motion": "dolly",
      "trans": "whip",
      "sfx": [
       {
@@ -2990,10 +2993,10 @@
     {
      "type": "image",
      "src": "a/ai/ai_miocene_plain_1.jpg",
-     "move": "up",
+     "move": "right",
      "dur": 3.353,
      "fixed": true,
-     "motion": "dolly",
+     "motion": "handheld",
      "trans": "wipe",
      "sfx": [
       {
@@ -3015,7 +3018,7 @@
      ],
      "dur": 4.0,
      "fixed": true,
-     "motion": "drift",
+     "motion": "dolly",
      "trans": "flash",
      "sfx": [
       {
@@ -3028,10 +3031,10 @@
     {
      "type": "image",
      "src": "a/ai/ai_miocene_river_1.jpg",
-     "move": "out",
+     "move": "in",
      "dur": 6.6,
      "fixed": true,
-     "motion": "orbit",
+     "motion": "drift",
      "trans": "blur",
      "sfx": [
       {
@@ -3074,7 +3077,7 @@
     },
     {
      "type": "score",
-     "bg": "a/ai/ai_dogs_walk_ferns_1.jpg",
+     "bg": "a/ai/ai_dog_family_1.jpg",
      "prev": [
       4,
       6
@@ -3123,7 +3126,6 @@
      ],
      "dur": 5.442,
      "fixed": false,
-     "speed": 0.7,
      "trans": "slide",
      "sfx": [
       {
@@ -3205,10 +3207,10 @@
     {
      "type": "image",
      "src": "a/ai/ai_terrorbird_legs_1.jpg",
-     "move": "down",
+     "move": "up",
      "dur": 4.2,
      "fixed": true,
-     "motion": "handheld",
+     "motion": "orbit",
      "trans": "punch",
      "sfx": [
       {
@@ -3231,7 +3233,7 @@
      ],
      "dur": 4.0,
      "fixed": true,
-     "motion": "punchin",
+     "motion": "handheld",
      "trans": "mono",
      "sfx": [
       {
@@ -3244,20 +3246,19 @@
     {
      "type": "image",
      "src": "a/ai/ai_terrorbird_ridge_1.jpg",
-     "move": "in",
+     "move": "out",
      "dur": 4.0,
      "fixed": true,
-     "motion": "rotate",
+     "motion": "punchin",
      "trans": "fade"
     },
     {
      "type": "image",
      "src": "a/ai/ai_terrorbird_walk_1.jpg",
-     "move": "left",
+     "move": "down",
      "dur": 3.78,
      "fixed": true,
-     "motion": "focus",
-     "leak": true,
+     "motion": "rotate",
      "trans": "slide",
      "sfx": [
       {
@@ -3291,7 +3292,8 @@
      ],
      "dur": 4.0,
      "fixed": true,
-     "motion": "rise",
+     "motion": "focus",
+     "leak": true,
      "trans": "punch",
      "sfx": [
       {
@@ -3304,10 +3306,10 @@
     {
      "type": "image",
      "src": "a/p_terrorbird/1_commons.jpg",
-     "move": "out",
+     "move": "in",
      "dur": 3.54,
      "fixed": true,
-     "motion": "drift",
+     "motion": "rise",
      "trans": "blur",
      "sfx": [
       {
@@ -3329,7 +3331,7 @@
      ],
      "dur": 4.0,
      "fixed": true,
-     "motion": "orbit",
+     "motion": "drift",
      "trans": "zoom",
      "sfx": [
       {
@@ -3342,10 +3344,10 @@
     {
      "type": "image",
      "src": "a/ai/ai_dogs_forest_path_1.jpg",
-     "move": "right",
+     "move": "left",
      "dur": 3.86,
      "fixed": true,
-     "motion": "dolly",
+     "motion": "orbit",
      "trans": "fade",
      "sfx": [
       {
@@ -3388,7 +3390,7 @@
     },
     {
      "type": "score",
-     "bg": "a/ai/ai_dogs_sit_rock_1.jpg",
+     "bg": "a/p_gs/3_unsplash.jpg",
      "prev": [
       5,
       7
@@ -3437,6 +3439,7 @@
      ],
      "dur": 4.0,
      "fixed": true,
+     "speed": 0.7,
      "trans": "whip",
      "sfx": [
       {
@@ -3449,10 +3452,10 @@
     {
      "type": "image",
      "src": "a/ai/ai_dogs_lying_grass_1.jpg",
-     "move": "in",
+     "move": "out",
      "dur": 3.567,
      "fixed": false,
-     "motion": "handheld",
+     "motion": "dolly",
      "trans": "wipe",
      "sfx": [
       {
@@ -3530,10 +3533,11 @@
     {
      "type": "image",
      "src": "a/ai/ai_direwolf_pack_1.jpg",
-     "move": "up",
+     "move": "right",
      "dur": 3.82,
      "fixed": true,
-     "motion": "dolly",
+     "motion": "handheld",
+     "snow": true,
      "trans": "slide",
      "sfx": [
       {
@@ -3557,7 +3561,6 @@
      ],
      "dur": 2.9,
      "fixed": true,
-     "speed": 0.7,
      "trans": "zoom",
      "sfx": [
       {
@@ -3582,20 +3585,19 @@
     {
      "type": "image",
      "src": "a/ai/ai_direwolf_run_1.jpg",
-     "move": "out",
+     "move": "in",
      "dur": 4.0,
      "fixed": true,
-     "motion": "drift",
+     "motion": "dolly",
      "trans": "fade"
     },
     {
      "type": "image",
      "src": "a/ai/ai_direwolf_tracks_1.jpg",
-     "move": "down",
+     "move": "up",
      "dur": 4.74,
      "fixed": true,
-     "motion": "orbit",
-     "snow": true,
+     "motion": "drift",
      "trans": "punch",
      "sfx": [
       {
@@ -3664,11 +3666,10 @@
     {
      "type": "image",
      "src": "a/ai/ai_greywolf_1.jpg",
-     "move": "in",
+     "move": "out",
      "dur": 4.62,
      "fixed": true,
-     "motion": "handheld",
-     "leak": true,
+     "motion": "orbit",
      "trans": "fade"
     },
     {
@@ -3705,10 +3706,11 @@
     {
      "type": "image",
      "src": "a/ai/ai_iceage_sunrise_1.jpg",
-     "move": "left",
+     "move": "down",
      "dur": 4.34,
      "fixed": true,
-     "motion": "punchin",
+     "motion": "handheld",
+     "leak": true,
      "trans": "slide",
      "sfx": [
       {
@@ -3758,10 +3760,10 @@
     {
      "type": "image",
      "src": "a/p_dire_wolf/1_commons.jpg",
-     "move": "out",
+     "move": "in",
      "dur": 3.96,
      "fixed": true,
-     "motion": "rotate",
+     "motion": "punchin",
      "trans": "punch",
      "sfx": [
       {
@@ -3806,7 +3808,7 @@
      "num": "F",
      "name": "A aliança",
      "sub": "lobo + humano",
-     "bg": "a/ai/ai_wolf_human_fire_1.jpg",
+     "bg": "a/ai/ai_dog_family_1.jpg",
      "of": 9,
      "sfx": [
       {
@@ -3825,12 +3827,14 @@
      "trans": "flash"
     },
     {
-     "type": "image",
-     "src": "a/ai/ai_direwolf_head_1.jpg",
-     "move": "right",
+     "type": "video",
+     "src": "a/video/v_snow/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
      "dur": 4.0,
      "fixed": true,
-     "motion": "focus",
+     "speed": 0.7,
      "trans": "zoom",
      "sfx": [
       {
@@ -3843,10 +3847,10 @@
     {
      "type": "image",
      "src": "a/ai/ai_wolf_cave_1.jpg",
-     "move": "right",
+     "move": "left",
      "dur": 5.36,
      "fixed": true,
-     "motion": "rise",
+     "motion": "rotate",
      "trans": "fade",
      "sfx": [
       {
@@ -3857,13 +3861,12 @@
      ]
     },
     {
-     "type": "video",
-     "src": "a/video/v_snow/2_pixabay.mp4",
-     "fit": "crop",
-     "start": 0,
-     "xfade": 0.35,
+     "type": "image",
+     "src": "a/ai/ai_direwolf_head_1.jpg",
+     "move": "right",
      "dur": 3.16,
      "fixed": true,
+     "motion": "focus",
      "trans": "whip",
      "sfx": [
       {
@@ -3879,7 +3882,7 @@
      "move": "in",
      "dur": 4.0,
      "fixed": true,
-     "motion": "drift",
+     "motion": "rise",
      "trans": "wipe",
      "sfx": [
       {
@@ -3892,10 +3895,10 @@
     {
      "type": "image",
      "src": "a/ai/ai_hunter_back_wolf_1.jpg",
-     "move": "in",
+     "move": "out",
      "dur": 4.22,
      "fixed": true,
-     "motion": "orbit",
+     "motion": "drift",
      "trans": "flash",
      "sfx": [
       {
@@ -3937,10 +3940,10 @@
     {
      "type": "image",
      "src": "a/ai/ai_puppy_wolf_1.jpg",
-     "move": "up",
+     "move": "right",
      "dur": 3.28,
      "fixed": true,
-     "motion": "dolly",
+     "motion": "orbit",
      "trans": "slide",
      "sfx": [
       {
@@ -3956,7 +3959,7 @@
      "move": "out",
      "dur": 4.0,
      "fixed": true,
-     "motion": "handheld",
+     "motion": "dolly",
      "trans": "zoom",
      "sfx": [
       {
@@ -3969,11 +3972,10 @@
     {
      "type": "image",
      "src": "a/ai/ai_modern_dogs_field_1.jpg",
-     "move": "out",
+     "move": "in",
      "dur": 4.88,
      "fixed": true,
-     "motion": "dolly",
-     "leak": true,
+     "motion": "handheld",
      "trans": "fade"
     },
     {
@@ -3982,7 +3984,8 @@
      "move": "down",
      "dur": 4.0,
      "fixed": true,
-     "motion": "drift",
+     "motion": "dolly",
+     "leak": true,
      "trans": "punch",
      "sfx": [
       {
@@ -3995,10 +3998,10 @@
     {
      "type": "image",
      "src": "a/ai/ai_dog_sleep_fire_1.jpg",
-     "move": "down",
+     "move": "up",
      "dur": 4.0,
      "fixed": true,
-     "motion": "orbit",
+     "motion": "drift",
      "trans": "mono",
      "sfx": [
       {
@@ -4011,10 +4014,10 @@
     {
      "type": "image",
      "src": "a/ai/ai_dogs_jump_log_1.jpg",
-     "move": "in",
+     "move": "out",
      "dur": 3.58,
      "fixed": true,
-     "motion": "handheld",
+     "motion": "orbit",
      "trans": "fade"
     },
     {
@@ -4035,7 +4038,7 @@
      "move": "in",
      "dur": 4.0,
      "fixed": true,
-     "motion": "punchin",
+     "motion": "handheld",
      "trans": "slide",
      "sfx": [
       {
@@ -4048,10 +4051,10 @@
     {
      "type": "image",
      "src": "a/ai/ai_dogs_fog_field_1.jpg",
-     "move": "left",
+     "move": "down",
      "dur": 5.42,
      "fixed": true,
-     "motion": "rotate",
+     "motion": "punchin",
      "trans": "punch",
      "sfx": [
       {
@@ -4094,7 +4097,7 @@
      "dur": 2.557,
      "fixed": false,
      "fade_out": 0,
-     "motion": "focus",
+     "motion": "rotate",
      "trans": "blur",
      "sfx": [
       {
