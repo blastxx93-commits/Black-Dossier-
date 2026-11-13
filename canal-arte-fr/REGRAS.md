@@ -4,13 +4,13 @@ Conversa com o dono em português; todo o conteúdo do canal em **francês**. S�
 temas, títulos e textos são sempre próprios.
 
 ## Identidade (a confirmar pelo dono)
-- Nomes livres no YouTube em 13/11/2026: **Regardez Mieux** (@RegardezMieux, recomendado), L'Œil du Tableau, Le Tableau Parle.
+- Nome do canal: **Regardez Mieux** (@RegardezMieux, livre em 13/11/2026). Voz Fish em francês: `8143ff09113b48d0a75dd3fa025821e4`.
 - Promessa: "Un tableau, regardé de près. Vous ne le verrez plus de la même façon."
 - Foco: obras expostas na França e pintores franceses, mais os grandes clássicos europeus com ângulo novo.
 
 ## Vídeo
 - 8–11 min, 1.250–1.550 palavras (~150 palavras/min), 1 obra por vídeo.
-- Ritmo de publicação: 3–4 por semana para começar (a referência publica 1 por dia).
+- Ritmo de publicação: **1 vídeo por dia** (decisão do dono).
 - Estrutura fixa do roteiro:
   1. **Accroche** (até 40 s): obra, autor, ano em 1 frase; "à première vue... mais"; 3–4 promessas concretas; "vous ne la verrez plus de la même façon".
   2. **Ce que l'on voit**: tamanho real; depois figura por figura, guiando o olhar ("regardez", "remontez", "suivez").

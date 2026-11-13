@@ -11,20 +11,21 @@ from faster_whisper import WhisperModel
 ap = argparse.ArgumentParser()
 ap.add_argument("audio_dir")
 ap.add_argument("out_dir")
-ap.add_argument("--model", default="small.en")
+ap.add_argument("--model", default="")
+ap.add_argument("--language", default="en")
 a = ap.parse_args()
 os.makedirs(a.out_dir, exist_ok=True)
 FFMPEG = shutil.which("ffmpeg")
 if not FFMPEG:  # newer runners ship without ffmpeg
     import imageio_ffmpeg
     FFMPEG = imageio_ffmpeg.get_ffmpeg_exe()
-model = WhisperModel(a.model, device="cpu", compute_type="int8")
+model = WhisperModel(a.model or ("small.en" if a.language == "en" else "small"), device="cpu", compute_type="int8")
 for path in sorted(glob.glob(os.path.join(a.audio_dir, "*.mp3")) + glob.glob(os.path.join(a.audio_dir, "*.wav"))):
     name = os.path.splitext(os.path.basename(path))[0]
     pcm = subprocess.run([FFMPEG, "-v", "error", "-i", path, "-ac", "1", "-ar", "16000", "-f", "f32le", "-"],
                          check=True, capture_output=True).stdout
     audio = np.frombuffer(pcm, dtype=np.float32)  # decode ourselves: avoids PyAV version issues
-    segs, info = model.transcribe(audio, language="en", word_timestamps=True, beam_size=5,
+    segs, info = model.transcribe(audio, language=a.language, word_timestamps=True, beam_size=5,
                                   vad_filter=False, condition_on_previous_text=True)
     words = []
     for seg in segs:
