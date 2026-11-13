@@ -33,7 +33,10 @@ CLIPS = {"caes": CLIPS["gs"] + CLIPS["ml"] + CLIPS["dogs"], "pastor": CLIPS["gs"
          "paleocene": CLIPS["paleocene"], "miocene": CLIPS["miocene"], "terror": CLIPS["terror"], "iceage": CLIPS["iceage"], "final": CLIPS["final"]}
 FALLBACK = {k: ["caes", "pastor", "malinois"] for k in PHOTOS}
 FALLBACK.update({"caes": ["pastor", "malinois"], "pastor": ["caes"], "malinois": ["caes"], "final": ["caes", "iceage", "pastor", "malinois"]})
+PIN_IDS = ["ai_meganeura", "ai_arthropleura", "ai_inostrancevia_portrait", "ai_coelophysis", "ai_allosaurus_portrait", "ai_trex_portrait",
+           "ai_titanoboa", "ai_gs_panting_heat", "ai_direwolf", "ai_terrorbird", "ai_iceage_blizzard", "ai_inostrancevia_ambush"]
 A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, [], FALLBACK, ["caes"])
+F.pin(*PIN_IDS)
 A.CLIP_TARGET = 0.30
 A.MAX_HOLD, A.KEEP = 7.0, 4.0
 F.HUD_TOTAL[0] = 9
@@ -54,8 +57,8 @@ def rnd(name, num, era, sub, scene):
     return c
 
 
-def close(c, phrase_v, scene, winner, text, phrase_s, new, sub=""):
-    c.at(phrase_v, verdict(scene, winner, text))
+def close(c, phrase_v, scene, winner, text, phrase_s=None, new=None, sub="", img=None):
+    c.at(phrase_v, verdict(scene, winner, text, img))
     c.at(phrase_s, score("caes", list(SC), new, sub))
     SC[:] = new
 
@@ -103,8 +106,8 @@ chapters.append(c)
 # ---------------------------------------------------------------- rounds
 c = rnd("ch02", 1, "Carbonífero", "≈ 300 milhões de anos · insetos gigantes", "carbon")
 beats(c, "carbon", ["O ar é diferente", "E com tanto oxigênio"])
-c.at("A Meganeura", measure("carbon", "70 cm", "Asas|Meganeura"))
-c.at("A Arthropleura", measure("carbon", "2 m", "Comprimento|Arthropleura", side="left"))
+c.at("A Meganeura", measure("carbon", "70 cm", "Asas|Meganeura", img="ai_meganeura"))
+c.at("A Arthropleura", measure("carbon", "2 m", "Comprimento|Arthropleura", side="left", img="ai_arthropleura"))
 c.at("Parece um filme", foot("carbon"))
 c.at("Mas aqui vai a surpresa", serif("carbon", "não caçavam cães.", ["A surpresa"]))
 beats(c, "carbon", ["A Arthropleura comia", "Para os nossos competidores"])
@@ -116,20 +119,20 @@ chapters.append(c)
 
 c = rnd("ch03", 2, "Permiano", "Inostrancevia · dentes de sabre", "permian")
 c.at("Quem manda aqui", label("permian", "Rodada 2|Inostrancevia"))
-c.at("cerca de três metros e meio", measure("permian", "3,5 m"))
+c.at("cerca de três metros e meio", measure("permian", "3,5 m", img="ai_inostrancevia_portrait"))
 c.at("Ela caçava de emboscada", foot("permian"))
 c.at("Contra uma emboscada", serif("permian", "os primeiros segundos.", ["Contra uma emboscada"]))
 c.at("O Malinois é feito para isso", foot("malinois"))
 c.at("O Pastor também é rápido", foot("pastor"))
 c.at("Numa emboscada, meio segundo", versus("pastor", "Pastor Alemão", "mais pesado", "malinois", "Malinois", "mais rápido"))
-close(c, "Veredito: o Malinois sobrevive", "permian", "feras", "PASTOR CAI", "Dois a um", [1, 2], "O Malinois na frente")
+close(c, "Veredito: o Malinois sobrevive", "permian", "feras", "PASTOR CAI", "Dois a um", [1, 2], "O Malinois na frente", img="ai_inostrancevia_ambush")
 c.at("E agora o mundo vai acabar", foot("permian"))
 chapters.append(c)
 
 c = rnd("ch04", 3, "Triássico", "os primeiros dinossauros", "triassic")
 beats(c, "triassic", ["O planeta se recuperou"])
 c.at("Um dos primeiros era", label("triassic", "Rodada 3|Coelophysis"))
-c.at("Três metros de comprimento", measure("triassic", "20–30 kg"))
+c.at("Três metros de comprimento", measure("triassic", "20–30 kg", img="ai_coelophysis"))
 c.at("E aqui acontece uma inversão", serif("triassic", "os cães são os caçadores.", ["Uma inversão"]))
 c.at("Dois cães atléticos", foot("caes"))
 c.at("O predador perigoso", foot("triassic"))
@@ -140,7 +143,7 @@ chapters.append(c)
 
 c = rnd("ch05", 4, "Jurássico", "Alossauro · 8 m · 2 t", "jurassic")
 c.at("Agora os dinossauros", foot("jurassic"))
-c.at("O Alossauro", measure("jurassic", "2 t"))
+c.at("O Alossauro", measure("jurassic", "2 t", img="ai_allosaurus_portrait"))
 c.at("O Dilofossauro", foot("jurassic"))
 c.at("Para um cão de trinta quilos", versus("caes", "Cão", "30 kg", "jurassic", "Alossauro", "2.000 kg"))
 c.at("Mas existe uma regra", serif("jurassic", "Não compensa.", ["Uma regra da natureza"]))
@@ -151,7 +154,7 @@ c.at("E agora, a rodada", foot("cretaceous"))
 chapters.append(c)
 
 c = rnd("ch06", 5, "Cretáceo", "Tiranossauro rex · 12 m · 8 t", "cretaceous")
-c.at("Doze metros", measure("cretaceous", "12 m"))
+c.at("Doze metros", measure("cretaceous", "12 m", img="ai_trex_portrait"))
 c.at("A mordida mais forte", foot("cretaceous"))
 c.at("Mas antes dele, uma surpresa", serif("cretaceous", "do tamanho de um peru.", ["O Velociraptor de verdade"]))
 c.at("Pesava uns quinze quilos", foot("cretaceous"))
@@ -172,13 +175,13 @@ hud(6, *SC)
 c.at("Um asteroide acabou", foot("cretaceous"))
 c.at("Na floresta tropical", foot("paleocene"))
 c.at("E nos rios vivia", label("paleocene", "Rodada 6|Titanoboa"))
-c.at("Uma cobra com cerca de treze", measure("paleocene", "13 m"))
+c.at("Uma cobra com cerca de treze", measure("paleocene", "13 m", img="ai_titanoboa"))
 c.at("Mas o maior inimigo", serif("paleocene", "É o calor.", ["O maior inimigo"]))
 c.at("Cães não suam", foot("pastor"))
 c.at("E o Pastor Alemão tem", foot("pastor"))
 c.at("Com sede, ele vai até o rio", foot("paleocene"))
 c.at("O Malinois, de pelo curto", foot("malinois"))
-close(c, "Veredito: o Malinois sobrevive", "paleocene", "feras", "PASTOR CAI", "Seis a quatro", [4, 6], "A rodada mais mortal")
+close(c, "Veredito: o Malinois sobrevive", "paleocene", "feras", "PASTOR CAI", "Seis a quatro", [4, 6], "A rodada mais mortal", img="ai_gs_panting_heat")
 c.at("E a próxima fera", foot("miocene"))
 chapters.append(c)
 
@@ -204,12 +207,12 @@ c.at("Falta uma era", foot("iceage"))
 chapters.append(c)
 
 c = rnd("ch10", 9, "Era do Gelo", "lobo-terrível · em matilha", "iceage")
-c.at("O lobo-terrível", measure("iceage", "70 kg"))
+c.at("O lobo-terrível", measure("iceage", "70 kg", img="ai_direwolf"))
 c.at("Muita gente acha", foot("iceage"))
 c.at("Mas um estudo genético", serif("iceage", "não é o avô dos cães.", ["Estudo genético de 2021"]))
 c.at("E isso não ajuda", versus("malinois", "Malinois", "30 kg", "iceage", "Lobo-terrível", "70 kg · matilha"))
 c.at("Uma matilha inteira", foot("iceage"))
-c.at("Veredito: nenhum dos dois", verdict("iceage", "feras", "NENHUM SOBREVIVE"))
+c.at("Veredito: nenhum dos dois", verdict("iceage", "feras", "NENHUM SOBREVIVE", img="ai_iceage_blizzard"))
 c.at("O placar final", score("caes", [6, 8], [6, 8], "Malinois 8 × 6 Pastor Alemão"))
 c.at("Mas falta contar", foot("final"))
 chapters.append(c)

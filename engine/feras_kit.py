@@ -72,6 +72,27 @@ def _src(scene):
     return A.P(scene, photo_only=True)["src"]
 
 
+PINS = {}
+
+
+def pin(*ids):
+    """Reserve specific reviewed images (ai ids like 'ai_trex_portrait' or 'p_trex/1') for exact layouts:
+    the pools will never use them, and pinned(id) hands each one out once."""
+    import glob
+    for i in ids:
+        fs = sorted(glob.glob(f"a/ai/{i}_*.jpg")) if i.startswith("ai_") else sorted(glob.glob(f"a/{i.split('/')[0]}/{i.split('/')[1]}_*"))
+        if fs:
+            PINS[i] = fs[0][2:]
+            A.CFG["reserved"].add(fs[0][2:])
+
+
+def pinned(i):
+    f = PINS[i]
+    A.CFG["reserved"].discard(f)
+    A.claim(f) or sys.stderr.write(f"aviso: {f} já usada\n")
+    return "a/" + f
+
+
 def _bg(scene):
     """Background of a card (blurred + darkened): a placeholder resolved after the edit to a photo of the same
     scene already on screen, so cards do not eat fresh footage (no visible repeat: it is out of focus)."""
@@ -109,8 +130,8 @@ def versus(left_scene, left_name, left_stat, right_scene, right_name, right_stat
             "sfx": [fx("whip"), fx("impact", 0.75, -2), fx("growl", 0.9, -4)]}
 
 
-def verdict(scene, winner, text=None):
-    s = {"type": "verdict", "src": _src(scene), "winner": winner,
+def verdict(scene, winner, text=None, img=None):
+    s = {"type": "verdict", "src": pinned(img) if img else _src(scene), "winner": winner,
          "sfx": [fx("heartbeat", 0, -2), fx("shutter", 0.25), fx("thud", 0.55, 2),
                  fx({"tigre": "win", "feras": "stinger", "empate": "riser"}[winner], 0.6)]}
     if text:
@@ -124,8 +145,8 @@ def score(scene, prev, now, sub=""):
             "sfx": [fx("tick", 0.2), fx("tick", 0.4), fx(up, 0.6, -3)]}
 
 
-def measure(scene, value, cap=None, side="right", top=0.12, bottom=0.8):
-    s = {"type": "measure", "src": _src(scene), "value": value, "side": side, "top": top, "bottom": bottom,
+def measure(scene, value, cap=None, side="right", top=0.12, bottom=0.8, img=None):
+    s = {"type": "measure", "src": pinned(img) if img else _src(scene), "value": value, "side": side, "top": top, "bottom": bottom,
          "move": "in", "sfx": [fx("riser", 0, -6), fx("tick", 0.95)]}
     if cap:
         s["caption"] = cap

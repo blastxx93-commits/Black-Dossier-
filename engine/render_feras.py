@@ -177,7 +177,7 @@ A.caption_layer = caption_layer
 
 # ---------------------------------------------------------------- HUD: corner round tracker on footage
 def hud_layer(ctx, hud):
-    rnd, a, b = hud
+    rnd, a, b = hud[:3]
     im = layer(ctx); d = ImageDraw.Draw(im)
     f1 = font("impact", ctx.px(26)); f2 = font("serif", ctx.px(40))
     txt = f"RODADA {rnd}/{hud[3] if len(hud) > 3 else 10}" if isinstance(rnd, int) else str(rnd).upper()
