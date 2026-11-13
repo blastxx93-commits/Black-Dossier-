@@ -1,0 +1,117 @@
+{
+ "defaults": {
+  "n": 3,
+  "sources": [
+   "commons",
+   "openverse",
+   "pixabay",
+   "unsplash"
+  ]
+ },
+ "shots": [
+  {
+   "id": "p_inostrancevia",
+   "query": "Inostrancevia skeleton",
+   "alt": [
+    "gorgonopsid skull"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_coelophysis",
+   "query": "Coelophysis skeleton",
+   "alt": [
+    "Coelophysis fossil"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_allosaurus",
+   "query": "Allosaurus skeleton",
+   "alt": [
+    "Allosaurus fossil museum"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_trex",
+   "query": "Tyrannosaurus rex skeleton",
+   "alt": [
+    "T. rex Sue"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_velociraptor",
+   "query": "Velociraptor skeleton",
+   "alt": [
+    "Velociraptor fossil"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_titanoboa",
+   "query": "Titanoboa vertebra",
+   "alt": [
+    "Titanoboa skeleton"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_terrorbird",
+   "query": "Phorusrhacidae skeleton",
+   "alt": [
+    "terror bird skeleton"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_amphicyon",
+   "query": "Amphicyon skull",
+   "alt": [
+    "Amphicyon skeleton"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_dire_wolf",
+   "query": "Aenocyon dirus skeleton",
+   "alt": [
+    "dire wolf skeleton"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_meganeura",
+   "query": "Meganeura fossil",
+   "alt": [
+    "giant dragonfly fossil"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_arthropleura",
+   "query": "Arthropleura fossil",
+   "alt": [
+    "Arthropleura trackway"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_gs",
+   "query": "German Shepherd dog",
+   "alt": [
+    "German Shepherd"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_malinois",
+   "query": "Belgian Malinois",
+   "alt": [
+    "Malinois dog"
+   ],
+   "n": 3
+  }
+ ]
+}

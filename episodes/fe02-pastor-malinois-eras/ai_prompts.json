@@ -1,0 +1,300 @@
+{
+ "model": "black-forest-labs/flux-1.1-pro-ultra",
+ "raw": true,
+ "n": 1,
+ "style": ", photorealistic wildlife documentary still, prehistoric scene, natural light, telephoto lens, sharp focus, highly detailed, cinematic 16:9, anatomically correct animals with the correct number of legs, eyes and tails, each animal clearly separate, no humans' faces, no text, no logos, no watermark",
+ "shots": [
+  {
+   "id": "ai_trex_vs_dogs",
+   "prompt": "A huge Tyrannosaurus rex towering over a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears) and a fawn Belgian Malinois dog (lean, short fawn coat, black face mask, upright ears), two separate dogs side by side in a Cretaceous forest clearing, low angle, epic scale"
+  },
+  {
+   "id": "ai_dogs_portal",
+   "prompt": "Two dogs, a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears) and a fawn Belgian Malinois dog (lean, short fawn coat, black face mask, upright ears), two separate dogs side by side, standing alert on a rocky ridge overlooking a prehistoric valley with volcanoes and giant ferns"
+  },
+  {
+   "id": "ai_gs_portrait",
+   "prompt": "Portrait of a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears), alert, prehistoric fern forest behind"
+  },
+  {
+   "id": "ai_ml_portrait",
+   "prompt": "Portrait of a fawn Belgian Malinois dog (lean, short fawn coat, black face mask, upright ears), alert, prehistoric fern forest behind"
+  },
+  {
+   "id": "ai_dogs_meganeura",
+   "prompt": "a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears) and a fawn Belgian Malinois dog (lean, short fawn coat, black face mask, upright ears), two separate dogs side by side looking up at a giant prehistoric dragonfly Meganeura with 70 cm wings flying over a Carboniferous swamp"
+  },
+  {
+   "id": "ai_dogs_arthropleura",
+   "prompt": "a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears) and a fawn Belgian Malinois dog (lean, short fawn coat, black face mask, upright ears), two separate dogs side by side watching a giant two-metre millipede-like Arthropleura crawling over a fallen log in a Carboniferous swamp forest"
+  },
+  {
+   "id": "ai_inostrancevia_ambush",
+   "prompt": "An Inostrancevia gorgonopsid (large reptile-like predator with long sabre canines, four legs) bursting out of vegetation toward a fawn Belgian Malinois dog (lean, short fawn coat, black face mask, upright ears) leaping away, Permian landscape"
+  },
+  {
+   "id": "ai_dogs_coelophysis",
+   "prompt": "a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears) and a fawn Belgian Malinois dog (lean, short fawn coat, black face mask, upright ears), two separate dogs side by side chasing a small slender early dinosaur Coelophysis across a dry Triassic plain"
+  },
+  {
+   "id": "ai_postosuchus",
+   "prompt": "A Postosuchus (large upright-walking crocodile-like archosaur) walking through a Triassic forest, the two dogs hiding in ferns in the foreground"
+  },
+  {
+   "id": "ai_allosaurus_dogs",
+   "prompt": "An Allosaurus walking through a Jurassic conifer forest while a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears) and a fawn Belgian Malinois dog (lean, short fawn coat, black face mask, upright ears), two separate dogs side by side hide silently behind a fallen log in the foreground"
+  },
+  {
+   "id": "ai_velociraptor_vs_gs",
+   "prompt": "a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears) facing a small feathered Velociraptor the size of a turkey, Cretaceous scrubland, the dog much bigger than the raptor"
+  },
+  {
+   "id": "ai_trex_chase",
+   "prompt": "a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears) and a fawn Belgian Malinois dog (lean, short fawn coat, black face mask, upright ears), two separate dogs side by side running away at full speed from a Tyrannosaurus rex in the background, motion, dust"
+  },
+  {
+   "id": "ai_titanoboa_river",
+   "prompt": "A giant Titanoboa snake (13 metres, olive green) emerging from a muddy Paleocene jungle river, a German Shepherd drinking at the bank"
+  },
+  {
+   "id": "ai_ml_jungle_heat",
+   "prompt": "a fawn Belgian Malinois dog (lean, short fawn coat, black face mask, upright ears) panting in a hot humid Paleocene rainforest, steam rising"
+  },
+  {
+   "id": "ai_amphicyon_dogs",
+   "prompt": "An Amphicyon bear-dog (huge animal like a mix of bear and wolf) facing a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears) barking, a fawn Belgian Malinois dog (lean, short fawn coat, black face mask, upright ears) behind it, Miocene grassland"
+  },
+  {
+   "id": "ai_terrorbird_dogs",
+   "prompt": "A Paraphysornis terror bird (flightless bird about 1.5 m tall with a huge hooked beak) facing a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears) and a fawn Belgian Malinois dog (lean, short fawn coat, black face mask, upright ears), two separate dogs side by side, Brazilian savanna"
+  },
+  {
+   "id": "ai_direwolf_pack_dogs",
+   "prompt": "A pack of five dire wolves surrounding a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears) and a fawn Belgian Malinois dog (lean, short fawn coat, black face mask, upright ears), two separate dogs side by side in a snowy Ice Age clearing, every animal clearly separate"
+  },
+  {
+   "id": "ai_wolf_human_fire",
+   "prompt": "A grey wolf lying near an Ice Age campfire beside a human seen from behind wearing furs, night, no face visible"
+  },
+  {
+   "id": "ai_carbon_swamp",
+   "prompt": "A Carboniferous swamp forest with giant club mosses and tree ferns, misty, green",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_carbon_fire",
+   "prompt": "A wildfire burning through a Carboniferous swamp forest, smoke, orange glow",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_meganeura",
+   "prompt": "Close-up of a giant Meganeura dragonfly with 70 cm wings resting on a fern",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_arthropleura",
+   "prompt": "A giant two-metre Arthropleura arthropod crawling on the forest floor of a Carboniferous swamp",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_gs_sniff_smoke",
+   "prompt": "a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears) sniffing the air, smoke in the background, prehistoric swamp forest",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_permian_desert",
+   "prompt": "A dry Permian landscape with red rocks, sparse conifers and a dusty sky",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_inostrancevia_portrait",
+   "prompt": "An Inostrancevia gorgonopsid, large reptile-like predator with long sabre canines, standing in Permian vegetation, side view",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_inostrancevia_teeth",
+   "prompt": "Close-up of the head of an Inostrancevia gorgonopsid showing its long sabre canines",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_gs_permian",
+   "prompt": "a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears) walking cautiously through tall Permian ferns",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_ml_leap",
+   "prompt": "a fawn Belgian Malinois dog (lean, short fawn coat, black face mask, upright ears) leaping sideways in mid-air, dynamic, dust, prehistoric landscape",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_extinction_volcano",
+   "prompt": "The Permian mass extinction: massive volcanic eruptions and lava fields under a dark red sky",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_triassic_plain",
+   "prompt": "A dry Triassic plain with early conifers and a river, warm light",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_coelophysis",
+   "prompt": "A slender early dinosaur Coelophysis running on two legs across a Triassic plain",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_postosuchus_portrait",
+   "prompt": "A Postosuchus, a large upright-walking archosaur related to crocodiles, side view, Triassic forest",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_dogs_nose_wind",
+   "prompt": "Close-up of the nose of a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears) sniffing the wind",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_jurassic_forest",
+   "prompt": "A Jurassic forest with giant conifers, cycads and a long-necked sauropod far in the background",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_allosaurus_portrait",
+   "prompt": "An Allosaurus, large two-legged predatory dinosaur, standing in a Jurassic forest, side view",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_dilophosaurus",
+   "prompt": "A Dilophosaurus with two thin crests on its head walking in a Jurassic forest",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_dogs_hide_ferns",
+   "prompt": "a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears) and a fawn Belgian Malinois dog (lean, short fawn coat, black face mask, upright ears), two separate dogs side by side lying hidden among giant ferns, alert",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_cretaceous_forest",
+   "prompt": "A Cretaceous landscape with flowering plants, a river and a volcano in the distance, golden light",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_trex_portrait",
+   "prompt": "A Tyrannosaurus rex standing in a Cretaceous forest, side view, full body",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_trex_head",
+   "prompt": "Close-up of the head of a Tyrannosaurus rex with its mouth half open",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_velociraptor",
+   "prompt": "A small feathered Velociraptor the size of a turkey standing on a rock, Cretaceous desert",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_asteroid",
+   "prompt": "An asteroid entering the atmosphere above a Cretaceous landscape with dinosaurs, fiery sky",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_paleocene_jungle",
+   "prompt": "A hot steamy Paleocene rainforest with a muddy river, dense vegetation, mist",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_titanoboa",
+   "prompt": "A giant Titanoboa snake coiled in a muddy jungle river, olive scales, huge body",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_gs_panting_heat",
+   "prompt": "a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears) panting heavily in hot humid jungle, tongue out, tired",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_miocene_grassland",
+   "prompt": "A Miocene grassland with scattered trees, herds of early horses far away, warm light",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_amphicyon",
+   "prompt": "An Amphicyon bear-dog, a large carnivore like a mix of a bear and a wolf, walking in a Miocene grassland, side view",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_gs_bark",
+   "prompt": "a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears) barking forcefully, front view",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_terrorbird",
+   "prompt": "A Paraphysornis terror bird, a flightless bird with a huge hooked beak and strong legs, walking in a Brazilian savanna",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_terrorbird_head",
+   "prompt": "Close-up of the hooked beak and eye of a terror bird Paraphysornis",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_brazil_oligocene",
+   "prompt": "An ancient lake landscape in what is now São Paulo, Brazil, palm trees and grasslands, millions of years ago",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_iceage_snow",
+   "prompt": "A snowy Ice Age plain with a pine forest edge, cold light",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_direwolf",
+   "prompt": "A dire wolf, larger and heavier than a grey wolf, broad skull, standing in snow",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_direwolf_pack",
+   "prompt": "A pack of dire wolves running across a snowy plain",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_dogs_snow",
+   "prompt": "a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears) and a fawn Belgian Malinois dog (lean, short fawn coat, black face mask, upright ears), two separate dogs side by side standing in deep snow, breath steaming",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_greywolf",
+   "prompt": "A grey wolf standing at the edge of a snowy forest, looking at a distant campfire",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_campfire_night",
+   "prompt": "An Ice Age campfire at night in front of a cave, sparks, no people",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_human_wolf_hand",
+   "prompt": "Close-up of a human hand offering food to a wolf in the snow, fur sleeve, no face",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_dog_family",
+   "prompt": "A modern German Shepherd and a Belgian Malinois lying peacefully in a garden at sunset",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_dogs_final_look",
+   "prompt": "a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears) and a fawn Belgian Malinois dog (lean, short fawn coat, black face mask, upright ears), two separate dogs side by side looking at the camera, golden hour, prehistoric landscape fading behind",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_timeline_rocks",
+   "prompt": "Layers of colourful sedimentary rock in a canyon wall, geological time, dramatic light",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_fossil_footprint",
+   "prompt": "Dinosaur footprints fossilized in rock next to a modern dog paw print in sand",
+   "tier": "cheap"
+  }
+ ]
+}

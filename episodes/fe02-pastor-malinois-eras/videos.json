@@ -1,0 +1,250 @@
+{
+ "defaults": {
+  "n": 3,
+  "clip": 8,
+  "sources": [
+   "pexels",
+   "pixabay",
+   "coverr"
+  ]
+ },
+ "shots": [
+  {
+   "id": "v_gs",
+   "query": "german shepherd",
+   "alt": [
+    "german shepherd running",
+    "german shepherd dog"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 8
+  },
+  {
+   "id": "v_malinois",
+   "query": "belgian malinois",
+   "alt": [
+    "malinois dog",
+    "malinois training"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 8
+  },
+  {
+   "id": "v_dog_run",
+   "query": "dog running field",
+   "alt": [
+    "dog running"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 5
+  },
+  {
+   "id": "v_dog_sniff",
+   "query": "dog sniffing",
+   "alt": [
+    "dog nose"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_swamp",
+   "query": "swamp forest",
+   "alt": [
+    "jungle river"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_dragonfly",
+   "query": "dragonfly",
+   "alt": [
+    "dragonfly macro"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_millipede",
+   "query": "millipede",
+   "alt": [
+    "centipede"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_volcano",
+   "query": "volcano eruption",
+   "alt": [
+    "lava"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_fern",
+   "query": "fern forest",
+   "alt": [
+    "tree ferns"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_crocodile",
+   "query": "crocodile",
+   "alt": [
+    "alligator"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_snake",
+   "query": "anaconda",
+   "alt": [
+    "python snake"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_ostrich",
+   "query": "cassowary",
+   "alt": [
+    "emu",
+    "ostrich"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_bear",
+   "query": "brown bear",
+   "alt": [
+    "grizzly"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_wolf",
+   "query": "wolf pack snow",
+   "alt": [
+    "wolves"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_fire",
+   "query": "campfire night",
+   "alt": [
+    "fire flames"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 2
+  },
+  {
+   "id": "v_jungle",
+   "query": "rainforest",
+   "alt": [
+    "tropical forest mist"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_desert",
+   "query": "red rock desert",
+   "alt": [
+    "canyon"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_snow",
+   "query": "snow forest",
+   "alt": [
+    "blizzard"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  }
+ ]
+}
