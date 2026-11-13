@@ -1415,5 +1415,7 @@
     }
    ]
   }
- ]
+ ],
+ "music": "music.flac",
+ "music_gain": -6
 }

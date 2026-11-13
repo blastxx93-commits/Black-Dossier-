@@ -30,7 +30,7 @@ temas, títulos e textos são sempre próprios.
 - Abrir e fechar com a obra inteira em `card`; voltar a ela a cada mudança de bloco.
 - `card` para tudo que não é a obra: retrato do pintor, esboços, mapas, outras obras, documentos.
 - Sem texto na tela, sem tela preta, sem IA, sem filtro de cor (só vinheta leve). Dissolve de 0,35 s.
-- Trilha instrumental baixa e contínua (-24 dB sob a voz).
+- Trilha: `python3 engine/art_music.py edit/music.flac --minutes N --seed X` gera uma cama original (cordas graves + piano), sem direitos de terceiros; entra ~20 dB abaixo da voz. Mudar a semente a cada vídeo.
 - Só domínio público, CC0, CC BY ou CC BY-SA; créditos em `credits.json` e na descrição.
 
 ## Título
