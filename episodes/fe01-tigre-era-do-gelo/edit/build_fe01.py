@@ -42,7 +42,7 @@ PHOTOS = {
 CLIPS = json.load(open(os.path.join(HERE, "clips.json")))
 GENERIC = CLIPS.pop("_generic", [])
 FALLBACK = {k: ["tigre", "hook"] for k in PHOTOS}   # a round may show the tiger (the fighter) or the Ice Age landscape
-FALLBACK.update({"tigre": ["final"], "hook": ["tigre"], "final": ["tigre"], "humano": ["hook"]})
+FALLBACK.update({"tigre": ["final"], "hook": ["tigre"], "final": ["tigre"], "humano": ["hook", "final", "tigre"]})
 A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FALLBACK, ["tigre"])
 A.CLIP_TARGET = 0.40
 A.MAX_HOLD, A.KEEP = 5.6, 3.4       # very dynamic: nothing holds more than ~4.5 s

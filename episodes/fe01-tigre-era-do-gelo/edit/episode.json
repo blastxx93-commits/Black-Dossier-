@@ -1,0 +1,5282 @@
+{
+ "output": "FE01_Tigre_Era_do_Gelo.mp4",
+ "fps": 24,
+ "music": [
+  {
+   "file": "musica/tensao.mp3",
+   "start": 0.0,
+   "end": 61.61,
+   "gain": -26,
+   "fade_in": 2.4,
+   "fade_out": 2.4
+  },
+  {
+   "file": "musica/epico.mp3",
+   "start": 59.2,
+   "end": 131.66,
+   "gain": -26,
+   "fade_in": 2.4,
+   "fade_out": 2.4
+  },
+  {
+   "file": "musica/tensao.mp3",
+   "start": 129.26,
+   "end": 251.39,
+   "gain": -26,
+   "fade_in": 2.4,
+   "fade_out": 2.4
+  },
+  {
+   "file": "musica/epico.mp3",
+   "start": 248.99,
+   "end": 369.58,
+   "gain": -26,
+   "fade_in": 2.4,
+   "fade_out": 2.4
+  },
+  {
+   "file": "musica/tensao.mp3",
+   "start": 367.18,
+   "end": 504.09,
+   "gain": -26,
+   "fade_in": 2.4,
+   "fade_out": 2.4
+  },
+  {
+   "file": "musica/epico.mp3",
+   "start": 501.69,
+   "end": 569.26,
+   "gain": -26,
+   "fade_in": 2.4,
+   "fade_out": 2.4
+  },
+  {
+   "file": "musica/tensao.mp3",
+   "start": 566.86,
+   "end": 671.7,
+   "gain": -26,
+   "fade_in": 2.4,
+   "fade_out": 2.4
+  },
+  {
+   "file": "musica/epico.mp3",
+   "start": 669.3,
+   "end": 728.07,
+   "gain": -26,
+   "fade_in": 2.4,
+   "fade_out": 2.4
+  },
+  {
+   "file": "musica/drama.mp3",
+   "start": 725.67,
+   "end": 804.59,
+   "gain": -26,
+   "fade_in": 2.4,
+   "fade_out": 2.4
+  }
+ ],
+ "chapters": [
+  {
+   "audio": "audio/ch00_hook.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/ai/ai_mammoth_vs_tiger_1.jpg",
+     "move": "out",
+     "dur": 2.1,
+     "fixed": true,
+     "motion": "dolly"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_mountain_snow/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.06,
+     "fixed": true,
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_mammoth_vs_tiger_far_1.jpg",
+     "move": "in",
+     "dur": 3.28,
+     "fixed": true,
+     "motion": "drift",
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_blizzard/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.56,
+     "fixed": true,
+     "speed": 0.7,
+     "trans": "punch",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_b.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_tiger_taiga_1.jpg",
+     "move": "left",
+     "caption": "O maior felino vivo|Tigre-siberiano",
+     "dur": 3.4,
+     "fixed": true,
+     "motion": "orbit",
+     "snow": true,
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_blizzard_steppe_1.jpg",
+     "move": "down",
+     "dur": 2.46,
+     "fixed": true,
+     "motion": "handheld",
+     "leak": true,
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_tiger_stalk_1.jpg",
+     "move": "out",
+     "dur": 3.0,
+     "fixed": true,
+     "motion": "punchin",
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_tiger_snow/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.48,
+     "fixed": true,
+     "trans": "whip",
+     "sfx": [
+      {
+       "file": "sfx/whip.wav",
+       "gain": -33,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_tusks_close_1.jpg",
+     "move": "right",
+     "dur": 3.32,
+     "fixed": true,
+     "motion": "rotate",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_glacier/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.28,
+     "fixed": true,
+     "trans": "flash",
+     "sfx": [
+      {
+       "file": "sfx/impact.wav",
+       "gain": -28,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "serif",
+     "bg": "a/ai/ai_mammoth_vs_tiger_1.jpg",
+     "text": "Dez feras.",
+     "lines": [
+      "Dez rodadas",
+      "Uma de cada vez"
+     ],
+     "size": 120,
+     "dur": 4.7,
+     "fixed": true,
+     "trans": "blur"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_tiger_leap_1.jpg",
+     "move": "in",
+     "dur": 2.84,
+     "fixed": true,
+     "motion": "focus",
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_b.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_iceage_panorama_1.jpg",
+     "move": "up",
+     "dur": 2.32,
+     "fixed": true,
+     "motion": "rise",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_mountain_snow/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.16,
+     "fixed": true,
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_smilodon_portrait_1.jpg",
+     "move": "out",
+     "dur": 4.12,
+     "fixed": true,
+     "motion": "drift",
+     "trans": "punch",
+     "sfx": [
+      {
+       "file": "sfx/thud.wav",
+       "gain": -29,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Ele vence o Smilodon?",
+      "Quantas rodadas ele aguenta?",
+      "Qual é a rodada mais perigosa?"
+     ],
+     "starts": [
+      0,
+      68,
+      146
+     ],
+     "sfx": [
+      {
+       "file": "sfx/riser.wav",
+       "gain": -38,
+       "at": 0
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -20,
+       "at": 2.8399999999999963
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -20,
+       "at": 6.119999999999997
+      }
+     ],
+     "bg": "a/ai/ai_mammoth_vs_tiger_far_1.jpg",
+     "dur": 8.84,
+     "fixed": true,
+     "trans": "blur"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_glacier/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.16,
+     "fixed": true,
+     "trans": "mono",
+     "sfx": [
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -31,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_tiger_roar_1.jpg",
+     "move": "down",
+     "dur": 5.325,
+     "fixed": false,
+     "motion": "orbit",
+     "trans": "fade"
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch01.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/ai/ai_tiger_paw_1.jpg",
+     "move": "in",
+     "caption": "Conheça o lutador|Tigre-siberiano",
+     "dur": 3.12,
+     "fixed": true,
+     "motion": "dolly",
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_tiger_a/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.4,
+     "fixed": true,
+     "trans": "punch",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_b.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/p_amur_tiger/1_commons.jpg",
+     "move": "in",
+     "dur": 2.46,
+     "fixed": true,
+     "motion": "handheld",
+     "snow": true,
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_tiger_claws_1.jpg",
+     "move": "left",
+     "dur": 3.38,
+     "fixed": true,
+     "motion": "dolly",
+     "leak": true,
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "measure",
+     "src": "a/ai/ai_tiger_ridge_1.jpg",
+     "value": "200 kg",
+     "side": "right",
+     "top": 0.12,
+     "bottom": 0.8,
+     "move": "in",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      },
+      {
+       "file": "sfx/riser.wav",
+       "gain": -36,
+       "at": 0
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.95
+      }
+     ],
+     "caption": "Peso médio|Macho adulto",
+     "dur": 3.7,
+     "fixed": true,
+     "trans": "fade"
+    },
+    {
+     "type": "measure",
+     "src": "a/ai/ai_tiger_river_1.jpg",
+     "value": "300 kg",
+     "side": "left",
+     "top": 0.12,
+     "bottom": 0.8,
+     "move": "in",
+     "sfx": [
+      {
+       "file": "sfx/whip.wav",
+       "gain": -33,
+       "at": 0
+      },
+      {
+       "file": "sfx/riser.wav",
+       "gain": -36,
+       "at": 0
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.95
+      }
+     ],
+     "dur": 2.02,
+     "fixed": true,
+     "trans": "whip"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_tiger_c/6_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.32,
+     "fixed": true,
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_tiger_b/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.56,
+     "fixed": true,
+     "trans": "flash",
+     "sfx": [
+      {
+       "file": "sfx/reverse.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_tiger_river_cross_1.jpg",
+     "move": "in",
+     "caption": "Garras|Até 10 cm",
+     "dur": 3.46,
+     "fixed": true,
+     "motion": "drift",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_tiger_d/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.72,
+     "fixed": true,
+     "speed": 0.7,
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_b.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "serif",
+     "bg": "a/ai/ai_tiger_leap_1.jpg",
+     "text": "A emboscada.",
+     "lines": [
+      "A arma mais perigosa"
+     ],
+     "size": 120,
+     "dur": 4.58,
+     "fixed": true,
+     "trans": "blur"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_tiger_ambush_1.jpg",
+     "move": "up",
+     "dur": 4.22,
+     "fixed": true,
+     "motion": "orbit",
+     "snow": true,
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_tiger_walk_steppe_1.jpg",
+     "move": "out",
+     "dur": 2.06,
+     "fixed": true,
+     "motion": "handheld",
+     "trans": "fade"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_tiger_a/8_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.5,
+     "fixed": true,
+     "trans": "punch",
+     "sfx": [
+      {
+       "file": "sfx/thud.wav",
+       "gain": -29,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "ficha",
+     "bg": "a/ai/ai_tiger_rest_1.jpg",
+     "name": "Tigre-siberiano",
+     "sci": "Panthera tigris altaica",
+     "rows": [
+      [
+       "Peso",
+       "200 a 300 kg"
+      ],
+      [
+       "Comprimento",
+       "até 3 m"
+      ],
+      [
+       "Salto",
+       "mais de 6 m"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -31,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.5
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.85
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 1.2
+      }
+     ],
+     "dur": 4.76,
+     "fixed": true,
+     "trans": "slide"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_blizzard/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.4,
+     "fixed": true,
+     "trans": "mono",
+     "sfx": [
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -31,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/p_amur_tiger/2_pixabay.jpg",
+     "move": "left",
+     "dur": 3.56,
+     "fixed": true,
+     "motion": "punchin",
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_tiger_profile_snow_1.jpg",
+     "move": "in",
+     "dur": 3.4,
+     "fixed": true,
+     "motion": "rotate",
+     "snow": true,
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/p_amur_tiger/3_unsplash.jpg",
+     "move": "out",
+     "dur": 3.08,
+     "fixed": true,
+     "motion": "focus",
+     "trans": "punch",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_b.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "score",
+     "bg": "a/ai/ai_tiger_roar_1.jpg",
+     "prev": [
+      0,
+      0
+     ],
+     "now": [
+      0,
+      0
+     ],
+     "sub": "Dez feras pela frente",
+     "sfx": [
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.2
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.4
+      },
+      {
+       "file": "sfx/thud.wav",
+       "gain": -28,
+       "at": 0.6
+      }
+     ],
+     "dur": 3.357,
+     "fixed": false,
+     "trans": "zoom"
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch02.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "round",
+     "num": 1,
+     "name": "Lobo-terrível",
+     "sub": "até 70 kg · caçava em matilha",
+     "bg": "a/ai/ai_direwolf_portrait_1.jpg",
+     "sfx": [
+      {
+       "file": "sfx/bell.wav",
+       "gain": -29,
+       "at": 0.05
+      },
+      {
+       "file": "sfx/impact.wav",
+       "gain": -27,
+       "at": 0.1
+      }
+     ],
+     "dur": 2.5,
+     "fixed": true,
+     "trans": "flash"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_direwolf_portrait_1.jpg",
+     "move": "left",
+     "caption": "Rodada 1|Lobo-terrível",
+     "hud": [
+      1,
+      0,
+      0
+     ],
+     "dur": 3.4,
+     "fixed": true,
+     "motion": "rise",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_hyena/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.42,
+     "fixed": true,
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "measure",
+     "src": "a/ai/ai_direwolf_pack_1.jpg",
+     "value": "70 kg",
+     "side": "right",
+     "top": 0.12,
+     "bottom": 0.8,
+     "move": "in",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      },
+      {
+       "file": "sfx/riser.wav",
+       "gain": -36,
+       "at": 0
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.95
+      }
+     ],
+     "hud": [
+      1,
+      0,
+      0
+     ],
+     "dur": 1.8,
+     "fixed": true,
+     "trans": "fade"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_wolf_pack/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "hud": [
+      1,
+      0,
+      0
+     ],
+     "dur": 4.94,
+     "fixed": true,
+     "speed": 0.7,
+     "trans": "whip",
+     "sfx": [
+      {
+       "file": "sfx/whip.wav",
+       "gain": -33,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "versus",
+     "left": {
+      "src": "a/ai/ai_tiger_back_view_1.jpg",
+      "name": "Tigre",
+      "stat": "200 kg"
+     },
+     "right": {
+      "src": "a/ai/ai_direwolf_vs_tiger_1.jpg",
+      "name": "Lobo-terrível",
+      "stat": "70 kg"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whip.wav",
+       "gain": -29,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/impact.wav",
+       "gain": -26,
+       "at": 0.75
+      },
+      {
+       "file": "sfx/growl.wav",
+       "gain": -31,
+       "at": 0.9
+      }
+     ],
+     "dur": 3.4,
+     "fixed": true,
+     "trans": "whip"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_wolf_pack/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.1,
+     "fixed": true,
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_tiger_e/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "hud": [
+      1,
+      0,
+      0
+     ],
+     "dur": 3.32,
+     "fixed": true,
+     "trans": "flash",
+     "sfx": [
+      {
+       "file": "sfx/impact.wav",
+       "gain": -28,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_wolf_pack/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "hud": [
+      1,
+      0,
+      0
+     ],
+     "dur": 3.94,
+     "fixed": true,
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_direwolf_teeth_1.jpg",
+     "move": "up",
+     "hud": [
+      1,
+      0,
+      0
+     ],
+     "dur": 1.3,
+     "fixed": true,
+     "motion": "drift",
+     "snow": true,
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_b.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_wolf_pack/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "hud": [
+      1,
+      0,
+      0
+     ],
+     "dur": 4.88,
+     "fixed": true,
+     "speed": 0.7,
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_tiger_jump_log_1.jpg",
+     "move": "out",
+     "hud": [
+      1,
+      0,
+      0
+     ],
+     "dur": 3.44,
+     "fixed": true,
+     "motion": "orbit",
+     "leak": true,
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_tiger_shake_snow_1.jpg",
+     "move": "down",
+     "hud": [
+      1,
+      0,
+      0
+     ],
+     "dur": 3.4,
+     "fixed": true,
+     "motion": "dolly",
+     "trans": "punch",
+     "sfx": [
+      {
+       "file": "sfx/thud.wav",
+       "gain": -29,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/p_dire_wolf/1_commons.jpg",
+     "move": "right",
+     "dur": 3.4,
+     "fixed": true,
+     "motion": "handheld",
+     "trans": "mono",
+     "sfx": [
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -31,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_tiger_run/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "hud": [
+      1,
+      0,
+      0
+     ],
+     "dur": 3.02,
+     "fixed": true,
+     "trans": "fade"
+    },
+    {
+     "type": "verdict",
+     "src": "a/ai/ai_direwolf_alone_1.jpg",
+     "winner": "tigre",
+     "sfx": [
+      {
+       "file": "sfx/heartbeat.wav",
+       "gain": -26,
+       "at": 0
+      },
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -27,
+       "at": 0.25
+      },
+      {
+       "file": "sfx/thud.wav",
+       "gain": -23,
+       "at": 0.55
+      },
+      {
+       "file": "sfx/win.wav",
+       "gain": -27,
+       "at": 0.6
+      }
+     ],
+     "dur": 2.58,
+     "fixed": true,
+     "trans": "punch"
+    },
+    {
+     "type": "score",
+     "bg": "a/ai/ai_tiger_claws_1.jpg",
+     "prev": [
+      0,
+      0
+     ],
+     "now": [
+      1,
+      0
+     ],
+     "sub": "",
+     "sfx": [
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.2
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.4
+      },
+      {
+       "file": "sfx/win.wav",
+       "gain": -30,
+       "at": 0.6
+      }
+     ],
+     "dur": 1.72,
+     "fixed": true,
+     "trans": "zoom"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_deer_stag/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "hud": [
+      1,
+      0,
+      0
+     ],
+     "dur": 3.4,
+     "fixed": true,
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/p_dire_wolf/2_openverse.jpg",
+     "move": "in",
+     "dur": 3.996,
+     "fixed": false,
+     "motion": "dolly",
+     "trans": "punch",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_b.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch03.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "round",
+     "num": 2,
+     "name": "Alce-gigante",
+     "sub": "Megaloceros · galhada de 3,5 m",
+     "bg": "a/ai/ai_megaloceros_forest_1.jpg",
+     "sfx": [
+      {
+       "file": "sfx/bell.wav",
+       "gain": -29,
+       "at": 0.05
+      },
+      {
+       "file": "sfx/impact.wav",
+       "gain": -27,
+       "at": 0.1
+      }
+     ],
+     "dur": 2.58,
+     "fixed": true,
+     "trans": "flash"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_megaloceros_portrait_1.jpg",
+     "move": "left",
+     "caption": "Rodada 2|Megaloceros",
+     "hud": [
+      2,
+      1,
+      0
+     ],
+     "dur": 3.6,
+     "fixed": true,
+     "motion": "drift",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "measure",
+     "src": "a/ai/ai_megaloceros_herd_1.jpg",
+     "value": "2 m",
+     "side": "left",
+     "top": 0.12,
+     "bottom": 0.8,
+     "move": "in",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      },
+      {
+       "file": "sfx/riser.wav",
+       "gain": -36,
+       "at": 0
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.95
+      }
+     ],
+     "hud": [
+      2,
+      1,
+      0
+     ],
+     "dur": 4.3,
+     "fixed": true,
+     "trans": "zoom"
+    },
+    {
+     "type": "measure",
+     "src": "a/ai/ai_megaloceros_vs_tiger_1.jpg",
+     "value": "3,5 m",
+     "side": "right",
+     "top": 0.12,
+     "bottom": 0.8,
+     "move": "in",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      },
+      {
+       "file": "sfx/riser.wav",
+       "gain": -36,
+       "at": 0
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.95
+      }
+     ],
+     "hud": [
+      2,
+      1,
+      0
+     ],
+     "dur": 4.22,
+     "fixed": true,
+     "trans": "fade"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_deer_stag/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "hud": [
+      2,
+      1,
+      0
+     ],
+     "dur": 2.26,
+     "fixed": true,
+     "trans": "whip",
+     "sfx": [
+      {
+       "file": "sfx/whip.wav",
+       "gain": -33,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "versus",
+     "left": {
+      "src": "a/ai/ai_tiger_lying_eyes_1.jpg",
+      "name": "Tigre",
+      "stat": "200 kg"
+     },
+     "right": {
+      "src": "a/ai/ai_megaloceros_antlers_1.jpg",
+      "name": "Alce-gigante",
+      "stat": "700 kg"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whip.wav",
+       "gain": -29,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/impact.wav",
+       "gain": -26,
+       "at": 0.75
+      },
+      {
+       "file": "sfx/growl.wav",
+       "gain": -31,
+       "at": 0.9
+      }
+     ],
+     "dur": 3.34,
+     "fixed": true,
+     "trans": "whip"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_deer_stag/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "hud": [
+      2,
+      1,
+      0
+     ],
+     "dur": 2.72,
+     "fixed": true,
+     "speed": 0.7,
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "serif",
+     "bg": "a/ai/ai_tiger_river_cross_1.jpg",
+     "text": "Nunca de frente.",
+     "lines": [
+      "A regra do tigre"
+     ],
+     "size": 120,
+     "dur": 3.64,
+     "fixed": true,
+     "trans": "blur"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_megaloceros_forest_1.jpg",
+     "move": "out",
+     "caption": "Presa real dos tigres|Gauro · mais de 1 tonelada",
+     "hud": [
+      2,
+      1,
+      0
+     ],
+     "dur": 3.4,
+     "fixed": true,
+     "motion": "orbit",
+     "trans": "flash",
+     "sfx": [
+      {
+       "file": "sfx/reverse.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/p_megaloceros_skeleton/2_openverse.jpg",
+     "move": "up",
+     "dur": 2.64,
+     "fixed": true,
+     "motion": "handheld",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_tiger_cliff_wind_1.jpg",
+     "move": "down",
+     "hud": [
+      2,
+      1,
+      0
+     ],
+     "dur": 3.26,
+     "fixed": true,
+     "motion": "punchin",
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_b.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_tiger_night_snow_1.jpg",
+     "move": "in",
+     "hud": [
+      2,
+      1,
+      0
+     ],
+     "dur": 3.84,
+     "fixed": true,
+     "motion": "rotate",
+     "snow": true,
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_megaloceros_charge_1.jpg",
+     "move": "left",
+     "hud": [
+      2,
+      1,
+      0
+     ],
+     "dur": 5.58,
+     "fixed": true,
+     "motion": "focus",
+     "leak": true,
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_megaloceros_snow_1.jpg",
+     "move": "out",
+     "hud": [
+      2,
+      1,
+      0
+     ],
+     "dur": 4.08,
+     "fixed": true,
+     "motion": "rise",
+     "trans": "punch",
+     "sfx": [
+      {
+       "file": "sfx/thud.wav",
+       "gain": -29,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "verdict",
+     "src": "a/p_megaloceros_skeleton/1_commons.jpg",
+     "winner": "tigre",
+     "sfx": [
+      {
+       "file": "sfx/heartbeat.wav",
+       "gain": -26,
+       "at": 0
+      },
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -27,
+       "at": 0.25
+      },
+      {
+       "file": "sfx/thud.wav",
+       "gain": -23,
+       "at": 0.55
+      },
+      {
+       "file": "sfx/win.wav",
+       "gain": -27,
+       "at": 0.6
+      }
+     ],
+     "dur": 2.215,
+     "fixed": true,
+     "trans": "punch"
+    },
+    {
+     "type": "score",
+     "bg": "a/ai/ai_tiger_walk_steppe_1.jpg",
+     "prev": [
+      1,
+      0
+     ],
+     "now": [
+      2,
+      0
+     ],
+     "sub": "",
+     "sfx": [
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.2
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.4
+      },
+      {
+       "file": "sfx/win.wav",
+       "gain": -30,
+       "at": 0.6
+      }
+     ],
+     "dur": 1.605,
+     "fixed": true,
+     "trans": "zoom"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_bison/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "hud": [
+      2,
+      1,
+      0
+     ],
+     "dur": 4.488,
+     "fixed": false,
+     "trans": "mono",
+     "sfx": [
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -31,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch04.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "round",
+     "num": 3,
+     "name": "Bisão-da-estepe",
+     "sub": "≈ 1 tonelada · chifres abertos",
+     "bg": "a/p_bison_painting/3_pixabay.jpg",
+     "sfx": [
+      {
+       "file": "sfx/bell.wav",
+       "gain": -29,
+       "at": 0.05
+      },
+      {
+       "file": "sfx/impact.wav",
+       "gain": -27,
+       "at": 0.1
+      }
+     ],
+     "dur": 2.9,
+     "fixed": true,
+     "trans": "flash"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_bison/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "caption": "Rodada 3|Bisão-da-estepe",
+     "hud": [
+      3,
+      2,
+      0
+     ],
+     "dur": 4.34,
+     "fixed": true,
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_bison_portrait_1.jpg",
+     "move": "in",
+     "hud": [
+      3,
+      2,
+      0
+     ],
+     "dur": 3.64,
+     "fixed": true,
+     "motion": "drift",
+     "snow": true,
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_bison_herd_1.jpg",
+     "move": "up",
+     "hud": [
+      3,
+      2,
+      0
+     ],
+     "dur": 3.52,
+     "fixed": true,
+     "motion": "orbit",
+     "trans": "punch",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_b.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "measure",
+     "src": "a/ai/ai_bison_vs_tiger_1.jpg",
+     "value": "1.000 kg",
+     "side": "right",
+     "top": 0.12,
+     "bottom": 0.8,
+     "move": "in",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      },
+      {
+       "file": "sfx/riser.wav",
+       "gain": -36,
+       "at": 0
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.95
+      }
+     ],
+     "hud": [
+      3,
+      2,
+      0
+     ],
+     "dur": 4.56,
+     "fixed": true,
+     "trans": "blur"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_bison_charge_1.jpg",
+     "move": "down",
+     "hud": [
+      3,
+      2,
+      0
+     ],
+     "dur": 2.44,
+     "fixed": true,
+     "motion": "dolly",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "versus",
+     "left": {
+      "src": "a/ai/ai_tiger_tracks_line_1.jpg",
+      "name": "Tigre",
+      "stat": "200 kg"
+     },
+     "right": {
+      "src": "a/ai/ai_bison_horns_1.jpg",
+      "name": "Bisão-da-estepe",
+      "stat": "1.000 kg"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whip.wav",
+       "gain": -29,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/impact.wav",
+       "gain": -26,
+       "at": 0.75
+      },
+      {
+       "file": "sfx/growl.wav",
+       "gain": -31,
+       "at": 0.9
+      }
+     ],
+     "dur": 2.3,
+     "fixed": true,
+     "trans": "whip"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_bison_snowstorm_1.jpg",
+     "move": "out",
+     "hud": [
+      3,
+      2,
+      0
+     ],
+     "dur": 4.2,
+     "fixed": true,
+     "motion": "handheld",
+     "snow": true,
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "serif",
+     "bg": "a/p_amur_tiger/2_pixabay.jpg",
+     "text": "é um tigre morto.",
+     "lines": [
+      "Um tigre ferido no inverno"
+     ],
+     "size": 120,
+     "dur": 3.52,
+     "fixed": true,
+     "trans": "blur"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_tiger_mouth_close_1.jpg",
+     "move": "right",
+     "hud": [
+      3,
+      2,
+      0
+     ],
+     "dur": 3.4,
+     "fixed": true,
+     "motion": "dolly",
+     "trans": "whip",
+     "sfx": [
+      {
+       "file": "sfx/whip.wav",
+       "gain": -33,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/p_bison_painting/3_pixabay.jpg",
+     "move": "out",
+     "dur": 4.82,
+     "fixed": true,
+     "motion": "drift",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_tiger_run_snow_1.jpg",
+     "move": "in",
+     "hud": [
+      3,
+      2,
+      0
+     ],
+     "dur": 4.66,
+     "fixed": true,
+     "motion": "orbit",
+     "snow": true,
+     "trans": "flash",
+     "sfx": [
+      {
+       "file": "sfx/impact.wav",
+       "gain": -28,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "verdict",
+     "src": "a/p_bison_painting/1_commons.jpg",
+     "winner": "tigre",
+     "sfx": [
+      {
+       "file": "sfx/heartbeat.wav",
+       "gain": -26,
+       "at": 0
+      },
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -27,
+       "at": 0.25
+      },
+      {
+       "file": "sfx/thud.wav",
+       "gain": -23,
+       "at": 0.55
+      },
+      {
+       "file": "sfx/win.wav",
+       "gain": -27,
+       "at": 0.6
+      }
+     ],
+     "dur": 3.52,
+     "fixed": true,
+     "trans": "punch"
+    },
+    {
+     "type": "score",
+     "bg": "a/ai/ai_tiger_shake_snow_1.jpg",
+     "prev": [
+      2,
+      0
+     ],
+     "now": [
+      3,
+      0
+     ],
+     "sub": "Vitória apertada",
+     "sfx": [
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.2
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.4
+      },
+      {
+       "file": "sfx/win.wav",
+       "gain": -30,
+       "at": 0.6
+      }
+     ],
+     "dur": 1.78,
+     "fixed": true,
+     "trans": "zoom"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_hyena/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "hud": [
+      3,
+      2,
+      0
+     ],
+     "dur": 4.86,
+     "fixed": true,
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_hyena/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "hud": [
+      3,
+      2,
+      0
+     ],
+     "dur": 2.892,
+     "fixed": false,
+     "speed": 0.7,
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_b.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch05.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "round",
+     "num": 4,
+     "name": "Hiena-das-cavernas",
+     "sub": "mais de 100 kg · vivia em clãs",
+     "bg": "a/p_cave_hyena/1_commons.jpg",
+     "sfx": [
+      {
+       "file": "sfx/bell.wav",
+       "gain": -29,
+       "at": 0.05
+      },
+      {
+       "file": "sfx/impact.wav",
+       "gain": -27,
+       "at": 0.1
+      }
+     ],
+     "dur": 3.16,
+     "fixed": true,
+     "trans": "flash"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_hyena_portrait_1.jpg",
+     "move": "out",
+     "caption": "Rodada 4|Hiena-das-cavernas",
+     "hud": [
+      4,
+      3,
+      0
+     ],
+     "dur": 3.72,
+     "fixed": true,
+     "motion": "handheld",
+     "leak": true,
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "measure",
+     "src": "a/ai/ai_hyena_clan_1.jpg",
+     "value": "100 kg",
+     "side": "right",
+     "top": 0.12,
+     "bottom": 0.8,
+     "move": "in",
+     "sfx": [
+      {
+       "file": "sfx/riser.wav",
+       "gain": -36,
+       "at": 0
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.95
+      }
+     ],
+     "hud": [
+      4,
+      3,
+      0
+     ],
+     "dur": 5.44,
+     "fixed": true,
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_hyena_bones_1.jpg",
+     "move": "in",
+     "hud": [
+      4,
+      3,
+      0
+     ],
+     "dur": 2.82,
+     "fixed": true,
+     "motion": "punchin",
+     "trans": "punch",
+     "sfx": [
+      {
+       "file": "sfx/thud.wav",
+       "gain": -29,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_hyena_den_1.jpg",
+     "move": "left",
+     "hud": [
+      4,
+      3,
+      0
+     ],
+     "dur": 3.74,
+     "fixed": true,
+     "motion": "rotate",
+     "trans": "mono",
+     "sfx": [
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -31,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "versus",
+     "left": {
+      "src": "a/ai/ai_tiger_drink_ice_1.jpg",
+      "name": "Tigre",
+      "stat": "200 kg"
+     },
+     "right": {
+      "src": "a/ai/ai_hyena_run_1.jpg",
+      "name": "Hiena-das-cavernas",
+      "stat": "100 kg"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whip.wav",
+       "gain": -29,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/impact.wav",
+       "gain": -26,
+       "at": 0.75
+      },
+      {
+       "file": "sfx/growl.wav",
+       "gain": -31,
+       "at": 0.9
+      }
+     ],
+     "dur": 3.4,
+     "fixed": true,
+     "trans": "whip"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_hyena_portrait2_1.jpg",
+     "move": "down",
+     "dur": 3.38,
+     "fixed": true,
+     "motion": "focus",
+     "trans": "fade"
+    },
+    {
+     "type": "serif",
+     "bg": "a/ai/ai_hyena_howl_1.jpg",
+     "text": "Elas esperam.",
+     "lines": [
+      "As hienas não precisam vencer"
+     ],
+     "size": 120,
+     "dur": 3.4,
+     "fixed": true,
+     "trans": "blur"
+    },
+    {
+     "type": "image",
+     "src": "a/p_cave_hyena/1_commons.jpg",
+     "move": "in",
+     "dur": 3.08,
+     "fixed": true,
+     "motion": "rise",
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_tiger_glacier_1.jpg",
+     "move": "in",
+     "hud": [
+      4,
+      3,
+      0
+     ],
+     "dur": 3.96,
+     "fixed": true,
+     "motion": "drift",
+     "snow": true,
+     "trans": "punch",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_b.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_hyena_howl_1.jpg",
+     "move": "up",
+     "hud": [
+      4,
+      3,
+      0
+     ],
+     "dur": 3.46,
+     "fixed": true,
+     "motion": "orbit",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_hyena_watch_1.jpg",
+     "move": "out",
+     "hud": [
+      4,
+      3,
+      0
+     ],
+     "dur": 5.36,
+     "fixed": true,
+     "motion": "dolly",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "verdict",
+     "src": "a/ai/ai_hyena_carcass_1.jpg",
+     "winner": "tigre",
+     "sfx": [
+      {
+       "file": "sfx/heartbeat.wav",
+       "gain": -26,
+       "at": 0
+      },
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -27,
+       "at": 0.25
+      },
+      {
+       "file": "sfx/thud.wav",
+       "gain": -23,
+       "at": 0.55
+      },
+      {
+       "file": "sfx/win.wav",
+       "gain": -27,
+       "at": 0.6
+      }
+     ],
+     "dur": 3.4,
+     "fixed": true,
+     "trans": "punch"
+    },
+    {
+     "type": "image",
+     "src": "a/p_cave_hyena/3_pixabay.jpg",
+     "move": "left",
+     "dur": 3.38,
+     "fixed": true,
+     "motion": "handheld",
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "score",
+     "bg": "a/ai/ai_tiger_mouth_close_1.jpg",
+     "prev": [
+      3,
+      0
+     ],
+     "now": [
+      4,
+      0
+     ],
+     "sub": "Venceu a luta, perdeu o jantar",
+     "sfx": [
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.2
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.4
+      },
+      {
+       "file": "sfx/win.wav",
+       "gain": -30,
+       "at": 0.6
+      }
+     ],
+     "dur": 1.0,
+     "fixed": true,
+     "trans": "zoom"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_tiger_forest_dawn_1.jpg",
+     "move": "in",
+     "hud": [
+      4,
+      3,
+      0
+     ],
+     "dur": 3.16,
+     "fixed": true,
+     "motion": "dolly",
+     "leak": true,
+     "trans": "whip",
+     "sfx": [
+      {
+       "file": "sfx/whip.wav",
+       "gain": -33,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_bear/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "hud": [
+      4,
+      3,
+      0
+     ],
+     "dur": 4.984,
+     "fixed": false,
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch06.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "round",
+     "num": 5,
+     "name": "Urso-das-cavernas",
+     "sub": "mais de 500 kg · quase 3 m em pé",
+     "bg": "a/p_cave_bear_skeleton/2_openverse.jpg",
+     "sfx": [
+      {
+       "file": "sfx/bell.wav",
+       "gain": -29,
+       "at": 0.05
+      },
+      {
+       "file": "sfx/impact.wav",
+       "gain": -27,
+       "at": 0.1
+      }
+     ],
+     "dur": 2.9,
+     "fixed": true,
+     "trans": "flash"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_bear/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "caption": "Rodada 5|Urso-das-cavernas",
+     "hud": [
+      5,
+      4,
+      0
+     ],
+     "dur": 2.88,
+     "fixed": true,
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "measure",
+     "src": "a/ai/ai_cavebear_portrait_1.jpg",
+     "value": "500 kg",
+     "side": "right",
+     "top": 0.12,
+     "bottom": 0.8,
+     "move": "in",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_b.wav",
+       "gain": -34,
+       "at": 0
+      },
+      {
+       "file": "sfx/riser.wav",
+       "gain": -36,
+       "at": 0
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.95
+      }
+     ],
+     "hud": [
+      5,
+      4,
+      0
+     ],
+     "dur": 3.4,
+     "fixed": true,
+     "trans": "slide"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_cavebear_walk_1.jpg",
+     "move": "out",
+     "dur": 2.48,
+     "fixed": true,
+     "motion": "drift",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_bear/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "hud": [
+      5,
+      4,
+      0
+     ],
+     "dur": 4.36,
+     "fixed": true,
+     "trans": "fade"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_bear/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "hud": [
+      5,
+      4,
+      0
+     ],
+     "dur": 2.94,
+     "fixed": true,
+     "speed": 0.7,
+     "trans": "punch",
+     "sfx": [
+      {
+       "file": "sfx/thud.wav",
+       "gain": -29,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "serif",
+     "bg": "a/ai/ai_cavebear_walk_1.jpg",
+     "text": "não precisa comer carne.",
+     "lines": [
+      "Meia tonelada, acuado"
+     ],
+     "size": 120,
+     "dur": 3.4,
+     "fixed": true,
+     "trans": "blur"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_cavebear_cave_1.jpg",
+     "move": "right",
+     "dur": 3.4,
+     "fixed": true,
+     "motion": "orbit",
+     "trans": "mono",
+     "sfx": [
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -31,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_cavebear_close_1.jpg",
+     "move": "in",
+     "dur": 2.62,
+     "fixed": true,
+     "motion": "handheld",
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_tiger_snow_close_1.jpg",
+     "move": "out",
+     "caption": "Rússia, hoje|Tigres atacam ursos",
+     "hud": [
+      5,
+      4,
+      0
+     ],
+     "dur": 3.4,
+     "fixed": true,
+     "motion": "punchin",
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_cavebear_cub_1.jpg",
+     "move": "up",
+     "dur": 2.56,
+     "fixed": true,
+     "motion": "rotate",
+     "trans": "punch",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_b.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_cavebear_den_1.jpg",
+     "move": "right",
+     "hud": [
+      5,
+      4,
+      0
+     ],
+     "dur": 3.38,
+     "fixed": true,
+     "motion": "focus",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_tiger_rock_sit_1.jpg",
+     "move": "in",
+     "hud": [
+      5,
+      4,
+      0
+     ],
+     "dur": 2.12,
+     "fixed": true,
+     "motion": "rise",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_cavebear_vs_tiger_1.jpg",
+     "move": "up",
+     "hud": [
+      5,
+      4,
+      0
+     ],
+     "dur": 2.7,
+     "fixed": true,
+     "motion": "drift",
+     "snow": true,
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "versus",
+     "left": {
+      "src": "a/ai/ai_tiger_stretch_1.jpg",
+      "name": "Tigre",
+      "stat": "200 kg"
+     },
+     "right": {
+      "src": "a/ai/ai_cavebear_roar_1.jpg",
+      "name": "Urso-das-cavernas",
+      "stat": "500 kg"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whip.wav",
+       "gain": -29,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/impact.wav",
+       "gain": -26,
+       "at": 0.75
+      },
+      {
+       "file": "sfx/growl.wav",
+       "gain": -31,
+       "at": 0.9
+      }
+     ],
+     "dur": 3.4,
+     "fixed": true,
+     "trans": "whip"
+    },
+    {
+     "type": "image",
+     "src": "a/p_cave_bear_skeleton/1_commons.jpg",
+     "move": "out",
+     "dur": 4.08,
+     "fixed": true,
+     "motion": "orbit",
+     "leak": true,
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "verdict",
+     "src": "a/ai/ai_cavebear_skeleton_1.jpg",
+     "winner": "empate",
+     "sfx": [
+      {
+       "file": "sfx/heartbeat.wav",
+       "gain": -26,
+       "at": 0
+      },
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -27,
+       "at": 0.25
+      },
+      {
+       "file": "sfx/thud.wav",
+       "gain": -23,
+       "at": 0.55
+      },
+      {
+       "file": "sfx/riser.wav",
+       "gain": -30,
+       "at": 0.6
+      }
+     ],
+     "dur": 3.17,
+     "fixed": true,
+     "trans": "punch"
+    },
+    {
+     "type": "score",
+     "bg": "a/ai/ai_cavebear_cave_1.jpg",
+     "prev": [
+      4,
+      0
+     ],
+     "now": [
+      4,
+      0
+     ],
+     "sub": "Ninguém pontua",
+     "sfx": [
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.2
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.4
+      },
+      {
+       "file": "sfx/thud.wav",
+       "gain": -28,
+       "at": 0.6
+      }
+     ],
+     "dur": 1.71,
+     "fixed": true,
+     "trans": "zoom"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_lion/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "hud": [
+      5,
+      4,
+      0
+     ],
+     "dur": 3.4,
+     "fixed": true,
+     "trans": "flash",
+     "sfx": [
+      {
+       "file": "sfx/reverse.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/p_cave_bear_skeleton/2_openverse.jpg",
+     "move": "down",
+     "dur": 2.86,
+     "fixed": true,
+     "motion": "dolly",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_lion/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "hud": [
+      5,
+      4,
+      0
+     ],
+     "dur": 2.66,
+     "fixed": false,
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_b.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch07.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "cta",
+     "text": "Curtindo essa batalha?",
+     "sub": "Inscreva-se e ative o sininho · é de graça",
+     "bg": "a/ai/ai_cavelion_walk_1.jpg",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -30,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 1.2
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 2.5
+      }
+     ],
+     "dur": 3.4,
+     "fixed": true,
+     "trans": "zoom"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_cavelion_walk_1.jpg",
+     "move": "in",
+     "dur": 3.4,
+     "fixed": true,
+     "motion": "handheld",
+     "snow": true,
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_cavelion_rest_1.jpg",
+     "move": "left",
+     "dur": 3.4,
+     "fixed": true,
+     "motion": "dolly",
+     "trans": "punch",
+     "sfx": [
+      {
+       "file": "sfx/thud.wav",
+       "gain": -29,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_cavelion_stare_1.jpg",
+     "move": "out",
+     "dur": 5.12,
+     "fixed": true,
+     "motion": "drift",
+     "trans": "mono",
+     "sfx": [
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -31,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "round",
+     "num": 6,
+     "name": "Leão-das-cavernas",
+     "sub": "mais de 300 kg · estepe aberta",
+     "bg": "a/ai/ai_cavelion_rest_1.jpg",
+     "sfx": [
+      {
+       "file": "sfx/bell.wav",
+       "gain": -29,
+       "at": 0.05
+      },
+      {
+       "file": "sfx/impact.wav",
+       "gain": -27,
+       "at": 0.1
+      }
+     ],
+     "dur": 2.96,
+     "fixed": true,
+     "trans": "flash"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_lion/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "caption": "Rodada 6|Leão-das-cavernas",
+     "hud": [
+      6,
+      4,
+      0
+     ],
+     "dur": 4.86,
+     "fixed": true,
+     "trans": "fade"
+    },
+    {
+     "type": "measure",
+     "src": "a/ai/ai_cavelion_portrait_1.jpg",
+     "value": "300 kg",
+     "side": "right",
+     "top": 0.12,
+     "bottom": 0.8,
+     "move": "in",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      },
+      {
+       "file": "sfx/riser.wav",
+       "gain": -36,
+       "at": 0
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.95
+      }
+     ],
+     "hud": [
+      6,
+      4,
+      0
+     ],
+     "dur": 3.4,
+     "fixed": true,
+     "trans": "slide"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_cavelion_steppe_1.jpg",
+     "move": "right",
+     "dur": 2.52,
+     "fixed": true,
+     "motion": "orbit",
+     "snow": true,
+     "trans": "punch",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_b.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_lion/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "hud": [
+      6,
+      4,
+      0
+     ],
+     "dur": 4.42,
+     "fixed": true,
+     "speed": 0.7,
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "versus",
+     "left": {
+      "src": "a/ai/ai_tiger_walk_fog_1.jpg",
+      "name": "Tigre",
+      "stat": "200–300 kg"
+     },
+     "right": {
+      "src": "a/ai/ai_cavelion_pride_1.jpg",
+      "name": "Leão-das-cavernas",
+      "stat": "300 kg"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whip.wav",
+       "gain": -29,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/impact.wav",
+       "gain": -26,
+       "at": 0.75
+      },
+      {
+       "file": "sfx/growl.wav",
+       "gain": -31,
+       "at": 0.9
+      }
+     ],
+     "dur": 3.4,
+     "fixed": true,
+     "trans": "whip"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_cavelion_roar_1.jpg",
+     "move": "in",
+     "dur": 3.82,
+     "fixed": true,
+     "motion": "handheld",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_tiger_grass_frost_1.jpg",
+     "move": "in",
+     "hud": [
+      6,
+      4,
+      0
+     ],
+     "dur": 4.84,
+     "fixed": true,
+     "motion": "punchin",
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_cavelion_vs_tiger_1.jpg",
+     "move": "up",
+     "hud": [
+      6,
+      4,
+      0
+     ],
+     "dur": 3.4,
+     "fixed": true,
+     "motion": "rotate",
+     "snow": true,
+     "trans": "whip",
+     "sfx": [
+      {
+       "file": "sfx/whip.wav",
+       "gain": -33,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_cavelion_ambush_1.jpg",
+     "move": "up",
+     "dur": 2.46,
+     "fixed": true,
+     "motion": "focus",
+     "leak": true,
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "serif",
+     "bg": "a/ai/ai_cavelion_stare_1.jpg",
+     "text": "Campo aberto.",
+     "lines": [
+      "O duelo",
+      "Frente a frente"
+     ],
+     "size": 120,
+     "dur": 3.4,
+     "fixed": true,
+     "trans": "blur"
+    },
+    {
+     "type": "image",
+     "src": "a/p_cave_lion/1_commons.jpg",
+     "move": "out",
+     "dur": 2.48,
+     "fixed": true,
+     "motion": "rise",
+     "trans": "flash",
+     "sfx": [
+      {
+       "file": "sfx/impact.wav",
+       "gain": -28,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_cavelion_snarl_1.jpg",
+     "move": "out",
+     "hud": [
+      6,
+      4,
+      0
+     ],
+     "dur": 3.52,
+     "fixed": true,
+     "motion": "drift",
+     "snow": true,
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "verdict",
+     "src": "a/ai/ai_cavelion_hunt_1.jpg",
+     "winner": "feras",
+     "sfx": [
+      {
+       "file": "sfx/heartbeat.wav",
+       "gain": -26,
+       "at": 0
+      },
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -27,
+       "at": 0.25
+      },
+      {
+       "file": "sfx/thud.wav",
+       "gain": -23,
+       "at": 0.55
+      },
+      {
+       "file": "sfx/stinger.wav",
+       "gain": -26,
+       "at": 0.6
+      }
+     ],
+     "dur": 3.1,
+     "fixed": true,
+     "trans": "punch"
+    },
+    {
+     "type": "score",
+     "bg": "a/ai/ai_cavelion_steppe_1.jpg",
+     "prev": [
+      4,
+      0
+     ],
+     "now": [
+      4,
+      1
+     ],
+     "sub": "Primeiro ponto das feras",
+     "sfx": [
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.2
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.4
+      },
+      {
+       "file": "sfx/stinger.wav",
+       "gain": -29,
+       "at": 0.6
+      }
+     ],
+     "dur": 3.04,
+     "fixed": true,
+     "trans": "zoom"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_smilodon_arms_1.jpg",
+     "move": "in",
+     "hud": [
+      6,
+      4,
+      0
+     ],
+     "dur": 3.745,
+     "fixed": false,
+     "motion": "orbit",
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_b.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch08.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "round",
+     "num": 7,
+     "name": "Smilodon",
+     "sub": "dentes de 28 cm · viveu no Brasil",
+     "bg": "a/ai/ai_smilodon_vs_tiger_1.jpg",
+     "sfx": [
+      {
+       "file": "sfx/bell.wav",
+       "gain": -29,
+       "at": 0.05
+      },
+      {
+       "file": "sfx/impact.wav",
+       "gain": -27,
+       "at": 0.1
+      }
+     ],
+     "dur": 2.66,
+     "fixed": true,
+     "trans": "flash"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_smilodon_vs_tiger_1.jpg",
+     "move": "left",
+     "caption": "Rodada 7|Smilodon populator",
+     "hud": [
+      7,
+      4,
+      1
+     ],
+     "dur": 2.08,
+     "fixed": true,
+     "motion": "dolly",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_smilodon_cave_brazil_1.jpg",
+     "move": "out",
+     "hud": [
+      7,
+      4,
+      1
+     ],
+     "dur": 3.4,
+     "fixed": true,
+     "motion": "handheld",
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_tiger_eyes_snow_1.jpg",
+     "move": "down",
+     "dur": 3.06,
+     "fixed": true,
+     "motion": "dolly",
+     "trans": "punch",
+     "sfx": [
+      {
+       "file": "sfx/thud.wav",
+       "gain": -29,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_smilodon_skull_1.jpg",
+     "move": "right",
+     "caption": "Brasil|Cavernas de MG e BA",
+     "hud": [
+      7,
+      4,
+      1
+     ],
+     "dur": 4.62,
+     "fixed": true,
+     "motion": "drift",
+     "trans": "mono",
+     "sfx": [
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -31,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "measure",
+     "src": "a/ai/ai_smilodon_rock_1.jpg",
+     "value": "300 kg",
+     "side": "left",
+     "top": 0.12,
+     "bottom": 0.8,
+     "move": "in",
+     "sfx": [
+      {
+       "file": "sfx/riser.wav",
+       "gain": -36,
+       "at": 0
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.95
+      }
+     ],
+     "hud": [
+      7,
+      4,
+      1
+     ],
+     "dur": 4.54,
+     "fixed": true,
+     "trans": "fade"
+    },
+    {
+     "type": "measure",
+     "src": "a/ai/ai_smilodon_jaws_open_1.jpg",
+     "value": "28 cm",
+     "side": "right",
+     "top": 0.12,
+     "bottom": 0.8,
+     "move": "in",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      },
+      {
+       "file": "sfx/riser.wav",
+       "gain": -36,
+       "at": 0
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.95
+      }
+     ],
+     "hud": [
+      7,
+      4,
+      1
+     ],
+     "dur": 2.56,
+     "fixed": true,
+     "trans": "slide"
+    },
+    {
+     "type": "versus",
+     "left": {
+      "src": "a/ai/ai_tiger_steppe_wide_1.jpg",
+      "name": "Tigre",
+      "stat": "200 kg"
+     },
+     "right": {
+      "src": "a/ai/ai_smilodon_snarl2_1.jpg",
+      "name": "Smilodon",
+      "stat": "300 kg"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whip.wav",
+       "gain": -29,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/impact.wav",
+       "gain": -26,
+       "at": 0.75
+      },
+      {
+       "file": "sfx/growl.wav",
+       "gain": -31,
+       "at": 0.9
+      }
+     ],
+     "dur": 1.66,
+     "fixed": true,
+     "trans": "whip"
+    },
+    {
+     "type": "serif",
+     "bg": "a/ai/ai_smilodon_cave_brazil_1.jpg",
+     "text": "Uma surpresa.",
+     "lines": [
+      "Os números escondem"
+     ],
+     "size": 120,
+     "dur": 2.66,
+     "fixed": true,
+     "trans": "blur"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_smilodon_vs_tiger2_1.jpg",
+     "move": "in",
+     "hud": [
+      7,
+      4,
+      1
+     ],
+     "dur": 2.88,
+     "fixed": true,
+     "motion": "orbit",
+     "snow": true,
+     "trans": "punch",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_b.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/p_smilodon_skeleton/1_commons.jpg",
+     "move": "left",
+     "hud": [
+      7,
+      4,
+      1
+     ],
+     "dur": 2.24,
+     "fixed": true,
+     "motion": "handheld",
+     "leak": true,
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/p_smilodon_skeleton/2_openverse.jpg",
+     "move": "out",
+     "hud": [
+      7,
+      4,
+      1
+     ],
+     "dur": 3.4,
+     "fixed": true,
+     "motion": "punchin",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_iceage_glacier_valley_1.jpg",
+     "move": "in",
+     "dur": 4.12,
+     "fixed": true,
+     "motion": "rotate",
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/p_smilodon_skull/1_commons.jpg",
+     "move": "right",
+     "hud": [
+      7,
+      4,
+      1
+     ],
+     "dur": 4.46,
+     "fixed": true,
+     "motion": "focus",
+     "trans": "whip",
+     "sfx": [
+      {
+       "file": "sfx/whip.wav",
+       "gain": -33,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_tiger_camtrap_1.jpg",
+     "move": "in",
+     "hud": [
+      7,
+      4,
+      1
+     ],
+     "dur": 3.4,
+     "fixed": true,
+     "motion": "rise",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_iceage_sunset_1.jpg",
+     "move": "left",
+     "dur": 2.34,
+     "fixed": true,
+     "motion": "drift",
+     "trans": "flash",
+     "sfx": [
+      {
+       "file": "sfx/reverse.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/p_smilodon_skull/2_openverse.jpg",
+     "move": "up",
+     "hud": [
+      7,
+      4,
+      1
+     ],
+     "dur": 3.4,
+     "fixed": true,
+     "motion": "orbit",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_iceage_river_1.jpg",
+     "move": "out",
+     "dur": 3.1,
+     "fixed": true,
+     "motion": "dolly",
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_b.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "verdict",
+     "src": "a/ai/ai_tiger_portrait_side_1.jpg",
+     "winner": "tigre",
+     "sfx": [
+      {
+       "file": "sfx/heartbeat.wav",
+       "gain": -26,
+       "at": 0
+      },
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -27,
+       "at": 0.25
+      },
+      {
+       "file": "sfx/thud.wav",
+       "gain": -23,
+       "at": 0.55
+      },
+      {
+       "file": "sfx/win.wav",
+       "gain": -27,
+       "at": 0.6
+      }
+     ],
+     "dur": 2.27,
+     "fixed": true,
+     "trans": "punch"
+    },
+    {
+     "type": "score",
+     "bg": "a/ai/ai_tiger_look_back_1.jpg",
+     "prev": [
+      4,
+      1
+     ],
+     "now": [
+      5,
+      1
+     ],
+     "sub": "",
+     "sfx": [
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.2
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.4
+      },
+      {
+       "file": "sfx/win.wav",
+       "gain": -30,
+       "at": 0.6
+      }
+     ],
+     "dur": 1.51,
+     "fixed": true,
+     "trans": "zoom"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_arctodus_portrait_1.jpg",
+     "move": "down",
+     "hud": [
+      7,
+      4,
+      1
+     ],
+     "dur": 4.816,
+     "fixed": false,
+     "motion": "handheld",
+     "trans": "fade"
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch09.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "round",
+     "num": 8,
+     "name": "Urso-de-cara-achatada",
+     "sub": "Arctodus · até 900 kg",
+     "bg": "a/ai/ai_arctodus_upright_1.jpg",
+     "sfx": [
+      {
+       "file": "sfx/bell.wav",
+       "gain": -29,
+       "at": 0.05
+      },
+      {
+       "file": "sfx/impact.wav",
+       "gain": -27,
+       "at": 0.1
+      }
+     ],
+     "dur": 3.28,
+     "fixed": true,
+     "trans": "flash"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_arctodus_upright_1.jpg",
+     "move": "in",
+     "caption": "Rodada 8|Arctodus simus",
+     "hud": [
+      8,
+      5,
+      1
+     ],
+     "dur": 3.4,
+     "fixed": true,
+     "motion": "dolly",
+     "leak": true,
+     "trans": "punch",
+     "sfx": [
+      {
+       "file": "sfx/thud.wav",
+       "gain": -29,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_arctodus_vs_tiger2_1.jpg",
+     "move": "right",
+     "dur": 3.04,
+     "fixed": true,
+     "motion": "drift",
+     "trans": "mono",
+     "sfx": [
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -31,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "measure",
+     "src": "a/ai/ai_arctodus_vs_tiger_1.jpg",
+     "value": "900 kg",
+     "side": "right",
+     "top": 0.12,
+     "bottom": 0.8,
+     "move": "in",
+     "sfx": [
+      {
+       "file": "sfx/riser.wav",
+       "gain": -36,
+       "at": 0
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.95
+      }
+     ],
+     "hud": [
+      8,
+      5,
+      1
+     ],
+     "dur": 3.9,
+     "fixed": true,
+     "trans": "fade"
+    },
+    {
+     "type": "measure",
+     "src": "a/ai/ai_arctodus_walk_1.jpg",
+     "value": "3 m",
+     "side": "left",
+     "top": 0.12,
+     "bottom": 0.8,
+     "move": "in",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      },
+      {
+       "file": "sfx/riser.wav",
+       "gain": -36,
+       "at": 0
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.95
+      }
+     ],
+     "hud": [
+      8,
+      5,
+      1
+     ],
+     "dur": 2.58,
+     "fixed": true,
+     "trans": "slide"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_arctodus_head_1.jpg",
+     "move": "right",
+     "hud": [
+      8,
+      5,
+      1
+     ],
+     "dur": 3.26,
+     "fixed": true,
+     "motion": "orbit",
+     "trans": "punch",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_b.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_arctodus_scale_1.jpg",
+     "move": "in",
+     "hud": [
+      8,
+      5,
+      1
+     ],
+     "dur": 3.4,
+     "fixed": true,
+     "motion": "handheld",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/p_arctodus_skeleton/1_commons.jpg",
+     "move": "in",
+     "dur": 2.24,
+     "fixed": true,
+     "motion": "punchin",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_arctodus_run_1.jpg",
+     "move": "up",
+     "hud": [
+      8,
+      5,
+      1
+     ],
+     "dur": 3.84,
+     "fixed": true,
+     "motion": "rotate",
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "versus",
+     "left": {
+      "src": "a/ai/ai_tiger_yawn_1.jpg",
+      "name": "Tigre",
+      "stat": "200 kg"
+     },
+     "right": {
+      "src": "a/ai/ai_arctodus_ridge_1.jpg",
+      "name": "Arctodus",
+      "stat": "900 kg"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whip.wav",
+       "gain": -29,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/impact.wav",
+       "gain": -26,
+       "at": 0.75
+      },
+      {
+       "file": "sfx/growl.wav",
+       "gain": -31,
+       "at": 0.9
+      }
+     ],
+     "dur": 3.66,
+     "fixed": true,
+     "trans": "whip"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_tiger_birch_1.jpg",
+     "move": "in",
+     "hud": [
+      8,
+      5,
+      1
+     ],
+     "dur": 3.4,
+     "fixed": true,
+     "motion": "focus",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_hook_storm_1.jpg",
+     "move": "up",
+     "dur": 3.3,
+     "fixed": true,
+     "motion": "rise",
+     "trans": "flash",
+     "sfx": [
+      {
+       "file": "sfx/impact.wav",
+       "gain": -28,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_arctodus_snow_1.jpg",
+     "move": "left",
+     "hud": [
+      8,
+      5,
+      1
+     ],
+     "dur": 3.48,
+     "fixed": true,
+     "motion": "drift",
+     "snow": true,
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "verdict",
+     "src": "a/ai/ai_arctodus_close_1.jpg",
+     "winner": "feras",
+     "sfx": [
+      {
+       "file": "sfx/heartbeat.wav",
+       "gain": -26,
+       "at": 0
+      },
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -27,
+       "at": 0.25
+      },
+      {
+       "file": "sfx/thud.wav",
+       "gain": -23,
+       "at": 0.55
+      },
+      {
+       "file": "sfx/stinger.wav",
+       "gain": -26,
+       "at": 0.6
+      }
+     ],
+     "dur": 3.76,
+     "fixed": true,
+     "trans": "punch"
+    },
+    {
+     "type": "score",
+     "bg": "a/ai/ai_arctodus_vs_tiger2_1.jpg",
+     "prev": [
+      5,
+      1
+     ],
+     "now": [
+      5,
+      2
+     ],
+     "sub": "",
+     "sfx": [
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.2
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.4
+      },
+      {
+       "file": "sfx/stinger.wav",
+       "gain": -29,
+       "at": 0.6
+      }
+     ],
+     "dur": 1.48,
+     "fixed": true,
+     "trans": "zoom"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_rhino/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "hud": [
+      8,
+      5,
+      1
+     ],
+     "dur": 2.82,
+     "fixed": true,
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_b.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_rhino/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "hud": [
+      8,
+      5,
+      1
+     ],
+     "dur": 4.447,
+     "fixed": false,
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch10.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "round",
+     "num": 9,
+     "name": "Rinoceronte-lanoso",
+     "sub": "≈ 2 toneladas · chifre de 1 m",
+     "bg": "a/p_woolly_rhino/1_commons.jpg",
+     "sfx": [
+      {
+       "file": "sfx/bell.wav",
+       "gain": -29,
+       "at": 0.05
+      },
+      {
+       "file": "sfx/impact.wav",
+       "gain": -27,
+       "at": 0.1
+      }
+     ],
+     "dur": 2.86,
+     "fixed": true,
+     "trans": "flash"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_rhino/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "caption": "Rodada 9|Rinoceronte-lanoso",
+     "hud": [
+      9,
+      5,
+      2
+     ],
+     "dur": 5.18,
+     "fixed": true,
+     "trans": "fade"
+    },
+    {
+     "type": "measure",
+     "src": "a/ai/ai_rhino_portrait_1.jpg",
+     "value": "2.000 kg",
+     "side": "right",
+     "top": 0.12,
+     "bottom": 0.8,
+     "move": "in",
+     "sfx": [
+      {
+       "file": "sfx/thud.wav",
+       "gain": -29,
+       "at": 0
+      },
+      {
+       "file": "sfx/riser.wav",
+       "gain": -36,
+       "at": 0
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.95
+      }
+     ],
+     "hud": [
+      9,
+      5,
+      2
+     ],
+     "dur": 2.66,
+     "fixed": true,
+     "trans": "punch"
+    },
+    {
+     "type": "measure",
+     "src": "a/ai/ai_rhino_sweep_1.jpg",
+     "value": "1 m",
+     "side": "left",
+     "top": 0.12,
+     "bottom": 0.8,
+     "move": "in",
+     "sfx": [
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -31,
+       "at": 0
+      },
+      {
+       "file": "sfx/riser.wav",
+       "gain": -36,
+       "at": 0
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.95
+      }
+     ],
+     "hud": [
+      9,
+      5,
+      2
+     ],
+     "dur": 3.66,
+     "fixed": true,
+     "trans": "mono"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_rhino_charge_1.jpg",
+     "move": "up",
+     "hud": [
+      9,
+      5,
+      2
+     ],
+     "dur": 4.22,
+     "fixed": true,
+     "motion": "orbit",
+     "leak": true,
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_rhino_vs_tiger_1.jpg",
+     "move": "out",
+     "hud": [
+      9,
+      5,
+      2
+     ],
+     "dur": 4.92,
+     "fixed": true,
+     "motion": "dolly",
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "versus",
+     "left": {
+      "src": "a/ai/ai_tiger_sunlit_1.jpg",
+      "name": "Tigre",
+      "stat": "200 kg"
+     },
+     "right": {
+      "src": "a/ai/ai_rhino_horn_1.jpg",
+      "name": "Rinoceronte-lanoso",
+      "stat": "2.000 kg"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whip.wav",
+       "gain": -29,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/impact.wav",
+       "gain": -26,
+       "at": 0.75
+      },
+      {
+       "file": "sfx/growl.wav",
+       "gain": -31,
+       "at": 0.9
+      }
+     ],
+     "dur": 2.84,
+     "fixed": true,
+     "trans": "whip"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_rhino_herd_1.jpg",
+     "move": "left",
+     "hud": [
+      9,
+      5,
+      2
+     ],
+     "dur": 3.4,
+     "fixed": true,
+     "motion": "handheld",
+     "snow": true,
+     "trans": "punch",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_b.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/p_woolly_rhino/1_commons.jpg",
+     "move": "out",
+     "dur": 3.58,
+     "fixed": true,
+     "motion": "dolly",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "serif",
+     "bg": "a/ai/ai_rhino_charge_1.jpg",
+     "text": "duas toneladas.",
+     "lines": [
+      "Não existe emboscada que derrube"
+     ],
+     "size": 120,
+     "dur": 3.46,
+     "fixed": true,
+     "trans": "blur"
+    },
+    {
+     "type": "verdict",
+     "src": "a/ai/ai_rhino_side_1.jpg",
+     "winner": "feras",
+     "sfx": [
+      {
+       "file": "sfx/heartbeat.wav",
+       "gain": -26,
+       "at": 0
+      },
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -27,
+       "at": 0.25
+      },
+      {
+       "file": "sfx/thud.wav",
+       "gain": -23,
+       "at": 0.55
+      },
+      {
+       "file": "sfx/stinger.wav",
+       "gain": -26,
+       "at": 0.6
+      }
+     ],
+     "dur": 2.84,
+     "fixed": true,
+     "trans": "punch"
+    },
+    {
+     "type": "score",
+     "bg": "a/ai/ai_rhino_vs_tiger_1.jpg",
+     "prev": [
+      5,
+      2
+     ],
+     "now": [
+      5,
+      3
+     ],
+     "sub": "",
+     "sfx": [
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.2
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.4
+      },
+      {
+       "file": "sfx/stinger.wav",
+       "gain": -29,
+       "at": 0.6
+      }
+     ],
+     "dur": 1.96,
+     "fixed": true,
+     "trans": "zoom"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_elephant/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "hud": [
+      9,
+      5,
+      2
+     ],
+     "dur": 3.1,
+     "fixed": true,
+     "speed": 0.7,
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_elephant/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "hud": [
+      9,
+      5,
+      2
+     ],
+     "dur": 2.469,
+     "fixed": false,
+     "trans": "whip",
+     "sfx": [
+      {
+       "file": "sfx/whip.wav",
+       "gain": -33,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch11.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "round",
+     "num": 10,
+     "name": "Mamute-lanoso",
+     "sub": "6 toneladas · presas de 4 m",
+     "bg": "a/ai/ai_mammoth_walk_1.jpg",
+     "sfx": [
+      {
+       "file": "sfx/bell.wav",
+       "gain": -29,
+       "at": 0.05
+      },
+      {
+       "file": "sfx/impact.wav",
+       "gain": -27,
+       "at": 0.1
+      }
+     ],
+     "dur": 2.9,
+     "fixed": true,
+     "trans": "flash"
+    },
+    {
+     "type": "measure",
+     "src": "a/ai/ai_mammoth_herd_wall_1.jpg",
+     "value": "6.000 kg",
+     "side": "right",
+     "top": 0.12,
+     "bottom": 0.8,
+     "move": "in",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      },
+      {
+       "file": "sfx/riser.wav",
+       "gain": -36,
+       "at": 0
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.95
+      }
+     ],
+     "hud": [
+      10,
+      5,
+      3
+     ],
+     "dur": 1.52,
+     "fixed": true,
+     "trans": "wipe"
+    },
+    {
+     "type": "measure",
+     "src": "a/ai/ai_mammoth_calf_1.jpg",
+     "value": "3,5 m",
+     "side": "left",
+     "top": 0.12,
+     "bottom": 0.8,
+     "move": "in",
+     "sfx": [
+      {
+       "file": "sfx/reverse.wav",
+       "gain": -34,
+       "at": 0
+      },
+      {
+       "file": "sfx/riser.wav",
+       "gain": -36,
+       "at": 0
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.95
+      }
+     ],
+     "hud": [
+      10,
+      5,
+      3
+     ],
+     "dur": 2.7,
+     "fixed": true,
+     "trans": "flash"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_elephant/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "caption": "Rodada 10|Mamute-lanoso",
+     "hud": [
+      10,
+      5,
+      3
+     ],
+     "dur": 2.213,
+     "fixed": true,
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_mammoth_stomp_1.jpg",
+     "move": "up",
+     "hud": [
+      10,
+      5,
+      3
+     ],
+     "dur": 2.307,
+     "fixed": true,
+     "motion": "drift",
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_b.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_mammoth_walk_1.jpg",
+     "move": "out",
+     "hud": [
+      10,
+      5,
+      3
+     ],
+     "dur": 5.14,
+     "fixed": true,
+     "motion": "orbit",
+     "snow": true,
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "versus",
+     "left": {
+      "src": "a/ai/ai_tiger_paws_walk_1.jpg",
+      "name": "Tigre",
+      "stat": "200 kg"
+     },
+     "right": {
+      "src": "a/ai/ai_mammoth_herd_far_1.jpg",
+      "name": "Mamute-lanoso",
+      "stat": "6.000 kg"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whip.wav",
+       "gain": -29,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/impact.wav",
+       "gain": -26,
+       "at": 0.75
+      },
+      {
+       "file": "sfx/growl.wav",
+       "gain": -31,
+       "at": 0.9
+      }
+     ],
+     "dur": 2.1,
+     "fixed": true,
+     "trans": "whip"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_mammoth_eye_1.jpg",
+     "move": "left",
+     "hud": [
+      10,
+      5,
+      3
+     ],
+     "dur": 4.6,
+     "fixed": true,
+     "motion": "handheld",
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_mammoth_tusks_front_1.jpg",
+     "move": "out",
+     "hud": [
+      10,
+      5,
+      3
+     ],
+     "dur": 2.26,
+     "fixed": true,
+     "motion": "punchin",
+     "trans": "punch",
+     "sfx": [
+      {
+       "file": "sfx/thud.wav",
+       "gain": -29,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_mammoth_family_1.jpg",
+     "move": "right",
+     "hud": [
+      10,
+      5,
+      3
+     ],
+     "dur": 3.4,
+     "fixed": true,
+     "motion": "rotate",
+     "snow": true,
+     "trans": "mono",
+     "sfx": [
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -31,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_mammoth_sideview_1.jpg",
+     "move": "down",
+     "dur": 3.52,
+     "fixed": true,
+     "motion": "focus",
+     "leak": true,
+     "trans": "fade"
+    },
+    {
+     "type": "verdict",
+     "src": "a/ai/ai_mammoth_trunk_1.jpg",
+     "winner": "feras",
+     "sfx": [
+      {
+       "file": "sfx/heartbeat.wav",
+       "gain": -26,
+       "at": 0
+      },
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -27,
+       "at": 0.25
+      },
+      {
+       "file": "sfx/thud.wav",
+       "gain": -23,
+       "at": 0.55
+      },
+      {
+       "file": "sfx/stinger.wav",
+       "gain": -26,
+       "at": 0.6
+      }
+     ],
+     "dur": 2.58,
+     "fixed": true,
+     "trans": "punch"
+    },
+    {
+     "type": "score",
+     "bg": "a/ai/ai_mammoth_eye_1.jpg",
+     "prev": [
+      5,
+      3
+     ],
+     "now": [
+      5,
+      4
+     ],
+     "sub": "",
+     "sfx": [
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.2
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.4
+      },
+      {
+       "file": "sfx/stinger.wav",
+       "gain": -29,
+       "at": 0.6
+      }
+     ],
+     "dur": 1.32,
+     "fixed": true,
+     "trans": "zoom"
+    },
+    {
+     "type": "score",
+     "bg": "a/ai/ai_tiger_paw_1.jpg",
+     "prev": [
+      5,
+      4
+     ],
+     "now": [
+      5,
+      4
+     ],
+     "sub": "5 vitórias · 1 empate · 4 derrotas",
+     "sfx": [
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.2
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.4
+      },
+      {
+       "file": "sfx/thud.wav",
+       "gain": -28,
+       "at": 0.6
+      }
+     ],
+     "dur": 3.4,
+     "fixed": true,
+     "trans": "zoom"
+    },
+    {
+     "type": "image",
+     "src": "a/p_mammoth_skeleton/2_openverse.jpg",
+     "move": "in",
+     "dur": 3.48,
+     "fixed": true,
+     "motion": "rise",
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "serif",
+     "bg": "a/ai/ai_tiger_leap_1.jpg",
+     "text": "O tigre vence.",
+     "lines": [
+      "Contra a Era do Gelo inteira"
+     ],
+     "size": 120,
+     "dur": 4.18,
+     "fixed": true,
+     "trans": "blur"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_fire/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.4,
+     "fixed": true,
+     "trans": "punch",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_b.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_hook_valley_1.jpg",
+     "move": "left",
+     "dur": 2.7,
+     "fixed": true,
+     "motion": "drift",
+     "snow": true,
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_hunters_spears_1.jpg",
+     "move": "up",
+     "dur": 2.652,
+     "fixed": false,
+     "motion": "orbit",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch12.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "round",
+     "num": "F",
+     "name": "O ser humano",
+     "sub": "70 kg · sem garras · em grupo",
+     "bg": "a/ai/ai_hunter_hand_spear_1.jpg",
+     "sfx": [
+      {
+       "file": "sfx/bell.wav",
+       "gain": -29,
+       "at": 0.05
+      },
+      {
+       "file": "sfx/impact.wav",
+       "gain": -27,
+       "at": 0.1
+      }
+     ],
+     "dur": 2.58,
+     "fixed": true,
+     "trans": "flash"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_spear_points_1.jpg",
+     "move": "out",
+     "dur": 3.4,
+     "fixed": true,
+     "motion": "dolly",
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_hunter_hand_spear_1.jpg",
+     "move": "out",
+     "dur": 4.26,
+     "fixed": true,
+     "motion": "handheld",
+     "trans": "whip",
+     "sfx": [
+      {
+       "file": "sfx/whip.wav",
+       "gain": -33,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_cave_painting_torch_1.jpg",
+     "move": "down",
+     "dur": 3.4,
+     "fixed": true,
+     "motion": "dolly",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_flint_knapping_1.jpg",
+     "move": "right",
+     "dur": 2.58,
+     "fixed": true,
+     "motion": "drift",
+     "trans": "flash",
+     "sfx": [
+      {
+       "file": "sfx/impact.wav",
+       "gain": -28,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_empty_steppe_thaw_1.jpg",
+     "move": "in",
+     "dur": 4.04,
+     "fixed": true,
+     "motion": "orbit",
+     "snow": true,
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "serif",
+     "bg": "a/ai/ai_cave_painting_torch_1.jpg",
+     "text": "Todos extintos.",
+     "lines": [
+      "O fim dos gigantes"
+     ],
+     "size": 120,
+     "dur": 3.4,
+     "fixed": true,
+     "trans": "blur"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_bone_hut_1.jpg",
+     "move": "in",
+     "dur": 3.4,
+     "fixed": true,
+     "motion": "handheld",
+     "leak": true,
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_b.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_glacier_melt_1.jpg",
+     "move": "up",
+     "dur": 2.626,
+     "fixed": true,
+     "motion": "punchin",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_extinct_shadows_1.jpg",
+     "move": "left",
+     "dur": 3.977,
+     "fixed": true,
+     "motion": "rotate",
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_tiger_look_back_1.jpg",
+     "move": "out",
+     "dur": 4.797,
+     "fixed": true,
+     "motion": "focus",
+     "trans": "punch",
+     "sfx": [
+      {
+       "file": "sfx/thud.wav",
+       "gain": -29,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_hunters_back_1.jpg",
+     "move": "right",
+     "dur": 1.5,
+     "fixed": true,
+     "motion": "rise",
+     "trans": "mono",
+     "sfx": [
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -31,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_tiger_snow/5_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.4,
+     "fixed": true,
+     "speed": 0.7,
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/p_spear_points/1_commons.jpg",
+     "move": "out",
+     "dur": 2.4,
+     "fixed": true,
+     "motion": "drift",
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_tiger_frozen_lake_1.jpg",
+     "move": "in",
+     "dur": 3.4,
+     "fixed": true,
+     "motion": "orbit",
+     "trans": "punch",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_b.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_hook_aurora_1.jpg",
+     "move": "down",
+     "dur": 4.36,
+     "fixed": true,
+     "motion": "dolly",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "measure",
+     "src": "a/ai/ai_tiger_modern_forest_1.jpg",
+     "value": "≈ 750",
+     "side": "right",
+     "top": 0.12,
+     "bottom": 0.8,
+     "move": "in",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      },
+      {
+       "file": "sfx/riser.wav",
+       "gain": -36,
+       "at": 0
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.95
+      }
+     ],
+     "caption": "Na natureza, hoje|Tigres-siberianos",
+     "dur": 4.7,
+     "fixed": true,
+     "trans": "zoom"
+    },
+    {
+     "type": "serif",
+     "bg": "a/ai/ai_tiger_walk_steppe_1.jpg",
+     "text": "Vai vencer a nossa?",
+     "lines": [
+      "O tigre venceu a Era do Gelo"
+     ],
+     "size": 120,
+     "dur": 4.98,
+     "fixed": true,
+     "trans": "blur"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_tiger_whiskers_1.jpg",
+     "move": "out",
+     "dur": 3.4,
+     "fixed": true,
+     "motion": "handheld",
+     "snow": true,
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_tiger_final_look_1.jpg",
+     "move": "in",
+     "dur": 4.2,
+     "fixed": true,
+     "motion": "dolly",
+     "leak": true,
+     "trans": "whip",
+     "sfx": [
+      {
+       "file": "sfx/whip.wav",
+       "gain": -33,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "cta",
+     "text": "Obrigado por assistir",
+     "sub": "Deixe seu like e inscreva-se no Era das Feras",
+     "bg": "a/ai/ai_tiger_profile_snow_1.jpg",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -30,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 1.2
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 2.5
+      }
+     ],
+     "dur": 3.4,
+     "fixed": true,
+     "fade_out": 0,
+     "trans": "zoom"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_final_sunrise_1.jpg",
+     "move": "left",
+     "dur": 3.522,
+     "fixed": false,
+     "motion": "drift",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "size": [
+  1920,
+  1080
+ ]
+}
