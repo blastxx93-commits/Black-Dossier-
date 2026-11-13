@@ -1,7 +1,14 @@
 {
  "tigre": [
   "v_tiger_snow/2",
-  "v_tiger_run/2"
+  "v_tiger_a/2",
+  "v_tiger_c/6",
+  "v_tiger_b/1",
+  "v_tiger_d/2",
+  "v_tiger_a/8",
+  "v_tiger_e/1",
+  "v_tiger_run/2",
+  "v_tiger_a/1"
  ],
  "lobo": [
   "v_wolf_pack/2",
@@ -46,8 +53,10 @@
   "v_elephant/4"
  ],
  "hook": [
+  "v_mountain_snow/1",
   "v_blizzard/1",
   "v_glacier/1",
+  "v_mountain_snow/3",
   "v_glacier/2",
   "v_blizzard/2"
  ],
