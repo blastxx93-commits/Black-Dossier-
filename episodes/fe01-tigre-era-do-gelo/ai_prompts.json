@@ -343,6 +343,134 @@
   {
    "id": "ai_scoreboard_bg",
    "prompt": "Snowy Ice Age landscape at twilight, soft fog, empty foreground, room for text"
+  },
+  {
+   "id": "ai_tiger_profile_snow",
+   "prompt": "Side profile of a large Siberian tiger with thick winter fur walking slowly through deep snow, breath steaming, telephoto"
+  },
+  {
+   "id": "ai_tiger_back_view",
+   "prompt": "Back view of a large Siberian tiger with thick winter fur walking away into a misty snowy forest"
+  },
+  {
+   "id": "ai_tiger_jump_log",
+   "prompt": "Siberian tiger jumping over a fallen snowy log, mid-air, frozen motion"
+  },
+  {
+   "id": "ai_tiger_shake_snow",
+   "prompt": "Siberian tiger shaking snow off its fur, snow spray backlit by the sun"
+  },
+  {
+   "id": "ai_tiger_lying_eyes",
+   "prompt": "Siberian tiger lying low in snow, only head and eyes visible, intense stare at the camera"
+  },
+  {
+   "id": "ai_tiger_cliff_wind",
+   "prompt": "Siberian tiger standing on a windy cliff edge in a snowstorm, fur blowing"
+  },
+  {
+   "id": "ai_tiger_night_snow",
+   "prompt": "Siberian tiger walking under moonlight through a snowy forest at night, blue tones"
+  },
+  {
+   "id": "ai_tiger_tracks_line",
+   "prompt": "A long line of tiger tracks crossing a vast snowy plain toward a lone tiger in the distance"
+  },
+  {
+   "id": "ai_tiger_mouth_close",
+   "prompt": "Close-up of a Siberian tiger's open mouth showing its four canines, frost on whiskers"
+  },
+  {
+   "id": "ai_tiger_run_snow",
+   "prompt": "Siberian tiger running at full speed across snow, powerful stride, snow kicked up"
+  },
+  {
+   "id": "ai_tiger_drink_ice",
+   "prompt": "Siberian tiger crouching at a hole in river ice, drinking"
+  },
+  {
+   "id": "ai_tiger_glacier",
+   "prompt": "Siberian tiger walking along the foot of a huge blue glacier, Ice Age"
+  },
+  {
+   "id": "ai_smilodon_walk",
+   "prompt": "Side view of a Smilodon (robust tan sabre-toothed cat without stripes or spots, no ear tufts, short bobbed tail, exactly two long upper sabre canines) walking through tall grass at golden hour"
+  },
+  {
+   "id": "ai_smilodon_rock",
+   "prompt": "Front view of a Smilodon (robust tan sabre-toothed cat without stripes or spots, no ear tufts, short bobbed tail, exactly two long upper sabre canines) standing on a rock, looking down, dramatic clouds"
+  },
+  {
+   "id": "ai_smilodon_jaws_open",
+   "prompt": "Side view of a Smilodon (robust tan sabre-toothed cat without stripes or spots, no ear tufts, short bobbed tail, exactly two long upper sabre canines) opening its jaws extremely wide, revealing the sabre canines"
+  },
+  {
+   "id": "ai_smilodon_hunt",
+   "prompt": "Two Smilodons (robust tan sabre-toothed cat without stripes or spots, no ear tufts, short bobbed tail, exactly two long upper sabre canines) stalking a giant ground sloth in a South American savanna"
+  },
+  {
+   "id": "ai_smilodon_rest",
+   "prompt": "A Smilodon resting in the shade of a tree, calm, tan fur, short tail visible"
+  },
+  {
+   "id": "ai_smilodon_pampas",
+   "prompt": "Wide shot of a Smilodon crossing a grassy pampas plain under storm clouds"
+  },
+  {
+   "id": "ai_arctodus_walk",
+   "prompt": "Arctodus simus giant short-faced bear walking on long legs across an open grassland, side view"
+  },
+  {
+   "id": "ai_arctodus_head",
+   "prompt": "Close-up of the short broad face of a giant short-faced bear Arctodus, small eyes, powerful jaws"
+  },
+  {
+   "id": "ai_arctodus_scale",
+   "prompt": "A giant short-faced bear standing upright next to a large boulder for scale, overcast plain"
+  },
+  {
+   "id": "ai_rhino_herd",
+   "prompt": "Two woolly rhinoceroses grazing on a snowy steppe, long front horns, shaggy fur"
+  },
+  {
+   "id": "ai_rhino_side",
+   "prompt": "Side view of a woolly rhinoceros walking in deep snow, thick reddish-brown fur"
+  },
+  {
+   "id": "ai_mammoth_herd_far",
+   "prompt": "A long line of woolly mammoths walking across an endless snowy plain, aerial view"
+  },
+  {
+   "id": "ai_mammoth_eye",
+   "prompt": "Extreme close-up of the eye of a woolly mammoth surrounded by shaggy frosted hair"
+  },
+  {
+   "id": "ai_mammoth_tusks_front",
+   "prompt": "Front view of a woolly mammoth bull with two enormous symmetrical curved tusks, blizzard"
+  },
+  {
+   "id": "ai_iceage_glacier_valley",
+   "prompt": "An Ice Age valley with a massive glacier, herds of tiny animals far below, cinematic"
+  },
+  {
+   "id": "ai_iceage_sunset",
+   "prompt": "Ice Age steppe at sunset with long shadows, mammoth silhouettes far on the horizon"
+  },
+  {
+   "id": "ai_iceage_blizzard_herd",
+   "prompt": "Herd of steppe bison walking head-down through a blizzard"
+  },
+  {
+   "id": "ai_iceage_river",
+   "prompt": "A cold Ice Age river winding through the mammoth steppe, morning mist"
+  },
+  {
+   "id": "ai_human_footprints",
+   "prompt": "Human footprints in snow next to mammoth tracks, Ice Age, no people visible"
+  },
+  {
+   "id": "ai_cave_entrance_snow",
+   "prompt": "Entrance of a large limestone cave in a snowy Ice Age landscape, smoke from a fire inside, no people"
   }
  ]
 }

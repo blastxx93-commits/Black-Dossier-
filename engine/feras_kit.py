@@ -36,6 +36,16 @@ def _src(scene):
     return A.P(scene, photo_only=True)["src"]
 
 
+def _bg(scene):
+    """Background of a card (blurred + darkened): a placeholder resolved after the edit to a photo of the same
+    scene already on screen, so cards do not eat fresh footage (no visible repeat: it is out of focus)."""
+    _BGN[0] += 1
+    return f"@bg:{scene}#{_BGN[0]}"
+
+
+_BGN = [0]
+
+
 def foot(scene, cap=None, move=None):
     s = A.P(scene, move=move, cap=cap)
     if HUD[0]:
@@ -49,11 +59,11 @@ def label(scene, text, move=None):
 
 
 def serif(scene, text, lines=(), size=120):
-    return {"type": "serif", "bg": _src(scene), "text": text, "lines": list(lines), "size": size}
+    return {"type": "serif", "bg": _bg(scene), "text": text, "lines": list(lines), "size": size}
 
 
 def round_card(num, name, sub, scene):
-    return {"type": "round", "num": num, "name": name, "sub": sub, "bg": _src(scene),
+    return {"type": "round", "num": num, "name": name, "sub": sub, "bg": _bg(scene),
             "sfx": [fx("bell", 0.05), fx("impact", 0.1, -3)]}
 
 
@@ -74,7 +84,7 @@ def verdict(scene, winner, text=None):
 
 def score(scene, prev, now, sub=""):
     up = "win" if now[0] > prev[0] else ("stinger" if now[1] > prev[1] else "thud")
-    return {"type": "score", "bg": _src(scene), "prev": list(prev), "now": list(now), "sub": sub,
+    return {"type": "score", "bg": _bg(scene), "prev": list(prev), "now": list(now), "sub": sub,
             "sfx": [fx("tick", 0.2), fx("tick", 0.4), fx(up, 0.6, -3)]}
 
 
@@ -97,13 +107,13 @@ def ficha(scene, name, sci, rows, source=None):
 
 
 def cta(text, sub, scene):
-    return {"type": "cta", "text": text, "sub": sub, "bg": _src(scene), "sfx": [fx("whoosh_a"), fx("tick", 1.2), fx("tick", 2.5)]}
+    return {"type": "cta", "text": text, "sub": sub, "bg": _bg(scene), "sfx": [fx("whoosh_a"), fx("tick", 1.2), fx("tick", 2.5)]}
 
 
 def questions(c, items, phrases, scene):
     A.questions(c, items, phrases)
     t, s = c.cues[-1]
-    s["bg"] = _src(scene)
+    s["bg"] = _bg(scene)
     s["sfx"] = [fx("riser", 0, -8)] + [dict(x, file="sfx/tick.wav", gain=-20) for x in s["sfx"]]
 
 
@@ -133,8 +143,27 @@ def camera(ep):
     return ep
 
 
-def cut_rhythm(ep):
+def resolve_bg(ep, scene_of=None):
+    """Fills the card backgrounds: a photo of the card's scene already used (the folder name or AI id carries the
+    scene's words), rotating so consecutive cards differ; any used photo if the scene has none."""
+    import itertools
+    used = [s["src"] for c in ep["chapters"] for s in c["shots"] if s["type"] == "image"]
+    pools = {}
+    k = itertools.count()
+    for c in ep["chapters"]:
+        for s in c["shots"]:
+            b = s.get("bg", "")
+            if isinstance(b, str) and b.startswith("@bg:"):
+                sc = b[4:].split("#")[0]
+                keys = (scene_of or {}).get(sc, [sc])
+                pool = pools.setdefault(sc, [u for u in used if any(w in u for w in keys)] or used)
+                s["bg"] = pool[next(k) % len(pool)]
+    return ep
+
+
+def cut_rhythm(ep, scene_of=None):
     """Transitions + their sounds on every cut, varied. Runs on the finished episode JSON."""
+    resolve_bg(ep, scene_of)
     camera(ep)
     k = 0; last = None; snd = {}
     first = True

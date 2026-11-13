@@ -14,9 +14,12 @@ from feras_kit import foot, label, serif, round_card, versus, verdict, score, me
 
 ai = lambda *ids: ["ai:ai_" + i for i in ids]
 PHOTOS = {
-    "hook": ai("mammoth_vs_tiger", "mammoth_lowangle", "tusks_close", "iceage_panorama", "blizzard_steppe", "ten_beasts", "tiger_eyes_snow"),
+    "hook": ai("mammoth_vs_tiger", "mammoth_lowangle", "tusks_close", "iceage_panorama", "blizzard_steppe", "ten_beasts", "tiger_eyes_snow", "iceage_glacier_valley", "iceage_sunset",
+                 "iceage_blizzard_herd", "iceage_river"),
     "tigre": ai("tiger_taiga", "tiger_stalk", "tiger_leap", "tiger_roar", "tiger_paw", "tiger_claws", "tiger_ridge", "tiger_dusk",
-                "tiger_river", "tiger_ambush", "tiger_walk_steppe", "tiger_rest") + ["p_amur_tiger", "p_tiger_skull"],
+                "tiger_river", "tiger_ambush", "tiger_walk_steppe", "tiger_rest", "tiger_profile_snow", "tiger_back_view",
+                "tiger_jump_log", "tiger_shake_snow", "tiger_lying_eyes", "tiger_cliff_wind", "tiger_night_snow", "tiger_tracks_line",
+                "tiger_mouth_close", "tiger_run_snow", "tiger_drink_ice", "tiger_glacier") + ["p_amur_tiger"],
     "lobo": ai("direwolf_portrait", "direwolf_pack", "direwolf_vs_tiger", "direwolf_circle", "direwolf_teeth", "direwolf_alone") + ["p_dire_wolf"],
     "alce": ai("megaloceros_portrait", "megaloceros_herd", "megaloceros_vs_tiger", "megaloceros_antlers", "megaloceros_forest",
                "megaloceros_charge") + ["p_megaloceros_skeleton", "p_gaur"],
@@ -26,12 +29,13 @@ PHOTOS = {
     "leao": ai("cavelion_portrait", "cavelion_pride", "cavelion_vs_tiger", "cavelion_snarl", "cavelion_hunt", "cave_painting_lions")
             + ["p_cave_lion", "p_chauvet"],
     "smilodon": ai("smilodon_fangs", "smilodon_portrait", "smilodon_arms", "smilodon_vs_tiger", "smilodon_fight", "smilodon_cave_brazil",
-                   "smilodon_tooth_break", "smilodon_skull") + ["p_smilodon_skeleton", "p_smilodon_skull", "p_lagoa_santa"],
-    "arctodus": ai("arctodus_portrait", "arctodus_upright", "arctodus_vs_tiger", "arctodus_carcass", "arctodus_paw") + ["p_arctodus_skeleton"],
-    "rino": ai("rhino_portrait", "rhino_sweep", "rhino_charge", "rhino_vs_tiger", "rhino_horn") + ["p_woolly_rhino"],
-    "mamute": ai("mammoth_herd_wall", "mammoth_calf", "mammoth_vs_tiger_far", "mammoth_stomp", "mammoth_walk", "mammoth_trumpet")
+                   "smilodon_tooth_break", "smilodon_skull", "smilodon_walk", "smilodon_rock",
+                   "smilodon_jaws_open", "smilodon_hunt", "smilodon_rest", "smilodon_pampas") + ["p_smilodon_skeleton", "p_smilodon_skull"],
+    "arctodus": ai("arctodus_portrait", "arctodus_upright", "arctodus_vs_tiger", "arctodus_carcass", "arctodus_paw", "arctodus_walk", "arctodus_head", "arctodus_scale") + ["p_arctodus_skeleton"],
+    "rino": ai("rhino_portrait", "rhino_sweep", "rhino_charge", "rhino_vs_tiger", "rhino_horn", "rhino_herd", "rhino_side") + ["p_woolly_rhino"],
+    "mamute": ai("mammoth_herd_wall", "mammoth_calf", "mammoth_vs_tiger_far", "mammoth_stomp", "mammoth_walk", "mammoth_trumpet", "mammoth_herd_far", "mammoth_eye", "mammoth_tusks_front")
               + ["p_mammoth_skeleton"],
-    "humano": ai("hunters_fire", "hunters_spears", "spear_points", "cave_painting_torch", "empty_steppe_thaw", "extinct_shadows")
+    "humano": ai("hunters_fire", "hunters_spears", "spear_points", "cave_painting_torch", "empty_steppe_thaw", "extinct_shadows", "human_footprints", "cave_entrance_snow")
               + ["p_spear_points"],
     "final": ai("tiger_modern_forest", "tiger_final_look", "scoreboard_bg"),
 }
@@ -41,7 +45,7 @@ FALLBACK = {k: ["tigre", "hook"] for k in PHOTOS}
 FALLBACK.update({"tigre": ["hook", "final"], "final": ["tigre"], "humano": ["mamute", "final"]})
 A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FALLBACK, ["tigre"])
 A.CLIP_TARGET = 0.40
-A.MAX_HOLD, A.KEEP = 4.6, 3.0       # very dynamic: nothing holds more than ~4.5 s
+A.MAX_HOLD, A.KEEP = 5.0, 3.2       # very dynamic: nothing holds more than ~4.5 s
 ch = A.ch
 chapters = []
 
@@ -195,7 +199,7 @@ beats(c, "tigre", ["O tigre é melhor"])
 beats(c, "leao", ["Mas o leão-das-cavernas vivia"])
 c.at("Em campo aberto", serif("leao", "Campo aberto.", ["O duelo", "Frente a frente"]))
 c.at("E se houver mais", foot("leao"))
-close(c, "Veredito: vitória do leão", "leao", "feras", "O primeiro ponto", [4, 1], "Primeiro ponto das feras")
+close(c, "Veredito: vitória do leão-das-cavernas", "leao", "feras", "O primeiro ponto", [4, 1], "Primeiro ponto das feras")
 c.at("E agora, a luta", foot("smilodon"))
 chapters.append(c)
 
@@ -239,7 +243,7 @@ c.at("Agora imagine esse chifre", foot("rino"))
 c.at("O tigre até pode", versus("tigre", "Tigre", "200 kg", "rino", "Rinoceronte-lanoso", "2.000 kg"))
 beats(c, "rino", ["Mas um adulto tem couro"])
 c.at("Não existe emboscada", serif("rino", "duas toneladas.", ["Não existe emboscada que derrube"]))
-close(c, "Veredito: vitória do rinoceronte", "rino", "feras", "Cinco a três", [5, 3])
+close(c, "Veredito: vitória do rinoceronte-lanoso", "rino", "feras", "Cinco a três", [5, 3])
 c.at("Falta uma fera", foot("mamute"))
 c.at("O símbolo da Era do Gelo", foot("mamute"))
 chapters.append(c)
@@ -282,7 +286,12 @@ MOODS = [("ch00_hook", 0, "tensao"), ("ch01", 0, "epico"), ("ch02", 0, "tensao")
          ("ch07", "Rodada seis", "tensao"), ("ch08", 0, "epico"), ("ch09", 0, "tensao"), ("ch11", 0, "epico"), ("ch12", 0, "drama")]
 ctxs = ["hook", "tigre", "lobo", "alce", "bisao", "hiena", "urso", "leao", "smilodon", "arctodus", "rino", "mamute", "humano"]
 ep = json.loads(A.finish(chapters, "FE01_Tigre_Era_do_Gelo.mp4", ctx=ctxs, music_gain=-26))
-ep = F.cut_rhythm(ep)
+SCENE_OF = {"tigre": ["tiger", "amur"], "hook": ["mammoth", "iceage", "blizzard", "tusks"], "lobo": ["wolf"],
+            "alce": ["megaloceros", "gaur"], "bisao": ["bison"], "hiena": ["hyena"], "urso": ["cavebear", "cave_bear"],
+            "leao": ["cavelion", "cave_lion", "chauvet", "painting_lions"], "smilodon": ["smilodon"], "arctodus": ["arctodus"],
+            "rino": ["rhino"], "mamute": ["mammoth"], "humano": ["hunters", "spear", "cave_painting_torch", "thaw", "extinct"],
+            "final": ["tiger_final", "tiger_modern", "scoreboard", "tiger"]}
+ep = F.cut_rhythm(ep, SCENE_OF)
 starts, t = {}, 0.0
 for chap, c in zip(ep["chapters"], chapters):
     starts[c.name] = t
