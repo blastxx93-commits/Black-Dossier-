@@ -89,7 +89,7 @@ jobs:
           L="$(cat episodes/${{ inputs.episode }}/lang 2>/dev/null || echo en)"
           if [ "$L" != "en" ] && [ "${{ inputs.provider }}" != "eleven" ]; then
             # canal em português: narração estável, parágrafo a parágrafo, com conferência de bugs e de tom
-            python3 agent/tts_stable.py "${{ inputs.episode }}" --out ../out --only "${{ inputs.only }}" --lang "$L" 2>&1 | tee "../out/${{ inputs.episode }}/tts_log.txt"
+            python3 agent/tts_stable.py "${{ inputs.episode }}" --out ../out --only "${{ inputs.only }}" --lang "$L" $(cat episodes/${{ inputs.episode }}/tts_args 2>/dev/null) 2>&1 | tee "../out/${{ inputs.episode }}/tts_log.txt"
           else
             python3 agent/tts.py "${{ inputs.episode }}" --out ../out --only "${{ inputs.only }}" --speed "${{ inputs.speed }}" 2>&1 | tee "../out/${{ inputs.episode }}/tts_log.txt"
           fi
@@ -150,7 +150,7 @@ jobs:
           if [ "$L" = "en" ]; then exit 0; fi
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
           [ -f "../out/$EP/tom_corrigido.md" ] && { echo "tom já corrigido"; exit 0; }
-          python3 agent/fix_tone.py "$EP" "../out/$EP"
+          python3 agent/fix_tone.py "$EP" "../out/$EP" $(cat episodes/$EP/tone_args 2>/dev/null)
       - name: Publicar
         if: ${{ !cancelled() && inputs.voice_test == '' }}
         run: |
