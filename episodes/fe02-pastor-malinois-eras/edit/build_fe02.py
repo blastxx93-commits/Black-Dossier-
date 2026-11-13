@@ -35,7 +35,7 @@ FALLBACK = {k: ["caes", "pastor", "malinois"] for k in PHOTOS}
 FALLBACK.update({"caes": ["pastor", "malinois"], "pastor": ["caes"], "malinois": ["caes"], "final": ["caes", "iceage", "pastor", "malinois"]})
 A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, [], FALLBACK, ["caes"])
 A.CLIP_TARGET = 0.30
-A.MAX_HOLD, A.KEEP = 7.6, 4.2
+A.MAX_HOLD, A.KEEP = 7.0, 4.0
 F.HUD_TOTAL[0] = 9
 ch = A.ch
 chapters = []
@@ -232,7 +232,7 @@ chapters.append(c)
 MOODS = [("ch00_hook", 0, "tensao"), ("ch01", 0, "epico"), ("ch02", 0, "tensao"), ("ch05", 0, "epico"), ("ch06", 0, "tensao"),
          ("ch07", "Rodada seis", "tensao"), ("ch08", 0, "epico"), ("ch10", 0, "tensao"), ("ch11", 0, "drama")]
 ctxs = ["caes", "caes", "carbon", "permian", "triassic", "jurassic", "cretaceous", "paleocene", "miocene", "terror", "iceage", "final"]
-SCENE_OF = {"caes": ["dogs_", "dog_family", "p_gs", "p_malinois"], "pastor": ["gs_", "p_gs"], "malinois": ["ml_", "p_malinois"],
+SCENE_OF = {"caes": ["ai/ai_dogs_", "dog_family", "p_gs", "p_malinois"], "pastor": ["gs_", "p_gs"], "malinois": ["ml_", "p_malinois"],
             "carbon": ["carbon", "meganeura", "arthropleura"], "permian": ["permian", "inostrancevia", "extinction"],
             "triassic": ["triassic", "coelophysis", "postosuchus"], "jurassic": ["jurassic", "allosaurus", "dilophosaurus"],
             "cretaceous": ["cretaceous", "trex", "velociraptor"], "paleocene": ["paleocene", "titanoboa"], "miocene": ["miocene", "amphicyon"],
