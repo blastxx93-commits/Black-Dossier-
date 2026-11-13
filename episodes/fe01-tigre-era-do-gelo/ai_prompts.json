@@ -2,15 +2,15 @@
  "model": "black-forest-labs/flux-1.1-pro-ultra",
  "raw": true,
  "n": 1,
- "style": ", photorealistic wildlife documentary still, Pleistocene Ice Age, natural light, shot on a telephoto lens, sharp focus, highly detailed fur, cinematic 16:9 composition, anatomically correct animals with the correct number of legs, eyes and tails, no humans' faces, no text, no logos, no watermark",
+ "style": ", photorealistic wildlife documentary still, Pleistocene Ice Age, natural light, shot on a telephoto lens, sharp focus, highly detailed fur, cinematic 16:9 composition, anatomically correct animals with the correct number of legs, eyes and tails, no people, no humans, no text, no logos, no watermark",
  "shots": [
   {
    "id": "ai_mammoth_vs_tiger",
-   "prompt": "A gigantic woolly mammoth towering over a large Siberian tiger with thick winter fur, facing each other on a snowy Ice Age steppe, low angle, epic scale"
+   "prompt": "A gigantic woolly mammoth with two symmetrical long curved tusks and a trunk towering over a large Siberian tiger with thick winter fur, facing each other on an empty snowy Ice Age steppe, low angle, epic scale, no people"
   },
   {
    "id": "ai_mammoth_lowangle",
-   "prompt": "Extreme low angle of a woolly mammoth bull raising its head, long curved tusks against a stormy grey sky, snow falling"
+   "prompt": "Extreme low angle of a woolly mammoth bull (elephant-like head with trunk, small ears, two long curved tusks, shaggy brown fur) raising its trunk against a stormy grey sky, snow falling"
   },
   {
    "id": "ai_tusks_close",
@@ -22,7 +22,7 @@
   },
   {
    "id": "ai_smilodon_fangs",
-   "prompt": "Extreme close-up of a sabre-toothed cat Smilodon snarling, long sabre canines, dramatic side light"
+   "prompt": "Extreme close-up of a Smilodon (robust tan sabre-toothed cat without stripes or spots, no ear tufts, short bobbed tail, exactly two long upper sabre canines) snarling, dramatic side light"
   },
   {
    "id": "ai_blizzard_steppe",
@@ -34,7 +34,7 @@
   },
   {
    "id": "ai_ten_beasts",
-   "prompt": "Ice Age bestiary scene: woolly mammoth, woolly rhino, cave lion, giant deer and cave bear together on a snowy plain, cinematic wide shot"
+   "prompt": "A woolly mammoth, a woolly rhinoceros and a giant deer with palmate antlers standing far apart from each other on a wide snowy plain, each animal distinct and anatomically correct, cinematic wide shot"
   },
   {
    "id": "ai_tiger_taiga",
@@ -54,7 +54,7 @@
   },
   {
    "id": "ai_tiger_paw",
-   "prompt": "Close-up of a huge tiger paw print pressed in fresh snow next to the paw"
+   "prompt": "A fresh tiger paw print pressed into clean snow, only the impression in the snow, no animal, soft side light"
   },
   {
    "id": "ai_tiger_claws",
@@ -66,7 +66,7 @@
   },
   {
    "id": "ai_tiger_dusk",
-   "prompt": "Silhouette of a Siberian tiger on a hill at dusk, orange sky, Ice Age tundra"
+   "prompt": "A Siberian tiger with visible stripes standing on a hill at dusk, orange sky behind, Ice Age tundra"
   },
   {
    "id": "ai_tiger_river",
@@ -98,7 +98,7 @@
   },
   {
    "id": "ai_direwolf_circle",
-   "prompt": "Several dire wolves circling a Siberian tiger in a snowy clearing, overhead three-quarter view"
+   "prompt": "Five grey dire wolves surrounding one Siberian tiger in a snowy clearing, every animal clearly separate with its own body, three-quarter overhead view"
   },
   {
    "id": "ai_direwolf_teeth",
@@ -106,11 +106,11 @@
   },
   {
    "id": "ai_direwolf_alone",
-   "prompt": "A lone dire wolf separated from its pack at the edge of a frozen forest, a tiger's eyes visible in the shadows"
+   "prompt": "A lone dire wolf standing at the edge of a snowy pine forest, looking back over its shoulder, mist"
   },
   {
    "id": "ai_megaloceros_portrait",
-   "prompt": "A giant Irish elk Megaloceros stag with enormous palmate antlers over three metres wide, standing in an Ice Age meadow"
+   "prompt": "a Megaloceros giant deer stag with enormous broad flat palmate antlers like moose antlers, both antlers symmetrical standing in an Ice Age meadow, side view, full body"
   },
   {
    "id": "ai_megaloceros_herd",
@@ -118,11 +118,11 @@
   },
   {
    "id": "ai_megaloceros_vs_tiger",
-   "prompt": "A Siberian tiger crouching in tall grass behind a giant elk Megaloceros stag that has not noticed it"
+   "prompt": "A Siberian tiger crouched in tall grass in the foreground watching a Megaloceros giant deer stag with enormous broad flat palmate antlers like moose antlers, both antlers symmetrical grazing in the background, both animals clearly visible and separate"
   },
   {
    "id": "ai_megaloceros_antlers",
-   "prompt": "Close-up of the gigantic palmate antlers of a Megaloceros stag against the sky"
+   "prompt": "Close-up of the gigantic broad flat palmate antlers of a Megaloceros giant deer stag, symmetrical, against the sky"
   },
   {
    "id": "ai_megaloceros_forest",
@@ -130,7 +130,7 @@
   },
   {
    "id": "ai_megaloceros_charge",
-   "prompt": "A Megaloceros stag lowering its giant antlers, charging forward, snow flying"
+   "prompt": "a Megaloceros giant deer stag with enormous broad flat palmate antlers like moose antlers, both antlers symmetrical alone, lowering its antlers and charging forward through snow"
   },
   {
    "id": "ai_bison_portrait",
@@ -166,11 +166,11 @@
   },
   {
    "id": "ai_hyena_vs_tiger",
-   "prompt": "A Siberian tiger standing over a bison carcass surrounded by several cave hyenas, tense, snowy plain"
+   "prompt": "A Siberian tiger standing alert in the snow while several cave hyenas watch it from a short distance, tense standoff, snowy plain"
   },
   {
    "id": "ai_hyena_jaws",
-   "prompt": "Close-up of a cave hyena's powerful jaws holding a bone"
+   "prompt": "Close-up of a cave hyena (spotted hyena anatomy, normal hyena teeth) chewing a large bone, cave floor"
   },
   {
    "id": "ai_cavebear_portrait",
@@ -186,15 +186,15 @@
   },
   {
    "id": "ai_cavebear_roar",
-   "prompt": "A huge cave bear rearing on its hind legs and roaring, snow falling"
+   "prompt": "A single huge cave bear rearing on its hind legs and roaring in falling snow, no other animals, nothing attached to it"
   },
   {
    "id": "ai_cavebear_skeleton",
-   "prompt": "Cave bear skeletons and skulls on the floor of a limestone cave, lit by a single beam of light"
+   "prompt": "Elongated fossil cave bear skulls with long canines lying on the floor of a limestone cave, a single beam of light, no human skulls"
   },
   {
    "id": "ai_cavelion_portrait",
-   "prompt": "A cave lion Panthera spelaea, larger than an African lion, maneless male with thick pale fur, on a snowy steppe"
+   "prompt": "A cave lion Panthera spelaea: a maneless lion-like big cat with thick pale winter fur and faint stripes on the legs, walking on a snowy steppe"
   },
   {
    "id": "ai_cavelion_pride",
@@ -210,11 +210,11 @@
   },
   {
    "id": "ai_cavelion_hunt",
-   "prompt": "Cave lions hunting a steppe bison on an open plain, Ice Age"
+   "prompt": "Three maneless cave lions chasing a single steppe bison across a snowy plain, every animal clearly separate"
   },
   {
    "id": "ai_cave_painting_lions",
-   "prompt": "Prehistoric cave painting of lions on a rock wall lit by torchlight, ochre and charcoal"
+   "prompt": "Flat prehistoric charcoal and ochre drawings of lions painted on a cave rock wall, Chauvet cave style, lit by torchlight, only drawings on the rock, no real animals"
   },
   {
    "id": "ai_smilodon_portrait",
@@ -230,19 +230,19 @@
   },
   {
    "id": "ai_smilodon_fight",
-   "prompt": "A Siberian tiger and a Smilodon fighting, rolling in dust, dynamic action, motion blur"
+   "prompt": "A Siberian tiger and a Smilodon (robust tan sabre-toothed cat without stripes or spots, no ear tufts, short bobbed tail, exactly two long upper sabre canines) clashing in dust, two clearly separate bodies, dynamic action"
   },
   {
    "id": "ai_smilodon_cave_brazil",
-   "prompt": "The entrance of a limestone cave in the Brazilian cerrado with a Smilodon walking out, Ice Age"
+   "prompt": "a Smilodon (robust tan sabre-toothed cat without stripes or spots, no ear tufts, short bobbed tail, exactly two long upper sabre canines) walking out of a limestone cave entrance in the Brazilian cerrado savanna"
   },
   {
    "id": "ai_smilodon_tooth_break",
-   "prompt": "Macro shot of a broken sabre canine of Smilodon lying on rocks"
+   "prompt": "Macro shot of a single fossil sabre tooth of Smilodon lying on grey rocks, museum specimen"
   },
   {
    "id": "ai_smilodon_skull",
-   "prompt": "A Smilodon skull with long sabre teeth on a museum display table, dramatic lighting"
+   "prompt": "A fossil skull of Smilodon with exactly two long upper sabre canines and a normal number of small teeth, on a plain black background, studio light"
   },
   {
    "id": "ai_arctodus_portrait",
