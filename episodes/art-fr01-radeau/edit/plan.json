@@ -250,6 +250,46 @@
      ]
     },
     {
+     "cue": "Beaucoup d'historiens y reconnaissent",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.36,
+      0.75,
+      0.28
+     ],
+     "to": [
+      0.29,
+      0.62,
+      0.24
+     ]
+    },
+    {
+     "cue": "Géricault avait songé",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.285,
+      0.57,
+      0.11
+     ]
+    },
+    {
+     "cue": "Gardez ce nom",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.29,
+      0.62,
+      0.24
+     ],
+     "to": [
+      0.36,
+      0.75,
+      0.28
+     ]
+    },
+    {
      "cue": "Remontez un peu",
      "type": "detail",
      "src": "img/radeau.jpg",
@@ -441,6 +481,21 @@
      "bg": "img/radeau.jpg"
     },
     {
+     "cue": "Les six canots",
+     "type": "detail",
+     "src": "img/fregate.jpg",
+     "from": [
+      0.5,
+      0.5,
+      1.0
+     ],
+     "to": [
+      0.5,
+      0.4,
+      0.7
+     ]
+    },
+    {
      "cue": "Alors on construit un radeau",
      "type": "detail",
      "src": "img/plan_radeau.jpg",
@@ -468,6 +523,21 @@
       0.5,
       0.8,
       0.6
+     ]
+    },
+    {
+     "cue": "Sous leur poids",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.6,
+      0.84,
+      0.3
+     ],
+     "to": [
+      0.16,
+      0.92,
+      0.2
      ]
     },
     {
@@ -508,6 +578,46 @@
       0.8,
       0.4,
       0.24
+     ]
+    },
+    {
+     "cue": "Pour survivre",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.72,
+      0.55,
+      0.2
+     ]
+    },
+    {
+     "cue": "Le biscuit est mangé",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.5,
+      0.8,
+      0.6
+     ],
+     "to": [
+      0.42,
+      0.47,
+      0.3
+     ]
+    },
+    {
+     "cue": "Il ne reste que le vin",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.72,
+      0.55,
+      0.2
+     ],
+     "to": [
+      0.74,
+      0.87,
+      0.34
      ]
     },
     {
@@ -563,6 +673,21 @@
       0.285,
       0.57,
       0.11
+     ]
+    },
+    {
+     "cue": "Et personne ne les cherche",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.9,
+      0.55,
+      0.2
+     ],
+     "to": [
+      0.8,
+      0.4,
+      0.24
      ]
     },
     {
@@ -734,6 +859,31 @@
      ]
     },
     {
+     "cue": "Il dort dans une petite",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.42,
+      0.47,
+      0.3
+     ]
+    },
+    {
+     "cue": "Il exige un silence",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.285,
+      0.57,
+      0.11
+     ],
+     "to": [
+      0.29,
+      0.62,
+      0.24
+     ]
+    },
+    {
      "cue": "Il travaille ainsi",
      "type": "card",
      "src": "img/esquisse.jpg",
@@ -781,6 +931,36 @@
       0.47,
       0.8,
       0.3
+     ]
+    },
+    {
+     "cue": "Des années plus tard",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.5,
+      0.8,
+      0.6
+     ],
+     "to": [
+      0.5,
+      0.5,
+      1.0
+     ]
+    },
+    {
+     "cue": "Le tableau lui a fait",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.62,
+      0.5,
+      0.6
+     ],
+     "to": [
+      0.7,
+      0.3,
+      0.32
      ]
     },
     {
@@ -891,6 +1071,36 @@
      "zoom": [
       1.05,
       1.0
+     ]
+    },
+    {
+     "cue": "Regardez aussi la lumière",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.47,
+      0.8,
+      0.3
+     ],
+     "to": [
+      0.36,
+      0.75,
+      0.28
+     ]
+    },
+    {
+     "cue": "Même la mer",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.9,
+      0.55,
+      0.2
+     ],
+     "to": [
+      0.07,
+      0.34,
+      0.28
      ]
     },
     {
@@ -1093,6 +1303,46 @@
       0.76,
       0.26
      ]
+    },
+    {
+     "cue": "Souvenez-vous du vieil homme",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.36,
+      0.75,
+      0.28
+     ],
+     "to": [
+      0.29,
+      0.62,
+      0.24
+     ]
+    },
+    {
+     "cue": "Dans le poème de Dante",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.285,
+      0.57,
+      0.11
+     ]
+    },
+    {
+     "cue": "Le cannibalisme est bien là",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.29,
+      0.62,
+      0.24
+     ],
+     "to": [
+      0.5,
+      0.8,
+      0.6
+     ]
     }
    ]
   },
@@ -1140,12 +1390,57 @@
      ]
     },
     {
+     "cue": "La critique se déchire",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.14,
+      0.76,
+      0.26
+     ],
+     "to": [
+      0.74,
+      0.87,
+      0.34
+     ]
+    },
+    {
      "cue": "Le tableau reçoit une médaille",
      "type": "card",
      "src": "img/radeau.jpg",
      "zoom": [
       1.05,
       1.0
+     ]
+    },
+    {
+     "cue": "L'historien Jules Michelet",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.52,
+      0.62,
+      0.4
+     ],
+     "to": [
+      0.66,
+      0.44,
+      0.4
+     ]
+    },
+    {
+     "cue": "Pour lui, c'est la société",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.5,
+      0.5,
+      1.0
+     ],
+     "to": [
+      0.52,
+      0.5,
+      0.8
      ]
     },
     {
@@ -1291,6 +1586,45 @@
       0.74,
       0.87,
       0.34
+     ]
+    },
+    {
+     "cue": "Le Louvre le sait",
+     "type": "card",
+     "src": "img/radeau.jpg",
+     "zoom": [
+      1.0,
+      1.05
+     ]
+    },
+    {
+     "cue": "Dès 1859",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.42,
+      0.47,
+      0.3
+     ],
+     "to": [
+      0.27,
+      0.3,
+      0.45
+     ]
+    },
+    {
+     "cue": "Cette copie est aujourd'hui",
+     "type": "detail",
+     "src": "img/radeau.jpg",
+     "from": [
+      0.52,
+      0.5,
+      0.8
+     ],
+     "to": [
+      0.5,
+      0.5,
+      1.0
      ]
     },
     {

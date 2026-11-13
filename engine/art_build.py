@@ -19,13 +19,30 @@ def norm(s):
     return re.findall(r"[a-z0-9]+", s)
 
 
+def align(script, heard):
+    """Para cada palavra do roteiro, o índice da palavra correspondente na transcrição (interpolado onde a transcrição diverge)."""
+    import difflib
+    m = [None] * len(script)
+    for blk in difflib.SequenceMatcher(None, script, heard, autojunk=False).get_matching_blocks():
+        for k in range(blk.size):
+            m[blk.a + k] = blk.b + k
+    known = [(i, v) for i, v in enumerate(m) if v is not None] or [(0, 0)]
+    out = []
+    for i in range(len(script)):
+        prev = max((x for x in known if x[0] <= i), default=known[0], key=lambda x: x[0])
+        nxt = min((x for x in known if x[0] >= i), default=known[-1], key=lambda x: x[0])
+        if nxt[0] == prev[0]:
+            out.append(prev[1])
+        else:
+            out.append(int(round(prev[1] + (nxt[1] - prev[1]) * (i - prev[0]) / (nxt[0] - prev[0]))))
+    return [min(max(v, 0), len(heard) - 1) for v in out]
+
+
 def find(tokens, cue, start):
     c = norm(cue)
-    for n in (len(c), 4, 3):                      # tolera pequenas diferenças da transcrição
-        n = min(n, len(c))
-        for i in range(start, len(tokens) - n + 1):
-            if tokens[i:i + n] == c[:n]:
-                return i
+    for i in range(start, len(tokens) - len(c) + 1):
+        if tokens[i:i + len(c)] == c:
+            return i
     return None
 
 
@@ -45,16 +62,19 @@ def main():
     shots, t0, audio, missing = [], 0.0, [], []
     for ch in plan["chapters"]:
         text = open(os.path.join(ep, "narration", ch["id"] + ".txt")).read()
+        script = norm(text)
         if a.assets:
             words = json.load(open(os.path.join(a.assets, "words", ch["id"] + ".words.json")))
-            toks, times = [], []
+            heard, htimes = [], []
             for w in words:
                 for tk in norm(w["w"]):
-                    toks.append(tk); times.append(w["s"])
+                    heard.append(tk); htimes.append(w["s"])
+            idx = align(script, heard)
+            toks, times = script, [htimes[j] for j in idx]     # o roteiro é a referência; a transcrição só dá os tempos
             f = os.path.join(a.assets, "narration_audio", ch["id"] + ".flac")
             length = dur(f); audio.append(f)
         else:
-            toks = norm(text)
+            toks = script
             times = [i * 60.0 / a.wpm for i in range(len(toks))]
             length = len(toks) * 60.0 / a.wpm
         pos = 0
