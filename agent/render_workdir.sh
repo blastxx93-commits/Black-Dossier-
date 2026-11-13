@@ -8,7 +8,14 @@ ln -sfn "$PWD/assets/$EP" work/a
 ln -sfn "$PWD/assets/$EP/narration_audio" work/audio
 python3 main/engine/aus_audio.py work
 # canal Era das Feras: kit próprio de efeitos (vários whooshes, sino, impacto, veredito...)
-case "$EP" in fe*) python3 main/engine/feras_audio.py work ;; esac
+case "$EP" in fe*)
+  python3 main/engine/feras_audio.py work
+  # voz limpa (regra do dono 13/11/2026): sem estalos, sem ruído de fundo, mesma duração (a sincronia não muda)
+  rm -f work/audio && mkdir -p work/audio
+  for f in assets/$EP/narration_audio/*.flac; do
+    ffmpeg -v error -y -i "$f" -af "highpass=f=60,adeclick=w=55:o=75,afftdn=nr=8:nf=-55,alimiter=limit=0.95" "work/audio/$(basename "$f")"
+  done ;;
+esac
 # per-episode music style (channel rule 01/11/2026): edit/music.txt = "<style> <seed>"
 if [ -f "main/episodes/$EP/edit/music.txt" ]; then
   read -r STYLE SEED < "main/episodes/$EP/edit/music.txt"
