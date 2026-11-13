@@ -1,129 +1,123 @@
-ai_trex_walk_1: Gemini falhou (Gemini 429: {
+ai_dogs_sit_rock_1: Gemini falhou (Gemini 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please check your plan and ), tentando Replicate
-ai_trex_walk_1: 1920x1080
-ai_trex_roar_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_trex_roar_1: 1920x1080
-ai_cretaceous_plain_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_cretaceous_plain_1: 1920x1080
-ai_cretaceous_river_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_cretaceous_river_1: 1920x1080
-ai_paleocene_river2_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_paleocene_river2_1: 1920x1080
-ai_paleocene_canopy_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_paleocene_canopy_1: 1920x1080
-ai_titanoboa_head_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_titanoboa_head_1: 1920x1080
-ai_titanoboa_swim_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_titanoboa_swim_1: 1920x1080
-ai_paleocene_bank_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_paleocene_bank_1: 1920x1080
-ai_jungle_heat_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_jungle_heat_1: 1920x1080
-ai_ml_shade_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_ml_shade_1: 1920x1080
-ai_miocene_plain_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_miocene_plain_1: 1920x1080
-ai_miocene_river_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_miocene_river_1: 1920x1080
-ai_amphicyon_head_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_amphicyon_head_1: 1920x1080
-ai_amphicyon_walk_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_amphicyon_walk_1: 1920x1080
-ai_amphicyon_ridge_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_amphicyon_ridge_1: 1920x1080
-ai_gs_bark2_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_gs_bark2_1: 1920x1080
-ai_miocene_dusk_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_miocene_dusk_1: 1920x1080
-ai_terrorbird_walk_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_terrorbird_walk_1: 1920x1080
-ai_terrorbird_strike_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_terrorbird_strike_1: 1920x1080
-ai_terrorbird_legs_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_terrorbird_legs_1: 1920x1080
-ai_brazil_lake_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_brazil_lake_1: 1920x1080
-ai_brazil_savanna_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_brazil_savanna_1: 1920x1080
-ai_terrorbird_ridge_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_terrorbird_ridge_1: 1920x1080
-ai_terrorbird_eye_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_terrorbird_eye_1: 1920x1080
-ai_iceage_forest_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_iceage_forest_1: 1920x1080
-ai_iceage_blizzard_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_iceage_blizzard_1: 1920x1080
-ai_direwolf_head_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_direwolf_head_1: 1920x1080
-ai_direwolf_howl_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_direwolf_howl_1: 1920x1080
-ai_direwolf_run_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_direwolf_run_1: 1920x1080
-ai_direwolf_tracks_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_direwolf_tracks_1: 1920x1080
-ai_iceage_sunrise_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_iceage_sunrise_1: 1920x1080
-ai_cave_entrance_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_cave_entrance_1: 1920x1080
-ai_wolf_cave_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_wolf_cave_1: 1920x1080
-ai_hunter_back_wolf_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_hunter_back_wolf_1: 1920x1080
-ai_puppy_wolf_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_puppy_wolf_1: 1920x1080
-ai_modern_dogs_field_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_modern_dogs_field_1: 1920x1080
-ai_cave_painting_dog_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_cave_painting_dog_1: 1920x1080
-ai_dog_sleep_fire_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_dog_sleep_fire_1: 1920x1080
+ai_dogs_sit_rock_1: 1920x1080
+ai_dogs_run_plain_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_dogs_run_plain_1: 1920x1080
+ai_dogs_drink_stream_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_dogs_drink_stream_1: 1920x1080
+ai_dogs_alert_night_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_dogs_alert_night_1: 1920x1080
+ai_dogs_mist_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_dogs_mist_1: 1920x1080
+ai_dogs_back_view_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_dogs_back_view_1: 1920x1080
+ai_dogs_close_faces_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_dogs_close_faces_1: 1920x1080
+ai_dogs_rain_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_dogs_rain_1: 1920x1080
+ai_dogs_tracks_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_dogs_tracks_1: 1920x1080
+ai_gs_run_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_gs_run_1: 1920x1080
+ai_gs_close_eyes_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_gs_close_eyes_1: 1920x1080
+ai_gs_alert_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_gs_alert_1: 1920x1080
+ai_gs_coat_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_gs_coat_1: 1920x1080
+ai_ml_run_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_ml_run_1: 1920x1080
+ai_ml_alert_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_ml_alert_1: 1920x1080
+ai_carbon_trees_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_carbon_trees_1: 1920x1080
+ai_carbon_ferns_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_carbon_ferns_1: 1920x1080
+ai_carbon_water_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_carbon_water_1: 1920x1080
+ai_permian_dunes_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_permian_dunes_1: 1920x1080
+ai_permian_conifers_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_permian_conifers_1: 1920x1080
+ai_inostrancevia_walk_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_inostrancevia_walk_1: 1920x1080
+ai_inostrancevia_hide_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_inostrancevia_hide_1: 1920x1080
+ai_permian_river_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_permian_river_1: 1920x1080
+ai_triassic_forest_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_triassic_forest_1: 1920x1080
+ai_triassic_river_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_triassic_river_1: 1920x1080
+ai_coelophysis_head_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_coelophysis_head_1: 1920x1080
+ai_coelophysis_run_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_coelophysis_run_1: 1920x1080
+ai_postosuchus_walk_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_postosuchus_walk_1: 1920x1080
+ai_triassic_dawn_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_triassic_dawn_1: 1920x1080
+ai_triassic_storm_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_triassic_storm_1: 1920x1080
+ai_jurassic_ferns_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_jurassic_ferns_1: 1920x1080
+ai_jurassic_river_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_jurassic_river_1: 1920x1080
+ai_allosaurus_head_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_allosaurus_head_1: 1920x1080
+ai_allosaurus_walk_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_allosaurus_walk_1: 1920x1080
+ai_sauropod_far_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_sauropod_far_1: 1920x1080
+ai_jurassic_sunset_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_jurassic_sunset_1: 1920x1080
+ai_allosaurus_footprint_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_allosaurus_footprint_1: 1920x1080
 # Imagens IA — fe02-pastor-malinois-eras
 
 - Modelo: `gemini-2.5-flash-image`
-- Imagens geradas: 39
+- Imagens geradas: 37
 - Folhas: ai_contact_sheet_1.jpg, ai_contact_sheet_2.jpg, ai_contact_sheet_3.jpg, ai_contact_sheet_4.jpg, ai_contact_sheet_5.jpg, ai_contact_sheet_6.jpg, ai_contact_sheet_7.jpg
 
 | plano | resultado |
 |---|---|
-| `ai_trex_walk` | 1 de 1 |
-| `ai_trex_roar` | 1 de 1 |
-| `ai_cretaceous_plain` | 1 de 1 |
-| `ai_cretaceous_river` | 1 de 1 |
-| `ai_paleocene_river2` | 1 de 1 |
-| `ai_paleocene_canopy` | 1 de 1 |
-| `ai_titanoboa_head` | 1 de 1 |
-| `ai_titanoboa_swim` | 1 de 1 |
-| `ai_paleocene_bank` | 1 de 1 |
-| `ai_jungle_heat` | 1 de 1 |
-| `ai_ml_shade` | 1 de 1 |
-| `ai_miocene_plain` | 1 de 1 |
-| `ai_miocene_river` | 1 de 1 |
-| `ai_amphicyon_head` | 1 de 1 |
-| `ai_amphicyon_walk` | 1 de 1 |
-| `ai_amphicyon_ridge` | 1 de 1 |
-| `ai_gs_bark2` | 1 de 1 |
-| `ai_miocene_dusk` | 1 de 1 |
-| `ai_terrorbird_walk` | 1 de 1 |
-| `ai_terrorbird_strike` | 1 de 1 |
-| `ai_terrorbird_legs` | 1 de 1 |
-| `ai_brazil_lake` | 1 de 1 |
-| `ai_brazil_savanna` | 1 de 1 |
-| `ai_terrorbird_ridge` | 1 de 1 |
-| `ai_terrorbird_eye` | 1 de 1 |
-| `ai_iceage_forest` | 1 de 1 |
-| `ai_iceage_blizzard` | 1 de 1 |
-| `ai_direwolf_head` | 1 de 1 |
-| `ai_direwolf_howl` | 1 de 1 |
-| `ai_direwolf_run` | 1 de 1 |
-| `ai_direwolf_tracks` | 1 de 1 |
-| `ai_iceage_sunrise` | 1 de 1 |
-| `ai_cave_entrance` | 1 de 1 |
-| `ai_wolf_cave` | 1 de 1 |
-| `ai_hunter_back_wolf` | 1 de 1 |
-| `ai_puppy_wolf` | 1 de 1 |
-| `ai_modern_dogs_field` | 1 de 1 |
-| `ai_cave_painting_dog` | 1 de 1 |
-| `ai_dog_sleep_fire` | 1 de 1 |
+| `ai_dogs_sit_rock` | 1 de 1 |
+| `ai_dogs_run_plain` | 1 de 1 |
+| `ai_dogs_drink_stream` | 1 de 1 |
+| `ai_dogs_alert_night` | 1 de 1 |
+| `ai_dogs_mist` | 1 de 1 |
+| `ai_dogs_back_view` | 1 de 1 |
+| `ai_dogs_close_faces` | 1 de 1 |
+| `ai_dogs_rain` | 1 de 1 |
+| `ai_dogs_tracks` | 1 de 1 |
+| `ai_gs_run` | 1 de 1 |
+| `ai_gs_close_eyes` | 1 de 1 |
+| `ai_gs_alert` | 1 de 1 |
+| `ai_gs_coat` | 1 de 1 |
+| `ai_ml_run` | 1 de 1 |
+| `ai_ml_alert` | 1 de 1 |
+| `ai_carbon_trees` | 1 de 1 |
+| `ai_carbon_ferns` | 1 de 1 |
+| `ai_carbon_water` | 1 de 1 |
+| `ai_permian_dunes` | 1 de 1 |
+| `ai_permian_conifers` | 1 de 1 |
+| `ai_inostrancevia_walk` | 1 de 1 |
+| `ai_inostrancevia_hide` | 1 de 1 |
+| `ai_permian_river` | 1 de 1 |
+| `ai_triassic_forest` | 1 de 1 |
+| `ai_triassic_river` | 1 de 1 |
+| `ai_coelophysis_head` | 1 de 1 |
+| `ai_coelophysis_run` | 1 de 1 |
+| `ai_postosuchus_walk` | 1 de 1 |
+| `ai_triassic_dawn` | 1 de 1 |
+| `ai_triassic_storm` | 1 de 1 |
+| `ai_jurassic_ferns` | 1 de 1 |
+| `ai_jurassic_river` | 1 de 1 |
+| `ai_allosaurus_head` | 1 de 1 |
+| `ai_allosaurus_walk` | 1 de 1 |
+| `ai_sauropod_far` | 1 de 1 |
+| `ai_jurassic_sunset` | 1 de 1 |
+| `ai_allosaurus_footprint` | 1 de 1 |
 
