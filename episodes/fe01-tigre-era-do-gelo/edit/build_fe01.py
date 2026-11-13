@@ -15,29 +15,29 @@ from feras_kit import foot, label, serif, round_card, versus, verdict, score, me
 ai = lambda *ids: ["ai:ai_" + i for i in ids]
 PHOTOS = {
     "hook": ai("mammoth_vs_tiger", "mammoth_lowangle", "tusks_close", "iceage_panorama", "blizzard_steppe", "ten_beasts", "tiger_eyes_snow", "iceage_glacier_valley", "iceage_sunset",
-                 "iceage_blizzard_herd", "iceage_river"),
+                 "iceage_blizzard_herd", "iceage_river", "hook_storm", "hook_valley", "hook_aurora"),
     "tigre": ai("tiger_taiga", "tiger_stalk", "tiger_leap", "tiger_roar", "tiger_paw", "tiger_claws", "tiger_ridge", "tiger_dusk",
                 "tiger_river", "tiger_ambush", "tiger_walk_steppe", "tiger_rest", "tiger_profile_snow", "tiger_back_view",
                 "tiger_jump_log", "tiger_shake_snow", "tiger_lying_eyes", "tiger_cliff_wind", "tiger_night_snow", "tiger_tracks_line",
-                "tiger_mouth_close", "tiger_run_snow", "tiger_drink_ice", "tiger_glacier") + ["p_amur_tiger"],
+                "tiger_mouth_close", "tiger_run_snow", "tiger_drink_ice", "tiger_glacier", "tiger_forest_dawn", "tiger_snow_close", "tiger_river_cross", "tiger_rock_sit", "tiger_stretch", "tiger_walk_fog", "tiger_grass_frost", "tiger_steppe_wide", "tiger_camtrap") + ["p_amur_tiger"],
     "lobo": ai("direwolf_portrait", "direwolf_pack", "direwolf_vs_tiger", "direwolf_circle", "direwolf_teeth", "direwolf_alone") + ["p_dire_wolf"],
     "alce": ai("megaloceros_portrait", "megaloceros_herd", "megaloceros_vs_tiger", "megaloceros_antlers", "megaloceros_forest",
-               "megaloceros_charge") + ["p_megaloceros_skeleton", "p_gaur"],
-    "bisao": ai("bison_portrait", "bison_herd", "bison_vs_tiger", "bison_charge", "bison_horns") + ["p_bison_painting"],
-    "hiena": ai("hyena_portrait", "hyena_clan", "hyena_bones", "hyena_vs_tiger", "hyena_jaws") + ["p_cave_hyena"],
-    "urso": ai("cavebear_portrait", "cavebear_den", "cavebear_vs_tiger", "cavebear_roar", "cavebear_skeleton") + ["p_cave_bear_skeleton"],
-    "leao": ai("cavelion_portrait", "cavelion_pride", "cavelion_vs_tiger", "cavelion_snarl", "cavelion_hunt", "cave_painting_lions")
+               "megaloceros_charge", "megaloceros_snow") + ["p_megaloceros_skeleton", "p_gaur"],
+    "bisao": ai("bison_portrait", "bison_herd", "bison_vs_tiger", "bison_charge", "bison_horns", "bison_snowstorm") + ["p_bison_painting"],
+    "hiena": ai("hyena_portrait", "hyena_clan", "hyena_bones", "hyena_vs_tiger", "hyena_jaws", "hyena_den", "hyena_run", "hyena_howl", "hyena_watch", "hyena_carcass", "hyena_portrait2", "hyena_tracks") + ["p_cave_hyena"],
+    "urso": ai("cavebear_portrait", "cavebear_den", "cavebear_vs_tiger", "cavebear_roar", "cavebear_skeleton", "cavebear_walk", "cavebear_cave", "cavebear_close", "cavebear_cub") + ["p_cave_bear_skeleton"],
+    "leao": ai("cavelion_portrait", "cavelion_pride", "cavelion_vs_tiger", "cavelion_snarl", "cavelion_hunt", "cave_painting_lions", "cavelion_walk", "cavelion_rest", "cavelion_stare", "cavelion_steppe", "cavelion_roar", "cavelion_ambush")
             + ["p_cave_lion", "p_chauvet"],
     "smilodon": ai("smilodon_fangs", "smilodon_portrait", "smilodon_arms", "smilodon_vs_tiger", "smilodon_fight", "smilodon_cave_brazil",
                    "smilodon_tooth_break", "smilodon_skull", "smilodon_walk", "smilodon_rock",
-                   "smilodon_jaws_open", "smilodon_hunt", "smilodon_rest", "smilodon_pampas") + ["p_smilodon_skeleton", "p_smilodon_skull"],
-    "arctodus": ai("arctodus_portrait", "arctodus_upright", "arctodus_vs_tiger", "arctodus_carcass", "arctodus_paw", "arctodus_walk", "arctodus_head", "arctodus_scale") + ["p_arctodus_skeleton"],
+                   "smilodon_jaws_open", "smilodon_hunt", "smilodon_rest", "smilodon_pampas", "smilodon_stare", "smilodon_crouch", "smilodon_savanna", "smilodon_snarl2", "smilodon_vs_tiger2") + ["p_smilodon_skeleton", "p_smilodon_skull"],
+    "arctodus": ai("arctodus_portrait", "arctodus_upright", "arctodus_vs_tiger", "arctodus_carcass", "arctodus_paw", "arctodus_walk", "arctodus_head", "arctodus_scale", "arctodus_run", "arctodus_ridge", "arctodus_snow", "arctodus_close", "arctodus_vs_tiger2") + ["p_arctodus_skeleton"],
     "rino": ai("rhino_portrait", "rhino_sweep", "rhino_charge", "rhino_vs_tiger", "rhino_horn", "rhino_herd", "rhino_side") + ["p_woolly_rhino"],
-    "mamute": ai("mammoth_herd_wall", "mammoth_calf", "mammoth_vs_tiger_far", "mammoth_stomp", "mammoth_walk", "mammoth_trumpet", "mammoth_herd_far", "mammoth_eye", "mammoth_tusks_front")
+    "mamute": ai("mammoth_herd_wall", "mammoth_calf", "mammoth_vs_tiger_far", "mammoth_stomp", "mammoth_walk", "mammoth_trumpet", "mammoth_herd_far", "mammoth_eye", "mammoth_tusks_front", "mammoth_family", "mammoth_trunk", "mammoth_sideview", "mammoth_dusk")
               + ["p_mammoth_skeleton"],
-    "humano": ai("hunters_fire", "hunters_spears", "spear_points", "cave_painting_torch", "empty_steppe_thaw", "extinct_shadows", "human_footprints", "cave_entrance_snow")
+    "humano": ai("hunters_fire", "hunters_spears", "spear_points", "cave_painting_torch", "empty_steppe_thaw", "extinct_shadows", "human_footprints", "cave_entrance_snow", "hunters_far", "hunters_back", "hunter_hand_spear", "flint_knapping", "campfire_cave", "torch_cave", "bone_hut", "glacier_melt", "fossil_dig")
               + ["p_spear_points"],
-    "final": ai("tiger_modern_forest", "tiger_final_look", "scoreboard_bg"),
+    "final": ai("tiger_modern_forest", "tiger_final_look", "scoreboard_bg", "final_sunrise"),
 }
 CLIPS = json.load(open(os.path.join(HERE, "clips.json")))
 GENERIC = CLIPS.pop("_generic", [])

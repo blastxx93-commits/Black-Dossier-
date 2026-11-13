@@ -471,6 +471,281 @@
   {
    "id": "ai_cave_entrance_snow",
    "prompt": "Entrance of a large limestone cave in a snowy Ice Age landscape, smoke from a fire inside, no people"
+  },
+  {
+   "id": "ai_hyena_den",
+   "prompt": "Three cave hyenas (large spotted hyena: round ears, sloping back, short tail, dark spots on sandy fur) resting at the entrance of a limestone cave, snowy ground",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_hyena_run",
+   "prompt": "Side view of a cave hyena (large spotted hyena: round ears, sloping back, short tail, dark spots on sandy fur) trotting across a snowy plain, telephoto",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_hyena_howl",
+   "prompt": "Close-up of a cave hyena (large spotted hyena: round ears, sloping back, short tail, dark spots on sandy fur) with its mouth open calling, frosty breath, cave in background",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_hyena_watch",
+   "prompt": "Several cave hyenas (large spotted hyena: round ears, sloping back, short tail, dark spots on sandy fur) watching from a ridge at dusk, silhouettes against an orange sky",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_hyena_carcass",
+   "prompt": "Two cave hyenas (large spotted hyena: round ears, sloping back, short tail, dark spots on sandy fur) circling the far-off bones of a large animal in the snow, no blood",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_hyena_portrait2",
+   "prompt": "Portrait of a cave hyena (large spotted hyena: round ears, sloping back, short tail, dark spots on sandy fur) standing on snowy rocks, looking at the camera",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_hyena_tracks",
+   "prompt": "Paw prints of hyenas in fresh snow leading toward a dark cave entrance, no animals",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_cavelion_walk",
+   "prompt": "Side view of a cave lion (big maneless lion-like cat with thick pale beige winter fur, no stripes, no mane) walking across a snowy steppe, telephoto",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_cavelion_rest",
+   "prompt": "Two cave lions (big maneless lion-like cat with thick pale beige winter fur, no stripes, no mane) resting on a snowy rock outcrop",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_cavelion_stare",
+   "prompt": "Close-up portrait of a cave lion (big maneless lion-like cat with thick pale beige winter fur, no stripes, no mane) staring intensely, snowflakes on its fur",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_cavelion_steppe",
+   "prompt": "Wide view of a cave lion pride walking on an open Ice Age steppe, mammoths far away",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_cavelion_roar",
+   "prompt": "Side view of a cave lion (big maneless lion-like cat with thick pale beige winter fur, no stripes, no mane) roaring, breath steaming in the cold air",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_cavelion_ambush",
+   "prompt": "A cave lion crouched low in dry grass on an open steppe, stalking",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_cavebear_walk",
+   "prompt": "Side view of a cave bear (huge brown bear with a domed forehead and thick winter fur) walking along a snowy mountain slope",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_cavebear_cave",
+   "prompt": "Interior of a large cave with a cave bear (huge brown bear with a domed forehead and thick winter fur) standing in the light of the entrance",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_cavebear_close",
+   "prompt": "Close-up portrait of a cave bear (huge brown bear with a domed forehead and thick winter fur), small eyes, frost on its fur",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_cavebear_cub",
+   "prompt": "A cave bear mother with one cub at the entrance of a cave, snow",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_smilodon_stare",
+   "prompt": "Close-up portrait of a Smilodon sabre-toothed cat (tan unstriped robust big cat, short bobbed tail, exactly two long curved upper sabre canines hanging below the jaw), mouth closed, sabres visible below the lips",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_smilodon_crouch",
+   "prompt": "Side view of a Smilodon sabre-toothed cat (tan unstriped robust big cat, short bobbed tail, exactly two long curved upper sabre canines hanging below the jaw) crouching in tall grass, about to pounce",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_smilodon_savanna",
+   "prompt": "Wide view of a Smilodon sabre-toothed cat (tan unstriped robust big cat, short bobbed tail, exactly two long curved upper sabre canines hanging below the jaw) standing on a termite mound in a South American savanna at sunrise",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_smilodon_snarl2",
+   "prompt": "Side view of a Smilodon sabre-toothed cat (tan unstriped robust big cat, short bobbed tail, exactly two long curved upper sabre canines hanging below the jaw) snarling, the two sabres clearly visible",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_smilodon_vs_tiger2",
+   "prompt": "a Siberian tiger (orange coat with black stripes, white chest, four legs, one tail) and a Smilodon sabre-toothed cat (tan unstriped robust big cat, short bobbed tail, exactly two long curved upper sabre canines hanging below the jaw) standing face to face on a dusty plain, both clearly separate, tense standoff",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_arctodus_run",
+   "prompt": "Side view of a giant short-faced bear (Arctodus: very tall long-legged brown bear with a short broad snout) running across an open grassland, dust",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_arctodus_ridge",
+   "prompt": "a giant short-faced bear (Arctodus: very tall long-legged brown bear with a short broad snout) standing on a ridge against a stormy sky, low angle",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_arctodus_snow",
+   "prompt": "a giant short-faced bear (Arctodus: very tall long-legged brown bear with a short broad snout) walking through light snow, telephoto, side view",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_arctodus_close",
+   "prompt": "Close-up of the face of a giant short-faced bear (Arctodus: very tall long-legged brown bear with a short broad snout), short muzzle, small eyes, powerful jaws closed",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_arctodus_vs_tiger2",
+   "prompt": "a giant short-faced bear (Arctodus: very tall long-legged brown bear with a short broad snout) standing over a much smaller a Siberian tiger (orange coat with black stripes, white chest, four legs, one tail) in a snowy clearing, the tiger backing away",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_mammoth_family",
+   "prompt": "Three woolly mammoths (elephant-like body, long trunk, two long curved tusks, small ears, shaggy brown fur) walking together across a snowy plain, a calf between them",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_mammoth_trunk",
+   "prompt": "Close-up of the trunk and two curved tusks of a woolly mammoth (elephant-like body, long trunk, two long curved tusks, small ears, shaggy brown fur), snow falling",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_mammoth_sideview",
+   "prompt": "Side view of a woolly mammoth (elephant-like body, long trunk, two long curved tusks, small ears, shaggy brown fur) standing in a snowy steppe, full body",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_mammoth_dusk",
+   "prompt": "Silhouette of a woolly mammoth (elephant-like body, long trunk, two long curved tusks, small ears, shaggy brown fur) at dusk on a ridge, orange sky",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_hunters_far",
+   "prompt": "Tiny silhouettes of Ice Age hunters with spears walking in a line across a vast snowy plain, seen from far away, no faces",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_hunters_back",
+   "prompt": "Ice Age hunters seen from behind wearing fur clothing, holding spears, looking at a valley with mammoths, no faces",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_hunter_hand_spear",
+   "prompt": "Close-up of a hand holding a wooden spear with a flint point, fur sleeve, snow, no face",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_flint_knapping",
+   "prompt": "Close-up of hands shaping a flint spear point with a stone, Ice Age, no face",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_campfire_cave",
+   "prompt": "A campfire burning at the entrance of a cave at night, snow outside, no people",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_torch_cave",
+   "prompt": "A burning torch lighting a cave wall, sparks, no people",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_bone_hut",
+   "prompt": "A hut built from mammoth bones and hides on a snowy plain at dusk, smoke, no people",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_glacier_melt",
+   "prompt": "A melting glacier with waterfalls and rivers, end of the Ice Age, wide view",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_fossil_dig",
+   "prompt": "Paleontologists' excavation of mammoth bones in the ground, brushes and tools, no faces, seen from above",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_tiger_forest_dawn",
+   "prompt": "a Siberian tiger (orange coat with black stripes, white chest, four legs, one tail) walking through a misty winter forest at dawn",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_tiger_snow_close",
+   "prompt": "Close-up of a Siberian tiger (orange coat with black stripes, white chest, four legs, one tail) face with snow on its whiskers, looking left",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_tiger_river_cross",
+   "prompt": "a Siberian tiger (orange coat with black stripes, white chest, four legs, one tail) wading across a shallow icy river",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_tiger_rock_sit",
+   "prompt": "a Siberian tiger (orange coat with black stripes, white chest, four legs, one tail) sitting on a snowy rock, looking into the distance",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_tiger_stretch",
+   "prompt": "a Siberian tiger (orange coat with black stripes, white chest, four legs, one tail) stretching in the snow, morning light",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_tiger_walk_fog",
+   "prompt": "a Siberian tiger (orange coat with black stripes, white chest, four legs, one tail) walking toward the camera through fog on a snowy plain",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_tiger_grass_frost",
+   "prompt": "a Siberian tiger (orange coat with black stripes, white chest, four legs, one tail) lying in frosted golden grass, alert",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_tiger_steppe_wide",
+   "prompt": "Wide view of a lone a Siberian tiger (orange coat with black stripes, white chest, four legs, one tail) crossing an endless snowy steppe, mountains behind",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_tiger_camtrap",
+   "prompt": "Camera-trap style photo of a Siberian tiger (orange coat with black stripes, white chest, four legs, one tail) walking past at night, infrared look, no text",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_hook_storm",
+   "prompt": "A blizzard sweeping over an Ice Age steppe with dark shapes of mammoths in the snow",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_hook_valley",
+   "prompt": "An Ice Age valley at dawn with glaciers, herds of bison and mammoths far below",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_hook_aurora",
+   "prompt": "Northern lights over a snowy Ice Age plain with a herd of mammoths silhouetted",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_megaloceros_snow",
+   "prompt": "Side view of a Megaloceros giant deer (huge flat palmate antlers) walking in snow",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_bison_snowstorm",
+   "prompt": "A steppe bison (long wide horns, shaggy hump) standing in a snowstorm, side view",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_final_sunrise",
+   "prompt": "Sunrise over a snowy taiga forest, golden light, peaceful, no animals",
+   "tier": "cheap"
   }
  ]
 }

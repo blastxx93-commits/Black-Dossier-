@@ -34,7 +34,13 @@ def _photo_strict(scene, move=None, cap=None, **kw):
                 if move is None:
                     move = A.MOVES[A._mv[0] % len(A.MOVES)]; A._mv[0] += 1
                 return K.img(f, move, cap=cap, **kw)
+    if os.environ.get("FERAS_DRYRUN"):   # count what is missing instead of stopping (planning only)
+        MISSING[scene] = MISSING.get(scene, 0) + 1
+        return K.img(f"FALTA/{scene}_{sum(MISSING.values())}.jpg", move or "in", cap=cap, **kw)
     sys.exit(f"Sem imagens novas e revisadas para '{scene}' (nem em {allowed[1:]}) — gerar mais cenas")
+
+
+MISSING = {}
 
 
 def CFG_FALLBACK(scene):

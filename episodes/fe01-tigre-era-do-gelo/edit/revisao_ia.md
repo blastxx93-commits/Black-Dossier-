@@ -22,3 +22,6 @@ Reprovadas na 1ª geração e regeradas com prompt corrigido:
 - ai_smilodon_fight
 - ai_smilodon_cave_brazil
 - ai_smilodon_skull
+
+## 2ª geração (79 imagens)
+Aprovadas: 60. Reprovadas: mammoth_lowangle, smilodon_fangs, tiger_dusk, direwolf_circle, hyena_vs_tiger, hyena_jaws, smilodon_fight, smilodon_tooth_break, arctodus_paw, mammoth_trumpet, hunters_fire, scoreboard_bg, smilodon_walk, smilodon_hunt, smilodon_rest, smilodon_pampas, iceage_blizzard_herd, human_footprints, cave_entrance_snow, arctodus_carcass
