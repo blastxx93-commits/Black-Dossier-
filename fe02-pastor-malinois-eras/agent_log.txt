@@ -1,0 +1,86 @@
+[     0s] fe02-pastor-malinois-eras: 13 planos, limite 35.0 min
+[     0s] p_inostrancevia: 'Inostrancevia skeleton'
+[     1s]     commons: 10 candidatos em 0.6s
+[    35s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[    35s]     openverse: 0 candidatos em 34.2s
+[    35s]     pixabay: 12 candidatos em 0.2s
+[    36s]     unsplash: 0 candidatos em 0.9s
+[    38s]   -> 3 imagens
+[    38s] p_coelophysis: 'Coelophysis skeleton'
+[    38s]     commons: 12 candidatos em 0.4s
+[    56s]     openverse: 9 candidatos em 17.2s
+[    56s]     pixabay: 12 candidatos em 0.1s
+[    57s]     unsplash: 12 candidatos em 0.8s
+[    59s]   -> 3 imagens
+[    59s] p_allosaurus: 'Allosaurus skeleton'
+[    59s]     commons: 11 candidatos em 0.4s
+[    91s]   ! api.openverse.org: 504 Server Error: Gateway Timeout for url: https://api.openverse.org/v1/images/?q=Allosaurus+skeleton&license=pdm%2Ccc0%2Cby%2Cby-sa&page_size=12&mature=false
+[    91s]     openverse: 0 candidatos em 32.4s
+[    92s]     pixabay: 12 candidatos em 0.2s
+[    93s]     unsplash: 0 candidatos em 0.9s
+[    94s]   -> 3 imagens
+[    94s] p_trex: 'Tyrannosaurus rex skeleton'
+[    95s]     commons: 12 candidatos em 0.3s
+[   108s]     openverse: 11 candidatos em 13.1s
+[   108s]     pixabay: 12 candidatos em 0.2s
+[   109s]     unsplash: 12 candidatos em 0.8s
+[   111s]   -> 3 imagens
+[   111s] p_velociraptor: 'Velociraptor skeleton'
+[   112s]     commons: 12 candidatos em 0.4s
+[   129s]     openverse: 9 candidatos em 17.1s
+[   129s]     pixabay: 12 candidatos em 0.3s
+[   130s]     unsplash: 0 candidatos em 0.9s
+[   132s]   -> 3 imagens
+[   132s] p_titanoboa: 'Titanoboa vertebra'
+[   132s]     commons: 5 candidatos em 0.2s
+[   159s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[   159s]     openverse: 0 candidatos em 27.2s
+[   160s]     pixabay: 12 candidatos em 0.1s
+[   160s]     unsplash: 12 candidatos em 0.9s
+[   163s]   -> 3 imagens
+[   163s] p_terrorbird: 'Phorusrhacidae skeleton'
+[   163s]     commons: 4 candidatos em 0.3s
+[   169s]     openverse: 0 candidatos em 6.3s
+[   170s]     pixabay: 12 candidatos em 0.2s
+[   170s]     unsplash: 12 candidatos em 0.9s
+[   172s]   -> 3 imagens
+[   172s] p_amphicyon: 'Amphicyon skull'
+[   173s]     commons: 5 candidatos em 0.4s
+[   200s]   ! api.openverse.org: 504 Server Error: Gateway Timeout for url: https://api.openverse.org/v1/images/?q=Amphicyon+skull&license=pdm%2Ccc0%2Cby%2Cby-sa&page_size=12&mature=false
+[   200s]     openverse: 0 candidatos em 27.1s
+[   200s]     pixabay: 12 candidatos em 0.1s
+[   201s]     unsplash: 12 candidatos em 0.9s
+[   203s]   -> 3 imagens
+[   203s] p_dire_wolf: 'Aenocyon dirus skeleton'
+[   204s]     commons: 10 candidatos em 0.4s
+[   231s]   ! api.openverse.org: 504 Server Error: Gateway Timeout for url: https://api.openverse.org/v1/images/?q=Aenocyon+dirus+skeleton&license=pdm%2Ccc0%2Cby%2Cby-sa&page_size=12&mature=fal
+[   231s]     openverse: 0 candidatos em 27.1s
+[   231s]     pixabay: 12 candidatos em 0.2s
+[   232s]     unsplash: 12 candidatos em 0.9s
+[   234s]   -> 3 imagens
+[   234s] p_meganeura: 'Meganeura fossil'
+[   234s]     commons: 12 candidatos em 0.3s
+[   259s]     openverse: 6 candidatos em 24.7s
+[   259s]     pixabay: 12 candidatos em 0.1s
+[   260s]     unsplash: 0 candidatos em 0.8s
+[   262s]   -> 3 imagens
+[   262s] p_arthropleura: 'Arthropleura fossil'
+[   262s]     commons: 11 candidatos em 0.3s
+[   276s]     openverse: 5 candidatos em 13.7s
+[   276s]     pixabay: 12 candidatos em 0.1s
+[   277s]     unsplash: 12 candidatos em 0.9s
+[   279s]   -> 3 imagens
+[   279s] p_gs: 'German Shepherd dog'
+[   279s]     commons: 11 candidatos em 0.4s
+[   306s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[   306s]     openverse: 0 candidatos em 27.2s
+[   307s]     pixabay: 12 candidatos em 0.1s
+[   307s]     unsplash: 12 candidatos em 0.8s
+[   310s]   -> 3 imagens
+[   310s] p_malinois: 'Belgian Malinois'
+[   311s]     commons: 11 candidatos em 0.4s
+[   341s]     openverse: 8 candidatos em 30.9s
+[   342s]     pixabay: 12 candidatos em 0.3s
+[   342s]     unsplash: 12 candidatos em 0.7s
+[   345s]   -> 3 imagens
+[   346s] fim: 39 imagens
