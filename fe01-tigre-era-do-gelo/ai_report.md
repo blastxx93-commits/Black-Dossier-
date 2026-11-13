@@ -6,99 +6,67 @@
 
 | plano | resultado |
 |---|---|
-| `ai_mammoth_vs_tiger` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_mammoth_vs_tiger` | 0 de 1 |
-| `ai_mammoth_lowangle` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_mammoth_lowangle` | 0 de 1 |
-| `ai_smilodon_fangs` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_smilodon_fangs` | 0 de 1 |
-| `ai_ten_beasts` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_ten_beasts` | 0 de 1 |
-| `ai_tiger_paw` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_tiger_paw` | 0 de 1 |
-| `ai_tiger_dusk` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_tiger_dusk` | 0 de 1 |
-| `ai_direwolf_circle` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_direwolf_circle` | 0 de 1 |
-| `ai_direwolf_alone` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_direwolf_alone` | 0 de 1 |
-| `ai_megaloceros_portrait` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_megaloceros_portrait` | 0 de 1 |
-| `ai_megaloceros_vs_tiger` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_megaloceros_vs_tiger` | 0 de 1 |
-| `ai_megaloceros_antlers` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_megaloceros_antlers` | 0 de 1 |
-| `ai_megaloceros_charge` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_megaloceros_charge` | 0 de 1 |
-| `ai_hyena_vs_tiger` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_hyena_vs_tiger` | 0 de 1 |
-| `ai_hyena_jaws` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_hyena_jaws` | 0 de 1 |
-| `ai_cavebear_roar` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_cavebear_roar` | 0 de 1 |
-| `ai_cavebear_skeleton` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_cavebear_skeleton` | 0 de 1 |
-| `ai_cavelion_portrait` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_cavelion_portrait` | 0 de 1 |
-| `ai_cavelion_hunt` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_cavelion_hunt` | 0 de 1 |
-| `ai_cave_painting_lions` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_cave_painting_lions` | 0 de 1 |
-| `ai_smilodon_fight` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_smilodon_fight` | 0 de 1 |
-| `ai_smilodon_cave_brazil` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_smilodon_cave_brazil` | 0 de 1 |
-| `ai_smilodon_tooth_break` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_smilodon_tooth_break` | 0 de 1 |
-| `ai_smilodon_skull` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_smilodon_skull` | 0 de 1 |
-| `ai_arctodus_portrait` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_arctodus_portrait` | 0 de 1 |
-| `ai_arctodus_upright` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_arctodus_upright` | 0 de 1 |
-| `ai_arctodus_vs_tiger` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_arctodus_vs_tiger` | 0 de 1 |
-| `ai_arctodus_carcass` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_arctodus_carcass` | 0 de 1 |
-| `ai_arctodus_paw` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_arctodus_paw` | 0 de 1 |
-| `ai_rhino_portrait` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_rhino_portrait` | 0 de 1 |
-| `ai_rhino_sweep` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_rhino_sweep` | 0 de 1 |
-| `ai_rhino_charge` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_rhino_charge` | 0 de 1 |
-| `ai_rhino_vs_tiger` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_rhino_vs_tiger` | 0 de 1 |
-| `ai_rhino_horn` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_rhino_horn` | 0 de 1 |
-| `ai_mammoth_herd_wall` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_mammoth_herd_wall` | 0 de 1 |
-| `ai_mammoth_calf` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_mammoth_calf` | 0 de 1 |
-| `ai_mammoth_vs_tiger_far` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_mammoth_vs_tiger_far` | 0 de 1 |
-| `ai_mammoth_stomp` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_mammoth_stomp` | 0 de 1 |
-| `ai_mammoth_walk` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_mammoth_walk` | 0 de 1 |
-| `ai_mammoth_trumpet` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_mammoth_trumpet` | 0 de 1 |
-| `ai_hunters_fire` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_hunters_fire` | 0 de 1 |
-| `ai_hunters_spears` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_hunters_spears` | 0 de 1 |
-| `ai_spear_points` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_spear_points` | 0 de 1 |
-| `ai_cave_painting_torch` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_cave_painting_torch` | 0 de 1 |
-| `ai_empty_steppe_thaw` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_empty_steppe_thaw` | 0 de 1 |
-| `ai_extinct_shadows` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_extinct_shadows` | 0 de 1 |
-| `ai_tiger_modern_forest` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_tiger_modern_forest` | 0 de 1 |
-| `ai_tiger_final_look` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_tiger_final_look` | 0 de 1 |
-| `ai_scoreboard_bg` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
-| `ai_scoreboard_bg` | 0 de 1 |
+| `ai_tiger_profile_snow` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_tiger_profile_snow` | 0 de 1 |
+| `ai_tiger_back_view` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_tiger_back_view` | 0 de 1 |
+| `ai_tiger_jump_log` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_tiger_jump_log` | 0 de 1 |
+| `ai_tiger_shake_snow` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_tiger_shake_snow` | 0 de 1 |
+| `ai_tiger_lying_eyes` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_tiger_lying_eyes` | 0 de 1 |
+| `ai_tiger_cliff_wind` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_tiger_cliff_wind` | 0 de 1 |
+| `ai_tiger_night_snow` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_tiger_night_snow` | 0 de 1 |
+| `ai_tiger_tracks_line` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_tiger_tracks_line` | 0 de 1 |
+| `ai_tiger_mouth_close` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_tiger_mouth_close` | 0 de 1 |
+| `ai_tiger_run_snow` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_tiger_run_snow` | 0 de 1 |
+| `ai_tiger_drink_ice` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_tiger_drink_ice` | 0 de 1 |
+| `ai_tiger_glacier` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_tiger_glacier` | 0 de 1 |
+| `ai_smilodon_walk` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_smilodon_walk` | 0 de 1 |
+| `ai_smilodon_rock` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_smilodon_rock` | 0 de 1 |
+| `ai_smilodon_jaws_open` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_smilodon_jaws_open` | 0 de 1 |
+| `ai_smilodon_hunt` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_smilodon_hunt` | 0 de 1 |
+| `ai_smilodon_rest` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_smilodon_rest` | 0 de 1 |
+| `ai_smilodon_pampas` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_smilodon_pampas` | 0 de 1 |
+| `ai_arctodus_walk` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_arctodus_walk` | 0 de 1 |
+| `ai_arctodus_head` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_arctodus_head` | 0 de 1 |
+| `ai_arctodus_scale` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_arctodus_scale` | 0 de 1 |
+| `ai_rhino_herd` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_rhino_herd` | 0 de 1 |
+| `ai_rhino_side` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_rhino_side` | 0 de 1 |
+| `ai_mammoth_herd_far` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_mammoth_herd_far` | 0 de 1 |
+| `ai_mammoth_eye` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_mammoth_eye` | 0 de 1 |
+| `ai_mammoth_tusks_front` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_mammoth_tusks_front` | 0 de 1 |
+| `ai_iceage_glacier_valley` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_iceage_glacier_valley` | 0 de 1 |
+| `ai_iceage_sunset` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_iceage_sunset` | 0 de 1 |
+| `ai_iceage_blizzard_herd` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_iceage_blizzard_herd` | 0 de 1 |
+| `ai_iceage_river` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_iceage_river` | 0 de 1 |
+| `ai_human_footprints` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_human_footprints` | 0 de 1 |
+| `ai_cave_entrance_snow` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_cave_entrance_snow` | 0 de 1 |
