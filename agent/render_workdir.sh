@@ -13,7 +13,7 @@ case "$EP" in fe*)
   # voz limpa (regra do dono 13/11/2026): sem estalos, sem ruído de fundo, mesma duração (a sincronia não muda)
   rm -f work/audio && mkdir -p work/audio
   for f in assets/$EP/narration_audio/*.flac; do
-    ffmpeg -v error -y -i "$f" -af "highpass=f=60,adeclick=w=55:o=75,afftdn=nr=8:nf=-55,alimiter=limit=0.95" "work/audio/$(basename "$f")"
+    ffmpeg -v error -y -i "$f" -af "highpass=f=50,adeclick=w=55:o=75,alimiter=limit=0.95" "work/audio/$(basename "$f")"
   done ;;
 esac
 # per-episode music style (channel rule 01/11/2026): edit/music.txt = "<style> <seed>"

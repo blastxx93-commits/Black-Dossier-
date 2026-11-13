@@ -1,1 +1,1 @@
---tries 3 --pitch 96.6 --max-st 1.0
+--temperature 0.7 --top-p 0.8 --max-st 2.0

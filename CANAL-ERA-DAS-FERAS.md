@@ -36,3 +36,8 @@ Referência de edição: vídeo do tigre do Mundo Fósil (enviado pelo dono em 1
 - Fundos das cartelas reaproveitam a cena desfocada (nenhuma imagem nova para cartela).
 - Cada rodada usa as próprias imagens + as do tigre e da paisagem (o tigre aparece em todas as rodadas).
 - Prompts revisados antes de gerar (anatomia descrita explicitamente) para reduzir regerações.
+
+## Narração aprovada (dono, 13/11/2026)
+- Fish, voz "Meu narrador", **parágrafo por parágrafo** (evita palavras inventadas), **temperatura 0.7 / top_p 0.8**,
+  **sem ajuste artificial de tom** (deixava a voz robótica) — arquivos `tts_args` e `no_tone_fix` em cada episódio.
+- Limpeza leve na montagem (passa-alta + remoção de estalos); sem redutor de ruído forte.
