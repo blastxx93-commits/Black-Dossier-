@@ -152,6 +152,7 @@ jobs:
           [ -f "../out/$EP/tom_corrigido.md" ] && { echo "tom já corrigido"; exit 0; }
           # capítulo gerado inteiro (tts_whole): entonação contínua, sem mexer no tom (o ajuste de tom deixa a voz robótica)
           [ -f "episodes/$EP/tts_whole" ] && { echo "capítulo inteiro: sem ajuste de tom"; exit 0; }
+          [ -f "episodes/$EP/no_tone_fix" ] && { echo "sem ajuste de tom (voz natural)"; exit 0; }
           python3 agent/fix_tone.py "$EP" "../out/$EP" $(cat episodes/$EP/tone_args 2>/dev/null)
       - name: Publicar
         if: ${{ !cancelled() && inputs.voice_test == '' }}
