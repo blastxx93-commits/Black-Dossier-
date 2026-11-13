@@ -1,29 +1,123 @@
 Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
-ch09 §3 tentativa 1: tom fora (89 Hz, -1.3 st)
-ch09 §4 tentativa 1: tom fora (103 Hz, +1.1 st)
-ch09 §5 tentativa 1: tom fora (111 Hz, +2.4 st)
-ch09 §5 tentativa 2: tom fora (104 Hz, +1.4 st)
-ch09 §5 tentativa 3: tom fora (111 Hz, +2.5 st)
-ch09: 6 parágrafos, 53s, tom-alvo 97 Hz
-ch12 §2 tentativa 1: tom fora (90 Hz, -1.1 st)
-ch12 §4 tentativa 1: tom fora (103 Hz, +1.2 st)
-ch12 §6 tentativa 1: tom fora (106 Hz, +1.7 st)
-ch12: 6 parágrafos, 77s, tom-alvo 97 Hz
+ch00_hook §4 tentativa 1: trecho errado: vinte e oito centimetros
+ch00_hook §5 tentativa 1: trecho errado: vence o smilodon
+ch00_hook: 6 parágrafos, 60s, tom-alvo 93 Hz
+ch01 §1 tentativa 1: tom fora (108 Hz, +2.6 st)
+ch01 §3 tentativa 1: trecho errado: seis metros num
+ch01: 7 parágrafos, 69s, tom-alvo 93 Hz
+ch02 §1 tentativa 1: tom fora (109 Hz, +2.7 st)
+ch02: 7 parágrafos, 61s, tom-alvo 94 Hz
+ch03 §6 tentativa 1: trecho errado: dois a zero; tom fora (109 Hz, +2.4 st)
+ch03: 7 parágrafos, 57s, tom-alvo 96 Hz
+ch04 §5 tentativa 1: trecho errado: mas apertada tres a zero
+ch04: 6 parágrafos, 57s, tom-alvo 96 Hz
+ch05 §5 tentativa 1: trecho errado: quatro a zero
+ch05: 6 parágrafos, 60s, tom-alvo 96 Hz
+ch06 §3 tentativa 1: trecho errado: meia tonelada acuado
+ch06 §6 tentativa 1: tom fora (108 Hz, +2.1 st)
+ch06: 7 parágrafos, 63s, tom-alvo 96 Hz
+ch07 §3 tentativa 1: tom fora (84 Hz, -2.4 st)
+ch07 §6 tentativa 1: tom fora (109 Hz, +2.3 st)
+ch07: 7 parágrafos, 70s, tom-alvo 96 Hz
+ch08 §1 tentativa 1: tom fora (111 Hz, +2.5 st)
+ch08 §6 tentativa 1: tom fora (113 Hz, +2.9 st)
+ch08: 7 parágrafos, 64s, tom-alvo 96 Hz
+ch09: 6 parágrafos, 54s, tom-alvo 96 Hz
+ch10 §1 tentativa 1: tom fora (112 Hz, +2.6 st)
+ch10 §2 tentativa 1: tom fora (83 Hz, -2.6 st)
+ch10 §3 tentativa 1: tom fora (80 Hz, -3.2 st)
+ch10: 6 parágrafos, 46s, tom-alvo 96 Hz
+ch11 §1 tentativa 1: tom fora (108 Hz, +2.0 st)
+ch11 §3 tentativa 1: trecho errado: um mamute adulto
+ch11: 6 parágrafos, 56s, tom-alvo 96 Hz
+ch12: 6 parágrafos, 77s, tom-alvo 96 Hz
 # Conferência da narração (parágrafo a parágrafo)
 
-Temperatura 0.5, top_p 0.6, desvio máximo 1.0 semitom.
+Temperatura 0.7, top_p 0.8, desvio máximo 2.0 semitom.
 
 | capítulo | parágrafo | tentativas | tom (Hz) | resultado |
 |---|---|---|---|---|
-| ch09 | 1 | 1 | 92 | ok |
-| ch09 | 2 | 1 | 101 | ok |
-| ch09 | 3 | 2 | 91 | ok |
-| ch09 | 4 | 2 | 100 | ok |
-| ch09 | 5 | 2 | 104 | ⚠ tom fora (104 Hz, +1.4 st) |
-| ch09 | 6 | 1 | 96 | ok |
-| ch12 | 1 | 1 | 99 | ok |
-| ch12 | 2 | 2 | 93 | ok |
-| ch12 | 3 | 1 | 97 | ok |
-| ch12 | 4 | 2 | 98 | ok |
-| ch12 | 5 | 1 | 96 | ok |
-| ch12 | 6 | 2 | 95 | ok |
+| ch00_hook | 1 | 1 | 94 | ok |
+| ch00_hook | 2 | 1 | 92 | ok |
+| ch00_hook | 3 | 1 | 118 | ok |
+| ch00_hook | 4 | 1 | 99 | ⚠ trecho errado: vinte e oito centimetros |
+| ch00_hook | 5 | 1 | 100 | ⚠ trecho errado: vence o smilodon |
+| ch00_hook | 6 | 1 | 92 | ok |
+| ch01 | 1 | 1 | 108 | ⚠ tom fora (108 Hz, +2.6 st) |
+| ch01 | 2 | 1 | 93 | ok |
+| ch01 | 3 | 1 | 91 | ⚠ trecho errado: seis metros num |
+| ch01 | 4 | 1 | 93 | ok |
+| ch01 | 5 | 1 | 96 | ok |
+| ch01 | 6 | 1 | 92 | ok |
+| ch01 | 7 | 1 | 94 | ok |
+| ch02 | 1 | 1 | 109 | ⚠ tom fora (109 Hz, +2.7 st) |
+| ch02 | 2 | 1 | 89 | ok |
+| ch02 | 3 | 1 | 104 | ok |
+| ch02 | 4 | 1 | 100 | ok |
+| ch02 | 5 | 1 | 98 | ok |
+| ch02 | 6 | 1 | 101 | ok |
+| ch02 | 7 | 1 | 105 | ok |
+| ch03 | 1 | 1 | 100 | ok |
+| ch03 | 2 | 1 | 92 | ok |
+| ch03 | 3 | 1 | 96 | ok |
+| ch03 | 4 | 1 | 90 | ok |
+| ch03 | 5 | 1 | 103 | ok |
+| ch03 | 6 | 1 | 109 | ⚠ trecho errado: dois a zero; tom fora (109 Hz, +2.4 st) |
+| ch03 | 7 | 1 | 103 | ok |
+| ch04 | 1 | 1 | 103 | ok |
+| ch04 | 2 | 1 | 88 | ok |
+| ch04 | 3 | 1 | 92 | ok |
+| ch04 | 4 | 1 | 96 | ok |
+| ch04 | 5 | 1 | 106 | ⚠ trecho errado: mas apertada tres a zero |
+| ch04 | 6 | 1 | 96 | ok |
+| ch05 | 1 | 1 | 96 | ok |
+| ch05 | 2 | 1 | 92 | ok |
+| ch05 | 3 | 1 | 99 | ok |
+| ch05 | 4 | 1 | 94 | ok |
+| ch05 | 5 | 1 | 101 | ⚠ trecho errado: quatro a zero |
+| ch05 | 6 | 1 | 97 | ok |
+| ch06 | 1 | 1 | 94 | ok |
+| ch06 | 2 | 1 | 88 | ok |
+| ch06 | 3 | 1 | 101 | ⚠ trecho errado: meia tonelada acuado |
+| ch06 | 4 | 1 | 99 | ok |
+| ch06 | 5 | 1 | 99 | ok |
+| ch06 | 6 | 1 | 108 | ⚠ tom fora (108 Hz, +2.1 st) |
+| ch06 | 7 | 1 | 97 | ok |
+| ch07 | 1 | 1 | 90 | ok |
+| ch07 | 2 | 1 | 105 | ok |
+| ch07 | 3 | 1 | 84 | ⚠ tom fora (84 Hz, -2.4 st) |
+| ch07 | 4 | 1 | 91 | ok |
+| ch07 | 5 | 1 | 90 | ok |
+| ch07 | 6 | 1 | 109 | ⚠ tom fora (109 Hz, +2.3 st) |
+| ch07 | 7 | 1 | 98 | ok |
+| ch08 | 1 | 1 | 111 | ⚠ tom fora (111 Hz, +2.5 st) |
+| ch08 | 2 | 1 | 95 | ok |
+| ch08 | 3 | 1 | 90 | ok |
+| ch08 | 4 | 1 | 91 | ok |
+| ch08 | 5 | 1 | 105 | ok |
+| ch08 | 6 | 1 | 113 | ⚠ tom fora (113 Hz, +2.9 st) |
+| ch08 | 7 | 1 | 102 | ok |
+| ch09 | 1 | 1 | 106 | ok |
+| ch09 | 2 | 1 | 100 | ok |
+| ch09 | 3 | 1 | 100 | ok |
+| ch09 | 4 | 1 | 100 | ok |
+| ch09 | 5 | 1 | 101 | ok |
+| ch09 | 6 | 1 | 93 | ok |
+| ch10 | 1 | 1 | 112 | ⚠ tom fora (112 Hz, +2.6 st) |
+| ch10 | 2 | 1 | 83 | ⚠ tom fora (83 Hz, -2.6 st) |
+| ch10 | 3 | 1 | 80 | ⚠ tom fora (80 Hz, -3.2 st) |
+| ch10 | 4 | 1 | 94 | ok |
+| ch10 | 5 | 1 | 108 | ok |
+| ch10 | 6 | 1 | 95 | ok |
+| ch11 | 1 | 1 | 108 | ⚠ tom fora (108 Hz, +2.0 st) |
+| ch11 | 2 | 1 | 91 | ok |
+| ch11 | 3 | 1 | 96 | ⚠ trecho errado: um mamute adulto |
+| ch11 | 4 | 1 | 105 | ok |
+| ch11 | 5 | 1 | 97 | ok |
+| ch11 | 6 | 1 | 99 | ok |
+| ch12 | 1 | 1 | 96 | ok |
+| ch12 | 2 | 1 | 93 | ok |
+| ch12 | 3 | 1 | 95 | ok |
+| ch12 | 4 | 1 | 99 | ok |
+| ch12 | 5 | 1 | 88 | ok |
+| ch12 | 6 | 1 | 94 | ok |
