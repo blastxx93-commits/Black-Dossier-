@@ -30,11 +30,11 @@
   },
   {
    "id": "ai_inostrancevia_ambush",
-   "prompt": "An Inostrancevia gorgonopsid (large reptile-like predator with long sabre canines, four legs) bursting out of vegetation toward a fawn Belgian Malinois dog (lean, short fawn coat, black face mask, upright ears) leaping away, Permian landscape"
+   "prompt": "An Inostrancevia gorgonopsid (a large mammal-like reptile on four legs, smooth skin, big head with two long sabre canines, no spikes) lunging out of ferns while a fawn Belgian Malinois dog (lean, short fawn coat, black face mask, upright ears) leaps away, Permian landscape"
   },
   {
    "id": "ai_dogs_coelophysis",
-   "prompt": "a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears) and a fawn Belgian Malinois dog (lean, short fawn coat, black face mask, upright ears), two separate dogs side by side chasing a small slender early dinosaur Coelophysis across a dry Triassic plain"
+   "prompt": "a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears) and a fawn Belgian Malinois dog (lean, short fawn coat, black face mask, upright ears) running after a slender two-legged early dinosaur Coelophysis (long neck, long tail, reptile skin, three metres long) across a dry Triassic plain"
   },
   {
    "id": "ai_postosuchus",
@@ -46,7 +46,7 @@
   },
   {
    "id": "ai_velociraptor_vs_gs",
-   "prompt": "a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears) facing a small feathered Velociraptor the size of a turkey, Cretaceous scrubland, the dog much bigger than the raptor"
+   "prompt": "a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears) standing over and looking down at a small feathered Velociraptor the size of a turkey (fully covered in feathers), Cretaceous scrubland, the dog is much larger, no blood, no injury"
   },
   {
    "id": "ai_trex_chase",
@@ -78,12 +78,12 @@
   },
   {
    "id": "ai_carbon_swamp",
-   "prompt": "A Carboniferous swamp forest with giant club mosses and tree ferns, misty, green",
+   "prompt": "A Carboniferous swamp forest with giant club moss trees (Lepidodendron) and tree ferns, misty green water, empty landscape, absolutely no animals, no dinosaurs, no mammals",
    "tier": "cheap"
   },
   {
    "id": "ai_carbon_fire",
-   "prompt": "A wildfire burning through a Carboniferous swamp forest, smoke, orange glow",
+   "prompt": "A wildfire burning through a Carboniferous forest of giant club mosses and ferns, smoke, orange glow, empty landscape, absolutely no animals, no dinosaurs, no mammals",
    "tier": "cheap"
   },
   {
@@ -93,7 +93,7 @@
   },
   {
    "id": "ai_arthropleura",
-   "prompt": "A giant two-metre Arthropleura arthropod crawling on the forest floor of a Carboniferous swamp",
+   "prompt": "A giant Arthropleura, a two-metre-long flat millipede-like arthropod with many short legs and segmented body plates, crawling on the floor of a Carboniferous fern forest",
    "tier": "cheap"
   },
   {
@@ -103,7 +103,7 @@
   },
   {
    "id": "ai_permian_desert",
-   "prompt": "A dry Permian landscape with red rocks, sparse conifers and a dusty sky",
+   "prompt": "A dry Permian landscape with red rocks, sparse primitive conifers and a dusty sky, empty landscape, absolutely no animals, no dinosaurs, no mammals",
    "tier": "cheap"
   },
   {
@@ -128,7 +128,7 @@
   },
   {
    "id": "ai_extinction_volcano",
-   "prompt": "The Permian mass extinction: massive volcanic eruptions and lava fields under a dark red sky",
+   "prompt": "Massive volcanic fissure eruptions and lava fields under a dark red sky, end-Permian extinction, empty landscape, absolutely no animals, no dinosaurs, no mammals",
    "tier": "cheap"
   },
   {
@@ -163,7 +163,7 @@
   },
   {
    "id": "ai_dilophosaurus",
-   "prompt": "A Dilophosaurus with two thin crests on its head walking in a Jurassic forest",
+   "prompt": "A Dilophosaurus, a two-legged theropod dinosaur with two thin rounded bony crests on top of its head, walking in a Jurassic forest, side view",
    "tier": "cheap"
   },
   {
@@ -188,7 +188,7 @@
   },
   {
    "id": "ai_velociraptor",
-   "prompt": "A small feathered Velociraptor the size of a turkey standing on a rock, Cretaceous desert",
+   "prompt": "A small Velociraptor the size of a turkey, fully covered in brown and grey feathers like a bird, feathered arms like wings, long tail, standing on a rock in a Cretaceous desert",
    "tier": "cheap"
   },
   {
@@ -198,7 +198,7 @@
   },
   {
    "id": "ai_paleocene_jungle",
-   "prompt": "A hot steamy Paleocene rainforest with a muddy river, dense vegetation, mist",
+   "prompt": "A hot steamy tropical rainforest with a wide muddy river, dense vegetation, mist, heat haze, empty landscape, absolutely no animals, no dinosaurs, no mammals",
    "tier": "cheap"
   },
   {
