@@ -1,0 +1,176 @@
+[     0s] fe01-tigre-era-do-gelo: 18 planos de video
+[     0s]   v_tiger_snow / pexels: 0 filmes para 'siberian tiger snow'
+[     1s]   v_tiger_snow / pixabay: 12 filmes para 'siberian tiger snow'
+[     2s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=siberian+tiger+snow&page_size=8&urls=true&api_key=e46f0775805a10c2
+[     2s]   v_tiger_snow / coverr: 0 filmes para 'siberian tiger snow'
+[     3s]     trecho escuro em 0s, tentando mais adiante
+[     7s]     + 1_pixabay.mp4 de 'siberian tiger, amur tiger, tiger, cub, wildlife, winter, na' a partir de 0s
+[    13s]     + 2_pixabay.mp4 de 'tiger, predator, dangerous, carnivores, big cat, wildlife, s' a partir de 8s
+[    20s]     + 3_pixabay.mp4 de 'siberian bird, fauna, water, mallard, siberian, bird, animal' a partir de 13s
+[    29s]     + 4_pixabay.mp4 de 'tiger, predator, carnivores, winter, snow, dangerous, cold, ' a partir de 8s
+[    34s]     + 5_pixabay.mp4 de 'pine, forest, snow, winter, snowfall' a partir de 16s
+[    44s]     + 6_pixabay.mp4 de 'winter, snow, people, walk, to stroll, landscape, winter lan' a partir de 8s
+[    44s]   v_tiger_close / pexels: 0 filmes para 'tiger face close up'
+[    45s]   v_tiger_close / pixabay: 12 filmes para 'tiger face close up'
+[    45s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=tiger+face+close+up&page_size=8&urls=true&api_key=e46f0775805a10c2
+[    45s]   v_tiger_close / coverr: 0 filmes para 'tiger face close up'
+[    49s]     trecho escuro em 8s, tentando mais adiante
+[    52s]     trecho escuro em 8s, tentando mais adiante
+[    59s]     + 1_pixabay.mp4 de 'colours, pattern, texture, abstract, macro, close-up' a partir de 26s
+[    67s]     + 2_pixabay.mp4 de 'bacon, pan, hot, belly bacon, meal, food, close up' a partir de 0s
+[    73s]     + 3_pixabay.mp4 de 'bee, honey bee, insect, pollen, close up, live wallpaper' a partir de 0s
+[    76s]     trecho escuro em 8s, tentando mais adiante
+[    79s]     trecho escuro em 8s, tentando mais adiante
+[    86s]     + 4_pixabay.mp4 de 'universe, jar, colourful, experiment, close-up, particles, o' a partir de 19s
+[    86s]   v_tiger_run / pexels: 0 filmes para 'tiger running'
+[    88s]   v_tiger_run / pixabay: 11 filmes para 'tiger running'
+[    88s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=tiger+running&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444
+[    88s]   v_tiger_run / coverr: 0 filmes para 'tiger running'
+[    89s]     trecho escuro em 0s, tentando mais adiante
+[    91s]     + 1_pixabay.mp4 de 'lion, tiger, animal, 3d, running, jogging, fun, africa, cart' a partir de 0s
+[    91s]     trecho escuro em 0s, tentando mais adiante
+[    95s]     + 2_pixabay.mp4 de 'tiger, beast, wild animals, splash, river, run, predator, an' a partir de 0s
+[   101s]     + 3_pixabay.mp4 de 'running, bridge, mountains, men running, running in morning,' a partir de 0s
+[   106s]     trecho escuro em 8s, tentando mais adiante
+[   111s]     trecho escuro em 8s, tentando mais adiante
+[   119s]     + 4_pixabay.mp4 de 'run, running man, runner, hologram, jogging' a partir de 20s
+[   119s]   v_tiger_roar / pexels: 0 filmes para 'tiger roaring'
+[   120s]   v_tiger_roar / pixabay: 12 filmes para 'tiger roaring'
+[   121s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=tiger+roaring&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444
+[   121s]   v_tiger_roar / coverr: 0 filmes para 'tiger roaring'
+[   123s]     trecho escuro em 0s, tentando mais adiante
+[   125s]     trecho escuro em 0s, tentando mais adiante
+[   127s]     trecho escuro em 8s, tentando mais adiante
+[   135s]     trecho escuro em 8s, tentando mais adiante
+[   140s]     + 1_pixabay.mp4 de 'green screen animals, tiger green screen, green screen, gree' a partir de 10s
+[   153s]     + 2_pixabay.mp4 de 'waterfall, rock, foaming, roaring, switzerland, water, touri' a partir de 8s
+[   159s]     + 3_pixabay.mp4 de 'waterfall, nature, water, roaring waterfall, flow, wupper, f' a partir de 9s
+[   159s]   v_tiger_stalk / pexels: 0 filmes para 'tiger stalking grass'
+[   161s]   v_tiger_stalk / pixabay: 12 filmes para 'tiger stalking grass'
+[   162s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=tiger+stalking+grass&page_size=8&urls=true&api_key=e46f0775805a10c
+[   162s]   v_tiger_stalk / coverr: 0 filmes para 'tiger stalking grass'
+[   162s]     trecho escuro em 0s, tentando mais adiante
+[   169s]     + 1_pixabay.mp4 de 'leopard, animal, nature, wildlife, mammal, safari, africa, w' a partir de 0s
+[   178s]     + 2_pixabay.mp4 de 'grass, field, wind, flowers, nature' a partir de 8s
+[   184s]     + 3_pixabay.mp4 de 'reeds, grass, wind, golden sunshine, afternoon' a partir de 8s
+[   197s]     + 4_pixabay.mp4 de 'tiger, wildlife, pet, animal, cat, nature' a partir de 8s
+[   197s]   v_tiger_water / pexels: 0 filmes para 'tiger water swimming'
+[   198s]   v_tiger_water / pixabay: 11 filmes para 'tiger water swimming'
+[   199s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=tiger+water+swimming&page_size=8&urls=true&api_key=e46f0775805a10c
+[   199s]   v_tiger_water / coverr: 0 filmes para 'tiger water swimming'
+[   203s]     + 1_pixabay.mp4 de 'turtle, ocean, sea, animal, caretta caretta, water, swimming' a partir de 0s
+[   216s]     + 2_pixabay.mp4 de 'beach, sea, sand, ocean, water, coast, landscape, seascape, ' a partir de 17s
+[   222s]     + 3_pixabay.mp4 de 'jellyfish, tank, water, life, marine, blue, aquarium, sea, t' a partir de 39s
+[   222s]   v_wolf_pack / pexels: 0 filmes para 'wolf pack snow'
+[   223s]   v_wolf_pack / pixabay: 11 filmes para 'wolf pack snow'
+[   224s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=wolf+pack+snow&page_size=8&urls=true&api_key=e46f0775805a10c2dd344
+[   224s]   v_wolf_pack / coverr: 0 filmes para 'wolf pack snow'
+[   229s]     + 1_pixabay.mp4 de 'wolves, arctic wolves, arctic, white, fur, predator, wild, h' a partir de 11s
+[   229s]     trecho escuro em 8s, tentando mais adiante
+[   239s]     + 2_pixabay.mp4 de 'wolves, wolf couple, wildlife, animals, nature, love, pack, ' a partir de 13s
+[   239s]     trecho escuro em 8s, tentando mais adiante
+[   246s]     trecho escuro em 8s, tentando mais adiante
+[   254s]     + 3_pixabay.mp4 de 'wolf, predator, dangerous, pack, group, wildlife, european w' a partir de 8s
+[   258s]     + 4_pixabay.mp4 de 'wolf, predator, dangerous, pack, zoo hague, wildlife, slow m' a partir de 12s
+[   258s]   v_deer_stag / pexels: 0 filmes para 'red deer stag antlers'
+[   259s]   v_deer_stag / pixabay: 12 filmes para 'red deer stag antlers'
+[   260s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=red+deer+stag+antlers&page_size=8&urls=true&api_key=e46f0775805a10
+[   260s]   v_deer_stag / coverr: 0 filmes para 'red deer stag antlers'
+[   261s]     trecho escuro em 0s, tentando mais adiante
+[   266s]     + 1_pixabay.mp4 de 'ai generated, stag, deer, dawn, sunrise, frost, cold, red, m' a partir de 0s
+[   276s]     + 2_pixabay.mp4 de 'deer, wild, animal, nature, group, antler, deer antler, red ' a partir de 8s
+[   282s]     + 3_pixabay.mp4 de 'deer, antler, branch, forest, wild, red deer, wild animal, f' a partir de 8s
+[   282s]   v_bison / pexels: 0 filmes para 'bison snow'
+[   284s]   v_bison / pixabay: 12 filmes para 'bison snow'
+[   284s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=bison+snow&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa8
+[   284s]   v_bison / coverr: 0 filmes para 'bison snow'
+[   285s]     trecho escuro em 0s, tentando mais adiante
+[   287s]     + 1_pixabay.mp4 de 'american bison, bison, buffalo, wild, nature, animal, horns,' a partir de 0s
+[   291s]     + 2_pixabay.mp4 de 'bison, buffalo, mandate, animal, farm animals, nature' a partir de 11s
+[   295s]     trecho escuro em 8s, tentando mais adiante
+[   299s]     trecho escuro em 8s, tentando mais adiante
+[   308s]     + 3_pixabay.mp4 de 'buffalo, bison, buffalo bull, bull, nature, wildlife, canada' a partir de 22s
+[   316s]     trecho escuro em 8s, tentando mais adiante
+[   325s]     trecho escuro em 8s, tentando mais adiante
+[   340s]     + 4_pixabay.mp4 de 'mountain, snow, nature, travel, fog, landscape' a partir de 8s
+[   340s]   v_hyena / pexels: 0 filmes para 'hyena'
+[   341s]   v_hyena / pixabay: 12 filmes para 'hyena'
+[   342s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=hyena&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e04d
+[   342s]   v_hyena / coverr: 0 filmes para 'hyena'
+[   350s]     + 1_pixabay.mp4 de 'spotted hyena, animal, mammal, nature, wild, wildlife, preda' a partir de 8s
+[   361s]     + 2_pixabay.mp4 de 'hyena, hyaenidae, animal, wildlife, conservation, safari, wi' a partir de 0s
+[   365s]     + 3_pixabay.mp4 de 'wolf, fox, born, wolves, lion, tiger, hyena' a partir de 8s
+[   365s]   v_bear / pexels: 0 filmes para 'brown bear'
+[   366s]   v_bear / pixabay: 12 filmes para 'brown bear'
+[   367s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=brown+bear&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa8
+[   367s]   v_bear / coverr: 0 filmes para 'brown bear'
+[   374s]     + 1_pixabay.mp4 de 'bear, brown, brown bear, nature, animals, mammal, slow motio' a partir de 18s
+[   386s]     + 2_pixabay.mp4 de 'bear, brown bear, furry, predator, mammal, wildlife' a partir de 8s
+[   393s]     + 3_pixabay.mp4 de 'brown bear, bear, nature, animal, forest, wild animal, wildl' a partir de 26s
+[   393s]     trecho escuro em 11s, tentando mais adiante
+[   393s]     trecho escuro em 18s, tentando mais adiante
+[   398s]     + 4_pixabay.mp4 de 'bear, brown bear, nature, wildlife, animal, slow motion' a partir de 12s
+[   398s]   v_lion / pexels: 0 filmes para 'lion'
+[   400s]   v_lion / pixabay: 11 filmes para 'lion'
+[   400s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=lion&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e04d8
+[   400s]   v_lion / coverr: 0 filmes para 'lion'
+[   404s]     + 1_pixabay.mp4 de 'lion animal, wild animal, handsome lion, lion king, look lio' a partir de 8s
+[   414s]     + 2_pixabay.mp4 de 'lion, big cat, head, predator, mane, dangerous, wildlife' a partir de 8s
+[   419s]     + 3_pixabay.mp4 de 'lion, hagenbeck, yawning, big cat, to sunbathe, panthera leo' a partir de 8s
+[   419s]     trecho escuro em 0s, tentando mais adiante
+[   431s]     + 4_pixabay.mp4 de 'lion, feline, wildlife, animal, species, nature' a partir de 0s
+[   431s]   v_rhino / pexels: 0 filmes para 'rhinoceros'
+[   432s]   v_rhino / pixabay: 12 filmes para 'rhinoceros'
+[   432s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=rhinoceros&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa8
+[   432s]   v_rhino / coverr: 0 filmes para 'rhinoceros'
+[   443s]     + 1_pixabay.mp4 de 'rhino, mammal, horn, rhinoceros, colossus, wildlife' a partir de 8s
+[   452s]     + 2_pixabay.mp4 de 'rhino, mammal, horn, rhinoceros, colossus, wildlife' a partir de 8s
+[   464s]     + 3_pixabay.mp4 de 'rhino, pachyderm, horn, rhinoceros, savannah, safari, namibi' a partir de 8s
+[   464s]   v_elephant / pexels: 0 filmes para 'elephant herd'
+[   465s]   v_elephant / pixabay: 12 filmes para 'elephant herd'
+[   466s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=elephant+herd&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444
+[   466s]   v_elephant / coverr: 0 filmes para 'elephant herd'
+[   473s]     + 1_pixabay.mp4 de 'elephants, herd, elephant, family, pachyderm' a partir de 0s
+[   479s]     + 2_pixabay.mp4 de 'elephants, african elephant, animals, mammals, safari, wildl' a partir de 0s
+[   486s]     + 3_pixabay.mp4 de 'elephants, herd, baby, baby elephant, animals, nature, eleph' a partir de 0s
+[   496s]     + 4_pixabay.mp4 de 'elephants, family, herd, wildlife, botswana, elephant, afric' a partir de 0s
+[   496s]   v_blizzard / pexels: 0 filmes para 'blizzard snow storm'
+[   498s]   v_blizzard / pixabay: 12 filmes para 'blizzard snow storm'
+[   498s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=blizzard+snow+storm&page_size=8&urls=true&api_key=e46f0775805a10c2
+[   498s]   v_blizzard / coverr: 0 filmes para 'blizzard snow storm'
+[   504s]     + 1_pixabay.mp4 de 'storm, mountains, blizzard, wind, stormy, snow, winter, cold' a partir de 8s
+[   517s]     + 2_pixabay.mp4 de 'tree, branches, snow, storm, weather, spruce, pine, forest, ' a partir de 8s
+[   529s]     + 3_pixabay.mp4 de 'nature, winter, landscape, 4k, snowing, snow, white, blizzar' a partir de 15s
+[   529s]   v_tundra / pexels: 0 filmes para 'tundra aerial'
+[   530s]   v_tundra / pixabay: 12 filmes para 'tundra aerial'
+[   531s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=tundra+aerial&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444
+[   531s]   v_tundra / coverr: 0 filmes para 'tundra aerial'
+[   545s]     + 1_pixabay.mp4 de 'drone, drones, drone images, nature, forest, river, landscap' a partir de 12s
+[   555s]     + 2_pixabay.mp4 de 'aerial, aerial shot, clouds, dawn, daylight, dusk, fog, natu' a partir de 0s
+[   560s]     trecho escuro em 8s, tentando mais adiante
+[   565s]     trecho escuro em 8s, tentando mais adiante
+[   578s]     + 3_pixabay.mp4 de 'cars, roundabout, rondo, flowers, road, city, sidewalk, aeri' a partir de 8s
+[   589s]     trecho escuro em 8s, tentando mais adiante
+[   600s]     trecho escuro em 8s, tentando mais adiante
+[   606s]     + 4_pixabay.mp4 de 'nature, landscape, lake, aerial, drone, water, mountains, fo' a partir de 10s
+[   606s]   v_fire / pexels: 0 filmes para 'campfire night'
+[   607s]   v_fire / pixabay: 10 filmes para 'campfire night'
+[   608s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=campfire+night&page_size=8&urls=true&api_key=e46f0775805a10c2dd344
+[   608s]   v_fire / coverr: 0 filmes para 'campfire night'
+[   617s]     trecho escuro em 8s, tentando mais adiante
+[   628s]     trecho escuro em 8s, tentando mais adiante
+[   633s]     + 1_pixabay.mp4 de 'campfire, flames, night, fire, camp, burn, burning, wood, ou' a partir de 10s
+[   637s]     trecho escuro em 8s, tentando mais adiante
+[   640s]     trecho escuro em 8s, tentando mais adiante
+[   649s]     + 2_pixabay.mp4 de 'cabin, night, pond, glowing, lights, deer, owl, frog, campfi' a partir de 15s
+[   649s]   v_glacier / pexels: 0 filmes para 'glacier aerial'
+[   651s]   v_glacier / pixabay: 12 filmes para 'glacier aerial'
+[   652s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=glacier+aerial&page_size=8&urls=true&api_key=e46f0775805a10c2dd344
+[   652s]   v_glacier / coverr: 0 filmes para 'glacier aerial'
+[   652s]     trecho escuro em 0s, tentando mais adiante
+[   653s]     trecho escuro em 0s, tentando mais adiante
+[   663s]     + 1_pixabay.mp4 de 'mountain, glacier, houses, road, alpine arena, alps, cold, d' a partir de 0s
+[   672s]     + 2_pixabay.mp4 de 'mountain, glacier, houses, road, alpine arena, alps, cold, d' a partir de 8s
+[   678s]     trecho escuro em 8s, tentando mais adiante
+[   683s]     trecho escuro em 8s, tentando mais adiante
+[   698s]     + 3_pixabay.mp4 de 'mountain, glacier, houses, road, alpine arena, alps, cold, d' a partir de 8s
