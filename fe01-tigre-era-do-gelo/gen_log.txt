@@ -2,125 +2,74 @@ ai_mammoth_vs_tiger_1: Gemini falhou (Gemini 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please check your plan and ), tentando Replicate
-ai_mammoth_vs_tiger_1: 2752x1536
+ai_mammoth_vs_tiger_1: ERRO Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://replicate.com/account/billing#billing to purchase credit. Once you purchase credit, please wait a few minutes before trying again.","status":402}
+
 ai_mammoth_lowangle_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_mammoth_lowangle_1: 2752x1536
-ai_tusks_close_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_tusks_close_1: 2752x1536
-ai_iceage_panorama_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_iceage_panorama_1: 2752x1536
+ai_mammoth_lowangle_1: ERRO Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://replicate.com/account/billing#billing to purchase credit. Once you purchase credit, please wait a few minutes before trying again.","status":402}
+
 ai_smilodon_fangs_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_smilodon_fangs_1: 2752x1536
-ai_blizzard_steppe_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_blizzard_steppe_1: 2752x1536
-ai_tiger_eyes_snow_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_tiger_eyes_snow_1: 2752x1536
+ai_smilodon_fangs_1: ERRO Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://replicate.com/account/billing#billing to purchase credit. Once you purchase credit, please wait a few minutes before trying again.","status":402}
+
 ai_ten_beasts_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_ten_beasts_1: 2752x1536
-ai_tiger_taiga_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_tiger_taiga_1: 2752x1536
-ai_tiger_stalk_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_tiger_stalk_1: 2752x1536
-ai_tiger_leap_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_tiger_leap_1: 2752x1536
-ai_tiger_roar_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_tiger_roar_1: 2752x1536
+ai_ten_beasts_1: ERRO Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://replicate.com/account/billing#billing to purchase credit. Once you purchase credit, please wait a few minutes before trying again.","status":402}
+
 ai_tiger_paw_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_tiger_paw_1: 2752x1536
-ai_tiger_claws_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_tiger_claws_1: 2752x1536
-ai_tiger_ridge_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_tiger_ridge_1: 2752x1536
+ai_tiger_paw_1: ERRO Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://replicate.com/account/billing#billing to purchase credit. Once you purchase credit, please wait a few minutes before trying again.","status":402}
+
 ai_tiger_dusk_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_tiger_dusk_1: 2752x1536
-ai_tiger_river_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_tiger_river_1: 2752x1536
-ai_tiger_ambush_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_tiger_ambush_1: 2752x1536
-ai_tiger_walk_steppe_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_tiger_walk_steppe_1: 2752x1536
-ai_tiger_rest_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_tiger_rest_1: 2752x1536
-ai_direwolf_portrait_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_direwolf_portrait_1: 2752x1536
-ai_direwolf_pack_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_direwolf_pack_1: 2752x1536
-ai_direwolf_vs_tiger_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_direwolf_vs_tiger_1: 2752x1536
+ai_tiger_dusk_1: ERRO Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://replicate.com/account/billing#billing to purchase credit. Once you purchase credit, please wait a few minutes before trying again.","status":402}
+
 ai_direwolf_circle_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_direwolf_circle_1: 2752x1536
-ai_direwolf_teeth_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_direwolf_teeth_1: 2752x1536
+ai_direwolf_circle_1: ERRO Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://replicate.com/account/billing#billing to purchase credit. Once you purchase credit, please wait a few minutes before trying again.","status":402}
+
 ai_direwolf_alone_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_direwolf_alone_1: 2752x1536
+ai_direwolf_alone_1: ERRO Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://replicate.com/account/billing#billing to purchase credit. Once you purchase credit, please wait a few minutes before trying again.","status":402}
+
 ai_megaloceros_portrait_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_megaloceros_portrait_1: 2752x1536
-ai_megaloceros_herd_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_megaloceros_herd_1: 2752x1536
+ai_megaloceros_portrait_1: ERRO Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://replicate.com/account/billing#billing to purchase credit. Once you purchase credit, please wait a few minutes before trying again.","status":402}
+
 ai_megaloceros_vs_tiger_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_megaloceros_vs_tiger_1: 2752x1536
+ai_megaloceros_vs_tiger_1: ERRO Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://replicate.com/account/billing#billing to purchase credit. Once you purchase credit, please wait a few minutes before trying again.","status":402}
+
 ai_megaloceros_antlers_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_megaloceros_antlers_1: 2752x1536
-ai_megaloceros_forest_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_megaloceros_forest_1: 2752x1536
+ai_megaloceros_antlers_1: ERRO Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://replicate.com/account/billing#billing to purchase credit. Once you purchase credit, please wait a few minutes before trying again.","status":402}
+
 ai_megaloceros_charge_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_megaloceros_charge_1: 2752x1536
-ai_bison_portrait_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_bison_portrait_1: 2752x1536
-ai_bison_herd_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_bison_herd_1: 2752x1536
-ai_bison_vs_tiger_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_bison_vs_tiger_1: 2752x1536
-ai_bison_charge_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_bison_charge_1: 2752x1536
-ai_bison_horns_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_bison_horns_1: 2752x1536
-ai_hyena_portrait_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_hyena_portrait_1: 2752x1536
-ai_hyena_clan_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_hyena_clan_1: 2752x1536
-ai_hyena_bones_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_hyena_bones_1: 2752x1536
+ai_megaloceros_charge_1: ERRO Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://replicate.com/account/billing#billing to purchase credit. Once you purchase credit, please wait a few minutes before trying again.","status":402}
+
 ai_hyena_vs_tiger_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_hyena_vs_tiger_1: ERRO falhou: Error generating image: NSFW content detected.
+ai_hyena_vs_tiger_1: ERRO Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://replicate.com/account/billing#billing to purchase credit. Once you purchase credit, please wait a few minutes before trying again.","status":402}
+
 ai_hyena_jaws_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_hyena_jaws_1: 2752x1536
-ai_cavebear_portrait_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_cavebear_portrait_1: 2752x1536
-ai_cavebear_den_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_cavebear_den_1: 2752x1536
-ai_cavebear_vs_tiger_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_cavebear_vs_tiger_1: 2752x1536
+ai_hyena_jaws_1: ERRO Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://replicate.com/account/billing#billing to purchase credit. Once you purchase credit, please wait a few minutes before trying again.","status":402}
+
 ai_cavebear_roar_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_cavebear_roar_1: 2752x1536
+ai_cavebear_roar_1: ERRO Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://replicate.com/account/billing#billing to purchase credit. Once you purchase credit, please wait a few minutes before trying again.","status":402}
+
 ai_cavebear_skeleton_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_cavebear_skeleton_1: 2752x1536
+ai_cavebear_skeleton_1: ERRO Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://replicate.com/account/billing#billing to purchase credit. Once you purchase credit, please wait a few minutes before trying again.","status":402}
+
 ai_cavelion_portrait_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_cavelion_portrait_1: 2752x1536
-ai_cavelion_pride_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_cavelion_pride_1: 2752x1536
-ai_cavelion_vs_tiger_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_cavelion_vs_tiger_1: 2752x1536
-ai_cavelion_snarl_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_cavelion_snarl_1: 2752x1536
+ai_cavelion_portrait_1: ERRO Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://replicate.com/account/billing#billing to purchase credit. Once you purchase credit, please wait a few minutes before trying again.","status":402}
+
 ai_cavelion_hunt_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_cavelion_hunt_1: 2752x1536
+ai_cavelion_hunt_1: ERRO Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://replicate.com/account/billing#billing to purchase credit. Once you purchase credit, please wait a few minutes before trying again.","status":402}
+
 ai_cave_painting_lions_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_cave_painting_lions_1: 2752x1536
-ai_smilodon_portrait_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_smilodon_portrait_1: 2752x1536
-ai_smilodon_arms_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_smilodon_arms_1: 2752x1536
-ai_smilodon_vs_tiger_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_smilodon_vs_tiger_1: 2752x1536
+ai_cave_painting_lions_1: ERRO Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://replicate.com/account/billing#billing to purchase credit. Once you purchase credit, please wait a few minutes before trying again.","status":402}
+
 ai_smilodon_fight_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_smilodon_fight_1: 2752x1536
+ai_smilodon_fight_1: ERRO Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://replicate.com/account/billing#billing to purchase credit. Once you purchase credit, please wait a few minutes before trying again.","status":402}
+
 ai_smilodon_cave_brazil_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_smilodon_cave_brazil_1: 2752x1536
+ai_smilodon_cave_brazil_1: ERRO Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://replicate.com/account/billing#billing to purchase credit. Once you purchase credit, please wait a few minutes before trying again.","status":402}
+
 ai_smilodon_tooth_break_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_smilodon_tooth_break_1: ERRO falhou: Error generating image: NSFW content detected.
+ai_smilodon_tooth_break_1: ERRO Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://replicate.com/account/billing#billing to purchase credit. Once you purchase credit, please wait a few minutes before trying again.","status":402}
+
 ai_smilodon_skull_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_smilodon_skull_1: 2752x1536
+ai_smilodon_skull_1: ERRO Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://replicate.com/account/billing#billing to purchase credit. Once you purchase credit, please wait a few minutes before trying again.","status":402}
+
 ai_arctodus_portrait_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
 ai_arctodus_portrait_1: ERRO Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://replicate.com/account/billing#billing to purchase credit. Once you purchase credit, please wait a few minutes before trying again.","status":402}
 
@@ -199,73 +148,57 @@ ai_scoreboard_bg_1: ERRO Replicate 402: {"title":"Insufficient credit","detail":
 # Imagens IA — fe01-tigre-era-do-gelo
 
 - Modelo: `gemini-2.5-flash-image`
-- Imagens geradas: 58
-- Folhas: ai_contact_sheet_1.jpg, ai_contact_sheet_2.jpg, ai_contact_sheet_3.jpg, ai_contact_sheet_4.jpg, ai_contact_sheet_5.jpg, ai_contact_sheet_6.jpg, ai_contact_sheet_7.jpg, ai_contact_sheet_8.jpg, ai_contact_sheet_9.jpg, ai_contact_sheet_10.jpg
+- Imagens geradas: 0
+- Folhas: 
 
 | plano | resultado |
 |---|---|
-| `ai_mammoth_vs_tiger` | 1 de 1 |
-| `ai_mammoth_lowangle` | 1 de 1 |
-| `ai_tusks_close` | 1 de 1 |
-| `ai_iceage_panorama` | 1 de 1 |
-| `ai_smilodon_fangs` | 1 de 1 |
-| `ai_blizzard_steppe` | 1 de 1 |
-| `ai_tiger_eyes_snow` | 1 de 1 |
-| `ai_ten_beasts` | 1 de 1 |
-| `ai_tiger_taiga` | 1 de 1 |
-| `ai_tiger_stalk` | 1 de 1 |
-| `ai_tiger_leap` | 1 de 1 |
-| `ai_tiger_roar` | 1 de 1 |
-| `ai_tiger_paw` | 1 de 1 |
-| `ai_tiger_claws` | 1 de 1 |
-| `ai_tiger_ridge` | 1 de 1 |
-| `ai_tiger_dusk` | 1 de 1 |
-| `ai_tiger_river` | 1 de 1 |
-| `ai_tiger_ambush` | 1 de 1 |
-| `ai_tiger_walk_steppe` | 1 de 1 |
-| `ai_tiger_rest` | 1 de 1 |
-| `ai_direwolf_portrait` | 1 de 1 |
-| `ai_direwolf_pack` | 1 de 1 |
-| `ai_direwolf_vs_tiger` | 1 de 1 |
-| `ai_direwolf_circle` | 1 de 1 |
-| `ai_direwolf_teeth` | 1 de 1 |
-| `ai_direwolf_alone` | 1 de 1 |
-| `ai_megaloceros_portrait` | 1 de 1 |
-| `ai_megaloceros_herd` | 1 de 1 |
-| `ai_megaloceros_vs_tiger` | 1 de 1 |
-| `ai_megaloceros_antlers` | 1 de 1 |
-| `ai_megaloceros_forest` | 1 de 1 |
-| `ai_megaloceros_charge` | 1 de 1 |
-| `ai_bison_portrait` | 1 de 1 |
-| `ai_bison_herd` | 1 de 1 |
-| `ai_bison_vs_tiger` | 1 de 1 |
-| `ai_bison_charge` | 1 de 1 |
-| `ai_bison_horns` | 1 de 1 |
-| `ai_hyena_portrait` | 1 de 1 |
-| `ai_hyena_clan` | 1 de 1 |
-| `ai_hyena_bones` | 1 de 1 |
-| `ai_hyena_vs_tiger` opção 1 | erro: falhou: Error generating image: NSFW content detected. |
+| `ai_mammoth_vs_tiger` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_mammoth_vs_tiger` | 0 de 1 |
+| `ai_mammoth_lowangle` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_mammoth_lowangle` | 0 de 1 |
+| `ai_smilodon_fangs` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_smilodon_fangs` | 0 de 1 |
+| `ai_ten_beasts` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_ten_beasts` | 0 de 1 |
+| `ai_tiger_paw` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_tiger_paw` | 0 de 1 |
+| `ai_tiger_dusk` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_tiger_dusk` | 0 de 1 |
+| `ai_direwolf_circle` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_direwolf_circle` | 0 de 1 |
+| `ai_direwolf_alone` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_direwolf_alone` | 0 de 1 |
+| `ai_megaloceros_portrait` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_megaloceros_portrait` | 0 de 1 |
+| `ai_megaloceros_vs_tiger` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_megaloceros_vs_tiger` | 0 de 1 |
+| `ai_megaloceros_antlers` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_megaloceros_antlers` | 0 de 1 |
+| `ai_megaloceros_charge` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_megaloceros_charge` | 0 de 1 |
+| `ai_hyena_vs_tiger` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
 | `ai_hyena_vs_tiger` | 0 de 1 |
-| `ai_hyena_jaws` | 1 de 1 |
-| `ai_cavebear_portrait` | 1 de 1 |
-| `ai_cavebear_den` | 1 de 1 |
-| `ai_cavebear_vs_tiger` | 1 de 1 |
-| `ai_cavebear_roar` | 1 de 1 |
-| `ai_cavebear_skeleton` | 1 de 1 |
-| `ai_cavelion_portrait` | 1 de 1 |
-| `ai_cavelion_pride` | 1 de 1 |
-| `ai_cavelion_vs_tiger` | 1 de 1 |
-| `ai_cavelion_snarl` | 1 de 1 |
-| `ai_cavelion_hunt` | 1 de 1 |
-| `ai_cave_painting_lions` | 1 de 1 |
-| `ai_smilodon_portrait` | 1 de 1 |
-| `ai_smilodon_arms` | 1 de 1 |
-| `ai_smilodon_vs_tiger` | 1 de 1 |
-| `ai_smilodon_fight` | 1 de 1 |
-| `ai_smilodon_cave_brazil` | 1 de 1 |
-| `ai_smilodon_tooth_break` opção 1 | erro: falhou: Error generating image: NSFW content detected. |
+| `ai_hyena_jaws` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_hyena_jaws` | 0 de 1 |
+| `ai_cavebear_roar` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_cavebear_roar` | 0 de 1 |
+| `ai_cavebear_skeleton` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_cavebear_skeleton` | 0 de 1 |
+| `ai_cavelion_portrait` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_cavelion_portrait` | 0 de 1 |
+| `ai_cavelion_hunt` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_cavelion_hunt` | 0 de 1 |
+| `ai_cave_painting_lions` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_cave_painting_lions` | 0 de 1 |
+| `ai_smilodon_fight` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_smilodon_fight` | 0 de 1 |
+| `ai_smilodon_cave_brazil` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_smilodon_cave_brazil` | 0 de 1 |
+| `ai_smilodon_tooth_break` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
 | `ai_smilodon_tooth_break` | 0 de 1 |
-| `ai_smilodon_skull` | 1 de 1 |
+| `ai_smilodon_skull` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_smilodon_skull` | 0 de 1 |
 | `ai_arctodus_portrait` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
 | `ai_arctodus_portrait` | 0 de 1 |
 | `ai_arctodus_upright` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
