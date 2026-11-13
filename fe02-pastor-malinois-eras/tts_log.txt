@@ -1,42 +1,42 @@
 Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
-ch08 §5 tentativa 1: tom fora (81 Hz, -3.5 st)
-ch08: 6 parágrafos, 50s, tom-alvo 97 Hz
-ch09 §6 tentativa 1: tom fora (112 Hz, +3.0 st)
-ch09: 7 parágrafos, 62s, tom-alvo 95 Hz
-ch10 §1 tentativa 1: tom fora (110 Hz, +2.6 st)
-ch10 §2 tentativa 1: tom fora (110 Hz, +2.6 st)
-ch10: 7 parágrafos, 62s, tom-alvo 94 Hz
-ch11: 7 parágrafos, 72s, tom-alvo 94 Hz
+ch00_hook: 6 parágrafos, 60s, tom-alvo 93 Hz
+ch01 §1 tentativa 1: tom fora (117 Hz, +4.0 st)
+ch01: 7 parágrafos, 61s, tom-alvo 93 Hz
+ch02 §6 tentativa 1: tom fora (114 Hz, +3.4 st)
+ch02: 7 parágrafos, 68s, tom-alvo 94 Hz
+ch03 §7 tentativa 1: tom fora (106 Hz, +2.2 st)
+ch03: 8 parágrafos, 65s, tom-alvo 94 Hz
 # Conferência da narração (parágrafo a parágrafo)
 
 Temperatura 0.7, top_p 0.8, desvio máximo 2.0 semitom.
 
 | capítulo | parágrafo | tentativas | tom (Hz) | resultado |
 |---|---|---|---|---|
-| ch08 | 1 | 1 | 109 | ok |
-| ch08 | 2 | 1 | 97 | ok |
-| ch08 | 3 | 1 | 99 | ok |
-| ch08 | 4 | 1 | 95 | ok |
-| ch08 | 5 | 1 | 81 | ⚠ tom fora (81 Hz, -3.5 st) |
-| ch08 | 6 | 1 | 93 | ok |
-| ch09 | 1 | 1 | 87 | ok |
-| ch09 | 2 | 1 | 95 | ok |
-| ch09 | 3 | 1 | 89 | ok |
-| ch09 | 4 | 1 | 100 | ok |
-| ch09 | 5 | 1 | 88 | ok |
-| ch09 | 6 | 1 | 112 | ⚠ tom fora (112 Hz, +3.0 st) |
-| ch09 | 7 | 1 | 88 | ok |
-| ch10 | 1 | 1 | 110 | ⚠ tom fora (110 Hz, +2.6 st) |
-| ch10 | 2 | 1 | 110 | ⚠ tom fora (110 Hz, +2.6 st) |
-| ch10 | 3 | 1 | 87 | ok |
-| ch10 | 4 | 1 | 91 | ok |
-| ch10 | 5 | 1 | 94 | ok |
-| ch10 | 6 | 1 | 97 | ok |
-| ch10 | 7 | 1 | 94 | ok |
-| ch11 | 1 | 1 | 96 | ok |
-| ch11 | 2 | 1 | 85 | ok |
-| ch11 | 3 | 1 | 90 | ok |
-| ch11 | 4 | 1 | 94 | ok |
-| ch11 | 5 | 1 | 94 | ok |
-| ch11 | 6 | 1 | 99 | ok |
-| ch11 | 7 | 1 | 97 | ok |
+| ch00_hook | 1 | 1 | 92 | ok |
+| ch00_hook | 2 | 1 | 95 | ok |
+| ch00_hook | 3 | 1 | 111 | ok |
+| ch00_hook | 4 | 1 | 104 | ok |
+| ch00_hook | 5 | 1 | 91 | ok |
+| ch00_hook | 6 | 1 | 89 | ok |
+| ch01 | 1 | 1 | 117 | ⚠ tom fora (117 Hz, +4.0 st) |
+| ch01 | 2 | 1 | 93 | ok |
+| ch01 | 3 | 1 | 94 | ok |
+| ch01 | 4 | 1 | 94 | ok |
+| ch01 | 5 | 1 | 90 | ok |
+| ch01 | 6 | 1 | 96 | ok |
+| ch01 | 7 | 1 | 93 | ok |
+| ch02 | 1 | 1 | 102 | ok |
+| ch02 | 2 | 1 | 96 | ok |
+| ch02 | 3 | 1 | 101 | ok |
+| ch02 | 4 | 1 | 91 | ok |
+| ch02 | 5 | 1 | 87 | ok |
+| ch02 | 6 | 1 | 114 | ⚠ tom fora (114 Hz, +3.4 st) |
+| ch02 | 7 | 1 | 94 | ok |
+| ch03 | 1 | 1 | 83 | ok |
+| ch03 | 2 | 1 | 87 | ok |
+| ch03 | 3 | 1 | 99 | ok |
+| ch03 | 4 | 1 | 95 | ok |
+| ch03 | 5 | 1 | 90 | ok |
+| ch03 | 6 | 1 | 96 | ok |
+| ch03 | 7 | 1 | 106 | ⚠ tom fora (106 Hz, +2.2 st) |
+| ch03 | 8 | 1 | 97 | ok |
