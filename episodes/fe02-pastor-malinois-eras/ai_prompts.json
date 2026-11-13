@@ -680,6 +680,66 @@
    "id": "ai_dog_sleep_fire",
    "prompt": "A German Shepherd sleeping by a fireplace in a cozy house, warm light, only this one animal in the image",
    "tier": "cheap"
+  },
+  {
+   "id": "ai_dogs_dusk_ridge",
+   "prompt": "a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears) and a fawn Belgian Malinois dog (lean, short fawn coat, black face mask, upright ears), two separate dogs standing on a ridge at dusk, silhouettes against an orange sky",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_dogs_forest_path",
+   "prompt": "a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears) and a fawn Belgian Malinois dog (lean, short fawn coat, black face mask, upright ears), two separate dogs trotting along a forest path, side view",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_dogs_lying_grass",
+   "prompt": "a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears) and a fawn Belgian Malinois dog (lean, short fawn coat, black face mask, upright ears), two separate dogs lying in tall golden grass, alert",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_dogs_jump_log",
+   "prompt": "a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears) and a fawn Belgian Malinois dog (lean, short fawn coat, black face mask, upright ears), two separate dogs jumping over a fallen log one after the other",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_dogs_fog_field",
+   "prompt": "a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears) and a fawn Belgian Malinois dog (lean, short fawn coat, black face mask, upright ears), two separate dogs standing in a foggy field at dawn",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_dogs_wading",
+   "prompt": "a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears) and a fawn Belgian Malinois dog (lean, short fawn coat, black face mask, upright ears), two separate dogs wading through a shallow river, splashes",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_gs_stand_rock",
+   "prompt": "a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears) standing proudly on a large rock, low angle, only one dog",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_gs_sniff_ground",
+   "prompt": "a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears) sniffing the ground in a forest, only one dog",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_gs_tired",
+   "prompt": "a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears) lying down tired, tongue out, hot sunlight, only one dog",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_ml_jump",
+   "prompt": "a fawn Belgian Malinois dog (lean, short fawn coat, black face mask, upright ears) jumping high in the air, only one dog",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_ml_sit",
+   "prompt": "a fawn Belgian Malinois dog (lean, short fawn coat, black face mask, upright ears) sitting alert in a field, only one dog",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_ml_sniff",
+   "prompt": "a fawn Belgian Malinois dog (lean, short fawn coat, black face mask, upright ears) sniffing the air, close-up, only one dog",
+   "tier": "cheap"
   }
  ]
 }

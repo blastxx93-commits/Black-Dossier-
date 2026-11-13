@@ -12,9 +12,9 @@ from feras_kit import foot, label, serif, round_card, versus, verdict, score, me
 
 ai = lambda *ids: ["ai:ai_" + i for i in ids]
 PHOTOS = {
-    "caes": ai("dogs_portal", "dogs_final_look", "dogs_hide_ferns", "dogs_nose_wind", "dogs_snow", "dog_family", "dogs_walk_ferns", "dogs_sit_rock", "dogs_run_plain", "dogs_drink_stream", "dogs_alert_night", "dogs_mist", "dogs_back_view", "dogs_close_faces", "dogs_rain", "dogs_tracks") + ["p_gs", "p_malinois"],
-    "pastor": ai("gs_portrait", "gs_bark", "gs_permian", "gs_sniff_smoke", "gs_panting_heat", "gs_run", "gs_close_eyes", "gs_alert", "gs_coat") + ["p_gs"],
-    "malinois": ai("ml_portrait", "ml_leap", "ml_jungle_heat", "ml_run", "ml_alert") + ["p_malinois"],
+    "caes": ai("dogs_portal", "dogs_final_look", "dogs_hide_ferns", "dogs_nose_wind", "dogs_snow", "dog_family", "dogs_walk_ferns", "dogs_sit_rock", "dogs_run_plain", "dogs_drink_stream", "dogs_alert_night", "dogs_mist", "dogs_back_view", "dogs_close_faces", "dogs_rain", "dogs_tracks", "dogs_dusk_ridge", "dogs_forest_path", "dogs_lying_grass", "dogs_jump_log", "dogs_fog_field", "dogs_wading") + ["p_gs", "p_malinois"],
+    "pastor": ai("gs_portrait", "gs_bark", "gs_permian", "gs_sniff_smoke", "gs_panting_heat", "gs_run", "gs_close_eyes", "gs_alert", "gs_coat", "gs_stand_rock", "gs_sniff_ground", "gs_tired") + ["p_gs"],
+    "malinois": ai("ml_portrait", "ml_leap", "ml_jungle_heat", "ml_run", "ml_alert", "ml_jump", "ml_sit", "ml_sniff") + ["p_malinois"],
     "carbon": ai("carbon_swamp", "carbon_fire", "meganeura", "arthropleura", "dogs_meganeura", "dogs_arthropleura", "carbon_trees", "carbon_ferns", "carbon_water") + ["p_meganeura", "p_arthropleura"],
     "permian": ai("permian_desert", "inostrancevia_portrait", "inostrancevia_teeth", "inostrancevia_ambush", "extinction_volcano", "permian_dunes", "permian_conifers", "inostrancevia_walk", "inostrancevia_hide", "permian_river") + ["p_inostrancevia"],
     "triassic": ai("triassic_plain", "coelophysis", "dogs_coelophysis", "postosuchus_portrait", "triassic_forest", "triassic_river", "coelophysis_head", "coelophysis_run", "postosuchus_walk", "triassic_dawn", "triassic_storm") + ["p_coelophysis"],
@@ -31,11 +31,11 @@ CLIPS = json.load(open(os.path.join(HERE, "clips.json")))
 CLIPS = {"caes": CLIPS["gs"] + CLIPS["ml"] + CLIPS["dogs"], "pastor": CLIPS["gs"], "malinois": CLIPS["ml"], "carbon": CLIPS["carbon"],
          "permian": CLIPS["permian"], "triassic": CLIPS["triassic"], "jurassic": CLIPS["jurassic"], "cretaceous": CLIPS["cretaceous"],
          "paleocene": CLIPS["paleocene"], "miocene": CLIPS["miocene"], "terror": CLIPS["terror"], "iceage": CLIPS["iceage"], "final": CLIPS["final"]}
-FALLBACK = {k: ["caes"] for k in PHOTOS}
-FALLBACK.update({"caes": ["pastor", "malinois"], "pastor": ["caes"], "malinois": ["caes"], "final": ["caes", "iceage"]})
+FALLBACK = {k: ["caes", "pastor", "malinois"] for k in PHOTOS}
+FALLBACK.update({"caes": ["pastor", "malinois"], "pastor": ["caes"], "malinois": ["caes"], "final": ["caes", "iceage", "pastor", "malinois"]})
 A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, [], FALLBACK, ["caes"])
 A.CLIP_TARGET = 0.30
-A.MAX_HOLD, A.KEEP = 6.2, 3.8
+A.MAX_HOLD, A.KEEP = 7.6, 4.2
 F.HUD_TOTAL[0] = 9
 ch = A.ch
 chapters = []

@@ -1,2 +1,3 @@
 # fe02 — revisão IA
 Reprovadas (1ª leva): arthropleura, brazil_oligocene, campfire_night, carbon_fire, carbon_swamp, dilophosaurus, direwolf_pack_dogs, dogs_coelophysis, extinction_volcano, inostrancevia_ambush, paleocene_jungle, permian_desert, postosuchus, timeline_rocks, velociraptor, velociraptor_vs_gs
+2ª leva (77): reprovadas allosaurus_head, brazil_lake, brazil_savanna, carbon_ferns, carbon_water, cave_entrance, cave_painting_dog, coelophysis_head, dogs_drink_stream, inostrancevia_hide, inostrancevia_walk, jungle_heat, jurassic_ferns, jurassic_river, paleocene_bank, paleocene_canopy, paleocene_river2, permian_conifers, permian_dunes, permian_river, terrorbird_strike, titanoboa_swim, triassic_river
