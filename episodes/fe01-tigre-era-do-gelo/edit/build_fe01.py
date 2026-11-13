@@ -14,7 +14,7 @@ from feras_kit import foot, label, serif, round_card, versus, verdict, score, me
 
 ai = lambda *ids: ["ai:ai_" + i for i in ids]
 PHOTOS = {
-    "hook": ai("mammoth_vs_tiger", "mammoth_lowangle", "tusks_close", "iceage_panorama", "blizzard_steppe", "ten_beasts", "tiger_eyes_snow", "iceage_glacier_valley", "iceage_sunset",
+    "hook": ai("mammoth_vs_tiger", "mammoth_lowangle", "tusks_close", "iceage_panorama", "blizzard_steppe", "tiger_eyes_snow", "iceage_glacier_valley", "iceage_sunset",
                  "iceage_blizzard_herd", "iceage_river", "hook_storm", "hook_valley", "hook_aurora"),
     "tigre": ai("tiger_taiga", "tiger_stalk", "tiger_leap", "tiger_roar", "tiger_paw", "tiger_claws", "tiger_ridge", "tiger_dusk",
                 "tiger_river", "tiger_ambush", "tiger_walk_steppe", "tiger_rest", "tiger_profile_snow", "tiger_back_view",
@@ -287,11 +287,11 @@ MOODS = [("ch00_hook", 0, "tensao"), ("ch01", 0, "epico"), ("ch02", 0, "tensao")
          ("ch07", "Rodada seis", "tensao"), ("ch08", 0, "epico"), ("ch09", 0, "tensao"), ("ch11", 0, "epico"), ("ch12", 0, "drama")]
 ctxs = ["hook", "tigre", "lobo", "alce", "bisao", "hiena", "urso", "leao", "smilodon", "arctodus", "rino", "mamute", "humano"]
 ep = json.loads(A.finish(chapters, "FE01_Tigre_Era_do_Gelo.mp4", ctx=ctxs, music_gain=-26))
-SCENE_OF = {"tigre": ["tiger", "amur"], "hook": ["mammoth", "iceage", "blizzard", "tusks"], "lobo": ["wolf"],
+SCENE_OF = {"tigre": ["ai/ai_tiger_", "amur"], "hook": ["mammoth", "iceage", "blizzard", "tusks"], "lobo": ["wolf"],
             "alce": ["megaloceros", "gaur"], "bisao": ["bison"], "hiena": ["hyena"], "urso": ["cavebear", "cave_bear"],
             "leao": ["cavelion", "cave_lion", "chauvet", "painting_lions"], "smilodon": ["smilodon"], "arctodus": ["arctodus"],
             "rino": ["rhino"], "mamute": ["mammoth"], "humano": ["hunters", "spear", "cave_painting_torch", "thaw", "extinct"],
-            "final": ["tiger_final", "tiger_modern", "scoreboard", "tiger"]}
+            "final": ["ai/ai_tiger_"]}
 ep = F.cut_rhythm(ep, SCENE_OF)
 starts, t = {}, 0.0
 for chap, c in zip(ep["chapters"], chapters):
