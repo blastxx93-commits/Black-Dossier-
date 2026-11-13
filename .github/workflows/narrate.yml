@@ -37,10 +37,6 @@ jobs:
       - uses: actions/checkout@v4
         with:
           path: main
-      - uses: actions/checkout@v4
-        with:
-          ref: assets
-          path: assets
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -69,6 +65,8 @@ jobs:
           if-no-files-found: ignore
       - name: Publicar
         if: ${{ !cancelled() }}
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
         run: |
           EP="${{ inputs.episode }}"
-          bash main/agent/publish_assets.sh "out/$EP" "$EP" "Narração + tempos das palavras: $EP"
+          bash main/agent/publish_sparse.sh "out/$EP" "$EP" "Narração + tempos das palavras: $EP"
