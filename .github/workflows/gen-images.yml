@@ -12,6 +12,14 @@ on:
         description: "Opcional: só estes planos, separados por vírgula"
         required: false
         default: ""
+      free:
+        description: "Usar geradores grátis primeiro (Cloudflare, se houver chave; senão Pollinations)"
+        type: boolean
+        default: true
+      attempt:
+        description: "Tentativa (muda a semente para regerar reprovadas)"
+        required: false
+        default: "0"
       force:
         description: "Regerar planos que já têm imagem"
         type: boolean
@@ -45,8 +53,11 @@ jobs:
           REPLICATE_API_TOKEN: ${{ secrets.REPLICATE_API_TOKEN }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_IMAGE_MODEL: ${{ vars.GEMINI_IMAGE_MODEL }}
+          FREE_IMAGES: ${{ inputs.free && '1' || '' }}
+          CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
         run: |
-          args=(--out ../out --only "${{ inputs.only }}" --existing "../assets/${{ inputs.episode }}/ai")
+          args=(--out ../out --only "${{ inputs.only }}" --existing "../assets/${{ inputs.episode }}/ai" --attempt "${{ inputs.attempt }}")
           if [ "${{ inputs.force }}" = "true" ]; then args+=(--force); fi
           mkdir -p "../out/${{ inputs.episode }}"
           set -o pipefail

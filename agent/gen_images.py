@@ -64,10 +64,79 @@ def gemini_image(prompt, aspect="16:9"):
     raise RuntimeError("Gemini não respondeu")
 
 
+CF_ACCOUNT = os.environ.get("CF_ACCOUNT_ID", "").strip()
+CF_TOKEN = os.environ.get("CF_API_TOKEN", "").strip()
+FREE = os.environ.get("FREE_IMAGES", "").strip() == "1"   # use the free generators first (Cloudflare, Pollinations)
+CF_OFF = [False]
+
+
+def _hd(img):
+    """Free generators return ~1024-1440 px: crop to 16:9 and upscale once with Lanczos for the 1080p edit."""
+    w, h = img.size
+    if abs(w / h - 16 / 9) > 0.02:
+        nh = int(w * 9 / 16)
+        if nh <= h:
+            img = img.crop((0, (h - nh) // 2, w, (h - nh) // 2 + nh))
+        else:
+            nw = int(h * 16 / 9); img = img.crop(((w - nw) // 2, 0, (w - nw) // 2 + nw, h))
+    if img.width < 1920:
+        img = img.resize((1920, 1080), Image.LANCZOS)
+    return img
+
+
+def cloudflare_image(prompt, seed):
+    """Cloudflare Workers AI, Flux-1 Schnell (free daily allowance). Needs CF_ACCOUNT_ID + CF_API_TOKEN."""
+    import base64
+    if CF_OFF[0]:
+        raise RuntimeError("Cloudflare desligado nesta execução (sem cota)")
+    url = f"https://api.cloudflare.com/client/v4/accounts/{CF_ACCOUNT}/ai/run/@cf/black-forest-labs/flux-1-schnell"
+    r = requests.post(url, json={"prompt": prompt[:2000], "steps": 8, "seed": seed},
+                      headers={"Authorization": f"Bearer {CF_TOKEN}"}, timeout=180)
+    if r.status_code == 429 or "neurons" in r.text.lower() and r.status_code >= 400:
+        CF_OFF[0] = True
+    if r.status_code >= 400:
+        raise RuntimeError(f"Cloudflare {r.status_code}: {r.text[:200]}")
+    data = (r.json().get("result") or {}).get("image")
+    if not data:
+        raise RuntimeError(f"Cloudflare sem imagem: {r.text[:200]}")
+    return _hd(Image.open(io.BytesIO(base64.b64decode(data))).convert("RGB"))
+
+
+def pollinations_image(prompt, seed):
+    """Pollinations (free, no key): Flux at 1920x1088, a few seconds each; retried, then gives up."""
+    from urllib.parse import quote
+    url = (f"https://image.pollinations.ai/prompt/{quote(prompt[:1500])}"
+           f"?width=1920&height=1088&model=flux&nologo=true&private=true&enhance=false&seed={seed}")
+    for k in range(4):
+        try:
+            r = requests.get(url, timeout=240)
+            if r.status_code == 200 and r.headers.get("content-type", "").startswith("image"):
+                return _hd(Image.open(io.BytesIO(r.content)).convert("RGB"))
+            err = f"{r.status_code}: {r.text[:120]}"
+        except Exception as e:
+            err = str(e)[:120]
+        time.sleep(15 * (k + 1))
+    raise RuntimeError(f"Pollinations falhou: {err}")
+
+
+def free_image(prompt, seed):
+    errs = []
+    if CF_ACCOUNT and CF_TOKEN:
+        try:
+            return cloudflare_image(prompt, seed), "cloudflare"
+        except Exception as e:
+            errs.append(str(e)[:100])
+    try:
+        return pollinations_image(prompt, seed), "pollinations"
+    except Exception as e:
+        errs.append(str(e)[:100])
+    raise RuntimeError(" / ".join(errs))
+
+
 def session():
     tok = os.environ.get("REPLICATE_API_TOKEN", "").strip()
     if not tok:
-        if GEMINI_KEY:
+        if GEMINI_KEY or FREE:
             return None
         sys.exit("Nenhuma chave de IA: configure GEMINI_API_KEY ou REPLICATE_API_TOKEN (GitHub > Settings > Secrets and variables > Actions).")
     s = requests.Session()
@@ -129,6 +198,7 @@ def main():
     ap.add_argument("--only", default="")
     ap.add_argument("--force", action="store_true", help="regera mesmo se a imagem já existir")
     ap.add_argument("--existing", default="", help="pasta ai/ já publicada, para pular o que já existe")
+    ap.add_argument("--attempt", type=int, default=0, help="muda a semente (regerar uma reprovada com outra variação)")
     a = ap.parse_args()
     spec = json.load(open(os.path.join("episodes", a.episode, "ai_prompts.json")))
     model = spec.get("model", DEFAULT_MODEL)
@@ -154,7 +224,15 @@ def main():
                    "safety_tolerance": 2, "raw": bool(sh.get("raw", spec.get("raw", True))), "seed": 1000 * k + len(sid)}
             try:
                 img = None
-                if GEMINI_KEY:
+                if FREE:
+                    try:
+                        img, used = free_image(prompt, 1000 * k + len(sid) + 7 * a.attempt)
+                        print(f"{sid}_{k}: gerada no {used}", flush=True)
+                    except Exception as e:
+                        if s is None and not GEMINI_KEY:
+                            raise
+                        print(f"{sid}_{k}: geradores grátis falharam ({str(e)[:120]})", flush=True)
+                if img is None and GEMINI_KEY:
                     try:
                         img = gemini_image(prompt)
                     except Exception as e:
@@ -174,7 +252,7 @@ def main():
         rows.append((sid, files))
         log.append(f"| `{sid}` | {len(files)} de {n} |")
     sheets = contact_sheets(ep_dir, [r for r in rows if r[1]])
-    rep = "\n".join([f"# Imagens IA — {a.episode}", "", f"- Modelo: `{GEMINI_MODEL if GEMINI_KEY else model}`", f"- Imagens geradas: {cost_n}",
+    rep = "\n".join([f"# Imagens IA — {a.episode}", "", f"- Modelo: `{'grátis (Cloudflare/Pollinations)' if FREE else (GEMINI_MODEL if GEMINI_KEY else model)}`", f"- Imagens geradas: {cost_n}",
                      f"- Folhas: {', '.join(os.path.basename(p) for p in sheets)}", "", "| plano | resultado |", "|---|---|"] + log) + "\n"
     open(os.path.join(ep_dir, "ai_report.md"), "w").write(rep)
     if os.environ.get("GITHUB_STEP_SUMMARY"):
