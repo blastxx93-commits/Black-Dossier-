@@ -107,8 +107,35 @@ def questions(c, items, phrases, scene):
     s["sfx"] = [fx("riser", 0, -8)] + [dict(x, file="sfx/tick.wav", gain=-20) for x in s["sfx"]]
 
 
+MOTION_CYCLE = ["dolly", "drift", "orbit", "handheld", "punchin", "rotate", "focus", "rise", "drift", "orbit", "dolly", "handheld"]
+SNOWY = ("tiger", "mammoth", "rhino", "bison", "blizzard", "steppe", "direwolf", "cavelion", "hook", "snow")
+
+
+def camera(ep):
+    """A different camera move on every photo (never the same twice in a row), falling snow on snowy scenes,
+    an occasional warm light leak; one clip in four in slow motion for weight."""
+    m = v = 0; last = None
+    for chap in ep["chapters"]:
+        for s in chap["shots"]:
+            if s["type"] == "image" and not s.get("motion"):
+                mo = MOTION_CYCLE[m % len(MOTION_CYCLE)]; m += 1
+                if mo == last:
+                    mo = MOTION_CYCLE[m % len(MOTION_CYCLE)]; m += 1
+                s["motion"] = last = mo
+                if any(w in s["src"] for w in SNOWY) and m % 3 == 0:
+                    s["snow"] = True
+                if m % 9 == 4:
+                    s["leak"] = True
+            elif s["type"] == "video":
+                v += 1
+                if v % 4 == 2 and s.get("dur", 3) >= 2.5:
+                    s["speed"] = 0.7
+    return ep
+
+
 def cut_rhythm(ep):
     """Transitions + their sounds on every cut, varied. Runs on the finished episode JSON."""
+    camera(ep)
     k = 0; last = None; snd = {}
     first = True
     for chap in ep["chapters"]:

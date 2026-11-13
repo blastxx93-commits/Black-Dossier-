@@ -534,6 +534,108 @@ def shot_questions(ctx, s, n):
     return graphic(ctx, s, n, draw)
 
 
+# ---------------------------------------------------------------- camera motion: varied, never a slideshow
+def _smooth_noise(seed, t, f=0.35):
+    """Smooth 1-D noise (sum of slow sines) -> -1..1, for a hand-held camera feel without jitter."""
+    r = random.Random(seed)
+    ph = [r.random() * 6.283 for _ in range(3)]
+    return (math.sin(t * f * 6.283 + ph[0]) * 0.6 + math.sin(t * f * 2.7 * 6.283 + ph[1]) * 0.3
+            + math.sin(t * f * 5.1 * 6.283 + ph[2]) * 0.1)
+
+
+def _persp_coeffs(src_pts, dst_pts):
+    import numpy as np
+    m = []
+    for (x, y), (u, v) in zip(dst_pts, src_pts):
+        m.append([x, y, 1, 0, 0, 0, -u * x, -u * y]); m.append([0, 0, 0, x, y, 1, -v * x, -v * y])
+    A_ = np.array(m, dtype=float); b = np.array(src_pts, dtype=float).reshape(8)
+    return list(np.linalg.solve(A_, b))
+
+
+MOTIONS = ["drift", "rotate", "focus", "punchin", "orbit", "dolly", "rise", "handheld"]
+
+
+def shot_image_fx(ctx, s, n):
+    """Photo with a camera move chosen per shot ("motion"); falls back to the classic Ken Burns ("move")."""
+    mo = s.get("motion")
+    if not mo or mo not in MOTIONS:
+        yield from _plain_image(ctx, s, n); return
+    over = 1.3
+    W2, H2 = int(ctx.W * over), int(ctx.H * over)
+    img = R.load_image(ctx, s["src"], W2, H2, tuple(s.get("focus", (0.5, 0.5))))
+    cap = caption_layer(ctx, s["caption"]) if s.get("caption") else None
+    seed = sum(map(ord, s["src"]))
+    snow = s.get("snow")
+    blur_small = None
+    if mo == "focus":
+        blur_small = img.resize((W2 // 6, H2 // 6), Image.BILINEAR).filter(ImageFilter.GaussianBlur(3)).resize((W2, H2), Image.BICUBIC)
+    sec_n = n / ctx.fps
+    for i in range(n):
+        u = i / max(1, n - 1)
+        t = ease(u) * 0.8 + u * 0.2
+        sec = i / ctx.fps
+        z, cx, cy, rot = 1.0, 0.0, 0.0, 0.0     # zoom (1 = whole oversize image), centre offset in -1..1 of the margin
+        if mo == "drift":       # slow diagonal travel + gentle zoom
+            z = 1.06 + 0.10 * t; cx = -0.6 + 1.2 * t; cy = 0.4 - 0.8 * t
+        elif mo == "rotate":    # push in with a slight roll
+            z = 1.08 + 0.16 * t; rot = (-1.6 + 3.2 * t) * (1 if seed % 2 else -1)
+        elif mo == "focus":     # rack focus: out of focus to sharp while pushing in
+            z = 1.04 + 0.10 * t
+        elif mo == "punchin":   # slow push, then a quick step in at 45% (like a second camera), then slow again
+            step = ease(clamp((u - 0.45) / 0.08))
+            z = 1.05 + 0.05 * u + 0.18 * step
+        elif mo == "orbit":     # fake 3-D: perspective swings as if the camera circled the subject
+            z = 1.12 + 0.06 * t
+        elif mo == "dolly":     # fast ease-out push at the start, then almost still (lands on the subject)
+            k = 1 - (1 - min(1, sec / max(0.6, sec_n * 0.35))) ** 3
+            z = 1.0 + 0.22 * k + 0.03 * u
+        elif mo == "rise":      # crane up: travels from the bottom to the top of the picture
+            z = 1.14; cy = 0.8 - 1.6 * t
+        elif mo == "handheld":  # documentary hand-held: smooth wander, no shake
+            z = 1.12 + 0.04 * t
+            cx = 0.35 * _smooth_noise(seed, sec); cy = 0.35 * _smooth_noise(seed + 9, sec)
+        if mo in ("drift", "rotate", "punchin", "dolly", "rise"):   # a breath of hand-held on top of every move
+            cx += 0.06 * _smooth_noise(seed + 3, sec, 0.25); cy += 0.06 * _smooth_noise(seed + 5, sec, 0.25)
+        cw, ch = W2 / z, H2 / z
+        x0 = W2 / 2 + clamp(cx, -1, 1) * (W2 - cw) / 2 - cw / 2
+        y0 = H2 / 2 + clamp(cy, -1, 1) * (H2 - ch) / 2 - ch / 2
+        src = img
+        if mo == "focus":
+            b = 1 - ease(clamp(u / 0.45))
+            src = Image.blend(img, blur_small, b) if b > 0.01 else img
+        if mo == "orbit":
+            sw = (0.5 - t) * 0.09 * (1 if seed % 2 else -1)   # perspective swing
+            box = [(x0, y0), (x0 + cw, y0), (x0 + cw, y0 + ch), (x0, y0 + ch)]
+            d_ = ch * sw
+            src_pts = [(box[0][0], box[0][1] - d_), (box[1][0], box[1][1] + d_), (box[2][0], box[2][1] - d_), (box[3][0], box[3][1] + d_)]
+            dst = [(0, 0), (ctx.W, 0), (ctx.W, ctx.H), (0, ctx.H)]
+            fr = src.transform((ctx.W, ctx.H), Image.PERSPECTIVE, _persp_coeffs(src_pts, dst), Image.BICUBIC)
+        elif rot:
+            big = src.transform((int(ctx.W * 1.08), int(ctx.H * 1.08)), Image.EXTENT,
+                                (x0 - cw * 0.04, y0 - ch * 0.04, x0 + cw * 1.04, y0 + ch * 1.04), Image.BICUBIC)
+            big = big.rotate(rot, resample=Image.BICUBIC)
+            ox, oy = (big.width - ctx.W) / 2, (big.height - ctx.H) / 2
+            fr = big.crop((int(ox), int(oy), int(ox) + ctx.W, int(oy) + ctx.H))
+        else:
+            fr = src.transform((ctx.W, ctx.H), Image.EXTENT, (x0, y0, x0 + cw, y0 + ch), Image.BICUBIC)
+        if snow:
+            snow_layer(ctx, ImageDraw.Draw(fr, "RGBA"), sec, seed % 5, alpha=90)
+        if s.get("leak") and 0.15 < u < 0.85:   # warm light leak sweeping across
+            k = math.sin(math.pi * (u - 0.15) / 0.7)
+            lk = Image.new("RGB", (ctx.W, ctx.H), (255, 170, 80))
+            m = Image.new("L", (ctx.W // 8, ctx.H // 8), 0)
+            lx = (u - 0.15) / 0.7 * (ctx.W // 8)
+            ImageDraw.Draw(m).ellipse([lx - ctx.W // 20, -ctx.H // 16, lx + ctx.W // 20, ctx.H // 8 + ctx.H // 16], fill=int(110 * k))
+            m = m.filter(ImageFilter.GaussianBlur(ctx.W // 80)).resize((ctx.W, ctx.H), Image.BILINEAR)
+            fr = Image.composite(Image.blend(fr, lk, 0.5), fr, m)
+        if cap:
+            fr.paste(cap, (0, 0), cap)
+        yield fr
+
+
+_plain_image = R.SHOTS["image"]
+R.SHOTS["image"] = shot_image_fx
+
 R.SHOTS.update({"serif": shot_serif, "round": shot_round, "versus": shot_versus, "score": shot_score,
                 "verdict": shot_verdict, "measure": shot_measure, "ficha": shot_ficha, "cta": shot_cta,
                 "questions": shot_questions})
