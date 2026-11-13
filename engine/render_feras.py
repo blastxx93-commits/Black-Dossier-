@@ -180,7 +180,7 @@ def hud_layer(ctx, hud):
     rnd, a, b = hud
     im = layer(ctx); d = ImageDraw.Draw(im)
     f1 = font("impact", ctx.px(26)); f2 = font("serif", ctx.px(40))
-    txt = f"RODADA {rnd}/10" if isinstance(rnd, int) else str(rnd).upper()
+    txt = f"RODADA {rnd}/{hud[3] if len(hud) > 3 else 10}" if isinstance(rnd, int) else str(rnd).upper()
     sc = f"{a} × {b}"
     w1 = d.textlength(txt, font=f1); w2 = d.textlength(sc, font=f2)
     bw = max(w1, w2) + ctx.px(44)
@@ -334,7 +334,8 @@ def shot_score(ctx, s, n):
         k = ease(clamp(i / (ctx.fps * 0.3)))
         flip = clamp((i - ctx.fps * 0.6) / (ctx.fps * 0.25))
         cw = ctx.px(600); ch_ = ctx.px(420); x0 = (ctx.W - cw * 2 - ctx.px(80)) / 2; y0 = ctx.px(250)
-        for j, (lab, v0, v1, col) in enumerate((("TIGRE", a0, a1, B["gold"]), ("FERAS", b0, b1, B["blood"]))):
+        la, lb = s.get("labels", ["TIGRE", "FERAS"])
+        for j, (lab, v0, v1, col) in enumerate(((la, a0, a1, B["gold"]), (lb, b0, b1, B["blood"] if lb == "FERAS" else B["amber"]))):
             x = x0 + j * (cw + ctx.px(80))
             d.rounded_rectangle([x, y0, x + cw, y0 + ch_], radius=ctx.px(18), fill=B["char"] + (int(215 * k),),
                                 outline=col + (int(255 * k),), width=ctx.px(5))

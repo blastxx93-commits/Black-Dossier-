@@ -1,0 +1,62 @@
+{
+ "gs": [
+  "v_gs/1",
+  "v_gs/4",
+  "v_gs/7",
+  "v_gs/8"
+ ],
+ "ml": [
+  "v_malinois/1"
+ ],
+ "carbon": [
+  "v_dragonfly/1",
+  "v_dragonfly/3",
+  "v_millipede/2",
+  "v_swamp/2",
+  "v_fern/2",
+  "v_fern/3"
+ ],
+ "permian": [
+  "v_volcano/1",
+  "v_volcano/2",
+  "v_desert/3"
+ ],
+ "triassic": [
+  "v_crocodile/1",
+  "v_crocodile/4"
+ ],
+ "jurassic": [
+  "v_jungle/1",
+  "v_jungle/4"
+ ],
+ "cretaceous": [
+  "v_volcano/4",
+  "v_jungle/2"
+ ],
+ "paleocene": [
+  "v_snake/3",
+  "v_snake/4",
+  "v_jungle/3",
+  "v_crocodile/2"
+ ],
+ "miocene": [
+  "v_bear/1"
+ ],
+ "terror": [
+  "v_ostrich/1",
+  "v_ostrich/2",
+  "v_ostrich/4"
+ ],
+ "iceage": [
+  "v_wolf/2",
+  "v_wolf/3",
+  "v_snow/1",
+  "v_snow/2"
+ ],
+ "final": [
+  "v_fire/1"
+ ],
+ "dogs": [
+  "v_dog_sniff/2"
+ ]
+}

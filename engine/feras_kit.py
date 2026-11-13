@@ -60,9 +60,12 @@ GRAPHIC_IN = {"round": "flash", "versus": "whip", "verdict": "punch", "score": "
 HUD = [None]
 
 
+HUD_TOTAL = [10]
+
+
 def hud(rnd, a, b):
     """From here on every footage shot shows the round tracker (None to hide)."""
-    HUD[0] = None if rnd is None else [rnd, a, b]
+    HUD[0] = None if rnd is None else [rnd, a, b, HUD_TOTAL[0]]
 
 
 def _src(scene):
@@ -96,7 +99,7 @@ def serif(scene, text, lines=(), size=120):
 
 
 def round_card(num, name, sub, scene):
-    return {"type": "round", "num": num, "name": name, "sub": sub, "bg": _bg(scene),
+    return {"type": "round", "num": num, "name": name, "sub": sub, "bg": _bg(scene), "of": HUD_TOTAL[0],
             "sfx": [fx("bell", 0.05), fx("impact", 0.1, -3)]}
 
 
