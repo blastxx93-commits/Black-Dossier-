@@ -1,0 +1,348 @@
+{
+ "model": "black-forest-labs/flux-1.1-pro-ultra",
+ "raw": true,
+ "n": 1,
+ "style": ", photorealistic wildlife documentary still, Pleistocene Ice Age, natural light, shot on a telephoto lens, sharp focus, highly detailed fur, cinematic 16:9 composition, anatomically correct animals with the correct number of legs, eyes and tails, no humans' faces, no text, no logos, no watermark",
+ "shots": [
+  {
+   "id": "ai_mammoth_vs_tiger",
+   "prompt": "A gigantic woolly mammoth towering over a large Siberian tiger with thick winter fur, facing each other on a snowy Ice Age steppe, low angle, epic scale"
+  },
+  {
+   "id": "ai_mammoth_lowangle",
+   "prompt": "Extreme low angle of a woolly mammoth bull raising its head, long curved tusks against a stormy grey sky, snow falling"
+  },
+  {
+   "id": "ai_tusks_close",
+   "prompt": "Close-up of the enormous curved ivory tusks and shaggy brown fur of a woolly mammoth, frost on the hair"
+  },
+  {
+   "id": "ai_iceage_panorama",
+   "prompt": "Vast Ice Age mammoth steppe panorama, herds of mammoths, bison and woolly rhinos under a cold low sun, glaciers on the horizon"
+  },
+  {
+   "id": "ai_smilodon_fangs",
+   "prompt": "Extreme close-up of a sabre-toothed cat Smilodon snarling, long sabre canines, dramatic side light"
+  },
+  {
+   "id": "ai_blizzard_steppe",
+   "prompt": "A Siberian tiger walking alone through a blizzard on an endless white steppe, wind-blown snow"
+  },
+  {
+   "id": "ai_tiger_eyes_snow",
+   "prompt": "Extreme close-up of a Siberian tiger's amber eyes, snowflakes on its whiskers"
+  },
+  {
+   "id": "ai_ten_beasts",
+   "prompt": "Ice Age bestiary scene: woolly mammoth, woolly rhino, cave lion, giant deer and cave bear together on a snowy plain, cinematic wide shot"
+  },
+  {
+   "id": "ai_tiger_taiga",
+   "prompt": "Siberian tiger standing in a snowy taiga forest of birch and pine, morning light"
+  },
+  {
+   "id": "ai_tiger_stalk",
+   "prompt": "Siberian tiger crouched low, stalking through tall frosted grass, focused stare"
+  },
+  {
+   "id": "ai_tiger_leap",
+   "prompt": "Siberian tiger mid-leap over a frozen stream, snow spray, frozen motion"
+  },
+  {
+   "id": "ai_tiger_roar",
+   "prompt": "Siberian tiger roaring, mouth open showing canines, breath steaming in cold air"
+  },
+  {
+   "id": "ai_tiger_paw",
+   "prompt": "Close-up of a huge tiger paw print pressed in fresh snow next to the paw"
+  },
+  {
+   "id": "ai_tiger_claws",
+   "prompt": "Close-up of a Siberian tiger paw with claws extended on a fallen log, frost"
+  },
+  {
+   "id": "ai_tiger_ridge",
+   "prompt": "Siberian tiger on a rocky ridge overlooking an Ice Age valley with mammoths far below"
+  },
+  {
+   "id": "ai_tiger_dusk",
+   "prompt": "Silhouette of a Siberian tiger on a hill at dusk, orange sky, Ice Age tundra"
+  },
+  {
+   "id": "ai_tiger_river",
+   "prompt": "Siberian tiger drinking from an icy river, reflection in the water"
+  },
+  {
+   "id": "ai_tiger_ambush",
+   "prompt": "Siberian tiger hidden behind snowy bushes watching prey in the distance, shallow depth of field"
+  },
+  {
+   "id": "ai_tiger_walk_steppe",
+   "prompt": "Siberian tiger walking across a snowy steppe with a herd of woolly mammoths in the far background"
+  },
+  {
+   "id": "ai_tiger_rest",
+   "prompt": "Siberian tiger lying on a snowy rock, calm, powerful, soft winter light"
+  },
+  {
+   "id": "ai_direwolf_portrait",
+   "prompt": "A dire wolf, larger and heavier than a grey wolf, broad skull, standing on a snowy plain, Ice Age"
+  },
+  {
+   "id": "ai_direwolf_pack",
+   "prompt": "A pack of five dire wolves running across a frozen plain, snow kicked up"
+  },
+  {
+   "id": "ai_direwolf_vs_tiger",
+   "prompt": "A Siberian tiger facing a snarling dire wolf in the snow, tense standoff, wide shot"
+  },
+  {
+   "id": "ai_direwolf_circle",
+   "prompt": "Several dire wolves circling a Siberian tiger in a snowy clearing, overhead three-quarter view"
+  },
+  {
+   "id": "ai_direwolf_teeth",
+   "prompt": "Close-up of a snarling dire wolf showing heavy teeth, frost on fur"
+  },
+  {
+   "id": "ai_direwolf_alone",
+   "prompt": "A lone dire wolf separated from its pack at the edge of a frozen forest, a tiger's eyes visible in the shadows"
+  },
+  {
+   "id": "ai_megaloceros_portrait",
+   "prompt": "A giant Irish elk Megaloceros stag with enormous palmate antlers over three metres wide, standing in an Ice Age meadow"
+  },
+  {
+   "id": "ai_megaloceros_herd",
+   "prompt": "A herd of giant elk Megaloceros crossing a misty river valley, Ice Age"
+  },
+  {
+   "id": "ai_megaloceros_vs_tiger",
+   "prompt": "A Siberian tiger crouching in tall grass behind a giant elk Megaloceros stag that has not noticed it"
+  },
+  {
+   "id": "ai_megaloceros_antlers",
+   "prompt": "Close-up of the gigantic palmate antlers of a Megaloceros stag against the sky"
+  },
+  {
+   "id": "ai_megaloceros_forest",
+   "prompt": "A Megaloceros stag struggling to pass between birch trees in a snowy forest with its huge antlers"
+  },
+  {
+   "id": "ai_megaloceros_charge",
+   "prompt": "A Megaloceros stag lowering its giant antlers, charging forward, snow flying"
+  },
+  {
+   "id": "ai_bison_portrait",
+   "prompt": "A steppe bison Bison priscus with long wide horns and a shaggy hump, standing in snow, breath steaming"
+  },
+  {
+   "id": "ai_bison_herd",
+   "prompt": "A large herd of steppe bison on a frozen Ice Age grassland, dramatic clouds"
+  },
+  {
+   "id": "ai_bison_vs_tiger",
+   "prompt": "A Siberian tiger leaping onto the back of a steppe bison in deep snow, dynamic action"
+  },
+  {
+   "id": "ai_bison_charge",
+   "prompt": "A steppe bison charging with lowered horns, snow exploding around its hooves"
+  },
+  {
+   "id": "ai_bison_horns",
+   "prompt": "Close-up of the long curved horns and dark eye of a steppe bison, frost on fur"
+  },
+  {
+   "id": "ai_hyena_portrait",
+   "prompt": "A cave hyena, larger than a modern spotted hyena, standing on rocks at a cave entrance, Ice Age"
+  },
+  {
+   "id": "ai_hyena_clan",
+   "prompt": "A clan of cave hyenas trotting across a snowy plain at twilight"
+  },
+  {
+   "id": "ai_hyena_bones",
+   "prompt": "A cave hyena cracking a large bone at the mouth of a cave, scattered bones"
+  },
+  {
+   "id": "ai_hyena_vs_tiger",
+   "prompt": "A Siberian tiger standing over a bison carcass surrounded by several cave hyenas, tense, snowy plain"
+  },
+  {
+   "id": "ai_hyena_jaws",
+   "prompt": "Close-up of a cave hyena's powerful jaws holding a bone"
+  },
+  {
+   "id": "ai_cavebear_portrait",
+   "prompt": "A massive cave bear standing upright at the entrance of a limestone cave, Ice Age Europe"
+  },
+  {
+   "id": "ai_cavebear_den",
+   "prompt": "A cave bear sleeping inside a dark cave den, soft light from the entrance"
+  },
+  {
+   "id": "ai_cavebear_vs_tiger",
+   "prompt": "A Siberian tiger approaching the entrance of a cave where a huge cave bear is waking up"
+  },
+  {
+   "id": "ai_cavebear_roar",
+   "prompt": "A huge cave bear rearing on its hind legs and roaring, snow falling"
+  },
+  {
+   "id": "ai_cavebear_skeleton",
+   "prompt": "Cave bear skeletons and skulls on the floor of a limestone cave, lit by a single beam of light"
+  },
+  {
+   "id": "ai_cavelion_portrait",
+   "prompt": "A cave lion Panthera spelaea, larger than an African lion, maneless male with thick pale fur, on a snowy steppe"
+  },
+  {
+   "id": "ai_cavelion_pride",
+   "prompt": "A small pride of cave lions walking across an open Ice Age steppe"
+  },
+  {
+   "id": "ai_cavelion_vs_tiger",
+   "prompt": "A Siberian tiger and a cave lion facing each other on an open snowy steppe, equal size, tense standoff"
+  },
+  {
+   "id": "ai_cavelion_snarl",
+   "prompt": "Close-up of a snarling cave lion, steam breath, frosty whiskers"
+  },
+  {
+   "id": "ai_cavelion_hunt",
+   "prompt": "Cave lions hunting a steppe bison on an open plain, Ice Age"
+  },
+  {
+   "id": "ai_cave_painting_lions",
+   "prompt": "Prehistoric cave painting of lions on a rock wall lit by torchlight, ochre and charcoal"
+  },
+  {
+   "id": "ai_smilodon_portrait",
+   "prompt": "Smilodon populator, a massive sabre-toothed cat, standing in a South American grassland at dawn"
+  },
+  {
+   "id": "ai_smilodon_arms",
+   "prompt": "A Smilodon showing its massively muscular forelimbs, gripping a fallen log"
+  },
+  {
+   "id": "ai_smilodon_vs_tiger",
+   "prompt": "A Siberian tiger and a Smilodon sabre-toothed cat circling each other in a misty clearing"
+  },
+  {
+   "id": "ai_smilodon_fight",
+   "prompt": "A Siberian tiger and a Smilodon fighting, rolling in dust, dynamic action, motion blur"
+  },
+  {
+   "id": "ai_smilodon_cave_brazil",
+   "prompt": "The entrance of a limestone cave in the Brazilian cerrado with a Smilodon walking out, Ice Age"
+  },
+  {
+   "id": "ai_smilodon_tooth_break",
+   "prompt": "Macro shot of a broken sabre canine of Smilodon lying on rocks"
+  },
+  {
+   "id": "ai_smilodon_skull",
+   "prompt": "A Smilodon skull with long sabre teeth on a museum display table, dramatic lighting"
+  },
+  {
+   "id": "ai_arctodus_portrait",
+   "prompt": "Arctodus simus, the giant short-faced bear, long-legged, standing on all fours on a North American plain"
+  },
+  {
+   "id": "ai_arctodus_upright",
+   "prompt": "A giant short-faced bear Arctodus standing upright over three metres tall, low angle, overcast sky"
+  },
+  {
+   "id": "ai_arctodus_vs_tiger",
+   "prompt": "A small-looking Siberian tiger facing an enormous short-faced bear Arctodus, dramatic scale difference"
+  },
+  {
+   "id": "ai_arctodus_carcass",
+   "prompt": "A giant short-faced bear chasing smaller predators away from a carcass on the tundra"
+  },
+  {
+   "id": "ai_arctodus_paw",
+   "prompt": "Close-up of the huge clawed paw of a giant short-faced bear pressing into mud"
+  },
+  {
+   "id": "ai_rhino_portrait",
+   "prompt": "A woolly rhinoceros with a long front horn and thick shaggy fur standing in a snowstorm"
+  },
+  {
+   "id": "ai_rhino_sweep",
+   "prompt": "A woolly rhinoceros sweeping snow aside with its long flat horn to reach grass"
+  },
+  {
+   "id": "ai_rhino_charge",
+   "prompt": "A woolly rhinoceros charging straight at the camera, snow flying, low angle"
+  },
+  {
+   "id": "ai_rhino_vs_tiger",
+   "prompt": "A Siberian tiger backing away from a charging woolly rhinoceros on a snowy plain"
+  },
+  {
+   "id": "ai_rhino_horn",
+   "prompt": "Close-up of the long curved front horn of a woolly rhinoceros, frost"
+  },
+  {
+   "id": "ai_mammoth_herd_wall",
+   "prompt": "A herd of woolly mammoths forming a protective circle around their calves, tundra, snow"
+  },
+  {
+   "id": "ai_mammoth_calf",
+   "prompt": "A woolly mammoth calf between the legs of its mother, snowy steppe"
+  },
+  {
+   "id": "ai_mammoth_vs_tiger_far",
+   "prompt": "A Siberian tiger watching a herd of woolly mammoths from a distance, hidden in grass"
+  },
+  {
+   "id": "ai_mammoth_stomp",
+   "prompt": "A woolly mammoth lifting its front leg to stomp, low angle, snow"
+  },
+  {
+   "id": "ai_mammoth_walk",
+   "prompt": "A lone woolly mammoth bull walking through a blizzard"
+  },
+  {
+   "id": "ai_mammoth_trumpet",
+   "prompt": "A woolly mammoth raising its trunk and trumpeting, cold breath, sunset"
+  },
+  {
+   "id": "ai_hunters_fire",
+   "prompt": "Ice Age hunters seen from behind sitting around a campfire at night, fur clothing, spears, no faces visible"
+  },
+  {
+   "id": "ai_hunters_spears",
+   "prompt": "Ice Age hunters seen from far away surrounding a woolly mammoth with spears on a snowy plain, silhouettes"
+  },
+  {
+   "id": "ai_spear_points",
+   "prompt": "Close-up of flint spear points and a wooden spear lying on snow"
+  },
+  {
+   "id": "ai_cave_painting_torch",
+   "prompt": "A prehistoric cave wall covered with paintings of mammoths and bison, lit by a torch held by a hand"
+  },
+  {
+   "id": "ai_empty_steppe_thaw",
+   "prompt": "An empty Ice Age steppe thawing, melting snow, grass emerging, no animals, end of an era"
+  },
+  {
+   "id": "ai_extinct_shadows",
+   "prompt": "Silhouettes of a mammoth, woolly rhino and sabre-toothed cat fading into fog, melancholic"
+  },
+  {
+   "id": "ai_tiger_modern_forest",
+   "prompt": "A Siberian tiger walking through a protected Russian forest in winter, camera trap style photo"
+  },
+  {
+   "id": "ai_tiger_final_look",
+   "prompt": "A Siberian tiger looking directly at the camera in the snow, golden hour, majestic"
+  },
+  {
+   "id": "ai_scoreboard_bg",
+   "prompt": "Snowy Ice Age landscape at twilight, soft fog, empty foreground, room for text"
+  }
+ ]
+}

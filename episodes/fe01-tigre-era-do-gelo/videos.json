@@ -1,0 +1,249 @@
+{
+ "defaults": {
+  "n": 3,
+  "clip": 8,
+  "sources": [
+   "pexels",
+   "pixabay",
+   "coverr"
+  ]
+ },
+ "shots": [
+  {
+   "id": "v_tiger_snow",
+   "query": "siberian tiger snow",
+   "alt": [
+    "tiger walking snow",
+    "amur tiger"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 6
+  },
+  {
+   "id": "v_tiger_close",
+   "query": "tiger face close up",
+   "alt": [
+    "tiger eyes"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_tiger_run",
+   "query": "tiger running",
+   "alt": [
+    "tiger chasing"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_tiger_roar",
+   "query": "tiger roaring",
+   "alt": [
+    "tiger growl"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_tiger_stalk",
+   "query": "tiger stalking grass",
+   "alt": [
+    "tiger hunting"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_tiger_water",
+   "query": "tiger water swimming",
+   "alt": [
+    "tiger river"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_wolf_pack",
+   "query": "wolf pack snow",
+   "alt": [
+    "wolves running snow"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_deer_stag",
+   "query": "red deer stag antlers",
+   "alt": [
+    "elk antlers"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_bison",
+   "query": "bison snow",
+   "alt": [
+    "bison herd winter"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_hyena",
+   "query": "hyena",
+   "alt": [
+    "spotted hyena"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_bear",
+   "query": "brown bear",
+   "alt": [
+    "grizzly bear standing"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_lion",
+   "query": "lion",
+   "alt": [
+    "male lion roar"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_rhino",
+   "query": "rhinoceros",
+   "alt": [
+    "rhino charging"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_elephant",
+   "query": "elephant herd",
+   "alt": [
+    "elephant walking"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_blizzard",
+   "query": "blizzard snow storm",
+   "alt": [
+    "snowstorm forest"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_tundra",
+   "query": "tundra aerial",
+   "alt": [
+    "snowy steppe drone",
+    "winter landscape aerial"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_fire",
+   "query": "campfire night",
+   "alt": [
+    "fire flames dark"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 2
+  },
+  {
+   "id": "v_glacier",
+   "query": "glacier aerial",
+   "alt": [
+    "ice mountains drone"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  }
+ ]
+}

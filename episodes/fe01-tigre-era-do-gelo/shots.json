@@ -1,0 +1,150 @@
+{
+ "defaults": {
+  "n": 3,
+  "sources": [
+   "commons",
+   "openverse",
+   "pixabay",
+   "unsplash"
+  ]
+ },
+ "shots": [
+  {
+   "id": "p_smilodon_skeleton",
+   "query": "Smilodon populator skeleton",
+   "alt": [
+    "Smilodon skeleton museum"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_smilodon_skull",
+   "query": "Smilodon skull",
+   "alt": [
+    "sabre-toothed cat skull"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_megaloceros_skeleton",
+   "query": "Megaloceros giganteus skeleton",
+   "alt": [
+    "Irish elk skeleton"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_cave_bear_skeleton",
+   "query": "Ursus spelaeus skeleton",
+   "alt": [
+    "cave bear skeleton"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_arctodus_skeleton",
+   "query": "Arctodus simus skeleton",
+   "alt": [
+    "short-faced bear skeleton"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_woolly_rhino",
+   "query": "Coelodonta antiquitatis",
+   "alt": [
+    "woolly rhinoceros skeleton"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_mammoth_skeleton",
+   "query": "Mammuthus primigenius skeleton",
+   "alt": [
+    "woolly mammoth skeleton museum"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_dire_wolf",
+   "query": "Aenocyon dirus skeleton",
+   "alt": [
+    "dire wolf skeleton"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_cave_hyena",
+   "query": "Crocuta spelaea skull",
+   "alt": [
+    "cave hyena skull"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_cave_lion",
+   "query": "Panthera spelaea skeleton",
+   "alt": [
+    "cave lion skeleton"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_chauvet",
+   "query": "Chauvet cave paintings lions",
+   "alt": [
+    "Chauvet cave rhinoceros",
+    "Lascaux cave painting"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_bison_painting",
+   "query": "Altamira bison painting",
+   "alt": [
+    "cave painting bison"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_lagoa_santa",
+   "query": "Lagoa Santa caverna",
+   "alt": [
+    "Gruta da Lapinha"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_amur_tiger",
+   "query": "Amur tiger Panthera tigris altaica",
+   "alt": [
+    "Siberian tiger snow"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_tiger_skull",
+   "query": "tiger skull",
+   "alt": [
+    "Panthera tigris skull"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_gaur",
+   "query": "gaur Bos gaurus",
+   "alt": [
+    "Indian bison gaur"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_spear_points",
+   "query": "Clovis point",
+   "alt": [
+    "flint spear point paleolithic"
+   ],
+   "n": 3
+  }
+ ]
+}
