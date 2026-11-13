@@ -1,45 +1,15 @@
-ai_inostrancevia_ambush_1: Gemini falhou (Gemini 429: {
+ai_dogs_walk_ferns_1: Gemini falhou (Gemini 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please check your plan and ), tentando Replicate
-ai_inostrancevia_ambush_1: 2752x1536
-ai_dogs_coelophysis_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_dogs_coelophysis_1: 2752x1536
-ai_velociraptor_vs_gs_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_velociraptor_vs_gs_1: 2752x1536
-ai_carbon_swamp_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_carbon_swamp_1: 1920x1080
-ai_carbon_fire_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_carbon_fire_1: 1920x1080
-ai_arthropleura_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_arthropleura_1: 1920x1080
-ai_permian_desert_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_permian_desert_1: 1920x1080
-ai_extinction_volcano_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_extinction_volcano_1: 1920x1080
-ai_dilophosaurus_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_dilophosaurus_1: 1920x1080
-ai_velociraptor_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_velociraptor_1: 1920x1080
-ai_paleocene_jungle_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_paleocene_jungle_1: 1920x1080
+ai_dogs_walk_ferns_1: 1920x1080
 # Imagens IA — fe02-pastor-malinois-eras
 
 - Modelo: `gemini-2.5-flash-image`
-- Imagens geradas: 11
-- Folhas: ai_contact_sheet_1.jpg, ai_contact_sheet_2.jpg
+- Imagens geradas: 1
+- Folhas: ai_contact_sheet_1.jpg
 
 | plano | resultado |
 |---|---|
-| `ai_inostrancevia_ambush` | 1 de 1 |
-| `ai_dogs_coelophysis` | 1 de 1 |
-| `ai_velociraptor_vs_gs` | 1 de 1 |
-| `ai_carbon_swamp` | 1 de 1 |
-| `ai_carbon_fire` | 1 de 1 |
-| `ai_arthropleura` | 1 de 1 |
-| `ai_permian_desert` | 1 de 1 |
-| `ai_extinction_volcano` | 1 de 1 |
-| `ai_dilophosaurus` | 1 de 1 |
-| `ai_velociraptor` | 1 de 1 |
-| `ai_paleocene_jungle` | 1 de 1 |
+| `ai_dogs_walk_ferns` | 1 de 1 |
 
