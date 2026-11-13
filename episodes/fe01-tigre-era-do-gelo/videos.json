@@ -244,6 +244,84 @@
     "coverr"
    ],
    "n": 3
+  },
+  {
+   "id": "v_tiger_a",
+   "query": "tiger",
+   "alt": [
+    "tigers"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 8
+  },
+  {
+   "id": "v_tiger_b",
+   "query": "tiger walking",
+   "alt": [
+    "tiger walk"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 8
+  },
+  {
+   "id": "v_tiger_c",
+   "query": "bengal tiger",
+   "alt": [
+    "tiger wildlife"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 8
+  },
+  {
+   "id": "v_tiger_d",
+   "query": "amur tiger",
+   "alt": [
+    "siberian tiger"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 8
+  },
+  {
+   "id": "v_tiger_e",
+   "query": "tiger hunting",
+   "alt": [
+    "tiger attack"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 8
+  },
+  {
+   "id": "v_mountain_snow",
+   "query": "snowy mountains aerial",
+   "alt": [
+    "winter landscape drone"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 8
   }
  ]
 }
