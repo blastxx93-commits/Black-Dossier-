@@ -1,0 +1,247 @@
+[     0s] fe02-pastor-malinois-eras: 18 planos de video
+[     0s]   v_gs / pexels: 0 filmes para 'german shepherd'
+[     1s]   v_gs / pixabay: 12 filmes para 'german shepherd'
+[     2s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=german+shepherd&page_size=8&urls=true&api_key=e46f0775805a10c2dd34
+[     2s]   v_gs / coverr: 0 filmes para 'german shepherd'
+[     3s]     trecho escuro em 8s, tentando mais adiante
+[     3s]     trecho escuro em 8s, tentando mais adiante
+[    11s]     + 1_pixabay.mp4 de 'german, shepherd, pet, relaxing, tongue, out, summer, shade' a partir de 10s
+[    12s]     trecho escuro em 0s, tentando mais adiante
+[    13s]     trecho escuro em 0s, tentando mais adiante
+[    16s]     + 2_pixabay.mp4 de 'dog, pet, 3d, cartoon, german shepherd dog, fireman, firefig' a partir de 0s
+[    19s]     + 3_pixabay.mp4 de 'dog, german, suit, pet, euro, 3d, animal, money, europe, fat' a partir de 8s
+[    30s]     + 4_pixabay.mp4 de 'dog, canine, snow, mammal, animal, breed, fauna, german shep' a partir de 9s
+[    31s]     trecho escuro em 0s, tentando mais adiante
+[    34s]     + 5_pixabay.mp4 de 'dance, cuba, rhythm, music, percussion, african, latin, ball' a partir de 0s
+[    34s]     trecho escuro em 0s, tentando mais adiante
+[    35s]     trecho escuro em 0s, tentando mais adiante
+[    42s]     + 6_pixabay.mp4 de 'ai generated, german shepherd, dog, animal, pet, canine, pup' a partir de 0s
+[    53s]     + 7_pixabay.mp4 de 'dog, canine, pet, animal, cute, portrait, german shepherd' a partir de 10s
+[    66s]     + 8_pixabay.mp4 de 'dog, canine, pet, animal, cute, portrait, german shepherd' a partir de 8s
+[    66s]   v_malinois / pexels: 0 filmes para 'belgian malinois'
+[    67s]   v_malinois / pixabay: 5 filmes para 'belgian malinois'
+[    68s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=belgian+malinois&page_size=8&urls=true&api_key=e46f0775805a10c2dd3
+[    68s]   v_malinois / coverr: 0 filmes para 'belgian malinois'
+[    76s]     + 1_pixabay.mp4 de 'dog, malinois, flemish mechelaar, belgian shepherd dog, poli' a partir de 10s
+[    81s]     trecho escuro em 8s, tentando mais adiante
+[    85s]     trecho escuro em 8s, tentando mais adiante
+[    97s]     trecho escuro em 8s, tentando mais adiante
+[   104s]     trecho escuro em 8s, tentando mais adiante
+[   125s]     + 2_pixabay.mp4 de 'flag, belgium, country, belgian, europe, brussels, symbol, n' a partir de 18s
+[   125s]     trecho escuro em 0s, tentando mais adiante
+[   131s]     + 3_pixabay.mp4 de 'abstract, art, background, banner, belgian, belgium, black, ' a partir de 0s
+[   131s]   v_malinois / pexels: 0 filmes para 'malinois dog'
+[   132s]   v_malinois / pixabay: 12 filmes para 'malinois dog'
+[   133s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=malinois+dog&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444a
+[   133s]   v_malinois / coverr: 0 filmes para 'malinois dog'
+[   137s]     trecho escuro em 8s, tentando mais adiante
+[   140s]     trecho escuro em 8s, tentando mais adiante
+[   148s]     trecho escuro em 8s, tentando mais adiante
+[   153s]     trecho escuro em 8s, tentando mais adiante
+[   167s]     trecho escuro em 8s, tentando mais adiante
+[   177s]     trecho escuro em 8s, tentando mais adiante
+[   188s]     + 4_pixabay.mp4 de 'dog, pet, animal, small, furry, cute, fur, outdoors, brown, ' a partir de 8s
+[   193s]     trecho escuro em 8s, tentando mais adiante
+[   198s]     trecho escuro em 8s, tentando mais adiante
+[   209s]     trecho escuro em 8s, tentando mais adiante
+[   216s]     trecho escuro em 8s, tentando mais adiante
+[   224s]     + 5_pixabay.mp4 de 'dog, dog bones, dog chews, canine nutrition, dog treats, dog' a partir de 0s
+[   233s]     + 6_pixabay.mp4 de 'husky, sled dog, dog, eyes, animal, fur, snow dog, pet, face' a partir de 8s
+[   237s]     trecho escuro em 8s, tentando mais adiante
+[   242s]     trecho escuro em 8s, tentando mais adiante
+[   250s]     + 7_pixabay.mp4 de 'walking the dog, border-collie, dog, pet, animal, woman, can' a partir de 8s
+[   250s]   v_malinois / pexels: 0 filmes para 'malinois training'
+[   252s]   v_malinois / pixabay: 12 filmes para 'malinois training'
+[   252s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=malinois+training&page_size=8&urls=true&api_key=e46f0775805a10c2dd
+[   252s]   v_malinois / coverr: 0 filmes para 'malinois training'
+[   259s]     + 8_pixabay.mp4 de 'woman, cardio, workout, home fitness, intense workout, woman' a partir de 8s
+[   259s]   v_dog_run / pexels: 0 filmes para 'dog running field'
+[   260s]   v_dog_run / pixabay: 12 filmes para 'dog running field'
+[   261s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=dog+running+field&page_size=8&urls=true&api_key=e46f0775805a10c2dd
+[   261s]   v_dog_run / coverr: 0 filmes para 'dog running field'
+[   269s]     + 1_pixabay.mp4 de 'dog, puppy, field, playing, running, friend, pet, animal, pl' a partir de 8s
+[   276s]     + 2_pixabay.mp4 de 'dog, puppy, friend, pet, playing, running, field, animal, pl' a partir de 8s
+[   297s]     + 3_pixabay.mp4 de 'canicross, race, sport, run, outdoors, dog, kid, pet, runnin' a partir de 8s
+[   302s]     trecho escuro em 8s, tentando mais adiante
+[   307s]     trecho escuro em 8s, tentando mais adiante
+[   318s]     + 4_pixabay.mp4 de 'man, dog, friend, pet, playing, running, field, animal, pupp' a partir de 8s
+[   330s]     + 5_pixabay.mp4 de 'dogs, run, shiba, shibainu, pet, happy, field, nature, count' a partir de 0s
+[   330s]   v_dog_sniff / pexels: 0 filmes para 'dog sniffing'
+[   332s]   v_dog_sniff / pixabay: 12 filmes para 'dog sniffing'
+[   333s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=dog+sniffing&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444a
+[   333s]   v_dog_sniff / coverr: 0 filmes para 'dog sniffing'
+[   337s]     trecho escuro em 8s, tentando mais adiante
+[   342s]     trecho escuro em 8s, tentando mais adiante
+[   349s]     trecho escuro em 8s, tentando mais adiante
+[   352s]     trecho escuro em 8s, tentando mais adiante
+[   354s]   v_dog_sniff / pexels: 0 filmes para 'dog nose'
+[   355s]   v_dog_sniff / pixabay: 11 filmes para 'dog nose'
+[   356s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=dog+nose&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e
+[   356s]   v_dog_sniff / coverr: 0 filmes para 'dog nose'
+[   364s]     trecho escuro em 8s, tentando mais adiante
+[   373s]     trecho escuro em 8s, tentando mais adiante
+[   382s]     + 1_pixabay.mp4 de 'dog, chihuahua, animals, nose, eyes, ears' a partir de 0s
+[   390s]     trecho escuro em 8s, tentando mais adiante
+[   397s]     trecho escuro em 8s, tentando mais adiante
+[   404s]     trecho escuro em 0s, tentando mais adiante
+[   404s]     trecho escuro em 0s, tentando mais adiante
+[   418s]     + 2_pixabay.mp4 de 'dog, golden retriever, puppy, animal, pet, nose, snout, macr' a partir de 0s
+[   419s]     trecho escuro em 8s, tentando mais adiante
+[   420s]     trecho escuro em 10s, tentando mais adiante
+[   423s]     trecho escuro em 8s, tentando mais adiante
+[   424s]     trecho escuro em 8s, tentando mais adiante
+[   425s]     trecho escuro em 9s, tentando mais adiante
+[   426s]     trecho escuro em 14s, tentando mais adiante
+[   436s]     trecho escuro em 8s, tentando mais adiante
+[   446s]     trecho escuro em 8s, tentando mais adiante
+[   452s]   v_swamp / pexels: 0 filmes para 'swamp forest'
+[   453s]   v_swamp / pixabay: 12 filmes para 'swamp forest'
+[   454s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=swamp+forest&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444a
+[   454s]   v_swamp / coverr: 0 filmes para 'swamp forest'
+[   456s]     trecho escuro em 9s, tentando mais adiante
+[   457s]     trecho escuro em 14s, tentando mais adiante
+[   471s]     + 1_pixabay.mp4 de 'hippos, hippotamus, swamp, mammal, nature, forest, jungle' a partir de 0s
+[   473s]     trecho escuro em 8s, tentando mais adiante
+[   473s]     trecho escuro em 9s, tentando mais adiante
+[   483s]     + 2_pixabay.mp4 de 'forest, grass, lake, trees, mountain, mountains, nature, out' a partir de 9s
+[   491s]     + 3_pixabay.mp4 de 'waldsee, forest, lake, web, boardwalk, swamp, trees, pond, g' a partir de 11s
+[   491s]     trecho escuro em 0s, tentando mais adiante
+[   492s]     trecho escuro em 0s, tentando mais adiante
+[   493s]     trecho escuro em 8s, tentando mais adiante
+[   493s]     trecho escuro em 8s, tentando mais adiante
+[   501s]     + 4_pixabay.mp4 de "river, forest, swamp, water, reflection, summer, bird's eye " a partir de 11s
+[   501s]   v_dragonfly / pexels: 0 filmes para 'dragonfly'
+[   502s]   v_dragonfly / pixabay: 12 filmes para 'dragonfly'
+[   503s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=dragonfly&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85
+[   503s]   v_dragonfly / coverr: 0 filmes para 'dragonfly'
+[   503s]     trecho escuro em 0s, tentando mais adiante
+[   511s]     + 1_pixabay.mp4 de 'dragonfly, insect, animal, branch, close up, dragonfly wings' a partir de 0s
+[   518s]     + 2_pixabay.mp4 de 'dragonfly, insect, pond, nature' a partir de 14s
+[   525s]     + 3_pixabay.mp4 de 'dragonfly, insect, macro, nature, yellow winged darter drago' a partir de 8s
+[   525s]   v_millipede / pexels: 0 filmes para 'millipede'
+[   526s]   v_millipede / pixabay: 9 filmes para 'millipede'
+[   527s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=millipede&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85
+[   527s]   v_millipede / coverr: 0 filmes para 'millipede'
+[   534s]     + 1_pixabay.mp4 de 'millipede, waking, forest, ground, zoom, dirt, brown, sunny' a partir de 14s
+[   547s]     trecho escuro em 10s, tentando mais adiante
+[   560s]     trecho escuro em 16s, tentando mais adiante
+[   579s]     + 2_pixabay.mp4 de 'millipede, insect, moving, legs, stone, ants, hide, bright, ' a partir de 8s
+[   585s]     + 3_pixabay.mp4 de 'mushroom, millipede, insects, crawling, fungi, puff, nature,' a partir de 9s
+[   585s]   v_volcano / pexels: 0 filmes para 'volcano eruption'
+[   586s]   v_volcano / pixabay: 12 filmes para 'volcano eruption'
+[   587s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=volcano+eruption&page_size=8&urls=true&api_key=e46f0775805a10c2dd3
+[   587s]   v_volcano / coverr: 0 filmes para 'volcano eruption'
+[   599s]     + 1_pixabay.mp4 de 'volcano, iceland, icelandic, eruption, smoking, fire, lava, ' a partir de 8s
+[   615s]     + 2_pixabay.mp4 de 'volcano, smoke, fire, heat, flame, burn, geology, volcanolog' a partir de 8s
+[   626s]     + 3_pixabay.mp4 de 'volcano, eruption, fire, heat, burn, volcanic, iceland, natu' a partir de 8s
+[   627s]     trecho escuro em 8s, tentando mais adiante
+[   627s]     trecho escuro em 12s, tentando mais adiante
+[   637s]     + 4_pixabay.mp4 de 'lightning, eruption, reef, volcano, aerial, island, lava, as' a partir de 16s
+[   637s]   v_fern / pexels: 0 filmes para 'fern forest'
+[   638s]   v_fern / pixabay: 10 filmes para 'fern forest'
+[   639s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=fern+forest&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa
+[   639s]   v_fern / coverr: 0 filmes para 'fern forest'
+[   648s]     + 1_pixabay.mp4 de 'fern, fern leaf, worm fern, dancing leaves, forest plant, fe' a partir de 9s
+[   655s]     + 2_pixabay.mp4 de 'fern, forest, summer, green, wind, nature, landscape' a partir de 0s
+[   676s]     + 3_pixabay.mp4 de 'waterfalls, river, forest, green, rainforest, peaceful, calm' a partir de 0s
+[   676s]   v_crocodile / pexels: 0 filmes para 'crocodile'
+[   677s]   v_crocodile / pixabay: 12 filmes para 'crocodile'
+[   678s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=crocodile&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85
+[   678s]   v_crocodile / coverr: 0 filmes para 'crocodile'
+[   678s]     trecho escuro em 0s, tentando mais adiante
+[   679s]     trecho escuro em 0s, tentando mais adiante
+[   692s]     + 1_pixabay.mp4 de 'crocodile, animal, wildlife, nature' a partir de 0s
+[   706s]     + 2_pixabay.mp4 de 'crocodile, alligator, reptile, wild, wildlife, predator, gre' a partir de 8s
+[   707s]     trecho escuro em 0s, tentando mais adiante
+[   707s]     trecho escuro em 0s, tentando mais adiante
+[   720s]     + 3_pixabay.mp4 de 'crocodile, zoo, basel, visitors, dangerous, write, swim' a partir de 0s
+[   721s]     trecho escuro em 8s, tentando mais adiante
+[   726s]     trecho escuro em 8s, tentando mais adiante
+[   743s]     trecho escuro em 8s, tentando mais adiante
+[   756s]     trecho escuro em 8s, tentando mais adiante
+[   778s]     + 4_pixabay.mp4 de 'crocodile, swim, dandruff, reptile, teeth, dangerous, water,' a partir de 13s
+[   778s]   v_snake / pexels: 0 filmes para 'anaconda'
+[   779s]   v_snake / pixabay: 1 filmes para 'anaconda'
+[   780s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=anaconda&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e
+[   780s]   v_snake / coverr: 0 filmes para 'anaconda'
+[   789s]     + 1_pixabay.mp4 de 'snake, reptile, scales, animal, python, viper, anaconda, poi' a partir de 0s
+[   789s]   v_snake / pexels: 0 filmes para 'python snake'
+[   790s]   v_snake / pixabay: 12 filmes para 'python snake'
+[   791s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=python+snake&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444a
+[   791s]   v_snake / coverr: 0 filmes para 'python snake'
+[   798s]     + 2_pixabay.mp4 de 'python, green python, green tree python, snake, reptile, gre' a partir de 8s
+[   806s]     + 3_pixabay.mp4 de 'snake, python, rare snake, rough-scaled python, reptile, sca' a partir de 10s
+[   816s]     + 4_pixabay.mp4 de 'snake, python, serpent, reptile, animal, wildlife' a partir de 8s
+[   816s]   v_ostrich / pexels: 0 filmes para 'cassowary'
+[   817s]   v_ostrich / pixabay: 0 filmes para 'cassowary'
+[   818s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=cassowary&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85
+[   818s]   v_ostrich / coverr: 0 filmes para 'cassowary'
+[   818s]   v_ostrich / pexels: 0 filmes para 'emu'
+[   819s]   v_ostrich / pixabay: 9 filmes para 'emu'
+[   820s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=emu&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e04d8a
+[   820s]   v_ostrich / coverr: 0 filmes para 'emu'
+[   839s]     + 1_pixabay.mp4 de 'bird, nandu, emu, plumage, flightless, pond, water, animal, ' a partir de 8s
+[   849s]     + 2_pixabay.mp4 de 'bird, ostrich, emu, head, animal, flightless bird, eyes, vie' a partir de 0s
+[   853s]     trecho escuro em 8s, tentando mais adiante
+[   858s]     trecho escuro em 8s, tentando mais adiante
+[   862s]     trecho escuro em 0s, tentando mais adiante
+[   862s]     trecho escuro em 0s, tentando mais adiante
+[   868s]     + 3_pixabay.mp4 de 'bird, emu, eyes, animal, close up, ornithology, portrait' a partir de 0s
+[   873s]     + 4_pixabay.mp4 de 'bird, rhea bird, ostrich, flightless, emu, head, invoice, pl' a partir de 8s
+[   873s]   v_bear / pexels: 0 filmes para 'brown bear'
+[   875s]   v_bear / pixabay: 12 filmes para 'brown bear'
+[   875s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=brown+bear&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa8
+[   875s]   v_bear / coverr: 0 filmes para 'brown bear'
+[   889s]     + 1_pixabay.mp4 de 'bear, brown bear, furry, predator, mammal, wildlife' a partir de 8s
+[   898s]     + 2_pixabay.mp4 de 'bear, brown, brown bear, nature, animals, mammal, slow motio' a partir de 18s
+[   907s]     + 3_pixabay.mp4 de 'brown bear, bear, nature, animal, forest, wild animal, wildl' a partir de 26s
+[   907s]   v_wolf / pexels: 0 filmes para 'wolf pack snow'
+[   909s]   v_wolf / pixabay: 11 filmes para 'wolf pack snow'
+[   910s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=wolf+pack+snow&page_size=8&urls=true&api_key=e46f0775805a10c2dd344
+[   910s]   v_wolf / coverr: 0 filmes para 'wolf pack snow'
+[   916s]     + 1_pixabay.mp4 de 'wolves, arctic wolves, arctic, white, fur, predator, wild, h' a partir de 11s
+[   916s]     trecho escuro em 8s, tentando mais adiante
+[   917s]     trecho escuro em 13s, tentando mais adiante
+[   918s]     trecho escuro em 8s, tentando mais adiante
+[   918s]     trecho escuro em 8s, tentando mais adiante
+[   928s]     + 2_pixabay.mp4 de 'wolf, predator, dangerous, pack, group, wildlife, european w' a partir de 8s
+[   934s]     + 3_pixabay.mp4 de 'wolf, predator, dangerous, pack, zoo hague, wildlife, slow m' a partir de 12s
+[   935s]     trecho escuro em 0s, tentando mais adiante
+[   935s]     trecho escuro em 0s, tentando mais adiante
+[   941s]     + 4_pixabay.mp4 de 'wolf, arctic wolf, wildlife, predator, wilderness, pack, end' a partir de 0s
+[   941s]   v_fire / pexels: 0 filmes para 'campfire night'
+[   942s]   v_fire / pixabay: 10 filmes para 'campfire night'
+[   943s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=campfire+night&page_size=8&urls=true&api_key=e46f0775805a10c2dd344
+[   943s]   v_fire / coverr: 0 filmes para 'campfire night'
+[   955s]     trecho escuro em 8s, tentando mais adiante
+[   966s]     trecho escuro em 8s, tentando mais adiante
+[   973s]     + 1_pixabay.mp4 de 'campfire, flames, night, fire, camp, burn, burning, wood, ou' a partir de 10s
+[   977s]     trecho escuro em 8s, tentando mais adiante
+[   982s]     trecho escuro em 8s, tentando mais adiante
+[   993s]     + 2_pixabay.mp4 de 'cabin, night, pond, glowing, lights, deer, owl, frog, campfi' a partir de 15s
+[   993s]   v_jungle / pexels: 0 filmes para 'rainforest'
+[   994s]   v_jungle / pixabay: 12 filmes para 'rainforest'
+[   995s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=rainforest&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa8
+[   995s]   v_jungle / coverr: 0 filmes para 'rainforest'
+[  1007s]     + 1_pixabay.mp4 de 'amazon, forest, rainforest, jungle, brazil, nature' a partir de 8s
+[  1020s]     + 2_pixabay.mp4 de 'road, trees, forest, rainforest, travel, aerial, arunachal p' a partir de 10s
+[  1033s]     trecho escuro em 8s, tentando mais adiante
+[  1045s]     trecho escuro em 8s, tentando mais adiante
+[  1070s]     trecho escuro em 8s, tentando mais adiante
+[  1087s]     trecho escuro em 8s, tentando mais adiante
+[  1096s]     + 3_pixabay.mp4 de 'rainforest, clouds, nature' a partir de 10s
+[  1119s]     + 4_pixabay.mp4 de 'waterfall, stream, brook, forest, falls, green, rainforest, ' a partir de 8s
+[  1119s]   v_desert / pexels: 0 filmes para 'red rock desert'
+[  1120s]   v_desert / pixabay: 11 filmes para 'red rock desert'
+[  1121s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=red+rock+desert&page_size=8&urls=true&api_key=e46f0775805a10c2dd34
+[  1121s]   v_desert / coverr: 0 filmes para 'red rock desert'
+[  1125s]     + 1_pixabay.mp4 de 'road to nowhere, desert, alone, car, driving, arizona, utah,' a partir de 8s
+[  1132s]     + 2_pixabay.mp4 de 'monument valley, desert, usa, background, beautiful wallpape' a partir de 26s
+[  1140s]     + 3_pixabay.mp4 de 'canyon, arch, valley, red rocks, desert, brazil, pau-brasil' a partir de 9s
+[  1140s]   v_snow / pexels: 0 filmes para 'snow forest'
+[  1141s]   v_snow / pixabay: 12 filmes para 'snow forest'
+[  1142s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=snow+forest&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa
+[  1142s]   v_snow / coverr: 0 filmes para 'snow forest'
+[  1149s]     + 1_pixabay.mp4 de 'pine, forest, snow, winter, snowfall' a partir de 16s
+[  1155s]     + 2_pixabay.mp4 de 'mountains, trees, woods, forest, poland, winter, tourism, co' a partir de 0s
+[  1170s]     + 3_pixabay.mp4 de 'trees, forest, snow, track, winter, dji, drone, sky, nature,' a partir de 12s
