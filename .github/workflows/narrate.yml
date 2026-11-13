@@ -87,7 +87,7 @@ jobs:
           mkdir -p "../out/${{ inputs.episode }}"
           set -o pipefail
           L="$(cat episodes/${{ inputs.episode }}/lang 2>/dev/null || echo en)"
-          if [ "$L" != "en" ] && [ "${{ inputs.provider }}" != "eleven" ]; then
+          if [ "$L" != "en" ] && [ "${{ inputs.provider }}" != "eleven" ] && [ ! -f "episodes/${{ inputs.episode }}/tts_whole" ]; then
             # canal em português: narração estável, parágrafo a parágrafo, com conferência de bugs e de tom
             python3 agent/tts_stable.py "${{ inputs.episode }}" --out ../out --only "${{ inputs.only }}" --lang "$L" $(cat episodes/${{ inputs.episode }}/tts_args 2>/dev/null) 2>&1 | tee "../out/${{ inputs.episode }}/tts_log.txt"
           else
@@ -150,6 +150,8 @@ jobs:
           if [ "$L" = "en" ]; then exit 0; fi
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
           [ -f "../out/$EP/tom_corrigido.md" ] && { echo "tom já corrigido"; exit 0; }
+          # capítulo gerado inteiro (tts_whole): entonação contínua, sem mexer no tom (o ajuste de tom deixa a voz robótica)
+          [ -f "episodes/$EP/tts_whole" ] && { echo "capítulo inteiro: sem ajuste de tom"; exit 0; }
           python3 agent/fix_tone.py "$EP" "../out/$EP" $(cat episodes/$EP/tone_args 2>/dev/null)
       - name: Publicar
         if: ${{ !cancelled() && inputs.voice_test == '' }}
