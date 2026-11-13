@@ -68,7 +68,7 @@ def fingerprint(path):
 
 def reviewed(path):
     r = CFG.get("reviewed")
-    return r is None or path in r or path.startswith("ai/")
+    return r is None or path in r or (path.startswith("ai/") and not CFG.get("review_ai"))
 
 
 def claim(path):

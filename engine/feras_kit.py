@@ -16,6 +16,7 @@ K.SFX.update({n: (f"sfx/{n}.wav", g) for n, g in {
     "reverse": -21, "impact": -15, "thud": -16, "bell": -20, "tick": -22, "shutter": -18, "stinger": -17, "win": -18,
     "heartbeat": -15, "growl": -18, "snow": -24}.items()})
 fx = K.fx
+A.CFG["review_ai"] = True   # owner rule (13/11/2026): AI images too only after review (edit/reviewed.json)
 
 # transition kind -> sounds that fit it (rotated)
 TRANS_SFX = {"fade": [None, "whoosh_c", None], "slide": ["swipe", "whoosh_b"], "zoom": ["whoosh_a", "whoosh_low"],
