@@ -295,6 +295,391 @@
    "id": "ai_fossil_footprint",
    "prompt": "Dinosaur footprints fossilized in rock next to a modern dog paw print in sand",
    "tier": "cheap"
+  },
+  {
+   "id": "ai_dogs_walk_ferns",
+   "prompt": "a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears) and a fawn Belgian Malinois dog (lean, short fawn coat, black face mask, upright ears) walking side by side through giant ferns, two separate dogs",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_dogs_sit_rock",
+   "prompt": "a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears) and a fawn Belgian Malinois dog (lean, short fawn coat, black face mask, upright ears) sitting on a rock at sunset, prehistoric valley behind, two separate dogs",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_dogs_run_plain",
+   "prompt": "a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears) and a fawn Belgian Malinois dog (lean, short fawn coat, black face mask, upright ears) running across a dry plain, dust, two separate dogs",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_dogs_drink_stream",
+   "prompt": "a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears) and a fawn Belgian Malinois dog (lean, short fawn coat, black face mask, upright ears) drinking from a clear stream, two separate dogs",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_dogs_alert_night",
+   "prompt": "a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears) and a fawn Belgian Malinois dog (lean, short fawn coat, black face mask, upright ears) alert at night, moonlight, ears up, two separate dogs",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_dogs_mist",
+   "prompt": "a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears) and a fawn Belgian Malinois dog (lean, short fawn coat, black face mask, upright ears) emerging from morning mist in a forest, two separate dogs",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_dogs_back_view",
+   "prompt": "Back view of a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears) and a fawn Belgian Malinois dog (lean, short fawn coat, black face mask, upright ears) looking at a prehistoric valley with volcanoes, two separate dogs",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_dogs_close_faces",
+   "prompt": "Close-up of the faces of a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears) and a fawn Belgian Malinois dog (lean, short fawn coat, black face mask, upright ears) side by side, two separate dogs",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_dogs_rain",
+   "prompt": "a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears) and a fawn Belgian Malinois dog (lean, short fawn coat, black face mask, upright ears) standing in heavy rain in a jungle, two separate dogs",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_dogs_tracks",
+   "prompt": "Two sets of dog paw prints in mud next to a giant three-toed dinosaur footprint, empty landscape, no animals at all",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_gs_run",
+   "prompt": "a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears) running fast, side view, dust, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_gs_close_eyes",
+   "prompt": "Extreme close-up of the eyes of a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears), only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_gs_alert",
+   "prompt": "a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears) standing alert, ears up, in tall grass, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_gs_coat",
+   "prompt": "Close-up of the thick double coat of a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears), sweat and heat haze, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_ml_run",
+   "prompt": "a fawn Belgian Malinois dog (lean, short fawn coat, black face mask, upright ears) sprinting at full speed, side view, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_ml_alert",
+   "prompt": "a fawn Belgian Malinois dog (lean, short fawn coat, black face mask, upright ears) crouching alert in ferns, ears up, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_carbon_trees",
+   "prompt": "Giant Lepidodendron scale trees with diamond-patterned bark in a misty swamp, empty landscape, no animals at all",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_carbon_ferns",
+   "prompt": "Dense tree ferns and horsetails in a humid Carboniferous swamp, shafts of light, empty landscape, no animals at all",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_carbon_water",
+   "prompt": "Dark still swamp water reflecting giant club moss trees, empty landscape, no animals at all",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_permian_dunes",
+   "prompt": "Red sand dunes and dry riverbeds under a hazy orange sky, Permian period, empty landscape, no animals at all",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_permian_conifers",
+   "prompt": "Sparse primitive conifers on dry red rocky ground, Permian period, empty landscape, no animals at all",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_inostrancevia_walk",
+   "prompt": "Side view of an Inostrancevia gorgonopsid (mammal-like reptile on four legs, smooth grey-brown skin, big head with two long sabre canines) walking, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_inostrancevia_hide",
+   "prompt": "An Inostrancevia gorgonopsid half hidden among ferns, watching, sabre canines visible, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_permian_river",
+   "prompt": "A muddy river winding through a dry Permian floodplain at dusk, empty landscape, no animals at all",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_triassic_forest",
+   "prompt": "A Triassic forest of early conifers and cycads, warm light, empty landscape, no animals at all",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_triassic_river",
+   "prompt": "A Triassic river with sandy banks and horsetails, empty landscape, no animals at all",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_coelophysis_head",
+   "prompt": "Close-up of the head of a Coelophysis, slender theropod with small sharp teeth, reptile skin, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_coelophysis_run",
+   "prompt": "A slender Coelophysis dinosaur running on two legs, long neck and tail, side view, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_postosuchus_walk",
+   "prompt": "A Postosuchus, crocodile-like archosaur walking upright on straight legs, side view, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_triassic_dawn",
+   "prompt": "Dawn over a dry Triassic plain with mesas, empty landscape, no animals at all",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_triassic_storm",
+   "prompt": "Storm clouds over a Triassic desert, empty landscape, no animals at all",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_jurassic_ferns",
+   "prompt": "A Jurassic forest floor with giant ferns and cycads, empty landscape, no animals at all",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_jurassic_river",
+   "prompt": "A wide river in a Jurassic conifer forest, mist, empty landscape, no animals at all",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_allosaurus_head",
+   "prompt": "Close-up of the head of an Allosaurus with small horns above the eyes, mouth closed, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_allosaurus_walk",
+   "prompt": "An Allosaurus walking through a clearing, side view, full body, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_sauropod_far",
+   "prompt": "A long-necked sauropod far away above the trees of a Jurassic forest, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_jurassic_sunset",
+   "prompt": "Sunset over a Jurassic floodplain with conifers, empty landscape, no animals at all",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_allosaurus_footprint",
+   "prompt": "A large three-toed theropod footprint in mud, empty landscape, no animals at all",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_trex_walk",
+   "prompt": "A Tyrannosaurus rex walking slowly across a Cretaceous plain, side view, full body, heavy body, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_trex_roar",
+   "prompt": "A Tyrannosaurus rex roaring, front three-quarter view, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_cretaceous_plain",
+   "prompt": "A Cretaceous floodplain with early flowering plants and a volcano, empty landscape, no animals at all",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_cretaceous_river",
+   "prompt": "A Cretaceous river at golden hour, empty landscape, no animals at all",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_paleocene_river2",
+   "prompt": "A wide muddy river in a hot steaming rainforest, heat haze, empty landscape, no animals at all",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_paleocene_canopy",
+   "prompt": "Dense humid rainforest canopy with mist rising, empty landscape, no animals at all",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_titanoboa_head",
+   "prompt": "Close-up of the head of a giant Titanoboa snake rising from muddy water, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_titanoboa_swim",
+   "prompt": "A giant olive-green Titanoboa snake swimming in a muddy jungle river, huge body, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_paleocene_bank",
+   "prompt": "A muddy riverbank in a tropical jungle with ripples in the water, empty landscape, no animals at all",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_jungle_heat",
+   "prompt": "Heat shimmer over a steaming tropical swamp at midday, empty landscape, no animals at all",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_ml_shade",
+   "prompt": "a fawn Belgian Malinois dog (lean, short fawn coat, black face mask, upright ears) resting calmly in the shade of a big tree in a hot jungle, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_miocene_plain",
+   "prompt": "An open Miocene savanna with acacia-like trees, golden light, empty landscape, no animals at all",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_miocene_river",
+   "prompt": "A river crossing a Miocene grassland, empty landscape, no animals at all",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_amphicyon_head",
+   "prompt": "Close-up of the head of an Amphicyon bear-dog, a carnivore with a bear-like body and a wolf-like snout, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_amphicyon_walk",
+   "prompt": "An Amphicyon bear-dog walking through tall grass, side view, heavy body, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_amphicyon_ridge",
+   "prompt": "An Amphicyon bear-dog standing on a ridge at sunset, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_gs_bark2",
+   "prompt": "a black-and-tan German Shepherd dog (large, thick double coat, black saddle, tan legs, upright ears) barking loudly in a grassland, side view, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_miocene_dusk",
+   "prompt": "Dusk over an open grassland with scattered trees, empty landscape, no animals at all",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_terrorbird_walk",
+   "prompt": "A Paraphysornis terror bird, flightless bird with a huge hooked beak, walking through tall grass, side view, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_terrorbird_strike",
+   "prompt": "A terror bird striking down with its huge hooked beak at the ground, motion, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_terrorbird_legs",
+   "prompt": "Close-up of the powerful scaled legs and claws of a terror bird, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_brazil_lake",
+   "prompt": "An ancient lake in a tropical savanna landscape, palm trees, millions of years ago, empty landscape, no animals at all",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_brazil_savanna",
+   "prompt": "A tropical savanna with scattered trees and red soil under a blue sky, empty landscape, no animals at all",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_terrorbird_ridge",
+   "prompt": "A terror bird silhouetted on a ridge against the sunset, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_terrorbird_eye",
+   "prompt": "Extreme close-up of the eye of a terror bird, feathered face, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_iceage_forest",
+   "prompt": "A snowy Ice Age pine forest at dusk, empty landscape, no animals at all",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_iceage_blizzard",
+   "prompt": "A blizzard sweeping over a frozen plain, empty landscape, no animals at all",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_direwolf_head",
+   "prompt": "Close-up of the head of a dire wolf, broad heavy skull, grey fur, snow, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_direwolf_howl",
+   "prompt": "A dire wolf howling on a snowy hill, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_direwolf_run",
+   "prompt": "A dire wolf running through deep snow, side view, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_direwolf_tracks",
+   "prompt": "Large wolf tracks in deep snow, empty landscape, no animals at all",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_iceage_sunrise",
+   "prompt": "Sunrise over a frozen Ice Age steppe, empty landscape, no animals at all",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_cave_entrance",
+   "prompt": "A cave entrance in a snowy hill at dusk with a small fire glowing inside, empty landscape, no animals at all",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_wolf_cave",
+   "prompt": "A grey wolf lying calmly at the entrance of a cave in the snow, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_hunter_back_wolf",
+   "prompt": "A human hunter seen from behind wearing furs, walking with a grey wolf beside him in the snow, no face visible",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_puppy_wolf",
+   "prompt": "A grey wolf pup sitting in the snow, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_modern_dogs_field",
+   "prompt": "A German Shepherd and a Belgian Malinois running together in a modern green field, two separate dogs",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_cave_painting_dog",
+   "prompt": "A prehistoric cave painting of a dog-like animal and a human, ochre on rock, empty landscape, no animals at all",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_dog_sleep_fire",
+   "prompt": "A German Shepherd sleeping by a fireplace in a cozy house, warm light, only this one animal in the image",
+   "tier": "cheap"
   }
  ]
 }

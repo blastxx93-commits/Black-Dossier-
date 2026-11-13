@@ -12,20 +12,20 @@ from feras_kit import foot, label, serif, round_card, versus, verdict, score, me
 
 ai = lambda *ids: ["ai:ai_" + i for i in ids]
 PHOTOS = {
-    "caes": ai("dogs_portal", "dogs_final_look", "dogs_hide_ferns", "dogs_nose_wind", "dogs_snow", "dog_family") + ["p_gs", "p_malinois"],
-    "pastor": ai("gs_portrait", "gs_bark", "gs_permian", "gs_sniff_smoke", "gs_panting_heat") + ["p_gs"],
-    "malinois": ai("ml_portrait", "ml_leap", "ml_jungle_heat") + ["p_malinois"],
-    "carbon": ai("carbon_swamp", "carbon_fire", "meganeura", "arthropleura", "dogs_meganeura", "dogs_arthropleura") + ["p_meganeura", "p_arthropleura"],
-    "permian": ai("permian_desert", "inostrancevia_portrait", "inostrancevia_teeth", "inostrancevia_ambush", "extinction_volcano") + ["p_inostrancevia"],
-    "triassic": ai("triassic_plain", "coelophysis", "dogs_coelophysis", "postosuchus_portrait") + ["p_coelophysis"],
-    "jurassic": ai("jurassic_forest", "allosaurus_portrait", "allosaurus_dogs", "dilophosaurus") + ["p_allosaurus"],
-    "cretaceous": ai("trex_vs_dogs", "trex_portrait", "trex_head", "trex_chase", "velociraptor", "velociraptor_vs_gs", "cretaceous_forest", "asteroid")
+    "caes": ai("dogs_portal", "dogs_final_look", "dogs_hide_ferns", "dogs_nose_wind", "dogs_snow", "dog_family", "dogs_walk_ferns", "dogs_sit_rock", "dogs_run_plain", "dogs_drink_stream", "dogs_alert_night", "dogs_mist", "dogs_back_view", "dogs_close_faces", "dogs_rain", "dogs_tracks") + ["p_gs", "p_malinois"],
+    "pastor": ai("gs_portrait", "gs_bark", "gs_permian", "gs_sniff_smoke", "gs_panting_heat", "gs_run", "gs_close_eyes", "gs_alert", "gs_coat") + ["p_gs"],
+    "malinois": ai("ml_portrait", "ml_leap", "ml_jungle_heat", "ml_run", "ml_alert") + ["p_malinois"],
+    "carbon": ai("carbon_swamp", "carbon_fire", "meganeura", "arthropleura", "dogs_meganeura", "dogs_arthropleura", "carbon_trees", "carbon_ferns", "carbon_water") + ["p_meganeura", "p_arthropleura"],
+    "permian": ai("permian_desert", "inostrancevia_portrait", "inostrancevia_teeth", "inostrancevia_ambush", "extinction_volcano", "permian_dunes", "permian_conifers", "inostrancevia_walk", "inostrancevia_hide", "permian_river") + ["p_inostrancevia"],
+    "triassic": ai("triassic_plain", "coelophysis", "dogs_coelophysis", "postosuchus_portrait", "triassic_forest", "triassic_river", "coelophysis_head", "coelophysis_run", "postosuchus_walk", "triassic_dawn", "triassic_storm") + ["p_coelophysis"],
+    "jurassic": ai("jurassic_forest", "allosaurus_portrait", "allosaurus_dogs", "dilophosaurus", "jurassic_ferns", "jurassic_river", "allosaurus_head", "allosaurus_walk", "sauropod_far", "jurassic_sunset", "allosaurus_footprint") + ["p_allosaurus"],
+    "cretaceous": ai("trex_vs_dogs", "trex_portrait", "trex_head", "trex_chase", "velociraptor", "velociraptor_vs_gs", "cretaceous_forest", "asteroid", "trex_walk", "trex_roar", "cretaceous_plain", "cretaceous_river")
                   + ["p_trex", "p_velociraptor"],
-    "paleocene": ai("paleocene_jungle", "titanoboa", "titanoboa_river") + ["p_titanoboa"],
-    "miocene": ai("miocene_grassland", "amphicyon", "amphicyon_dogs") + ["p_amphicyon"],
-    "terror": ai("terrorbird", "terrorbird_head", "terrorbird_dogs") + ["p_terrorbird"],
-    "iceage": ai("iceage_snow", "direwolf", "direwolf_pack", "greywolf") + ["p_dire_wolf"],
-    "final": ai("wolf_human_fire", "human_wolf_hand", "fossil_footprint", "dog_family"),
+    "paleocene": ai("paleocene_jungle", "titanoboa", "titanoboa_river", "paleocene_river2", "paleocene_canopy", "titanoboa_head", "titanoboa_swim", "paleocene_bank", "jungle_heat", "ml_shade") + ["p_titanoboa"],
+    "miocene": ai("miocene_grassland", "amphicyon", "amphicyon_dogs", "miocene_plain", "miocene_river", "amphicyon_head", "amphicyon_walk", "amphicyon_ridge", "gs_bark2", "miocene_dusk") + ["p_amphicyon"],
+    "terror": ai("terrorbird", "terrorbird_head", "terrorbird_dogs", "terrorbird_walk", "terrorbird_strike", "terrorbird_legs", "brazil_lake", "brazil_savanna", "terrorbird_ridge", "terrorbird_eye") + ["p_terrorbird"],
+    "iceage": ai("iceage_snow", "direwolf", "direwolf_pack", "greywolf", "iceage_forest", "iceage_blizzard", "direwolf_head", "direwolf_howl", "direwolf_run", "direwolf_tracks", "iceage_sunrise") + ["p_dire_wolf"],
+    "final": ai("wolf_human_fire", "human_wolf_hand", "fossil_footprint", "dog_family", "cave_entrance", "wolf_cave", "hunter_back_wolf", "puppy_wolf", "modern_dogs_field", "cave_painting_dog", "dog_sleep_fire"),
 }
 CLIPS = json.load(open(os.path.join(HERE, "clips.json")))
 CLIPS = {"caes": CLIPS["gs"] + CLIPS["ml"] + CLIPS["dogs"], "pastor": CLIPS["gs"], "malinois": CLIPS["ml"], "carbon": CLIPS["carbon"],
@@ -35,7 +35,7 @@ FALLBACK = {k: ["caes"] for k in PHOTOS}
 FALLBACK.update({"caes": ["pastor", "malinois"], "pastor": ["caes"], "malinois": ["caes"], "final": ["caes", "iceage"]})
 A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, [], FALLBACK, ["caes"])
 A.CLIP_TARGET = 0.30
-A.MAX_HOLD, A.KEEP = 5.6, 3.4
+A.MAX_HOLD, A.KEEP = 6.2, 3.8
 F.HUD_TOTAL[0] = 9
 ch = A.ch
 chapters = []
