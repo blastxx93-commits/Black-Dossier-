@@ -4,14 +4,14 @@
   "img": "a/ai/ai_land_14_1.jpg",
   "kind": "frase",
   "id": "hf01_frase",
-  "dur": 5.16
+  "dur": 4.88
  },
  {
   "text": "Onde *tudo* começou.",
   "img": "a/ai/ai_land_01_1.jpg",
   "kind": "frase",
   "id": "hf02_frase",
-  "dur": 3.12
+  "dur": 3.6
  },
  {
   "img": "a/ai/ai_land_02_1.jpg",
@@ -32,7 +32,7 @@
   "blurin": true,
   "kind": "titulo",
   "id": "hf04_titulo",
-  "dur": 6.861
+  "dur": 7.236
  },
  {
   "num": "01",
@@ -41,7 +41,7 @@
   "move": "push",
   "kind": "capitulo",
   "id": "hf05_capitulo",
-  "dur": 6.48
+  "dur": 6.26
  },
  {
   "text": "Os dinossauros *não mandavam.*",
@@ -57,7 +57,7 @@
   "move": "push",
   "kind": "capitulo",
   "id": "hf07_capitulo",
-  "dur": 3.26
+  "dur": 3.18
  },
  {
   "img": "a/ai/ai_hyper_herd_1.jpg",
@@ -66,7 +66,7 @@
   "sci": "Hyperodapedon · rincossauro",
   "kind": "rotulo",
   "id": "hf08_rotulo",
-  "dur": 4.915
+  "dur": 4.99
  },
  {
   "img": "a/ai/ai_fauna_16_1.jpg",
@@ -106,14 +106,14 @@
   ],
   "kind": "escala",
   "id": "hf11_escala",
-  "dur": 6.4
+  "dur": 6.58
  },
  {
   "text": "Muitas vezes, você era a *caça.*",
   "img": "a/ai/ai_fauna_10_1.jpg",
   "kind": "frase",
   "id": "hf12_frase",
-  "dur": 3.816
+  "dur": 4.106
  },
  {
   "num": "03",
@@ -132,7 +132,7 @@
   "lat": -29.69,
   "kind": "mapa",
   "id": "hf14_mapa",
-  "dur": 8.14
+  "dur": 9.46
  },
  {
   "img": "a/p_colbert/1_commons.jpg",
@@ -157,7 +157,7 @@
   "img": "a/p_cruzeiro/1_pixabay.jpg",
   "kind": "frase",
   "id": "hf17_frase",
-  "dur": 5.81
+  "dur": 6.26
  },
  {
   "num": "04",
@@ -166,7 +166,7 @@
   "move": "push",
   "kind": "capitulo",
   "id": "hf18_capitulo",
-  "dur": 3.54
+  "dur": 3.7
  },
  {
   "img": "a/ai/ai_fauna_07_1.jpg",
@@ -222,7 +222,7 @@
   "sci": "Saturnalia tupiniquim",
   "kind": "rotulo",
   "id": "hf22_rotulo",
-  "dur": 2.2
+  "dur": 2.52
  },
  {
   "text": "Os maiores começaram do tamanho de um *cachorro.*",
@@ -238,7 +238,7 @@
   "move": "push",
   "kind": "capitulo",
   "id": "hf24_capitulo",
-  "dur": 6.42
+  "dur": 5.4
  },
  {
   "img": "a/ai/ai_fauna_24_1.jpg",
@@ -247,14 +247,14 @@
   "sci": "Buriolestes schultzi",
   "kind": "rotulo",
   "id": "hf25_rotulo",
-  "dur": 3.19
+  "dur": 3.84
  },
  {
   "text": "Ele era *carnívoro.*",
   "img": "a/p_buriolestes/2_commons.jpg",
   "kind": "frase",
   "id": "hf26_frase",
-  "dur": 2.34
+  "dur": 2.06
  },
  {
   "img": "a/p_ixalerpeton/1_commons.jpg",
@@ -362,7 +362,7 @@
   "sub": "Rio Grande do Sul · Triássico",
   "kind": "linha",
   "id": "hf36_linha",
-  "dur": 7.85
+  "dur": 7.44
  },
  {
   "img": "a/p_nyasa/1_commons.jpg",
@@ -371,7 +371,7 @@
   "sci": "Nyasasaurus parringtoni",
   "kind": "rotulo",
   "id": "hf37_rotulo",
-  "dur": 5.66
+  "dur": 6.16
  },
  {
   "num": "09",
@@ -387,7 +387,7 @@
   "img": "a/ai/ai_more2_st_08_1.jpg",
   "kind": "frase",
   "id": "hf39_frase",
-  "dur": 2.407
+  "dur": 2.83
  },
  {
   "img": "a/ai/ai_dino_takeover_1.jpg",
@@ -404,7 +404,7 @@
   "move": "push",
   "kind": "capitulo",
   "id": "hf41_capitulo",
-  "dur": 6.36
+  "dur": 5.4
  },
  {
   "img": "a/p_rs_landscape/2_unsplash.jpg",
