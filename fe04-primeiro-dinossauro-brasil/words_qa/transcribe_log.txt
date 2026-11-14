@@ -1,28 +1,28 @@
-total 4236
-drwxr-xr-x  2 runner runner   4096 Nov 14 15:24 .
-drwxr-xr-x 39 runner runner   4096 Nov 14 15:24 ..
--rw-r--r--  1 runner runner 367244 Nov 14 15:24 ch00_hook.mp3
--rw-r--r--  1 runner runner 308924 Nov 14 15:24 ch01.mp3
--rw-r--r--  1 runner runner 383228 Nov 14 15:24 ch02.mp3
--rw-r--r--  1 runner runner 388628 Nov 14 15:24 ch03.mp3
--rw-r--r--  1 runner runner 381068 Nov 14 15:24 ch04.mp3
--rw-r--r--  1 runner runner 301580 Nov 14 15:24 ch05.mp3
--rw-r--r--  1 runner runner 329876 Nov 14 15:24 ch06.mp3
--rw-r--r--  1 runner runner 348884 Nov 14 15:24 ch07.mp3
--rw-r--r--  1 runner runner 339812 Nov 14 15:24 ch08.mp3
--rw-r--r--  1 runner runner 357956 Nov 14 15:24 ch09.mp3
--rw-r--r--  1 runner runner 400940 Nov 14 15:24 ch10.mp3
--rw-r--r--  1 runner runner 398348 Nov 14 15:24 ch11.mp3
+total 4244
+drwxr-xr-x  2 runner runner   4096 Nov 14 15:49 .
+drwxr-xr-x 45 runner runner   4096 Nov 14 15:49 ..
+-rw-r--r--  1 runner runner 377828 Nov 14 15:49 ch00_hook.mp3
+-rw-r--r--  1 runner runner 308924 Nov 14 15:49 ch01.mp3
+-rw-r--r--  1 runner runner 386252 Nov 14 15:49 ch02.mp3
+-rw-r--r--  1 runner runner 388628 Nov 14 15:49 ch03.mp3
+-rw-r--r--  1 runner runner 381068 Nov 14 15:49 ch04.mp3
+-rw-r--r--  1 runner runner 301580 Nov 14 15:49 ch05.mp3
+-rw-r--r--  1 runner runner 321668 Nov 14 15:49 ch06.mp3
+-rw-r--r--  1 runner runner 354500 Nov 14 15:49 ch07.mp3
+-rw-r--r--  1 runner runner 339812 Nov 14 15:49 ch08.mp3
+-rw-r--r--  1 runner runner 363356 Nov 14 15:49 ch09.mp3
+-rw-r--r--  1 runner runner 400940 Nov 14 15:49 ch10.mp3
+-rw-r--r--  1 runner runner 392948 Nov 14 15:49 ch11.mp3
 Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
-ch00_hook: 162 palavras, 61.1s
+ch00_hook: 164 palavras, 62.8s
 ch01: 143 palavras, 51.3s
-ch02: 163 palavras, 63.7s
+ch02: 165 palavras, 64.3s
 ch03: 161 palavras, 64.7s
-ch04: 172 palavras, 63.4s
+ch04: 171 palavras, 63.4s
 ch05: 142 palavras, 50.1s
-ch06: 140 palavras, 54.8s
-ch07: 155 palavras, 58.0s
+ch06: 140 palavras, 53.5s
+ch07: 157 palavras, 58.9s
 ch08: 148 palavras, 56.5s
-ch09: 152 palavras, 59.5s
+ch09: 146 palavras, 60.4s
 ch10: 173 palavras, 66.7s
-ch11: 170 palavras, 66.2s
+ch11: 172 palavras, 65.4s
