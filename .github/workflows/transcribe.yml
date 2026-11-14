@@ -8,6 +8,10 @@ on:
         description: "Pasta do episódio (ex.: ep01-apalachin)"
         required: true
         default: "ep01-apalachin"
+      model:
+        description: "Opcional: modelo do Whisper (ex.: medium) — com ele grava em words_qa/ só para conferência"
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -33,16 +37,19 @@ jobs:
       - name: Transcrever
         continue-on-error: true
         run: |
-          mkdir -p "assets/${{ inputs.episode }}/words"
-          ls -la "assets/${{ inputs.episode }}/audio" > "assets/${{ inputs.episode }}/words/transcribe_log.txt" 2>&1
+          OUT=words; EXTRA=""
+          if [ -n "${{ inputs.model }}" ]; then OUT=words_qa; EXTRA="--model ${{ inputs.model }}"; fi
+          echo "OUT=$OUT" >> "$GITHUB_ENV"
+          mkdir -p "assets/${{ inputs.episode }}/$OUT"
+          ls -la "assets/${{ inputs.episode }}/audio" > "assets/${{ inputs.episode }}/$OUT/transcribe_log.txt" 2>&1
           set -o pipefail
-          python3 main/agent/transcribe.py "assets/${{ inputs.episode }}/audio" "assets/${{ inputs.episode }}/words" --lang "$(cat main/episodes/${{ inputs.episode }}/lang 2>/dev/null || echo en)" 2>&1 | tee -a "assets/${{ inputs.episode }}/words/transcribe_log.txt"
+          python3 main/agent/transcribe.py "assets/${{ inputs.episode }}/audio" "assets/${{ inputs.episode }}/$OUT" --lang "$(cat main/episodes/${{ inputs.episode }}/lang 2>/dev/null || echo en)" $EXTRA 2>&1 | tee -a "assets/${{ inputs.episode }}/$OUT/transcribe_log.txt"
       - name: Publicar
         if: ${{ !cancelled() }}
         run: |
           cd assets
           git config user.name "black-dossier-agent"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add "${{ inputs.episode }}/words"
-          git commit -m "Tempos das palavras: ${{ inputs.episode }}" || exit 0
-          git push origin HEAD:assets
+          git add "${{ inputs.episode }}/$OUT"
+          git commit -m "Tempos das palavras ($OUT): ${{ inputs.episode }}" || exit 0
+          for i in 1 2 3 4; do git pull -q --rebase origin assets && git push -q origin HEAD:assets && break; sleep 5; done
