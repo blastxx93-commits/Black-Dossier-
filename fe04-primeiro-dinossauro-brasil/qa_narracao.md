@@ -4,20 +4,17 @@ Temperatura 0.7, top_p 0.8, desvio máximo 2.0 semitom.
 
 | capítulo | parágrafo | tentativas | tom (Hz) | resultado |
 |---|---|---|---|---|
-| ch00_hook | 1 | 1 | 90 | ok |
-| ch00_hook | 2 | 1 | 93 | ⚠ trecho errado: e quatro anos; trecho errado: sabia direito o que eram |
-| ch00_hook | 3 | 1 | 91 | ok |
-| ch00_hook | 4 | 1 | 92 | ok |
-| ch00_hook | 5 | 1 | 93 | ok |
-| ch00_hook | 6 | 1 | 90 | ok |
-| ch00_hook | 7 | 1 | 92 | ok |
-| ch02 | 1 | 1 | 97 | ok |
-| ch02 | 2 | 1 | 90 | ⚠ trecho errado: o hiperodapedon pareciam |
-| ch02 | 3 | 1 | 95 | ok |
-| ch02 | 4 | 1 | 90 | ok |
-| ch02 | 5 | 1 | 90 | ok |
-| ch06 | 1 | 1 | 96 | ok |
-| ch06 | 2 | 1 | 95 | ok |
-| ch06 | 3 | 1 | 90 | ok |
-| ch06 | 4 | 1 | 91 | ok |
-| ch06 | 5 | 1 | 90 | ok |
+| ch07 | 1 | 1 | 85 | ok |
+| ch07 | 2 | 1 | 97 | ⚠ trecho errado: dois mil e dezenove tambem em |
+| ch07 | 3 | 1 | 89 | ok |
+| ch07 | 4 | 1 | 88 | ⚠ trecho errado: cerebro de um cacador |
+| ch07 | 5 | 1 | 86 | ok |
+| ch09 | 1 | 1 | 88 | ⚠ trecho errado: honesta e estao entre os; trecho errado: e aqui esta o motivo |
+| ch09 | 2 | 1 | 99 | ⚠ tom fora (99 Hz, +2.5 st) |
+| ch09 | 3 | 1 | 85 | ok |
+| ch09 | 4 | 1 | 92 | ⚠ trecho errado: como o niassassauro |
+| ch09 | 5 | 1 | 94 | ⚠ trecho errado: ainda esta em |
+| ch11 | 1 | 1 | 90 | ok |
+| ch11 | 2 | 1 | 95 | ok |
+| ch11 | 3 | 1 | 86 | ok |
+| ch11 | 4 | 1 | 87 | ok |
