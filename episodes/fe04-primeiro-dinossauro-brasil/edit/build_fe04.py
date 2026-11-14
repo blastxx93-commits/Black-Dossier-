@@ -117,7 +117,7 @@ c.at("que andava com as pernas retas", foot("presto"))
 c.at("E os parentes dele continuaram", foot("presto"))
 c.at("Agora imagina ser um dinossauro", hf("escala", kicker="Comparação de tamanho", title="Quem era maior?",
                                           rows=[["Humano", 1.75, "h"], ["Estauricossauro", 2.1], ["Prestossuco", 7]]))
-c.at("Você não era o caçador", hf("frase", text="Muitas vezes, você era a *caça.*", img="scene:presto"))
+c.at("Muitas vezes, você era", hf("frase", text="Muitas vezes, você era a *caça.*", img="scene:presto"))
 chapters.append(c)
 
 # ---------------------------------------------------------------- the discovery
@@ -126,7 +126,6 @@ cap(c, 3, "Os ossos de Santa Maria", "dig")
 c.at("o paleontólogo brasileiro", foot("dig"))
 c.at("Perto de Santa Maria", hf("mapa", kicker="Onde foi achado", title="Santa Maria · RS",
                                 sub="Região central do Rio Grande do Sul, um dos lugares com dinossauros mais antigos do mundo", lon=-53.81, lat=-29.69))
-c.at("Parte da mandíbula", foot("dig"))
 c.at("Os ossos foram para o museu", foot("navio"))
 c.at("E ficaram lá", foot("museu"))
 c.at("o paleontólogo americano", hf("rotulo", img="p_colbert/1", kicker="Paleontólogo americano", name="Edwin Colbert", sci="Estudou os ossos em 1970"))

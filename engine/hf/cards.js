@@ -146,10 +146,19 @@
     }
   };
 
+  // time each layout needs to finish its reveal; a shorter card plays its reveal faster (never slower)
+  var NATURAL = { titulo: 2.2, capitulo: 1.9, rotulo: 1.5, ficha: 2.7, numero: 2.2, mapa: 5.0, linha: 2.9, comparar: 2.4,
+                  frase: 1.6, escala: 3.6, perguntas: 3.0, cta: 2.3 };
+  var master = tl;
   CARDS.forEach(function (c, i) {
     var el = document.getElementById("c" + i);
     common(el, c, c.start, c.dur);
-    (A[c.kind] || function () {})(el, c, c.start, c.dur);
+    tl = gsap.timeline();
+    (A[c.kind] || function () {})(el, c, 0, c.dur);
+    var need = NATURAL[c.kind] || 2, k = Math.min(1, Math.max(0.35, (c.dur - 1.6) / need));
+    tl.timeScale(1 / k);
+    var sub = tl; tl = master;
+    tl.add(sub, c.start);
   });
   window.__timelines = window.__timelines || {};
   window.__timelines["root"] = tl;

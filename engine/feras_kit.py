@@ -255,6 +255,9 @@ HF_SFX = {"titulo": [("riser", 0, -6), ("impact", 0.6, -4)], "capitulo": [("whoo
           "linha": [("swipe", 0.6, -4), ("thud", 2.0, -2)], "comparar": [("whoosh_b", 1.0, -3)], "frase": [("impact", 0.2, -4)],
           "escala": [("tick", 0.9), ("tick", 1.45), ("tick", 2.0), ("tick", 2.55)], "perguntas": [("riser", 0, -8)],
           "cta": [("whoosh_a", 0.2), ("bell", 1.9, -2)]}
+# (longest a card may stay, length kept when it is split): info cards hold until read; titles stay snappy
+HF_HOLD = {"mapa": (9.0, 7.5), "ficha": (8.5, 7.0), "escala": (8.0, 6.5), "linha": (8.0, 6.5), "numero": (7.0, 5.5),
+           "perguntas": (9.0, 8.0), "titulo": (7.5, 6.5), "comparar": (7.0, 6.0), "cta": (6.5, 5.0)}
 HF_IN = {"titulo": "cut", "capitulo": "flash", "mapa": "blur", "linha": "blur", "escala": "blur", "numero": "blur", "ficha": "slide",
          "comparar": "fade", "frase": "punch", "perguntas": "blur", "cta": "zoom", "rotulo": "fade"}
 
@@ -274,6 +277,7 @@ def hf(kind, **p):
         if p.get(k):
             p[k] = _img(p[k])
     s = {"type": "video", "src": f"hf/{cid}.mp4", "fit": "crop", "start": 0, "trans": HF_IN.get(kind, "fade"),
+         "max_hold": HF_HOLD.get(kind, (6.0, 4.6))[0], "keep": HF_HOLD.get(kind, (6.0, 4.6))[1],
          "hfcard": dict(p, kind=kind, id=cid), "sfx": [fx(n, *a) for n, *a in HF_SFX.get(kind, [])]}
     return s
 

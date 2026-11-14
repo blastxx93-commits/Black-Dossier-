@@ -242,9 +242,10 @@ def finish(chapters, output, ctx, subtitles=None, music_gain=-29):  # -29 dB: be
     for ci, chap in enumerate(ep["chapters"]):
         out = []
         for s in chap["shots"]:
-            while s["dur"] > MAX_HOLD and s["type"] not in ("questions", "title"):
-                first = dict(s, dur=KEEP, fixed=True)
-                nxt = dict(P(ctx[ci], generic=True), dur=round(s["dur"] - KEEP, 3), fixed=s.get("fixed", False))
+            while s["dur"] > s.get("max_hold", MAX_HOLD) and s["type"] not in ("questions", "title"):
+                keep = s.get("keep", KEEP)
+                first = dict(s, dur=keep, fixed=True)
+                nxt = dict(P(ctx[ci], generic=True), dur=round(s["dur"] - keep, 3), fixed=s.get("fixed", False))
                 out.append(first); s = nxt; splits += 1
             out.append(s)
         chap["shots"] = out
