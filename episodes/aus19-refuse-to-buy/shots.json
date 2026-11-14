@@ -1,0 +1,256 @@
+{
+ "defaults": {
+  "n": 4,
+  "sources": [
+   "commons",
+   "pixabay"
+  ]
+ },
+ "shots": [
+  {
+   "id": "m_accord",
+   "query": "Honda Accord 2023",
+   "alt": [
+    "Honda Accord eleventh generation",
+    "Honda Accord hybrid"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_camry",
+   "query": "Toyota Camry 2025",
+   "alt": [
+    "Toyota Camry XV80",
+    "Toyota Camry hybrid"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_ev9",
+   "query": "Kia EV9",
+   "alt": [
+    "Kia EV9 GT-Line"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_lc300",
+   "query": "Toyota Land Cruiser 300",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_fabia",
+   "query": "Skoda Fabia 2022",
+   "alt": [
+    "Skoda Fabia IV"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_mg3",
+   "query": "MG3 hybrid 2024",
+   "alt": [
+    "MG3 2024"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_sonata",
+   "query": "Hyundai Sonata N Line 2024",
+   "alt": [
+    "Hyundai Sonata DN8 facelift"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_cx70",
+   "query": "Mazda CX-70",
+   "alt": [
+    "Mazda CX-90"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_defender",
+   "query": "Land Rover Defender 2020",
+   "alt": [
+    "Land Rover Defender 110"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_mache",
+   "query": "Ford Mustang Mach-E",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_modely",
+   "query": "Tesla Model Y 2025",
+   "alt": [
+    "Tesla Model Y Juniper"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_sealion7",
+   "query": "BYD Sealion 7",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_karoq",
+   "query": "Skoda Karoq facelift",
+   "alt": [
+    "Skoda Karoq"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_rav4",
+   "query": "Toyota RAV4 2026",
+   "alt": [
+    "Toyota RAV4 hybrid"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_wrangler",
+   "query": "Jeep Wrangler JL",
+   "alt": [
+    "Jeep Wrangler Rubicon"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_everest",
+   "query": "Ford Everest 2022",
+   "alt": [
+    "Ford Everest"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_prado",
+   "query": "Toyota Land Cruiser Prado 250",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_octavia",
+   "query": "Skoda Octavia 2024",
+   "alt": [
+    "Skoda Octavia IV facelift"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_rexton",
+   "query": "SsangYong Rexton 2021",
+   "alt": [
+    "KGM Rexton",
+    "SsangYong Rexton"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_q4",
+   "query": "Audi Q4 e-tron",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_ix",
+   "query": "BMW iX",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_ioniq9",
+   "query": "Hyundai Ioniq 9",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_scross",
+   "query": "Suzuki S-Cross 2022",
+   "alt": [
+    "Suzuki S-Cross"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_kangoo",
+   "query": "Renault Kangoo 2021",
+   "alt": [
+    "Renault Kangoo III"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_fiat500",
+   "query": "Fiat 500 2016",
+   "alt": [
+    "Fiat 500"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_tonale",
+   "query": "Alfa Romeo Tonale",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_fortuner",
+   "query": "Toyota Fortuner",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_superb",
+   "query": "Skoda Superb 2024",
+   "alt": [
+    "Skoda Superb IV"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_compass",
+   "query": "Jeep Compass 2021",
+   "alt": [
+    "Jeep Compass"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_geelyex5",
+   "query": "Geely EX5",
+   "alt": [
+    "Geely Galaxy E5"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_tiggo4",
+   "query": "Chery Tiggo 4",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_hilux",
+   "query": "Toyota Hilux 2025",
+   "alt": [
+    "Toyota Hilux"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_civic",
+   "query": "Honda Civic 2022",
+   "alt": [],
+   "n": 4
+  }
+ ]
+}

@@ -1,0 +1,226 @@
+{
+ "defaults": {
+  "n": 4,
+  "sources": [
+   "commons",
+   "pixabay"
+  ]
+ },
+ "shots": [
+  {
+   "id": "m_tasman",
+   "query": "Kia Tasman",
+   "alt": [
+    "Kia Tasman pickup"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_atto1",
+   "query": "BYD Seagull",
+   "alt": [
+    "BYD Atto 1",
+    "BYD Dolphin Mini"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_dolphin",
+   "query": "BYD Dolphin",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_atto2",
+   "query": "BYD Atto 2",
+   "alt": [
+    "BYD Yuan Up"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_evitara",
+   "query": "Suzuki e Vitara",
+   "alt": [
+    "Suzuki eVitara"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_jimny",
+   "query": "Suzuki Jimny",
+   "alt": [
+    "Suzuki Jimny 2018"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_swift",
+   "query": "Suzuki Swift 2024",
+   "alt": [
+    "Suzuki Swift"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_vitara",
+   "query": "Suzuki Vitara",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_ranger",
+   "query": "Ford Ranger Wildtrak 2022",
+   "alt": [
+    "Ford Ranger 2022"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_duster",
+   "query": "Dacia Duster 2024",
+   "alt": [
+    "Dacia Duster third generation"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_sealion7",
+   "query": "BYD Sealion 7",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_shark6",
+   "query": "BYD Shark 6",
+   "alt": [
+    "BYD Shark"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_seal6",
+   "query": "BYD Seal 6",
+   "alt": [
+    "BYD Seal 06"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_sealion5",
+   "query": "BYD Sealion 05",
+   "alt": [
+    "BYD Sealion 5"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_hilux",
+   "query": "Toyota Hilux 2025",
+   "alt": [
+    "Toyota Hilux"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_jolion",
+   "query": "Haval Jolion",
+   "alt": [
+    "Haval Jolion hybrid"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_h6",
+   "query": "Haval H6",
+   "alt": [
+    "Haval H6 hybrid"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_cannon",
+   "query": "GWM Cannon",
+   "alt": [
+    "Great Wall Poer"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_crv",
+   "query": "Honda CR-V 2023",
+   "alt": [
+    "Honda CR-V sixth generation"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_zrv",
+   "query": "Honda ZR-V",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_hrv",
+   "query": "Honda HR-V 2022",
+   "alt": [
+    "Honda HR-V"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_tiggo7",
+   "query": "Chery Tiggo 7",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_tiggo4",
+   "query": "Chery Tiggo 4",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_triton",
+   "query": "Mitsubishi Triton 2024",
+   "alt": [
+    "Mitsubishi Triton"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_outlander",
+   "query": "Mitsubishi Outlander 2022",
+   "alt": [
+    "Mitsubishi Outlander"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_q4",
+   "query": "Audi Q4 e-tron",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_arkana",
+   "query": "Renault Arkana",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_koleos",
+   "query": "Renault Koleos 2024",
+   "alt": [
+    "Renault Grand Koleos"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_accord",
+   "query": "Honda Accord 2023",
+   "alt": [],
+   "n": 4
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "defaults": {
+  "n": 4,
+  "clip": 8,
+  "sources": [
+   "coverr",
+   "pixabay",
+   "pexels"
+  ]
+ },
+ "shots": [
+  {
+   "id": "v_dealer",
+   "query": "car dealership",
+   "alt": [
+    "car showroom"
+   ]
+  },
+  {
+   "id": "v_lot",
+   "query": "car lot rows of cars",
+   "alt": [
+    "parking lot cars"
+   ]
+  },
+  {
+   "id": "v_highway",
+   "query": "highway traffic cars",
+   "alt": [
+    "cars driving highway"
+   ]
+  },
+  {
+   "id": "v_city",
+   "query": "city traffic",
+   "alt": [
+    "cars city street"
+   ]
+  },
+  {
+   "id": "v_suv",
+   "query": "suv driving road",
+   "alt": [
+    "family suv"
+   ]
+  },
+  {
+   "id": "v_ute",
+   "query": "pickup truck driving",
+   "alt": [
+    "4x4 ute"
+   ]
+  },
+  {
+   "id": "v_offroad",
+   "query": "4x4 off road",
+   "alt": [
+    "off road dirt"
+   ]
+  },
+  {
+   "id": "v_ev",
+   "query": "electric car charging",
+   "alt": [
+    "ev charging station"
+   ]
+  },
+  {
+   "id": "v_sedan",
+   "query": "sedan driving",
+   "alt": [
+    "car driving road"
+   ]
+  },
+  {
+   "id": "v_keys",
+   "query": "car keys handover",
+   "alt": [
+    "buying a car"
+   ]
+  },
+  {
+   "id": "v_money",
+   "query": "money counting",
+   "alt": [
+    "cash dollars"
+   ]
+  },
+  {
+   "id": "v_outback",
+   "query": "outback road car",
+   "alt": [
+    "desert road car"
+   ]
+  },
+  {
+   "id": "v_night",
+   "query": "night traffic city",
+   "alt": [
+    "car lights night"
+   ]
+  },
+  {
+   "id": "v_port",
+   "query": "car carrier ship",
+   "alt": [
+    "cars port"
+   ]
+  },
+  {
+   "id": "v_aerial",
+   "query": "aerial road drone cars",
+   "alt": [
+    "drone highway"
+   ]
+  },
+  {
+   "id": "v_wash",
+   "query": "car wash",
+   "alt": [
+    "washing car"
+   ]
+  },
+  {
+   "id": "v_sydney",
+   "query": "sydney traffic",
+   "alt": [
+    "australia city traffic"
+   ]
+  }
+ ]
+}

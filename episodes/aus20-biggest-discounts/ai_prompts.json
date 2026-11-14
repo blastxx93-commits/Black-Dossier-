@@ -1,0 +1,48 @@
+{
+ "model": "black-forest-labs/flux-1.1-pro-ultra",
+ "raw": true,
+ "n": 1,
+ "style": ", modern Australian documentary photograph, 2026, natural light, realistic, sharp, cinematic colour grade, no logos, no badges, no readable text, no brand names",
+ "shots": [
+  {
+   "id": "ai_sale_yard",
+   "prompt": "A car dealership yard in Australia with colourful bunting flags and rows of new utes and SUVs, sunny afternoon, no readable signs, no readable text, no logos, no badges"
+  },
+  {
+   "id": "ai_handshake",
+   "prompt": "A car salesman and a customer shaking hands next to a new white dual-cab ute in a showroom, no readable text, no logos, no badges"
+  },
+  {
+   "id": "ai_keys",
+   "prompt": "Close-up of hands receiving a car key fob across a dealership desk, blurred showroom behind, no readable text, no logos, no badges"
+  },
+  {
+   "id": "ai_fuelcard",
+   "prompt": "A plain dark fuel card lying on a car dashboard next to a key, shallow depth of field, no text on the card, no readable text, no logos, no badges"
+  },
+  {
+   "id": "ai_ute_beach",
+   "prompt": "A new dual-cab ute driving on a coastal road in Western Australia, turquoise ocean, no readable text, no logos, no badges"
+  },
+  {
+   "id": "ai_small_ev",
+   "prompt": "A small white electric hatchback parked on a sunny Sydney inner-city street, no readable text, no logos, no badges"
+  },
+  {
+   "id": "ai_black_cars",
+   "prompt": "A row of shiny black small SUVs and hatchbacks in a modern showroom, dramatic lighting, no readable text, no logos, no badges"
+  },
+  {
+   "id": "ai_family",
+   "prompt": "An Australian family loading shopping bags into a new compact SUV in a shopping centre car park at Christmas time, no readable text, no logos, no badges"
+  },
+  {
+   "id": "ai_paperwork",
+   "prompt": "A buyer reading a car finance contract with a pen at a dealership desk, close-up of hands, no readable text, no readable text, no logos, no badges"
+  },
+  {
+   "id": "ai_unsold_utes",
+   "prompt": "A long row of unsold new dual-cab utes in a dealership storage yard, dust and afternoon heat haze, no readable text, no logos, no badges"
+  }
+ ]
+}

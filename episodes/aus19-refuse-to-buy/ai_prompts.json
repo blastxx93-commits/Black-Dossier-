@@ -1,0 +1,48 @@
+{
+ "model": "black-forest-labs/flux-1.1-pro-ultra",
+ "raw": true,
+ "n": 1,
+ "style": ", modern Australian documentary photograph, 2026, natural light, realistic, sharp, cinematic colour grade, no logos, no badges, no readable text, no brand names",
+ "shots": [
+  {
+   "id": "ai_empty_yard",
+   "prompt": "A quiet Australian car dealership yard at dusk, rows of unsold new sedans and SUVs with dust on them, no customers, no readable text, no logos, no badges"
+  },
+  {
+   "id": "ai_salesman",
+   "prompt": "A bored car salesman in a navy polo shirt standing alone in a near-empty modern showroom with a single grey sedan, Australian suburb visible through glass, no readable text, no logos, no badges"
+  },
+  {
+   "id": "ai_busy_dealer",
+   "prompt": "A busy modern electric car showroom in Sydney full of customers looking at new compact SUVs, bright daylight, no readable text, no logos, no badges"
+  },
+  {
+   "id": "ai_sedan_cover",
+   "prompt": "A grey mid-size sedan under a dust cover in the back corner of a dealership warehouse, no readable text, no logos, no badges"
+  },
+  {
+   "id": "ai_sales_chart",
+   "prompt": "A man's hands holding a printed paper report with a bar chart going down, sitting at a desk in a car dealership office, chart has no numbers or text, no readable text, no logos, no badges"
+  },
+  {
+   "id": "ai_queue",
+   "prompt": "Families queueing at a new car dealership opening in Melbourne, sunny morning, compact SUVs on display, no readable text, no logos, no badges"
+  },
+  {
+   "id": "ai_storage",
+   "prompt": "Aerial view of a huge storage lot of new cars near an Australian port, hundreds of vehicles in rows, no readable text, no logos, no badges"
+  },
+  {
+   "id": "ai_buyer",
+   "prompt": "A young Australian couple test driving a new hybrid SUV on a suburban street, seen through the windscreen, smiling, no readable text, no logos, no badges"
+  },
+  {
+   "id": "ai_wagon",
+   "prompt": "A dark blue European station wagon parked alone on an Australian suburban street lined with gum trees, no readable text, no logos, no badges"
+  },
+  {
+   "id": "ai_outback_suv",
+   "prompt": "A big diesel seven-seat 4x4 SUV towing a caravan on a red dirt road in outback Australia, sunset, no readable text, no logos, no badges"
+  }
+ ]
+}
