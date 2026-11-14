@@ -41,3 +41,12 @@ Referência de edição: vídeo do tigre do Mundo Fósil (enviado pelo dono em 1
 - Fish, voz "Meu narrador", **parágrafo por parágrafo** (evita palavras inventadas), **temperatura 0.7 / top_p 0.8**,
   **sem ajuste artificial de tom** (deixava a voz robótica) — arquivos `tts_args` e `no_tone_fix` em cada episódio.
 - Limpeza leve na montagem (passa-alta + remoção de estalos); sem redutor de ruído forte.
+
+## Template HyperFrames (a partir do fe04, pedido do dono 14/11/2026)
+- Cartelas e gráficos feitos no HyperFrames, no estilo "Dossiê Fóssil" (marfim, vermelho-terra, âmbar, granulação de filme): `engine/hf/`, `engine/hf_cards.py`.
+  Doze tipos: titulo, capitulo, rotulo, ficha, numero, mapa, linha, comparar, frase, escala, perguntas e cta.
+  No build, `F.hf(tipo, ...)`; o workflow render-aus renderiza tudo no job `cards` (~25 min para ~45 cartelas).
+- A animação de cada cartela acelera para caber no tempo da fala. As cartelas de informação ficam até 8–9 s, as de título até 6 s.
+- Formato "investigação" (fe04): capítulos numerados, sem placar e sem VS. A pergunta do gancho só tem resposta no final.
+- Conferência da narração com o Whisper medium (`transcribe.yml` com `model=medium` grava em words_qa/). O modelo pequeno erra demais em PT.
+  No fe04 a voz pronunciou "primeiros" como "primatores" e cortou a última frase de um parágrafo. A correção foi reescrever o trecho e regerar.
