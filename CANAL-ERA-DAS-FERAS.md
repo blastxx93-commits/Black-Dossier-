@@ -38,7 +38,7 @@ Referência de edição: vídeo do tigre do Mundo Fósil (enviado pelo dono em 1
 - Prompts revisados antes de gerar (anatomia descrita explicitamente) para reduzir regerações.
 
 ## Narração aprovada (dono, 13/11/2026)
-- Fish, voz "Meu narrador", **parágrafo por parágrafo** (evita palavras inventadas), **temperatura 0.7 / top_p 0.8**,
+- Fish, voz "Meu narrador" (ID `c9d3da0bdf61417d929dc67966e4befe`, gravado em `episodes/<ep>/voice`, que o narrate.yml lê sozinho; todo episódio novo precisa desse arquivo), **parágrafo por parágrafo** (evita palavras inventadas), **temperatura 0.7 / top_p 0.8**,
   **sem ajuste artificial de tom** (deixava a voz robótica) — arquivos `tts_args` e `no_tone_fix` em cada episódio.
 - Limpeza leve na montagem (passa-alta + remoção de estalos); sem redutor de ruído forte.
 

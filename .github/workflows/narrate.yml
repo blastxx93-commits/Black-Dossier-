@@ -85,6 +85,8 @@ jobs:
         continue-on-error: true
         run: |
           mkdir -p "../out/${{ inputs.episode }}"
+          # voz fixa do canal/episódio (episodes/<ep>/voice), para nunca cair na voz padrão por esquecimento
+          if [ -z "${{ inputs.voice }}" ] && [ -f "episodes/${{ inputs.episode }}/voice" ]; then export FISH_VOICE_ID="$(tr -d ' \n' < episodes/${{ inputs.episode }}/voice)"; echo "voz do episódio: $FISH_VOICE_ID"; fi
           set -o pipefail
           L="$(cat episodes/${{ inputs.episode }}/lang 2>/dev/null || echo en)"
           if [ "$L" != "en" ] && [ "${{ inputs.provider }}" != "eleven" ] && [ ! -f "episodes/${{ inputs.episode }}/tts_whole" ]; then
@@ -110,6 +112,7 @@ jobs:
           ELEVEN_MODEL: ${{ inputs.provider == 'eleven' && inputs.model || '' }}
         run: |
           EP="${{ inputs.episode }}"; L="$(cat episodes/$EP/lang 2>/dev/null || echo en)"
+          if [ -z "${{ inputs.voice }}" ] && [ -f "episodes/$EP/voice" ]; then export FISH_VOICE_ID="$(tr -d ' \n' < episodes/$EP/voice)"; fi
           # canal em português: regra do dono (08/11/2026) = sempre a 1ª geração da Fish, nada de regravar sozinho
           if [ "$L" != "en" ]; then python3 agent/check_narration.py "../out/$EP/words" > "../out/$EP/falhas_voz.txt" || true; exit 0; fi
           for k in 1 2; do
@@ -147,6 +150,7 @@ jobs:
         working-directory: main
         run: |
           EP="${{ inputs.episode }}"; L="$(cat episodes/$EP/lang 2>/dev/null || echo en)"
+          if [ -z "${{ inputs.voice }}" ] && [ -f "episodes/$EP/voice" ]; then export FISH_VOICE_ID="$(tr -d ' \n' < episodes/$EP/voice)"; fi
           if [ "$L" = "en" ]; then exit 0; fi
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
           [ -f "../out/$EP/tom_corrigido.md" ] && { echo "tom já corrigido"; exit 0; }
