@@ -4,22 +4,25 @@ Temperatura 0.7, top_p 0.8, desvio máximo 2.0 semitom.
 
 | capítulo | parágrafo | tentativas | tom (Hz) | resultado |
 |---|---|---|---|---|
-| ch08 | 1 | 1 | 98 | ⚠ trecho errado: um ano antes |
-| ch08 | 2 | 1 | 89 | ok |
-| ch08 | 3 | 1 | 91 | ok |
-| ch08 | 4 | 1 | 88 | ok |
-| ch08 | 5 | 1 | 108 | ⚠ trecho errado: mesmo os dinossauros; tom fora (108 Hz, +3.2 st) |
-| ch09 | 1 | 1 | 92 | ⚠ trecho errado: e aqui esta o motivo |
-| ch09 | 2 | 1 | 93 | ⚠ trecho errado: minusculos de zircao; trecho errado: trinta e tres |
-| ch09 | 3 | 1 | 92 | ⚠ trecho errado: o eorraptor e o herrerassauro |
-| ch09 | 4 | 1 | 94 | ok |
-| ch09 | 5 | 1 | 96 | ⚠ trecho errado: ainda esta em |
-| ch10 | 1 | 1 | 95 | ok |
-| ch10 | 2 | 1 | 92 | ok |
-| ch10 | 3 | 1 | 92 | ok |
-| ch10 | 4 | 1 | 81 | ⚠ tom fora (81 Hz, -2.3 st) |
-| ch10 | 5 | 1 | 97 | ok |
-| ch11 | 1 | 1 | 97 | ⚠ trecho errado: estauricossauro e esse |
-| ch11 | 2 | 1 | 93 | ok |
-| ch11 | 3 | 1 | 87 | ok |
-| ch11 | 4 | 1 | 93 | ok |
+| ch00_hook | 1 | 1 | 96 | ok |
+| ch00_hook | 2 | 1 | 95 | ok |
+| ch00_hook | 3 | 1 | 92 | ok |
+| ch00_hook | 4 | 1 | 85 | ok |
+| ch00_hook | 5 | 1 | 89 | ok |
+| ch00_hook | 6 | 1 | 91 | ok |
+| ch00_hook | 7 | 1 | 99 | ok |
+| ch01 | 1 | 1 | 99 | ⚠ trecho errado: para entender essa; trecho errado: trinta e tres |
+| ch01 | 2 | 1 | 84 | ⚠ trecho errado: por perto estava; trecho errado: que hoje e a |
+| ch01 | 3 | 1 | 94 | ok |
+| ch01 | 4 | 1 | 97 | ok |
+| ch02 | 1 | 1 | 87 | ok |
+| ch02 | 2 | 1 | 91 | ⚠ trecho errado: o hiperodapedon pareciam |
+| ch02 | 3 | 1 | 95 | ok |
+| ch02 | 4 | 1 | 97 | ok |
+| ch02 | 5 | 1 | 93 | ok |
+| ch03 | 1 | 1 | 88 | ok |
+| ch03 | 2 | 1 | 98 | ⚠ trecho errado: brasileiro llewellyn ivor |
+| ch03 | 3 | 1 | 91 | ok |
+| ch03 | 4 | 1 | 95 | ⚠ trecho errado: mil novecentos e setenta o |
+| ch03 | 5 | 1 | 93 | ok |
+| ch03 | 6 | 1 | 87 | ok |
