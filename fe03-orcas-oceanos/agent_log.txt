@@ -1,0 +1,63 @@
+[     0s] fe03-orcas-oceanos: 10 planos, limite 35.0 min
+[     0s] p_anomalocaris: 'Anomalocaris fossil'
+[     0s]     commons: 11 candidatos em 0.3s
+[     3s]     openverse: 12 candidatos em 2.9s
+[     4s]     unsplash: 12 candidatos em 1.1s
+[     5s]     pixabay: 12 candidatos em 0.3s
+[     7s]   -> 3 imagens
+[     7s] p_dunkleosteus: 'Dunkleosteus skull'
+[     7s]     commons: 10 candidatos em 0.2s
+[    10s]     openverse: 11 candidatos em 2.9s
+[    11s]     unsplash: 12 candidatos em 0.9s
+[    11s]     pixabay: 12 candidatos em 0.2s
+[    13s]   -> 3 imagens
+[    13s] p_ichthyosaur: 'Ichthyosaur fossil'
+[    14s]     commons: 10 candidatos em 0.4s
+[    17s]     openverse: 12 candidatos em 3.1s
+[    17s]     unsplash: 1 candidatos em 0.8s
+[    18s]     pixabay: 12 candidatos em 0.1s
+[    20s]   -> 3 imagens
+[    20s] p_liopleurodon: 'Liopleurodon skull'
+[    20s]     commons: 9 candidatos em 0.4s
+[    22s]     openverse: 3 candidatos em 2.0s
+[    23s]     unsplash: 0 candidatos em 0.8s
+[    23s]     pixabay: 12 candidatos em 0.1s
+[    25s]   -> 3 imagens
+[    25s] p_mosasaurus: 'Mosasaurus skeleton'
+[    25s]     commons: 11 candidatos em 0.4s
+[    27s]     openverse: 11 candidatos em 1.9s
+[    28s]     unsplash: 12 candidatos em 0.9s
+[    28s]     pixabay: 12 candidatos em 0.1s
+[    41s]   -> 3 imagens
+[    41s] p_basilosaurus: 'Basilosaurus skeleton'
+[    41s]     commons: 11 candidatos em 0.5s
+[    44s]     openverse: 9 candidatos em 2.5s
+[    44s]     unsplash: 12 candidatos em 1.0s
+[    45s]     pixabay: 12 candidatos em 0.3s
+[    47s]   -> 3 imagens
+[    47s] p_megalodon: 'Megalodon tooth'
+[    47s]     commons: 6 candidatos em 0.3s
+[    49s]     openverse: 9 candidatos em 1.9s
+[    50s]     unsplash: 12 candidatos em 0.8s
+[    50s]     pixabay: 12 candidatos em 0.1s
+[    63s]   -> 3 imagens
+[    63s] p_livyatan: 'Livyatan melvillei skull'
+[    63s]     commons: 2 candidatos em 0.5s
+[    67s]     openverse: 2 candidatos em 3.9s
+[    68s]     unsplash: 12 candidatos em 0.8s
+[    68s]     pixabay: 12 candidatos em 0.1s
+[    99s]     falhou download (openverse) em 30.0s
+[   100s]   -> 3 imagens
+[   100s] p_orca: 'orca killer whale'
+[   101s]     commons: 9 candidatos em 0.4s
+[   108s]     openverse: 11 candidatos em 7.1s
+[   109s]     unsplash: 12 candidatos em 0.8s
+[   109s]     pixabay: 12 candidatos em 0.2s
+[   111s]   -> 3 imagens
+[   111s] p_trilobite: 'trilobite fossil'
+[   111s]     commons: 11 candidatos em 0.4s
+[   116s]     openverse: 10 candidatos em 4.3s
+[   116s]     unsplash: 12 candidatos em 0.8s
+[   117s]     pixabay: 12 candidatos em 0.1s
+[   119s]   -> 3 imagens
+[   120s] fim: 30 imagens
