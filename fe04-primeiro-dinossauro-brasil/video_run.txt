@@ -1,0 +1,393 @@
+[     0s] fe04-primeiro-dinossauro-brasil: 22 planos de video
+[     0s]   v_dino / pexels: 0 filmes para 'dinosaur'
+[     1s]   v_dino / pixabay: 11 filmes para 'dinosaur'
+[     2s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=dinosaur&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e
+[     2s]   v_dino / coverr: 0 filmes para 'dinosaur'
+[     3s]     trecho escuro em 0s, tentando mais adiante
+[     4s]     + 1_pixabay.mp4 de 'dinosaur, t rex, prehistoric, animal' a partir de 0s
+[     4s]     trecho escuro em 0s, tentando mais adiante
+[     6s]     + 2_pixabay.mp4 de 'dinosaur, trex, reptile, roar, extinct, chroma key, green sc' a partir de 0s
+[     6s]     trecho escuro em 0s, tentando mais adiante
+[     6s]     trecho escuro em 0s, tentando mais adiante
+[    10s]     + 3_pixabay.mp4 de 'dinosaur, prehistoric, realistic, creature, green screen' a partir de 0s
+[    10s]     trecho escuro em 0s, tentando mais adiante
+[    11s]     trecho escuro em 0s, tentando mais adiante
+[    11s]     trecho escuro em 8s, tentando mais adiante
+[    12s]     trecho escuro em 10s, tentando mais adiante
+[    16s]     + 4_pixabay.mp4 de 'dinosaur, dino, animal, predator, monster' a partir de 14s
+[    19s]     + 5_pixabay.mp4 de 'green screen, bird, pterodactyl, dinosaur, dino, prehistoric' a partir de 0s
+[    22s]     trecho escuro em 8s, tentando mais adiante
+[    24s]     trecho escuro em 8s, tentando mais adiante
+[    32s]     + 6_pixabay.mp4 de 'indian rhinoceros, wolf down, shiva, rhino, india, endangere' a partir de 9s
+[    33s]     trecho escuro em 12s, tentando mais adiante
+[    33s]     trecho escuro em 18s, tentando mais adiante
+[    36s]     + 7_pixabay.mp4 de 'dinosaur, spinosaurus, prehistoric, realistic, wild, chroma ' a partir de 0s
+[    37s]     trecho escuro em 0s, tentando mais adiante
+[    38s]     + 8_pixabay.mp4 de 'dragon, dinosaur, reptile, hat, santa, cartoon, animal, 3d, ' a partir de 0s
+[    38s]   v_dino / pexels: 0 filmes para 'dinosaur animation'
+[    39s]   v_dino / pixabay: 11 filmes para 'dinosaur animation'
+[    40s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=dinosaur+animation&page_size=8&urls=true&api_key=e46f0775805a10c2d
+[    40s]   v_dino / coverr: 0 filmes para 'dinosaur animation'
+[    43s]     + 9_pixabay.mp4 de 'dinosaur, velociraptor, predator, extinct, dino, ancient, an' a partir de 0s
+[    43s]     trecho escuro em 0s, tentando mais adiante
+[    44s]     trecho escuro em 0s, tentando mais adiante
+[    46s]     + 10_pixabay.mp4 de 't-rex, dinosaur, tyrannosaurus, predator, animal, jurassic p' a partir de 0s
+[    46s]   v_fossil / pexels: 0 filmes para 'fossil'
+[    47s]   v_fossil / pixabay: 11 filmes para 'fossil'
+[    48s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=fossil&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e04
+[    48s]   v_fossil / coverr: 0 filmes para 'fossil'
+[    49s]     trecho escuro em 0s, tentando mais adiante
+[    52s]     + 1_pixabay.mp4 de 'dinosaur, raptor, dino, run, prehistoric, green screen, foss' a partir de 0s
+[    55s]     + 2_pixabay.mp4 de 'cave, tunnel, light, cavern, passage, rock, exit, ancient, g' a partir de 10s
+[    56s]     trecho escuro em 8s, tentando mais adiante
+[    59s]     + 3_pixabay.mp4 de 'rock, sunset, sea, seashell, water, sunny, coastal feature, ' a partir de 13s
+[    63s]     + 4_pixabay.mp4 de 'jungle, wild, elephant, africa, predator, dinosaur, extinct,' a partir de 0s
+[    65s]     trecho escuro em 8s, tentando mais adiante
+[    68s]     trecho escuro em 8s, tentando mais adiante
+[    75s]     + 5_pixabay.mp4 de 'dinosaur, monster, animal, jurassic, reptile, paleontology, ' a partir de 8s
+[    80s]     + 6_pixabay.mp4 de 'dinosaur, monster, animal, jurassic, reptile, paleontology, ' a partir de 10s
+[    86s]     + 7_pixabay.mp4 de 'dinosaur, monster, animal, jurassic, reptile, paleontology, ' a partir de 10s
+[    91s]     + 8_pixabay.mp4 de 'dinosaur, monster, animal, jurassic, reptile, paleontology, ' a partir de 8s
+[    91s]   v_museum / pexels: 0 filmes para 'dinosaur museum'
+[    93s]   v_museum / pixabay: 11 filmes para 'dinosaur museum'
+[    93s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=dinosaur+museum&page_size=8&urls=true&api_key=e46f0775805a10c2dd34
+[    93s]   v_museum / coverr: 0 filmes para 'dinosaur museum'
+[    96s]     + 1_pixabay.mp4 de 'los angeles, city, california, natural history museum, peopl' a partir de 9s
+[    96s]   v_museum / pexels: 0 filmes para 'natural history museum'
+[    98s]   v_museum / pixabay: 11 filmes para 'natural history museum'
+[    98s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=natural+history+museum&page_size=8&urls=true&api_key=e46f0775805a1
+[    98s]   v_museum / coverr: 0 filmes para 'natural history museum'
+[    99s]     trecho escuro em 8s, tentando mais adiante
+[   100s]     trecho escuro em 10s, tentando mais adiante
+[   101s]     trecho escuro em 17s, tentando mais adiante
+[   101s]     trecho escuro em 27s, tentando mais adiante
+[   102s]     trecho escuro em 8s, tentando mais adiante
+[   103s]     trecho escuro em 12s, tentando mais adiante
+[   106s]     + 2_pixabay.mp4 de 'museum, castle, hall, sculpture, flight, landscape, sky, tra' a partir de 16s
+[   107s]     trecho escuro em 8s, tentando mais adiante
+[   107s]     trecho escuro em 10s, tentando mais adiante
+[   110s]     + 3_pixabay.mp4 de 'museum, liverpool, mersey, england, city, northwest, merseys' a partir de 11s
+[   113s]     + 4_pixabay.mp4 de 'statue, stone, castle, hero, god, greek, roman, apollo, zeus' a partir de 8s
+[   116s]     + 5_pixabay.mp4 de 'lion, statue, museum, night, street, evening' a partir de 8s
+[   116s]     trecho escuro em 0s, tentando mais adiante
+[   120s]     + 6_pixabay.mp4 de 'museum, angels, exhibition, gold, wings, statue, sculpture, ' a partir de 0s
+[   120s]   v_dig / pexels: 0 filmes para 'excavation'
+[   121s]   v_dig / pixabay: 12 filmes para 'excavation'
+[   122s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=excavation&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa8
+[   122s]   v_dig / coverr: 0 filmes para 'excavation'
+[   123s]     trecho escuro em 14s, tentando mais adiante
+[   123s]     trecho escuro em 21s, tentando mais adiante
+[   126s]     + 1_pixabay.mp4 de 'construction site, excavator, digging, industry, machinery, ' a partir de 9s
+[   127s]     trecho escuro em 8s, tentando mais adiante
+[   129s]     trecho escuro em 8s, tentando mais adiante
+[   135s]     + 2_pixabay.mp4 de 'construction, vehicle, loader, excavation, machinery, hydrau' a partir de 8s
+[   138s]     + 3_pixabay.mp4 de 'excavator bucket, excavator, stone, earthworks' a partir de 10s
+[   139s]     trecho escuro em 0s, tentando mais adiante
+[   142s]     + 4_pixabay.mp4 de 'excavator, demolition, destruction' a partir de 0s
+[   146s]     + 5_pixabay.mp4 de 'working site, excavator, construction, site, equipment, digg' a partir de 8s
+[   149s]     + 6_pixabay.mp4 de 'excavator, stone, earthworks, excavator bucket' a partir de 10s
+[   149s]   v_river / pexels: 0 filmes para 'shallow river'
+[   150s]   v_river / pixabay: 11 filmes para 'shallow river'
+[   151s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=shallow+river&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444
+[   151s]   v_river / coverr: 0 filmes para 'shallow river'
+[   155s]     + 1_pixabay.mp4 de 'mountain stream, shallow river, river, riverbank, nature, fl' a partir de 20s
+[   161s]     + 2_pixabay.mp4 de 'river, creek, woods, calm, shallow, residential, aerial' a partir de 8s
+[   162s]     trecho escuro em 8s, tentando mais adiante
+[   162s]     trecho escuro em 11s, tentando mais adiante
+[   165s]     trecho escuro em 8s, tentando mais adiante
+[   168s]     trecho escuro em 8s, tentando mais adiante
+[   171s]     trecho escuro em 12s, tentando mais adiante
+[   172s]     trecho escuro em 19s, tentando mais adiante
+[   173s]     trecho escuro em 20s, tentando mais adiante
+[   174s]     trecho escuro em 32s, tentando mais adiante
+[   175s]     trecho escuro em 10s, tentando mais adiante
+[   175s]     trecho escuro em 16s, tentando mais adiante
+[   176s]     trecho escuro em 8s, tentando mais adiante
+[   177s]     trecho escuro em 8s, tentando mais adiante
+[   181s]     + 3_pixabay.mp4 de 'nature, river, landscape, forest, trees, leaves, flowing, ro' a partir de 10s
+[   181s]     trecho escuro em 8s, tentando mais adiante
+[   182s]     trecho escuro em 11s, tentando mais adiante
+[   187s]     + 4_pixabay.mp4 de 'summer, river, water, landscape, forest, nature, woods, wood' a partir de 15s
+[   193s]     trecho escuro em 8s, tentando mais adiante
+[   197s]     trecho escuro em 8s, tentando mais adiante
+[   201s]     + 5_pixabay.mp4 de 'river, stream, shallow water, muddy water, grass, water flow' a partir de 10s
+[   201s]     trecho escuro em 8s, tentando mais adiante
+[   202s]     trecho escuro em 8s, tentando mais adiante
+[   202s]   v_river / pexels: 0 filmes para 'braided river aerial'
+[   204s]   v_river / pixabay: 12 filmes para 'braided river aerial'
+[   204s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=braided+river+aerial&page_size=8&urls=true&api_key=e46f0775805a10c
+[   204s]   v_river / coverr: 0 filmes para 'braided river aerial'
+[   212s]     + 6_pixabay.mp4 de 'drone, drones, drone images, nature, forest, river, landscap' a partir de 12s
+[   212s]   v_flood / pexels: 0 filmes para 'flood'
+[   213s]   v_flood / pixabay: 11 filmes para 'flood'
+[   214s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=flood&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e04d
+[   214s]   v_flood / coverr: 0 filmes para 'flood'
+[   218s]     + 1_pixabay.mp4 de 'high water, flood, river, flooding, europe' a partir de 8s
+[   218s]     trecho escuro em 0s, tentando mais adiante
+[   219s]     trecho escuro em 0s, tentando mais adiante
+[   225s]     + 2_pixabay.mp4 de 'fish market, flooding season, fisherman, boat, flood, water,' a partir de 8s
+[   229s]     + 3_pixabay.mp4 de 'flood, flooding, water, rain, sky, clouds, nature, dark, col' a partir de 0s
+[   232s]     + 4_pixabay.mp4 de 'flood, water, rain, river, a disaster, flooding, storm, wave' a partir de 8s
+[   235s]     trecho escuro em 8s, tentando mais adiante
+[   237s]     trecho escuro em 8s, tentando mais adiante
+[   243s]     trecho escuro em 10s, tentando mais adiante
+[   247s]     trecho escuro em 16s, tentando mais adiante
+[   255s]     + 5_pixabay.mp4 de 'river, waterfall, cascade, flow, energy, flood, nature, slow' a partir de 8s
+[   258s]     trecho escuro em 8s, tentando mais adiante
+[   260s]     trecho escuro em 8s, tentando mais adiante
+[   262s]     trecho escuro em 20s, tentando mais adiante
+[   263s]     trecho escuro em 31s, tentando mais adiante
+[   268s]     + 6_pixabay.mp4 de 'river, waterfall, cascade, flow, energy, flood, nature, slow' a partir de 8s
+[   268s]   v_rain / pexels: 0 filmes para 'heavy rain'
+[   269s]   v_rain / pixabay: 11 filmes para 'heavy rain'
+[   270s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=heavy+rain&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa8
+[   270s]   v_rain / coverr: 0 filmes para 'heavy rain'
+[   275s]     + 1_pixabay.mp4 de 'rain, raindrops, heavy rain, spring' a partir de 8s
+[   278s]     + 2_pixabay.mp4 de 'tree, rain, heavy rain, nature, forest, woods, rainfall, lan' a partir de 8s
+[   284s]     + 3_pixabay.mp4 de 'rain, heavy rain, country rain, downpour, cloudburst, raindr' a partir de 0s
+[   287s]     + 4_pixabay.mp4 de 'rain, raindrops, close-up, spring, heavy rain' a partir de 10s
+[   291s]     + 5_pixabay.mp4 de 'sky, rain, heavy rain, clouds, atmospheric, rain clouds, sto' a partir de 0s
+[   294s]     + 6_pixabay.mp4 de 'heavy rain, rain, storm' a partir de 0s
+[   294s]   v_volcano / pexels: 0 filmes para 'volcano eruption'
+[   295s]   v_volcano / pixabay: 12 filmes para 'volcano eruption'
+[   296s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=volcano+eruption&page_size=8&urls=true&api_key=e46f0775805a10c2dd3
+[   296s]   v_volcano / coverr: 0 filmes para 'volcano eruption'
+[   301s]     + 1_pixabay.mp4 de 'volcano, iceland, icelandic, eruption, smoking, fire, lava, ' a partir de 8s
+[   307s]     + 2_pixabay.mp4 de 'volcano, smoke, fire, heat, flame, burn, geology, volcanolog' a partir de 8s
+[   312s]     + 3_pixabay.mp4 de 'volcano, eruption, fire, heat, burn, volcanic, iceland, natu' a partir de 8s
+[   317s]     + 4_pixabay.mp4 de 'lightning, eruption, reef, volcano, aerial, island, lava, as' a partir de 8s
+[   323s]     + 5_pixabay.mp4 de 'lava, volcano, fire, iceland, nature, landscape, smoke, hot,' a partir de 8s
+[   324s]     trecho escuro em 8s, tentando mais adiante
+[   325s]     trecho escuro em 9s, tentando mais adiante
+[   326s]     trecho escuro em 8s, tentando mais adiante
+[   326s]     trecho escuro em 10s, tentando mais adiante
+[   330s]     + 6_pixabay.mp4 de 'valley, volcano, crater, etna, aerial view, eruption, journe' a partir de 14s
+[   331s]     trecho escuro em 8s, tentando mais adiante
+[   331s]     trecho escuro em 8s, tentando mais adiante
+[   338s]     + 7_pixabay.mp4 de 'spouter, gusher, hot, attraction, water, boiling, breakout, ' a partir de 8s
+[   341s]     + 8_pixabay.mp4 de 'volcano, volcanic eruption, eruption, lava, la palma, fire, ' a partir de 13s
+[   341s]   v_lava / pexels: 0 filmes para 'lava flow'
+[   343s]   v_lava / pixabay: 12 filmes para 'lava flow'
+[   343s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=lava+flow&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85
+[   343s]   v_lava / coverr: 0 filmes para 'lava flow'
+[   346s]     + 1_pixabay.mp4 de 'ai generated, lava, fluid, glossy, oily, copper, abstract, h' a partir de 0s
+[   346s]     trecho escuro em 0s, tentando mais adiante
+[   349s]     + 2_pixabay.mp4 de 'ai generated, lava, fluid, liquid, abstract, structure, glos' a partir de 0s
+[   349s]     trecho escuro em 0s, tentando mais adiante
+[   350s]     trecho escuro em 0s, tentando mais adiante
+[   351s]     trecho escuro em 8s, tentando mais adiante
+[   351s]     trecho escuro em 11s, tentando mais adiante
+[   355s]     + 3_pixabay.mp4 de 'volcano, lava, eruption, ocean, beach, explosion, steam, ash' a partir de 15s
+[   355s]     trecho escuro em 8s, tentando mais adiante
+[   356s]     trecho escuro em 8s, tentando mais adiante
+[   356s]     trecho escuro em 9s, tentando mais adiante
+[   357s]     trecho escuro em 15s, tentando mais adiante
+[   357s]     trecho escuro em 8s, tentando mais adiante
+[   358s]     trecho escuro em 12s, tentando mais adiante
+[   360s]     + 4_pixabay.mp4 de 'volcano, sea, active volcano, danger, dangerous, erupting, e' a partir de 11s
+[   366s]     + 5_pixabay.mp4 de 'light leak, lava lamp, light, lava, lamp, lighting, psychede' a partir de 14s
+[   366s]   v_desert / pexels: 0 filmes para 'red desert'
+[   368s]   v_desert / pixabay: 11 filmes para 'red desert'
+[   368s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=red+desert&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa8
+[   368s]   v_desert / coverr: 0 filmes para 'red desert'
+[   372s]     + 1_pixabay.mp4 de 'desert, sand, red, road, landscape' a partir de 8s
+[   375s]     + 2_pixabay.mp4 de 'monument valley, desert, usa, background, wild west, landsca' a partir de 26s
+[   376s]     + 3_pixabay.mp4 de 'road to nowhere, desert, alone, car, driving, arizona, utah,' a partir de 8s
+[   382s]     + 4_pixabay.mp4 de 'desert, red sand, wild, cloudy, natural landscape, horizon, ' a partir de 8s
+[   384s]     + 5_pixabay.mp4 de 'flower, desert, karg, dry, blender, 3d, plant, nature, bloss' a partir de 0s
+[   388s]     + 6_pixabay.mp4 de 'canyon, arch, valley, red rocks, desert, brazil, pau-brasil' a partir de 9s
+[   388s]   v_forest / pexels: 0 filmes para 'conifer forest'
+[   389s]   v_forest / pixabay: 12 filmes para 'conifer forest'
+[   390s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=conifer+forest&page_size=8&urls=true&api_key=e46f0775805a10c2dd344
+[   390s]   v_forest / coverr: 0 filmes para 'conifer forest'
+[   392s]     + 1_pixabay.mp4 de 'christmas, christmas decorations, bullet, tree, conifer, bra' a partir de 9s
+[   398s]     + 2_pixabay.mp4 de 'okanagan, aerial, winter wonderland, landscape, scenic, powd' a partir de 10s
+[   405s]     + 3_pixabay.mp4 de 'tree, conifer, larch, wind, larch blossoms, hill, forest' a partir de 14s
+[   409s]     + 4_pixabay.mp4 de 'winter, icicle, snow, sunny, conifer, sunbeams, glitter, spa' a partir de 8s
+[   412s]     + 5_pixabay.mp4 de 'winter, snow, tree, conifer, snow melt, waterdrop, tree bran' a partir de 12s
+[   414s]     + 6_pixabay.mp4 de 'winter, icicle, snow, sunny, conifer, sunbeams, glitter, mel' a partir de 14s
+[   414s]   v_fern / pexels: 0 filmes para 'fern'
+[   415s]   v_fern / pixabay: 11 filmes para 'fern'
+[   416s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=fern&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e04d8
+[   416s]   v_fern / coverr: 0 filmes para 'fern'
+[   420s]     + 1_pixabay.mp4 de 'fern, fern leaf, worm fern, dancing leaves, forest plant, fe' a partir de 9s
+[   420s]     trecho escuro em 10s, tentando mais adiante
+[   424s]     trecho escuro em 16s, tentando mais adiante
+[   432s]     trecho escuro em 8s, tentando mais adiante
+[   437s]     trecho escuro em 8s, tentando mais adiante
+[   440s]     trecho escuro em 14s, tentando mais adiante
+[   444s]     trecho escuro em 23s, tentando mais adiante
+[   453s]     trecho escuro em 10s, tentando mais adiante
+[   458s]     trecho escuro em 16s, tentando mais adiante
+[   470s]     + 2_pixabay.mp4 de 'fern, leaves, plants, spring, nature' a partir de 10s
+[   473s]     + 3_pixabay.mp4 de 'fern, forest, summer, green, wind, nature, landscape' a partir de 0s
+[   476s]     + 4_pixabay.mp4 de 'frost, fern, fresh, cold, highland, morning, sunrise, nature' a partir de 8s
+[   476s]     trecho escuro em 0s, tentando mais adiante
+[   479s]     + 5_pixabay.mp4 de 'lake, marsh, sunset, fern, water, nature' a partir de 0s
+[   479s]   v_crocodile / pexels: 0 filmes para 'crocodile'
+[   480s]   v_crocodile / pixabay: 12 filmes para 'crocodile'
+[   481s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=crocodile&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85
+[   481s]   v_crocodile / coverr: 0 filmes para 'crocodile'
+[   486s]     + 1_pixabay.mp4 de 'crocodile, animal, wildlife, nature' a partir de 0s
+[   492s]     + 2_pixabay.mp4 de 'crocodile, alligator, reptile, wild, wildlife, predator, gre' a partir de 8s
+[   497s]     + 3_pixabay.mp4 de 'crocodile, zoo, basel, visitors, dangerous, write, swim' a partir de 0s
+[   500s]     trecho escuro em 8s, tentando mais adiante
+[   502s]     trecho escuro em 8s, tentando mais adiante
+[   509s]     trecho escuro em 8s, tentando mais adiante
+[   515s]     trecho escuro em 8s, tentando mais adiante
+[   524s]     + 4_pixabay.mp4 de 'crocodile, swim, dandruff, reptile, teeth, dangerous, water,' a partir de 13s
+[   527s]     + 5_pixabay.mp4 de 'crocodile, beach, animal, water, alligator, sea, nature, tro' a partir de 0s
+[   527s]     trecho escuro em 0s, tentando mais adiante
+[   530s]     + 6_pixabay.mp4 de 'crocodile, reptiel, dangerous, predator, lizard, water, rept' a partir de 0s
+[   531s]     trecho escuro em 0s, tentando mais adiante
+[   533s]     + 7_pixabay.mp4 de 'crocodiles, predator, alligator, savage, carnivorous, fauna' a partir de 0s
+[   533s]     trecho escuro em 0s, tentando mais adiante
+[   538s]     + 8_pixabay.mp4 de 'crocodiles, alligators, reptiles, animals, predators, water,' a partir de 0s
+[   538s]   v_lizard / pexels: 0 filmes para 'lizard'
+[   539s]   v_lizard / pixabay: 12 filmes para 'lizard'
+[   540s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=lizard&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e04
+[   540s]   v_lizard / coverr: 0 filmes para 'lizard'
+[   545s]     trecho escuro em 8s, tentando mais adiante
+[   551s]     trecho escuro em 8s, tentando mais adiante
+[   558s]     trecho escuro em 8s, tentando mais adiante
+[   562s]     trecho escuro em 8s, tentando mais adiante
+[   567s]     + 1_pixabay.mp4 de 'lizard, tree, green' a partir de 0s
+[   567s]     trecho escuro em 8s, tentando mais adiante
+[   568s]     trecho escuro em 12s, tentando mais adiante
+[   571s]     + 2_pixabay.mp4 de 'animal, wildlife, lizard, nature, wilderness, antelope, orie' a partir de 16s
+[   576s]     + 3_pixabay.mp4 de 'animal, nature, lizard, armenia' a partir de 8s
+[   579s]     + 4_pixabay.mp4 de 'water dragon, lizard, chinese, physignathus, concincinus, wa' a partir de 8s
+[   583s]     + 5_pixabay.mp4 de 'chameleon, lizard, reptile, animal, exotarium, stavropol exo' a partir de 8s
+[   589s]     + 6_pixabay.mp4 de 'dragon, lizard, animal, gecko, reptile, wildlife, arboreal, ' a partir de 0s
+[   591s]     + 7_pixabay.mp4 de 'animal, lizard, nature, wild' a partir de 15s
+[   597s]     + 8_pixabay.mp4 de 'lizard, wall lizard, hunt, insect hunting, huntress, hunter' a partir de 8s
+[   597s]   v_bird / pexels: 0 filmes para 'bird'
+[   598s]   v_bird / pixabay: 11 filmes para 'bird'
+[   599s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=bird&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e04d8
+[   599s]   v_bird / coverr: 0 filmes para 'bird'
+[   601s]     + 1_pixabay.mp4 de 'robin, bird, forest, nature, spring, fly, ali, animal' a partir de 8s
+[   608s]     + 2_pixabay.mp4 de 'bird, blue-and-white fly, cyanoptila cyanomelana, male, whis' a partir de 8s
+[   611s]     + 3_pixabay.mp4 de 'flamingo, flamingo bird, animal, bird, birds' a partir de 8s
+[   616s]     + 4_pixabay.mp4 de 'bird, blue tit, plumage, feeding place, bird watching, wildl' a partir de 8s
+[   622s]     + 5_pixabay.mp4 de 'bird, shrike, scalpel, natural, flying' a partir de 8s
+[   622s]   v_stars / pexels: 0 filmes para 'night sky stars'
+[   623s]   v_stars / pixabay: 10 filmes para 'night sky stars'
+[   624s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=night+sky+stars&page_size=8&urls=true&api_key=e46f0775805a10c2dd34
+[   624s]   v_stars / coverr: 0 filmes para 'night sky stars'
+[   627s]     trecho escuro em 8s, tentando mais adiante
+[   629s]     trecho escuro em 8s, tentando mais adiante
+[   631s]     + 1_pixabay.mp4 de 'milky way, heaven, starry sky, night, stars, evening sky, sp' a partir de 10s
+[   633s]     + 2_pixabay.mp4 de 'night sky, stars, milky way, camp, astronomy, heaven, campin' a partir de 0s
+[   639s]     + 3_pixabay.mp4 de 'stars, night sky, starry sky, night, universe' a partir de 8s
+[   644s]     trecho escuro em 13s, tentando mais adiante
+[   648s]     trecho escuro em 20s, tentando mais adiante
+[   653s]     + 4_pixabay.mp4 de 'stars, starry sky, polar star, night sky, sheet lightning, f' a partir de 27s
+[   660s]     + 5_pixabay.mp4 de 'buildings, sky, city, night, stars' a partir de 14s
+[   662s]     + 6_pixabay.mp4 de 'stars, sky, night, aurora, forest, nature, trees, landscape' a partir de 19s
+[   662s]   v_earth / pexels: 0 filmes para 'earth from space'
+[   663s]   v_earth / pixabay: 10 filmes para 'earth from space'
+[   664s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=earth+from+space&page_size=8&urls=true&api_key=e46f0775805a10c2dd3
+[   664s]   v_earth / coverr: 0 filmes para 'earth from space'
+[   665s]     trecho escuro em 8s, tentando mais adiante
+[   667s]     trecho escuro em 8s, tentando mais adiante
+[   670s]     trecho escuro em 0s, tentando mais adiante
+[   672s]     trecho escuro em 0s, tentando mais adiante
+[   675s]     trecho escuro em 0s, tentando mais adiante
+[   676s]     trecho escuro em 0s, tentando mais adiante
+[   681s]     + 1_pixabay.mp4 de 'earth from space, silhouette with earth view, astronaut pers' a partir de 0s
+[   681s]     trecho escuro em 0s, tentando mais adiante
+[   683s]     + 2_pixabay.mp4 de 'astronaut, space, outer space, earth from space, planet eart' a partir de 0s
+[   684s]     trecho escuro em 8s, tentando mais adiante
+[   684s]     trecho escuro em 11s, tentando mais adiante
+[   690s]     + 3_pixabay.mp4 de 'earth limb, atmosphere arc, blue atmosphere, earth from spac' a partir de 15s
+[   692s]     + 4_pixabay.mp4 de 'nova, supernova, betelgeuse, desert, view from earth, earth,' a partir de 9s
+[   695s]     + 5_pixabay.mp4 de 'ai generated, outer space, view from cabin, cockpit, spacecr' a partir de 9s
+[   695s]   v_ship / pexels: 0 filmes para 'old ship'
+[   696s]   v_ship / pixabay: 11 filmes para 'old ship'
+[   697s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=old+ship&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e
+[   697s]   v_ship / coverr: 0 filmes para 'old ship'
+[   701s]     + 1_pixabay.mp4 de 'ship, sea, decay, paphos, cyprus, landscape, old, shipwreck' a partir de 10s
+[   704s]     + 2_pixabay.mp4 de 'ship, candle, mockup, treasure hunt, old book, old maps, can' a partir de 0s
+[   707s]     + 3_pixabay.mp4 de 'tall ship, boat, sail, dream, journey, magic, mirror, night,' a partir de 12s
+[   708s]     trecho escuro em 8s, tentando mais adiante
+[   710s]     trecho escuro em 8s, tentando mais adiante
+[   716s]     + 4_pixabay.mp4 de 'boats, sea, port, retro, old, wooden, dock, marine, tourism,' a partir de 8s
+[   716s]   v_microscope / pexels: 0 filmes para 'microscope'
+[   717s]   v_microscope / pixabay: 11 filmes para 'microscope'
+[   718s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=microscope&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa8
+[   718s]   v_microscope / coverr: 0 filmes para 'microscope'
+[   722s]     + 1_pixabay.mp4 de 'scientific, laboratory, science, to experience, chemical, mi' a partir de 8s
+[   728s]     trecho escuro em 8s, tentando mais adiante
+[   732s]     trecho escuro em 8s, tentando mais adiante
+[   738s]     + 2_pixabay.mp4 de 'snow, flea, fleas, springtail, springtails, winter, small, t' a partir de 10s
+[   740s]     trecho escuro em 8s, tentando mais adiante
+[   742s]     trecho escuro em 8s, tentando mais adiante
+[   743s]     + 3_pixabay.mp4 de 'robot, metaphor, investigation, medicine, laboratory, futuri' a partir de 10s
+[   746s]     + 4_pixabay.mp4 de 'microscope, research, doctor, lab, science, vaccine, medicin' a partir de 0s
+[   747s]     + 5_pixabay.mp4 de 'bacterium, germ, bacteria, virus, infection, microbiology, m' a partir de 0s
+[   747s]   v_rs / pexels: 0 filmes para 'Rio Grande do Sul'
+[   749s]   v_rs / pixabay: 11 filmes para 'Rio Grande do Sul'
+[   749s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=Rio+Grande+do+Sul&page_size=8&urls=true&api_key=e46f0775805a10c2dd
+[   749s]   v_rs / coverr: 0 filmes para 'Rio Grande do Sul'
+[   755s]     + 1_pixabay.mp4 de 'cars, traffic, streets, buildings, city, brazil, transport, ' a partir de 8s
+[   758s]     + 2_pixabay.mp4 de 'brazil, brasil, braziltravel, visitbrasil, riodejaneiro, rio' a partir de 0s
+[   761s]     + 3_pixabay.mp4 de 'beach, sea, rio de janeiro, copacabana, brazil' a partir de 9s
+[   761s]     trecho escuro em 0s, tentando mais adiante
+[   764s]     + 4_pixabay.mp4 de 'paris, la grande arche, france, road, traffic, cars' a partir de 0s
+[   767s]     + 5_pixabay.mp4 de 'mountains, trees, clouds, wind, blue sky, nature, live wallp' a partir de 12s
+[   767s]     trecho escuro em 0s, tentando mais adiante
+[   769s]     + 6_pixabay.mp4 de 'pôr do sol, sol, montanhas, natureza, panorama, nuvens, nasc' a partir de 0s
+[   769s]   v_road / pexels: 0 filmes para 'dirt road'
+[   770s]   v_road / pixabay: 10 filmes para 'dirt road'
+[   771s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=dirt+road&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85
+[   771s]   v_road / coverr: 0 filmes para 'dirt road'
+[   774s]     + 1_pixabay.mp4 de 'rallye, car race, rally, drifting, dirt, dust, curve, speed,' a partir de 0s
+[   781s]     + 2_pixabay.mp4 de 'dirt road, mountain path, steep slope, terraced hills, farmi' a partir de 0s
+[   785s]     + 3_pixabay.mp4 de "wind power, wind energy, wind power plants, windmill, bird's" a partir de 0s
+[   785s]     trecho escuro em 10s, tentando mais adiante
+[   786s]     trecho escuro em 16s, tentando mais adiante
+[   789s]     + 4_pixabay.mp4 de 'dirt road, road, landscape, earth, rural, oxen, pasture, fie' a partir de 0s
+[   794s]     trecho escuro em 8s, tentando mais adiante
+[   799s]     trecho escuro em 8s, tentando mais adiante
+[   810s]     + 5_pixabay.mp4 de 'ruins, castle, turkish-hungarian battle, model, turkish empi' a partir de 8s
+[   810s]   v_clouds / pexels: 0 filmes para 'storm clouds'
+[   811s]   v_clouds / pixabay: 12 filmes para 'storm clouds'
+[   812s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=storm+clouds&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444a
+[   812s]   v_clouds / coverr: 0 filmes para 'storm clouds'
+[   814s]     + 1_pixabay.mp4 de 'windmill, turbine, energy, storm clouds' a partir de 0s
+[   816s]     + 2_pixabay.mp4 de 'clouds, beautiful wallpaper, storm, landscape, background, m' a partir de 0s
+[   819s]     + 3_pixabay.mp4 de 'tornado, storm, field, twister, funnel, weather, extreme wea' a partir de 8s
+[   822s]     + 4_pixabay.mp4 de 'storm, ocean, sky, rain, the waves, wind, dark clouds, rolli' a partir de 14s
+[   824s]     trecho escuro em 8s, tentando mais adiante
+[   827s]     trecho escuro em 8s, tentando mais adiante
+[   834s]     + 5_pixabay.mp4 de 'thunderstorm, lightning, clouds, wind, smoke, atmosphere, st' a partir de 15s
+# Videos — fe04-primeiro-dinossauro-brasil
+
+- Planos: 22 · clipes: 135 · sem resultado: 0
+- Folhas: video_contact_sheet_1.jpg, video_contact_sheet_2.jpg, video_contact_sheet_3.jpg, video_contact_sheet_4.jpg, video_contact_sheet_5.jpg, video_contact_sheet_6.jpg, video_contact_sheet_7.jpg, video_contact_sheet_8.jpg, video_contact_sheet_9.jpg, video_contact_sheet_10.jpg, video_contact_sheet_11.jpg, video_contact_sheet_12.jpg, video_contact_sheet_13.jpg, video_contact_sheet_14.jpg
+
+| plano | clipes |
+|---|---|
+| `v_dino` | 10 |
+| `v_fossil` | 8 |
+| `v_museum` | 6 |
+| `v_dig` | 6 |
+| `v_river` | 6 |
+| `v_flood` | 6 |
+| `v_rain` | 6 |
+| `v_volcano` | 8 |
+| `v_lava` | 5 |
+| `v_desert` | 6 |
+| `v_forest` | 6 |
+| `v_fern` | 5 |
+| `v_crocodile` | 8 |
+| `v_lizard` | 8 |
+| `v_bird` | 5 |
+| `v_stars` | 6 |
+| `v_earth` | 5 |
+| `v_ship` | 4 |
+| `v_microscope` | 5 |
+| `v_rs` | 6 |
+| `v_road` | 5 |
+| `v_clouds` | 5 |
+
