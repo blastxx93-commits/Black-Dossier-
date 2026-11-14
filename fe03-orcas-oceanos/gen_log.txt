@@ -1,108 +1,84 @@
-ai_mosasaurus_jaws_1: Gemini falhou (Gemini 429: {
+ai_lv_deep_1: Gemini falhou (Gemini 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please check your plan and ), tentando Replicate
-ai_mosasaurus_jaws_1: 1920x1080
-ai_mosasaurus_surface_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_mosasaurus_surface_1: 1920x1080
-ai_cretaceous_sea_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_cretaceous_sea_1: 1920x1080
-ai_mosasaurus_below_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_mosasaurus_below_1: 1920x1080
-ai_basilosaurus_swim_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_basilosaurus_swim_1: 1920x1080
-ai_basilosaurus_skull_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_basilosaurus_skull_1: 1920x1080
-ai_eocene_sea_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_eocene_sea_1: 1920x1080
-ai_megalodon_jaws_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_megalodon_jaws_1: 1920x1080
-ai_megalodon_whale_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_megalodon_whale_1: 1920x1080
-ai_megalodon_below_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_megalodon_below_1: 1920x1080
-ai_megalodon_tooth_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_megalodon_tooth_1: 1920x1080
-ai_livyatan_teeth_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_livyatan_teeth_1: 1920x1080
-ai_livyatan_hunt_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_livyatan_hunt_1: 1920x1080
-ai_miocene_sea_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_miocene_sea_1: 1920x1080
-ai_pliocene_cold_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_pliocene_cold_1: 1920x1080
-ai_greatwhite_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_greatwhite_1: 1920x1080
-ai_orca_ice_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_orca_ice_1: 1920x1080
-ai_orca_wave_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_orca_wave_1: 1920x1080
-ai_orca_family_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_orca_family_1: 1920x1080
-ai_orca_spyhop_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_orca_spyhop_1: 1920x1080
-ai_orca_fin_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_orca_fin_1: 1920x1080
-ai_orca_dive_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_orca_dive_1: 1920x1080
-ai_orca_sunset_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_orca_sunset_1: 1920x1080
-ai_orca_brain_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_orca_brain_1: 1920x1080
-ai_orca_echolocation_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_orca_echolocation_1: 1920x1080
-ai_ocean_timeline_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_ocean_timeline_1: 1920x1080
-ai_deep_ocean_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_deep_ocean_1: 1920x1080
-ai_ocean_surface_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_ocean_surface_1: 1920x1080
-ai_ship_noise_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_ship_noise_1: 1920x1080
-ai_polluted_sea_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_polluted_sea_1: 1920x1080
-ai_orca_pod_surface_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_orca_pod_surface_1: 1920x1080
-ai_fossil_cliff_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_fossil_cliff_1: 1920x1080
+ai_lv_deep_1: 1920x1080
+ai_lv_skull_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_lv_skull_1: 1920x1080
+ai_peru_desert_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_peru_desert_1: 1920x1080
+ai_pl_ice_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_pl_ice_1: 1920x1080
+ai_pl_seals_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_pl_seals_1: 1920x1080
+ai_pl_greatwhite_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_pl_greatwhite_1: 1920x1080
+ai_pl_orca_ice_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_pl_orca_ice_1: 1920x1080
+ai_pl_orcas_hunt_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_pl_orcas_hunt_1: 1920x1080
+ai_pl_whale_cold_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_pl_whale_cold_1: 1920x1080
+ai_pl_coast_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_pl_coast_1: 1920x1080
+ai_o_jump_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_o_jump_1: 1920x1080
+ai_o_under_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_o_under_1: 1920x1080
+ai_o_head_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_o_head_1: 1920x1080
+ai_o_pod_dawn_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_o_pod_dawn_1: 1920x1080
+ai_o_calf_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_o_calf_1: 1920x1080
+ai_o_tail_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_o_tail_1: 1920x1080
+ai_o_fin_mist_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_o_fin_mist_1: 1920x1080
+ai_o_hunt_fish_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_o_hunt_fish_1: 1920x1080
+ai_o_deep_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_o_deep_1: 1920x1080
+ai_o_sunrise_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_o_sunrise_1: 1920x1080
+ai_h_ship_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_h_ship_1: 1920x1080
+ai_h_orcas_city_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_h_orcas_city_1: 1920x1080
+ai_h_research_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_h_research_1: 1920x1080
+ai_h_underwater_noise_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_h_underwater_noise_1: 1920x1080
 # Imagens IA — fe03-orcas-oceanos
 
 - Modelo: `gemini-2.5-flash-image`
-- Imagens geradas: 32
-- Folhas: ai_contact_sheet_1.jpg, ai_contact_sheet_2.jpg, ai_contact_sheet_3.jpg, ai_contact_sheet_4.jpg, ai_contact_sheet_5.jpg, ai_contact_sheet_6.jpg
+- Imagens geradas: 24
+- Folhas: ai_contact_sheet_1.jpg, ai_contact_sheet_2.jpg, ai_contact_sheet_3.jpg, ai_contact_sheet_4.jpg
 
 | plano | resultado |
 |---|---|
-| `ai_mosasaurus_jaws` | 1 de 1 |
-| `ai_mosasaurus_surface` | 1 de 1 |
-| `ai_cretaceous_sea` | 1 de 1 |
-| `ai_mosasaurus_below` | 1 de 1 |
-| `ai_basilosaurus_swim` | 1 de 1 |
-| `ai_basilosaurus_skull` | 1 de 1 |
-| `ai_eocene_sea` | 1 de 1 |
-| `ai_megalodon_jaws` | 1 de 1 |
-| `ai_megalodon_whale` | 1 de 1 |
-| `ai_megalodon_below` | 1 de 1 |
-| `ai_megalodon_tooth` | 1 de 1 |
-| `ai_livyatan_teeth` | 1 de 1 |
-| `ai_livyatan_hunt` | 1 de 1 |
-| `ai_miocene_sea` | 1 de 1 |
-| `ai_pliocene_cold` | 1 de 1 |
-| `ai_greatwhite` | 1 de 1 |
-| `ai_orca_ice` | 1 de 1 |
-| `ai_orca_wave` | 1 de 1 |
-| `ai_orca_family` | 1 de 1 |
-| `ai_orca_spyhop` | 1 de 1 |
-| `ai_orca_fin` | 1 de 1 |
-| `ai_orca_dive` | 1 de 1 |
-| `ai_orca_sunset` | 1 de 1 |
-| `ai_orca_brain` | 1 de 1 |
-| `ai_orca_echolocation` | 1 de 1 |
-| `ai_ocean_timeline` | 1 de 1 |
-| `ai_deep_ocean` | 1 de 1 |
-| `ai_ocean_surface` | 1 de 1 |
-| `ai_ship_noise` | 1 de 1 |
-| `ai_polluted_sea` | 1 de 1 |
-| `ai_orca_pod_surface` | 1 de 1 |
-| `ai_fossil_cliff` | 1 de 1 |
+| `ai_lv_deep` | 1 de 1 |
+| `ai_lv_skull` | 1 de 1 |
+| `ai_peru_desert` | 1 de 1 |
+| `ai_pl_ice` | 1 de 1 |
+| `ai_pl_seals` | 1 de 1 |
+| `ai_pl_greatwhite` | 1 de 1 |
+| `ai_pl_orca_ice` | 1 de 1 |
+| `ai_pl_orcas_hunt` | 1 de 1 |
+| `ai_pl_whale_cold` | 1 de 1 |
+| `ai_pl_coast` | 1 de 1 |
+| `ai_o_jump` | 1 de 1 |
+| `ai_o_under` | 1 de 1 |
+| `ai_o_head` | 1 de 1 |
+| `ai_o_pod_dawn` | 1 de 1 |
+| `ai_o_calf` | 1 de 1 |
+| `ai_o_tail` | 1 de 1 |
+| `ai_o_fin_mist` | 1 de 1 |
+| `ai_o_hunt_fish` | 1 de 1 |
+| `ai_o_deep` | 1 de 1 |
+| `ai_o_sunrise` | 1 de 1 |
+| `ai_h_ship` | 1 de 1 |
+| `ai_h_orcas_city` | 1 de 1 |
+| `ai_h_research` | 1 de 1 |
+| `ai_h_underwater_noise` | 1 de 1 |
 
