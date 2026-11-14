@@ -178,7 +178,7 @@ c.at("Ele era carnívoro", hf("frase", text="Ele era *carnívoro.*", img="scene:
 c.at("Isso significa", foot("gigantes"))
 c.at("Só milhões de anos depois", foot("gigantes"))
 c.at("E no mesmo bloco de rocha", hf("rotulo", img="p_ixalerpeton/1", kicker="Primo dos pterossauros", name="Ixalérpeton", sci="Ixalerpeton polesinensis", side="right"))
-c.at("Os primos dos dinossauros", foot("buri"))
+c.at("Dois ramos diferentes da família", foot("buri"))
 chapters.append(c)
 
 # ---------------------------------------------------------------- Gnathovorax
