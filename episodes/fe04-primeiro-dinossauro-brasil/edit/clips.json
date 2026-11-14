@@ -1,0 +1,14 @@
+{
+ "rio": ["v_river/1", "v_river/2", "v_river/3", "v_river/4", "v_river/6", "v_fossil/3"],
+ "cheia": ["v_flood/5", "v_flood/6", "v_rain/1", "v_rain/2", "v_rain/3", "v_rain/5", "v_clouds/2", "v_clouds/4"],
+ "vulcao": ["v_volcano/1", "v_volcano/2", "v_volcano/3", "v_volcano/4", "v_volcano/5", "v_volcano/8", "v_lava/2", "v_lava/3", "v_lava/4"],
+ "seco": ["v_desert/4", "v_desert/6", "v_earth/4"],
+ "espaco": ["v_earth/3"],
+ "plantas": ["v_forest/3", "v_fern/1", "v_fern/2", "v_fern/3"],
+ "croc": ["v_crocodile/1", "v_crocodile/2", "v_crocodile/4", "v_crocodile/7", "v_crocodile/8"],
+ "lagarto": ["v_lizard/2", "v_lizard/3", "v_lizard/4", "v_lizard/6", "v_lizard/7"],
+ "aves": ["v_bird/1", "v_bird/3", "v_bird/5"],
+ "ceu": ["v_stars/1", "v_stars/4"],
+ "lab": ["v_microscope/1", "v_microscope/4"],
+ "rs": ["v_rs/5", "v_road/2", "v_road/4"]
+}
