@@ -45,7 +45,7 @@ FALLBACK.update({"stauri": ["tri", "dig"], "presto": ["tri"], "gnatho": ["stauri
                  "macro": ["satur", "tri"], "museu": ["dig"], "navio": ["museu", "dig"], "ceu": ["tri"], "ciencia": ["dig", "museu"],
                  "argentina": ["tri", "stauri"], "extincao": ["chuva", "tri"], "gigantes": ["tri"], "rs": ["dig"], "dig": ["rs"],
                  "chuva": ["tri"], "pangea": ["tri"], "cyno": ["tri", "hyper"], "hyper": ["tri", "cyno"], "tri": ["chuva"]})
-PIN_IDS = ["ai_stauri_hero", "ai_stauri_portrait", "ai_gnatho_hero", "ai_macro_trio", "ai_presto_hero", "p_herrera/2",
+PIN_IDS = ["ai_stauri_hero", "ai_stauri_portrait", "ai_gnatho_hero", "ai_macro_trio", "ai_presto_hero", "p_herrera/1",
            "p_colbert/1", "p_ixalerpeton/1", "p_nyasa/1", "ai_hyper_herd", "p_rs_landscape/2", "ai_dino_takeover"]
 A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FALLBACK, ["tri"])
 A.CFG["reviewed"] = set(json.load(open(os.path.join(HERE, "reviewed.json"))))
@@ -148,7 +148,7 @@ c.at("E a mandíbula tinha", foot("stauri"))
 c.at("Ele era um caçador rápido", foot("stauri"))
 c.at("Provavelmente perseguia", foot("stauri"))
 c.at("Nada de enfrentar", foot("stauri"))
-c.at("E tem um detalhe curioso", hf("comparar", limg="p_herrera/2", rimg="ai_stauri_portrait", lkick="Parente próximo",
+c.at("E tem um detalhe curioso", hf("comparar", limg="p_herrera/1", rimg="ai_stauri_portrait", lkick="Parente próximo",
                                     lname="Herrerassauro", rkick="Reconstrução", rname="Estauricossauro"))
 c.at("Mas o Estauricossauro estava longe", foot("stauri"))
 c.at("E o que apareceu depois", foot("gnatho"))
