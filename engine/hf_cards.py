@@ -90,7 +90,7 @@ def linha(c):
     ticks = "".join(f'<div class="tick" style="left:{140 + (span - m) / span * W:.0f}px">{m} mi</div>' for m in (252, 201, 145, 66))
     ticks += f'<div class="tick" style="left:{140 + W - 10}px">hoje</div>'
     mx = 140 + (span - c["ma"]) / span * W
-    lab = (f'<div class="mlab" style="left:{mx - 14:.0f}px;transform:none;text-align:left">' if mx < 420
+    lab = (f'<div class="mlab" style="left:{mx + 26:.0f}px;transform:none;text-align:left">' if mx < 420
            else f'<div class="mlab" style="left:{mx:.0f}px">')
     return (f'<div class="backdrop"></div><div class="ttl"><div class="kick">{E(c["kicker"])}</div><h3>{masked(c["title"])}</h3></div>'
             f'<div class="bar">{eras}</div>{ticks}<div class="mark" style="left:{mx - 2:.0f}px"></div>'

@@ -35,7 +35,7 @@ html, body { width: 1920px; height: 1080px; overflow: hidden; background: #0e0d0
 .titulo .sub { margin-top: 28px; font-size: 36px; font-weight: 600; color: var(--bone); }
 
 /* capitulo */
-.capitulo .num { position: absolute; left: 110px; top: 160px; font-family: "Serif"; font-size: 520px; line-height: 1; color: transparent;
+.capitulo .num { position: absolute; left: 110px; top: 40px; font-family: "Serif"; font-size: 420px; line-height: 1; color: transparent;
   -webkit-text-stroke: 3px rgba(241,230,208,.55); }
 .capitulo .box { position: absolute; left: 150px; bottom: 190px; width: 1400px; }
 .capitulo h2 { font-family: "Serif"; font-size: 118px; line-height: 1.04; margin-top: 22px; text-shadow: 0 4px 40px rgba(0,0,0,.5); }
