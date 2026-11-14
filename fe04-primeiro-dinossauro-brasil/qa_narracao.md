@@ -4,17 +4,14 @@ Temperatura 0.7, top_p 0.8, desvio máximo 2.0 semitom.
 
 | capítulo | parágrafo | tentativas | tom (Hz) | resultado |
 |---|---|---|---|---|
-| ch07 | 1 | 1 | 85 | ok |
-| ch07 | 2 | 1 | 97 | ⚠ trecho errado: dois mil e dezenove tambem em |
-| ch07 | 3 | 1 | 89 | ok |
-| ch07 | 4 | 1 | 88 | ⚠ trecho errado: cerebro de um cacador |
-| ch07 | 5 | 1 | 86 | ok |
-| ch09 | 1 | 1 | 88 | ⚠ trecho errado: honesta e estao entre os; trecho errado: e aqui esta o motivo |
-| ch09 | 2 | 1 | 99 | ⚠ tom fora (99 Hz, +2.5 st) |
-| ch09 | 3 | 1 | 85 | ok |
-| ch09 | 4 | 1 | 92 | ⚠ trecho errado: como o niassassauro |
-| ch09 | 5 | 1 | 94 | ⚠ trecho errado: ainda esta em |
-| ch11 | 1 | 1 | 90 | ok |
-| ch11 | 2 | 1 | 95 | ok |
-| ch11 | 3 | 1 | 86 | ok |
-| ch11 | 4 | 1 | 87 | ok |
+| ch06 | 1 | 1 | 95 | ok |
+| ch06 | 2 | 1 | 98 | ⚠ trecho errado: era um parente antigo |
+| ch06 | 3 | 1 | 85 | ⚠ tom fora (85 Hz, -2.5 st) |
+| ch06 | 4 | 1 | 94 | ok |
+| ch06 | 5 | 1 | 88 | ok |
+| ch09 | 1 | 1 | 94 | ok |
+| ch09 | 2 | 1 | 90 | ⚠ trecho errado: zircao que vieram |
+| ch09 | 3 | 1 | 83 | ⚠ trecho errado: isso coloca os fosseis; tom fora (83 Hz, -2.1 st) |
+| ch09 | 4 | 1 | 95 | ⚠ trecho errado: como o niassassauro |
+| ch09 | 5 | 1 | 92 | ok |
+| ch09 | 6 | 1 | 104 | ok |
