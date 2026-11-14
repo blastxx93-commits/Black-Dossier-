@@ -1,0 +1,93 @@
+{
+ "defaults": {
+  "n": 3,
+  "sources": [
+   "commons",
+   "openverse",
+   "unsplash",
+   "pixabay"
+  ]
+ },
+ "shots": [
+  {
+   "id": "p_anomalocaris",
+   "query": "Anomalocaris fossil",
+   "alt": [
+    "Anomalocaris canadensis"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_dunkleosteus",
+   "query": "Dunkleosteus skull",
+   "alt": [
+    "Dunkleosteus terrelli"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_ichthyosaur",
+   "query": "Ichthyosaur fossil",
+   "alt": [
+    "Ichthyosaurus skeleton"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_liopleurodon",
+   "query": "Liopleurodon skull",
+   "alt": [
+    "pliosaur skeleton"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_mosasaurus",
+   "query": "Mosasaurus skeleton",
+   "alt": [
+    "Mosasaurus skull"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_basilosaurus",
+   "query": "Basilosaurus skeleton",
+   "alt": [
+    "Basilosaurus skull"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_megalodon",
+   "query": "Megalodon tooth",
+   "alt": [
+    "Otodus megalodon jaws"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_livyatan",
+   "query": "Livyatan melvillei skull",
+   "alt": [
+    "Livyatan"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_orca",
+   "query": "orca killer whale",
+   "alt": [
+    "Orcinus orca"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_trilobite",
+   "query": "trilobite fossil",
+   "alt": [
+    "trilobite"
+   ],
+   "n": 3
+  }
+ ]
+}

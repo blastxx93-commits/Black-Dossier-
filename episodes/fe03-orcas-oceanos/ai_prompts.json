@@ -1,0 +1,320 @@
+{
+ "model": "black-forest-labs/flux-1.1-pro-ultra",
+ "raw": true,
+ "n": 1,
+ "style": ", photorealistic nature documentary still, ocean wildlife, natural light, sharp focus, highly detailed, cinematic 16:9, anatomically correct animals, each animal clearly separate, no humans' faces, no text, no logos, no watermark",
+ "shots": [
+  {
+   "id": "ai_orca_vs_megalodon",
+   "prompt": "an orca killer whale (black and white, tall dorsal fin, white eye patch) swimming next to a gigantic Megalodon shark three times its size, deep blue ocean, scale comparison"
+  },
+  {
+   "id": "ai_orca_vs_livyatan",
+   "prompt": "an orca killer whale (black and white, tall dorsal fin, white eye patch) facing a huge Livyatan, an ancient sperm whale with enormous teeth in both jaws, deep ocean"
+  },
+  {
+   "id": "ai_orca_vs_mosasaurus",
+   "prompt": "an orca killer whale (black and white, tall dorsal fin, white eye patch) and a giant Mosasaurus marine lizard circling each other in a deep blue ocean"
+  },
+  {
+   "id": "ai_orca_vs_basilosaurus",
+   "prompt": "A long serpent-like ancient whale Basilosaurus chasing an orca killer whale (black and white, tall dorsal fin, white eye patch) underwater"
+  },
+  {
+   "id": "ai_orca_vs_dunkleosteus",
+   "prompt": "an orca killer whale (black and white, tall dorsal fin, white eye patch) attacking an armored fish Dunkleosteus (bony plated head, blade-like jaws, 3 to 4 metres) from below, underwater"
+  },
+  {
+   "id": "ai_orca_vs_anomalocaris",
+   "prompt": "an orca killer whale (black and white, tall dorsal fin, white eye patch) looking at a tiny Anomalocaris (a 1 metre shrimp-like Cambrian predator with two spiny frontal arms) in a shallow Cambrian sea"
+  },
+  {
+   "id": "ai_orca_vs_liopleurodon",
+   "prompt": "an orca killer whale (black and white, tall dorsal fin, white eye patch) and a Liopleurodon (short-necked pliosaur with four flippers, 6 metres) underwater, the orca larger"
+  },
+  {
+   "id": "ai_orca_vs_ichthyosaur",
+   "prompt": "A pod of orcas surrounding a large ichthyosaur Thalattoarchon underwater"
+  },
+  {
+   "id": "ai_orca_pod_hunt",
+   "prompt": "A pod of five orcas hunting together underwater, coordinated, deep blue"
+  },
+  {
+   "id": "ai_orca_breach",
+   "prompt": "an orca killer whale (black and white, tall dorsal fin, white eye patch) breaching out of the ocean at sunset, water spray, only one animal in the image"
+  },
+  {
+   "id": "ai_orca_portrait",
+   "prompt": "Close-up underwater portrait of an orca killer whale (black and white, tall dorsal fin, white eye patch), eye patch and teeth visible, only one animal in the image"
+  },
+  {
+   "id": "ai_megalodon_portrait",
+   "prompt": "A gigantic Megalodon shark swimming in deep blue water, side view, only one animal in the image"
+  },
+  {
+   "id": "ai_livyatan_portrait",
+   "prompt": "A Livyatan ancient sperm whale with huge teeth in upper and lower jaws, mouth open, underwater, only one animal in the image"
+  },
+  {
+   "id": "ai_mosasaurus_portrait",
+   "prompt": "A Mosasaurus, a giant marine lizard with a long tail fin and crocodile-like jaws, swimming, only one animal in the image"
+  },
+  {
+   "id": "ai_basilosaurus_portrait",
+   "prompt": "Basilosaurus, a long serpent-like ancient whale with small hind legs and sharp teeth, swimming, only one animal in the image"
+  },
+  {
+   "id": "ai_dunkleosteus_portrait",
+   "prompt": "Dunkleosteus, a large armored fish with a bony plated head and blade-like jaws, swimming, only one animal in the image"
+  },
+  {
+   "id": "ai_orca_shark_flip",
+   "prompt": "an orca killer whale (black and white, tall dorsal fin, white eye patch) holding a great white shark upside down underwater"
+  },
+  {
+   "id": "ai_orca_today_boat",
+   "prompt": "an orca killer whale (black and white, tall dorsal fin, white eye patch) surfacing near a large cargo ship in a busy shipping lane, grey sky"
+  },
+  {
+   "id": "ai_cambrian_sea",
+   "prompt": "A shallow Cambrian sea floor with sponges and strange early animals, sunlight beams, underwater scene",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_anomalocaris",
+   "prompt": "An Anomalocaris, a shrimp-like Cambrian predator with two spiny frontal arms and large eyes, swimming, only one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_trilobites",
+   "prompt": "Trilobites crawling on a Cambrian sea floor",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_cambrian_reef",
+   "prompt": "An ancient reef of sponges in a clear shallow sea, light rays, no fish",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_devonian_reef",
+   "prompt": "A Devonian reef with corals and armored fish in the distance",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_dunkleosteus_jaws",
+   "prompt": "Close-up of the bony blade-like jaws of a Dunkleosteus, only one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_dunkleosteus_below",
+   "prompt": "Dunkleosteus seen from below against the bright surface, only one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_devonian_deep",
+   "prompt": "Dark Devonian deep ocean with shafts of light, underwater scene, no other animals",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_ichthyosaur_eye",
+   "prompt": "Close-up of the huge eye of an ichthyosaur underwater, only one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_ichthyosaur_swim",
+   "prompt": "A large ichthyosaur, dolphin-shaped marine reptile with long toothy snout, swimming, only one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_thalattoarchon",
+   "prompt": "A Thalattoarchon, large predatory ichthyosaur with big cutting teeth, swimming, only one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_triassic_sea",
+   "prompt": "A Triassic sea surface with a rocky coast, no other animals",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_liopleurodon",
+   "prompt": "A Liopleurodon, short-necked pliosaur with four flippers and a big head, swimming, only one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_liopleurodon_head",
+   "prompt": "Close-up of the large toothy head of a Liopleurodon, only one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_jurassic_sea",
+   "prompt": "A Jurassic ocean with ammonites drifting in blue water",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_ammonites",
+   "prompt": "Ammonites with spiral shells swimming in blue water",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_mosasaurus_jaws",
+   "prompt": "Close-up of the open jaws of a Mosasaurus showing extra rows of teeth on the palate, only one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_mosasaurus_surface",
+   "prompt": "A Mosasaurus surfacing, tail and back visible, stormy sea, only one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_cretaceous_sea",
+   "prompt": "A Cretaceous sea with giant waves and a coast with volcanoes, no other animals",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_mosasaurus_below",
+   "prompt": "A Mosasaurus seen from below swimming over the camera, only one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_basilosaurus_swim",
+   "prompt": "A Basilosaurus serpent-like whale swimming near the surface, only one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_basilosaurus_skull",
+   "prompt": "Close-up of the long toothy skull of a Basilosaurus underwater, only one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_eocene_sea",
+   "prompt": "A warm shallow Eocene sea with mangroves on the coast, no other animals",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_megalodon_jaws",
+   "prompt": "Close-up of the open jaws and teeth of a Megalodon shark, only one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_megalodon_whale",
+   "prompt": "A Megalodon shark chasing a small ancient whale, motion, deep blue",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_megalodon_below",
+   "prompt": "A Megalodon seen from below, silhouette against the surface, only one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_megalodon_tooth",
+   "prompt": "A giant fossil Megalodon tooth on a sandy beach next to a human hand, no face",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_livyatan_teeth",
+   "prompt": "Close-up of the enormous conical teeth of a Livyatan sperm whale, only one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_livyatan_hunt",
+   "prompt": "A Livyatan sperm whale attacking a baleen whale, underwater, no blood",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_miocene_sea",
+   "prompt": "A Miocene ocean surface at dawn, calm, coastal cliffs of Peru, no other animals",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_pliocene_cold",
+   "prompt": "A cold grey ocean with floating ice and seals on the floes",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_greatwhite",
+   "prompt": "A great white shark swimming in blue water, only one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_orca_ice",
+   "prompt": "Orcas spyhopping near Antarctic ice floes, cold light",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_orca_wave",
+   "prompt": "Orcas creating a wave to wash a seal off an ice floe",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_orca_family",
+   "prompt": "A mother orca with a calf swimming side by side",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_orca_spyhop",
+   "prompt": "an orca killer whale (black and white, tall dorsal fin, white eye patch) spyhopping, head out of the water, looking at the camera, only one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_orca_fin",
+   "prompt": "Close-up of the tall dorsal fin of a male orca cutting through the water",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_orca_dive",
+   "prompt": "an orca killer whale (black and white, tall dorsal fin, white eye patch) diving into deep blue water, only one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_orca_sunset",
+   "prompt": "Silhouettes of orca dorsal fins at sunset on a calm sea",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_orca_brain",
+   "prompt": "Stylized scientific illustration of an orca with its brain highlighted, dark background, no text",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_orca_echolocation",
+   "prompt": "an orca killer whale (black and white, tall dorsal fin, white eye patch) emitting visible sound waves (echolocation) underwater, scientific visualization, no text",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_ocean_timeline",
+   "prompt": "Layers of ocean history, fossils in rock cliffs by the sea, no other animals",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_deep_ocean",
+   "prompt": "The deep dark ocean with a faint light from above, underwater scene, no other animals",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_ocean_surface",
+   "prompt": "Calm ocean surface from just below, sunbeams, underwater scene, no other animals",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_ship_noise",
+   "prompt": "A large cargo ship from underwater, propeller visible, murky water",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_polluted_sea",
+   "prompt": "Plastic debris floating at the ocean surface",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_orca_pod_surface",
+   "prompt": "A pod of orcas surfacing together, fins in a row, misty sea",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_fossil_cliff",
+   "prompt": "Paleontologists' dig site on a desert of Peru with a fossil whale skeleton, seen from above, no faces",
+   "tier": "cheap"
+  }
+ ]
+}

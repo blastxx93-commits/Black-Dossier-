@@ -1,0 +1,277 @@
+{
+ "defaults": {
+  "n": 3,
+  "clip": 8,
+  "sources": [
+   "pexels",
+   "pixabay",
+   "coverr"
+  ]
+ },
+ "shots": [
+  {
+   "id": "v_orca",
+   "query": "orca",
+   "alt": [
+    "killer whale",
+    "orcas"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 10
+  },
+  {
+   "id": "v_orca_jump",
+   "query": "orca jumping",
+   "alt": [
+    "killer whale breach"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 6
+  },
+  {
+   "id": "v_orca_pod",
+   "query": "orcas swimming",
+   "alt": [
+    "killer whale pod"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 6
+  },
+  {
+   "id": "v_shark",
+   "query": "great white shark",
+   "alt": [
+    "shark underwater"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 8
+  },
+  {
+   "id": "v_shark2",
+   "query": "shark",
+   "alt": [
+    "sharks"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 6
+  },
+  {
+   "id": "v_whale",
+   "query": "humpback whale",
+   "alt": [
+    "whale underwater"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 8
+  },
+  {
+   "id": "v_sperm",
+   "query": "sperm whale",
+   "alt": [
+    "cachalot"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_underwater",
+   "query": "underwater ocean",
+   "alt": [
+    "deep sea",
+    "ocean underwater light"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 8
+  },
+  {
+   "id": "v_reef",
+   "query": "coral reef",
+   "alt": [
+    "reef fish"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 6
+  },
+  {
+   "id": "v_waves",
+   "query": "ocean waves",
+   "alt": [
+    "sea storm",
+    "stormy sea"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 6
+  },
+  {
+   "id": "v_jelly",
+   "query": "jellyfish",
+   "alt": [
+    "medusa"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_ice",
+   "query": "sea ice",
+   "alt": [
+    "antarctica ice ocean",
+    "iceberg"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 5
+  },
+  {
+   "id": "v_seal",
+   "query": "seal",
+   "alt": [
+    "seals ice"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_squid",
+   "query": "squid",
+   "alt": [
+    "octopus"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_dolphin",
+   "query": "dolphins",
+   "alt": [
+    "dolphin underwater"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 5
+  },
+  {
+   "id": "v_ship",
+   "query": "cargo ship ocean",
+   "alt": [
+    "ship sea"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_plastic",
+   "query": "ocean plastic",
+   "alt": [
+    "pollution sea"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_sunset_sea",
+   "query": "ocean sunset",
+   "alt": [
+    "sea sunset"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_turtle",
+   "query": "sea turtle",
+   "alt": [
+    "turtle underwater"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_fish",
+   "query": "school of fish",
+   "alt": [
+    "fish shoal"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 4
+  }
+ ]
+}
