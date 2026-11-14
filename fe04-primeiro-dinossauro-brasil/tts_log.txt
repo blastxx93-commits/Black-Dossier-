@@ -1,34 +1,29 @@
 Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
-ch04 §6 tentativa 1: trecho errado: mas o estauricossauro; trecho errado: e o que apareceu depois dele
-ch04: 6 parágrafos, 63s, tom-alvo 90 Hz
-ch05: 4 parágrafos, 50s, tom-alvo 90 Hz
-ch06 §1 tentativa 1: trecho errado: dois mil e dezesseis veio uma; trecho errado: cabeca para baixo
-ch06 §2 tentativa 1: tom fora (103 Hz, +2.3 st)
-ch06: 5 parágrafos, 55s, tom-alvo 91 Hz
-ch07: 5 parágrafos, 58s, tom-alvo 90 Hz
+ch00_hook §2 tentativa 1: trecho errado: e quatro anos; trecho errado: sabia direito o que eram
+ch00_hook: 7 parágrafos, 63s, tom-alvo 91 Hz
+ch02 §2 tentativa 1: trecho errado: o hiperodapedon pareciam
+ch02: 5 parágrafos, 64s, tom-alvo 91 Hz
+ch06: 5 parágrafos, 53s, tom-alvo 91 Hz
 # Conferência da narração (parágrafo a parágrafo)
 
 Temperatura 0.7, top_p 0.8, desvio máximo 2.0 semitom.
 
 | capítulo | parágrafo | tentativas | tom (Hz) | resultado |
 |---|---|---|---|---|
-| ch04 | 1 | 1 | 86 | ok |
-| ch04 | 2 | 1 | 94 | ok |
-| ch04 | 3 | 1 | 84 | ok |
-| ch04 | 4 | 1 | 90 | ok |
-| ch04 | 5 | 1 | 91 | ok |
-| ch04 | 6 | 1 | 96 | ⚠ trecho errado: mas o estauricossauro; trecho errado: e o que apareceu depois dele |
-| ch05 | 1 | 1 | 81 | ok |
-| ch05 | 2 | 1 | 90 | ok |
-| ch05 | 3 | 1 | 91 | ok |
-| ch05 | 4 | 1 | 96 | ok |
-| ch06 | 1 | 1 | 95 | ⚠ trecho errado: dois mil e dezesseis veio uma; trecho errado: cabeca para baixo |
-| ch06 | 2 | 1 | 103 | ⚠ tom fora (103 Hz, +2.3 st) |
-| ch06 | 3 | 1 | 89 | ok |
-| ch06 | 4 | 1 | 92 | ok |
-| ch06 | 5 | 1 | 98 | ok |
-| ch07 | 1 | 1 | 83 | ok |
-| ch07 | 2 | 1 | 94 | ok |
-| ch07 | 3 | 1 | 89 | ok |
-| ch07 | 4 | 1 | 89 | ok |
-| ch07 | 5 | 1 | 91 | ok |
+| ch00_hook | 1 | 1 | 90 | ok |
+| ch00_hook | 2 | 1 | 93 | ⚠ trecho errado: e quatro anos; trecho errado: sabia direito o que eram |
+| ch00_hook | 3 | 1 | 91 | ok |
+| ch00_hook | 4 | 1 | 92 | ok |
+| ch00_hook | 5 | 1 | 93 | ok |
+| ch00_hook | 6 | 1 | 90 | ok |
+| ch00_hook | 7 | 1 | 92 | ok |
+| ch02 | 1 | 1 | 97 | ok |
+| ch02 | 2 | 1 | 90 | ⚠ trecho errado: o hiperodapedon pareciam |
+| ch02 | 3 | 1 | 95 | ok |
+| ch02 | 4 | 1 | 90 | ok |
+| ch02 | 5 | 1 | 90 | ok |
+| ch06 | 1 | 1 | 96 | ok |
+| ch06 | 2 | 1 | 95 | ok |
+| ch06 | 3 | 1 | 90 | ok |
+| ch06 | 4 | 1 | 91 | ok |
+| ch06 | 5 | 1 | 90 | ok |
