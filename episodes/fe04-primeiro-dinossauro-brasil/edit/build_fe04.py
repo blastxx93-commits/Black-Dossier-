@@ -14,26 +14,26 @@ ai = lambda *ids: ["ai:ai_" + i for i in ids]
 fa = lambda *n: ai(*[f"fauna_{k:02d}" for k in n])
 la = lambda *n: ai(*[f"land_{k:02d}" for k in n])
 PHOTOS = {
-    "stauri": ai("stauri_run", "stauri_hunt") + fa(1, 2, 3, 4, 5, 6, 7, 8, 9) + ["p_stauri"],
+    "stauri": ai("stauri_run", "stauri_hunt") + fa(1, 2, 3, 4, 5, 6, 7, 8, 9) + ["p_stauri"] + ai("more_st_01", "more_st_02", "more_st_03", "more_st_04", "more_st_05", "more_st_06", "more_st_07", "more_st_08", "more_st_09", "more_st_10"),
     "presto": ai("presto_hero", "presto_jaws", "stauri_vs_presto") + fa(10, 11, 12) + ["p_presto"],
     "hyper": ai("hyper_herd") + fa(13, 14, 15) + ["p_hyper"],
     "cyno": fa(16, 17, 18) + ["p_exaeretodon"],
     "tri": la(1, 2, 3, 4, 7, 26, 27) + fa(35) + ["p_horsetail", "p_araucaria"],
     "pangea": la(8) + ["p_pangea"],
     "chuva": la(5, 6),
-    "dig": ai("hook_dig") + la(9, 21, 24) + ["p_fossil_dig", "p_red_rock"],
+    "dig": ai("hook_dig") + la(9, 21, 24) + ["p_fossil_dig", "p_red_rock"] + ai("more_dig_01", "more_dig_02", "more_dig_03", "more_dig_04"),
     "museu": la(14, 15, 16) + ["p_fossil_museum", "p_colbert"],
     "navio": la(13),
     "ceu": la(12) + ["p_cruzeiro"],
-    "satur": ai("saturnalia") + fa(22, 23) + ["p_saturnalia"],
-    "buri": ai("buriolestes") + fa(24, 25, 26) + ["p_buriolestes", "p_ixalerpeton"],
-    "gnatho": ai("gnatho_hunt") + fa(19, 20, 21) + ["p_gnatho"],
+    "satur": ai("saturnalia") + fa(22, 23) + ["p_saturnalia"] + ai("more_sa_01", "more_sa_02", "more_sa_03", "more_sa_04"),
+    "buri": ai("buriolestes") + fa(24, 25, 26) + ["p_buriolestes", "p_ixalerpeton"] + ai("more_bu_01", "more_bu_02", "more_bu_03", "more_bu_04", "more_bu_05"),
+    "gnatho": ai("gnatho_hunt") + fa(19, 20, 21) + ["p_gnatho"] + ai("more_gn_01", "more_gn_02", "more_gn_03", "more_gn_04", "more_gn_05"),
     "ciencia": la(17, 22, 23) + ["p_ct_scan"],
-    "macro": ai("macro_neck") + fa(27, 28) + la(25),
+    "macro": ai("macro_neck") + fa(27, 28) + la(25) + ai("more_ma_01", "more_ma_02", "more_ma_03", "more_ma_04", "more_ma_05"),
     "argentina": fa(33, 34) + ["p_herrera", "p_eoraptor", "p_ischigualasto", "p_nyasa"],
     "extincao": la(18, 19, 20) + ["p_trap"],
     "gigantes": ai("dino_takeover") + fa(29, 30, 31, 32) + ["p_sauropod_mount", "p_trex"],
-    "rs": la(10, 11) + ["p_rs_landscape", "p_ufsm", "p_araucaria"],
+    "rs": la(10, 11) + ["p_rs_landscape", "p_ufsm", "p_araucaria", "p_paleorrota", "p_agudo", "p_polesine", "p_cappa", "p_santamaria2"] + ai("more_rs_01", "more_rs_02", "more_rs_03", "more_rs_04", "more_rs_05", "more_rs_06"),
 }
 CL = json.load(open(os.path.join(HERE, "clips.json")))
 CLIPS = {"tri": CL["rio"] + CL["plantas"] + CL["seco"], "chuva": CL["cheia"], "presto": CL["croc"], "hyper": CL["lagarto"][:2],

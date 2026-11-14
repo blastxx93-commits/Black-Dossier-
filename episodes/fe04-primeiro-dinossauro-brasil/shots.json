@@ -264,6 +264,46 @@
     "araucaria forest"
    ],
    "n": 3
+  },
+  {
+   "id": "p_paleorrota",
+   "query": "Paleorrota",
+   "alt": [
+    "sítio paleontológico Rio Grande do Sul"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_agudo",
+   "query": "Agudo Rio Grande do Sul",
+   "alt": [
+    "Agudo RS"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_polesine",
+   "query": "São João do Polêsine",
+   "alt": [
+    "Polêsine"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_cappa",
+   "query": "CAPPA UFSM",
+   "alt": [
+    "Centro de Apoio à Pesquisa Paleontológica"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_santamaria2",
+   "query": "Santa Maria RS",
+   "alt": [
+    "Santa Maria, Rio Grande do Sul"
+   ],
+   "n": 3
   }
  ]
 }

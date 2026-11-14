@@ -87,6 +87,9 @@ def pin(*ids):
 
 
 def pinned(i):
+    if i not in PINS and os.environ.get("FERAS_DRYRUN"):
+        MISSING["pin:" + i] = 1
+        return f"a/FALTA/{i}.jpg"
     f = PINS[i]
     A.CFG["reserved"].discard(f)
     A.claim(f) or sys.stderr.write(f"aviso: {f} já usada\n")

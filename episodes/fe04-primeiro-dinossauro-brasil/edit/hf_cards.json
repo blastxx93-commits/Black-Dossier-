@@ -1,0 +1,426 @@
+[
+ {
+  "text": "34 anos sem *resposta.*",
+  "img": "a/ai/ai_land_14_1.jpg",
+  "kind": "frase",
+  "id": "hf01_frase",
+  "dur": 5.1
+ },
+ {
+  "text": "Onde *tudo* começou.",
+  "img": "a/ai/ai_land_01_1.jpg",
+  "kind": "frase",
+  "id": "hf02_frase",
+  "dur": 3.56
+ },
+ {
+  "img": "a/ai/ai_land_02_1.jpg",
+  "items": [
+   "Como bichos tão pequenos dominaram o planeta?",
+   "Quem era o verdadeiro predador do Sul?",
+   "Que segredo estava escondido nos ossos?"
+  ],
+  "kind": "perguntas",
+  "id": "hf03_perguntas",
+  "dur": 4.8
+ },
+ {
+  "kicker": "Era das Feras",
+  "title": "O Primeiro Dinossauro do Brasil",
+  "sub": "Rio Grande do Sul · 233 milhões de anos atrás",
+  "img": "a/FALTA/ai_stauri_hero.jpg",
+  "blurin": true,
+  "kind": "titulo",
+  "id": "hf04_titulo",
+  "dur": 7.112
+ },
+ {
+  "num": "01",
+  "title": "O mundo de 233 milhões de anos atrás",
+  "img": "a/ai/ai_land_03_1.jpg",
+  "move": "push",
+  "kind": "capitulo",
+  "id": "hf05_capitulo",
+  "dur": 6.48
+ },
+ {
+  "text": "Os dinossauros *não mandavam.*",
+  "img": "a/ai/ai_fauna_35_1.jpg",
+  "kind": "frase",
+  "id": "hf06_frase",
+  "dur": 6.36
+ },
+ {
+  "num": "02",
+  "title": "Os donos do Triássico",
+  "img": "a/p_hyper/2_commons.jpg",
+  "move": "push",
+  "kind": "capitulo",
+  "id": "hf07_capitulo",
+  "dur": 3.22
+ },
+ {
+  "img": "a/FALTA/ai_hyper_herd.jpg",
+  "kicker": "O animal mais comum",
+  "name": "Hiperodápedon",
+  "sci": "Hyperodapedon · rincossauro",
+  "kind": "rotulo",
+  "id": "hf08_rotulo",
+  "dur": 4.77
+ },
+ {
+  "img": "a/ai/ai_fauna_16_1.jpg",
+  "kicker": "Parentes dos mamíferos",
+  "name": "Cinodontes",
+  "side": "right",
+  "kind": "rotulo",
+  "id": "hf09_rotulo",
+  "dur": 4.8
+ },
+ {
+  "img": "a/FALTA/ai_presto_hero.jpg",
+  "kicker": "O terror do Triássico",
+  "name": "Prestossuco",
+  "sci": "Prestosuchus chiniquensis · até 7 m",
+  "kind": "rotulo",
+  "id": "hf10_rotulo",
+  "dur": 4.8
+ },
+ {
+  "kicker": "Comparação de tamanho",
+  "title": "Quem era maior?",
+  "rows": [
+   [
+    "Humano",
+    1.75,
+    "h"
+   ],
+   [
+    "Estauricossauro",
+    2.1
+   ],
+   [
+    "Prestossuco",
+    7
+   ]
+  ],
+  "kind": "escala",
+  "id": "hf11_escala",
+  "dur": 4.92
+ },
+ {
+  "text": "Muitas vezes, você era a *caça.*",
+  "img": "a/ai/ai_fauna_12_1.jpg",
+  "kind": "frase",
+  "id": "hf12_frase",
+  "dur": 5.52
+ },
+ {
+  "num": "03",
+  "title": "Os ossos de Santa Maria",
+  "img": "a/p_fossil_dig/2_unsplash.jpg",
+  "move": "push",
+  "kind": "capitulo",
+  "id": "hf13_capitulo",
+  "dur": 6.14
+ },
+ {
+  "kicker": "Onde foi achado",
+  "title": "Santa Maria · RS",
+  "sub": "Região central do Rio Grande do Sul, um dos lugares com dinossauros mais antigos do mundo",
+  "lon": -53.81,
+  "lat": -29.69,
+  "kind": "mapa",
+  "id": "hf14_mapa",
+  "dur": 4.46
+ },
+ {
+  "img": "a/p_colbert/1_commons.jpg",
+  "kicker": "Paleontólogo americano",
+  "name": "Edwin Colbert",
+  "sci": "Estudou os ossos em 1970",
+  "kind": "rotulo",
+  "id": "hf15_rotulo",
+  "dur": 4.8
+ },
+ {
+  "img": "a/ai/ai_land_12_1.jpg",
+  "kicker": "Lagarto do Cruzeiro do Sul",
+  "name": "Estauricossauro",
+  "sci": "Staurikosaurus pricei · 1970",
+  "kind": "rotulo",
+  "id": "hf16_rotulo",
+  "dur": 4.8
+ },
+ {
+  "text": "Batizado com o nome de uma *estrela.*",
+  "img": "a/p_cruzeiro/1_pixabay.jpg",
+  "kind": "frase",
+  "id": "hf17_frase",
+  "dur": 5.81
+ },
+ {
+  "num": "04",
+  "title": "O caçador do Cruzeiro do Sul",
+  "img": "a/ai/ai_fauna_08_1.jpg",
+  "move": "push",
+  "kind": "capitulo",
+  "id": "hf18_capitulo",
+  "dur": 3.54
+ },
+ {
+  "img": "a/p_stauri/1_commons.jpg",
+  "kicker": "Ficha",
+  "name": "Estauricossauro",
+  "sci": "Staurikosaurus pricei",
+  "rows": [
+   [
+    "Comprimento",
+    "~2 m"
+   ],
+   [
+    "Peso",
+    "~30 kg"
+   ],
+   [
+    "Viveu",
+    "233 mi de anos"
+   ],
+   [
+    "Achado",
+    "Santa Maria, RS"
+   ]
+  ],
+  "source": "Estimativas: Colbert (1970) e estudos posteriores",
+  "kind": "ficha",
+  "id": "hf19_ficha",
+  "dur": 4.8
+ },
+ {
+  "limg": "a/p_herrera/3_commons.jpg",
+  "rimg": "a/FALTA/ai_stauri_portrait.jpg",
+  "lkick": "Parente próximo",
+  "lname": "Herrerassauro",
+  "rkick": "Reconstrução",
+  "rname": "Estauricossauro",
+  "kind": "comparar",
+  "id": "hf20_comparar",
+  "dur": 4.8
+ },
+ {
+  "img": "a/FALTA/tri_8.jpg",
+  "text": "Está curtindo a história?",
+  "sub": "Deixa o like e se inscreve no canal",
+  "kind": "cta",
+  "id": "hf21_cta",
+  "dur": 4.8
+ },
+ {
+  "img": "a/p_saturnalia/1_commons.jpg",
+  "kicker": "Achado no carnaval de 1999",
+  "name": "Saturnália",
+  "sci": "Saturnalia tupiniquim",
+  "kind": "rotulo",
+  "id": "hf22_rotulo",
+  "dur": 2.2
+ },
+ {
+  "text": "Os maiores começaram do tamanho de um *cachorro.*",
+  "img": "a/ai/ai_fauna_26_1.jpg",
+  "kind": "frase",
+  "id": "hf23_frase",
+  "dur": 4.8
+ },
+ {
+  "num": "05",
+  "title": "O ancestral carnívoro",
+  "img": "a/p_buriolestes/1_commons.jpg",
+  "move": "push",
+  "kind": "capitulo",
+  "id": "hf24_capitulo",
+  "dur": 6.76
+ },
+ {
+  "img": "a/p_buriolestes/2_commons.jpg",
+  "kicker": "São João do Polêsine · 2016",
+  "name": "Buriolestes",
+  "sci": "Buriolestes schultzi",
+  "kind": "rotulo",
+  "id": "hf25_rotulo",
+  "dur": 3.68
+ },
+ {
+  "text": "Ele era *carnívoro.*",
+  "img": "a/FALTA/buri_10.jpg",
+  "kind": "frase",
+  "id": "hf26_frase",
+  "dur": 2.38
+ },
+ {
+  "img": "a/p_ixalerpeton/1_commons.jpg",
+  "kicker": "Primo dos pterossauros",
+  "name": "Ixalérpeton",
+  "sci": "Ixalerpeton polesinensis",
+  "side": "right",
+  "kind": "rotulo",
+  "id": "hf27_rotulo",
+  "dur": 4.8
+ },
+ {
+  "num": "06",
+  "title": "Mandíbula voraz",
+  "img": "a/ai/ai_fauna_21_1.jpg",
+  "move": "push",
+  "kind": "capitulo",
+  "id": "hf28_capitulo",
+  "dur": 4.8
+ },
+ {
+  "img": "a/FALTA/ai_gnatho_hero.jpg",
+  "kicker": "Ficha",
+  "name": "Gnatovórax",
+  "sci": "Gnathovorax cabreirai",
+  "rows": [
+   [
+    "Comprimento",
+    "~3 m"
+   ],
+   [
+    "Apresentado",
+    "2019"
+   ],
+   [
+    "Achado",
+    "São João do Polêsine, RS"
+   ],
+   [
+    "Destaque",
+    "crânio completo"
+   ]
+  ],
+  "kind": "ficha",
+  "id": "hf29_ficha",
+  "dur": 4.8
+ },
+ {
+  "num": "07",
+  "title": "O primeiro pescoço longo",
+  "img": "a/ai/ai_fauna_27_1.jpg",
+  "move": "push",
+  "kind": "capitulo",
+  "id": "hf30_capitulo",
+  "dur": 7.04
+ },
+ {
+  "img": "a/FALTA/ai_macro_trio.jpg",
+  "kicker": "Agudo, RS · 2018",
+  "name": "Macrocolo",
+  "sci": "Macrocollum itaquii · ~3,5 m",
+  "kind": "rotulo",
+  "id": "hf31_rotulo",
+  "dur": 4.8
+ },
+ {
+  "img": "a/ai/ai_land_25_1.jpg",
+  "value": 225,
+  "unit": "milhões de anos",
+  "label": "o dinossauro de pescoço longo mais antigo já encontrado",
+  "kind": "numero",
+  "id": "hf32_numero",
+  "dur": 4.8
+ },
+ {
+  "text": "Os mais antigos do *mundo?*",
+  "img": "a/FALTA/tri_19.jpg",
+  "kind": "frase",
+  "id": "hf33_frase",
+  "dur": 4.8
+ },
+ {
+  "num": "08",
+  "title": "Os mais antigos do mundo?",
+  "img": "a/ai/ai_land_11_1.jpg",
+  "move": "push",
+  "kind": "capitulo",
+  "id": "hf34_capitulo",
+  "dur": 4.8
+ },
+ {
+  "img": "a/p_rs_landscape/3_pixabay.jpg",
+  "value": 233,
+  "unit": "milhões de anos",
+  "label": "idade das rochas dos primeiros dinossauros gaúchos",
+  "kind": "numero",
+  "id": "hf35_numero",
+  "dur": 4.8
+ },
+ {
+  "kicker": "Linha do tempo",
+  "title": "Entre os primeiros do planeta",
+  "ma": 233,
+  "label": "233 milhões de anos",
+  "sub": "Rio Grande do Sul · Triássico",
+  "kind": "linha",
+  "id": "hf36_linha",
+  "dur": 4.8
+ },
+ {
+  "img": "a/p_nyasa/1_commons.jpg",
+  "kicker": "Tanzânia · candidato",
+  "name": "Niassassauro",
+  "sci": "Nyasasaurus parringtoni",
+  "kind": "rotulo",
+  "id": "hf37_rotulo",
+  "dur": 5.6
+ },
+ {
+  "num": "09",
+  "title": "Como eles venceram",
+  "img": "a/FALTA/chuva_21.jpg",
+  "move": "push",
+  "kind": "capitulo",
+  "id": "hf38_capitulo",
+  "dur": 4.8
+ },
+ {
+  "text": "E os dinossauros *sobreviveram.*",
+  "img": "a/FALTA/stauri_23.jpg",
+  "kind": "frase",
+  "id": "hf39_frase",
+  "dur": 2.407
+ },
+ {
+  "img": "a/FALTA/ai_dino_takeover.jpg",
+  "kicker": "Mais de 130 milhões de anos",
+  "name": "A era dos dinossauros",
+  "kind": "rotulo",
+  "id": "hf40_rotulo",
+  "dur": 7.066
+ },
+ {
+  "num": "10",
+  "title": "O segredo nos ossos",
+  "img": "a/FALTA/stauri_25.jpg",
+  "move": "push",
+  "kind": "capitulo",
+  "id": "hf41_capitulo",
+  "dur": 6.48
+ },
+ {
+  "img": "a/p_rs_landscape/2_unsplash.jpg",
+  "kicker": "Geoparque mundial da UNESCO",
+  "name": "Quarta Colônia",
+  "sci": "Região central do Rio Grande do Sul",
+  "kind": "rotulo",
+  "id": "hf42_rotulo",
+  "dur": 4.8
+ },
+ {
+  "img": "a/FALTA/stauri_32.jpg",
+  "text": "Obrigado por assistir",
+  "sub": "Deixa o like e se inscreve no Era das Feras",
+  "kind": "cta",
+  "id": "hf43_cta",
+  "dur": 4.8
+ }
+]
