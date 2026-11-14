@@ -4,14 +4,14 @@
   "img": "a/ai/ai_land_14_1.jpg",
   "kind": "frase",
   "id": "hf01_frase",
-  "dur": 5.1
+  "dur": 5.16
  },
  {
   "text": "Onde *tudo* começou.",
   "img": "a/ai/ai_land_01_1.jpg",
   "kind": "frase",
   "id": "hf02_frase",
-  "dur": 3.56
+  "dur": 3.12
  },
  {
   "img": "a/ai/ai_land_02_1.jpg",
@@ -28,11 +28,11 @@
   "kicker": "Era das Feras",
   "title": "O Primeiro Dinossauro do Brasil",
   "sub": "Rio Grande do Sul · 233 milhões de anos atrás",
-  "img": "a/FALTA/ai_stauri_hero.jpg",
+  "img": "a/ai/ai_stauri_hero_1.jpg",
   "blurin": true,
   "kind": "titulo",
   "id": "hf04_titulo",
-  "dur": 7.112
+  "dur": 6.861
  },
  {
   "num": "01",
@@ -45,7 +45,7 @@
  },
  {
   "text": "Os dinossauros *não mandavam.*",
-  "img": "a/ai/ai_fauna_35_1.jpg",
+  "img": "a/ai/ai_land_26_1.jpg",
   "kind": "frase",
   "id": "hf06_frase",
   "dur": 6.36
@@ -57,16 +57,16 @@
   "move": "push",
   "kind": "capitulo",
   "id": "hf07_capitulo",
-  "dur": 3.22
+  "dur": 3.26
  },
  {
-  "img": "a/FALTA/ai_hyper_herd.jpg",
+  "img": "a/ai/ai_hyper_herd_1.jpg",
   "kicker": "O animal mais comum",
   "name": "Hiperodápedon",
   "sci": "Hyperodapedon · rincossauro",
   "kind": "rotulo",
   "id": "hf08_rotulo",
-  "dur": 4.77
+  "dur": 4.915
  },
  {
   "img": "a/ai/ai_fauna_16_1.jpg",
@@ -78,7 +78,7 @@
   "dur": 4.8
  },
  {
-  "img": "a/FALTA/ai_presto_hero.jpg",
+  "img": "a/ai/ai_presto_hero_1.jpg",
   "kicker": "O terror do Triássico",
   "name": "Prestossuco",
   "sci": "Prestosuchus chiniquensis · até 7 m",
@@ -106,19 +106,19 @@
   ],
   "kind": "escala",
   "id": "hf11_escala",
-  "dur": 4.92
+  "dur": 4.82
  },
  {
   "text": "Muitas vezes, você era a *caça.*",
-  "img": "a/ai/ai_fauna_12_1.jpg",
+  "img": "a/ai/ai_fauna_10_1.jpg",
   "kind": "frase",
   "id": "hf12_frase",
-  "dur": 5.52
+  "dur": 5.396
  },
  {
   "num": "03",
   "title": "Os ossos de Santa Maria",
-  "img": "a/p_fossil_dig/2_unsplash.jpg",
+  "img": "a/ai/ai_land_24_1.jpg",
   "move": "push",
   "kind": "capitulo",
   "id": "hf13_capitulo",
@@ -162,14 +162,14 @@
  {
   "num": "04",
   "title": "O caçador do Cruzeiro do Sul",
-  "img": "a/ai/ai_fauna_08_1.jpg",
+  "img": "a/ai/ai_fauna_06_1.jpg",
   "move": "push",
   "kind": "capitulo",
   "id": "hf18_capitulo",
   "dur": 3.54
  },
  {
-  "img": "a/p_stauri/1_commons.jpg",
+  "img": "a/ai/ai_fauna_07_1.jpg",
   "kicker": "Ficha",
   "name": "Estauricossauro",
   "sci": "Staurikosaurus pricei",
@@ -198,7 +198,7 @@
  },
  {
   "limg": "a/p_herrera/3_commons.jpg",
-  "rimg": "a/FALTA/ai_stauri_portrait.jpg",
+  "rimg": "a/ai/ai_stauri_portrait_1.jpg",
   "lkick": "Parente próximo",
   "lname": "Herrerassauro",
   "rkick": "Reconstrução",
@@ -208,7 +208,7 @@
   "dur": 4.8
  },
  {
-  "img": "a/FALTA/tri_8.jpg",
+  "img": "a/ai/ai_fauna_35_1.jpg",
   "text": "Está curtindo a história?",
   "sub": "Deixa o like e se inscreve no canal",
   "kind": "cta",
@@ -216,7 +216,7 @@
   "dur": 4.8
  },
  {
-  "img": "a/p_saturnalia/1_commons.jpg",
+  "img": "a/ai/ai_fauna_23_1.jpg",
   "kicker": "Achado no carnaval de 1999",
   "name": "Saturnália",
   "sci": "Saturnalia tupiniquim",
@@ -226,7 +226,7 @@
  },
  {
   "text": "Os maiores começaram do tamanho de um *cachorro.*",
-  "img": "a/ai/ai_fauna_26_1.jpg",
+  "img": "a/ai/ai_more_sa_01_1.jpg",
   "kind": "frase",
   "id": "hf23_frase",
   "dur": 4.8
@@ -234,27 +234,27 @@
  {
   "num": "05",
   "title": "O ancestral carnívoro",
-  "img": "a/p_buriolestes/1_commons.jpg",
+  "img": "a/ai/ai_buriolestes_1.jpg",
   "move": "push",
   "kind": "capitulo",
   "id": "hf24_capitulo",
-  "dur": 6.76
+  "dur": 6.38
  },
  {
-  "img": "a/p_buriolestes/2_commons.jpg",
+  "img": "a/ai/ai_fauna_24_1.jpg",
   "kicker": "São João do Polêsine · 2016",
   "name": "Buriolestes",
   "sci": "Buriolestes schultzi",
   "kind": "rotulo",
   "id": "hf25_rotulo",
-  "dur": 3.68
+  "dur": 3.6
  },
  {
   "text": "Ele era *carnívoro.*",
-  "img": "a/FALTA/buri_10.jpg",
+  "img": "a/p_buriolestes/2_commons.jpg",
   "kind": "frase",
   "id": "hf26_frase",
-  "dur": 2.38
+  "dur": 2.28
  },
  {
   "img": "a/p_ixalerpeton/1_commons.jpg",
@@ -269,14 +269,14 @@
  {
   "num": "06",
   "title": "Mandíbula voraz",
-  "img": "a/ai/ai_fauna_21_1.jpg",
+  "img": "a/ai/ai_fauna_19_1.jpg",
   "move": "push",
   "kind": "capitulo",
   "id": "hf28_capitulo",
   "dur": 4.8
  },
  {
-  "img": "a/FALTA/ai_gnatho_hero.jpg",
+  "img": "a/ai/ai_gnatho_hero_1.jpg",
   "kicker": "Ficha",
   "name": "Gnatovórax",
   "sci": "Gnathovorax cabreirai",
@@ -305,14 +305,14 @@
  {
   "num": "07",
   "title": "O primeiro pescoço longo",
-  "img": "a/ai/ai_fauna_27_1.jpg",
+  "img": "a/ai/ai_macro_neck_1.jpg",
   "move": "push",
   "kind": "capitulo",
   "id": "hf30_capitulo",
   "dur": 7.04
  },
  {
-  "img": "a/FALTA/ai_macro_trio.jpg",
+  "img": "a/ai/ai_macro_trio_1.jpg",
   "kicker": "Agudo, RS · 2018",
   "name": "Macrocolo",
   "sci": "Macrocollum itaquii · ~3,5 m",
@@ -321,7 +321,7 @@
   "dur": 4.8
  },
  {
-  "img": "a/ai/ai_land_25_1.jpg",
+  "img": "a/ai/ai_fauna_28_1.jpg",
   "value": 225,
   "unit": "milhões de anos",
   "label": "o dinossauro de pescoço longo mais antigo já encontrado",
@@ -331,7 +331,7 @@
  },
  {
   "text": "Os mais antigos do *mundo?*",
-  "img": "a/FALTA/tri_19.jpg",
+  "img": "a/p_horsetail/2_unsplash.jpg",
   "kind": "frase",
   "id": "hf33_frase",
   "dur": 4.8
@@ -339,14 +339,14 @@
  {
   "num": "08",
   "title": "Os mais antigos do mundo?",
-  "img": "a/ai/ai_land_11_1.jpg",
+  "img": "a/p_red_rock/2_unsplash.jpg",
   "move": "push",
   "kind": "capitulo",
   "id": "hf34_capitulo",
   "dur": 4.8
  },
  {
-  "img": "a/p_rs_landscape/3_pixabay.jpg",
+  "img": "a/ai/ai_more_dig_01_1.jpg",
   "value": 233,
   "unit": "milhões de anos",
   "label": "idade das rochas dos primeiros dinossauros gaúchos",
@@ -362,7 +362,7 @@
   "sub": "Rio Grande do Sul · Triássico",
   "kind": "linha",
   "id": "hf36_linha",
-  "dur": 4.8
+  "dur": 7.26
  },
  {
   "img": "a/p_nyasa/1_commons.jpg",
@@ -371,12 +371,12 @@
   "sci": "Nyasasaurus parringtoni",
   "kind": "rotulo",
   "id": "hf37_rotulo",
-  "dur": 5.6
+  "dur": 5.66
  },
  {
   "num": "09",
   "title": "Como eles venceram",
-  "img": "a/FALTA/chuva_21.jpg",
+  "img": "a/p_horsetail/3_pixabay.jpg",
   "move": "push",
   "kind": "capitulo",
   "id": "hf38_capitulo",
@@ -384,13 +384,13 @@
  },
  {
   "text": "E os dinossauros *sobreviveram.*",
-  "img": "a/FALTA/stauri_23.jpg",
+  "img": "a/ai/ai_more_st_07_1.jpg",
   "kind": "frase",
   "id": "hf39_frase",
   "dur": 2.407
  },
  {
-  "img": "a/FALTA/ai_dino_takeover.jpg",
+  "img": "a/ai/ai_dino_takeover_1.jpg",
   "kicker": "Mais de 130 milhões de anos",
   "name": "A era dos dinossauros",
   "kind": "rotulo",
@@ -400,11 +400,11 @@
  {
   "num": "10",
   "title": "O segredo nos ossos",
-  "img": "a/FALTA/stauri_25.jpg",
+  "img": "a/ai/ai_more_st_09_1.jpg",
   "move": "push",
   "kind": "capitulo",
   "id": "hf41_capitulo",
-  "dur": 6.48
+  "dur": 6.36
  },
  {
   "img": "a/p_rs_landscape/2_unsplash.jpg",
@@ -416,7 +416,7 @@
   "dur": 4.8
  },
  {
-  "img": "a/FALTA/stauri_32.jpg",
+  "img": "a/FALTA/stauri_1.jpg",
   "text": "Obrigado por assistir",
   "sub": "Deixa o like e se inscreve no Era das Feras",
   "kind": "cta",
