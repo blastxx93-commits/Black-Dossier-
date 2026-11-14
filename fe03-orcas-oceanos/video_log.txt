@@ -1,0 +1,258 @@
+[     0s] fe03-orcas-oceanos: 20 planos de video
+[     0s]   v_orca / pexels: 0 filmes para 'orca'
+[     1s]   v_orca / pixabay: 2 filmes para 'orca'
+[     2s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=orca&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e04d8
+[     2s]   v_orca / coverr: 0 filmes para 'orca'
+[     3s]     trecho escuro em 8s, tentando mais adiante
+[     3s]     trecho escuro em 8s, tentando mais adiante
+[    11s]     trecho escuro em 23s, tentando mais adiante
+[    14s]     trecho escuro em 37s, tentando mais adiante
+[    16s]   v_orca / pexels: 0 filmes para 'killer whale'
+[    18s]   v_orca / pixabay: 11 filmes para 'killer whale'
+[    19s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=killer+whale&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444a
+[    19s]   v_orca / coverr: 0 filmes para 'killer whale'
+[    19s]     trecho escuro em 0s, tentando mais adiante
+[    21s]     + 1_pixabay.mp4 de 'killer whale, sea, animal, jump, splash, power, cetaceans, w' a partir de 0s
+[    24s]     + 2_pixabay.mp4 de 'blue whale, whale, ocean, underwater, fauna' a partir de 8s
+[    32s]     + 3_pixabay.mp4 de 'whale, animal, ocean, wildlife, sea, safari, nature' a partir de 0s
+[    35s]     trecho escuro em 8s, tentando mais adiante
+[    38s]     trecho escuro em 8s, tentando mais adiante
+[    43s]     + 4_pixabay.mp4 de 'beluga, whale, underwater, nature, aquatic, animal, mammal, ' a partir de 0s
+[    43s]     trecho escuro em 0s, tentando mais adiante
+[    46s]     + 5_pixabay.mp4 de 'whale shark, blue whale, big blue whale, water, fish, big fi' a partir de 0s
+[    51s]     + 6_pixabay.mp4 de 'boy, whale, sea, fish, stingray, ocean, underwater' a partir de 10s
+[    55s]     + 7_pixabay.mp4 de 'ai generated, sperm whale, whale, nature, ocean, underwater,' a partir de 10s
+[    58s]     + 8_pixabay.mp4 de 'whale, water, animal' a partir de 8s
+[    64s]     + 9_pixabay.mp4 de 'dolphin, pool, water, animal, whale, shark' a partir de 9s
+[    71s]     + 10_pixabay.mp4 de 'whale, space, planets, stars, under water, underwater world,' a partir de 21s
+[    71s]   v_orca_jump / pexels: 0 filmes para 'orca jumping'
+[    73s]   v_orca_jump / pixabay: 11 filmes para 'orca jumping'
+[    74s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=orca+jumping&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444a
+[    74s]   v_orca_jump / coverr: 0 filmes para 'orca jumping'
+[    74s]     trecho escuro em 0s, tentando mais adiante
+[    77s]     + 1_pixabay.mp4 de 'jumping, berries, cherries, red, fruits, food, tasty, fresh,' a partir de 0s
+[    78s]     trecho escuro em 8s, tentando mais adiante
+[    81s]     + 2_pixabay.mp4 de 'spider, jumping spider, eyes, animal, nature, wildlife, macr' a partir de 10s
+[    85s]     + 3_pixabay.mp4 de 'animal, dog, pet, play, home, house, jumping, labrador, frie' a partir de 8s
+[    90s]     + 4_pixabay.mp4 de 'animal, dog, pet, play, home, house, jumping, labrador, frie' a partir de 8s
+[    91s]     trecho escuro em 0s, tentando mais adiante
+[    97s]     + 5_pixabay.mp4 de 'animal, dog, pet, play, home, house, jumping, labrador, frie' a partir de 0s
+[   100s]     + 6_pixabay.mp4 de 'animal, dog, pet, play, home, house, jumping, labrador, frie' a partir de 9s
+[   100s]   v_orca_pod / pexels: 0 filmes para 'orcas swimming'
+[   101s]   v_orca_pod / pixabay: 10 filmes para 'orcas swimming'
+[   102s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=orcas+swimming&page_size=8&urls=true&api_key=e46f0775805a10c2dd344
+[   102s]   v_orca_pod / coverr: 0 filmes para 'orcas swimming'
+[   105s]     + 1_pixabay.mp4 de 'turtle, ocean, sea, animal, caretta caretta, water, swimming' a partir de 0s
+[   114s]     + 2_pixabay.mp4 de 'beach, sea, sand, ocean, water, coast, landscape, seascape, ' a partir de 17s
+[   118s]     + 3_pixabay.mp4 de 'jellyfish, tank, water, life, marine, blue, aquarium, sea, t' a partir de 39s
+[   120s]     trecho escuro em 8s, tentando mais adiante
+[   122s]     trecho escuro em 8s, tentando mais adiante
+[   124s]     trecho escuro em 8s, tentando mais adiante
+[   125s]     trecho escuro em 12s, tentando mais adiante
+[   137s]     + 4_pixabay.mp4 de 'swans, ducks, water, white, bird, nature, animal, wildlife, ' a partir de 8s
+[   143s]     + 5_pixabay.mp4 de 'swimming pool, swimmers, swimming, pool, water sports, summe' a partir de 8s
+[   144s]     trecho escuro em 8s, tentando mais adiante
+[   148s]     + 6_pixabay.mp4 de 'stingray, fish, undersea, swimming, coral, water' a partir de 10s
+[   148s]   v_shark / pexels: 0 filmes para 'great white shark'
+[   150s]   v_shark / pixabay: 12 filmes para 'great white shark'
+[   151s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=great+white+shark&page_size=8&urls=true&api_key=e46f0775805a10c2dd
+[   151s]   v_shark / coverr: 0 filmes para 'great white shark'
+[   154s]     + 1_pixabay.mp4 de 'shark, fish, ocean, animal, green screen, chroma key, great ' a partir de 9s
+[   154s]     trecho escuro em 0s, tentando mais adiante
+[   158s]     + 2_pixabay.mp4 de 'ai generated, shark, underwater, sea, ocean, fish, dangerous' a partir de 0s
+[   159s]     trecho escuro em 0s, tentando mais adiante
+[   162s]     + 3_pixabay.mp4 de 'shark, ocean, jumping, breach, surface, sunset, sunrise, sea' a partir de 0s
+[   168s]     trecho escuro em 8s, tentando mais adiante
+[   174s]     trecho escuro em 8s, tentando mais adiante
+[   185s]     + 4_pixabay.mp4 de 'bird, heron, white, great egret, water, bach, plumage, wildl' a partir de 8s
+[   188s]     + 5_pixabay.mp4 de 'woodpecker, great spotted woodpecker, great spotted, bird, t' a partir de 12s
+[   196s]     + 6_pixabay.mp4 de 'great wall, wall, ruins, tower, mountains, summit, peak, tre' a partir de 17s
+[   201s]     + 7_pixabay.mp4 de 'abstract, background, ink, that, tissue, beautiful, cloudy, ' a partir de 10s
+[   206s]     + 8_pixabay.mp4 de 'castle, church, tower, city, architecture, building, religio' a partir de 8s
+[   206s]   v_shark2 / pexels: 0 filmes para 'shark'
+[   207s]   v_shark2 / pixabay: 12 filmes para 'shark'
+[   208s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=shark&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e04d
+[   208s]   v_shark2 / coverr: 0 filmes para 'shark'
+[   212s]     + 1_pixabay.mp4 de 'shark, aquarium, fish, underwater, marine, sea, water, ocean' a partir de 8s
+[   221s]     + 2_pixabay.mp4 de 'fish, aquarium, sea, ocean, submarine, animals, swimming, co' a partir de 21s
+[   225s]     + 3_pixabay.mp4 de 'shark, ocean, baby shark, swimming, underwater, snorkeling' a partir de 11s
+[   231s]     + 4_pixabay.mp4 de 'stars, space, light, night, sky, fantasy, astronomy, planet,' a partir de 10s
+[   239s]     + 5_pixabay.mp4 de 'sea, fish, ocean, underwater, water, marine, diving, reef, c' a partir de 10s
+[   244s]     + 6_pixabay.mp4 de 'marine, ocean, sea, beautiful wallpaper, water, underwater, ' a partir de 10s
+[   244s]   v_whale / pexels: 0 filmes para 'humpback whale'
+[   245s]   v_whale / pixabay: 11 filmes para 'humpback whale'
+[   246s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=humpback+whale&page_size=8&urls=true&api_key=e46f0775805a10c2dd344
+[   246s]   v_whale / coverr: 0 filmes para 'humpback whale'
+[   249s]     + 1_pixabay.mp4 de 'whale, humpback, nature, mammal, animal, wildlife, sea, ocea' a partir de 0s
+[   250s]     trecho escuro em 13s, tentando mais adiante
+[   250s]     trecho escuro em 21s, tentando mais adiante
+[   256s]     + 2_pixabay.mp4 de 'ai generated, whale, humpback, ocean, underwater, marine, li' a partir de 28s
+[   264s]     + 3_pixabay.mp4 de 'ai generated, whale, humpback, ocean, underwater, marine, se' a partir de 10s
+[   264s]     trecho escuro em 0s, tentando mais adiante
+[   265s]     trecho escuro em 0s, tentando mais adiante
+[   273s]     + 4_pixabay.mp4 de 'humpback whale, breaching, jumping, ocean, sunset, sea, spla' a partir de 0s
+[   273s]   v_whale / pexels: 0 filmes para 'whale underwater'
+[   274s]   v_whale / pixabay: 11 filmes para 'whale underwater'
+[   275s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=whale+underwater&page_size=8&urls=true&api_key=e46f0775805a10c2dd3
+[   275s]   v_whale / coverr: 0 filmes para 'whale underwater'
+[   275s]     trecho escuro em 8s, tentando mais adiante
+[   276s]     trecho escuro em 8s, tentando mais adiante
+[   287s]     + 5_pixabay.mp4 de 'whale shark, nature, sea, ocean, night snorkeling, night div' a partir de 23s
+[   291s]     trecho escuro em 8s, tentando mais adiante
+[   295s]     trecho escuro em 8s, tentando mais adiante
+[   298s]     trecho escuro em 0s, tentando mais adiante
+[   301s]     + 6_pixabay.mp4 de 'fish, underwater, ocean, sea, water, shark, blue, diving, sw' a partir de 0s
+[   306s]     + 7_pixabay.mp4 de 'st, helena, snorkeling, snorkel, diving, underwater, sea, sw' a partir de 8s
+[   306s]   v_sperm / pexels: 0 filmes para 'sperm whale'
+[   307s]   v_sperm / pixabay: 10 filmes para 'sperm whale'
+[   308s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=sperm+whale&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa
+[   308s]   v_sperm / coverr: 0 filmes para 'sperm whale'
+[   308s]     trecho escuro em 10s, tentando mais adiante
+[   309s]     trecho escuro em 16s, tentando mais adiante
+[   314s]     + 1_pixabay.mp4 de 'sperm, bubbles, particles, rays, bacteria, microbiology, mic' a partir de 22s
+[   314s]   v_sperm / pexels: 0 filmes para 'cachalot'
+[   315s]   v_sperm / pixabay: 0 filmes para 'cachalot'
+[   316s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=cachalot&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e
+[   316s]   v_sperm / coverr: 0 filmes para 'cachalot'
+[   316s]   v_underwater / pexels: 0 filmes para 'underwater ocean'
+[   317s]   v_underwater / pixabay: 9 filmes para 'underwater ocean'
+[   318s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=underwater+ocean&page_size=8&urls=true&api_key=e46f0775805a10c2dd3
+[   318s]   v_underwater / coverr: 0 filmes para 'underwater ocean'
+[   324s]     + 1_pixabay.mp4 de 'turtle, ocean, tortoise, wildlife, underwater, snorkeling, m' a partir de 10s
+[   328s]     + 2_pixabay.mp4 de 'underwater, sea, ocean, water, air bubbles, blue, underwater' a partir de 9s
+[   331s]     + 3_pixabay.mp4 de 'jellyfish, underwater, ocean, water, nature, aquarium, tenta' a partir de 0s
+[   338s]     + 4_pixabay.mp4 de 'jellyfish, sea, dangerous, underwater, tentacle, live wallpa' a partir de 8s
+[   342s]     + 5_pixabay.mp4 de 'fishes, small, aquarium, small fish, sea creatures, underwat' a partir de 0s
+[   346s]     + 6_pixabay.mp4 de 'divers, underwater, underwater ocean, sea, beach, water' a partir de 13s
+[   351s]     + 7_pixabay.mp4 de 'clown fish, aquarium, anemone, underwater, sea, ocean, scuba' a partir de 8s
+[   357s]     + 8_pixabay.mp4 de 'ocean, waves, sea, water, surf, beams, light, underwater, na' a partir de 17s
+[   357s]   v_reef / pexels: 0 filmes para 'coral reef'
+[   358s]   v_reef / pixabay: 12 filmes para 'coral reef'
+[   359s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=coral+reef&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa8
+[   359s]   v_reef / coverr: 0 filmes para 'coral reef'
+[   370s]     + 1_pixabay.mp4 de 'reef, coral, sea, underwater, ocean, animals, sponges, scuba' a partir de 8s
+[   374s]     trecho escuro em 8s, tentando mais adiante
+[   377s]     trecho escuro em 8s, tentando mais adiante
+[   380s]     trecho escuro em 9s, tentando mais adiante
+[   381s]     trecho escuro em 15s, tentando mais adiante
+[   385s]     + 2_pixabay.mp4 de 'fish, aquarium, underwater, ocean, marine, coral, dive, reef' a partir de 17s
+[   392s]     + 3_pixabay.mp4 de 'reef, ocean, jellyfish, marine, sea, underwater, water, cora' a partir de 10s
+[   404s]     + 4_pixabay.mp4 de 'reef, coral, sea, underwater, ocean, corals, animals, sponge' a partir de 8s
+[   414s]     trecho escuro em 8s, tentando mais adiante
+[   424s]     trecho escuro em 8s, tentando mais adiante
+[   430s]     trecho escuro em 12s, tentando mais adiante
+[   430s]     trecho escuro em 19s, tentando mais adiante
+[   435s]     + 5_pixabay.mp4 de 'coral, ocean, underwater, diving, scuba, reef, travel, water' a partir de 12s
+[   435s]     trecho escuro em 8s, tentando mais adiante
+[   439s]     + 6_pixabay.mp4 de 'fish, aquarium, fish tank, angel fish, coral reef, banner fi' a partir de 10s
+[   439s]   v_waves / pexels: 0 filmes para 'ocean waves'
+[   440s]   v_waves / pixabay: 12 filmes para 'ocean waves'
+[   441s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=ocean+waves&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa
+[   441s]   v_waves / coverr: 0 filmes para 'ocean waves'
+[   447s]     + 1_pixabay.mp4 de 'sea, wave, golden, sand, sunrise, ocean, water, surf, beach,' a partir de 14s
+[   452s]     + 2_pixabay.mp4 de 'wave, breaking, sea, ocean, water, coast, slow motion, slowm' a partir de 14s
+[   460s]     + 3_pixabay.mp4 de 'wave, lighthouse, ocean, coast, blue, landscape' a partir de 16s
+[   466s]     + 4_pixabay.mp4 de 'ocean, sea, wave, water, sunset, reflection, gold, shiny, sp' a partir de 8s
+[   470s]     + 5_pixabay.mp4 de 'sea, ocean, wave, beach, blue, nature, pacific, sand, water,' a partir de 11s
+[   483s]     + 6_pixabay.mp4 de 'beach, nature, sea, sand, ocean, water, seascape, seashore, ' a partir de 8s
+[   483s]   v_jelly / pexels: 0 filmes para 'jellyfish'
+[   484s]   v_jelly / pixabay: 9 filmes para 'jellyfish'
+[   485s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=jellyfish&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85
+[   485s]   v_jelly / coverr: 0 filmes para 'jellyfish'
+[   492s]     trecho escuro em 8s, tentando mais adiante
+[   499s]     trecho escuro em 8s, tentando mais adiante
+[   504s]     + 1_pixabay.mp4 de 'jellyfish, aquarium, exhibition, beautiful, water, magical' a partir de 10s
+[   516s]     + 2_pixabay.mp4 de 'jellyfish, sea, ocean, water, aquarium' a partir de 11s
+[   520s]     + 3_pixabay.mp4 de 'jellyfish, root mouth jellyfish, underwater, aquarium, under' a partir de 8s
+[   524s]     + 4_pixabay.mp4 de 'jellyfish, ocean, sea, animal, underwater, scuba, nature' a partir de 8s
+[   524s]   v_ice / pexels: 0 filmes para 'sea ice'
+[   525s]   v_ice / pixabay: 10 filmes para 'sea ice'
+[   526s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=sea+ice&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e0
+[   526s]   v_ice / coverr: 0 filmes para 'sea ice'
+[   536s]     + 1_pixabay.mp4 de 'drone, landscape, green, greenland, iceberg, sea, arctic, ic' a partir de 8s
+[   536s]     trecho escuro em 0s, tentando mais adiante
+[   539s]     + 2_pixabay.mp4 de 'sunset, sea, ice, nature, summer' a partir de 0s
+[   543s]     + 3_pixabay.mp4 de 'sea lions, lion, alaska, ice floe, nature, wildlife' a partir de 8s
+[   545s]     + 4_pixabay.mp4 de 'sea, beach, woman, walking, ice, winter, iceland, nature' a partir de 14s
+[   549s]     + 5_pixabay.mp4 de 'icebergs, antarctica, ice, arctic, cold, glacier, sea, winte' a partir de 22s
+[   549s]   v_seal / pexels: 0 filmes para 'seal'
+[   550s]   v_seal / pixabay: 11 filmes para 'seal'
+[   551s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=seal&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e04d8
+[   551s]   v_seal / coverr: 0 filmes para 'seal'
+[   555s]     + 1_pixabay.mp4 de 'seal, baby seal, mammal, beach, sand, sea, animal, nature' a partir de 0s
+[   560s]     + 2_pixabay.mp4 de 'seal, swimming, pool, zoo, animal, harbor seal, mammal' a partir de 19s
+[   565s]     + 3_pixabay.mp4 de 'seal, harbour, coast, stone, curious, mammals, attentive' a partir de 13s
+[   567s]     trecho escuro em 0s, tentando mais adiante
+[   568s]     trecho escuro em 0s, tentando mais adiante
+[   575s]     + 4_pixabay.mp4 de 'seal, seals, water, sea, swim, slow motion, animal' a partir de 8s
+[   575s]   v_squid / pexels: 0 filmes para 'squid'
+[   576s]   v_squid / pixabay: 7 filmes para 'squid'
+[   577s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=squid&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e04d
+[   577s]   v_squid / coverr: 0 filmes para 'squid'
+[   582s]     + 1_pixabay.mp4 de 'octopus, walking, creature, animal, tentacles, underwater, o' a partir de 21s
+[   582s]     trecho escuro em 0s, tentando mais adiante
+[   584s]     + 2_pixabay.mp4 de 'octopus, santa, cartoon, 3d, octopuss, sea, ocean, water, ab' a partir de 0s
+[   587s]     + 3_pixabay.mp4 de 'bbq, squid, food, seafood, grill, grilled, barbecue, delicio' a partir de 9s
+[   587s]   v_dolphin / pexels: 0 filmes para 'dolphins'
+[   589s]   v_dolphin / pixabay: 12 filmes para 'dolphins'
+[   589s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=dolphins&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e
+[   589s]   v_dolphin / coverr: 0 filmes para 'dolphins'
+[   590s]     trecho escuro em 0s, tentando mais adiante
+[   594s]     + 1_pixabay.mp4 de 'aquarium, dolphin, exhibit, zoo, tourist, fish, sea, ocean, ' a partir de 0s
+[   606s]     + 2_pixabay.mp4 de 'ocean, sea, surfing, pacific, dolphin, dolphins, mammal, swi' a partir de 9s
+[   607s]     trecho escuro em 8s, tentando mais adiante
+[   608s]     trecho escuro em 8s, tentando mais adiante
+[   618s]     + 3_pixabay.mp4 de 'dolphin, feeding, seagulls, wildlife, animals, aquatic life,' a partir de 15s
+[   622s]     + 4_pixabay.mp4 de 'dolphins, fish, show, pool, nature' a partir de 8s
+[   622s]     trecho escuro em 10s, tentando mais adiante
+[   623s]     trecho escuro em 16s, tentando mais adiante
+[   629s]     + 5_pixabay.mp4 de 'fish, dolphin, shark, aquarium, plants, coral, reef, underwa' a partir de 10s
+[   629s]   v_ship / pexels: 0 filmes para 'cargo ship ocean'
+[   630s]   v_ship / pixabay: 11 filmes para 'cargo ship ocean'
+[   631s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=cargo+ship+ocean&page_size=8&urls=true&api_key=e46f0775805a10c2dd3
+[   631s]   v_ship / coverr: 0 filmes para 'cargo ship ocean'
+[   638s]     + 1_pixabay.mp4 de 'bridge, terminal, architecture, traffic, cargo, lights, city' a partir de 11s
+[   641s]     + 2_pixabay.mp4 de 'boat, fog, ocean, sea, horizon, water, landscape, mist, clou' a partir de 21s
+[   646s]     + 3_pixabay.mp4 de 'ocean, sea, ships, cargo, island, south korea, busan' a partir de 8s
+[   646s]   v_plastic / pexels: 0 filmes para 'ocean plastic'
+[   647s]   v_plastic / pixabay: 12 filmes para 'ocean plastic'
+[   648s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=ocean+plastic&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444
+[   648s]   v_plastic / coverr: 0 filmes para 'ocean plastic'
+[   657s]     + 1_pixabay.mp4 de 'environment, beautiful wallpaper, waste, rubbish, plastic, d' a partir de 19s
+[   663s]     + 2_pixabay.mp4 de 'fish, ocean, underwater, protection, plastic, pollution, env' a partir de 14s
+[   668s]     trecho escuro em 8s, tentando mais adiante
+[   672s]     trecho escuro em 8s, tentando mais adiante
+[   677s]     trecho escuro em 21s, tentando mais adiante
+[   678s]     trecho escuro em 32s, tentando mais adiante
+[   679s]     trecho escuro em 8s, tentando mais adiante
+[   680s]     trecho escuro em 12s, tentando mais adiante
+[   683s]     + 3_pixabay.mp4 de 'beach, rubbish, waste, dump, nature, pollution, plastic, sea' a partir de 16s
+[   683s]   v_sunset_sea / pexels: 0 filmes para 'ocean sunset'
+[   684s]   v_sunset_sea / pixabay: 12 filmes para 'ocean sunset'
+[   685s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=ocean+sunset&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444a
+[   685s]   v_sunset_sea / coverr: 0 filmes para 'ocean sunset'
+[   691s]     + 1_pixabay.mp4 de 'sea, ocean, seagulls, birds, sunset, dusk, beach, paradise, ' a partir de 8s
+[   697s]     + 2_pixabay.mp4 de 'beach, ocean, sunset, sea, nature, sky, sun, sunrise, summer' a partir de 21s
+[   707s]     + 3_pixabay.mp4 de 'beach, sunset, sky, sea, dusk, ocean, sun, twilight, horizon' a partir de 12s
+[   710s]     + 4_pixabay.mp4 de 'waves, water, sea, ocean, landscape, nature, sunset, coast' a partir de 11s
+[   710s]   v_turtle / pexels: 0 filmes para 'sea turtle'
+[   712s]   v_turtle / pixabay: 10 filmes para 'sea turtle'
+[   713s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=sea+turtle&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa8
+[   713s]   v_turtle / coverr: 0 filmes para 'sea turtle'
+[   713s]     trecho escuro em 10s, tentando mais adiante
+[   713s]     trecho escuro em 16s, tentando mais adiante
+[   720s]     + 1_pixabay.mp4 de 'turtle, wildlife, marine life, underwater, nature, animal, m' a partir de 22s
+[   725s]     + 2_pixabay.mp4 de 'sea turtle, sea turtle hatching, turtle hatch, turtle' a partir de 8s
+[   725s]     trecho escuro em 0s, tentando mais adiante
+[   730s]     + 3_pixabay.mp4 de 'turtle, sea, sun, ocean' a partir de 0s
+[   730s]   v_fish / pexels: 0 filmes para 'school of fish'
+[   732s]   v_fish / pixabay: 11 filmes para 'school of fish'
+[   732s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=school+of+fish&page_size=8&urls=true&api_key=e46f0775805a10c2dd344
+[   732s]   v_fish / coverr: 0 filmes para 'school of fish'
+[   738s]     + 1_pixabay.mp4 de 'fish, underwater, aquarium, swim, school, circle, round, pat' a partir de 8s
+[   749s]     + 2_pixabay.mp4 de 'fiji, naia, underwater, diving, reef, animal, ocean, water, ' a partir de 0s
+[   759s]     trecho escuro em 8s, tentando mais adiante
+[   773s]     trecho escuro em 8s, tentando mais adiante
+[   785s]     + 3_pixabay.mp4 de 'fish, school, outline, pond, river, sea, pool, water, abstra' a partir de 11s
+[   785s]     trecho escuro em 0s, tentando mais adiante
+[   790s]     + 4_pixabay.mp4 de 'fish, nature, underwater, water, swim, animal, swimming, aqu' a partir de 0s
