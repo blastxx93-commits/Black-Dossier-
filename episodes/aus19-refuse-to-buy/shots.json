@@ -251,6 +251,86 @@
    "query": "Honda Civic 2022",
    "alt": [],
    "n": 4
+  },
+  {
+   "id": "h_dealer",
+   "query": "car dealership",
+   "alt": [
+    "car showroom interior"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_lot",
+   "query": "new cars parking lot dealership",
+   "alt": [
+    "car storage lot"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_traffic",
+   "query": "traffic Sydney",
+   "alt": [
+    "traffic Melbourne"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_port",
+   "query": "car carrier port vehicles",
+   "alt": [
+    "new cars port terminal"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_keys",
+   "query": "car keys",
+   "alt": [
+    "car key fob"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_sedan",
+   "query": "sedan car street",
+   "alt": [
+    "parked sedan"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_outback",
+   "query": "outback road Australia",
+   "alt": [
+    "Stuart Highway"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_ev",
+   "query": "electric car charging station",
+   "alt": [
+    "EV charging"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_money",
+   "query": "Australian dollar notes",
+   "alt": [
+    "Australian banknotes"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_sale",
+   "query": "sale sign shop",
+   "alt": [
+    "discount sign"
+   ],
+   "n": 5
   }
  ]
 }
