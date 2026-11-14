@@ -315,6 +315,266 @@
    "id": "ai_fossil_cliff",
    "prompt": "Paleontologists' dig site on a desert of Peru with a fossil whale skeleton, seen from above, no faces",
    "tier": "cheap"
+  },
+  {
+   "id": "ai_dk_side",
+   "prompt": "Side view of a Dunkleosteus armored fish (head and front covered by thick grey bony plates like a helmet, no teeth but sharp bony blade jaw plates, eel-like long body behind the armor) swimming, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_dk_front",
+   "prompt": "Front view of a Dunkleosteus armored fish (head and front covered by thick grey bony plates like a helmet, no teeth but sharp bony blade jaw plates, eel-like long body behind the armor) approaching the camera, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_dk_reef",
+   "prompt": "Far view of a Dunkleosteus armored fish (head and front covered by thick grey bony plates like a helmet, no teeth but sharp bony blade jaw plates, eel-like long body behind the armor) over a Devonian reef of corals and sea lilies",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_devonian_corals",
+   "prompt": "Devonian sea floor with corals, sea lilies and shells, sunbeams, no fish",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_devonian_fish",
+   "prompt": "Small primitive armored fish swimming over a Devonian reef",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_ichthyo_pod",
+   "prompt": "A group of dolphin-shaped ichthyosaurs swimming in blue water",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_ichthyo_surface",
+   "prompt": "An ichthyosaur breaking the surface to breathe, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_thalatto_side",
+   "prompt": "Side view of a large predatory ichthyosaur with big teeth swimming, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_lio_side",
+   "prompt": "Side view of a Liopleurodon, a short-necked pliosaur with a large head and four flippers, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_lio_below",
+   "prompt": "A Liopleurodon seen from below against the bright surface, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_jurassic_ammonite_reef",
+   "prompt": "Ammonites drifting over a Jurassic sea floor",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_mosa_side",
+   "prompt": "Side view of a Mosasaurus (giant marine lizard, crocodile-like head, long body, four paddle flippers, a vertical tail fin like a shark, no neck frill, no sail), only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_mosa_head",
+   "prompt": "Close-up of the head of a Mosasaurus (giant marine lizard, crocodile-like head, long body, four paddle flippers, a vertical tail fin like a shark, no neck frill, no sail), mouth slightly open, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_mosa_deep",
+   "prompt": "Far view of a Mosasaurus (giant marine lizard, crocodile-like head, long body, four paddle flippers, a vertical tail fin like a shark, no neck frill, no sail) in deep blue water",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_mosa_hunt",
+   "prompt": "a Mosasaurus (giant marine lizard, crocodile-like head, long body, four paddle flippers, a vertical tail fin like a shark, no neck frill, no sail) chasing a school of fish",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_cretaceous_storm",
+   "prompt": "Stormy Cretaceous ocean surface with huge waves, no animals",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_basi_side",
+   "prompt": "Side view of a Basilosaurus (very long thin serpent-like ancient whale, small flippers, long jaws with triangular teeth), only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_basi_surface",
+   "prompt": "a Basilosaurus (very long thin serpent-like ancient whale, small flippers, long jaws with triangular teeth) near the surface, sunbeams, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_basi_head",
+   "prompt": "Close-up of the long toothy jaws of a Basilosaurus (very long thin serpent-like ancient whale, small flippers, long jaws with triangular teeth), only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_basi_hunt",
+   "prompt": "a Basilosaurus (very long thin serpent-like ancient whale, small flippers, long jaws with triangular teeth) chasing a small ancient whale",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_eocene_warm",
+   "prompt": "Warm shallow turquoise sea with sand bottom and seagrass, no animals",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_mg_side",
+   "prompt": "Side view of a Megalodon (huge shark like a great white shark but much bigger and bulkier) swimming, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_mg_front",
+   "prompt": "Front view of a Megalodon (huge shark like a great white shark but much bigger and bulkier) with mouth slightly open, approaching, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_mg_scale",
+   "prompt": "a Megalodon (huge shark like a great white shark but much bigger and bulkier) next to a small whale for scale",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_mg_deep",
+   "prompt": "Silhouette of a Megalodon (huge shark like a great white shark but much bigger and bulkier) in dark deep water, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_mg_tooth_hand",
+   "prompt": "A huge black fossil shark tooth held in an open palm, hand only, beach background",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_lv_side",
+   "prompt": "Side view of a Livyatan (ancient sperm whale, square head, huge conical teeth in both upper and lower jaws) swimming, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_lv_head",
+   "prompt": "Close-up of the head of a Livyatan (ancient sperm whale, square head, huge conical teeth in both upper and lower jaws), mouth open showing huge teeth, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_lv_deep",
+   "prompt": "a Livyatan (ancient sperm whale, square head, huge conical teeth in both upper and lower jaws) in dark deep water, silhouette, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_lv_skull",
+   "prompt": "A fossil skull of an ancient sperm whale with enormous teeth in a museum, dramatic light",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_peru_desert",
+   "prompt": "The coastal desert of Peru with fossil-rich sandstone cliffs, no people",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_pl_ice",
+   "prompt": "Cold grey sea with drifting ice floes, no animals",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_pl_seals",
+   "prompt": "Seals resting on an ice floe",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_pl_greatwhite",
+   "prompt": "A great white shark in cold green water, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_pl_orca_ice",
+   "prompt": "an orca killer whale (black and white, tall dorsal fin, white eye patch) swimming between ice floes, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_pl_orcas_hunt",
+   "prompt": "Orcas hunting near an ice floe with a seal on it",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_pl_whale_cold",
+   "prompt": "A baleen whale in cold grey water, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_pl_coast",
+   "prompt": "Rocky cold coastline with fog",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_o_jump",
+   "prompt": "an orca killer whale (black and white, tall dorsal fin, white eye patch) jumping out of the water, side view, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_o_under",
+   "prompt": "an orca killer whale (black and white, tall dorsal fin, white eye patch) swimming underwater, side view, sunbeams, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_o_head",
+   "prompt": "Close-up of the head of an orca killer whale (black and white, tall dorsal fin, white eye patch), only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_o_pod_dawn",
+   "prompt": "Pod of orcas swimming at dawn, fins above the water",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_o_calf",
+   "prompt": "Mother orca and calf swimming",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_o_tail",
+   "prompt": "Orca tail fluke above the water, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_o_fin_mist",
+   "prompt": "Orca dorsal fin in misty sea, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_o_hunt_fish",
+   "prompt": "Orcas herding a ball of fish underwater",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_o_deep",
+   "prompt": "Orca diving into dark blue water, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_o_sunrise",
+   "prompt": "Orcas surfacing at sunrise",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_h_ship",
+   "prompt": "A large container ship on the ocean, grey sky",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_h_orcas_city",
+   "prompt": "Orcas swimming with a coastal city skyline in the distance",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_h_research",
+   "prompt": "A small research boat watching orcas, people tiny and far",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_h_underwater_noise",
+   "prompt": "Underwater view of a ship hull and propeller, murky green water",
+   "tier": "cheap"
   }
  ]
 }
