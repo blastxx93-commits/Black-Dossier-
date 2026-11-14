@@ -1,0 +1,3809 @@
+{
+ "output": "FE03_Orcas_Oceanos.mp4",
+ "fps": 30,
+ "music": [
+  {
+   "file": "musica/tensao.mp3",
+   "start": 0.0,
+   "end": 56.51,
+   "gain": -26,
+   "fade_in": 2.4,
+   "fade_out": 2.4
+  },
+  {
+   "file": "musica/epico.mp3",
+   "start": 54.11,
+   "end": 122.59,
+   "gain": -26,
+   "fade_in": 2.4,
+   "fade_out": 2.4
+  },
+  {
+   "file": "musica/tensao.mp3",
+   "start": 120.19,
+   "end": 311.84,
+   "gain": -26,
+   "fade_in": 2.4,
+   "fade_out": 2.4
+  },
+  {
+   "file": "musica/epico.mp3",
+   "start": 309.44,
+   "end": 359.61,
+   "gain": -26,
+   "fade_in": 2.4,
+   "fade_out": 2.4
+  },
+  {
+   "file": "musica/tensao.mp3",
+   "start": 357.21,
+   "end": 603.22,
+   "gain": -26,
+   "fade_in": 2.4,
+   "fade_out": 2.4
+  },
+  {
+   "file": "musica/epico.mp3",
+   "start": 600.81,
+   "end": 671.3,
+   "gain": -26,
+   "fade_in": 2.4,
+   "fade_out": 2.4
+  },
+  {
+   "file": "musica/drama.mp3",
+   "start": 668.9,
+   "end": 732.2,
+   "gain": -26,
+   "fade_in": 2.4,
+   "fade_out": 2.4
+  }
+ ],
+ "chapters": [
+  {
+   "audio": "audio/ch00_hook.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_shark/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.08,
+     "fixed": true
+    },
+    {
+     "type": "serif",
+     "bg": "a/ai/ai_megalodon_jaws_1.jpg",
+     "text": "Não foi.",
+     "lines": [
+      "O mais perigoso do oceano?"
+     ],
+     "size": 120,
+     "dur": 1.1,
+     "fixed": true,
+     "trans": "blur"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_orca_vs_livyatan_1.jpg",
+     "move": "in",
+     "dur": 2.96,
+     "fixed": true,
+     "motion": "push",
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_ocean_surface_1.jpg",
+     "move": "left",
+     "dur": 3.16,
+     "fixed": true,
+     "motion": "pan_l",
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_shark2/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.88,
+     "fixed": true,
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_orca_family_1.jpg",
+     "move": "out",
+     "caption": "O rei dos mares hoje|Orca",
+     "dur": 4.66,
+     "fixed": true,
+     "motion": "pull",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_orca/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.06,
+     "fixed": true,
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_orca_spyhop_1.jpg",
+     "move": "right",
+     "dur": 2.24,
+     "fixed": true,
+     "motion": "tilt_up",
+     "leak": true,
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_seal/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.19,
+     "fixed": true,
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_cretaceous_sea_1.jpg",
+     "move": "in",
+     "dur": 4.61,
+     "fixed": true,
+     "motion": "diag",
+     "trans": "flash",
+     "sfx": [
+      {
+       "file": "sfx/impact.wav",
+       "gain": -28,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "serif",
+     "bg": "a/ai/ai_m_waves_1.jpg",
+     "text": "Nove monstros.",
+     "lines": [
+      "500 milhões de anos",
+      "Nove eras"
+     ],
+     "size": 120,
+     "dur": 5.74,
+     "fixed": true,
+     "trans": "blur"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_orca_fin_1.jpg",
+     "move": "up",
+     "dur": 3.36,
+     "fixed": true,
+     "motion": "pan_r",
+     "trans": "fade"
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Ela vence o Megalodon?",
+      "Quem o Megalodon temia?",
+      "Quando a orca vira presa?"
+     ],
+     "starts": [
+      0,
+      44,
+      110
+     ],
+     "sfx": [
+      {
+       "file": "sfx/riser.wav",
+       "gain": -38,
+       "at": 0
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -20,
+       "at": 1.8600000000000065
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -20,
+       "at": 4.6200000000000045
+      }
+     ],
+     "bg": "a/ai/ai_m_storm_1.jpg",
+     "dur": 7.62,
+     "fixed": true,
+     "trans": "blur"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_underwater/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.646,
+     "fixed": false,
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_b.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch01.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/ai/ai_orca_dive_1.jpg",
+     "move": "out",
+     "caption": "A competidora|Orca",
+     "dur": 2.94,
+     "fixed": true,
+     "motion": "push",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_orca_sunset_1.jpg",
+     "move": "down",
+     "dur": 5.34,
+     "fixed": true,
+     "motion": "focus",
+     "trans": "fade"
+    },
+    {
+     "type": "measure",
+     "src": "a/ai/ai_orca_portrait_1.jpg",
+     "value": "9 m · 6 t",
+     "side": "right",
+     "top": 0.12,
+     "bottom": 0.8,
+     "move": "in",
+     "sfx": [
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -31,
+       "at": 0
+      },
+      {
+       "file": "sfx/riser.wav",
+       "gain": -36,
+       "at": 0
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.95
+      }
+     ],
+     "caption": "Macho adulto|Orca",
+     "dur": 5.12,
+     "fixed": true,
+     "trans": "mono"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_orca_pod_surface_1.jpg",
+     "move": "in",
+     "dur": 4.02,
+     "fixed": true,
+     "motion": "tilt_down",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_orca_echolocation_1.jpg",
+     "move": "left",
+     "dur": 4.2,
+     "fixed": true,
+     "motion": "pull",
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_shark2/6_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.08,
+     "fixed": true,
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_orca_brain_1.jpg",
+     "move": "out",
+     "dur": 2.92,
+     "fixed": true,
+     "motion": "pan_l",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "serif",
+     "bg": "a/ai/ai_orca_pod_surface_1.jpg",
+     "text": "É o grupo.",
+     "lines": [
+      "A arma mais perigosa"
+     ],
+     "size": 120,
+     "dur": 4.76,
+     "fixed": true,
+     "trans": "blur"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_orca_ice_1.jpg",
+     "move": "right",
+     "dur": 4.2,
+     "fixed": true,
+     "motion": "diag",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_underwater/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.84,
+     "fixed": true,
+     "trans": "fade"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ice/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.46,
+     "fixed": true,
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_shark2/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.78,
+     "fixed": true,
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "ficha",
+     "bg": "a/ai/ai_orca_wave_1.jpg",
+     "name": "Orca",
+     "sci": "Orcinus orca",
+     "rows": [
+      [
+       "Tamanho",
+       "até 9 m"
+      ],
+      [
+       "Peso",
+       "≈ 6 t"
+      ],
+      [
+       "Velocidade",
+       "50+ km/h"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -31,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.5
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.85
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 1.2
+      }
+     ],
+     "dur": 6.94,
+     "fixed": true,
+     "trans": "slide"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_o_jump_1.jpg",
+     "move": "up",
+     "dur": 3.98,
+     "fixed": true,
+     "motion": "push",
+     "leak": true,
+     "trans": "flash",
+     "sfx": [
+      {
+       "file": "sfx/reverse.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "score",
+     "bg": "a/ai/ai_o_jump_1.jpg",
+     "prev": [
+      0,
+      0
+     ],
+     "now": [
+      0,
+      0
+     ],
+     "sub": "Orca × feras do passado",
+     "sfx": [
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.2
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.4
+      },
+      {
+       "file": "sfx/thud.wav",
+       "gain": -28,
+       "at": 0.6
+      }
+     ],
+     "dur": 5.503,
+     "fixed": false,
+     "labels": [
+      "ORCA",
+      "FERAS"
+     ],
+     "trans": "zoom"
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch02.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "round",
+     "num": 1,
+     "name": "Cambriano",
+     "sub": "≈ 500 milhões de anos",
+     "bg": "a/ai/ai_cambrian_reef_1.jpg",
+     "of": 9,
+     "sfx": [
+      {
+       "file": "sfx/bell.wav",
+       "gain": -29,
+       "at": 0.05
+      },
+      {
+       "file": "sfx/impact.wav",
+       "gain": -27,
+       "at": 0.1
+      }
+     ],
+     "dur": 2.32,
+     "fixed": true,
+     "trans": "flash"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_reef/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "hud": [
+      1,
+      0,
+      0,
+      9
+     ],
+     "dur": 6.56,
+     "fixed": true,
+     "trans": "fade"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_reef/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "caption": "Rodada 1|Anomalocaris",
+     "hud": [
+      1,
+      0,
+      0,
+      9
+     ],
+     "dur": 3.72,
+     "fixed": true,
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_b.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_trilobites_1.jpg",
+     "move": "out",
+     "hud": [
+      1,
+      0,
+      0,
+      9
+     ],
+     "dur": 4.2,
+     "fixed": true,
+     "motion": "pan_l",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_waves/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.18,
+     "fixed": true,
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "measure",
+     "src": "a/ai/ai_anomalocaris_1.jpg",
+     "value": "≈ 1 m",
+     "side": "right",
+     "top": 0.12,
+     "bottom": 0.8,
+     "move": "in",
+     "sfx": [
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -31,
+       "at": 0
+      },
+      {
+       "file": "sfx/riser.wav",
+       "gain": -36,
+       "at": 0
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.95
+      }
+     ],
+     "hud": [
+      1,
+      0,
+      0,
+      9
+     ],
+     "dur": 4.84,
+     "fixed": true,
+     "trans": "mono"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_cambrian_reef_1.jpg",
+     "move": "down",
+     "hud": [
+      1,
+      0,
+      0,
+      9
+     ],
+     "dur": 4.2,
+     "fixed": true,
+     "motion": "pull",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_waves/5_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.2,
+     "fixed": true,
+     "trans": "fade"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_sunset_sea/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.1,
+     "fixed": true,
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "versus",
+     "left": {
+      "src": "a/ai/ai_o_under_1.jpg",
+      "name": "Orca",
+      "stat": "9 m"
+     },
+     "right": {
+      "src": "a/ai/ai_orca_vs_anomalocaris_1.jpg",
+      "name": "Anomalocaris",
+      "stat": "≈ 1 m"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whip.wav",
+       "gain": -29,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/impact.wav",
+       "gain": -26,
+       "at": 0.75
+      },
+      {
+       "file": "sfx/growl.wav",
+       "gain": -31,
+       "at": 0.9
+      }
+     ],
+     "dur": 5.72,
+     "fixed": true,
+     "trans": "slide"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_underwater/8_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "hud": [
+      1,
+      0,
+      0,
+      9
+     ],
+     "dur": 5.66,
+     "fixed": true,
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_o_head_1.jpg",
+     "move": "out",
+     "hud": [
+      1,
+      0,
+      0,
+      9
+     ],
+     "dur": 6.17,
+     "fixed": true,
+     "motion": "tilt_up",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "verdict",
+     "src": "a/p_anomalocaris/1_commons.jpg",
+     "winner": "tigre",
+     "sfx": [
+      {
+       "file": "sfx/heartbeat.wav",
+       "gain": -26,
+       "at": 0
+      },
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -27,
+       "at": 0.25
+      },
+      {
+       "file": "sfx/thud.wav",
+       "gain": -23,
+       "at": 0.55
+      },
+      {
+       "file": "sfx/win.wav",
+       "gain": -27,
+       "at": 0.6
+      }
+     ],
+     "text": "VITÓRIA DA ORCA",
+     "dur": 3.93,
+     "fixed": true,
+     "trans": "blur"
+    },
+    {
+     "type": "score",
+     "bg": "a/ai/ai_o_calf_1.jpg",
+     "prev": [
+      0,
+      0
+     ],
+     "now": [
+      1,
+      0
+     ],
+     "sub": "",
+     "sfx": [
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.2
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.4
+      },
+      {
+       "file": "sfx/win.wav",
+       "gain": -30,
+       "at": 0.6
+      }
+     ],
+     "dur": 1.18,
+     "fixed": true,
+     "labels": [
+      "ORCA",
+      "FERAS"
+     ],
+     "trans": "zoom"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_fish/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "hud": [
+      1,
+      0,
+      0,
+      9
+     ],
+     "dur": 6.072,
+     "fixed": false,
+     "trans": "fade"
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch03.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "round",
+     "num": 2,
+     "name": "Devoniano",
+     "sub": "a era dos peixes",
+     "bg": "a/ai/ai_orca_vs_dunkleosteus_1.jpg",
+     "of": 9,
+     "sfx": [
+      {
+       "file": "sfx/bell.wav",
+       "gain": -29,
+       "at": 0.05
+      },
+      {
+       "file": "sfx/impact.wav",
+       "gain": -27,
+       "at": 0.1
+      }
+     ],
+     "dur": 3.92,
+     "fixed": true,
+     "trans": "flash"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_fish/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "caption": "Rodada 2|Dunkleosteus",
+     "hud": [
+      2,
+      1,
+      0,
+      9
+     ],
+     "dur": 4.2,
+     "fixed": true,
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_sunset_sea/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.52,
+     "fixed": true,
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_orca_vs_dunkleosteus_1.jpg",
+     "move": "in",
+     "hud": [
+      2,
+      1,
+      0,
+      9
+     ],
+     "dur": 5.52,
+     "fixed": true,
+     "motion": "diag",
+     "trans": "flash",
+     "sfx": [
+      {
+       "file": "sfx/impact.wav",
+       "gain": -28,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "measure",
+     "src": "a/ai/ai_dunkleosteus_portrait_1.jpg",
+     "value": "3–4 m",
+     "side": "right",
+     "top": 0.12,
+     "bottom": 0.8,
+     "move": "in",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      },
+      {
+       "file": "sfx/riser.wav",
+       "gain": -36,
+       "at": 0
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.95
+      }
+     ],
+     "hud": [
+      2,
+      1,
+      0,
+      9
+     ],
+     "dur": 4.2,
+     "fixed": true,
+     "trans": "fade"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_underwater/5_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.5,
+     "fixed": true,
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_b.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "versus",
+     "left": {
+      "src": "a/ai/ai_o_pod_dawn_1.jpg",
+      "name": "Orca",
+      "stat": "9 m"
+     },
+     "right": {
+      "src": "a/ai/ai_devonian_fish_1.jpg",
+      "name": "Dunkleosteus",
+      "stat": "3–4 m"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whip.wav",
+       "gain": -29,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/impact.wav",
+       "gain": -26,
+       "at": 0.75
+      },
+      {
+       "file": "sfx/growl.wav",
+       "gain": -31,
+       "at": 0.9
+      }
+     ],
+     "dur": 3.98,
+     "fixed": true,
+     "trans": "slide"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_o_calf_1.jpg",
+     "move": "down",
+     "hud": [
+      2,
+      1,
+      0,
+      9
+     ],
+     "dur": 4.2,
+     "fixed": true,
+     "motion": "pan_r",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_dolphin/5_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.32,
+     "fixed": true,
+     "trans": "fade"
+    },
+    {
+     "type": "verdict",
+     "src": "a/p_dunkleosteus/3_unsplash.jpg",
+     "winner": "tigre",
+     "sfx": [
+      {
+       "file": "sfx/heartbeat.wav",
+       "gain": -26,
+       "at": 0
+      },
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -27,
+       "at": 0.25
+      },
+      {
+       "file": "sfx/thud.wav",
+       "gain": -23,
+       "at": 0.55
+      },
+      {
+       "file": "sfx/win.wav",
+       "gain": -27,
+       "at": 0.6
+      }
+     ],
+     "text": "VITÓRIA DA ORCA",
+     "dur": 2.19,
+     "fixed": true,
+     "trans": "blur"
+    },
+    {
+     "type": "score",
+     "bg": "a/ai/ai_o_hunt_fish_1.jpg",
+     "prev": [
+      1,
+      0
+     ],
+     "now": [
+      2,
+      0
+     ],
+     "sub": "",
+     "sfx": [
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.2
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.4
+      },
+      {
+       "file": "sfx/win.wav",
+       "gain": -30,
+       "at": 0.6
+      }
+     ],
+     "dur": 1.65,
+     "fixed": true,
+     "labels": [
+      "ORCA",
+      "FERAS"
+     ],
+     "trans": "zoom"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_shark/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "hud": [
+      2,
+      1,
+      0,
+      9
+     ],
+     "dur": 5.184,
+     "fixed": false,
+     "trans": "mono",
+     "sfx": [
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -31,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch04.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "round",
+     "num": 3,
+     "name": "Triássico",
+     "sub": "os répteis voltam ao mar",
+     "bg": "a/ai/ai_ichthyosaur_eye_1.jpg",
+     "of": 9,
+     "sfx": [
+      {
+       "file": "sfx/bell.wav",
+       "gain": -29,
+       "at": 0.05
+      },
+      {
+       "file": "sfx/impact.wav",
+       "gain": -27,
+       "at": 0.1
+      }
+     ],
+     "dur": 2.66,
+     "fixed": true,
+     "trans": "flash"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_jelly/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "hud": [
+      3,
+      2,
+      0,
+      9
+     ],
+     "dur": 4.2,
+     "fixed": true,
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_reef/5_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.44,
+     "fixed": true,
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_ichthyosaur_eye_1.jpg",
+     "move": "left",
+     "hud": [
+      3,
+      2,
+      0,
+      9
+     ],
+     "dur": 5.9,
+     "fixed": true,
+     "motion": "push",
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_ichthyosaur_swim_1.jpg",
+     "move": "out",
+     "hud": [
+      3,
+      2,
+      0,
+      9
+     ],
+     "dur": 4.2,
+     "fixed": true,
+     "motion": "focus",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_fish/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.1,
+     "fixed": true,
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "measure",
+     "src": "a/ai/ai_thalattoarchon_1.jpg",
+     "value": "≈ 8 m",
+     "side": "right",
+     "top": 0.12,
+     "bottom": 0.8,
+     "move": "in",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      },
+      {
+       "file": "sfx/riser.wav",
+       "gain": -36,
+       "at": 0
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.95
+      }
+     ],
+     "caption": "Rodada 3|Thalattoarchon",
+     "hud": [
+      3,
+      2,
+      0,
+      9
+     ],
+     "dur": 4.2,
+     "fixed": true,
+     "trans": "fade"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_turtle/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.36,
+     "fixed": true,
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_orca_vs_ichthyosaur_1.jpg",
+     "move": "right",
+     "hud": [
+      3,
+      2,
+      0,
+      9
+     ],
+     "dur": 4.2,
+     "fixed": true,
+     "motion": "tilt_down",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_turtle/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.2,
+     "fixed": true,
+     "trans": "flash",
+     "sfx": [
+      {
+       "file": "sfx/reverse.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_thalatto_side_1.jpg",
+     "move": "left",
+     "dur": 4.39,
+     "fixed": true,
+     "motion": "pull",
+     "leak": true,
+     "trans": "fade"
+    },
+    {
+     "type": "versus",
+     "left": {
+      "src": "a/ai/ai_o_tail_1.jpg",
+      "name": "Orca",
+      "stat": "9 m"
+     },
+     "right": {
+      "src": "a/ai/ai_ichthyo_pod_1.jpg",
+      "name": "Thalattoarchon",
+      "stat": "8 m"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whip.wav",
+       "gain": -29,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/impact.wav",
+       "gain": -26,
+       "at": 0.75
+      },
+      {
+       "file": "sfx/growl.wav",
+       "gain": -31,
+       "at": 0.9
+      }
+     ],
+     "dur": 5.41,
+     "fixed": true,
+     "trans": "slide"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_o_fin_mist_1.jpg",
+     "move": "out",
+     "hud": [
+      3,
+      2,
+      0,
+      9
+     ],
+     "dur": 4.48,
+     "fixed": true,
+     "motion": "pan_l",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_o_hunt_fish_1.jpg",
+     "move": "down",
+     "hud": [
+      3,
+      2,
+      0,
+      9
+     ],
+     "dur": 5.26,
+     "fixed": true,
+     "motion": "diag",
+     "trans": "fade"
+    },
+    {
+     "type": "verdict",
+     "src": "a/ai/ai_ichthyo_surface_1.jpg",
+     "winner": "tigre",
+     "sfx": [
+      {
+       "file": "sfx/heartbeat.wav",
+       "gain": -26,
+       "at": 0
+      },
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -27,
+       "at": 0.25
+      },
+      {
+       "file": "sfx/thud.wav",
+       "gain": -23,
+       "at": 0.55
+      },
+      {
+       "file": "sfx/win.wav",
+       "gain": -27,
+       "at": 0.6
+      }
+     ],
+     "text": "VITÓRIA DA ORCA",
+     "dur": 3.5,
+     "fixed": true,
+     "trans": "blur"
+    },
+    {
+     "type": "score",
+     "bg": "a/ai/ai_o2_side_surface_1.jpg",
+     "prev": [
+      2,
+      0
+     ],
+     "now": [
+      3,
+      0
+     ],
+     "sub": "Graças ao grupo",
+     "sfx": [
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.2
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.4
+      },
+      {
+       "file": "sfx/win.wav",
+       "gain": -30,
+       "at": 0.6
+      }
+     ],
+     "dur": 1.56,
+     "fixed": true,
+     "labels": [
+      "ORCA",
+      "FERAS"
+     ],
+     "trans": "zoom"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_jelly/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "hud": [
+      3,
+      2,
+      0,
+      9
+     ],
+     "dur": 5.752,
+     "fixed": false,
+     "trans": "mono",
+     "sfx": [
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -31,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch05.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "round",
+     "num": 4,
+     "name": "Jurássico",
+     "sub": "Liopleurodon",
+     "bg": "a/p_liopleurodon/1_commons.jpg",
+     "of": 9,
+     "sfx": [
+      {
+       "file": "sfx/bell.wav",
+       "gain": -29,
+       "at": 0.05
+      },
+      {
+       "file": "sfx/impact.wav",
+       "gain": -27,
+       "at": 0.1
+      }
+     ],
+     "dur": 2.52,
+     "fixed": true,
+     "trans": "flash"
+    },
+    {
+     "type": "serif",
+     "bg": "a/ai/ai_jurassic_ammonite_reef_1.jpg",
+     "text": "Um mito de 25 metros.",
+     "lines": [
+      "O Liopleurodon"
+     ],
+     "size": 120,
+     "dur": 4.2,
+     "fixed": true,
+     "trans": "blur"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_lio_side_1.jpg",
+     "move": "out",
+     "dur": 5.18,
+     "fixed": true,
+     "motion": "push",
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "measure",
+     "src": "a/ai/ai_liopleurodon_1.jpg",
+     "value": "6–7 m",
+     "side": "right",
+     "top": 0.12,
+     "bottom": 0.8,
+     "move": "in",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_b.wav",
+       "gain": -34,
+       "at": 0
+      },
+      {
+       "file": "sfx/riser.wav",
+       "gain": -36,
+       "at": 0
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.95
+      }
+     ],
+     "hud": [
+      4,
+      3,
+      0,
+      9
+     ],
+     "dur": 4.3,
+     "fixed": true,
+     "trans": "slide"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_underwater/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "hud": [
+      4,
+      3,
+      0,
+      9
+     ],
+     "dur": 4.2,
+     "fixed": true,
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_jurassic_ammonite_reef_1.jpg",
+     "move": "right",
+     "dur": 4.5,
+     "fixed": true,
+     "motion": "pan_l",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "versus",
+     "left": {
+      "src": "a/ai/ai_o_deep_1.jpg",
+      "name": "Orca",
+      "stat": "9 m"
+     },
+     "right": {
+      "src": "a/ai/ai_liopleurodon_head_1.jpg",
+      "name": "Liopleurodon",
+      "stat": "6–7 m"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whip.wav",
+       "gain": -29,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/impact.wav",
+       "gain": -26,
+       "at": 0.75
+      },
+      {
+       "file": "sfx/growl.wav",
+       "gain": -31,
+       "at": 0.9
+      }
+     ],
+     "dur": 4.2,
+     "fixed": true,
+     "trans": "slide"
+    },
+    {
+     "type": "image",
+     "src": "a/p_liopleurodon/1_commons.jpg",
+     "move": "in",
+     "dur": 4.94,
+     "fixed": true,
+     "motion": "pull",
+     "trans": "fade"
+    },
+    {
+     "type": "verdict",
+     "src": "a/ai/ai_ammonites_1.jpg",
+     "winner": "tigre",
+     "sfx": [
+      {
+       "file": "sfx/heartbeat.wav",
+       "gain": -26,
+       "at": 0
+      },
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -27,
+       "at": 0.25
+      },
+      {
+       "file": "sfx/thud.wav",
+       "gain": -23,
+       "at": 0.55
+      },
+      {
+       "file": "sfx/win.wav",
+       "gain": -27,
+       "at": 0.6
+      }
+     ],
+     "text": "VITÓRIA DA ORCA",
+     "dur": 2.12,
+     "fixed": true,
+     "trans": "blur"
+    },
+    {
+     "type": "score",
+     "bg": "a/ai/ai_o2_cold_fog_1.jpg",
+     "prev": [
+      3,
+      0
+     ],
+     "now": [
+      4,
+      0
+     ],
+     "sub": "",
+     "sfx": [
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.2
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.4
+      },
+      {
+       "file": "sfx/win.wav",
+       "gain": -30,
+       "at": 0.6
+      }
+     ],
+     "dur": 1.54,
+     "fixed": true,
+     "labels": [
+      "ORCA",
+      "FERAS"
+     ],
+     "trans": "zoom"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_o_sunrise_1.jpg",
+     "move": "in",
+     "hud": [
+      4,
+      3,
+      0,
+      9
+     ],
+     "dur": 6.66,
+     "fixed": true,
+     "motion": "tilt_up",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_waves/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "hud": [
+      4,
+      3,
+      0,
+      9
+     ],
+     "dur": 3.414,
+     "fixed": false,
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch06.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "round",
+     "num": 5,
+     "name": "Cretáceo",
+     "sub": "o mar dos monstros",
+     "bg": "a/ai/ai_cretaceous_sea_1.jpg",
+     "of": 9,
+     "sfx": [
+      {
+       "file": "sfx/bell.wav",
+       "gain": -29,
+       "at": 0.05
+      },
+      {
+       "file": "sfx/impact.wav",
+       "gain": -27,
+       "at": 0.1
+      }
+     ],
+     "dur": 2.86,
+     "fixed": true,
+     "trans": "flash"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_waves/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "caption": "Rodada 5|Mosassauro",
+     "hud": [
+      5,
+      4,
+      0,
+      9
+     ],
+     "dur": 4.2,
+     "fixed": true,
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_cr_sea_dusk_1.jpg",
+     "move": "up",
+     "dur": 4.74,
+     "fixed": true,
+     "motion": "diag",
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "measure",
+     "src": "a/ai/ai_mosasaurus_jaws_1.jpg",
+     "value": "12–15 m",
+     "side": "right",
+     "top": 0.12,
+     "bottom": 0.8,
+     "move": "in",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      },
+      {
+       "file": "sfx/riser.wav",
+       "gain": -36,
+       "at": 0
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.95
+      }
+     ],
+     "hud": [
+      5,
+      4,
+      0,
+      9
+     ],
+     "dur": 5.08,
+     "fixed": true,
+     "trans": "zoom"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_orca_vs_mosasaurus_1.jpg",
+     "move": "up",
+     "hud": [
+      5,
+      4,
+      0,
+      9
+     ],
+     "dur": 4.9,
+     "fixed": true,
+     "motion": "pan_r",
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "versus",
+     "left": {
+      "src": "a/ai/ai_o2_breath_1.jpg",
+      "name": "Orca",
+      "stat": "9 m"
+     },
+     "right": {
+      "src": "a/ai/ai_cretaceous_storm_1.jpg",
+      "name": "Mosassauro",
+      "stat": "12–15 m"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whip.wav",
+       "gain": -29,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/impact.wav",
+       "gain": -26,
+       "at": 0.75
+      },
+      {
+       "file": "sfx/growl.wav",
+       "gain": -31,
+       "at": 0.9
+      }
+     ],
+     "dur": 3.68,
+     "fixed": true,
+     "trans": "slide"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_cr_archelon_1.jpg",
+     "move": "in",
+     "hud": [
+      5,
+      4,
+      0,
+      9
+     ],
+     "dur": 4.2,
+     "fixed": true,
+     "motion": "push",
+     "leak": true,
+     "trans": "mono",
+     "sfx": [
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -31,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_cr_deep_shadow_1.jpg",
+     "move": "out",
+     "dur": 4.2,
+     "fixed": true,
+     "motion": "focus",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_cr_reef_1.jpg",
+     "move": "down",
+     "dur": 6.56,
+     "fixed": true,
+     "motion": "tilt_down",
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_o2_side_surface_1.jpg",
+     "move": "left",
+     "hud": [
+      5,
+      4,
+      0,
+      9
+     ],
+     "dur": 5.24,
+     "fixed": true,
+     "motion": "pull",
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_b.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_o2_pod_under_1.jpg",
+     "move": "out",
+     "hud": [
+      5,
+      4,
+      0,
+      9
+     ],
+     "dur": 4.2,
+     "fixed": true,
+     "motion": "pan_l",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/p_mosasaurus/1_commons.jpg",
+     "move": "in",
+     "dur": 6.0,
+     "fixed": true,
+     "motion": "diag",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "verdict",
+     "src": "a/ai/ai_orca_pod_hunt_1.jpg",
+     "winner": "empate",
+     "sfx": [
+      {
+       "file": "sfx/heartbeat.wav",
+       "gain": -26,
+       "at": 0
+      },
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -27,
+       "at": 0.25
+      },
+      {
+       "file": "sfx/thud.wav",
+       "gain": -23,
+       "at": 0.55
+      },
+      {
+       "file": "sfx/riser.wav",
+       "gain": -30,
+       "at": 0.6
+      }
+     ],
+     "text": "EMPATE",
+     "dur": 3.46,
+     "fixed": true,
+     "trans": "blur"
+    },
+    {
+     "type": "score",
+     "bg": "a/ai/ai_o2_herd_seal_1.jpg",
+     "prev": [
+      4,
+      0
+     ],
+     "now": [
+      4,
+      0
+     ],
+     "sub": "Ninguém pontua",
+     "sfx": [
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.2
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.4
+      },
+      {
+       "file": "sfx/thud.wav",
+       "gain": -28,
+       "at": 0.6
+      }
+     ],
+     "dur": 1.32,
+     "fixed": true,
+     "labels": [
+      "ORCA",
+      "FERAS"
+     ],
+     "trans": "zoom"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_orca/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "hud": [
+      5,
+      4,
+      0,
+      9
+     ],
+     "dur": 6.616,
+     "fixed": false,
+     "trans": "fade"
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch07.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "cta",
+     "text": "Curtindo esse mergulho?",
+     "sub": "Inscreva-se e ative o sininho · é de graça",
+     "bg": "a/ai/ai_o2_aerial_1.jpg",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -30,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 1.2
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 2.5
+      }
+     ],
+     "dur": 4.2,
+     "fixed": true,
+     "trans": "zoom"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_basi_surface_1.jpg",
+     "move": "left",
+     "dur": 4.2,
+     "fixed": true,
+     "motion": "push",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_basi_head_1.jpg",
+     "move": "out",
+     "dur": 4.18,
+     "fixed": true,
+     "motion": "pan_l",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "round",
+     "num": 6,
+     "name": "Eoceno",
+     "sub": "a baleia-serpente",
+     "bg": "a/ai/ai_basi_head_1.jpg",
+     "of": 9,
+     "sfx": [
+      {
+       "file": "sfx/bell.wav",
+       "gain": -29,
+       "at": 0.05
+      },
+      {
+       "file": "sfx/impact.wav",
+       "gain": -27,
+       "at": 0.1
+      }
+     ],
+     "dur": 2.5,
+     "fixed": true,
+     "trans": "flash"
+    },
+    {
+     "type": "measure",
+     "src": "a/ai/ai_basilosaurus_portrait_1.jpg",
+     "value": "até 18 m",
+     "side": "right",
+     "top": 0.12,
+     "bottom": 0.8,
+     "move": "in",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      },
+      {
+       "file": "sfx/riser.wav",
+       "gain": -36,
+       "at": 0
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.95
+      }
+     ],
+     "caption": "Rodada 6|Basilosaurus",
+     "hud": [
+      6,
+      4,
+      0,
+      9
+     ],
+     "dur": 4.2,
+     "fixed": true,
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_basi_hunt_1.jpg",
+     "move": "right",
+     "dur": 5.92,
+     "fixed": true,
+     "motion": "pull",
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_whale/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "hud": [
+      6,
+      4,
+      0,
+      9
+     ],
+     "dur": 6.9,
+     "fixed": true,
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "serif",
+     "bg": "a/ai/ai_basi_hunt_1.jpg",
+     "text": "a orca é uma baleia.",
+     "lines": [
+      "E aqui está o problema"
+     ],
+     "size": 120,
+     "dur": 3.72,
+     "fixed": true,
+     "trans": "blur"
+    },
+    {
+     "type": "versus",
+     "left": {
+      "src": "a/ai/ai_o2_eye_1.jpg",
+      "name": "Orca",
+      "stat": "9 m"
+     },
+     "right": {
+      "src": "a/ai/ai_basilosaurus_swim_1.jpg",
+      "name": "Basilosaurus",
+      "stat": "18 m"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whip.wav",
+       "gain": -29,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/impact.wav",
+       "gain": -26,
+       "at": 0.75
+      },
+      {
+       "file": "sfx/growl.wav",
+       "gain": -31,
+       "at": 0.9
+      }
+     ],
+     "dur": 4.2,
+     "fixed": true,
+     "trans": "slide"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_eocene_warm_1.jpg",
+     "move": "in",
+     "dur": 6.1,
+     "fixed": true,
+     "motion": "tilt_up",
+     "leak": true,
+     "trans": "fade"
+    },
+    {
+     "type": "verdict",
+     "src": "a/ai/ai_basi_side_1.jpg",
+     "winner": "feras",
+     "sfx": [
+      {
+       "file": "sfx/heartbeat.wav",
+       "gain": -26,
+       "at": 0
+      },
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -27,
+       "at": 0.25
+      },
+      {
+       "file": "sfx/thud.wav",
+       "gain": -23,
+       "at": 0.55
+      },
+      {
+       "file": "sfx/stinger.wav",
+       "gain": -26,
+       "at": 0.6
+      }
+     ],
+     "text": "VITÓRIA DA FERA",
+     "dur": 4.65,
+     "fixed": true,
+     "trans": "blur"
+    },
+    {
+     "type": "score",
+     "bg": "a/ai/ai_orca_fin_1.jpg",
+     "prev": [
+      4,
+      0
+     ],
+     "now": [
+      4,
+      1
+     ],
+     "sub": "Primeiro ponto das feras",
+     "sfx": [
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.2
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.4
+      },
+      {
+       "file": "sfx/stinger.wav",
+       "gain": -29,
+       "at": 0.6
+      }
+     ],
+     "dur": 0.95,
+     "fixed": true,
+     "labels": [
+      "ORCA",
+      "FERAS"
+     ],
+     "trans": "zoom"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_megalodon_jaws_1.jpg",
+     "move": "out",
+     "hud": [
+      6,
+      4,
+      0,
+      9
+     ],
+     "dur": 4.303,
+     "fixed": false,
+     "motion": "diag",
+     "trans": "mono",
+     "sfx": [
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -31,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch08.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "round",
+     "num": 7,
+     "name": "Mioceno",
+     "sub": "Megalodon · 15–20 m",
+     "bg": "a/ai/ai_megalodon_jaws_1.jpg",
+     "of": 9,
+     "sfx": [
+      {
+       "file": "sfx/bell.wav",
+       "gain": -29,
+       "at": 0.05
+      },
+      {
+       "file": "sfx/impact.wav",
+       "gain": -27,
+       "at": 0.1
+      }
+     ],
+     "dur": 3.82,
+     "fixed": true,
+     "trans": "flash"
+    },
+    {
+     "type": "measure",
+     "src": "a/ai/ai_megalodon_portrait_1.jpg",
+     "value": "15–20 m",
+     "side": "right",
+     "top": 0.12,
+     "bottom": 0.8,
+     "move": "in",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      },
+      {
+       "file": "sfx/riser.wav",
+       "gain": -36,
+       "at": 0
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.95
+      }
+     ],
+     "hud": [
+      7,
+      4,
+      1,
+      9
+     ],
+     "dur": 4.2,
+     "fixed": true,
+     "trans": "blur"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_mg_tooth_hand_1.jpg",
+     "move": "up",
+     "dur": 4.2,
+     "fixed": true,
+     "motion": "pan_r",
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/p_megalodon/2_openverse.jpg",
+     "move": "out",
+     "dur": 4.66,
+     "fixed": true,
+     "motion": "push",
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_b.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_megalodon_below_1.jpg",
+     "move": "down",
+     "caption": "Até 17 cm|Dente do Megalodon",
+     "hud": [
+      7,
+      4,
+      1,
+      9
+     ],
+     "dur": 6.44,
+     "fixed": true,
+     "motion": "focus",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_orca_vs_megalodon_1.jpg",
+     "move": "in",
+     "hud": [
+      7,
+      4,
+      1,
+      9
+     ],
+     "dur": 4.52,
+     "fixed": true,
+     "motion": "tilt_down",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_greatwhite_1.jpg",
+     "move": "left",
+     "hud": [
+      7,
+      4,
+      1,
+      9
+     ],
+     "dur": 4.2,
+     "fixed": true,
+     "motion": "pull",
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/p_megalodon/3_unsplash.jpg",
+     "move": "down",
+     "dur": 3.4,
+     "fixed": true,
+     "motion": "pan_l",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_o2_fluke_dive_1.jpg",
+     "move": "out",
+     "hud": [
+      7,
+      4,
+      1,
+      9
+     ],
+     "dur": 4.2,
+     "fixed": true,
+     "motion": "diag",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_m_waves_1.jpg",
+     "move": "in",
+     "dur": 3.28,
+     "fixed": true,
+     "motion": "push",
+     "leak": true,
+     "trans": "flash",
+     "sfx": [
+      {
+       "file": "sfx/impact.wav",
+       "gain": -28,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "versus",
+     "left": {
+      "src": "a/ai/ai_o2_play_1.jpg",
+      "name": "Orca",
+      "stat": "9 m"
+     },
+     "right": {
+      "src": "a/ai/ai_mg_side_1.jpg",
+      "name": "Megalodon",
+      "stat": "15–20 m"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whip.wav",
+       "gain": -29,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/impact.wav",
+       "gain": -26,
+       "at": 0.75
+      },
+      {
+       "file": "sfx/growl.wav",
+       "gain": -31,
+       "at": 0.9
+      }
+     ],
+     "dur": 6.44,
+     "fixed": true,
+     "trans": "slide"
+    },
+    {
+     "type": "verdict",
+     "src": "a/ai/ai_megalodon_whale_1.jpg",
+     "winner": "feras",
+     "sfx": [
+      {
+       "file": "sfx/heartbeat.wav",
+       "gain": -26,
+       "at": 0
+      },
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -27,
+       "at": 0.25
+      },
+      {
+       "file": "sfx/thud.wav",
+       "gain": -23,
+       "at": 0.55
+      },
+      {
+       "file": "sfx/stinger.wav",
+       "gain": -26,
+       "at": 0.6
+      }
+     ],
+     "text": "VITÓRIA DA FERA",
+     "dur": 2.72,
+     "fixed": true,
+     "trans": "blur"
+    },
+    {
+     "type": "score",
+     "bg": "a/ai/ai_orca_sunset_1.jpg",
+     "prev": [
+      4,
+      1
+     ],
+     "now": [
+      4,
+      2
+     ],
+     "sub": "",
+     "sfx": [
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.2
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.4
+      },
+      {
+       "file": "sfx/stinger.wav",
+       "gain": -29,
+       "at": 0.6
+      }
+     ],
+     "dur": 1.82,
+     "fixed": true,
+     "labels": [
+      "ORCA",
+      "FERAS"
+     ],
+     "trans": "zoom"
+    },
+    {
+     "type": "serif",
+     "bg": "a/ai/ai_lv_head_1.jpg",
+     "text": "nem o Megalodon queria encontrar.",
+     "lines": [
+      "Uma fera que"
+     ],
+     "size": 120,
+     "dur": 4.2,
+     "fixed": true,
+     "trans": "blur"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_m_storm_1.jpg",
+     "move": "left",
+     "dur": 4.426,
+     "fixed": false,
+     "motion": "pan_l",
+     "trans": "fade"
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch09.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "round",
+     "num": 8,
+     "name": "Mioceno",
+     "sub": "Livyatan · o cachalote assassino",
+     "bg": "a/ai/ai_lv_deep_1.jpg",
+     "of": 9,
+     "sfx": [
+      {
+       "file": "sfx/bell.wav",
+       "gain": -29,
+       "at": 0.05
+      },
+      {
+       "file": "sfx/impact.wav",
+       "gain": -27,
+       "at": 0.1
+      }
+     ],
+     "dur": 4.32,
+     "fixed": true,
+     "trans": "flash"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_whale/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "caption": "Rodada 8|Livyatan",
+     "hud": [
+      8,
+      4,
+      2,
+      9
+     ],
+     "dur": 4.2,
+     "fixed": true,
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_whale/6_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.2,
+     "fixed": true,
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_orca/6_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.68,
+     "fixed": true,
+     "trans": "fade"
+    },
+    {
+     "type": "measure",
+     "src": "a/ai/ai_livyatan_portrait_1.jpg",
+     "value": "35+ cm",
+     "side": "right",
+     "top": 0.12,
+     "bottom": 0.8,
+     "move": "in",
+     "sfx": [
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -31,
+       "at": 0
+      },
+      {
+       "file": "sfx/riser.wav",
+       "gain": -36,
+       "at": 0
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.95
+      }
+     ],
+     "caption": "Dentes|Livyatan",
+     "hud": [
+      8,
+      4,
+      2,
+      9
+     ],
+     "dur": 4.2,
+     "fixed": true,
+     "trans": "mono"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_lv_side_1.jpg",
+     "move": "out",
+     "dur": 4.2,
+     "fixed": true,
+     "motion": "pull",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_lv_head_1.jpg",
+     "move": "right",
+     "dur": 6.34,
+     "fixed": true,
+     "motion": "tilt_up",
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_whale/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "hud": [
+      8,
+      4,
+      2,
+      9
+     ],
+     "dur": 4.17,
+     "fixed": true,
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_b.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "versus",
+     "left": {
+      "src": "a/ai/ai_mg_front_1.jpg",
+      "name": "Megalodon",
+      "stat": "15–20 m"
+     },
+     "right": {
+      "src": "a/ai/ai_fossil_cliff_1.jpg",
+      "name": "Livyatan",
+      "stat": "13–18 m"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whip.wav",
+       "gain": -29,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/impact.wav",
+       "gain": -26,
+       "at": 0.75
+      },
+      {
+       "file": "sfx/growl.wav",
+       "gain": -31,
+       "at": 0.9
+      }
+     ],
+     "dur": 4.2,
+     "fixed": true,
+     "trans": "slide"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_lv_deep_1.jpg",
+     "move": "in",
+     "dur": 4.61,
+     "fixed": true,
+     "motion": "diag",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_o2_cold_fog_1.jpg",
+     "move": "down",
+     "hud": [
+      8,
+      4,
+      2,
+      9
+     ],
+     "dur": 4.28,
+     "fixed": true,
+     "motion": "pan_r",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "verdict",
+     "src": "a/ai/ai_livyatan_hunt_1.jpg",
+     "winner": "feras",
+     "sfx": [
+      {
+       "file": "sfx/heartbeat.wav",
+       "gain": -26,
+       "at": 0
+      },
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -27,
+       "at": 0.25
+      },
+      {
+       "file": "sfx/thud.wav",
+       "gain": -23,
+       "at": 0.55
+      },
+      {
+       "file": "sfx/stinger.wav",
+       "gain": -26,
+       "at": 0.6
+      }
+     ],
+     "text": "VITÓRIA DA FERA",
+     "dur": 3.0,
+     "fixed": true,
+     "trans": "blur"
+    },
+    {
+     "type": "score",
+     "bg": "a/ai/ai_o_head_1.jpg",
+     "prev": [
+      4,
+      2
+     ],
+     "now": [
+      4,
+      3
+     ],
+     "sub": "",
+     "sfx": [
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.2
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.4
+      },
+      {
+       "file": "sfx/stinger.wav",
+       "gain": -29,
+       "at": 0.6
+      }
+     ],
+     "dur": 1.5,
+     "fixed": true,
+     "labels": [
+      "ORCA",
+      "FERAS"
+     ],
+     "trans": "zoom"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ice/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "hud": [
+      8,
+      4,
+      2,
+      9
+     ],
+     "dur": 4.899,
+     "fixed": false,
+     "trans": "fade"
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch10.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "round",
+     "num": 9,
+     "name": "Plioceno",
+     "sub": "o oceano esfria",
+     "bg": "a/ai/ai_orca_ice_1.jpg",
+     "of": 9,
+     "sfx": [
+      {
+       "file": "sfx/bell.wav",
+       "gain": -29,
+       "at": 0.05
+      },
+      {
+       "file": "sfx/impact.wav",
+       "gain": -27,
+       "at": 0.1
+      }
+     ],
+     "dur": 2.52,
+     "fixed": true,
+     "trans": "flash"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ice/5_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "hud": [
+      9,
+      4,
+      3,
+      9
+     ],
+     "dur": 4.2,
+     "fixed": true,
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_seal/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.44,
+     "fixed": true,
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_mg_scale_1.jpg",
+     "move": "in",
+     "hud": [
+      9,
+      4,
+      3,
+      9
+     ],
+     "dur": 5.08,
+     "fixed": true,
+     "motion": "push",
+     "trans": "flash",
+     "sfx": [
+      {
+       "file": "sfx/reverse.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_mg_deep_1.jpg",
+     "move": "left",
+     "hud": [
+      9,
+      4,
+      3,
+      9
+     ],
+     "dur": 4.2,
+     "fixed": true,
+     "motion": "focus",
+     "trans": "fade"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_seal/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.86,
+     "fixed": true,
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_o2_jump_sunset_1.jpg",
+     "move": "out",
+     "hud": [
+      9,
+      4,
+      3,
+      9
+     ],
+     "dur": 4.2,
+     "fixed": true,
+     "motion": "tilt_down",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_pl_ice_1.jpg",
+     "move": "up",
+     "dur": 5.9,
+     "fixed": true,
+     "motion": "pull",
+     "leak": true,
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_o2_herd_seal_1.jpg",
+     "move": "right",
+     "hud": [
+      9,
+      4,
+      3,
+      9
+     ],
+     "dur": 4.2,
+     "fixed": true,
+     "motion": "pan_l",
+     "trans": "mono",
+     "sfx": [
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -31,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_pl_seals_1.jpg",
+     "move": "out",
+     "dur": 6.36,
+     "fixed": true,
+     "motion": "diag",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_o2_aerial_1.jpg",
+     "move": "in",
+     "hud": [
+      9,
+      4,
+      3,
+      9
+     ],
+     "dur": 3.96,
+     "fixed": true,
+     "motion": "push",
+     "trans": "fade"
+    },
+    {
+     "type": "verdict",
+     "src": "a/ai/ai_pliocene_cold_1.jpg",
+     "winner": "tigre",
+     "sfx": [
+      {
+       "file": "sfx/heartbeat.wav",
+       "gain": -26,
+       "at": 0
+      },
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -27,
+       "at": 0.25
+      },
+      {
+       "file": "sfx/thud.wav",
+       "gain": -23,
+       "at": 0.55
+      },
+      {
+       "file": "sfx/win.wav",
+       "gain": -27,
+       "at": 0.6
+      }
+     ],
+     "text": "VITÓRIA DA ORCA",
+     "dur": 2.88,
+     "fixed": true,
+     "trans": "blur"
+    },
+    {
+     "type": "score",
+     "bg": "a/ai/ai_o_fin_mist_1.jpg",
+     "prev": [
+      4,
+      3
+     ],
+     "now": [
+      5,
+      3
+     ],
+     "sub": "5 vitórias · 1 empate · 3 derrotas",
+     "sfx": [
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.2
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.4
+      },
+      {
+       "file": "sfx/win.wav",
+       "gain": -30,
+       "at": 0.6
+      }
+     ],
+     "dur": 4.2,
+     "fixed": true,
+     "labels": [
+      "ORCA",
+      "FERAS"
+     ],
+     "trans": "zoom"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_pl_greatwhite_1.jpg",
+     "move": "down",
+     "dur": 5.3,
+     "fixed": true,
+     "motion": "pan_l",
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_b.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ship/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "hud": [
+      9,
+      4,
+      3,
+      9
+     ],
+     "dur": 4.783,
+     "fixed": false,
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch11.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "round",
+     "num": "F",
+     "name": "O oceano de hoje",
+     "sub": "o único inimigo da orca",
+     "bg": "a/ai/ai_h_ship_1.jpg",
+     "of": 9,
+     "sfx": [
+      {
+       "file": "sfx/bell.wav",
+       "gain": -29,
+       "at": 0.05
+      },
+      {
+       "file": "sfx/impact.wav",
+       "gain": -27,
+       "at": 0.1
+      }
+     ],
+     "dur": 2.9,
+     "fixed": true,
+     "trans": "flash"
+    },
+    {
+     "type": "image",
+     "src": "a/p_orca/1_commons.jpg",
+     "move": "up",
+     "dur": 4.2,
+     "fixed": true,
+     "motion": "pull",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_orca_today_boat_1.jpg",
+     "move": "in",
+     "dur": 4.2,
+     "fixed": true,
+     "motion": "tilt_up",
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_ship_noise_1.jpg",
+     "move": "left",
+     "dur": 3.16,
+     "fixed": true,
+     "motion": "diag",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_plastic/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.2,
+     "fixed": true,
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_h_ship_1.jpg",
+     "move": "out",
+     "dur": 6.14,
+     "fixed": true,
+     "motion": "pan_r",
+     "trans": "flash",
+     "sfx": [
+      {
+       "file": "sfx/impact.wav",
+       "gain": -28,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_plastic/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.2,
+     "fixed": true,
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_h_orcas_city_1.jpg",
+     "move": "right",
+     "dur": 3.94,
+     "fixed": true,
+     "motion": "push",
+     "leak": true,
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "serif",
+     "bg": "a/ai/ai_orca_family_1.jpg",
+     "text": "as mudanças que nós fizemos no mar.",
+     "lines": [
+      "O predador que nem o Mosassauro derrubaria"
+     ],
+     "size": 120,
+     "dur": 4.2,
+     "fixed": true,
+     "trans": "blur"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_h_research_1.jpg",
+     "move": "in",
+     "dur": 4.62,
+     "fixed": true,
+     "motion": "focus",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/p_orca/3_unsplash.jpg",
+     "move": "out",
+     "dur": 5.24,
+     "fixed": true,
+     "motion": "tilt_down",
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_miocene_sea_1.jpg",
+     "move": "down",
+     "dur": 4.2,
+     "fixed": true,
+     "motion": "pull",
+     "trans": "mono",
+     "sfx": [
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -31,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_h_underwater_noise_1.jpg",
+     "move": "up",
+     "dur": 3.02,
+     "fixed": true,
+     "motion": "pan_l",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "cta",
+     "text": "Obrigado por assistir",
+     "sub": "Deixe seu like e inscreva-se no Era das Feras",
+     "bg": "a/ai/ai_o2_side_surface_1.jpg",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -30,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 1.2
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 2.5
+      }
+     ],
+     "dur": 5.24,
+     "fixed": true,
+     "trans": "zoom"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_m_dark_1.jpg",
+     "move": "in",
+     "dur": 2.638,
+     "fixed": false,
+     "fade_out": 0,
+     "motion": "diag",
+     "trans": "fade"
+    }
+   ]
+  }
+ ],
+ "size": [
+  1920,
+  1080
+ ]
+}

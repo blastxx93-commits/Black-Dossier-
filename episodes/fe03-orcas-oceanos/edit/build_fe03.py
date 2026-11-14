@@ -218,10 +218,10 @@ chapters.append(c)
 MOODS = [("ch00_hook", 0, "tensao"), ("ch01", 0, "epico"), ("ch02", 0, "tensao"), ("ch05", 0, "epico"), ("ch06", 0, "tensao"),
          ("ch07", "Rodada seis", "tensao"), ("ch08", 0, "tensao"), ("ch10", 0, "epico"), ("ch11", 0, "drama")]
 ctxs = ["mar", "orca", "cambrian", "devonian", "triassic", "jurassic", "cretaceous", "eocene", "megalodon", "livyatan", "pliocene", "hoje"]
-SCENE_OF = {"orca": ["ai/ai_orca_", "p_orca"], "mar": ["ocean", "_sea"], "cambrian": ["anomalocaris", "trilobite", "cambrian"],
-            "devonian": ["dunkleosteus", "devonian"], "triassic": ["ichthyosaur", "thalattoarchon"], "jurassic": ["liopleurodon", "ammonite"],
-            "cretaceous": ["mosasaurus", "cretaceous"], "eocene": ["basilosaurus"], "megalodon": ["megalodon", "greatwhite"],
-            "livyatan": ["livyatan", "fossil_cliff"], "pliocene": ["pliocene", "orca_ice", "orca_wave"], "hoje": ["today", "ship", "orca_family"]}
+SCENE_OF = {"orca": ["ai/ai_o_", "ai/ai_o2_", "orca_dive", "orca_fin", "orca_breach", "orca_sunset", "orca_pod_surface", "orca_portrait", "p_orca"], "mar": ["ocean_surface", "deep_ocean", "ai/ai_m_"], "cambrian": ["anomalocaris", "trilobite", "cambrian"],
+            "devonian": ["dunkleosteus", "devonian", "orca_vs_dunk"], "triassic": ["ichthyosaur", "thalattoarchon"], "jurassic": ["liopleurodon", "ammonite"],
+            "cretaceous": ["mosasaurus", "cretaceous", "ai/ai_cr_"], "eocene": ["basilosaurus", "basi_", "eocene"], "megalodon": ["megalodon", "greatwhite", "ai/ai_mg_"],
+            "livyatan": ["livyatan", "fossil_cliff", "ai/ai_lv_"], "pliocene": ["pliocene", "orca_ice", "orca_wave"], "hoje": ["today", "ship", "orca_family"]}
 ep = json.loads(A.finish(chapters, "FE03_Orcas_Oceanos.mp4", ctx=ctxs, music_gain=-26))
 for chap in ep["chapters"]:
     for s in chap["shots"]:
