@@ -54,8 +54,8 @@ A._photo = _photo_strict   # owner rule (13/11/2026): AI images too only after r
 TRANS_SFX = {"fade": [None, "whoosh_c", None], "slide": ["swipe", "whoosh_b"], "zoom": ["whoosh_a", "whoosh_low"],
              "wipe": ["swipe", "whoosh_a"], "whip": ["whip"], "flash": ["impact", "reverse"], "blur": ["whoosh_c", "whoosh_low"],
              "punch": ["whoosh_b", "thud"], "mono": ["shutter"]}
-CYCLE = ["fade", "slide", "punch", "blur", "zoom", "fade", "whip", "wipe", "flash", "blur", "slide", "zoom", "fade", "punch", "mono"]
-GRAPHIC_IN = {"round": "flash", "versus": "whip", "verdict": "punch", "score": "zoom", "serif": "blur", "questions": "blur",
+CYCLE = ["fade", "slide", "blur", "zoom", "fade", "wipe", "blur", "flash", "fade", "slide", "zoom", "fade", "mono", "blur"]
+GRAPHIC_IN = {"round": "flash", "versus": "slide", "verdict": "blur", "score": "zoom", "serif": "blur", "questions": "blur",
               "cta": "zoom", "ficha": "slide"}
 HUD = [None]
 
@@ -174,7 +174,7 @@ def questions(c, items, phrases, scene):
     s["sfx"] = [fx("riser", 0, -8)] + [dict(x, file="sfx/tick.wav", gain=-20) for x in s["sfx"]]
 
 
-MOTION_CYCLE = ["dolly", "drift", "orbit", "handheld", "punchin", "rotate", "focus", "rise", "drift", "orbit", "dolly", "handheld"]
+MOTION_CYCLE = ["push", "pan_l", "pull", "tilt_up", "diag", "pan_r", "push", "focus", "tilt_down", "pull", "pan_l", "diag"]
 SNOWY = ("tiger", "mammoth", "rhino", "bison", "blizzard", "steppe", "direwolf", "cavelion", "hook", "snow")
 
 
@@ -195,8 +195,7 @@ def camera(ep):
                     s["leak"] = True
             elif s["type"] == "video":
                 v += 1
-                if v % 4 == 2 and s.get("dur", 3) >= 2.5:
-                    s["speed"] = 0.7
+                pass   # no slow motion: duplicated frames stutter (owner: no shaky picture)
     return ep
 
 
@@ -222,6 +221,7 @@ def cut_rhythm(ep, scene_of=None):
     """Transitions + their sounds on every cut, varied. Runs on the finished episode JSON."""
     resolve_bg(ep, scene_of)
     camera(ep)
+    ep["fps"] = 30   # smoother camera moves than 24 fps (owner: no shaky picture)
     k = 0; last = None; snd = {}
     first = True
     for chap in ep["chapters"]:

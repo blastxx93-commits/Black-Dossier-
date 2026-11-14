@@ -553,15 +553,18 @@ def _persp_coeffs(src_pts, dst_pts):
     return list(np.linalg.solve(A_, b))
 
 
-MOTIONS = ["drift", "rotate", "focus", "punchin", "orbit", "dolly", "rise", "handheld"]
+MOTIONS = ["push", "pull", "pan_l", "pan_r", "tilt_up", "tilt_down", "diag", "focus"]
 
 
 def shot_image_fx(ctx, s, n):
-    """Photo with a camera move chosen per shot ("motion"); falls back to the classic Ken Burns ("move")."""
+    """Documentary camera moves, smooth and steady (owner, 14/11/2026: no shaky picture, professional).
+    Every move is a single slow, near-constant-speed travel over an over-scaled photo, sampled with
+    sub-pixel precision (no integer crops, no random wander, no rotation): push in, pull out, pans, tilts,
+    a gentle diagonal, and a rack focus."""
     mo = s.get("motion")
     if not mo or mo not in MOTIONS:
         yield from _plain_image(ctx, s, n); return
-    over = 1.3
+    over = 1.25
     W2, H2 = int(ctx.W * over), int(ctx.H * over)
     img = R.load_image(ctx, s["src"], W2, H2, tuple(s.get("focus", (0.5, 0.5))))
     cap = caption_layer(ctx, s["caption"]) if s.get("caption") else None
@@ -570,55 +573,35 @@ def shot_image_fx(ctx, s, n):
     blur_small = None
     if mo == "focus":
         blur_small = img.resize((W2 // 6, H2 // 6), Image.BILINEAR).filter(ImageFilter.GaussianBlur(3)).resize((W2, H2), Image.BICUBIC)
-    sec_n = n / ctx.fps
+    # amplitude scales with the shot length: long shots travel a little further, but never fast
+    amp = clamp((n / ctx.fps) / 5.0, 0.55, 1.0)
     for i in range(n):
         u = i / max(1, n - 1)
-        t = ease(u) * 0.8 + u * 0.2
+        t = 0.85 * u + 0.15 * (u * u * (3 - 2 * u))      # almost linear: constant speed, soft start/stop
         sec = i / ctx.fps
-        z, cx, cy, rot = 1.0, 0.0, 0.0, 0.0     # zoom (1 = whole oversize image), centre offset in -1..1 of the margin
-        if mo == "drift":       # slow diagonal travel + gentle zoom
-            z = 1.06 + 0.10 * t; cx = -0.6 + 1.2 * t; cy = 0.4 - 0.8 * t
-        elif mo == "rotate":    # push in with a slight roll
-            z = 1.08 + 0.16 * t; rot = (-1.6 + 3.2 * t) * (1 if seed % 2 else -1)
-        elif mo == "focus":     # rack focus: out of focus to sharp while pushing in
-            z = 1.04 + 0.10 * t
-        elif mo == "punchin":   # slow push, then a quick step in at 45% (like a second camera), then slow again
-            step = ease(clamp((u - 0.45) / 0.08))
-            z = 1.05 + 0.05 * u + 0.18 * step
-        elif mo == "orbit":     # fake 3-D: perspective swings as if the camera circled the subject
-            z = 1.12 + 0.06 * t
-        elif mo == "dolly":     # fast ease-out push at the start, then almost still (lands on the subject)
-            k = 1 - (1 - min(1, sec / max(0.6, sec_n * 0.35))) ** 3
-            z = 1.0 + 0.22 * k + 0.03 * u
-        elif mo == "rise":      # crane up: travels from the bottom to the top of the picture
-            z = 1.14; cy = 0.8 - 1.6 * t
-        elif mo == "handheld":  # documentary hand-held: smooth wander, no shake
-            z = 1.12 + 0.04 * t
-            cx = 0.35 * _smooth_noise(seed, sec); cy = 0.35 * _smooth_noise(seed + 9, sec)
-        if mo in ("drift", "rotate", "punchin", "dolly", "rise"):   # a breath of hand-held on top of every move
-            cx += 0.06 * _smooth_noise(seed + 3, sec, 0.25); cy += 0.06 * _smooth_noise(seed + 5, sec, 0.25)
+        z, cx, cy = 1.04, 0.0, 0.0
+        if mo == "push":
+            z = 1.0 + 0.10 * amp * t
+        elif mo == "pull":
+            z = 1.0 + 0.10 * amp * (1 - t)
+        elif mo in ("pan_l", "pan_r"):
+            z = 1.10; d = 0.9 * amp; cx = (d - 2 * d * t) * (1 if mo == "pan_l" else -1)
+        elif mo in ("tilt_up", "tilt_down"):
+            z = 1.10; d = 0.8 * amp; cy = (d - 2 * d * t) * (1 if mo == "tilt_up" else -1)
+        elif mo == "diag":
+            z = 1.06 + 0.05 * amp * t; d = 0.6 * amp
+            sx = 1 if seed % 2 else -1
+            cx = sx * (-d + 2 * d * t); cy = d - 2 * d * t
+        elif mo == "focus":
+            z = 1.02 + 0.07 * amp * t
         cw, ch = W2 / z, H2 / z
         x0 = W2 / 2 + clamp(cx, -1, 1) * (W2 - cw) / 2 - cw / 2
         y0 = H2 / 2 + clamp(cy, -1, 1) * (H2 - ch) / 2 - ch / 2
         src = img
         if mo == "focus":
-            b = 1 - ease(clamp(u / 0.45))
-            src = Image.blend(img, blur_small, b) if b > 0.01 else img
-        if mo == "orbit":
-            sw = (0.5 - t) * 0.09 * (1 if seed % 2 else -1)   # perspective swing
-            box = [(x0, y0), (x0 + cw, y0), (x0 + cw, y0 + ch), (x0, y0 + ch)]
-            d_ = ch * sw
-            src_pts = [(box[0][0], box[0][1] - d_), (box[1][0], box[1][1] + d_), (box[2][0], box[2][1] - d_), (box[3][0], box[3][1] + d_)]
-            dst = [(0, 0), (ctx.W, 0), (ctx.W, ctx.H), (0, ctx.H)]
-            fr = src.transform((ctx.W, ctx.H), Image.PERSPECTIVE, _persp_coeffs(src_pts, dst), Image.BICUBIC)
-        elif rot:
-            big = src.transform((int(ctx.W * 1.08), int(ctx.H * 1.08)), Image.EXTENT,
-                                (x0 - cw * 0.04, y0 - ch * 0.04, x0 + cw * 1.04, y0 + ch * 1.04), Image.BICUBIC)
-            big = big.rotate(rot, resample=Image.BICUBIC)
-            ox, oy = (big.width - ctx.W) / 2, (big.height - ctx.H) / 2
-            fr = big.crop((int(ox), int(oy), int(ox) + ctx.W, int(oy) + ctx.H))
-        else:
-            fr = src.transform((ctx.W, ctx.H), Image.EXTENT, (x0, y0, x0 + cw, y0 + ch), Image.BICUBIC)
+            bfac = 1 - ease(clamp(u / 0.4))
+            src = Image.blend(img, blur_small, bfac) if bfac > 0.01 else img
+        fr = src.transform((ctx.W, ctx.H), Image.EXTENT, (x0, y0, x0 + cw, y0 + ch), Image.BICUBIC)
         if snow:
             snow_layer(ctx, ImageDraw.Draw(fr, "RGBA"), sec, seed % 5, alpha=90)
         if s.get("leak") and 0.15 < u < 0.85:   # warm light leak sweeping across
