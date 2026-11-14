@@ -1,0 +1,62 @@
+ai_empty_yard_1: Gemini falhou (Gemini 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and ), tentando Replicate
+ai_empty_yard_1: ERRO Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://replicate.com/account/billing#billing to purchase credit. Once you purchase credit, please wait a few minutes before trying again.","status":402}
+
+ai_salesman_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_salesman_1: ERRO Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://replicate.com/account/billing#billing to purchase credit. Once you purchase credit, please wait a few minutes before trying again.","status":402}
+
+ai_busy_dealer_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_busy_dealer_1: ERRO Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://replicate.com/account/billing#billing to purchase credit. Once you purchase credit, please wait a few minutes before trying again.","status":402}
+
+ai_sedan_cover_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_sedan_cover_1: ERRO Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://replicate.com/account/billing#billing to purchase credit. Once you purchase credit, please wait a few minutes before trying again.","status":402}
+
+ai_sales_chart_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_sales_chart_1: ERRO Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://replicate.com/account/billing#billing to purchase credit. Once you purchase credit, please wait a few minutes before trying again.","status":402}
+
+ai_queue_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_queue_1: ERRO Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://replicate.com/account/billing#billing to purchase credit. Once you purchase credit, please wait a few minutes before trying again.","status":402}
+
+ai_storage_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_storage_1: ERRO Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://replicate.com/account/billing#billing to purchase credit. Once you purchase credit, please wait a few minutes before trying again.","status":402}
+
+ai_buyer_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_buyer_1: ERRO Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://replicate.com/account/billing#billing to purchase credit. Once you purchase credit, please wait a few minutes before trying again.","status":402}
+
+ai_wagon_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_wagon_1: ERRO Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://replicate.com/account/billing#billing to purchase credit. Once you purchase credit, please wait a few minutes before trying again.","status":402}
+
+ai_outback_suv_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_outback_suv_1: ERRO Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://replicate.com/account/billing#billing to purchase credit. Once you purchase credit, please wait a few minutes before trying again.","status":402}
+
+# Imagens IA — aus19-refuse-to-buy
+
+- Modelo: `gemini-2.5-flash-image`
+- Imagens geradas: 0
+- Folhas: 
+
+| plano | resultado |
+|---|---|
+| `ai_empty_yard` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_empty_yard` | 0 de 1 |
+| `ai_salesman` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_salesman` | 0 de 1 |
+| `ai_busy_dealer` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_busy_dealer` | 0 de 1 |
+| `ai_sedan_cover` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_sedan_cover` | 0 de 1 |
+| `ai_sales_chart` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_sales_chart` | 0 de 1 |
+| `ai_queue` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_queue` | 0 de 1 |
+| `ai_storage` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_storage` | 0 de 1 |
+| `ai_buyer` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_buyer` | 0 de 1 |
+| `ai_wagon` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_wagon` | 0 de 1 |
+| `ai_outback_suv` opção 1 | erro: Replicate 402: {"title":"Insufficient credit","detail":"You have insufficient credit to run this model. Go to https://re |
+| `ai_outback_suv` | 0 de 1 |
+
