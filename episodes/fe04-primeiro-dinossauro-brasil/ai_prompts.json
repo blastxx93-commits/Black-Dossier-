@@ -1,0 +1,398 @@
+{
+ "model": "black-forest-labs/flux-1.1-pro-ultra",
+ "raw": true,
+ "n": 1,
+ "style": ", photorealistic paleoart nature documentary still, natural light, sharp focus, highly detailed, cinematic 16:9, anatomically correct animals, each animal clearly separate, no humans' faces, no text, no logos, no watermark",
+ "shots": [
+  {
+   "id": "ai_stauri_hero",
+   "prompt": "A small slender early carnivorous dinosaur Staurikosaurus, about 2 metres long, walking on two long thin hind legs with three-toed feet, very long thin tail, short arms with three clawed fingers, narrow low head with curved serrated teeth, scaly reddish-brown skin with darker stripes, no feathers, standing alert on red soil at the edge of a Triassic river, low angle, dramatic golden light, only one animal",
+   "tier": "hero"
+  },
+  {
+   "id": "ai_stauri_run",
+   "prompt": "A small slender early carnivorous dinosaur Staurikosaurus, about 2 metres long, walking on two long thin hind legs with three-toed feet, very long thin tail, short arms with three clawed fingers, narrow low head with curved serrated teeth, scaly reddish-brown skin with darker stripes, no feathers, sprinting fast across a dusty red plain, side view, motion, only one animal",
+   "tier": "hero"
+  },
+  {
+   "id": "ai_stauri_hunt",
+   "prompt": "A small slender early carnivorous dinosaur Staurikosaurus, about 2 metres long, walking on two long thin hind legs with three-toed feet, very long thin tail, short arms with three clawed fingers, narrow low head with curved serrated teeth, scaly reddish-brown skin with darker stripes, no feathers, chasing a small furry dog-sized cynodont through ferns, dynamic action, the two animals clearly separate",
+   "tier": "hero"
+  },
+  {
+   "id": "ai_stauri_portrait",
+   "prompt": "Close-up portrait of the head of a small slender early carnivorous dinosaur Staurikosaurus, about 2 metres long, walking on two long thin hind legs with three-toed feet, very long thin tail, short arms with three clawed fingers, narrow low head with curved serrated teeth, scaly reddish-brown skin with darker stripes, no feathers, open mouth showing curved serrated teeth, yellow eye, scaly skin detail",
+   "tier": "hero"
+  },
+  {
+   "id": "ai_stauri_vs_presto",
+   "prompt": "A small small slender early carnivorous dinosaur Staurikosaurus, about 2 metres long, walking on two long thin hind legs with three-toed feet, very long thin tail, short arms with three clawed fingers, narrow low head with curved serrated teeth, scaly reddish-brown skin with darker stripes, no feathers hiding behind ferns while a huge Prestosuchus (crocodile-relative predator walking on four straight legs, enormous skull, armor plates) passes in the background, scale contrast",
+   "tier": "hero"
+  },
+  {
+   "id": "ai_presto_hero",
+   "prompt": "A Prestosuchus, a huge 7-metre crocodile-relative predator of the Triassic, walking on four straight legs held under the body, very large tall narrow skull full of serrated teeth, rows of bony armor plates along the back, long tail, dark scaly skin, walking towards the camera along a muddy Triassic riverbank, low angle, menacing, only one animal",
+   "tier": "hero"
+  },
+  {
+   "id": "ai_presto_jaws",
+   "prompt": "Close-up of the open jaws of Prestosuchus, a huge 7-metre crocodile-relative predator of the Triassic, walking on four straight legs held under the body, very large tall narrow skull full of serrated teeth, rows of bony armor plates along the back, long tail, dark scaly skin, rows of serrated teeth",
+   "tier": "hero"
+  },
+  {
+   "id": "ai_gnatho_hero",
+   "prompt": "A early carnivorous dinosaur Gnathovorax, about 3 metres long, bipedal, deep narrow skull with large curved serrated teeth, strong hind legs with three-toed feet, short clawed arms, long tail, scaly dark olive skin, no feathers, roaring on a red rock outcrop, Triassic landscape behind, only one animal",
+   "tier": "hero"
+  },
+  {
+   "id": "ai_gnatho_hunt",
+   "prompt": "A early carnivorous dinosaur Gnathovorax, about 3 metres long, bipedal, deep narrow skull with large curved serrated teeth, strong hind legs with three-toed feet, short clawed arms, long tail, scaly dark olive skin, no feathers, ambushing a stocky beaked rhynchosaur reptile at a river, dynamic action, the two animals clearly separate",
+   "tier": "hero"
+  },
+  {
+   "id": "ai_macro_trio",
+   "prompt": "Three early long-necked plant-eating dinosaur Macrocollum, about 3.5 metres long, walking on two hind legs, small head on a long neck, long tail, scaly grey-brown skin, walking together as a small group through a Triassic conifer forest, all three clearly separate",
+   "tier": "hero"
+  },
+  {
+   "id": "ai_macro_neck",
+   "prompt": "A early long-necked plant-eating dinosaur Macrocollum, about 3.5 metres long, walking on two hind legs, small head on a long neck, long tail, scaly grey-brown skin, stretching its long neck to reach conifer branches, only one animal",
+   "tier": "hero"
+  },
+  {
+   "id": "ai_hook_dig",
+   "prompt": "A man in 1930s field clothes and hat seen from behind, kneeling on a steep red earth bank with a small pick, uncovering dark fossil bones, rural southern Brazil, warm afternoon light, face not visible",
+   "tier": "hero"
+  },
+  {
+   "id": "ai_hyper_herd",
+   "prompt": "A herd of Hyperodapedon rhynchosaur, a stocky barrel-bodied reptile about 1.3 metres long on four short sprawling legs, broad triangular head with a hooked beak-like upper jaw tip, scaly grey-brown skin, grazing on ferns on a red Triassic floodplain, every animal clearly separate",
+   "tier": "hero"
+  },
+  {
+   "id": "ai_saturnalia",
+   "prompt": "A small early long-necked dinosaur Saturnalia, about 1.5 metres long, bipedal, small head on a slightly long neck, long tail, slender legs, scaly greenish-brown skin, walking among ferns at dawn, only one animal",
+   "tier": "hero"
+  },
+  {
+   "id": "ai_buriolestes",
+   "prompt": "A small slender early dinosaur Buriolestes, about 1.5 metres long, bipedal, small head with curved pointed teeth, slightly long neck, long tail, scaly brown skin, catching a small lizard in its jaws, only one dinosaur",
+   "tier": "hero"
+  },
+  {
+   "id": "ai_dino_takeover",
+   "prompt": "Many different dinosaurs of the Jurassic, long-necked giants and bipedal predators, spreading across a vast green valley, epic wide shot, all animals clearly separate",
+   "tier": "hero"
+  },
+  {
+   "id": "ai_land_01",
+   "prompt": "Late Triassic semi-arid floodplain in southern Pangaea, red soil, scattered tall conifer trees, ferns and horsetails along a wide shallow braided river, no grass, no flowers, wide aerial view, golden hour",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_land_02",
+   "prompt": "Late Triassic semi-arid floodplain in southern Pangaea, red soil, scattered tall conifer trees, ferns and horsetails along a wide shallow braided river, no grass, no flowers, dry season, cracked red mud, heat haze",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_land_03",
+   "prompt": "Late Triassic semi-arid floodplain in southern Pangaea, red soil, scattered tall conifer trees, ferns and horsetails along a wide shallow braided river, no grass, no flowers, sunset with orange sky",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_land_04",
+   "prompt": "Late Triassic semi-arid floodplain in southern Pangaea, red soil, scattered tall conifer trees, ferns and horsetails along a wide shallow braided river, no grass, no flowers, morning mist over the river",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_land_05",
+   "prompt": "A violent flash flood in a Triassic river valley, muddy brown water rushing over a red plain, dark storm clouds, conifer trees",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_land_06",
+   "prompt": "Heavy tropical rain falling over a Triassic conifer forest and swamp, grey sky, lush ferns",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_land_07",
+   "prompt": "A Triassic forest of tall conifer trees and tree ferns, sunlight beams through mist",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_land_08",
+   "prompt": "Supercontinent Pangaea seen from space, one single giant landmass surrounded by ocean, realistic satellite style, no text",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_land_09",
+   "prompt": "Fossilized dinosaur bones embedded in red sandstone rock, close-up, natural light",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_land_10",
+   "prompt": "Red earth road cut in the countryside of southern Brazil with layered red sedimentary rock, green fields above, blue sky",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_land_11",
+   "prompt": "Rolling green hills of southern Brazil countryside with red soil roads and small farms, late afternoon",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_land_12",
+   "prompt": "Night sky in the southern hemisphere with the Southern Cross constellation bright above dark hills, Milky Way",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_land_13",
+   "prompt": "A 1930s steamship leaving a harbour at dusk, black smoke, sepia tone vintage photograph style",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_land_14",
+   "prompt": "Old wooden museum drawers in a natural history museum storage room, one drawer open showing fossil bones wrapped in paper, dim light",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_land_15",
+   "prompt": "A 1960s paleontologist's desk with fossil bones, calipers, old books and hand-drawn sketches of a dinosaur skeleton, warm lamp light, no people",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_land_16",
+   "prompt": "Hand-drawn scientific illustration of a dinosaur skeleton on old yellowed paper, vintage",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_land_17",
+   "prompt": "Close-up of tiny zircon crystals under a microscope, glowing colourful crystals",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_land_18",
+   "prompt": "Massive volcanic eruptions with lava fissures spreading across a dark landscape, ash clouds, end of the Triassic",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_land_19",
+   "prompt": "Lava flowing over a dead forest, smoke and ash, apocalyptic",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_land_20",
+   "prompt": "A barren landscape after a mass extinction, dead trees, grey ash-covered ground, a single small bipedal dinosaur walking through it",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_land_21",
+   "prompt": "Paleontologists' excavation site in a red rock bank with grid strings and brushes, fossils exposed, no faces visible",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_land_22",
+   "prompt": "A medical CT scanner scanning a fossil skull in a laboratory, blue light",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_land_23",
+   "prompt": "3D digital model of a dinosaur brain endocast rendered on a dark screen, scientific visualization, no text",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_land_24",
+   "prompt": "Fossil skull of an early carnivorous dinosaur on a black background, museum lighting",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_land_25",
+   "prompt": "Three dinosaur skeletons lying together in red rock, excavation from above",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_land_26",
+   "prompt": "Wide Triassic river at night under moonlight, conifer silhouettes",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_land_27",
+   "prompt": "A small Triassic dinosaur footprint trail in drying red mud near a river",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_fauna_01",
+   "prompt": "A small slender early carnivorous dinosaur Staurikosaurus, about 2 metres long, walking on two long thin hind legs with three-toed feet, very long thin tail, short arms with three clawed fingers, narrow low head with curved serrated teeth, scaly reddish-brown skin with darker stripes, no feathers, drinking at the river edge, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_fauna_02",
+   "prompt": "A small slender early carnivorous dinosaur Staurikosaurus, about 2 metres long, walking on two long thin hind legs with three-toed feet, very long thin tail, short arms with three clawed fingers, narrow low head with curved serrated teeth, scaly reddish-brown skin with darker stripes, no feathers, standing over a small prey on red soil, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_fauna_03",
+   "prompt": "A small slender early carnivorous dinosaur Staurikosaurus, about 2 metres long, walking on two long thin hind legs with three-toed feet, very long thin tail, short arms with three clawed fingers, narrow low head with curved serrated teeth, scaly reddish-brown skin with darker stripes, no feathers, walking through tall horsetails, side view, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_fauna_04",
+   "prompt": "A small slender early carnivorous dinosaur Staurikosaurus, about 2 metres long, walking on two long thin hind legs with three-toed feet, very long thin tail, short arms with three clawed fingers, narrow low head with curved serrated teeth, scaly reddish-brown skin with darker stripes, no feathers, silhouette against a red sunset, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_fauna_05",
+   "prompt": "A small slender early carnivorous dinosaur Staurikosaurus, about 2 metres long, walking on two long thin hind legs with three-toed feet, very long thin tail, short arms with three clawed fingers, narrow low head with curved serrated teeth, scaly reddish-brown skin with darker stripes, no feathers, hiding in ferns, eyes visible, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_fauna_06",
+   "prompt": "Rear three-quarter view of a small slender early carnivorous dinosaur Staurikosaurus, about 2 metres long, walking on two long thin hind legs with three-toed feet, very long thin tail, short arms with three clawed fingers, narrow low head with curved serrated teeth, scaly reddish-brown skin with darker stripes, no feathers, looking at a river valley, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_fauna_07",
+   "prompt": "A small slender early carnivorous dinosaur Staurikosaurus, about 2 metres long, walking on two long thin hind legs with three-toed feet, very long thin tail, short arms with three clawed fingers, narrow low head with curved serrated teeth, scaly reddish-brown skin with darker stripes, no feathers, running in heavy rain, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_fauna_08",
+   "prompt": "A small slender early carnivorous dinosaur Staurikosaurus, about 2 metres long, walking on two long thin hind legs with three-toed feet, very long thin tail, short arms with three clawed fingers, narrow low head with curved serrated teeth, scaly reddish-brown skin with darker stripes, no feathers, sniffing tracks in the mud, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_fauna_09",
+   "prompt": "Detail of the three-toed foot of a small slender early carnivorous dinosaur Staurikosaurus, about 2 metres long, walking on two long thin hind legs with three-toed feet, very long thin tail, short arms with three clawed fingers, narrow low head with curved serrated teeth, scaly reddish-brown skin with darker stripes, no feathers, stepping into red mud",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_fauna_10",
+   "prompt": "A Prestosuchus, a huge 7-metre crocodile-relative predator of the Triassic, walking on four straight legs held under the body, very large tall narrow skull full of serrated teeth, rows of bony armor plates along the back, long tail, dark scaly skin, resting on a sandbank in the sun, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_fauna_11",
+   "prompt": "A Prestosuchus, a huge 7-metre crocodile-relative predator of the Triassic, walking on four straight legs held under the body, very large tall narrow skull full of serrated teeth, rows of bony armor plates along the back, long tail, dark scaly skin, crossing a shallow river, splashing, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_fauna_12",
+   "prompt": "A Prestosuchus, a huge 7-metre crocodile-relative predator of the Triassic, walking on four straight legs held under the body, very large tall narrow skull full of serrated teeth, rows of bony armor plates along the back, long tail, dark scaly skin, eating a carcass of a stocky reptile, only one predator",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_fauna_13",
+   "prompt": "A Hyperodapedon rhynchosaur, a stocky barrel-bodied reptile about 1.3 metres long on four short sprawling legs, broad triangular head with a hooked beak-like upper jaw tip, scaly grey-brown skin, close-up of its head with the hooked beak, eating a fern",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_fauna_14",
+   "prompt": "A Hyperodapedon rhynchosaur, a stocky barrel-bodied reptile about 1.3 metres long on four short sprawling legs, broad triangular head with a hooked beak-like upper jaw tip, scaly grey-brown skin, walking alone on red mud, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_fauna_15",
+   "prompt": "Two Hyperodapedon rhynchosaur, a stocky barrel-bodied reptile about 1.3 metres long on four short sprawling legs, broad triangular head with a hooked beak-like upper jaw tip, scaly grey-brown skin in a dry river bed, both clearly separate",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_fauna_16",
+   "prompt": "A Triassic cynodont, a dog-sized mammal-like reptile with short fur, whiskers, a dog-like head, four legs, long low body, sniffing the ground among ferns, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_fauna_17",
+   "prompt": "A Triassic cynodont, a dog-sized mammal-like reptile with short fur, whiskers, a dog-like head, four legs, long low body, at the entrance of a burrow in red earth, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_fauna_18",
+   "prompt": "Two Triassic cynodont, a dog-sized mammal-like reptile with short fur, whiskers, a dog-like head, four legs, long low body curled in a burrow, both clearly separate",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_fauna_19",
+   "prompt": "A early carnivorous dinosaur Gnathovorax, about 3 metres long, bipedal, deep narrow skull with large curved serrated teeth, strong hind legs with three-toed feet, short clawed arms, long tail, scaly dark olive skin, no feathers, walking along a riverbank at dusk, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_fauna_20",
+   "prompt": "Close-up portrait of the skull-shaped head of a early carnivorous dinosaur Gnathovorax, about 3 metres long, bipedal, deep narrow skull with large curved serrated teeth, strong hind legs with three-toed feet, short clawed arms, long tail, scaly dark olive skin, no feathers, showing large curved teeth, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_fauna_21",
+   "prompt": "A early carnivorous dinosaur Gnathovorax, about 3 metres long, bipedal, deep narrow skull with large curved serrated teeth, strong hind legs with three-toed feet, short clawed arms, long tail, scaly dark olive skin, no feathers, looking down from a rock, sharp eyes, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_fauna_22",
+   "prompt": "A small early long-necked dinosaur Saturnalia, about 1.5 metres long, bipedal, small head on a slightly long neck, long tail, slender legs, scaly greenish-brown skin, eating low leaves, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_fauna_23",
+   "prompt": "A small early long-necked dinosaur Saturnalia, about 1.5 metres long, bipedal, small head on a slightly long neck, long tail, slender legs, scaly greenish-brown skin, running away, side view, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_fauna_24",
+   "prompt": "A small slender early dinosaur Buriolestes, about 1.5 metres long, bipedal, small head with curved pointed teeth, slightly long neck, long tail, scaly brown skin, running through ferns, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_fauna_25",
+   "prompt": "A small slender early dinosaur Buriolestes, about 1.5 metres long, bipedal, small head with curved pointed teeth, slightly long neck, long tail, scaly brown skin, close-up of its head with curved teeth, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_fauna_26",
+   "prompt": "A tiny slender long-legged Triassic reptile Ixalerpeton, a lagerpetid, standing on a rock, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_fauna_27",
+   "prompt": "A early long-necked plant-eating dinosaur Macrocollum, about 3.5 metres long, walking on two hind legs, small head on a long neck, long tail, scaly grey-brown skin, walking alone by a river, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_fauna_28",
+   "prompt": "Two early long-necked plant-eating dinosaur Macrocollum, about 3.5 metres long, walking on two hind legs, small head on a long neck, long tail, scaly grey-brown skin drinking at a river, both clearly separate",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_fauna_29",
+   "prompt": "A small herd of giant long-necked sauropod dinosaurs walking across a Jurassic plain, all animals clearly separate",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_fauna_30",
+   "prompt": "A Tyrannosaurus rex walking through a Cretaceous forest, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_fauna_31",
+   "prompt": "A Brachiosaurus raising its neck to eat from tall trees, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_fauna_32",
+   "prompt": "A Triceratops grazing in a Cretaceous meadow, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_fauna_33",
+   "prompt": "Eoraptor, a tiny early dinosaur from Argentina, standing on a rock in the Ischigualasto valley, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_fauna_34",
+   "prompt": "Herrerasaurus, an early carnivorous dinosaur from Argentina, bipedal, walking in a Triassic valley, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_fauna_35",
+   "prompt": "A Triassic landscape at dawn with a small bipedal dinosaur and a stocky beaked reptile far apart",
+   "tier": "cheap"
+  }
+ ]
+}

@@ -1,0 +1,309 @@
+{
+ "defaults": {
+  "n": 3,
+  "clip": 8,
+  "sources": [
+   "pexels",
+   "pixabay",
+   "coverr"
+  ]
+ },
+ "shots": [
+  {
+   "id": "v_dino",
+   "query": "dinosaur",
+   "alt": [
+    "dinosaur animation",
+    "dinosaurs"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 10
+  },
+  {
+   "id": "v_fossil",
+   "query": "fossil",
+   "alt": [
+    "dinosaur fossil",
+    "fossil bones"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 8
+  },
+  {
+   "id": "v_museum",
+   "query": "dinosaur museum",
+   "alt": [
+    "natural history museum"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 6
+  },
+  {
+   "id": "v_dig",
+   "query": "excavation",
+   "alt": [
+    "archaeology dig",
+    "paleontology"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 6
+  },
+  {
+   "id": "v_river",
+   "query": "shallow river",
+   "alt": [
+    "braided river aerial"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 6
+  },
+  {
+   "id": "v_flood",
+   "query": "flood",
+   "alt": [
+    "muddy flood water"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 6
+  },
+  {
+   "id": "v_rain",
+   "query": "heavy rain",
+   "alt": [
+    "rain storm forest"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 6
+  },
+  {
+   "id": "v_volcano",
+   "query": "volcano eruption",
+   "alt": [
+    "lava"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 8
+  },
+  {
+   "id": "v_lava",
+   "query": "lava flow",
+   "alt": [
+    "magma"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 5
+  },
+  {
+   "id": "v_desert",
+   "query": "red desert",
+   "alt": [
+    "arid landscape",
+    "canyon"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 6
+  },
+  {
+   "id": "v_forest",
+   "query": "conifer forest",
+   "alt": [
+    "fern forest",
+    "araucaria"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 6
+  },
+  {
+   "id": "v_fern",
+   "query": "fern",
+   "alt": [
+    "ferns forest floor"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 5
+  },
+  {
+   "id": "v_crocodile",
+   "query": "crocodile",
+   "alt": [
+    "caiman",
+    "alligator"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 8
+  },
+  {
+   "id": "v_lizard",
+   "query": "lizard",
+   "alt": [
+    "iguana",
+    "monitor lizard"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 8
+  },
+  {
+   "id": "v_bird",
+   "query": "bird",
+   "alt": [
+    "birds flying",
+    "pigeon"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 5
+  },
+  {
+   "id": "v_stars",
+   "query": "night sky stars",
+   "alt": [
+    "milky way timelapse"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 6
+  },
+  {
+   "id": "v_earth",
+   "query": "earth from space",
+   "alt": [
+    "planet earth rotating"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 5
+  },
+  {
+   "id": "v_ship",
+   "query": "old ship",
+   "alt": [
+    "steamship",
+    "ship ocean"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_microscope",
+   "query": "microscope",
+   "alt": [
+    "laboratory scientist"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 5
+  },
+  {
+   "id": "v_rs",
+   "query": "Rio Grande do Sul",
+   "alt": [
+    "southern Brazil countryside",
+    "Brazil hills"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 6
+  },
+  {
+   "id": "v_road",
+   "query": "dirt road",
+   "alt": [
+    "red dirt road"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 5
+  },
+  {
+   "id": "v_clouds",
+   "query": "storm clouds",
+   "alt": [
+    "clouds timelapse"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 5
+  }
+ ]
+}

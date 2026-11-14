@@ -1,0 +1,269 @@
+{
+ "defaults": {
+  "n": 3,
+  "sources": [
+   "commons",
+   "openverse",
+   "unsplash",
+   "pixabay"
+  ]
+ },
+ "shots": [
+  {
+   "id": "p_stauri",
+   "query": "Staurikosaurus",
+   "alt": [
+    "Staurikosaurus pricei"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_gnatho",
+   "query": "Gnathovorax",
+   "alt": [
+    "Gnathovorax cabreirai"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_macro",
+   "query": "Macrocollum",
+   "alt": [
+    "Macrocollum itaquii"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_saturnalia",
+   "query": "Saturnalia tupiniquim",
+   "alt": [
+    "Saturnalia dinosaur"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_buriolestes",
+   "query": "Buriolestes",
+   "alt": [
+    "Buriolestes schultzi"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_ixalerpeton",
+   "query": "Ixalerpeton",
+   "alt": [
+    "Lagerpetidae"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_presto",
+   "query": "Prestosuchus",
+   "alt": [
+    "Prestosuchus chiniquensis"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_hyper",
+   "query": "Hyperodapedon",
+   "alt": [
+    "rhynchosaur fossil"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_exaeretodon",
+   "query": "Exaeretodon",
+   "alt": [
+    "cynodont fossil skull"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_herrera",
+   "query": "Herrerasaurus",
+   "alt": [
+    "Herrerasaurus skeleton"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_eoraptor",
+   "query": "Eoraptor",
+   "alt": [
+    "Eoraptor lunensis"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_nyasa",
+   "query": "Nyasasaurus",
+   "alt": [
+    "Nyasasaurus parringtoni"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_price",
+   "query": "Llewellyn Ivor Price",
+   "alt": [
+    "Llewellyn Price paleontologist"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_colbert",
+   "query": "Edwin H. Colbert",
+   "alt": [
+    "Edwin Harris Colbert"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_mcz",
+   "query": "Museum of Comparative Zoology Harvard",
+   "alt": [
+    "Harvard Museum of Natural History"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_pangea",
+   "query": "Pangaea map",
+   "alt": [
+    "Pangea supercontinent Triassic"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_santamaria",
+   "query": "Santa Maria Rio Grande do Sul",
+   "alt": [
+    "Santa Maria RS cidade"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_quarta",
+   "query": "Quarta Colônia geoparque",
+   "alt": [
+    "Quarta Colônia Rio Grande do Sul"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_ufsm",
+   "query": "Universidade Federal de Santa Maria",
+   "alt": [
+    "UFSM campus"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_ischigualasto",
+   "query": "Ischigualasto",
+   "alt": [
+    "Valle de la Luna Ischigualasto"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_cruzeiro",
+   "query": "Crux constellation",
+   "alt": [
+    "Southern Cross constellation"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_zircon",
+   "query": "zircon crystal",
+   "alt": [
+    "zircon microscope"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_fossil_dig",
+   "query": "dinosaur excavation",
+   "alt": [
+    "paleontology excavation"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_fossil_museum",
+   "query": "dinosaur skeleton museum",
+   "alt": [
+    "dinosaur fossil skeleton"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_rs_landscape",
+   "query": "Rio Grande do Sul paisagem",
+   "alt": [
+    "pampa gaúcho"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_red_rock",
+   "query": "red sandstone layers",
+   "alt": [
+    "red sedimentary rock outcrop"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_ct_scan",
+   "query": "CT scanner",
+   "alt": [
+    "computed tomography scanner"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_trap",
+   "query": "Siberian Traps basalt",
+   "alt": [
+    "flood basalt"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_sauropod_mount",
+   "query": "Brachiosaurus skeleton",
+   "alt": [
+    "sauropod skeleton museum"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_trex",
+   "query": "Tyrannosaurus skeleton",
+   "alt": [
+    "T. rex skeleton museum"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_horsetail",
+   "query": "Equisetum",
+   "alt": [
+    "horsetail plant"
+   ],
+   "n": 3
+  },
+  {
+   "id": "p_araucaria",
+   "query": "Araucaria angustifolia",
+   "alt": [
+    "araucaria forest"
+   ],
+   "n": 3
+  }
+ ]
+}
