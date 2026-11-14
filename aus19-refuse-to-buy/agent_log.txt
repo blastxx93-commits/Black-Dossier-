@@ -1,0 +1,137 @@
+[     0s] aus19-refuse-to-buy: 33 planos, limite 35.0 min
+[     0s] m_accord: 'Honda Accord 2023'
+[     0s]     commons: 12 candidatos em 0.3s
+[     0s]     pixabay: 12 candidatos em 0.1s
+[     3s]   -> 4 imagens
+[     3s] m_camry: 'Toyota Camry 2025'
+[     4s]     commons: 12 candidatos em 0.3s
+[     4s]     pixabay: 12 candidatos em 0.2s
+[     6s]   -> 4 imagens
+[     6s] m_ev9: 'Kia EV9'
+[     6s]     commons: 12 candidatos em 0.2s
+[     6s]     pixabay: 0 candidatos em 0.1s
+[     9s]   -> 4 imagens
+[     9s] m_lc300: 'Toyota Land Cruiser 300'
+[     9s]     commons: 12 candidatos em 0.5s
+[     9s]     pixabay: 12 candidatos em 0.1s
+[    12s]   -> 4 imagens
+[    12s] m_fabia: 'Skoda Fabia 2022'
+[    12s]     commons: 12 candidatos em 0.4s
+[    12s]     pixabay: 12 candidatos em 0.1s
+[    15s]   -> 4 imagens
+[    15s] m_mg3: 'MG3 hybrid 2024'
+[    15s]     commons: 1 candidatos em 0.3s
+[    15s]     pixabay: 12 candidatos em 0.1s
+[    18s]   -> 4 imagens
+[    18s] m_sonata: 'Hyundai Sonata N Line 2024'
+[    19s]     commons: 3 candidatos em 0.5s
+[    19s]     pixabay: 12 candidatos em 0.1s
+[    21s]   -> 4 imagens
+[    21s] m_cx70: 'Mazda CX-70'
+[    22s]     commons: 12 candidatos em 0.2s
+[    22s]     pixabay: 12 candidatos em 0.1s
+[    24s]   -> 4 imagens
+[    24s] m_defender: 'Land Rover Defender 2020'
+[    25s]     commons: 12 candidatos em 0.5s
+[    25s]     pixabay: 12 candidatos em 0.1s
+[    27s]   -> 4 imagens
+[    27s] m_mache: 'Ford Mustang Mach-E'
+[    28s]     commons: 12 candidatos em 0.3s
+[    28s]     pixabay: 12 candidatos em 0.1s
+[    30s]   -> 4 imagens
+[    30s] m_modely: 'Tesla Model Y 2025'
+[    54s]   ! commons.wikimedia.org: 429 rate limit
+[    54s]     commons: 0 candidatos em 24.0s
+[    54s]     pixabay: 12 candidatos em 0.1s
+[    57s]   -> 4 imagens
+[    57s] m_sealion7: 'BYD Sealion 7'
+[    57s]     commons: 12 candidatos em 0.2s
+[    57s]     pixabay: 12 candidatos em 0.1s
+[    60s]   -> 4 imagens
+[    60s] m_karoq: 'Skoda Karoq facelift'
+[    61s]     commons: 12 candidatos em 0.5s
+[    61s]     pixabay: 12 candidatos em 0.6s
+[    64s]   -> 4 imagens
+[    64s] m_rav4: 'Toyota RAV4 2026'
+[    64s]     commons: 12 candidatos em 0.2s
+[    64s]     pixabay: 12 candidatos em 0.1s
+[    67s]   -> 4 imagens
+[    67s] m_wrangler: 'Jeep Wrangler JL'
+[    67s]     commons: 12 candidatos em 0.2s
+[    67s]     pixabay: 12 candidatos em 0.2s
+[    69s]   -> 4 imagens
+[    69s] m_everest: 'Ford Everest 2022'
+[    70s]     commons: 12 candidatos em 0.2s
+[    70s]     pixabay: 12 candidatos em 0.1s
+[    72s]   -> 4 imagens
+[    72s] m_prado: 'Toyota Land Cruiser Prado 250'
+[    73s]     commons: 12 candidatos em 0.4s
+[    73s]     pixabay: 12 candidatos em 0.1s
+[    75s]   -> 4 imagens
+[    75s] m_octavia: 'Skoda Octavia 2024'
+[    75s]     commons: 12 candidatos em 0.3s
+[    75s]     pixabay: 11 candidatos em 0.1s
+[    78s]   -> 4 imagens
+[    78s] m_rexton: 'SsangYong Rexton 2021'
+[    78s]     commons: 12 candidatos em 0.2s
+[    78s]     pixabay: 12 candidatos em 0.2s
+[    81s]   -> 4 imagens
+[    81s] m_q4: 'Audi Q4 e-tron'
+[    81s]     commons: 12 candidatos em 0.3s
+[    81s]     pixabay: 12 candidatos em 0.1s
+[    84s]   -> 4 imagens
+[    84s] m_ix: 'BMW iX'
+[    84s]     commons: 12 candidatos em 0.2s
+[    84s]     pixabay: 12 candidatos em 0.1s
+[    86s]   -> 4 imagens
+[    86s] m_ioniq9: 'Hyundai Ioniq 9'
+[   110s]   ! commons.wikimedia.org: 429 rate limit
+[   110s]     commons: 0 candidatos em 24.0s
+[   110s]     pixabay: 12 candidatos em 0.1s
+[   113s]   -> 4 imagens
+[   113s] m_scross: 'Suzuki S-Cross 2022'
+[   122s]     commons: 12 candidatos em 8.8s
+[   122s]     pixabay: 12 candidatos em 0.2s
+[   124s]   -> 4 imagens
+[   124s] m_kangoo: 'Renault Kangoo 2021'
+[   125s]     commons: 12 candidatos em 0.3s
+[   125s]     pixabay: 12 candidatos em 0.2s
+[   127s]   -> 4 imagens
+[   127s] m_fiat500: 'Fiat 500 2016'
+[   127s]     commons: 12 candidatos em 0.2s
+[   128s]     pixabay: 12 candidatos em 0.1s
+[   130s]   -> 4 imagens
+[   130s] m_tonale: 'Alfa Romeo Tonale'
+[   130s]     commons: 12 candidatos em 0.3s
+[   130s]     pixabay: 12 candidatos em 0.1s
+[   133s]   -> 4 imagens
+[   133s] m_fortuner: 'Toyota Fortuner'
+[   133s]     commons: 12 candidatos em 0.2s
+[   133s]     pixabay: 12 candidatos em 0.1s
+[   136s]   -> 4 imagens
+[   136s] m_superb: 'Skoda Superb 2024'
+[   136s]     commons: 12 candidatos em 0.5s
+[   137s]     pixabay: 12 candidatos em 0.1s
+[   139s]   -> 4 imagens
+[   139s] m_compass: 'Jeep Compass 2021'
+[   139s]     commons: 12 candidatos em 0.2s
+[   139s]     pixabay: 12 candidatos em 0.1s
+[   142s]   -> 4 imagens
+[   142s] m_geelyex5: 'Geely EX5'
+[   142s]     commons: 12 candidatos em 0.2s
+[   142s]     pixabay: 0 candidatos em 0.1s
+[   144s]   -> 4 imagens
+[   144s] m_tiggo4: 'Chery Tiggo 4'
+[   145s]     commons: 12 candidatos em 0.2s
+[   145s]     pixabay: 12 candidatos em 0.0s
+[   147s]   -> 4 imagens
+[   147s] m_hilux: 'Toyota Hilux 2025'
+[   147s]     commons: 12 candidatos em 0.2s
+[   147s]     pixabay: 12 candidatos em 0.1s
+[   149s]   -> 4 imagens
+[   149s] m_civic: 'Honda Civic 2022'
+[   173s]   ! commons.wikimedia.org: 429 rate limit
+[   173s]     commons: 0 candidatos em 24.0s
+[   174s]     pixabay: 12 candidatos em 0.1s
+[   176s]   -> 4 imagens
+[   179s] fim: 132 imagens
