@@ -214,7 +214,7 @@
     },
     {
      "type": "serif",
-     "bg": "a/ai/ai_m_waves_1.jpg",
+     "bg": "a/ai/ai_m_storm_1.jpg",
      "text": "Nove monstros.",
      "lines": [
       "500 milhões de anos",
@@ -268,7 +268,7 @@
        "at": 4.6200000000000045
       }
      ],
-     "bg": "a/ai/ai_m_storm_1.jpg",
+     "bg": "a/ai/ai_m_dark_1.jpg",
      "dur": 7.62,
      "fixed": true,
      "trans": "blur"
@@ -537,7 +537,7 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_o_jump_1.jpg",
+     "src": "a/ai/ai_o_pod_dawn_1.jpg",
      "move": "up",
      "dur": 3.98,
      "fixed": true,
@@ -554,7 +554,7 @@
     },
     {
      "type": "score",
-     "bg": "a/ai/ai_o_jump_1.jpg",
+     "bg": "a/ai/ai_o_pod_dawn_1.jpg",
      "prev": [
       0,
       0
@@ -785,7 +785,7 @@
     {
      "type": "versus",
      "left": {
-      "src": "a/ai/ai_o_under_1.jpg",
+      "src": "a/ai/ai_o_head_1.jpg",
       "name": "Orca",
       "stat": "9 m"
      },
@@ -840,8 +840,8 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_o_head_1.jpg",
-     "move": "out",
+     "src": "a/ai/ai_o_calf_1.jpg",
+     "move": "left",
      "hud": [
       1,
       0,
@@ -893,7 +893,7 @@
     },
     {
      "type": "score",
-     "bg": "a/ai/ai_o_calf_1.jpg",
+     "bg": "a/ai/ai_o_tail_1.jpg",
      "prev": [
       0,
       0
@@ -956,7 +956,7 @@
      "num": 2,
      "name": "Devoniano",
      "sub": "a era dos peixes",
-     "bg": "a/ai/ai_orca_vs_dunkleosteus_1.jpg",
+     "bg": "a/ai/ai_orca_sunset_1.jpg",
      "of": 9,
      "sfx": [
       {
@@ -1017,8 +1017,8 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_orca_vs_dunkleosteus_1.jpg",
-     "move": "in",
+     "src": "a/ai/ai_miocene_sea_1.jpg",
+     "move": "right",
      "hud": [
       2,
       1,
@@ -1092,12 +1092,12 @@
     {
      "type": "versus",
      "left": {
-      "src": "a/ai/ai_o_pod_dawn_1.jpg",
+      "src": "a/ai/ai_o_under_1.jpg",
       "name": "Orca",
       "stat": "9 m"
      },
      "right": {
-      "src": "a/ai/ai_devonian_fish_1.jpg",
+      "src": "a/ai/ai_orca_vs_dunkleosteus_1.jpg",
       "name": "Dunkleosteus",
       "stat": "3–4 m"
      },
@@ -1124,8 +1124,8 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_o_calf_1.jpg",
-     "move": "down",
+     "src": "a/ai/ai_o_tail_1.jpg",
+     "move": "in",
      "hud": [
       2,
       1,
@@ -1156,7 +1156,7 @@
     },
     {
      "type": "verdict",
-     "src": "a/p_dunkleosteus/3_unsplash.jpg",
+     "src": "a/ai/ai_devonian_fish_1.jpg",
      "winner": "tigre",
      "sfx": [
       {
@@ -1311,7 +1311,7 @@
     {
      "type": "image",
      "src": "a/ai/ai_ichthyosaur_eye_1.jpg",
-     "move": "left",
+     "move": "up",
      "hud": [
       3,
       2,
@@ -1425,7 +1425,7 @@
     {
      "type": "image",
      "src": "a/ai/ai_orca_vs_ichthyosaur_1.jpg",
-     "move": "right",
+     "move": "down",
      "hud": [
       3,
       2,
@@ -1463,7 +1463,7 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_thalatto_side_1.jpg",
+     "src": "a/ai/ai_ichthyo_surface_1.jpg",
      "move": "left",
      "dur": 4.39,
      "fixed": true,
@@ -1474,12 +1474,12 @@
     {
      "type": "versus",
      "left": {
-      "src": "a/ai/ai_o_tail_1.jpg",
+      "src": "a/ai/ai_o2_side_surface_1.jpg",
       "name": "Orca",
       "stat": "9 m"
      },
      "right": {
-      "src": "a/ai/ai_ichthyo_pod_1.jpg",
+      "src": "a/ai/ai_thalatto_side_1.jpg",
       "name": "Thalattoarchon",
       "stat": "8 m"
      },
@@ -1507,7 +1507,7 @@
     {
      "type": "image",
      "src": "a/ai/ai_o_fin_mist_1.jpg",
-     "move": "out",
+     "move": "in",
      "hud": [
       3,
       2,
@@ -1529,7 +1529,7 @@
     {
      "type": "image",
      "src": "a/ai/ai_o_hunt_fish_1.jpg",
-     "move": "down",
+     "move": "left",
      "hud": [
       3,
       2,
@@ -1543,7 +1543,7 @@
     },
     {
      "type": "verdict",
-     "src": "a/ai/ai_ichthyo_surface_1.jpg",
+     "src": "a/ai/ai_ichthyo_pod_1.jpg",
      "winner": "tigre",
      "sfx": [
       {
@@ -1574,7 +1574,7 @@
     },
     {
      "type": "score",
-     "bg": "a/ai/ai_o2_side_surface_1.jpg",
+     "bg": "a/ai/ai_o2_pod_under_1.jpg",
      "prev": [
       2,
       0
@@ -1664,7 +1664,7 @@
     },
     {
      "type": "serif",
-     "bg": "a/ai/ai_jurassic_ammonite_reef_1.jpg",
+     "bg": "a/ai/ai_ammonites_1.jpg",
      "text": "Um mito de 25 metros.",
      "lines": [
       "O Liopleurodon"
@@ -1676,7 +1676,7 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_lio_side_1.jpg",
+     "src": "a/ai/ai_ammonites_1.jpg",
      "move": "out",
      "dur": 5.18,
      "fixed": true,
@@ -1767,12 +1767,12 @@
     {
      "type": "versus",
      "left": {
-      "src": "a/ai/ai_o_deep_1.jpg",
+      "src": "a/ai/ai_o_jump_1.jpg",
       "name": "Orca",
       "stat": "9 m"
      },
      "right": {
-      "src": "a/ai/ai_liopleurodon_head_1.jpg",
+      "src": "a/ai/ai_lio_side_1.jpg",
       "name": "Liopleurodon",
       "stat": "6–7 m"
      },
@@ -1808,7 +1808,7 @@
     },
     {
      "type": "verdict",
-     "src": "a/ai/ai_ammonites_1.jpg",
+     "src": "a/ai/ai_liopleurodon_head_1.jpg",
      "winner": "tigre",
      "sfx": [
       {
@@ -2019,7 +2019,7 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_orca_vs_mosasaurus_1.jpg",
+     "src": "a/ai/ai_cretaceous_storm_1.jpg",
      "move": "up",
      "hud": [
       5,
@@ -2042,12 +2042,12 @@
     {
      "type": "versus",
      "left": {
-      "src": "a/ai/ai_o2_breath_1.jpg",
+      "src": "a/ai/ai_o2_eye_1.jpg",
       "name": "Orca",
       "stat": "9 m"
      },
      "right": {
-      "src": "a/ai/ai_cretaceous_storm_1.jpg",
+      "src": "a/ai/ai_orca_vs_mosasaurus_1.jpg",
       "name": "Mosassauro",
       "stat": "12–15 m"
      },
@@ -2075,7 +2075,7 @@
     {
      "type": "image",
      "src": "a/ai/ai_cr_archelon_1.jpg",
-     "move": "in",
+     "move": "out",
      "hud": [
       5,
       4,
@@ -2122,8 +2122,8 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_o2_side_surface_1.jpg",
-     "move": "left",
+     "src": "a/ai/ai_o2_pod_under_1.jpg",
+     "move": "down",
      "hud": [
       5,
       4,
@@ -2144,8 +2144,8 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_o2_pod_under_1.jpg",
-     "move": "out",
+     "src": "a/ai/ai_o2_fluke_dive_1.jpg",
+     "move": "in",
      "hud": [
       5,
       4,
@@ -2299,7 +2299,7 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_basi_surface_1.jpg",
+     "src": "a/ai/ai_basilosaurus_swim_1.jpg",
      "move": "left",
      "dur": 4.2,
      "fixed": true,
@@ -2315,7 +2315,7 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_basi_head_1.jpg",
+     "src": "a/ai/ai_basi_surface_1.jpg",
      "move": "out",
      "dur": 4.18,
      "fixed": true,
@@ -2334,7 +2334,7 @@
      "num": 6,
      "name": "Eoceno",
      "sub": "a baleia-serpente",
-     "bg": "a/ai/ai_basi_head_1.jpg",
+     "bg": "a/ai/ai_basi_surface_1.jpg",
      "of": 9,
      "sfx": [
       {
@@ -2390,7 +2390,7 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_basi_hunt_1.jpg",
+     "src": "a/ai/ai_basi_head_1.jpg",
      "move": "right",
      "dur": 5.92,
      "fixed": true,
@@ -2429,7 +2429,7 @@
     },
     {
      "type": "serif",
-     "bg": "a/ai/ai_basi_hunt_1.jpg",
+     "bg": "a/ai/ai_basi_head_1.jpg",
      "text": "a orca é uma baleia.",
      "lines": [
       "E aqui está o problema"
@@ -2442,12 +2442,12 @@
     {
      "type": "versus",
      "left": {
-      "src": "a/ai/ai_o2_eye_1.jpg",
+      "src": "a/ai/ai_o_deep_1.jpg",
       "name": "Orca",
       "stat": "9 m"
      },
      "right": {
-      "src": "a/ai/ai_basilosaurus_swim_1.jpg",
+      "src": "a/ai/ai_basi_side_1.jpg",
       "name": "Basilosaurus",
       "stat": "18 m"
      },
@@ -2484,7 +2484,7 @@
     },
     {
      "type": "verdict",
-     "src": "a/ai/ai_basi_side_1.jpg",
+     "src": "a/ai/ai_basi_hunt_1.jpg",
      "winner": "feras",
      "sfx": [
       {
@@ -2553,7 +2553,7 @@
     {
      "type": "image",
      "src": "a/ai/ai_megalodon_jaws_1.jpg",
-     "move": "out",
+     "move": "left",
      "hud": [
       6,
       4,
@@ -2665,7 +2665,7 @@
     {
      "type": "image",
      "src": "a/ai/ai_megalodon_below_1.jpg",
-     "move": "down",
+     "move": "out",
      "caption": "Até 17 cm|Dente do Megalodon",
      "hud": [
       7,
@@ -2688,7 +2688,7 @@
     {
      "type": "image",
      "src": "a/ai/ai_orca_vs_megalodon_1.jpg",
-     "move": "in",
+     "move": "right",
      "hud": [
       7,
       4,
@@ -2710,7 +2710,7 @@
     {
      "type": "image",
      "src": "a/ai/ai_greatwhite_1.jpg",
-     "move": "left",
+     "move": "in",
      "hud": [
       7,
       4,
@@ -2747,8 +2747,8 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_o2_fluke_dive_1.jpg",
-     "move": "out",
+     "src": "a/ai/ai_o2_play_1.jpg",
+     "move": "up",
      "hud": [
       7,
       4,
@@ -2769,7 +2769,7 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_m_waves_1.jpg",
+     "src": "a/ai/ai_m_storm_1.jpg",
      "move": "in",
      "dur": 3.28,
      "fixed": true,
@@ -2787,7 +2787,7 @@
     {
      "type": "versus",
      "left": {
-      "src": "a/ai/ai_o2_play_1.jpg",
+      "src": "a/ai/ai_o2_breath_1.jpg",
       "name": "Orca",
       "stat": "9 m"
      },
@@ -2887,7 +2887,7 @@
     },
     {
      "type": "serif",
-     "bg": "a/ai/ai_lv_head_1.jpg",
+     "bg": "a/ai/ai_lv_side_1.jpg",
      "text": "nem o Megalodon queria encontrar.",
      "lines": [
       "Uma fera que"
@@ -2899,7 +2899,7 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_m_storm_1.jpg",
+     "src": "a/ai/ai_pl_ice_1.jpg",
      "move": "left",
      "dur": 4.426,
      "fixed": false,
@@ -2918,7 +2918,7 @@
      "num": 8,
      "name": "Mioceno",
      "sub": "Livyatan · o cachalote assassino",
-     "bg": "a/ai/ai_lv_deep_1.jpg",
+     "bg": "a/ai/ai_lv_head_1.jpg",
      "of": 9,
      "sfx": [
       {
@@ -3025,7 +3025,7 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_lv_side_1.jpg",
+     "src": "a/ai/ai_fossil_cliff_1.jpg",
      "move": "out",
      "dur": 4.2,
      "fixed": true,
@@ -3041,7 +3041,7 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_lv_head_1.jpg",
+     "src": "a/ai/ai_lv_side_1.jpg",
      "move": "right",
      "dur": 6.34,
      "fixed": true,
@@ -3086,7 +3086,7 @@
       "stat": "15–20 m"
      },
      "right": {
-      "src": "a/ai/ai_fossil_cliff_1.jpg",
+      "src": "a/ai/ai_lv_deep_1.jpg",
       "name": "Livyatan",
       "stat": "13–18 m"
      },
@@ -3113,7 +3113,7 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_lv_deep_1.jpg",
+     "src": "a/ai/ai_lv_head_1.jpg",
      "move": "in",
      "dur": 4.61,
      "fixed": true,
@@ -3182,7 +3182,7 @@
     },
     {
      "type": "score",
-     "bg": "a/ai/ai_o_head_1.jpg",
+     "bg": "a/ai/ai_o_calf_1.jpg",
      "prev": [
       4,
       2
@@ -3245,7 +3245,7 @@
      "num": 9,
      "name": "Plioceno",
      "sub": "o oceano esfria",
-     "bg": "a/ai/ai_orca_ice_1.jpg",
+     "bg": "a/ai/ai_pl_orca_ice_1.jpg",
      "of": 9,
      "sfx": [
       {
@@ -3381,7 +3381,7 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_pl_ice_1.jpg",
+     "src": "a/ai/ai_pl_seals_1.jpg",
      "move": "up",
      "dur": 5.9,
      "fixed": true,
@@ -3420,7 +3420,7 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_pl_seals_1.jpg",
+     "src": "a/ai/ai_pl_greatwhite_1.jpg",
      "move": "out",
      "dur": 6.36,
      "fixed": true,
@@ -3519,7 +3519,7 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_pl_greatwhite_1.jpg",
+     "src": "a/ai/ai_pl_orca_ice_1.jpg",
      "move": "down",
      "dur": 5.3,
      "fixed": true,
@@ -3733,7 +3733,7 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_miocene_sea_1.jpg",
+     "src": "a/ai/ai_m_dark_1.jpg",
      "move": "down",
      "dur": 4.2,
      "fixed": true,
@@ -3767,7 +3767,7 @@
      "type": "cta",
      "text": "Obrigado por assistir",
      "sub": "Deixe seu like e inscreva-se no Era das Feras",
-     "bg": "a/ai/ai_o2_side_surface_1.jpg",
+     "bg": "a/ai/ai_o2_pod_under_1.jpg",
      "sfx": [
       {
        "file": "sfx/whoosh_a.wav",
@@ -3791,7 +3791,7 @@
     },
     {
      "type": "image",
-     "src": "a/ai/ai_m_dark_1.jpg",
+     "src": "a/ai/ai_m_waves_1.jpg",
      "move": "in",
      "dur": 2.638,
      "fixed": false,

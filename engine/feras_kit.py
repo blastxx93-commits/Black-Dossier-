@@ -124,9 +124,9 @@ def round_card(num, name, sub, scene):
             "sfx": [fx("bell", 0.05), fx("impact", 0.1, -3)]}
 
 
-def versus(left_scene, left_name, left_stat, right_scene, right_name, right_stat):
-    return {"type": "versus", "left": {"src": _src(left_scene), "name": left_name, "stat": left_stat},
-            "right": {"src": _src(right_scene), "name": right_name, "stat": right_stat},
+def versus(left_scene, left_name, left_stat, right_scene, right_name, right_stat, limg=None, rimg=None):
+    return {"type": "versus", "left": {"src": pinned(limg) if limg else _src(left_scene), "name": left_name, "stat": left_stat},
+            "right": {"src": pinned(rimg) if rimg else _src(right_scene), "name": right_name, "stat": right_stat},
             "sfx": [fx("whip"), fx("impact", 0.75, -2), fx("growl", 0.9, -4)]}
 
 
