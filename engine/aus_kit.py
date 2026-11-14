@@ -68,7 +68,8 @@ def fingerprint(path):
 
 def reviewed(path):
     r = CFG.get("reviewed")
-    return r is None or path in r or path.startswith("ai/")
+    # AI images too (rule 14/11/2026: they come out with defects, so each one is inspected before use)
+    return r is None or path in r
 
 
 def claim(path):
@@ -227,10 +228,12 @@ def questions(c, items, phrases):
 
 
 # ---------------------------------------------------------------- finish
-def finish(chapters, output, ctx, subtitles=None, music_gain=-29):  # -29 dB: bed sits well under the voice
+def finish(chapters, output, ctx, subtitles=None, music_gain=-29, theme=None):  # -29 dB: bed sits well under the voice
     """Builds episode JSON: timings from the narration, long holds split, channel checks. Returns the JSON text."""
     ep = K.build_episode(chapters, output, music="trilha.wav", music_gain=music_gain, final_fade=0)
     ep["size"] = [1920, 1080]
+    if theme:
+        ep["theme"] = theme
     if subtitles:
         ep["subtitles"] = subtitles
     misses = [m for c in chapters for m in c.misses]
