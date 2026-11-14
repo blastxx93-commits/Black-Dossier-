@@ -575,6 +575,106 @@
    "id": "ai_h_underwater_noise",
    "prompt": "Underwater view of a ship hull and propeller, murky green water",
    "tier": "cheap"
+  },
+  {
+   "id": "ai_cr_archelon",
+   "prompt": "A giant ancient sea turtle Archelon swimming in a Cretaceous sea, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_cr_ammonites",
+   "prompt": "Large ammonites swimming in a Cretaceous sea, sunbeams",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_cr_sea_dusk",
+   "prompt": "A Cretaceous ocean at dusk with a volcanic coastline, no animals",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_cr_deep_shadow",
+   "prompt": "A huge dark shadow of a marine reptile under the surface seen from a small boat level, ocean, no people",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_cr_bones",
+   "prompt": "A fossil skull of a Mosasaurus with sharp teeth in a museum, dramatic lighting",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_cr_reef",
+   "prompt": "A Cretaceous reef of shells and sponges, blue light, no large animals",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_o2_breath",
+   "prompt": "an orca killer whale (black and white, tall dorsal fin, white eye patch) exhaling a spout at the surface, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_o2_side_surface",
+   "prompt": "an orca killer whale (black and white, tall dorsal fin, white eye patch) swimming at the surface, side view, calm sea, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_o2_pod_under",
+   "prompt": "A pod of four orcas swimming underwater, side view",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_o2_eye",
+   "prompt": "Extreme close-up of the eye patch and eye of an orca killer whale (black and white, tall dorsal fin, white eye patch), only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_o2_fluke_dive",
+   "prompt": "Orca fluke as it dives, splashes, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_o2_play",
+   "prompt": "Two young orcas playing at the surface",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_o2_cold_fog",
+   "prompt": "Orca fins in a cold foggy fjord",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_o2_jump_sunset",
+   "prompt": "an orca killer whale (black and white, tall dorsal fin, white eye patch) jumping at sunset, silhouette, only this one animal in the image",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_o2_herd_seal",
+   "prompt": "Orcas swimming near a rocky shore with seals",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_o2_aerial",
+   "prompt": "Aerial view of a pod of orcas in deep blue water",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_m_blue",
+   "prompt": "Deep blue open ocean with sunbeams, no animals",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_m_dark",
+   "prompt": "Dark deep ocean water with floating particles, no animals",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_m_waves",
+   "prompt": "Ocean surface waves at golden hour, no animals",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_m_storm",
+   "prompt": "Stormy ocean from water level, no animals",
+   "tier": "cheap"
   }
  ]
 }

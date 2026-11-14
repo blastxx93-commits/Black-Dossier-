@@ -13,13 +13,13 @@ from feras_kit import foot, label, serif, round_card, versus, verdict, score, me
 ai = lambda *ids: ["ai:ai_" + i for i in ids]
 PHOTOS = {
     "orca": ai("orca_breach", "orca_portrait", "orca_pod_hunt", "orca_family", "orca_spyhop", "orca_fin", "orca_dive", "orca_sunset",
-               "orca_pod_surface", "orca_echolocation", "orca_brain", "orca_ice", "orca_wave", "o_jump", "o_under", "o_head", "o_pod_dawn", "o_calf", "o_tail", "o_fin_mist", "o_hunt_fish", "o_deep", "o_sunrise") + ["p_orca"],
-    "mar": ai("ocean_surface", "deep_ocean", "cretaceous_sea", "miocene_sea"),
+               "orca_pod_surface", "orca_echolocation", "orca_brain", "orca_ice", "orca_wave", "o_jump", "o_under", "o_head", "o_pod_dawn", "o_calf", "o_tail", "o_fin_mist", "o_hunt_fish", "o_deep", "o_sunrise", "o2_breath", "o2_side_surface", "o2_pod_under", "o2_eye", "o2_fluke_dive", "o2_play", "o2_cold_fog", "o2_jump_sunset", "o2_herd_seal", "o2_aerial") + ["p_orca"],
+    "mar": ai("ocean_surface", "deep_ocean", "cretaceous_sea", "miocene_sea", "m_blue", "m_dark", "m_waves", "m_storm"),
     "cambrian": ai("anomalocaris", "trilobites", "cambrian_reef", "orca_vs_anomalocaris") + ["p_anomalocaris", "p_trilobite"],
     "devonian": ai("dunkleosteus_portrait", "devonian_reef", "orca_vs_dunkleosteus", "dk_side", "dk_front", "dk_reef", "devonian_corals", "devonian_fish") + ["p_dunkleosteus"],
     "triassic": ai("ichthyosaur_eye", "ichthyosaur_swim", "thalattoarchon", "orca_vs_ichthyosaur", "ichthyo_pod", "ichthyo_surface", "thalatto_side") + ["p_ichthyosaur"],
     "jurassic": ai("liopleurodon", "liopleurodon_head", "ammonites", "lio_side", "lio_below", "jurassic_ammonite_reef") + ["p_liopleurodon"],
-    "cretaceous": ai("mosasaurus_jaws", "orca_vs_mosasaurus", "mosa_side", "mosa_head", "mosa_deep", "mosa_hunt", "cretaceous_storm") + ["p_mosasaurus"],
+    "cretaceous": ai("mosasaurus_jaws", "orca_vs_mosasaurus", "mosa_side", "mosa_head", "mosa_deep", "mosa_hunt", "cretaceous_storm", "cr_archelon", "cr_ammonites", "cr_sea_dusk", "cr_deep_shadow", "cr_bones", "cr_reef") + ["p_mosasaurus"],
     "eocene": ai("basilosaurus_portrait", "basilosaurus_swim", "basi_side", "basi_surface", "basi_head", "basi_hunt", "eocene_warm") + ["p_basilosaurus"],
     "megalodon": ai("megalodon_portrait", "megalodon_jaws", "megalodon_whale", "megalodon_below", "orca_vs_megalodon", "greatwhite", "mg_side", "mg_front", "mg_scale", "mg_deep", "mg_tooth_hand") + ["p_megalodon"],
     "livyatan": ai("livyatan_portrait", "livyatan_hunt", "orca_vs_livyatan", "fossil_cliff", "lv_side", "lv_head", "lv_deep", "lv_skull", "peru_desert") + ["p_livyatan"],
@@ -32,14 +32,14 @@ CLIPS = {"orca": CL["orca"], "mar": CL["deep"] + CL["surface"], "cambrian": CL["
          "eocene": CL["whale"][:3], "megalodon": CL["shark"], "livyatan": CL["whale"][3:], "pliocene": CL["ice"], "hoje": CL["today"]}
 GENERIC = CL["deep"] + CL["surface"] + CL["fish"] + CL["reef"]
 FALLBACK = {k: ["mar", "orca"] for k in PHOTOS}
-FALLBACK.update({"orca": ["mar"], "mar": ["orca"], "hoje": ["orca", "mar"]})
+FALLBACK.update({"orca": ["mar", "pliocene", "hoje"], "mar": ["orca"], "hoje": ["orca", "mar"], "cretaceous": ["mar", "orca", "jurassic"], "megalodon": ["mar", "orca", "pliocene"]})
 PIN_IDS = ["ai_anomalocaris", "ai_dunkleosteus_portrait", "ai_thalattoarchon", "ai_liopleurodon", "ai_mosasaurus_jaws",
            "ai_basilosaurus_portrait", "ai_megalodon_portrait", "ai_livyatan_portrait", "ai_orca_portrait", "ai_orca_breach",
            "ai_livyatan_hunt", "ai_megalodon_whale", "ai_orca_pod_hunt", "ai_pliocene_cold"]
 A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FALLBACK, ["mar"])
 F.pin(*PIN_IDS)
 A.CLIP_TARGET = 0.45          # owner: more real footage
-A.MAX_HOLD, A.KEEP = 6.5, 4.0
+A.MAX_HOLD, A.KEEP = 7.0, 4.2
 F.HUD_TOTAL[0] = 9
 ch = A.ch
 chapters = []
