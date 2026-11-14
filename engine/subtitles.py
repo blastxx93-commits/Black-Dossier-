@@ -75,6 +75,11 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 """
 
 
+SUB_STYLES = {  # per video template (render_aus THEMES); AUS_THEME env picks one
+    "electric": "Style: Doc,Inter SemiBold,46,&H00FFFFFF,&H00FFFFFF,&H00180C06,&HA0180C06,0,0,0,0,100,100,0.5,0,1,3,1.4,2,200,200,62,1",
+}
+
+
 def srt_to_ass(srt_path, ass_path):
     """Yellow documentary subtitles: Inter SemiBold, 44 px at 1080p, black outline + soft shadow."""
     def t(x):
@@ -85,7 +90,11 @@ def srt_to_ass(srt_path, ass_path):
         l = b.split("\n")
         a, z = l[1].split(" --> ")
         ev.append(f"Dialogue: 0,{t(a)},{t(z)},Doc,,0,0,0,,{'\\N'.join(l[2:])}")
-    open(ass_path, "w").write(ASS_HEADER + "\n".join(ev) + "\n")
+    hdr = ASS_HEADER
+    st = SUB_STYLES.get(os.environ.get("AUS_THEME", ""))
+    if st:
+        hdr = re.sub(r"^Style: Doc,.*$", st, hdr, flags=re.M)
+    open(ass_path, "w").write(hdr + "\n".join(ev) + "\n")
 
 
 def main(ep_path, script_dir, out_path):

@@ -24,6 +24,26 @@ R.BRAND.update({
     "white": (245, 245, 242), "black": (10, 10, 12), "ink": (10, 10, 12), "grey": (165, 165, 170),
 })
 B = R.BRAND
+THEME = {"name": "classic"}
+# Themes (channel rule 14/11/2026: vary the video template). "classic" = yellow/red studio (aus01-18).
+# "electric" = navy studio with a blueprint grid, cyan + orange accents, dark caption plates with an accent bar,
+# mirrored countdown cards (photo left, text right) and its own transition set.
+THEMES = {
+    "classic": {},
+    "electric": {"colors": {"yellow": (0, 214, 255), "red": (255, 106, 18), "red_dark": (170, 60, 8),
+                            "grey": (150, 168, 190), "black": (6, 12, 24)},
+                 "base": (7, 13, 27), "glows": [((0, 170, 255), (0.2, 0.3)), ((255, 100, 20), (0.85, 0.78))],
+                 "lines": (20, 34, 56), "grid": True, "mirror_rank": True, "caption": "plate",
+                 "cycle": ["push", "zoom", "flash", "slide"], "photo_cycle": ["fade", "push", "fade", "zoom", "flash", "fade"]},
+}
+
+
+def apply_theme(ep):
+    name = ep.get("theme", "classic")
+    th = THEMES.get(name, {})
+    THEME.clear(); THEME.update(th); THEME["name"] = name
+    B.update(th.get("colors", {}))
+    _studio.clear()
 R.FONT_CANDIDATES["impact"] = ["fonts/InterDisplay-Black.otf", "fonts/Anton-Regular.ttf", "fonts/BebasNeue-Regular.ttf",
                                "/usr/share/fonts/opentype/inter/InterDisplay-Black.otf",
                                "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"]
@@ -53,11 +73,11 @@ def studio(ctx, seed=0):
     key = (ctx.W, seed % 4)
     if key not in _studio:
         W, H = int(ctx.W * 1.3), int(ctx.H * 1.3)
-        small = Image.new("RGB", (W // 4, H // 4), (12, 12, 15))
+        small = Image.new("RGB", (W // 4, H // 4), THEME.get("base", (12, 12, 15)))
         g = ImageDraw.Draw(small)
-        cols = [((255, 190, 0), (0.18, 0.25)), ((210, 10, 5), (0.85, 0.8))]
+        cols = THEME.get("glows", [((255, 190, 0), (0.18, 0.25)), ((210, 10, 5), (0.85, 0.8))])
         if seed % 2:
-            cols = [((210, 10, 5), (0.15, 0.75)), ((255, 190, 0), (0.85, 0.2))]
+            cols = [(c, (1 - fx, 1 - fy)) for c, (fx, fy) in cols]
         for col, (fx, fy) in cols:
             glow = Image.new("RGB", small.size, (0, 0, 0))
             ImageDraw.Draw(glow).ellipse([small.width * (fx - 0.35), small.height * (fy - 0.45),
@@ -67,8 +87,17 @@ def studio(ctx, seed=0):
         im = small.resize((W, H), Image.BICUBIC)
         d = ImageDraw.Draw(im)
         step = ctx.px(46)
-        for x in range(-H, W, step):
-            d.line([(x, 0), (x + H, H)], fill=(24, 24, 28), width=max(1, ctx.px(2)))
+        if THEME.get("grid"):
+            lc = THEME.get("lines", (24, 24, 28)); st = ctx.px(64)
+            for x in range(0, W, st):
+                d.line([(x, 0), (x, H)], fill=lc, width=max(1, ctx.px(1)))
+            for y in range(0, H, st):
+                d.line([(0, y), (W, y)], fill=lc, width=max(1, ctx.px(1)))
+            for x in range(0, W, st * 4):
+                d.line([(x, 0), (x, H)], fill=tuple(min(255, c + 14) for c in lc), width=max(1, ctx.px(2)))
+        else:
+            for x in range(-H, W, step):
+                d.line([(x, 0), (x + H, H)], fill=(24, 24, 28), width=max(1, ctx.px(2)))
         _studio[key] = im
     return _studio[key]
 
@@ -168,6 +197,11 @@ def caption_layer(ctx, text):
         text = rest.strip()
     f = font("impact", ctx.px(52))
     tw = d.textlength(text.upper(), font=f)
+    if THEME.get("caption") == "plate":
+        d.rectangle([x, y, x + tw + ctx.px(56), y + ctx.px(80)], fill=(6, 12, 24, 225))
+        d.rectangle([x, y, x + ctx.px(12), y + ctx.px(80)], fill=B["yellow"] + (255,))
+        d.text((x + ctx.px(32), y + ctx.px(9)), text.upper(), font=f, fill=B["white"] + (255,))
+        return im
     d.rectangle([x, y, x + tw + ctx.px(36), y + ctx.px(74)], fill=B["white"] + (255,))
     d.text((x + ctx.px(18), y + ctx.px(6)), text.upper(), font=f, fill=B["black"])
     return im
@@ -278,12 +312,16 @@ def shot_rank(ctx, s, n):
     """Countdown card: big '#N', model name, the model photo in a yellow frame (Ken Burns inside)."""
     pw, ph = int(ctx.W * 0.5), int(ctx.H * 0.62)
     px_, py_ = ctx.W - pw - ctx.px(100), int(ctx.H * 0.17)
+    tx = ctx.px(100)
+    if THEME.get("mirror_rank"):
+        px_, tx = ctx.px(100), ctx.px(100) + pw + ctx.px(90)
     photo = R.load_image(ctx, s["photo"], int(pw * 1.15), int(ph * 1.15), tuple(s.get("focus", (0.5, 0.5)))) \
         if s.get("photo") and os.path.exists(ctx.path(s["photo"])) else None
     tmp = ImageDraw.Draw(Image.new("RGB", (1, 1)))
+    tw_ = 0.34 if THEME.get("mirror_rank") else 0.38
     fnum = font("impact", ctx.px(330))
-    fname, nsize = sized(ctx, tmp, s["name"].upper(), "impact", 108, ctx.W * 0.38)
-    name_lines = wrap(tmp, s["name"].upper(), fname, ctx.W * 0.38)
+    fname, nsize = sized(ctx, tmp, s["name"].upper(), "impact", 108, ctx.W * tw_)
+    name_lines = wrap(tmp, s["name"].upper(), fname, ctx.W * tw_)
     tg = tag(ctx, s["tag"], size=36) if s.get("tag") else None
     fs = font("body", ctx.px(36))
     fc = font("body", ctx.px(20))
@@ -298,7 +336,7 @@ def shot_rank(ctx, s, n):
             cw, ch = photo.width / z / 1.15, photo.height / z / 1.15
             cx, cy = photo.width / 2, photo.height / 2
             ph_im = photo.transform((pw, ph), Image.EXTENT, (cx - cw / 2, cy - ch / 2, cx + cw / 2, cy + ch / 2), Image.BICUBIC)
-            ox = px_ + (1 - k) * ctx.px(200)
+            ox = px_ + (1 - k) * ctx.px(200) * (-1 if THEME.get("mirror_rank") else 1)
             d = ImageDraw.Draw(fr)
             d.rectangle([ox - ctx.px(10), py_ - ctx.px(10), ox + pw + ctx.px(10), py_ + ph + ctx.px(10)], fill=B["yellow"])
             fr.paste(ph_im, (int(round(ox)), py_))
@@ -308,21 +346,21 @@ def shot_rank(ctx, s, n):
                 d.text((ox + pw - cwid - ctx.px(10), py_ + ph - ctx.px(30)), credit, font=fc, fill=(205, 205, 205))
         L = layer(ctx); d = ImageDraw.Draw(L)
         k2 = ease(min(1, i / (ctx.fps * 0.35)))
-        d.text((ctx.px(100) - (1 - k2) * ctx.px(120), py_ - ctx.px(40)), "#%s" % s["num"], font=fnum, fill=fade_col(B["yellow"], k2))
+        d.text((tx - (1 - k2) * ctx.px(120), py_ - ctx.px(40)), "#%s" % s["num"], font=fnum, fill=fade_col(B["yellow"], k2))
         ny = py_ + ctx.px(330)
         for li, line in enumerate(name_lines):
             k3 = ease((i - ctx.fps * (0.25 + li * 0.08)) / (ctx.fps * 0.35))
-            d.text((ctx.px(100), ny + li * int(ctx.px(nsize) * 1.02)), line, font=fname, fill=fade_col(B["white"], k3))
+            d.text((tx, ny + li * int(ctx.px(nsize) * 1.02)), line, font=fname, fill=fade_col(B["white"], k3))
         sy = ny + len(name_lines) * int(ctx.px(nsize) * 1.02) + ctx.px(20)
         if sub:
             k4 = ease((i - ctx.fps * 0.9) / (ctx.fps * 0.4))
             yy = sy + (tg.height + ctx.px(16) if tg is not None else 0)
-            for li, line in enumerate(wrap(d, sub, fs, ctx.W * 0.36)):
-                d.text((ctx.px(100), yy + li * ctx.px(48)), line, font=fs, fill=fade_col(B["white"], k4))
+            for li, line in enumerate(wrap(d, sub, fs, ctx.W * (tw_ - 0.02))):
+                d.text((tx, yy + li * ctx.px(48)), line, font=fs, fill=fade_col(B["white"], k4))
         channel_bug(ctx, d)
         fr = overlay(fr, L)
         if tg is not None:
-            paste_scaled(fr, tg, ctx.px(100) + tg.width / 2, sy + tg.height / 2, pop(i, int(ctx.fps * 0.7), ctx.fps))
+            paste_scaled(fr, tg, tx + tg.width / 2, sy + tg.height / 2, pop(i, int(ctx.fps * 0.7), ctx.fps))
         yield push(ctx, fr, ease(t), 1.0, 1.025)
 
 
@@ -519,7 +557,7 @@ R.SHOTS.update({"image": shot_image, "statement": shot_statement, "title": shot_
 
 # ---------------------------------------------------------------- transitions
 TRANS_CYCLE = ["slide", "zoom", "wipe", "whip", "fade"]
-TRANS_DUR = {"fade": 0.5, "slide": 0.45, "zoom": 0.45, "wipe": 0.5, "whip": 0.35}
+TRANS_DUR = {"fade": 0.5, "slide": 0.45, "zoom": 0.45, "wipe": 0.5, "whip": 0.35, "push": 0.45, "flash": 0.4}
 
 
 def pick_trans(prev_s, s, k):
@@ -531,8 +569,10 @@ def pick_trans(prev_s, s, k):
     if s["type"] == "rank":
         return "wipe"
     if s["type"] in graphics or prev_s["type"] in graphics:
-        return TRANS_CYCLE[k % 4]
-    return ["fade", "slide", "fade", "zoom", "fade", "whip"][k % 6]
+        cyc = THEME.get("cycle", TRANS_CYCLE[:4])
+        return cyc[k % len(cyc)]
+    pc = THEME.get("photo_cycle", ["fade", "slide", "fade", "zoom", "fade", "whip"])
+    return pc[k % len(pc)]
 
 
 def transition(ctx, kind, a, b, t):
@@ -567,6 +607,23 @@ def transition(ctx, kind, a, b, t):
         ImageDraw.Draw(yb).polygon([(x - band, 0), (x, 0), (x - H * 0.35, H), (x - band - H * 0.35, H)], fill=255)
         out.paste(Image.new("RGB", (W, H), B["yellow"]), (0, 0), yb)
         return out
+    if kind == "push":
+        # vertical push: old shot leaves upwards, new shot comes in from below, thin accent line on the seam
+        y = (1 - e) * H
+        out = a.transform((W, H), Image.AFFINE, (1, 0, 0, 0, 1, (H - y)), Image.BICUBIC)
+        bb = b.transform((W, H), Image.AFFINE, (1, 0, 0, 0, 1, -y), Image.BICUBIC)
+        m = Image.new("L", (W, H), 0)
+        ImageDraw.Draw(m).rectangle([0, y, W, H], fill=255)
+        out.paste(bb, (0, 0), m)
+        if 0 < e < 1:
+            ImageDraw.Draw(out).rectangle([0, y - ctx.px(8), W, y], fill=B["yellow"])
+        return out
+    if kind == "flash":
+        # quick bright light-leak flash in the accent colour, cut at the peak (never black)
+        peak = Image.new("RGB", (W, H), tuple(int(c * 0.55 + 255 * 0.45) for c in B["yellow"]))
+        if e < 0.5:
+            return Image.blend(a, peak, (e / 0.5) * 0.85)
+        return Image.blend(b, peak, ((1 - e) / 0.5) * 0.85)
     if kind == "whip":
         # fast horizontal pan with motion blur, cut in the middle
         if e < 0.5:
@@ -595,6 +652,7 @@ def grade_vf(ep):
 
 def render(ep_path, preview=False, seg_shots=16):
     ep = json.load(open(ep_path))
+    apply_theme(ep)
     base = os.path.dirname(os.path.abspath(ep_path))
     W, H = (960, 540) if preview else tuple(ep.get("size", [1920, 1080]))
     fps = ep.get("fps", 24)
@@ -668,6 +726,7 @@ def render(ep_path, preview=False, seg_shots=16):
 # ---------------------------------------------------------------- split render (cloud: one machine per part)
 def _setup(ep_path, preview=False):
     ep = json.load(open(ep_path))
+    apply_theme(ep)
     base = os.path.dirname(os.path.abspath(ep_path))
     W, H = (960, 540) if preview else tuple(ep.get("size", [1920, 1080]))
     ctx = R.Ctx(W, H, ep.get("fps", 24), base)
