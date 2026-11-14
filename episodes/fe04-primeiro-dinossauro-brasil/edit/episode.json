@@ -1,0 +1,3482 @@
+{
+ "output": "FE04_Primeiro_Dinossauro_Brasil.mp4",
+ "fps": 30,
+ "music": [
+  {
+   "file": "musica/tensao.mp3",
+   "start": 0.0,
+   "end": 64.82,
+   "gain": -26,
+   "fade_in": 2.4,
+   "fade_out": 2.4
+  },
+  {
+   "file": "musica/epico.mp3",
+   "start": 62.42,
+   "end": 116.97,
+   "gain": -26,
+   "fade_in": 2.4,
+   "fade_out": 2.4
+  },
+  {
+   "file": "musica/tensao.mp3",
+   "start": 114.57,
+   "end": 182.02,
+   "gain": -26,
+   "fade_in": 2.4,
+   "fade_out": 2.4
+  },
+  {
+   "file": "musica/drama.mp3",
+   "start": 179.62,
+   "end": 247.47,
+   "gain": -26,
+   "fade_in": 2.4,
+   "fade_out": 2.4
+  },
+  {
+   "file": "musica/tensao.mp3",
+   "start": 245.07,
+   "end": 311.64,
+   "gain": -26,
+   "fade_in": 2.4,
+   "fade_out": 2.4
+  },
+  {
+   "file": "musica/epico.mp3",
+   "start": 309.24,
+   "end": 414.93,
+   "gain": -26,
+   "fade_in": 2.4,
+   "fade_out": 2.4
+  },
+  {
+   "file": "musica/tensao.mp3",
+   "start": 412.53,
+   "end": 531.97,
+   "gain": -26,
+   "fade_in": 2.4,
+   "fade_out": 2.4
+  },
+  {
+   "file": "musica/drama.mp3",
+   "start": 529.57,
+   "end": 594.01,
+   "gain": -26,
+   "fade_in": 2.4,
+   "fade_out": 2.4
+  },
+  {
+   "file": "musica/tensao.mp3",
+   "start": 591.61,
+   "end": 644.23,
+   "gain": -26,
+   "fade_in": 2.4,
+   "fade_out": 2.4
+  },
+  {
+   "file": "musica/epico.mp3",
+   "start": 641.83,
+   "end": 661.5,
+   "gain": -26,
+   "fade_in": 2.4,
+   "fade_out": 2.4
+  },
+  {
+   "file": "musica/drama.mp3",
+   "start": 659.1,
+   "end": 726.47,
+   "gain": -26,
+   "fade_in": 2.4,
+   "fade_out": 2.4
+  }
+ ],
+ "chapters": [
+  {
+   "audio": "audio/ch00_hook.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/ai/ai_hook_dig_1.jpg",
+     "move": "in",
+     "dur": 2.66,
+     "fixed": true,
+     "motion": "push"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_rs/5_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.54,
+     "fixed": true,
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_land_09_1.jpg",
+     "move": "left",
+     "dur": 2.6,
+     "fixed": true,
+     "motion": "pan_l",
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_land_13_1.jpg",
+     "move": "out",
+     "dur": 5.14,
+     "fixed": true,
+     "motion": "pull",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "hf/hf01_frase.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "punch",
+     "max_hold": 6.0,
+     "keep": 4.6,
+     "hfcard": {
+      "text": "34 anos sem *resposta.*",
+      "img": "a/ai/ai_land_14_1.jpg",
+      "kind": "frase",
+      "id": "hf01_frase"
+     },
+     "sfx": [
+      {
+       "file": "sfx/impact.wav",
+       "gain": -28,
+       "at": 0.2
+      }
+     ],
+     "dur": 4.36,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_land_15_1.jpg",
+     "move": "in",
+     "dur": 5.36,
+     "fixed": true,
+     "motion": "tilt_up",
+     "leak": true,
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_stauri_run_1.jpg",
+     "move": "up",
+     "dur": 4.37,
+     "fixed": true,
+     "motion": "diag",
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_river/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.95,
+     "fixed": true,
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "hf/hf02_frase.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "punch",
+     "max_hold": 6.0,
+     "keep": 4.6,
+     "hfcard": {
+      "text": "Onde *tudo* começou.",
+      "img": "a/ai/ai_land_01_1.jpg",
+      "kind": "frase",
+      "id": "hf02_frase"
+     },
+     "sfx": [
+      {
+       "file": "sfx/impact.wav",
+       "gain": -28,
+       "at": 0.2
+      }
+     ],
+     "dur": 2.32,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_stauri_hunt_1.jpg",
+     "move": "down",
+     "dur": 3.96,
+     "fixed": true,
+     "motion": "pan_r",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_fauna_01_1.jpg",
+     "move": "in",
+     "dur": 3.62,
+     "fixed": true,
+     "motion": "push",
+     "trans": "flash",
+     "sfx": [
+      {
+       "file": "sfx/impact.wav",
+       "gain": -28,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_crocodile/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.2,
+     "fixed": true,
+     "trans": "fade"
+    },
+    {
+     "type": "video",
+     "src": "hf/hf03_perguntas.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "blur",
+     "max_hold": 9.0,
+     "keep": 8.0,
+     "hfcard": {
+      "img": "a/ai/ai_land_02_1.jpg",
+      "items": [
+       "Como bichos tão pequenos dominaram o planeta?",
+       "Quem era o verdadeiro predador do Sul?",
+       "Que segredo estava escondido nos ossos?"
+      ],
+      "kind": "perguntas",
+      "id": "hf03_perguntas"
+     },
+     "sfx": [
+      {
+       "file": "sfx/riser.wav",
+       "gain": -38,
+       "at": 0
+      }
+     ],
+     "dur": 8.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_river/6_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.48,
+     "fixed": true,
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_b.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "hf/hf04_titulo.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "cut",
+     "max_hold": 7.5,
+     "keep": 6.5,
+     "hfcard": {
+      "kicker": "Era das Feras",
+      "title": "O Primeiro Dinossauro do Brasil",
+      "sub": "Rio Grande do Sul · 233 milhões de anos atrás",
+      "img": "a/ai/ai_stauri_hero_1.jpg",
+      "blurin": true,
+      "kind": "titulo",
+      "id": "hf04_titulo"
+     },
+     "sfx": [
+      {
+       "file": "sfx/riser.wav",
+       "gain": -36,
+       "at": 0
+      },
+      {
+       "file": "sfx/impact.wav",
+       "gain": -28,
+       "at": 0.6
+      }
+     ],
+     "dur": 6.061,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch01.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "hf/hf05_capitulo.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "flash",
+     "max_hold": 6.0,
+     "keep": 4.6,
+     "hfcard": {
+      "num": "01",
+      "title": "O mundo de 233 milhões de anos atrás",
+      "img": "a/ai/ai_land_03_1.jpg",
+      "move": "push",
+      "kind": "capitulo",
+      "id": "hf05_capitulo"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -31,
+       "at": 0
+      },
+      {
+       "file": "sfx/thud.wav",
+       "gain": -27,
+       "at": 0.5
+      }
+     ],
+     "dur": 5.68,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_earth/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 1.98,
+     "fixed": true,
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/p_pangea/3_commons.jpg",
+     "move": "right",
+     "dur": 4.04,
+     "fixed": true,
+     "motion": "focus",
+     "trans": "fade"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_river/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.0,
+     "fixed": true,
+     "trans": "mono",
+     "sfx": [
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -31,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_fossil/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.92,
+     "fixed": true,
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_river/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.96,
+     "fixed": true,
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_land_04_1.jpg",
+     "move": "in",
+     "dur": 3.0,
+     "fixed": true,
+     "motion": "tilt_down",
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_land_05_1.jpg",
+     "move": "up",
+     "dur": 3.56,
+     "fixed": true,
+     "motion": "pull",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_land_07_1.jpg",
+     "move": "out",
+     "dur": 5.02,
+     "fixed": true,
+     "motion": "pan_l",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_land_21_1.jpg",
+     "move": "down",
+     "dur": 4.78,
+     "fixed": true,
+     "motion": "diag",
+     "trans": "fade"
+    },
+    {
+     "type": "video",
+     "src": "hf/hf06_frase.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "punch",
+     "max_hold": 6.0,
+     "keep": 4.6,
+     "hfcard": {
+      "text": "Os dinossauros *não mandavam.*",
+      "img": "a/ai/ai_land_26_1.jpg",
+      "kind": "frase",
+      "id": "hf06_frase"
+     },
+     "sfx": [
+      {
+       "file": "sfx/impact.wav",
+       "gain": -28,
+       "at": 0.2
+      }
+     ],
+     "dur": 5.56,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_fauna_02_1.jpg",
+     "move": "left",
+     "dur": 2.06,
+     "fixed": true,
+     "motion": "push",
+     "leak": true,
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_fauna_03_1.jpg",
+     "move": "out",
+     "dur": 5.586,
+     "fixed": false,
+     "motion": "pan_l",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch02.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "hf/hf07_capitulo.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "flash",
+     "max_hold": 6.0,
+     "keep": 4.6,
+     "hfcard": {
+      "num": "02",
+      "title": "Os donos do Triássico",
+      "img": "a/p_hyper/2_commons.jpg",
+      "move": "push",
+      "kind": "capitulo",
+      "id": "hf07_capitulo"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -31,
+       "at": 0
+      },
+      {
+       "file": "sfx/thud.wav",
+       "gain": -27,
+       "at": 0.5
+      }
+     ],
+     "dur": 2.46,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "hf/hf08_rotulo.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "fade",
+     "max_hold": 6.0,
+     "keep": 4.6,
+     "hfcard": {
+      "img": "a/ai/ai_hyper_herd_1.jpg",
+      "kicker": "O animal mais comum",
+      "name": "Hiperodápedon",
+      "sci": "Hyperodapedon · rincossauro",
+      "kind": "rotulo",
+      "id": "hf08_rotulo"
+     },
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0.3
+      }
+     ],
+     "dur": 4.115,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_lizard/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.425,
+     "fixed": true,
+     "trans": "flash",
+     "sfx": [
+      {
+       "file": "sfx/reverse.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_lizard/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.02,
+     "fixed": true,
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/p_hyper/3_commons.jpg",
+     "move": "in",
+     "dur": 1.72,
+     "fixed": true,
+     "motion": "pull",
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_b.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "hf/hf09_rotulo.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "fade",
+     "max_hold": 6.0,
+     "keep": 4.6,
+     "hfcard": {
+      "img": "a/ai/ai_fauna_16_1.jpg",
+      "kicker": "Parentes dos mamíferos",
+      "name": "Cinodontes",
+      "side": "right",
+      "kind": "rotulo",
+      "id": "hf09_rotulo"
+     },
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0.3
+      }
+     ],
+     "dur": 4.6,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_forest/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.64,
+     "fixed": true,
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_lizard/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.22,
+     "fixed": true,
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_lizard/6_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.98,
+     "fixed": true,
+     "trans": "mono",
+     "sfx": [
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -31,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_presto_jaws_1.jpg",
+     "move": "out",
+     "dur": 3.48,
+     "fixed": true,
+     "motion": "tilt_up",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "hf/hf10_rotulo.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "fade",
+     "max_hold": 6.0,
+     "keep": 4.6,
+     "hfcard": {
+      "img": "a/ai/ai_presto_hero_1.jpg",
+      "kicker": "O terror do Triássico",
+      "name": "Prestossuco",
+      "sci": "Prestosuchus chiniquensis · até 7 m",
+      "kind": "rotulo",
+      "id": "hf10_rotulo"
+     },
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0.3
+      }
+     ],
+     "dur": 4.6,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_fern/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.76,
+     "fixed": true,
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_stauri_vs_presto_1.jpg",
+     "move": "down",
+     "dur": 4.0,
+     "fixed": true,
+     "motion": "diag",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_fern/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.58,
+     "fixed": true,
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_crocodile/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.84,
+     "fixed": true,
+     "trans": "fade"
+    },
+    {
+     "type": "video",
+     "src": "hf/hf11_escala.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "blur",
+     "max_hold": 8.0,
+     "keep": 6.5,
+     "hfcard": {
+      "kicker": "Comparação de tamanho",
+      "title": "Quem era maior?",
+      "rows": [
+       [
+        "Humano",
+        1.75,
+        "h"
+       ],
+       [
+        "Estauricossauro",
+        2.1
+       ],
+       [
+        "Prestossuco",
+        7
+       ]
+      ],
+      "kind": "escala",
+      "id": "hf11_escala"
+     },
+     "sfx": [
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.9
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 1.45
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 2.0
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 2.55
+      }
+     ],
+     "dur": 5.6,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "hf/hf12_frase.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "punch",
+     "max_hold": 6.0,
+     "keep": 4.6,
+     "hfcard": {
+      "text": "Muitas vezes, você era a *caça.*",
+      "img": "a/ai/ai_fauna_10_1.jpg",
+      "kind": "frase",
+      "id": "hf12_frase"
+     },
+     "sfx": [
+      {
+       "file": "sfx/impact.wav",
+       "gain": -28,
+       "at": 0.2
+      }
+     ],
+     "dur": 3.016,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch03.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "hf/hf13_capitulo.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "flash",
+     "max_hold": 6.0,
+     "keep": 4.6,
+     "hfcard": {
+      "num": "03",
+      "title": "Os ossos de Santa Maria",
+      "img": "a/ai/ai_land_24_1.jpg",
+      "move": "push",
+      "kind": "capitulo",
+      "id": "hf13_capitulo"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -31,
+       "at": 0
+      },
+      {
+       "file": "sfx/thud.wav",
+       "gain": -27,
+       "at": 0.5
+      }
+     ],
+     "dur": 5.34,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_fossil_dig/1_commons.jpg",
+     "move": "out",
+     "dur": 4.0,
+     "fixed": true,
+     "motion": "pan_r",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_fern/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.86,
+     "fixed": true,
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "hf/hf14_mapa.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "blur",
+     "max_hold": 9.0,
+     "keep": 7.5,
+     "hfcard": {
+      "kicker": "Onde foi achado",
+      "title": "Santa Maria · RS",
+      "sub": "Região central do Rio Grande do Sul, um dos lugares com dinossauros mais antigos do mundo",
+      "lon": -53.81,
+      "lat": -29.69,
+      "kind": "mapa",
+      "id": "hf14_mapa"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -36,
+       "at": 0.1
+      },
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 2.0
+      },
+      {
+       "file": "sfx/impact.wav",
+       "gain": -30,
+       "at": 3.6
+      }
+     ],
+     "dur": 7.34,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_land_16_1.jpg",
+     "move": "right",
+     "dur": 4.24,
+     "fixed": true,
+     "motion": "push",
+     "trans": "flash",
+     "sfx": [
+      {
+       "file": "sfx/impact.wav",
+       "gain": -28,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/p_fossil_museum/1_commons.jpg",
+     "move": "in",
+     "dur": 5.153,
+     "fixed": true,
+     "motion": "focus",
+     "trans": "fade"
+    },
+    {
+     "type": "video",
+     "src": "hf/hf15_rotulo.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "fade",
+     "max_hold": 6.0,
+     "keep": 4.6,
+     "hfcard": {
+      "img": "a/p_colbert/1_commons.jpg",
+      "kicker": "Paleontólogo americano",
+      "name": "Edwin Colbert",
+      "sci": "Estudou os ossos em 1970",
+      "kind": "rotulo",
+      "id": "hf15_rotulo"
+     },
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0.3
+      }
+     ],
+     "dur": 4.6,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_desert/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.227,
+     "fixed": true,
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_b.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_fauna_04_1.jpg",
+     "move": "up",
+     "dur": 2.08,
+     "fixed": true,
+     "motion": "tilt_down",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_fauna_05_1.jpg",
+     "move": "out",
+     "dur": 3.86,
+     "fixed": true,
+     "motion": "pull",
+     "leak": true,
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "hf/hf16_rotulo.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "fade",
+     "max_hold": 6.0,
+     "keep": 4.6,
+     "hfcard": {
+      "img": "a/ai/ai_land_12_1.jpg",
+      "kicker": "Lagarto do Cruzeiro do Sul",
+      "name": "Estauricossauro",
+      "sci": "Staurikosaurus pricei · 1970",
+      "kind": "rotulo",
+      "id": "hf16_rotulo"
+     },
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0.3
+      }
+     ],
+     "dur": 4.6,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_desert/6_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.4,
+     "fixed": true,
+     "trans": "mono",
+     "sfx": [
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -31,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/p_fossil_dig/2_unsplash.jpg",
+     "move": "in",
+     "dur": 4.55,
+     "fixed": true,
+     "motion": "pan_l",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "hf/hf17_frase.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "punch",
+     "max_hold": 6.0,
+     "keep": 4.6,
+     "hfcard": {
+      "text": "Batizado com o nome de uma *estrela.*",
+      "img": "a/p_cruzeiro/1_pixabay.jpg",
+      "kind": "frase",
+      "id": "hf17_frase"
+     },
+     "sfx": [
+      {
+       "file": "sfx/impact.wav",
+       "gain": -28,
+       "at": 0.2
+      }
+     ],
+     "dur": 5.01,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_fossil_museum/3_pixabay.jpg",
+     "move": "out",
+     "dur": 4.191,
+     "fixed": false,
+     "motion": "diag",
+     "trans": "fade"
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch04.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "hf/hf18_capitulo.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "flash",
+     "max_hold": 6.0,
+     "keep": 4.6,
+     "hfcard": {
+      "num": "04",
+      "title": "O caçador do Cruzeiro do Sul",
+      "img": "a/ai/ai_fauna_06_1.jpg",
+      "move": "push",
+      "kind": "capitulo",
+      "id": "hf18_capitulo"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -31,
+       "at": 0
+      },
+      {
+       "file": "sfx/thud.wav",
+       "gain": -27,
+       "at": 0.5
+      }
+     ],
+     "dur": 2.74,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "hf/hf19_ficha.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "slide",
+     "max_hold": 8.5,
+     "keep": 7.0,
+     "hfcard": {
+      "img": "a/ai/ai_fauna_07_1.jpg",
+      "kicker": "Ficha",
+      "name": "Estauricossauro",
+      "sci": "Staurikosaurus pricei",
+      "rows": [
+       [
+        "Comprimento",
+        "~2 m"
+       ],
+       [
+        "Peso",
+        "~30 kg"
+       ],
+       [
+        "Viveu",
+        "233 mi de anos"
+       ],
+       [
+        "Achado",
+        "Santa Maria, RS"
+       ]
+      ],
+      "source": "Estimativas: Colbert (1970) e estudos posteriores",
+      "kind": "ficha",
+      "id": "hf19_ficha"
+     },
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -33,
+       "at": 0.1
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 1.1
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 1.45
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 1.8
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 2.15
+      }
+     ],
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_earth/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.88,
+     "fixed": true,
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_fauna_08_1.jpg",
+     "move": "up",
+     "dur": 5.58,
+     "fixed": true,
+     "motion": "push",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/p_stauri/1_commons.jpg",
+     "move": "out",
+     "dur": 4.0,
+     "fixed": true,
+     "motion": "pan_l",
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_more_st_05_1.jpg",
+     "move": "down",
+     "dur": 3.16,
+     "fixed": true,
+     "motion": "pull",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_more2_st_01_1.jpg",
+     "move": "down",
+     "dur": 1.9,
+     "fixed": true,
+     "motion": "tilt_up",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_more2_st_02_1.jpg",
+     "move": "in",
+     "dur": 5.04,
+     "fixed": true,
+     "motion": "diag",
+     "trans": "flash",
+     "sfx": [
+      {
+       "file": "sfx/reverse.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_more2_st_04_1.jpg",
+     "move": "left",
+     "dur": 4.4,
+     "fixed": true,
+     "motion": "pan_r",
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "hf/hf20_comparar.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "fade",
+     "max_hold": 7.0,
+     "keep": 6.0,
+     "hfcard": {
+      "limg": "a/p_herrera/1_commons.jpg",
+      "rimg": "a/ai/ai_stauri_portrait_1.jpg",
+      "lkick": "Parente próximo",
+      "lname": "Herrerassauro",
+      "rkick": "Reconstrução",
+      "rname": "Estauricossauro",
+      "kind": "comparar",
+      "id": "hf20_comparar"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh_b.wav",
+       "gain": -33,
+       "at": 1.0
+      }
+     ],
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_more_st_06_1.jpg",
+     "move": "in",
+     "dur": 4.0,
+     "fixed": true,
+     "motion": "push",
+     "leak": true,
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_more_st_07_1.jpg",
+     "move": "left",
+     "dur": 4.08,
+     "fixed": true,
+     "motion": "focus",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_more2_st_05_1.jpg",
+     "move": "out",
+     "dur": 3.16,
+     "fixed": true,
+     "motion": "tilt_down",
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_gnatho_hunt_1.jpg",
+     "move": "right",
+     "dur": 4.0,
+     "fixed": true,
+     "motion": "pull",
+     "trans": "mono",
+     "sfx": [
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -31,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_more_st_09_1.jpg",
+     "move": "out",
+     "dur": 3.223,
+     "fixed": false,
+     "motion": "pan_l",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch05.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "hf/hf21_cta.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "zoom",
+     "max_hold": 6.5,
+     "keep": 5.0,
+     "hfcard": {
+      "img": "a/ai/ai_fauna_35_1.jpg",
+      "text": "Está curtindo a história?",
+      "sub": "Deixa o like e se inscreve no canal",
+      "kind": "cta",
+      "id": "hf21_cta"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -30,
+       "at": 0.2
+      },
+      {
+       "file": "sfx/bell.wav",
+       "gain": -31,
+       "at": 1.9
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_more_sa_02_1.jpg",
+     "move": "right",
+     "dur": 4.0,
+     "fixed": true,
+     "motion": "diag",
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_more_sa_03_1.jpg",
+     "move": "in",
+     "dur": 4.16,
+     "fixed": true,
+     "motion": "push",
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_b.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_saturnalia_1.jpg",
+     "move": "up",
+     "dur": 3.52,
+     "fixed": true,
+     "motion": "pan_l",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_fauna_22_1.jpg",
+     "move": "out",
+     "dur": 4.0,
+     "fixed": true,
+     "motion": "pull",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_more2_bu_01_1.jpg",
+     "move": "up",
+     "dur": 3.36,
+     "fixed": true,
+     "motion": "tilt_up",
+     "leak": true,
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "hf/hf22_rotulo.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "fade",
+     "max_hold": 6.0,
+     "keep": 4.6,
+     "hfcard": {
+      "img": "a/ai/ai_fauna_23_1.jpg",
+      "kicker": "Achado no carnaval de 1999",
+      "name": "Saturnália",
+      "sci": "Saturnalia tupiniquim",
+      "kind": "rotulo",
+      "id": "hf22_rotulo"
+     },
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0.3
+      }
+     ],
+     "dur": 1.4,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_saturnalia/1_commons.jpg",
+     "move": "in",
+     "dur": 5.59,
+     "fixed": true,
+     "motion": "diag",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_fauna_29_1.jpg",
+     "move": "left",
+     "dur": 5.21,
+     "fixed": true,
+     "motion": "pan_r",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_fauna_30_1.jpg",
+     "move": "out",
+     "dur": 5.32,
+     "fixed": true,
+     "motion": "push",
+     "trans": "flash",
+     "sfx": [
+      {
+       "file": "sfx/impact.wav",
+       "gain": -28,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "hf/hf23_frase.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "punch",
+     "max_hold": 6.0,
+     "keep": 4.6,
+     "hfcard": {
+      "text": "Os maiores começaram do tamanho de um *cachorro.*",
+      "img": "a/ai/ai_more_sa_01_1.jpg",
+      "kind": "frase",
+      "id": "hf23_frase"
+     },
+     "sfx": [
+      {
+       "file": "sfx/impact.wav",
+       "gain": -28,
+       "at": 0.2
+      }
+     ],
+     "dur": 4.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_more_bu_02_1.jpg",
+     "move": "out",
+     "dur": 4.773,
+     "fixed": false,
+     "motion": "focus",
+     "trans": "fade"
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch06.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "hf/hf24_capitulo.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "flash",
+     "max_hold": 6.0,
+     "keep": 4.6,
+     "hfcard": {
+      "num": "05",
+      "title": "O ancestral carnívoro",
+      "img": "a/ai/ai_buriolestes_1.jpg",
+      "move": "push",
+      "kind": "capitulo",
+      "id": "hf24_capitulo"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -31,
+       "at": 0
+      },
+      {
+       "file": "sfx/thud.wav",
+       "gain": -27,
+       "at": 0.5
+      }
+     ],
+     "dur": 5.62,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_road/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.6,
+     "fixed": true,
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "hf/hf25_rotulo.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "fade",
+     "max_hold": 6.0,
+     "keep": 4.6,
+     "hfcard": {
+      "img": "a/ai/ai_fauna_24_1.jpg",
+      "kicker": "São João do Polêsine · 2016",
+      "name": "Buriolestes",
+      "sci": "Buriolestes schultzi",
+      "kind": "rotulo",
+      "id": "hf25_rotulo"
+     },
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0.3
+      }
+     ],
+     "dur": 2.39,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_fauna_26_1.jpg",
+     "move": "out",
+     "dur": 6.47,
+     "fixed": true,
+     "motion": "tilt_down",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/p_buriolestes/1_commons.jpg",
+     "move": "down",
+     "dur": 5.72,
+     "fixed": true,
+     "motion": "pull",
+     "trans": "fade"
+    },
+    {
+     "type": "video",
+     "src": "hf/hf26_frase.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "punch",
+     "max_hold": 6.0,
+     "keep": 4.6,
+     "hfcard": {
+      "text": "Ele era *carnívoro.*",
+      "img": "a/p_buriolestes/2_commons.jpg",
+      "kind": "frase",
+      "id": "hf26_frase"
+     },
+     "sfx": [
+      {
+       "file": "sfx/impact.wav",
+       "gain": -28,
+       "at": 0.2
+      }
+     ],
+     "dur": 1.54,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_fauna_31_1.jpg",
+     "move": "left",
+     "dur": 4.0,
+     "fixed": true,
+     "motion": "pan_l",
+     "trans": "mono",
+     "sfx": [
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -31,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_more_bu_03_1.jpg",
+     "move": "down",
+     "dur": 2.56,
+     "fixed": true,
+     "motion": "diag",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_fauna_32_1.jpg",
+     "move": "out",
+     "dur": 4.0,
+     "fixed": true,
+     "motion": "push",
+     "leak": true,
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_more_bu_04_1.jpg",
+     "move": "in",
+     "dur": 3.28,
+     "fixed": true,
+     "motion": "pan_l",
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_b.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "hf/hf27_rotulo.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "fade",
+     "max_hold": 6.0,
+     "keep": 4.6,
+     "hfcard": {
+      "img": "a/p_ixalerpeton/1_commons.jpg",
+      "kicker": "Primo dos pterossauros",
+      "name": "Ixalérpeton",
+      "sci": "Ixalerpeton polesinensis",
+      "side": "right",
+      "kind": "rotulo",
+      "id": "hf27_rotulo"
+     },
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0.3
+      }
+     ],
+     "dur": 4.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_more_bu_05_1.jpg",
+     "move": "left",
+     "dur": 4.0,
+     "fixed": true,
+     "motion": "pull",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/p_buriolestes/3_commons.jpg",
+     "move": "right",
+     "dur": 5.584,
+     "fixed": false,
+     "motion": "tilt_up",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch07.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "hf/hf28_capitulo.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "flash",
+     "max_hold": 6.0,
+     "keep": 4.6,
+     "hfcard": {
+      "num": "06",
+      "title": "Mandíbula voraz",
+      "img": "a/ai/ai_fauna_19_1.jpg",
+      "move": "push",
+      "kind": "capitulo",
+      "id": "hf28_capitulo"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -31,
+       "at": 0
+      },
+      {
+       "file": "sfx/thud.wav",
+       "gain": -27,
+       "at": 0.5
+      }
+     ],
+     "dur": 4.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_more_gn_01_1.jpg",
+     "move": "out",
+     "dur": 5.7,
+     "fixed": true,
+     "motion": "diag",
+     "trans": "fade"
+    },
+    {
+     "type": "video",
+     "src": "hf/hf29_ficha.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "slide",
+     "max_hold": 8.5,
+     "keep": 7.0,
+     "hfcard": {
+      "img": "a/ai/ai_gnatho_hero_1.jpg",
+      "kicker": "Ficha",
+      "name": "Gnatovórax",
+      "sci": "Gnathovorax cabreirai",
+      "rows": [
+       [
+        "Comprimento",
+        "~3 m"
+       ],
+       [
+        "Apresentado",
+        "2019"
+       ],
+       [
+        "Achado",
+        "São João do Polêsine, RS"
+       ],
+       [
+        "Destaque",
+        "crânio completo"
+       ]
+      ],
+      "kind": "ficha",
+      "id": "hf29_ficha"
+     },
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -33,
+       "at": 0.1
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 1.1
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 1.45
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 1.8
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 2.15
+      }
+     ],
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_more_gn_02_1.jpg",
+     "move": "right",
+     "dur": 2.14,
+     "fixed": true,
+     "motion": "pan_r",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_fauna_20_1.jpg",
+     "move": "up",
+     "dur": 5.9,
+     "fixed": true,
+     "motion": "push",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_fauna_21_1.jpg",
+     "move": "out",
+     "dur": 3.38,
+     "fixed": true,
+     "motion": "focus",
+     "trans": "flash",
+     "sfx": [
+      {
+       "file": "sfx/reverse.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/p_gnatho/1_commons.jpg",
+     "move": "down",
+     "dur": 5.68,
+     "fixed": true,
+     "motion": "tilt_down",
+     "trans": "fade"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_microscope/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.92,
+     "fixed": true,
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_microscope/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.36,
+     "fixed": true,
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/p_gnatho/2_commons.jpg",
+     "move": "in",
+     "dur": 5.92,
+     "fixed": true,
+     "motion": "pull",
+     "leak": true,
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_more2_gn_02_1.jpg",
+     "move": "left",
+     "dur": 4.0,
+     "fixed": true,
+     "motion": "pan_l",
+     "trans": "mono",
+     "sfx": [
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -31,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_more_gn_03_1.jpg",
+     "move": "in",
+     "dur": 5.133,
+     "fixed": false,
+     "motion": "diag",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch08.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "hf/hf30_capitulo.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "flash",
+     "max_hold": 6.0,
+     "keep": 4.6,
+     "hfcard": {
+      "num": "07",
+      "title": "O primeiro pescoço longo",
+      "img": "a/ai/ai_macro_neck_1.jpg",
+      "move": "push",
+      "kind": "capitulo",
+      "id": "hf30_capitulo"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -31,
+       "at": 0
+      },
+      {
+       "file": "sfx/thud.wav",
+       "gain": -27,
+       "at": 0.5
+      }
+     ],
+     "dur": 4.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_more_ma_01_1.jpg",
+     "move": "up",
+     "dur": 1.64,
+     "fixed": true,
+     "motion": "push",
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_fauna_27_1.jpg",
+     "move": "right",
+     "dur": 6.24,
+     "fixed": true,
+     "motion": "pan_l",
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_b.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "hf/hf31_rotulo.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "fade",
+     "max_hold": 6.0,
+     "keep": 4.6,
+     "hfcard": {
+      "img": "a/ai/ai_macro_trio_1.jpg",
+      "kicker": "Agudo, RS · 2018",
+      "name": "Macrocolo",
+      "sci": "Macrocollum itaquii · ~3,5 m",
+      "kind": "rotulo",
+      "id": "hf31_rotulo"
+     },
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0.3
+      }
+     ],
+     "dur": 4.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_more_ma_02_1.jpg",
+     "move": "out",
+     "dur": 4.3,
+     "fixed": true,
+     "motion": "pull",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "hf/hf32_numero.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "blur",
+     "max_hold": 7.0,
+     "keep": 5.5,
+     "hfcard": {
+      "img": "a/ai/ai_fauna_28_1.jpg",
+      "value": 225,
+      "unit": "milhões de anos",
+      "label": "o dinossauro de pescoço longo mais antigo já encontrado",
+      "kind": "numero",
+      "id": "hf32_numero"
+     },
+     "sfx": [
+      {
+       "file": "sfx/riser.wav",
+       "gain": -38,
+       "at": 0
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.4
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.8
+      },
+      {
+       "file": "sfx/impact.wav",
+       "gain": -30,
+       "at": 1.6
+      }
+     ],
+     "dur": 5.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_more_ma_04_1.jpg",
+     "move": "down",
+     "dur": 3.86,
+     "fixed": true,
+     "motion": "tilt_up",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/p_sauropod_mount/1_commons.jpg",
+     "move": "up",
+     "dur": 4.66,
+     "fixed": true,
+     "motion": "diag",
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_land_25_1.jpg",
+     "move": "out",
+     "dur": 4.0,
+     "fixed": true,
+     "motion": "pan_r",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_more_ma_05_1.jpg",
+     "move": "in",
+     "dur": 2.96,
+     "fixed": true,
+     "motion": "push",
+     "leak": true,
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_more2_ma_01_1.jpg",
+     "move": "down",
+     "dur": 4.0,
+     "fixed": true,
+     "motion": "focus",
+     "trans": "flash",
+     "sfx": [
+      {
+       "file": "sfx/impact.wav",
+       "gain": -28,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/p_araucaria/1_commons.jpg",
+     "move": "left",
+     "dur": 2.98,
+     "fixed": true,
+     "motion": "tilt_down",
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "hf/hf33_frase.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "punch",
+     "max_hold": 6.0,
+     "keep": 4.6,
+     "hfcard": {
+      "text": "Os mais antigos do *mundo?*",
+      "img": "a/p_horsetail/2_unsplash.jpg",
+      "kind": "frase",
+      "id": "hf33_frase"
+     },
+     "sfx": [
+      {
+       "file": "sfx/impact.wav",
+       "gain": -28,
+       "at": 0.2
+      }
+     ],
+     "dur": 4.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_trex/2_unsplash.jpg",
+     "move": "out",
+     "dur": 3.365,
+     "fixed": false,
+     "motion": "pull",
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch09.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "hf/hf34_capitulo.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "flash",
+     "max_hold": 6.0,
+     "keep": 4.6,
+     "hfcard": {
+      "num": "08",
+      "title": "Os mais antigos do mundo?",
+      "img": "a/p_fossil_dig/3_pixabay.jpg",
+      "move": "push",
+      "kind": "capitulo",
+      "id": "hf34_capitulo"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -31,
+       "at": 0
+      },
+      {
+       "file": "sfx/thud.wav",
+       "gain": -27,
+       "at": 0.5
+      }
+     ],
+     "dur": 4.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_herrera/3_commons.jpg",
+     "move": "right",
+     "dur": 2.14,
+     "fixed": true,
+     "motion": "pan_l",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_land_17_1.jpg",
+     "move": "out",
+     "dur": 4.0,
+     "fixed": true,
+     "motion": "diag",
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/p_eoraptor/1_commons.jpg",
+     "move": "in",
+     "dur": 3.36,
+     "fixed": true,
+     "motion": "push",
+     "trans": "mono",
+     "sfx": [
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -31,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_land_22_1.jpg",
+     "move": "right",
+     "dur": 3.22,
+     "fixed": true,
+     "motion": "pan_l",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "hf/hf35_numero.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "blur",
+     "max_hold": 7.0,
+     "keep": 5.5,
+     "hfcard": {
+      "img": "a/p_red_rock/2_unsplash.jpg",
+      "value": 233,
+      "unit": "milhões de anos",
+      "label": "idade das rochas dos primeiros dinossauros gaúchos",
+      "kind": "numero",
+      "id": "hf35_numero"
+     },
+     "sfx": [
+      {
+       "file": "sfx/riser.wav",
+       "gain": -38,
+       "at": 0
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.4
+      },
+      {
+       "file": "sfx/tick.wav",
+       "gain": -31,
+       "at": 0.8
+      },
+      {
+       "file": "sfx/impact.wav",
+       "gain": -30,
+       "at": 1.6
+      }
+     ],
+     "dur": 5.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_eoraptor/3_commons.jpg",
+     "move": "up",
+     "dur": 2.65,
+     "fixed": true,
+     "motion": "pull",
+     "trans": "fade"
+    },
+    {
+     "type": "video",
+     "src": "hf/hf36_linha.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "blur",
+     "max_hold": 8.0,
+     "keep": 6.5,
+     "hfcard": {
+      "kicker": "Linha do tempo",
+      "title": "Entre os primeiros do planeta",
+      "ma": 233,
+      "label": "233 milhões de anos",
+      "sub": "Rio Grande do Sul · Triássico",
+      "kind": "linha",
+      "id": "hf36_linha"
+     },
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0.6
+      },
+      {
+       "file": "sfx/thud.wav",
+       "gain": -27,
+       "at": 2.0
+      }
+     ],
+     "dur": 7.05,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_fauna_33_1.jpg",
+     "move": "up",
+     "dur": 4.98,
+     "fixed": true,
+     "motion": "tilt_up",
+     "leak": true,
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_b.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_fauna_34_1.jpg",
+     "move": "out",
+     "dur": 2.58,
+     "fixed": true,
+     "motion": "diag",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "hf/hf37_rotulo.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "fade",
+     "max_hold": 6.0,
+     "keep": 4.6,
+     "hfcard": {
+      "img": "a/p_nyasa/1_commons.jpg",
+      "kicker": "Tanzânia · candidato",
+      "name": "Niassassauro",
+      "sci": "Nyasasaurus parringtoni",
+      "kind": "rotulo",
+      "id": "hf37_rotulo"
+     },
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0.3
+      }
+     ],
+     "dur": 4.86,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_herrera/2_commons.jpg",
+     "move": "down",
+     "dur": 4.0,
+     "fixed": true,
+     "motion": "pan_r",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/p_ischigualasto/2_pixabay.jpg",
+     "move": "out",
+     "dur": 3.86,
+     "fixed": true,
+     "motion": "push",
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_more2_st_06_1.jpg",
+     "move": "in",
+     "dur": 4.46,
+     "fixed": true,
+     "motion": "focus",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_road/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.78,
+     "fixed": false,
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch10.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "hf/hf38_capitulo.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "flash",
+     "max_hold": 6.0,
+     "keep": 4.6,
+     "hfcard": {
+      "num": "09",
+      "title": "Como eles venceram",
+      "img": "a/p_horsetail/3_pixabay.jpg",
+      "move": "push",
+      "kind": "capitulo",
+      "id": "hf38_capitulo"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -31,
+       "at": 0
+      },
+      {
+       "file": "sfx/thud.wav",
+       "gain": -27,
+       "at": 0.5
+      }
+     ],
+     "dur": 4.6,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_volcano/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.74,
+     "fixed": true,
+     "trans": "fade"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_flood/5_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.0,
+     "fixed": true,
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_volcano/5_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.0,
+     "fixed": true,
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_volcano/8_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.1,
+     "fixed": true,
+     "trans": "fade"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_flood/6_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.5,
+     "fixed": true,
+     "trans": "mono",
+     "sfx": [
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -31,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_river/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.38,
+     "fixed": true,
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_more2_st_07_1.jpg",
+     "move": "out",
+     "dur": 4.0,
+     "fixed": true,
+     "motion": "tilt_down",
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_lava/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.54,
+     "fixed": true,
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_b.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_volcano/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.68,
+     "fixed": true,
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_volcano/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.2,
+     "fixed": true,
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_volcano/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.4,
+     "fixed": true,
+     "trans": "fade"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_crocodile/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.96,
+     "fixed": true,
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "hf/hf39_frase.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "punch",
+     "max_hold": 6.0,
+     "keep": 4.6,
+     "hfcard": {
+      "text": "E os dinossauros *sobreviveram.*",
+      "img": "a/ai/ai_more2_st_08_1.jpg",
+      "kind": "frase",
+      "id": "hf39_frase"
+     },
+     "sfx": [
+      {
+       "file": "sfx/impact.wav",
+       "gain": -28,
+       "at": 0.2
+      }
+     ],
+     "dur": 1.607,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_sauropod_mount/2_unsplash.jpg",
+     "move": "in",
+     "dur": 4.0,
+     "fixed": true,
+     "motion": "pull",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_lava/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.513,
+     "fixed": true,
+     "trans": "flash",
+     "sfx": [
+      {
+       "file": "sfx/reverse.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "hf/hf40_rotulo.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "fade",
+     "max_hold": 6.0,
+     "keep": 4.6,
+     "hfcard": {
+      "img": "a/ai/ai_dino_takeover_1.jpg",
+      "kicker": "Mais de 130 milhões de anos",
+      "name": "A era dos dinossauros",
+      "kind": "rotulo",
+      "id": "hf40_rotulo"
+     },
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0.3
+      }
+     ],
+     "dur": 4.6,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_lava/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 1.666,
+     "fixed": false,
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch11.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "hf/hf41_capitulo.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "flash",
+     "max_hold": 6.0,
+     "keep": 4.6,
+     "hfcard": {
+      "num": "10",
+      "title": "O segredo nos ossos",
+      "img": "a/ai/ai_more_st_01_1.jpg",
+      "move": "push",
+      "kind": "capitulo",
+      "id": "hf41_capitulo"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -31,
+       "at": 0
+      },
+      {
+       "file": "sfx/thud.wav",
+       "gain": -27,
+       "at": 0.5
+      }
+     ],
+     "dur": 5.56,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_trex/1_commons.jpg",
+     "move": "out",
+     "dur": 3.7,
+     "fixed": true,
+     "motion": "pan_l",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_more_st_02_1.jpg",
+     "move": "down",
+     "dur": 5.84,
+     "fixed": true,
+     "motion": "diag",
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_land_10_1.jpg",
+     "move": "in",
+     "dur": 2.42,
+     "fixed": true,
+     "motion": "push",
+     "leak": true,
+     "trans": "mono",
+     "sfx": [
+      {
+       "file": "sfx/shutter.wav",
+       "gain": -31,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "hf/hf42_rotulo.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "fade",
+     "max_hold": 6.0,
+     "keep": 4.6,
+     "hfcard": {
+      "img": "a/p_rs_landscape/2_unsplash.jpg",
+      "kicker": "Geoparque mundial da UNESCO",
+      "name": "Quarta Colônia",
+      "sci": "Região central do Rio Grande do Sul",
+      "kind": "rotulo",
+      "id": "hf42_rotulo"
+     },
+     "sfx": [
+      {
+       "file": "sfx/swipe.wav",
+       "gain": -35,
+       "at": 0.3
+      }
+     ],
+     "dur": 4.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_ufsm/1_commons.jpg",
+     "move": "down",
+     "dur": 2.76,
+     "fixed": true,
+     "motion": "pan_l",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_land_11_1.jpg",
+     "move": "left",
+     "dur": 4.0,
+     "fixed": true,
+     "motion": "pull",
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/p_paleorrota/1_commons.jpg",
+     "move": "in",
+     "dur": 4.0,
+     "fixed": true,
+     "motion": "tilt_up",
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_b.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/p_paleorrota/2_commons.jpg",
+     "move": "left",
+     "dur": 4.06,
+     "fixed": true,
+     "motion": "diag",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_low.wav",
+       "gain": -32,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_more_dig_01_1.jpg",
+     "move": "out",
+     "dur": 4.0,
+     "fixed": true,
+     "motion": "pan_r",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/p_agudo/2_unsplash.jpg",
+     "move": "out",
+     "dur": 3.46,
+     "fixed": true,
+     "motion": "push",
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_more_dig_02_1.jpg",
+     "move": "right",
+     "dur": 3.78,
+     "fixed": true,
+     "motion": "focus",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -34,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_more_st_03_1.jpg",
+     "move": "in",
+     "dur": 4.82,
+     "fixed": true,
+     "motion": "tilt_down",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/whoosh_c.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/p_rs_landscape/3_pixabay.jpg",
+     "move": "up",
+     "dur": 5.94,
+     "fixed": true,
+     "motion": "pull",
+     "leak": true,
+     "trans": "flash",
+     "sfx": [
+      {
+       "file": "sfx/impact.wav",
+       "gain": -28,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "hf/hf43_cta.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "zoom",
+     "max_hold": 6.5,
+     "keep": 5.0,
+     "hfcard": {
+      "img": "a/ai/ai_more_st_04_1.jpg",
+      "text": "Obrigado por assistir",
+      "sub": "Deixa o like e se inscreve no Era das Feras",
+      "kind": "cta",
+      "id": "hf43_cta"
+     },
+     "sfx": [
+      {
+       "file": "sfx/whoosh_a.wav",
+       "gain": -30,
+       "at": 0.2
+      },
+      {
+       "file": "sfx/bell.wav",
+       "gain": -31,
+       "at": 1.9
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true,
+     "fade_out": 0
+    },
+    {
+     "type": "image",
+     "src": "a/p_santamaria2/1_commons.jpg",
+     "move": "right",
+     "dur": 2.236,
+     "fixed": false,
+     "motion": "pan_l",
+     "trans": "fade"
+    }
+   ]
+  }
+ ],
+ "size": [
+  1920,
+  1080
+ ]
+}

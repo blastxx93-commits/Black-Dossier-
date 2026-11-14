@@ -38,11 +38,11 @@ PHOTOS = {
 CL = json.load(open(os.path.join(HERE, "clips.json")))
 CLIPS = {"tri": CL["rio"] + CL["plantas"] + CL["seco"], "chuva": CL["cheia"], "presto": CL["croc"], "hyper": CL["lagarto"][:2],
          "cyno": CL["lagarto"][2:], "extincao": CL["vulcao"], "ceu": CL["ceu"], "ciencia": CL["lab"], "rs": CL["rs"],
-         "gigantes": CL["aves"], "pangea": CL["espaco"]}
+         "pangea": CL["espaco"]}
 GENERIC = CL["rio"] + CL["plantas"] + CL["seco"]
 FALLBACK = {k: ["tri"] for k in PHOTOS}
 FALLBACK.update({"stauri": ["tri", "dig"], "presto": ["tri"], "gnatho": ["stauri", "tri"], "satur": ["buri", "tri"], "buri": ["satur", "tri"],
-                 "macro": ["satur", "tri"], "museu": ["dig"], "navio": ["museu", "dig"], "ceu": ["tri"], "ciencia": ["dig", "museu"],
+                 "macro": ["satur", "tri", "gigantes"], "museu": ["dig"], "navio": ["museu", "dig"], "ceu": ["tri"], "ciencia": ["dig", "museu"],
                  "argentina": ["tri", "stauri"], "extincao": ["chuva", "tri"], "gigantes": ["tri"], "rs": ["dig"], "dig": ["rs"],
                  "chuva": ["tri"], "pangea": ["tri"], "cyno": ["tri", "hyper"], "hyper": ["tri", "cyno"], "tri": ["chuva"]})
 PIN_IDS = ["ai_stauri_hero", "ai_stauri_portrait", "ai_gnatho_hero", "ai_macro_trio", "ai_presto_hero", "p_herrera/1",

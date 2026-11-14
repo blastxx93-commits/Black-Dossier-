@@ -197,7 +197,7 @@
   "dur": 7.8
  },
  {
-  "limg": "a/p_herrera/2_commons.jpg",
+  "limg": "a/p_herrera/1_commons.jpg",
   "rimg": "a/ai/ai_stauri_portrait_1.jpg",
   "lkick": "Parente próximo",
   "lname": "Herrerassauro",
@@ -238,7 +238,7 @@
   "move": "push",
   "kind": "capitulo",
   "id": "hf24_capitulo",
-  "dur": 6.38
+  "dur": 6.42
  },
  {
   "img": "a/ai/ai_fauna_24_1.jpg",
@@ -247,14 +247,14 @@
   "sci": "Buriolestes schultzi",
   "kind": "rotulo",
   "id": "hf25_rotulo",
-  "dur": 3.6
+  "dur": 3.19
  },
  {
   "text": "Ele era *carnívoro.*",
   "img": "a/p_buriolestes/2_commons.jpg",
   "kind": "frase",
   "id": "hf26_frase",
-  "dur": 2.28
+  "dur": 2.34
  },
  {
   "img": "a/p_ixalerpeton/1_commons.jpg",
@@ -362,7 +362,7 @@
   "sub": "Rio Grande do Sul · Triássico",
   "kind": "linha",
   "id": "hf36_linha",
-  "dur": 7.26
+  "dur": 7.85
  },
  {
   "img": "a/p_nyasa/1_commons.jpg",
@@ -384,7 +384,7 @@
  },
  {
   "text": "E os dinossauros *sobreviveram.*",
-  "img": "a/ai/ai_more_st_07_1.jpg",
+  "img": "a/ai/ai_more2_st_08_1.jpg",
   "kind": "frase",
   "id": "hf39_frase",
   "dur": 2.407
@@ -400,7 +400,7 @@
  {
   "num": "10",
   "title": "O segredo nos ossos",
-  "img": "a/ai/ai_more_st_09_1.jpg",
+  "img": "a/ai/ai_more_st_01_1.jpg",
   "move": "push",
   "kind": "capitulo",
   "id": "hf41_capitulo",
@@ -416,7 +416,7 @@
   "dur": 5.4
  },
  {
-  "img": "a/ai/ai_more_dig_03_1.jpg",
+  "img": "a/ai/ai_more_st_04_1.jpg",
   "text": "Obrigado por assistir",
   "sub": "Deixa o like e se inscreve no Era das Feras",
   "kind": "cta",
