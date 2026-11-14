@@ -6,7 +6,7 @@ Adds the channel's layouts (render_feras.py) as one-line builders and, at the en
   * round / versus / verdict / score cards carry their signature sounds (bell, impact, shutter+thud, ticks+win/stinger)
   * HUD (round + score) stamped on the footage of each round
 """
-import os, sys
+import json, os, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import aus_kit as A
 import edit_kit as K
@@ -234,7 +234,7 @@ def cut_rhythm(ep, scene_of=None):
                 if kind == last:
                     kind = CYCLE[k % len(CYCLE)]; k += 1
             s["trans"] = kind; last = kind
-            if s["type"] in GRAPHIC_IN:   # graphics already carry their signature sound
+            if s["type"] in GRAPHIC_IN or s.get("hfcard"):   # graphics already carry their signature sound
                 continue
             opts = TRANS_SFX.get(kind, [None])
             name = opts[snd.get(kind, 0) % len(opts)]; snd[kind] = snd.get(kind, 0) + 1
@@ -242,3 +242,45 @@ def cut_rhythm(ep, scene_of=None):
                 s.setdefault("sfx", [])
                 s["sfx"] = [fx(name, 0, -4)] + list(s["sfx"])
     return ep
+
+
+# ---------------------------------------------------------------- HyperFrames cards (template "Dossiê Fóssil", fe04+)
+HF_CARDS = [0]
+HF_SFX = {"titulo": [("riser", 0, -6), ("impact", 0.6, -4)], "capitulo": [("whoosh_low", 0, -3), ("thud", 0.5, -2)],
+          "rotulo": [("swipe", 0.3, -4)], "ficha": [("swipe", 0.1, -2), ("tick", 1.1), ("tick", 1.45), ("tick", 1.8), ("tick", 2.15)],
+          "numero": [("riser", 0, -8), ("tick", 0.4), ("tick", 0.8), ("impact", 1.6, -6)], "mapa": [("whoosh_a", 0.1, -6), ("whoosh_low", 2.0, -4), ("impact", 3.6, -6)],
+          "linha": [("swipe", 0.6, -4), ("thud", 2.0, -2)], "comparar": [("whoosh_b", 1.0, -3)], "frase": [("impact", 0.2, -4)],
+          "escala": [("tick", 0.9), ("tick", 1.45), ("tick", 2.0), ("tick", 2.55)], "perguntas": [("riser", 0, -8)],
+          "cta": [("whoosh_a", 0.2), ("bell", 1.9, -2)]}
+HF_IN = {"titulo": "cut", "capitulo": "flash", "mapa": "blur", "linha": "blur", "escala": "blur", "numero": "blur", "ficha": "slide",
+         "comparar": "fade", "frase": "punch", "perguntas": "blur", "cta": "zoom", "rotulo": "fade"}
+
+
+def _img(i):
+    """'ai_x' / 'p_x/1' -> pinned reviewed file; 'scene:<name>' -> next photo of that scene."""
+    if i.startswith("scene:"):
+        return _src(i[6:])
+    return pinned(i)
+
+
+def hf(kind, **p):
+    """A card of the HyperFrames graphics package (engine/hf_cards.py renders it as hf/<id>.mp4)."""
+    HF_CARDS[0] += 1
+    cid = f"hf{HF_CARDS[0]:02d}_{kind}"
+    for k in ("img", "limg", "rimg"):
+        if p.get(k):
+            p[k] = _img(p[k])
+    s = {"type": "video", "src": f"hf/{cid}.mp4", "fit": "crop", "start": 0, "trans": HF_IN.get(kind, "fade"),
+         "hfcard": dict(p, kind=kind, id=cid), "sfx": [fx(n, *a) for n, *a in HF_SFX.get(kind, [])]}
+    return s
+
+
+def export_hf(ep, path):
+    """Writes edit/hf_cards.json with the final duration of every card (+0.8 s so a transition never loops the clip)."""
+    out = []
+    for c in ep["chapters"]:
+        for s in c["shots"]:
+            if s.get("hfcard"):
+                out.append(dict(s["hfcard"], dur=round(s["dur"] + 0.8, 3)))
+    json.dump(out, open(path, "w"), ensure_ascii=False, indent=1)
+    return out

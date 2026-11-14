@@ -35,8 +35,41 @@ jobs:
           n=${{ inputs.parts }}
           echo "matrix=[$(seq -s, 1 $n)]" >> "$GITHUB_OUTPUT"
 
+  cards:
+    # Era das Feras: cartelas/gráficos feitos no HyperFrames (edit/hf_cards.json), renderizados uma vez
+    if: ${{ inputs.from_run == '' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: main
+      - uses: actions/checkout@v4
+        with:
+          ref: assets
+          path: assets
+          sparse-checkout: ${{ inputs.episode }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Renderizar cartelas (HyperFrames)
+        run: |
+          mkdir -p work/hf && echo ok > work/hf/.keep
+          if [ -f "main/episodes/${{ inputs.episode }}/edit/hf_cards.json" ]; then
+            sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
+            pip install -q pillow
+            ln -sfn "$PWD/assets/${{ inputs.episode }}" work/a
+            python3 main/engine/hf_cards.py work "main/episodes/${{ inputs.episode }}/edit/hf_cards.json"
+          fi
+      - uses: actions/upload-artifact@v4
+        with:
+          name: cartelas
+          path: work/hf/
+          include-hidden-files: true
+          retention-days: 2
+
   part:
-    needs: setup
+    needs: [setup, cards]
     if: ${{ inputs.from_run == '' }}
     runs-on: ubuntu-latest
     timeout-minutes: 90
@@ -58,6 +91,10 @@ jobs:
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
           pip install -q pillow numpy scipy
           bash main/agent/render_workdir.sh "${{ inputs.episode }}"
+      - uses: actions/download-artifact@v4
+        with:
+          name: cartelas
+          path: work/hf
       - name: Renderizar parte ${{ matrix.k }}
         working-directory: main/engine
         run: python3 $( case "${{ inputs.episode }}" in ant*) echo render_ant.py;; fe*) echo render_feras.py;; *) echo render_aus.py;; esac ) "$GITHUB_WORKSPACE/work/episode.json" --part ${{ matrix.k }}/${{ inputs.parts }} "$GITHUB_WORKSPACE/part_${{ matrix.k }}.mp4"
