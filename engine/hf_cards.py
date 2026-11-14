@@ -209,7 +209,9 @@ def build(wd, cards, proj):
 def render(proj, out, quality="high"):
     hf = os.environ.get("HYPERFRAMES", "npx --yes hyperframes@0.9.46").split()
     subprocess.run(hf + ["telemetry", "disable"], cwd=proj, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-    subprocess.run(hf + ["render", "-o", out, "-q", quality, "--fps", str(FPS), "--quiet"], cwd=proj, check=True)
+    subprocess.run(hf + ["render", "-o", os.path.abspath(out), "-q", quality, "--fps", str(FPS), "--quiet"], cwd=proj, check=True)
+    if not os.path.exists(out):
+        raise SystemExit(f"HyperFrames não gerou {out}")
 
 
 def split(full, spans, outdir):
@@ -221,11 +223,11 @@ def split(full, spans, outdir):
 
 
 if __name__ == "__main__":
-    wd, spec = sys.argv[1], sys.argv[2]
+    wd, spec = os.path.abspath(sys.argv[1]), os.path.abspath(sys.argv[2])
     cards = json.load(open(spec))
     proj = os.path.join(wd, "hfproj")
     spans = build(wd, cards, proj)
     full = os.path.join(proj, "cards.mp4")
-    render(proj, full, os.environ.get("HF_QUALITY", "high"))
+    render(proj, full, os.environ.get("HF_QUALITY", "standard"))
     split(full, spans, os.path.join(wd, "hf"))
     print(f"{len(spans)} cartelas HyperFrames -> {os.path.join(wd, 'hf')}")
