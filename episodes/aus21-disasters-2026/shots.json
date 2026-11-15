@@ -355,6 +355,23 @@
     "Australian banknotes"
    ],
    "n": 5
+  },
+  {
+   "id": "m_mache2",
+   "query": "Ford Mustang Mach-E GT",
+   "alt": [
+    "Ford Mustang Mach-E 2021",
+    "Mustang Mach-E Premium"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_outlander2",
+   "query": "Mitsubishi Outlander PHEV 2022",
+   "alt": [
+    "Mitsubishi Outlander fourth generation"
+   ],
+   "n": 4
   }
  ]
 }
