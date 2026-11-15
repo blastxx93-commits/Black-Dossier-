@@ -1,0 +1,93 @@
+{
+ "defaults": {
+  "n": 3,
+  "sources": [
+   "commons",
+   "openverse",
+   "unsplash",
+   "pixabay"
+  ]
+ },
+ "shots": [
+  {
+   "id": "p_polar",
+   "query": "polar bear",
+   "alt": [
+    "Ursus maritimus"
+   ],
+   "n": 4
+  },
+  {
+   "id": "p_polar2",
+   "query": "polar bear hunting seal",
+   "alt": [
+    "polar bear swimming"
+   ],
+   "n": 4
+  },
+  {
+   "id": "p_amphicyon",
+   "query": "Amphicyon",
+   "alt": [
+    "bear dog Amphicyonidae"
+   ],
+   "n": 4
+  },
+  {
+   "id": "p_agrio",
+   "query": "Agriotherium",
+   "alt": [
+    "Agriotherium skull"
+   ],
+   "n": 4
+  },
+  {
+   "id": "p_cavebear",
+   "query": "cave bear skeleton",
+   "alt": [
+    "Ursus spelaeus"
+   ],
+   "n": 4
+  },
+  {
+   "id": "p_arctodus",
+   "query": "Arctodus simus",
+   "alt": [
+    "short-faced bear skeleton"
+   ],
+   "n": 4
+  },
+  {
+   "id": "p_arctotherium",
+   "query": "Arctotherium",
+   "alt": [
+    "Arctotherium angustidens"
+   ],
+   "n": 4
+  },
+  {
+   "id": "p_bearcave",
+   "query": "Bärenhöhle",
+   "alt": [
+    "cave bear cave claw marks"
+   ],
+   "n": 4
+  },
+  {
+   "id": "p_pampas",
+   "query": "pampas Argentina",
+   "alt": [
+    "pampa landscape"
+   ],
+   "n": 4
+  },
+  {
+   "id": "p_seaice",
+   "query": "sea ice Arctic",
+   "alt": [
+    "Arctic ocean ice"
+   ],
+   "n": 4
+  }
+ ]
+}

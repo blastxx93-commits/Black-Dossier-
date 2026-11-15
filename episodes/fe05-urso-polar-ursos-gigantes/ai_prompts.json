@@ -1,0 +1,203 @@
+{
+ "model": "black-forest-labs/flux-1.1-pro-ultra",
+ "raw": true,
+ "n": 1,
+ "style": ", photorealistic wildlife documentary still, natural light, sharp focus, highly detailed, cinematic 16:9, anatomically correct animals, four legs each, each animal clearly separate, no text, no logos, no watermark",
+ "shots": [
+  {
+   "id": "ai_01",
+   "prompt": "An Amphicyon, an extinct bear-dog: large bear-like body about 500 kg, wolf-like long snout, thick neck, long tail, brown coat, stalking through a Miocene open woodland with tall grass, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_02",
+   "prompt": "Close-up portrait of the head of an Amphicyon, an extinct bear-dog: large bear-like body about 500 kg, wolf-like long snout, thick neck, long tail, brown coat, open jaws, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_03",
+   "prompt": "An Amphicyon, an extinct bear-dog: large bear-like body about 500 kg, wolf-like long snout, thick neck, long tail, brown coat, standing on a rock overlooking a warm prairie with ancient horses far away",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_04",
+   "prompt": "A adult male polar bear, white-yellowish fur, black nose, small rounded ears, long neck, powerful build and an Amphicyon, an extinct bear-dog: large bear-like body about 500 kg, wolf-like long snout, thick neck, long tail, brown coat facing each other on open grassland, both clearly separate, tense standoff",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_05",
+   "prompt": "A adult male polar bear, white-yellowish fur, black nose, small rounded ears, long neck, powerful build standing on its hind legs roaring at an Amphicyon, an extinct bear-dog: large bear-like body about 500 kg, wolf-like long snout, thick neck, long tail, brown coat, both clearly separate",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_06",
+   "prompt": "An Agriotherium, an extinct giant bear with a very short broad snout like a bulldog, massive head, long legs, dark brown fur walking across an African savanna, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_07",
+   "prompt": "Close-up of the massive short-snouted head of an Agriotherium, an extinct giant bear with a very short broad snout like a bulldog, massive head, long legs, dark brown fur, bone-crushing teeth, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_08",
+   "prompt": "An Agriotherium, an extinct giant bear with a very short broad snout like a bulldog, massive head, long legs, dark brown fur eating a carcass while hyenas wait in the distance, the bear clearly separate",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_09",
+   "prompt": "A adult male polar bear, white-yellowish fur, black nose, small rounded ears, long neck, powerful build and an Agriotherium, an extinct giant bear with a very short broad snout like a bulldog, massive head, long legs, dark brown fur wrestling standing on hind legs, both clearly separate",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_10",
+   "prompt": "A adult male polar bear, white-yellowish fur, black nose, small rounded ears, long neck, powerful build facing an Agriotherium, an extinct giant bear with a very short broad snout like a bulldog, massive head, long legs, dark brown fur in a dusty plain, both clearly separate",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_11",
+   "prompt": "A European cave bear (Ursus spelaeus), huge heavy brown bear with a high domed forehead, thick fur, standing at the entrance of a large limestone cave in snowy Ice Age Europe, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_12",
+   "prompt": "A European cave bear (Ursus spelaeus), huge heavy brown bear with a high domed forehead, thick fur, sleeping inside a dark cave with old bones on the floor, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_13",
+   "prompt": "Close-up portrait of a European cave bear (Ursus spelaeus), huge heavy brown bear with a high domed forehead, thick fur head with the high domed forehead, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_14",
+   "prompt": "A European cave bear (Ursus spelaeus), huge heavy brown bear with a high domed forehead, thick fur, eating plants on a mountain meadow, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_15",
+   "prompt": "A adult male polar bear, white-yellowish fur, black nose, small rounded ears, long neck, powerful build confronting a European cave bear (Ursus spelaeus), huge heavy brown bear with a high domed forehead, thick fur in a snowy valley, both clearly separate",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_16",
+   "prompt": "A giant short-faced bear Arctodus simus, extremely tall long-legged bear with a short broad face, tawny brown fur, running across an Ice Age steppe with mammoths far behind, only one bear",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_17",
+   "prompt": "A giant short-faced bear Arctodus simus, extremely tall long-legged bear with a short broad face, tawny brown fur, standing upright to full height, towering, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_18",
+   "prompt": "Close-up of the broad short face of a giant short-faced bear Arctodus simus, extremely tall long-legged bear with a short broad face, tawny brown fur, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_19",
+   "prompt": "A giant short-faced bear Arctodus simus, extremely tall long-legged bear with a short broad face, tawny brown fur chasing wolves away from a bison carcass, the bear clearly separate",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_20",
+   "prompt": "A adult male polar bear, white-yellowish fur, black nose, small rounded ears, long neck, powerful build looking up at a much taller giant short-faced bear Arctodus simus, extremely tall long-legged bear with a short broad face, tawny brown fur standing upright, both clearly separate, size comparison",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_21",
+   "prompt": "An Arctotherium angustidens, the largest bear that ever lived, colossal short-faced bear twice the size of a polar bear, dark brown shaggy fur, walking on the grassy pampas of Argentina, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_22",
+   "prompt": "An Arctotherium angustidens, the largest bear that ever lived, colossal short-faced bear twice the size of a polar bear, dark brown shaggy fur, standing upright on hind legs to its full enormous height, roaring, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_23",
+   "prompt": "Close-up portrait of the gigantic head of an Arctotherium angustidens, the largest bear that ever lived, colossal short-faced bear twice the size of a polar bear, dark brown shaggy fur, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_24",
+   "prompt": "An Arctotherium angustidens, the largest bear that ever lived, colossal short-faced bear twice the size of a polar bear, dark brown shaggy fur next to a giant ground sloth, both clearly separate, South American Ice Age",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_25",
+   "prompt": "A adult male polar bear, white-yellowish fur, black nose, small rounded ears, long neck, powerful build facing a colossal Arctotherium angustidens, the largest bear that ever lived, colossal short-faced bear twice the size of a polar bear, dark brown shaggy fur twice its size, both clearly separate, dramatic scale",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_26",
+   "prompt": "An Arctotherium angustidens, the largest bear that ever lived, colossal short-faced bear twice the size of a polar bear, dark brown shaggy fur, silhouetted against a stormy sunset on the pampas, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_27",
+   "prompt": "A adult male polar bear, white-yellowish fur, black nose, small rounded ears, long neck, powerful build standing on sea ice under a dark Arctic sky, only one animal, epic",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_28",
+   "prompt": "A adult male polar bear, white-yellowish fur, black nose, small rounded ears, long neck, powerful build standing upright on hind legs on sea ice, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_29",
+   "prompt": "The five giant prehistoric bears standing in a row behind a polar bear, lineup, each clearly separate",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_30",
+   "prompt": "A adult male polar bear, white-yellowish fur, black nose, small rounded ears, long neck, powerful build walking on broken melting sea ice at sunset, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_31",
+   "prompt": "Fossil skeleton of a giant prehistoric bear mounted in a museum, dramatic lighting",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_32",
+   "prompt": "Cave wall with deep claw scratch marks made by bears, flashlight light",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_33",
+   "prompt": "A human in Ice Age fur clothing seen from behind watching a giant cave bear far away at a cave entrance",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_34",
+   "prompt": "Ice Age landscape of Europe with snow, mammoths and a cave in a cliff",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_35",
+   "prompt": "Miocene warm open woodland landscape with tall grass and scattered trees, golden light",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_36",
+   "prompt": "Pliocene African savanna landscape with acacia trees and dust, golden light",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_37",
+   "prompt": "Pampas grassland of Argentina during the Ice Age, giant ground sloths and glyptodonts in the distance",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_38",
+   "prompt": "Map-like aerial view of the Isthmus of Panama connecting North and South America, realistic, no text",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_39",
+   "prompt": "Giant bear skull fossil next to a polar bear skull on a table, size comparison, museum",
+   "tier": "cheap"
+  }
+ ]
+}

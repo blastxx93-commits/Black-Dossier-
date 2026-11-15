@@ -1,0 +1,263 @@
+{
+ "defaults": {
+  "n": 3,
+  "clip": 8,
+  "sources": [
+   "pexels",
+   "pixabay",
+   "coverr"
+  ]
+ },
+ "shots": [
+  {
+   "id": "v_polar",
+   "query": "polar bear",
+   "alt": [
+    "polar bears",
+    "ice bear"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 14
+  },
+  {
+   "id": "v_polar_swim",
+   "query": "polar bear swimming",
+   "alt": [
+    "polar bear water"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 6
+  },
+  {
+   "id": "v_polar_walk",
+   "query": "polar bear walking",
+   "alt": [
+    "polar bear snow"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 8
+  },
+  {
+   "id": "v_polar_fight",
+   "query": "polar bears fighting",
+   "alt": [
+    "polar bears playing"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 5
+  },
+  {
+   "id": "v_brown",
+   "query": "brown bear",
+   "alt": [
+    "grizzly bear",
+    "kodiak bear"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 12
+  },
+  {
+   "id": "v_bear_stand",
+   "query": "bear standing",
+   "alt": [
+    "grizzly standing up"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 5
+  },
+  {
+   "id": "v_bear_fight",
+   "query": "bears fighting",
+   "alt": [
+    "grizzly fight"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 5
+  },
+  {
+   "id": "v_arctic",
+   "query": "arctic ice",
+   "alt": [
+    "sea ice",
+    "iceberg"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 8
+  },
+  {
+   "id": "v_blizzard",
+   "query": "snow storm",
+   "alt": [
+    "blizzard"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 5
+  },
+  {
+   "id": "v_seal",
+   "query": "seal",
+   "alt": [
+    "seal on ice"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 5
+  },
+  {
+   "id": "v_walrus",
+   "query": "walrus",
+   "alt": [
+    "walruses"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_cave",
+   "query": "cave",
+   "alt": [
+    "limestone cave"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 5
+  },
+  {
+   "id": "v_savanna",
+   "query": "savanna",
+   "alt": [
+    "africa grassland"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 5
+  },
+  {
+   "id": "v_grass",
+   "query": "prairie grass",
+   "alt": [
+    "grassland wind"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 5
+  },
+  {
+   "id": "v_hyena",
+   "query": "hyena",
+   "alt": [
+    "hyenas"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_wolf",
+   "query": "wolf",
+   "alt": [
+    "wolves"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 5
+  },
+  {
+   "id": "v_bison",
+   "query": "bison",
+   "alt": [
+    "buffalo herd"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_melt",
+   "query": "melting ice",
+   "alt": [
+    "glacier melting"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 5
+  },
+  {
+   "id": "v_aurora",
+   "query": "aurora",
+   "alt": [
+    "northern lights"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 4
+  }
+ ]
+}
