@@ -1,42 +1,6 @@
-[     0s] aus19-refuse-to-buy: 10 planos, limite 35.0 min
-[     0s] h_dealer: 'car dealership'
-[     0s]     commons: 11 candidatos em 0.4s
-[     1s]     pixabay: 12 candidatos em 0.2s
-[     4s]   -> 5 imagens
-[     4s] h_lot: 'new cars parking lot dealership'
-[     5s]     commons: 3 candidatos em 0.4s
-[     5s]     pixabay: 12 candidatos em 0.2s
-[     8s]   -> 5 imagens
-[     8s] h_traffic: 'traffic Sydney'
-[     9s]     commons: 10 candidatos em 0.5s
-[     9s]     pixabay: 12 candidatos em 0.2s
-[    22s]   -> 5 imagens
-[    22s] h_port: 'car carrier port vehicles'
-[    23s]     commons: 11 candidatos em 0.5s
-[    23s]     pixabay: 12 candidatos em 0.2s
-[    26s]   -> 5 imagens
-[    26s] h_keys: 'car keys'
-[    27s]     commons: 11 candidatos em 0.3s
-[    27s]     pixabay: 12 candidatos em 0.2s
-[    30s]   -> 5 imagens
-[    30s] h_sedan: 'sedan car street'
-[    31s]     commons: 10 candidatos em 0.5s
-[    31s]     pixabay: 12 candidatos em 0.2s
-[    34s]   -> 5 imagens
-[    34s] h_outback: 'outback road Australia'
-[    35s]     commons: 11 candidatos em 0.4s
-[    35s]     pixabay: 12 candidatos em 0.2s
-[    38s]   -> 5 imagens
-[    38s] h_ev: 'electric car charging station'
-[    38s]     commons: 12 candidatos em 0.3s
-[    38s]     pixabay: 12 candidatos em 0.2s
-[    42s]   -> 5 imagens
-[    42s] h_money: 'Australian dollar notes'
-[    42s]     commons: 1 candidatos em 0.6s
-[    43s]     pixabay: 12 candidatos em 0.2s
-[    46s]   -> 5 imagens
-[    46s] h_sale: 'sale sign shop'
-[    46s]     commons: 11 candidatos em 0.3s
-[    47s]     pixabay: 12 candidatos em 0.1s
-[    50s]   -> 5 imagens
-[    51s] fim: 50 imagens
+[     0s] aus19-refuse-to-buy: 1 planos, limite 35.0 min
+[     0s] m_accord2: 'Honda Accord e:HEV 2024'
+[     1s]     commons: 12 candidatos em 0.6s
+[     1s]     pixabay: 0 candidatos em 0.2s
+[     5s]   -> 6 imagens
+[     6s] fim: 6 imagens
