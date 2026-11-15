@@ -1,0 +1,302 @@
+[     0s] fe05-urso-polar-ursos-gigantes: 19 planos de video
+[     0s]   v_polar / pexels: 0 filmes para 'polar bear'
+[     1s]   v_polar / pixabay: 11 filmes para 'polar bear'
+[     2s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=polar+bear&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa8
+[     2s]   v_polar / coverr: 0 filmes para 'polar bear'
+[     6s]     + 1_pixabay.mp4 de 'icebear, polar bear, bear, predator, zoo, ursus maritimus, w' a partir de 8s
+[    10s]     + 2_pixabay.mp4 de 'icebear, weary, sleep, zoo, white, portrait, dormant, polar ' a partir de 10s
+[    13s]     + 3_pixabay.mp4 de 'polar bear, bear, fleece, baby bear, cute bear, snow, animal' a partir de 12s
+[    14s]     trecho escuro em 0s, tentando mais adiante
+[    16s]     + 4_pixabay.mp4 de 'ai generated, polar bear, animal, bear, nature, arctic, wild' a partir de 0s
+[    19s]     + 5_pixabay.mp4 de 'polar bear, bear, nature, animal, white, wildlife, winter, a' a partir de 0s
+[    25s]     + 6_pixabay.mp4 de 'polar bear, ice, arctic, sunset, ocean, global warming, whit' a partir de 0s
+[    31s]     + 7_pixabay.mp4 de 'bear, polar bear, fur, mammal, animal, wildlife, conservatio' a partir de 0s
+[    35s]     + 8_pixabay.mp4 de 'ai generated, polar bear, bear, snow, winter, mountains, ice' a partir de 10s
+[    42s]     trecho escuro em 8s, tentando mais adiante
+[    49s]     trecho escuro em 8s, tentando mais adiante
+[    54s]     + 9_pixabay.mp4 de 'bears, polar bears, playful, river, swim, water, animal' a partir de 10s
+[    58s]     + 10_pixabay.mp4 de 'polar bear, a bear, nature, the animal, predator, wild, wate' a partir de 0s
+[    58s]     trecho escuro em 10s, tentando mais adiante
+[    59s]     trecho escuro em 15s, tentando mais adiante
+[    62s]   v_polar / pexels: 0 filmes para 'polar bears'
+[    63s]   v_polar / pixabay: 11 filmes para 'polar bears'
+[    64s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=polar+bears&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa
+[    64s]   v_polar / coverr: 0 filmes para 'polar bears'
+[    64s]   v_polar / pexels: 0 filmes para 'ice bear'
+[    65s]   v_polar / pixabay: 9 filmes para 'ice bear'
+[    66s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=ice+bear&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e
+[    66s]   v_polar / coverr: 0 filmes para 'ice bear'
+[    66s]     trecho escuro em 0s, tentando mais adiante
+[    68s]     + 11_pixabay.mp4 de 'bear, white, ice cream, suit, cartoon, 3d, sign, grizzly, an' a partir de 0s
+[    69s]     trecho escuro em 0s, tentando mais adiante
+[    71s]     + 12_pixabay.mp4 de 'generated ai, polar bear, ice sea, arctic, wild animals, ani' a partir de 0s
+[    73s]     + 13_pixabay.mp4 de 'christmas, polar, bear, snowglobe, globe, snow, winter, snow' a partir de 10s
+[    75s]     + 14_pixabay.mp4 de 'soap bubble, freeze, winter, cold, freezing, ice cream, froz' a partir de 14s
+[    75s]   v_polar_swim / pexels: 0 filmes para 'polar bear swimming'
+[    76s]   v_polar_swim / pixabay: 12 filmes para 'polar bear swimming'
+[    77s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=polar+bear+swimming&page_size=8&urls=true&api_key=e46f0775805a10c2
+[    77s]   v_polar_swim / coverr: 0 filmes para 'polar bear swimming'
+[    77s]     trecho escuro em 0s, tentando mais adiante
+[    80s]     + 1_pixabay.mp4 de 'polar bear, underwater, animal, swim, bear, aquarium, foam, ' a partir de 0s
+[    89s]     + 2_pixabay.mp4 de 'drone, landscape, green, greenland, iceberg, sea, arctic, ic' a partir de 8s
+[    92s]     + 3_pixabay.mp4 de 'turtle, ocean, sea, animal, caretta caretta, water, swimming' a partir de 0s
+[    99s]     + 4_pixabay.mp4 de 'bear, brown bear, furry, predator, mammal, wildlife' a partir de 8s
+[   104s]     + 5_pixabay.mp4 de 'brown bear, bear, nature, animal, forest, wild animal, wildl' a partir de 26s
+[   112s]     + 6_pixabay.mp4 de 'beach, sea, sand, ocean, water, coast, landscape, seascape, ' a partir de 17s
+[   112s]   v_polar_walk / pexels: 0 filmes para 'polar bear walking'
+[   113s]   v_polar_walk / pixabay: 11 filmes para 'polar bear walking'
+[   114s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=polar+bear+walking&page_size=8&urls=true&api_key=e46f0775805a10c2d
+[   114s]   v_polar_walk / coverr: 0 filmes para 'polar bear walking'
+[   117s]     + 1_pixabay.mp4 de 'couple, lovers, hands, love, street, walking' a partir de 9s
+[   119s]     trecho escuro em 8s, tentando mais adiante
+[   122s]     trecho escuro em 8s, tentando mais adiante
+[   128s]     + 2_pixabay.mp4 de 'shoes, walking, feet, legs, many, crowd, people, city, town' a partir de 8s
+[   130s]     + 3_pixabay.mp4 de 'walking, busy, people, pace, step, bike, way, street, legs, ' a partir de 15s
+[   137s]     + 4_pixabay.mp4 de 'snow, winter, nature, river, wharf, dock, girl, walking, sno' a partir de 0s
+[   137s]   v_polar_walk / pexels: 0 filmes para 'polar bear snow'
+[   138s]   v_polar_walk / pixabay: 11 filmes para 'polar bear snow'
+[   139s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=polar+bear+snow&page_size=8&urls=true&api_key=e46f0775805a10c2dd34
+[   139s]   v_polar_walk / coverr: 0 filmes para 'polar bear snow'
+[   149s]     + 5_pixabay.mp4 de 'mountains, snowfield, permafrost, wintertime, winter, textur' a partir de 8s
+[   155s]     + 6_pixabay.mp4 de 'mountains, ice, iceberg, snow, cold, frozen, winter, antarct' a partir de 8s
+[   155s]   v_polar_fight / pexels: 0 filmes para 'polar bears fighting'
+[   156s]   v_polar_fight / pixabay: 12 filmes para 'polar bears fighting'
+[   157s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=polar+bears+fighting&page_size=8&urls=true&api_key=e46f0775805a10c
+[   157s]   v_polar_fight / coverr: 0 filmes para 'polar bears fighting'
+[   157s]     trecho escuro em 11s, tentando mais adiante
+[   158s]     trecho escuro em 18s, tentando mais adiante
+[   163s]     + 1_pixabay.mp4 de 'bear, brown bear, dangerous, furry, water, drink, wildlife, ' a partir de 10s
+[   168s]     + 2_pixabay.mp4 de 'black bear, bear, infant, yukon, canada, baby bear, nature, ' a partir de 29s
+[   171s]     + 3_pixabay.mp4 de 'bear, brown bear, nature, wildlife, animal, slow motion' a partir de 12s
+[   174s]     trecho escuro em 8s, tentando mais adiante
+[   176s]     trecho escuro em 8s, tentando mais adiante
+[   182s]     + 4_pixabay.mp4 de 'iceland, ireland, antarctic, ice, ice melting, polar ice, ic' a partir de 19s
+[   183s]     trecho escuro em 8s, tentando mais adiante
+[   185s]     trecho escuro em 8s, tentando mais adiante
+[   186s]   v_polar_fight / pexels: 0 filmes para 'polar bears playing'
+[   187s]   v_polar_fight / pixabay: 11 filmes para 'polar bears playing'
+[   188s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=polar+bears+playing&page_size=8&urls=true&api_key=e46f0775805a10c2
+[   188s]   v_polar_fight / coverr: 0 filmes para 'polar bears playing'
+[   193s]     + 5_pixabay.mp4 de 'record, record player, vinyl, turntable, retro, spinning, di' a partir de 8s
+[   193s]   v_brown / pexels: 0 filmes para 'brown bear'
+[   195s]   v_brown / pixabay: 12 filmes para 'brown bear'
+[   195s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=brown+bear&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa8
+[   195s]   v_brown / coverr: 0 filmes para 'brown bear'
+[   200s]     + 1_pixabay.mp4 de 'bear, brown, brown bear, nature, animals, mammal, slow motio' a partir de 18s
+[   207s]     + 2_pixabay.mp4 de 'bear, brown bear, animal, furry, big, dangerous, wildlife, z' a partir de 8s
+[   212s]     + 3_pixabay.mp4 de 'brown bear, animal, dangerous, furry, wildlife' a partir de 8s
+[   220s]     trecho escuro em 8s, tentando mais adiante
+[   228s]     trecho escuro em 8s, tentando mais adiante
+[   234s]     + 4_pixabay.mp4 de 'bear, brown bear, water, to bathe, animal, predator, dangero' a partir de 10s
+[   241s]     + 5_pixabay.mp4 de 'bear, brown bear, fur, dangerous, rock, animal, zoo' a partir de 8s
+[   245s]     + 6_pixabay.mp4 de 'bear, brown bear, battle, to play, animal, big, dangerous, z' a partir de 12s
+[   250s]     trecho escuro em 8s, tentando mais adiante
+[   255s]     trecho escuro em 8s, tentando mais adiante
+[   259s]   v_brown / pexels: 0 filmes para 'grizzly bear'
+[   260s]   v_brown / pixabay: 11 filmes para 'grizzly bear'
+[   261s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=grizzly+bear&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444a
+[   261s]   v_brown / coverr: 0 filmes para 'grizzly bear'
+[   266s]     + 7_pixabay.mp4 de 'bear, mammal, animal, wildlife, fur, brown bear, forest, wil' a partir de 0s
+[   269s]     + 8_pixabay.mp4 de 'grizzly bear, bear, grizzly, animal, nature, wildlife, mamma' a partir de 0s
+[   269s]     trecho escuro em 0s, tentando mais adiante
+[   271s]     + 9_pixabay.mp4 de 'ai generated, grizzly, bear, animal, nature, wildlife, mamma' a partir de 0s
+[   272s]     trecho escuro em 0s, tentando mais adiante
+[   275s]     + 10_pixabay.mp4 de 'ai generated, grizzly, bear, animal, nature, wildlife, mamma' a partir de 0s
+[   277s]     + 11_pixabay.mp4 de 'grizzly bear, bear, animal, nature, wildlife, mammal, predat' a partir de 0s
+[   278s]     trecho escuro em 0s, tentando mais adiante
+[   283s]     + 12_pixabay.mp4 de 'brown bear, zoo, animal, bear, fur, mammal, wild animal, fur' a partir de 0s
+[   283s]   v_bear_stand / pexels: 0 filmes para 'bear standing'
+[   284s]   v_bear_stand / pixabay: 12 filmes para 'bear standing'
+[   284s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=bear+standing&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444
+[   284s]   v_bear_stand / coverr: 0 filmes para 'bear standing'
+[   289s]     + 1_pixabay.mp4 de 'reading, comics, subway, subway station, train, passenger, w' a partir de 0s
+[   292s]     + 2_pixabay.mp4 de 'bear, wild bear, wild animal, sunlight' a partir de 9s
+[   292s]   v_bear_stand / pexels: 0 filmes para 'grizzly standing up'
+[   293s]   v_bear_stand / pixabay: 12 filmes para 'grizzly standing up'
+[   294s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=grizzly+standing+up&page_size=8&urls=true&api_key=e46f0775805a10c2
+[   294s]   v_bear_stand / coverr: 0 filmes para 'grizzly standing up'
+[   296s]     trecho escuro em 8s, tentando mais adiante
+[   299s]     trecho escuro em 8s, tentando mais adiante
+[   305s]     trecho escuro em 8s, tentando mais adiante
+[   310s]     trecho escuro em 8s, tentando mais adiante
+[   318s]     + 3_pixabay.mp4 de 'meerkat, mammal, furry, curious, standing, cute, wildlife' a partir de 8s
+[   324s]     + 4_pixabay.mp4 de 'woman, guitar, moon, lights, city, night, standing, sky, fir' a partir de 10s
+[   326s]     + 5_pixabay.mp4 de 'man, abstract, black, shadow, circle, circling, alone, human' a partir de 8s
+[   326s]   v_bear_fight / pexels: 0 filmes para 'bears fighting'
+[   328s]   v_bear_fight / pixabay: 11 filmes para 'bears fighting'
+[   328s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=bears+fighting&page_size=8&urls=true&api_key=e46f0775805a10c2dd344
+[   328s]   v_bear_fight / coverr: 0 filmes para 'bears fighting'
+[   330s]     + 1_pixabay.mp4 de 'bear, karate, sport, fight, kick, judo, fist, competition, t' a partir de 0s
+[   333s]     trecho escuro em 8s, tentando mais adiante
+[   335s]     trecho escuro em 8s, tentando mais adiante
+[   337s]   v_bear_fight / pexels: 0 filmes para 'grizzly fight'
+[   338s]   v_bear_fight / pixabay: 12 filmes para 'grizzly fight'
+[   338s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=grizzly+fight&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444
+[   338s]   v_bear_fight / coverr: 0 filmes para 'grizzly fight'
+[   344s]     + 2_pixabay.mp4 de 'helicopter, military, army, czech, fight, flying, sky, pragu' a partir de 8s
+[   348s]     + 3_pixabay.mp4 de 'push, challenge, angry, fight' a partir de 0s
+[   350s]     + 4_pixabay.mp4 de 'fantasy, epic, fight, man, mountain' a partir de 0s
+[   352s]     trecho escuro em 8s, tentando mais adiante
+[   355s]     trecho escuro em 8s, tentando mais adiante
+[   363s]     trecho escuro em 8s, tentando mais adiante
+[   369s]     trecho escuro em 8s, tentando mais adiante
+[   374s]     trecho escuro em 8s, tentando mais adiante
+[   376s]     trecho escuro em 13s, tentando mais adiante
+[   381s]     trecho escuro em 13s, tentando mais adiante
+[   385s]     trecho escuro em 20s, tentando mais adiante
+[   393s]     trecho escuro em 8s, tentando mais adiante
+[   398s]     trecho escuro em 8s, tentando mais adiante
+[   402s]     trecho escuro em 16s, tentando mais adiante
+[   403s]     trecho escuro em 26s, tentando mais adiante
+[   403s]   v_arctic / pexels: 0 filmes para 'arctic ice'
+[   404s]   v_arctic / pixabay: 12 filmes para 'arctic ice'
+[   405s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=arctic+ice&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa8
+[   405s]   v_arctic / coverr: 0 filmes para 'arctic ice'
+[   411s]     trecho escuro em 8s, tentando mais adiante
+[   418s]     trecho escuro em 8s, tentando mais adiante
+[   427s]     + 1_pixabay.mp4 de 'iceberg, ice, frozen, winter, cold, frost, water, melt, arct' a partir de 8s
+[   431s]     + 2_pixabay.mp4 de 'cold, antarctic, ice, arctic, polar, iceberg, winter, snow, ' a partir de 0s
+[   434s]     + 3_pixabay.mp4 de 'arctic, ice, floating ice sheets, ice floes, antarctic, shee' a partir de 0s
+[   438s]     + 4_pixabay.mp4 de 'icebergs, antarctica, ice, arctic, cold, glacier, sea, winte' a partir de 22s
+[   443s]     + 5_pixabay.mp4 de 'lagoon, glacier, iceland, landscape, iceberg, arctic, water,' a partir de 8s
+[   450s]     + 6_pixabay.mp4 de 'iceberg, ice, water, antarctica, sea, cold, ocean, glacier, ' a partir de 0s
+[   454s]     + 7_pixabay.mp4 de 'sunset, antarctica, landscape, ocean, water, snow, clouds, i' a partir de 0s
+[   462s]     + 8_pixabay.mp4 de 'glacier, snow, nature, ice, cold, arctic, sky, iceland, clim' a partir de 8s
+[   462s]   v_blizzard / pexels: 0 filmes para 'snow storm'
+[   463s]   v_blizzard / pixabay: 12 filmes para 'snow storm'
+[   464s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=snow+storm&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa8
+[   464s]   v_blizzard / coverr: 0 filmes para 'snow storm'
+[   468s]     + 1_pixabay.mp4 de 'storm, mountains, blizzard, wind, stormy, snow, winter, cold' a partir de 8s
+[   477s]     + 2_pixabay.mp4 de 'snow, storm, fir trees, forest, wind, winter' a partir de 21s
+[   482s]     + 3_pixabay.mp4 de 'house, snow, mountain, trees, snowy, storm, calmed down, chr' a partir de 15s
+[   490s]     + 4_pixabay.mp4 de 'nature, winter, landscape, 4k, snowing, snow, white, blizzar' a partir de 15s
+[   499s]     + 5_pixabay.mp4 de 'tree, branches, snow, storm, weather, spruce, pine, forest, ' a partir de 8s
+[   499s]   v_seal / pexels: 0 filmes para 'seal'
+[   501s]   v_seal / pixabay: 11 filmes para 'seal'
+[   501s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=seal&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e04d8
+[   501s]   v_seal / coverr: 0 filmes para 'seal'
+[   505s]     + 1_pixabay.mp4 de 'seal, baby seal, mammal, beach, sand, sea, animal, nature' a partir de 0s
+[   510s]     + 2_pixabay.mp4 de 'seal, swimming, pool, zoo, animal, harbor seal, mammal' a partir de 19s
+[   515s]     + 3_pixabay.mp4 de 'seal, harbour, coast, stone, curious, mammals, attentive' a partir de 13s
+[   517s]     trecho escuro em 0s, tentando mais adiante
+[   518s]     trecho escuro em 0s, tentando mais adiante
+[   525s]     + 4_pixabay.mp4 de 'seal, seals, water, sea, swim, slow motion, animal' a partir de 8s
+[   532s]     + 5_pixabay.mp4 de 'seal, to stand, teeter, comfortable, peaceful, water, mammal' a partir de 8s
+[   532s]   v_walrus / pexels: 0 filmes para 'walrus'
+[   533s]   v_walrus / pixabay: 2 filmes para 'walrus'
+[   534s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=walrus&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e04
+[   534s]   v_walrus / coverr: 0 filmes para 'walrus'
+[   538s]     + 1_pixabay.mp4 de 'seal, sea lion, walrus, ocean, nature, landscape' a partir de 0s
+[   542s]     + 2_pixabay.mp4 de 'walrus, zoo, splash, hamburg, thick, hagenbeck, wildlife, zo' a partir de 8s
+[   542s]   v_walrus / pexels: 0 filmes para 'walruses'
+[   543s]   v_walrus / pixabay: 0 filmes para 'walruses'
+[   543s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=walruses&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e
+[   543s]   v_walrus / coverr: 0 filmes para 'walruses'
+[   543s]   v_cave / pexels: 0 filmes para 'cave'
+[   544s]   v_cave / pixabay: 12 filmes para 'cave'
+[   545s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=cave&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e04d8
+[   545s]   v_cave / coverr: 0 filmes para 'cave'
+[   550s]     + 1_pixabay.mp4 de 'cave, fire, fireflies, mysterious, wallpaper, background, be' a partir de 28s
+[   554s]     trecho escuro em 12s, tentando mais adiante
+[   558s]     trecho escuro em 18s, tentando mais adiante
+[   565s]     + 2_pixabay.mp4 de 'cave, rain, waterfall, summer' a partir de 21s
+[   567s]     + 3_pixabay.mp4 de 'mushroom, waterfall, cave, firefly, glowing' a partir de 21s
+[   572s]     + 4_pixabay.mp4 de 'cave, beach, sea, waves, sun, water, nature' a partir de 8s
+[   575s]     + 5_pixabay.mp4 de 'ai generated, cave, fireplace, cozy, rain, raining, raindrop' a partir de 0s
+[   575s]   v_savanna / pexels: 0 filmes para 'savanna'
+[   576s]   v_savanna / pixabay: 12 filmes para 'savanna'
+[   576s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=savanna&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e0
+[   576s]   v_savanna / coverr: 0 filmes para 'savanna'
+[   581s]     + 1_pixabay.mp4 de 'lion, face, king, animal, predator, big, zoo, park, savanna,' a partir de 8s
+[   589s]     + 2_pixabay.mp4 de 'zebra, nature, animal, wildlife, mammal, safari, africa, fau' a partir de 15s
+[   593s]     + 3_pixabay.mp4 de 'zebra, animal, wildlife, mammal, safari, striped, equine, wi' a partir de 8s
+[   595s]     + 4_pixabay.mp4 de 'lion, animation photo, 3d, wild, special effect, nature, afr' a partir de 8s
+[   598s]     + 5_pixabay.mp4 de 'tree, sunset, nature, savanna' a partir de 21s
+[   598s]   v_grass / pexels: 0 filmes para 'prairie grass'
+[   599s]   v_grass / pixabay: 12 filmes para 'prairie grass'
+[   600s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=prairie+grass&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444
+[   600s]   v_grass / coverr: 0 filmes para 'prairie grass'
+[   606s]     + 1_pixabay.mp4 de 'field, prairie, trees, grass, spring, rural, mountains, sunr' a partir de 17s
+[   612s]     + 2_pixabay.mp4 de 'field, prairie, trees, grass, spring, rural, mountains, sunr' a partir de 24s
+[   618s]     + 3_pixabay.mp4 de 'field, prairie, trees, grass, spring, rural, mountains, sunr' a partir de 22s
+[   623s]     + 4_pixabay.mp4 de 'pinson, chaffinch, birds, ground, grass, nature, fauna, cute' a partir de 8s
+[   623s]     trecho escuro em 9s, tentando mais adiante
+[   623s]     trecho escuro em 14s, tentando mais adiante
+[   627s]     + 5_pixabay.mp4 de 'grass, prairie, fields, nature, green, green color, plant' a partir de 8s
+[   627s]   v_hyena / pexels: 0 filmes para 'hyena'
+[   628s]   v_hyena / pixabay: 12 filmes para 'hyena'
+[   629s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=hyena&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e04d
+[   629s]   v_hyena / coverr: 0 filmes para 'hyena'
+[   635s]     + 1_pixabay.mp4 de 'spotted hyena, animal, mammal, nature, wild, wildlife, preda' a partir de 8s
+[   642s]     + 2_pixabay.mp4 de 'hyena, hyaenidae, animal, wildlife, conservation, safari, wi' a partir de 0s
+[   644s]     + 3_pixabay.mp4 de 'wolf, fox, born, wolves, lion, tiger, hyena' a partir de 8s
+[   647s]     trecho escuro em 8s, tentando mais adiante
+[   650s]     trecho escuro em 8s, tentando mais adiante
+[   659s]     + 4_pixabay.mp4 de 'hyena, predator, wild, fur, dotted, dangerous, africa' a partir de 0s
+[   659s]   v_wolf / pexels: 0 filmes para 'wolf'
+[   660s]   v_wolf / pixabay: 12 filmes para 'wolf'
+[   661s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=wolf&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e04d8
+[   661s]   v_wolf / coverr: 0 filmes para 'wolf'
+[   666s]     + 1_pixabay.mp4 de 'wolf, animal, mammal, nature wild, predator, wolves, nature,' a partir de 9s
+[   672s]     + 2_pixabay.mp4 de 'wolf, predator, dangerous, european wolf, animal, wildlife' a partir de 8s
+[   676s]     + 3_pixabay.mp4 de 'wolf, white wolf, wolf cubs, family, horde, female, young wo' a partir de 0s
+[   680s]     + 4_pixabay.mp4 de 'wolf, arctic wolf, wildlife, predator, wilderness, pack, end' a partir de 0s
+[   687s]     + 5_pixabay.mp4 de 'wolf, eurasian wolf, gray wolf, mammal, predator, dangerous,' a partir de 8s
+[   687s]   v_bison / pexels: 0 filmes para 'bison'
+[   688s]   v_bison / pixabay: 11 filmes para 'bison'
+[   688s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=bison&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e04d
+[   688s]   v_bison / coverr: 0 filmes para 'bison'
+[   691s]     trecho escuro em 8s, tentando mais adiante
+[   694s]     trecho escuro em 8s, tentando mais adiante
+[   698s]     + 1_pixabay.mp4 de 'bison, buffalo, mandate, animal, farm animals, nature' a partir de 11s
+[   703s]     + 2_pixabay.mp4 de 'buffalo, bison, buffalo bull, bull, nature, wildlife, canada' a partir de 22s
+[   707s]     trecho escuro em 8s, tentando mais adiante
+[   712s]     trecho escuro em 8s, tentando mais adiante
+[   723s]     + 3_pixabay.mp4 de 'european bisons, bisons, wisent, bovine, nature, animals' a partir de 0s
+[   725s]     + 4_pixabay.mp4 de 'american bison, bison, buffalo, wild, nature, animal, horns,' a partir de 0s
+[   725s]   v_melt / pexels: 0 filmes para 'melting ice'
+[   726s]   v_melt / pixabay: 12 filmes para 'melting ice'
+[   726s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=melting+ice&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa
+[   726s]   v_melt / coverr: 0 filmes para 'melting ice'
+[   734s]     + 1_pixabay.mp4 de 'waterfall, ice, water, melting, cold, spring, landscape, nat' a partir de 0s
+[   736s]     + 2_pixabay.mp4 de 'snow, melt, water, cold, ice cream, nature, black, white, fr' a partir de 22s
+[   739s]     + 3_pixabay.mp4 de 'icicles, frozen, melting, winter, ice, cold, frost, freeze, ' a partir de 11s
+[   742s]     + 4_pixabay.mp4 de 'glacier, melting, water, whooshing, snowmelt, melt water, sn' a partir de 8s
+[   744s]     + 5_pixabay.mp4 de 'river, stream, snow, frost, cold, melt, ice, beautiful wallp' a partir de 0s
+[   744s]   v_aurora / pexels: 0 filmes para 'aurora'
+[   745s]   v_aurora / pixabay: 12 filmes para 'aurora'
+[   746s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=aurora&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e04
+[   746s]   v_aurora / coverr: 0 filmes para 'aurora'
+[   750s]     + 1_pixabay.mp4 de 'aurora borealis, northern lights, atmosphere, nature, earth ' a partir de 10s
+[   753s]     + 2_pixabay.mp4 de 'ai generated, aurora borealis, aurora, nature, night, sky, s' a partir de 0s
+[   762s]     + 3_pixabay.mp4 de 'universe, stars, galaxy, aurora' a partir de 8s
+[   765s]     trecho escuro em 21s, tentando mais adiante
+[   768s]     trecho escuro em 33s, tentando mais adiante
+[   773s]     + 4_pixabay.mp4 de 'aurora borealis, northern lights, snow, fields, lake, mounta' a partir de 8s
+# Videos — fe05-urso-polar-ursos-gigantes
+
+- Planos: 19 · clipes: 109 · sem resultado: 0
+- Folhas: video_contact_sheet_1.jpg, video_contact_sheet_2.jpg, video_contact_sheet_3.jpg, video_contact_sheet_4.jpg, video_contact_sheet_5.jpg, video_contact_sheet_6.jpg, video_contact_sheet_7.jpg, video_contact_sheet_8.jpg, video_contact_sheet_9.jpg, video_contact_sheet_10.jpg, video_contact_sheet_11.jpg
+
+| plano | clipes |
+|---|---|
+| `v_polar` | 14 |
+| `v_polar_swim` | 6 |
+| `v_polar_walk` | 6 |
+| `v_polar_fight` | 5 |
+| `v_brown` | 12 |
+| `v_bear_stand` | 5 |
+| `v_bear_fight` | 4 |
+| `v_arctic` | 8 |
+| `v_blizzard` | 5 |
+| `v_seal` | 5 |
+| `v_walrus` | 2 |
+| `v_cave` | 5 |
+| `v_savanna` | 5 |
+| `v_grass` | 5 |
+| `v_hyena` | 4 |
+| `v_wolf` | 5 |
+| `v_bison` | 4 |
+| `v_melt` | 5 |
+| `v_aurora` | 4 |
+
