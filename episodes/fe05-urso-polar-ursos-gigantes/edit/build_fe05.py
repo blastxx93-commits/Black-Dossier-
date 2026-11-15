@@ -27,13 +27,13 @@ CLIPS = {"polar": CL["polar"] + CL["presa"], "gelo": CL["gelo"], "amphi": CL["br
          "plioceno": CL["savana"][5:], "derrete": CL["derrete"]}
 GENERIC = CL["gelo"]
 FALLBACK = {k: ["gelo", "polar"] for k in PHOTOS}
-FALLBACK.update({"amphi": ["mioceno", "duelo"], "agrio": ["plioceno", "duelo"], "cave": ["duelo", "gelo"], "short": ["duelo", "gelo"],
+FALLBACK.update({"polar": ["gelo", "duelo"], "amphi": ["mioceno", "duelo", "polar"], "agrio": ["plioceno", "duelo"], "cave": ["duelo", "gelo"], "short": ["duelo", "gelo"],
                  "arcto": ["pampa", "duelo"], "pampa": ["arcto"], "fossil": ["cave"], "derrete": ["gelo", "polar"]})
 PIN_IDS = ["ai_27", "ai_28", "ai_30", "ai_02", "ai_07", "ai_13", "ai_18", "ai_23", "ai_22", "ai_26", "ai_05", "ai_10", "ai_15", "ai_20", "ai_25", "ai_04"]
 A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FALLBACK, ["gelo"])
 F.pin(*PIN_IDS)
 A.CLIP_TARGET = 0.45
-A.MAX_HOLD, A.KEEP = 6.8, 4.4
+A.MAX_HOLD, A.KEEP = 7.2, 4.6
 ch = A.ch
 chapters = []
 SC = [0, 0]

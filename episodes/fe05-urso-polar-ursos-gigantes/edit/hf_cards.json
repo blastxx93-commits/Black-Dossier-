@@ -37,7 +37,7 @@
   },
   {
    "text": "5 rodadas. 5 *gigantes.*",
-   "img": "a/p_seaice/3_unsplash.jpg",
+   "img": "a/ai/ai_xduo_03_1.jpg",
    "kind": "frase",
    "id": "hf05_frase",
    "dur": 4.9
@@ -98,7 +98,7 @@
    "dur": 6.52
   },
   {
-   "limg": "a/FALTA/polar_5.jpg",
+   "limg": "a/ai/ai_xpol_02_1.jpg",
    "rimg": "a/ai/ai_05_1.jpg",
    "left": {
     "kicker": "Hoje",
@@ -145,7 +145,7 @@
    "dur": 3.47
   },
   {
-   "img": "a/FALTA/gelo_6.jpg",
+   "img": "a/p_seaice/3_unsplash.jpg",
    "prev": [
     0,
     0
@@ -171,7 +171,7 @@
    "dur": 5.8
   },
   {
-   "limg": "a/FALTA/polar_7.jpg",
+   "limg": "a/ai/ai_xpol_03_1.jpg",
    "rimg": "a/ai/ai_10_1.jpg",
    "left": {
     "kicker": "Hoje",
@@ -218,7 +218,7 @@
    "dur": 2.86
   },
   {
-   "img": "a/FALTA/gelo_9.jpg",
+   "img": "a/ai/ai_xgel_04_1.jpg",
    "prev": [
     1,
     0
@@ -291,7 +291,7 @@
    "dur": 4.4
   },
   {
-   "img": "a/FALTA/gelo_10.jpg",
+   "img": "a/ai/ai_xpol_04_1.jpg",
    "prev": [
     1,
     0
@@ -306,7 +306,7 @@
    "dur": 2.12
   },
   {
-   "img": "a/FALTA/gelo_11.jpg",
+   "img": "a/ai/ai_xpol_05_1.jpg",
    "text": "Está curtindo?",
    "sub": "Deixa o like e se inscreve no canal",
    "kind": "cta",
@@ -349,7 +349,7 @@
    "dur": 7.3
   },
   {
-   "limg": "a/FALTA/polar_12.jpg",
+   "limg": "a/ai/ai_xpol_06_1.jpg",
    "rimg": "a/ai/ai_20_1.jpg",
    "left": {
     "kicker": "Hoje",
@@ -396,7 +396,7 @@
    "dur": 4.3
   },
   {
-   "img": "a/FALTA/gelo_14.jpg",
+   "img": "a/ai/ai_xpol_09_1.jpg",
    "prev": [
     2,
     0
@@ -432,7 +432,7 @@
    "dur": 5.4
   },
   {
-   "limg": "a/FALTA/polar_15.jpg",
+   "limg": "a/ai/ai_xpol_10_1.jpg",
    "rimg": "a/ai/ai_25_1.jpg",
    "left": {
     "kicker": "Hoje",
@@ -479,7 +479,7 @@
    "dur": 3.74
   },
   {
-   "img": "a/FALTA/gelo_17.jpg",
+   "img": "a/ai/ai_xpol_12_1.jpg",
    "prev": [
     2,
     1
@@ -495,13 +495,13 @@
   },
   {
    "text": "O verdadeiro rival é o *clima.*",
-   "img": "a/FALTA/derrete_22.jpg",
+   "img": "a/ai/ai_xpol_13_1.jpg",
    "kind": "frase",
    "id": "hf32_frase",
    "dur": 5.4
   },
   {
-   "img": "a/FALTA/polar_24.jpg",
+   "img": "a/ai/ai_xpol_14_1.jpg",
    "text": "Obrigado por assistir",
    "sub": "Deixa o like e se inscreve no Era das Feras",
    "kind": "cta",
