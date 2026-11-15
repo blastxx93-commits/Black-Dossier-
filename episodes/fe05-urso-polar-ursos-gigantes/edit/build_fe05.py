@@ -11,15 +11,15 @@ from feras_kit import foot, hf
 F.use_cinema("gelo")
 ai = lambda *n: ["ai:ai_%02d" % k for k in n]
 PHOTOS = {
-    "polar": ai(27, 28, 30) + ["p_polar", "p_polar2"],
-    "gelo": ["p_seaice"],
-    "amphi": ai(1, 2, 3) + ["p_amphicyon"],
-    "agrio": ai(6, 7, 8) + ["p_agrio"],
+    "polar": ai(27, 28, 30) + ["p_polar", "p_polar2"] + ["ai:ai_xpol_%02d" % j for j in range(1, 31)],
+    "gelo": ["p_seaice"] + ["ai:ai_xgel_%02d" % j for j in range(1, 9)],
+    "amphi": ai(1, 2, 3) + ["p_amphicyon"] + ["ai:ai_xamp_%02d" % j for j in range(1, 7)],
+    "agrio": ai(6, 7, 8) + ["p_agrio"] + ["ai:ai_xagr_%02d" % j for j in range(1, 9)],
     "cave": ai(11, 12, 13, 14, 32) + ["p_cavebear", "p_bearcave"],
-    "short": ai(16, 17, 18, 19) + ["p_arctodus"],
-    "arcto": ai(21, 22, 23, 26) + ["p_arctotherium"],
-    "duelo": ai(4, 5, 10, 15, 20, 25),
-    "mioceno": ai(35), "plioceno": ai(36), "pampa": ai(37) + ["p_pampas"], "fossil": ai(31),
+    "short": ai(16, 17, 18, 19) + ["p_arctodus"] + ["ai:ai_xsho_%02d" % j for j in range(1, 6)],
+    "arcto": ai(21, 22, 23, 26) + ["p_arctotherium"] + ["ai:ai_xarc_%02d" % j for j in range(1, 9)],
+    "duelo": ai(4, 5, 10, 15, 20, 25) + ["ai:ai_xduo_%02d" % j for j in range(1, 6)],
+    "mioceno": ai(35), "plioceno": ai(36), "pampa": ai(37) + ["p_pampas"], "fossil": ai(31), "derrete": [] + ["ai:ai_xder_%02d" % j for j in range(1, 6)],
 }
 CL = json.load(open(os.path.join(HERE, "clips.json")))
 CLIPS = {"polar": CL["polar"] + CL["presa"], "gelo": CL["gelo"], "amphi": CL["brown"][:3], "agrio": CL["brown"][3:6] + CL["savana"][3:5],
