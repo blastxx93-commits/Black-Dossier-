@@ -1,0 +1,281 @@
+{
+ "defaults": {
+  "n": 4,
+  "sources": [
+   "commons",
+   "pixabay"
+  ]
+ },
+ "shots": [
+  {
+   "id": "m_modely",
+   "query": "Tesla Model Y 2025",
+   "alt": [
+    "Tesla Model Y Juniper",
+    "Tesla Model Y"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_sealion7",
+   "query": "BYD Sealion 7",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_ex5",
+   "query": "Geely EX5",
+   "alt": [
+    "Geely Galaxy E5"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_hilux",
+   "query": "Toyota Hilux 2025",
+   "alt": [
+    "Toyota Hilux"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_zeekr7x",
+   "query": "Zeekr 7X",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_j5",
+   "query": "Jaecoo J5",
+   "alt": [
+    "Jaecoo J5 EV"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_tiggo4",
+   "query": "Chery Tiggo 4 2024",
+   "alt": [
+    "Chery Tiggo 4 Pro",
+    "Chery Tiggo 4"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_prado",
+   "query": "Toyota Land Cruiser Prado 250",
+   "alt": [
+    "Toyota Land Cruiser 250"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_everest",
+   "query": "Ford Everest 2022",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_jolion",
+   "query": "Haval Jolion",
+   "alt": [
+    "Haval Jolion hybrid"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_atto2",
+   "query": "BYD Atto 2",
+   "alt": [
+    "BYD Yuan Up"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_atto1",
+   "query": "BYD Seagull",
+   "alt": [
+    "BYD Atto 1",
+    "BYD Dolphin Mini"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_ranger",
+   "query": "Ford Ranger Wildtrak 2023",
+   "alt": [
+    "Ford Ranger 2022"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_rav4",
+   "query": "Toyota RAV4 2026",
+   "alt": [
+    "Toyota RAV4 sixth generation",
+    "Toyota RAV4 hybrid"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_shark6",
+   "query": "BYD Shark 6",
+   "alt": [
+    "BYD Shark"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_tiggo7",
+   "query": "Chery Tiggo 7 2024",
+   "alt": [
+    "Chery Tiggo 7 Pro"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_kona",
+   "query": "Hyundai Kona 2023",
+   "alt": [
+    "Hyundai Kona SX2"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_gac",
+   "query": "GAC Aion V",
+   "alt": [
+    "GAC Aion"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_kona2",
+   "query": "Hyundai Kona Electric 2024",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_dmax",
+   "query": "Isuzu D-Max 2021",
+   "alt": [
+    "Isuzu D-Max"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_cx5",
+   "query": "Mazda CX-5",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_sportage",
+   "query": "Kia Sportage 2022",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_bmw",
+   "query": "BMW X3 2024",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_byd",
+   "query": "BYD dealership",
+   "alt": [
+    "BYD showroom"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_sealion6",
+   "query": "BYD Sealion 6",
+   "alt": [
+    "BYD Song Plus"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_starray",
+   "query": "Geely Starray",
+   "alt": [
+    "Geely Boyue L"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_zeekr",
+   "query": "Zeekr 001",
+   "alt": [
+    "Zeekr 7X"
+   ],
+   "n": 4
+  },
+  {
+   "id": "h_dealer",
+   "query": "car dealership",
+   "alt": [
+    "car showroom interior"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_lot",
+   "query": "new cars parking lot dealership",
+   "alt": [
+    "car storage lot"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_traffic",
+   "query": "traffic Sydney",
+   "alt": [
+    "traffic Melbourne"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_port",
+   "query": "car carrier port vehicles",
+   "alt": [
+    "new cars port terminal"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_keys",
+   "query": "car keys",
+   "alt": [
+    "car key fob"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_outback",
+   "query": "outback road Australia",
+   "alt": [
+    "Stuart Highway"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_ev",
+   "query": "electric car charging station",
+   "alt": [
+    "EV charging"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_money",
+   "query": "Australian dollar notes",
+   "alt": [
+    "Australian banknotes"
+   ],
+   "n": 5
+  }
+ ]
+}

@@ -1,0 +1,360 @@
+{
+ "defaults": {
+  "n": 4,
+  "sources": [
+   "commons",
+   "pixabay"
+  ]
+ },
+ "shots": [
+  {
+   "id": "m_tasman",
+   "query": "Kia Tasman",
+   "alt": [
+    "Kia Tasman X-Pro",
+    "Kia Tasman pickup"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_palisade",
+   "query": "Hyundai Palisade 2025",
+   "alt": [
+    "Hyundai Palisade LX3",
+    "Hyundai Palisade second generation"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_cybertruck",
+   "query": "Tesla Cybertruck",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_wrangler",
+   "query": "Jeep Wrangler JL",
+   "alt": [
+    "Jeep Wrangler Rubicon"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_gladiator",
+   "query": "Jeep Gladiator",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_grandcherokee",
+   "query": "Jeep Grand Cherokee WL",
+   "alt": [
+    "Jeep Grand Cherokee 2022"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_avenger",
+   "query": "Jeep Avenger",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_navara",
+   "query": "Nissan Navara 2026",
+   "alt": [
+    "Nissan Navara D23",
+    "Nissan Navara"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_qashqai",
+   "query": "Nissan Qashqai J12",
+   "alt": [
+    "Nissan Qashqai"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_pathfinder",
+   "query": "Nissan Pathfinder R53",
+   "alt": [
+    "Nissan Pathfinder 2022"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_xtrail",
+   "query": "Nissan X-Trail T33",
+   "alt": [
+    "Nissan X-Trail"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_p208",
+   "query": "Peugeot 208 II",
+   "alt": [
+    "Peugeot 208 2020"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_p308",
+   "query": "Peugeot 308 III",
+   "alt": [
+    "Peugeot 308 2022"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_p3008",
+   "query": "Peugeot 3008 2024",
+   "alt": [
+    "Peugeot 3008 III"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_partner",
+   "query": "Peugeot Partner 2019",
+   "alt": [
+    "Peugeot Partner van"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_grecale",
+   "query": "Maserati Grecale",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_levante",
+   "query": "Maserati Levante",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_ghibli",
+   "query": "Maserati Ghibli",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_gv70",
+   "query": "Genesis GV70",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_accord",
+   "query": "Honda Accord e:HEV 2024",
+   "alt": [
+    "Honda Accord XI",
+    "2023 Honda Accord Touring"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_camry",
+   "query": "Toyota Camry 2025",
+   "alt": [
+    "Toyota Camry XV80"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_mache",
+   "query": "Ford Mustang Mach-E",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_modely",
+   "query": "Tesla Model Y 2025",
+   "alt": [
+    "Tesla Model Y Juniper",
+    "Tesla Model Y"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_cx70",
+   "query": "Mazda CX-70",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_defender",
+   "query": "Land Rover Defender 110 2020",
+   "alt": [
+    "Land Rover Defender L663"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_ranger",
+   "query": "Ford Ranger Wildtrak 2023",
+   "alt": [
+    "Ford Ranger 2022"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_hilux",
+   "query": "Toyota Hilux 2025",
+   "alt": [
+    "Toyota Hilux"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_shark6",
+   "query": "BYD Shark 6",
+   "alt": [
+    "BYD Shark"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_ev9",
+   "query": "Kia EV9",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_q4",
+   "query": "Audi Q4 e-tron",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_polestar4",
+   "query": "Polestar 4",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_fortuner",
+   "query": "Toyota Fortuner",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_outlander",
+   "query": "Mitsubishi Outlander 2022",
+   "alt": [
+    "Mitsubishi Outlander"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_jaguar",
+   "query": "Jaguar F-Pace",
+   "alt": [
+    "Jaguar I-Pace"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_lotus",
+   "query": "Lotus Eletre",
+   "alt": [
+    "Lotus Emira"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_mclaren",
+   "query": "McLaren Artura",
+   "alt": [
+    "McLaren 750S"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_everest",
+   "query": "Ford Everest 2022",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_prado",
+   "query": "Toyota Land Cruiser Prado 250",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "m_sealion7",
+   "query": "BYD Sealion 7",
+   "alt": [],
+   "n": 4
+  },
+  {
+   "id": "h_dealer",
+   "query": "car dealership",
+   "alt": [
+    "car showroom interior"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_lot",
+   "query": "new cars parking lot dealership",
+   "alt": [
+    "car storage lot"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_traffic",
+   "query": "traffic Sydney",
+   "alt": [
+    "traffic Melbourne"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_port",
+   "query": "car carrier port vehicles",
+   "alt": [
+    "new cars port terminal"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_keys",
+   "query": "car keys",
+   "alt": [
+    "car key fob"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_outback",
+   "query": "outback road Australia",
+   "alt": [
+    "Stuart Highway"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_ev",
+   "query": "electric car charging station",
+   "alt": [
+    "EV charging"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_money",
+   "query": "Australian dollar notes",
+   "alt": [
+    "Australian banknotes"
+   ],
+   "n": 5
+  }
+ ]
+}
