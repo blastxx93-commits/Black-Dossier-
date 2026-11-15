@@ -75,6 +75,42 @@ def tone(f, d, decay, harm=(1, 0.5, 0.25)):
     return sum(a * np.sin(2 * np.pi * f * (k + 1) * t) for k, a in enumerate(harm)) * np.exp(-t * decay)
 
 
+def glide(f0, f1, d, decay=3.0, harm=(1, 0.3)):
+    """Tonal pitch glide (no noise: nothing that sounds like hiss)."""
+    t = t_(d); f = f0 * (f1 / f0) ** (t / d); ph = 2 * np.pi * np.cumsum(f) / SR
+    return sum(a * np.sin(ph * (k + 1)) for k, a in enumerate(harm)) * np.exp(-t * decay)
+
+
+def soften(x, a=0.08, fade=0.004):
+    """One-pole low-pass + short fades: round, click-free tonal effects."""
+    y = np.empty_like(x); s = 0.0
+    for i, v in enumerate(x):
+        s += a * (v - s); y[i] = s
+    n = max(1, int(SR * fade)); y[:n] *= np.linspace(0, 1, n); y[-n:] *= np.linspace(1, 0, n)
+    return y
+
+
+def cinema_kit(w):
+    """Kit 'cinema' (fe05+, owner 15/11/2026: no whooshes, no hiss): tonal transition and accent sounds."""
+    w("sub_drop", soften(glide(140, 32, 1.1, 2.2, (1, 0.15)), 0.05))
+    w("boom_deep", soften(glide(70, 30, 2.2, 1.8, (1, 0.25)), 0.03))
+    w("hit_soft", soften(glide(110, 70, 0.6, 7, (1, 0.4, 0.1)), 0.06), peak=0.8)
+    t = t_(1.3); w("pulse", soften(np.sin(2 * np.pi * 55 * t) * (np.exp(-((t - 0.1) * 9) ** 2) + 0.8 * np.exp(-((t - 0.55) * 9) ** 2)), 0.05))
+    sh = sum(tone(f, 2.2, 1.6 + k * 0.4, (1, 0.2)) for k, f in enumerate((1568, 2093, 2637, 3136)))
+    w("shimmer", soften(sh * np.minimum(1, t_(2.2) / 0.15), 0.25), peak=0.5)
+    w("glass", soften(tone(2960, 1.4, 4, (1, 0.3, 0.12)) + 0.6 * tone(4435, 1.4, 6, (1,)), 0.35), peak=0.45)
+    w("tape", soften(glide(330, 60, 0.7, 2.5, (1, 0.5, 0.25)), 0.1), peak=0.7)
+    t = t_(1.6); saw = sum(np.sin(2 * np.pi * f * k * t) / k for f in (49, 73.4) for k in range(1, 8))
+    w("braam", soften(saw * np.minimum(1, t / 0.06) * np.exp(-t * 1.4), 0.03))
+    t = t_(1.8); k = t / 1.8
+    w("riser_tone", soften((np.sin(2 * np.pi * np.cumsum(110 * 2 ** (2 * k)) / SR) + 0.4 * np.sin(2 * np.pi * np.cumsum(165 * 2 ** (2 * k)) / SR)) * k ** 2.5, 0.12))
+    w("tick_soft", soften(tone(1800, 0.06, 70, (1, 0.3)), 0.4), peak=0.45)
+    t = t_(0.5); w("ice_crack", soften(sum(np.sin(2 * np.pi * f * t) * np.exp(-t * d) for f, d in ((3100, 60), (2200, 45), (5200, 90))) * (t < 0.4), 0.5), peak=0.5)
+    n1, n2, n3 = tone(392, 1.6, 2.2, (1, 0.5, 0.2)), tone(587, 1.6, 2.0, (1, 0.5, 0.2)), tone(784, 1.8, 1.8, (1, 0.4))
+    win = np.zeros(int(SR * 2.2)); win[:len(n1)] += n1; win[int(SR * 0.12):int(SR * 0.12) + len(n2)] += n2; win[int(SR * 0.24):int(SR * 0.24) + len(n3)] += n3
+    w("win_brass", soften(win, 0.15), peak=0.7)
+
+
 def main(out):
     d = os.path.join(out, "sfx"); os.makedirs(d, exist_ok=True)
     w = lambda name, x, pan=None, peak=0.9: save(os.path.join(d, name + ".wav"), x, pan, peak)
@@ -120,6 +156,7 @@ def main(out):
         i = int(at * SR); c = hp(bandnoise(int(SR * 0.3), 0.1, 0.5), 0.4) * np.exp(-t_(0.3) * 14)
         sn[i:i + len(c)] += c
     w("snow", sn, peak=0.5)
+    cinema_kit(w)
     print(f"kit de efeitos em {d}: {sorted(os.listdir(d))}")
 
 

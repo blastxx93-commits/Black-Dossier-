@@ -256,9 +256,9 @@ HF_SFX = {"titulo": [("riser", 0, -6), ("impact", 0.6, -4)], "capitulo": [("whoo
           "escala": [("tick", 0.9), ("tick", 1.45), ("tick", 2.0), ("tick", 2.55)], "perguntas": [("riser", 0, -8)],
           "cta": [("whoosh_a", 0.2), ("bell", 1.9, -2)]}
 # (longest a card may stay, length kept when it is split): info cards hold until read; titles stay snappy
-HF_HOLD = {"mapa": (9.0, 7.5), "ficha": (8.5, 7.0), "escala": (8.0, 6.5), "linha": (8.0, 6.5), "numero": (7.0, 5.5),
+HF_HOLD = {"versus": (8.0, 6.8), "placar": (6.0, 5.0), "veredito": (5.5, 4.6), "rodada": (6.0, 5.0), "mapa": (9.0, 7.5), "ficha": (8.5, 7.0), "escala": (8.0, 6.5), "linha": (8.0, 6.5), "numero": (7.0, 5.5),
            "perguntas": (9.0, 8.0), "titulo": (7.5, 6.5), "comparar": (7.0, 6.0), "cta": (6.5, 5.0)}
-HF_IN = {"titulo": "cut", "capitulo": "flash", "mapa": "blur", "linha": "blur", "escala": "blur", "numero": "blur", "ficha": "slide",
+HF_IN = {"rodada": "blur", "versus": "cut", "veredito": "cut", "placar": "blur", "titulo": "cut", "capitulo": "flash", "mapa": "blur", "linha": "blur", "escala": "blur", "numero": "blur", "ficha": "slide",
          "comparar": "fade", "frase": "punch", "perguntas": "blur", "cta": "zoom", "rotulo": "fade"}
 
 
@@ -290,4 +290,41 @@ def export_hf(ep, path):
             if s.get("hfcard"):
                 out.append(dict(s["hfcard"], dur=round(s["dur"] + 0.8, 3)))
     json.dump(out, open(path, "w"), ensure_ascii=False, indent=1)
+    return out
+
+
+# ---------------------------------------------------------------- per-episode look & sound (owner 15/11/2026)
+# every episode can pick its own HyperFrames theme and the "cinema" sound kit: no whooshes, no hiss (tonal hits only)
+THEME = [None]
+CINEMA_TRANS_SFX = {"fade": [None, None, "hit_soft"], "slide": ["sub_drop", None, "tape"], "zoom": ["boom_deep", "sub_drop"],
+                    "wipe": ["pulse", None], "whip": ["tape"], "flash": ["hit_soft", "glass"], "blur": [None, "shimmer"],
+                    "punch": ["hit_soft"], "mono": ["tick_soft"]}
+CINEMA_HF_SFX = {"titulo": [("braam", 0.4, -6), ("shimmer", 1.0, -10)], "rodada": [("boom_deep", 0, -4), ("ice_crack", 0.5, -6)],
+                 "versus": [("sub_drop", 0, -4), ("braam", 0.7, -4)], "veredito": [("pulse", 0, -4), ("tick_soft", 0.6), ("boom_deep", 0.8, -2)],
+                 "placar": [("tick_soft", 1.1), ("tick_soft", 1.4)], "ficha": [("glass", 0.1, -8)] + [("tick_soft", 1.1 + 0.32 * k) for k in range(4)],
+                 "rotulo": [("glass", 0.35, -10)], "frase": [("hit_soft", 0.2, -4)], "escala": [("riser_tone", 0.3, -10)],
+                 "mapa": [("sub_drop", 0.8, -6), ("ice_crack", 2.6, -6)], "perguntas": [("riser_tone", 0, -10)], "cta": [("glass", 0.2, -8), ("bell", 1.8, -6)]}
+
+
+def use_cinema(theme):
+    """Switch this episode to a HyperFrames theme + the tonal sound kit."""
+    THEME[0] = theme
+    K.SFX.update({n: (f"sfx/{n}.wav", g - SFX_DOWN) for n, g in {
+        "sub_drop": -16, "boom_deep": -14, "hit_soft": -15, "pulse": -14, "shimmer": -22, "glass": -24, "tape": -18, "braam": -15,
+        "riser_tone": -20, "tick_soft": -20, "ice_crack": -20, "win_brass": -16}.items()})
+    TRANS_SFX.clear(); TRANS_SFX.update(CINEMA_TRANS_SFX)
+    # 2.5D parallax camera on every other picture (owner: not a slideshow); the rest keep smooth classic moves
+    MOTION_CYCLE[:] = ["parallax", "push", "parallax", "pan_l", "parallax", "pull", "parallax", "diag", "parallax", "pan_r", "parallax", "focus"]
+    HF_SFX.clear(); HF_SFX.update(CINEMA_HF_SFX)
+
+
+def placar_sfx(prev, now):
+    up = "win_brass" if now[0] > prev[0] else ("braam" if now[1] > prev[1] else "pulse")
+    return [fx("tick_soft", 1.1), fx(up, 1.4, -4)]
+
+
+def export_hf_theme(ep, path):
+    out = export_hf(ep, path)
+    if THEME[0]:
+        json.dump({"theme": THEME[0], "cards": out}, open(path, "w"), ensure_ascii=False, indent=1)
     return out

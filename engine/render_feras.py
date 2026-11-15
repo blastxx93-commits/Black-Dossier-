@@ -553,7 +553,7 @@ def _persp_coeffs(src_pts, dst_pts):
     return list(np.linalg.solve(A_, b))
 
 
-MOTIONS = ["push", "pull", "pan_l", "pan_r", "tilt_up", "tilt_down", "diag", "focus"]
+MOTIONS = ["push", "pull", "pan_l", "pan_r", "tilt_up", "tilt_down", "diag", "focus", "parallax"]
 
 
 def shot_image_fx(ctx, s, n):
@@ -564,6 +564,11 @@ def shot_image_fx(ctx, s, n):
     mo = s.get("motion")
     if not mo or mo not in MOTIONS:
         yield from _plain_image(ctx, s, n); return
+    if mo == "parallax":
+        dp = ctx.path(s["src"]) + ".depth.png"
+        if os.path.exists(dp):
+            yield from shot_parallax(ctx, s, n, dp); return
+        mo = "push"
     over = 1.25
     W2, H2 = int(ctx.W * over), int(ctx.H * over)
     img = R.load_image(ctx, s["src"], W2, H2, tuple(s.get("focus", (0.5, 0.5))))
@@ -612,6 +617,55 @@ def shot_image_fx(ctx, s, n):
             ImageDraw.Draw(m).ellipse([lx - ctx.W // 20, -ctx.H // 16, lx + ctx.W // 20, ctx.H // 8 + ctx.H // 16], fill=int(110 * k))
             m = m.filter(ImageFilter.GaussianBlur(ctx.W // 80)).resize((ctx.W, ctx.H), Image.BILINEAR)
             fr = Image.composite(Image.blend(fr, lk, 0.5), fr, m)
+        if cap:
+            fr.paste(cap, (0, 0), cap)
+        yield fr
+
+
+def shot_parallax(ctx, s, n, depth_path):
+    """2.5D camera (owner 15/11/2026: not a slideshow): the picture is split in depth by its depth map and the
+    camera travels sideways while pushing in, so the foreground slides against the background like real footage.
+    Displacement is small (<= 2.2 % of the width) and the depth map is blurred, so edges never tear."""
+    import numpy as np
+    try:
+        import cv2
+    except ImportError:
+        cv2 = None
+    W, H = ctx.W, ctx.H
+    over = 1.22
+    W2, H2 = int(W * over), int(H * over)
+    img = R.load_image(ctx, s["src"], W2, H2, tuple(s.get("focus", (0.5, 0.5))))
+    dimg = Image.open(depth_path).convert("L")
+    # same cover-crop as the picture
+    sw, sh = dimg.size; sc = max(W2 / sw, H2 / sh); dimg = dimg.resize((max(W2, round(sw * sc)), max(H2, round(sh * sc))), Image.BICUBIC)
+    l = (dimg.width - W2) // 2; tp = (dimg.height - H2) // 2; dimg = dimg.crop((l, tp, l + W2, tp + H2))
+    src = np.asarray(img, dtype=np.uint8)
+    D = np.asarray(dimg, dtype=np.float32) / 255.0
+    D = (D - np.percentile(D, 5)) / max(1e-3, np.percentile(D, 95) - np.percentile(D, 5))
+    D = np.clip(D, 0, 1) - 0.4                    # far plane moves one way, near plane the other
+    cap = caption_layer(ctx, s["caption"]) if s.get("caption") else None
+    seed = sum(map(ord, s["src"])); sx = 1 if seed % 2 else -1
+    U, V = np.meshgrid(np.arange(W, dtype=np.float32), np.arange(H, dtype=np.float32))
+    amp = clamp((n / ctx.fps) / 5.0, 0.6, 1.0)
+    shift = 0.022 * W2 * amp
+    for i in range(n):
+        u = i / max(1, n - 1)
+        t = 0.85 * u + 0.15 * (u * u * (3 - 2 * u))
+        z = 1.0 + 0.07 * amp * t
+        cw, ch = W2 / z, H2 / z
+        x0 = (W2 - cw) / 2 + sx * (t - 0.5) * 0.35 * (W2 - cw)
+        y0 = (H2 - ch) / 2
+        mx = x0 + U * (cw / W); my = y0 + V * (ch / H)
+        dd = D[np.clip(my.astype(np.int32), 0, H2 - 1), np.clip(mx.astype(np.int32), 0, W2 - 1)]
+        off = sx * shift * (t - 0.5) * 2
+        mx = np.clip(mx - off * dd, 0, W2 - 1.001); my = np.clip(my - 0.25 * abs(off) * dd, 0, H2 - 1.001)
+        if cv2 is not None:
+            fr = cv2.remap(src, mx, my, cv2.INTER_LINEAR, borderMode=cv2.BORDER_REFLECT)
+        else:
+            fr = src[my.astype(np.int32), mx.astype(np.int32)]
+        fr = Image.fromarray(fr)
+        if s.get("snow"):
+            snow_layer(ctx, ImageDraw.Draw(fr, "RGBA"), i / ctx.fps, seed % 5, alpha=90)
         if cap:
             fr.paste(cap, (0, 0), cap)
         yield fr

@@ -17,6 +17,7 @@ Card fields per kind (img = path relative to the workdir, e.g. "a/ai/ai_stauri_h
 Optional on any card with a picture: move (push|pull|left|right|up), blurin, leak=false.
 """
 import html, json, math, os, re, shutil, subprocess, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 HF = os.path.join(HERE, "hf")
@@ -169,14 +170,20 @@ def grain(path):
     im.convert("RGB").save(path)
 
 
-def build(wd, cards, proj):
+def build(wd, cards, proj, theme=None):
+    """theme: None = "Dossiê Fóssil" (engine/hf/cards.*); otherwise engine/hf/themes/<theme>/ + engine/hf_theme_<theme>.py"""
+    global body
     if os.path.exists(proj):
         shutil.rmtree(proj)
     os.makedirs(os.path.join(proj, "m")); os.makedirs(os.path.join(proj, "fonts"))
-    for f in ("DMSerifDisplay-Regular.ttf", "Inter-SemiBold.otf", "Inter-Bold.otf", "InterDisplay-Black.otf"):
+    for f in ("DMSerifDisplay-Regular.ttf", "Inter-SemiBold.otf", "Inter-Bold.otf", "InterDisplay-Black.otf", "BebasNeue-Regular.ttf"):
         shutil.copy(os.path.join(HERE, "fonts", f), os.path.join(proj, "fonts", f))
+    src = os.path.join(HF, "themes", theme) if theme else HF
     for f in ("cards.css", "cards.js"):
-        shutil.copy(os.path.join(HF, f), os.path.join(proj, f))
+        shutil.copy(os.path.join(src, f), os.path.join(proj, f))
+    if theme:
+        import importlib
+        body = importlib.import_module(f"hf_theme_{theme}").body
     shutil.copy(os.path.join(HF, "vendor", "gsap.min.js"), os.path.join(proj, "gsap.min.js"))
     grain(os.path.join(proj, "grain.png"))
     t = 0.0; divs = []; data = []
@@ -224,9 +231,11 @@ def split(full, spans, outdir):
 
 if __name__ == "__main__":
     wd, spec = os.path.abspath(sys.argv[1]), os.path.abspath(sys.argv[2])
-    cards = json.load(open(spec))
+    cards = json.load(open(spec)); theme = None
+    if isinstance(cards, dict):
+        theme, cards = cards.get("theme"), cards["cards"]
     proj = os.path.join(wd, "hfproj")
-    spans = build(wd, cards, proj)
+    spans = build(wd, cards, proj, theme)
     full = os.path.join(proj, "cards.mp4")
     render(proj, full, os.environ.get("HF_QUALITY", "standard"))
     split(full, spans, os.path.join(wd, "hf"))

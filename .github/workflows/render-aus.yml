@@ -95,6 +95,13 @@ jobs:
         with:
           name: cartelas
           path: work/hf
+      - name: Profundidade das imagens (câmera 3D, fe05+)
+        run: |
+          if grep -q '"parallax"' work/episode.json; then
+            pip install -q --index-url https://download.pytorch.org/whl/cpu torch > /dev/null 2>&1 || true
+            pip install -q transformers opencv-python-headless > /dev/null 2>&1 || true
+            python3 main/engine/depth_maps.py work/episode.json --part ${{ matrix.k }}/${{ inputs.parts }} || true
+          fi
       - name: Renderizar parte ${{ matrix.k }}
         working-directory: main/engine
         run: python3 $( case "${{ inputs.episode }}" in ant*) echo render_ant.py;; fe*) echo render_feras.py;; *) echo render_aus.py;; esac ) "$GITHUB_WORKSPACE/work/episode.json" --part ${{ matrix.k }}/${{ inputs.parts }} "$GITHUB_WORKSPACE/part_${{ matrix.k }}.mp4"
