@@ -22,12 +22,12 @@ FALLBACK = {k: ["street", "dealer", "cars"] for k in PHOTOS}
 FALLBACK.update({"street": ["dealer", "cars"], "dealer": ["street", "cars"], "cars": ["street", "dealer"]})
 RES = ["m_tasman/1", "m_tasman/3", "m_cybertruck/1", "m_cybertruck/3", "m_palisade/1", "m_palisade/3", "m_wrangler/1", "m_wrangler/2",
        "m_wrangler/3", "m_grandcherokee/1", "m_gladiator/1", "m_avenger/1", "m_navara/3", "m_qashqai/1", "m_pathfinder/1", "m_p208/1",
-       "m_p308/1", "m_partner/3", "m_p3008/1", "m_grecale/1", "m_grecale/3", "m_levante/1", "m_ghibli/4", "m_gv70/1", "m_accord/3",
-       "m_accord/1", "m_camry/3", "m_mache2/1", "m_mache2/2", "m_modely/1", "m_cx70/1", "m_cx70/3", "m_defender/1", "m_ev9/2", "m_q4/1",
+       "m_p308/1", "m_partner/3", "m_p3008/1", "m_qashqai/3", "m_grecale/1", "m_grecale/3", "m_levante/1", "m_ghibli/4", "m_gv70/1", "m_accord/3",
+       "m_accord/1", "m_camry/3", "m_mache2/1", "m_mache2/3", "m_modely/1", "m_cx70/1", "m_cx70/3", "m_defender/1", "m_ev9/2", "m_q4/1",
        "m_polestar4/1", "m_fortuner/1", "m_jaguar/1", "m_lotus/1", "m_mclaren/1", "m_ranger/1", "m_hilux/3", "m_shark6/1", "m_everest/3",
        "m_prado/1"]
 A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FALLBACK, ["dealer", "street", "cars"], reserved=RES)
-A.CLIP_TARGET = 0.6
+A.CLIP_TARGET = 0.7
 A.MAX_HOLD, A.KEEP = 15.0, 9.5
 chapters = []
 SRC = "VFACTS via CarExpert"
@@ -39,9 +39,9 @@ c.at("Fifteen months later", P("ute", cap="7,898|sold in 15 months"))
 c.at("Clearly we are not satisfied yet", say("\"Clearly we are not satisfied yet.\" – Kia", "NOT SATISFIED", 120))
 c.at("A Tesla that Australians waited", photo("m_cybertruck", 1, "left", cap="Tesla Cybertruck|cancelled after 7 years"))
 c.at("A big family SUV pulled from sale", photo("m_palisade", 1, "right", cap="Hyundai Palisade|stop-sale"))
-c.at("A famous French brand", photo("m_p208", 1, "in", cap="Peugeot|dumped by its importer"))
+c.at("A famous French brand", photo("m_p3008", 1, "in", cap="Peugeot|dumped by its importer"))
 c.at("An American icon", photo("m_wrangler", 1, "left", cap="Jeep|-66%"))
-c.at("And a Japanese giant", photo("m_navara", 3, "in", cap="Nissan|\"the low point\""))
+c.at("And a Japanese giant", photo("m_qashqai", 3, "in", cap="Nissan|\"the low point\""))
 c.at("Here's what makes it even crazier", P("street"))
 c.at("So in this video, I'm counting down", title("2026's 10 Biggest Car Disasters", "from bad to unbelievable", "Australia 2026", "dealer"))
 c.at("And stay until number one", P("dealer"))
@@ -72,7 +72,7 @@ c.at("Instead, the Mach-E sold 206", P("ev"))
 c.at("Ford tried to fix it with price cuts", A.price("Mach-E GT", "$98,490", "$89,000", "previous price", "drive-away offer", None, "EV Central"))
 c.at("desperate to shift", say("Ford \"desperate to shift\" stock – EV Central", "DESPERATE", 110))
 c.at("In October alone, the Tesla Model Y", bars("Electric SUVs", [["Model Y · October", 3105], ["Mach-E · 9 months", 206, "red"]], None, SRC))
-c.at("In the United States", photo("m_mache2", 2, "in", cap="USA|50,000+ sold in 2025"))
+c.at("In the United States", photo("m_mache2", 3, "in", cap="USA|50,000+ sold in 2025"))
 c.at("In Australia, against a wall", P("street"))
 chapters.append(c)
 
@@ -142,7 +142,7 @@ c.at("On the 7th of March", P("gloom"))
 c.at("may not adequately detect", say("\"…may not adequately detect contact with an occupant or object…\" – Hyundai", "DETECT", 88))
 c.at("Hyundai halted sales and deliveries", stat("2,242", "Palisades recalled in Australia · 2 April 2026", "Cars24 / recall notice"))
 c.at("The fix is free", P("dealer"))
-c.at("This is a tragedy first", photo("m_palisade", 1, "left", cap="Check your recall status"))
+c.at("This is a tragedy first", P("dealer", cap="Palisade owners|check your recall status"))
 chapters.append(c)
 
 c = ch("ch11")

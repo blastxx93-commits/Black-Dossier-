@@ -1,0 +1,357 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Doc,Inter SemiBold,46,&H00FFFFFF,&H00FFFFFF,&H0008080F,&HA008080F,0,0,0,0,100,100,0.5,0,1,3,1.4,2,200,200,62,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.10,0:00:01.07,Doc,,0,0,0,,Twenty thousand.
+Dialogue: 0,0:00:01.12,0:00:04.55,Doc,,0,0,0,,That's how many utes Kia was talking\Nabout selling in the first year of its
+Dialogue: 0,0:00:04.60,0:00:05.43,Doc,,0,0,0,,brand-new Tasman.
+Dialogue: 0,0:00:05.48,0:00:06.87,Doc,,0,0,0,,Fifteen months later,
+Dialogue: 0,0:00:06.92,0:00:10.41,Doc,,0,0,0,,the real number was fewer than eight\Nthousand and Kia's own global planning
+Dialogue: 0,0:00:10.46,0:00:14.59,Doc,,0,0,0,,boss admitted: "Clearly we are not\Nsatisfied yet." And that's just one of the
+Dialogue: 0,0:00:14.64,0:00:16.67,Doc,,0,0,0,,disasters of 2026.
+Dialogue: 0,0:00:16.72,0:00:21.09,Doc,,0,0,0,,A Tesla that Australians waited almost\Nseven years for cancelled by email.
+Dialogue: 0,0:00:21.14,0:00:25.03,Doc,,0,0,0,,A big family SUV pulled from\Nsale after a tragedy overseas.
+Dialogue: 0,0:00:25.08,0:00:27.51,Doc,,0,0,0,,A famous French brand\Ndumped by its own importer.
+Dialogue: 0,0:00:27.56,0:00:31.29,Doc,,0,0,0,,An American icon whose sales\Ncollapsed by two thirds.
+Dialogue: 0,0:00:31.34,0:00:35.55,Doc,,0,0,0,,And a Japanese giant whose own boss\Nsays this year is "the low point".
+Dialogue: 0,0:00:35.60,0:00:37.43,Doc,,0,0,0,,Here's what makes it even crazier.
+Dialogue: 0,0:00:37.48,0:00:41.31,Doc,,0,0,0,,2026 is shaping up as a huge\Nyear for new cars in Australia.
+Dialogue: 0,0:00:41.36,0:00:43.65,Doc,,0,0,0,,October was the biggest October ever.
+Dialogue: 0,0:00:43.70,0:00:45.43,Doc,,0,0,0,,Buyers have money, and\Nthey're spending it.
+Dialogue: 0,0:00:45.48,0:00:47.17,Doc,,0,0,0,,They're just not spending it on these.
+Dialogue: 0,0:00:47.22,0:00:48.21,Doc,,0,0,0,,So in this video,
+Dialogue: 0,0:00:48.26,0:00:52.45,Doc,,0,0,0,,I'm counting down the ten biggest\Ncar disasters of 2026 in Australia,
+Dialogue: 0,0:00:52.50,0:00:54.33,Doc,,0,0,0,,from bad to unbelievable.
+Dialogue: 0,0:00:54.38,0:00:56.33,Doc,,0,0,0,,Real sales numbers, real quotes,
+Dialogue: 0,0:00:56.38,0:00:59.77,Doc,,0,0,0,,and what each disaster means if you own\None of these cars or you're thinking
+Dialogue: 0,0:00:59.82,0:01:01.09,Doc,,0,0,0,,about buying one.
+Dialogue: 0,0:01:01.14,0:01:02.53,Doc,,0,0,0,,And stay until number one,
+Dialogue: 0,0:01:02.58,0:01:05.75,Doc,,0,0,0,,because the gap between what was\Npromised and what actually happened is
+Dialogue: 0,0:01:05.80,0:01:06.60,Doc,,0,0,0,,unbelievable.
+Dialogue: 0,0:01:07.36,0:01:09.85,Doc,,0,0,0,,Before the countdown, a quick\Nlook at the battlefield,
+Dialogue: 0,0:01:09.90,0:01:12.95,Doc,,0,0,0,,because it explains almost\Nevery disaster on this list.
+Dialogue: 0,0:01:13.00,0:01:18.77,Doc,,0,0,0,,Australians bought 107,493\Nnew vehicles in October 2026,
+Dialogue: 0,0:01:18.82,0:01:20.11,Doc,,0,0,0,,a record for the month,
+Dialogue: 0,0:01:20.16,0:01:23.69,Doc,,0,0,0,,and the market passed one million sales\Nfor the year by the end of October.
+Dialogue: 0,0:01:23.74,0:01:25.15,Doc,,0,0,0,,But the money is moving fast.
+Dialogue: 0,0:01:25.20,0:01:29.13,Doc,,0,0,0,,Cars built in China were\Nup 104 per cent in October.
+Dialogue: 0,0:01:29.18,0:01:32.19,Doc,,0,0,0,,Electric cars were up 237 per cent.
+Dialogue: 0,0:01:32.24,0:01:35.45,Doc,,0,0,0,,BYD sold more than ten thousand\Ncars in a single month,
+Dialogue: 0,0:01:35.50,0:01:37.67,Doc,,0,0,0,,and Geely was up 520 per cent.
+Dialogue: 0,0:01:37.72,0:01:40.89,Doc,,0,0,0,,At the same time, cars from\NJapan were down 13 per cent,
+Dialogue: 0,0:01:40.94,0:01:44.87,Doc,,0,0,0,,from Korea down 23, and\Nfrom Germany down 24.
+Dialogue: 0,0:01:44.92,0:01:47.69,Doc,,0,0,0,,Mitsubishi was down 50\Nper cent in October,
+Dialogue: 0,0:01:47.74,0:01:52.33,Doc,,0,0,0,,Volkswagen down 46, Audi\Ndown 45 and Subaru down 42.
+Dialogue: 0,0:01:52.38,0:01:54.07,Doc,,0,0,0,,In a market moving this fast,
+Dialogue: 0,0:01:54.12,0:01:56.61,Doc,,0,0,0,,a car doesn't have to be\Nbad to become a disaster.
+Dialogue: 0,0:01:56.66,0:01:58.97,Doc,,0,0,0,,It just has to be too expensive, too late,
+Dialogue: 0,0:01:59.02,0:02:00.79,Doc,,0,0,0,,or in the wrong place at the wrong time.
+Dialogue: 0,0:02:00.84,0:02:04.85,Doc,,0,0,0,,And in 2026, plenty of\Ncars managed all three.
+Dialogue: 0,0:02:04.90,0:02:07.03,Doc,,0,0,0,,A quick word on how I chose this list.
+Dialogue: 0,0:02:07.08,0:02:08.69,Doc,,0,0,0,,I've looked at sales collapses,
+Dialogue: 0,0:02:08.74,0:02:11.23,Doc,,0,0,0,,cancellations, recalls\Nand broken promises,
+Dialogue: 0,0:02:11.28,0:02:14.57,Doc,,0,0,0,,using official VFACTS sales\Ndata and reports from CarExpert,
+Dialogue: 0,0:02:14.62,0:02:16.09,Doc,,0,0,0,,GoAuto and others.
+Dialogue: 0,0:02:16.14,0:02:19.49,Doc,,0,0,0,,I'm ranking them by how big the gap\Nis between what was expected and what
+Dialogue: 0,0:02:19.54,0:02:20.55,Doc,,0,0,0,,actually happened.
+Dialogue: 0,0:02:20.60,0:02:21.40,Doc,,0,0,0,,Let's go.
+Dialogue: 0,0:02:22.90,0:02:25.30,Doc,,0,0,0,,Number ten: the Mazda CX-70.
+Dialogue: 0,0:02:25.35,0:02:26.81,Doc,,0,0,0,,The CX-70 is Mazda's big,
+Dialogue: 0,0:02:26.86,0:02:30.77,Doc,,0,0,0,,premium five-seat SUV, with a\Npowerful six-cylinder engine.
+Dialogue: 0,0:02:30.82,0:02:32.63,Doc,,0,0,0,,It was designed mainly\Nfor the American market,
+Dialogue: 0,0:02:32.68,0:02:36.73,Doc,,0,0,0,,and Mazda brought it to Australia hoping\Nit would sit at the top of its range.
+Dialogue: 0,0:02:36.78,0:02:37.93,Doc,,0,0,0,,It didn't work.
+Dialogue: 0,0:02:37.98,0:02:40.39,Doc,,0,0,0,,In the first nine months of 2026,
+Dialogue: 0,0:02:40.44,0:02:43.97,Doc,,0,0,0,,the CX-70 sold just 182 cars in Australia,
+Dialogue: 0,0:02:44.02,0:02:47.33,Doc,,0,0,0,,down almost 35 per cent on\Nthe same period last year.
+Dialogue: 0,0:02:47.38,0:02:51.05,Doc,,0,0,0,,In the same class, the Land Rover\NDefender sold more than three thousand.
+Dialogue: 0,0:02:51.10,0:02:54.09,Doc,,0,0,0,,That's seventeen\NDefenders for every CX-70.
+Dialogue: 0,0:02:54.14,0:02:56.13,Doc,,0,0,0,,And this is after a big price cut.
+Dialogue: 0,0:02:56.18,0:02:57.32,Doc,,0,0,0,,In July 2026,
+Dialogue: 0,0:02:57.37,0:03:04.05,Doc,,0,0,0,,Mazda cut CX-70 prices by\Nbetween $3,700 and $8,051,
+Dialogue: 0,0:03:04.10,0:03:05.69,Doc,,0,0,0,,depending on the variant.
+Dialogue: 0,0:03:05.74,0:03:07.11,Doc,,0,0,0,,Sales still didn't recover.
+Dialogue: 0,0:03:07.16,0:03:08.35,Doc,,0,0,0,,Then in late October,
+Dialogue: 0,0:03:08.40,0:03:12.49,Doc,,0,0,0,,Mazda confirmed that the CX-70 is ending\Nproduction for the United States its
+Dialogue: 0,0:03:12.54,0:03:13.73,Doc,,0,0,0,,biggest market.
+Dialogue: 0,0:03:13.78,0:03:16.29,Doc,,0,0,0,,Mazda Australia says the\Ncar will continue here.
+Dialogue: 0,0:03:16.34,0:03:19.45,Doc,,0,0,0,,But when a car is built for America\Nand America stops getting it,
+Dialogue: 0,0:03:19.50,0:03:22.75,Doc,,0,0,0,,that's a warning sign for\Nanyone buying one in Australia.
+Dialogue: 0,0:03:22.80,0:03:25.80,Doc,,0,0,0,,Mazda as a whole was down\Nalmost 20 per cent in October.
+Dialogue: 0,0:03:26.63,0:03:29.42,Doc,,0,0,0,,Number nine: the Ford Mustang Mach-E.
+Dialogue: 0,0:03:29.47,0:03:30.50,Doc,,0,0,0,,This one should have been a hit.
+Dialogue: 0,0:03:30.55,0:03:33.10,Doc,,0,0,0,,It has one of the most\Nfamous badges in the world,
+Dialogue: 0,0:03:33.15,0:03:36.52,Doc,,0,0,0,,and it's an electric SUV in a year\Nwhen electric car sales in Australia
+Dialogue: 0,0:03:36.57,0:03:37.70,Doc,,0,0,0,,exploded.
+Dialogue: 0,0:03:37.75,0:03:42.96,Doc,,0,0,0,,Instead, the Mach-E sold 206 cars\Nin the first nine months of 2026,
+Dialogue: 0,0:03:43.01,0:03:44.44,Doc,,0,0,0,,down more than 34 per cent.
+Dialogue: 0,0:03:44.49,0:03:48.74,Doc,,0,0,0,,In all of 2025, it found fewer\Nthan five hundred buyers.
+Dialogue: 0,0:03:48.79,0:03:50.46,Doc,,0,0,0,,Ford tried to fix it with price cuts.
+Dialogue: 0,0:03:50.51,0:03:54.48,Doc,,0,0,0,,EV Central reported drive-away offers\Nof sixty thousand dollars for the
+Dialogue: 0,0:03:54.53,0:03:58.30,Doc,,0,0,0,,Select, seventy-five thousand for the\NPremium and eighty-nine thousand for the
+Dialogue: 0,0:03:58.35,0:04:01.94,Doc,,0,0,0,,GT cuts of up to around nine and a\Nhalf thousand dollars on earlier list
+Dialogue: 0,0:04:01.99,0:04:02.92,Doc,,0,0,0,,prices.
+Dialogue: 0,0:04:02.97,0:04:06.50,Doc,,0,0,0,,EV Central described it as Ford\Nbeing "desperate to shift" stock.
+Dialogue: 0,0:04:06.55,0:04:10.02,Doc,,0,0,0,,To understand how big this disaster\Nis, look at the competition.
+Dialogue: 0,0:04:10.07,0:04:15.10,Doc,,0,0,0,,In October alone, the Tesla\NModel Y sold 3,105 cars.
+Dialogue: 0,0:04:15.15,0:04:17.66,Doc,,0,0,0,,The Mach-E sold 206 in nine months.
+Dialogue: 0,0:04:17.71,0:04:22.88,Doc,,0,0,0,,In the United States, Ford sold more\Nthan fifty thousand Mach-Es in 2025.
+Dialogue: 0,0:04:22.93,0:04:26.52,Doc,,0,0,0,,In Australia, against a wall of\Ncheaper Chinese electric SUVs,
+Dialogue: 0,0:04:26.57,0:04:27.71,Doc,,0,0,0,,it simply disappeared.
+Dialogue: 0,0:04:28.54,0:04:30.75,Doc,,0,0,0,,Number eight: the Honda Accord.
+Dialogue: 0,0:04:30.80,0:04:33.85,Doc,,0,0,0,,This is the one that shocked a lot\Nof people in my last countdown.
+Dialogue: 0,0:04:33.90,0:04:36.27,Doc,,0,0,0,,In the first nine months of 2026,
+Dialogue: 0,0:04:36.32,0:04:39.49,Doc,,0,0,0,,Honda sold just 59 Accords\Nin the whole of Australia.
+Dialogue: 0,0:04:39.54,0:04:41.01,Doc,,0,0,0,,That's fewer than seven a month.
+Dialogue: 0,0:04:41.06,0:04:45.87,Doc,,0,0,0,,At around $64,900 drive-away\Nfor the single hybrid RS model,
+Dialogue: 0,0:04:45.92,0:04:50.49,Doc,,0,0,0,,it's an expensive mid-size sedan in a\Nmarket that's walking away from sedans.
+Dialogue: 0,0:04:50.54,0:04:51.67,Doc,,0,0,0,,In the same period,
+Dialogue: 0,0:04:51.72,0:04:57.17,Doc,,0,0,0,,Toyota sold 9,471 Camrys more than\None hundred and sixty Camrys for every
+Dialogue: 0,0:04:57.22,0:04:57.49,Doc,,0,0,0,,Accord.
+Dialogue: 0,0:04:57.54,0:05:00.91,Doc,,0,0,0,,Honda moved to a fixed-price\Nagency model in 2021,
+Dialogue: 0,0:05:00.96,0:05:03.30,Doc,,0,0,0,,with fewer dealerships and no haggling.
+Dialogue: 0,0:05:03.35,0:05:06.39,Doc,,0,0,0,,It said it wanted fewer,\Nmore profitable sales.
+Dialogue: 0,0:05:06.44,0:05:08.65,Doc,,0,0,0,,With the Accord, it certainly got fewer.
+Dialogue: 0,0:05:08.70,0:05:12.83,Doc,,0,0,0,,Now Honda is trying to clear 2026-built\Nstock with a thousand-dollar gift card
+Dialogue: 0,0:05:12.88,0:05:15.37,Doc,,0,0,0,,and five free services on the Accord.
+Dialogue: 0,0:05:15.42,0:05:19.59,Doc,,0,0,0,,And CarExpert reported the updated 2027\NAccord will cost a thousand dollars
+Dialogue: 0,0:05:19.64,0:05:20.55,Doc,,0,0,0,,more.
+Dialogue: 0,0:05:20.60,0:05:21.39,Doc,,0,0,0,,To be fair,
+Dialogue: 0,0:05:21.44,0:05:25.27,Doc,,0,0,0,,GoAuto pointed out that low sales like\Nthese are not necessarily about product
+Dialogue: 0,0:05:25.32,0:05:27.89,Doc,,0,0,0,,quality and the Accord\Nis a well-reviewed car.
+Dialogue: 0,0:05:27.94,0:05:31.72,Doc,,0,0,0,,But fifty-nine sales in nine months\Nis still a disaster by any measure.
+Dialogue: 0,0:05:32.48,0:05:33.99,Doc,,0,0,0,,Number seven: Maserati.
+Dialogue: 0,0:05:34.04,0:05:38.63,Doc,,0,0,0,,Maserati is one of the most famous names\Nin the car world the trident badge,
+Dialogue: 0,0:05:38.68,0:05:41.89,Doc,,0,0,0,,the Italian V6 and V8 engines, the luxury.
+Dialogue: 0,0:05:41.94,0:05:45.39,Doc,,0,0,0,,But in Australia in\N2026, it's in freefall.
+Dialogue: 0,0:05:45.44,0:05:48.55,Doc,,0,0,0,,According to CarExpert's analysis\Nof the first half of the year,
+Dialogue: 0,0:05:48.60,0:05:53.29,Doc,,0,0,0,,Maserati sold just 101 cars in\Nsix months, down 33 per cent.
+Dialogue: 0,0:05:53.34,0:05:56.55,Doc,,0,0,0,,Its main model, the Grecale SUV, sold 98.
+Dialogue: 0,0:05:56.60,0:06:02.75,Doc,,0,0,0,,For comparison, the Genesis GV70\Nluxury SUV alone sold 570 in the same
+Dialogue: 0,0:06:02.80,0:06:03.65,Doc,,0,0,0,,period.
+Dialogue: 0,0:06:03.70,0:06:07.17,Doc,,0,0,0,,The GranTurismo and GranCabrio\Nsold three between them.
+Dialogue: 0,0:06:07.22,0:06:08.63,Doc,,0,0,0,,And the range is shrinking.
+Dialogue: 0,0:06:08.68,0:06:09.77,Doc,,0,0,0,,The Ghibli sedan,
+Dialogue: 0,0:06:09.82,0:06:14.11,Doc,,0,0,0,,the Levante SUV and the Quattroporte\Nlimousine have all been discontinued.
+Dialogue: 0,0:06:14.16,0:06:17.89,Doc,,0,0,0,,In October, the Ghibli and the\NLevante recorded zero sales.
+Dialogue: 0,0:06:17.94,0:06:21.27,Doc,,0,0,0,,When a luxury brand stops selling,\Nit's not just a problem for the brand.
+Dialogue: 0,0:06:21.32,0:06:22.87,Doc,,0,0,0,,It's a problem for owners.
+Dialogue: 0,0:06:22.92,0:06:25.85,Doc,,0,0,0,,Resale values fall, dealers\Nget fewer customers,
+Dialogue: 0,0:06:25.90,0:06:28.57,Doc,,0,0,0,,and buyers start to worry\Nabout parts and servicing.
+Dialogue: 0,0:06:28.62,0:06:32.66,Doc,,0,0,0,,That's how a brand slowly disappears\Nfrom a market one quiet month at a time.
+Dialogue: 0,0:06:33.42,0:06:35.21,Doc,,0,0,0,,Number six: Peugeot.
+Dialogue: 0,0:06:35.26,0:06:39.29,Doc,,0,0,0,,In July 2026, Peugeot's\NAustralian importer,
+Dialogue: 0,0:06:39.34,0:06:42.99,Doc,,0,0,0,,Inchcape, announced that it was ending\Nits distribution deal for the brand.
+Dialogue: 0,0:06:43.04,0:06:47.09,Doc,,0,0,0,,In CarExpert's words, Peugeot was\N"dumped by its Australian distributor".
+Dialogue: 0,0:06:47.14,0:06:49.05,Doc,,0,0,0,,The sales numbers explain why.
+Dialogue: 0,0:06:49.10,0:06:54.65,Doc,,0,0,0,,Peugeot's best year in Australia\Nwas 2007, with 8,807 sales.
+Dialogue: 0,0:06:54.70,0:06:58.39,Doc,,0,0,0,,In 2025, it was down to 1,350.
+Dialogue: 0,0:06:58.44,0:07:00.51,Doc,,0,0,0,,In the first five months of 2026,
+Dialogue: 0,0:07:00.56,0:07:05.87,Doc,,0,0,0,,it delivered just 373 vehicles and\Nits best seller was the Partner van.
+Dialogue: 0,0:07:05.92,0:07:07.37,Doc,,0,0,0,,In the first half of the year,
+Dialogue: 0,0:07:07.42,0:07:10.89,Doc,,0,0,0,,the Peugeot 208 small car\Nrecorded just one delivery.
+Dialogue: 0,0:07:10.94,0:07:11.57,Doc,,0,0,0,,One.
+Dialogue: 0,0:07:11.62,0:07:17.35,Doc,,0,0,0,,And in October, the Peugeot 308 sold\Nthree cars and the 508 sold none.
+Dialogue: 0,0:07:17.40,0:07:19.41,Doc,,0,0,0,,Stellantis, Peugeot's parent company,
+Dialogue: 0,0:07:19.46,0:07:23.19,Doc,,0,0,0,,says it intends to "maintain continuity\Nof distribution in Australia".
+Dialogue: 0,0:07:23.24,0:07:26.17,Doc,,0,0,0,,Inchcape says it will keep looking\Nafter existing owners during the
+Dialogue: 0,0:07:26.22,0:07:26.99,Doc,,0,0,0,,transition.
+Dialogue: 0,0:07:27.04,0:07:30.05,Doc,,0,0,0,,But this is the second French brand\NInchcape has walked away from,
+Dialogue: 0,0:07:30.10,0:07:35.21,Doc,,0,0,0,,after Citroen in 2024 and Citroen\Nis no longer sold new in Australia.
+Dialogue: 0,0:07:35.26,0:07:36.49,Doc,,0,0,0,,If you own a Peugeot,
+Dialogue: 0,0:07:36.54,0:07:39.02,Doc,,0,0,0,,keep an eye on where your\Nnearest service centre will be.
+Dialogue: 0,0:07:40.58,0:07:41.88,Doc,,0,0,0,,Number five: Nissan.
+Dialogue: 0,0:07:41.93,0:07:45.56,Doc,,0,0,0,,This is a brand that sold almost eighty\Nthousand cars a year in Australia at
+Dialogue: 0,0:07:45.61,0:07:47.46,Doc,,0,0,0,,its peak in 2012.
+Dialogue: 0,0:07:47.51,0:07:50.98,Doc,,0,0,0,,In 2026, it's having its worst\Nyear in a very long time.
+Dialogue: 0,0:07:51.03,0:07:55.98,Doc,,0,0,0,,From January to July, Nissan\Ndelivered 15,445 vehicles,
+Dialogue: 0,0:07:56.03,0:07:57.60,Doc,,0,0,0,,down almost 34 per cent.
+Dialogue: 0,0:07:57.65,0:08:00.10,Doc,,0,0,0,,The Qashqai was down 73 per cent.
+Dialogue: 0,0:08:00.15,0:08:04.14,Doc,,0,0,0,,And the new-generation Navara ute a\Ncar that should have been a fresh start
+Dialogue: 0,0:08:04.19,0:08:06.00,Doc,,0,0,0,,was down almost 49 per cent.
+Dialogue: 0,0:08:06.05,0:08:07.56,Doc,,0,0,0,,Then came the cuts.
+Dialogue: 0,0:08:07.61,0:08:10.50,Doc,,0,0,0,,Nissan axed the Juke and\Nthe Pathfinder in Australia.
+Dialogue: 0,0:08:10.55,0:08:14.16,Doc,,0,0,0,,The new-generation Leaf electric\Ncar was postponed indefinitely.
+Dialogue: 0,0:08:14.21,0:08:18.34,Doc,,0,0,0,,And CarExpert reported that a tougher\NNavara Warrior model was cancelled.
+Dialogue: 0,0:08:18.39,0:08:22.42,Doc,,0,0,0,,Nissan's Oceania boss, Steve Milette,\Nwas remarkably honest about it.
+Dialogue: 0,0:08:22.47,0:08:25.80,Doc,,0,0,0,,He told CarExpert: "2026 is the low point,
+Dialogue: 0,0:08:25.85,0:08:28.64,Doc,,0,0,0,,and it then increases from\Nthere on in." In other words,
+Dialogue: 0,0:08:28.69,0:08:31.60,Doc,,0,0,0,,Nissan itself is calling 2026 the bottom.
+Dialogue: 0,0:08:31.65,0:08:33.34,Doc,,0,0,0,,To be fair to Nissan, there's a plan.
+Dialogue: 0,0:08:33.39,0:08:38.18,Doc,,0,0,0,,It's lining up new models, including\NChinese-built ones, for 2027.
+Dialogue: 0,0:08:38.23,0:08:41.07,Doc,,0,0,0,,But for 2026, the numbers\Nspeak for themselves.
+Dialogue: 0,0:08:42.83,0:08:43.57,Doc,,0,0,0,,Number four: Jeep.
+Dialogue: 0,0:08:43.62,0:08:45.47,Doc,,0,0,0,,The original off-road brand.
+Dialogue: 0,0:08:45.52,0:08:47.23,Doc,,0,0,0,,In September 2026,
+Dialogue: 0,0:08:47.28,0:08:50.97,Doc,,0,0,0,,the whole of Jeep sold just sixteen\Ncars in Australia, across every model.
+Dialogue: 0,0:08:51.02,0:08:52.21,Doc,,0,0,0,,According to CarExpert,
+Dialogue: 0,0:08:52.26,0:08:58.85,Doc,,0,0,0,,Jeep's sales in the first half of 2026\Nfell 66 per cent to just 365 vehicles.
+Dialogue: 0,0:08:58.90,0:09:02.35,Doc,,0,0,0,,The Compass was down 84 per\Ncent and is no longer sold here.
+Dialogue: 0,0:09:02.40,0:09:06.79,Doc,,0,0,0,,The Grand Cherokee was down almost 97\Nper cent, with stock nearly run out.
+Dialogue: 0,0:09:06.84,0:09:09.01,Doc,,0,0,0,,The Gladiator ute was down 56 per cent.
+Dialogue: 0,0:09:09.06,0:09:12.99,Doc,,0,0,0,,And the little Avenger, CarExpert\Nsimply described as a flop.
+Dialogue: 0,0:09:13.04,0:09:15.15,Doc,,0,0,0,,In October, the Jeep Compass sold one car,
+Dialogue: 0,0:09:15.20,0:09:18.27,Doc,,0,0,0,,and the Grand Cherokee\Nand Avenger sold none.
+Dialogue: 0,0:09:18.32,0:09:19.57,Doc,,0,0,0,,The problem is price.
+Dialogue: 0,0:09:19.62,0:09:22.47,Doc,,0,0,0,,The cheapest four-door Wrangler went\Nfrom around thirty-seven thousand dollars
+Dialogue: 0,0:09:22.52,0:09:27.03,Doc,,0,0,0,,in 2014 to almost seventy-six\Nthousand before on-road costs.
+Dialogue: 0,0:09:27.08,0:09:29.59,Doc,,0,0,0,,At that money, Australians\Nare buying a Prado,
+Dialogue: 0,0:09:29.64,0:09:33.33,Doc,,0,0,0,,an Everest, or a Chinese\Nfour-by-four with far more equipment.
+Dialogue: 0,0:09:33.38,0:09:36.49,Doc,,0,0,0,,Jeep is now offering four thousand\Ndollars towards your deposit on the
+Dialogue: 0,0:09:36.54,0:09:37.27,Doc,,0,0,0,,Wrangler Rubicon.
+Dialogue: 0,0:09:37.32,0:09:41.59,Doc,,0,0,0,,And reports say Jeep may use Chinese\Npartner Dongfeng for future models.
+Dialogue: 0,0:09:41.64,0:09:43.59,Doc,,0,0,0,,For a brand built on American heritage,
+Dialogue: 0,0:09:43.64,0:09:45.94,Doc,,0,0,0,,that tells you how bad things have become.
+Dialogue: 0,0:09:47.61,0:09:49.21,Doc,,0,0,0,,Number three: the Tesla Cybertruck.
+Dialogue: 0,0:09:49.26,0:09:53.57,Doc,,0,0,0,,This one is a disaster of a different\Nkind because the car never even arrived.
+Dialogue: 0,0:09:53.62,0:09:55.21,Doc,,0,0,0,,In November 2019,
+Dialogue: 0,0:09:55.26,0:09:58.19,Doc,,0,0,0,,Tesla started taking one-hundred-and-fifty-dollar\Ndeposits from Australians
+Dialogue: 0,0:09:58.24,0:09:59.71,Doc,,0,0,0,,for the Cybertruck.
+Dialogue: 0,0:09:59.76,0:10:01.59,Doc,,0,0,0,,Thousands of people put their names down.
+Dialogue: 0,0:10:01.64,0:10:02.77,Doc,,0,0,0,,Then they waited.
+Dialogue: 0,0:10:02.82,0:10:03.69,Doc,,0,0,0,,And waited.
+Dialogue: 0,0:10:03.74,0:10:08.13,Doc,,0,0,0,,The reservation portal closed\Nin May 2022 and never reopened.
+Dialogue: 0,0:10:08.18,0:10:11.37,Doc,,0,0,0,,Then, on the 23rd of October 2026,
+Dialogue: 0,0:10:11.42,0:10:13.27,Doc,,0,0,0,,Tesla emailed deposit holders with this:
+Dialogue: 0,0:10:13.32,0:10:15.31,Doc,,0,0,0,,"After careful consideration,
+Dialogue: 0,0:10:15.36,0:10:18.37,Doc,,0,0,0,,plans to produce Cybertruck for\NAustralia and New Zealand have been
+Dialogue: 0,0:10:18.42,0:10:22.57,Doc,,0,0,0,,discontinued." Almost seven years\Nafter the first deposits were taken.
+Dialogue: 0,0:10:22.62,0:10:23.67,Doc,,0,0,0,,The reason is simple.
+Dialogue: 0,0:10:23.72,0:10:26.15,Doc,,0,0,0,,The Cybertruck is built\Nonly in left-hand drive,
+Dialogue: 0,0:10:26.20,0:10:29.11,Doc,,0,0,0,,and it isn't sold in any\Nright-hand-drive country.
+Dialogue: 0,0:10:29.16,0:10:30.29,Doc,,0,0,0,,Tesla is refunding deposits,
+Dialogue: 0,0:10:30.34,0:10:34.41,Doc,,0,0,0,,and offering a free year of its Full\NSelf-Driving software to buyers who order
+Dialogue: 0,0:10:34.46,0:10:40.15,Doc,,0,0,0,,a Model 3 or Model Y instead\NCarExpert valued that at $1,788.
+Dialogue: 0,0:10:40.20,0:10:43.87,Doc,,0,0,0,,To be fair, a hundred and fifty\Ndollars won't break anyone.
+Dialogue: 0,0:10:43.92,0:10:46.87,Doc,,0,0,0,,But seven years of waiting for\Na truck that was never coming?
+Dialogue: 0,0:10:46.92,0:10:50.90,Doc,,0,0,0,,That's a disaster for Tesla's reputation\Nwith some of its most loyal fans.
+Dialogue: 0,0:10:51.74,0:10:53.57,Doc,,0,0,0,,Number two: the Hyundai Palisade.
+Dialogue: 0,0:10:53.62,0:10:58.27,Doc,,0,0,0,,The new-generation Palisade is Hyundai's\Nbig seven- and eight-seat family SUV.
+Dialogue: 0,0:10:58.32,0:11:01.41,Doc,,0,0,0,,It launched in Australia\Nwith a lot of excitement.
+Dialogue: 0,0:11:01.46,0:11:05.87,Doc,,0,0,0,,Then, in March 2026, came the\Nnews no car company ever wants.
+Dialogue: 0,0:11:05.92,0:11:07.15,Doc,,0,0,0,,On the 7th of March,
+Dialogue: 0,0:11:07.20,0:11:10.77,Doc,,0,0,0,,a two-year-old child died in an\Nincident involving a Palisade in Ohio,
+Dialogue: 0,0:11:10.82,0:11:12.57,Doc,,0,0,0,,in the United States.
+Dialogue: 0,0:11:12.62,0:11:16.03,Doc,,0,0,0,,Hyundai said the power-operated second-\Nand third-row seats in some models
+Dialogue: 0,0:11:16.08,0:11:20.43,Doc,,0,0,0,,"may not adequately detect contact with\Nan occupant or object as intended".
+Dialogue: 0,0:11:20.48,0:11:24.59,Doc,,0,0,0,,Hyundai halted sales and deliveries of\Nthe affected Palisade in North America,
+Dialogue: 0,0:11:24.64,0:11:26.07,Doc,,0,0,0,,Korea and Australia.
+Dialogue: 0,0:11:26.12,0:11:31.01,Doc,,0,0,0,,CarExpert reported around 2,260\Nvehicles were affected here.
+Dialogue: 0,0:11:31.06,0:11:32.21,Doc,,0,0,0,,On the 2nd of April,
+Dialogue: 0,0:11:32.26,0:11:38.15,Doc,,0,0,0,,a formal recall was issued in Australia\Nfor 2,242 Palisades from the 2025 and
+Dialogue: 0,0:11:38.20,0:11:42.93,Doc,,0,0,0,,2026 model years, to fix the software\Nin the electric seat-folding system.
+Dialogue: 0,0:11:42.98,0:11:45.81,Doc,,0,0,0,,The fix is free, and owners\Ncan get it at a dealer or,
+Dialogue: 0,0:11:45.86,0:11:47.71,Doc,,0,0,0,,in some cases, over the air.
+Dialogue: 0,0:11:47.76,0:11:51.07,Doc,,0,0,0,,This is a tragedy first, and\Na business disaster second.
+Dialogue: 0,0:11:51.12,0:11:52.77,Doc,,0,0,0,,If you own an affected Palisade,
+Dialogue: 0,0:11:52.82,0:11:55.03,Doc,,0,0,0,,check that the recall\Nwork has been done and,
+Dialogue: 0,0:11:55.08,0:11:56.49,Doc,,0,0,0,,as Hyundai advises,
+Dialogue: 0,0:11:56.54,0:12:00.78,Doc,,0,0,0,,always make sure no person or object is\Nin the seat's path before folding it.
+Dialogue: 0,0:12:01.41,0:12:03.66,Doc,,0,0,0,,And number one: the Kia Tasman.
+Dialogue: 0,0:12:03.71,0:12:05.20,Doc,,0,0,0,,Kia's first-ever ute.
+Dialogue: 0,0:12:05.25,0:12:07.20,Doc,,0,0,0,,It was developed with Australia in mind,
+Dialogue: 0,0:12:07.25,0:12:09.96,Doc,,0,0,0,,and before it launched,\NKia was talking big.
+Dialogue: 0,0:12:10.01,0:12:12.66,Doc,,0,0,0,,According to GoAuto, the target\Nwas twenty thousand sales,
+Dialogue: 0,0:12:12.71,0:12:16.48,Doc,,0,0,0,,and seven to ten per cent of the\Nute market, in its first year.
+Dialogue: 0,0:12:16.53,0:12:19.12,Doc,,0,0,0,,The Tasman arrived in July 2025.
+Dialogue: 0,0:12:19.17,0:12:20.92,Doc,,0,0,0,,And according to the\Nofficial VFACTS figures,
+Dialogue: 0,0:12:20.97,0:12:22.80,Doc,,0,0,0,,reported by GoAuto,
+Dialogue: 0,0:12:22.85,0:12:28.44,Doc,,0,0,0,,Kia had sold 7,898 Tasmans from\Nlaunch to the end of September 2026.
+Dialogue: 0,0:12:28.49,0:12:32.44,Doc,,0,0,0,,That's fifteen months, and not\Neven half the first-year target.
+Dialogue: 0,0:12:32.49,0:12:33.96,Doc,,0,0,0,,Kia hasn't hidden from it.
+Dialogue: 0,0:12:34.01,0:12:36.34,Doc,,0,0,0,,Kia Australia's CEO, Damien Meredith,
+Dialogue: 0,0:12:36.39,0:12:37.74,Doc,,0,0,0,,said early in the year:
+Dialogue: 0,0:12:37.79,0:12:41.14,Doc,,0,0,0,,"We're not making or looking\Nfor excuses." And in May,
+Dialogue: 0,0:12:41.19,0:12:43.38,Doc,,0,0,0,,Kia's global planning boss, Spencer Cho,
+Dialogue: 0,0:12:43.43,0:12:47.46,Doc,,0,0,0,,told CarExpert: "Clearly we are not\Nsatisfied yet." He said "all the options
+Dialogue: 0,0:12:47.51,0:12:51.36,Doc,,0,0,0,,are on the table" to fix it,\Nincluding more power or a hybrid.
+Dialogue: 0,0:12:51.41,0:12:55.10,Doc,,0,0,0,,The discounts have been huge up to\Nthirteen thousand dollars off the X-Pro
+Dialogue: 0,0:12:55.15,0:12:57.24,Doc,,0,0,0,,earlier in the year,\Naccording to CarExpert,
+Dialogue: 0,0:12:57.29,0:13:03.51,Doc,,0,0,0,,and in November the 2025 Tasman\NSX+ was advertised at $54,990
+Dialogue: 0,0:13:03.56,0:13:09.36,Doc,,0,0,0,,drive-away, down from\N$62,390 before on-road costs.
+Dialogue: 0,0:13:09.41,0:13:10.30,Doc,,0,0,0,,And in Korea,
+Dialogue: 0,0:13:10.35,0:13:14.20,Doc,,0,0,0,,local media reported that production\Nwas being cut because of weak demand.
+Dialogue: 0,0:13:14.25,0:13:15.16,Doc,,0,0,0,,Why didn't it work?
+Dialogue: 0,0:13:15.21,0:13:18.74,Doc,,0,0,0,,Critics have pointed to the\Nstyling and the lack of a hybrid.
+Dialogue: 0,0:13:18.79,0:13:21.42,Doc,,0,0,0,,Kia has pointed to the aggressive\Npricing of rival ute makers,
+Dialogue: 0,0:13:21.47,0:13:23.40,Doc,,0,0,0,,at a time when the Ford Ranger,
+Dialogue: 0,0:13:23.45,0:13:28.00,Doc,,0,0,0,,the Toyota HiLux and BYD's Shark 6\Nare fighting hard for every buyer.
+Dialogue: 0,0:13:28.05,0:13:29.00,Doc,,0,0,0,,Whatever the reason,
+Dialogue: 0,0:13:29.05,0:13:32.68,Doc,,0,0,0,,the Tasman is more than twelve thousand\Nsales short of its first-year plan
+Dialogue: 0,0:13:32.73,0:13:34.48,Doc,,0,0,0,,even with three extra months.
+Dialogue: 0,0:13:34.53,0:13:35.83,Doc,,0,0,0,,That's why it's number one.
+Dialogue: 0,0:13:36.58,0:13:37.55,Doc,,0,0,0,,Before the verdict,
+Dialogue: 0,0:13:37.60,0:13:41.91,Doc,,0,0,0,,a few dishonourable mentions disasters\Nthat only just missed the top ten.
+Dialogue: 0,0:13:41.96,0:13:43.31,Doc,,0,0,0,,The Kia EV9.
+Dialogue: 0,0:13:43.36,0:13:48.49,Doc,,0,0,0,,A seven-seat electric SUV from\N$97,000 before on-road costs.
+Dialogue: 0,0:13:48.54,0:13:50.87,Doc,,0,0,0,,In the first nine months of 2026,
+Dialogue: 0,0:13:50.92,0:13:54.31,Doc,,0,0,0,,it found 120 buyers,\Ndown almost 50 per cent.
+Dialogue: 0,0:13:54.36,0:13:56.63,Doc,,0,0,0,,Half its buyers, gone in a year.
+Dialogue: 0,0:13:56.68,0:13:58.45,Doc,,0,0,0,,The Audi Q4 e-tron.
+Dialogue: 0,0:13:58.50,0:14:01.45,Doc,,0,0,0,,Just two sales in\NOctober, down 96 per cent.
+Dialogue: 0,0:14:01.50,0:14:05.46,Doc,,0,0,0,,Audi has now cut the price of the\Nupdated model by up to eighteen thousand
+Dialogue: 0,0:14:05.51,0:14:09.61,Doc,,0,0,0,,dollars but deliveries of that\Ncar don't start until 2027.
+Dialogue: 0,0:14:09.66,0:14:10.01,Doc,,0,0,0,,Polestar.
+Dialogue: 0,0:14:10.06,0:14:13.52,Doc,,0,0,0,,In a year when electric car sales\Nin Australia more than doubled,
+Dialogue: 0,0:14:13.57,0:14:17.65,Doc,,0,0,0,,CarExpert reported that Polestar's sales\Nwere down ten per cent year to date.
+Dialogue: 0,0:14:17.70,0:14:20.93,Doc,,0,0,0,,The Polestar 4 was down\Nalmost a quarter in September.
+Dialogue: 0,0:14:20.98,0:14:23.13,Doc,,0,0,0,,Polestar's local boss, Scott Maynard,
+Dialogue: 0,0:14:23.18,0:14:24.15,Doc,,0,0,0,,defended the result,
+Dialogue: 0,0:14:24.20,0:14:28.21,Doc,,0,0,0,,saying the Polestar 4 is "absolutely\Nflying" but the overall numbers went
+Dialogue: 0,0:14:28.26,0:14:30.03,Doc,,0,0,0,,backwards in the middle of an EV boom.
+Dialogue: 0,0:14:30.08,0:14:31.53,Doc,,0,0,0,,The Toyota Fortuner.
+Dialogue: 0,0:14:31.58,0:14:34.93,Doc,,0,0,0,,Eight sales in October,\Ndown more than 97 per cent.
+Dialogue: 0,0:14:34.98,0:14:38.41,Doc,,0,0,0,,Toyota has axed it in\NAustralia, with no replacement.
+Dialogue: 0,0:14:38.46,0:14:41.09,Doc,,0,0,0,,Even the biggest brand in\Nthe country has its failures.
+Dialogue: 0,0:14:41.14,0:14:41.61,Doc,,0,0,0,,Mitsubishi.
+Dialogue: 0,0:14:41.66,0:14:44.61,Doc,,0,0,0,,Sales down 50 per cent in October alone.
+Dialogue: 0,0:14:44.66,0:14:48.77,Doc,,0,0,0,,For a brand that was a top-five player\Nnot long ago, that's a brutal month.
+Dialogue: 0,0:14:48.82,0:14:52.72,Doc,,0,0,0,,And three brands that recorded\Nexactly zero new-car sales in October:
+Dialogue: 0,0:14:52.77,0:14:55.15,Doc,,0,0,0,,Jaguar, Lotus and McLaren.
+Dialogue: 0,0:14:55.20,0:14:56.09,Doc,,0,0,0,,To be fair,
+Dialogue: 0,0:14:56.14,0:14:59.37,Doc,,0,0,0,,Jaguar has stopped selling new cars\Nwhile it reinvents itself as an electric
+Dialogue: 0,0:14:59.42,0:15:02.15,Doc,,0,0,0,,luxury brand, so its zero is planned.
+Dialogue: 0,0:15:02.20,0:15:05.89,Doc,,0,0,0,,But a month with zero sales is still a\Nstriking number for brands that so many
+Dialogue: 0,0:15:05.94,0:15:06.80,Doc,,0,0,0,,people know.
+Dialogue: 0,0:15:07.55,0:15:09.98,Doc,,0,0,0,,So what do these ten\Ndisasters have in common?
+Dialogue: 0,0:15:10.03,0:15:11.86,Doc,,0,0,0,,Most of them made the same mistake:
+Dialogue: 0,0:15:11.91,0:15:14.02,Doc,,0,0,0,,they arrived too expensive, or too late,
+Dialogue: 0,0:15:14.07,0:15:17.04,Doc,,0,0,0,,in a market that changed\Nfaster than anyone expected.
+Dialogue: 0,0:15:17.09,0:15:20.42,Doc,,0,0,0,,Chinese brands moved in with\Ncheaper hybrids and electric cars,
+Dialogue: 0,0:15:20.47,0:15:23.02,Doc,,0,0,0,,and buyers stopped paying\Na premium for a badge.
+Dialogue: 0,0:15:23.07,0:15:25.36,Doc,,0,0,0,,And for you, that matters in three ways.
+Dialogue: 0,0:15:25.41,0:15:28.32,Doc,,0,0,0,,First, if you're buying,\Ndisasters mean deals.
+Dialogue: 0,0:15:28.37,0:15:31.52,Doc,,0,0,0,,When a car isn't selling, the\Ndealer has the most room to move.
+Dialogue: 0,0:15:31.57,0:15:33.42,Doc,,0,0,0,,Ask for a written drive-away price,
+Dialogue: 0,0:15:33.47,0:15:36.50,Doc,,0,0,0,,ask how long the car has been in\Nstock, and ask about demonstrators.
+Dialogue: 0,0:15:36.55,0:15:38.56,Doc,,0,0,0,,Second, think about resale.
+Dialogue: 0,0:15:38.61,0:15:42.36,Doc,,0,0,0,,A car that's hard to sell new\Nis usually hard to sell used.
+Dialogue: 0,0:15:42.41,0:15:43.46,Doc,,0,0,0,,Plan to keep it longer,
+Dialogue: 0,0:15:43.51,0:15:46.40,Doc,,0,0,0,,and make sure the discount\Ncovers the extra depreciation.
+Dialogue: 0,0:15:46.45,0:15:49.64,Doc,,0,0,0,,Third, if you already own one\Nof these cars, don't panic.
+Dialogue: 0,0:15:49.69,0:15:53.30,Doc,,0,0,0,,Your warranty and consumer rights\Ndon't change because sales are low.
+Dialogue: 0,0:15:53.35,0:15:56.16,Doc,,0,0,0,,Check for recalls, keep your\Nservice history up to date,
+Dialogue: 0,0:15:56.21,0:15:58.68,Doc,,0,0,0,,and know where your nearest\Nservice centre will be.
+Dialogue: 0,0:15:58.73,0:16:01.42,Doc,,0,0,0,,So that's the list: the Mazda CX-70,
+Dialogue: 0,0:16:01.47,0:16:03.76,Doc,,0,0,0,,the Mustang Mach-E, the Honda Accord,
+Dialogue: 0,0:16:03.81,0:16:06.38,Doc,,0,0,0,,Maserati, Peugeot, Nissan, Jeep,
+Dialogue: 0,0:16:06.43,0:16:11.16,Doc,,0,0,0,,the Tesla Cybertruck, the Hyundai Palisade\Nand at number one, the Kia Tasman.
+Dialogue: 0,0:16:11.21,0:16:12.56,Doc,,0,0,0,,Now I want to hear from you.
+Dialogue: 0,0:16:12.61,0:16:16.10,Doc,,0,0,0,,Which of these do you think is\Nthe biggest disaster of 2026?
+Dialogue: 0,0:16:16.15,0:16:17.12,Doc,,0,0,0,,And did I miss one?
+Dialogue: 0,0:16:17.17,0:16:18.42,Doc,,0,0,0,,Tell me in the comments.
+Dialogue: 0,0:16:18.47,0:16:19.52,Doc,,0,0,0,,If you enjoyed this,
+Dialogue: 0,0:16:19.57,0:16:22.38,Doc,,0,0,0,,hit like and subscribe\Nbecause in the next video,
+Dialogue: 0,0:16:22.43,0:16:23.70,Doc,,0,0,0,,we're flipping it around:
+Dialogue: 0,0:16:23.75,0:16:27.22,Doc,,0,0,0,,the ten cars Australians\Nwent crazy for in 2026,
+Dialogue: 0,0:16:27.27,0:16:29.68,Doc,,0,0,0,,including one that's up more\Nthan six hundred per cent.
+Dialogue: 0,0:16:29.73,0:16:30.79,Doc,,0,0,0,,See you there.
