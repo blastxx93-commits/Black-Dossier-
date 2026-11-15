@@ -1,0 +1,3065 @@
+{
+ "output": "FE05_Urso_Polar_vs_Ursos_Gigantes.mp4",
+ "fps": 30,
+ "music": [
+  {
+   "file": "musica/tensao.mp3",
+   "start": 0.0,
+   "end": 49.88,
+   "gain": -25,
+   "fade_in": 3.0,
+   "fade_out": 3.0
+  },
+  {
+   "file": "musica/frio.mp3",
+   "start": 46.88,
+   "end": 152.29,
+   "gain": -25,
+   "fade_in": 3.0,
+   "fade_out": 3.0
+  },
+  {
+   "file": "musica/epico.mp3",
+   "start": 149.29,
+   "end": 321.15,
+   "gain": -25,
+   "fade_in": 3.0,
+   "fade_out": 3.0
+  },
+  {
+   "file": "musica/tensao.mp3",
+   "start": 318.15,
+   "end": 412.18,
+   "gain": -25,
+   "fade_in": 3.0,
+   "fade_out": 3.0
+  },
+  {
+   "file": "musica/epico.mp3",
+   "start": 409.18,
+   "end": 510.25,
+   "gain": -25,
+   "fade_in": 3.0,
+   "fade_out": 3.0
+  },
+  {
+   "file": "musica/tensao.mp3",
+   "start": 507.25,
+   "end": 605.14,
+   "gain": -25,
+   "fade_in": 3.0,
+   "fade_out": 3.0
+  },
+  {
+   "file": "musica/drama.mp3",
+   "start": 602.14,
+   "end": 687.47,
+   "gain": -25,
+   "fade_in": 3.0,
+   "fade_out": 3.0
+  }
+ ],
+ "chapters": [
+  {
+   "audio": "audio/ch00_hook.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "hf/hf01_frase.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "punch",
+     "max_hold": 6.0,
+     "keep": 4.6,
+     "hfcard": {
+      "text": "*700* quilos.",
+      "img": "a/ai/ai_27_1.jpg",
+      "blurin": true,
+      "kind": "frase",
+      "id": "hf01_frase"
+     },
+     "sfx": [
+      {
+       "file": "sfx/hit_soft.wav",
+       "gain": -28,
+       "at": 0.2
+      }
+     ],
+     "dur": 1.58,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_polar/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.72,
+     "fixed": true,
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/p_polar/1_commons.jpg",
+     "move": "in",
+     "dur": 4.74,
+     "fixed": true,
+     "motion": "parallax",
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/sub_drop.wav",
+       "gain": -29,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "hf/hf02_rotulo.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "fade",
+     "max_hold": 6.0,
+     "keep": 4.6,
+     "hfcard": {
+      "img": "a/p_polar/3_unsplash.jpg",
+      "kicker": "O maior carnívoro terrestre",
+      "name": "Urso polar",
+      "sci": "Ursus maritimus",
+      "kind": "rotulo",
+      "id": "hf02_rotulo"
+     },
+     "sfx": [
+      {
+       "file": "sfx/glass.wav",
+       "gain": -43,
+       "at": 0.35
+      }
+     ],
+     "dur": 3.94,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_polar/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.78,
+     "fixed": true,
+     "trans": "blur"
+    },
+    {
+     "type": "video",
+     "src": "hf/hf03_frase.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "punch",
+     "max_hold": 6.0,
+     "keep": 4.6,
+     "hfcard": {
+      "text": "Ele chegou *tarde* demais.",
+      "img": "a/p_seaice/1_commons.jpg",
+      "kind": "frase",
+      "id": "hf03_frase"
+     },
+     "sfx": [
+      {
+       "file": "sfx/hit_soft.wav",
+       "gain": -28,
+       "at": 0.2
+      }
+     ],
+     "dur": 2.32,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_bear_stand/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.98,
+     "fixed": true,
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/boom_deep.wav",
+       "gain": -27,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_21_1.jpg",
+     "move": "right",
+     "dur": 4.94,
+     "fixed": true,
+     "motion": "push",
+     "trans": "fade"
+    },
+    {
+     "type": "video",
+     "src": "hf/hf04_mapa.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "blur",
+     "max_hold": 9.0,
+     "keep": 7.5,
+     "hfcard": {
+      "kicker": "Onde ele viveu",
+      "title": "América do Sul",
+      "sub": "O maior urso de todos os tempos",
+      "lon": -58.4,
+      "lat": -34.6,
+      "kind": "mapa",
+      "id": "hf04_mapa"
+     },
+     "sfx": [
+      {
+       "file": "sfx/sub_drop.wav",
+       "gain": -31,
+       "at": 0.8
+      },
+      {
+       "file": "sfx/ice_crack.wav",
+       "gain": -35,
+       "at": 2.6
+      }
+     ],
+     "dur": 4.48,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_xduo_01_1.jpg",
+     "move": "in",
+     "dur": 4.82,
+     "fixed": true,
+     "motion": "parallax",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/pulse.wav",
+       "gain": -27,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "hf/hf05_frase.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "punch",
+     "max_hold": 6.0,
+     "keep": 4.6,
+     "hfcard": {
+      "text": "5 rodadas. 5 *gigantes.*",
+      "img": "a/ai/ai_xduo_03_1.jpg",
+      "kind": "frase",
+      "id": "hf05_frase"
+     },
+     "sfx": [
+      {
+       "file": "sfx/hit_soft.wav",
+       "gain": -28,
+       "at": 0.2
+      }
+     ],
+     "dur": 4.1,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_polar_swim/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.32,
+     "fixed": true,
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/shimmer.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "hf/hf06_titulo.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "cut",
+     "max_hold": 7.5,
+     "keep": 6.5,
+     "hfcard": {
+      "kicker": "Era das Feras",
+      "title": "Urso polar|vs. gigantes",
+      "sub": "Os maiores ursos que já existiram",
+      "img": "a/ai/ai_30_1.jpg",
+      "blurin": true,
+      "kind": "titulo",
+      "id": "hf06_titulo"
+     },
+     "sfx": [
+      {
+       "file": "sfx/braam.wav",
+       "gain": -30,
+       "at": 0.4
+      },
+      {
+       "file": "sfx/shimmer.wav",
+       "gain": -41,
+       "at": 1.0
+      }
+     ],
+     "dur": 2.663,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch01.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_polar/5_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.2,
+     "fixed": true,
+     "trans": "flash",
+     "sfx": [
+      {
+       "file": "sfx/hit_soft.wav",
+       "gain": -28,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "hf/hf07_ficha.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "slide",
+     "max_hold": 8.5,
+     "keep": 7.0,
+     "hfcard": {
+      "img": "a/p_polar/4_pixabay.jpg",
+      "kicker": "O competidor",
+      "name": "Urso polar",
+      "sci": "Ursus maritimus",
+      "rows": [
+       [
+        "Peso",
+        "400–700 kg"
+       ],
+       [
+        "Em pé",
+        "3 m"
+       ],
+       [
+        "Faro",
+        "+1 km"
+       ],
+       [
+        "Dieta",
+        "Focas"
+       ]
+      ],
+      "kind": "ficha",
+      "id": "hf07_ficha"
+     },
+     "sfx": [
+      {
+       "file": "sfx/glass.wav",
+       "gain": -41,
+       "at": 0.1
+      },
+      {
+       "file": "sfx/tick_soft.wav",
+       "gain": -29,
+       "at": 1.1
+      },
+      {
+       "file": "sfx/tick_soft.wav",
+       "gain": -29,
+       "at": 1.4200000000000002
+      },
+      {
+       "file": "sfx/tick_soft.wav",
+       "gain": -29,
+       "at": 1.7400000000000002
+      },
+      {
+       "file": "sfx/tick_soft.wav",
+       "gain": -29,
+       "at": 2.06
+      }
+     ],
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_seal/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.52,
+     "fixed": true,
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/hit_soft.wav",
+       "gain": -28,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_polar/6_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.6,
+     "fixed": true,
+     "trans": "slide"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_walrus/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.32,
+     "fixed": true,
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/sub_drop.wav",
+       "gain": -29,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/p_polar2/1_openverse.jpg",
+     "move": "down",
+     "dur": 4.6,
+     "fixed": true,
+     "motion": "pan_l",
+     "leak": true,
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_xpol_15_1.jpg",
+     "move": "out",
+     "dur": 5.42,
+     "fixed": true,
+     "motion": "parallax",
+     "trans": "mono",
+     "sfx": [
+      {
+       "file": "sfx/tick_soft.wav",
+       "gain": -33,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_arctic/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.48,
+     "fixed": true,
+     "trans": "blur"
+    },
+    {
+     "type": "image",
+     "src": "a/p_polar2/2_unsplash.jpg",
+     "move": "in",
+     "dur": 6.06,
+     "fixed": true,
+     "motion": "pull",
+     "trans": "fade"
+    },
+    {
+     "type": "video",
+     "src": "hf/hf08_frase.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "punch",
+     "max_hold": 6.0,
+     "keep": 4.6,
+     "hfcard": {
+      "text": "A pele dele é *preta.*",
+      "img": "a/p_polar2/3_pixabay.jpg",
+      "kind": "frase",
+      "id": "hf08_frase"
+     },
+     "sfx": [
+      {
+       "file": "sfx/hit_soft.wav",
+       "gain": -28,
+       "at": 0.2
+      }
+     ],
+     "dur": 4.8,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_polar/9_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.6,
+     "fixed": true,
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/tape.wav",
+       "gain": -31,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_xpol_16_1.jpg",
+     "move": "down",
+     "dur": 5.42,
+     "fixed": true,
+     "motion": "parallax",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/shimmer.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_polar/10_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.6,
+     "fixed": true,
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/boom_deep.wav",
+       "gain": -27,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_arctic/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.6,
+     "fixed": true,
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/hit_soft.wav",
+       "gain": -28,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_xpol_17_1.jpg",
+     "move": "in",
+     "dur": 3.78,
+     "fixed": true,
+     "motion": "diag",
+     "trans": "wipe"
+    },
+    {
+     "type": "image",
+     "src": "a/p_seaice/2_openverse.jpg",
+     "move": "out",
+     "dur": 3.9,
+     "fixed": true,
+     "motion": "parallax",
+     "trans": "blur"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_xpol_01_1.jpg",
+     "move": "right",
+     "dur": 5.36,
+     "fixed": true,
+     "motion": "pan_r",
+     "trans": "flash",
+     "sfx": [
+      {
+       "file": "sfx/glass.wav",
+       "gain": -37,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_xduo_04_1.jpg",
+     "move": "in",
+     "dur": 4.6,
+     "fixed": true,
+     "motion": "parallax",
+     "trans": "fade"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_arctic/5_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.6,
+     "fixed": true,
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/sub_drop.wav",
+       "gain": -29,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_xpol_18_1.jpg",
+     "move": "left",
+     "dur": 4.6,
+     "fixed": true,
+     "motion": "focus",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/sub_drop.wav",
+       "gain": -29,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_arctic/6_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.26,
+     "fixed": true,
+     "trans": "fade"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_arctic/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.09,
+     "fixed": false,
+     "trans": "mono",
+     "sfx": [
+      {
+       "file": "sfx/tick_soft.wav",
+       "gain": -33,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch02.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "hf/hf09_rodada.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "blur",
+     "max_hold": 6.0,
+     "keep": 5.0,
+     "hfcard": {
+      "num": 1,
+      "name": "Anficião",
+      "when": "Há 15 milhões de anos",
+      "sub": "O cão-urso · Europa e América do Norte",
+      "img": "a/ai/ai_02_1.jpg",
+      "of": 5,
+      "kind": "rodada",
+      "id": "hf09_rodada"
+     },
+     "sfx": [
+      {
+       "file": "sfx/boom_deep.wav",
+       "gain": -27,
+       "at": 0
+      },
+      {
+       "file": "sfx/ice_crack.wav",
+       "gain": -35,
+       "at": 0.5
+      }
+     ],
+     "dur": 5.72,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_brown/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.6,
+     "fixed": true,
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/hit_soft.wav",
+       "gain": -28,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/p_amphicyon/2_openverse.jpg",
+     "move": "out",
+     "dur": 4.6,
+     "fixed": true,
+     "motion": "parallax",
+     "leak": true,
+     "trans": "slide"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_brown/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.42,
+     "fixed": true,
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/shimmer.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_01_1.jpg",
+     "move": "up",
+     "dur": 4.6,
+     "fixed": true,
+     "motion": "push",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/boom_deep.wav",
+       "gain": -27,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/p_amphicyon/4_commons.jpg",
+     "move": "right",
+     "dur": 5.02,
+     "fixed": true,
+     "motion": "parallax",
+     "trans": "fade"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_savanna/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.6,
+     "fixed": true,
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/pulse.wav",
+       "gain": -27,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_xamp_05_1.jpg",
+     "move": "in",
+     "dur": 4.6,
+     "fixed": true,
+     "motion": "pan_l",
+     "trans": "blur"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_brown/5_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.34,
+     "fixed": true,
+     "trans": "flash",
+     "sfx": [
+      {
+       "file": "sfx/hit_soft.wav",
+       "gain": -28,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_03_1.jpg",
+     "move": "out",
+     "dur": 4.6,
+     "fixed": true,
+     "motion": "parallax",
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_35_1.jpg",
+     "move": "up",
+     "dur": 4.6,
+     "fixed": true,
+     "motion": "pull",
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/tape.wav",
+       "gain": -31,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_arctic/8_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.6,
+     "fixed": true,
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/sub_drop.wav",
+       "gain": -29,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_xpol_19_1.jpg",
+     "move": "out",
+     "dur": 3.5,
+     "fixed": true,
+     "motion": "parallax",
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/hit_soft.wav",
+       "gain": -28,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "hf/hf10_versus.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "cut",
+     "max_hold": 8.0,
+     "keep": 6.8,
+     "hfcard": {
+      "limg": "a/ai/ai_xpol_02_1.jpg",
+      "rimg": "a/ai/ai_05_1.jpg",
+      "left": {
+       "kicker": "Hoje",
+       "name": "Urso polar",
+       "stats": [
+        [
+         "Peso",
+         "700 kg",
+         300
+        ],
+        [
+         "Em pé",
+         "3 m",
+         280
+        ]
+       ]
+      },
+      "right": {
+       "kicker": "15 milhões de anos",
+       "name": "Anficião",
+       "stats": [
+        [
+         "Peso",
+         "500 kg",
+         210
+        ],
+        [
+         "Em pé",
+         "2,5 m",
+         230
+        ]
+       ]
+      },
+      "kind": "versus",
+      "id": "hf10_versus"
+     },
+     "sfx": [
+      {
+       "file": "sfx/sub_drop.wav",
+       "gain": -29,
+       "at": 0
+      },
+      {
+       "file": "sfx/braam.wav",
+       "gain": -28,
+       "at": 0.7
+      }
+     ],
+     "dur": 6.8,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_polar_walk/5_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.18,
+     "fixed": true,
+     "trans": "mono",
+     "sfx": [
+      {
+       "file": "sfx/tick_soft.wav",
+       "gain": -33,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "hf/hf11_veredito.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "cut",
+     "max_hold": 5.5,
+     "keep": 4.6,
+     "hfcard": {
+      "img": "a/ai/ai_04_1.jpg",
+      "result": "win",
+      "text": "Vitória do|urso polar",
+      "kind": "veredito",
+      "id": "hf11_veredito"
+     },
+     "sfx": [
+      {
+       "file": "sfx/pulse.wav",
+       "gain": -27,
+       "at": 0
+      },
+      {
+       "file": "sfx/tick_soft.wav",
+       "gain": -29,
+       "at": 0.6
+      },
+      {
+       "file": "sfx/boom_deep.wav",
+       "gain": -25,
+       "at": 0.8
+      }
+     ],
+     "dur": 2.67,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "hf/hf12_placar.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "blur",
+     "max_hold": 6.0,
+     "keep": 5.0,
+     "hfcard": {
+      "img": "a/p_seaice/3_unsplash.jpg",
+      "prev": [
+       0,
+       0
+      ],
+      "now": [
+       1,
+       0
+      ],
+      "sub": "",
+      "kind": "placar",
+      "id": "hf12_placar"
+     },
+     "sfx": [
+      {
+       "file": "sfx/tick_soft.wav",
+       "gain": -29,
+       "at": 1.1
+      },
+      {
+       "file": "sfx/win_brass.wav",
+       "gain": -29,
+       "at": 1.4
+      }
+     ],
+     "dur": 1.63,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_brown/6_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.091,
+     "fixed": false,
+     "trans": "fade"
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch03.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "hf/hf13_rodada.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "blur",
+     "max_hold": 6.0,
+     "keep": 5.0,
+     "hfcard": {
+      "num": 2,
+      "name": "Agriotério",
+      "when": "Há 4 milhões de anos",
+      "sub": "O urso buldogue · África, Eurásia e América",
+      "img": "a/ai/ai_07_1.jpg",
+      "of": 5,
+      "kind": "rodada",
+      "id": "hf13_rodada"
+     },
+     "sfx": [
+      {
+       "file": "sfx/boom_deep.wav",
+       "gain": -27,
+       "at": 0
+      },
+      {
+       "file": "sfx/ice_crack.wav",
+       "gain": -35,
+       "at": 0.5
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_agrio/4_openverse.jpg",
+     "move": "down",
+     "dur": 1.56,
+     "fixed": true,
+     "motion": "diag",
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/sub_drop.wav",
+       "gain": -29,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_brown/10_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.6,
+     "fixed": true,
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/shimmer.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_brown/11_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.6,
+     "fixed": true,
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/boom_deep.wav",
+       "gain": -27,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_xagr_01_1.jpg",
+     "move": "in",
+     "dur": 4.74,
+     "fixed": true,
+     "motion": "parallax",
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_06_1.jpg",
+     "move": "left",
+     "dur": 4.6,
+     "fixed": true,
+     "motion": "pan_r",
+     "leak": true,
+     "trans": "wipe"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_hyena/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.66,
+     "fixed": true,
+     "trans": "blur"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_grass/5_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.6,
+     "fixed": true,
+     "trans": "flash",
+     "sfx": [
+      {
+       "file": "sfx/glass.wav",
+       "gain": -37,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_xagr_02_1.jpg",
+     "move": "left",
+     "dur": 4.6,
+     "fixed": true,
+     "motion": "parallax",
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/hit_soft.wav",
+       "gain": -28,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_xagr_03_1.jpg",
+     "move": "out",
+     "dur": 5.84,
+     "fixed": true,
+     "motion": "focus",
+     "trans": "slide"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_08_1.jpg",
+     "move": "out",
+     "dur": 4.6,
+     "fixed": true,
+     "motion": "parallax",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/sub_drop.wav",
+       "gain": -29,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_hyena/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.6,
+     "fixed": true,
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_xagr_04_1.jpg",
+     "move": "right",
+     "dur": 4.82,
+     "fixed": true,
+     "motion": "push",
+     "trans": "mono",
+     "sfx": [
+      {
+       "file": "sfx/tick_soft.wav",
+       "gain": -33,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "hf/hf14_versus.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "cut",
+     "max_hold": 8.0,
+     "keep": 6.8,
+     "hfcard": {
+      "limg": "a/ai/ai_xpol_03_1.jpg",
+      "rimg": "a/ai/ai_10_1.jpg",
+      "left": {
+       "kicker": "Hoje",
+       "name": "Urso polar",
+       "stats": [
+        [
+         "Peso",
+         "700 kg",
+         300
+        ],
+        [
+         "Em pé",
+         "3 m",
+         280
+        ]
+       ]
+      },
+      "right": {
+       "kicker": "4 milhões de anos",
+       "name": "Agriotério",
+       "stats": [
+        [
+         "Peso",
+         "700 kg",
+         300
+        ],
+        [
+         "Em pé",
+         "3 m",
+         280
+        ]
+       ]
+      },
+      "kind": "versus",
+      "id": "hf14_versus"
+     },
+     "sfx": [
+      {
+       "file": "sfx/sub_drop.wav",
+       "gain": -29,
+       "at": 0
+      },
+      {
+       "file": "sfx/braam.wav",
+       "gain": -28,
+       "at": 0.7
+      }
+     ],
+     "dur": 6.8,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_polar_walk/6_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.4,
+     "fixed": true,
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/shimmer.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_xgel_01_1.jpg",
+     "move": "in",
+     "dur": 4.6,
+     "fixed": true,
+     "motion": "parallax",
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_xagr_05_1.jpg",
+     "move": "in",
+     "dur": 6.88,
+     "fixed": true,
+     "motion": "pan_l",
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/tape.wav",
+       "gain": -31,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "hf/hf15_veredito.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "cut",
+     "max_hold": 5.5,
+     "keep": 4.6,
+     "hfcard": {
+      "img": "a/ai/ai_10_1.jpg",
+      "result": "tie",
+      "text": "Empate",
+      "kind": "veredito",
+      "id": "hf15_veredito"
+     },
+     "sfx": [
+      {
+       "file": "sfx/pulse.wav",
+       "gain": -27,
+       "at": 0
+      },
+      {
+       "file": "sfx/tick_soft.wav",
+       "gain": -29,
+       "at": 0.6
+      },
+      {
+       "file": "sfx/boom_deep.wav",
+       "gain": -25,
+       "at": 0.8
+      }
+     ],
+     "dur": 2.06,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "hf/hf16_placar.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "blur",
+     "max_hold": 6.0,
+     "keep": 5.0,
+     "hfcard": {
+      "img": "a/ai/ai_xgel_04_1.jpg",
+      "prev": [
+       1,
+       0
+      ],
+      "now": [
+       1,
+       0
+      ],
+      "sub": "1 empate",
+      "kind": "placar",
+      "id": "hf16_placar"
+     },
+     "sfx": [
+      {
+       "file": "sfx/tick_soft.wav",
+       "gain": -29,
+       "at": 1.1
+      },
+      {
+       "file": "sfx/pulse.wav",
+       "gain": -27,
+       "at": 1.4
+      }
+     ],
+     "dur": 3.32,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_brown/12_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.802,
+     "fixed": false,
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/boom_deep.wav",
+       "gain": -27,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch04.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "hf/hf17_rodada.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "blur",
+     "max_hold": 6.0,
+     "keep": 5.0,
+     "hfcard": {
+      "num": 3,
+      "name": "Urso-das-cavernas",
+      "when": "Há 50 mil anos",
+      "sub": "Europa da Era do Gelo",
+      "img": "a/ai/ai_13_1.jpg",
+      "of": 5,
+      "kind": "rodada",
+      "id": "hf17_rodada"
+     },
+     "sfx": [
+      {
+       "file": "sfx/boom_deep.wav",
+       "gain": -27,
+       "at": 0
+      },
+      {
+       "file": "sfx/ice_crack.wav",
+       "gain": -35,
+       "at": 0.5
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_polar_fight/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 1.78,
+     "fixed": true,
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/hit_soft.wav",
+       "gain": -28,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_polar_fight/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.6,
+     "fixed": true,
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/pulse.wav",
+       "gain": -27,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_14_1.jpg",
+     "move": "up",
+     "dur": 4.6,
+     "fixed": true,
+     "motion": "parallax",
+     "trans": "blur"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_blizzard/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.54,
+     "fixed": true,
+     "trans": "flash",
+     "sfx": [
+      {
+       "file": "sfx/hit_soft.wav",
+       "gain": -28,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_polar_fight/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.6,
+     "fixed": true,
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_32_1.jpg",
+     "move": "out",
+     "dur": 4.6,
+     "fixed": true,
+     "motion": "pull",
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/sub_drop.wav",
+       "gain": -29,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/p_cavebear/1_commons.jpg",
+     "move": "down",
+     "dur": 4.6,
+     "fixed": true,
+     "motion": "parallax",
+     "leak": true,
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/sub_drop.wav",
+       "gain": -29,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_blizzard/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.26,
+     "fixed": true,
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_11_1.jpg",
+     "move": "out",
+     "dur": 4.6,
+     "fixed": true,
+     "motion": "diag",
+     "trans": "mono",
+     "sfx": [
+      {
+       "file": "sfx/tick_soft.wav",
+       "gain": -33,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/p_cavebear/2_openverse.jpg",
+     "move": "in",
+     "dur": 4.6,
+     "fixed": true,
+     "motion": "parallax",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/shimmer.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_blizzard/5_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.7,
+     "fixed": true,
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/hit_soft.wav",
+       "gain": -28,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "hf/hf18_versus.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "cut",
+     "max_hold": 8.0,
+     "keep": 6.8,
+     "hfcard": {
+      "limg": "a/ai/ai_30_1.jpg",
+      "rimg": "a/ai/ai_15_1.jpg",
+      "left": {
+       "kicker": "Hoje",
+       "name": "Urso polar",
+       "stats": [
+        [
+         "Peso",
+         "700 kg",
+         300
+        ],
+        [
+         "Em pé",
+         "3 m",
+         280
+        ]
+       ]
+      },
+      "right": {
+       "kicker": "50 mil anos",
+       "name": "Urso-das-cavernas",
+       "stats": [
+        [
+         "Peso",
+         "500 kg",
+         210
+        ],
+        [
+         "Em pé",
+         "2,7 m",
+         250
+        ]
+       ]
+      },
+      "kind": "versus",
+      "id": "hf18_versus"
+     },
+     "sfx": [
+      {
+       "file": "sfx/sub_drop.wav",
+       "gain": -29,
+       "at": 0
+      },
+      {
+       "file": "sfx/braam.wav",
+       "gain": -28,
+       "at": 0.7
+      }
+     ],
+     "dur": 7.7,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_12_1.jpg",
+     "move": "down",
+     "dur": 4.6,
+     "fixed": true,
+     "motion": "pan_r",
+     "trans": "slide"
+    },
+    {
+     "type": "image",
+     "src": "a/p_cavebear/3_unsplash.jpg",
+     "move": "left",
+     "dur": 4.6,
+     "fixed": true,
+     "motion": "parallax",
+     "trans": "blur"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_aurora/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.6,
+     "fixed": true,
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/boom_deep.wav",
+       "gain": -27,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/p_bearcave/1_commons.jpg",
+     "move": "out",
+     "dur": 3.62,
+     "fixed": true,
+     "motion": "focus",
+     "trans": "fade"
+    },
+    {
+     "type": "video",
+     "src": "hf/hf19_veredito.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "cut",
+     "max_hold": 5.5,
+     "keep": 4.6,
+     "hfcard": {
+      "img": "a/ai/ai_15_1.jpg",
+      "result": "win",
+      "text": "Vitória do|urso polar",
+      "kind": "veredito",
+      "id": "hf19_veredito"
+     },
+     "sfx": [
+      {
+       "file": "sfx/pulse.wav",
+       "gain": -27,
+       "at": 0
+      },
+      {
+       "file": "sfx/tick_soft.wav",
+       "gain": -29,
+       "at": 0.6
+      },
+      {
+       "file": "sfx/boom_deep.wav",
+       "gain": -25,
+       "at": 0.8
+      }
+     ],
+     "dur": 3.6,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "hf/hf20_placar.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "blur",
+     "max_hold": 6.0,
+     "keep": 5.0,
+     "hfcard": {
+      "img": "a/ai/ai_xpol_04_1.jpg",
+      "prev": [
+       1,
+       0
+      ],
+      "now": [
+       2,
+       0
+      ],
+      "sub": "1 empate",
+      "kind": "placar",
+      "id": "hf20_placar"
+     },
+     "sfx": [
+      {
+       "file": "sfx/tick_soft.wav",
+       "gain": -29,
+       "at": 1.1
+      },
+      {
+       "file": "sfx/win_brass.wav",
+       "gain": -29,
+       "at": 1.4
+      }
+     ],
+     "dur": 1.32,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "hf/hf21_cta.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "zoom",
+     "max_hold": 6.5,
+     "keep": 5.0,
+     "hfcard": {
+      "img": "a/ai/ai_xpol_05_1.jpg",
+      "text": "Está curtindo?",
+      "sub": "Deixa o like e se inscreve no canal",
+      "kind": "cta",
+      "id": "hf21_cta"
+     },
+     "sfx": [
+      {
+       "file": "sfx/glass.wav",
+       "gain": -41,
+       "at": 0.2
+      },
+      {
+       "file": "sfx/bell.wav",
+       "gain": -35,
+       "at": 1.8
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_aurora/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.51,
+     "fixed": false,
+     "trans": "wipe"
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch05.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "hf/hf22_rodada.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "blur",
+     "max_hold": 6.0,
+     "keep": 5.0,
+     "hfcard": {
+      "num": 4,
+      "name": "Urso-de-cara-achatada",
+      "when": "Há 20 mil anos",
+      "sub": "América do Norte",
+      "img": "a/ai/ai_18_1.jpg",
+      "of": 5,
+      "kind": "rodada",
+      "id": "hf22_rodada"
+     },
+     "sfx": [
+      {
+       "file": "sfx/boom_deep.wav",
+       "gain": -27,
+       "at": 0
+      },
+      {
+       "file": "sfx/ice_crack.wav",
+       "gain": -35,
+       "at": 0.5
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_17_1.jpg",
+     "move": "right",
+     "dur": 1.36,
+     "fixed": true,
+     "motion": "parallax",
+     "trans": "flash",
+     "sfx": [
+      {
+       "file": "sfx/glass.wav",
+       "gain": -37,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "hf/hf23_escala.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "blur",
+     "max_hold": 8.0,
+     "keep": 6.5,
+     "hfcard": {
+      "img": "a/ai/ai_16_1.jpg",
+      "kicker": "Em pé",
+      "title": "Quem é mais alto?",
+      "rows": [
+       [
+        "Humano",
+        1.75,
+        "hum"
+       ],
+       [
+        "Urso polar",
+        3.0
+       ],
+       [
+        "Cara-achatada",
+        3.4,
+        "top"
+       ]
+      ],
+      "kind": "escala",
+      "id": "hf23_escala"
+     },
+     "sfx": [
+      {
+       "file": "sfx/riser_tone.wav",
+       "gain": -39,
+       "at": 0.3
+      }
+     ],
+     "dur": 6.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_wolf/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.6,
+     "fixed": true,
+     "trans": "fade"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_brown/8_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.6,
+     "fixed": true,
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/tape.wav",
+       "gain": -31,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_19_1.jpg",
+     "move": "in",
+     "dur": 4.6,
+     "fixed": true,
+     "motion": "push",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/sub_drop.wav",
+       "gain": -29,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/p_arctodus/1_commons.jpg",
+     "move": "up",
+     "dur": 6.5,
+     "fixed": true,
+     "motion": "parallax",
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/hit_soft.wav",
+       "gain": -28,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_brown/9_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.6,
+     "fixed": true,
+     "trans": "mono",
+     "sfx": [
+      {
+       "file": "sfx/tick_soft.wav",
+       "gain": -33,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_wolf/5_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.6,
+     "fixed": true,
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/shimmer.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/p_arctodus/2_openverse.jpg",
+     "move": "out",
+     "dur": 4.6,
+     "fixed": true,
+     "motion": "pan_l",
+     "leak": true,
+     "trans": "fade"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_hyena/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.08,
+     "fixed": true,
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/sub_drop.wav",
+       "gain": -29,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_bison/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.6,
+     "fixed": true,
+     "trans": "blur"
+    },
+    {
+     "type": "image",
+     "src": "a/p_arctodus/3_commons.jpg",
+     "move": "down",
+     "dur": 4.6,
+     "fixed": true,
+     "motion": "parallax",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/boom_deep.wav",
+       "gain": -27,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_aurora/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.86,
+     "fixed": true,
+     "trans": "fade"
+    },
+    {
+     "type": "video",
+     "src": "hf/hf24_versus.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "cut",
+     "max_hold": 8.0,
+     "keep": 6.8,
+     "hfcard": {
+      "limg": "a/ai/ai_xpol_06_1.jpg",
+      "rimg": "a/ai/ai_20_1.jpg",
+      "left": {
+       "kicker": "Hoje",
+       "name": "Urso polar",
+       "stats": [
+        [
+         "Peso",
+         "700 kg",
+         300
+        ],
+        [
+         "Em pé",
+         "3 m",
+         280
+        ]
+       ]
+      },
+      "right": {
+       "kicker": "20 mil anos",
+       "name": "Cara-achatada",
+       "stats": [
+        [
+         "Peso",
+         "900 kg",
+         380
+        ],
+        [
+         "Em pé",
+         "3,4 m",
+         320
+        ]
+       ]
+      },
+      "kind": "versus",
+      "id": "hf24_versus"
+     },
+     "sfx": [
+      {
+       "file": "sfx/sub_drop.wav",
+       "gain": -29,
+       "at": 0
+      },
+      {
+       "file": "sfx/braam.wav",
+       "gain": -28,
+       "at": 0.7
+      }
+     ],
+     "dur": 7.26,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_xpol_07_1.jpg",
+     "move": "in",
+     "dur": 4.6,
+     "fixed": true,
+     "motion": "pull",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/pulse.wav",
+       "gain": -27,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_xsho_01_1.jpg",
+     "move": "in",
+     "dur": 4.6,
+     "fixed": true,
+     "motion": "parallax",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/shimmer.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_xsho_02_1.jpg",
+     "move": "left",
+     "dur": 4.6,
+     "fixed": true,
+     "motion": "diag",
+     "trans": "flash",
+     "sfx": [
+      {
+       "file": "sfx/hit_soft.wav",
+       "gain": -28,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_xsho_03_1.jpg",
+     "move": "out",
+     "dur": 2.86,
+     "fixed": true,
+     "motion": "parallax",
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/hit_soft.wav",
+       "gain": -28,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "hf/hf25_veredito.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "cut",
+     "max_hold": 5.5,
+     "keep": 4.6,
+     "hfcard": {
+      "img": "a/ai/ai_20_1.jpg",
+      "result": "loss",
+      "text": "Vitória do|cara-achatada",
+      "kind": "veredito",
+      "id": "hf25_veredito"
+     },
+     "sfx": [
+      {
+       "file": "sfx/pulse.wav",
+       "gain": -27,
+       "at": 0
+      },
+      {
+       "file": "sfx/tick_soft.wav",
+       "gain": -29,
+       "at": 0.6
+      },
+      {
+       "file": "sfx/boom_deep.wav",
+       "gain": -25,
+       "at": 0.8
+      }
+     ],
+     "dur": 3.56,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "hf/hf26_placar.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "blur",
+     "max_hold": 6.0,
+     "keep": 5.0,
+     "hfcard": {
+      "img": "a/ai/ai_xpol_09_1.jpg",
+      "prev": [
+       2,
+       0
+      ],
+      "now": [
+       2,
+       1
+      ],
+      "sub": "1 empate",
+      "kind": "placar",
+      "id": "hf26_placar"
+     },
+     "sfx": [
+      {
+       "file": "sfx/tick_soft.wav",
+       "gain": -29,
+       "at": 1.1
+      },
+      {
+       "file": "sfx/braam.wav",
+       "gain": -28,
+       "at": 1.4
+      }
+     ],
+     "dur": 1.24,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_polar_swim/5_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.251,
+     "fixed": false,
+     "trans": "slide"
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch06.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "hf/hf27_rodada.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "blur",
+     "max_hold": 6.0,
+     "keep": 5.0,
+     "hfcard": {
+      "num": 5,
+      "name": "Arctotério",
+      "when": "Há 1 milhão de anos",
+      "sub": "Pampas da Argentina · a final",
+      "img": "a/ai/ai_23_1.jpg",
+      "of": 5,
+      "kind": "rodada",
+      "id": "hf27_rodada"
+     },
+     "sfx": [
+      {
+       "file": "sfx/boom_deep.wav",
+       "gain": -27,
+       "at": 0
+      },
+      {
+       "file": "sfx/ice_crack.wav",
+       "gain": -35,
+       "at": 0.5
+      }
+     ],
+     "dur": 5.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_arctotherium/1_commons.jpg",
+     "move": "right",
+     "dur": 2.02,
+     "fixed": true,
+     "motion": "pan_r",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/sub_drop.wav",
+       "gain": -29,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "hf/hf28_rotulo.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "fade",
+     "max_hold": 6.0,
+     "keep": 4.6,
+     "hfcard": {
+      "img": "a/ai/ai_22_1.jpg",
+      "kicker": "O maior urso da história",
+      "name": "Arctotério",
+      "sci": "Arctotherium angustidens",
+      "enemy": true,
+      "kind": "rotulo",
+      "id": "hf28_rotulo"
+     },
+     "sfx": [
+      {
+       "file": "sfx/glass.wav",
+       "gain": -43,
+       "at": 0.35
+      }
+     ],
+     "dur": 4.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_arctotherium/2_commons.jpg",
+     "move": "in",
+     "dur": 4.6,
+     "fixed": true,
+     "motion": "parallax",
+     "trans": "mono",
+     "sfx": [
+      {
+       "file": "sfx/tick_soft.wav",
+       "gain": -33,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/p_arctotherium/4_commons.jpg",
+     "move": "up",
+     "dur": 4.28,
+     "fixed": true,
+     "motion": "focus",
+     "trans": "blur"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_brown/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.6,
+     "fixed": true,
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_xarc_01_1.jpg",
+     "move": "out",
+     "dur": 4.6,
+     "fixed": true,
+     "motion": "parallax",
+     "leak": true,
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/tape.wav",
+       "gain": -31,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_xarc_02_1.jpg",
+     "move": "down",
+     "dur": 2.86,
+     "fixed": true,
+     "motion": "push",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/shimmer.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_37_1.jpg",
+     "move": "out",
+     "dur": 4.6,
+     "fixed": true,
+     "motion": "parallax",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/boom_deep.wav",
+       "gain": -27,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_xarc_03_1.jpg",
+     "move": "in",
+     "dur": 4.6,
+     "fixed": true,
+     "motion": "pan_l",
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_xarc_04_1.jpg",
+     "move": "left",
+     "dur": 3.68,
+     "fixed": true,
+     "motion": "parallax",
+     "trans": "wipe"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_brown/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.6,
+     "fixed": true,
+     "trans": "blur"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_xarc_05_1.jpg",
+     "move": "out",
+     "dur": 4.12,
+     "fixed": true,
+     "motion": "pull",
+     "trans": "flash",
+     "sfx": [
+      {
+       "file": "sfx/glass.wav",
+       "gain": -37,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_polar_fight/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.6,
+     "fixed": true,
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/hit_soft.wav",
+       "gain": -28,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_xarc_07_1.jpg",
+     "move": "right",
+     "dur": 4.6,
+     "fixed": true,
+     "motion": "parallax",
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/sub_drop.wav",
+       "gain": -29,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_xarc_08_1.jpg",
+     "move": "in",
+     "dur": 6.42,
+     "fixed": true,
+     "motion": "diag",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/sub_drop.wav",
+       "gain": -29,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "hf/hf29_versus.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "cut",
+     "max_hold": 8.0,
+     "keep": 6.8,
+     "hfcard": {
+      "limg": "a/ai/ai_xpol_10_1.jpg",
+      "rimg": "a/ai/ai_25_1.jpg",
+      "left": {
+       "kicker": "Hoje",
+       "name": "Urso polar",
+       "stats": [
+        [
+         "Peso",
+         "700 kg",
+         300
+        ],
+        [
+         "Em pé",
+         "3 m",
+         280
+        ]
+       ]
+      },
+      "right": {
+       "kicker": "1 milhão de anos",
+       "name": "Arctotério",
+       "stats": [
+        [
+         "Peso",
+         "1.600 kg",
+         600
+        ],
+        [
+         "Em pé",
+         "3,6 m",
+         340
+        ]
+       ]
+      },
+      "kind": "versus",
+      "id": "hf29_versus"
+     },
+     "sfx": [
+      {
+       "file": "sfx/sub_drop.wav",
+       "gain": -29,
+       "at": 0
+      },
+      {
+       "file": "sfx/braam.wav",
+       "gain": -28,
+       "at": 0.7
+      }
+     ],
+     "dur": 6.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/p_pampas/3_pixabay.jpg",
+     "move": "up",
+     "dur": 6.56,
+     "fixed": true,
+     "motion": "parallax",
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_xpol_11_1.jpg",
+     "move": "in",
+     "dur": 4.72,
+     "fixed": true,
+     "motion": "pan_r",
+     "leak": true,
+     "trans": "mono",
+     "sfx": [
+      {
+       "file": "sfx/tick_soft.wav",
+       "gain": -33,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "hf/hf30_veredito.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "cut",
+     "max_hold": 5.5,
+     "keep": 4.6,
+     "hfcard": {
+      "img": "a/ai/ai_26_1.jpg",
+      "result": "loss",
+      "text": "Vitória do|Arctotério",
+      "kind": "veredito",
+      "id": "hf30_veredito"
+     },
+     "sfx": [
+      {
+       "file": "sfx/pulse.wav",
+       "gain": -27,
+       "at": 0
+      },
+      {
+       "file": "sfx/tick_soft.wav",
+       "gain": -29,
+       "at": 0.6
+      },
+      {
+       "file": "sfx/boom_deep.wav",
+       "gain": -25,
+       "at": 0.8
+      }
+     ],
+     "dur": 2.94,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "hf/hf31_placar.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "blur",
+     "max_hold": 6.0,
+     "keep": 5.0,
+     "hfcard": {
+      "img": "a/ai/ai_xpol_12_1.jpg",
+      "prev": [
+       2,
+       1
+      ],
+      "now": [
+       2,
+       2
+      ],
+      "sub": "1 empate · placar final",
+      "kind": "placar",
+      "id": "hf31_placar"
+     },
+     "sfx": [
+      {
+       "file": "sfx/tick_soft.wav",
+       "gain": -29,
+       "at": 1.1
+      },
+      {
+       "file": "sfx/braam.wav",
+       "gain": -28,
+       "at": 1.4
+      }
+     ],
+     "dur": 4.095,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch07.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_polar/12_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.6,
+     "fixed": true,
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_xpol_20_1.jpg",
+     "move": "out",
+     "dur": 3.18,
+     "fixed": true,
+     "motion": "parallax",
+     "trans": "slide"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_31_1.jpg",
+     "move": "out",
+     "dur": 4.0,
+     "fixed": true,
+     "motion": "focus",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/shimmer.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_bison/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.6,
+     "fixed": true,
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/boom_deep.wav",
+       "gain": -27,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_xpol_21_1.jpg",
+     "move": "down",
+     "dur": 4.6,
+     "fixed": true,
+     "motion": "parallax",
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/hit_soft.wav",
+       "gain": -28,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_xpol_22_1.jpg",
+     "move": "in",
+     "dur": 4.6,
+     "fixed": true,
+     "motion": "push",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/pulse.wav",
+       "gain": -27,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_xpol_23_1.jpg",
+     "move": "left",
+     "dur": 4.6,
+     "fixed": true,
+     "motion": "parallax",
+     "trans": "blur"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_xpol_24_1.jpg",
+     "move": "out",
+     "dur": 4.6,
+     "fixed": true,
+     "motion": "pan_l",
+     "trans": "flash",
+     "sfx": [
+      {
+       "file": "sfx/hit_soft.wav",
+       "gain": -28,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_xpol_26_1.jpg",
+     "move": "right",
+     "dur": 4.64,
+     "fixed": true,
+     "motion": "parallax",
+     "trans": "fade"
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_polar_swim/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.6,
+     "fixed": true,
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/tape.wav",
+       "gain": -31,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_xpol_27_1.jpg",
+     "move": "in",
+     "dur": 4.86,
+     "fixed": true,
+     "motion": "pull",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/sub_drop.wav",
+       "gain": -29,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_melt/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.92,
+     "fixed": true,
+     "trans": "fade"
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_xder_04_1.jpg",
+     "move": "right",
+     "dur": 4.6,
+     "fixed": true,
+     "motion": "parallax",
+     "leak": true,
+     "trans": "mono",
+     "sfx": [
+      {
+       "file": "sfx/tick_soft.wav",
+       "gain": -33,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_xpol_28_1.jpg",
+     "move": "up",
+     "dur": 3.94,
+     "fixed": true,
+     "motion": "diag",
+     "trans": "blur",
+     "sfx": [
+      {
+       "file": "sfx/shimmer.wav",
+       "gain": -35,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "hf/hf32_frase.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "punch",
+     "max_hold": 6.0,
+     "keep": 4.6,
+     "hfcard": {
+      "text": "O verdadeiro rival é o *clima.*",
+      "img": "a/ai/ai_xpol_13_1.jpg",
+      "kind": "frase",
+      "id": "hf32_frase"
+     },
+     "sfx": [
+      {
+       "file": "sfx/hit_soft.wav",
+       "gain": -28,
+       "at": 0.2
+      }
+     ],
+     "dur": 4.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_xpol_29_1.jpg",
+     "move": "out",
+     "dur": 3.32,
+     "fixed": true,
+     "motion": "parallax",
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/hit_soft.wav",
+       "gain": -28,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_seal/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.6,
+     "fixed": true,
+     "trans": "slide",
+     "sfx": [
+      {
+       "file": "sfx/sub_drop.wav",
+       "gain": -29,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "a/ai/ai_xpol_30_1.jpg",
+     "move": "down",
+     "dur": 3.08,
+     "fixed": true,
+     "motion": "pan_r",
+     "trans": "blur"
+    },
+    {
+     "type": "video",
+     "src": "hf/hf33_cta.mp4",
+     "fit": "crop",
+     "start": 0,
+     "trans": "zoom",
+     "max_hold": 6.5,
+     "keep": 5.0,
+     "hfcard": {
+      "img": "a/ai/ai_xpol_14_1.jpg",
+      "text": "Obrigado por assistir",
+      "sub": "Deixa o like e se inscreve no Era das Feras",
+      "kind": "cta",
+      "id": "hf33_cta"
+     },
+     "sfx": [
+      {
+       "file": "sfx/glass.wav",
+       "gain": -41,
+       "at": 0.2
+      },
+      {
+       "file": "sfx/bell.wav",
+       "gain": -35,
+       "at": 1.8
+      }
+     ],
+     "dur": 4.884,
+     "fixed": false,
+     "fade_out": 0
+    }
+   ]
+  }
+ ],
+ "size": [
+  1920,
+  1080
+ ]
+}
