@@ -7,6 +7,6 @@
 
 | plano | imagens |
 |---|---|
-| `m_accord2` | 6 |
+| `m_rexton2` | 6 |
 
 Licenças e autores de cada arquivo estão em `credits.csv`. Itens da Library of Congress marcados 'verificar' precisam de uma olhada na página antes de usar.
