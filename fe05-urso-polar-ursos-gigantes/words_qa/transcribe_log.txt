@@ -1,0 +1,20 @@
+total 4016
+drwxr-xr-x  2 runner runner   4096 Nov 15 16:26 .
+drwxr-xr-x 18 runner runner   4096 Nov 15 16:26 ..
+-rw-r--r--  1 runner runner 286244 Nov 15 16:26 ch00_hook.mp3
+-rw-r--r--  1 runner runner 610460 Nov 15 16:26 ch01.mp3
+-rw-r--r--  1 runner runner 476972 Nov 15 16:26 ch02.mp3
+-rw-r--r--  1 runner runner 528164 Nov 15 16:26 ch03.mp3
+-rw-r--r--  1 runner runner 542204 Nov 15 16:26 ch04.mp3
+-rw-r--r--  1 runner runner 579356 Nov 15 16:26 ch05.mp3
+-rw-r--r--  1 runner runner 565316 Nov 15 16:26 ch06.mp3
+-rw-r--r--  1 runner runner 499004 Nov 15 16:26 ch07.mp3
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+ch00_hook: 125 palavras, 47.6s
+ch01: 277 palavras, 101.6s
+ch02: 203 palavras, 79.4s
+ch03: 225 palavras, 87.9s
+ch04: 221 palavras, 90.2s
+ch05: 250 palavras, 96.4s
+ch06: 251 palavras, 94.1s
+ch07: 220 palavras, 83.0s
