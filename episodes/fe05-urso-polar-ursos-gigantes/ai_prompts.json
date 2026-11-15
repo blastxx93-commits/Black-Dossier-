@@ -198,6 +198,381 @@
    "id": "ai_39",
    "prompt": "Giant bear skull fossil next to a polar bear skull on a table, size comparison, museum",
    "tier": "cheap"
+  },
+  {
+   "id": "ai_xpol_01",
+   "prompt": "A adult polar bear, white-yellowish fur, black nose, small rounded ears, four legs, walking across sea ice at dawn, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xpol_02",
+   "prompt": "A adult polar bear, white-yellowish fur, black nose, small rounded ears, four legs, sniffing the air on an ice floe, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xpol_03",
+   "prompt": "A adult polar bear, white-yellowish fur, black nose, small rounded ears, four legs, swimming in dark Arctic water, head above surface, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xpol_04",
+   "prompt": "A adult polar bear, white-yellowish fur, black nose, small rounded ears, four legs, diving underwater, light rays, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xpol_05",
+   "prompt": "A adult polar bear, white-yellowish fur, black nose, small rounded ears, four legs, waiting beside a breathing hole in the ice, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xpol_06",
+   "prompt": "A adult polar bear, white-yellowish fur, black nose, small rounded ears, four legs, lunging at the water edge, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xpol_07",
+   "prompt": "A adult polar bear, white-yellowish fur, black nose, small rounded ears, four legs, shaking water off its fur on ice, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xpol_08",
+   "prompt": "A adult polar bear, white-yellowish fur, black nose, small rounded ears, four legs, walking through a blizzard, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xpol_09",
+   "prompt": "A adult polar bear, white-yellowish fur, black nose, small rounded ears, four legs, close-up of its black nose and face covered in frost, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xpol_10",
+   "prompt": "A adult polar bear, white-yellowish fur, black nose, small rounded ears, four legs, close-up of its large paw on snow, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xpol_11",
+   "prompt": "A adult polar bear, white-yellowish fur, black nose, small rounded ears, four legs, lying on snow resting, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xpol_12",
+   "prompt": "A adult polar bear, white-yellowish fur, black nose, small rounded ears, four legs, standing on hind legs looking far away, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xpol_13",
+   "prompt": "A adult polar bear, white-yellowish fur, black nose, small rounded ears, four legs, walking along a frozen shoreline at sunset, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xpol_14",
+   "prompt": "A adult polar bear, white-yellowish fur, black nose, small rounded ears, four legs, climbing onto an ice floe from the water, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xpol_15",
+   "prompt": "A adult polar bear, white-yellowish fur, black nose, small rounded ears, four legs, silhouette against the midnight sun, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xpol_16",
+   "prompt": "A adult polar bear, white-yellowish fur, black nose, small rounded ears, four legs, leaping between two ice floes, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xpol_17",
+   "prompt": "A adult polar bear, white-yellowish fur, black nose, small rounded ears, four legs, walking toward camera in fog, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xpol_18",
+   "prompt": "A adult polar bear, white-yellowish fur, black nose, small rounded ears, four legs, on a snowy ridge under northern lights, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xpol_19",
+   "prompt": "A adult polar bear, white-yellowish fur, black nose, small rounded ears, four legs, eating on the ice, seen from a distance, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xpol_20",
+   "prompt": "A adult polar bear, white-yellowish fur, black nose, small rounded ears, four legs, eyes close-up, intense stare, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xpol_21",
+   "prompt": "A adult polar bear, white-yellowish fur, black nose, small rounded ears, four legs, walking on a glacier, tiny in a vast landscape, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xpol_22",
+   "prompt": "A adult polar bear, white-yellowish fur, black nose, small rounded ears, four legs, digging in snow, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xpol_23",
+   "prompt": "A adult polar bear, white-yellowish fur, black nose, small rounded ears, four legs, rolling in snow, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xpol_24",
+   "prompt": "A adult polar bear, white-yellowish fur, black nose, small rounded ears, four legs, seen from a low angle, powerful, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xpol_25",
+   "prompt": "A adult polar bear, white-yellowish fur, black nose, small rounded ears, four legs, rear view walking away across the ice, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xpol_26",
+   "prompt": "A adult polar bear, white-yellowish fur, black nose, small rounded ears, four legs, aerial view of a polar bear on broken sea ice, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xpol_27",
+   "prompt": "A adult polar bear, white-yellowish fur, black nose, small rounded ears, four legs, standing on an iceberg, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xpol_28",
+   "prompt": "A adult polar bear, white-yellowish fur, black nose, small rounded ears, four legs, drinking meltwater pool, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xpol_29",
+   "prompt": "A adult polar bear, white-yellowish fur, black nose, small rounded ears, four legs, in blue arctic twilight, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xpol_30",
+   "prompt": "A adult polar bear, white-yellowish fur, black nose, small rounded ears, four legs, running across snow, powerful, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xgel_01",
+   "prompt": "Vast Arctic sea ice under a dramatic sky, no animals",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xgel_02",
+   "prompt": "Icebergs at sunset, calm Arctic ocean",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xgel_03",
+   "prompt": "Frozen Arctic ocean at night with northern lights",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xgel_04",
+   "prompt": "Blizzard over sea ice, white-out",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xgel_05",
+   "prompt": "Cracking sea ice close-up, blue water",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xgel_06",
+   "prompt": "Arctic coastline with glaciers and snow",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xgel_07",
+   "prompt": "Ice cave with blue light",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xgel_08",
+   "prompt": "Snow-covered tundra at dusk",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xagr_01",
+   "prompt": "Agriotherium, an extinct giant bear with a very short broad bulldog-like snout, long legs, dark brown fur, walking at golden hour in a savanna, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xagr_02",
+   "prompt": "Agriotherium, an extinct giant bear with a very short broad bulldog-like snout, long legs, dark brown fur, roaring, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xagr_03",
+   "prompt": "Agriotherium, an extinct giant bear with a very short broad bulldog-like snout, long legs, dark brown fur, drinking at a waterhole, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xagr_04",
+   "prompt": "Agriotherium, an extinct giant bear with a very short broad bulldog-like snout, long legs, dark brown fur, standing on hind legs, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xagr_05",
+   "prompt": "Agriotherium, an extinct giant bear with a very short broad bulldog-like snout, long legs, dark brown fur, close-up of its broad skull-shaped face, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xagr_06",
+   "prompt": "Agriotherium, an extinct giant bear with a very short broad bulldog-like snout, long legs, dark brown fur, walking through dust, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xagr_07",
+   "prompt": "Agriotherium, an extinct giant bear with a very short broad bulldog-like snout, long legs, dark brown fur, resting under an acacia tree, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xagr_08",
+   "prompt": "Agriotherium, an extinct giant bear with a very short broad bulldog-like snout, long legs, dark brown fur, seen from low angle, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xamp_01",
+   "prompt": "Amphicyon, extinct bear-dog with bear body, wolf-like long snout, long tail, brown coat, running through tall grass, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xamp_02",
+   "prompt": "Amphicyon, extinct bear-dog with bear body, wolf-like long snout, long tail, brown coat, drinking at a river, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xamp_03",
+   "prompt": "Amphicyon, extinct bear-dog with bear body, wolf-like long snout, long tail, brown coat, resting in shade, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xamp_04",
+   "prompt": "Amphicyon, extinct bear-dog with bear body, wolf-like long snout, long tail, brown coat, howling, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xamp_05",
+   "prompt": "Amphicyon, extinct bear-dog with bear body, wolf-like long snout, long tail, brown coat, stalking in dawn mist, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xamp_06",
+   "prompt": "Amphicyon, extinct bear-dog with bear body, wolf-like long snout, long tail, brown coat, walking side view, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xarc_01",
+   "prompt": "Arctotherium, the largest bear ever, colossal short-faced bear, dark brown shaggy fur, walking through tall pampas grass, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xarc_02",
+   "prompt": "Arctotherium, the largest bear ever, colossal short-faced bear, dark brown shaggy fur, close-up of its huge paw, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xarc_03",
+   "prompt": "Arctotherium, the largest bear ever, colossal short-faced bear, dark brown shaggy fur, roaring at the sky, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xarc_04",
+   "prompt": "Arctotherium, the largest bear ever, colossal short-faced bear, dark brown shaggy fur, walking at dawn in mist, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xarc_05",
+   "prompt": "Arctotherium, the largest bear ever, colossal short-faced bear, dark brown shaggy fur, drinking from a river, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xarc_06",
+   "prompt": "Arctotherium, the largest bear ever, colossal short-faced bear, dark brown shaggy fur, standing on a hill overlooking the plains, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xarc_07",
+   "prompt": "Arctotherium, the largest bear ever, colossal short-faced bear, dark brown shaggy fur, running, massive, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xarc_08",
+   "prompt": "Arctotherium, the largest bear ever, colossal short-faced bear, dark brown shaggy fur, rear view walking into the sunset, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xsho_01",
+   "prompt": "giant short-faced bear Arctodus, extremely tall long-legged bear, tawny fur, walking in snowy steppe, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xsho_02",
+   "prompt": "giant short-faced bear Arctodus, extremely tall long-legged bear, tawny fur, standing in a river, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xsho_03",
+   "prompt": "giant short-faced bear Arctodus, extremely tall long-legged bear, tawny fur, close-up profile, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xsho_04",
+   "prompt": "giant short-faced bear Arctodus, extremely tall long-legged bear, tawny fur, in fog, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xsho_05",
+   "prompt": "giant short-faced bear Arctodus, extremely tall long-legged bear, tawny fur, silhouette at sunset, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xduo_01",
+   "prompt": "A polar bear and a giant brown prehistoric bear circling each other in snow, both clearly separate",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xduo_02",
+   "prompt": "Two giant bears clashing standing on hind legs in snow, dynamic, both clearly separate",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xduo_03",
+   "prompt": "Close-up of two bear paws striking, dramatic",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xduo_04",
+   "prompt": "Polar bear and a giant bear facing off at dusk, silhouettes, both clearly separate",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xduo_05",
+   "prompt": "Giant bear footprints next to polar bear footprints in snow",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xder_01",
+   "prompt": "Melting sea ice with puddles under summer sun",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xder_02",
+   "prompt": "Thin broken ice floating on open dark ocean",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xder_03",
+   "prompt": "Glacier calving into the sea",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xder_04",
+   "prompt": "A lone polar bear on a tiny piece of ice in open sea, only one animal",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_xder_05",
+   "prompt": "Arctic summer with no ice, rocky shoreline",
+   "tier": "cheap"
   }
  ]
 }

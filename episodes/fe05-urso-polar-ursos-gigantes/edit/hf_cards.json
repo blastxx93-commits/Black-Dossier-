@@ -1,0 +1,512 @@
+{
+ "theme": "gelo",
+ "cards": [
+  {
+   "text": "*700* quilos.",
+   "img": "a/ai/ai_27_1.jpg",
+   "blurin": true,
+   "kind": "frase",
+   "id": "hf01_frase",
+   "dur": 2.38
+  },
+  {
+   "img": "a/p_polar/3_unsplash.jpg",
+   "kicker": "O maior carnívoro terrestre",
+   "name": "Urso polar",
+   "sci": "Ursus maritimus",
+   "kind": "rotulo",
+   "id": "hf02_rotulo",
+   "dur": 4.74
+  },
+  {
+   "text": "Ele chegou *tarde* demais.",
+   "img": "a/p_seaice/1_commons.jpg",
+   "kind": "frase",
+   "id": "hf03_frase",
+   "dur": 3.12
+  },
+  {
+   "kicker": "Onde ele viveu",
+   "title": "América do Sul",
+   "sub": "O maior urso de todos os tempos",
+   "lon": -58.4,
+   "lat": -34.6,
+   "kind": "mapa",
+   "id": "hf04_mapa",
+   "dur": 5.28
+  },
+  {
+   "text": "5 rodadas. 5 *gigantes.*",
+   "img": "a/p_seaice/3_unsplash.jpg",
+   "kind": "frase",
+   "id": "hf05_frase",
+   "dur": 4.9
+  },
+  {
+   "kicker": "Era das Feras",
+   "title": "Urso polar|vs. gigantes",
+   "sub": "Os maiores ursos que já existiram",
+   "img": "a/ai/ai_30_1.jpg",
+   "blurin": true,
+   "kind": "titulo",
+   "id": "hf06_titulo",
+   "dur": 3.463
+  },
+  {
+   "img": "a/p_polar/4_pixabay.jpg",
+   "kicker": "O competidor",
+   "name": "Urso polar",
+   "sci": "Ursus maritimus",
+   "rows": [
+    [
+     "Peso",
+     "400–700 kg"
+    ],
+    [
+     "Em pé",
+     "3 m"
+    ],
+    [
+     "Faro",
+     "+1 km"
+    ],
+    [
+     "Dieta",
+     "Focas"
+    ]
+   ],
+   "kind": "ficha",
+   "id": "hf07_ficha",
+   "dur": 7.8
+  },
+  {
+   "text": "A pele dele é *preta.*",
+   "img": "a/p_polar2/3_pixabay.jpg",
+   "kind": "frase",
+   "id": "hf08_frase",
+   "dur": 5.6
+  },
+  {
+   "num": 1,
+   "name": "Anficião",
+   "when": "Há 15 milhões de anos",
+   "sub": "O cão-urso · Europa e América do Norte",
+   "img": "a/ai/ai_02_1.jpg",
+   "of": 5,
+   "kind": "rodada",
+   "id": "hf09_rodada",
+   "dur": 6.52
+  },
+  {
+   "limg": "a/FALTA/polar_5.jpg",
+   "rimg": "a/ai/ai_05_1.jpg",
+   "left": {
+    "kicker": "Hoje",
+    "name": "Urso polar",
+    "stats": [
+     [
+      "Peso",
+      "700 kg",
+      300
+     ],
+     [
+      "Em pé",
+      "3 m",
+      280
+     ]
+    ]
+   },
+   "right": {
+    "kicker": "15 milhões de anos",
+    "name": "Anficião",
+    "stats": [
+     [
+      "Peso",
+      "500 kg",
+      210
+     ],
+     [
+      "Em pé",
+      "2,5 m",
+      230
+     ]
+    ]
+   },
+   "kind": "versus",
+   "id": "hf10_versus",
+   "dur": 7.6
+  },
+  {
+   "img": "a/ai/ai_04_1.jpg",
+   "result": "win",
+   "text": "Vitória do|urso polar",
+   "kind": "veredito",
+   "id": "hf11_veredito",
+   "dur": 3.47
+  },
+  {
+   "img": "a/FALTA/gelo_6.jpg",
+   "prev": [
+    0,
+    0
+   ],
+   "now": [
+    1,
+    0
+   ],
+   "sub": "",
+   "kind": "placar",
+   "id": "hf12_placar",
+   "dur": 2.43
+  },
+  {
+   "num": 2,
+   "name": "Agriotério",
+   "when": "Há 4 milhões de anos",
+   "sub": "O urso buldogue · África, Eurásia e América",
+   "img": "a/ai/ai_07_1.jpg",
+   "of": 5,
+   "kind": "rodada",
+   "id": "hf13_rodada",
+   "dur": 5.8
+  },
+  {
+   "limg": "a/FALTA/polar_7.jpg",
+   "rimg": "a/ai/ai_10_1.jpg",
+   "left": {
+    "kicker": "Hoje",
+    "name": "Urso polar",
+    "stats": [
+     [
+      "Peso",
+      "700 kg",
+      300
+     ],
+     [
+      "Em pé",
+      "3 m",
+      280
+     ]
+    ]
+   },
+   "right": {
+    "kicker": "4 milhões de anos",
+    "name": "Agriotério",
+    "stats": [
+     [
+      "Peso",
+      "700 kg",
+      300
+     ],
+     [
+      "Em pé",
+      "3 m",
+      280
+     ]
+    ]
+   },
+   "kind": "versus",
+   "id": "hf14_versus",
+   "dur": 7.6
+  },
+  {
+   "img": "a/ai/ai_10_1.jpg",
+   "result": "tie",
+   "text": "Empate",
+   "kind": "veredito",
+   "id": "hf15_veredito",
+   "dur": 2.86
+  },
+  {
+   "img": "a/FALTA/gelo_9.jpg",
+   "prev": [
+    1,
+    0
+   ],
+   "now": [
+    1,
+    0
+   ],
+   "sub": "1 empate",
+   "kind": "placar",
+   "id": "hf16_placar",
+   "dur": 4.12
+  },
+  {
+   "num": 3,
+   "name": "Urso-das-cavernas",
+   "when": "Há 50 mil anos",
+   "sub": "Europa da Era do Gelo",
+   "img": "a/ai/ai_13_1.jpg",
+   "of": 5,
+   "kind": "rodada",
+   "id": "hf17_rodada",
+   "dur": 5.8
+  },
+  {
+   "limg": "a/ai/ai_30_1.jpg",
+   "rimg": "a/ai/ai_15_1.jpg",
+   "left": {
+    "kicker": "Hoje",
+    "name": "Urso polar",
+    "stats": [
+     [
+      "Peso",
+      "700 kg",
+      300
+     ],
+     [
+      "Em pé",
+      "3 m",
+      280
+     ]
+    ]
+   },
+   "right": {
+    "kicker": "50 mil anos",
+    "name": "Urso-das-cavernas",
+    "stats": [
+     [
+      "Peso",
+      "500 kg",
+      210
+     ],
+     [
+      "Em pé",
+      "2,7 m",
+      250
+     ]
+    ]
+   },
+   "kind": "versus",
+   "id": "hf18_versus",
+   "dur": 8.5
+  },
+  {
+   "img": "a/ai/ai_15_1.jpg",
+   "result": "win",
+   "text": "Vitória do|urso polar",
+   "kind": "veredito",
+   "id": "hf19_veredito",
+   "dur": 4.4
+  },
+  {
+   "img": "a/FALTA/gelo_10.jpg",
+   "prev": [
+    1,
+    0
+   ],
+   "now": [
+    2,
+    0
+   ],
+   "sub": "1 empate",
+   "kind": "placar",
+   "id": "hf20_placar",
+   "dur": 2.12
+  },
+  {
+   "img": "a/FALTA/gelo_11.jpg",
+   "text": "Está curtindo?",
+   "sub": "Deixa o like e se inscreve no canal",
+   "kind": "cta",
+   "id": "hf21_cta",
+   "dur": 5.8
+  },
+  {
+   "num": 4,
+   "name": "Urso-de-cara-achatada",
+   "when": "Há 20 mil anos",
+   "sub": "América do Norte",
+   "img": "a/ai/ai_18_1.jpg",
+   "of": 5,
+   "kind": "rodada",
+   "id": "hf22_rodada",
+   "dur": 5.8
+  },
+  {
+   "img": "a/ai/ai_16_1.jpg",
+   "kicker": "Em pé",
+   "title": "Quem é mais alto?",
+   "rows": [
+    [
+     "Humano",
+     1.75,
+     "hum"
+    ],
+    [
+     "Urso polar",
+     3.0
+    ],
+    [
+     "Cara-achatada",
+     3.4,
+     "top"
+    ]
+   ],
+   "kind": "escala",
+   "id": "hf23_escala",
+   "dur": 7.3
+  },
+  {
+   "limg": "a/FALTA/polar_12.jpg",
+   "rimg": "a/ai/ai_20_1.jpg",
+   "left": {
+    "kicker": "Hoje",
+    "name": "Urso polar",
+    "stats": [
+     [
+      "Peso",
+      "700 kg",
+      300
+     ],
+     [
+      "Em pé",
+      "3 m",
+      280
+     ]
+    ]
+   },
+   "right": {
+    "kicker": "20 mil anos",
+    "name": "Cara-achatada",
+    "stats": [
+     [
+      "Peso",
+      "900 kg",
+      380
+     ],
+     [
+      "Em pé",
+      "3,4 m",
+      320
+     ]
+    ]
+   },
+   "kind": "versus",
+   "id": "hf24_versus",
+   "dur": 8.3
+  },
+  {
+   "img": "a/ai/ai_20_1.jpg",
+   "result": "loss",
+   "text": "Vitória do|cara-achatada",
+   "kind": "veredito",
+   "id": "hf25_veredito",
+   "dur": 4.3
+  },
+  {
+   "img": "a/FALTA/gelo_14.jpg",
+   "prev": [
+    2,
+    0
+   ],
+   "now": [
+    2,
+    1
+   ],
+   "sub": "1 empate",
+   "kind": "placar",
+   "id": "hf26_placar",
+   "dur": 1.96
+  },
+  {
+   "num": 5,
+   "name": "Arctotério",
+   "when": "Há 1 milhão de anos",
+   "sub": "Pampas da Argentina · a final",
+   "img": "a/ai/ai_23_1.jpg",
+   "of": 5,
+   "kind": "rodada",
+   "id": "hf27_rodada",
+   "dur": 5.8
+  },
+  {
+   "img": "a/ai/ai_22_1.jpg",
+   "kicker": "O maior urso da história",
+   "name": "Arctotério",
+   "sci": "Arctotherium angustidens",
+   "enemy": true,
+   "kind": "rotulo",
+   "id": "hf28_rotulo",
+   "dur": 5.4
+  },
+  {
+   "limg": "a/FALTA/polar_15.jpg",
+   "rimg": "a/ai/ai_25_1.jpg",
+   "left": {
+    "kicker": "Hoje",
+    "name": "Urso polar",
+    "stats": [
+     [
+      "Peso",
+      "700 kg",
+      300
+     ],
+     [
+      "Em pé",
+      "3 m",
+      280
+     ]
+    ]
+   },
+   "right": {
+    "kicker": "1 milhão de anos",
+    "name": "Arctotério",
+    "stats": [
+     [
+      "Peso",
+      "1.600 kg",
+      600
+     ],
+     [
+      "Em pé",
+      "3,6 m",
+      340
+     ]
+    ]
+   },
+   "kind": "versus",
+   "id": "hf29_versus",
+   "dur": 7.6
+  },
+  {
+   "img": "a/ai/ai_26_1.jpg",
+   "result": "loss",
+   "text": "Vitória do|Arctotério",
+   "kind": "veredito",
+   "id": "hf30_veredito",
+   "dur": 3.74
+  },
+  {
+   "img": "a/FALTA/gelo_17.jpg",
+   "prev": [
+    2,
+    1
+   ],
+   "now": [
+    2,
+    2
+   ],
+   "sub": "1 empate · placar final",
+   "kind": "placar",
+   "id": "hf31_placar",
+   "dur": 4.895
+  },
+  {
+   "text": "O verdadeiro rival é o *clima.*",
+   "img": "a/FALTA/derrete_22.jpg",
+   "kind": "frase",
+   "id": "hf32_frase",
+   "dur": 5.4
+  },
+  {
+   "img": "a/FALTA/polar_24.jpg",
+   "text": "Obrigado por assistir",
+   "sub": "Deixa o like e se inscreve no Era das Feras",
+   "kind": "cta",
+   "id": "hf33_cta",
+   "dur": 5.684
+  }
+ ]
+}

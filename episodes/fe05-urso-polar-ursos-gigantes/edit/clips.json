@@ -1,0 +1,9 @@
+{
+ "polar": ["v_polar/3","v_polar/4","v_polar/5","v_polar/6","v_polar/9","v_polar/10","v_polar/12","v_polar_swim/1"],
+ "brown": ["v_brown/2","v_brown/3","v_brown/5","v_brown/6","v_brown/10","v_brown/11","v_brown/12","v_polar_fight/2","v_polar_fight/3","v_bear_stand/2","v_brown/8","v_brown/9","v_polar_swim/4","v_polar_swim/5","v_brown/1","v_brown/4","v_polar_fight/1"],
+ "gelo": ["v_arctic/1","v_arctic/3","v_arctic/4","v_arctic/5","v_arctic/6","v_arctic/8","v_polar_walk/5","v_polar_walk/6","v_polar_fight/4","v_blizzard/1","v_blizzard/2","v_blizzard/5","v_aurora/1","v_aurora/3","v_aurora/4"],
+ "presa": ["v_seal/1","v_seal/3","v_walrus/2"],
+ "savana": ["v_savanna/2","v_savanna/3","v_savanna/5","v_hyena/1","v_hyena/2","v_grass/5"],
+ "eragelo": ["v_bison/2","v_bison/4","v_wolf/2","v_wolf/5","v_hyena/3"],
+ "derrete": ["v_melt/1","v_melt/4","v_melt/5","v_arctic/7"]
+}
