@@ -21,12 +21,12 @@ PHOTOS = {
 CLIPS = json.load(open(os.path.join(HERE, "clips.json")))
 GENERIC = CLIPS.pop("_generic", [])
 FALLBACK = {"dealer": ["street", "cars"], "street": ["dealer", "cars"], "port": ["street"], "money": ["dealer"], "ev": ["street"], "cars": ["street"]}
-RES = ["m_accord/3", "m_camry/3", "m_ev9/1", "m_ev9/2", "m_mache/1", "m_mache/3", "m_karoq/1", "m_karoq/3", "m_wrangler/1", "m_wrangler/3",
-       "m_rexton/1", "m_octavia/1", "m_octavia/3", "m_cx70/1", "m_cx70/3", "m_sonata/1", "m_sonata/3", "m_fabia/1", "m_fabia/3", "m_mg3/1",
+RES = ["m_accord/3", "m_camry/1", "m_accord2/3", "m_rexton2/5", "m_accord2/1", "m_accord2/2", "m_camry/3", "m_ev9/1", "m_ev9/2", "m_mache/1", "m_mache/3", "m_karoq/1", "m_karoq/3", "m_wrangler/1", "m_wrangler/3",
+       "m_octavia/1", "m_octavia/3", "m_cx70/1", "m_cx70/3", "m_sonata/1", "m_sonata/3", "m_fabia/1", "m_fabia/3", "m_mg3/1",
        "m_q4/1", "m_ix/1", "m_kangoo/1", "m_scross/1", "m_tonale/1", "m_fortuner/1", "m_defender/1", "m_lc300/3", "m_sealion7/1",
        "m_compass/1", "m_superb/3", "m_everest/3", "m_rav4/3", "m_ev9/3", "m_wrangler/2"]
 A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FALLBACK, ["dealer", "street", "cars"], reserved=RES)
-A.CLIP_TARGET = 0.55
+A.CLIP_TARGET = 0.6
 A.MAX_HOLD, A.KEEP = 15.0, 9.5
 chapters = []
 GA = "GoAuto / VFACTS"
@@ -34,6 +34,7 @@ SRC = "VFACTS via CarExpert"
 
 c = ch("ch00_hook", 0.6)
 c.at(0, photo("m_accord", 3, "in", cap="59|Honda Accords sold · Jan–Sept 2026"))
+c.at("Not fifty-nine a week", photo("m_accord2", 2, "right", cap="Honda Accord|fewer than 7 a month"))
 c.at("In the same nine months, Toyota sold", photo("m_camry", 3, "left", cap="Toyota Camry|9,471 sold"))
 c.at("over one hundred and sixty Camrys", say("160 Camrys for every Accord", "160", 130))
 c.at("A seven-seat Kia", photo("m_ev9", 1, "right", cap="Kia EV9|from $97,000"))
@@ -58,7 +59,7 @@ c.at("Let's start the countdown", P("street"))
 chapters.append(c)
 
 c = ch("ch02")
-c.at(0, rank(10, "KGM Rexton", "m_rexton", 1, "371 sold · -67%", "Jan–Sept 2026"))
+c.at(0, rank(10, "KGM Rexton", "m_rexton2", 5, "371 sold · -67%", "Jan–Sept 2026"))
 c.at("On paper, that's great value", P("cars"))
 c.at("In the first nine months of 2026, the Rexton found", bars("KGM Rexton · Jan–Sept", [["2025", 1125], ["2026", 371, "red"]], None, GA))
 c.at("GoAuto put it brutally", say("\"…the dubious honour…\" – GoAuto", "DUBIOUS HONOUR", 110))
@@ -142,9 +143,9 @@ c.at("sold just four cars in October", P("dealer"))
 chapters.append(c)
 
 c = ch("ch11")
-c.at(0, rank(1, "Honda Accord", "m_accord", 3, "59 sold · -24%", "Jan–Sept 2026"))
+c.at(0, rank(1, "Honda Accord", "m_accord2", 3, "59 sold · -24%", "Jan–Sept 2026"))
 c.at("That's fewer than seven cars a month", stat("< 7", "Honda Accords sold per month in Australia", GA, count=False))
-c.at("The Accord is now sold here", P("cars"))
+c.at("The Accord is now sold here", photo("m_accord2", 1, "left", cap="Honda Accord e:HEV RS|$64,900 drive-away"))
 c.at("That's over one hundred and sixty Camrys", bars("Mid-size cars · Jan–Sept", [["Toyota Camry", 9471], ["Honda Accord", 59, "red"]], None, GA))
 c.at("Honda's business model in Australia", P("dealer"))
 c.at("Its end-of-year plate clearance", stat("$1,000", "gift card on the Accord · plate clearance", "CarExpert", count=False))

@@ -1,0 +1,375 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Doc,Inter SemiBold,46,&H00FFFFFF,&H00FFFFFF,&H00180C06,&HA0180C06,0,0,0,0,100,100,0.5,0,1,3,1.4,2,200,200,62,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.01,0:00:00.95,Doc,,0,0,0,,Fifty-nine.
+Dialogue: 0,0:00:01.00,0:00:04.33,Doc,,0,0,0,,That's how many Honda Accords were sold\Nin the whole of Australia in the first
+Dialogue: 0,0:00:04.38,0:00:06.51,Doc,,0,0,0,,nine months of 2026.
+Dialogue: 0,0:00:06.56,0:00:07.83,Doc,,0,0,0,,Not fifty-nine a week.
+Dialogue: 0,0:00:07.88,0:00:09.10,Doc,,0,0,0,,Not fifty-nine a month.
+Dialogue: 0,0:00:09.15,0:00:13.21,Doc,,0,0,0,,Fifty-nine in nine months, across a\Ncountry of twenty-seven million people.
+Dialogue: 0,0:00:13.26,0:00:14.59,Doc,,0,0,0,,In the same nine months,
+Dialogue: 0,0:00:14.64,0:00:17.45,Doc,,0,0,0,,Toyota sold more than nine\Nthousand four hundred Camrys.
+Dialogue: 0,0:00:17.50,0:00:21.05,Doc,,0,0,0,,That's over one hundred and sixty\NCamrys for every single Accord.
+Dialogue: 0,0:00:21.10,0:00:22.59,Doc,,0,0,0,,And the Accord is not alone.
+Dialogue: 0,0:00:22.64,0:00:25.41,Doc,,0,0,0,,A seven-seat Kia that costs close\Nto a hundred thousand dollars.
+Dialogue: 0,0:00:25.46,0:00:29.05,Doc,,0,0,0,,A Ford with a famous badge that's been\Ncut by up to nine and a half thousand
+Dialogue: 0,0:00:29.10,0:00:31.73,Doc,,0,0,0,,dollars and still can't find buyers.
+Dialogue: 0,0:00:31.78,0:00:35.33,Doc,,0,0,0,,A Skoda that the RAV4 outsells by\Nmore than a hundred and thirty to one.
+Dialogue: 0,0:00:35.38,0:00:39.75,Doc,,0,0,0,,And one brand that has not one, not\Ntwo, but three cars on this list.
+Dialogue: 0,0:00:39.80,0:00:40.90,Doc,,0,0,0,,Here's the crazy part.
+Dialogue: 0,0:00:40.95,0:00:43.59,Doc,,0,0,0,,Australians are buying\Nmore new cars than ever.
+Dialogue: 0,0:00:43.64,0:00:46.87,Doc,,0,0,0,,October 2026 was the\Nbiggest October in history.
+Dialogue: 0,0:00:46.92,0:00:48.53,Doc,,0,0,0,,So buyers haven't disappeared.
+Dialogue: 0,0:00:48.58,0:00:51.01,Doc,,0,0,0,,They've just walked straight\Npast these ten cars.
+Dialogue: 0,0:00:51.06,0:00:51.87,Doc,,0,0,0,,So in this video,
+Dialogue: 0,0:00:51.92,0:00:56.41,Doc,,0,0,0,,I'm counting down the ten new cars\NAustralians are refusing to buy in 2026
+Dialogue: 0,0:00:56.46,0:00:58.71,Doc,,0,0,0,,with the real sales numbers, the prices,
+Dialogue: 0,0:00:58.76,0:01:01.85,Doc,,0,0,0,,and the desperate moves brands\Nare making to shift them.
+Dialogue: 0,0:01:01.90,0:01:02.83,Doc,,0,0,0,,Stay to the end,
+Dialogue: 0,0:01:02.88,0:01:05.89,Doc,,0,0,0,,because I'll also show you the cars\Nthat sold just one or two units last
+Dialogue: 0,0:01:05.94,0:01:09.18,Doc,,0,0,0,,month, and how to turn all of this\Ninto a better deal for yourself.
+Dialogue: 0,0:01:09.80,0:01:13.28,Doc,,0,0,0,,First, the big picture, because it\Nexplains everything on this list.
+Dialogue: 0,0:01:13.33,0:01:19.37,Doc,,0,0,0,,Australians bought 107,493\Nnew vehicles in October 2026,
+Dialogue: 0,0:01:19.42,0:01:21.71,Doc,,0,0,0,,according to the official VFACTS figures.
+Dialogue: 0,0:01:21.76,0:01:26.05,Doc,,0,0,0,,That's up 6.8 per cent on October\Nlast year, and a record for the month.
+Dialogue: 0,0:01:26.10,0:01:29.47,Doc,,0,0,0,,Year to date, the market has\Nalready passed one million sales.
+Dialogue: 0,0:01:29.52,0:01:31.25,Doc,,0,0,0,,But look at where that money is going.
+Dialogue: 0,0:01:31.30,0:01:35.47,Doc,,0,0,0,,Electric car sales were up 237\Nper cent on October last year.
+Dialogue: 0,0:01:35.52,0:01:38.65,Doc,,0,0,0,,BYD sold more than ten thousand\Ncars in a single month,
+Dialogue: 0,0:01:38.70,0:01:40.33,Doc,,0,0,0,,up 153 per cent,
+Dialogue: 0,0:01:40.38,0:01:43.21,Doc,,0,0,0,,and it's now firmly the second\Nbiggest brand in the country,
+Dialogue: 0,0:01:43.26,0:01:45.03,Doc,,0,0,0,,behind only Toyota.
+Dialogue: 0,0:01:45.08,0:01:46.93,Doc,,0,0,0,,Geely was up 520 per cent.
+Dialogue: 0,0:01:46.98,0:01:49.81,Doc,,0,0,0,,Cars built in China were up 104 per cent.
+Dialogue: 0,0:01:49.86,0:01:51.99,Doc,,0,0,0,,Now look at who's going backwards.
+Dialogue: 0,0:01:52.04,0:01:54.47,Doc,,0,0,0,,Mitsubishi, down 50\Nper cent for the month.
+Dialogue: 0,0:01:54.52,0:01:56.91,Doc,,0,0,0,,Volkswagen, down 46.
+Dialogue: 0,0:01:56.96,0:01:58.61,Doc,,0,0,0,,Audi, down 45.
+Dialogue: 0,0:01:58.66,0:02:00.51,Doc,,0,0,0,,Subaru, down 42.
+Dialogue: 0,0:02:00.56,0:02:02.91,Doc,,0,0,0,,Hyundai, down almost 29.
+Dialogue: 0,0:02:02.96,0:02:04.53,Doc,,0,0,0,,Mazda, down almost 20.
+Dialogue: 0,0:02:04.58,0:02:06.87,Doc,,0,0,0,,Cars from Japan were down 13 per cent,
+Dialogue: 0,0:02:06.92,0:02:11.09,Doc,,0,0,0,,from Korea down 23, and\Nfrom Germany down 24.
+Dialogue: 0,0:02:11.14,0:02:12.91,Doc,,0,0,0,,So this isn't a weak market.
+Dialogue: 0,0:02:12.96,0:02:16.91,Doc,,0,0,0,,It's a market where buyers are moving\Nfast and when buyers move this fast,
+Dialogue: 0,0:02:16.96,0:02:19.55,Doc,,0,0,0,,some cars get left behind\Nin the dealer's yard.
+Dialogue: 0,0:02:19.60,0:02:21.79,Doc,,0,0,0,,A quick word on how I built this list.
+Dialogue: 0,0:02:21.84,0:02:26.27,Doc,,0,0,0,,The ranking uses year-to-date sales\Nfrom January to September 2026,
+Dialogue: 0,0:02:26.32,0:02:29.07,Doc,,0,0,0,,compared with the same\Nnine months of 2025,
+Dialogue: 0,0:02:29.12,0:02:32.67,Doc,,0,0,0,,as compiled by GoAuto from\Nthe official VFACTS data.
+Dialogue: 0,0:02:32.72,0:02:36.73,Doc,,0,0,0,,I've added October numbers from\NCarExpert's sales database where they help.
+Dialogue: 0,0:02:36.78,0:02:39.05,Doc,,0,0,0,,And I've only included cars\Nthat are still on sale.
+Dialogue: 0,0:02:39.10,0:02:42.11,Doc,,0,0,0,,Cars that have already been\Naxed are a different story,
+Dialogue: 0,0:02:42.16,0:02:43.89,Doc,,0,0,0,,and I'll deal with those separately.
+Dialogue: 0,0:02:43.94,0:02:45.08,Doc,,0,0,0,,Let's start the countdown.
+Dialogue: 0,0:02:46.87,0:02:50.25,Doc,,0,0,0,,Number ten: the KGM Rexton.
+Dialogue: 0,0:02:50.30,0:02:51.81,Doc,,0,0,0,,The Rexton is a big, rugged,
+Dialogue: 0,0:02:51.86,0:02:55.53,Doc,,0,0,0,,diesel four-wheel-drive seven-seater\Nfrom the brand Australians used to know
+Dialogue: 0,0:02:55.58,0:02:56.53,Doc,,0,0,0,,as SsangYong.
+Dialogue: 0,0:02:56.58,0:02:58.75,Doc,,0,0,0,,It's built for towing and for the bush,
+Dialogue: 0,0:02:58.80,0:03:02.07,Doc,,0,0,0,,and it's priced from about fifty-two\Nthousand dollars drive-away up to just
+Dialogue: 0,0:03:02.12,0:03:04.69,Doc,,0,0,0,,over sixty-four thousand\Nfor the top model.
+Dialogue: 0,0:03:04.74,0:03:08.77,Doc,,0,0,0,,On paper, that's great value against\Na Toyota Prado or a Ford Everest.
+Dialogue: 0,0:03:08.82,0:03:10.13,Doc,,0,0,0,,But look at the numbers.
+Dialogue: 0,0:03:10.18,0:03:15.25,Doc,,0,0,0,,In the first nine months of 2026,\Nthe Rexton found 371 buyers.
+Dialogue: 0,0:03:15.30,0:03:19.39,Doc,,0,0,0,,In the same period last\Nyear, it was 1,125.
+Dialogue: 0,0:03:19.44,0:03:21.21,Doc,,0,0,0,,That's a fall of 67 per cent.
+Dialogue: 0,0:03:21.26,0:03:22.76,Doc,,0,0,0,,By the end of October,
+Dialogue: 0,0:03:22.81,0:03:26.53,Doc,,0,0,0,,CarExpert's database had the\NRexton on 403 for the year,
+Dialogue: 0,0:03:26.58,0:03:28.01,Doc,,0,0,0,,still down two thirds.
+Dialogue: 0,0:03:28.06,0:03:29.63,Doc,,0,0,0,,GoAuto put it brutally.
+Dialogue: 0,0:03:29.68,0:03:31.63,Doc,,0,0,0,,Of all the slow sellers it looked at,
+Dialogue: 0,0:03:31.68,0:03:35.69,Doc,,0,0,0,,the Rexton has "the dubious honour" of\Nboth the highest sales and the steepest
+Dialogue: 0,0:03:35.74,0:03:36.59,Doc,,0,0,0,,decline.
+Dialogue: 0,0:03:36.64,0:03:39.33,Doc,,0,0,0,,And while the Rexton sold 371,
+Dialogue: 0,0:03:39.38,0:03:46.88,Doc,,0,0,0,,the Ford Everest sold more than sixteen
+Dialogue: 0,0:03:58.24,0:04:05.74,Doc,,0,0,0,,thousand.
+Dialogue: 0,0:04:06.96,0:04:10.73,Doc,,0,0,0,,That's almost forty-four\NEverests for every Rexton.
+Dialogue: 0,0:04:10.78,0:04:17.43,Doc,,0,0,0,,Part of the problem is the price climb.
+Dialogue: 0,0:04:17.48,0:04:22.25,Doc,,0,0,0,,For 2026, the Rexton got more equipment\Nbut it also got more expensive.
+Dialogue: 0,0:04:22.30,0:04:23.43,Doc,,0,0,0,,And at the same time,
+Dialogue: 0,0:04:23.48,0:04:26.78,Doc,,0,0,0,,Chinese brands have flooded this\Nexact part of the market with cheaper
+Dialogue: 0,0:04:26.83,0:04:29.67,Doc,,0,0,0,,seven-seat SUVs and plug-in hybrids.
+Dialogue: 0,0:04:29.72,0:04:32.43,Doc,,0,0,0,,When the value brand stops\Nbeing the cheapest option,
+Dialogue: 0,0:04:32.48,0:04:34.80,Doc,,0,0,0,,buyers start asking why\Nthey should take the risk.
+Dialogue: 0,0:04:35.63,0:04:37.80,Doc,,0,0,0,,Number nine: the Skoda Octavia.
+Dialogue: 0,0:04:37.85,0:04:41.00,Doc,,0,0,0,,This is the first of\Nthree Skodas on this list,
+Dialogue: 0,0:04:41.05,0:04:43.02,Doc,,0,0,0,,and that tells you something already.
+Dialogue: 0,0:04:43.07,0:04:46.86,Doc,,0,0,0,,The Octavia is a car that motoring\Njournalists have loved for years.
+Dialogue: 0,0:04:46.91,0:04:49.88,Doc,,0,0,0,,It's practical, it's well\Nbuilt, it drives nicely,
+Dialogue: 0,0:04:49.93,0:04:53.16,Doc,,0,0,0,,and the wagon is one of the most\Nuseful family cars you can buy.
+Dialogue: 0,0:04:53.21,0:04:57.88,Doc,,0,0,0,,In 2026, Skoda even added a new\Nmild-hybrid version to the range.
+Dialogue: 0,0:04:57.93,0:04:59.36,Doc,,0,0,0,,But buyers aren't listening.
+Dialogue: 0,0:04:59.41,0:05:03.46,Doc,,0,0,0,,The Octavia sold 340 cars in the\Nfirst nine months of the year,
+Dialogue: 0,0:05:03.51,0:05:07.76,Doc,,0,0,0,,down from 557 in the same period of 2025.
+Dialogue: 0,0:05:07.81,0:05:09.56,Doc,,0,0,0,,That's a fall of 39 per cent.
+Dialogue: 0,0:05:09.61,0:05:12.06,Doc,,0,0,0,,Prices start at around forty-three and\Na half thousand dollars drive-away,
+Dialogue: 0,0:05:12.11,0:05:16.08,Doc,,0,0,0,,and the hot RS goes past\Nsixty-five thousand.
+Dialogue: 0,0:05:16.13,0:05:17.72,Doc,,0,0,0,,Here's the comparison that hurts.
+Dialogue: 0,0:05:17.77,0:05:22.52,Doc,,0,0,0,,In the same segment, the\NToyota Camry sold 9,471.
+Dialogue: 0,0:05:22.57,0:05:25.40,Doc,,0,0,0,,That's almost twenty-eight\NCamrys for every Octavia.
+Dialogue: 0,0:05:25.45,0:05:27.80,Doc,,0,0,0,,The problem isn't that\Nthe Octavia is a bad car.
+Dialogue: 0,0:05:27.85,0:05:30.88,Doc,,0,0,0,,It's that it's a petrol\Ncar, a European car,
+Dialogue: 0,0:05:30.93,0:05:34.94,Doc,,0,0,0,,and a sedan or wagon three things the\NAustralian market is moving away from at
+Dialogue: 0,0:05:34.99,0:05:36.32,Doc,,0,0,0,,the same time.
+Dialogue: 0,0:05:36.37,0:05:39.76,Doc,,0,0,0,,Buyers who want something\Npractical are buying hybrid SUVs.
+Dialogue: 0,0:05:39.81,0:05:43.10,Doc,,0,0,0,,Buyers who want something new are\Nwalking into Chinese showrooms.
+Dialogue: 0,0:05:43.15,0:05:44.93,Doc,,0,0,0,,And the Octavia is stuck in the middle.
+Dialogue: 0,0:05:45.74,0:05:47.53,Doc,,0,0,0,,Number eight: the Jeep Wrangler.
+Dialogue: 0,0:05:47.58,0:05:49.63,Doc,,0,0,0,,The Wrangler is an icon.
+Dialogue: 0,0:05:49.68,0:05:53.31,Doc,,0,0,0,,It's the original off-roader, and\Nyou can spot one from a mile away.
+Dialogue: 0,0:05:53.36,0:05:56.05,Doc,,0,0,0,,But in the first nine months of 2026,
+Dialogue: 0,0:05:56.10,0:05:58.49,Doc,,0,0,0,,Australians bought just 247 of them,
+Dialogue: 0,0:05:58.54,0:06:02.05,Doc,,0,0,0,,down from 345 in the\Nsame period last year.
+Dialogue: 0,0:06:02.10,0:06:04.03,Doc,,0,0,0,,That's a fall of more than 28 per cent.
+Dialogue: 0,0:06:04.08,0:06:05.83,Doc,,0,0,0,,Price is the big issue.
+Dialogue: 0,0:06:05.88,0:06:08.99,Doc,,0,0,0,,The cheapest four-door Wrangler went\Nfrom around thirty-seven thousand dollars
+Dialogue: 0,0:06:09.04,0:06:13.59,Doc,,0,0,0,,back in 2014 to almost seventy-six\Nthousand before on-road costs.
+Dialogue: 0,0:06:13.64,0:06:16.79,Doc,,0,0,0,,At that money, buyers are\Ncross-shopping a Prado,
+Dialogue: 0,0:06:16.84,0:06:20.57,Doc,,0,0,0,,an Everest, or a Chinese four-by-four\Nwith a lot more equipment.
+Dialogue: 0,0:06:20.62,0:06:24.44,Doc,,0,0,0,,GoAuto worked out that the Ford Everest\Noutsold the Wrangler by more than
+Dialogue: 0,0:06:24.49,0:06:26.05,Doc,,0,0,0,,sixty-five to one this year.
+Dialogue: 0,0:06:26.10,0:06:28.09,Doc,,0,0,0,,And look at the rest of the Jeep showroom.
+Dialogue: 0,0:06:28.14,0:06:30.77,Doc,,0,0,0,,In October, the Jeep Compass sold one car.
+Dialogue: 0,0:06:30.82,0:06:31.43,Doc,,0,0,0,,One.
+Dialogue: 0,0:06:31.48,0:06:34.27,Doc,,0,0,0,,The Grand Cherokee and\Nthe Avenger sold zero.
+Dialogue: 0,0:06:34.32,0:06:38.03,Doc,,0,0,0,,Right now, Jeep is offering a\Nfour-thousand-dollar deposit contribution on the
+Dialogue: 0,0:06:38.08,0:06:41.75,Doc,,0,0,0,,Wrangler Rubicon four-door, according\Nto the deals tracker CarSorted.
+Dialogue: 0,0:06:41.80,0:06:44.11,Doc,,0,0,0,,When a brand starts paying\Npart of your deposit,
+Dialogue: 0,0:06:44.16,0:06:46.30,Doc,,0,0,0,,that tells you how hard\Nthe cars are to move.
+Dialogue: 0,0:06:47.90,0:06:49.15,Doc,,0,0,0,,Number seven: the Skoda Karoq.
+Dialogue: 0,0:06:49.20,0:06:50.51,Doc,,0,0,0,,Skoda number two.
+Dialogue: 0,0:06:50.56,0:06:52.93,Doc,,0,0,0,,The Karoq is a sensible mid-size SUV,
+Dialogue: 0,0:06:52.98,0:06:56.09,Doc,,0,0,0,,and CarExpert rated it "very\Ngood" in a recent review,
+Dialogue: 0,0:06:56.14,0:06:57.57,Doc,,0,0,0,,praising its easy driving,
+Dialogue: 0,0:06:57.62,0:07:03.63,Doc,,0,0,0,,low servicing costs and sharp drive-away\Npricing from $40,990 drive-away.
+Dialogue: 0,0:07:03.68,0:07:06.05,Doc,,0,0,0,,But the sales chart tells a sad story.
+Dialogue: 0,0:07:06.10,0:07:09.77,Doc,,0,0,0,,The Karoq sold 752 cars in 2024.
+Dialogue: 0,0:07:09.82,0:07:12.49,Doc,,0,0,0,,Then 470 in 2025.
+Dialogue: 0,0:07:12.54,0:07:14.65,Doc,,0,0,0,,And in the first nine months of 2026,
+Dialogue: 0,0:07:14.70,0:07:19.37,Doc,,0,0,0,,just 232, down 32 per cent\Non the same period last year.
+Dialogue: 0,0:07:19.42,0:07:20.61,Doc,,0,0,0,,To put that in perspective,
+Dialogue: 0,0:07:20.66,0:07:26.01,Doc,,0,0,0,,it's in the same segment as the Toyota\NRAV4 Australia's best-selling SUV.
+Dialogue: 0,0:07:26.06,0:07:29.95,Doc,,0,0,0,,GoAuto worked out that the RAV4 is\Noutselling the Karoq by almost one hundred
+Dialogue: 0,0:07:30.00,0:07:31.59,Doc,,0,0,0,,and thirty-five to one.
+Dialogue: 0,0:07:31.64,0:07:35.65,Doc,,0,0,0,,CarExpert's review even pointed out\Nthat the Karoq is being outsold by newer
+Dialogue: 0,0:07:35.70,0:07:38.73,Doc,,0,0,0,,or niche cars like the Deepal S07,
+Dialogue: 0,0:07:38.78,0:07:42.15,Doc,,0,0,0,,the Skoda Elroq, the Mini\NCountryman and the Volvo EX30.
+Dialogue: 0,0:07:42.20,0:07:44.83,Doc,,0,0,0,,The reviewer's verdict was revealing too:
+Dialogue: 0,0:07:44.88,0:07:47.85,Doc,,0,0,0,,underpowered, a tight back\Nseat, some dated tech,
+Dialogue: 0,0:07:47.90,0:07:49.81,Doc,,0,0,0,,and a car that "feels like a rental".
+Dialogue: 0,0:07:49.86,0:07:53.37,Doc,,0,0,0,,That's exactly the kind of car that\Ngets crushed when buyers have dozens of
+Dialogue: 0,0:07:53.42,0:07:57.32,Doc,,0,0,0,,shiny new hybrids and electric SUVs\Nto choose from at the same money.
+Dialogue: 0,0:07:58.06,0:08:00.87,Doc,,0,0,0,,Number six: the Ford Mustang Mach-E.
+Dialogue: 0,0:08:00.92,0:08:03.19,Doc,,0,0,0,,This one might be the\Nstrangest on the list.
+Dialogue: 0,0:08:03.24,0:08:05.73,Doc,,0,0,0,,It has one of the most\Nfamous badges in the world.
+Dialogue: 0,0:08:05.78,0:08:07.21,Doc,,0,0,0,,It's an electric SUV,
+Dialogue: 0,0:08:07.26,0:08:10.49,Doc,,0,0,0,,in a year when electric car\Nsales in Australia are exploding.
+Dialogue: 0,0:08:10.54,0:08:12.13,Doc,,0,0,0,,And yet, nobody wants it.
+Dialogue: 0,0:08:12.18,0:08:16.61,Doc,,0,0,0,,The Mach-E sold 206 cars in\Nthe first nine months of 2026,
+Dialogue: 0,0:08:16.66,0:08:19.93,Doc,,0,0,0,,down more than 34 per cent\Non the same period last year.
+Dialogue: 0,0:08:19.98,0:08:23.77,Doc,,0,0,0,,In 2025, it found fewer than\Nfive hundred buyers in total.
+Dialogue: 0,0:08:23.82,0:08:25.49,Doc,,0,0,0,,And it's not for lack of trying.
+Dialogue: 0,0:08:25.54,0:08:27.33,Doc,,0,0,0,,Ford has already cut the price.
+Dialogue: 0,0:08:27.38,0:08:30.91,Doc,,0,0,0,,EV Central reported drive-away offers\Nof sixty thousand dollars for the
+Dialogue: 0,0:08:30.96,0:08:34.79,Doc,,0,0,0,,Select, seventy-five thousand for the\NPremium and eighty-nine thousand for the
+Dialogue: 0,0:08:34.84,0:08:38.63,Doc,,0,0,0,,GT cuts of up to around nine and a half\Nthousand dollars on the earlier list
+Dialogue: 0,0:08:38.68,0:08:39.57,Doc,,0,0,0,,prices.
+Dialogue: 0,0:08:39.62,0:08:43.11,Doc,,0,0,0,,That reviewer described the price cuts\Nas a sign that Ford was "desperate to
+Dialogue: 0,0:08:43.16,0:08:44.21,Doc,,0,0,0,,shift" stock.
+Dialogue: 0,0:08:44.26,0:08:45.63,Doc,,0,0,0,,Compare that with America,
+Dialogue: 0,0:08:45.68,0:08:49.37,Doc,,0,0,0,,where Ford sold more than\Nfifty thousand Mach-Es in 2025.
+Dialogue: 0,0:08:49.42,0:08:51.31,Doc,,0,0,0,,So why is Australia so different?
+Dialogue: 0,0:08:51.36,0:08:52.85,Doc,,0,0,0,,Simple: competition.
+Dialogue: 0,0:08:52.90,0:08:56.19,Doc,,0,0,0,,In Australia, a Mach-E is\Nfighting the Tesla Model Y,
+Dialogue: 0,0:08:56.24,0:08:58.05,Doc,,0,0,0,,the BYD Sealion 7,
+Dialogue: 0,0:08:58.10,0:09:03.13,Doc,,0,0,0,,the Geely EX5 and a dozen other electric\NSUVs, many of them cheaper and newer.
+Dialogue: 0,0:09:03.18,0:09:07.39,Doc,,0,0,0,,In October alone, the\NModel Y sold 3,105 cars.
+Dialogue: 0,0:09:07.44,0:09:10.06,Doc,,0,0,0,,The Mach-E sold 206 in nine months.
+Dialogue: 0,0:09:11.83,0:09:13.67,Doc,,0,0,0,,Number five: the Mazda CX-70.
+Dialogue: 0,0:09:13.72,0:09:15.83,Doc,,0,0,0,,The CX-70 is Mazda's big,
+Dialogue: 0,0:09:15.88,0:09:19.65,Doc,,0,0,0,,premium five-seat SUV, with a\Npowerful straight-six engine.
+Dialogue: 0,0:09:19.70,0:09:23.53,Doc,,0,0,0,,It's built for the American market and\Nin Australia, it has never caught on.
+Dialogue: 0,0:09:23.58,0:09:27.93,Doc,,0,0,0,,It sold 182 cars in the\Nfirst nine months of 2026,
+Dialogue: 0,0:09:27.98,0:09:31.49,Doc,,0,0,0,,down from 278 in the\Nsame period last year.
+Dialogue: 0,0:09:31.54,0:09:34.03,Doc,,0,0,0,,That's a fall of almost 35 per cent.
+Dialogue: 0,0:09:34.08,0:09:37.97,Doc,,0,0,0,,GoAuto noted that in the large SUV\Nclass above eighty thousand dollars,
+Dialogue: 0,0:09:38.02,0:09:44.37,Doc,,0,0,0,,the Land Rover Defender sold 3,098 that's\Nseventeen Defenders for every CX-70.
+Dialogue: 0,0:09:44.42,0:09:46.87,Doc,,0,0,0,,And this is despite a major price cut.
+Dialogue: 0,0:09:46.92,0:09:48.71,Doc,,0,0,0,,In July 2026,
+Dialogue: 0,0:09:48.76,0:09:54.71,Doc,,0,0,0,,Mazda slashed CX-70 prices\Nby between $3,700 and $8,051,
+Dialogue: 0,0:09:54.76,0:09:56.09,Doc,,0,0,0,,depending on the variant.
+Dialogue: 0,0:09:56.14,0:09:57.61,Doc,,0,0,0,,It didn't fix the problem.
+Dialogue: 0,0:09:57.66,0:09:59.17,Doc,,0,0,0,,Then in late October,
+Dialogue: 0,0:09:59.22,0:10:03.37,Doc,,0,0,0,,Mazda confirmed the CX-70 is ending\Nproduction for the United States its
+Dialogue: 0,0:10:03.42,0:10:04.71,Doc,,0,0,0,,biggest market.
+Dialogue: 0,0:10:04.76,0:10:06.99,Doc,,0,0,0,,Mazda Australia says the\Ncar will continue here,
+Dialogue: 0,0:10:07.04,0:10:10.03,Doc,,0,0,0,,and that it still has a\Nsmall but loyal fanbase.
+Dialogue: 0,0:10:10.08,0:10:13.89,Doc,,0,0,0,,But when a car is built mainly for\NAmerica and America no longer gets it,
+Dialogue: 0,0:10:13.94,0:10:16.94,Doc,,0,0,0,,buyers here will be asking how\Nlong it's really going to last.
+Dialogue: 0,0:10:17.80,0:10:19.89,Doc,,0,0,0,,Number four: the Hyundai Sonata.
+Dialogue: 0,0:10:19.94,0:10:21.49,Doc,,0,0,0,,Here's a car whose sales are collapsing,
+Dialogue: 0,0:10:21.54,0:10:24.71,Doc,,0,0,0,,and Hyundai's response\Nis… to put the price up.
+Dialogue: 0,0:10:24.76,0:10:29.03,Doc,,0,0,0,,In Australia, the Sonata is now sold\Nonly as the sporty N Line sedan.
+Dialogue: 0,0:10:29.08,0:10:33.91,Doc,,0,0,0,,It found just 179 buyers in\Nthe first nine months of 2026,
+Dialogue: 0,0:10:33.96,0:10:37.19,Doc,,0,0,0,,down 37 per cent on the\Nsame period last year.
+Dialogue: 0,0:10:37.24,0:10:40.97,Doc,,0,0,0,,The Toyota Camry outsold it\Nby almost fifty-three to one.
+Dialogue: 0,0:10:41.02,0:10:42.99,Doc,,0,0,0,,And then, from the first of October,
+Dialogue: 0,0:10:43.04,0:10:45.73,Doc,,0,0,0,,Hyundai raised the Sonata N Line's\Nprice by five hundred dollars,
+Dialogue: 0,0:10:45.78,0:10:49.91,Doc,,0,0,0,,to fifty-seven thousand\Ndollars before on-road costs.
+Dialogue: 0,0:10:49.96,0:10:52.69,Doc,,0,0,0,,That's more than sixty-one\Nthousand drive-away in Sydney.
+Dialogue: 0,0:10:52.74,0:10:55.20,Doc,,0,0,0,,Why would you raise the price\Nof a car that isn't selling?
+Dialogue: 0,0:10:55.25,0:10:57.83,Doc,,0,0,0,,Hyundai blamed "global economic factors,
+Dialogue: 0,0:10:57.88,0:11:00.77,Doc,,0,0,0,,manufacturing, logistics\Nand local policy".
+Dialogue: 0,0:11:00.82,0:11:04.39,Doc,,0,0,0,,That local policy is Australia's\NNew Vehicle Efficiency Standard,
+Dialogue: 0,0:11:04.44,0:11:07.61,Doc,,0,0,0,,which sets limits on\Naverage CO2 emissions.
+Dialogue: 0,0:11:07.66,0:11:08.81,Doc,,0,0,0,,According to reports,
+Dialogue: 0,0:11:08.86,0:11:12.95,Doc,,0,0,0,,Hyundai was fined 4.2 million\Ndollars for missing its 2025 target,
+Dialogue: 0,0:11:13.00,0:11:17.27,Doc,,0,0,0,,and the targets get\Ntougher in 2026 and 2027.
+Dialogue: 0,0:11:17.32,0:11:20.93,Doc,,0,0,0,,A big petrol sedan doesn't help\NHyundai's numbers so there's very little
+Dialogue: 0,0:11:20.98,0:11:22.61,Doc,,0,0,0,,reason for it to discount one.
+Dialogue: 0,0:11:22.66,0:11:24.95,Doc,,0,0,0,,And the bigger picture\Nfor Hyundai is ugly.
+Dialogue: 0,0:11:25.00,0:11:28.27,Doc,,0,0,0,,In October, the whole brand\Nwas down almost 29 per cent.
+Dialogue: 0,0:11:28.32,0:11:31.60,Doc,,0,0,0,,Its sister brand Kia is now\Noutselling it for the year.
+Dialogue: 0,0:11:32.32,0:11:34.87,Doc,,0,0,0,,Number three: the Skoda Fabia.
+Dialogue: 0,0:11:34.92,0:11:36.07,Doc,,0,0,0,,Skoda number three.
+Dialogue: 0,0:11:36.12,0:11:39.75,Doc,,0,0,0,,And yes, that means one brand\Nhas three cars in this top ten.
+Dialogue: 0,0:11:39.80,0:11:43.77,Doc,,0,0,0,,The Fabia is Skoda's smallest\Ncar, a little European hatchback.
+Dialogue: 0,0:11:43.82,0:11:47.83,Doc,,0,0,0,,It sold 140 cars in the\Nfirst nine months of 2026,
+Dialogue: 0,0:11:47.88,0:11:51.23,Doc,,0,0,0,,down from 246 in the\Nsame period last year.
+Dialogue: 0,0:11:51.28,0:11:52.83,Doc,,0,0,0,,That's a fall of 43 per cent.
+Dialogue: 0,0:11:52.88,0:11:54.95,Doc,,0,0,0,,Now look at the car\Nthat's eating its lunch.
+Dialogue: 0,0:11:55.00,0:11:59.05,Doc,,0,0,0,,In the light car segment,\Nthe MG3 sold 6,340.
+Dialogue: 0,0:11:59.10,0:12:02.99,Doc,,0,0,0,,That's more than forty-five\NMG3s for every Fabia.
+Dialogue: 0,0:12:03.04,0:12:06.57,Doc,,0,0,0,,A cheap Chinese-made hybrid hatch has\Ncompletely taken over the space that
+Dialogue: 0,0:12:06.62,0:12:08.59,Doc,,0,0,0,,European small cars used to own.
+Dialogue: 0,0:12:08.64,0:12:10.23,Doc,,0,0,0,,And the Skoda pattern goes further.
+Dialogue: 0,0:12:10.28,0:12:14.89,Doc,,0,0,0,,In October, the Skoda Superb one of the\Nroomiest cars you can buy sold nine.
+Dialogue: 0,0:12:14.94,0:12:17.71,Doc,,0,0,0,,The Skoda Scala small hatch sold zero.
+Dialogue: 0,0:12:17.76,0:12:20.95,Doc,,0,0,0,,Skoda's sister brand Volkswagen\Nwas down 46 per cent for the month,
+Dialogue: 0,0:12:21.00,0:12:23.19,Doc,,0,0,0,,and Cupra was down 67.
+Dialogue: 0,0:12:23.24,0:12:24.41,Doc,,0,0,0,,To be fair to Skoda,
+Dialogue: 0,0:12:24.46,0:12:28.67,Doc,,0,0,0,,it's pushing new models like the\NElroq electric SUV and new hybrids.
+Dialogue: 0,0:12:28.72,0:12:29.57,Doc,,0,0,0,,But right now,
+Dialogue: 0,0:12:29.62,0:12:33.54,Doc,,0,0,0,,the old guard of European small cars is\Ngetting crushed from every direction.
+Dialogue: 0,0:12:34.40,0:12:37.01,Doc,,0,0,0,,Number two: the Kia EV9.
+Dialogue: 0,0:12:37.06,0:12:39.39,Doc,,0,0,0,,This is the most\Nexpensive car on the list.
+Dialogue: 0,0:12:39.44,0:12:43.13,Doc,,0,0,0,,The Kia EV9 is a big,\Nseven-seat electric SUV,
+Dialogue: 0,0:12:43.18,0:12:49.51,Doc,,0,0,0,,and in 2026 Kia added a new\NGT version priced at $129,250
+Dialogue: 0,0:12:49.56,0:12:52.19,Doc,,0,0,0,,the most expensive Kia\Never sold in Australia.
+Dialogue: 0,0:12:52.24,0:12:56.23,Doc,,0,0,0,,The range starts at $97,000\Nbefore on-road costs.
+Dialogue: 0,0:12:56.28,0:13:00.45,Doc,,0,0,0,,And here's how many Australians bought\None in the first nine months of 2026:
+Dialogue: 0,0:13:00.50,0:13:01.39,Doc,,0,0,0,,120.
+Dialogue: 0,0:13:01.44,0:13:06.52,Doc,,0,0,0,,That's down from 238 in the same period\Nlast year a drop of almost 50 per
+Dialogue: 0,0:13:06.57,0:13:06.83,Doc,,0,0,0,,cent.
+Dialogue: 0,0:13:06.88,0:13:09.17,Doc,,0,0,0,,Half the buyers, gone in a year.
+Dialogue: 0,0:13:09.22,0:13:11.97,Doc,,0,0,0,,GoAuto compared it with the\Nbiggest seller in its class,
+Dialogue: 0,0:13:12.02,0:13:16.49,Doc,,0,0,0,,the Toyota LandCruiser\N300, which sold 9,787.
+Dialogue: 0,0:13:16.54,0:13:19.87,Doc,,0,0,0,,That's more than eighty-one\NLandCruisers for every EV9.
+Dialogue: 0,0:13:19.92,0:13:21.27,Doc,,0,0,0,,So what went wrong?
+Dialogue: 0,0:13:21.32,0:13:24.53,Doc,,0,0,0,,Electric car sales are booming but\Nthey're booming at the cheaper end.
+Dialogue: 0,0:13:24.58,0:13:28.43,Doc,,0,0,0,,The best-selling EVs are thirty,\Nforty and fifty thousand dollar cars.
+Dialogue: 0,0:13:28.48,0:13:32.41,Doc,,0,0,0,,A hundred-thousand-dollar electric\Nfamily bus is a very small market,
+Dialogue: 0,0:13:32.46,0:13:35.63,Doc,,0,0,0,,and it's now shared with Chinese\Nseven-seaters that cost a fraction of the
+Dialogue: 0,0:13:35.68,0:13:36.07,Doc,,0,0,0,,price.
+Dialogue: 0,0:13:36.12,0:13:41.15,Doc,,0,0,0,,And remember, the Hyundai Ioniq 9 the\NEV9's sister under the skin sold just
+Dialogue: 0,0:13:41.20,0:13:42.64,Doc,,0,0,0,,four cars in October.
+Dialogue: 0,0:13:44.50,0:13:45.99,Doc,,0,0,0,,And number one: the Honda Accord.
+Dialogue: 0,0:13:46.04,0:13:47.33,Doc,,0,0,0,,The car we started with.
+Dialogue: 0,0:13:47.38,0:13:50.85,Doc,,0,0,0,,Fifty-nine sales in the\Nfirst nine months of 2026,
+Dialogue: 0,0:13:50.90,0:13:53.79,Doc,,0,0,0,,down from 78 in the same period last year.
+Dialogue: 0,0:13:53.84,0:13:57.13,Doc,,0,0,0,,That's fewer than seven cars a\Nmonth, across the entire country.
+Dialogue: 0,0:13:57.18,0:13:59.91,Doc,,0,0,0,,The Accord is now sold here\Nas a single hybrid model,
+Dialogue: 0,0:13:59.96,0:14:04.85,Doc,,0,0,0,,the e:HEV RS, at around\N$64,900 drive-away.
+Dialogue: 0,0:14:04.90,0:14:06.69,Doc,,0,0,0,,That's a lot of money\Nfor a mid-size sedan,
+Dialogue: 0,0:14:06.74,0:14:09.71,Doc,,0,0,0,,in a market that is falling\Nout of love with sedans.
+Dialogue: 0,0:14:09.76,0:14:14.48,Doc,,0,0,0,,For comparison, a Toyota Camry hybrid\Nstarts at much less and Toyota sold
+Dialogue: 0,0:14:14.53,0:14:16.89,Doc,,0,0,0,,9,471 of them.
+Dialogue: 0,0:14:16.94,0:14:20.05,Doc,,0,0,0,,That's over one hundred and\Nsixty Camrys for every Accord.
+Dialogue: 0,0:14:20.10,0:14:22.99,Doc,,0,0,0,,Honda's business model in\NAustralia is part of the story.
+Dialogue: 0,0:14:23.04,0:14:26.08,Doc,,0,0,0,,Since 2021, Honda has\Nsold its cars at fixed,
+Dialogue: 0,0:14:26.13,0:14:28.79,Doc,,0,0,0,,no-haggle drive-away prices\Nthrough an agency model,
+Dialogue: 0,0:14:28.84,0:14:30.81,Doc,,0,0,0,,with far fewer dealerships.
+Dialogue: 0,0:14:30.86,0:14:32.21,Doc,,0,0,0,,It said it wanted fewer,
+Dialogue: 0,0:14:32.26,0:14:36.09,Doc,,0,0,0,,more profitable sales and with the\NAccord, it certainly has fewer.
+Dialogue: 0,0:14:36.14,0:14:37.91,Doc,,0,0,0,,And now Honda is trying to move them.
+Dialogue: 0,0:14:37.96,0:14:41.03,Doc,,0,0,0,,Its end-of-year plate clearance includes\Na thousand-dollar gift card on the
+Dialogue: 0,0:14:41.08,0:14:44.08,Doc,,0,0,0,,Accord hybrid, plus the\Nfirst five services free.
+Dialogue: 0,0:14:44.13,0:14:48.69,Doc,,0,0,0,,Meanwhile, CarExpert reported that\Nthe updated 2027 Accord will cost a
+Dialogue: 0,0:14:48.74,0:14:50.11,Doc,,0,0,0,,thousand dollars more.
+Dialogue: 0,0:14:50.16,0:14:52.91,Doc,,0,0,0,,GoAuto made an important\Npoint about this whole list:
+Dialogue: 0,0:14:52.96,0:14:55.53,Doc,,0,0,0,,these sales gaps aren't\Nnecessarily about product quality.
+Dialogue: 0,0:14:55.58,0:14:56.81,Doc,,0,0,0,,And that's true.
+Dialogue: 0,0:14:56.86,0:14:58.37,Doc,,0,0,0,,The Accord is a good car.
+Dialogue: 0,0:14:58.42,0:15:01.94,Doc,,0,0,0,,It just costs too much, in a body\Nstyle Australians are abandoning.
+Dialogue: 0,0:15:02.87,0:15:03.80,Doc,,0,0,0,,Before we finish,
+Dialogue: 0,0:15:03.85,0:15:06.80,Doc,,0,0,0,,let's look at October because some\Nof the monthly numbers are even more
+Dialogue: 0,0:15:06.85,0:15:08.40,Doc,,0,0,0,,shocking than the countdown.
+Dialogue: 0,0:15:08.45,0:15:10.74,Doc,,0,0,0,,According to CarExpert's sales database,
+Dialogue: 0,0:15:10.79,0:15:13.88,Doc,,0,0,0,,88 models recorded zero sales in October.
+Dialogue: 0,0:15:13.93,0:15:15.24,Doc,,0,0,0,,Now, to be fair,
+Dialogue: 0,0:15:15.29,0:15:18.74,Doc,,0,0,0,,many of those are cars that have\Nbeen axed or are between generations.
+Dialogue: 0,0:15:18.79,0:15:22.40,Doc,,0,0,0,,But some of the low numbers are on\Ncars that are very much still on sale.
+Dialogue: 0,0:15:22.45,0:15:26.98,Doc,,0,0,0,,The Audi Q4 e-tron: two sales\Nin October, down 96 per cent.
+Dialogue: 0,0:15:27.03,0:15:30.61,Doc,,0,0,0,,Audi has now cut the price of the\Nupdated model by up to eighteen thousand
+Dialogue: 0,0:15:30.66,0:15:34.90,Doc,,0,0,0,,dollars, to get it under the luxury car\Ntax threshold but deliveries of that
+Dialogue: 0,0:15:34.95,0:15:36.80,Doc,,0,0,0,,model don't start until 2027.
+Dialogue: 0,0:15:36.85,0:15:41.98,Doc,,0,0,0,,The BMW iX electric SUV:\Nfour sales, down 86 per cent.
+Dialogue: 0,0:15:42.03,0:15:46.14,Doc,,0,0,0,,The Hyundai Ioniq 9\Nseven-seat electric SUV: four.
+Dialogue: 0,0:15:46.19,0:15:49.60,Doc,,0,0,0,,The Suzuki S-Cross: two,\Ndown almost 90 per cent.
+Dialogue: 0,0:15:49.65,0:15:53.36,Doc,,0,0,0,,The Renault Kangoo van:\Ntwo, down almost 97.
+Dialogue: 0,0:15:53.41,0:15:55.38,Doc,,0,0,0,,The Fiat 500: three.
+Dialogue: 0,0:15:55.43,0:15:57.64,Doc,,0,0,0,,The Peugeot 308: three.
+Dialogue: 0,0:15:57.69,0:16:01.40,Doc,,0,0,0,,And the Alfa Romeo Tonale: one\Nsingle car, down 80 per cent.
+Dialogue: 0,0:16:01.45,0:16:04.81,Doc,,0,0,0,,And here's one that looks like a\Ndisaster, but isn't quite what it seems.
+Dialogue: 0,0:16:04.86,0:16:08.38,Doc,,0,0,0,,The Toyota Fortuner sold\Njust eight cars in October,
+Dialogue: 0,0:16:08.43,0:16:10.14,Doc,,0,0,0,,down more than 97 per cent.
+Dialogue: 0,0:16:10.19,0:16:14.04,Doc,,0,0,0,,But that's because Toyota has axed\Nit in Australia, with no replacement.
+Dialogue: 0,0:16:14.09,0:16:16.22,Doc,,0,0,0,,Dealers are simply selling the last ones.
+Dialogue: 0,0:16:16.27,0:16:18.05,Doc,,0,0,0,,That's why it isn't in my top ten.
+Dialogue: 0,0:16:18.82,0:16:20.81,Doc,,0,0,0,,So what does all this mean for you?
+Dialogue: 0,0:16:20.86,0:16:24.59,Doc,,0,0,0,,If you're buying, cars that aren't\Nselling are where the biggest deals live.
+Dialogue: 0,0:16:24.64,0:16:26.39,Doc,,0,0,0,,When a model sits in a dealer's yard,
+Dialogue: 0,0:16:26.44,0:16:28.45,Doc,,0,0,0,,it costs the dealer money every week,
+Dialogue: 0,0:16:28.50,0:16:31.27,Doc,,0,0,0,,and the end of the year is when\Ndealers are chasing their targets.
+Dialogue: 0,0:16:31.32,0:16:33.41,Doc,,0,0,0,,If one of these cars genuinely suits you,
+Dialogue: 0,0:16:33.46,0:16:35.47,Doc,,0,0,0,,ask for a drive-away price in writing,
+Dialogue: 0,0:16:35.52,0:16:37.45,Doc,,0,0,0,,ask how long that car has been in stock,
+Dialogue: 0,0:16:37.50,0:16:39.89,Doc,,0,0,0,,and ask whether a newer\Nmodel is on the way.
+Dialogue: 0,0:16:39.94,0:16:43.09,Doc,,0,0,0,,Old stock and demonstrators are where\Ndealers usually have the most room to
+Dialogue: 0,0:16:43.14,0:16:43.77,Doc,,0,0,0,,move.
+Dialogue: 0,0:16:43.82,0:16:44.41,Doc,,0,0,0,,But be careful.
+Dialogue: 0,0:16:44.46,0:16:48.67,Doc,,0,0,0,,A car that's hard to sell new is\Nusually hard to sell used, too.
+Dialogue: 0,0:16:48.72,0:16:51.99,Doc,,0,0,0,,Expect faster depreciation,\Nand plan to keep it longer.
+Dialogue: 0,0:16:52.04,0:16:53.83,Doc,,0,0,0,,Check the warranty, the service plan,
+Dialogue: 0,0:16:53.88,0:16:57.25,Doc,,0,0,0,,and how far you'll have to travel for\Nparts and servicing especially with
+Dialogue: 0,0:16:57.30,0:16:58.57,Doc,,0,0,0,,smaller brands.
+Dialogue: 0,0:16:58.62,0:17:01.61,Doc,,0,0,0,,And if you already own one\Nof these cars, don't panic.
+Dialogue: 0,0:17:01.66,0:17:05.51,Doc,,0,0,0,,Low new-car sales don't change your\Nwarranty or your consumer rights.
+Dialogue: 0,0:17:05.56,0:17:07.29,Doc,,0,0,0,,Keep your service history up to date,
+Dialogue: 0,0:17:07.34,0:17:08.65,Doc,,0,0,0,,and if you're thinking of selling,
+Dialogue: 0,0:17:08.70,0:17:11.73,Doc,,0,0,0,,get several valuations before\Nyou accept a trade-in offer.
+Dialogue: 0,0:17:11.78,0:17:13.03,Doc,,0,0,0,,So that's the list.
+Dialogue: 0,0:17:13.08,0:17:15.87,Doc,,0,0,0,,The KGM Rexton, the Skoda Octavia,
+Dialogue: 0,0:17:15.92,0:17:17.65,Doc,,0,0,0,,the Jeep Wrangler, the Skoda Karoq,
+Dialogue: 0,0:17:17.70,0:17:20.95,Doc,,0,0,0,,the Ford Mustang Mach-E, the Mazda CX-70,
+Dialogue: 0,0:17:21.00,0:17:24.53,Doc,,0,0,0,,the Hyundai Sonata, the\NSkoda Fabia, the Kia EV9,
+Dialogue: 0,0:17:24.58,0:17:28.45,Doc,,0,0,0,,and at number one, the Honda Accord\Nfifty-nine sales in nine months.
+Dialogue: 0,0:17:28.50,0:17:29.89,Doc,,0,0,0,,Now I want to hear from you.
+Dialogue: 0,0:17:29.94,0:17:33.57,Doc,,0,0,0,,Which car on this list would you\Nactually buy, if the price was right?
+Dialogue: 0,0:17:33.62,0:17:34.91,Doc,,0,0,0,,Tell me in the comments.
+Dialogue: 0,0:17:34.96,0:17:37.41,Doc,,0,0,0,,If you found this useful,\Nhit like and subscribe,
+Dialogue: 0,0:17:37.46,0:17:40.99,Doc,,0,0,0,,because in the next video I'm counting\Ndown the biggest new-car discounts in
+Dialogue: 0,0:17:41.04,0:17:44.73,Doc,,0,0,0,,Australia right now including one ute\Nthat's more than ten thousand dollars
+Dialogue: 0,0:17:44.78,0:17:46.09,Doc,,0,0,0,,cheaper than it was.
+Dialogue: 0,0:17:46.14,0:17:46.94,Doc,,0,0,0,,See you there.

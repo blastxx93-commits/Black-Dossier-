@@ -1,0 +1,1732 @@
+{
+ "output": "AUS19_Refuse_To_Buy.mp4",
+ "fps": 24,
+ "music": [
+  {
+   "file": "trilha.wav",
+   "start": 0,
+   "gain": -29,
+   "fade_in": 4,
+   "fade_out": 5
+  }
+ ],
+ "chapters": [
+  {
+   "audio": "audio/ch00_hook.flac",
+   "lead_in": 0,
+   "tail": 0.6,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/m_accord/3_commons.jpg",
+     "move": "in",
+     "caption": "59|Honda Accords sold \u00b7 Jan\u2013Sept 2026",
+     "dur": 6.44,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_accord2/2_commons.jpg",
+     "move": "right",
+     "caption": "Honda Accord|fewer than 7 a month",
+     "dur": 6.7,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_camry/3_commons.jpg",
+     "move": "left",
+     "caption": "Toyota Camry|9,471 sold",
+     "dur": 4.48,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "160 Camrys for every Accord",
+     "highlight": "160",
+     "size": 130,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 4.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ev9/1_commons.jpg",
+     "move": "right",
+     "caption": "Kia EV9|from $97,000",
+     "dur": 2.82,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_mache/1_commons.jpg",
+     "move": "in",
+     "caption": "Mustang Mach-E|cut up to ~$9,500",
+     "dur": 6.32,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_karoq/1_commons.jpg",
+     "move": "left",
+     "caption": "Skoda Karoq|135 RAV4s for every one",
+     "dur": 3.6,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_dealer/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.26,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_highway/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.42,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "10 Cars Australians Refuse to Buy",
+     "subtitle": "real sales \u00b7 real prices",
+     "tag": "Australia 2026",
+     "bg": "a/m_hilux/1_commons.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 10.84,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_lot/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.027,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch01.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_city/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.41,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "107,493",
+     "label": "new vehicles \u00b7 October 2026 \u00b7 record October",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "VFACTS via CarExpert",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_city/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.47,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "+237%",
+     "label": "EV sales \u00b7 Oct 2026 vs Oct 2025",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "VFACTS via CarExpert",
+     "dur": 4.22,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_sealion7/1_commons.jpg",
+     "move": "in",
+     "caption": "BYD|10,025 sales in October",
+     "dur": 14.34,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "October 2026 \u00b7 brands",
+     "items": [
+      [
+       "Mitsubishi",
+       -50.0
+      ],
+      [
+       "Volkswagen",
+       -46.4
+      ],
+      [
+       "Audi",
+       -44.8
+      ],
+      [
+       "Subaru",
+       -41.5
+      ],
+      [
+       "Hyundai",
+       -28.6
+      ],
+      [
+       "Mazda",
+       -19.7
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "%",
+     "source": "VFACTS via CarExpert",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_highway/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 11.78,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_dealer/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.46,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_suv/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_night/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 14.84,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_highway/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.141,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch02.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 10,
+     "name": "KGM Rexton",
+     "photo": "a/m_rexton2/5_commons.jpg",
+     "credit": "Photo: Damian B Oh \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "371 sold \u00b7 -67%",
+     "sub": "Jan\u2013Sept 2026",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_outback/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.16,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_suv/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.44,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "KGM Rexton \u00b7 Jan\u2013Sept",
+     "items": [
+      [
+       "2025",
+       1125
+      ],
+      [
+       "2026",
+       371,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "GoAuto / VFACTS",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_dealer/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.38,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"\u2026the dubious honour\u2026\" \u2013 GoAuto",
+     "highlight": "DUBIOUS HONOUR",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 11.32,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_everest/3_commons.jpg",
+     "move": "in",
+     "caption": "Ford Everest|44 for every Rexton",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_highway/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_city/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 12.398,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_money/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 12.702,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_lot/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 12.27,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch03.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 9,
+     "name": "Skoda Octavia",
+     "photo": "a/m_octavia/1_commons.jpg",
+     "credit": "Photo: Alexander-93 \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "340 sold \u00b7 -39%",
+     "sub": "Jan\u2013Sept 2026",
+     "dur": 7.32,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_octavia/3_commons.jpg",
+     "move": "left",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_night/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.84,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Skoda Octavia \u00b7 Jan\u2013Sept",
+     "items": [
+      [
+       "2025",
+       557
+      ],
+      [
+       "2026",
+       340,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "GoAuto / VFACTS",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_night/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.86,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_camry/1_commons.jpg",
+     "move": "in",
+     "caption": "Toyota Camry|28 for every Octavia",
+     "dur": 7.68,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_aerial/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 14.36,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_wash/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.048,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch04.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 8,
+     "name": "Jeep Wrangler",
+     "photo": "a/m_wrangler/1_commons.jpg",
+     "credit": "Photo: Alexander Migl \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "247 sold \u00b7 -28%",
+     "sub": "Jan\u2013Sept 2026",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ute/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.72,
+     "fixed": true
+    },
+    {
+     "type": "price",
+     "model": "Jeep Wrangler 4-door",
+     "old": "~$37,000",
+     "new": "$75,950",
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.6
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.0
+      }
+     ],
+     "old_note": "2014",
+     "new_note": "2026 (+ ORC)",
+     "source": "CarSauce",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ute/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.04,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "65 : 1",
+     "label": "Ford Everest vs Jeep Wrangler \u00b7 2026",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "GoAuto / VFACTS",
+     "dur": 5.48,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_compass/1_commons.jpg",
+     "move": "left",
+     "caption": "Jeep Compass|1 sale in October",
+     "dur": 8.22,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_wrangler/3_commons.jpg",
+     "move": "in",
+     "caption": "Wrangler Rubicon|$4,000 deposit contribution",
+     "dur": 7.48,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_offroad/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.362,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch05.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 7,
+     "name": "Skoda Karoq",
+     "photo": "a/m_karoq/3_commons.jpg",
+     "credit": "Photo: Alexander Migl \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "232 sold \u00b7 -32%",
+     "sub": "Jan\u2013Sept 2026",
+     "dur": 13.06,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ute/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.88,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Skoda Karoq sales",
+     "items": [
+      [
+       "2024",
+       752
+      ],
+      [
+       "2025",
+       470
+      ],
+      [
+       "2026 (9 mo.)",
+       232,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "CarExpert",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ute/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_rav4/3_commons.jpg",
+     "move": "in",
+     "caption": "Toyota RAV4|135 for every Karoq",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_offroad/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 10.5,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"\u2026feels like a rental\u2026\" \u2013 CarExpert",
+     "highlight": "RENTAL",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 7.66,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_wash/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.318,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch06.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 6,
+     "name": "Ford Mustang Mach-E",
+     "photo": "a/m_mache/3_commons.jpg",
+     "credit": "Photo: Alexander-93 \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "206 sold \u00b7 -34%",
+     "sub": "Jan\u2013Sept 2026",
+     "dur": 7.6,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.4,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Mach-E \u00b7 Jan\u2013Sept",
+     "items": [
+      [
+       "2025",
+       314
+      ],
+      [
+       "2026",
+       206,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "GoAuto / VFACTS",
+     "dur": 13.36,
+     "fixed": true
+    },
+    {
+     "type": "price",
+     "model": "Mach-E GT",
+     "old": "$98,490",
+     "new": "$89,000",
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.6
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.0
+      }
+     ],
+     "old_note": "previous price",
+     "new_note": "drive-away offer",
+     "source": "EV Central",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.48,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Ford \"desperate to shift\" stock \u2013 EV Central",
+     "highlight": "DESPERATE",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 1.74,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_night/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_offroad/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.42,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Electric SUVs",
+     "items": [
+      [
+       "Tesla Model Y \u00b7 Oct",
+       3105
+      ],
+      [
+       "Mach-E \u00b7 9 months",
+       206,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "VFACTS via CarExpert",
+     "dur": 7.9,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch07.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 5,
+     "name": "Mazda CX-70",
+     "photo": "a/m_cx70/1_commons.jpg",
+     "credit": "Photo: TTTNIS \u00b7 CC0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "182 sold \u00b7 -35%",
+     "sub": "Jan\u2013Sept 2026",
+     "dur": 12.5,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Large SUVs over $80k \u00b7 Jan\u2013Sept",
+     "items": [
+      [
+       "LR Defender",
+       3098
+      ],
+      [
+       "Mazda CX-70",
+       182,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "GoAuto / VFACTS",
+     "dur": 14.44,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_defender/1_commons.jpg",
+     "move": "in",
+     "caption": "Land Rover Defender|17 for every CX-70",
+     "dur": 8.9,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "$8,051",
+     "label": "Mazda CX-70 price cut \u00b7 July 2026",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Mazda",
+     "dur": 10.74,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_cx70/3_commons.jpg",
+     "move": "left",
+     "caption": "CX-70|ending US production",
+     "dur": 12.42,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_dealer/2_pixabay.jpg",
+     "move": "left",
+     "dur": 7.842,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch08.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 4,
+     "name": "Hyundai Sonata N Line",
+     "photo": "a/m_sonata/1_commons.jpg",
+     "credit": "Photo: Charles from Port Chester, New York \u00b7 CC BY 2.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "179 sold \u00b7 -37%",
+     "sub": "Jan\u2013Sept 2026",
+     "dur": 2.02,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_outback/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_outback/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.8,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "53 : 1",
+     "label": "Camry vs Sonata \u00b7 2026",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "GoAuto / VFACTS",
+     "dur": 5.8,
+     "fixed": true
+    },
+    {
+     "type": "price",
+     "model": "Hyundai Sonata N Line",
+     "old": "$56,500",
+     "new": "$57,000",
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.6
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.0
+      }
+     ],
+     "old_note": "before 1 Oct",
+     "new_note": "from 1 Oct (+ ORC)",
+     "source": "Hyundai",
+     "dur": 13.12,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"\u2026global economic factors, manufacturing, logistics and local policy.\" \u2013 Hyundai",
+     "highlight": "LOCAL POLICY",
+     "size": 88,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 12.7,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "$4.2M",
+     "label": "Hyundai NVES penalty \u00b7 2025",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "ACM report",
+     "color": "red",
+     "dur": 13.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_sonata/3_commons.jpg",
+     "move": "in",
+     "caption": "Hyundai|-28.6% in October",
+     "dur": 9.772,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch09.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 3,
+     "name": "Skoda Fabia",
+     "photo": "a/m_fabia/3_commons.jpg",
+     "credit": "Photo: Alexander Migl \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "140 sold \u00b7 -43%",
+     "sub": "Jan\u2013Sept 2026",
+     "dur": 7.36,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_fabia/1_commons.jpg",
+     "move": "left",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_lot/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.7,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Light cars \u00b7 Jan\u2013Sept",
+     "items": [
+      [
+       "MG3",
+       6340
+      ],
+      [
+       "Skoda Fabia",
+       140,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "GoAuto / VFACTS",
+     "dur": 8.04,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_mg3/1_commons.jpg",
+     "move": "in",
+     "caption": "MG3|45 for every Fabia",
+     "dur": 7.24,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_superb/3_commons.jpg",
+     "move": "right",
+     "caption": "Skoda Superb|9 sales in October",
+     "dur": 12.96,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_dealer/3_commons.jpg",
+     "move": "out",
+     "dur": 11.286,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch10.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 2,
+     "name": "Kia EV9",
+     "photo": "a/m_ev9/2_commons.jpg",
+     "credit": "Photo: Alexander-93 \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "120 sold \u00b7 -50%",
+     "sub": "Jan\u2013Sept 2026",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_dealer/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 12.26,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Kia EV9 \u00b7 Jan\u2013Sept",
+     "items": [
+      [
+       "2025",
+       238
+      ],
+      [
+       "2026",
+       120,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "GoAuto / VFACTS",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_wash/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.32,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_lc300/3_commons.jpg",
+     "move": "in",
+     "caption": "LandCruiser 300|81 for every EV9",
+     "dur": 7.82,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.56,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ev9/3_commons.jpg",
+     "move": "left",
+     "caption": "Kia EV9 GT|$129,250",
+     "dur": 12.28,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_dealer/5_commons.jpg",
+     "move": "right",
+     "dur": 2.855,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch11.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 1,
+     "name": "Honda Accord",
+     "photo": "a/m_accord2/3_commons.jpg",
+     "credit": "Photo: Chanokchon \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "59 sold \u00b7 -24%",
+     "sub": "Jan\u2013Sept 2026",
+     "dur": 10.22,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "< 7",
+     "label": "Honda Accords sold per month in Australia",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "GoAuto / VFACTS",
+     "dur": 3.34,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_accord2/1_commons.jpg",
+     "move": "left",
+     "caption": "Honda Accord e:HEV RS|$64,900 drive-away",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_keys/2_pixabay.jpg",
+     "move": "out",
+     "dur": 10.26,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Mid-size cars \u00b7 Jan\u2013Sept",
+     "items": [
+      [
+       "Toyota Camry",
+       9471
+      ],
+      [
+       "Honda Accord",
+       59,
+       "red"
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "GoAuto / VFACTS",
+     "dur": 3.16,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_lot/1_commons.jpg",
+     "move": "in",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_keys/4_pixabay.jpg",
+     "move": "right",
+     "dur": 8.36,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "$1,000",
+     "label": "gift card on the Accord \u00b7 plate clearance",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarExpert",
+     "dur": 12.2,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\"\u2026unrelated to product quality\u2026\" \u2013 GoAuto",
+     "highlight": "PRODUCT QUALITY",
+     "size": 105,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 12.772,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch12.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "October's Shockers",
+     "subtitle": "1, 2, 3, 4 sales",
+     "tag": "bonus",
+     "bg": "a/h_traffic/2_pixabay.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 7.86,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "88",
+     "label": "models with ZERO sales \u00b7 October 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "VFACTS via CarExpert",
+     "color": "red",
+     "dur": 11.66,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_q4/1_commons.jpg",
+     "move": "in",
+     "caption": "Audi Q4 e-tron|2 sales \u00b7 -96%",
+     "dur": 14.4,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ix/1_commons.jpg",
+     "move": "left",
+     "caption": "BMW iX|4 sales \u00b7 -86%",
+     "dur": 9.34,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_scross/1_commons.jpg",
+     "move": "right",
+     "caption": "Suzuki S-Cross|2 sales",
+     "dur": 3.46,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_kangoo/1_commons.jpg",
+     "move": "in",
+     "caption": "Renault Kangoo|2 sales \u00b7 -97%",
+     "dur": 8.04,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_tonale/1_commons.jpg",
+     "move": "left",
+     "caption": "Alfa Romeo Tonale|1 sale",
+     "dur": 7.17,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_fortuner/1_commons.jpg",
+     "move": "in",
+     "caption": "Toyota Fortuner|8 sales \u00b7 axed",
+     "dur": 14.079,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch13.flac",
+   "lead_in": 0,
+   "tail": 2.5,
+   "shots": [
+    {
+     "type": "title",
+     "title": "What This Means for You",
+     "subtitle": "buyers & owners",
+     "tag": "advice",
+     "bg": "a/h_lot/2_pixabay.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 1.92,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_money/1_commons.jpg",
+     "move": "down",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_outback/1_commons.jpg",
+     "move": "in",
+     "dur": 13.46,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_sydney/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 14.8,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_suv/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 13.16,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_lot/4_pixabay.jpg",
+     "move": "in",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_outback/2_pixabay.jpg",
+     "move": "up",
+     "dur": 8.66,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Which would YOU buy?",
+     "sub": "if the price was right \u00b7 comments",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 6.32,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Like \u00b7 Subscribe",
+     "sub": "numbers-first car videos",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 1.56,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "Biggest Discounts Right Now",
+     "subtitle": "next video",
+     "tag": "coming up",
+     "bg": "a/h_traffic/4_pixabay.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 11.661,
+     "fixed": false,
+     "fade_out": 0
+    }
+   ]
+  }
+ ],
+ "size": [
+  1920,
+  1080
+ ],
+ "theme": "electric",
+ "subtitles": "AUS19.ass"
+}
