@@ -1,0 +1,1475 @@
+{
+ "output": "AUS22_Hits_2026.mp4",
+ "fps": 24,
+ "music": [
+  {
+   "file": "trilha.wav",
+   "start": 0,
+   "gain": -29,
+   "fade_in": 4,
+   "fade_out": 5
+  }
+ ],
+ "chapters": [
+  {
+   "audio": "audio/ch00_hook.flac",
+   "lead_in": 0,
+   "tail": 0.6,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/m_ex5/1_commons.jpg",
+     "move": "in",
+     "caption": "+620%|one SUV \u00b7 September 2026",
+     "dur": 9.3,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ex5/3_commons.jpg",
+     "move": "left",
+     "caption": "Geely EX5|national top 10",
+     "dur": 6.08,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_modely/1_commons.jpg",
+     "move": "right",
+     "caption": "Tesla Model Y|+108%",
+     "dur": 5.94,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_zeekr7x/1_commons.jpg",
+     "move": "in",
+     "caption": "Zeekr|+1,560%",
+     "dur": 4.06,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_tiggo4/3_commons.jpg",
+     "move": "left",
+     "caption": "Chery Tiggo 4|beating the Kona",
+     "dur": 3.22,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_hilux/3_commons.jpg",
+     "move": "right",
+     "caption": "Toyota HiLux|#1 in October",
+     "dur": 4.1,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_highway/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 12.46,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "10 Cars Australia Went CRAZY For",
+     "subtitle": "2026's biggest hits",
+     "tag": "Australia 2026",
+     "bg": "a/h_dealer/2_pixabay.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 13.24,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_dealer/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.801,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch01.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_city/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.68,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "107,493",
+     "label": "new vehicles \u00b7 October 2026 \u00b7 record October",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "VFACTS via CarExpert",
+     "dur": 11.96,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "+237%",
+     "label": "EV sales \u00b7 Oct 2026 vs Oct 2025",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "VFACTS via CarExpert",
+     "dur": 8.42,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_byd/1_commons.jpg",
+     "move": "in",
+     "caption": "BYD|#2 brand in Australia",
+     "dur": 10.52,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Brand growth \u00b7 Jan\u2013Sept 2026",
+     "items": [
+      [
+       "Zeekr",
+       1560.3
+      ],
+      [
+       "Geely",
+       639.2
+      ],
+      [
+       "Omoda Jaecoo",
+       620.9
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "%",
+     "source": "ACM / VFACTS",
+     "dur": 11.82,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_lot/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.4,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_suv/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 14.9,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_highway/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 12.394,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch02.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 10,
+     "name": "BYD Atto 2",
+     "photo": "a/m_atto2/1_commons.jpg",
+     "credit": "Photo: Alexander Migl \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "#8 in October",
+     "sub": "brand-new nameplate",
+     "dur": 10.06,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "5,401",
+     "label": "BYD Atto 2 \u00b7 first half 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarExpert",
+     "dur": 9.76,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "1,943",
+     "label": "Atto 2 \u00b7 October 2026 \u00b7 #8 in Australia",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "VFACTS via CarExpert",
+     "dur": 9.2,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_atto2/3_commons.jpg",
+     "move": "in",
+     "caption": "Atto 2 DM-i|$25,990 drive-away",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_outback/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 10.34,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_atto1/1_commons.jpg",
+     "move": "left",
+     "caption": "BYD Atto 1|$19,990 drive-away",
+     "dur": 8.58,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_dealer/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 4.715,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch03.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 9,
+     "name": "GWM Haval Jolion",
+     "photo": "a/m_jolion/1_commons.jpg",
+     "credit": "Photo: Alexander Migl \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "17,051 sold \u00b7 +20%",
+     "sub": "Jan\u2013Sept 2026",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_dealer/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.54,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_suv/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.76,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_jolion/2_commons.jpg",
+     "move": "in",
+     "caption": "Jolion Hybrid|$32,990 drive-away",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_highway/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.32,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_aerial/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 11.38,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_lot/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.19,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch04.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 8,
+     "name": "Toyota Prado",
+     "photo": "a/m_prado/1_commons.jpg",
+     "credit": "Photo: Ethan Llamas \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "+64% in October",
+     "sub": "the comeback",
+     "dur": 10.04,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "-45%",
+     "label": "Prado sales \u00b7 Jan\u2013May 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarExpert",
+     "color": "red",
+     "dur": 3.78,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "2,397",
+     "label": "Prado \u00b7 October 2026 \u00b7 +64%",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "VFACTS via CarExpert",
+     "dur": 13.32,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Year to October 2026",
+     "items": [
+      [
+       "Toyota Prado",
+       18062
+      ],
+      [
+       "Ford Everest",
+       17944
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "VFACTS via CarExpert",
+     "dur": 9.92,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_everest/3_commons.jpg",
+     "move": "in",
+     "caption": "Ford Everest|overtaken",
+     "dur": 6.2,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ute/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ute/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.614,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch05.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 7,
+     "name": "Chery Tiggo 4",
+     "photo": "a/m_tiggo4/1_commons.jpg",
+     "credit": "Photo: Zotyefan \u00b7 CC0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "19,865 sold \u00b7 +43%",
+     "sub": "Jan\u2013Sept 2026",
+     "dur": 11.02,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Jan\u2013Sept 2026",
+     "items": [
+      [
+       "Chery Tiggo 4",
+       19865
+      ],
+      [
+       "Hyundai Kona",
+       18533
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "VFACTS / EVC \u00b7 Jan\u2013Sept 2026",
+     "dur": 8.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_kona/1_commons.jpg",
+     "move": "in",
+     "caption": "Hyundai Kona|beaten",
+     "dur": 8.22,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "$23,990",
+     "label": "Tiggo 4 Urban \u00b7 drive-away + $1,500 fuel card",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarSorted",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_city/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_tiggo7/1_commons.jpg",
+     "move": "left",
+     "caption": "Chery|+77% in first half",
+     "dur": 8.02,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_offroad/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.9,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch06.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 6,
+     "name": "Jaecoo J5",
+     "photo": "a/m_j5/2_commons.jpg",
+     "credit": "Photo: Ethan Llamas \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "11,000+ sold",
+     "sub": "Jan\u2013Sept 2026",
+     "dur": 12.94,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "+621%",
+     "label": "Omoda Jaecoo \u00b7 Jan\u2013Sept 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "ACM / VFACTS",
+     "dur": 11.86,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Jaecoo J5 drive-away",
+     "items": [
+      [
+       "J5 petrol",
+       25990
+      ],
+      [
+       "J5 EV",
+       36990
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "$",
+     "suffix": "",
+     "source": "Jaecoo / CarSauce",
+     "dur": 12.42,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_j5/3_commons.jpg",
+     "move": "in",
+     "dur": 6.14,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_j5/4_commons.jpg",
+     "move": "left",
+     "caption": "J5 EV|4,000+ orders",
+     "dur": 4.94,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_dealer/3_commons.jpg",
+     "move": "left",
+     "dur": 10.38,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch07.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 5,
+     "name": "Zeekr 7X",
+     "photo": "a/m_zeekr7x/2_commons.jpg",
+     "credit": "Photo: JustAnotherCarDesigner \u00b7 CC0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "Zeekr +1,560%",
+     "sub": "Jan\u2013Sept 2026",
+     "dur": 11.34,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "12,120",
+     "label": "Zeekr sales \u00b7 Jan\u2013Sept 2026 \u00b7 +1,560%",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "ACM / VFACTS",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_night/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.12,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_zeekr7x/3_commons.jpg",
+     "move": "in",
+     "caption": "Zeekr 7X|best-selling premium SUV",
+     "dur": 7.74,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_outback/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.76,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_zeekr7x/4_commons.jpg",
+     "move": "left",
+     "dur": 13.86,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.115,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch08.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 4,
+     "name": "Toyota HiLux",
+     "photo": "a/m_hilux/1_commons.jpg",
+     "credit": "Photo: Dominic Nelson \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "#1 in October \u00b7 +34%",
+     "sub": "5,954 sales",
+     "dur": 15.0,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "October 2026",
+     "items": [
+      [
+       "Toyota HiLux",
+       5954
+      ],
+      [
+       "Ford Ranger",
+       4841
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "VFACTS via CarExpert",
+     "dur": 2.94,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ranger/1_commons.jpg",
+     "move": "in",
+     "caption": "Ford Ranger|led most of 2026",
+     "dur": 13.24,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "$4,000",
+     "label": "HiLux SR5 finance deposit bonus",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarExpert",
+     "dur": 11.34,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ute/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_offroad/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.618,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch09.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 3,
+     "name": "Geely EX5",
+     "photo": "a/m_ex5/2_commons.jpg",
+     "credit": "Photo: JustAnotherCarDesigner \u00b7 CC0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "+620% in September",
+     "sub": "#10 in October",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ute/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 14.06,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "23,632",
+     "label": "Geely sales \u00b7 Jan\u2013Sept 2026 \u00b7 +639%",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "ACM / VFACTS",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_outback/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.91,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ex5/4_commons.jpg",
+     "move": "in",
+     "caption": "Geely EX5|$41,990 + ORC",
+     "dur": 14.61,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_lot/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.148,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch10.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 2,
+     "name": "BYD Sealion 7",
+     "photo": "a/m_sealion7/1_commons.jpg",
+     "credit": "Photo: Alexander Migl \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "19,964 sold \u00b7 +135%",
+     "sub": "#5 in Australia",
+     "dur": 9.18,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Jan\u2013Sept 2026",
+     "items": [
+      [
+       "BYD Sealion 7",
+       19964
+      ],
+      [
+       "Isuzu D-Max",
+       18237
+      ],
+      [
+       "Ford Everest",
+       16203
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "VFACTS / EVC \u00b7 Jan\u2013Sept 2026",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_dealer/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_port/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.4,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_sealion7/3_commons.jpg",
+     "move": "in",
+     "caption": "Sealion 7 Premium|$50,990 with cashback",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_port/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 10.2,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "10,025",
+     "label": "BYD sales \u00b7 October 2026 \u00b7 +153%",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "VFACTS via CarExpert",
+     "dur": 9.98,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_dealer/5_commons.jpg",
+     "move": "out",
+     "dur": 3.979,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch11.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 1,
+     "name": "Tesla Model Y",
+     "photo": "a/m_modely/3_commons.jpg",
+     "credit": "Photo: Alexander Migl \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "35,930 \u00b7 +108%",
+     "sub": "#3 in Australia \u00b7 Jan\u2013Sept",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ev/3_commons.jpg",
+     "move": "down",
+     "dur": 10.36,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Jan\u2013Sept 2026",
+     "items": [
+      [
+       "Ford Ranger",
+       37858
+      ],
+      [
+       "Toyota HiLux",
+       36616
+      ],
+      [
+       "Tesla Model Y",
+       35930
+      ],
+      [
+       "Toyota RAV4",
+       31209
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "",
+     "source": "VFACTS / EVC \u00b7 Jan\u2013Sept 2026",
+     "dur": 5.04,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "#1 new vehicle in Australia \u00b7 May & June 2026",
+     "highlight": "#1",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 7.42,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "+322%",
+     "label": "Model Y \u00b7 October 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "VFACTS via CarExpert",
+     "dur": 8.58,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 10.96,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_night/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.551,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch12.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "Honourable Mentions",
+     "subtitle": "just missed the top 10",
+     "tag": "bonus",
+     "bg": "a/h_traffic/2_pixabay.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 6.16,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ranger/3_commons.jpg",
+     "move": "in",
+     "caption": "Ford Ranger|#1 year to September",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_highway/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.16,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_rav4/3_commons.jpg",
+     "move": "left",
+     "caption": "Toyota RAV4|+81% in September",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_night/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.16,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_shark6/1_commons.jpg",
+     "move": "right",
+     "caption": "BYD Shark 6|+72% in October",
+     "dur": 14.98,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_suv/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 11.85,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_kona/3_commons.jpg",
+     "move": "in",
+     "caption": "Hyundai Kona|+9% \u00b7 18,533",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_rain/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.05,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_gac/1_commons.jpg",
+     "move": "left",
+     "caption": "GAC|3,175 sold already",
+     "dur": 12.281,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch13.flac",
+   "lead_in": 0,
+   "tail": 2.5,
+   "shots": [
+    {
+     "type": "title",
+     "title": "What the Winners Have in Common",
+     "subtitle": "and what it means for you",
+     "tag": "verdict",
+     "bg": "a/h_lot/1_commons.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 2.03,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_money/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.33,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_ev/2_pixabay.jpg",
+     "move": "up",
+     "dur": 10.06,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_offroad/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.41,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_lot/2_pixabay.jpg",
+     "move": "out",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_lot/4_pixabay.jpg",
+     "move": "in",
+     "dur": 9.91,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_city/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_keys/2_pixabay.jpg",
+     "move": "left",
+     "dur": 7.7,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Which would YOU buy?",
+     "sub": "and 2027's surprise hit? comments",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 6.86,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Like \u00b7 Subscribe",
+     "sub": "numbers-first car videos",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 9.947,
+     "fixed": false,
+     "fade_out": 0
+    }
+   ]
+  }
+ ],
+ "size": [
+  1920,
+  1080
+ ],
+ "theme": "mint",
+ "subtitles": "AUS22.ass"
+}

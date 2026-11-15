@@ -35,6 +35,17 @@ THEMES = {
                  "base": (7, 13, 27), "glows": [((0, 170, 255), (0.2, 0.3)), ((255, 100, 20), (0.85, 0.78))],
                  "lines": (20, 34, 56), "grid": True, "mirror_rank": True, "caption": "plate",
                  "cycle": ["push", "zoom", "flash", "slide"], "photo_cycle": ["fade", "push", "fade", "zoom", "flash", "fade"]},
+    # "ember": disasters look (aus21) - charcoal-red studio, diagonal lines, amber + crimson, plate captions, rank photo right
+    "ember": {"colors": {"yellow": (255, 170, 30), "red": (220, 30, 40), "red_dark": (130, 15, 20),
+                         "grey": (175, 160, 155), "black": (16, 8, 8)},
+              "base": (18, 9, 10), "glows": [((200, 30, 20), (0.2, 0.75)), ((255, 140, 20), (0.85, 0.2))],
+              "caption": "plate", "cycle": ["zoom", "flash", "wipe", "push"], "photo_cycle": ["fade", "zoom", "fade", "flash", "fade", "push"]},
+    # "mint": successes look (aus22) - deep green-black studio, grid, mint + gold, plate captions, mirrored rank
+    "mint": {"colors": {"yellow": (40, 230, 160), "red": (255, 196, 40), "red_dark": (150, 110, 10),
+                        "grey": (150, 180, 170), "black": (6, 16, 13)},
+             "base": (6, 18, 15), "glows": [((20, 200, 140), (0.18, 0.25)), ((255, 190, 40), (0.85, 0.8))],
+             "lines": (16, 40, 33), "grid": True, "mirror_rank": True, "caption": "plate",
+             "cycle": ["slide", "push", "zoom", "flash"], "photo_cycle": ["fade", "slide", "fade", "push", "fade", "zoom"]},
 }
 
 

@@ -76,6 +76,8 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
 
 SUB_STYLES = {  # per video template (render_aus THEMES); AUS_THEME env picks one
+    "ember": "Style: Doc,Inter SemiBold,46,&H00FFFFFF,&H00FFFFFF,&H0008080F,&HA008080F,0,0,0,0,100,100,0.5,0,1,3,1.4,2,200,200,62,1",
+    "mint": "Style: Doc,Inter SemiBold,46,&H00FFFFFF,&H00FFFFFF,&H000D1006,&HA00D1006,0,0,0,0,100,100,0.5,0,1,3,1.4,2,200,200,62,1",
     "electric": "Style: Doc,Inter SemiBold,46,&H00FFFFFF,&H00FFFFFF,&H00180C06,&HA0180C06,0,0,0,0,100,100,0.5,0,1,3,1.4,2,200,200,62,1",
 }
 
