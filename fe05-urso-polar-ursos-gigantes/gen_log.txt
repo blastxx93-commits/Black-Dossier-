@@ -1,129 +1,237 @@
-ai_01_1: Gemini falhou (Gemini 429: {
+ai_xpol_01_1: Gemini falhou (Gemini 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please check your plan and ), tentando Replicate
-ai_01_1: 1920x1080
-ai_02_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_02_1: 1920x1080
-ai_03_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_03_1: 1920x1080
-ai_04_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_04_1: 1920x1080
-ai_05_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_05_1: 1920x1080
-ai_06_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_06_1: 1920x1080
-ai_07_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_07_1: 1920x1080
-ai_08_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_08_1: 1920x1080
-ai_09_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_09_1: 1920x1080
-ai_10_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_10_1: 1920x1080
-ai_11_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_11_1: 1920x1080
-ai_12_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_12_1: 1920x1080
-ai_13_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_13_1: 1920x1080
-ai_14_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_14_1: 1920x1080
-ai_15_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_15_1: 1920x1080
-ai_16_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_16_1: 1920x1080
-ai_17_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_17_1: 1920x1080
-ai_18_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_18_1: 1920x1080
-ai_19_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_19_1: 1920x1080
-ai_20_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_20_1: 1920x1080
-ai_21_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_21_1: 1920x1080
-ai_22_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_22_1: 1920x1080
-ai_23_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_23_1: 1920x1080
-ai_24_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_24_1: 1920x1080
-ai_25_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_25_1: 1920x1080
-ai_26_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_26_1: 1920x1080
-ai_27_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_27_1: 1920x1080
-ai_28_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_28_1: 1920x1080
-ai_29_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_29_1: 1920x1080
-ai_30_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_30_1: 1920x1080
-ai_31_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_31_1: 1920x1080
-ai_32_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_32_1: 1920x1080
-ai_33_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_33_1: 1920x1080
-ai_34_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_34_1: 1920x1080
-ai_35_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_35_1: 1920x1080
-ai_36_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_36_1: 1920x1080
-ai_37_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_37_1: 1920x1080
-ai_38_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_38_1: 1920x1080
-ai_39_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
-ai_39_1: 1920x1080
+ai_xpol_01_1: 1920x1080
+ai_xpol_02_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xpol_02_1: 1920x1080
+ai_xpol_03_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xpol_03_1: 1920x1080
+ai_xpol_04_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xpol_04_1: 1920x1080
+ai_xpol_05_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xpol_05_1: 1920x1080
+ai_xpol_06_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xpol_06_1: 1920x1080
+ai_xpol_07_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xpol_07_1: 1920x1080
+ai_xpol_08_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xpol_08_1: 1920x1080
+ai_xpol_09_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xpol_09_1: 1920x1080
+ai_xpol_10_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xpol_10_1: 1920x1080
+ai_xpol_11_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xpol_11_1: 1920x1080
+ai_xpol_12_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xpol_12_1: 1920x1080
+ai_xpol_13_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xpol_13_1: 1920x1080
+ai_xpol_14_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xpol_14_1: 1920x1080
+ai_xpol_15_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xpol_15_1: 1920x1080
+ai_xpol_16_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xpol_16_1: 1920x1080
+ai_xpol_17_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xpol_17_1: 1920x1080
+ai_xpol_18_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xpol_18_1: 1920x1080
+ai_xpol_19_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xpol_19_1: 1920x1080
+ai_xpol_20_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xpol_20_1: 1920x1080
+ai_xpol_21_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xpol_21_1: 1920x1080
+ai_xpol_22_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xpol_22_1: 1920x1080
+ai_xpol_23_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xpol_23_1: 1920x1080
+ai_xpol_24_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xpol_24_1: 1920x1080
+ai_xpol_25_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xpol_25_1: 1920x1080
+ai_xpol_26_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xpol_26_1: 1920x1080
+ai_xpol_27_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xpol_27_1: 1920x1080
+ai_xpol_28_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xpol_28_1: 1920x1080
+ai_xpol_29_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xpol_29_1: 1920x1080
+ai_xpol_30_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xpol_30_1: 1920x1080
+ai_xgel_01_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xgel_01_1: 1920x1080
+ai_xgel_02_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xgel_02_1: 1920x1080
+ai_xgel_03_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xgel_03_1: 1920x1080
+ai_xgel_04_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xgel_04_1: 1920x1080
+ai_xgel_05_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xgel_05_1: 1920x1080
+ai_xgel_06_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xgel_06_1: 1920x1080
+ai_xgel_07_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xgel_07_1: 1920x1080
+ai_xgel_08_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xgel_08_1: 1920x1080
+ai_xagr_01_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xagr_01_1: 1920x1080
+ai_xagr_02_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xagr_02_1: 1920x1080
+ai_xagr_03_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xagr_03_1: 1920x1080
+ai_xagr_04_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xagr_04_1: 1920x1080
+ai_xagr_05_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xagr_05_1: 1920x1080
+ai_xagr_06_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xagr_06_1: 1920x1080
+ai_xagr_07_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xagr_07_1: 1920x1080
+ai_xagr_08_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xagr_08_1: 1920x1080
+ai_xamp_01_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xamp_01_1: 1920x1080
+ai_xamp_02_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xamp_02_1: 1920x1080
+ai_xamp_03_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xamp_03_1: 1920x1080
+ai_xamp_04_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xamp_04_1: 1920x1080
+ai_xamp_05_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xamp_05_1: 1920x1080
+ai_xamp_06_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xamp_06_1: 1920x1080
+ai_xarc_01_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xarc_01_1: 1920x1080
+ai_xarc_02_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xarc_02_1: 1920x1080
+ai_xarc_03_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xarc_03_1: 1920x1080
+ai_xarc_04_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xarc_04_1: 1920x1080
+ai_xarc_05_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xarc_05_1: 1920x1080
+ai_xarc_06_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xarc_06_1: 1920x1080
+ai_xarc_07_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xarc_07_1: 1920x1080
+ai_xarc_08_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xarc_08_1: 1920x1080
+ai_xsho_01_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xsho_01_1: 1920x1080
+ai_xsho_02_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xsho_02_1: 1920x1080
+ai_xsho_03_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xsho_03_1: 1920x1080
+ai_xsho_04_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xsho_04_1: 1920x1080
+ai_xsho_05_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xsho_05_1: 1920x1080
+ai_xduo_01_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xduo_01_1: 1920x1080
+ai_xduo_02_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xduo_02_1: 1920x1080
+ai_xduo_03_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xduo_03_1: 1920x1080
+ai_xduo_04_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xduo_04_1: 1920x1080
+ai_xduo_05_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xduo_05_1: 1920x1080
+ai_xder_01_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xder_01_1: 1920x1080
+ai_xder_02_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xder_02_1: 1920x1080
+ai_xder_03_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xder_03_1: 1920x1080
+ai_xder_04_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xder_04_1: 1920x1080
+ai_xder_05_1: Gemini falhou (Gemini desligado nesta execução (sem cota)), tentando Replicate
+ai_xder_05_1: 1920x1080
 # Imagens IA — fe05-urso-polar-ursos-gigantes
 
 - Modelo: `gemini-2.5-flash-image`
-- Imagens geradas: 39
-- Folhas: ai_contact_sheet_1.jpg, ai_contact_sheet_2.jpg, ai_contact_sheet_3.jpg, ai_contact_sheet_4.jpg, ai_contact_sheet_5.jpg, ai_contact_sheet_6.jpg, ai_contact_sheet_7.jpg
+- Imagens geradas: 75
+- Folhas: ai_contact_sheet_1.jpg, ai_contact_sheet_2.jpg, ai_contact_sheet_3.jpg, ai_contact_sheet_4.jpg, ai_contact_sheet_5.jpg, ai_contact_sheet_6.jpg, ai_contact_sheet_7.jpg, ai_contact_sheet_8.jpg, ai_contact_sheet_9.jpg, ai_contact_sheet_10.jpg, ai_contact_sheet_11.jpg, ai_contact_sheet_12.jpg, ai_contact_sheet_13.jpg
 
 | plano | resultado |
 |---|---|
-| `ai_01` | 1 de 1 |
-| `ai_02` | 1 de 1 |
-| `ai_03` | 1 de 1 |
-| `ai_04` | 1 de 1 |
-| `ai_05` | 1 de 1 |
-| `ai_06` | 1 de 1 |
-| `ai_07` | 1 de 1 |
-| `ai_08` | 1 de 1 |
-| `ai_09` | 1 de 1 |
-| `ai_10` | 1 de 1 |
-| `ai_11` | 1 de 1 |
-| `ai_12` | 1 de 1 |
-| `ai_13` | 1 de 1 |
-| `ai_14` | 1 de 1 |
-| `ai_15` | 1 de 1 |
-| `ai_16` | 1 de 1 |
-| `ai_17` | 1 de 1 |
-| `ai_18` | 1 de 1 |
-| `ai_19` | 1 de 1 |
-| `ai_20` | 1 de 1 |
-| `ai_21` | 1 de 1 |
-| `ai_22` | 1 de 1 |
-| `ai_23` | 1 de 1 |
-| `ai_24` | 1 de 1 |
-| `ai_25` | 1 de 1 |
-| `ai_26` | 1 de 1 |
-| `ai_27` | 1 de 1 |
-| `ai_28` | 1 de 1 |
-| `ai_29` | 1 de 1 |
-| `ai_30` | 1 de 1 |
-| `ai_31` | 1 de 1 |
-| `ai_32` | 1 de 1 |
-| `ai_33` | 1 de 1 |
-| `ai_34` | 1 de 1 |
-| `ai_35` | 1 de 1 |
-| `ai_36` | 1 de 1 |
-| `ai_37` | 1 de 1 |
-| `ai_38` | 1 de 1 |
-| `ai_39` | 1 de 1 |
+| `ai_xpol_01` | 1 de 1 |
+| `ai_xpol_02` | 1 de 1 |
+| `ai_xpol_03` | 1 de 1 |
+| `ai_xpol_04` | 1 de 1 |
+| `ai_xpol_05` | 1 de 1 |
+| `ai_xpol_06` | 1 de 1 |
+| `ai_xpol_07` | 1 de 1 |
+| `ai_xpol_08` | 1 de 1 |
+| `ai_xpol_09` | 1 de 1 |
+| `ai_xpol_10` | 1 de 1 |
+| `ai_xpol_11` | 1 de 1 |
+| `ai_xpol_12` | 1 de 1 |
+| `ai_xpol_13` | 1 de 1 |
+| `ai_xpol_14` | 1 de 1 |
+| `ai_xpol_15` | 1 de 1 |
+| `ai_xpol_16` | 1 de 1 |
+| `ai_xpol_17` | 1 de 1 |
+| `ai_xpol_18` | 1 de 1 |
+| `ai_xpol_19` | 1 de 1 |
+| `ai_xpol_20` | 1 de 1 |
+| `ai_xpol_21` | 1 de 1 |
+| `ai_xpol_22` | 1 de 1 |
+| `ai_xpol_23` | 1 de 1 |
+| `ai_xpol_24` | 1 de 1 |
+| `ai_xpol_25` | 1 de 1 |
+| `ai_xpol_26` | 1 de 1 |
+| `ai_xpol_27` | 1 de 1 |
+| `ai_xpol_28` | 1 de 1 |
+| `ai_xpol_29` | 1 de 1 |
+| `ai_xpol_30` | 1 de 1 |
+| `ai_xgel_01` | 1 de 1 |
+| `ai_xgel_02` | 1 de 1 |
+| `ai_xgel_03` | 1 de 1 |
+| `ai_xgel_04` | 1 de 1 |
+| `ai_xgel_05` | 1 de 1 |
+| `ai_xgel_06` | 1 de 1 |
+| `ai_xgel_07` | 1 de 1 |
+| `ai_xgel_08` | 1 de 1 |
+| `ai_xagr_01` | 1 de 1 |
+| `ai_xagr_02` | 1 de 1 |
+| `ai_xagr_03` | 1 de 1 |
+| `ai_xagr_04` | 1 de 1 |
+| `ai_xagr_05` | 1 de 1 |
+| `ai_xagr_06` | 1 de 1 |
+| `ai_xagr_07` | 1 de 1 |
+| `ai_xagr_08` | 1 de 1 |
+| `ai_xamp_01` | 1 de 1 |
+| `ai_xamp_02` | 1 de 1 |
+| `ai_xamp_03` | 1 de 1 |
+| `ai_xamp_04` | 1 de 1 |
+| `ai_xamp_05` | 1 de 1 |
+| `ai_xamp_06` | 1 de 1 |
+| `ai_xarc_01` | 1 de 1 |
+| `ai_xarc_02` | 1 de 1 |
+| `ai_xarc_03` | 1 de 1 |
+| `ai_xarc_04` | 1 de 1 |
+| `ai_xarc_05` | 1 de 1 |
+| `ai_xarc_06` | 1 de 1 |
+| `ai_xarc_07` | 1 de 1 |
+| `ai_xarc_08` | 1 de 1 |
+| `ai_xsho_01` | 1 de 1 |
+| `ai_xsho_02` | 1 de 1 |
+| `ai_xsho_03` | 1 de 1 |
+| `ai_xsho_04` | 1 de 1 |
+| `ai_xsho_05` | 1 de 1 |
+| `ai_xduo_01` | 1 de 1 |
+| `ai_xduo_02` | 1 de 1 |
+| `ai_xduo_03` | 1 de 1 |
+| `ai_xduo_04` | 1 de 1 |
+| `ai_xduo_05` | 1 de 1 |
+| `ai_xder_01` | 1 de 1 |
+| `ai_xder_02` | 1 de 1 |
+| `ai_xder_03` | 1 de 1 |
+| `ai_xder_04` | 1 de 1 |
+| `ai_xder_05` | 1 de 1 |
 
