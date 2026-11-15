@@ -11,370 +11,375 @@ Style: Doc,Inter SemiBold,46,&H00FFFFFF,&H00FFFFFF,&H00180C06,&HA0180C06,0,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:01.49,Doc,,0,0,0,,More than ten thousand dollars.
-Dialogue: 0,0:00:01.54,0:00:04.73,Doc,,0,0,0,,That's how much you can now save\Non one brand-new ute in Australia,
-Dialogue: 0,0:00:04.78,0:00:06.55,Doc,,0,0,0,,compared with its old list price.
-Dialogue: 0,0:00:06.60,0:00:07.91,Doc,,0,0,0,,Not a used car.
-Dialogue: 0,0:00:07.96,0:00:10.55,Doc,,0,0,0,,Not a demo with forty\Nthousand kilometres on it.
-Dialogue: 0,0:00:10.60,0:00:13.55,Doc,,0,0,0,,A new ute, from one of the\Nbiggest car brands in the country.
-Dialogue: 0,0:00:13.60,0:00:15.05,Doc,,0,0,0,,And the reason is brutal.
-Dialogue: 0,0:00:15.10,0:00:16.23,Doc,,0,0,0,,When this ute launched,
-Dialogue: 0,0:00:16.28,0:00:19.63,Doc,,0,0,0,,the brand was talking about selling\Ntwenty thousand a year in Australia.
-Dialogue: 0,0:00:19.68,0:00:23.59,Doc,,0,0,0,,In the first nine months of 2026,\Nit sold fewer than four hundred.
-Dialogue: 0,0:00:23.64,0:00:24.87,Doc,,0,0,0,,It's not the only one.
-Dialogue: 0,0:00:24.92,0:00:28.87,Doc,,0,0,0,,Right now, you can buy a brand-new\Ncar for under twenty thousand dollars
-Dialogue: 0,0:00:28.92,0:00:29.33,Doc,,0,0,0,,drive-away.
-Dialogue: 0,0:00:29.38,0:00:33.09,Doc,,0,0,0,,Toyota a brand that almost never discounts\Nis offering four thousand dollars
-Dialogue: 0,0:00:33.14,0:00:34.65,Doc,,0,0,0,,on the HiLux.
-Dialogue: 0,0:00:34.70,0:00:36.89,Doc,,0,0,0,,Ford is offering five\Nthousand on the Ranger.
-Dialogue: 0,0:00:36.94,0:00:40.65,Doc,,0,0,0,,And Black Friday deals are landing on\Ncars that used to have waiting lists.
-Dialogue: 0,0:00:40.70,0:00:41.63,Doc,,0,0,0,,So in this video,
-Dialogue: 0,0:00:41.68,0:00:45.09,Doc,,0,0,0,,I'm counting down the ten biggest\Nnew-car deals in Australia right now,
-Dialogue: 0,0:00:45.14,0:00:46.77,Doc,,0,0,0,,from smallest to biggest.
-Dialogue: 0,0:00:46.82,0:00:49.15,Doc,,0,0,0,,Real offers, from the brands\Nand the motoring press,
-Dialogue: 0,0:00:49.20,0:00:52.15,Doc,,0,0,0,,with the prices, the end\Ndates and the catches,
-Dialogue: 0,0:00:52.20,0:00:55.17,Doc,,0,0,0,,because almost every one\Nof these deals has one.
-Dialogue: 0,0:00:55.22,0:00:55.95,Doc,,0,0,0,,Stay to the end,
-Dialogue: 0,0:00:56.00,0:00:59.11,Doc,,0,0,0,,because number one is the deal that tells\Nyou the most about where this market
-Dialogue: 0,0:00:59.16,0:00:59.96,Doc,,0,0,0,,is heading.
-Dialogue: 0,0:01:00.51,0:01:02.84,Doc,,0,0,0,,First, why is this happening now?
-Dialogue: 0,0:01:02.89,0:01:08.88,Doc,,0,0,0,,Australians bought 107,493\Nnew vehicles in October 2026,
-Dialogue: 0,0:01:08.93,0:01:10.22,Doc,,0,0,0,,a record for the month.
-Dialogue: 0,0:01:10.27,0:01:11.40,Doc,,0,0,0,,So people are buying.
-Dialogue: 0,0:01:11.45,0:01:14.32,Doc,,0,0,0,,But they're buying very different\Ncars from even a year ago.
-Dialogue: 0,0:01:14.37,0:01:19.00,Doc,,0,0,0,,Electric car sales were up 237\Nper cent on October last year,
-Dialogue: 0,0:01:19.05,0:01:21.90,Doc,,0,0,0,,BYD sold more than ten thousand\Ncars in a single month,
-Dialogue: 0,0:01:21.95,0:01:24.84,Doc,,0,0,0,,and cars built in China\Nwere up 104 per cent.
-Dialogue: 0,0:01:24.89,0:01:28.54,Doc,,0,0,0,,That means a lot of brands are sitting\Non stock they can't move especially
-Dialogue: 0,0:01:28.59,0:01:31.50,Doc,,0,0,0,,utes, big SUVs and older models.
-Dialogue: 0,0:01:31.55,0:01:34.03,Doc,,0,0,0,,Mitsubishi sales were down\N50 per cent in October.
-Dialogue: 0,0:01:34.08,0:01:36.18,Doc,,0,0,0,,Renault was down 58 per cent.
-Dialogue: 0,0:01:36.23,0:01:38.50,Doc,,0,0,0,,Hyundai was down almost 29.
-Dialogue: 0,0:01:38.55,0:01:42.22,Doc,,0,0,0,,Even Ford, the maker of Australia's\Nfavourite ute, was down 3 per cent.
-Dialogue: 0,0:01:42.27,0:01:43.76,Doc,,0,0,0,,And there's a second pressure.
-Dialogue: 0,0:01:43.81,0:01:45.14,Doc,,0,0,0,,It's the end of the year.
-Dialogue: 0,0:01:45.19,0:01:46.86,Doc,,0,0,0,,Dealers have annual targets,
-Dialogue: 0,0:01:46.91,0:01:52.02,Doc,,0,0,0,,factories want to clear 2025 and 2026-built\Ncars before the new plates arrive,
-Dialogue: 0,0:01:52.07,0:01:54.56,Doc,,0,0,0,,and Black Friday falls\Non the 27th of November.
-Dialogue: 0,0:01:54.61,0:01:58.14,Doc,,0,0,0,,So brands are throwing\Neverything at buyers price cuts,
-Dialogue: 0,0:01:58.19,0:02:03.36,Doc,,0,0,0,,cashback, fuel cards, deposit contributions,\Ngift cards and free servicing.
-Dialogue: 0,0:02:03.41,0:02:05.08,Doc,,0,0,0,,A quick note before we start.
-Dialogue: 0,0:02:05.13,0:02:08.52,Doc,,0,0,0,,These deals are current\Nas of mid-November 2026.
-Dialogue: 0,0:02:08.57,0:02:10.90,Doc,,0,0,0,,Most of them end on the 30th of November,
-Dialogue: 0,0:02:10.95,0:02:14.24,Doc,,0,0,0,,the 21st of December or\Nthe 31st of December.
-Dialogue: 0,0:02:14.29,0:02:16.44,Doc,,0,0,0,,Drive-away prices can change by state,
-Dialogue: 0,0:02:16.49,0:02:18.88,Doc,,0,0,0,,and some deals are only\Nfor private buyers.
-Dialogue: 0,0:02:18.93,0:02:21.34,Doc,,0,0,0,,So always get the final price\Nin writing from the dealer.
-Dialogue: 0,0:02:21.39,0:02:22.55,Doc,,0,0,0,,Let's go.
-Dialogue: 0,0:02:23.35,0:02:25.88,Doc,,0,0,0,,Number ten: the fuel card war.
-Dialogue: 0,0:02:25.93,0:02:30.52,Doc,,0,0,0,,Some brands don't want to cut the\Nprice, because that hurts resale values.
-Dialogue: 0,0:02:30.57,0:02:32.78,Doc,,0,0,0,,So instead, they hand you a fuel card.
-Dialogue: 0,0:02:32.83,0:02:36.66,Doc,,0,0,0,,Chery is offering a two-thousand-dollar\Nfuel card on the Tiggo 7,
-Dialogue: 0,0:02:36.71,0:02:41.58,Doc,,0,0,0,,with the Tiggo 7 Urban\Nat $29,990 drive-away,
-Dialogue: 0,0:02:41.63,0:02:44.54,Doc,,0,0,0,,and a fifteen-hundred-dollar\Nfuel card on the Tiggo 4,
-Dialogue: 0,0:02:44.59,0:02:48.20,Doc,,0,0,0,,which starts at $23,990 drive-away.
-Dialogue: 0,0:02:48.25,0:02:52.72,Doc,,0,0,0,,The Chery E5 electric SUV gets two\Nthousand dollars cashback instead.
-Dialogue: 0,0:02:52.77,0:02:55.56,Doc,,0,0,0,,Those offers run until\Nthe 21st of December,
-Dialogue: 0,0:02:55.61,0:02:57.80,Doc,,0,0,0,,according to the deals tracker CarSorted.
-Dialogue: 0,0:02:57.85,0:02:59.88,Doc,,0,0,0,,Mitsubishi is doing the same thing.
-Dialogue: 0,0:02:59.93,0:03:02.62,Doc,,0,0,0,,There's a three-thousand-dollar\Nfuel card on the Triton ute,
-Dialogue: 0,0:03:02.67,0:03:06.28,Doc,,0,0,0,,and a two-thousand-dollar fuel card\Non the Outlander LS Black Edition,
-Dialogue: 0,0:03:06.33,0:03:12.44,Doc,,0,0,0,,which is listed at $47,990\Ndrive-away until the end of November.
-Dialogue: 0,0:03:12.49,0:03:14.60,Doc,,0,0,0,,Now, here's the catch with fuel cards.
-Dialogue: 0,0:03:14.65,0:03:17.80,Doc,,0,0,0,,A two-thousand-dollar fuel card is not\Nthe same as two thousand dollars off
-Dialogue: 0,0:03:17.85,0:03:18.20,Doc,,0,0,0,,the price.
-Dialogue: 0,0:03:18.25,0:03:20.46,Doc,,0,0,0,,You can't spend it on anything else,
-Dialogue: 0,0:03:20.51,0:03:23.72,Doc,,0,0,0,,it doesn't reduce your loan, and\Nit doesn't reduce the stamp duty.
-Dialogue: 0,0:03:23.77,0:03:25.36,Doc,,0,0,0,,If a dealer offers you a fuel card,
-Dialogue: 0,0:03:25.41,0:03:29.08,Doc,,0,0,0,,it's always worth asking: could I\Nhave that as a discount instead?
-Dialogue: 0,0:03:29.13,0:03:30.42,Doc,,0,0,0,,Sometimes the answer is yes.
-Dialogue: 0,0:03:30.47,0:03:32.32,Doc,,0,0,0,,And remember the context.
-Dialogue: 0,0:03:32.37,0:03:34.62,Doc,,0,0,0,,Mitsubishi's sales halved in October.
-Dialogue: 0,0:03:34.67,0:03:36.50,Doc,,0,0,0,,When a brand's sales fall that far,
-Dialogue: 0,0:03:36.55,0:03:39.63,Doc,,0,0,0,,there's usually more room to\Nnegotiate than the advertised offer.
-Dialogue: 0,0:03:41.24,0:03:42.32,Doc,,0,0,0,,Number nine: Honda's plate clearance.
-Dialogue: 0,0:03:42.37,0:03:46.16,Doc,,0,0,0,,Honda sells its cars at fixed,\Nno-haggle prices in Australia.
-Dialogue: 0,0:03:46.21,0:03:49.40,Doc,,0,0,0,,So instead of cutting the price,\Nit's giving away gift cards.
-Dialogue: 0,0:03:49.45,0:03:52.38,Doc,,0,0,0,,Its end-of-year plate clearance,\Nreported by CarExpert,
-Dialogue: 0,0:03:52.43,0:03:57.30,Doc,,0,0,0,,runs until the 31st of January\N2027 on 2026-built cars.
-Dialogue: 0,0:03:57.35,0:03:59.04,Doc,,0,0,0,,The biggest gift card is\Nthree thousand dollars,
-Dialogue: 0,0:03:59.09,0:04:04.68,Doc,,0,0,0,,on the CR-V e:HEV X hybrid\Nand the ZR-V e:HEV X hybrid.
-Dialogue: 0,0:04:04.73,0:04:08.44,Doc,,0,0,0,,Other CR-V and ZR-V hybrids\Nget fifteen hundred dollars.
-Dialogue: 0,0:04:08.49,0:04:12.98,Doc,,0,0,0,,And the Civic, the HR-V, the Prelude\Nand the Accord get a thousand dollars.
-Dialogue: 0,0:04:13.03,0:04:14.12,Doc,,0,0,0,,On top of that,
-Dialogue: 0,0:04:14.17,0:04:17.72,Doc,,0,0,0,,Honda is throwing in the first five\Nscheduled services for free that's five
-Dialogue: 0,0:04:17.77,0:04:19.86,Doc,,0,0,0,,years or fifty thousand kilometres.
-Dialogue: 0,0:04:19.91,0:04:23.62,Doc,,0,0,0,,CarExpert valued that at $1,395.
-Dialogue: 0,0:04:23.67,0:04:25.16,Doc,,0,0,0,,So on the best-value models,
-Dialogue: 0,0:04:25.21,0:04:28.14,Doc,,0,0,0,,you're looking at around four\Nthousand dollars in total benefits.
-Dialogue: 0,0:04:28.19,0:04:30.38,Doc,,0,0,0,,Not bad from a brand that\Nalmost never does deals.
-Dialogue: 0,0:04:30.43,0:04:32.10,Doc,,0,0,0,,Here's the catch.
-Dialogue: 0,0:04:32.15,0:04:38.04,Doc,,0,0,0,,Honda's annual service price has\Njust gone up, from $199 to $279.
-Dialogue: 0,0:04:38.09,0:04:41.64,Doc,,0,0,0,,So that free servicing is worth\Nmore than it was a month ago.
-Dialogue: 0,0:04:41.69,0:04:45.44,Doc,,0,0,0,,And remember, the gift card arrives\Nwithin thirty days of delivery it doesn't
-Dialogue: 0,0:04:45.49,0:04:47.36,Doc,,0,0,0,,come off the price you pay on the day.
-Dialogue: 0,0:04:47.41,0:04:48.98,Doc,,0,0,0,,And if you're thinking about the Accord,
-Dialogue: 0,0:04:49.03,0:04:50.98,Doc,,0,0,0,,it was the number one\Ncar in my last video,
-Dialogue: 0,0:04:51.03,0:04:53.61,Doc,,0,0,0,,with just fifty-nine sold in nine months.
-Dialogue: 0,0:04:55.33,0:04:56.01,Doc,,0,0,0,,Number eight: GWM.
-Dialogue: 0,0:04:56.06,0:04:58.83,Doc,,0,0,0,,GWM is a Chinese brand,
-Dialogue: 0,0:04:58.88,0:05:02.31,Doc,,0,0,0,,but it's not riding the\NChinese boom like BYD or Geely.
-Dialogue: 0,0:05:02.36,0:05:05.43,Doc,,0,0,0,,In October, GWM's sales\Nwere basically flat,
-Dialogue: 0,0:05:05.48,0:05:10.03,Doc,,0,0,0,,down 0.3 per cent the only Chinese brand\Nin the top ten that went backwards.
-Dialogue: 0,0:05:10.08,0:05:11.85,Doc,,0,0,0,,And it's responding with deals.
-Dialogue: 0,0:05:11.90,0:05:13.63,Doc,,0,0,0,,According to GWM's own offers,
-Dialogue: 0,0:05:13.68,0:05:15.27,Doc,,0,0,0,,listed by CarSorted,
-Dialogue: 0,0:05:15.32,0:05:20.33,Doc,,0,0,0,,the Haval Jolion Premium\NHybrid is $32,990 drive-away,
-Dialogue: 0,0:05:20.38,0:05:22.85,Doc,,0,0,0,,with a three-thousand-dollar\Ndeposit contribution.
-Dialogue: 0,0:05:22.90,0:05:28.27,Doc,,0,0,0,,The bigger Haval H6 Ultra\NHybrid is $43,990 drive-away,
-Dialogue: 0,0:05:28.32,0:05:31.03,Doc,,0,0,0,,also with three thousand\Ndollars towards your deposit.
-Dialogue: 0,0:05:31.08,0:05:36.65,Doc,,0,0,0,,The H6 Lux petrol is $35,990\Ndrive-away with two thousand.
-Dialogue: 0,0:05:36.70,0:05:40.79,Doc,,0,0,0,,And the Cannon ute is\Nfrom $39,990 drive-away,
-Dialogue: 0,0:05:40.84,0:05:43.19,Doc,,0,0,0,,with a smaller\Nfive-hundred-dollar contribution.
-Dialogue: 0,0:05:43.24,0:05:45.53,Doc,,0,0,0,,All of those run until\Nthe 30th of November.
-Dialogue: 0,0:05:45.58,0:05:46.41,Doc,,0,0,0,,Back in October,
-Dialogue: 0,0:05:46.46,0:05:51.73,Doc,,0,0,0,,CarExpert reported GWM offering up to\Nfive thousand dollars off selected SUVs.
-Dialogue: 0,0:05:51.78,0:05:53.83,Doc,,0,0,0,,So this brand is clearly in a hurry.
-Dialogue: 0,0:05:53.88,0:05:54.65,Doc,,0,0,0,,The catch?
-Dialogue: 0,0:05:54.70,0:05:57.29,Doc,,0,0,0,,A deposit contribution is\Neffectively a discount,
-Dialogue: 0,0:05:57.34,0:06:00.45,Doc,,0,0,0,,but it's usually tied to\Nfinance or to specific stock.
-Dialogue: 0,0:06:00.50,0:06:03.31,Doc,,0,0,0,,And remember, these deals\Nchange month to month.
-Dialogue: 0,0:06:03.36,0:06:04.87,Doc,,0,0,0,,If you miss the end of November,
-Dialogue: 0,0:06:04.92,0:06:07.91,Doc,,0,0,0,,there's a good chance another deal\Nturns up in December but there's no
-Dialogue: 0,0:06:07.96,0:06:09.84,Doc,,0,0,0,,guarantee it will be the same one.
-Dialogue: 0,0:06:10.65,0:06:13.24,Doc,,0,0,0,,Number seven: the Toyota HiLux.
-Dialogue: 0,0:06:13.29,0:06:14.34,Doc,,0,0,0,,This one is rare.
-Dialogue: 0,0:06:14.39,0:06:16.12,Doc,,0,0,0,,Toyota doesn't need to discount much,
-Dialogue: 0,0:06:16.17,0:06:19.36,Doc,,0,0,0,,because Toyota sells more\Ncars than anyone in Australia.
-Dialogue: 0,0:06:19.41,0:06:22.74,Doc,,0,0,0,,In October, the HiLux was the\Nbest-selling vehicle in the country,
-Dialogue: 0,0:06:22.79,0:06:25.62,Doc,,0,0,0,,with 5,954 sales.
-Dialogue: 0,0:06:25.67,0:06:27.78,Doc,,0,0,0,,But the ute market is getting crowded.
-Dialogue: 0,0:06:27.83,0:06:29.32,Doc,,0,0,0,,So according to CarExpert,
-Dialogue: 0,0:06:29.37,0:06:33.74,Doc,,0,0,0,,Toyota is offering a four-thousand-dollar\Nfinance deposit bonus on HiLux SR5
-Dialogue: 0,0:06:33.79,0:06:38.18,Doc,,0,0,0,,four-by-four dual-cab pickups and\Ncab-chassis models diesel only.
-Dialogue: 0,0:06:38.23,0:06:39.15,Doc,,0,0,0,,With the bonus,
-Dialogue: 0,0:06:39.20,0:06:45.32,Doc,,0,0,0,,CarExpert says the effective prices\Nbefore on-road costs are $59,990 for
-Dialogue: 0,0:06:45.37,0:06:47.34,Doc,,0,0,0,,the manual dual-cab pickup,
-Dialogue: 0,0:06:47.39,0:06:50.52,Doc,,0,0,0,,$60,490 for the automatic cab-chassis,
-Dialogue: 0,0:06:50.57,0:06:54.94,Doc,,0,0,0,,and $61,990 for the\Nautomatic dual-cab pickup.
-Dialogue: 0,0:06:54.99,0:06:57.40,Doc,,0,0,0,,Now, here's the catch and it's a big one.
-Dialogue: 0,0:06:57.45,0:07:00.16,Doc,,0,0,0,,You have to finance the\Ncar through Toyota Finance,
-Dialogue: 0,0:07:00.21,0:07:02.66,Doc,,0,0,0,,and you have to borrow at\Nleast ten thousand dollars.
-Dialogue: 0,0:07:02.71,0:07:03.76,Doc,,0,0,0,,Leases don't count.
-Dialogue: 0,0:07:03.81,0:07:06.12,Doc,,0,0,0,,And the electric HiLux isn't included.
-Dialogue: 0,0:07:06.17,0:07:10.12,Doc,,0,0,0,,You'll need to order and apply for\Nfinance by the 31st of December,
-Dialogue: 0,0:07:10.17,0:07:12.18,Doc,,0,0,0,,with settlement by the end of February.
-Dialogue: 0,0:07:12.23,0:07:15.48,Doc,,0,0,0,,So if you were going to pay cash,\Nthis deal isn't really for you.
-Dialogue: 0,0:07:15.53,0:07:17.38,Doc,,0,0,0,,But if you were going to finance anyway,
-Dialogue: 0,0:07:17.43,0:07:19.70,Doc,,0,0,0,,compare Toyota's interest\Nrate with your bank's.
-Dialogue: 0,0:07:19.75,0:07:23.16,Doc,,0,0,0,,A four-thousand-dollar bonus can\Ndisappear quickly if the interest rate is
-Dialogue: 0,0:07:23.21,0:07:24.01,Doc,,0,0,0,,higher.
-Dialogue: 0,0:07:24.49,0:07:28.02,Doc,,0,0,0,,Number six: BYD's\Nfour-thousand-dollar cashback.
-Dialogue: 0,0:07:28.07,0:07:32.28,Doc,,0,0,0,,BYD is the second biggest brand in the\Ncountry and it's growing like crazy up
-Dialogue: 0,0:07:32.33,0:07:34.98,Doc,,0,0,0,,153 per cent in October.
-Dialogue: 0,0:07:35.03,0:07:36.74,Doc,,0,0,0,,So why is it offering cashback?
-Dialogue: 0,0:07:36.79,0:07:38.10,Doc,,0,0,0,,Because it's in a price war,
-Dialogue: 0,0:07:38.15,0:07:40.74,Doc,,0,0,0,,and it wants to keep the\Npressure on everyone else.
-Dialogue: 0,0:07:40.79,0:07:42.34,Doc,,0,0,0,,According to CarExpert,
-Dialogue: 0,0:07:42.39,0:07:46.24,Doc,,0,0,0,,BYD is offering four thousand\Ndollars cashback on the Seal 6,
-Dialogue: 0,0:07:46.29,0:07:51.16,Doc,,0,0,0,,the Shark 6 ute and the\NSealion 5, 6, 7 and 8 SUVs.
-Dialogue: 0,0:07:51.21,0:07:52.26,Doc,,0,0,0,,With the cashback,
-Dialogue: 0,0:07:52.31,0:07:58.60,Doc,,0,0,0,,the Sealion 5 Essential works out\Nat $29,990 before on-road costs.
-Dialogue: 0,0:07:58.65,0:08:02.56,Doc,,0,0,0,,The Sealion 7 Premium one of the\Nbest-selling electric cars in the country
-Dialogue: 0,0:08:02.61,0:08:05.16,Doc,,0,0,0,,works out at $50,990.
-Dialogue: 0,0:08:05.21,0:08:09.90,Doc,,0,0,0,,And the Shark 6 Premium\Nplug-in hybrid ute is $53,900.
-Dialogue: 0,0:08:09.95,0:08:14.26,Doc,,0,0,0,,There's also 0.99 per cent finance\Nover thirty-six months on most of those
-Dialogue: 0,0:08:14.31,0:08:14.79,Doc,,0,0,0,,models.
-Dialogue: 0,0:08:14.84,0:08:17.44,Doc,,0,0,0,,Orders have to be placed\Nby the 21st of December,
-Dialogue: 0,0:08:17.49,0:08:19.64,Doc,,0,0,0,,with delivery by the end of the year.
-Dialogue: 0,0:08:19.69,0:08:20.36,Doc,,0,0,0,,The catch?
-Dialogue: 0,0:08:20.41,0:08:22.86,Doc,,0,0,0,,The cashback can't be combined\Nwith other BYD offers,
-Dialogue: 0,0:08:22.91,0:08:26.54,Doc,,0,0,0,,it's not for fleet buyers, and\Ndemonstrators aren't included.
-Dialogue: 0,0:08:26.59,0:08:30.10,Doc,,0,0,0,,And Zecar reported claims that some\Ndealers are adding another two thousand on
-Dialogue: 0,0:08:30.15,0:08:32.56,Doc,,0,0,0,,top but BYD hasn't confirmed that.
-Dialogue: 0,0:08:32.61,0:08:35.55,Doc,,0,0,0,,So if a dealer offers you six\Nthousand, get it in writing.
-Dialogue: 0,0:08:37.23,0:08:38.58,Doc,,0,0,0,,Number five: the Renault Duster.
-Dialogue: 0,0:08:38.63,0:08:42.66,Doc,,0,0,0,,The Duster is a small, tough SUV, and\Nyou can get it with four-wheel drive.
-Dialogue: 0,0:08:42.71,0:08:45.72,Doc,,0,0,0,,Now it's had up to five thousand\Ndollars cut from its price,
-Dialogue: 0,0:08:45.77,0:08:47.26,Doc,,0,0,0,,according to Cars24,
-Dialogue: 0,0:08:47.31,0:08:52.76,Doc,,0,0,0,,and the entry-level Evolution two-wheel\Ndrive is now $29,990 drive-away
-Dialogue: 0,0:08:52.81,0:08:53.88,Doc,,0,0,0,,nationwide.
-Dialogue: 0,0:08:53.93,0:08:57.88,Doc,,0,0,0,,That's a real off-road-capable SUV\Nfor under thirty thousand dollars
-Dialogue: 0,0:08:57.93,0:08:58.30,Doc,,0,0,0,,drive-away.
-Dialogue: 0,0:08:58.35,0:09:01.87,Doc,,0,0,0,,The four-wheel-drive versions are around\Nthirty-four to thirty-six thousand
-Dialogue: 0,0:09:01.92,0:09:03.14,Doc,,0,0,0,,drive-away in New South Wales.
-Dialogue: 0,0:09:03.19,0:09:07.28,Doc,,0,0,0,,The offer covers cars bought and delivered\Nbetween the 1st of November and the
-Dialogue: 0,0:09:07.33,0:09:08.94,Doc,,0,0,0,,31st of December.
-Dialogue: 0,0:09:08.99,0:09:09.86,Doc,,0,0,0,,Why the deal?
-Dialogue: 0,0:09:09.91,0:09:10.80,Doc,,0,0,0,,Renault didn't say.
-Dialogue: 0,0:09:10.85,0:09:12.28,Doc,,0,0,0,,But the sales figures do.
-Dialogue: 0,0:09:12.33,0:09:16.90,Doc,,0,0,0,,In October, the whole Renault brand\Nsold just 164 cars in Australia,
-Dialogue: 0,0:09:16.95,0:09:19.64,Doc,,0,0,0,,down 58 per cent on the\Nsame month last year.
-Dialogue: 0,0:09:19.69,0:09:23.96,Doc,,0,0,0,,The Arkana sold four, the Koleos\N21, and the Kangoo van just two.
-Dialogue: 0,0:09:24.01,0:09:24.66,Doc,,0,0,0,,The catch?
-Dialogue: 0,0:09:24.71,0:09:26.86,Doc,,0,0,0,,The advertised price is\Nfor Solid White only.
-Dialogue: 0,0:09:26.91,0:09:30.00,Doc,,0,0,0,,Any other colour adds $850.
-Dialogue: 0,0:09:30.05,0:09:33.34,Doc,,0,0,0,,And fleet, government and rental\Nbuyers can't get the deal.
-Dialogue: 0,0:09:33.39,0:09:35.50,Doc,,0,0,0,,Also think about the brand's future here.
-Dialogue: 0,0:09:35.55,0:09:36.82,Doc,,0,0,0,,With sales this low,
-Dialogue: 0,0:09:36.87,0:09:38.80,Doc,,0,0,0,,ask about the dealer network near you,
-Dialogue: 0,0:09:38.85,0:09:41.55,Doc,,0,0,0,,servicing costs and parts\Nsupply before you sign.
-Dialogue: 0,0:09:42.32,0:09:43.84,Doc,,0,0,0,,Number four: the Ford Ranger.
-Dialogue: 0,0:09:43.89,0:09:46.35,Doc,,0,0,0,,This is Australia's\Nother favourite vehicle.
-Dialogue: 0,0:09:46.40,0:09:49.33,Doc,,0,0,0,,The Ranger has been the best-selling\Nvehicle in the country for four months
-Dialogue: 0,0:09:49.38,0:09:50.05,Doc,,0,0,0,,this year.
-Dialogue: 0,0:09:50.10,0:09:51.91,Doc,,0,0,0,,But it's in a fight with the HiLux,
-Dialogue: 0,0:09:51.96,0:09:55.85,Doc,,0,0,0,,with BYD's Shark 6, and with\Na wave of new Chinese utes.
-Dialogue: 0,0:09:55.90,0:09:57.47,Doc,,0,0,0,,So according to CarExpert,
-Dialogue: 0,0:09:57.52,0:10:00.99,Doc,,0,0,0,,Ford is offering a five-thousand-dollar\Nfuel card or a discount of the same
-Dialogue: 0,0:10:01.04,0:10:06.69,Doc,,0,0,0,,value on the 2026.5 model year\NRanger XLT, Wildtrak and Tremor.
-Dialogue: 0,0:10:06.74,0:10:09.77,Doc,,0,0,0,,For the newer 2027 versions\Nof the same models,
-Dialogue: 0,0:10:09.82,0:10:11.77,Doc,,0,0,0,,the offer is four thousand dollars.
-Dialogue: 0,0:10:11.82,0:10:16.81,Doc,,0,0,0,,And the Ranger Black Edition V6 dual-cab\Npickup has a drive-away price of
-Dialogue: 0,0:10:16.86,0:10:17.87,Doc,,0,0,0,,$59,000.
-Dialogue: 0,0:10:17.92,0:10:19.33,Doc,,0,0,0,,Here's the smart move.
-Dialogue: 0,0:10:19.38,0:10:22.55,Doc,,0,0,0,,Ford's offer gives you a choice\Nbetween a fuel card and a discount.
-Dialogue: 0,0:10:22.60,0:10:23.59,Doc,,0,0,0,,Take the discount.
-Dialogue: 0,0:10:23.64,0:10:26.63,Doc,,0,0,0,,As I said earlier, a discount\Nreduces the price you pay,
-Dialogue: 0,0:10:26.68,0:10:28.87,Doc,,0,0,0,,the amount you borrow and the stamp duty.
-Dialogue: 0,0:10:28.92,0:10:30.57,Doc,,0,0,0,,A fuel card does none of that.
-Dialogue: 0,0:10:30.62,0:10:31.29,Doc,,0,0,0,,The catch?
-Dialogue: 0,0:10:31.34,0:10:34.13,Doc,,0,0,0,,CarExpert didn't publish an end\Ndate for these Ranger offers,
-Dialogue: 0,0:10:34.18,0:10:35.83,Doc,,0,0,0,,so they could end at any time.
-Dialogue: 0,0:10:35.88,0:10:38.91,Doc,,0,0,0,,And the five-thousand-dollar\Noffer is on the older model year.
-Dialogue: 0,0:10:38.96,0:10:42.45,Doc,,0,0,0,,If you're buying to keep for a long\Ntime, the model year matters less.
-Dialogue: 0,0:10:42.50,0:10:45.24,Doc,,0,0,0,,If you'll sell it in two or\Nthree years, it can matter more.
-Dialogue: 0,0:10:46.72,0:10:48.19,Doc,,0,0,0,,Number three: Suzuki's Black Friday sale.
-Dialogue: 0,0:10:48.24,0:10:52.45,Doc,,0,0,0,,Suzuki is running a Black Friday sale\Nwith ten per cent off the price of black
-Dialogue: 0,0:10:52.50,0:10:53.21,Doc,,0,0,0,,cars.
-Dialogue: 0,0:10:53.26,0:10:55.39,Doc,,0,0,0,,Yes, it only applies to black cars.
-Dialogue: 0,0:10:55.44,0:10:57.69,Doc,,0,0,0,,The biggest saving,\Naccording to CarExpert,
-Dialogue: 0,0:10:57.74,0:11:01.17,Doc,,0,0,0,,is on the new e Vitara Ultra electric SUV:
-Dialogue: 0,0:11:01.22,0:11:07.39,Doc,,0,0,0,,$5,774 off, bringing it\Nto $51,962 drive-away.
-Dialogue: 0,0:11:07.44,0:11:11.89,Doc,,0,0,0,,The e Vitara Motion is $42,862 drive-away,
-Dialogue: 0,0:11:11.94,0:11:14.67,Doc,,0,0,0,,a saving of $4,874.
-Dialogue: 0,0:11:14.72,0:11:19.65,Doc,,0,0,0,,The Vitara Turbo hybrid\Nis $36,762 drive-away,
-Dialogue: 0,0:11:19.70,0:11:22.49,Doc,,0,0,0,,saving $3,974.
-Dialogue: 0,0:11:22.54,0:11:25.25,Doc,,0,0,0,,And here's the one that'll\Nget attention: the Jimny.
-Dialogue: 0,0:11:25.30,0:11:30.05,Doc,,0,0,0,,The three-door Jimny in\Nblack is $35,762 drive-away,
-Dialogue: 0,0:11:30.10,0:11:32.95,Doc,,0,0,0,,a saving of $3,474.
-Dialogue: 0,0:11:33.00,0:11:37.95,Doc,,0,0,0,,The five-door Jimny XL\Nis $37,562 drive-away,
-Dialogue: 0,0:11:38.00,0:11:40.53,Doc,,0,0,0,,saving $3,674.
-Dialogue: 0,0:11:40.58,0:11:44.43,Doc,,0,0,0,,The Swift Hybrid starts\Nat $23,022 drive-away.
-Dialogue: 0,0:11:44.48,0:11:46.31,Doc,,0,0,0,,The catches are important on this one.
-Dialogue: 0,0:11:46.36,0:11:47.87,Doc,,0,0,0,,It's for private buyers only.
-Dialogue: 0,0:11:47.92,0:11:51.15,Doc,,0,0,0,,You have to buy and take\Ndelivery by the 30th of November.
-Dialogue: 0,0:11:51.20,0:11:55.20,Doc,,0,0,0,,It only covers selected new and\Ndemonstrator stock at participating dealers.
-Dialogue: 0,0:11:55.25,0:11:58.77,Doc,,0,0,0,,Cars with a black roof and a\Ndifferent body colour don't count,
-Dialogue: 0,0:11:58.82,0:12:02.35,Doc,,0,0,0,,the Jimny Heritage isn't included\Nand the offer excludes Queensland and
-Dialogue: 0,0:12:02.40,0:12:03.81,Doc,,0,0,0,,northern New South Wales.
-Dialogue: 0,0:12:03.86,0:12:05.54,Doc,,0,0,0,,So if you're in Brisbane, sorry.
-Dialogue: 0,0:12:07.20,0:12:09.56,Doc,,0,0,0,,Number two: the cheapest\Nnew car in Australia.
-Dialogue: 0,0:12:09.61,0:12:14.88,Doc,,0,0,0,,The BYD Atto 1 Essential\Nis now $19,990 drive-away.
-Dialogue: 0,0:12:14.93,0:12:15.70,Doc,,0,0,0,,That's a brand-new,
-Dialogue: 0,0:12:15.75,0:12:19.87,Doc,,0,0,0,,fully electric small car for under\Ntwenty thousand dollars, on the road.
-Dialogue: 0,0:12:19.92,0:12:22.70,Doc,,0,0,0,,Zecar describes it as\NAustralia's cheapest new car,
-Dialogue: 0,0:12:22.75,0:12:28.86,Doc,,0,0,0,,and says the saving is\Nbetween $5,772 and $7,204,
-Dialogue: 0,0:12:28.91,0:12:30.52,Doc,,0,0,0,,depending on your state.
-Dialogue: 0,0:12:30.57,0:12:33.04,Doc,,0,0,0,,The offer runs for orders\Nuntil the 15th of December,
-Dialogue: 0,0:12:33.09,0:12:35.94,Doc,,0,0,0,,with delivery by the 31st of December.
-Dialogue: 0,0:12:35.99,0:12:41.08,Doc,,0,0,0,,BYD is also offering the Dolphin\NEssential electric hatch at $28,888
-Dialogue: 0,0:12:41.13,0:12:47.26,Doc,,0,0,0,,drive-away, and the Atto 2 plug-in\Nhybrid at $25,990 drive-away.
-Dialogue: 0,0:12:47.31,0:12:48.72,Doc,,0,0,0,,Think about what that means.
-Dialogue: 0,0:12:48.77,0:12:53.06,Doc,,0,0,0,,For years, the cheapest new cars in\NAustralia were small petrol hatchbacks.
-Dialogue: 0,0:12:53.11,0:12:54.34,Doc,,0,0,0,,Now, according to Zecar,
-Dialogue: 0,0:12:54.39,0:12:58.44,Doc,,0,0,0,,the cheapest new car you can buy is\Nelectric, and it's made in China.
-Dialogue: 0,0:12:58.49,0:12:59.18,Doc,,0,0,0,,The catch?
-Dialogue: 0,0:12:59.23,0:13:01.36,Doc,,0,0,0,,The Atto 1 is a small city car.
-Dialogue: 0,0:13:01.41,0:13:02.44,Doc,,0,0,0,,It's not a family SUV,
-Dialogue: 0,0:13:02.49,0:13:06.96,Doc,,0,0,0,,and its range and space are built for\Nthe city, not for long country drives.
-Dialogue: 0,0:13:07.01,0:13:10.72,Doc,,0,0,0,,If most of your driving is in town,\Nit could save you a fortune in fuel.
-Dialogue: 0,0:13:10.77,0:13:13.68,Doc,,0,0,0,,If you regularly drive hundreds\Nof kilometres in one go,
-Dialogue: 0,0:13:13.73,0:13:15.47,Doc,,0,0,0,,test it properly before you sign.
-Dialogue: 0,0:13:16.22,0:13:18.51,Doc,,0,0,0,,And number one: the Kia Tasman.
-Dialogue: 0,0:13:18.56,0:13:20.49,Doc,,0,0,0,,The Tasman is Kia's first-ever ute,
-Dialogue: 0,0:13:20.54,0:13:23.09,Doc,,0,0,0,,and it was developed\Nwith Australia in mind.
-Dialogue: 0,0:13:23.14,0:13:24.23,Doc,,0,0,0,,When it was announced,
-Dialogue: 0,0:13:24.28,0:13:27.81,Doc,,0,0,0,,Kia was talking about a target of\Naround twenty thousand sales a year.
-Dialogue: 0,0:13:27.86,0:13:29.25,Doc,,0,0,0,,But according to reports,
-Dialogue: 0,0:13:29.30,0:13:33.93,Doc,,0,0,0,,fewer than four hundred Tasmans were\Nsold in the first nine months of 2026.
-Dialogue: 0,0:13:33.98,0:13:35.85,Doc,,0,0,0,,So now Kia is cutting hard.
-Dialogue: 0,0:13:35.90,0:13:38.43,Doc,,0,0,0,,According to a report published\Non the 4th of November,
-Dialogue: 0,0:13:38.48,0:13:45.23,Doc,,0,0,0,,the 2025-model Tasman SX four-wheel\Ndrive is now $49,990 drive-away.
-Dialogue: 0,0:13:45.28,0:13:50.31,Doc,,0,0,0,,Its list price was $54,490\Nbefore on-road costs,
-Dialogue: 0,0:13:50.36,0:13:52.51,Doc,,0,0,0,,so that's around five\Nthousand dollars off.
-Dialogue: 0,0:13:52.56,0:13:58.09,Doc,,0,0,0,,And the Tasman SX+ four-wheel\Ndrive is now $54,990 drive-away,
-Dialogue: 0,0:13:58.14,0:14:02.73,Doc,,0,0,0,,down from $62,390 before on-road costs.
-Dialogue: 0,0:14:02.78,0:14:05.45,Doc,,0,0,0,,Once you add in the on-road\Ncosts you'd normally pay,
-Dialogue: 0,0:14:05.50,0:14:07.89,Doc,,0,0,0,,that's a saving of more\Nthan ten thousand dollars.
-Dialogue: 0,0:14:07.94,0:14:12.11,Doc,,0,0,0,,ABN holders can also get five thousand\Ndollars off single and dual cab-chassis
-Dialogue: 0,0:14:12.16,0:14:15.03,Doc,,0,0,0,,S and SX models with an alloy tray.
-Dialogue: 0,0:14:15.08,0:14:15.87,Doc,,0,0,0,,The catch?
-Dialogue: 0,0:14:15.92,0:14:18.97,Doc,,0,0,0,,The deal is only on 2025 model-year cars,
-Dialogue: 0,0:14:19.02,0:14:21.59,Doc,,0,0,0,,and you have to order and\Ntake delivery in November.
-Dialogue: 0,0:14:21.64,0:14:23.09,Doc,,0,0,0,,So stock is limited.
-Dialogue: 0,0:14:23.14,0:14:26.13,Doc,,0,0,0,,And with sales this low,\Nthink about resale value.
-Dialogue: 0,0:14:26.18,0:14:29.69,Doc,,0,0,0,,A ute with a small fan base is\Nharder to sell in a few years' time,
-Dialogue: 0,0:14:29.74,0:14:33.25,Doc,,0,0,0,,so plan to keep it for a while or make\Nsure the discount is big enough to
-Dialogue: 0,0:14:33.30,0:14:34.82,Doc,,0,0,0,,cover the extra depreciation.
-Dialogue: 0,0:14:35.81,0:14:37.76,Doc,,0,0,0,,Before we finish, a bonus.
-Dialogue: 0,0:14:37.81,0:14:40.95,Doc,,0,0,0,,This isn't a runout deal, but it's\Nthe biggest price cut I found.
-Dialogue: 0,0:14:41.00,0:14:46.44,Doc,,0,0,0,,Audi has cut the price of the updated\NQ4 e-tron electric SUV by up to eighteen
-Dialogue: 0,0:14:46.49,0:14:47.22,Doc,,0,0,0,,thousand dollars.
-Dialogue: 0,0:14:47.27,0:14:49.00,Doc,,0,0,0,,According to Cars24,
-Dialogue: 0,0:14:49.05,0:14:54.20,Doc,,0,0,0,,the entry models are now\N$71,650 before on-road costs,
-Dialogue: 0,0:14:54.25,0:14:56.14,Doc,,0,0,0,,about thirteen thousand dollars cheaper,
-Dialogue: 0,0:14:56.19,0:14:59.44,Doc,,0,0,0,,and the all-wheel-drive quattro versions\Nare up to eighteen thousand dollars
-Dialogue: 0,0:14:59.49,0:15:00.40,Doc,,0,0,0,,cheaper.
-Dialogue: 0,0:15:00.45,0:15:03.38,Doc,,0,0,0,,That brings them well under\Nthe luxury car tax threshold.
-Dialogue: 0,0:15:03.43,0:15:04.00,Doc,,0,0,0,,Why?
-Dialogue: 0,0:15:04.05,0:15:08.42,Doc,,0,0,0,,Because the current Q4 e-tron sold\Njust two cars in Australia in October,
-Dialogue: 0,0:15:08.47,0:15:09.70,Doc,,0,0,0,,down 96 per cent.
-Dialogue: 0,0:15:09.75,0:15:13.80,Doc,,0,0,0,,The catch is that deliveries of the\Nupdated model don't start until the first
-Dialogue: 0,0:15:13.85,0:15:15.33,Doc,,0,0,0,,half of 2027.
-Dialogue: 0,0:15:16.17,0:15:18.30,Doc,,0,0,0,,So how do you get the\Nbest out of these deals?
-Dialogue: 0,0:15:18.35,0:15:20.24,Doc,,0,0,0,,First, read the fine print.
-Dialogue: 0,0:15:20.29,0:15:22.50,Doc,,0,0,0,,Look for words like "private buyers only",
-Dialogue: 0,0:15:22.55,0:15:25.00,Doc,,0,0,0,,"selected stock", "participating dealers",
-Dialogue: 0,0:15:25.05,0:15:28.24,Doc,,0,0,0,,"not combinable with other offers"\Nand "must be delivered by".
-Dialogue: 0,0:15:28.29,0:15:31.00,Doc,,0,0,0,,Most of these deals end\Non the 30th of November,
-Dialogue: 0,0:15:31.05,0:15:34.30,Doc,,0,0,0,,the 21st of December or\Nthe 31st of December.
-Dialogue: 0,0:15:34.35,0:15:39.02,Doc,,0,0,0,,Second, always ask for a final drive-away\Nprice in writing, for your postcode.
-Dialogue: 0,0:15:39.07,0:15:41.22,Doc,,0,0,0,,Advertised prices can change by state.
-Dialogue: 0,0:15:41.27,0:15:45.08,Doc,,0,0,0,,Third, prefer a real discount\Nover a fuel card or a gift card.
-Dialogue: 0,0:15:45.13,0:15:48.26,Doc,,0,0,0,,A discount reduces what you\Nborrow and the stamp duty.
-Dialogue: 0,0:15:48.31,0:15:50.60,Doc,,0,0,0,,Fourth, if a deal depends on finance,
-Dialogue: 0,0:15:50.65,0:15:54.94,Doc,,0,0,0,,compare the interest rate and the total\Ncost of the loan, not just the bonus.
-Dialogue: 0,0:15:54.99,0:15:57.10,Doc,,0,0,0,,Fifth, ask about demonstrators.
-Dialogue: 0,0:15:57.15,0:16:00.54,Doc,,0,0,0,,Several of these deals, like\NSuzuki's, include demo stock.
-Dialogue: 0,0:16:00.59,0:16:03.70,Doc,,0,0,0,,A demonstrator with a few thousand\Nkilometres can take another chunk off the
-Dialogue: 0,0:16:03.75,0:16:07.62,Doc,,0,0,0,,price, and it's usually still covered\Nby most of the new-car warranty.
-Dialogue: 0,0:16:07.67,0:16:08.98,Doc,,0,0,0,,Just check the build date,
-Dialogue: 0,0:16:09.03,0:16:10.32,Doc,,0,0,0,,the date the warranty started,
-Dialogue: 0,0:16:10.37,0:16:13.92,Doc,,0,0,0,,and the service history, and make\Nsure the price reflects any wear.
-Dialogue: 0,0:16:13.97,0:16:15.56,Doc,,0,0,0,,Sixth, timing.
-Dialogue: 0,0:16:15.61,0:16:16.84,Doc,,0,0,0,,The last week of a month,
-Dialogue: 0,0:16:16.89,0:16:18.72,Doc,,0,0,0,,and especially the last weeks of December,
-Dialogue: 0,0:16:18.77,0:16:21.56,Doc,,0,0,0,,is when dealers are most\Ndesperate to hit their targets.
-Dialogue: 0,0:16:21.61,0:16:23.78,Doc,,0,0,0,,If a deal ends on the 30th of November,
-Dialogue: 0,0:16:23.83,0:16:26.90,Doc,,0,0,0,,don't be surprised if a new one\Nstarts on the 1st of December.
-Dialogue: 0,0:16:26.95,0:16:30.72,Doc,,0,0,0,,But don't wait too long on limited\Nstock once the cheap cars are gone,
-Dialogue: 0,0:16:30.77,0:16:31.50,Doc,,0,0,0,,they're gone.
-Dialogue: 0,0:16:31.55,0:16:33.60,Doc,,0,0,0,,And finally, think about resale.
-Dialogue: 0,0:16:33.65,0:16:36.58,Doc,,0,0,0,,The biggest discounts are usually\Non the cars that aren't selling.
-Dialogue: 0,0:16:36.63,0:16:38.44,Doc,,0,0,0,,That's great for the price you pay today,
-Dialogue: 0,0:16:38.49,0:16:40.48,Doc,,0,0,0,,but it can mean faster depreciation later.
-Dialogue: 0,0:16:40.53,0:16:41.59,Doc,,0,0,0,,So that's the list:
-Dialogue: 0,0:16:41.64,0:16:44.02,Doc,,0,0,0,,Chery and Mitsubishi's fuel cards,
-Dialogue: 0,0:16:44.07,0:16:47.54,Doc,,0,0,0,,Honda's gift cards, GWM, the Toyota HiLux,
-Dialogue: 0,0:16:47.59,0:16:50.02,Doc,,0,0,0,,BYD's cashback, the Renault Duster,
-Dialogue: 0,0:16:50.07,0:16:52.90,Doc,,0,0,0,,the Ford Ranger, Suzuki's\NBlack Friday sale,
-Dialogue: 0,0:16:52.95,0:16:56.80,Doc,,0,0,0,,the BYD Atto 1 under twenty\Nthousand dollars and at number one,
-Dialogue: 0,0:16:56.85,0:16:59.80,Doc,,0,0,0,,the Kia Tasman, with more\Nthan ten thousand dollars off.
-Dialogue: 0,0:16:59.85,0:17:03.08,Doc,,0,0,0,,Now tell me in the comments: which of\Nthese deals would you actually take?
-Dialogue: 0,0:17:03.13,0:17:05.44,Doc,,0,0,0,,And if you've been offered a\Nbetter deal at a dealership,
-Dialogue: 0,0:17:05.49,0:17:07.92,Doc,,0,0,0,,share it below, because\Nit'll help other buyers.
-Dialogue: 0,0:17:07.97,0:17:08.98,Doc,,0,0,0,,If this video helped,
-Dialogue: 0,0:17:09.03,0:17:12.66,Doc,,0,0,0,,hit like and subscribe and share it\Nwith anyone who's about to buy a new car
-Dialogue: 0,0:17:12.71,0:17:13.80,Doc,,0,0,0,,before Christmas.
-Dialogue: 0,0:17:13.85,0:17:15.03,Doc,,0,0,0,,See you in the next one.
+Dialogue: 0,0:00:00.00,0:00:01.45,Doc,,0,0,0,,More than ten thousand dollars.
+Dialogue: 0,0:00:01.50,0:00:04.99,Doc,,0,0,0,,That's how much you can now save\Non one brand-new ute in Australia,
+Dialogue: 0,0:00:05.04,0:00:06.79,Doc,,0,0,0,,compared with its old list price.
+Dialogue: 0,0:00:06.84,0:00:07.87,Doc,,0,0,0,,Not a used car.
+Dialogue: 0,0:00:07.92,0:00:10.49,Doc,,0,0,0,,Not a demo with forty\Nthousand kilometres on it.
+Dialogue: 0,0:00:10.54,0:00:13.41,Doc,,0,0,0,,A new ute, from one of the\Nbiggest car brands in the country.
+Dialogue: 0,0:00:13.46,0:00:14.95,Doc,,0,0,0,,And the reason is brutal.
+Dialogue: 0,0:00:15.00,0:00:16.35,Doc,,0,0,0,,Before this ute launched,
+Dialogue: 0,0:00:16.40,0:00:19.47,Doc,,0,0,0,,the brand was talking about selling\Ntwenty thousand in its first year in
+Dialogue: 0,0:00:19.52,0:00:20.12,Doc,,0,0,0,,Australia.
+Dialogue: 0,0:00:20.17,0:00:24.47,Doc,,0,0,0,,Fifteen months after launch, it had\Nsold fewer than eight thousand in total.
+Dialogue: 0,0:00:24.52,0:00:25.85,Doc,,0,0,0,,It's not the only one.
+Dialogue: 0,0:00:25.90,0:00:29.67,Doc,,0,0,0,,Right now, you can buy a brand-new\Ncar for under twenty thousand dollars
+Dialogue: 0,0:00:29.72,0:00:30.13,Doc,,0,0,0,,drive-away.
+Dialogue: 0,0:00:30.18,0:00:33.91,Doc,,0,0,0,,Toyota a brand that almost never discounts\Nis offering four thousand dollars
+Dialogue: 0,0:00:33.96,0:00:35.45,Doc,,0,0,0,,on the HiLux.
+Dialogue: 0,0:00:35.50,0:00:37.65,Doc,,0,0,0,,Ford is offering five\Nthousand on the Ranger.
+Dialogue: 0,0:00:37.70,0:00:41.47,Doc,,0,0,0,,And Black Friday deals are landing on\Ncars that used to have waiting lists.
+Dialogue: 0,0:00:41.52,0:00:42.47,Doc,,0,0,0,,So in this video,
+Dialogue: 0,0:00:42.52,0:00:45.99,Doc,,0,0,0,,I'm counting down the ten biggest\Nnew-car deals in Australia right now,
+Dialogue: 0,0:00:46.04,0:00:47.81,Doc,,0,0,0,,from smallest to biggest.
+Dialogue: 0,0:00:47.86,0:00:50.65,Doc,,0,0,0,,Real offers, from the brands\Nand the motoring press,
+Dialogue: 0,0:00:50.70,0:00:53.55,Doc,,0,0,0,,with the prices, the end\Ndates and the catches,
+Dialogue: 0,0:00:53.60,0:00:56.47,Doc,,0,0,0,,because almost every one\Nof these deals has one.
+Dialogue: 0,0:00:56.52,0:00:57.47,Doc,,0,0,0,,Stay to the end,
+Dialogue: 0,0:00:57.52,0:01:00.65,Doc,,0,0,0,,because number one is the deal that tells\Nyou the most about where this market
+Dialogue: 0,0:01:00.70,0:01:01.50,Doc,,0,0,0,,is heading.
+Dialogue: 0,0:01:02.05,0:01:04.38,Doc,,0,0,0,,First, why is this happening now?
+Dialogue: 0,0:01:04.43,0:01:10.42,Doc,,0,0,0,,Australians bought 107,493\Nnew vehicles in October 2026,
+Dialogue: 0,0:01:10.47,0:01:11.76,Doc,,0,0,0,,a record for the month.
+Dialogue: 0,0:01:11.81,0:01:12.94,Doc,,0,0,0,,So people are buying.
+Dialogue: 0,0:01:12.99,0:01:15.86,Doc,,0,0,0,,But they're buying very different\Ncars from even a year ago.
+Dialogue: 0,0:01:15.91,0:01:20.54,Doc,,0,0,0,,Electric car sales were up 237\Nper cent on October last year,
+Dialogue: 0,0:01:20.59,0:01:23.44,Doc,,0,0,0,,BYD sold more than ten thousand\Ncars in a single month,
+Dialogue: 0,0:01:23.49,0:01:26.38,Doc,,0,0,0,,and cars built in China\Nwere up 104 per cent.
+Dialogue: 0,0:01:26.43,0:01:30.08,Doc,,0,0,0,,That means a lot of brands are sitting\Non stock they can't move especially
+Dialogue: 0,0:01:30.13,0:01:33.04,Doc,,0,0,0,,utes, big SUVs and older models.
+Dialogue: 0,0:01:33.09,0:01:35.57,Doc,,0,0,0,,Mitsubishi sales were down\N50 per cent in October.
+Dialogue: 0,0:01:35.62,0:01:37.72,Doc,,0,0,0,,Renault was down 58 per cent.
+Dialogue: 0,0:01:37.77,0:01:40.04,Doc,,0,0,0,,Hyundai was down almost 29.
+Dialogue: 0,0:01:40.09,0:01:43.76,Doc,,0,0,0,,Even Ford, the maker of Australia's\Nfavourite ute, was down 3 per cent.
+Dialogue: 0,0:01:43.81,0:01:45.30,Doc,,0,0,0,,And there's a second pressure.
+Dialogue: 0,0:01:45.35,0:01:46.68,Doc,,0,0,0,,It's the end of the year.
+Dialogue: 0,0:01:46.73,0:01:48.40,Doc,,0,0,0,,Dealers have annual targets,
+Dialogue: 0,0:01:48.45,0:01:53.56,Doc,,0,0,0,,factories want to clear 2025 and 2026-built\Ncars before the new plates arrive,
+Dialogue: 0,0:01:53.61,0:01:56.10,Doc,,0,0,0,,and Black Friday falls\Non the 27th of November.
+Dialogue: 0,0:01:56.15,0:01:59.68,Doc,,0,0,0,,So brands are throwing\Neverything at buyers price cuts,
+Dialogue: 0,0:01:59.73,0:02:04.90,Doc,,0,0,0,,cashback, fuel cards, deposit contributions,\Ngift cards and free servicing.
+Dialogue: 0,0:02:04.95,0:02:06.62,Doc,,0,0,0,,A quick note before we start.
+Dialogue: 0,0:02:06.67,0:02:10.06,Doc,,0,0,0,,These deals are current\Nas of mid-November 2026.
+Dialogue: 0,0:02:10.11,0:02:12.44,Doc,,0,0,0,,Most of them end on the 30th of November,
+Dialogue: 0,0:02:12.49,0:02:15.78,Doc,,0,0,0,,the 21st of December or\Nthe 31st of December.
+Dialogue: 0,0:02:15.83,0:02:17.98,Doc,,0,0,0,,Drive-away prices can change by state,
+Dialogue: 0,0:02:18.03,0:02:20.42,Doc,,0,0,0,,and some deals are only\Nfor private buyers.
+Dialogue: 0,0:02:20.47,0:02:22.88,Doc,,0,0,0,,So always get the final price\Nin writing from the dealer.
+Dialogue: 0,0:02:22.93,0:02:24.09,Doc,,0,0,0,,Let's go.
+Dialogue: 0,0:02:24.88,0:02:27.41,Doc,,0,0,0,,Number ten: the fuel card war.
+Dialogue: 0,0:02:27.46,0:02:32.05,Doc,,0,0,0,,Some brands don't want to cut the\Nprice, because that hurts resale values.
+Dialogue: 0,0:02:32.10,0:02:34.31,Doc,,0,0,0,,So instead, they hand you a fuel card.
+Dialogue: 0,0:02:34.36,0:02:38.19,Doc,,0,0,0,,Chery is offering a two-thousand-dollar\Nfuel card on the Tiggo 7,
+Dialogue: 0,0:02:38.24,0:02:43.11,Doc,,0,0,0,,with the Tiggo 7 Urban\Nat $29,990 drive-away,
+Dialogue: 0,0:02:43.16,0:02:46.07,Doc,,0,0,0,,and a fifteen-hundred-dollar\Nfuel card on the Tiggo 4,
+Dialogue: 0,0:02:46.12,0:02:49.73,Doc,,0,0,0,,which starts at $23,990 drive-away.
+Dialogue: 0,0:02:49.78,0:02:54.25,Doc,,0,0,0,,The Chery E5 electric SUV gets two\Nthousand dollars cashback instead.
+Dialogue: 0,0:02:54.30,0:02:57.09,Doc,,0,0,0,,Those offers run until\Nthe 21st of December,
+Dialogue: 0,0:02:57.14,0:02:59.33,Doc,,0,0,0,,according to the deals tracker CarSorted.
+Dialogue: 0,0:02:59.38,0:03:01.41,Doc,,0,0,0,,Mitsubishi is doing the same thing.
+Dialogue: 0,0:03:01.46,0:03:04.15,Doc,,0,0,0,,There's a three-thousand-dollar\Nfuel card on the Triton ute,
+Dialogue: 0,0:03:04.20,0:03:07.81,Doc,,0,0,0,,and a two-thousand-dollar fuel card\Non the Outlander LS Black Edition,
+Dialogue: 0,0:03:07.86,0:03:13.97,Doc,,0,0,0,,which is listed at $47,990\Ndrive-away until the end of November.
+Dialogue: 0,0:03:14.02,0:03:16.13,Doc,,0,0,0,,Now, here's the catch with fuel cards.
+Dialogue: 0,0:03:16.18,0:03:19.33,Doc,,0,0,0,,A two-thousand-dollar fuel card is not\Nthe same as two thousand dollars off
+Dialogue: 0,0:03:19.38,0:03:19.73,Doc,,0,0,0,,the price.
+Dialogue: 0,0:03:19.78,0:03:21.99,Doc,,0,0,0,,You can't spend it on anything else,
+Dialogue: 0,0:03:22.04,0:03:25.25,Doc,,0,0,0,,it doesn't reduce your loan, and\Nit doesn't reduce the stamp duty.
+Dialogue: 0,0:03:25.30,0:03:26.89,Doc,,0,0,0,,If a dealer offers you a fuel card,
+Dialogue: 0,0:03:26.94,0:03:30.61,Doc,,0,0,0,,it's always worth asking: could I\Nhave that as a discount instead?
+Dialogue: 0,0:03:30.66,0:03:31.95,Doc,,0,0,0,,Sometimes the answer is yes.
+Dialogue: 0,0:03:32.00,0:03:33.85,Doc,,0,0,0,,And remember the context.
+Dialogue: 0,0:03:33.90,0:03:36.15,Doc,,0,0,0,,Mitsubishi's sales halved in October.
+Dialogue: 0,0:03:36.20,0:03:38.03,Doc,,0,0,0,,When a brand's sales fall that far,
+Dialogue: 0,0:03:38.08,0:03:41.16,Doc,,0,0,0,,there's usually more room to\Nnegotiate than the advertised offer.
+Dialogue: 0,0:03:42.78,0:03:43.86,Doc,,0,0,0,,Number nine: Honda's plate clearance.
+Dialogue: 0,0:03:43.91,0:03:47.70,Doc,,0,0,0,,Honda sells its cars at fixed,\Nno-haggle prices in Australia.
+Dialogue: 0,0:03:47.75,0:03:50.94,Doc,,0,0,0,,So instead of cutting the price,\Nit's giving away gift cards.
+Dialogue: 0,0:03:50.99,0:03:53.92,Doc,,0,0,0,,Its end-of-year plate clearance,\Nreported by CarExpert,
+Dialogue: 0,0:03:53.97,0:03:58.84,Doc,,0,0,0,,runs until the 31st of January\N2027 on 2026-built cars.
+Dialogue: 0,0:03:58.89,0:04:00.58,Doc,,0,0,0,,The biggest gift card is\Nthree thousand dollars,
+Dialogue: 0,0:04:00.63,0:04:06.22,Doc,,0,0,0,,on the CR-V e:HEV X hybrid\Nand the ZR-V e:HEV X hybrid.
+Dialogue: 0,0:04:06.27,0:04:09.98,Doc,,0,0,0,,Other CR-V and ZR-V hybrids\Nget fifteen hundred dollars.
+Dialogue: 0,0:04:10.03,0:04:14.52,Doc,,0,0,0,,And the Civic, the HR-V, the Prelude\Nand the Accord get a thousand dollars.
+Dialogue: 0,0:04:14.57,0:04:15.66,Doc,,0,0,0,,On top of that,
+Dialogue: 0,0:04:15.71,0:04:19.26,Doc,,0,0,0,,Honda is throwing in the first five\Nscheduled services for free that's five
+Dialogue: 0,0:04:19.31,0:04:21.40,Doc,,0,0,0,,years or fifty thousand kilometres.
+Dialogue: 0,0:04:21.45,0:04:25.16,Doc,,0,0,0,,CarExpert valued that at $1,395.
+Dialogue: 0,0:04:25.21,0:04:26.70,Doc,,0,0,0,,So on the best-value models,
+Dialogue: 0,0:04:26.75,0:04:29.68,Doc,,0,0,0,,you're looking at around four\Nthousand dollars in total benefits.
+Dialogue: 0,0:04:29.73,0:04:31.92,Doc,,0,0,0,,Not bad from a brand that\Nalmost never does deals.
+Dialogue: 0,0:04:31.97,0:04:33.64,Doc,,0,0,0,,Here's the catch.
+Dialogue: 0,0:04:33.69,0:04:39.58,Doc,,0,0,0,,Honda's annual service price has\Njust gone up, from $199 to $279.
+Dialogue: 0,0:04:39.63,0:04:43.18,Doc,,0,0,0,,So that free servicing is worth\Nmore than it was a month ago.
+Dialogue: 0,0:04:43.23,0:04:46.98,Doc,,0,0,0,,And remember, the gift card arrives\Nwithin thirty days of delivery it doesn't
+Dialogue: 0,0:04:47.03,0:04:48.90,Doc,,0,0,0,,come off the price you pay on the day.
+Dialogue: 0,0:04:48.95,0:04:50.52,Doc,,0,0,0,,And if you're thinking about the Accord,
+Dialogue: 0,0:04:50.57,0:04:52.52,Doc,,0,0,0,,it was the number one\Ncar in my last video,
+Dialogue: 0,0:04:52.57,0:04:55.15,Doc,,0,0,0,,with just fifty-nine sold in nine months.
+Dialogue: 0,0:04:56.86,0:04:57.54,Doc,,0,0,0,,Number eight: GWM.
+Dialogue: 0,0:04:57.59,0:05:00.36,Doc,,0,0,0,,GWM is a Chinese brand,
+Dialogue: 0,0:05:00.41,0:05:03.84,Doc,,0,0,0,,but it's not riding the\NChinese boom like BYD or Geely.
+Dialogue: 0,0:05:03.89,0:05:06.96,Doc,,0,0,0,,In October, GWM's sales\Nwere basically flat,
+Dialogue: 0,0:05:07.01,0:05:11.56,Doc,,0,0,0,,down 0.3 per cent the only Chinese brand\Nin the top ten that went backwards.
+Dialogue: 0,0:05:11.61,0:05:13.38,Doc,,0,0,0,,And it's responding with deals.
+Dialogue: 0,0:05:13.43,0:05:15.16,Doc,,0,0,0,,According to GWM's own offers,
+Dialogue: 0,0:05:15.21,0:05:16.80,Doc,,0,0,0,,listed by CarSorted,
+Dialogue: 0,0:05:16.85,0:05:21.86,Doc,,0,0,0,,the Haval Jolion Premium\NHybrid is $32,990 drive-away,
+Dialogue: 0,0:05:21.91,0:05:24.38,Doc,,0,0,0,,with a three-thousand-dollar\Ndeposit contribution.
+Dialogue: 0,0:05:24.43,0:05:29.80,Doc,,0,0,0,,The bigger Haval H6 Ultra\NHybrid is $43,990 drive-away,
+Dialogue: 0,0:05:29.85,0:05:32.56,Doc,,0,0,0,,also with three thousand\Ndollars towards your deposit.
+Dialogue: 0,0:05:32.61,0:05:38.18,Doc,,0,0,0,,The H6 Lux petrol is $35,990\Ndrive-away with two thousand.
+Dialogue: 0,0:05:38.23,0:05:42.32,Doc,,0,0,0,,And the Cannon ute is\Nfrom $39,990 drive-away,
+Dialogue: 0,0:05:42.37,0:05:44.72,Doc,,0,0,0,,with a smaller\Nfive-hundred-dollar contribution.
+Dialogue: 0,0:05:44.77,0:05:47.06,Doc,,0,0,0,,All of those run until\Nthe 30th of November.
+Dialogue: 0,0:05:47.11,0:05:47.94,Doc,,0,0,0,,Back in October,
+Dialogue: 0,0:05:47.99,0:05:53.26,Doc,,0,0,0,,CarExpert reported GWM offering up to\Nfive thousand dollars off selected SUVs.
+Dialogue: 0,0:05:53.31,0:05:55.36,Doc,,0,0,0,,So this brand is clearly in a hurry.
+Dialogue: 0,0:05:55.41,0:05:56.18,Doc,,0,0,0,,The catch?
+Dialogue: 0,0:05:56.23,0:05:58.82,Doc,,0,0,0,,A deposit contribution is\Neffectively a discount,
+Dialogue: 0,0:05:58.87,0:06:01.98,Doc,,0,0,0,,but it's usually tied to\Nfinance or to specific stock.
+Dialogue: 0,0:06:02.03,0:06:04.84,Doc,,0,0,0,,And remember, these deals\Nchange month to month.
+Dialogue: 0,0:06:04.89,0:06:06.40,Doc,,0,0,0,,If you miss the end of November,
+Dialogue: 0,0:06:06.45,0:06:09.44,Doc,,0,0,0,,there's a good chance another deal\Nturns up in December but there's no
+Dialogue: 0,0:06:09.49,0:06:11.37,Doc,,0,0,0,,guarantee it will be the same one.
+Dialogue: 0,0:06:12.19,0:06:14.78,Doc,,0,0,0,,Number seven: the Toyota HiLux.
+Dialogue: 0,0:06:14.83,0:06:15.88,Doc,,0,0,0,,This one is rare.
+Dialogue: 0,0:06:15.93,0:06:17.66,Doc,,0,0,0,,Toyota doesn't need to discount much,
+Dialogue: 0,0:06:17.71,0:06:20.90,Doc,,0,0,0,,because Toyota sells more\Ncars than anyone in Australia.
+Dialogue: 0,0:06:20.95,0:06:24.28,Doc,,0,0,0,,In October, the HiLux was the\Nbest-selling vehicle in the country,
+Dialogue: 0,0:06:24.33,0:06:27.16,Doc,,0,0,0,,with 5,954 sales.
+Dialogue: 0,0:06:27.21,0:06:29.32,Doc,,0,0,0,,But the ute market is getting crowded.
+Dialogue: 0,0:06:29.37,0:06:30.86,Doc,,0,0,0,,So according to CarExpert,
+Dialogue: 0,0:06:30.91,0:06:35.27,Doc,,0,0,0,,Toyota is offering a four-thousand-dollar\Nfinance deposit bonus on HiLux SR5
+Dialogue: 0,0:06:35.32,0:06:39.72,Doc,,0,0,0,,four-by-four dual-cab pickups and\Ncab-chassis models diesel only.
+Dialogue: 0,0:06:39.77,0:06:40.69,Doc,,0,0,0,,With the bonus,
+Dialogue: 0,0:06:40.74,0:06:46.86,Doc,,0,0,0,,CarExpert says the effective prices\Nbefore on-road costs are $59,990 for
+Dialogue: 0,0:06:46.91,0:06:48.88,Doc,,0,0,0,,the manual dual-cab pickup,
+Dialogue: 0,0:06:48.93,0:06:52.06,Doc,,0,0,0,,$60,490 for the automatic cab-chassis,
+Dialogue: 0,0:06:52.11,0:06:56.48,Doc,,0,0,0,,and $61,990 for the\Nautomatic dual-cab pickup.
+Dialogue: 0,0:06:56.53,0:06:58.94,Doc,,0,0,0,,Now, here's the catch and it's a big one.
+Dialogue: 0,0:06:58.99,0:07:01.70,Doc,,0,0,0,,You have to finance the\Ncar through Toyota Finance,
+Dialogue: 0,0:07:01.75,0:07:04.20,Doc,,0,0,0,,and you have to borrow at\Nleast ten thousand dollars.
+Dialogue: 0,0:07:04.25,0:07:05.30,Doc,,0,0,0,,Leases don't count.
+Dialogue: 0,0:07:05.35,0:07:07.66,Doc,,0,0,0,,And the electric HiLux isn't included.
+Dialogue: 0,0:07:07.71,0:07:11.66,Doc,,0,0,0,,You'll need to order and apply for\Nfinance by the 31st of December,
+Dialogue: 0,0:07:11.71,0:07:13.72,Doc,,0,0,0,,with settlement by the end of February.
+Dialogue: 0,0:07:13.77,0:07:17.02,Doc,,0,0,0,,So if you were going to pay cash,\Nthis deal isn't really for you.
+Dialogue: 0,0:07:17.07,0:07:18.92,Doc,,0,0,0,,But if you were going to finance anyway,
+Dialogue: 0,0:07:18.97,0:07:21.24,Doc,,0,0,0,,compare Toyota's interest\Nrate with your bank's.
+Dialogue: 0,0:07:21.29,0:07:24.70,Doc,,0,0,0,,A four-thousand-dollar bonus can\Ndisappear quickly if the interest rate is
+Dialogue: 0,0:07:24.75,0:07:25.55,Doc,,0,0,0,,higher.
+Dialogue: 0,0:07:26.02,0:07:29.55,Doc,,0,0,0,,Number six: BYD's\Nfour-thousand-dollar cashback.
+Dialogue: 0,0:07:29.60,0:07:33.81,Doc,,0,0,0,,BYD is the second biggest brand in the\Ncountry and it's growing like crazy up
+Dialogue: 0,0:07:33.86,0:07:36.51,Doc,,0,0,0,,153 per cent in October.
+Dialogue: 0,0:07:36.56,0:07:38.27,Doc,,0,0,0,,So why is it offering cashback?
+Dialogue: 0,0:07:38.32,0:07:39.63,Doc,,0,0,0,,Because it's in a price war,
+Dialogue: 0,0:07:39.68,0:07:42.27,Doc,,0,0,0,,and it wants to keep the\Npressure on everyone else.
+Dialogue: 0,0:07:42.32,0:07:43.87,Doc,,0,0,0,,According to CarExpert,
+Dialogue: 0,0:07:43.92,0:07:47.77,Doc,,0,0,0,,BYD is offering four thousand\Ndollars cashback on the Seal 6,
+Dialogue: 0,0:07:47.82,0:07:52.69,Doc,,0,0,0,,the Shark 6 ute and the\NSealion 5, 6, 7 and 8 SUVs.
+Dialogue: 0,0:07:52.74,0:07:53.79,Doc,,0,0,0,,With the cashback,
+Dialogue: 0,0:07:53.84,0:08:00.13,Doc,,0,0,0,,the Sealion 5 Essential works out\Nat $29,990 before on-road costs.
+Dialogue: 0,0:08:00.18,0:08:04.09,Doc,,0,0,0,,The Sealion 7 Premium one of the\Nbest-selling electric cars in the country
+Dialogue: 0,0:08:04.14,0:08:06.69,Doc,,0,0,0,,works out at $50,990.
+Dialogue: 0,0:08:06.74,0:08:11.43,Doc,,0,0,0,,And the Shark 6 Premium\Nplug-in hybrid ute is $53,900.
+Dialogue: 0,0:08:11.48,0:08:15.79,Doc,,0,0,0,,There's also 0.99 per cent finance\Nover thirty-six months on most of those
+Dialogue: 0,0:08:15.84,0:08:16.32,Doc,,0,0,0,,models.
+Dialogue: 0,0:08:16.37,0:08:18.97,Doc,,0,0,0,,Orders have to be placed\Nby the 21st of December,
+Dialogue: 0,0:08:19.02,0:08:21.17,Doc,,0,0,0,,with delivery by the end of the year.
+Dialogue: 0,0:08:21.22,0:08:21.89,Doc,,0,0,0,,The catch?
+Dialogue: 0,0:08:21.94,0:08:24.39,Doc,,0,0,0,,The cashback can't be combined\Nwith other BYD offers,
+Dialogue: 0,0:08:24.44,0:08:28.07,Doc,,0,0,0,,it's not for fleet buyers, and\Ndemonstrators aren't included.
+Dialogue: 0,0:08:28.12,0:08:31.63,Doc,,0,0,0,,And Zecar reported claims that some\Ndealers are adding another two thousand on
+Dialogue: 0,0:08:31.68,0:08:34.09,Doc,,0,0,0,,top but BYD hasn't confirmed that.
+Dialogue: 0,0:08:34.14,0:08:37.08,Doc,,0,0,0,,So if a dealer offers you six\Nthousand, get it in writing.
+Dialogue: 0,0:08:38.76,0:08:40.11,Doc,,0,0,0,,Number five: the Renault Duster.
+Dialogue: 0,0:08:40.16,0:08:44.19,Doc,,0,0,0,,The Duster is a small, tough SUV, and\Nyou can get it with four-wheel drive.
+Dialogue: 0,0:08:44.24,0:08:47.25,Doc,,0,0,0,,Now it's had up to five thousand\Ndollars cut from its price,
+Dialogue: 0,0:08:47.30,0:08:48.79,Doc,,0,0,0,,according to Cars24,
+Dialogue: 0,0:08:48.84,0:08:54.29,Doc,,0,0,0,,and the entry-level Evolution two-wheel\Ndrive is now $29,990 drive-away
+Dialogue: 0,0:08:54.34,0:08:55.41,Doc,,0,0,0,,nationwide.
+Dialogue: 0,0:08:55.46,0:08:59.41,Doc,,0,0,0,,That's a real off-road-capable SUV\Nfor under thirty thousand dollars
+Dialogue: 0,0:08:59.46,0:08:59.83,Doc,,0,0,0,,drive-away.
+Dialogue: 0,0:08:59.88,0:09:03.41,Doc,,0,0,0,,The four-wheel-drive versions are around\Nthirty-four to thirty-six thousand
+Dialogue: 0,0:09:03.46,0:09:04.67,Doc,,0,0,0,,drive-away in New South Wales.
+Dialogue: 0,0:09:04.72,0:09:08.81,Doc,,0,0,0,,The offer covers cars bought and delivered\Nbetween the 1st of November and the
+Dialogue: 0,0:09:08.86,0:09:10.47,Doc,,0,0,0,,31st of December.
+Dialogue: 0,0:09:10.52,0:09:11.39,Doc,,0,0,0,,Why the deal?
+Dialogue: 0,0:09:11.44,0:09:12.33,Doc,,0,0,0,,Renault didn't say.
+Dialogue: 0,0:09:12.38,0:09:13.81,Doc,,0,0,0,,But the sales figures do.
+Dialogue: 0,0:09:13.86,0:09:18.43,Doc,,0,0,0,,In October, the whole Renault brand\Nsold just 164 cars in Australia,
+Dialogue: 0,0:09:18.48,0:09:21.17,Doc,,0,0,0,,down 58 per cent on the\Nsame month last year.
+Dialogue: 0,0:09:21.22,0:09:25.49,Doc,,0,0,0,,The Arkana sold four, the Koleos\N21, and the Kangoo van just two.
+Dialogue: 0,0:09:25.54,0:09:26.19,Doc,,0,0,0,,The catch?
+Dialogue: 0,0:09:26.24,0:09:28.39,Doc,,0,0,0,,The advertised price is\Nfor Solid White only.
+Dialogue: 0,0:09:28.44,0:09:31.53,Doc,,0,0,0,,Any other colour adds $850.
+Dialogue: 0,0:09:31.58,0:09:34.87,Doc,,0,0,0,,And fleet, government and rental\Nbuyers can't get the deal.
+Dialogue: 0,0:09:34.92,0:09:37.03,Doc,,0,0,0,,Also think about the brand's future here.
+Dialogue: 0,0:09:37.08,0:09:38.35,Doc,,0,0,0,,With sales this low,
+Dialogue: 0,0:09:38.40,0:09:40.33,Doc,,0,0,0,,ask about the dealer network near you,
+Dialogue: 0,0:09:40.38,0:09:43.08,Doc,,0,0,0,,servicing costs and parts\Nsupply before you sign.
+Dialogue: 0,0:09:43.85,0:09:45.37,Doc,,0,0,0,,Number four: the Ford Ranger.
+Dialogue: 0,0:09:45.42,0:09:47.88,Doc,,0,0,0,,This is Australia's\Nother favourite vehicle.
+Dialogue: 0,0:09:47.93,0:09:50.86,Doc,,0,0,0,,The Ranger has been the best-selling\Nvehicle in the country for four months
+Dialogue: 0,0:09:50.91,0:09:51.58,Doc,,0,0,0,,this year.
+Dialogue: 0,0:09:51.63,0:09:53.44,Doc,,0,0,0,,But it's in a fight with the HiLux,
+Dialogue: 0,0:09:53.49,0:09:57.38,Doc,,0,0,0,,with BYD's Shark 6, and with\Na wave of new Chinese utes.
+Dialogue: 0,0:09:57.43,0:09:59.00,Doc,,0,0,0,,So according to CarExpert,
+Dialogue: 0,0:09:59.05,0:10:02.52,Doc,,0,0,0,,Ford is offering a five-thousand-dollar\Nfuel card or a discount of the same
+Dialogue: 0,0:10:02.57,0:10:08.22,Doc,,0,0,0,,value on the 2026.5 model year\NRanger XLT, Wildtrak and Tremor.
+Dialogue: 0,0:10:08.27,0:10:11.30,Doc,,0,0,0,,For the newer 2027 versions\Nof the same models,
+Dialogue: 0,0:10:11.35,0:10:13.30,Doc,,0,0,0,,the offer is four thousand dollars.
+Dialogue: 0,0:10:13.35,0:10:18.34,Doc,,0,0,0,,And the Ranger Black Edition V6 dual-cab\Npickup has a drive-away price of
+Dialogue: 0,0:10:18.39,0:10:19.40,Doc,,0,0,0,,$59,000.
+Dialogue: 0,0:10:19.45,0:10:20.86,Doc,,0,0,0,,Here's the smart move.
+Dialogue: 0,0:10:20.91,0:10:24.08,Doc,,0,0,0,,Ford's offer gives you a choice\Nbetween a fuel card and a discount.
+Dialogue: 0,0:10:24.13,0:10:25.12,Doc,,0,0,0,,Take the discount.
+Dialogue: 0,0:10:25.17,0:10:28.16,Doc,,0,0,0,,As I said earlier, a discount\Nreduces the price you pay,
+Dialogue: 0,0:10:28.21,0:10:30.40,Doc,,0,0,0,,the amount you borrow and the stamp duty.
+Dialogue: 0,0:10:30.45,0:10:32.10,Doc,,0,0,0,,A fuel card does none of that.
+Dialogue: 0,0:10:32.15,0:10:32.82,Doc,,0,0,0,,The catch?
+Dialogue: 0,0:10:32.87,0:10:35.66,Doc,,0,0,0,,CarExpert didn't publish an end\Ndate for these Ranger offers,
+Dialogue: 0,0:10:35.71,0:10:37.36,Doc,,0,0,0,,so they could end at any time.
+Dialogue: 0,0:10:37.41,0:10:40.44,Doc,,0,0,0,,And the five-thousand-dollar\Noffer is on the older model year.
+Dialogue: 0,0:10:40.49,0:10:43.98,Doc,,0,0,0,,If you're buying to keep for a long\Ntime, the model year matters less.
+Dialogue: 0,0:10:44.03,0:10:46.77,Doc,,0,0,0,,If you'll sell it in two or\Nthree years, it can matter more.
+Dialogue: 0,0:10:48.25,0:10:49.72,Doc,,0,0,0,,Number three: Suzuki's Black Friday sale.
+Dialogue: 0,0:10:49.77,0:10:53.98,Doc,,0,0,0,,Suzuki is running a Black Friday sale\Nwith ten per cent off the price of black
+Dialogue: 0,0:10:54.03,0:10:54.74,Doc,,0,0,0,,cars.
+Dialogue: 0,0:10:54.79,0:10:56.92,Doc,,0,0,0,,Yes, it only applies to black cars.
+Dialogue: 0,0:10:56.97,0:10:59.22,Doc,,0,0,0,,The biggest saving,\Naccording to CarExpert,
+Dialogue: 0,0:10:59.27,0:11:02.70,Doc,,0,0,0,,is on the new e Vitara Ultra electric SUV:
+Dialogue: 0,0:11:02.75,0:11:08.92,Doc,,0,0,0,,$5,774 off, bringing it\Nto $51,962 drive-away.
+Dialogue: 0,0:11:08.97,0:11:13.42,Doc,,0,0,0,,The e Vitara Motion is $42,862 drive-away,
+Dialogue: 0,0:11:13.47,0:11:16.20,Doc,,0,0,0,,a saving of $4,874.
+Dialogue: 0,0:11:16.25,0:11:21.18,Doc,,0,0,0,,The Vitara Turbo hybrid\Nis $36,762 drive-away,
+Dialogue: 0,0:11:21.23,0:11:24.02,Doc,,0,0,0,,saving $3,974.
+Dialogue: 0,0:11:24.07,0:11:26.78,Doc,,0,0,0,,And here's the one that'll\Nget attention: the Jimny.
+Dialogue: 0,0:11:26.83,0:11:31.58,Doc,,0,0,0,,The three-door Jimny in\Nblack is $35,762 drive-away,
+Dialogue: 0,0:11:31.63,0:11:34.48,Doc,,0,0,0,,a saving of $3,474.
+Dialogue: 0,0:11:34.53,0:11:39.48,Doc,,0,0,0,,The five-door Jimny XL\Nis $37,562 drive-away,
+Dialogue: 0,0:11:39.53,0:11:42.06,Doc,,0,0,0,,saving $3,674.
+Dialogue: 0,0:11:42.11,0:11:45.96,Doc,,0,0,0,,The Swift Hybrid starts\Nat $23,022 drive-away.
+Dialogue: 0,0:11:46.01,0:11:47.84,Doc,,0,0,0,,The catches are important on this one.
+Dialogue: 0,0:11:47.89,0:11:49.40,Doc,,0,0,0,,It's for private buyers only.
+Dialogue: 0,0:11:49.45,0:11:52.68,Doc,,0,0,0,,You have to buy and take\Ndelivery by the 30th of November.
+Dialogue: 0,0:11:52.73,0:11:56.73,Doc,,0,0,0,,It only covers selected new and\Ndemonstrator stock at participating dealers.
+Dialogue: 0,0:11:56.78,0:12:00.30,Doc,,0,0,0,,Cars with a black roof and a\Ndifferent body colour don't count,
+Dialogue: 0,0:12:00.35,0:12:03.88,Doc,,0,0,0,,the Jimny Heritage isn't included\Nand the offer excludes Queensland and
+Dialogue: 0,0:12:03.93,0:12:05.34,Doc,,0,0,0,,northern New South Wales.
+Dialogue: 0,0:12:05.39,0:12:07.07,Doc,,0,0,0,,So if you're in Brisbane, sorry.
+Dialogue: 0,0:12:08.74,0:12:11.09,Doc,,0,0,0,,Number two: the cheapest\Nnew car in Australia.
+Dialogue: 0,0:12:11.14,0:12:16.41,Doc,,0,0,0,,The BYD Atto 1 Essential\Nis now $19,990 drive-away.
+Dialogue: 0,0:12:16.46,0:12:17.23,Doc,,0,0,0,,That's a brand-new,
+Dialogue: 0,0:12:17.28,0:12:21.40,Doc,,0,0,0,,fully electric small car for under\Ntwenty thousand dollars, on the road.
+Dialogue: 0,0:12:21.45,0:12:24.23,Doc,,0,0,0,,Zecar describes it as\NAustralia's cheapest new car,
+Dialogue: 0,0:12:24.28,0:12:30.39,Doc,,0,0,0,,and says the saving is\Nbetween $5,772 and $7,204,
+Dialogue: 0,0:12:30.44,0:12:32.05,Doc,,0,0,0,,depending on your state.
+Dialogue: 0,0:12:32.10,0:12:34.57,Doc,,0,0,0,,The offer runs for orders\Nuntil the 15th of December,
+Dialogue: 0,0:12:34.62,0:12:37.47,Doc,,0,0,0,,with delivery by the 31st of December.
+Dialogue: 0,0:12:37.52,0:12:42.61,Doc,,0,0,0,,BYD is also offering the Dolphin\NEssential electric hatch at $28,888
+Dialogue: 0,0:12:42.66,0:12:48.79,Doc,,0,0,0,,drive-away, and the Atto 2 plug-in\Nhybrid at $25,990 drive-away.
+Dialogue: 0,0:12:48.84,0:12:50.25,Doc,,0,0,0,,Think about what that means.
+Dialogue: 0,0:12:50.30,0:12:54.59,Doc,,0,0,0,,For years, the cheapest new cars in\NAustralia were small petrol hatchbacks.
+Dialogue: 0,0:12:54.64,0:12:55.87,Doc,,0,0,0,,Now, according to Zecar,
+Dialogue: 0,0:12:55.92,0:12:59.97,Doc,,0,0,0,,the cheapest new car you can buy is\Nelectric, and it's made in China.
+Dialogue: 0,0:13:00.02,0:13:00.71,Doc,,0,0,0,,The catch?
+Dialogue: 0,0:13:00.76,0:13:02.89,Doc,,0,0,0,,The Atto 1 is a small city car.
+Dialogue: 0,0:13:02.94,0:13:03.97,Doc,,0,0,0,,It's not a family SUV,
+Dialogue: 0,0:13:04.02,0:13:08.49,Doc,,0,0,0,,and its range and space are built for\Nthe city, not for long country drives.
+Dialogue: 0,0:13:08.54,0:13:12.25,Doc,,0,0,0,,If most of your driving is in town,\Nit could save you a fortune in fuel.
+Dialogue: 0,0:13:12.30,0:13:15.21,Doc,,0,0,0,,If you regularly drive hundreds\Nof kilometres in one go,
+Dialogue: 0,0:13:15.26,0:13:17.00,Doc,,0,0,0,,test it properly before you sign.
+Dialogue: 0,0:13:17.75,0:13:20.08,Doc,,0,0,0,,And number one: the Kia Tasman.
+Dialogue: 0,0:13:20.13,0:13:22.22,Doc,,0,0,0,,The Tasman is Kia's first-ever ute,
+Dialogue: 0,0:13:22.27,0:13:24.12,Doc,,0,0,0,,and it was developed\Nwith Australia in mind.
+Dialogue: 0,0:13:24.17,0:13:25.50,Doc,,0,0,0,,Before it launched,
+Dialogue: 0,0:13:25.55,0:13:28.68,Doc,,0,0,0,,Kia was talking about twenty\Nthousand sales in its first year.
+Dialogue: 0,0:13:28.73,0:13:30.56,Doc,,0,0,0,,But according to the\Nofficial VFACTS figures,
+Dialogue: 0,0:13:30.61,0:13:32.32,Doc,,0,0,0,,reported by GoAuto,
+Dialogue: 0,0:13:32.37,0:13:38.58,Doc,,0,0,0,,Kia had sold 7,898 Tasmans from its\Nlaunch in July 2025 to the end of
+Dialogue: 0,0:13:38.63,0:13:40.22,Doc,,0,0,0,,September 2026.
+Dialogue: 0,0:13:40.27,0:13:43.68,Doc,,0,0,0,,That's fifteen months, and not\Neven half the first-year target.
+Dialogue: 0,0:13:43.73,0:13:45.78,Doc,,0,0,0,,Kia's own global planning boss said:
+Dialogue: 0,0:13:45.83,0:13:49.14,Doc,,0,0,0,,"Clearly we are not satisfied\Nyet." So now Kia is cutting hard.
+Dialogue: 0,0:13:49.19,0:13:52.09,Doc,,0,0,0,,According to a report published\Non the 4th of November,
+Dialogue: 0,0:13:52.14,0:13:58.92,Doc,,0,0,0,,the 2025-model Tasman SX four-wheel\Ndrive is now $49,990 drive-away.
+Dialogue: 0,0:13:58.97,0:14:03.94,Doc,,0,0,0,,Its list price was $54,490\Nbefore on-road costs,
+Dialogue: 0,0:14:03.99,0:14:05.98,Doc,,0,0,0,,so that's around five\Nthousand dollars off.
+Dialogue: 0,0:14:06.03,0:14:11.48,Doc,,0,0,0,,And the Tasman SX+ four-wheel\Ndrive is now $54,990 drive-away,
+Dialogue: 0,0:14:11.53,0:14:16.10,Doc,,0,0,0,,down from $62,390 before on-road costs.
+Dialogue: 0,0:14:16.15,0:14:19.08,Doc,,0,0,0,,Once you add in the on-road\Ncosts you'd normally pay,
+Dialogue: 0,0:14:19.13,0:14:21.32,Doc,,0,0,0,,that's a saving of more\Nthan ten thousand dollars.
+Dialogue: 0,0:14:21.37,0:14:25.40,Doc,,0,0,0,,ABN holders can also get five thousand\Ndollars off single and dual cab-chassis
+Dialogue: 0,0:14:25.45,0:14:28.26,Doc,,0,0,0,,S and SX models with an alloy tray.
+Dialogue: 0,0:14:28.31,0:14:29.02,Doc,,0,0,0,,The catch?
+Dialogue: 0,0:14:29.07,0:14:31.88,Doc,,0,0,0,,The deal is only on 2025 model-year cars,
+Dialogue: 0,0:14:31.93,0:14:34.50,Doc,,0,0,0,,and you have to order and\Ntake delivery in November.
+Dialogue: 0,0:14:34.55,0:14:35.92,Doc,,0,0,0,,So stock is limited.
+Dialogue: 0,0:14:35.97,0:14:38.90,Doc,,0,0,0,,And with sales this low,\Nthink about resale value.
+Dialogue: 0,0:14:38.95,0:14:42.36,Doc,,0,0,0,,A ute with a small fan base is\Nharder to sell in a few years' time,
+Dialogue: 0,0:14:42.41,0:14:45.68,Doc,,0,0,0,,so plan to keep it for a while or make\Nsure the discount is big enough to
+Dialogue: 0,0:14:45.73,0:14:47.15,Doc,,0,0,0,,cover the extra depreciation.
+Dialogue: 0,0:14:48.12,0:14:50.07,Doc,,0,0,0,,Before we finish, a bonus.
+Dialogue: 0,0:14:50.12,0:14:53.26,Doc,,0,0,0,,This isn't a runout deal, but it's\Nthe biggest price cut I found.
+Dialogue: 0,0:14:53.31,0:14:58.75,Doc,,0,0,0,,Audi has cut the price of the updated\NQ4 e-tron electric SUV by up to eighteen
+Dialogue: 0,0:14:58.80,0:14:59.53,Doc,,0,0,0,,thousand dollars.
+Dialogue: 0,0:14:59.58,0:15:01.31,Doc,,0,0,0,,According to Cars24,
+Dialogue: 0,0:15:01.36,0:15:06.51,Doc,,0,0,0,,the entry models are now\N$71,650 before on-road costs,
+Dialogue: 0,0:15:06.56,0:15:08.45,Doc,,0,0,0,,about thirteen thousand dollars cheaper,
+Dialogue: 0,0:15:08.50,0:15:11.75,Doc,,0,0,0,,and the all-wheel-drive quattro versions\Nare up to eighteen thousand dollars
+Dialogue: 0,0:15:11.80,0:15:12.71,Doc,,0,0,0,,cheaper.
+Dialogue: 0,0:15:12.76,0:15:15.69,Doc,,0,0,0,,That brings them well under\Nthe luxury car tax threshold.
+Dialogue: 0,0:15:15.74,0:15:16.31,Doc,,0,0,0,,Why?
+Dialogue: 0,0:15:16.36,0:15:20.73,Doc,,0,0,0,,Because the current Q4 e-tron sold\Njust two cars in Australia in October,
+Dialogue: 0,0:15:20.78,0:15:22.01,Doc,,0,0,0,,down 96 per cent.
+Dialogue: 0,0:15:22.06,0:15:26.11,Doc,,0,0,0,,The catch is that deliveries of the\Nupdated model don't start until the first
+Dialogue: 0,0:15:26.16,0:15:27.64,Doc,,0,0,0,,half of 2027.
+Dialogue: 0,0:15:28.48,0:15:30.61,Doc,,0,0,0,,So how do you get the\Nbest out of these deals?
+Dialogue: 0,0:15:30.66,0:15:32.55,Doc,,0,0,0,,First, read the fine print.
+Dialogue: 0,0:15:32.60,0:15:34.81,Doc,,0,0,0,,Look for words like "private buyers only",
+Dialogue: 0,0:15:34.86,0:15:37.31,Doc,,0,0,0,,"selected stock", "participating dealers",
+Dialogue: 0,0:15:37.36,0:15:40.55,Doc,,0,0,0,,"not combinable with other offers"\Nand "must be delivered by".
+Dialogue: 0,0:15:40.60,0:15:43.31,Doc,,0,0,0,,Most of these deals end\Non the 30th of November,
+Dialogue: 0,0:15:43.36,0:15:46.61,Doc,,0,0,0,,the 21st of December or\Nthe 31st of December.
+Dialogue: 0,0:15:46.66,0:15:51.33,Doc,,0,0,0,,Second, always ask for a final drive-away\Nprice in writing, for your postcode.
+Dialogue: 0,0:15:51.38,0:15:53.53,Doc,,0,0,0,,Advertised prices can change by state.
+Dialogue: 0,0:15:53.58,0:15:57.39,Doc,,0,0,0,,Third, prefer a real discount\Nover a fuel card or a gift card.
+Dialogue: 0,0:15:57.44,0:16:00.57,Doc,,0,0,0,,A discount reduces what you\Nborrow and the stamp duty.
+Dialogue: 0,0:16:00.62,0:16:02.91,Doc,,0,0,0,,Fourth, if a deal depends on finance,
+Dialogue: 0,0:16:02.96,0:16:07.25,Doc,,0,0,0,,compare the interest rate and the total\Ncost of the loan, not just the bonus.
+Dialogue: 0,0:16:07.30,0:16:09.41,Doc,,0,0,0,,Fifth, ask about demonstrators.
+Dialogue: 0,0:16:09.46,0:16:12.85,Doc,,0,0,0,,Several of these deals, like\NSuzuki's, include demo stock.
+Dialogue: 0,0:16:12.90,0:16:16.01,Doc,,0,0,0,,A demonstrator with a few thousand\Nkilometres can take another chunk off the
+Dialogue: 0,0:16:16.06,0:16:19.93,Doc,,0,0,0,,price, and it's usually still covered\Nby most of the new-car warranty.
+Dialogue: 0,0:16:19.98,0:16:21.29,Doc,,0,0,0,,Just check the build date,
+Dialogue: 0,0:16:21.34,0:16:22.63,Doc,,0,0,0,,the date the warranty started,
+Dialogue: 0,0:16:22.68,0:16:26.23,Doc,,0,0,0,,and the service history, and make\Nsure the price reflects any wear.
+Dialogue: 0,0:16:26.28,0:16:27.87,Doc,,0,0,0,,Sixth, timing.
+Dialogue: 0,0:16:27.92,0:16:29.15,Doc,,0,0,0,,The last week of a month,
+Dialogue: 0,0:16:29.20,0:16:31.03,Doc,,0,0,0,,and especially the last weeks of December,
+Dialogue: 0,0:16:31.08,0:16:33.87,Doc,,0,0,0,,is when dealers are most\Ndesperate to hit their targets.
+Dialogue: 0,0:16:33.92,0:16:36.09,Doc,,0,0,0,,If a deal ends on the 30th of November,
+Dialogue: 0,0:16:36.14,0:16:39.21,Doc,,0,0,0,,don't be surprised if a new one\Nstarts on the 1st of December.
+Dialogue: 0,0:16:39.26,0:16:43.03,Doc,,0,0,0,,But don't wait too long on limited\Nstock once the cheap cars are gone,
+Dialogue: 0,0:16:43.08,0:16:43.81,Doc,,0,0,0,,they're gone.
+Dialogue: 0,0:16:43.86,0:16:45.91,Doc,,0,0,0,,And finally, think about resale.
+Dialogue: 0,0:16:45.96,0:16:48.89,Doc,,0,0,0,,The biggest discounts are usually\Non the cars that aren't selling.
+Dialogue: 0,0:16:48.94,0:16:50.75,Doc,,0,0,0,,That's great for the price you pay today,
+Dialogue: 0,0:16:50.80,0:16:52.79,Doc,,0,0,0,,but it can mean faster depreciation later.
+Dialogue: 0,0:16:52.84,0:16:53.90,Doc,,0,0,0,,So that's the list:
+Dialogue: 0,0:16:53.95,0:16:56.33,Doc,,0,0,0,,Chery and Mitsubishi's fuel cards,
+Dialogue: 0,0:16:56.38,0:16:59.85,Doc,,0,0,0,,Honda's gift cards, GWM, the Toyota HiLux,
+Dialogue: 0,0:16:59.90,0:17:02.33,Doc,,0,0,0,,BYD's cashback, the Renault Duster,
+Dialogue: 0,0:17:02.38,0:17:05.21,Doc,,0,0,0,,the Ford Ranger, Suzuki's\NBlack Friday sale,
+Dialogue: 0,0:17:05.26,0:17:09.11,Doc,,0,0,0,,the BYD Atto 1 under twenty\Nthousand dollars and at number one,
+Dialogue: 0,0:17:09.16,0:17:12.11,Doc,,0,0,0,,the Kia Tasman, with more\Nthan ten thousand dollars off.
+Dialogue: 0,0:17:12.16,0:17:15.39,Doc,,0,0,0,,Now tell me in the comments: which of\Nthese deals would you actually take?
+Dialogue: 0,0:17:15.44,0:17:17.75,Doc,,0,0,0,,And if you've been offered a\Nbetter deal at a dealership,
+Dialogue: 0,0:17:17.80,0:17:20.23,Doc,,0,0,0,,share it below, because\Nit'll help other buyers.
+Dialogue: 0,0:17:20.28,0:17:21.29,Doc,,0,0,0,,If this video helped,
+Dialogue: 0,0:17:21.34,0:17:24.97,Doc,,0,0,0,,hit like and subscribe and share it\Nwith anyone who's about to buy a new car
+Dialogue: 0,0:17:25.02,0:17:26.11,Doc,,0,0,0,,before Christmas.
+Dialogue: 0,0:17:26.16,0:17:27.34,Doc,,0,0,0,,See you in the next one.

@@ -21,7 +21,7 @@
      "src": "a/m_tasman/1_commons.jpg",
      "move": "in",
      "caption": "$10,000+|off a brand-new ute",
-     "dur": 6.48,
+     "dur": 6.72,
      "fixed": true
     },
     {
@@ -30,7 +30,7 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 7.0,
+     "dur": 6.62,
      "fixed": true
     },
     {
@@ -39,16 +39,16 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "caption": "Kia Tasman|target: ~20,000 a year",
-     "dur": 8.44,
+     "caption": "Kia Tasman|target: 20,000 in year one",
+     "dur": 6.71,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/h_traffic/2_pixabay.jpg",
      "move": "in",
-     "caption": "< 400|Tasmans sold in 9 months",
-     "dur": 2.88,
+     "caption": "7,898|sold in 15 months",
+     "dur": 5.73,
      "fixed": true
     },
     {
@@ -56,7 +56,7 @@
      "src": "a/m_atto1/1_commons.jpg",
      "move": "in",
      "caption": "BYD Atto 1|$19,990 drive-away",
-     "dur": 4.46,
+     "dur": 4.28,
      "fixed": true
     },
     {
@@ -72,7 +72,7 @@
      "src": "a/m_ranger/1_commons.jpg",
      "move": "right",
      "caption": "Ford Ranger|$5,000",
-     "dur": 2.24,
+     "dur": 2.2,
      "fixed": true
     },
     {
@@ -81,7 +81,7 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 3.76,
+     "dur": 3.82,
      "fixed": true
     },
     {
@@ -103,7 +103,7 @@
        "at": 0.6
       }
      ],
-     "dur": 14.52,
+     "dur": 15.0,
      "fixed": true
     },
     {
@@ -112,7 +112,7 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 5.419,
+     "dur": 5.652,
      "fixed": false
     }
    ]
@@ -1401,7 +1401,14 @@
      "type": "image",
      "src": "a/m_cannon/3_commons.jpg",
      "move": "out",
-     "dur": 8.14,
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_triton/3_commons.jpg",
+     "move": "right",
+     "dur": 10.32,
      "fixed": true
     },
     {
@@ -1424,7 +1431,7 @@
      "old_note": "+ on-road costs",
      "new_note": "drive-away",
      "source": "ACM / Canberra Times",
-     "dur": 5.66,
+     "dur": 6.24,
      "fixed": true
     },
     {
@@ -1445,23 +1452,23 @@
     },
     {
      "type": "image",
-     "src": "a/m_triton/3_commons.jpg",
-     "move": "right",
+     "src": "a/m_shark6/3_commons.jpg",
+     "move": "in",
      "dur": 9.5,
      "fixed": true
     },
     {
      "type": "image",
-     "src": "a/m_shark6/3_commons.jpg",
-     "move": "in",
-     "dur": 9.3,
+     "src": "a/h_outback/1_commons.jpg",
+     "move": "up",
+     "dur": 8.94,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/h_dealer/5_commons.jpg",
      "move": "up",
-     "dur": 7.14,
+     "dur": 6.94,
      "fixed": true
     },
     {
@@ -1476,7 +1483,7 @@
        "at": 0
       }
      ],
-     "dur": 11.1,
+     "dur": 10.64,
      "fixed": true
     },
     {
@@ -1485,7 +1492,7 @@
      "fit": "crop",
      "start": 0,
      "xfade": 0.35,
-     "dur": 9.754,
+     "dur": 9.286,
      "fixed": false
     }
    ]
@@ -1620,7 +1627,7 @@
     {
      "type": "image",
      "src": "a/h_lot/4_pixabay.jpg",
-     "move": "up",
+     "move": "out",
      "dur": 9.48,
      "fixed": true
     },
@@ -1636,7 +1643,7 @@
     {
      "type": "image",
      "src": "a/h_keys/2_pixabay.jpg",
-     "move": "out",
+     "move": "down",
      "dur": 8.08,
      "fixed": true
     },
@@ -1661,7 +1668,7 @@
     {
      "type": "image",
      "src": "a/h_keys/4_pixabay.jpg",
-     "move": "down",
+     "move": "in",
      "dur": 11.12,
      "fixed": true
     },
