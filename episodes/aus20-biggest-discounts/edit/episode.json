@@ -1,0 +1,1716 @@
+{
+ "output": "AUS20_Biggest_Discounts.mp4",
+ "fps": 24,
+ "music": [
+  {
+   "file": "trilha.wav",
+   "start": 0,
+   "gain": -29,
+   "fade_in": 4,
+   "fade_out": 5
+  }
+ ],
+ "chapters": [
+  {
+   "audio": "audio/ch00_hook.flac",
+   "lead_in": 0,
+   "tail": 0.6,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/m_tasman/1_commons.jpg",
+     "move": "in",
+     "caption": "$10,000+|off a brand-new ute",
+     "dur": 6.48,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ute/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ute/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "caption": "Kia Tasman|target: ~20,000 a year",
+     "dur": 8.44,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_traffic/2_pixabay.jpg",
+     "move": "in",
+     "caption": "< 400|Tasmans sold in 9 months",
+     "dur": 2.88,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_atto1/1_commons.jpg",
+     "move": "in",
+     "caption": "BYD Atto 1|$19,990 drive-away",
+     "dur": 4.46,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_hilux/3_commons.jpg",
+     "move": "left",
+     "caption": "Toyota HiLux|$4,000 bonus",
+     "dur": 5.32,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_ranger/1_commons.jpg",
+     "move": "right",
+     "caption": "Ford Ranger|$5,000",
+     "dur": 2.24,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_shopping/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.76,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "10 Biggest New-Car Deals",
+     "subtitle": "Australia \u00b7 November 2026",
+     "tag": "deals",
+     "bg": "a/h_dealer/2_pixabay.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 14.52,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_dealer/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.419,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch01.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/v_highway/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.26,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "107,493",
+     "label": "new vehicles \u00b7 October 2026 \u00b7 record October",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "VFACTS via CarExpert",
+     "dur": 11.48,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "+237%",
+     "label": "EV sales \u00b7 Oct 2026 vs Oct 2025",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "VFACTS via CarExpert",
+     "dur": 10.52,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_lot/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.66,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "October 2026 \u00b7 brands",
+     "items": [
+      [
+       "Renault",
+       -58.2
+      ],
+      [
+       "Mitsubishi",
+       -50.0
+      ],
+      [
+       "Hyundai",
+       -28.6
+      ],
+      [
+       "Ford",
+       -3.4
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "",
+     "suffix": "%",
+     "source": "VFACTS via CarExpert",
+     "dur": 10.72,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_shopping/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 12.34,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_money/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.8,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Get the final price in writing.",
+     "highlight": "IN WRITING",
+     "size": 125,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_highway/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.48,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_city/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.073,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch02.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 10,
+     "name": "The Fuel Card War",
+     "photo": "a/m_tiggo4/3_commons.jpg",
+     "credit": "Photo: Alexander Migl \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "up to $3,000",
+     "sub": "Chery \u00b7 Mitsubishi",
+     "dur": 2.46,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_fuel/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.9,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Chery \u00b7 fuel cards",
+     "items": [
+      [
+       "Tiggo 7",
+       2000
+      ],
+      [
+       "Tiggo 4",
+       1500
+      ],
+      [
+       "E5 cashback",
+       2000
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "$",
+     "suffix": "",
+     "source": "CarSorted",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_outback/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_suv/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.02,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_triton/1_commons.jpg",
+     "move": "in",
+     "caption": "Mitsubishi Triton|$3,000 fuel card",
+     "dur": 6.58,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_outlander/1_commons.jpg",
+     "move": "left",
+     "caption": "Outlander LS Black Edition|$47,990 drive-away",
+     "dur": 8.06,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "A fuel card is NOT a discount.",
+     "highlight": "NOT",
+     "size": 125,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 11.28,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_dealer/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.6,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "-50%",
+     "label": "Mitsubishi sales \u00b7 October 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "VFACTS via CarExpert",
+     "color": "red",
+     "dur": 8.127,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch03.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 9,
+     "name": "Honda Plate Clearance",
+     "photo": "a/m_crv/1_commons.jpg",
+     "credit": "Photo: Alexander-93 \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "up to $3,000 gift card",
+     "sub": "until 31 Jan 2027",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_outback/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.36,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_zrv/1_commons.jpg",
+     "move": "in",
+     "caption": "ZR-V e:HEV X|$3,000 gift card",
+     "dur": 11.14,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Honda gift cards",
+     "items": [
+      [
+       "CR-V / ZR-V e:HEV X",
+       3000
+      ],
+      [
+       "Other CR-V / ZR-V hybrids",
+       1500
+      ],
+      [
+       "Civic \u00b7 HR-V \u00b7 Prelude \u00b7 Accord",
+       1000
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "$",
+     "suffix": "",
+     "source": "CarExpert",
+     "dur": 5.68,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "$1,395",
+     "label": "5 free services \u00b7 5 years / 50,000 km",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarExpert",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_suv/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.48,
+     "fixed": true
+    },
+    {
+     "type": "price",
+     "model": "Honda service",
+     "old": "$199",
+     "new": "$279",
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.6
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.0
+      }
+     ],
+     "old_note": "last month",
+     "new_note": "now \u00b7 per service",
+     "source": "CarExpert",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_dealer/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.76,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_accord/3_commons.jpg",
+     "move": "left",
+     "caption": "Honda Accord|59 sold in 9 months",
+     "dur": 7.186,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch04.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 8,
+     "name": "GWM Haval",
+     "photo": "a/m_jolion/1_commons.jpg",
+     "credit": "Photo: Alexander Migl \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "$3,000 deposit",
+     "sub": "until 30 Nov",
+     "dur": 1.46,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "-0.3%",
+     "label": "GWM sales \u00b7 October 2026",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "VFACTS via CarExpert",
+     "color": "red",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_highway/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.76,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "GWM drive-away deals",
+     "items": [
+      [
+       "Jolion Hybrid",
+       32990
+      ],
+      [
+       "H6 Lux",
+       35990
+      ],
+      [
+       "Cannon",
+       39990
+      ],
+      [
+       "H6 Ultra Hybrid",
+       43990
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "$",
+     "suffix": "",
+     "source": "GWM / CarSorted",
+     "dur": 7.58,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_h6/1_commons.jpg",
+     "move": "in",
+     "caption": "Haval H6 Hybrid|+ $3,000 deposit",
+     "dur": 13.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_cannon/1_commons.jpg",
+     "move": "left",
+     "caption": "GWM Cannon|from $39,990",
+     "dur": 8.88,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_lot/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.3,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_money/1_commons.jpg",
+     "move": "out",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_city/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.392,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch05.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 7,
+     "name": "Toyota HiLux",
+     "photo": "a/m_hilux/1_commons.jpg",
+     "credit": "Photo: Dominic Nelson \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "$4,000 finance bonus",
+     "sub": "SR5 4x4 diesel",
+     "dur": 8.64,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "5,954",
+     "label": "HiLux sales \u00b7 October 2026 \u00b7 #1",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "VFACTS via CarExpert",
+     "dur": 6.26,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_offroad/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 12.56,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "HiLux SR5 with bonus (+ ORC)",
+     "items": [
+      [
+       "Manual dual-cab",
+       59990
+      ],
+      [
+       "Auto cab-chassis",
+       60490
+      ],
+      [
+       "Auto dual-cab",
+       61990
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "$",
+     "suffix": "",
+     "source": "CarExpert",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_night/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.26,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Minimum $10,000 through Toyota Finance.",
+     "highlight": "TOYOTA FINANCE",
+     "size": 105,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_night/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.74,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_money/5_pixabay.jpg",
+     "move": "right",
+     "dur": 12.376,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch06.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 6,
+     "name": "BYD Cashback",
+     "photo": "a/m_sealion5/1_commons.jpg",
+     "credit": "Photo: Randall Ferry \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "$4,000 off",
+     "sub": "orders by 21 Dec",
+     "dur": 3.46,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "+153%",
+     "label": "BYD sales \u00b7 October 2026",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "VFACTS via CarExpert",
+     "dur": 14.32,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_suv/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.82,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "BYD with $4,000 cashback (+ ORC)",
+     "items": [
+      [
+       "Sealion 5",
+       29990
+      ],
+      [
+       "Sealion 7",
+       50990
+      ],
+      [
+       "Shark 6",
+       53900
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "$",
+     "suffix": "",
+     "source": "CarExpert",
+     "dur": 14.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_shark6/1_commons.jpg",
+     "move": "in",
+     "caption": "BYD Shark 6|$53,900",
+     "dur": 4.74,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_seal6/1_commons.jpg",
+     "move": "left",
+     "caption": "BYD Seal 6|0.99% finance",
+     "dur": 9.74,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_offroad/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ute/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.319,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch07.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 5,
+     "name": "Renault Duster",
+     "photo": "a/m_duster/1_commons.jpg",
+     "credit": "Photo: Alexander-93 \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "up to $5,000 off",
+     "sub": "1 Nov \u2013 31 Dec",
+     "dur": 10.98,
+     "fixed": true
+    },
+    {
+     "type": "price",
+     "model": "Renault Duster Evolution 4x2",
+     "old": "$31,990",
+     "new": "$29,990",
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.6
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.0
+      }
+     ],
+     "old_note": "before on-roads",
+     "new_note": "drive-away",
+     "source": "Cars24",
+     "dur": 10.86,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_duster/3_commons.jpg",
+     "move": "in",
+     "caption": "Duster 4x4|~$34,700\u201336,250 NSW",
+     "dur": 13.98,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "164",
+     "label": "Renault sales \u00b7 October 2026 \u00b7 -58%",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "VFACTS via CarExpert",
+     "color": "red",
+     "dur": 7.36,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_arkana/1_commons.jpg",
+     "move": "left",
+     "caption": "Renault Arkana|4 sales in October",
+     "dur": 4.32,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_koleos/1_commons.jpg",
+     "move": "in",
+     "caption": "Renault Koleos|21 sales in October",
+     "dur": 9.38,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_contract/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.048,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch08.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 4,
+     "name": "Ford Ranger",
+     "photo": "a/m_ranger/3_commons.jpg",
+     "credit": "Photo: Alexander Migl \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "$5,000 fuel card or discount",
+     "sub": "XLT \u00b7 Wildtrak \u00b7 Tremor",
+     "dur": 7.66,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ute/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.8,
+     "fixed": true
+    },
+    {
+     "type": "bars",
+     "title": "Ford Ranger offers",
+     "items": [
+      [
+       "MY26.5",
+       5000
+      ],
+      [
+       "MY27",
+       4000
+      ]
+     ],
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -24,
+       "at": 0
+      }
+     ],
+     "prefix": "$",
+     "suffix": "",
+     "source": "CarExpert",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_outback/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 12.52,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Take the discount, not the fuel card.",
+     "highlight": "DISCOUNT",
+     "size": 115,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 5.72,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_dealer/3_commons.jpg",
+     "move": "in",
+     "dur": 6.98,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_highway/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_lot/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.944,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch09.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 3,
+     "name": "Suzuki Black Friday",
+     "photo": "a/m_evitara/3_commons.jpg",
+     "credit": "Photo: TTTNIS \u00b7 CC0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "up to $5,774 off",
+     "sub": "black cars only",
+     "dur": 9.38,
+     "fixed": true
+    },
+    {
+     "type": "price",
+     "model": "Suzuki e Vitara Ultra",
+     "old": "$57,736",
+     "new": "$51,962",
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.6
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.0
+      }
+     ],
+     "old_note": "before saving",
+     "new_note": "drive-away",
+     "source": "CarExpert",
+     "dur": 12.0,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "$4,874",
+     "label": "e Vitara Motion saving \u00b7 now $42,862 drive-away",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "CarExpert",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_dealer/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_jimny/1_commons.jpg",
+     "move": "left",
+     "caption": "Jimny 3-door|$35,762 \u00b7 save $3,474",
+     "dur": 10.46,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_jimny/3_commons.jpg",
+     "move": "in",
+     "caption": "Jimny XL|$37,562 \u00b7 save $3,674",
+     "dur": 7.58,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_swift/1_commons.jpg",
+     "move": "right",
+     "caption": "Swift Hybrid|$23,022",
+     "dur": 3.9,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Private buyers \u00b7 by 30 Nov \u00b7 not QLD or northern NSW",
+     "highlight": "30 NOV",
+     "size": 92,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_h6/3_commons.jpg",
+     "move": "left",
+     "dur": 12.527,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch10.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 2,
+     "name": "BYD Atto 1",
+     "photo": "a/m_atto1/3_commons.jpg",
+     "credit": "Photo: Alexander-93 \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "$19,990 drive-away",
+     "sub": "orders by 15 Dec",
+     "dur": 3.1,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "$19,990",
+     "label": "BYD Atto 1 \u00b7 drive-away \u00b7 cheapest new car (Zecar)",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Zecar",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 11.46,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_dolphin/1_commons.jpg",
+     "move": "in",
+     "caption": "BYD Dolphin|$28,888 drive-away",
+     "dur": 12.28,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_atto2/1_commons.jpg",
+     "move": "left",
+     "caption": "BYD Atto 2 DM-i|$25,990 drive-away",
+     "dur": 4.46,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_aerial/2_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 11.18,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_ev/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.352,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch11.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 1,
+     "name": "Kia Tasman",
+     "photo": "a/m_tasman/3_commons.jpg",
+     "credit": "Photo: Avante2025 \u00b7 CC BY 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "$10,000+ saving",
+     "sub": "SX+ 4WD \u00b7 November",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_cannon/3_commons.jpg",
+     "move": "out",
+     "dur": 8.14,
+     "fixed": true
+    },
+    {
+     "type": "price",
+     "model": "Kia Tasman SX+ 4WD",
+     "old": "$62,390",
+     "new": "$54,990",
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.6
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.0
+      }
+     ],
+     "old_note": "+ on-road costs",
+     "new_note": "drive-away",
+     "source": "ACM / Canberra Times",
+     "dur": 5.66,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "$49,990",
+     "label": "Tasman SX 4WD \u00b7 drive-away (was $54,490 + ORC)",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "ACM",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_triton/3_commons.jpg",
+     "move": "right",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_shark6/3_commons.jpg",
+     "move": "in",
+     "dur": 9.3,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_dealer/5_commons.jpg",
+     "move": "up",
+     "dur": 7.14,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "2025 cars only \u00b7 order & deliver in November",
+     "highlight": "NOVEMBER",
+     "size": 100,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 11.1,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_night/4_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.754,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch12.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "title",
+     "title": "Bonus: Audi's $18,000 Cut",
+     "subtitle": "the updated Q4 e-tron",
+     "tag": "bonus",
+     "bg": "a/h_traffic/4_pixabay.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 11.34,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_q4/1_commons.jpg",
+     "move": "in",
+     "caption": "Audi Q4 e-tron|from $71,650 + ORC",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_night/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.28,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_q4/3_commons.jpg",
+     "move": "left",
+     "caption": "Q4 e-tron|2 sales in October \u00b7 -96%",
+     "dur": 12.241,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch13.flac",
+   "lead_in": 0,
+   "tail": 2.5,
+   "shots": [
+    {
+     "type": "title",
+     "title": "How to Get the Best Deal",
+     "subtitle": "before Christmas",
+     "tag": "advice",
+     "bg": "a/h_lot/1_commons.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 2.06,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Read the fine print",
+      "Drive-away price in writing",
+      "Discount beats fuel card",
+      "Compare finance rates"
+     ],
+     "starts": [
+      0,
+      384,
+      550,
+      719
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 16.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 22.92
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 29.960000000000004
+      }
+     ],
+     "dur": 36.64,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_lot/2_pixabay.jpg",
+     "move": "in",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_lot/4_pixabay.jpg",
+     "move": "up",
+     "dur": 9.48,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_shopping/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_keys/2_pixabay.jpg",
+     "move": "out",
+     "dur": 8.08,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_city/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 8.98,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_offroad/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_keys/4_pixabay.jpg",
+     "move": "down",
+     "dur": 11.12,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Which deal would YOU take?",
+     "sub": "comments",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 7.88,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Like \u00b7 Subscribe \u00b7 Share",
+     "sub": "with anyone buying before Christmas",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 8.5,
+     "fixed": false,
+     "fade_out": 0
+    }
+   ]
+  }
+ ],
+ "size": [
+  1920,
+  1080
+ ],
+ "theme": "electric",
+ "subtitles": "AUS20.ass"
+}
