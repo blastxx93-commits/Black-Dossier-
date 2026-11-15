@@ -331,6 +331,16 @@
     "discount sign"
    ],
    "n": 5
+  },
+  {
+   "id": "m_accord2",
+   "query": "Honda Accord e:HEV 2024",
+   "alt": [
+    "Honda Accord XI",
+    "Honda Accord 11th generation",
+    "2023 Honda Accord Touring"
+   ],
+   "n": 6
   }
  ]
 }
