@@ -10,14 +10,14 @@ from aus_kit import P, ch, hf, cta
 
 AI = lambda *n: ["ai:" + x for x in n]  # noqa: E731
 PHOTOS = {
-    "svd": ["svd", "museum_svd", "pso1"] + AI("ai_bayonet_svd", "ai_scope_view", "ai_cartridges_long"),
-    "squad": ["svd_soldier", "soviet_army"] + AI("ai_squad_btr", "ai_marksman_attack"),
-    "plan": ["soviet_army", "sniper_ww2"] + AI("ai_soviet_planners", "ai_machinegun_nest"),
+    "svd": ["svd", "museum_svd", "pso1", "x_weapons_museum"] + AI("ai_bayonet_svd", "ai_scope_view", "ai_cartridges_long"),
+    "squad": ["svd_soldier", "soviet_army", "x_soviet_army_parade", "x_cold_war_army"] + AI("ai_squad_btr", "ai_marksman_attack"),
+    "plan": ["soviet_army", "sniper_ww2", "x_soviet_army_parade"] + AI("ai_soviet_planners", "ai_machinegun_nest"),
     "design": ["dragunov_person", "izhevsk", "mosin"] + AI("ai_izhevsk_factory", "ai_test_snow", "ai_target_shooter"),
     "afghan": ["svd_afghan"] + AI("ai_afghan_ridge", "ai_mujahideen_ridge"),
     "world": ["type79", "psl"],
-    "cz": ["czech_svd"] + AI("ai_csla_range"),
-    "ukraine": ["ukraine_svd"] + AI("ai_ukraine_trench"),
+    "cz": ["czech_svd", "x_czsl_army", "x_conscripts", "x_vz58_soldier", "x_czech_soldiers_vz58"] + AI("ai_csla_range"),
+    "ukraine": ["ukraine_svd", "x_ukraine_war", "x_ukraine_more"] + AI("ai_ukraine_trench"),
     "west": ["dmr"] + AI("ai_two_doctrines"),
 }
 CLIPS = json.load(open(os.path.join(HERE, "clips.json")))

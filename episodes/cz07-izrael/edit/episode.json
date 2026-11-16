@@ -1,0 +1,911 @@
+{
+ "output": "CZ07_izrael.mp4",
+ "fps": 24,
+ "music": [
+  {
+   "file": "trilha.wav",
+   "start": 0,
+   "gain": -29,
+   "fade_in": 4,
+   "fade_out": 5
+  }
+ ],
+ "chapters": [
+  {
+   "audio": "audio/ch00_hook.flac",
+   "lead_in": 0,
+   "tail": 0.6,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/avia199/11_commons.jpg",
+     "move": "in",
+     "dur": 9.98,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/avia199/12_openverse.jpg",
+     "move": "left",
+     "dur": 5.32,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/avia199/1_commons.jpg",
+     "move": "out",
+     "dur": 11.24,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/c_refugees/2_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 12.65,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/s_prague/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.31,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/slansky/2_commons.jpg",
+     "move": "right",
+     "dur": 13.58,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/s_sea/1_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.94,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/mauser_cz/1_commons.jpg",
+     "move": "in",
+     "dur": 9.88,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/s_prague/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 5.549,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch01.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/israel_1948/1_commons.jpg",
+     "move": "up",
+     "dur": 13.44,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/israel_1948/7_commons.jpg",
+     "move": "out",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_uzi/3_openverse.jpg",
+     "move": "out",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_uzi/4_openverse.jpg",
+     "move": "down",
+     "dur": 6.02,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/holocaust_ships/1_commons.jpg",
+     "move": "down",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/holocaust_ships/6_commons.jpg",
+     "move": "in",
+     "dur": 8.81,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/haifa_1948/1_commons.jpg",
+     "move": "in",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_zb26/10_commons.jpg",
+     "move": "left",
+     "dur": 5.81,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/haifa_1948/3_commons.jpg",
+     "move": "left",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_zb26/11_commons.jpg",
+     "move": "out",
+     "dur": 5.13,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/s_prague/5_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_zb26/12_commons.jpg",
+     "move": "right",
+     "dur": 5.233,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch02.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/video/s_prague/6_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 2.56,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/mauser_cz/2_commons.jpg",
+     "move": "out",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_zb26/1_commons.jpg",
+     "move": "in",
+     "dur": 12.98,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/haifa_1948/6_openverse.jpg",
+     "move": "right",
+     "dur": 10.82,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/mauser_cz/3_commons.jpg",
+     "move": "in",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_zb26/2_openverse.jpg",
+     "move": "up",
+     "dur": 13.12,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/mauser_cz/4_commons.jpg",
+     "move": "up",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_zb26/3_commons.jpg",
+     "move": "out",
+     "dur": 12.64,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/mauser_cz/5_commons.jpg",
+     "move": "out",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_zb26/4_commons.jpg",
+     "move": "down",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_zb26/5_commons.jpg",
+     "move": "in",
+     "dur": 8.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/mauser_cz/6_commons.jpg",
+     "move": "down",
+     "dur": 10.16,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/s_sea/3_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 9.722,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch03.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/hf/g_list.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "hold": true,
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -26,
+       "at": 0
+      }
+     ],
+     "dur": 3.68,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/mauser_cz/7_commons.jpg",
+     "move": "in",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_zb26/6_commons.jpg",
+     "move": "left",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_zb26/7_commons.jpg",
+     "move": "out",
+     "dur": 6.94,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/mg34/1_commons.jpg",
+     "move": "left",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_zb26/8_commons.jpg",
+     "move": "right",
+     "dur": 5.02,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/avia199/2_openverse.jpg",
+     "move": "out",
+     "dur": 3.02,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/avia199/4_openverse.jpg",
+     "move": "right",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_zb26/9_commons.jpg",
+     "move": "in",
+     "dur": 13.02,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/avia199/5_commons.jpg",
+     "move": "in",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_museum_mg/1_commons.jpg",
+     "move": "up",
+     "dur": 8.52,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/spitfire_cz/1_commons.jpg",
+     "move": "up",
+     "dur": 10.16,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/spitfire_cz/2_openverse.jpg",
+     "move": "out",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/spitfire_cz/4_openverse.jpg",
+     "move": "out",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/spitfire_cz/6_openverse.jpg",
+     "move": "down",
+     "dur": 6.54,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/s_sea/5_pixabay.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.594,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch04.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/hf/g_map.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "hold": true,
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -26,
+       "at": 0
+      }
+     ],
+     "dur": 6.88,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/zatec/3_commons.jpg",
+     "move": "down",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/c54/4_commons.jpg",
+     "move": "in",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/c54/6_commons.jpg",
+     "move": "left",
+     "dur": 8.66,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/zatec/5_commons.jpg",
+     "move": "in",
+     "dur": 13.86,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/zatec/6_openverse.jpg",
+     "move": "left",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_museum_mg/3_commons.jpg",
+     "move": "out",
+     "dur": 8.44,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/avia199/6_openverse.jpg",
+     "move": "out",
+     "dur": 12.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/c54/1_commons.jpg",
+     "move": "right",
+     "dur": 13.1,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/c54/2_openverse.jpg",
+     "move": "in",
+     "dur": 11.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/mg34/2_commons.jpg",
+     "move": "up",
+     "dur": 8.587,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch05.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "cta",
+     "text": "Odeb\u00edrat",
+     "sub": "p\u0159\u00edb\u011bhy zbran\u00ed, kter\u00e9 zm\u011bnily d\u011bjiny",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 13.333,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/holocaust_ships/3_commons.jpg",
+     "move": "out",
+     "dur": 11.607,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/mg34/3_commons.jpg",
+     "move": "down",
+     "dur": 11.913,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/avia199/7_commons.jpg",
+     "move": "in",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_museum_mg/5_commons.jpg",
+     "move": "right",
+     "dur": 6.527,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/avia199/9_commons.jpg",
+     "move": "left",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_museum_mg/7_commons.jpg",
+     "move": "in",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_weapons_museum/10_openverse.jpg",
+     "move": "up",
+     "dur": 10.08,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/mg34/5_commons.jpg",
+     "move": "out",
+     "dur": 12.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/holocaust_ships/5_commons.jpg",
+     "move": "right",
+     "dur": 9.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/slansky/3_commons.jpg",
+     "move": "in",
+     "dur": 7.599,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch06.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/x_czsl_army/10_commons.jpg",
+     "move": "up",
+     "dur": 7.82,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/iaf_museum/3_openverse.jpg",
+     "move": "out",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_weapons_museum/3_openverse.jpg",
+     "move": "out",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_weapons_museum/4_commons.jpg",
+     "move": "down",
+     "dur": 11.34,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_czsl_army/1_commons.jpg",
+     "move": "down",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_czsl_army/2_commons.jpg",
+     "move": "in",
+     "dur": 8.78,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_sa23/1_commons.jpg",
+     "move": "in",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_weapons_museum/6_commons.jpg",
+     "move": "left",
+     "dur": 5.04,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/slansky/4_commons.jpg",
+     "move": "left",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_weapons_museum/8_commons.jpg",
+     "move": "out",
+     "dur": 10.68,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_sa23/2_commons.jpg",
+     "move": "out",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/holocaust_ships/8_commons.jpg",
+     "move": "right",
+     "dur": 6.91,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_sa23/3_commons.jpg",
+     "move": "right",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ben_gurion/1_commons.jpg",
+     "move": "in",
+     "dur": 6.311,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch07.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "video",
+     "src": "a/hf/g_timeline.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "hold": true,
+     "trans": "fade",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -26,
+       "at": 0
+      }
+     ],
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/ben_gurion/4_commons.jpg",
+     "move": "up",
+     "dur": 11.15,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_sa23/4_commons.jpg",
+     "move": "in",
+     "dur": 10.057,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/kbely/1_commons.jpg",
+     "move": "up",
+     "dur": 12.733,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/kbely/2_commons.jpg",
+     "move": "out",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/spitfire_cz/7_openverse.jpg",
+     "move": "out",
+     "dur": 8.9,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/iaf_museum/4_openverse.jpg",
+     "move": "down",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/spitfire_cz/8_commons.jpg",
+     "move": "down",
+     "dur": 10.1,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/kbely/5_commons.jpg",
+     "move": "in",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_czsl_army/3_commons.jpg",
+     "move": "in",
+     "dur": 10.558,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch08.flac",
+   "lead_in": 0,
+   "tail": 2.5,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/x_sa23/5_commons.jpg",
+     "move": "left",
+     "dur": 2.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_sa23/6_commons.jpg",
+     "move": "out",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_czsl_army/5_commons.jpg",
+     "move": "left",
+     "dur": 9.42,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_uzi/1_commons.jpg",
+     "move": "right",
+     "dur": 13.46,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_uzi/2_commons.jpg",
+     "move": "in",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_czsl_army/6_commons.jpg",
+     "move": "out",
+     "dur": 8.16,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/kbely/6_commons.jpg",
+     "move": "up",
+     "dur": 9.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/x_czsl_army/7_commons.jpg",
+     "move": "right",
+     "dur": 9.06,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "V\u011bd\u011bli jste to?",
+     "sub": "napi\u0161te do koment\u00e1\u0159\u016f",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 12.78,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Odeb\u00edrat",
+     "sub": "nov\u00e1 videa ka\u017ed\u00fd t\u00fdden",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 7.612,
+     "fixed": false,
+     "fade_out": 0
+    }
+   ]
+  }
+ ],
+ "size": [
+  1920,
+  1080
+ ],
+ "subtitles": "CZ07.ass"
+}

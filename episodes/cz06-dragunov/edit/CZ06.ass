@@ -1,0 +1,290 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Doc,Inter SemiBold,44,&H0000E6FF,&H0000E6FF,&H00000000,&H96000000,0,0,0,0,100,100,0.5,0,1,2.4,1.2,2,200,200,62,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.21,Doc,,0,0,0,,Na většině odstřelovacích pušek\Nsvěta byste bodák hledali marně.
+Dialogue: 0,0:00:04.26,0:00:05.25,Doc,,0,0,0,,Proč taky.
+Dialogue: 0,0:00:05.30,0:00:10.01,Doc,,0,0,0,,Odstřelovač leží schovaný stovky metrů\Nod nepřítele a čeká na jediný výstřel.
+Dialogue: 0,0:00:10.06,0:00:13.03,Doc,,0,0,0,,Do boje muže proti muži se nedostane.
+Dialogue: 0,0:00:13.08,0:00:15.91,Doc,,0,0,0,,Jenže sovětská puška Dragunov bodák má.
+Dialogue: 0,0:00:15.96,0:00:17.97,Doc,,0,0,0,,A to není chyba konstruktéra.
+Dialogue: 0,0:00:18.02,0:00:22.15,Doc,,0,0,0,,Je to stopa, která prozrazuje, k\Nčemu tahle zbraň doopravdy vznikla.
+Dialogue: 0,0:00:22.20,0:00:26.31,Doc,,0,0,0,,Na Západě se o ní dlouho mluvilo\Njako o sovětské odstřelovací pušce.
+Dialogue: 0,0:00:26.36,0:00:29.59,Doc,,0,0,0,,Ve filmech ji nosí tajemní\Nstřelci na střechách.
+Dialogue: 0,0:00:29.64,0:00:33.53,Doc,,0,0,0,,Jenže sovětští vojenští plánovači\Nji tak nikdy úplně nechápali.
+Dialogue: 0,0:00:33.58,0:00:36.84,Doc,,0,0,0,,Dragunov nebyl postaven\Npro osamělého odstřelovače,
+Dialogue: 0,0:00:36.89,0:00:39.53,Doc,,0,0,0,,který týdny stopuje jediný cíl.
+Dialogue: 0,0:00:39.58,0:00:41.51,Doc,,0,0,0,,Byl postaven pro něco jiného.
+Dialogue: 0,0:00:41.56,0:00:45.45,Doc,,0,0,0,,Pro něco, co z pohledu vojáka na\Ndruhé straně bylo mnohem horší.
+Dialogue: 0,0:00:45.50,0:00:48.35,Doc,,0,0,0,,Co přesně Sověti s\Ntouhle puškou plánovali?
+Dialogue: 0,0:00:48.40,0:00:49.49,Doc,,0,0,0,,Proč na ni dali bodák?
+Dialogue: 0,0:00:49.54,0:00:52.59,Doc,,0,0,0,,A proč ji armády po celém světě,
+Dialogue: 0,0:00:52.64,0:00:56.25,Doc,,0,0,0,,od Afghánistánu po Ukrajinu,\Npoužívají ještě dnes,
+Dialogue: 0,0:00:56.30,0:00:58.41,Doc,,0,0,0,,přes šedesát let po jejím vzniku?
+Dialogue: 0,0:00:58.46,0:01:03.15,Doc,,0,0,0,,A na konci se podíváme i na to,\Njakou roli hrála v Československu.
+Dialogue: 0,0:01:03.20,0:01:05.16,Doc,,0,0,0,,Tohle je příběh pušky Dragunov.
+Dialogue: 0,0:01:05.62,0:01:10.47,Doc,,0,0,0,,Abychom pochopili Dragunov, musíme\Nse vrátit do padesátých let.
+Dialogue: 0,0:01:10.52,0:01:15.55,Doc,,0,0,0,,Sovětská armáda se tehdy připravovala\Nna válku úplně jiného druhu než tu,
+Dialogue: 0,0:01:15.60,0:01:19.17,Doc,,0,0,0,,kterou vyhrála v roce\Ndevatenáct set čtyřicet pět.
+Dialogue: 0,0:01:19.22,0:01:23.83,Doc,,0,0,0,,Počítalo se s tím, že v Evropě\Nvypukne rychlá mechanizovaná válka.
+Dialogue: 0,0:01:23.88,0:01:27.17,Doc,,0,0,0,,Obrovské tankové armády,\Nobrněné transportéry,
+Dialogue: 0,0:01:27.22,0:01:30.41,Doc,,0,0,0,,pěchota přesouvaná na kolech a pásech.
+Dialogue: 0,0:01:30.46,0:01:33.67,Doc,,0,0,0,,A jaderné zbraně, které\Nmohou kdykoli změnit bojiště.
+Dialogue: 0,0:01:33.72,0:01:37.67,Doc,,0,0,0,,V takové válce nebyl čas\Nna klasické odstřelovače.
+Dialogue: 0,0:01:37.72,0:01:42.15,Doc,,0,0,0,,Za druhé světové války se\Nsovětští odstřelovači proslavili.
+Dialogue: 0,0:01:42.20,0:01:46.87,Doc,,0,0,0,,Leželi hodiny v ruinách Stalingradu\Na čekali na jediný výstřel.
+Dialogue: 0,0:01:46.92,0:01:50.37,Doc,,0,0,0,,Jenže v nové válce měla\Npěchota postupovat rychle,
+Dialogue: 0,0:01:50.42,0:01:53.37,Doc,,0,0,0,,zastavovat jen krátce a pak jet dál.
+Dialogue: 0,0:01:53.42,0:01:57.59,Doc,,0,0,0,,Zároveň se ale vojenští plánovači\Nobávali jiného problému.
+Dialogue: 0,0:01:57.64,0:02:01.59,Doc,,0,0,0,,Nová pěchota měla dostat\Nútočné pušky, tedy kalašnikovy.
+Dialogue: 0,0:02:01.64,0:02:04.75,Doc,,0,0,0,,Ty byly výborné na krátkou vzdálenost,
+Dialogue: 0,0:02:04.80,0:02:08.53,Doc,,0,0,0,,ale na pár set metrů už jejich\Npřesnost rychle klesala.
+Dialogue: 0,0:02:08.58,0:02:11.61,Doc,,0,0,0,,Sovětské družstvo tak\Nmohlo narazit na nepřítele,
+Dialogue: 0,0:02:11.66,0:02:15.59,Doc,,0,0,0,,který stojí kousek za hranicí\Njeho účinného dostřelu.
+Dialogue: 0,0:02:15.64,0:02:20.71,Doc,,0,0,0,,Kulometné hnízdo, protitankovou\Nstřelu, důstojníka s vysílačkou.
+Dialogue: 0,0:02:20.76,0:02:23.29,Doc,,0,0,0,,A pěchota by s tím nemohla nic udělat.
+Dialogue: 0,0:02:23.34,0:02:25.73,Doc,,0,0,0,,Armáda proto chtěla něco nového.
+Dialogue: 0,0:02:25.78,0:02:29.03,Doc,,0,0,0,,Ne klasickou odstřelovací\Npušku pro elitní střelce.
+Dialogue: 0,0:02:29.08,0:02:34.73,Doc,,0,0,0,,Ale přesnou samonabíjecí zbraň, kterou\Ndostane obyčejný voják v obyčejné četě.
+Dialogue: 0,0:02:34.78,0:02:37.91,Doc,,0,0,0,,Zbraň, která prodlouží ruku celé jednotky.
+Dialogue: 0,0:02:37.96,0:02:41.47,Doc,,0,0,0,,A úkol postavit ji dostal\Nmuž, který nebyl voják.
+Dialogue: 0,0:02:41.52,0:02:43.36,Doc,,0,0,0,,Byl to sportovní střelec.
+Dialogue: 0,0:02:44.06,0:02:47.65,Doc,,0,0,0,,Jevgenij Dragunov\Npocházel z Iževsku, města,
+Dialogue: 0,0:02:47.70,0:02:52.15,Doc,,0,0,0,,které bylo centrem ruské zbrojní\Nvýroby už od devatenáctého století.
+Dialogue: 0,0:02:52.20,0:02:55.37,Doc,,0,0,0,,Tam stojí i továrna, kde\Nse vyráběl kalašnikov.
+Dialogue: 0,0:02:55.42,0:03:00.27,Doc,,0,0,0,,Dragunov se nejdřív proslavil jako\Nkonstruktér sportovních pušek.
+Dialogue: 0,0:03:00.32,0:03:04.73,Doc,,0,0,0,,Sám byl vášnivý střelec a jeho\Nterčové zbraně vyhrávaly soutěže.
+Dialogue: 0,0:03:04.78,0:03:08.37,Doc,,0,0,0,,Rozuměl přesnosti lépe než\Nvětšina vojenských konstruktérů.
+Dialogue: 0,0:03:08.42,0:03:10.55,Doc,,0,0,0,,Věděl, jak se chová hlaveň,
+Dialogue: 0,0:03:10.60,0:03:14.61,Doc,,0,0,0,,jak se chová náboj a co dělá\Nze zbraně přesný nástroj.
+Dialogue: 0,0:03:14.66,0:03:18.93,Doc,,0,0,0,,Na konci padesátých let se zapojil\Ndo soutěže na novou přesnou pušku pro
+Dialogue: 0,0:03:18.98,0:03:19.83,Doc,,0,0,0,,armádu.
+Dialogue: 0,0:03:19.88,0:03:22.67,Doc,,0,0,0,,Proti němu stáli zkušení\Nvojenští konstruktéři.
+Dialogue: 0,0:03:22.72,0:03:25.85,Doc,,0,0,0,,Zkoušky byly tvrdé a trvaly několik let.
+Dialogue: 0,0:03:25.90,0:03:30.79,Doc,,0,0,0,,Pušky se testovaly v mrazu, v prachu,\Nv bahně i po tisících výstřelů.
+Dialogue: 0,0:03:30.84,0:03:33.15,Doc,,0,0,0,,Mezi soupeři byl i Sergej Simonov,
+Dialogue: 0,0:03:33.20,0:03:35.79,Doc,,0,0,0,,autor slavného samonabíjecího karabinu,
+Dialogue: 0,0:03:35.84,0:03:38.95,Doc,,0,0,0,,a mladý konstruktér Alexandr Konstantinov.
+Dialogue: 0,0:03:39.00,0:03:42.97,Doc,,0,0,0,,Oba měli s vojenskými zbraněmi\Nvíc zkušeností než Dragunov.
+Dialogue: 0,0:03:43.02,0:03:45.73,Doc,,0,0,0,,Jenže on měl něco, co jim chybělo.
+Dialogue: 0,0:03:45.78,0:03:50.86,Doc,,0,0,0,,Roky na střelnici a cit pro to, co\Ndělá z obyčejné pušky přesný nástroj.
+Dialogue: 0,0:03:50.91,0:03:56.27,Doc,,0,0,0,,Hlavní problém byl v tom, že armáda\Nchtěla dvě věci, které jdou proti sobě.
+Dialogue: 0,0:03:56.32,0:03:57.54,Doc,,0,0,0,,Přesnost a spolehlivost.
+Dialogue: 0,0:03:57.59,0:04:02.32,Doc,,0,0,0,,Přesná zbraň obvykle potřebuje\Ntěsné díly a pečlivou údržbu.
+Dialogue: 0,0:04:02.37,0:04:06.39,Doc,,0,0,0,,Spolehlivá vojenská zbraň\Nnaopak musí fungovat i špinavá,
+Dialogue: 0,0:04:06.44,0:04:08.11,Doc,,0,0,0,,s volnými tolerancemi.
+Dialogue: 0,0:04:08.16,0:04:12.49,Doc,,0,0,0,,Dragunovovi se podle mnoha historiků\Npodařilo obojí spojit lépe než
+Dialogue: 0,0:04:12.54,0:04:13.57,Doc,,0,0,0,,konkurentům.
+Dialogue: 0,0:04:13.62,0:04:18.17,Doc,,0,0,0,,V roce devatenáct set šedesát tři\Nsovětská armáda jeho pušku oficiálně
+Dialogue: 0,0:04:18.22,0:04:18.97,Doc,,0,0,0,,přijala.
+Dialogue: 0,0:04:19.02,0:04:21.08,Doc,,0,0,0,,Dostala označení SVD.
+Dialogue: 0,0:04:21.13,0:04:23.57,Doc,,0,0,0,,Odstřelovací puška Dragunova.
+Dialogue: 0,0:04:23.62,0:04:25.93,Doc,,0,0,0,,Ale pozor na to slovo odstřelovací.
+Dialogue: 0,0:04:25.98,0:04:29.45,Doc,,0,0,0,,V sovětském pojetí neznamenalo\Ntotéž, co na Západě.
+Dialogue: 0,0:04:29.50,0:04:32.06,Doc,,0,0,0,,A v tom je celé tajemství téhle zbraně.
+Dialogue: 0,0:04:32.69,0:04:35.36,Doc,,0,0,0,,Podívejme se nejdřív na pušku samotnou.
+Dialogue: 0,0:04:35.41,0:04:37.92,Doc,,0,0,0,,Dragunov je samonabíjecí puška.
+Dialogue: 0,0:04:37.97,0:04:40.42,Doc,,0,0,0,,Po každém výstřelu se sama nabije,
+Dialogue: 0,0:04:40.47,0:04:45.44,Doc,,0,0,0,,takže střelec může pálit rychle za\Nsebou, aniž by sundal oko z hledáčku.
+Dialogue: 0,0:04:45.49,0:04:49.82,Doc,,0,0,0,,Západní odstřelovací pušky té\Ndoby byly většinou opakovačky,
+Dialogue: 0,0:04:49.87,0:04:53.40,Doc,,0,0,0,,kde střelec po každém výstřelu\Nmusel ručně otočit závěrem.
+Dialogue: 0,0:04:53.45,0:04:58.12,Doc,,0,0,0,,Střílí silný puškový náboj sedm\Ncelých šedesát dva krát padesát čtyři
+Dialogue: 0,0:04:58.17,0:04:59.80,Doc,,0,0,0,,milimetru s okrajem.
+Dialogue: 0,0:04:59.85,0:05:01.14,Doc,,0,0,0,,Ten samý náboj,
+Dialogue: 0,0:05:01.19,0:05:05.66,Doc,,0,0,0,,který ruská armáda používala už\Nod konce devatenáctého století.
+Dialogue: 0,0:05:05.71,0:05:08.12,Doc,,0,0,0,,Střílela ho legendární puška Mosin,
+Dialogue: 0,0:05:08.17,0:05:12.60,Doc,,0,0,0,,se kterou ruští a sovětští vojáci\Nprošli dvěma světovými válkami.
+Dialogue: 0,0:05:12.65,0:05:14.04,Doc,,0,0,0,,Náboj byl silný,
+Dialogue: 0,0:05:14.09,0:05:19.04,Doc,,0,0,0,,měl plochou dráhu letu a hlavně ho\Nsovětská armáda měla ve skladech v
+Dialogue: 0,0:05:19.09,0:05:20.52,Doc,,0,0,0,,obrovském množství.
+Dialogue: 0,0:05:20.57,0:05:24.56,Doc,,0,0,0,,Pro novou pušku tak nebylo\Npotřeba vymýšlet novou munici.
+Dialogue: 0,0:05:24.61,0:05:27.18,Doc,,0,0,0,,Do zásobníku se vejde deset nábojů.
+Dialogue: 0,0:05:27.23,0:05:31.14,Doc,,0,0,0,,Mechanismus vychází ze stejných\Nprincipů jako kalašnikov.
+Dialogue: 0,0:05:31.19,0:05:33.74,Doc,,0,0,0,,Otočný závěr, plynový pohon.
+Dialogue: 0,0:05:33.79,0:05:39.66,Doc,,0,0,0,,Ale Dragunov použil krátký píst, který\Nméně rozkmitá zbraň a pomáhá přesnosti.
+Dialogue: 0,0:05:39.71,0:05:41.86,Doc,,0,0,0,,Nejvýraznějším prvkem je pažba.
+Dialogue: 0,0:05:41.91,0:05:46.36,Doc,,0,0,0,,Je vylehčená, s velkým otvorem\Nuprostřed, takže připomíná kostru.
+Dialogue: 0,0:05:46.41,0:05:51.86,Doc,,0,0,0,,Zbraň tak zůstala relativně lehká,\Nkolem čtyř a čtvrt kilogramu.
+Dialogue: 0,0:05:51.91,0:05:53.62,Doc,,0,0,0,,A pak tu je zaměřovač.
+Dialogue: 0,0:05:53.67,0:05:58.04,Doc,,0,0,0,,Optika označená PSO jedna\Nse čtyřnásobným zvětšením.
+Dialogue: 0,0:05:58.09,0:06:00.62,Doc,,0,0,0,,Měla v sobě dálkoměrnou stupnici,
+Dialogue: 0,0:06:00.67,0:06:05.52,Doc,,0,0,0,,podle které střelec rychle odhadl\Nvzdálenost k cíli podle výšky postavy.
+Dialogue: 0,0:06:05.57,0:06:07.86,Doc,,0,0,0,,A měla ještě jednu zvláštnost.
+Dialogue: 0,0:06:07.91,0:06:10.78,Doc,,0,0,0,,Malou ploškou citlivou\Nna infračervené záření.
+Dialogue: 0,0:06:10.83,0:06:14.39,Doc,,0,0,0,,Pokud nepřítel v noci svítil\Ninfračerveným reflektorem,
+Dialogue: 0,0:06:14.44,0:06:16.68,Doc,,0,0,0,,střelec ho v optice uviděl.
+Dialogue: 0,0:06:16.73,0:06:17.75,Doc,,0,0,0,,A nakonec bodák.
+Dialogue: 0,0:06:17.80,0:06:23.66,Doc,,0,0,0,,Pod hlavní je úchyt, na který se dá\Nnasadit stejný bodák jako na kalašnikov.
+Dialogue: 0,0:06:23.71,0:06:25.84,Doc,,0,0,0,,Bodák na odstřelovací pušce.
+Dialogue: 0,0:06:25.89,0:06:29.86,Doc,,0,0,0,,To samo o sobě říká, kde měl\Nvoják s Dragunovem bojovat.
+Dialogue: 0,0:06:29.91,0:06:31.88,Doc,,0,0,0,,Ne stovky metrů za frontou.
+Dialogue: 0,0:06:31.93,0:06:33.07,Doc,,0,0,0,,Ale přímo v ní.
+Dialogue: 0,0:06:33.78,0:06:35.85,Doc,,0,0,0,,Teď se dostáváme k tomu hlavnímu.
+Dialogue: 0,0:06:35.90,0:06:38.38,Doc,,0,0,0,,K čemu Dragunov skutečně sloužil.
+Dialogue: 0,0:06:38.43,0:06:43.35,Doc,,0,0,0,,Sovětská armáda ho nerozdávala jen\Nelitním odstřelovacím jednotkám.
+Dialogue: 0,0:06:43.40,0:06:48.51,Doc,,0,0,0,,Podle dobové organizace dostávala pušku\NDragunov každá motostřelecká četa.
+Dialogue: 0,0:06:48.56,0:06:50.07,Doc,,0,0,0,,Jeden voják v četě,
+Dialogue: 0,0:06:50.12,0:06:55.01,Doc,,0,0,0,,vybraný z nejlepších střelců, nosil\Nmísto kalašnikova právě Dragunov.
+Dialogue: 0,0:06:55.06,0:06:57.49,Doc,,0,0,0,,Tenhle muž nebyl samotářský lovec.
+Dialogue: 0,0:06:57.54,0:07:02.55,Doc,,0,0,0,,Postupoval s ostatními, jel s nimi v\Ntransportéru, vystupoval s nimi do útoku.
+Dialogue: 0,0:07:02.60,0:07:06.21,Doc,,0,0,0,,Jeho úkolem bylo zasahovat\Ncíle na vzdálenost,
+Dialogue: 0,0:07:06.26,0:07:09.19,Doc,,0,0,0,,na kterou kalašnikovy\Njeho kamarádů nestačily.
+Dialogue: 0,0:07:09.24,0:07:13.41,Doc,,0,0,0,,Na šest set, osm set metrů,\Npodle podmínek i dál.
+Dialogue: 0,0:07:13.46,0:07:18.11,Doc,,0,0,0,,Výcvik takového střelce byl kratší\Nnež výcvik skutečného odstřelovače.
+Dialogue: 0,0:07:18.16,0:07:23.25,Doc,,0,0,0,,Učil se odhadovat vzdálenost, číst\Nvítr, rychle najít cíl a vystřelit.
+Dialogue: 0,0:07:23.30,0:07:26.13,Doc,,0,0,0,,Nemusel umět týdny se plížit a maskovat.
+Dialogue: 0,0:07:26.18,0:07:31.07,Doc,,0,0,0,,Musel umět držet krok se svou četou a\Nve správnou chvíli zasáhnout správného
+Dialogue: 0,0:07:31.12,0:07:31.73,Doc,,0,0,0,,člověka.
+Dialogue: 0,0:07:31.78,0:07:33.95,Doc,,0,0,0,,A teď si položte otázku.
+Dialogue: 0,0:07:34.00,0:07:36.10,Doc,,0,0,0,,Na koho asi takový střelec mířil?
+Dialogue: 0,0:07:36.15,0:07:38.15,Doc,,0,0,0,,Ne na náhodné vojáky.
+Dialogue: 0,0:07:38.20,0:07:40.67,Doc,,0,0,0,,Na ty nejdůležitější lidi na bojišti.
+Dialogue: 0,0:07:40.72,0:07:44.73,Doc,,0,0,0,,Na kulometčíky, kteří drželi\Ncelou jednotku přitlačenou k zemi.
+Dialogue: 0,0:07:44.78,0:07:49.29,Doc,,0,0,0,,Na obsluhy protitankových zbraní, které\Nmohly zničit sovětský transportér.
+Dialogue: 0,0:07:49.34,0:07:51.99,Doc,,0,0,0,,Na velitele, kteří vydávali rozkazy.
+Dialogue: 0,0:07:52.04,0:07:56.19,Doc,,0,0,0,,Na radisty, přes které se\Nvolala dělostřelecká palba.
+Dialogue: 0,0:07:56.24,0:08:01.21,Doc,,0,0,0,,Dnes by se o takovém střelci řeklo,\Nže je to takzvaný určený střelec čety.
+Dialogue: 0,0:08:01.26,0:08:06.27,Doc,,0,0,0,,Na Západě se tahle role naplno\Nrozšířila až o desítky let později,
+Dialogue: 0,0:08:06.32,0:08:09.23,Doc,,0,0,0,,během válek v Iráku a Afghánistánu.
+Dialogue: 0,0:08:09.28,0:08:12.51,Doc,,0,0,0,,Sověti ji měli zavedenou\Nuž v šedesátých letech.
+Dialogue: 0,0:08:12.56,0:08:14.45,Doc,,0,0,0,,A v tom je to něco horšího.
+Dialogue: 0,0:08:14.50,0:08:16.85,Doc,,0,0,0,,Klasický odstřelovač je vzácný.
+Dialogue: 0,0:08:16.90,0:08:18.69,Doc,,0,0,0,,Pár mužů na celou divizi.
+Dialogue: 0,0:08:18.74,0:08:21.51,Doc,,0,0,0,,Ale střelec s Dragunovem byl v každé četě.
+Dialogue: 0,0:08:21.56,0:08:23.69,Doc,,0,0,0,,Na každém kousku bojiště.
+Dialogue: 0,0:08:23.74,0:08:27.53,Doc,,0,0,0,,Pro nepřátelského důstojníka\Nnebo kulometčíka to znamenalo,
+Dialogue: 0,0:08:27.58,0:08:30.37,Doc,,0,0,0,,že nebezpečí nečíhalo jen někde v dálce.
+Dialogue: 0,0:08:30.42,0:08:31.21,Doc,,0,0,0,,Bylo všude.
+Dialogue: 0,0:08:31.26,0:08:35.30,Doc,,0,0,0,,Jenže jak se tahle teorie\Nosvědčila ve skutečné válce?
+Dialogue: 0,0:08:36.03,0:08:39.94,Doc,,0,0,0,,Než se podíváme na skutečné\Nválky, krátká prosba.
+Dialogue: 0,0:08:39.99,0:08:44.36,Doc,,0,0,0,,Pokud vás historie zbraní baví,\Ndejte odběr a zapněte zvoneček.
+Dialogue: 0,0:08:44.41,0:08:47.08,Doc,,0,0,0,,Je to zdarma a pomáhá to dalším dílům.
+Dialogue: 0,0:08:47.13,0:08:48.38,Doc,,0,0,0,,A teď zpátky.
+Dialogue: 0,0:08:48.43,0:08:50.12,Doc,,0,0,0,,Velká válka v Evropě,
+Dialogue: 0,0:08:50.17,0:08:54.90,Doc,,0,0,0,,na kterou se sovětská armáda\Npřipravovala, naštěstí nikdy nepřišla.
+Dialogue: 0,0:08:54.95,0:08:57.08,Doc,,0,0,0,,Dragunov se ale do bojů dostal.
+Dialogue: 0,0:08:57.13,0:08:58.66,Doc,,0,0,0,,A nejvíc v Afghánistánu.
+Dialogue: 0,0:08:58.71,0:09:02.90,Doc,,0,0,0,,Sovětská armáda tam v osmdesátých\Nletech narazila na protivníka,
+Dialogue: 0,0:09:02.95,0:09:04.52,Doc,,0,0,0,,se kterým nepočítala.
+Dialogue: 0,0:09:04.57,0:09:06.30,Doc,,0,0,0,,Žádné tankové armády.
+Dialogue: 0,0:09:06.35,0:09:09.45,Doc,,0,0,0,,Jen horské svahy, skalní\Núkryty a mudžahedíni,
+Dialogue: 0,0:09:09.50,0:09:13.80,Doc,,0,0,0,,kteří útočili ze vzdálenosti,\Nna kterou kalašnikovy nedosáhly.
+Dialogue: 0,0:09:13.85,0:09:18.06,Doc,,0,0,0,,Podle mnoha svědectví v horách najednou\Nrostl význam přesné palby na velkou
+Dialogue: 0,0:09:18.11,0:09:19.28,Doc,,0,0,0,,vzdálenost.
+Dialogue: 0,0:09:19.33,0:09:21.68,Doc,,0,0,0,,A Dragunov byl jednou z mála zbraní,
+Dialogue: 0,0:09:21.73,0:09:24.49,Doc,,0,0,0,,které sovětští vojáci\Nna tu vzdálenost měli.
+Dialogue: 0,0:09:24.54,0:09:28.34,Doc,,0,0,0,,Ironií je, že ho brzy začali\Npoužívat i jejich protivníci.
+Dialogue: 0,0:09:28.39,0:09:33.44,Doc,,0,0,0,,Ukořistěné nebo jinak získané Dragunovy\Nse objevily na obou stranách fronty.
+Dialogue: 0,0:09:33.49,0:09:36.92,Doc,,0,0,0,,Dragunov se mezitím\Nrozšířil do celého světa.
+Dialogue: 0,0:09:36.97,0:09:41.14,Doc,,0,0,0,,Sovětský svaz ho dodával\Nspojencům a spřáteleným režimům.
+Dialogue: 0,0:09:41.19,0:09:43.11,Doc,,0,0,0,,Čína vyráběla vlastní kopie.
+Dialogue: 0,0:09:43.16,0:09:45.30,Doc,,0,0,0,,Rumunsko postavilo vlastní pušku,
+Dialogue: 0,0:09:45.35,0:09:48.64,Doc,,0,0,0,,která se Dragunovu na první\Npohled velmi podobala,
+Dialogue: 0,0:09:48.69,0:09:50.66,Doc,,0,0,0,,ale uvnitř vycházela z kalašnikova.
+Dialogue: 0,0:09:50.71,0:09:55.18,Doc,,0,0,0,,Irák pak vyráběl další verzi\Nodvozenou právě z té rumunské.
+Dialogue: 0,0:09:55.23,0:09:57.28,Doc,,0,0,0,,V dalších zemích vznikly pušky,
+Dialogue: 0,0:09:57.33,0:10:01.21,Doc,,0,0,0,,které Dragunov napodobovaly,\Ni když uvnitř byly úplně jiné.
+Dialogue: 0,0:10:01.26,0:10:05.74,Doc,,0,0,0,,Některé z nich byly ve skutečnosti\Npostavené na zvětšeném kalašnikovu.
+Dialogue: 0,0:10:05.79,0:10:08.00,Doc,,0,0,0,,Na fotografiích z Blízkého východu,
+Dialogue: 0,0:10:08.05,0:10:12.80,Doc,,0,0,0,,z Afriky i z Balkánu se tak silueta\NDragunova objevuje znovu a znovu.
+Dialogue: 0,0:10:12.85,0:10:16.60,Doc,,0,0,0,,A novináři ji často označovali\Nza odstřelovací pušku,
+Dialogue: 0,0:10:16.65,0:10:20.84,Doc,,0,0,0,,i když ji ve skutečnosti držel\Nobyčejný voják v obyčejné jednotce.
+Dialogue: 0,0:10:20.89,0:10:23.63,Doc,,0,0,0,,A Dragunov se dostal i do Československa.
+Dialogue: 0,0:10:24.33,0:10:29.68,Doc,,0,0,0,,Československá lidová armáda Dragunov\Npřevzala jako svou odstřelovací pušku.
+Dialogue: 0,0:10:29.73,0:10:33.50,Doc,,0,0,0,,Pro armádu, která jinak tak\Nráda používala vlastní zbraně,
+Dialogue: 0,0:10:33.55,0:10:35.58,Doc,,0,0,0,,to bylo zajímavé rozhodnutí.
+Dialogue: 0,0:10:35.63,0:10:41.18,Doc,,0,0,0,,Samopal vzor padesát osm, pistole,\Nkulomety, to všechno vznikalo doma.
+Dialogue: 0,0:10:41.23,0:10:46.05,Doc,,0,0,0,,Ale přesnou pušku pro odstřelovače\Nsi Československo vzalo od Sovětů.
+Dialogue: 0,0:10:46.10,0:10:46.74,Doc,,0,0,0,,Proč?
+Dialogue: 0,0:10:46.79,0:10:50.36,Doc,,0,0,0,,Vývoj přesné samonabíjecí\Npušky byl drahý a dlouhý.
+Dialogue: 0,0:10:50.41,0:10:54.82,Doc,,0,0,0,,Dragunov už existoval, byl\Nvyzkoušený a odpovídal tomu,
+Dialogue: 0,0:10:54.87,0:10:58.12,Doc,,0,0,0,,jak měly armády Varšavské smlouvy bojovat.
+Dialogue: 0,0:10:58.17,0:11:01.78,Doc,,0,0,0,,Pro Prahu bylo jednodušší ho\Npřevzít než stavět vlastní.
+Dialogue: 0,0:11:01.83,0:11:05.64,Doc,,0,0,0,,A v tomhle případě ani nebylo\Npotřeba Moskvě vzdorovat.
+Dialogue: 0,0:11:05.69,0:11:09.52,Doc,,0,0,0,,Českoslovenští vojáci ji\Npoužívali podobně jako sovětští.
+Dialogue: 0,0:11:09.57,0:11:14.02,Doc,,0,0,0,,Nejlepší střelci v jednotkách s ní\Ncvičili střelbu na velké vzdálenosti.
+Dialogue: 0,0:11:14.07,0:11:18.98,Doc,,0,0,0,,Podle vzpomínek vojáků si zbraň\Nzískala respekt pro svou spolehlivost,
+Dialogue: 0,0:11:19.03,0:11:23.84,Doc,,0,0,0,,i když přesností nedosahovala úrovně\Nspecializovaných západních pušek.
+Dialogue: 0,0:11:23.89,0:11:29.36,Doc,,0,0,0,,Po roce devatenáct set osmdesát devět\Na po rozdělení státu zůstal Dragunov ve
+Dialogue: 0,0:11:29.41,0:11:32.14,Doc,,0,0,0,,výzbroji české i slovenské armády.
+Dialogue: 0,0:11:32.19,0:11:36.30,Doc,,0,0,0,,Česká armáda ho podle dostupných\Nzdrojů používala ještě dlouho,
+Dialogue: 0,0:11:36.35,0:11:39.30,Doc,,0,0,0,,než přešla na moderní\Nzápadní odstřelovací pušky.
+Dialogue: 0,0:11:39.35,0:11:44.83,Doc,,0,0,0,,Zajímavé je, jak dlouho tahle puška\Nvydržela v armádách po celém světě.
+Dialogue: 0,0:11:44.88,0:11:47.78,Doc,,0,0,0,,Dnes, v roce dva tisíce dvacet šest,
+Dialogue: 0,0:11:47.83,0:11:51.08,Doc,,0,0,0,,se objevuje na fotografiích\Nz války na Ukrajině.
+Dialogue: 0,0:11:51.13,0:11:54.08,Doc,,0,0,0,,Používají ji ruští i ukrajinští vojáci.
+Dialogue: 0,0:11:54.13,0:11:57.64,Doc,,0,0,0,,Zbraň, která vznikla v\NIževsku v šedesátých letech,
+Dialogue: 0,0:11:57.69,0:12:00.56,Doc,,0,0,0,,se tak znovu ocitla na evropském bojišti.
+Dialogue: 0,0:12:00.61,0:12:04.76,Doc,,0,0,0,,Právě tam, kde ji sovětští\Nplánovači kdysi chtěli použít.
+Dialogue: 0,0:12:04.81,0:12:07.30,Doc,,0,0,0,,Rusko se ji mezitím snažilo modernizovat.
+Dialogue: 0,0:12:07.35,0:12:12.74,Doc,,0,0,0,,Vznikly verze se sklopnou pažbou,\Ns kratší hlavní, s novými optikami.
+Dialogue: 0,0:12:12.79,0:12:16.56,Doc,,0,0,0,,A objevily se i úplně nové\Npušky, které ji měly nahradit.
+Dialogue: 0,0:12:16.61,0:12:19.36,Doc,,0,0,0,,Přesto se starý Dragunov drží dál.
+Dialogue: 0,0:12:19.41,0:12:20.42,Doc,,0,0,0,,Proč?
+Dialogue: 0,0:12:20.47,0:12:24.47,Doc,,0,0,0,,Co je na něm tak výjimečného,\Nže ho armády neodkládají?
+Dialogue: 0,0:12:25.10,0:12:30.33,Doc,,0,0,0,,Odpověď je v tom, že Dragunov nikdy\Nnebyl nejpřesnější puškou na světě.
+Dialogue: 0,0:12:30.38,0:12:32.27,Doc,,0,0,0,,A nikdy jí být neměl.
+Dialogue: 0,0:12:32.32,0:12:37.41,Doc,,0,0,0,,Západní odstřelovací pušky s ručně\Novládaným závěrem dokázaly a dokážou
+Dialogue: 0,0:12:37.46,0:12:41.85,Doc,,0,0,0,,zasáhnout cíl s větší přesností\Na na větší vzdálenost.
+Dialogue: 0,0:12:41.90,0:12:46.13,Doc,,0,0,0,,Kdo by s Dragunovem chtěl soutěžit\Nv přesné střelbě na tisíc metrů,
+Dialogue: 0,0:12:46.18,0:12:46.71,Doc,,0,0,0,,prohrál by.
+Dialogue: 0,0:12:46.76,0:12:49.63,Doc,,0,0,0,,Jenže Dragunov měl jiné přednosti.
+Dialogue: 0,0:12:49.68,0:12:50.81,Doc,,0,0,0,,Byl spolehlivý.
+Dialogue: 0,0:12:50.86,0:12:52.85,Doc,,0,0,0,,Fungoval v mrazu i v prachu.
+Dialogue: 0,0:12:52.90,0:12:54.11,Doc,,0,0,0,,Rychle střílel.
+Dialogue: 0,0:12:54.16,0:12:56.61,Doc,,0,0,0,,Dal se vyrábět ve velkém a levně.
+Dialogue: 0,0:12:56.66,0:13:01.23,Doc,,0,0,0,,A hlavně se s ním dal naučit zacházet\Nobyčejný voják v rozumném čase.
+Dialogue: 0,0:13:01.28,0:13:04.41,Doc,,0,0,0,,Dragunov tak není zbraní\Npro pár elitních mužů.
+Dialogue: 0,0:13:04.46,0:13:06.49,Doc,,0,0,0,,Je to zbraň pro celou armádu.
+Dialogue: 0,0:13:06.54,0:13:10.19,Doc,,0,0,0,,A to je přesně ten rozdíl mezi\Nsovětským a západním pojetím.
+Dialogue: 0,0:13:10.24,0:13:15.43,Doc,,0,0,0,,Západ dlouho vsázel na malý počet\Ndokonale vycvičených odstřelovačů s
+Dialogue: 0,0:13:15.48,0:13:16.92,Doc,,0,0,0,,dokonalými zbraněmi.
+Dialogue: 0,0:13:16.97,0:13:21.78,Doc,,0,0,0,,Sovětský svaz vsadil na velký počet\Ndobrých střelců s dobrými zbraněmi,
+Dialogue: 0,0:13:21.83,0:13:24.51,Doc,,0,0,0,,rozprostřených po celém bojišti.
+Dialogue: 0,0:13:24.56,0:13:26.67,Doc,,0,0,0,,Které pojetí bylo lepší?
+Dialogue: 0,0:13:26.72,0:13:31.05,Doc,,0,0,0,,Válka v Iráku a Afghánistánu\Ndala částečně za pravdu Sovětům.
+Dialogue: 0,0:13:31.10,0:13:33.81,Doc,,0,0,0,,Americká i britská armáda zjistily,
+Dialogue: 0,0:13:33.86,0:13:38.51,Doc,,0,0,0,,že potřebují v každé jednotce přesného\Nstřelce s rychle střílející puškou.
+Dialogue: 0,0:13:38.56,0:13:42.47,Doc,,0,0,0,,A začaly zavádět vlastní\Npušky pro určené střelce.
+Dialogue: 0,0:13:42.52,0:13:45.87,Doc,,0,0,0,,Američané sáhli po přesných\Nsamonabíjecích puškách,
+Dialogue: 0,0:13:45.92,0:13:51.19,Doc,,0,0,0,,Britové zavedli vlastní pušku pro určené\Nstřelce a podobnou cestou šly i další
+Dialogue: 0,0:13:51.24,0:13:53.73,Doc,,0,0,0,,armády NATO, včetně české.
+Dialogue: 0,0:13:53.78,0:13:56.79,Doc,,0,0,0,,Myšlenku, kterou měl Dragunov\Nuž v šedesátých letech.
+Dialogue: 0,0:13:56.84,0:14:01.69,Doc,,0,0,0,,Takže když se dnes podíváte na vojáka\NNATO s přesnou samonabíjecí puškou v
+Dialogue: 0,0:14:01.74,0:14:06.59,Doc,,0,0,0,,obyčejném družstvu, díváte se\Nvlastně na západní odpověď na otázku,
+Dialogue: 0,0:14:06.64,0:14:10.04,Doc,,0,0,0,,kterou si sovětská armáda\Npoložila před šedesáti lety.
+Dialogue: 0,0:14:10.67,0:14:13.44,Doc,,0,0,0,,Vraťme se tedy k otázce ze začátku.
+Dialogue: 0,0:14:13.49,0:14:15.84,Doc,,0,0,0,,Pro co byl Dragunov postaven?
+Dialogue: 0,0:14:15.89,0:14:20.42,Doc,,0,0,0,,Ne pro osamělého odstřelovače,\Nkterý leží celé dny v úkrytu.
+Dialogue: 0,0:14:20.47,0:14:22.96,Doc,,0,0,0,,Byl postaven pro vojáka v první linii.
+Dialogue: 0,0:14:23.01,0:14:28.00,Doc,,0,0,0,,Pro střelce, který jde do útoku s\Nostatními, a proto potřebuje i bodák.
+Dialogue: 0,0:14:28.05,0:14:33.36,Doc,,0,0,0,,Pro muže, jehož úkolem je najít na bojišti\Nty nejdůležitější cíle a vyřadit je
+Dialogue: 0,0:14:33.41,0:14:36.38,Doc,,0,0,0,,dřív, než stihnou\Nzastavit postup jeho čety.
+Dialogue: 0,0:14:36.43,0:14:38.02,Doc,,0,0,0,,To je to něco horšího.
+Dialogue: 0,0:14:38.07,0:14:42.48,Doc,,0,0,0,,Ne jeden lovec někde v dálce,\Nale hrozba v každé četě.
+Dialogue: 0,0:14:42.53,0:14:44.31,Doc,,0,0,0,,Na každém kousku fronty.
+Dialogue: 0,0:14:44.36,0:14:48.50,Doc,,0,0,0,,Sovětští plánovači pochopili\Njednu věc dřív než ostatní.
+Dialogue: 0,0:14:48.55,0:14:53.22,Doc,,0,0,0,,Moderní válku nevyhrává jen ten,\Nkdo má nejlepšího odstřelovače.
+Dialogue: 0,0:14:53.27,0:14:57.26,Doc,,0,0,0,,Vyhrává ten, kdo dokáže dát\Npřesnou palbu co nejvíc jednotkám.
+Dialogue: 0,0:14:57.31,0:14:59.76,Doc,,0,0,0,,Dragunov tak není jen puška.
+Dialogue: 0,0:14:59.81,0:15:01.20,Doc,,0,0,0,,Je to myšlenka.
+Dialogue: 0,0:15:01.25,0:15:06.50,Doc,,0,0,0,,A ta myšlenka přežila Sovětský svaz,\Nstudenou válku i desítky konfliktů.
+Dialogue: 0,0:15:06.55,0:15:10.40,Doc,,0,0,0,,A dnes ji v nějaké podobě používají\Ntéměř všechny armády světa.
+Dialogue: 0,0:15:10.45,0:15:12.28,Doc,,0,0,0,,Teď je řada na vás.
+Dialogue: 0,0:15:12.33,0:15:14.74,Doc,,0,0,0,,Setkali jste se s Dragunovem na vojně?
+Dialogue: 0,0:15:14.79,0:15:17.16,Doc,,0,0,0,,Nebo si myslíte, že je přeceňovaný?
+Dialogue: 0,0:15:17.21,0:15:18.90,Doc,,0,0,0,,Napište mi to do komentářů.
+Dialogue: 0,0:15:18.95,0:15:22.86,Doc,,0,0,0,,A pokud vás zajímají další\Npříběhy zbraní, dejte odběr.
+Dialogue: 0,0:15:22.91,0:15:27.90,Doc,,0,0,0,,Příště se podíváme na jeden z\Nnejpřekvapivějších obchodů dvacátého století.
+Dialogue: 0,0:15:27.95,0:15:32.20,Doc,,0,0,0,,Na zbraně, které v roce devatenáct\Nset čtyřicet osm zachránily nový stát.
+Dialogue: 0,0:15:32.25,0:15:33.90,Doc,,0,0,0,,A přišly z Prahy.
+Dialogue: 0,0:15:33.95,0:15:35.57,Doc,,0,0,0,,Díky, že jste se dívali.

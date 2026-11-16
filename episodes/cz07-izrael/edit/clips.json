@@ -1,0 +1,17 @@
+{
+ "balak": [
+  "s_sea/1",
+  "s_sea/3",
+  "s_sea/5"
+ ],
+ "prague": [
+  "s_prague/1",
+  "s_prague/3",
+  "s_prague/5",
+  "s_prague/6"
+ ],
+ "war": [
+  "c_refugees/2"
+ ],
+ "_generic": []
+}

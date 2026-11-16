@@ -1,0 +1,303 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Doc,Inter SemiBold,44,&H0000E6FF,&H0000E6FF,&H00000000,&H96000000,0,0,0,0,100,100,0.5,0,1,2.4,1.2,2,200,200,62,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.89,Doc,,0,0,0,,Konec května devatenáct set čtyřicet osm.
+Dialogue: 0,0:00:02.94,0:00:06.61,Doc,,0,0,0,,Nad pobřežím Středozemního\Nmoře letí čtyři stíhačky.
+Dialogue: 0,0:00:06.66,0:00:10.05,Doc,,0,0,0,,Na první pohled vypadají\Njako německé Messerschmitty.
+Dialogue: 0,0:00:10.10,0:00:11.13,Doc,,0,0,0,,Ty samé letouny,
+Dialogue: 0,0:00:11.18,0:00:15.37,Doc,,0,0,0,,se kterými ještě před třemi lety\Nbojovala Hitlerova Luftwaffe.
+Dialogue: 0,0:00:15.42,0:00:17.75,Doc,,0,0,0,,Jenže na trupu nemají hákový kříž.
+Dialogue: 0,0:00:17.80,0:00:19.81,Doc,,0,0,0,,Mají Davidovu hvězdu.
+Dialogue: 0,0:00:19.86,0:00:22.03,Doc,,0,0,0,,A za kniply sedí židovští piloti.
+Dialogue: 0,0:00:22.08,0:00:26.61,Doc,,0,0,0,,Někteří z nich přežili válku, ve které\Nnacisté vyvraždili jejich rodiny.
+Dialogue: 0,0:00:26.66,0:00:31.49,Doc,,0,0,0,,Letí zastavit egyptskou armádu,\Nkterá postupuje k Tel Avivu.
+Dialogue: 0,0:00:31.54,0:00:33.85,Doc,,0,0,0,,A ty letouny, stejně jako pušky,
+Dialogue: 0,0:00:33.90,0:00:39.26,Doc,,0,0,0,,kulomety a miliony nábojů, které tehdy\Nnový stát dostal, mají společný původ.
+Dialogue: 0,0:00:39.31,0:00:41.57,Doc,,0,0,0,,Přišly z Československa.
+Dialogue: 0,0:00:41.62,0:00:44.81,Doc,,0,0,0,,Jak je možné, že\Nkomunistické Československo,
+Dialogue: 0,0:00:44.86,0:00:49.58,Doc,,0,0,0,,které o pár let později bude vést\Nvykonstruované procesy a štvát proti
+Dialogue: 0,0:00:49.63,0:00:53.71,Doc,,0,0,0,,sionismu, v roce devatenáct set\Nčtyřicet osm vyzbrojilo Izrael?
+Dialogue: 0,0:00:53.76,0:00:55.15,Doc,,0,0,0,,Proč to Stalin dovolil?
+Dialogue: 0,0:00:55.20,0:01:00.31,Doc,,0,0,0,,A jak se dostaly tisíce zbraní a celé\Nstíhačky přes půl Evropy do země,
+Dialogue: 0,0:01:00.36,0:01:03.09,Doc,,0,0,0,,na kterou platilo zbrojní embargo?
+Dialogue: 0,0:01:03.14,0:01:06.61,Doc,,0,0,0,,Je to jeden z nejpřekvapivějších\Nobchodů dvacátého století.
+Dialogue: 0,0:01:06.66,0:01:11.21,Doc,,0,0,0,,A podle mnoha historiků bez něj Izrael\Nv roce devatenáct set čtyřicet osm
+Dialogue: 0,0:01:11.26,0:01:12.97,Doc,,0,0,0,,nemusel přežít.
+Dialogue: 0,0:01:13.02,0:01:16.19,Doc,,0,0,0,,Tohle je příběh zbraní,\Nkteré zachránily nový stát.
+Dialogue: 0,0:01:16.24,0:01:18.00,Doc,,0,0,0,,A přišly z Prahy.
+Dialogue: 0,0:01:18.44,0:01:21.73,Doc,,0,0,0,,Konec roku devatenáct set čtyřicet sedm.
+Dialogue: 0,0:01:21.78,0:01:26.33,Doc,,0,0,0,,Organizace spojených národů hlasuje o\Nrozdělení britské mandátní Palestiny na
+Dialogue: 0,0:01:26.38,0:01:28.43,Doc,,0,0,0,,židovský a arabský stát.
+Dialogue: 0,0:01:28.48,0:01:29.79,Doc,,0,0,0,,Návrh projde.
+Dialogue: 0,0:01:29.84,0:01:31.95,Doc,,0,0,0,,A téměř okamžitě začnou boje.
+Dialogue: 0,0:01:32.00,0:01:37.83,Doc,,0,0,0,,Židovská komunita v Palestině měla\Nvlastní ozbrojenou organizaci, Haganu.
+Dialogue: 0,0:01:37.88,0:01:42.45,Doc,,0,0,0,,Měla odhodlané lidi, mnoho z nich\Nprošlo druhou světovou válkou.
+Dialogue: 0,0:01:42.50,0:01:43.93,Doc,,0,0,0,,Ale neměla zbraně.
+Dialogue: 0,0:01:43.98,0:01:47.45,Doc,,0,0,0,,Tedy ne v množství, které by\Nstačilo na skutečnou válku.
+Dialogue: 0,0:01:47.50,0:01:53.11,Doc,,0,0,0,,Pár tisíc pušek, trochu kulometů, ručně\Nvyráběné samopaly z tajných dílen.
+Dialogue: 0,0:01:53.16,0:01:54.51,Doc,,0,0,0,,Žádné letectvo.
+Dialogue: 0,0:01:54.56,0:01:55.97,Doc,,0,0,0,,Žádné dělostřelectvo.
+Dialogue: 0,0:01:56.02,0:02:01.17,Doc,,0,0,0,,Do země přitom připlouvaly lodě\Nplné lidí, kteří přežili holokaust.
+Dialogue: 0,0:02:01.22,0:02:05.79,Doc,,0,0,0,,Mnozí z nich vystoupili z lodi a\Nběhem pár dní už drželi pušku v ruce.
+Dialogue: 0,0:02:05.84,0:02:10.27,Doc,,0,0,0,,Neměli výcvik, neuměli jazyk,\Nčasto neměli ani uniformy.
+Dialogue: 0,0:02:10.32,0:02:13.78,Doc,,0,0,0,,A zbraní bylo tak málo, že se\No ně vojáci na frontě střídali.
+Dialogue: 0,0:02:13.83,0:02:15.71,Doc,,0,0,0,,A bylo jasné,
+Dialogue: 0,0:02:15.76,0:02:19.15,Doc,,0,0,0,,že až Britové v květnu devatenáct\Nset čtyřicet osm odejdou,
+Dialogue: 0,0:02:19.20,0:02:23.29,Doc,,0,0,0,,na nový stát zaútočí armády\Nokolních arabských zemí.
+Dialogue: 0,0:02:23.34,0:02:26.17,Doc,,0,0,0,,Egypt, Jordánsko, Sýrie, Irák.
+Dialogue: 0,0:02:26.22,0:02:28.59,Doc,,0,0,0,,S tanky, letadly a děly.
+Dialogue: 0,0:02:28.64,0:02:31.55,Doc,,0,0,0,,Získat zbraně přitom bylo téměř nemožné.
+Dialogue: 0,0:02:31.60,0:02:35.30,Doc,,0,0,0,,Spojené státy vyhlásily na\NBlízký východ zbrojní embargo.
+Dialogue: 0,0:02:35.35,0:02:38.91,Doc,,0,0,0,,Británie zbraně dodávala\Nspíš arabským státům.
+Dialogue: 0,0:02:38.96,0:02:42.72,Doc,,0,0,0,,Většina západních zemí nechtěla\Nmít s válkou nic společného.
+Dialogue: 0,0:02:42.77,0:02:47.39,Doc,,0,0,0,,Židovští vyslanci tak objížděli\NEvropu a hledali kohokoli,
+Dialogue: 0,0:02:47.44,0:02:49.25,Doc,,0,0,0,,kdo by jim zbraně prodal.
+Dialogue: 0,0:02:49.30,0:02:52.07,Doc,,0,0,0,,A jedna země jim nakonec otevřela dveře.
+Dialogue: 0,0:02:52.12,0:02:55.19,Doc,,0,0,0,,Země, ve které by to čekal málokdo.
+Dialogue: 0,0:02:55.24,0:02:56.22,Doc,,0,0,0,,Československo.
+Dialogue: 0,0:02:56.89,0:02:59.52,Doc,,0,0,0,,Proč zrovna Československo?
+Dialogue: 0,0:02:59.57,0:03:01.36,Doc,,0,0,0,,Za prvé, mělo zbraně.
+Dialogue: 0,0:03:01.41,0:03:02.97,Doc,,0,0,0,,Hodně zbraní.
+Dialogue: 0,0:03:03.02,0:03:06.70,Doc,,0,0,0,,Československé zbrojovky\Npatřily k nejlepším v Evropě.
+Dialogue: 0,0:03:06.75,0:03:09.74,Doc,,0,0,0,,A během války musely\Nvyrábět pro německou armádu.
+Dialogue: 0,0:03:09.79,0:03:15.14,Doc,,0,0,0,,Po válce tak ve skladech a továrnách\Nzůstaly obrovské zásoby pušek,
+Dialogue: 0,0:03:15.19,0:03:17.10,Doc,,0,0,0,,kulometů a munice.
+Dialogue: 0,0:03:17.15,0:03:21.50,Doc,,0,0,0,,Zbraně, které nová československá\Narmáda nepotřebovala.
+Dialogue: 0,0:03:21.55,0:03:23.38,Doc,,0,0,0,,Za druhé, potřebovalo peníze.
+Dialogue: 0,0:03:23.43,0:03:27.44,Doc,,0,0,0,,Zničená poválečná ekonomika\Nhledala tvrdou měnu.
+Dialogue: 0,0:03:27.49,0:03:32.32,Doc,,0,0,0,,A zbraně byly jedním z mála zboží,\Nza které platil kdokoli a v dolarech.
+Dialogue: 0,0:03:32.37,0:03:37.06,Doc,,0,0,0,,A za třetí, a to bylo\Nnejdůležitější, to dovolila Moskva.
+Dialogue: 0,0:03:37.11,0:03:40.80,Doc,,0,0,0,,Stalin v té době podporoval\Nvznik židovského státu.
+Dialogue: 0,0:03:40.85,0:03:42.72,Doc,,0,0,0,,Ne ze sympatií k sionismu.
+Dialogue: 0,0:03:42.77,0:03:45.74,Doc,,0,0,0,,Chtěl oslabit britský\Nvliv na Blízkém východě.
+Dialogue: 0,0:03:45.79,0:03:47.38,Doc,,0,0,0,,A doufal, že nový stát,
+Dialogue: 0,0:03:47.43,0:03:51.38,Doc,,0,0,0,,který vznikne z velké části díky\Npřistěhovalcům z východní Evropy,
+Dialogue: 0,0:03:51.43,0:03:54.44,Doc,,0,0,0,,se možná přikloní k Sovětskému svazu.
+Dialogue: 0,0:03:54.49,0:03:57.20,Doc,,0,0,0,,V lednu devatenáct set čtyřicet osm,
+Dialogue: 0,0:03:57.25,0:04:00.14,Doc,,0,0,0,,ještě před komunistickým\Npřevratem v Praze,
+Dialogue: 0,0:04:00.19,0:04:03.06,Doc,,0,0,0,,podepsali zástupci Hagany první smlouvu.
+Dialogue: 0,0:04:03.11,0:04:06.60,Doc,,0,0,0,,Kupovali pušky, kulomety a miliony nábojů.
+Dialogue: 0,0:04:06.65,0:04:09.46,Doc,,0,0,0,,A po únoru devatenáct set čtyřicet osm,
+Dialogue: 0,0:04:09.51,0:04:14.54,Doc,,0,0,0,,kdy moc v Československu převzali\Nkomunisté, obchod nejen pokračoval.
+Dialogue: 0,0:04:14.59,0:04:16.08,Doc,,0,0,0,,Ještě se rozšířil.
+Dialogue: 0,0:04:16.13,0:04:19.40,Doc,,0,0,0,,To je možná nejpřekvapivější\Nčást celého příběhu.
+Dialogue: 0,0:04:19.45,0:04:23.60,Doc,,0,0,0,,Komunistický převrat v únoru\Ndevatenáct set čtyřicet osm postavil
+Dialogue: 0,0:04:23.65,0:04:26.48,Doc,,0,0,0,,Československo pevně do sovětského bloku.
+Dialogue: 0,0:04:26.53,0:04:30.46,Doc,,0,0,0,,Svoboda tisku skončila,\Nopozice byla rozprášena.
+Dialogue: 0,0:04:30.51,0:04:35.30,Doc,,0,0,0,,A přesto právě tento nový režim\Npokračoval v dodávkách zbraní státu,
+Dialogue: 0,0:04:35.35,0:04:37.00,Doc,,0,0,0,,který se teprve rodil.
+Dialogue: 0,0:04:37.05,0:04:39.96,Doc,,0,0,0,,Pro komunisty to byl\Nobchod jako každý jiný.
+Dialogue: 0,0:04:40.01,0:04:42.98,Doc,,0,0,0,,A navíc obchod, který Moskva schválila.
+Dialogue: 0,0:04:43.03,0:04:47.88,Doc,,0,0,0,,Muž, který za židovskou stranu obchody\Nvyjednával, se jmenoval Ehud Avriel.
+Dialogue: 0,0:04:47.93,0:04:53.14,Doc,,0,0,0,,Později vzpomínal, že bez Prahy\Nby nový stát neměl čím bojovat.
+Dialogue: 0,0:04:53.19,0:04:55.62,Doc,,0,0,0,,Jenže koupit zbraně byla jedna věc.
+Dialogue: 0,0:04:55.67,0:04:58.35,Doc,,0,0,0,,Dostat je přes půl Evropy do válčící země,
+Dialogue: 0,0:04:58.40,0:05:02.11,Doc,,0,0,0,,na kterou platilo embargo,\Nbyla věc úplně jiná.
+Dialogue: 0,0:05:02.79,0:05:06.54,Doc,,0,0,0,,Jaké zbraně vlastně\NČeskoslovensko prodalo?
+Dialogue: 0,0:05:06.59,0:05:08.18,Doc,,0,0,0,,Základem byly pušky.
+Dialogue: 0,0:05:08.23,0:05:09.98,Doc,,0,0,0,,Desítky tisíc pušek Mauser,
+Dialogue: 0,0:05:10.03,0:05:14.08,Doc,,0,0,0,,z velké části vyrobených v\Nčeskoslovenských zbrojovkách.
+Dialogue: 0,0:05:14.13,0:05:19.46,Doc,,0,0,0,,Mezi nimi i pušky stejného typu, jaké\Nběhem války nosili němečtí vojáci.
+Dialogue: 0,0:05:19.51,0:05:21.12,Doc,,0,0,0,,Byla to temná ironie.
+Dialogue: 0,0:05:21.17,0:05:25.94,Doc,,0,0,0,,Židovští bojovníci, z nichž mnozí\Nztratili rodiny v holokaustu,
+Dialogue: 0,0:05:25.99,0:05:27.42,Doc,,0,0,0,,dostali do rukou zbraně,
+Dialogue: 0,0:05:27.47,0:05:31.48,Doc,,0,0,0,,které vznikly pro armádu, jež\Njejich národ vyvražďovala.
+Dialogue: 0,0:05:31.53,0:05:32.50,Doc,,0,0,0,,Dále kulomety.
+Dialogue: 0,0:05:32.55,0:05:34.62,Doc,,0,0,0,,Těžké německé kulomety,
+Dialogue: 0,0:05:34.67,0:05:40.02,Doc,,0,0,0,,které Československo zdědilo po válce,\Ni vlastní československé konstrukce.
+Dialogue: 0,0:05:40.07,0:05:42.52,Doc,,0,0,0,,A k tomu miliony a miliony nábojů.
+Dialogue: 0,0:05:42.57,0:05:45.50,Doc,,0,0,0,,Bez munice jsou zbraně jen kusem železa.
+Dialogue: 0,0:05:45.55,0:05:47.48,Doc,,0,0,0,,A pak přišlo to nejcennější.
+Dialogue: 0,0:05:47.53,0:05:48.52,Doc,,0,0,0,,Letadla.
+Dialogue: 0,0:05:48.57,0:05:50.75,Doc,,0,0,0,,Izrael neměl žádné stíhačky.
+Dialogue: 0,0:05:50.80,0:05:53.10,Doc,,0,0,0,,Československo mělo zvláštní stroj.
+Dialogue: 0,0:05:53.15,0:05:55.60,Doc,,0,0,0,,Avia S sto devadesát devět.
+Dialogue: 0,0:05:55.65,0:05:59.92,Doc,,0,0,0,,Během války se v Česku vyráběly díly\Npro německé stíhačky Messerschmitt.
+Dialogue: 0,0:05:59.97,0:06:04.24,Doc,,0,0,0,,Po válce se z nich v továrně\NAvia skládaly vlastní letouny.
+Dialogue: 0,0:06:04.29,0:06:06.48,Doc,,0,0,0,,Jenže originální motory chyběly,
+Dialogue: 0,0:06:06.53,0:06:10.54,Doc,,0,0,0,,a tak se do nich montovaly\Njiné, těžší motory z bombardérů.
+Dialogue: 0,0:06:10.59,0:06:12.68,Doc,,0,0,0,,Výsledek byl podivný stroj.
+Dialogue: 0,0:06:12.73,0:06:16.11,Doc,,0,0,0,,Těžko se ovládal, zvlášť\Npři startu a přistání.
+Dialogue: 0,0:06:16.16,0:06:18.16,Doc,,0,0,0,,Piloti mu přezdívali mezek.
+Dialogue: 0,0:06:18.21,0:06:19.62,Doc,,0,0,0,,Mnoho z nich ho nenávidělo.
+Dialogue: 0,0:06:19.67,0:06:21.62,Doc,,0,0,0,,Přesto to byla stíhačka.
+Dialogue: 0,0:06:21.67,0:06:23.84,Doc,,0,0,0,,A Izrael žádnou jinou neměl.
+Dialogue: 0,0:06:23.89,0:06:28.06,Doc,,0,0,0,,Celkem jich do nové země odešlo\Npodle dostupných pramenů pětadvacet.
+Dialogue: 0,0:06:28.11,0:06:30.65,Doc,,0,0,0,,Později přibyly i lepší letouny.
+Dialogue: 0,0:06:30.70,0:06:35.20,Doc,,0,0,0,,Československo prodalo Izraeli\Ntaké britské stíhačky Spitfire,
+Dialogue: 0,0:06:35.25,0:06:38.22,Doc,,0,0,0,,které po válce používalo vlastní letectvo.
+Dialogue: 0,0:06:38.27,0:06:40.23,Doc,,0,0,0,,Jejich přesun byl ještě odvážnější.
+Dialogue: 0,0:06:40.28,0:06:42.43,Doc,,0,0,0,,Spitfiry se nerozebíraly.
+Dialogue: 0,0:06:42.48,0:06:43.80,Doc,,0,0,0,,Letěly samy.
+Dialogue: 0,0:06:43.85,0:06:47.00,Doc,,0,0,0,,Mechanici do nich\Nnamontovali přídavné nádrže,
+Dialogue: 0,0:06:47.05,0:06:51.18,Doc,,0,0,0,,aby vydržely dlouhý let přes\NJugoslávii až na Blízký východ.
+Dialogue: 0,0:06:51.23,0:06:54.60,Doc,,0,0,0,,Některé stroje přistávaly\Ns posledními litry paliva.
+Dialogue: 0,0:06:54.65,0:06:59.62,Doc,,0,0,0,,Jeden z letounů musel nouzově přistát\Na pilot jen o vlásek unikl zajetí.
+Dialogue: 0,0:06:59.67,0:07:02.76,Doc,,0,0,0,,Celá akce dostala krycí název Velveta.
+Dialogue: 0,0:07:02.81,0:07:05.57,Doc,,0,0,0,,Ale jak dostat letadlo\Nz Česka do Palestiny?
+Dialogue: 0,0:07:06.28,0:07:10.97,Doc,,0,0,0,,Odpovědí byla jedna z nejodvážnějších\Nleteckých operací té doby.
+Dialogue: 0,0:07:11.02,0:07:13.23,Doc,,0,0,0,,Dostala krycí název Balak.
+Dialogue: 0,0:07:13.28,0:07:17.13,Doc,,0,0,0,,Na letišti v Žatci na severu\NČech vznikla tajná základna.
+Dialogue: 0,0:07:17.18,0:07:20.69,Doc,,0,0,0,,V dokumentech se o ní mluvilo\Njako o základně Zebra.
+Dialogue: 0,0:07:20.74,0:07:25.37,Doc,,0,0,0,,Odtud startovaly velké dopravní\Nletouny naložené zbraněmi a municí.
+Dialogue: 0,0:07:25.42,0:07:28.27,Doc,,0,0,0,,Letěly přes Jugoslávii, kde tankovaly,
+Dialogue: 0,0:07:28.32,0:07:31.23,Doc,,0,0,0,,a pak dál přes Středozemní\Nmoře až do Palestiny.
+Dialogue: 0,0:07:31.28,0:07:34.65,Doc,,0,0,0,,Často v noci, často na hranici doletu,
+Dialogue: 0,0:07:34.70,0:07:37.65,Doc,,0,0,0,,s nákladem, který kdyby\Npadl do nesprávných rukou,
+Dialogue: 0,0:07:37.70,0:07:39.89,Doc,,0,0,0,,mohl vyvolat diplomatický skandál.
+Dialogue: 0,0:07:39.94,0:07:42.47,Doc,,0,0,0,,Piloti byli směsice dobrovolníků.
+Dialogue: 0,0:07:42.52,0:07:46.49,Doc,,0,0,0,,Američané, Kanaďané,\NBritové, Jihoafričané,
+Dialogue: 0,0:07:46.54,0:07:49.91,Doc,,0,0,0,,mnozí z nich židovští\Nveteráni druhé světové války.
+Dialogue: 0,0:07:49.96,0:07:53.75,Doc,,0,0,0,,Létali za peníze, z\Npřesvědčení, nebo z obojího.
+Dialogue: 0,0:07:53.80,0:07:59.03,Doc,,0,0,0,,Obyvatelé Žatce si samozřejmě všimli,\Nže se na letišti děje něco neobvyklého.
+Dialogue: 0,0:07:59.08,0:08:03.24,Doc,,0,0,0,,Velká cizí letadla,\Ncizí řeč, noční starty.
+Dialogue: 0,0:08:03.29,0:08:05.43,Doc,,0,0,0,,Úřady ale o všem mlčely.
+Dialogue: 0,0:08:05.48,0:08:09.19,Doc,,0,0,0,,A v zemi, kde se právě rozjížděla\Nkomunistická diktatura,
+Dialogue: 0,0:08:09.24,0:08:11.19,Doc,,0,0,0,,se otázky nekladly nahlas.
+Dialogue: 0,0:08:11.24,0:08:14.90,Doc,,0,0,0,,Stíhačky Avia se do dopravních\Nletadel nevešly celé.
+Dialogue: 0,0:08:14.95,0:08:16.74,Doc,,0,0,0,,Rozebíraly se na díly,
+Dialogue: 0,0:08:16.79,0:08:21.51,Doc,,0,0,0,,převážely v trupech velkých strojů\Na v Izraeli se znovu skládaly.
+Dialogue: 0,0:08:21.56,0:08:23.99,Doc,,0,0,0,,Mechanici pracovali dnem i nocí.
+Dialogue: 0,0:08:24.04,0:08:26.05,Doc,,0,0,0,,Další zbraně putovaly po moři.
+Dialogue: 0,0:08:26.10,0:08:31.33,Doc,,0,0,0,,Lodě s náklady pušek a nábojů\Nvyplouvaly z jugoslávských přístavů.
+Dialogue: 0,0:08:31.38,0:08:33.61,Doc,,0,0,0,,Jedna z prvních, loď Nora,
+Dialogue: 0,0:08:33.66,0:08:37.09,Doc,,0,0,0,,převážela tisíce pušek\Nukrytých pod nákladem cibule.
+Dialogue: 0,0:08:37.14,0:08:39.57,Doc,,0,0,0,,Celá operace probíhala v utajení.
+Dialogue: 0,0:08:39.62,0:08:43.09,Doc,,0,0,0,,Československá vláda\Noficiálně nic nepotvrzovala.
+Dialogue: 0,0:08:43.14,0:08:45.58,Doc,,0,0,0,,A Britové, kteří o leteckém mostě věděli,
+Dialogue: 0,0:08:45.63,0:08:48.69,Doc,,0,0,0,,se snažili ho přerušit\Ndiplomatickým tlakem.
+Dialogue: 0,0:08:48.74,0:08:50.67,Doc,,0,0,0,,Jenže zbraně tekly dál.
+Dialogue: 0,0:08:50.72,0:08:54.65,Doc,,0,0,0,,A v květnu devatenáct set\Nčtyřicet osm přišla chvíle,
+Dialogue: 0,0:08:54.70,0:08:56.62,Doc,,0,0,0,,kdy na nich záviselo všechno.
+Dialogue: 0,0:08:57.21,0:09:01.26,Doc,,0,0,0,,Než se dostaneme k té rozhodující\Nchvíli, krátká prosba.
+Dialogue: 0,0:09:01.31,0:09:05.96,Doc,,0,0,0,,Pokud vás tahle historie zajímá,\Ndejte odběr a zapněte zvoneček.
+Dialogue: 0,0:09:06.01,0:09:09.06,Doc,,0,0,0,,Je to zdarma a pomáhá to dalším dílům.
+Dialogue: 0,0:09:09.11,0:09:10.61,Doc,,0,0,0,,A teď zpátky.
+Dialogue: 0,0:09:10.66,0:09:15.78,Doc,,0,0,0,,Čtrnáctého května devatenáct set čtyřicet\Nosm vyhlásil David Ben Gurion v Tel
+Dialogue: 0,0:09:15.83,0:09:18.36,Doc,,0,0,0,,Avivu nezávislost Státu Izrael.
+Dialogue: 0,0:09:18.41,0:09:22.22,Doc,,0,0,0,,Hned druhý den vstoupily do\Nzemě armády okolních států.
+Dialogue: 0,0:09:22.27,0:09:26.02,Doc,,0,0,0,,Egyptská armáda postupovala\Nod jihu podél pobřeží.
+Dialogue: 0,0:09:26.07,0:09:27.72,Doc,,0,0,0,,Směrem k Tel Avivu.
+Dialogue: 0,0:09:27.77,0:09:32.68,Doc,,0,0,0,,Podle izraelských historiků se koncem\Nkvětna dostaly kolony egyptských vojsk
+Dialogue: 0,0:09:32.73,0:09:34.13,Doc,,0,0,0,,nebezpečně blízko.
+Dialogue: 0,0:09:34.18,0:09:38.44,Doc,,0,0,0,,Dvacátého devátého května\Nvzlétly první čtyři Avie,
+Dialogue: 0,0:09:38.49,0:09:40.35,Doc,,0,0,0,,které mechanici narychlo složili.
+Dialogue: 0,0:09:40.40,0:09:42.52,Doc,,0,0,0,,Piloti s nimi téměř necvičili.
+Dialogue: 0,0:09:42.57,0:09:45.39,Doc,,0,0,0,,Letouny byly sotva odzkoušené.
+Dialogue: 0,0:09:45.44,0:09:49.66,Doc,,0,0,0,,Zaútočily na egyptskou kolonu u\Nmostu nedaleko dnešního Ašdodu.
+Dialogue: 0,0:09:49.71,0:09:52.96,Doc,,0,0,0,,Vojenský účinek útoku nebyl velký.
+Dialogue: 0,0:09:53.01,0:09:56.50,Doc,,0,0,0,,Jedna Avia byla sestřelena,\Ndalší havarovala.
+Dialogue: 0,0:09:56.55,0:09:58.89,Doc,,0,0,0,,Ale psychologický dopad byl obrovský.
+Dialogue: 0,0:09:58.94,0:10:03.76,Doc,,0,0,0,,Egyptští vojáci nečekali, že\NIzrael má vůbec nějaká letadla.
+Dialogue: 0,0:10:03.81,0:10:07.42,Doc,,0,0,0,,A egyptský postup se v\Nnásledujících dnech zastavil.
+Dialogue: 0,0:10:07.47,0:10:11.56,Doc,,0,0,0,,Historici se dodnes přou, jak\Nvelkou roli v tom útok sehrál.
+Dialogue: 0,0:10:11.61,0:10:14.70,Doc,,0,0,0,,Ale v izraelské paměti\Nzůstal jako okamžik,
+Dialogue: 0,0:10:14.75,0:10:17.74,Doc,,0,0,0,,kdy nový stát poprvé ukázal, že má křídla.
+Dialogue: 0,0:10:17.79,0:10:23.00,Doc,,0,0,0,,Do bojů mezitím šly i tisíce\Npušek a kulometů z Československa.
+Dialogue: 0,0:10:23.05,0:10:27.88,Doc,,0,0,0,,Podle mnoha historiků tvořily v\Nrozhodujících měsících války velkou část
+Dialogue: 0,0:10:27.93,0:10:30.64,Doc,,0,0,0,,výzbroje izraelské pěchoty.
+Dialogue: 0,0:10:30.69,0:10:34.36,Doc,,0,0,0,,David Ben Gurion později\Npodle dostupných zdrojů řekl,
+Dialogue: 0,0:10:34.41,0:10:37.40,Doc,,0,0,0,,že československé zbraně zachránily stát.
+Dialogue: 0,0:10:37.45,0:10:40.24,Doc,,0,0,0,,Že bez nich by Izrael přežil jen stěží.
+Dialogue: 0,0:10:40.29,0:10:42.48,Doc,,0,0,0,,Jenže zatímco Izrael slavil,
+Dialogue: 0,0:10:42.53,0:10:47.19,Doc,,0,0,0,,v Praze se začalo schylovat k\Nněčemu, co celý příběh obrátí naruby.
+Dialogue: 0,0:10:47.77,0:10:50.45,Doc,,0,0,0,,Pomoc nekončila jen u zbraní.
+Dialogue: 0,0:10:50.50,0:10:54.98,Doc,,0,0,0,,Československo v letech devatenáct set\Nčtyřicet osm a čtyřicet devět cvičilo i
+Dialogue: 0,0:10:55.03,0:10:55.66,Doc,,0,0,0,,lidi.
+Dialogue: 0,0:10:55.71,0:11:00.38,Doc,,0,0,0,,Na československých letištích se\Ncvičili izraelští piloti a mechanici.
+Dialogue: 0,0:11:00.43,0:11:02.30,Doc,,0,0,0,,A vznikla i zvláštní jednotka.
+Dialogue: 0,0:11:02.35,0:11:05.00,Doc,,0,0,0,,Takzvaná československá brigáda.
+Dialogue: 0,0:11:05.05,0:11:07.46,Doc,,0,0,0,,Tvořili ji židovští dobrovolníci,
+Dialogue: 0,0:11:07.51,0:11:10.64,Doc,,0,0,0,,mnoho z nich českoslovenští\Nobčané a veteráni,
+Dialogue: 0,0:11:10.69,0:11:13.54,Doc,,0,0,0,,kteří se rozhodli bojovat za nový stát.
+Dialogue: 0,0:11:13.59,0:11:16.88,Doc,,0,0,0,,Cvičili v Česku a pak odjeli do Izraele.
+Dialogue: 0,0:11:16.93,0:11:20.40,Doc,,0,0,0,,Podle dostupných pramenů\Nprošly výcvikem stovky lidí.
+Dialogue: 0,0:11:20.45,0:11:25.00,Doc,,0,0,0,,Pro malou armádu, která teprve\Nvznikala, to byla významná posila.
+Dialogue: 0,0:11:25.05,0:11:28.74,Doc,,0,0,0,,Mezi cvičenci byli i budoucí\Nvýsadkáři a tankisté.
+Dialogue: 0,0:11:28.79,0:11:31.24,Doc,,0,0,0,,Učili se na československých zbraních,
+Dialogue: 0,0:11:31.29,0:11:35.96,Doc,,0,0,0,,podle československých předpisů,\Nod československých instruktorů.
+Dialogue: 0,0:11:36.01,0:11:41.06,Doc,,0,0,0,,Část zakladatelské generace izraelské\Narmády tak získala první vojenský výcvik
+Dialogue: 0,0:11:41.11,0:11:42.78,Doc,,0,0,0,,právě v Česku a na Moravě.
+Dialogue: 0,0:11:42.83,0:11:45.46,Doc,,0,0,0,,Pak se ale situace začala měnit.
+Dialogue: 0,0:11:45.51,0:11:49.82,Doc,,0,0,0,,Izrael se nepřiklonil k Sovětskému\Nsvazu, jak Stalin doufal.
+Dialogue: 0,0:11:49.87,0:11:54.90,Doc,,0,0,0,,Naopak, postupně se obracel k\NZápadu, hlavně ke Spojeným státům.
+Dialogue: 0,0:11:54.95,0:11:56.82,Doc,,0,0,0,,A Moskva změnila kurz.
+Dialogue: 0,0:11:56.87,0:12:01.52,Doc,,0,0,0,,Na začátku padesátých let se v celém\Nsovětském bloku rozběhla kampaň proti
+Dialogue: 0,0:12:01.57,0:12:03.20,Doc,,0,0,0,,takzvanému sionismu.
+Dialogue: 0,0:12:03.25,0:12:07.49,Doc,,0,0,0,,V Československu vyvrcholila jedním\Nz nejhorších politických procesů v
+Dialogue: 0,0:12:07.54,0:12:08.28,Doc,,0,0,0,,dějinách země.
+Dialogue: 0,0:12:08.33,0:12:13.32,Doc,,0,0,0,,Procesem s Rudolfem Slánským a dalšími\Nvysokými funkcionáři komunistické
+Dialogue: 0,0:12:13.37,0:12:16.50,Doc,,0,0,0,,strany v roce devatenáct set padesát dva.
+Dialogue: 0,0:12:16.55,0:12:19.22,Doc,,0,0,0,,Proces měl silně antisemitský charakter.
+Dialogue: 0,0:12:19.27,0:12:22.34,Doc,,0,0,0,,Většina obžalovaných\Nbyla židovského původu.
+Dialogue: 0,0:12:22.39,0:12:25.50,Doc,,0,0,0,,Obžaloba mluvila o sionistickém spiknutí.
+Dialogue: 0,0:12:25.55,0:12:29.58,Doc,,0,0,0,,A pomoc Izraeli, kterou stát\Nsám schválil a ze které vydělal,
+Dialogue: 0,0:12:29.63,0:12:32.41,Doc,,0,0,0,,se najednou v propagandě\Nstala důkazem zrady.
+Dialogue: 0,0:12:32.46,0:12:35.14,Doc,,0,0,0,,Jedenáct obžalovaných bylo popraveno.
+Dialogue: 0,0:12:35.19,0:12:39.90,Doc,,0,0,0,,Mezi nimi i lidé, kteří v letech\Npoválečných pomáhali stát budovat.
+Dialogue: 0,0:12:39.95,0:12:42.01,Doc,,0,0,0,,Stejný režim, který Izrael vyzbrojil,
+Dialogue: 0,0:12:42.06,0:12:46.93,Doc,,0,0,0,,o pár let později stavěl lidi před\Nsoud jako sionistické spiklence.
+Dialogue: 0,0:12:47.65,0:12:52.52,Doc,,0,0,0,,Vztahy Československa a Izraele\Nse pak na desítky let zmrazily.
+Dialogue: 0,0:12:52.57,0:12:56.81,Doc,,0,0,0,,Po šestidenní válce v roce\Ndevatenáct set šedesát sedm přerušilo
+Dialogue: 0,0:12:56.86,0:13:00.70,Doc,,0,0,0,,Československo s Izraelem\Ndiplomatické styky úplně.
+Dialogue: 0,0:13:00.75,0:13:04.50,Doc,,0,0,0,,Československé zbraně teď\Nproudily na druhou stranu.
+Dialogue: 0,0:13:04.55,0:13:07.87,Doc,,0,0,0,,K arabským státům, které\Ns Izraelem válčily.
+Dialogue: 0,0:13:07.92,0:13:09.70,Doc,,0,0,0,,Samopaly, pušky, letadla.
+Dialogue: 0,0:13:09.75,0:13:11.30,Doc,,0,0,0,,Ty samé továrny,
+Dialogue: 0,0:13:11.35,0:13:15.34,Doc,,0,0,0,,které v roce devatenáct set\Nčtyřicet osm vyzbrojily Izrael,
+Dialogue: 0,0:13:15.39,0:13:17.93,Doc,,0,0,0,,teď vyzbrojovaly jeho nepřátele.
+Dialogue: 0,0:13:17.98,0:13:21.98,Doc,,0,0,0,,Diplomatické vztahy se\Nobnovily až po pádu komunismu.
+Dialogue: 0,0:13:22.03,0:13:26.42,Doc,,0,0,0,,V roce devatenáct set devadesát\Npřijel do Izraele Václav Havel.
+Dialogue: 0,0:13:26.47,0:13:30.66,Doc,,0,0,0,,A Izraelci si na tu pomoc z\Nroku čtyřicet osm vzpomněli.
+Dialogue: 0,0:13:30.71,0:13:35.04,Doc,,0,0,0,,Dnes patří Česká republika k\Nnejbližším spojencům Izraele v Evropě.
+Dialogue: 0,0:13:35.09,0:13:40.64,Doc,,0,0,0,,A tahle zvláštní kapitola historie\Nje jedním z důvodů, proč tomu tak je.
+Dialogue: 0,0:13:40.69,0:13:44.44,Doc,,0,0,0,,V Izraeli se na československou\Npomoc nezapomnělo.
+Dialogue: 0,0:13:44.49,0:13:48.56,Doc,,0,0,0,,Najdete ji v muzeích, v knihách,\Nve vzpomínkách veteránů.
+Dialogue: 0,0:13:48.61,0:13:53.48,Doc,,0,0,0,,V izraelském leteckém muzeu dodnes\Nstojí Avia S sto devadesát devět.
+Dialogue: 0,0:13:53.53,0:13:56.80,Doc,,0,0,0,,Podivný mezek, který se tak těžko ovládal.
+Dialogue: 0,0:13:56.85,0:13:59.74,Doc,,0,0,0,,Stroj, který vznikl z dílů\Npro Hitlerovo letectvo,
+Dialogue: 0,0:13:59.79,0:14:04.11,Doc,,0,0,0,,a nakonec nesl Davidovu hvězdu\Ndo první bitvy nového státu.
+Dialogue: 0,0:14:04.16,0:14:07.66,Doc,,0,0,0,,Málokterá zbraň má tak\Nzvláštní životní příběh.
+Dialogue: 0,0:14:07.71,0:14:10.38,Doc,,0,0,0,,Jeden exemplář Avie najdete i v Česku,
+Dialogue: 0,0:14:10.43,0:14:13.78,Doc,,0,0,0,,ve Vojenském historickém\Nmuzeu ve Kbelích u Prahy.
+Dialogue: 0,0:14:13.83,0:14:16.04,Doc,,0,0,0,,Málokdo z návštěvníků tuší,
+Dialogue: 0,0:14:16.09,0:14:20.14,Doc,,0,0,0,,že stejný typ letadla stál u\Nzrodu izraelského letectva.
+Dialogue: 0,0:14:20.19,0:14:23.52,Doc,,0,0,0,,Stroj, který doma považovali\Nza nouzové řešení,
+Dialogue: 0,0:14:23.57,0:14:26.49,Doc,,0,0,0,,se na druhém konci\NStředomoří stal legendou.
+Dialogue: 0,0:14:27.15,0:14:30.02,Doc,,0,0,0,,Zachránily tedy\Nčeskoslovenské zbraně Izrael?
+Dialogue: 0,0:14:30.07,0:14:33.96,Doc,,0,0,0,,Většina historiků se shoduje,\Nže sehrály klíčovou roli.
+Dialogue: 0,0:14:34.01,0:14:38.50,Doc,,0,0,0,,V prvních měsících války byla\NPraha jedním z mála míst na světě,
+Dialogue: 0,0:14:38.55,0:14:42.14,Doc,,0,0,0,,kde mohl nový stát legálně\Nkoupit zbraně ve velkém.
+Dialogue: 0,0:14:42.19,0:14:46.19,Doc,,0,0,0,,Pušky, kulomety, munice\Na letadla přišly v době,
+Dialogue: 0,0:14:46.24,0:14:48.44,Doc,,0,0,0,,kdy je Izrael zoufale potřeboval.
+Dialogue: 0,0:14:48.49,0:14:52.68,Doc,,0,0,0,,Ale motivy, které za tím\Nstály, nebyly vznešené.
+Dialogue: 0,0:14:52.73,0:14:55.48,Doc,,0,0,0,,Československo potřebovalo peníze.
+Dialogue: 0,0:14:55.53,0:14:57.44,Doc,,0,0,0,,Stalin chtěl oslabit Brity.
+Dialogue: 0,0:14:57.49,0:15:01.90,Doc,,0,0,0,,Nikdo v Praze ani v Moskvě nejednal\Nz lásky k židovskému státu.
+Dialogue: 0,0:15:01.95,0:15:03.94,Doc,,0,0,0,,A přesto výsledek změnil dějiny.
+Dialogue: 0,0:15:03.99,0:15:09.84,Doc,,0,0,0,,Země, která sama prožila okupaci a\Nválku, pomohla vzniknout jinému státu.
+Dialogue: 0,0:15:09.89,0:15:12.06,Doc,,0,0,0,,A o pár let později obrátila.
+Dialogue: 0,0:15:12.11,0:15:14.54,Doc,,0,0,0,,Stejný režim, který Izrael vyzbrojil,
+Dialogue: 0,0:15:14.59,0:15:19.06,Doc,,0,0,0,,pak posílal lidi na popraviště\Nza údajné sionistické spiknutí.
+Dialogue: 0,0:15:19.11,0:15:20.66,Doc,,0,0,0,,Je to příběh plný ironie.
+Dialogue: 0,0:15:20.71,0:15:25.56,Doc,,0,0,0,,Zbraně vyrobené pro nacistickou\Narmádu bránily stát lidí,
+Dialogue: 0,0:15:25.61,0:15:27.84,Doc,,0,0,0,,které nacisté chtěli vyhladit.
+Dialogue: 0,0:15:27.89,0:15:31.52,Doc,,0,0,0,,Stíhačka z dílů Messerschmittu\Nnesla Davidovu hvězdu.
+Dialogue: 0,0:15:31.57,0:15:35.36,Doc,,0,0,0,,A komunistická diktatura\Npomohla vzniknout demokracii,
+Dialogue: 0,0:15:35.41,0:15:37.12,Doc,,0,0,0,,kterou později nenáviděla.
+Dialogue: 0,0:15:37.17,0:15:38.78,Doc,,0,0,0,,Teď je řada na vás.
+Dialogue: 0,0:15:38.83,0:15:44.11,Doc,,0,0,0,,Věděli jste, že Izrael v roce devatenáct\Nset čtyřicet osm bránily zbraně z
+Dialogue: 0,0:15:44.16,0:15:44.68,Doc,,0,0,0,,Československa?
+Dialogue: 0,0:15:44.73,0:15:49.90,Doc,,0,0,0,,Napište mi do komentářů, co vás na\Ntomhle příběhu překvapilo nejvíc.
+Dialogue: 0,0:15:49.95,0:15:53.56,Doc,,0,0,0,,A pokud vás zajímají další\Npříběhy, dejte odběr.
+Dialogue: 0,0:15:53.61,0:15:55.11,Doc,,0,0,0,,Díky, že jste se dívali.

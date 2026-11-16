@@ -1,0 +1,23 @@
+{
+ "squad": [
+  "s_soldier/1",
+  "s_soldier/2",
+  "s_sniper/3",
+  "s_sniper/4"
+ ],
+ "afghan": [
+  "s_mountains/5",
+  "s_mountains/6"
+ ],
+ "svd": [
+  "s_sniper/1",
+  "s_sniper/6"
+ ],
+ "plan": [
+  "c_soviet_army/3"
+ ],
+ "ukraine": [
+  "s_war/2"
+ ],
+ "_generic": []
+}

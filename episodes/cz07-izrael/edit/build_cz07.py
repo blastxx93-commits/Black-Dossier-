@@ -10,14 +10,14 @@ from aus_kit import P, ch, hf, cta
 
 AI = lambda *n: ["ai:" + x for x in n]  # noqa: E731
 PHOTOS = {
-    "avia": ["avia199", "iaf_museum", "kbely"] + AI("ai_avia_flight", "ai_pilot_cockpit", "ai_dismantled_fighter", "ai_museum_avia"),
+    "avia": ["avia199", "x_israel_1948_czech", "iaf_museum", "kbely"] + AI("ai_avia_flight", "ai_pilot_cockpit", "ai_dismantled_fighter", "ai_museum_avia"),
     "war": ["israel_1948", "haifa_1948"] + AI("ai_haganah_rifles", "ai_egypt_column"),
     "people": ["holocaust_ships", "ben_gurion"],
-    "weapons": ["mauser_cz", "mg34"] + AI("ai_rifle_crates", "ai_ammo_crates"),
+    "weapons": ["mauser_cz", "mg34", "x_sa23", "x_uzi", "x_zb26", "x_museum_mg", "x_weapons_museum"] + AI("ai_rifle_crates", "ai_ammo_crates"),
     "prague": ["praha_1948"] + AI("ai_negotiation"),
     "balak": ["zatec", "c54"] + AI("ai_zatec_night", "ai_plane_over_sea", "ai_onion_ship"),
     "spitfire": ["spitfire_cz"] + AI("ai_spitfire_longrange"),
-    "training": AI("ai_training_cz"),
+    "training": ["x_czsl_army"] + AI("ai_training_cz"),
     "trial": ["slansky"] + AI("ai_courtroom_1952"),
     "later": ["havel_israel", "kbely", "iaf_museum"],
 }
@@ -26,7 +26,7 @@ GENERIC = CLIPS.pop("_generic", [])
 FALLBACK = {k: ["war", "weapons", "avia"] for k in PHOTOS}
 A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FALLBACK, ["war", "weapons", "avia"])
 A.CLIP_TARGET, A.ARCHIVE_OK, A.SPLIT_BY_SUBJECT = 0.45, True, True
-A.MAX_HOLD, A.KEEP = 11.0, 7.0
+A.MAX_HOLD, A.KEEP = 14.0, 9.0
 chapters = []
 
 c = ch("ch00_hook", 0.6)
