@@ -1,0 +1,97 @@
+[
+ {
+  "id": "g_spec",
+  "kind": "spec",
+  "dur": 10,
+  "title": "SVD Dragunov",
+  "sub": "Jevgenij Dragunov · Iževsk",
+  "rows": [
+   [
+    "Ráže",
+    "7,62 × 54 mm R"
+   ],
+   [
+    "Hmotnost",
+    "≈ 4,3 kg"
+   ],
+   [
+    "Zásobník",
+    "10 nábojů"
+   ],
+   [
+    "Optika",
+    "PSO-1 (4×)"
+   ],
+   [
+    "Zavedení",
+    "1963"
+   ]
+  ],
+  "stamp": "Bodák ano"
+ },
+ {
+  "id": "g_compare",
+  "kind": "compare",
+  "dur": 10,
+  "label": "Dvě pojetí",
+  "names": [
+   "Západní odstřelovač",
+   "Dragunov (SSSR)"
+  ],
+  "rows": [
+   [
+    "Kde",
+    "za frontou",
+    "v každé četě",
+    null
+   ],
+   [
+    "Závěr",
+    "ruční",
+    "samonabíjecí",
+    null
+   ],
+   [
+    "Výcvik",
+    "dlouhý",
+    "kratší",
+    null
+   ],
+   [
+    "Počet",
+    "pár mužů",
+    "tisíce",
+    1
+   ]
+  ]
+ },
+ {
+  "id": "g_timeline",
+  "kind": "timeline",
+  "dur": 9,
+  "label": "Šedesát let ve službě",
+  "title": "Cesta Dragunova",
+  "events": [
+   [
+    1963,
+    "zavedení v SSSR"
+   ],
+   [
+    1979,
+    "Afghánistán"
+   ],
+   [
+    "70. léta",
+    "ČSLA"
+   ],
+   [
+    "2000+",
+    "Západ zavádí DMR"
+   ],
+   [
+    2022,
+    "Ukrajina"
+   ]
+  ]
+ }
+]

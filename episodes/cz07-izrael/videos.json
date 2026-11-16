@@ -1,0 +1,130 @@
+{
+ "defaults": {
+  "n": 5,
+  "clip": 8,
+  "per_film": 2
+ },
+ "shots": [
+  {
+   "id": "c_palestine",
+   "query": "Palestine",
+   "alt": [
+    "Haganah",
+    "Jewish army",
+    "Israel war"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1947,
+    1949
+   ],
+   "sources": [
+    "archive"
+   ],
+   "n": 5
+  },
+  {
+   "id": "c_israel_state",
+   "query": "Israel",
+   "alt": [
+    "new state Israel",
+    "Tel Aviv",
+    "Ben Gurion"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1948,
+    1949
+   ],
+   "sources": [
+    "archive"
+   ],
+   "n": 5
+  },
+  {
+   "id": "c_czech_1948",
+   "query": "Czechoslovakia",
+   "alt": [
+    "Prague",
+    "Czech coup",
+    "communists Prague"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1948,
+    1952
+   ],
+   "sources": [
+    "archive"
+   ],
+   "n": 5
+  },
+  {
+   "id": "c_refugees",
+   "query": "refugees ship",
+   "alt": [
+    "immigrants ship",
+    "displaced persons"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1946,
+    1949
+   ],
+   "sources": [
+    "archive"
+   ],
+   "n": 5
+  },
+  {
+   "id": "s_plane_night",
+   "query": "old plane night",
+   "alt": [
+    "propeller plane night",
+    "vintage aircraft"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "commons"
+   ],
+   "n": 6
+  },
+  {
+   "id": "s_sea",
+   "query": "Mediterranean sea",
+   "alt": [
+    "sea waves sunset",
+    "coast aerial"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "commons"
+   ],
+   "n": 6
+  },
+  {
+   "id": "s_prague",
+   "query": "Prague old town",
+   "alt": [
+    "Prague aerial",
+    "Prague night"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "commons"
+   ],
+   "n": 6
+  }
+ ]
+}

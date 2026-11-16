@@ -1,0 +1,23 @@
+{
+ "lang": "cs",
+ "tagline": "Skutečná historie zbraní, se zdroji.",
+ "compact_credits": true,
+ "credits_file": "episodes/cz07-izrael/publish/creditos_completos.txt",
+ "intro": "Jak je možné, že komunistické Československo v roce 1948 vyzbrojilo nový Stát Izrael? Pušky, kulomety, miliony nábojů, stíhačky Avia S-199 a Spitfiry, tajná letecká operace Balak ze Žatce – a o pár let později proces se Slánským.\n\nVideo je historický dokument založený na publikovaných zdrojích. Nejde o návod k výrobě ani úpravám zbraní. Některé scény jsou ilustrace vytvořené AI.",
+ "chapters": [
+  "Messerschmitty s Davidovou hvězdou",
+  "Stát bez zbraní",
+  "Proč Praha",
+  "Pušky, kulomety a mezek",
+  "Operace Balak",
+  "Květen 1948",
+  "Od pomoci k procesu",
+  "Dlouhé mlčení",
+  "Odpověď"
+ ],
+ "sources": [
+  "Wikipedia (cs/en): Czechoslovak arms to Israel 1947–1949; Avia S-199; Operation Balak; Slánský trial",
+  "Vojenský historický ústav Praha",
+  "Ehud Avriel: Open the Gates (paměti)"
+ ]
+}

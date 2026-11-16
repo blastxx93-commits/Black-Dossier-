@@ -1,0 +1,23 @@
+{
+ "lang": "cs",
+ "tagline": "Skutečná historie zbraní, se zdroji.",
+ "compact_credits": true,
+ "credits_file": "episodes/cz06-dragunov/publish/creditos_completos.txt",
+ "intro": "Proč má sovětská odstřelovací puška Dragunov bodák? Protože nikdy nebyla určena pro osamělé odstřelovače. Příběh zbraně, kterou Sověti dali do každé čety – o desítky let dřív, než Západ zavedl určené střelce.\n\nVideo je historický dokument založený na publikovaných zdrojích. Nejde o návod k výrobě ani úpravám zbraní. Některé scény jsou ilustrace vytvořené AI.",
+ "chapters": [
+  "Odstřelovací puška s bodákem",
+  "Válka, na kterou se Sověti chystali",
+  "Sportovní střelec z Iževsku",
+  "Uvnitř Dragunova",
+  "K čemu skutečně sloužil",
+  "Afghánistán a svět",
+  "Dragunov v Československu",
+  "Dvě pojetí války",
+  "Odpověď"
+ ],
+ "sources": [
+  "Wikipedia (cs/en): SVD Dragunov; Designated marksman rifle; Jevgenij Dragunov",
+  "Kalashnikov Concern: historie SVD",
+  "Vojenský historický ústav Praha"
+ ]
+}

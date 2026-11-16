@@ -1,0 +1,152 @@
+{
+ "defaults": {
+  "n": 5,
+  "sources": [
+   "commons",
+   "openverse",
+   "loc"
+  ]
+ },
+ "shots": [
+  {
+   "id": "svd",
+   "query": "Dragunov SVD",
+   "alt": [
+    "SVD rifle",
+    "Dragunov sniper rifle",
+    "SVD Dragunov museum",
+    "SVD-63"
+   ],
+   "n": 15
+  },
+  {
+   "id": "svd_soldier",
+   "query": "soldier Dragunov",
+   "alt": [
+    "Russian soldier SVD",
+    "Soviet soldier SVD",
+    "Dragunov marksman"
+   ],
+   "n": 12
+  },
+  {
+   "id": "svd_afghan",
+   "query": "Soviet Afghanistan 1980s",
+   "alt": [
+    "Soviet war in Afghanistan",
+    "Soviet soldiers Afghanistan",
+    "mujahideen rifle"
+   ],
+   "n": 12
+  },
+  {
+   "id": "pso1",
+   "query": "PSO-1 scope",
+   "alt": [
+    "PSO-1 sight",
+    "Dragunov scope"
+   ],
+   "n": 5
+  },
+  {
+   "id": "dragunov_person",
+   "query": "Yevgeny Dragunov",
+   "alt": [
+    "Evgeny Dragunov"
+   ],
+   "n": 3
+  },
+  {
+   "id": "izhevsk",
+   "query": "Izhevsk",
+   "alt": [
+    "Izhmash",
+    "Kalashnikov Concern"
+   ],
+   "n": 6
+  },
+  {
+   "id": "mosin",
+   "query": "Mosin-Nagant",
+   "alt": [
+    "Mosin Nagant sniper",
+    "7.62x54R"
+   ],
+   "n": 6
+  },
+  {
+   "id": "soviet_army",
+   "query": "Soviet army 1970s",
+   "alt": [
+    "Soviet motor rifle troops",
+    "BMP-1 infantry",
+    "Soviet army exercise"
+   ],
+   "n": 12
+  },
+  {
+   "id": "type79",
+   "query": "Type 85 sniper rifle",
+   "alt": [
+    "NDM-86",
+    "Chinese Dragunov"
+   ],
+   "n": 4
+  },
+  {
+   "id": "psl",
+   "query": "PSL rifle",
+   "alt": [
+    "Romanian PSL",
+    "Al-Kadesih"
+   ],
+   "n": 5
+  },
+  {
+   "id": "ukraine_svd",
+   "query": "Ukrainian sniper",
+   "alt": [
+    "Ukrainian soldier SVD",
+    "Ukraine war marksman"
+   ],
+   "n": 10
+  },
+  {
+   "id": "czech_svd",
+   "query": "Czech army sniper",
+   "alt": [
+    "Armáda ČR odstřelovač",
+    "ČSLA odstřelovač",
+    "Czech sniper rifle"
+   ],
+   "n": 8
+  },
+  {
+   "id": "dmr",
+   "query": "designated marksman rifle",
+   "alt": [
+    "M110 SASS",
+    "L129A1",
+    "marksman rifle NATO"
+   ],
+   "n": 8
+  },
+  {
+   "id": "sniper_ww2",
+   "query": "Soviet sniper WWII",
+   "alt": [
+    "Stalingrad sniper",
+    "Soviet snipers 1943"
+   ],
+   "n": 8
+  },
+  {
+   "id": "museum_svd",
+   "query": "military museum Dragunov",
+   "alt": [
+    "army museum sniper rifles"
+   ],
+   "n": 5
+  }
+ ]
+}

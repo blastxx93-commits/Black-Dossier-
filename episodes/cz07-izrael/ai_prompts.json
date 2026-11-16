@@ -1,0 +1,68 @@
+{
+ "model": "black-forest-labs/flux-1.1-pro-ultra",
+ "raw": true,
+ "n": 1,
+ "style": ", photorealistic historical documentary image, cinematic lighting, muted warm colours, fine film grain, realistic period detail, no readable text, no logos, no insignia close-ups",
+ "shots": [
+  {
+   "id": "ai_avia_flight",
+   "prompt": "Four 1948 propeller fighter planes resembling WWII Messerschmitt fighters flying low over a Mediterranean coastline, Star of David roundels on the fuselage, dramatic sky"
+  },
+  {
+   "id": "ai_pilot_cockpit",
+   "prompt": "A 1948 fighter pilot seen from behind in an old propeller fighter cockpit, leather helmet, coastline below"
+  },
+  {
+   "id": "ai_haganah_rifles",
+   "prompt": "1948 Jewish fighters seen from behind with old bolt-action rifles behind sandbags in a dusty Middle Eastern village"
+  },
+  {
+   "id": "ai_rifle_crates",
+   "prompt": "Open wooden crates of new bolt-action Mauser rifles in grease paper in a 1948 warehouse, no readable text"
+  },
+  {
+   "id": "ai_ammo_crates",
+   "prompt": "Stacks of ammunition boxes in a 1948 Czechoslovak military depot, workers seen from behind"
+  },
+  {
+   "id": "ai_zatec_night",
+   "prompt": "Night at a 1948 Central European airfield, a large four-engine transport plane being loaded with crates under floodlights, men seen from behind"
+  },
+  {
+   "id": "ai_plane_over_sea",
+   "prompt": "A 1948 four-engine transport plane flying over the Mediterranean at dawn"
+  },
+  {
+   "id": "ai_dismantled_fighter",
+   "prompt": "Mechanics in 1948 seen from behind assembling a dismantled WWII-style fighter plane in a hangar, wings on trestles"
+  },
+  {
+   "id": "ai_onion_ship",
+   "prompt": "A 1948 cargo ship in a Yugoslav harbour being loaded with sacks of onions hiding wooden crates, dock workers seen from behind"
+  },
+  {
+   "id": "ai_negotiation",
+   "prompt": "Two men in 1948 suits seen from behind shaking hands across a desk in a Prague office, documents on the table, no readable text"
+  },
+  {
+   "id": "ai_spitfire_longrange",
+   "prompt": "A 1948 Spitfire fighter with extra fuel tanks taking off from a grass airfield in Moravia, dawn"
+  },
+  {
+   "id": "ai_egypt_column",
+   "prompt": "A 1948 military vehicle column on a coastal desert road seen from a high distance, dust, no insignia visible"
+  },
+  {
+   "id": "ai_training_cz",
+   "prompt": "1948 volunteers in training on a Czech military range, seen from behind with rifles, forest behind"
+  },
+  {
+   "id": "ai_courtroom_1952",
+   "prompt": "A 1952 communist show trial courtroom, defendants seen from behind facing judges, microphones, grim light, no readable text"
+  },
+  {
+   "id": "ai_museum_avia",
+   "prompt": "A WWII-style propeller fighter displayed in a large aviation museum hangar, visitors seen from behind"
+  }
+ ]
+}

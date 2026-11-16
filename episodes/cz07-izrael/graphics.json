@@ -1,0 +1,82 @@
+[
+ {
+  "id": "g_map",
+  "kind": "map",
+  "dur": 8,
+  "label": "Operace Balak · 1948",
+  "title": "Z Žatce do světa",
+  "pins": [
+   [
+    "Žatec",
+    13.55,
+    50.33
+   ],
+   [
+    "Praha",
+    14.42,
+    50.08,
+    "b"
+   ]
+  ]
+ },
+ {
+  "id": "g_list",
+  "kind": "spec",
+  "dur": 10,
+  "label": "Co Praha prodala",
+  "title": "Zbraně pro Izrael",
+  "sub": "1948–1949, podle dostupných pramenů",
+  "rows": [
+   [
+    "Pušky",
+    "desítky tisíc"
+   ],
+   [
+    "Kulomety",
+    "tisíce"
+   ],
+   [
+    "Náboje",
+    "desítky milionů"
+   ],
+   [
+    "Stíhačky Avia S-199",
+    "25"
+   ],
+   [
+    "Spitfiry",
+    "desítky"
+   ]
+  ],
+  "stamp": "Tajné"
+ },
+ {
+  "id": "g_timeline",
+  "kind": "timeline",
+  "dur": 10,
+  "label": "Od pomoci k procesu",
+  "title": "Praha a Izrael",
+  "events": [
+   [
+    "1/1948",
+    "první smlouva"
+   ],
+   [
+    "5/1948",
+    "vznik Izraele"
+   ],
+   [
+    1952,
+    "proces se Slánským"
+   ],
+   [
+    1967,
+    "přerušení styků"
+   ],
+   [
+    1990,
+    "Havel v Izraeli"
+   ]
+  ]
+ }
+]

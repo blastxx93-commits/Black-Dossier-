@@ -1,0 +1,68 @@
+{
+ "model": "black-forest-labs/flux-1.1-pro-ultra",
+ "raw": true,
+ "n": 1,
+ "style": ", photorealistic historical documentary image, cinematic lighting, muted warm colours, fine film grain, realistic period detail, no readable text, no logos, no insignia close-ups",
+ "shots": [
+  {
+   "id": "ai_bayonet_svd",
+   "prompt": "A long Soviet semi-automatic marksman rifle with skeleton wooden stock, telescopic sight and a bayonet fixed under the barrel, lying on a table, museum light"
+  },
+  {
+   "id": "ai_squad_btr",
+   "prompt": "A 1970s Soviet motor rifle squad dismounting from an armored personnel carrier in a field, one soldier seen from behind carrying a long rifle with a scope"
+  },
+  {
+   "id": "ai_marksman_attack",
+   "prompt": "A Soviet soldier seen from behind advancing with infantry across a field while carrying a long scoped rifle, smoke, 1970s exercise"
+  },
+  {
+   "id": "ai_izhevsk_factory",
+   "prompt": "A 1960s Soviet arms factory hall in Izhevsk, workers seen from behind assembling rifles with wooden stocks, snowy windows"
+  },
+  {
+   "id": "ai_test_snow",
+   "prompt": "A 1960s Soviet rifle trial in deep snow, officers in fur hats seen from behind watching a soldier fire a scoped rifle"
+  },
+  {
+   "id": "ai_target_shooter",
+   "prompt": "A 1950s sport shooting range in Russia, a target shooter seen from behind aiming a precision rifle at paper targets"
+  },
+  {
+   "id": "ai_scope_view",
+   "prompt": "View through an old Soviet rifle telescopic sight with chevron reticle and rangefinder scale, distant figure on a hill, no readable text"
+  },
+  {
+   "id": "ai_machinegun_nest",
+   "prompt": "A NATO machine gun position seen from a great distance across a field, through haze, 1980s Europe"
+  },
+  {
+   "id": "ai_afghan_ridge",
+   "prompt": "A Soviet soldier seen from behind lying on a rocky ridge in Afghanistan with a long scoped rifle, valley below, 1980s"
+  },
+  {
+   "id": "ai_mujahideen_ridge",
+   "prompt": "Afghan fighters seen from far behind on a mountain ridge in the 1980s, rifles, dust"
+  },
+  {
+   "id": "ai_csla_range",
+   "prompt": "A 1980s Czechoslovak army shooting range, a soldier seen from behind lying prone with a scoped semi-automatic rifle"
+  },
+  {
+   "id": "ai_ukraine_trench",
+   "prompt": "A soldier seen from behind in a muddy trench in Ukraine in winter aiming a long scoped rifle, ruined trees"
+  },
+  {
+   "id": "ai_two_doctrines",
+   "prompt": "Two rifles side by side on a dark table: a bolt-action sniper rifle and a long semi-automatic rifle with a skeleton stock, dramatic light"
+  },
+  {
+   "id": "ai_soviet_planners",
+   "prompt": "Soviet generals in 1950s uniforms seen from behind studying a large map of Central Europe, smoky room"
+  },
+  {
+   "id": "ai_cartridges_long",
+   "prompt": "Long rimmed rifle cartridges standing on parchment with faint technical drawings, studio light"
+  }
+ ]
+}

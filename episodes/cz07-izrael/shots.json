@@ -1,0 +1,151 @@
+{
+ "defaults": {
+  "n": 5,
+  "sources": [
+   "commons",
+   "openverse",
+   "loc"
+  ]
+ },
+ "shots": [
+  {
+   "id": "avia199",
+   "query": "Avia S-199",
+   "alt": [
+    "Avia S-199 Israel",
+    "S-199 Mezek",
+    "Avia S-199 museum"
+   ],
+   "n": 12
+  },
+  {
+   "id": "spitfire_cz",
+   "query": "Spitfire Israel 1948",
+   "alt": [
+    "Israeli Air Force Spitfire",
+    "Spitfire LF Mk IX Czechoslovakia"
+   ],
+   "n": 8
+  },
+  {
+   "id": "mauser_cz",
+   "query": "Mauser vz. 24",
+   "alt": [
+    "Czech Mauser rifle",
+    "Kar98k 1948 Israel",
+    "Mauser rifle"
+   ],
+   "n": 8
+  },
+  {
+   "id": "mg34",
+   "query": "MG 34",
+   "alt": [
+    "MG 34 machine gun",
+    "MG34 museum"
+   ],
+   "n": 5
+  },
+  {
+   "id": "israel_1948",
+   "query": "1948 Arab–Israeli War",
+   "alt": [
+    "Haganah 1948",
+    "Israel War of Independence",
+    "Palmach 1948"
+   ],
+   "n": 15
+  },
+  {
+   "id": "ben_gurion",
+   "query": "David Ben-Gurion 1948",
+   "alt": [
+    "Declaration of Independence Israel 1948",
+    "Ben-Gurion"
+   ],
+   "n": 5
+  },
+  {
+   "id": "zatec",
+   "query": "Žatec",
+   "alt": [
+    "Žatec letiště",
+    "Zatec airport",
+    "Žatec náměstí"
+   ],
+   "n": 6
+  },
+  {
+   "id": "c54",
+   "query": "C-54 Skymaster",
+   "alt": [
+    "Douglas C-54",
+    "Operation Balak"
+   ],
+   "n": 6
+  },
+  {
+   "id": "holocaust_ships",
+   "query": "Exodus 1947 ship",
+   "alt": [
+    "Aliyah Bet ship",
+    "immigrants Haifa 1948"
+   ],
+   "n": 8
+  },
+  {
+   "id": "praha_1948",
+   "query": "Prague 1948",
+   "alt": [
+    "February 1948 Prague",
+    "Únor 1948",
+    "Komunistický převrat 1948"
+   ],
+   "n": 8
+  },
+  {
+   "id": "slansky",
+   "query": "Slánský trial",
+   "alt": [
+    "Proces se Slánským",
+    "Rudolf Slánský"
+   ],
+   "n": 5
+  },
+  {
+   "id": "havel_israel",
+   "query": "Václav Havel Israel 1990",
+   "alt": [
+    "Havel Jerusalem"
+   ],
+   "n": 3
+  },
+  {
+   "id": "iaf_museum",
+   "query": "Israeli Air Force Museum",
+   "alt": [
+    "Hatzerim museum",
+    "IAF museum Avia"
+   ],
+   "n": 6
+  },
+  {
+   "id": "kbely",
+   "query": "Letecké muzeum Kbely",
+   "alt": [
+    "Kbely museum",
+    "Vojenské historické muzeum Kbely"
+   ],
+   "n": 6
+  },
+  {
+   "id": "haifa_1948",
+   "query": "Haifa 1948",
+   "alt": [
+    "Tel Aviv 1948",
+    "Jaffa 1948"
+   ],
+   "n": 6
+  }
+ ]
+}
