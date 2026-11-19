@@ -1,0 +1,209 @@
+{
+ "defaults": {
+  "n": 4,
+  "clip": 8,
+  "per_film": 2,
+  "years": [
+   1900,
+   2030
+  ],
+  "sources": [
+   "commons",
+   "archive"
+  ]
+ },
+ "shots": [
+  {
+   "id": "v_groupb",
+   "query": "Group B rally",
+   "alt": [
+    "Gruppe B Rallye",
+    "Eifel Rallye Festival",
+    "rally historic group B"
+   ],
+   "sources": [
+    "commons",
+    "archive"
+   ],
+   "years": [
+    1900,
+    2030
+   ],
+   "n": 8,
+   "per_film": 2
+  },
+  {
+   "id": "v_quattro",
+   "query": "Audi Quattro rally",
+   "alt": [
+    "Audi Sport Quattro S1",
+    "quattro rallye"
+   ],
+   "sources": [
+    "commons",
+    "archive"
+   ],
+   "years": [
+    1900,
+    2030
+   ],
+   "n": 5,
+   "per_film": 2
+  },
+  {
+   "id": "v_205",
+   "query": "Peugeot 205 T16",
+   "alt": [
+    "205 Turbo 16 rally"
+   ],
+   "sources": [
+    "commons",
+    "archive"
+   ],
+   "years": [
+    1900,
+    2030
+   ],
+   "n": 4,
+   "per_film": 2
+  },
+  {
+   "id": "v_deltas4",
+   "query": "Lancia Delta S4",
+   "alt": [
+    "Delta S4 rally"
+   ],
+   "sources": [
+    "commons",
+    "archive"
+   ],
+   "years": [
+    1900,
+    2030
+   ],
+   "n": 4,
+   "per_film": 2
+  },
+  {
+   "id": "v_037",
+   "query": "Lancia 037",
+   "alt": [
+    "Lancia 037 rally"
+   ],
+   "sources": [
+    "commons",
+    "archive"
+   ],
+   "years": [
+    1900,
+    2030
+   ],
+   "n": 4,
+   "per_film": 2
+  },
+  {
+   "id": "v_6r4",
+   "query": "Metro 6R4",
+   "alt": [
+    "MG Metro 6R4"
+   ],
+   "sources": [
+    "commons",
+    "archive"
+   ],
+   "years": [
+    1900,
+    2030
+   ],
+   "n": 4,
+   "per_film": 2
+  },
+  {
+   "id": "v_rs200",
+   "query": "Ford RS200",
+   "alt": [
+    "RS200 rallycross"
+   ],
+   "sources": [
+    "commons",
+    "archive"
+   ],
+   "years": [
+    1900,
+    2030
+   ],
+   "n": 4,
+   "per_film": 2
+  },
+  {
+   "id": "v_r5",
+   "query": "Renault 5 Turbo",
+   "alt": [
+    "R5 Turbo rally",
+    "Renault 5 Maxi Turbo"
+   ],
+   "sources": [
+    "commons",
+    "archive"
+   ],
+   "years": [
+    1900,
+    2030
+   ],
+   "n": 4,
+   "per_film": 2
+  },
+  {
+   "id": "v_manta",
+   "query": "Opel Manta 400",
+   "alt": [
+    "Manta 400 rally"
+   ],
+   "sources": [
+    "commons",
+    "archive"
+   ],
+   "years": [
+    1900,
+    2030
+   ],
+   "n": 3,
+   "per_film": 2
+  },
+  {
+   "id": "v_959",
+   "query": "Porsche 959",
+   "alt": [
+    "Porsche 959 Dakar"
+   ],
+   "sources": [
+    "commons",
+    "archive"
+   ],
+   "years": [
+    1900,
+    2030
+   ],
+   "n": 3,
+   "per_film": 2
+  },
+  {
+   "id": "v_rally_crowd",
+   "query": "rally spectators",
+   "alt": [
+    "rally crowd",
+    "rallye zuschauer"
+   ],
+   "sources": [
+    "commons",
+    "archive"
+   ],
+   "years": [
+    1900,
+    2030
+   ],
+   "n": 4,
+   "per_film": 2
+  }
+ ]
+}

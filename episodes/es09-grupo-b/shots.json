@@ -1,0 +1,166 @@
+{
+ "defaults": {
+  "n": 4,
+  "sources": [
+   "commons",
+   "openverse",
+   "loc"
+  ]
+ },
+ "shots": [
+  {
+   "id": "m_r5turbo",
+   "query": "Renault 5 Turbo",
+   "alt": [
+    "Renault 5 Maxi Turbo",
+    "Renault 5 Turbo rally",
+    "R5 Turbo 2"
+   ],
+   "n": 10
+  },
+  {
+   "id": "m_r5copa",
+   "query": "Renault 5 Copa Turbo",
+   "alt": [
+    "Renault 5 Alpine Turbo",
+    "R5 Copa Turbo"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_manta400",
+   "query": "Opel Manta 400",
+   "alt": [
+    "Opel Manta B 400 rally",
+    "Manta 400"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_celica_tct",
+   "query": "Toyota Celica Twin Cam Turbo",
+   "alt": [
+    "Toyota Celica TA64 rally",
+    "Celica Group B Safari"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_metro6r4",
+   "query": "MG Metro 6R4",
+   "alt": [
+    "Metro 6R4 rally",
+    "MG 6R4"
+   ],
+   "n": 10
+  },
+  {
+   "id": "m_rs200",
+   "query": "Ford RS200",
+   "alt": [
+    "Ford RS200 rally",
+    "RS200 rallycross"
+   ],
+   "n": 10
+  },
+  {
+   "id": "m_lancia037",
+   "query": "Lancia 037",
+   "alt": [
+    "Lancia Rally 037",
+    "Lancia 037 Martini"
+   ],
+   "n": 10
+  },
+  {
+   "id": "m_quattro",
+   "query": "Audi Quattro rally",
+   "alt": [
+    "Audi Sport Quattro S1",
+    "Audi Quattro A2",
+    "Audi Sport Quattro S1 E2"
+   ],
+   "n": 12
+  },
+  {
+   "id": "h_mouton",
+   "query": "Michèle Mouton",
+   "alt": [
+    "Michele Mouton Audi"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_205t16",
+   "query": "Peugeot 205 T16",
+   "alt": [
+    "Peugeot 205 Turbo 16 rally",
+    "205 T16 Evo 2"
+   ],
+   "n": 12
+  },
+  {
+   "id": "m_deltas4",
+   "query": "Lancia Delta S4",
+   "alt": [
+    "Lancia Delta S4 Martini",
+    "Delta S4 Stradale"
+   ],
+   "n": 12
+  },
+  {
+   "id": "h_toivonen",
+   "query": "Henri Toivonen",
+   "alt": [
+    "Toivonen Lancia"
+   ],
+   "n": 3
+  },
+  {
+   "id": "m_bx4tc",
+   "query": "Citroën BX 4TC",
+   "alt": [
+    "Citroen BX 4TC rally"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_porsche959",
+   "query": "Porsche 959",
+   "alt": [
+    "Porsche 959 Dakar",
+    "Porsche 959 Paris Dakar"
+   ],
+   "n": 12
+  },
+  {
+   "id": "h_rally_crowd",
+   "query": "rally spectators 1980s",
+   "alt": [
+    "rally crowd forest",
+    "rallye spectators",
+    "Rally de Portugal spectators"
+   ],
+   "n": 8
+  },
+  {
+   "id": "h_pikes",
+   "query": "Pikes Peak Audi",
+   "alt": [
+    "Pikes Peak hill climb",
+    "Audi Sport Quattro Pikes Peak"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_group_b",
+   "query": "Group B rally car",
+   "alt": [
+    "Group B rally",
+    "rallye Gruppe B",
+    "Eifel Rallye Festival Group B"
+   ],
+   "n": 12
+  }
+ ]
+}

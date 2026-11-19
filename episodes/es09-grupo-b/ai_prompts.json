@@ -1,0 +1,32 @@
+{
+ "model": "black-forest-labs/flux-1.1-pro-ultra",
+ "raw": true,
+ "n": 1,
+ "style": ", 1980s documentary photograph, rich colour film, grain, period-correct cars and clothes, realistic, cinematic, no logos, no sponsor decals, no readable text, no brand names",
+ "shots": [
+  {
+   "id": "ai_wall_of_people",
+   "prompt": "A 1980s rally stage on a forest gravel road, a wall of spectators standing on the road parting at the last second as a boxy rally car flies sideways through dust, no readable text, no readable text, no logos"
+  },
+  {
+   "id": "ai_flames",
+   "prompt": "Night rally stage 1985, flames shooting from the exhaust of a boxy turbo rally car under lights, spectators silhouettes, no readable text, no logos"
+  },
+  {
+   "id": "ai_safari",
+   "prompt": "A 1984 rally coupe splashing through a muddy river crossing in the Kenyan savannah, dust, acacia trees, no readable text, no logos"
+  },
+  {
+   "id": "ai_desert",
+   "prompt": "A 1986 white sports car racing through Sahara dunes during a desert rally raid, dust plume, no readable text, no logos"
+  },
+  {
+   "id": "ai_service_park",
+   "prompt": "1985 rally service park in a forest clearing, mechanics working on boxy rally cars with huge wings, vans and tools, no readable text, no logos"
+  },
+  {
+   "id": "ai_homologation",
+   "prompt": "A factory hall in 1984 with a long row of identical small boxy hatchbacks with wide wheel arches waiting for delivery, no readable text, no logos"
+  }
+ ]
+}
