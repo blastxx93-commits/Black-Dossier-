@@ -1,0 +1,131 @@
+[     0s] es10-fortuna80: 19 planos, limite 35.0 min
+[     0s] m_golfgti: 'Volkswagen Golf GTI Mk1'
+[     0s]     commons: 10 candidatos em 0.4s
+[    14s]     openverse: 11 candidatos em 13.1s
+[    48s]   ! www.loc.gov: HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out. (read timeout=15)
+[    48s]     loc: 0 candidatos em 34.1s
+[    66s]   -> 12 imagens
+[    66s] m_205gti: 'Peugeot 205 GTI'
+[    66s]     commons: 12 candidatos em 0.4s
+[    78s]     openverse: 10 candidatos em 11.6s
+[    96s]     loc: 0 candidatos em 17.9s
+[   104s]   -> 12 imagens
+[   104s] m_r5copa: 'Renault 5 Copa Turbo'
+[   104s]     commons: 3 candidatos em 0.3s
+[   118s]     openverse: 12 candidatos em 14.1s
+[   128s]     loc: 0 candidatos em 10.2s
+[   134s]   -> 8 imagens
+[   134s] m_supercinco: 'Renault 5 GT Turbo'
+[   134s]     commons: 12 candidatos em 0.5s
+[   167s]   ! api.openverse.org: 504 Server Error: Gateway Timeout for url: https://api.openverse.org/v1/images/?q=Renault+5+GT+Turbo&license=pdm%2Ccc0%2Cby%2Cby-sa&page_size=12&mature=false
+[   167s]     openverse: 0 candidatos em 32.6s
+[   191s]   ! www.loc.gov: 429 rate limit
+[   191s]     loc: 0 candidatos em 24.0s
+[   198s]   -> 12 imagens
+[   198s] m_r5turbo2: 'Renault 5 Turbo 2'
+[   199s]     commons: 12 candidatos em 0.4s
+[   211s]     openverse: 12 candidatos em 12.6s
+[   235s]   ! www.loc.gov: 429 rate limit
+[   235s]     loc: 0 candidatos em 24.0s
+[   243s]   -> 12 imagens
+[   243s] m_sierracos: 'Ford Sierra RS Cosworth'
+[   244s]     commons: 12 candidatos em 0.9s
+[   253s]     openverse: 9 candidatos em 8.8s
+[   277s]   ! www.loc.gov: 429 rate limit
+[   277s]   ! www.loc.gov desligado nesta execucao (3 falhas seguidas)
+[   277s]     loc: 0 candidatos em 24.0s
+[   285s]   -> 12 imagens
+[   285s] m_rs500: 'Ford Sierra RS500 Cosworth'
+[   286s]     commons: 12 candidatos em 0.6s
+[   292s]     openverse: 12 candidatos em 6.0s
+[   292s]     loc: 0 candidatos em 0.0s
+[   300s]   -> 10 imagens
+[   300s] m_m3e30: 'BMW M3 E30'
+[   300s]     commons: 11 candidatos em 0.3s
+[   305s]     openverse: 12 candidatos em 4.7s
+[   305s]     loc: 0 candidatos em 0.0s
+[   313s]   -> 12 imagens
+[   313s] m_integrale: 'Lancia Delta Integrale'
+[   314s]     commons: 12 candidatos em 0.4s
+[   323s]     openverse: 12 candidatos em 9.3s
+[   323s]     loc: 0 candidatos em 0.0s
+[   331s]   -> 12 imagens
+[   331s] m_190evo: 'Mercedes-Benz 190 E 2.5-16 Evolution II'
+[   331s]     commons: 11 candidatos em 0.3s
+[   336s]     openverse: 10 candidatos em 5.1s
+[   336s]     loc: 0 candidatos em 0.0s
+[   369s]     falhou download (openverse) em 30.0s
+[   402s]     falhou download (openverse) em 30.0s
+[   432s]     falhou download (openverse) em 30.0s
+[   433s]   -> 10 imagens
+[   433s] m_f40: 'Ferrari F40'
+[   433s]     commons: 12 candidatos em 0.2s
+[   440s]     openverse: 11 candidatos em 6.4s
+[   440s]     loc: 0 candidatos em 0.0s
+[   449s]   -> 14 imagens
+[   449s] m_f40lm: 'Ferrari F40 LM'
+[   449s]     commons: 11 candidatos em 0.4s
+[   453s]     openverse: 10 candidatos em 3.8s
+[   453s]     loc: 0 candidatos em 0.0s
+[   485s]     falhou download (openverse) em 30.0s
+[   487s]   -> 6 imagens
+[   487s] m_countach: 'Lamborghini Countach'
+[   487s]     commons: 12 candidatos em 0.3s
+[   495s]     openverse: 11 candidatos em 7.5s
+[   495s]     loc: 0 candidatos em 0.0s
+[   500s]   -> 8 imagens
+[   500s] m_quattro: 'Audi Quattro 1980'
+[   501s]     commons: 12 candidatos em 0.7s
+[   507s]     openverse: 10 candidatos em 6.9s
+[   507s]     loc: 0 candidatos em 0.0s
+[   513s]   -> 8 imagens
+[   513s] m_delorean: 'DeLorean DMC-12'
+[   513s]     commons: 12 candidatos em 0.4s
+[   516s]     openverse: 12 candidatos em 2.9s
+[   516s]     loc: 0 candidatos em 0.0s
+[   521s]   -> 8 imagens
+[   521s] h_auction: 'classic car auction'
+[   522s]     commons: 12 candidatos em 0.6s
+[   525s]     openverse: 11 candidatos em 2.9s
+[   525s]     loc: 0 candidatos em 0.0s
+[   525s]     falhou download (commons) em 0.0s
+[   526s]     falhou download (commons) em 0.0s
+[   526s]     falhou download (commons) em 0.0s
+[   527s]     falhou download (commons) em 0.0s
+[   528s]     falhou download (commons) em 0.0s
+[   528s]     falhou download (commons) em 0.0s
+[   528s]     falhou download (openverse) em 0.0s
+[   528s]     falhou download (commons) em 0.0s
+[   528s]     falhou download (openverse) em 0.0s
+[   528s]     falhou download (commons) em 0.0s
+[   528s]     falhou download (openverse) em 0.0s
+[   528s]     falhou download (commons) em 0.0s
+[   529s]   -> 6 imagens
+[   529s] h_fasa: 'FASA Renault Valladolid'
+[   530s]     commons: 3 candidatos em 0.3s
+[   531s]     openverse: 3 candidatos em 1.3s
+[   531s]     loc: 0 candidatos em 0.0s
+[   532s]     falhou download (commons) em 0.0s
+[   532s]     falhou download (openverse) em 0.0s
+[   532s]     falhou download (commons) em 0.0s
+[   532s]     falhou download (openverse) em 0.0s
+[   533s]     commons: 9 candidatos em 0.7s
+[   533s]     openverse: 0 candidatos em 0.2s
+[   533s]     loc: 0 candidatos em 0.0s
+[   533s]     falhou download (commons) em 0.0s
+[   533s]     falhou download (commons) em 0.0s
+[   533s]     falhou download (commons) em 0.0s
+[   534s]     falhou download (commons) em 0.0s
+[   535s]   -> 5 imagens
+[   535s] h_maranello: 'Ferrari Maranello factory'
+[   535s]     commons: 12 candidatos em 0.5s
+[   539s]     openverse: 10 candidatos em 3.2s
+[   539s]     loc: 0 candidatos em 0.0s
+[   542s]     falhou download (openverse) em 0.0s
+[   542s]   -> 6 imagens
+[   542s] h_enzo: 'Enzo Ferrari'
+[   543s]     commons: 6 candidatos em 0.5s
+[   548s]     openverse: 9 candidatos em 4.6s
+[   548s]     loc: 0 candidatos em 0.0s
+[   550s]   -> 4 imagens
+[   553s] fim: 177 imagens
