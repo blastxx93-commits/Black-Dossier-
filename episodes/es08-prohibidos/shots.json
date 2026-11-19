@@ -184,6 +184,117 @@
     "Euro NCAP crash test"
    ],
    "n": 4
+  },
+  {
+   "id": "m_917_2",
+   "query": "Porsche 917K Gulf",
+   "alt": [
+    "Porsche 917 Salzburg",
+    "Porsche 917 Martini",
+    "Porsche 917/10 Can-Am"
+   ],
+   "n": 10
+  },
+  {
+   "id": "m_cobra_2",
+   "query": "AC Cobra 289",
+   "alt": [
+    "Shelby Cobra roadster",
+    "Cobra 427 SC"
+   ],
+   "n": 10
+  },
+  {
+   "id": "m_superbird_2",
+   "query": "Dodge Charger Daytona 1969",
+   "alt": [
+    "Charger Daytona wing",
+    "Ford Torino Talladega"
+   ],
+   "n": 10
+  },
+  {
+   "id": "m_r4_2",
+   "query": "Renault 4 GTL",
+   "alt": [
+    "Renault 4 furgoneta",
+    "Renault 4 Savane",
+    "Renault 4L blanc"
+   ],
+   "n": 10
+  },
+  {
+   "id": "m_2cv_2",
+   "query": "Citroën 2CV Charleston",
+   "alt": [
+    "Citroën Dyane",
+    "Citroen 2CV AZAM",
+    "2CV fourgonnette"
+   ],
+   "n": 10
+  },
+  {
+   "id": "m_corvair_2",
+   "query": "Corvair Monza Spyder",
+   "alt": [
+    "Chevrolet Corvair 1965",
+    "Corvair Corsa"
+   ],
+   "n": 10
+  },
+  {
+   "id": "m_pinto_2",
+   "query": "Mercury Bobcat",
+   "alt": [
+    "Ford Pinto Runabout",
+    "Ford Pinto Cruising Wagon"
+   ],
+   "n": 10
+  },
+  {
+   "id": "m_bt46_2",
+   "query": "Brabham BT46",
+   "alt": [
+    "Brabham Alfa Romeo 1978",
+    "Brabham BT45"
+   ],
+   "n": 10
+  },
+  {
+   "id": "h_f1_1978",
+   "query": "Formula 1 1978",
+   "alt": [
+    "Grand Prix 1978",
+    "Lotus 79"
+   ],
+   "n": 10
+  },
+  {
+   "id": "h_canam",
+   "query": "Can-Am 1970",
+   "alt": [
+    "Can-Am race car",
+    "McLaren M8"
+   ],
+   "n": 10
+  },
+  {
+   "id": "h_nascar70",
+   "query": "NASCAR 1970",
+   "alt": [
+    "Talladega Superspeedway",
+    "stock car racing 1970"
+   ],
+   "n": 10
+  },
+  {
+   "id": "m_2002_2",
+   "query": "BMW 2002 tii",
+   "alt": [
+    "BMW 2002 1970s",
+    "BMW 02"
+   ],
+   "n": 10
   }
  ]
 }
