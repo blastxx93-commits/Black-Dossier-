@@ -46,6 +46,14 @@ Mesmo motor (`engine/render_aus.py`, `engine/aus_kit.py`) e mesmas regras de mon
 - Temas: `clasico` (ep. 1–3), `retro60` (quente/anos 60), `noir_oro` (preto e dourado), `revista` (ciano/magenta),
   `periodico` (quase P&B, jornal). Nunca repetir o tema do episódio anterior; escolher o que combina com o assunto.
 
+## 3c. Template Race (pedido do dono, 19/11/2026) — vale do es10 em diante
+- Os vídeos passam a ser renderizados com o **template Race** em HyperFrames: `python3 engine/hf_race.py <workdir>`
+  (estilo canal de corrida: cortes rápidos com chicote/flash, punch-in a cada ~2,4 s, linhas de velocidade, letra Anton inclinada,
+  vermelho #e10600, cartela do número com impacto e tremor, chip de local/ano, HUD com a posição da lista).
+- A montagem continua igual (build_esXX.py com aus_kit → episode.json); só o render final muda. es01–es09 ficam como estão.
+- A rotação de temas da seção 3b deixa de valer para os vídeos novos (o template Race é o visual do canal).
+- Trilha: trocar a sintetizada por música real com licença livre (crédito do compositor na descrição) assim que a busca estiver pronta.
+
 ## 4. Imagens e segurança
 - **Prioridade máxima para material real (pedido do dono, 02/11/2026):** fotos reais dos modelos e clipes de arquivo de época
   em primeiro lugar, buscando bastante (várias buscas por carro, muitas opções). Cena de IA **só** onde não houver foto ou
