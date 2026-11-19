@@ -1,0 +1,1203 @@
+{
+ "output": "ES09_GRUPO_B.mp4",
+ "fps": 24,
+ "music": [
+  {
+   "file": "trilha.wav",
+   "start": 0,
+   "gain": -29,
+   "fade_in": 4,
+   "fade_out": 5
+  }
+ ],
+ "chapters": [
+  {
+   "audio": "audio/ch00_hook.flac",
+   "lead_in": 0,
+   "tail": 0.6,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/h_rally_crowd/6_commons.jpg",
+     "move": "in",
+     "caption": "Mundial de Rallies|a\u00f1os 80",
+     "dur": 10.16,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_quattro/10_commons.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_quattro/2_commons.jpg",
+     "move": "out",
+     "dur": 9.5,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_group_b/1_commons.jpg",
+     "move": "left",
+     "dur": 6.34,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Tan brutales que los prohibieron.",
+     "highlight": "PROHIBIERON",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 8.62,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "Grupo B",
+     "subtitle": "los coches de rally m\u00e1s brutales",
+     "tag": "1982 \u2013 1986",
+     "bg": "a/m_group_b/2_commons.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 3.14,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Un Grupo B vendido en Espa\u00f1a",
+      "Turbo y compresor a la vez",
+      "El que nunca lleg\u00f3 a correr"
+     ],
+     "starts": [
+      0,
+      79,
+      183
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 3.3200000000000003
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 7.659999999999997
+      }
+     ],
+     "dur": 12.592,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch01.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/m_group_b/3_commons.jpg",
+     "move": "right",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_lancia037/2_openverse.jpg",
+     "move": "right",
+     "dur": 6.22,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "200",
+     "label": "unidades de calle para homologar un Grupo B",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "FIA",
+     "dur": 6.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_group_b/4_commons.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_lancia037/4_openverse.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_lancia037/5_commons.jpg",
+     "move": "up",
+     "dur": 4.044,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "300 \u2192 500+",
+     "label": "caballos \u00b7 1982 \u2013 1986",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "seg\u00fan la fuente",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_r5turbo/1_commons.jpg",
+     "move": "out",
+     "dur": 9.396,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_rally_crowd/3_commons.jpg",
+     "move": "up",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_lancia037/6_openverse.jpg",
+     "move": "down",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_lancia037/7_commons.jpg",
+     "move": "in",
+     "dur": 10.74,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_group_b/5_commons.jpg",
+     "move": "out",
+     "dur": 6.62,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 10,
+     "name": "Renault 5 Turbo",
+     "photo": "a/m_r5turbo/6_commons.jpg",
+     "credit": "Foto: MrWalkr \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "Francia \u00b7 1980",
+     "sub": "el utilitario que fue al gimnasio",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_r5turbo/2_commons.jpg",
+     "move": "left",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_r5turbo/3_commons.jpg",
+     "move": "out",
+     "dur": 6.96,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_r5turbo/10_commons.jpg",
+     "move": "down",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_r5turbo/4_commons.jpg",
+     "move": "right",
+     "dur": 8.1,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_r5copa/2_commons.jpg",
+     "move": "in",
+     "caption": "Renault 5 Copa Turbo|Espa\u00f1a, 1982 \u2013 1984",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_r5copa/3_commons.jpg",
+     "move": "in",
+     "dur": 9.22,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_r5copa/1_commons.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_r5copa/4_commons.jpg",
+     "move": "up",
+     "dur": 4.194,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch02.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 9,
+     "name": "Opel Manta 400",
+     "photo": "a/m_manta400/2_openverse.jpg",
+     "credit": "Foto: exfordy \u00b7 CC BY 2.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "Alemania \u00b7 1983",
+     "sub": "tracci\u00f3n trasera y sin turbo",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_manta400/3_commons.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_manta400/4_openverse.jpg",
+     "move": "down",
+     "dur": 4.02,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_manta400/1_commons.jpg",
+     "move": "left",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_manta400/5_commons.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_manta400/6_openverse.jpg",
+     "move": "left",
+     "dur": 4.08,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 8,
+     "name": "Toyota Celica TCT",
+     "photo": "a/m_celica_tct/2_openverse.jpg",
+     "credit": "Foto: big-ashb \u00b7 CC BY 2.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "Jap\u00f3n \u00b7 1984",
+     "sub": "el rey del Safari",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_celica_tct/4_openverse.jpg",
+     "move": "out",
+     "dur": 9.36,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_celica_tct/1_commons.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_celica_tct/5_commons.jpg",
+     "move": "right",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_celica_tct/6_openverse.jpg",
+     "move": "in",
+     "dur": 5.72,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_celica_tct/3_commons.jpg",
+     "move": "right",
+     "dur": 6.14,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 7,
+     "name": "MG Metro 6R4",
+     "photo": "a/m_metro6r4/4_commons.jpg",
+     "credit": "Foto: MrWalkr \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "Reino Unido \u00b7 1985",
+     "sub": "el coche de la abuela con un V6",
+     "dur": 7.04,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_metro6r4/1_commons.jpg",
+     "move": "in",
+     "caption": "Austin Metro|el original",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_metro6r4/3_commons.jpg",
+     "move": "up",
+     "dur": 8.46,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_metro6r4/10_commons.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_metro6r4/5_commons.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_metro6r4/6_commons.jpg",
+     "move": "down",
+     "dur": 5.72,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_metro6r4/2_commons.jpg",
+     "move": "up",
+     "dur": 8.075,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch03.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 6,
+     "name": "Ford RS200",
+     "photo": "a/m_rs200/8_commons.jpg",
+     "credit": "Foto: Calreyn88 \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "Reino Unido \u00b7 1986",
+     "sub": "dise\u00f1ado desde cero",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_rs200/1_commons.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_rs200/2_commons.jpg",
+     "move": "left",
+     "dur": 5.54,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_rally_crowd/7_commons.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_lancia037/8_openverse.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_lancia037/9_commons.jpg",
+     "move": "right",
+     "dur": 6.6,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Las m\u00e1quinas hab\u00edan crecido demasiado r\u00e1pido.",
+     "highlight": "DEMASIADO",
+     "size": 100,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 10.627,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_rs200/10_commons.jpg",
+     "move": "down",
+     "dur": 9.093,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 5,
+     "name": "Lancia 037",
+     "photo": "a/m_lancia037/3_commons.jpg",
+     "credit": "Foto: Calreyn88 \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "Italia \u00b7 1982",
+     "sub": "el \u00faltimo campe\u00f3n de tracci\u00f3n trasera",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_quattro/3_commons.jpg",
+     "move": "in",
+     "dur": 9.76,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_lancia037/10_openverse.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_quattro/4_commons.jpg",
+     "move": "up",
+     "dur": 7.28,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_lancia037/1_commons.jpg",
+     "move": "left",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_quattro/5_commons.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_quattro/6_commons.jpg",
+     "move": "down",
+     "dur": 6.194,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch04.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 4,
+     "name": "Audi Quattro",
+     "photo": "a/m_quattro/1_commons.jpg",
+     "credit": "Foto: Alexander-93 \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "Alemania \u00b7 1980",
+     "sub": "la tracci\u00f3n total que lo cambi\u00f3 todo",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_quattro/7_commons.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_quattro/8_commons.jpg",
+     "move": "left",
+     "dur": 5.48,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_quattro/11_commons.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_quattro/9_commons.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_pikes/1_commons.jpg",
+     "move": "right",
+     "dur": 8.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_mouton/3_commons.jpg",
+     "move": "in",
+     "caption": "Mich\u00e8le Mouton|Audi Quattro",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_mouton/1_commons.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_mouton/2_commons.jpg",
+     "move": "up",
+     "dur": 10.26,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_quattro/12_commons.jpg",
+     "move": "right",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_pikes/2_commons.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_pikes/3_commons.jpg",
+     "move": "down",
+     "dur": 5.84,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_pikes/5_commons.jpg",
+     "move": "in",
+     "caption": "Pikes Peak|Audi Sport Quattro S1",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_pikes/4_commons.jpg",
+     "move": "in",
+     "dur": 4.38,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 3,
+     "name": "Peugeot 205 T16",
+     "photo": "a/m_205t16/2_commons.jpg",
+     "credit": "Foto: Calreyn88 \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "Francia \u00b7 1984",
+     "sub": "campe\u00f3n en 1985 y 1986",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_205t16/3_commons.jpg",
+     "move": "left",
+     "dur": 8.47,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_205t16/10_commons.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_205t16/4_commons.jpg",
+     "move": "out",
+     "dur": 6.35,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_205t16/11_commons.jpg",
+     "move": "up",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_205t16/5_commons.jpg",
+     "move": "right",
+     "dur": 5.82,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_205t16/12_commons.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_205t16/6_commons.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_205t16/7_commons.jpg",
+     "move": "up",
+     "dur": 7.52,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_205t16/1_commons.jpg",
+     "move": "down",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_205t16/8_commons.jpg",
+     "move": "out",
+     "dur": 5.388,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch05.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 2,
+     "name": "Lancia Delta S4",
+     "photo": "a/m_deltas4/4_commons.jpg",
+     "credit": "Foto: MrWalkr \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "Italia \u00b7 1985",
+     "sub": "turbo y compresor a la vez",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_deltas4/12_commons.jpg",
+     "move": "down",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_deltas4/1_commons.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_deltas4/2_commons.jpg",
+     "move": "left",
+     "dur": 5.86,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_toivonen/1_commons.jpg",
+     "move": "in",
+     "caption": "Lancia Delta S4|Henri Toivonen",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_deltas4/3_commons.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_deltas4/5_commons.jpg",
+     "move": "right",
+     "dur": 6.16,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Tour de C\u00f3rcega \u00b7 mayo de 1986",
+     "highlight": "1986",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_deltas4/6_commons.jpg",
+     "move": "in",
+     "dur": 6.68,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_deltas4/10_commons.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_deltas4/7_commons.jpg",
+     "move": "up",
+     "dur": 8.62,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_deltas4/11_commons.jpg",
+     "move": "left",
+     "dur": 7.258,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch06.flac",
+   "lead_in": 0,
+   "tail": 2.5,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/m_bx4tc/2_commons.jpg",
+     "move": "in",
+     "caption": "Citro\u00ebn BX 4TC|1986",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_bx4tc/3_commons.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_bx4tc/4_commons.jpg",
+     "move": "down",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_bx4tc/5_commons.jpg",
+     "move": "in",
+     "dur": 7.68,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_bx4tc/1_commons.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_bx4tc/6_commons.jpg",
+     "move": "left",
+     "dur": 10.42,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_group_b/6_commons.jpg",
+     "move": "right",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_205t16/9_commons.jpg",
+     "move": "out",
+     "dur": 8.34,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 1,
+     "name": "Porsche 959",
+     "photo": "a/m_porsche959/3_commons.jpg",
+     "credit": "Foto: Nicolas V\u00f6lcker \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "Alemania \u00b7 1985",
+     "sub": "naci\u00f3 para el Grupo B\u2026 y nunca lo corri\u00f3",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_porsche959/2_commons.jpg",
+     "move": "right",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_porsche959/4_commons.jpg",
+     "move": "in",
+     "dur": 9.3,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_porsche959/10_commons.jpg",
+     "move": "in",
+     "dur": 8.44,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_porsche959/11_commons.jpg",
+     "move": "up",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_porsche959/5_commons.jpg",
+     "move": "up",
+     "dur": 5.88,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_porsche959/12_commons.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_porsche959/6_commons.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_porsche959/7_commons.jpg",
+     "move": "down",
+     "dur": 4.28,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_porsche959/1_commons.jpg",
+     "move": "down",
+     "dur": 7.96,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_group_b/7_commons.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_r5turbo/5_commons.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_r5turbo/7_commons.jpg",
+     "move": "left",
+     "dur": 6.2,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_group_b/9_commons.jpg",
+     "move": "left",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_r5turbo/8_commons.jpg",
+     "move": "out",
+     "dur": 6.64,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Suscr\u00edbete",
+     "sub": "historias de coches cl\u00e1sicos",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 8.522,
+     "fixed": false,
+     "fade_out": 0
+    }
+   ]
+  }
+ ],
+ "size": [
+  1920,
+  1080
+ ],
+ "theme": "revista",
+ "subtitles": "ES09.ass"
+}

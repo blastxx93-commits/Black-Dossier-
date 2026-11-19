@@ -1,0 +1,11 @@
+{
+ "lang": "es",
+ "tagline": "Historia real del automóvil, con fuentes.",
+ "compact_credits": true,
+ "credits_file": "episodes/es09-grupo-b/publish/creditos_completos.txt",
+ "other_line": "Imágenes: Wikimedia Commons y Openverse. Todas las imágenes son fotografías reales.",
+ "intro": "Entre 1982 y 1986, el Mundial de Rallies vivió su época más salvaje: el Grupo B. Bastaba con fabricar 200 unidades de calle para correr, y las marcas crearon coches de más de 500 caballos que volaban por carreteras de tierra con el público a centímetros. Del Renault 5 Turbo (y el Copa Turbo que se vendía en España) al Opel Manta 400, el Toyota Celica del Safari, el MG Metro 6R4, el Ford RS200, el Lancia 037, el Audi Quattro de Michèle Mouton, el Peugeot 205 T16 y el Lancia Delta S4. Y el Porsche 959, que nació para el Grupo B y nunca llegó a correrlo.\n\nVídeo divulgativo basado en fuentes publicadas. Los accidentes se cuentan con respeto, sin imágenes de los hechos.",
+ "chapters": ["Grupo B: tan brutales que los prohibieron", "200 coches y una regla · 10 · Renault 5 Turbo", "9 · Opel Manta 400, 8 · Toyota Celica y 7 · MG Metro 6R4", "6 · Ford RS200 y 5 · Lancia 037", "4 · Audi Quattro y 3 · Peugeot 205 T16", "2 · Lancia Delta S4 y el fin del Grupo B", "Citroën BX 4TC y 1 · Porsche 959"],
+ "sources": ["Wikipedia: Group B; 1986 World Rally Championship", "Goodwood / Motoring Research: los coches del Grupo B", "Wikipedia: Renault 5 Turbo; motor.es: Renault 5 Copa Turbo", "Wikipedia: Lancia 037; Lancia Delta S4; Peugeot 205 T16; Audi Quattro", "Wikipedia: Porsche 959; Citroën BX 4TC", "Motorsport.com: debut de Carlos Sainz (1987)"],
+ "tags_line": "#grupob #rally #audiquattro #lanciadeltas4 #cochesclasicos"
+}
