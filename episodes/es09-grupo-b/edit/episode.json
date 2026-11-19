@@ -249,14 +249,14 @@
     },
     {
      "type": "image",
-     "src": "a/m_r5turbo/2_commons.jpg",
+     "src": "a/m_r5turbo/4_commons.jpg",
      "move": "left",
      "dur": 7.0,
      "fixed": true
     },
     {
      "type": "image",
-     "src": "a/m_r5turbo/3_commons.jpg",
+     "src": "a/m_r5turbo/5_commons.jpg",
      "move": "out",
      "dur": 6.96,
      "fixed": true
@@ -270,7 +270,7 @@
     },
     {
      "type": "image",
-     "src": "a/m_r5turbo/4_commons.jpg",
+     "src": "a/m_r5turbo/7_commons.jpg",
      "move": "right",
      "dur": 8.1,
      "fixed": true
@@ -1145,14 +1145,14 @@
     },
     {
      "type": "image",
-     "src": "a/m_r5turbo/5_commons.jpg",
+     "src": "a/m_r5turbo/8_commons.jpg",
      "move": "in",
      "dur": 7.0,
      "fixed": true
     },
     {
      "type": "image",
-     "src": "a/m_r5turbo/7_commons.jpg",
+     "src": "a/m_r5turbo/9_commons.jpg",
      "move": "left",
      "dur": 6.2,
      "fixed": true
@@ -1166,7 +1166,7 @@
     },
     {
      "type": "image",
-     "src": "a/m_r5turbo/8_commons.jpg",
+     "src": "a/m_r5copa/5_openverse.jpg",
      "move": "out",
      "dur": 6.64,
      "fixed": true
