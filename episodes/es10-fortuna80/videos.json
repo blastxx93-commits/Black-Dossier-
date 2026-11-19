@@ -1,0 +1,136 @@
+{
+ "defaults": {
+  "n": 4,
+  "clip": 8,
+  "per_film": 2,
+  "years": [
+   1900,
+   2030
+  ],
+  "sources": [
+   "commons",
+   "archive"
+  ]
+ },
+ "shots": [
+  {
+   "id": "v_f40",
+   "query": "Ferrari F40",
+   "alt": [
+    "F40 driving"
+   ],
+   "sources": [
+    "commons",
+    "archive"
+   ],
+   "years": [
+    1900,
+    2030
+   ],
+   "n": 4,
+   "per_film": 2
+  },
+  {
+   "id": "v_integrale",
+   "query": "Lancia Delta Integrale",
+   "alt": [
+    "Delta Integrale rally"
+   ],
+   "sources": [
+    "commons",
+    "archive"
+   ],
+   "years": [
+    1900,
+    2030
+   ],
+   "n": 4,
+   "per_film": 2
+  },
+  {
+   "id": "v_m3",
+   "query": "BMW M3 E30",
+   "alt": [
+    "E30 M3 race"
+   ],
+   "sources": [
+    "commons",
+    "archive"
+   ],
+   "years": [
+    1900,
+    2030
+   ],
+   "n": 4,
+   "per_film": 2
+  },
+  {
+   "id": "v_cosworth",
+   "query": "Sierra Cosworth",
+   "alt": [
+    "RS500 race"
+   ],
+   "sources": [
+    "commons",
+    "archive"
+   ],
+   "years": [
+    1900,
+    2030
+   ],
+   "n": 4,
+   "per_film": 2
+  },
+  {
+   "id": "v_205",
+   "query": "Peugeot 205 GTI",
+   "alt": [
+    "205 GTI"
+   ],
+   "sources": [
+    "commons",
+    "archive"
+   ],
+   "years": [
+    1900,
+    2030
+   ],
+   "n": 4,
+   "per_film": 2
+  },
+  {
+   "id": "v_golf",
+   "query": "Golf GTI",
+   "alt": [
+    "Golf GTI mk1"
+   ],
+   "sources": [
+    "commons",
+    "archive"
+   ],
+   "years": [
+    1900,
+    2030
+   ],
+   "n": 4,
+   "per_film": 2
+  },
+  {
+   "id": "v_r5",
+   "query": "Renault 5 Turbo",
+   "alt": [
+    "R5 Turbo"
+   ],
+   "sources": [
+    "commons",
+    "archive"
+   ],
+   "years": [
+    1900,
+    2030
+   ],
+   "n": 4,
+   "per_film": 2
+  }
+ ]
+}

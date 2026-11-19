@@ -1,0 +1,182 @@
+{
+ "defaults": {
+  "n": 4,
+  "sources": [
+   "commons",
+   "openverse",
+   "loc"
+  ]
+ },
+ "shots": [
+  {
+   "id": "m_golfgti",
+   "query": "Volkswagen Golf GTI Mk1",
+   "alt": [
+    "Golf GTI 1976",
+    "VW Golf I GTI",
+    "Golf GTI mk1 red"
+   ],
+   "n": 12
+  },
+  {
+   "id": "m_205gti",
+   "query": "Peugeot 205 GTI",
+   "alt": [
+    "Peugeot 205 GTI 1.9",
+    "205 GTI red"
+   ],
+   "n": 12
+  },
+  {
+   "id": "m_r5copa",
+   "query": "Renault 5 Copa Turbo",
+   "alt": [
+    "Renault 5 Alpine Turbo",
+    "R5 Alpine Turbo"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_supercinco",
+   "query": "Renault 5 GT Turbo",
+   "alt": [
+    "Renault Supercinco GT Turbo",
+    "Renault Super 5 GT Turbo"
+   ],
+   "n": 12
+  },
+  {
+   "id": "m_r5turbo2",
+   "query": "Renault 5 Turbo 2",
+   "alt": [
+    "Renault 5 Turbo",
+    "R5 Turbo 2 rouge"
+   ],
+   "n": 12
+  },
+  {
+   "id": "m_sierracos",
+   "query": "Ford Sierra RS Cosworth",
+   "alt": [
+    "Sierra Cosworth 3 door",
+    "Ford Sierra Cosworth whale tail"
+   ],
+   "n": 12
+  },
+  {
+   "id": "m_rs500",
+   "query": "Ford Sierra RS500 Cosworth",
+   "alt": [
+    "Sierra RS500",
+    "RS500 Cosworth racing"
+   ],
+   "n": 10
+  },
+  {
+   "id": "m_m3e30",
+   "query": "BMW M3 E30",
+   "alt": [
+    "BMW E30 M3 Evolution",
+    "BMW M3 1987"
+   ],
+   "n": 12
+  },
+  {
+   "id": "m_integrale",
+   "query": "Lancia Delta Integrale",
+   "alt": [
+    "Lancia Delta HF Integrale Evoluzione",
+    "Delta Integrale Martini"
+   ],
+   "n": 12
+  },
+  {
+   "id": "m_190evo",
+   "query": "Mercedes-Benz 190 E 2.5-16 Evolution II",
+   "alt": [
+    "Mercedes 190E Evo II",
+    "190E Evolution"
+   ],
+   "n": 10
+  },
+  {
+   "id": "m_f40",
+   "query": "Ferrari F40",
+   "alt": [
+    "Ferrari F40 1987",
+    "F40 rear"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_f40lm",
+   "query": "Ferrari F40 LM",
+   "alt": [
+    "F40 Competizione"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_countach",
+   "query": "Lamborghini Countach",
+   "alt": [
+    "Countach LP400",
+    "Countach LP5000 QV"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_quattro",
+   "query": "Audi Quattro 1980",
+   "alt": [
+    "Audi Ur-Quattro",
+    "Audi quattro coupe"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_delorean",
+   "query": "DeLorean DMC-12",
+   "alt": [
+    "DeLorean",
+    "DMC DeLorean"
+   ],
+   "n": 8
+  },
+  {
+   "id": "h_auction",
+   "query": "classic car auction",
+   "alt": [
+    "car auction RM Sotheby's",
+    "Bonhams auction car"
+   ],
+   "n": 6
+  },
+  {
+   "id": "h_fasa",
+   "query": "FASA Renault Valladolid",
+   "alt": [
+    "Renault Valladolid factory",
+    "FASA-Renault"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_maranello",
+   "query": "Ferrari Maranello factory",
+   "alt": [
+    "Maranello",
+    "Museo Ferrari Maranello"
+   ],
+   "n": 6
+  },
+  {
+   "id": "h_enzo",
+   "query": "Enzo Ferrari",
+   "alt": [
+    "Enzo Ferrari 1980s"
+   ],
+   "n": 4
+  }
+ ]
+}
