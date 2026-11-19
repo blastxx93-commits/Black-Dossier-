@@ -230,7 +230,7 @@ tl.fromTo("#{i}s",{{opacity:0}},{{opacity:1,duration:.3}},{t + .5:.3f});''')
                 f'tl.fromTo("#speed",{{opacity:.8,x:0}},{{opacity:0,x:{-400 * dr},duration:.35}},{t:.3f});')
 
     def shake(self, t):
-        self.at(f'tl.fromTo("#stage",{{x:0}},{{x:14,duration:.04,yoyo:true,repeat:5}},{t:.3f});tl.set("#stage",{{x:0}},{t + .25:.3f});')
+        self.at(f'tl.fromTo("#stage",{{x:0}},{{x:5,duration:.05,yoyo:true,repeat:1}},{t:.3f});tl.set("#stage",{{x:0}},{t + .12:.3f});')
 
 
 CSS = f"""
