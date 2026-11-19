@@ -68,7 +68,7 @@ chapters.append(c)
 
 c = ch("ch03")
 c.at(0, rank(6, "Ford RS200", "m_rs200", 8, "Reino Unido · 1986", "diseñado desde cero"))
-c.at("Pero su historia en el Mundial", P("crowd"))
+c.at("Pero su historia en el Mundial", P("rs200"))
 c.at("Aquel día, muchos entendieron", say("Las máquinas habían crecido demasiado rápido.", "DEMASIADO", 100))
 c.at("Tras la prohibición del Grupo B, el RS200", P("rs200"))
 c.at("Número cinco", rank(5, "Lancia 037", "m_lancia037", 3, "Italia · 1982", "el último campeón de tracción trasera"))
