@@ -106,9 +106,33 @@ def main():
         if only and name not in only:
             continue
         text = open(t).read().strip()
-        wav = eleven_synth(key, voice, model, text) if provider == "eleven" else synth(key, voice, model, text, a.speed)
         tmp = os.path.join(full, name + ".wav")
-        open(tmp, "wb").write(wav)
+        if provider == "eleven":
+            wav = eleven_synth(key, voice, model, text)
+            open(tmp, "wb").write(wav)
+        else:
+            # Fish: one request per paragraph (long requests produced babble at paragraph joins, 19/11/2026),
+            # joined with a natural 0.45 s pause.
+            paras = [p.strip() for p in text.split("\n\n") if p.strip()]
+            parts = []
+            for i, p in enumerate(paras):
+                pw = os.path.join(full, f"{name}.p{i:02d}.wav")
+                open(pw, "wb").write(synth(key, voice, model, p, a.speed))
+                parts.append(pw)
+            sil = os.path.join(full, f"{name}.sil.wav")
+            subprocess.run([ff, "-v", "error", "-y", "-f", "lavfi", "-i", "anullsrc=r=44100:cl=mono", "-t", "0.45",
+                            "-ac", "1", sil], check=True)
+            lst = os.path.join(full, f"{name}.list.txt")
+            with open(lst, "w") as fh:
+                for i, pw in enumerate(parts):
+                    if i:
+                        fh.write(f"file '{os.path.abspath(sil)}'\n")
+                    fh.write(f"file '{os.path.abspath(pw)}'\n")
+            subprocess.run([ff, "-v", "error", "-y", "-f", "concat", "-safe", "0", "-i", lst,
+                            "-ar", "44100", "-ac", "1", tmp], check=True)
+            for x in parts + [sil, lst]:
+                os.remove(x)
+            wav = open(tmp, "rb").read()
         subprocess.run([ff, "-v", "error", "-y", "-i", tmp, os.path.join(full, name + ".flac")], check=True)
         subprocess.run([ff, "-v", "error", "-y", "-i", tmp, "-ac", "1", "-ar", "16000", "-c:a", "libmp3lame",
                         "-b:a", "48k", os.path.join(small, name + ".mp3")], check=True)
