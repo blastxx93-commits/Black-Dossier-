@@ -192,7 +192,7 @@
     },
     {
      "type": "image",
-     "src": "a/m_r4_2/6_commons.jpg",
+     "src": "a/m_r4_2/7_commons.jpg",
      "move": "out",
      "dur": 8.56,
      "fixed": true
@@ -230,14 +230,14 @@
     },
     {
      "type": "image",
-     "src": "a/m_r4_2/7_commons.jpg",
+     "src": "a/h_r4_interior/2_commons.jpg",
      "move": "down",
      "dur": 7.0,
      "fixed": true
     },
     {
      "type": "image",
-     "src": "a/m_r4_2/9_commons.jpg",
+     "src": "a/h_r4_interior/3_commons.jpg",
      "move": "in",
      "dur": 4.09,
      "fixed": true
@@ -251,7 +251,7 @@
     },
     {
      "type": "image",
-     "src": "a/h_r4_interior/2_commons.jpg",
+     "src": "a/m_2cv/7_commons.jpg",
      "move": "left",
      "dur": 9.18,
      "fixed": true
@@ -265,7 +265,7 @@
     },
     {
      "type": "image",
-     "src": "a/h_r4_interior/3_commons.jpg",
+     "src": "a/m_2cv/9_commons.jpg",
      "move": "out",
      "dur": 8.12,
      "fixed": true
@@ -296,14 +296,14 @@
     },
     {
      "type": "image",
-     "src": "a/m_2cv/7_commons.jpg",
+     "src": "a/m_2cv_2/10_commons.jpg",
      "move": "right",
      "dur": 7.0,
      "fixed": true
     },
     {
      "type": "image",
-     "src": "a/m_2cv/9_commons.jpg",
+     "src": "a/m_2cv_2/2_openverse.jpg",
      "move": "in",
      "dur": 4.14,
      "fixed": true
@@ -317,7 +317,7 @@
     },
     {
      "type": "image",
-     "src": "a/m_2cv_2/10_commons.jpg",
+     "src": "a/m_2cv_2/3_commons.jpg",
      "move": "up",
      "dur": 8.58,
      "fixed": true
@@ -331,14 +331,14 @@
     },
     {
      "type": "image",
-     "src": "a/m_2cv_2/2_openverse.jpg",
+     "src": "a/m_2cv_2/4_openverse.jpg",
      "move": "out",
      "dur": 7.0,
      "fixed": true
     },
     {
      "type": "image",
-     "src": "a/m_2cv_2/3_commons.jpg",
+     "src": "a/m_2cv_2/5_commons.jpg",
      "move": "down",
      "dur": 7.6,
      "fixed": true
