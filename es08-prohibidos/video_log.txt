@@ -1,34 +1,193 @@
-[     0s] es08-prohibidos: 5 planos de video
-[    10s]   c_crash_test / archive: 7 filmes para 'crash test'
-[    14s]     + 1_archive.mp4 de 'Stay Safe, Stay Strong: The Facts About Nuclear Weapons' a partir de 164s
-[    18s]     + 2_archive.mp4 de 'Stay Safe, Stay Strong: The Facts About Nuclear Weapons' a partir de 1202s
-[    21s]     + 3_archive.mp4 de 'Bottle and the Throttle, The' a partir de 75s
-[    25s]     + 4_archive.mp4 de 'Bottle and the Throttle, The' a partir de 547s
-[    27s]   c_race / archive: 0 filmes para 'auto race'
-[    29s]   c_race / archive: 0 filmes para 'Le Mans'
-[    30s]   c_race / archive: 0 filmes para 'Grand Prix'
-[    31s]   c_race / archive: 0 filmes para 'racing cars'
-[    41s]   c_traffic / archive: 8 filmes para 'traffic 1960s'
-[    46s]     + 1_archive.mp4 de '[Television commercials: Toothpaste, hair care, deodorant]' a partir de 151s
-[    49s]     + 2_archive.mp4 de '[Television commercials: Toothpaste, hair care, deodorant]' a partir de 1105s
-[    53s]     + 3_archive.mp4 de 'Design For More Eggs' a partir de 96s
-[    56s]     + 4_archive.mp4 de 'Design For More Eggs' a partir de 706s
-[    62s]   c_amphibious / archive: 4 filmes para 'amphibious car'
-[    70s]     + 1_archive.mp4 de 'To The Fair (Pt 2)' a partir de 102s
-[    79s]     + 2_archive.mp4 de 'To The Fair (Pt 2)' a partir de 751s
-[    90s]     + 3_archive.mp4 de 'To The Fair (Pt 1)' a partir de 87s
-[    90s]   v_classic_race / pexels: 0 filmes para 'classic race car'
-[    91s]   v_classic_race / pixabay: 10 filmes para 'classic race car'
-[    91s]     trecho escuro em 8s, tentando mais adiante
-[    92s]     trecho escuro em 8s, tentando mais adiante
-[    98s]     trecho escuro em 13s, tentando mais adiante
-[   102s]     trecho escuro em 13s, tentando mais adiante
-[   107s]     + 1_pixabay.mp4 de 'car, drive, race, auto, run, old, vehicle, sportcar, speed, ' a partir de 0s
-[   109s]     + 2_pixabay.mp4 de 'car, drive, race, auto, run, old, vehicle, sportcar, speed, ' a partir de 0s
-[   110s]     trecho escuro em 8s, tentando mais adiante
-[   112s]     trecho escuro em 8s, tentando mais adiante
-[   119s]     + 3_pixabay.mp4 de 'car, vehicle, automobile, transportation, oldtimer, speed, r' a partir de 8s
-[   122s]     trecho escuro em 11s, tentando mais adiante
-[   125s]     trecho escuro em 11s, tentando mais adiante
-[   129s]     trecho escuro em 0s, tentando mais adiante
-[   132s]     + 4_pixabay.mp4 de 'motorcycle, racer, classic, cafe racer, motorbike, racing, c' a partir de 0s
+[     0s] es08-prohibidos: 12 planos de video
+[     1s]   v_917 / commons: 0 filmes para 'Porsche 917'
+[     5s]   v_917 / archive: 0 filmes para 'Porsche 917'
+[     7s]   v_917 / commons: 0 filmes para 'Porsche 917 Goodwood'
+[    12s]   v_917 / archive: 0 filmes para 'Porsche 917 Goodwood'
+[    13s]   v_917 / commons: 0 filmes para 'Porsche 917K driving'
+[    16s]   v_917 / archive: 0 filmes para 'Porsche 917K driving'
+[    18s]   v_cobra / commons: 1 filmes para 'Shelby Cobra'
+[    22s]   v_cobra / archive: 1 filmes para 'Shelby Cobra'
+[    23s]     corte falhou (Jones_Bouldevard_and_Coppper_Crest_Dr._Car_Acciden): /Jones_Bouldevard_and_Coppper_Crest_Dr._Car_Accident.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[    23s]     corte falhou (Jones_Bouldevard_and_Coppper_Crest_Dr._Car_Acciden): /Jones_Bouldevard_and_Coppper_Crest_Dr._Car_Accident.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[    31s]     + 1_archive.mp4 de '2K19 Venom Invasion Prison Break!!!' a partir de 33s
+[    39s]     + 2_archive.mp4 de '2K19 Venom Invasion Prison Break!!!' a partir de 239s
+[    40s]   v_cobra / commons: 0 filmes para 'AC Cobra 427 driving'
+[    47s]   v_cobra / archive: 0 filmes para 'AC Cobra 427 driving'
+[    49s]   v_cobra / commons: 0 filmes para 'Cobra 427 engine sound'
+[    52s]   v_cobra / archive: 0 filmes para 'Cobra 427 engine sound'
+[    53s]   v_superbird / commons: 0 filmes para 'Plymouth Superbird'
+[    56s]   v_superbird / archive: 0 filmes para 'Plymouth Superbird'
+[    57s]   v_superbird / commons: 0 filmes para 'Dodge Charger Daytona'
+[    61s]   v_superbird / archive: 0 filmes para 'Dodge Charger Daytona'
+[    62s]   v_superbird / commons: 0 filmes para 'Superbird driving'
+[    65s]   v_superbird / archive: 0 filmes para 'Superbird driving'
+[    67s]   v_r4 / commons: 10 filmes para 'Renault 4'
+[    82s]   v_r4 / archive: 11 filmes para 'Renault 4'
+[    82s]     corte falhou (Renault_FT_Saumur_.webm?utm_source=commons.wikimed): imedia.org/wikipedia/commons/8/8e/Renault_FT_Saumur_.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[    83s]     corte falhou (Renault_FT_Saumur_.webm?utm_source=commons.wikimed): imedia.org/wikipedia/commons/8/8e/Renault_FT_Saumur_.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[    83s]     corte falhou (Incendie_aux_usines_Renault_-_AI48962.webm?utm_sou): a/commons/1/1c/Incendie_aux_usines_Renault_-_AI48962.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[    83s]     corte falhou (Incendie_aux_usines_Renault_-_AI48962.webm?utm_sou): a/commons/1/1c/Incendie_aux_usines_Renault_-_AI48962.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[    83s]     corte falhou (Renault_Kardian_Un_B-SUV_que_llega_a_revolucionar_): _a_revolucionar_su_segmento_Primer_Contacto_%284K%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[    83s]     corte falhou (Renault_Kardian_Un_B-SUV_que_llega_a_revolucionar_): _a_revolucionar_su_segmento_Primer_Contacto_%284K%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[    83s]     corte falhou (Mondial_de_l%27automobile_de_Paris_2014_-_Moteur_R): s_2014_-_Moteur_Renault_DCI_160_Twin_turbo_EDC_-_001.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[    83s]     corte falhou (Mondial_de_l%27automobile_de_Paris_2014_-_Moteur_R): s_2014_-_Moteur_Renault_DCI_160_Twin_turbo_EDC_-_001.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[    83s]     corte falhou (Atravessar_a_%C3%81frica_ocidental_num_carro_com_2): m_22_anos_para_distribuir_livros_escolares_em_Bissau.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[    83s]     corte falhou (Atravessar_a_%C3%81frica_ocidental_num_carro_com_2): m_22_anos_para_distribuir_livros_escolares_em_Bissau.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[    84s]     corte falhou (Car_accident_in_Kranj_%28Slovenia%29_Rover_400_vs_): nt_in_Kranj_%28Slovenia%29_Rover_400_vs_Renault_Clio.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[    84s]     corte falhou (Car_accident_in_Kranj_%28Slovenia%29_Rover_400_vs_): nt_in_Kranj_%28Slovenia%29_Rover_400_vs_Renault_Clio.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[    84s]     corte falhou (Vasja_Miklav%C4%8Di%C4%8D_%28Renault_Clio_2.0%29_O): 0%29_OnBoard_1._Rally_Nova_Gorica_2012_Banj%C5%A1ice.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[    84s]     corte falhou (Vasja_Miklav%C4%8Di%C4%8D_%28Renault_Clio_2.0%29_O): 0%29_OnBoard_1._Rally_Nova_Gorica_2012_Banj%C5%A1ice.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[    84s]     corte falhou (VSAV_des_pompiers_en_urgence.ogg?utm_source=common): g/wikipedia/commons/7/7c/VSAV_des_pompiers_en_urgence.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[    84s]     corte falhou (VSAV_des_pompiers_en_urgence.ogg?utm_source=common): g/wikipedia/commons/7/7c/VSAV_des_pompiers_en_urgence.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[    84s]     corte falhou (AZ_30_HZS_MSK.webm?utm_source=commons.wikimedia.or): d.wikimedia.org/wikipedia/commons/9/92/AZ_30_HZS_MSK.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[    84s]     corte falhou (AZ_30_HZS_MSK.webm?utm_source=commons.wikimedia.or): d.wikimedia.org/wikipedia/commons/9/92/AZ_30_HZS_MSK.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[    84s]     corte falhou (Toyota_Land_Cruiser_%287%29_%28video%29.webm?utm_s): commons/0/05/Toyota_Land_Cruiser_%287%29_%28video%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[    84s]     corte falhou (Toyota_Land_Cruiser_%287%29_%28video%29.webm?utm_s): commons/0/05/Toyota_Land_Cruiser_%287%29_%28video%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[    89s]     + 1_archive.mp4 de 'Classic Television Commercials (Part IV)' a partir de 74s
+[    93s]     + 2_archive.mp4 de 'Classic Television Commercials (Part IV)' a partir de 545s
+[   109s]     + 3_archive.mp4 de 'Classic Television Commercials (Part VIII)' a partir de 79s
+[   125s]     + 4_archive.mp4 de 'Classic Television Commercials (Part VIII)' a partir de 580s
+[   127s]   v_2cv / commons: 1 filmes para 'Citroën 2CV'
+[   131s]   v_2cv / archive: 0 filmes para 'Citroën 2CV'
+[   131s]     corte falhou (Multiple_Citro%C3%ABn_2CV_vehicles_driving_by_%28e): V_vehicles_driving_by_%28east_Netherlands%2C_2022%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   131s]     corte falhou (Multiple_Citro%C3%ABn_2CV_vehicles_driving_by_%28e): V_vehicles_driving_by_%28east_Netherlands%2C_2022%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   132s]   v_2cv / commons: 1 filmes para '2CV driving'
+[   135s]   v_2cv / archive: 0 filmes para '2CV driving'
+[   136s]   v_2cv / commons: 0 filmes para 'Citroen 2CV rally'
+[   139s]   v_2cv / archive: 0 filmes para 'Citroen 2CV rally'
+[   140s]   v_corvair / commons: 2 filmes para 'Chevrolet Corvair'
+[   153s]   v_corvair / archive: 8 filmes para 'Chevrolet Corvair'
+[   153s]     corte falhou (Corvair_Cars_in_the_Swamp_%281962%29.webm?utm_sour): ia/commons/5/5b/Corvair_Cars_in_the_Swamp_%281962%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   154s]     corte falhou (Corvair_Cars_in_the_Swamp_%281962%29.webm?utm_sour): ia/commons/5/5b/Corvair_Cars_in_the_Swamp_%281962%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   154s]     corte falhou (A_Touch_of_Magic%2C_1961_film.ogv?utm_source=commo): /wikipedia/commons/f/fa/A_Touch_of_Magic%2C_1961_film.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   154s]     corte falhou (A_Touch_of_Magic%2C_1961_film.ogv?utm_source=commo): /wikipedia/commons/f/fa/A_Touch_of_Magic%2C_1961_film.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   157s]     + 1_archive.mp4 de 'American Maker' a partir de 183s
+[   161s]     + 2_archive.mp4 de 'American Maker' a partir de 1344s
+[   168s]     + 3_archive.mp4 de 'Corvair in Action, The' a partir de 47s
+[   175s]     + 4_archive.mp4 de 'Corvair in Action, The' a partir de 346s
+[   176s]   v_pinto / commons: 0 filmes para 'Ford Pinto'
+[   180s]   v_pinto / archive: 1 filmes para 'Ford Pinto'
+[   197s]     + 1_archive.mp4 de 'Corvair in Action, The' a partir de 47s
+[   230s]     + 2_archive.mp4 de 'Corvair in Action, The' a partir de 342s
+[   232s]   v_pinto / commons: 0 filmes para 'Ford Pinto driving'
+[   235s]   v_pinto / archive: 1 filmes para 'Ford Pinto driving'
+[   237s]   v_2002 / commons: 0 filmes para 'BMW 2002'
+[   240s]   v_2002 / archive: 0 filmes para 'BMW 2002'
+[   241s]   v_2002 / commons: 0 filmes para 'BMW 2002 turbo driving'
+[   244s]   v_2002 / archive: 0 filmes para 'BMW 2002 turbo driving'
+[   246s]   v_amphicar / commons: 0 filmes para 'Amphicar'
+[   251s]   v_amphicar / archive: 2 filmes para 'Amphicar'
+[   256s]     + 1_archive.mp4 de 'To the Fair' a partir de 191s
+[   260s]     + 2_archive.mp4 de 'To the Fair' a partir de 1398s
+[   265s]     + 3_archive.mp4 de 'To the Fair' a partir de 190s
+[   269s]     + 4_archive.mp4 de 'To the Fair' a partir de 1393s
+[   270s]   v_bt46 / commons: 0 filmes para 'Brabham BT46'
+[   276s]   v_bt46 / archive: 0 filmes para 'Brabham BT46'
+[   277s]   v_bt46 / commons: 0 filmes para 'Brabham fan car'
+[   280s]   v_bt46 / archive: 0 filmes para 'Brabham fan car'
+[   282s]   v_bt46 / commons: 4 filmes para 'Formula 1 1978'
+[   287s]   v_bt46 / archive: 2 filmes para 'Formula 1 1978'
+[   288s]     corte falhou (HIM_Haile_Selassie_I.webm?utm_source=commons.wikim): edia.org/wikipedia/commons/a/a7/HIM_Haile_Selassie_I.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   288s]     corte falhou (HIM_Haile_Selassie_I.webm?utm_source=commons.wikim): edia.org/wikipedia/commons/a/a7/HIM_Haile_Selassie_I.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   288s]     corte falhou (Full_Emperor_Haile_Selassie_I_1968_UN_Speech.webm?): ns/7/7b/Full_Emperor_Haile_Selassie_I_1968_UN_Speech.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   288s]     corte falhou (Full_Emperor_Haile_Selassie_I_1968_UN_Speech.webm?): ns/7/7b/Full_Emperor_Haile_Selassie_I_1968_UN_Speech.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   288s]     corte falhou (En.Wikipedia-VideoWiki-Breastfeeding.webm?utm_sour): ia/commons/7/7f/En.Wikipedia-VideoWiki-Breastfeeding.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   288s]     corte falhou (En.Wikipedia-VideoWiki-Breastfeeding.webm?utm_sour): ia/commons/7/7f/En.Wikipedia-VideoWiki-Breastfeeding.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   288s]     corte falhou (En.Video-Breastfeeding.webm?utm_source=commons.wik): ia.org/wikipedia/commons/a/a1/En.Video-Breastfeeding.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   288s]     corte falhou (En.Video-Breastfeeding.webm?utm_source=commons.wik): ia.org/wikipedia/commons/a/a1/En.Video-Breastfeeding.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   297s]     + 1_archive.mp4 de '1978 Formula 1 Febbre Della Velocita ( Speed Fever) [ VHSRip' a partir de 681s
+[   304s]     + 2_archive.mp4 de '1978 Formula 1 Febbre Della Velocita ( Speed Fever) [ VHSRip' a partir de 4994s
+[   313s]     + 3_archive.mp4 de 'The World ledaer,Great sun---Fangruida/ Cord Rossi 2020v1.3 ' a partir de 8s
+[   319s]     trecho escuro em 31s, tentando mais adiante
+[   326s]     trecho escuro em 30s, tentando mais adiante
+[   333s]     + 4_archive.mp4 de 'The World ledaer,Great sun---Fangruida/ Cord Rossi 2020v1.3 ' a partir de 30s
+[   335s]   v_chaparral / commons: 0 filmes para 'Chaparral 2J'
+[   338s]   v_chaparral / archive: 0 filmes para 'Chaparral 2J'
+[   339s]   v_chaparral / commons: 0 filmes para 'Chaparral Can-Am'
+[   343s]   v_chaparral / archive: 0 filmes para 'Chaparral Can-Am'
+[   344s]   v_chaparral / commons: 0 filmes para 'Chaparral fan car'
+[   346s]   v_chaparral / archive: 0 filmes para 'Chaparral fan car'
+[   348s]   v_lemans / commons: 10 filmes para 'Le Mans 1970'
+[   352s]   v_lemans / archive: 1 filmes para 'Le Mans 1970'
+[   352s]     corte falhou (%D0%A7%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA_%D1%81_): D0%BF%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D0%BC_%281929%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   352s]     corte falhou (%D0%A7%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA_%D1%81_): D0%BF%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D0%BC_%281929%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   352s]     corte falhou (Gilets_jaunes_Le_Mans_24_-11-_2018.webm?utm_source): edia/commons/5/5c/Gilets_jaunes_Le_Mans_24_-11-_2018.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   352s]     corte falhou (Gilets_jaunes_Le_Mans_24_-11-_2018.webm?utm_source): edia/commons/5/5c/Gilets_jaunes_Le_Mans_24_-11-_2018.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   353s]     corte falhou (Gilets_jaune-_HSBC_-_le_Mans_03_01_2019.webm?utm_s): commons/6/68/Gilets_jaune-_HSBC_-_le_Mans_03_01_2019.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   353s]     corte falhou (Gilets_jaune-_HSBC_-_le_Mans_03_01_2019.webm?utm_s): commons/6/68/Gilets_jaune-_HSBC_-_le_Mans_03_01_2019.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   353s]     corte falhou (Gilets_jaunes_-_le_Mans_-_rond_point_des_Glonni%C3): ts_jaunes_-_le_Mans_-_rond_point_des_Glonni%C3%A8res.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   353s]     corte falhou (Gilets_jaunes_-_le_Mans_-_rond_point_des_Glonni%C3): ts_jaunes_-_le_Mans_-_rond_point_des_Glonni%C3%A8res.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   353s]     corte falhou (The_Man_on_the_Box_%281925%29.ogv?utm_source=commo): /wikipedia/commons/7/73/The_Man_on_the_Box_%281925%29.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   353s]     corte falhou (The_Man_on_the_Box_%281925%29.ogv?utm_source=commo): /wikipedia/commons/7/73/The_Man_on_the_Box_%281925%29.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   353s]     corte falhou (Burning_Man_2011_-_the_man_burns.webm?utm_source=c): ipedia/commons/9/92/Burning_Man_2011_-_the_man_burns.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   353s]     corte falhou (Burning_Man_2011_-_the_man_burns.webm?utm_source=c): ipedia/commons/9/92/Burning_Man_2011_-_the_man_burns.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   353s]     corte falhou (Winsor_McCay_%281912%29_How_a_Mosquito_Operates.we): 9/9c/Winsor_McCay_%281912%29_How_a_Mosquito_Operates.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   354s]     corte falhou (Winsor_McCay_%281912%29_How_a_Mosquito_Operates.we): 9/9c/Winsor_McCay_%281912%29_How_a_Mosquito_Operates.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   354s]     corte falhou (NASA-WeeklyArcticSeaIceAge-1984-2019.webm?utm_sour): ia/commons/2/2b/NASA-WeeklyArcticSeaIceAge-1984-2019.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   354s]     corte falhou (NASA-WeeklyArcticSeaIceAge-1984-2019.webm?utm_sour): ia/commons/2/2b/NASA-WeeklyArcticSeaIceAge-1984-2019.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   354s]     corte falhou (The_Wrong_Man_%281956%29_-_Trailer.webm?utm_source): edia/commons/6/6a/The_Wrong_Man_%281956%29_-_Trailer.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   354s]     corte falhou (The_Wrong_Man_%281956%29_-_Trailer.webm?utm_source): edia/commons/6/6a/The_Wrong_Man_%281956%29_-_Trailer.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   354s]     corte falhou (Man_cave.webm?utm_source=commons.wikimedia.org&utm): upload.wikimedia.org/wikipedia/commons/4/48/Man_cave.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   354s]     corte falhou (Man_cave.webm?utm_source=commons.wikimedia.org&utm): upload.wikimedia.org/wikipedia/commons/4/48/Man_cave.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   362s]     + 1_archive.mp4 de 'U.S. Army Combat Bulletin #18 - Progress In Southern France,' a partir de 275s
+[   368s]     + 2_archive.mp4 de 'U.S. Army Combat Bulletin #18 - Progress In Southern France,' a partir de 2015s
+[   369s]   v_lemans / commons: 0 filmes para '24 Heures du Mans 1970'
+[   373s]   v_lemans / archive: 0 filmes para '24 Heures du Mans 1970'
+[   375s]   v_lemans / commons: 0 filmes para 'Le Mans 1971 Porsche'
+[   379s]   v_lemans / archive: 0 filmes para 'Le Mans 1971 Porsche'
