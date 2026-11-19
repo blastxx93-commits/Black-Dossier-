@@ -1,132 +1,109 @@
-[     0s] es08-prohibidos: 19 planos, limite 35.0 min
-[     0s] m_bt46b: 'Brabham BT46B'
-[     0s]     commons: 10 candidatos em 0.5s
-[    34s]   ! api.openverse.org: 504 Server Error: Gateway Timeout for url: https://api.openverse.org/v1/images/?q=Brabham+BT46B&license=pdm%2Ccc0%2Cby%2Cby-sa&page_size=12&mature=false
-[    34s]     openverse: 0 candidatos em 33.6s
-[    42s]     loc: 0 candidatos em 8.3s
-[    48s]   -> 10 imagens
-[    48s] h_lauda: 'Niki Lauda 1978'
-[    49s]     commons: 9 candidatos em 0.3s
-[    75s]   ! api.openverse.org: 504 Server Error: Gateway Timeout for url: https://api.openverse.org/v1/images/?q=Niki+Lauda+1978&license=pdm%2Ccc0%2Cby%2Cby-sa&page_size=12&mature=false
-[    75s]     openverse: 0 candidatos em 26.6s
-[   109s]   ! www.loc.gov: HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out. (read timeout=15)
-[   109s]     loc: 0 candidatos em 34.1s
-[   112s]   -> 5 imagens
-[   112s] h_anderstorp: 'Anderstorp Raceway'
-[   113s]     commons: 11 candidatos em 0.6s
-[   144s]     openverse: 12 candidatos em 30.6s
-[   147s]     loc: 0 candidatos em 3.7s
-[   151s]   -> 4 imagens
-[   151s] m_r4: 'Renault 4'
-[   152s]     commons: 12 candidatos em 0.4s
-[   175s]     openverse: 10 candidatos em 23.0s
-[   199s]   ! www.loc.gov: 429 rate limit
-[   199s]     loc: 0 candidatos em 24.0s
-[   206s]   -> 10 imagens
-[   206s] h_r4_interior: 'Renault 4 dashboard'
-[   207s]     commons: 11 candidatos em 1.1s
-[   233s]   ! api.openverse.org: 504 Server Error: Gateway Timeout for url: https://api.openverse.org/v1/images/?q=Renault+4+dashboard&license=pdm%2Ccc0%2Cby%2Cby-sa&page_size=12&mature=false
-[   233s]     openverse: 0 candidatos em 26.4s
-[   257s]   ! www.loc.gov: 429 rate limit
-[   257s]     loc: 0 candidatos em 24.0s
-[   259s]   -> 4 imagens
-[   259s] m_2cv: 'Citroën 2CV'
-[   260s]     commons: 11 candidatos em 0.7s
-[   274s]     openverse: 12 candidatos em 13.7s
-[   298s]   ! www.loc.gov: 429 rate limit
-[   298s]   ! www.loc.gov desligado nesta execucao (3 falhas seguidas)
-[   298s]     loc: 0 candidatos em 24.0s
-[   304s]   -> 10 imagens
-[   304s] h_2cv_roof: 'Citroën 2CV canvas roof'
-[   305s]     commons: 0 candidatos em 0.4s
-[   311s]     openverse: 0 candidatos em 6.4s
-[   311s]     loc: 0 candidatos em 0.0s
-[   311s]     commons: 12 candidatos em 0.3s
-[   326s]     openverse: 2 candidatos em 14.5s
-[   326s]     loc: 0 candidatos em 0.0s
-[   330s]   -> 4 imagens
-[   330s] m_2002turbo: 'BMW 2002 turbo'
-[   331s]     commons: 12 candidatos em 0.3s
-[   365s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
-[   365s]     openverse: 0 candidatos em 34.2s
-[   365s]     loc: 0 candidatos em 0.0s
-[   371s]   -> 10 imagens
-[   371s] m_cobra427: 'Shelby Cobra 427'
-[   371s]     commons: 12 candidatos em 0.4s
-[   399s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
-[   399s]     openverse: 0 candidatos em 27.1s
-[   399s]     loc: 0 candidatos em 0.0s
-[   404s]   -> 10 imagens
-[   404s] h_shelby: 'Carroll Shelby'
-[   405s]     commons: 7 candidatos em 0.3s
-[   424s]     openverse: 12 candidatos em 19.5s
-[   424s]     loc: 0 candidatos em 0.0s
-[   426s]   -> 3 imagens
-[   426s] m_corvair: 'Chevrolet Corvair'
-[   426s]     commons: 12 candidatos em 0.3s
-[   461s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
-[   461s]     openverse: 0 candidatos em 34.1s
-[   461s]     loc: 0 candidatos em 0.0s
-[   467s]   -> 10 imagens
-[   467s] h_nader: 'Ralph Nader'
-[   467s]     commons: 7 candidatos em 0.7s
-[   501s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
-[   501s]     openverse: 0 candidatos em 33.7s
-[   501s]     loc: 0 candidatos em 0.0s
-[   504s]   -> 4 imagens
-[   504s] m_pinto: 'Ford Pinto'
-[   504s]     commons: 9 candidatos em 0.7s
-[   519s]     openverse: 9 candidatos em 14.4s
-[   519s]     loc: 0 candidatos em 0.0s
-[   525s]   -> 10 imagens
-[   525s] m_superbird: 'Plymouth Superbird'
-[   525s]     commons: 11 candidatos em 0.2s
-[   559s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
-[   559s]     openverse: 0 candidatos em 33.4s
-[   559s]     loc: 0 candidatos em 0.0s
-[   566s]     commons: 12 candidatos em 0.7s
-[   600s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
-[   600s]     openverse: 0 candidatos em 34.1s
-[   600s]     loc: 0 candidatos em 0.0s
-[   601s]   -> 12 imagens
-[   601s] m_porsche917: 'Porsche 917'
-[   601s]     commons: 12 candidatos em 0.4s
-[   626s]   ! api.openverse.org: 500 Server Error: Internal Server Error for url: https://api.openverse.org/v1/images/?q=Porsche+917&license=pdm%2Ccc0%2Cby%2Cby-sa&page_size=12&mature=false
-[   626s]   ! api.openverse.org desligado nesta execucao (3 falhas seguidas)
-[   626s]     openverse: 0 candidatos em 24.7s
-[   626s]     loc: 0 candidatos em 0.0s
-[   633s]   -> 12 imagens
-[   633s] h_lemans70: 'Le Mans 1970 Porsche'
-[   633s]     commons: 12 candidatos em 0.5s
-[   633s]     openverse: 0 candidatos em 0.0s
-[   633s]     loc: 0 candidatos em 0.0s
-[   646s]   -> 5 imagens
-[   646s] m_chaparral2j: 'Chaparral 2J'
-[   646s]     commons: 6 candidatos em 0.2s
-[   646s]     openverse: 0 candidatos em 0.0s
-[   646s]     loc: 0 candidatos em 0.0s
-[   650s]     commons: 1 candidatos em 0.4s
-[   650s]     openverse: 0 candidatos em 0.0s
-[   650s]     loc: 0 candidatos em 0.0s
-[   651s]     commons: 3 candidatos em 0.4s
-[   651s]     openverse: 0 candidatos em 0.0s
-[   651s]     loc: 0 candidatos em 0.0s
-[   681s]     falhou download (commons) em 30.0s
-[   711s]     falhou download (commons) em 30.0s
-[   711s]   -> 7 imagens
-[   711s] m_amphicar: 'Amphicar'
-[   712s]     commons: 11 candidatos em 0.3s
-[   712s]     openverse: 0 candidatos em 0.0s
-[   712s]     loc: 0 candidatos em 0.0s
-[   744s]     falhou download (commons) em 30.0s
-[   774s]     falhou download (commons) em 30.0s
-[   776s]   -> 8 imagens
-[   776s] h_euroncap: 'crash test'
-[   777s]     commons: 12 candidatos em 0.5s
-[   777s]     openverse: 0 candidatos em 0.0s
-[   777s]     loc: 0 candidatos em 0.0s
-[   778s]     falhou download (commons) em 0.0s
-[   778s]     falhou download (commons) em 0.0s
-[   778s]     falhou download (commons) em 0.0s
-[   780s]   -> 4 imagens
-[   785s] fim: 142 imagens
+[     0s] es08-prohibidos: 12 planos, limite 35.0 min
+[     0s] m_917_2: 'Porsche 917K Gulf'
+[     0s]     commons: 11 candidatos em 0.4s
+[    30s]     openverse: 12 candidatos em 29.3s
+[    57s]     loc: 0 candidatos em 27.2s
+[    64s]   -> 10 imagens
+[    64s] m_cobra_2: 'AC Cobra 289'
+[    64s]     commons: 12 candidatos em 0.4s
+[    81s]     openverse: 12 candidatos em 17.1s
+[   115s]   ! www.loc.gov: HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out. (read timeout=15)
+[   115s]     loc: 0 candidatos em 34.0s
+[   145s]     falhou download (commons) em 30.0s
+[   178s]     falhou download (openverse) em 30.0s
+[   209s]     falhou download (openverse) em 30.0s
+[   211s]   -> 10 imagens
+[   211s] m_superbird_2: 'Dodge Charger Daytona 1969'
+[   212s]     commons: 12 candidatos em 0.5s
+[   246s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[   246s]     openverse: 0 candidatos em 34.0s
+[   280s]   ! www.loc.gov: HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out. (read timeout=15)
+[   280s]     loc: 0 candidatos em 34.1s
+[   286s]   -> 10 imagens
+[   286s] m_r4_2: 'Renault 4 GTL'
+[   287s]     commons: 12 candidatos em 0.4s
+[   317s]   ! api.openverse.org: 504 Server Error: Gateway Timeout for url: https://api.openverse.org/v1/images/?q=Renault+4+GTL&license=pdm%2Ccc0%2Cby%2Cby-sa&page_size=12&mature=false
+[   317s]     openverse: 0 candidatos em 30.1s
+[   318s]     loc: 0 candidatos em 0.9s
+[   324s]   -> 10 imagens
+[   324s] m_2cv_2: 'Citroën 2CV Charleston'
+[   324s]     commons: 12 candidatos em 0.4s
+[   338s]     openverse: 5 candidatos em 14.4s
+[   373s]   ! www.loc.gov: HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out. (read timeout=15)
+[   373s]     loc: 0 candidatos em 34.0s
+[   403s]     falhou download (openverse) em 30.0s
+[   403s]     falhou download (commons) em 0.0s
+[   407s]     falhou download (openverse) em 0.0s
+[   410s]   -> 10 imagens
+[   410s] m_corvair_2: 'Corvair Monza Spyder'
+[   411s]     commons: 12 candidatos em 0.5s
+[   445s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[   445s]     openverse: 0 candidatos em 34.0s
+[   449s]     loc: 0 candidatos em 4.6s
+[   455s]   -> 10 imagens
+[   455s] m_pinto_2: 'Mercury Bobcat'
+[   456s]     commons: 9 candidatos em 0.8s
+[   471s]     openverse: 12 candidatos em 15.0s
+[   490s]     loc: 0 candidatos em 19.3s
+[   490s]     falhou download (commons) em 0.0s
+[   497s]   -> 10 imagens
+[   497s] m_bt46_2: 'Brabham BT46'
+[   497s]     commons: 10 candidatos em 0.4s
+[   527s]   ! api.openverse.org: 504 Server Error: Gateway Timeout for url: https://api.openverse.org/v1/images/?q=Brabham+BT46&license=pdm%2Ccc0%2Cby%2Cby-sa&page_size=12&mature=false
+[   527s]     openverse: 0 candidatos em 30.2s
+[   533s]     loc: 0 candidatos em 5.3s
+[   533s]     falhou download (commons) em 0.0s
+[   534s]     falhou download (commons) em 0.0s
+[   535s]     falhou download (commons) em 0.0s
+[   538s]     commons: 12 candidatos em 0.4s
+[   550s]     openverse: 9 candidatos em 12.3s
+[   580s]     loc: 0 candidatos em 30.5s
+[   580s]     falhou download (openverse) em 0.0s
+[   580s]     falhou download (openverse) em 0.0s
+[   580s]     falhou download (openverse) em 0.0s
+[   581s]     falhou download (openverse) em 0.0s
+[   582s]     falhou download (openverse) em 0.0s
+[   582s]   -> 10 imagens
+[   582s] h_f1_1978: 'Formula 1 1978'
+[   583s]     commons: 12 candidatos em 1.0s
+[   616s]   ! api.openverse.org: 504 Server Error: Gateway Timeout for url: https://api.openverse.org/v1/images/?q=Formula+1+1978&license=pdm%2Ccc0%2Cby%2Cby-sa&page_size=12&mature=false
+[   616s]     openverse: 0 candidatos em 32.6s
+[   650s]   ! www.loc.gov: HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out. (read timeout=15)
+[   650s]     loc: 0 candidatos em 34.0s
+[   651s]     falhou download (commons) em 0.0s
+[   651s]     falhou download (commons) em 0.0s
+[   658s]   -> 10 imagens
+[   658s] h_canam: 'Can-Am 1970'
+[   658s]     commons: 12 candidatos em 0.7s
+[   670s]     openverse: 9 candidatos em 12.0s
+[   704s]   ! www.loc.gov: HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out. (read timeout=15)
+[   704s]     loc: 0 candidatos em 34.1s
+[   704s]     falhou download (commons) em 0.0s
+[   705s]     falhou download (commons) em 0.0s
+[   706s]     falhou download (commons) em 0.0s
+[   706s]     falhou download (commons) em 0.0s
+[   711s]   -> 10 imagens
+[   711s] h_nascar70: 'NASCAR 1970'
+[   711s]     commons: 12 candidatos em 0.7s
+[   745s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[   745s]     openverse: 0 candidatos em 34.1s
+[   751s]     loc: 0 candidatos em 5.2s
+[   751s]     falhou download (commons) em 0.0s
+[   757s]   -> 10 imagens
+[   757s] m_2002_2: 'BMW 2002 tii'
+[   757s]     commons: 12 candidatos em 0.6s
+[   788s]   ! api.openverse.org: 504 Server Error: Gateway Timeout for url: https://api.openverse.org/v1/images/?q=BMW+2002+tii&license=pdm%2Ccc0%2Cby%2Cby-sa&page_size=12&mature=false
+[   788s]     openverse: 0 candidatos em 30.5s
+[   822s]   ! www.loc.gov: HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out. (read timeout=15)
+[   822s]     loc: 0 candidatos em 34.0s
+[   824s]     falhou download (commons) em 0.0s
+[   824s]     falhou download (commons) em 0.0s
+[   824s]     falhou download (commons) em 0.0s
+[   825s]     falhou download (commons) em 0.0s
+[   829s]     falhou download (commons) em 0.0s
+[   830s]     commons: 12 candidatos em 0.5s
+[   849s]     openverse: 6 candidatos em 19.6s
+[   883s]   ! www.loc.gov: HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out. (read timeout=15)
+[   883s]     loc: 0 candidatos em 34.1s
+[   885s]   -> 10 imagens
+[   889s] fim: 120 imagens
