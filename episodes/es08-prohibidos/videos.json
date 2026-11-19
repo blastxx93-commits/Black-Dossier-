@@ -1,0 +1,99 @@
+{
+ "defaults": {
+  "n": 4,
+  "clip": 8,
+  "per_film": 2,
+  "years": [
+   1955,
+   1979
+  ],
+  "sources": [
+   "archive"
+  ]
+ },
+ "shots": [
+  {
+   "id": "c_crash_test",
+   "query": "crash test",
+   "alt": [
+    "safety test car",
+    "car safety"
+   ],
+   "collections": [
+    "prelinger",
+    "universal_newsreels"
+   ],
+   "years": [
+    1955,
+    1975
+   ],
+   "n": 4,
+   "per_film": 2
+  },
+  {
+   "id": "c_race",
+   "query": "auto race",
+   "alt": [
+    "Le Mans",
+    "Grand Prix",
+    "racing cars"
+   ],
+   "collections": [
+    "universal_newsreels"
+   ],
+   "years": [
+    1960,
+    1967
+   ],
+   "n": 5,
+   "per_film": 2
+  },
+  {
+   "id": "c_traffic",
+   "query": "traffic 1960s",
+   "alt": [
+    "highway",
+    "freeway"
+   ],
+   "collections": [
+    "prelinger"
+   ],
+   "years": [
+    1958,
+    1972
+   ],
+   "n": 4,
+   "per_film": 2
+  },
+  {
+   "id": "c_amphibious",
+   "query": "amphibious car",
+   "alt": [
+    "Amphicar"
+   ],
+   "collections": [
+    "universal_newsreels",
+    "prelinger"
+   ],
+   "years": [
+    1960,
+    1967
+   ],
+   "n": 3,
+   "per_film": 2
+  },
+  {
+   "id": "v_classic_race",
+   "query": "classic race car",
+   "alt": [
+    "vintage racing",
+    "Porsche 917"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay"
+   ],
+   "n": 4
+  }
+ ]
+}

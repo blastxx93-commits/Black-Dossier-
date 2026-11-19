@@ -1,0 +1,40 @@
+{
+ "model": "black-forest-labs/flux-1.1-pro-ultra",
+ "raw": true,
+ "n": 1,
+ "style": ", 1970s documentary photograph, rich Kodachrome colour, film grain, period-correct vehicles and clothes, realistic, cinematic, no logos, no badges, no readable text, no brand names",
+ "shots": [
+  {
+   "id": "ai_fan_grid",
+   "prompt": "A 1978 Formula 1 grid on a Swedish circuit, a white racing car with a huge round fan at the rear, mechanics and rival team members staring at it, no readable text, no logos"
+  },
+  {
+   "id": "ai_suction_closeup",
+   "prompt": "Close low view of a 1978 Formula 1 car squatting toward the asphalt, a large circular fan at the rear, dust and small stones blown backwards, no readable text, no logos"
+  },
+  {
+   "id": "ai_r4_country",
+   "prompt": "A small white 1960s French hatchback with roof rack loaded with luggage driving on a dusty Spanish country road, family inside, summer, no readable text, no logos"
+  },
+  {
+   "id": "ai_2cv_village",
+   "prompt": "A grey 1960s Citroen-style tiny car with rolled-back canvas roof parked in a Galician stone village street, hens nearby, no readable text, no logos"
+  },
+  {
+   "id": "ai_oil_crisis",
+   "prompt": "Empty German Autobahn on a 1973 car-free Sunday, people walking and cycling on the motorway lanes, overcast, no readable text, no logos"
+  },
+  {
+   "id": "ai_sidepipe",
+   "prompt": "Close view of chrome side exhaust pipes under the door of a 1960s American-British roadster, heat haze, a man's trouser leg stepping out, no readable text, no logos"
+  },
+  {
+   "id": "ai_senate_hearing",
+   "prompt": "A 1966 US Senate hearing room, a young lawyer in a dark suit testifying at a microphone, press photographers, black and white photograph, no recognisable faces, no readable text, no logos"
+  },
+  {
+   "id": "ai_nascar_wing",
+   "prompt": "Several 1970 American stock cars with enormous rear wings and pointed noses racing on a banked oval, motion blur, crowd in the stands, no readable text, no logos"
+  }
+ ]
+}

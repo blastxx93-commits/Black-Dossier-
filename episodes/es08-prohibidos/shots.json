@@ -1,0 +1,189 @@
+{
+ "defaults": {
+  "n": 4,
+  "sources": [
+   "commons",
+   "openverse",
+   "loc"
+  ]
+ },
+ "shots": [
+  {
+   "id": "m_bt46b",
+   "query": "Brabham BT46B",
+   "alt": [
+    "Brabham BT46B fan car",
+    "Brabham BT46 fan",
+    "Brabham fan car Lauda"
+   ],
+   "n": 10
+  },
+  {
+   "id": "h_lauda",
+   "query": "Niki Lauda 1978",
+   "alt": [
+    "Niki Lauda Brabham",
+    "Niki Lauda"
+   ],
+   "n": 5
+  },
+  {
+   "id": "h_anderstorp",
+   "query": "Anderstorp Raceway",
+   "alt": [
+    "Scandinavian Raceway Anderstorp"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_r4",
+   "query": "Renault 4",
+   "alt": [
+    "Renault 4L",
+    "Renault 4 FASA",
+    "Renault 4 TL"
+   ],
+   "n": 10
+  },
+  {
+   "id": "h_r4_interior",
+   "query": "Renault 4 dashboard",
+   "alt": [
+    "Renault 4 interior",
+    "Renault 4 gear lever"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_2cv",
+   "query": "Citroën 2CV",
+   "alt": [
+    "Citroën 2CV Vigo",
+    "Citroen 2CV6",
+    "2CV Charleston"
+   ],
+   "n": 10
+  },
+  {
+   "id": "h_2cv_roof",
+   "query": "Citroën 2CV canvas roof",
+   "alt": [
+    "2CV open roof",
+    "2CV interior"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_2002turbo",
+   "query": "BMW 2002 turbo",
+   "alt": [
+    "BMW 2002 Turbo 1973",
+    "BMW 2002 turbo spoiler"
+   ],
+   "n": 10
+  },
+  {
+   "id": "m_cobra427",
+   "query": "Shelby Cobra 427",
+   "alt": [
+    "AC Cobra 427",
+    "Shelby Cobra side pipes",
+    "AC Cobra"
+   ],
+   "n": 10
+  },
+  {
+   "id": "h_shelby",
+   "query": "Carroll Shelby",
+   "alt": [
+    "Carroll Shelby 1960s"
+   ],
+   "n": 3
+  },
+  {
+   "id": "m_corvair",
+   "query": "Chevrolet Corvair",
+   "alt": [
+    "Corvair Monza 1962",
+    "Chevrolet Corvair 1960",
+    "Corvair engine"
+   ],
+   "n": 10
+  },
+  {
+   "id": "h_nader",
+   "query": "Ralph Nader",
+   "alt": [
+    "Ralph Nader 1960s",
+    "Unsafe at Any Speed"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_pinto",
+   "query": "Ford Pinto",
+   "alt": [
+    "Ford Pinto 1971",
+    "Ford Pinto hatchback",
+    "Ford Pinto wagon"
+   ],
+   "n": 10
+  },
+  {
+   "id": "m_superbird",
+   "query": "Plymouth Superbird",
+   "alt": [
+    "Plymouth Road Runner Superbird",
+    "Superbird wing",
+    "Dodge Charger Daytona"
+   ],
+   "n": 12
+  },
+  {
+   "id": "m_porsche917",
+   "query": "Porsche 917",
+   "alt": [
+    "Porsche 917K",
+    "Porsche 917 Gulf",
+    "Porsche 917/30"
+   ],
+   "n": 12
+  },
+  {
+   "id": "h_lemans70",
+   "query": "Le Mans 1970 Porsche",
+   "alt": [
+    "Porsche 917 Le Mans",
+    "24 Hours of Le Mans 1970"
+   ],
+   "n": 5
+  },
+  {
+   "id": "m_chaparral2j",
+   "query": "Chaparral 2J",
+   "alt": [
+    "Chaparral 2J fan car",
+    "Chaparral Can-Am"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_amphicar",
+   "query": "Amphicar",
+   "alt": [
+    "Amphicar 770",
+    "Amphicar in water"
+   ],
+   "n": 8
+  },
+  {
+   "id": "h_euroncap",
+   "query": "crash test",
+   "alt": [
+    "crash test dummy",
+    "Euro NCAP crash test"
+   ],
+   "n": 4
+  }
+ ]
+}
