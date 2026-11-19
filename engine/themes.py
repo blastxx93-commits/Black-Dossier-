@@ -49,6 +49,16 @@ THEMES = {
         "tone": "",
         "sub_font": "Inter SemiBold", "sub_colour": "&H00FFFFFF", "sub_outline": "&H00401000", "sub_size": 44,
     },
+    # race template (HyperFrames, es10+): red #e10600 + white, slanted Anton headlines
+    "race": {
+        "accent": (255, 255, 255), "accent2": (225, 6, 0), "accent2_dark": (150, 4, 0),
+        "white": (248, 248, 248), "grey": (170, 170, 170),
+        "bg": (10, 10, 10), "hairline": (30, 30, 30), "glows": ((225, 6, 0), (120, 0, 0)),
+        "impact": "Anton-Regular.ttf", "body": "Inter-SemiBold.otf",
+        "grade": {"contrast": 1.1, "saturation": 1.1, "gamma": 1.0, "grain": 2},
+        "tone": "",
+        "sub_font": "Inter SemiBold", "sub_colour": "&H00FFFFFF", "sub_outline": "&H00000000", "sub_size": 44,
+    },
     # old newspaper: black + white + red, near-monochrome archive grade
     "periodico": {
         "accent": (240, 236, 225), "accent2": (200, 20, 20), "accent2_dark": (130, 10, 10),

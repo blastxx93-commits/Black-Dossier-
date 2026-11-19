@@ -1,0 +1,11 @@
+{
+ "lang": "es",
+ "tagline": "Historia real del automóvil, con fuentes.",
+ "compact_credits": true,
+ "credits_file": "episodes/es10-fortuna80/publish/creditos_completos.txt",
+ "other_line": "Imágenes: Wikimedia Commons y Openverse. Todas las imágenes son fotografías reales. Los precios son referencias de anuncios y subastas; varían mucho según el estado de cada coche.",
+ "intro": "Coches que tu padre veía en las revistas, coches que se vendían en cualquier concesionario de España… hoy valen una fortuna. Del Volkswagen Golf GTI y el Peugeot 205 GTI al Renault 5 Copa Turbo y el Supercinco GT Turbo de Valladolid, el Renault 5 Turbo 2, el Ford Sierra Cosworth, el BMW M3, el Lancia Delta Integrale, el Mercedes 190 E Evolution II, el Ford Sierra RS500 de más de medio millón de dólares… y el Ferrari F40, el último coche de Enzo Ferrari, que hoy supera los tres millones.\n\nVídeo divulgativo basado en fuentes publicadas (Hagerty, RM Sotheby's, anuncios en España).",
+ "chapters": ["El coche de 1987 que hoy vale 3 millones", "10 · Golf GTI y 9 · Peugeot 205 GTI", "8 · R5 Copa Turbo / Supercinco GT Turbo y 7 · R5 Turbo 2", "6 · Sierra Cosworth y 5 · BMW M3", "4 · Lancia Delta Integrale y 3 · Mercedes 190 E Evo II", "2 · Ford Sierra RS500", "Countach, Quattro, DeLorean y 1 · Ferrari F40"],
+ "sources": ["coches.net: cuánto cuestan hoy los coches populares de los 80 y 90", "Motor1: Renault 5 GT Turbo y Renault 5 Turbo 2 en venta y subasta", "Hagerty: valoraciones del BMW M3 E30, Sierra Cosworth y Lancia Delta Integrale", "RM Sotheby's: Ferrari F40 (Abu Dabi 2025) y F40 LM (Monterey 2025)", "Wikipedia: FASA-Renault; Mercedes 190 E 2.5-16 Evolution II; Ford Sierra RS500"],
+ "tags_line": "#cochesclasicos #ferrarif40 #supercinco #años80 #historia"
+}

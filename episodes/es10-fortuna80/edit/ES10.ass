@@ -1,0 +1,307 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Doc,Inter SemiBold,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0.5,0,1,2.4,1.2,2,200,200,62,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.83,Doc,,0,0,0,,En 1987, un coche nuevo salido\Nde Maranello costaba una fortuna:
+Dialogue: 0,0:00:04.88,0:00:06.21,Doc,,0,0,0,,más que una casa.
+Dialogue: 0,0:00:06.26,0:00:07.71,Doc,,0,0,0,,Hoy, ese mismo coche, usado,
+Dialogue: 0,0:00:07.76,0:00:09.47,Doc,,0,0,0,,con casi cuarenta años encima,
+Dialogue: 0,0:00:09.52,0:00:12.03,Doc,,0,0,0,,se vende en subasta por más\Nde tres millones de dólares.
+Dialogue: 0,0:00:12.08,0:00:15.21,Doc,,0,0,0,,Y una versión especial ha llegado\Na superar los once millones.
+Dialogue: 0,0:00:15.26,0:00:16.53,Doc,,0,0,0,,No es el único.
+Dialogue: 0,0:00:16.58,0:00:18.45,Doc,,0,0,0,,Coches que tu padre veía en las revistas,
+Dialogue: 0,0:00:18.50,0:00:21.19,Doc,,0,0,0,,coches que se vendían en\Ncualquier concesionario de España,
+Dialogue: 0,0:00:21.24,0:00:22.79,Doc,,0,0,0,,coches que la gente modificaba,
+Dialogue: 0,0:00:22.84,0:00:26.65,Doc,,0,0,0,,estrellaba o dejaba oxidarse en la\Ncalle… hoy valen una auténtica fortuna.
+Dialogue: 0,0:00:26.70,0:00:30.69,Doc,,0,0,0,,Hoy vas a conocer diez coches de los\Naños ochenta que hoy valen muchísimo más
+Dialogue: 0,0:00:30.74,0:00:31.81,Doc,,0,0,0,,de lo que costaron.
+Dialogue: 0,0:00:31.86,0:00:34.65,Doc,,0,0,0,,Dos de ellos se vendían en\Nlos concesionarios de España,
+Dialogue: 0,0:00:34.70,0:00:36.83,Doc,,0,0,0,,y uno salía de una fábrica de Valladolid.
+Dialogue: 0,0:00:36.88,0:00:39.69,Doc,,0,0,0,,Uno se vendió en subasta por\Nmás de medio millón de dólares,
+Dialogue: 0,0:00:39.74,0:00:41.51,Doc,,0,0,0,,siendo una berlina familiar.
+Dialogue: 0,0:00:41.56,0:00:45.15,Doc,,0,0,0,,Y el número uno… el número uno es\Nprobablemente el coche más deseado del
+Dialogue: 0,0:00:45.20,0:00:46.19,Doc,,0,0,0,,planeta.
+Dialogue: 0,0:00:46.24,0:00:48.07,Doc,,0,0,0,,Y una advertencia antes de empezar:
+Dialogue: 0,0:00:48.12,0:00:51.11,Doc,,0,0,0,,los precios de los clásicos\Ncambian mucho según el estado,
+Dialogue: 0,0:00:51.16,0:00:53.13,Doc,,0,0,0,,los kilómetros y la\Nhistoria de cada unidad.
+Dialogue: 0,0:00:53.18,0:00:56.89,Doc,,0,0,0,,Así que lo que vas a ver son referencias\Nde anuncios y subastas recientes.
+Dialogue: 0,0:00:56.94,0:00:58.32,Doc,,0,0,0,,Pero te van a sorprender igual.
+Dialogue: 0,0:00:58.95,0:01:01.26,Doc,,0,0,0,,¿Por qué los coches de los\Nochenta valen tanto ahora?
+Dialogue: 0,0:01:01.31,0:01:04.08,Doc,,0,0,0,,La respuesta es muy\Nsencilla: nostalgia y dinero.
+Dialogue: 0,0:01:04.13,0:01:07.20,Doc,,0,0,0,,Los niños que en los ochenta pegaban\Npósteres de estos coches en la pared de
+Dialogue: 0,0:01:07.25,0:01:10.52,Doc,,0,0,0,,su habitación tienen hoy cuarenta,\Ncincuenta o sesenta años.
+Dialogue: 0,0:01:10.57,0:01:14.54,Doc,,0,0,0,,Y muchos de ellos, por fin, pueden\Npermitirse comprar el coche de sus sueños.
+Dialogue: 0,0:01:14.59,0:01:16.10,Doc,,0,0,0,,A eso se suma algo más.
+Dialogue: 0,0:01:16.15,0:01:18.44,Doc,,0,0,0,,La mayoría de estos\Ncoches se usaban a fondo.
+Dialogue: 0,0:01:18.49,0:01:22.18,Doc,,0,0,0,,Se corría con ellos, se modificaban,\Nse tuneaban, se estrellaban.
+Dialogue: 0,0:01:22.23,0:01:24.02,Doc,,0,0,0,,Así que encontrar hoy una unidad original,
+Dialogue: 0,0:01:24.07,0:01:26.92,Doc,,0,0,0,,sin tocar y en buen estado,\Nes cada vez más difícil.
+Dialogue: 0,0:01:26.97,0:01:29.56,Doc,,0,0,0,,Y lo que es escaso, se paga.
+Dialogue: 0,0:01:29.61,0:01:30.36,Doc,,0,0,0,,Número diez.
+Dialogue: 0,0:01:30.41,0:01:32.82,Doc,,0,0,0,,El Volkswagen Golf GTI.
+Dialogue: 0,0:01:32.87,0:01:35.32,Doc,,0,0,0,,Alemania, 1976.
+Dialogue: 0,0:01:35.37,0:01:38.30,Doc,,0,0,0,,Un grupo de ingenieros de\NVolkswagen trabaja casi en secreto,
+Dialogue: 0,0:01:38.35,0:01:39.00,Doc,,0,0,0,,fuera de horas,
+Dialogue: 0,0:01:39.05,0:01:42.16,Doc,,0,0,0,,en un proyecto que la dirección\Nno se tomaba muy en serio:
+Dialogue: 0,0:01:42.21,0:01:44.74,Doc,,0,0,0,,un Golf normal, con un motor de inyección,
+Dialogue: 0,0:01:44.79,0:01:47.70,Doc,,0,0,0,,suspensión más firme y\Nunos detalles deportivos.
+Dialogue: 0,0:01:47.75,0:01:49.04,Doc,,0,0,0,,Tapicería de cuadros,
+Dialogue: 0,0:01:49.09,0:01:53.28,Doc,,0,0,0,,una pelota de golf en la palanca de\Ncambios y una franja roja en la calandra.
+Dialogue: 0,0:01:53.33,0:01:57.62,Doc,,0,0,0,,Se presentó en el Salón de Frankfurt\Nde 1975 y empezó a venderse al año
+Dialogue: 0,0:01:57.67,0:01:58.40,Doc,,0,0,0,,siguiente.
+Dialogue: 0,0:01:58.45,0:01:59.86,Doc,,0,0,0,,Nadie esperaba gran cosa.
+Dialogue: 0,0:01:59.91,0:02:02.18,Doc,,0,0,0,,Pensaban vender unas\Npocas miles de unidades.
+Dialogue: 0,0:02:02.23,0:02:03.66,Doc,,0,0,0,,Vendieron cientos de miles.
+Dialogue: 0,0:02:03.71,0:02:04.32,Doc,,0,0,0,,Y sin quererlo,
+Dialogue: 0,0:02:04.37,0:02:06.78,Doc,,0,0,0,,inventaron una categoría entera de coches:
+Dialogue: 0,0:02:06.83,0:02:09.78,Doc,,0,0,0,,los compactos deportivos, los famosos GTI.
+Dialogue: 0,0:02:09.83,0:02:11.18,Doc,,0,0,0,,Durante los años ochenta,
+Dialogue: 0,0:02:11.23,0:02:15.06,Doc,,0,0,0,,el primer Golf GTI fue el coche de los\Njóvenes con dinero en media Europa.
+Dialogue: 0,0:02:15.11,0:02:18.68,Doc,,0,0,0,,Hoy, los buenos ejemplares de la primera\Ngeneración se anuncian en España en
+Dialogue: 0,0:02:18.73,0:02:20.34,Doc,,0,0,0,,torno a los diecinueve mil euros.
+Dialogue: 0,0:02:20.39,0:02:23.76,Doc,,0,0,0,,Y algunas versiones especiales\Npasan de los veinticinco mil.
+Dialogue: 0,0:02:23.81,0:02:27.52,Doc,,0,0,0,,Para un coche pequeño de los\Nsetenta y ochenta, no está nada mal.
+Dialogue: 0,0:02:27.57,0:02:28.94,Doc,,0,0,0,,Número nueve.
+Dialogue: 0,0:02:28.99,0:02:31.56,Doc,,0,0,0,,El Peugeot 205 GTI.
+Dialogue: 0,0:02:31.61,0:02:33.04,Doc,,0,0,0,,Francia, 1984.
+Dialogue: 0,0:02:33.09,0:02:35.12,Doc,,0,0,0,,Peugeot está en apuros.
+Dialogue: 0,0:02:35.17,0:02:40.20,Doc,,0,0,0,,Necesita un éxito urgente, y lo encuentra\Ncon un utilitario precioso: el 205.
+Dialogue: 0,0:02:40.25,0:02:41.06,Doc,,0,0,0,,Y para darle imagen,
+Dialogue: 0,0:02:41.11,0:02:45.42,Doc,,0,0,0,,saca una versión deportiva que se\Nconvertiría en leyenda: el 205 GTI.
+Dialogue: 0,0:02:45.47,0:02:49.32,Doc,,0,0,0,,Además, el 205 tenía la\Nmejor publicidad posible:
+Dialogue: 0,0:02:49.37,0:02:52.36,Doc,,0,0,0,,su hermano de rallies, el 205 Turbo 16,
+Dialogue: 0,0:02:52.41,0:02:57.66,Doc,,0,0,0,,ganó los campeonatos del\Nmundo de 1985 y 1986.
+Dialogue: 0,0:02:57.71,0:03:00.38,Doc,,0,0,0,,Todo el mundo quería un\N205 que se pareciera,
+Dialogue: 0,0:03:00.43,0:03:02.74,Doc,,0,0,0,,aunque fuera un poco, al de los rallies.
+Dialogue: 0,0:03:02.79,0:03:05.30,Doc,,0,0,0,,Ligero, ágil y con un\Ncomportamiento muy vivo,
+Dialogue: 0,0:03:05.35,0:03:09.44,Doc,,0,0,0,,el 205 GTI fue uno de los coches más\Ndivertidos de conducir de su época.
+Dialogue: 0,0:03:09.49,0:03:11.56,Doc,,0,0,0,,Pero también uno de los más traicioneros:
+Dialogue: 0,0:03:11.61,0:03:14.34,Doc,,0,0,0,,si levantabas el pie del\Nacelerador en mitad de una curva,
+Dialogue: 0,0:03:14.39,0:03:16.32,Doc,,0,0,0,,la parte trasera podía irse de lado.
+Dialogue: 0,0:03:16.37,0:03:18.40,Doc,,0,0,0,,Muchos acabaron en la cuneta.
+Dialogue: 0,0:03:18.45,0:03:21.56,Doc,,0,0,0,,Y eso, precisamente, es lo\Nque hoy lo hace tan valioso.
+Dialogue: 0,0:03:21.61,0:03:24.58,Doc,,0,0,0,,Si en los noventa podías comprar\Nuno usado por cuatro duros,
+Dialogue: 0,0:03:24.63,0:03:28.92,Doc,,0,0,0,,hoy en España se anuncian unidades\Ndel 205 GTI uno coma nueve por veinte,
+Dialogue: 0,0:03:28.97,0:03:31.38,Doc,,0,0,0,,veinticinco y hasta\Ncasi treinta mil euros.
+Dialogue: 0,0:03:31.43,0:03:35.04,Doc,,0,0,0,,Un coche que podías encontrar en cualquier\Ncalle se ha convertido en una pieza
+Dialogue: 0,0:03:35.09,0:03:35.97,Doc,,0,0,0,,de colección.
+Dialogue: 0,0:03:38.10,0:03:38.15,Doc,,0,0,0,,Número ocho.
+Dialogue: 0,0:03:38.20,0:03:41.69,Doc,,0,0,0,,El Renault 5 Copa Turbo\Ny el Supercinco GT Turbo.
+Dialogue: 0,0:03:41.74,0:03:43.37,Doc,,0,0,0,,Y aquí llegan los nuestros.
+Dialogue: 0,0:03:43.42,0:03:47.11,Doc,,0,0,0,,Porque en los años ochenta, el\NRenault 5 era casi un coche español.
+Dialogue: 0,0:03:47.16,0:03:49.75,Doc,,0,0,0,,Se fabricaba en Valladolid, en\Nla factoría de FASA-Renault,
+Dialogue: 0,0:03:49.80,0:03:51.81,Doc,,0,0,0,,y estaba por todas partes.
+Dialogue: 0,0:03:51.86,0:03:54.15,Doc,,0,0,0,,Primero llegó el Renault 5 Copa Turbo,
+Dialogue: 0,0:03:54.20,0:03:57.07,Doc,,0,0,0,,el nombre que recibió en\NEspaña el R5 Alpine Turbo,
+Dialogue: 0,0:03:57.12,0:04:01.23,Doc,,0,0,0,,a la venta entre 1982 y 1984.
+Dialogue: 0,0:04:01.28,0:04:05.07,Doc,,0,0,0,,Su nombre venía de las copas monomarca\Nque FASA-Renault organizaba en España,
+Dialogue: 0,0:04:05.12,0:04:07.57,Doc,,0,0,0,,donde muchos pilotos\Ndieron sus primeros pasos.
+Dialogue: 0,0:04:07.62,0:04:13.17,Doc,,0,0,0,,Después, en 1985, llegó el Supercinco,\Nfabricado también en Valladolid.
+Dialogue: 0,0:04:13.22,0:04:16.43,Doc,,0,0,0,,Y con él, su versión más\Nsalvaje: el GT Turbo.
+Dialogue: 0,0:04:16.48,0:04:20.51,Doc,,0,0,0,,El Supercinco GT Turbo pesaba muy poco\Ny tenía un turbo que entraba de golpe,
+Dialogue: 0,0:04:20.56,0:04:21.63,Doc,,0,0,0,,como una patada.
+Dialogue: 0,0:04:21.68,0:04:23.79,Doc,,0,0,0,,Era el coche de los\Nchavales que querían correr,
+Dialogue: 0,0:04:23.84,0:04:28.13,Doc,,0,0,0,,y por eso la mayoría de ellos acabaron\Nmodificados, cansados o destrozados.
+Dialogue: 0,0:04:28.18,0:04:30.29,Doc,,0,0,0,,Hoy encontrar uno bueno es complicado.
+Dialogue: 0,0:04:30.34,0:04:31.79,Doc,,0,0,0,,Los precios varían muchísimo:
+Dialogue: 0,0:04:31.84,0:04:34.19,Doc,,0,0,0,,se han visto unidades en\Nsubasta por unos ocho mil euros,
+Dialogue: 0,0:04:34.24,0:04:38.13,Doc,,0,0,0,,y anuncios de ejemplares impecables\Nque piden alrededor de treinta mil.
+Dialogue: 0,0:04:38.18,0:04:41.23,Doc,,0,0,0,,Un coche que en los noventa\Nse vendía casi regalado.
+Dialogue: 0,0:04:41.28,0:04:45.21,Doc,,0,0,0,,Si en tu familia hubo un Supercinco GT\NTurbo, cuéntamelo en los comentarios.
+Dialogue: 0,0:04:45.26,0:04:48.91,Doc,,0,0,0,,Porque hoy, ese coche vale\Nbastante más de lo que imaginas.
+Dialogue: 0,0:04:48.96,0:04:50.25,Doc,,0,0,0,,Número siete.
+Dialogue: 0,0:04:50.30,0:04:52.43,Doc,,0,0,0,,El Renault 5 Turbo 2.
+Dialogue: 0,0:04:52.48,0:04:55.97,Doc,,0,0,0,,Y si el GT Turbo es caro,\Nprepárate para su hermano mayor.
+Dialogue: 0,0:04:56.02,0:04:58.77,Doc,,0,0,0,,El Renault 5 Turbo original\Nnació para los rallies,
+Dialogue: 0,0:04:58.82,0:05:01.53,Doc,,0,0,0,,con el motor colocado detrás\Nde los asientos delanteros,
+Dialogue: 0,0:05:01.58,0:05:04.39,Doc,,0,0,0,,donde iban los asientos\Ntraseros del R5 normal.
+Dialogue: 0,0:05:04.44,0:05:08.55,Doc,,0,0,0,,Sus aletas eran tan anchas que parecía\Nun R5 que había ido al gimnasio.
+Dialogue: 0,0:05:08.60,0:05:11.57,Doc,,0,0,0,,Para homologarlo, Renault tuvo\Nque fabricar versiones de calle.
+Dialogue: 0,0:05:11.62,0:05:15.09,Doc,,0,0,0,,Primero el Turbo 1, y después, desde 1983,
+Dialogue: 0,0:05:15.14,0:05:17.85,Doc,,0,0,0,,el Turbo 2, más sencillo\Ny algo más barato.
+Dialogue: 0,0:05:17.90,0:05:20.93,Doc,,0,0,0,,Aun así, era un coche\Ncarísimo y muy minoritario.
+Dialogue: 0,0:05:20.98,0:05:25.41,Doc,,0,0,0,,Hoy, un Renault 5 Turbo 2 en buen estado\Nse anuncia por más de cien mil euros.
+Dialogue: 0,0:05:25.46,0:05:27.51,Doc,,0,0,0,,Sí, más de cien mil\Neuros por un coche que,
+Dialogue: 0,0:05:27.56,0:05:30.67,Doc,,0,0,0,,por fuera, se parece mucho al que\Nllevaba a tus abuelos al pueblo.
+Dialogue: 0,0:05:30.72,0:05:33.10,Doc,,0,0,0,,Ese es el poder de la\Nleyenda de los rallies.
+Dialogue: 0,0:05:34.94,0:05:34.91,Doc,,0,0,0,,Número seis.
+Dialogue: 0,0:05:34.96,0:05:37.49,Doc,,0,0,0,,El Ford Sierra RS Cosworth.
+Dialogue: 0,0:05:37.54,0:05:40.19,Doc,,0,0,0,,Reino Unido, 1986.
+Dialogue: 0,0:05:40.24,0:05:42.17,Doc,,0,0,0,,Ford quiere ganar en las\Ncarreras de turismos,
+Dialogue: 0,0:05:42.22,0:05:45.01,Doc,,0,0,0,,y para eso necesita algo\Nmás que un coche familiar.
+Dialogue: 0,0:05:45.06,0:05:47.69,Doc,,0,0,0,,Coge el Sierra, una\Nberlina normal y corriente,
+Dialogue: 0,0:05:47.74,0:05:50.15,Doc,,0,0,0,,y le pone un motor turbo\Npreparado por Cosworth,
+Dialogue: 0,0:05:50.20,0:05:52.21,Doc,,0,0,0,,los especialistas de la Fórmula 1.
+Dialogue: 0,0:05:52.26,0:05:54.79,Doc,,0,0,0,,Y para que no levantara las\Nruedas a alta velocidad,
+Dialogue: 0,0:05:54.84,0:05:58.61,Doc,,0,0,0,,le añade un alerón trasero enorme,\Nel famoso «cola de ballena».
+Dialogue: 0,0:05:58.66,0:06:02.49,Doc,,0,0,0,,El Sierra Cosworth fue el coche de los\Nladrones de los ochenta en Reino Unido.
+Dialogue: 0,0:06:02.54,0:06:06.55,Doc,,0,0,0,,Tan rápido y tan deseado que muchas\Naseguradoras se negaban a asegurarlo.
+Dialogue: 0,0:06:06.60,0:06:09.07,Doc,,0,0,0,,Hoy, según la revista\Nespecializada Hagerty,
+Dialogue: 0,0:06:09.12,0:06:12.49,Doc,,0,0,0,,los mejores ejemplares han llegado a\Npagarse por decenas de miles de libras,
+Dialogue: 0,0:06:12.54,0:06:16.67,Doc,,0,0,0,,y en Estados Unidos la venta media\Nronda los cincuenta y siete mil dólares.
+Dialogue: 0,0:06:16.72,0:06:18.47,Doc,,0,0,0,,Pero eso no es lo más sorprendente.
+Dialogue: 0,0:06:18.52,0:06:21.05,Doc,,0,0,0,,Lo más sorprendente es\Nsu versión más extrema,
+Dialogue: 0,0:06:21.10,0:06:23.21,Doc,,0,0,0,,la que está al final de esta lista.
+Dialogue: 0,0:06:23.26,0:06:24.71,Doc,,0,0,0,,Número cinco.
+Dialogue: 0,0:06:24.76,0:06:26.99,Doc,,0,0,0,,El BMW M3.
+Dialogue: 0,0:06:27.04,0:06:30.07,Doc,,0,0,0,,Alemania, 1986.
+Dialogue: 0,0:06:30.12,0:06:33.23,Doc,,0,0,0,,BMW necesita un coche para ganar\Nen las carreras de turismos,
+Dialogue: 0,0:06:33.28,0:06:35.11,Doc,,0,0,0,,y crea el primer M3.
+Dialogue: 0,0:06:35.16,0:06:37.31,Doc,,0,0,0,,Por fuera parecía un Serie 3 normal,
+Dialogue: 0,0:06:37.36,0:06:38.99,Doc,,0,0,0,,pero casi todo era distinto:
+Dialogue: 0,0:06:39.04,0:06:41.59,Doc,,0,0,0,,las aletas ensanchadas, el alerón trasero,
+Dialogue: 0,0:06:41.64,0:06:44.77,Doc,,0,0,0,,la luna trasera más inclinada y\Nun motor de cuatro cilindros muy
+Dialogue: 0,0:06:44.82,0:06:46.15,Doc,,0,0,0,,revolucionado.
+Dialogue: 0,0:06:46.20,0:06:48.01,Doc,,0,0,0,,En los circuitos fue imbatible.
+Dialogue: 0,0:06:48.06,0:06:49.53,Doc,,0,0,0,,Según la propia BMW,
+Dialogue: 0,0:06:49.58,0:06:52.89,Doc,,0,0,0,,el M3 se convirtió en uno de los coches\Nde turismos con más victorias de la
+Dialogue: 0,0:06:52.94,0:06:53.23,Doc,,0,0,0,,historia.
+Dialogue: 0,0:06:53.28,0:06:56.59,Doc,,0,0,0,,Y en la calle, en el sueño\Nde cualquier aficionado.
+Dialogue: 0,0:06:56.64,0:07:00.43,Doc,,0,0,0,,Durante años, los M3 de primera generación\Nse podían encontrar relativamente
+Dialogue: 0,0:07:00.48,0:07:01.37,Doc,,0,0,0,,baratos.
+Dialogue: 0,0:07:01.42,0:07:01.93,Doc,,0,0,0,,Ya no.
+Dialogue: 0,0:07:01.98,0:07:03.53,Doc,,0,0,0,,Según la valoración de Hagerty,
+Dialogue: 0,0:07:03.58,0:07:07.05,Doc,,0,0,0,,un buen ejemplar ronda hoy los\Nsesenta y cinco o setenta mil dólares.
+Dialogue: 0,0:07:07.10,0:07:10.81,Doc,,0,0,0,,Y las versiones Evolution, más\Nescasas, se pagan bastante más.
+Dialogue: 0,0:07:10.86,0:07:14.77,Doc,,0,0,0,,Muchos dueños que lo vendieron hace\Nveinte años todavía se arrepienten.
+Dialogue: 0,0:07:14.82,0:07:17.01,Doc,,0,0,0,,Antes de seguir, una pregunta rápida:
+Dialogue: 0,0:07:17.06,0:07:19.59,Doc,,0,0,0,,¿cuál de estos coches crees\Nque va a ser el número uno?
+Dialogue: 0,0:07:19.64,0:07:22.23,Doc,,0,0,0,,Déjalo en los comentarios\Nantes de que lo descubras.
+Dialogue: 0,0:07:22.28,0:07:24.31,Doc,,0,0,0,,Y ahora llegamos a los cuatro primeros.
+Dialogue: 0,0:07:24.36,0:07:26.73,Doc,,0,0,0,,Aquí los precios ya no\Nson de coche de colección.
+Dialogue: 0,0:07:26.78,0:07:27.66,Doc,,0,0,0,,Son de casa.
+Dialogue: 0,0:07:28.49,0:07:29.50,Doc,,0,0,0,,Número cuatro.
+Dialogue: 0,0:07:29.55,0:07:31.62,Doc,,0,0,0,,El Lancia Delta Integrale.
+Dialogue: 0,0:07:31.67,0:07:32.64,Doc,,0,0,0,,Italia.
+Dialogue: 0,0:07:32.69,0:07:34.48,Doc,,0,0,0,,Después de la prohibición del Grupo B,
+Dialogue: 0,0:07:34.53,0:07:38.02,Doc,,0,0,0,,el Mundial de Rallies pasó a correrse\Ncon coches mucho más parecidos a los de
+Dialogue: 0,0:07:38.07,0:07:38.53,Doc,,0,0,0,,la calle.
+Dialogue: 0,0:07:38.58,0:07:41.08,Doc,,0,0,0,,Y Lancia encontró la fórmula perfecta:
+Dialogue: 0,0:07:41.13,0:07:43.35,Doc,,0,0,0,,un pequeño compacto familiar, el Delta,
+Dialogue: 0,0:07:43.40,0:07:44.80,Doc,,0,0,0,,con tracción total,
+Dialogue: 0,0:07:44.85,0:07:48.68,Doc,,0,0,0,,turbo y unas aletas ensanchadas\Nque le daban un aspecto musculoso.
+Dialogue: 0,0:07:48.73,0:07:49.74,Doc,,0,0,0,,Con el Delta,
+Dialogue: 0,0:07:49.79,0:07:55.10,Doc,,0,0,0,,Lancia ganó seis títulos mundiales de\Nmarcas seguidos, entre 1987 y 1992.
+Dialogue: 0,0:07:55.15,0:07:59.58,Doc,,0,0,0,,Pilotos como el italiano Miki Biasion\No el finlandés Juha Kankkunen fueron
+Dialogue: 0,0:07:59.63,0:08:01.44,Doc,,0,0,0,,campeones del mundo con él.
+Dialogue: 0,0:08:01.49,0:08:04.94,Doc,,0,0,0,,Y fue precisamente el gran rival de un\Njoven madrileño que empezaba a ganar en
+Dialogue: 0,0:08:04.99,0:08:07.22,Doc,,0,0,0,,el Mundial con Toyota: Carlos Sainz.
+Dialogue: 0,0:08:07.27,0:08:10.38,Doc,,0,0,0,,Es uno de los récords más impresionantes\Nde la historia de los rallies.
+Dialogue: 0,0:08:10.43,0:08:12.28,Doc,,0,0,0,,Y para homologar el coche de carreras,
+Dialogue: 0,0:08:12.33,0:08:15.46,Doc,,0,0,0,,Lancia vendió miles de versiones\Nde calle: los Integrale.
+Dialogue: 0,0:08:15.51,0:08:18.56,Doc,,0,0,0,,Hoy el Integrale es uno de los\Nclásicos más buscados de Europa.
+Dialogue: 0,0:08:18.61,0:08:22.75,Doc,,0,0,0,,Según Hagerty, en 2015 un ejemplar en\Nexcelente estado se valoraba en unas
+Dialogue: 0,0:08:22.80,0:08:23.66,Doc,,0,0,0,,cuarenta mil libras.
+Dialogue: 0,0:08:23.71,0:08:24.80,Doc,,0,0,0,,Pocos años después,
+Dialogue: 0,0:08:24.85,0:08:28.58,Doc,,0,0,0,,un Integrale Evo 2 se vendió en una\Nsubasta en Estados Unidos por más de
+Dialogue: 0,0:08:28.63,0:08:30.20,Doc,,0,0,0,,ciento treinta mil dólares.
+Dialogue: 0,0:08:30.25,0:08:34.00,Doc,,0,0,0,,El familiar italiano que ganaba rallies\Nse ha convertido en una inversión.
+Dialogue: 0,0:08:34.05,0:08:34.88,Doc,,0,0,0,,Número tres.
+Dialogue: 0,0:08:34.93,0:08:39.18,Doc,,0,0,0,,El Mercedes ciento noventa E dos\Ncoma cinco dieciséis Evolution dos.
+Dialogue: 0,0:08:39.23,0:08:40.50,Doc,,0,0,0,,Alemania, 1990.
+Dialogue: 0,0:08:40.55,0:08:44.32,Doc,,0,0,0,,Mercedes también quiere ganar en\Nlas carreras de turismos alemanas,
+Dialogue: 0,0:08:44.37,0:08:47.36,Doc,,0,0,0,,y para eso transforma su\Nberlina más pequeña y más seria,
+Dialogue: 0,0:08:47.41,0:08:50.90,Doc,,0,0,0,,el 190, la que usaban los\Ntaxistas y los médicos.
+Dialogue: 0,0:08:50.95,0:08:54.50,Doc,,0,0,0,,Le pone un motor de dieciséis válvulas\Npreparado con ayuda de Cosworth,
+Dialogue: 0,0:08:54.55,0:08:58.08,Doc,,0,0,0,,y una carrocería con un alerón trasero\Ntan enorme que parecía sacado de otro
+Dialogue: 0,0:08:58.13,0:08:59.06,Doc,,0,0,0,,coche.
+Dialogue: 0,0:08:59.11,0:09:02.60,Doc,,0,0,0,,Se fabricaron solo quinientas\Nunidades de calle del Evolution II,
+Dialogue: 0,0:09:02.65,0:09:05.60,Doc,,0,0,0,,todas pintadas en el mismo\Ncolor gris azulado oscuro.
+Dialogue: 0,0:09:05.65,0:09:07.84,Doc,,0,0,0,,En su época, mucha gente se reía de él:
+Dialogue: 0,0:09:07.89,0:09:11.20,Doc,,0,0,0,,un Mercedes de ejecutivo con\Nun alerón de coche de carreras.
+Dialogue: 0,0:09:11.25,0:09:12.52,Doc,,0,0,0,,Hoy ya nadie se ríe.
+Dialogue: 0,0:09:12.57,0:09:16.58,Doc,,0,0,0,,El 190 Evolution II se ha convertido\Nen uno de los Mercedes más buscados por
+Dialogue: 0,0:09:16.63,0:09:20.22,Doc,,0,0,0,,los coleccionistas, y los ejemplares\Nen buen estado se venden por cifras de
+Dialogue: 0,0:09:20.27,0:09:21.34,Doc,,0,0,0,,seis dígitos.
+Dialogue: 0,0:09:21.39,0:09:24.05,Doc,,0,0,0,,Una berlina de taxista,\Nconvertida en joya.
+Dialogue: 0,0:09:25.64,0:09:25.60,Doc,,0,0,0,,Número dos.
+Dialogue: 0,0:09:25.65,0:09:29.04,Doc,,0,0,0,,El Ford Sierra RS500 Cosworth.
+Dialogue: 0,0:09:29.09,0:09:31.54,Doc,,0,0,0,,¿Recuerdas el Sierra\NCosworth del número seis?
+Dialogue: 0,0:09:31.59,0:09:33.44,Doc,,0,0,0,,Pues esta es su versión más extrema.
+Dialogue: 0,0:09:33.49,0:09:36.36,Doc,,0,0,0,,Para poder correr en las carreras\Nde turismos con un coche todavía más
+Dialogue: 0,0:09:36.41,0:09:40.00,Doc,,0,0,0,,potente, Ford tuvo que fabricar\Nquinientas unidades especiales.
+Dialogue: 0,0:09:40.05,0:09:42.04,Doc,,0,0,0,,Se las encargó a un preparador británico,
+Dialogue: 0,0:09:42.09,0:09:44.30,Doc,,0,0,0,,Tickford, que les puso\Nun turbo más grande,
+Dialogue: 0,0:09:44.35,0:09:47.78,Doc,,0,0,0,,más inyectores y una aerodinámica\Ntodavía más agresiva.
+Dialogue: 0,0:09:47.83,0:09:50.28,Doc,,0,0,0,,El resultado fue el RS500,
+Dialogue: 0,0:09:50.33,0:09:53.40,Doc,,0,0,0,,uno de los coches de turismos\Nmás dominantes de la historia.
+Dialogue: 0,0:09:53.45,0:09:58.22,Doc,,0,0,0,,En los circuitos de Europa y\NAustralia, los RS500 ganaban casi todo.
+Dialogue: 0,0:09:58.27,0:10:00.20,Doc,,0,0,0,,Y aquí viene la cifra que da vértigo.
+Dialogue: 0,0:10:00.25,0:10:03.02,Doc,,0,0,0,,Según las informaciones sobre\Nsubastas en Estados Unidos,
+Dialogue: 0,0:10:03.07,0:10:07.58,Doc,,0,0,0,,un RS500 con muy pocos kilómetros\Nllegó a venderse por más de quinientos
+Dialogue: 0,0:10:07.63,0:10:09.04,Doc,,0,0,0,,noventa mil dólares.
+Dialogue: 0,0:10:09.09,0:10:14.64,Doc,,0,0,0,,Más de medio millón de dólares por\Nuna berlina familiar de Ford de 1987.
+Dialogue: 0,0:10:14.69,0:10:17.58,Doc,,0,0,0,,Si alguien te hubiera dicho en los\Nochenta que un Sierra iba a valer más que
+Dialogue: 0,0:10:17.63,0:10:19.40,Doc,,0,0,0,,un piso, te habrías reído.
+Dialogue: 0,0:10:19.45,0:10:20.49,Doc,,0,0,0,,Pero aquí estamos.
+Dialogue: 0,0:10:21.29,0:10:22.64,Doc,,0,0,0,,Pero antes del número uno,
+Dialogue: 0,0:10:22.69,0:10:26.14,Doc,,0,0,0,,tres menciones especiales que\Ntambién se han disparado de precio.
+Dialogue: 0,0:10:26.19,0:10:29.64,Doc,,0,0,0,,El Lamborghini Countach, el\Ncoche del póster por excelencia.
+Dialogue: 0,0:10:29.69,0:10:31.90,Doc,,0,0,0,,Con sus puertas de tijera\Ny su forma de cuña,
+Dialogue: 0,0:10:31.95,0:10:35.12,Doc,,0,0,0,,fue el coche que más paredes de\Nhabitaciones decoró en los ochenta.
+Dialogue: 0,0:10:35.17,0:10:39.14,Doc,,0,0,0,,Hoy, los ejemplares de esa época se\Npagan por cientos de miles de euros.
+Dialogue: 0,0:10:39.19,0:10:43.62,Doc,,0,0,0,,El Audi Quattro, el coupé que revolucionó\Nlos rallies con la tracción total.
+Dialogue: 0,0:10:43.67,0:10:47.36,Doc,,0,0,0,,Sus versiones de calle originales se han\Nconvertido en clásicos muy cotizados,
+Dialogue: 0,0:10:47.41,0:10:50.90,Doc,,0,0,0,,sobre todo las primeras, con su\Ninconfundible sonido de cinco cilindros.
+Dialogue: 0,0:10:50.95,0:10:54.58,Doc,,0,0,0,,Y el DeLorean, el coche de la\Npelícula «Regreso al futuro».
+Dialogue: 0,0:10:54.63,0:10:58.26,Doc,,0,0,0,,Fue un fracaso comercial absoluto,\Ny su fábrica cerró en pocos años.
+Dialogue: 0,0:10:58.31,0:11:00.30,Doc,,0,0,0,,Pero gracias al cine se\Nconvirtió en un icono,
+Dialogue: 0,0:11:00.35,0:11:03.68,Doc,,0,0,0,,y hoy un DeLorean en buen estado se\Npaga muy por encima de lo que valía de
+Dialogue: 0,0:11:03.73,0:11:05.66,Doc,,0,0,0,,segunda mano hace veinte años.
+Dialogue: 0,0:11:05.71,0:11:06.74,Doc,,0,0,0,,Y ahora sí.
+Dialogue: 0,0:11:06.79,0:11:08.30,Doc,,0,0,0,,Llegamos al número uno.
+Dialogue: 0,0:11:08.35,0:11:10.44,Doc,,0,0,0,,El coche más deseado de los años ochenta.
+Dialogue: 0,0:11:10.49,0:11:13.14,Doc,,0,0,0,,Y probablemente, de la historia.
+Dialogue: 0,0:11:13.19,0:11:15.42,Doc,,0,0,0,,Maranello, Italia, 1987.
+Dialogue: 0,0:11:15.47,0:11:17.76,Doc,,0,0,0,,Ferrari cumple cuarenta años.
+Dialogue: 0,0:11:17.81,0:11:19.58,Doc,,0,0,0,,Y su fundador, Enzo Ferrari,
+Dialogue: 0,0:11:19.63,0:11:21.36,Doc,,0,0,0,,ya con casi noventa años,
+Dialogue: 0,0:11:21.41,0:11:24.70,Doc,,0,0,0,,quiere celebrarlo con un coche que\Nresuma todo lo que ha sido la marca:
+Dialogue: 0,0:11:24.75,0:11:27.18,Doc,,0,0,0,,carreras, velocidad y pura emoción.
+Dialogue: 0,0:11:27.23,0:11:29.66,Doc,,0,0,0,,Lo llamaron F40.
+Dialogue: 0,0:11:29.71,0:11:31.24,Doc,,0,0,0,,No tenía nada que sobrara.
+Dialogue: 0,0:11:31.29,0:11:34.64,Doc,,0,0,0,,Ni radio, ni moqueta, ni manillas\Ninteriores en las puertas,
+Dialogue: 0,0:11:34.69,0:11:36.42,Doc,,0,0,0,,que se abrían con un simple cable.
+Dialogue: 0,0:11:36.47,0:11:39.52,Doc,,0,0,0,,La carrocería era de materiales\Ncompuestos, como un coche de carreras.
+Dialogue: 0,0:11:39.57,0:11:42.62,Doc,,0,0,0,,Y debajo, un motor V8 con dos turbos.
+Dialogue: 0,0:11:42.67,0:11:46.00,Doc,,0,0,0,,Fue el primer coche de calle en superar\Nlos trescientos veinte kilómetros por
+Dialogue: 0,0:11:46.05,0:11:46.84,Doc,,0,0,0,,hora.
+Dialogue: 0,0:11:46.89,0:11:51.24,Doc,,0,0,0,,El F40 fue, además, el último Ferrari\Naprobado personalmente por Enzo Ferrari.
+Dialogue: 0,0:11:51.29,0:11:55.46,Doc,,0,0,0,,Murió en 1988, pocos meses\Ndespués de su presentación.
+Dialogue: 0,0:11:55.51,0:11:58.26,Doc,,0,0,0,,Y eso convirtió al F40\Nen algo más que un coche:
+Dialogue: 0,0:11:58.31,0:12:02.24,Doc,,0,0,0,,en el testamento de un hombre que había\Ncreado la marca más famosa del mundo.
+Dialogue: 0,0:12:02.29,0:12:04.74,Doc,,0,0,0,,Ferrari pensaba fabricar\Nunos cuatrocientos.
+Dialogue: 0,0:12:04.79,0:12:08.44,Doc,,0,0,0,,La demanda fue tan enorme que acabó\Nfabricando más de mil trescientos.
+Dialogue: 0,0:12:08.49,0:12:09.90,Doc,,0,0,0,,Y aun así, en su época,
+Dialogue: 0,0:12:09.95,0:12:13.44,Doc,,0,0,0,,hubo especuladores que llegaron a pagar\Nvarias veces su precio original solo
+Dialogue: 0,0:12:13.49,0:12:14.96,Doc,,0,0,0,,por conseguir uno.
+Dialogue: 0,0:12:15.01,0:12:18.76,Doc,,0,0,0,,Hoy, un F40 normal de calle se vende\Nen subasta por más de tres millones de
+Dialogue: 0,0:12:18.81,0:12:19.40,Doc,,0,0,0,,dólares.
+Dialogue: 0,0:12:19.45,0:12:24.56,Doc,,0,0,0,,En 2025, un F40 se vendió en Abu Dabi\Npor casi tres millones novecientos mil.
+Dialogue: 0,0:12:24.61,0:12:27.08,Doc,,0,0,0,,Y la versión de carreras, el F40 LM,
+Dialogue: 0,0:12:27.13,0:12:28.86,Doc,,0,0,0,,alcanzó en la subasta de Monterey,
+Dialogue: 0,0:12:28.91,0:12:31.96,Doc,,0,0,0,,en Estados Unidos, más de\Nonce millones de dólares.
+Dialogue: 0,0:12:32.01,0:12:32.98,Doc,,0,0,0,,Piénsalo.
+Dialogue: 0,0:12:33.03,0:12:37.04,Doc,,0,0,0,,El mismo coche que en 1987\Ncostaba lo que una casa,
+Dialogue: 0,0:12:37.09,0:12:39.18,Doc,,0,0,0,,hoy cuesta lo que un edificio entero.
+Dialogue: 0,0:12:39.23,0:12:40.62,Doc,,0,0,0,,Así que ya lo sabes.
+Dialogue: 0,0:12:40.67,0:12:44.20,Doc,,0,0,0,,Si en los ochenta alguien de tu familia\Ntuvo uno de estos coches y lo vendió,
+Dialogue: 0,0:12:44.25,0:12:45.38,Doc,,0,0,0,,probablemente se arrepiente.
+Dialogue: 0,0:12:45.43,0:12:49.36,Doc,,0,0,0,,Y si todavía lo tiene guardado en un\Ngaraje… quizá sea el momento de ir a
+Dialogue: 0,0:12:49.41,0:12:50.28,Doc,,0,0,0,,verlo.
+Dialogue: 0,0:12:50.33,0:12:53.70,Doc,,0,0,0,,Y ahora te pregunto a ti: ¿cuál\Nde estos coches tuvo tu familia?
+Dialogue: 0,0:12:53.75,0:12:57.78,Doc,,0,0,0,,¿Un Golf GTI, un 205,\Nun Supercinco GT Turbo…?
+Dialogue: 0,0:12:57.83,0:12:59.92,Doc,,0,0,0,,Y si pudieras recuperar uno, ¿cuál sería?
+Dialogue: 0,0:12:59.97,0:13:01.70,Doc,,0,0,0,,Te leo en los comentarios.
+Dialogue: 0,0:13:01.75,0:13:02.92,Doc,,0,0,0,,Y si te ha gustado el vídeo,
+Dialogue: 0,0:13:02.97,0:13:06.30,Doc,,0,0,0,,dale a me gusta y suscríbete para\Nmás historias de coches clásicos.
+Dialogue: 0,0:13:06.35,0:13:07.59,Doc,,0,0,0,,Nos vemos en el próximo.
