@@ -17,7 +17,7 @@ são próprios deste canal, baseados no nicho de clássicos (canal de referênci
 ## 2. Conteúdo (próprio do canal)
 - Formato principal: **lista numerada em contagem regressiva** ("Los 12 coches MÁS … de los años 50").
   Formato secundário: **história de um carro só**, mas só quando houver reviravolta forte (morte do criador, fracasso, escândalo).
-- **Época do canal: só carros de 1950 a 1979** (anos 50, 60 e 70). Nada de antes de 1950, nem como item de lista
+- **Época do canal: carros de 1950 a 1999** (anos 50 a 90; ampliada pelo dono em 19/11/2026, antes era só até 1979). Nada de antes de 1950, nem como item de lista
   (modelos lançados antes, como o Fusca, só entram pela versão fabricada nos anos 50–70).
   Começar pelos anos 50, que é o que mais rende no nicho; anos 60 e 70 entram depois, ou em listas próprias.
   Ângulos que funcionam: perigo, absurdo, velocidade, polícia/viaturas.
