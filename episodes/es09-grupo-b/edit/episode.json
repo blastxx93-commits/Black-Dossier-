@@ -132,7 +132,7 @@
      "type": "image",
      "src": "a/m_lancia037/2_openverse.jpg",
      "move": "right",
-     "dur": 6.22,
+     "dur": 5.6,
      "fixed": true
     },
     {
@@ -148,7 +148,7 @@
       }
      ],
      "source": "FIA",
-     "dur": 6.0,
+     "dur": 5.3,
      "fixed": true
     },
     {
@@ -169,7 +169,7 @@
      "type": "image",
      "src": "a/m_lancia037/5_commons.jpg",
      "move": "up",
-     "dur": 4.044,
+     "dur": 4.4,
      "fixed": true
     },
     {
@@ -192,7 +192,7 @@
      "type": "image",
      "src": "a/m_r5turbo/1_commons.jpg",
      "move": "out",
-     "dur": 9.396,
+     "dur": 7.02,
      "fixed": true
     },
     {
@@ -213,14 +213,14 @@
      "type": "image",
      "src": "a/m_lancia037/7_commons.jpg",
      "move": "in",
-     "dur": 10.74,
+     "dur": 10.0,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/m_group_b/5_commons.jpg",
      "move": "out",
-     "dur": 6.62,
+     "dur": 5.62,
      "fixed": true
     },
     {
@@ -258,7 +258,7 @@
      "type": "image",
      "src": "a/m_r5turbo/5_commons.jpg",
      "move": "out",
-     "dur": 6.96,
+     "dur": 5.86,
      "fixed": true
     },
     {
@@ -272,7 +272,7 @@
      "type": "image",
      "src": "a/m_r5turbo/7_commons.jpg",
      "move": "right",
-     "dur": 8.1,
+     "dur": 8.28,
      "fixed": true
     },
     {
@@ -287,21 +287,14 @@
      "type": "image",
      "src": "a/m_r5copa/3_commons.jpg",
      "move": "in",
-     "dur": 9.22,
+     "dur": 9.32,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/m_r5copa/1_commons.jpg",
      "move": "in",
-     "dur": 7.0,
-     "fixed": true
-    },
-    {
-     "type": "image",
-     "src": "a/m_r5copa/4_commons.jpg",
-     "move": "up",
-     "dur": 4.194,
+     "dur": 10.796,
      "fixed": false
     }
    ]
@@ -338,14 +331,14 @@
     {
      "type": "image",
      "src": "a/m_manta400/3_commons.jpg",
-     "move": "out",
+     "move": "up",
      "dur": 7.0,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/m_manta400/4_openverse.jpg",
-     "move": "down",
+     "move": "out",
      "dur": 4.02,
      "fixed": true
     },
@@ -359,14 +352,14 @@
     {
      "type": "image",
      "src": "a/m_manta400/5_commons.jpg",
-     "move": "in",
+     "move": "down",
      "dur": 7.0,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/m_manta400/6_openverse.jpg",
-     "move": "left",
+     "move": "in",
      "dur": 4.08,
      "fixed": true
     },
@@ -397,7 +390,7 @@
     {
      "type": "image",
      "src": "a/m_celica_tct/4_openverse.jpg",
-     "move": "out",
+     "move": "left",
      "dur": 9.36,
      "fixed": true
     },
@@ -411,14 +404,14 @@
     {
      "type": "image",
      "src": "a/m_celica_tct/5_commons.jpg",
-     "move": "right",
+     "move": "out",
      "dur": 7.0,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/m_celica_tct/6_openverse.jpg",
-     "move": "in",
+     "move": "right",
      "dur": 5.72,
      "fixed": true
     },
@@ -464,7 +457,7 @@
     {
      "type": "image",
      "src": "a/m_metro6r4/3_commons.jpg",
-     "move": "up",
+     "move": "in",
      "dur": 8.46,
      "fixed": true
     },
@@ -478,14 +471,14 @@
     {
      "type": "image",
      "src": "a/m_metro6r4/5_commons.jpg",
-     "move": "out",
+     "move": "up",
      "dur": 7.0,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/m_metro6r4/6_commons.jpg",
-     "move": "down",
+     "move": "out",
      "dur": 5.72,
      "fixed": true
     },
@@ -530,14 +523,14 @@
     {
      "type": "image",
      "src": "a/m_rs200/1_commons.jpg",
-     "move": "in",
+     "move": "down",
      "dur": 7.0,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/m_rs200/2_commons.jpg",
-     "move": "left",
+     "move": "in",
      "dur": 5.54,
      "fixed": true
     },
@@ -551,14 +544,14 @@
     {
      "type": "image",
      "src": "a/m_lancia037/8_openverse.jpg",
-     "move": "out",
+     "move": "left",
      "dur": 7.0,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/m_lancia037/9_commons.jpg",
-     "move": "right",
+     "move": "out",
      "dur": 6.6,
      "fixed": true
     },
@@ -611,7 +604,7 @@
     {
      "type": "image",
      "src": "a/m_quattro/3_commons.jpg",
-     "move": "in",
+     "move": "right",
      "dur": 9.76,
      "fixed": true
     },
@@ -625,7 +618,7 @@
     {
      "type": "image",
      "src": "a/m_quattro/4_commons.jpg",
-     "move": "up",
+     "move": "in",
      "dur": 7.28,
      "fixed": true
     },
@@ -639,14 +632,14 @@
     {
      "type": "image",
      "src": "a/m_quattro/5_commons.jpg",
-     "move": "out",
+     "move": "up",
      "dur": 7.0,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/m_quattro/6_commons.jpg",
-     "move": "down",
+     "move": "out",
      "dur": 6.194,
      "fixed": false
     }
@@ -684,14 +677,14 @@
     {
      "type": "image",
      "src": "a/m_quattro/7_commons.jpg",
-     "move": "in",
+     "move": "down",
      "dur": 7.0,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/m_quattro/8_commons.jpg",
-     "move": "left",
+     "move": "in",
      "dur": 5.48,
      "fixed": true
     },
@@ -705,14 +698,14 @@
     {
      "type": "image",
      "src": "a/m_quattro/9_commons.jpg",
-     "move": "out",
+     "move": "left",
      "dur": 7.0,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/h_pikes/1_commons.jpg",
-     "move": "right",
+     "move": "out",
      "dur": 8.8,
      "fixed": true
     },
@@ -727,14 +720,14 @@
     {
      "type": "image",
      "src": "a/h_mouton/1_commons.jpg",
-     "move": "in",
+     "move": "right",
      "dur": 7.0,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/h_mouton/2_commons.jpg",
-     "move": "up",
+     "move": "in",
      "dur": 10.26,
      "fixed": true
     },
@@ -748,14 +741,14 @@
     {
      "type": "image",
      "src": "a/h_pikes/2_commons.jpg",
-     "move": "out",
+     "move": "up",
      "dur": 7.0,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/h_pikes/3_commons.jpg",
-     "move": "down",
+     "move": "out",
      "dur": 5.84,
      "fixed": true
     },
@@ -770,7 +763,7 @@
     {
      "type": "image",
      "src": "a/h_pikes/4_commons.jpg",
-     "move": "in",
+     "move": "down",
      "dur": 4.38,
      "fixed": true
     },
@@ -801,7 +794,7 @@
     {
      "type": "image",
      "src": "a/m_205t16/3_commons.jpg",
-     "move": "left",
+     "move": "in",
      "dur": 8.47,
      "fixed": true
     },
@@ -815,7 +808,7 @@
     {
      "type": "image",
      "src": "a/m_205t16/4_commons.jpg",
-     "move": "out",
+     "move": "left",
      "dur": 6.35,
      "fixed": true
     },
@@ -829,7 +822,7 @@
     {
      "type": "image",
      "src": "a/m_205t16/5_commons.jpg",
-     "move": "right",
+     "move": "out",
      "dur": 5.82,
      "fixed": true
     },
@@ -843,14 +836,14 @@
     {
      "type": "image",
      "src": "a/m_205t16/6_commons.jpg",
-     "move": "in",
+     "move": "right",
      "dur": 7.0,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/m_205t16/7_commons.jpg",
-     "move": "up",
+     "move": "in",
      "dur": 7.52,
      "fixed": true
     },
@@ -864,7 +857,7 @@
     {
      "type": "image",
      "src": "a/m_205t16/8_commons.jpg",
-     "move": "out",
+     "move": "up",
      "dur": 5.388,
      "fixed": false
     }
@@ -902,21 +895,21 @@
     {
      "type": "image",
      "src": "a/m_deltas4/12_commons.jpg",
-     "move": "down",
+     "move": "out",
      "dur": 7.0,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/m_deltas4/1_commons.jpg",
-     "move": "in",
+     "move": "down",
      "dur": 7.0,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/m_deltas4/2_commons.jpg",
-     "move": "left",
+     "move": "in",
      "dur": 5.86,
      "fixed": true
     },
@@ -931,14 +924,14 @@
     {
      "type": "image",
      "src": "a/m_deltas4/3_commons.jpg",
-     "move": "out",
+     "move": "left",
      "dur": 7.0,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/m_deltas4/5_commons.jpg",
-     "move": "right",
+     "move": "out",
      "dur": 6.16,
      "fixed": true
     },
@@ -960,7 +953,7 @@
     {
      "type": "image",
      "src": "a/m_deltas4/6_commons.jpg",
-     "move": "in",
+     "move": "right",
      "dur": 6.68,
      "fixed": true
     },
@@ -974,7 +967,7 @@
     {
      "type": "image",
      "src": "a/m_deltas4/7_commons.jpg",
-     "move": "up",
+     "move": "in",
      "dur": 8.62,
      "fixed": true
     },
@@ -1003,22 +996,22 @@
     {
      "type": "image",
      "src": "a/m_bx4tc/3_commons.jpg",
-     "move": "out",
+     "move": "up",
      "dur": 7.0,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/m_bx4tc/4_commons.jpg",
-     "move": "down",
+     "move": "out",
      "dur": 7.0,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/m_bx4tc/5_commons.jpg",
-     "move": "in",
-     "dur": 7.68,
+     "move": "down",
+     "dur": 7.42,
      "fixed": true
     },
     {
@@ -1031,8 +1024,8 @@
     {
      "type": "image",
      "src": "a/m_bx4tc/6_commons.jpg",
-     "move": "left",
-     "dur": 10.42,
+     "move": "in",
+     "dur": 10.92,
      "fixed": true
     },
     {
@@ -1045,8 +1038,8 @@
     {
      "type": "image",
      "src": "a/m_205t16/9_commons.jpg",
-     "move": "out",
-     "dur": 8.34,
+     "move": "left",
+     "dur": 8.82,
      "fixed": true
     },
     {
@@ -1076,22 +1069,22 @@
     {
      "type": "image",
      "src": "a/m_porsche959/2_commons.jpg",
-     "move": "right",
+     "move": "out",
      "dur": 7.0,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/m_porsche959/4_commons.jpg",
-     "move": "in",
-     "dur": 9.3,
+     "move": "right",
+     "dur": 10.26,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/m_porsche959/10_commons.jpg",
      "move": "in",
-     "dur": 8.44,
+     "dur": 8.1,
      "fixed": true
     },
     {
@@ -1104,8 +1097,8 @@
     {
      "type": "image",
      "src": "a/m_porsche959/5_commons.jpg",
-     "move": "up",
-     "dur": 5.88,
+     "move": "in",
+     "dur": 5.26,
      "fixed": true
     },
     {
@@ -1118,22 +1111,22 @@
     {
      "type": "image",
      "src": "a/m_porsche959/6_commons.jpg",
-     "move": "out",
+     "move": "up",
      "dur": 7.0,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/m_porsche959/7_commons.jpg",
-     "move": "down",
-     "dur": 4.28,
+     "move": "out",
+     "dur": 4.41,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/m_porsche959/1_commons.jpg",
      "move": "down",
-     "dur": 7.96,
+     "dur": 8.53,
      "fixed": true
     },
     {
@@ -1146,15 +1139,15 @@
     {
      "type": "image",
      "src": "a/m_r5turbo/8_commons.jpg",
-     "move": "in",
+     "move": "down",
      "dur": 7.0,
      "fixed": true
     },
     {
      "type": "image",
      "src": "a/m_r5turbo/9_commons.jpg",
-     "move": "left",
-     "dur": 6.2,
+     "move": "in",
+     "dur": 6.08,
      "fixed": true
     },
     {
@@ -1166,9 +1159,9 @@
     },
     {
      "type": "image",
-     "src": "a/m_r5copa/5_openverse.jpg",
-     "move": "out",
-     "dur": 6.64,
+     "src": "a/m_r5copa/4_commons.jpg",
+     "move": "left",
+     "dur": 6.32,
      "fixed": true
     },
     {
@@ -1187,7 +1180,7 @@
        "at": 1.2
       }
      ],
-     "dur": 8.522,
+     "dur": 8.923,
      "fixed": false,
      "fade_out": 0
     }
