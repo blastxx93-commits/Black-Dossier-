@@ -54,6 +54,10 @@ def main(ep, txt_dir):
             heard = [norm(x["w"]) for x in words if norm(x["w"])]
             sm = difflib.SequenceMatcher(None, script, heard, autojunk=False)
             for op, i1, i2, j1, j2 in sm.get_opcodes():
+                heard_run = heard[j1:j2]
+                numeric = heard_run and sum(any(ch.isdigit() for ch in w) for w in heard_run) * 2 >= len(heard_run)
+                if op == "replace" and numeric and len(heard_run) <= (i2 - i1):
+                    continue  # numbers spoken right but transcribed as digits («tres millones» -> «3 000 000»)
                 if op != "equal" and max(i2 - i1, j2 - j1) >= MAX_RUN:
                     t = words[min(j1, len(words) - 1)]["s"] if words else 0
                     issues.append(f"drift ({op}) near {t:.1f}s: script «{' '.join(script[i1:i2])[:60]}» / heard «{' '.join(heard[j1:j2])[:60]}»")
