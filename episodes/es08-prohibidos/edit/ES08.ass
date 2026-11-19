@@ -1,0 +1,361 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Doc,Inter SemiBold,44,&H00E1F0F8,&H00E1F0F8,&H00102030,&H96000000,0,0,0,0,100,100,0.5,0,1,2.4,1.2,2,200,200,62,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.65,Doc,,0,0,0,,Suecia, diecisiete de junio de 1978.
+Dialogue: 0,0:00:03.70,0:00:07.25,Doc,,0,0,0,,En la parrilla de un Gran Premio de\NFórmula 1 aparece un coche que nadie había
+Dialogue: 0,0:00:07.30,0:00:08.19,Doc,,0,0,0,,visto antes.
+Dialogue: 0,0:00:08.24,0:00:10.61,Doc,,0,0,0,,Lleva en la parte de atrás\Nun ventilador enorme.
+Dialogue: 0,0:00:10.66,0:00:12.65,Doc,,0,0,0,,Los demás equipos lo miran y se ríen.
+Dialogue: 0,0:00:12.70,0:00:14.27,Doc,,0,0,0,,Dicen que es una aspiradora.
+Dialogue: 0,0:00:14.32,0:00:16.55,Doc,,0,0,0,,Dos horas después, ya no se ríen.
+Dialogue: 0,0:00:16.60,0:00:18.33,Doc,,0,0,0,,Ese coche ha ganado la carrera.
+Dialogue: 0,0:00:18.38,0:00:20.97,Doc,,0,0,0,,Y no volverá a correr nunca más.
+Dialogue: 0,0:00:21.02,0:00:22.89,Doc,,0,0,0,,Ese es el número uno de esta lista.
+Dialogue: 0,0:00:22.94,0:00:25.27,Doc,,0,0,0,,Pero antes hay nueve coches\Nque hoy no podrías comprar,
+Dialogue: 0,0:00:25.32,0:00:27.45,Doc,,0,0,0,,ni matricular, ni sacar a la calle.
+Dialogue: 0,0:00:27.50,0:00:31.39,Doc,,0,0,0,,Un coche cuyo depósito de gasolina\Npodía arder con un golpe por detrás.
+Dialogue: 0,0:00:31.44,0:00:34.73,Doc,,0,0,0,,Otro que, según un abogado, era\Ninseguro a cualquier velocidad.
+Dialogue: 0,0:00:34.78,0:00:38.41,Doc,,0,0,0,,Un deportivo tan rápido que cambiaron\Nlas reglas de las carreras para echarlo.
+Dialogue: 0,0:00:38.46,0:00:40.99,Doc,,0,0,0,,Y dos coches que\Nfabricábamos aquí, en España,
+Dialogue: 0,0:00:41.04,0:00:43.65,Doc,,0,0,0,,y que seguro que alguien\Nde tu familia conducía.
+Dialogue: 0,0:00:43.70,0:00:46.85,Doc,,0,0,0,,Hoy vas a conocer los diez coches\Nque hoy estarían prohibidos.
+Dialogue: 0,0:00:46.90,0:00:48.17,Doc,,0,0,0,,Y quédate hasta el final,
+Dialogue: 0,0:00:48.22,0:00:51.22,Doc,,0,0,0,,porque el número uno es tan\Nincreíble que parece inventado.
+Dialogue: 0,0:00:51.71,0:00:53.80,Doc,,0,0,0,,Antes de empezar, hay\Nque entender una cosa.
+Dialogue: 0,0:00:53.85,0:00:56.32,Doc,,0,0,0,,Hoy, para que un coche nuevo\Npueda venderse en Europa,
+Dialogue: 0,0:00:56.37,0:00:58.16,Doc,,0,0,0,,tiene que superar decenas de normas:
+Dialogue: 0,0:00:58.21,0:00:59.98,Doc,,0,0,0,,pruebas de choque frontal y lateral,
+Dialogue: 0,0:01:00.03,0:01:03.44,Doc,,0,0,0,,protección de peatones,\Nemisiones, ruido, airbags,
+Dialogue: 0,0:01:03.49,0:01:04.60,Doc,,0,0,0,,frenos con ABS,
+Dialogue: 0,0:01:04.65,0:01:08.50,Doc,,0,0,0,,control de estabilidad… En los años\Nsesenta y setenta no existía casi nada de
+Dialogue: 0,0:01:08.55,0:01:09.08,Doc,,0,0,0,,eso.
+Dialogue: 0,0:01:09.13,0:01:10.70,Doc,,0,0,0,,Y algunos coches de aquella época,
+Dialogue: 0,0:01:10.75,0:01:14.28,Doc,,0,0,0,,vistos con los ojos de\Nhoy, dan auténtico miedo.
+Dialogue: 0,0:01:14.33,0:01:15.60,Doc,,0,0,0,,Para que te hagas una idea:
+Dialogue: 0,0:01:15.65,0:01:17.90,Doc,,0,0,0,,las pruebas de choque\Neuropeas que hoy conocemos,
+Dialogue: 0,0:01:17.95,0:01:23.36,Doc,,0,0,0,,las famosas estrellas Euro\NNCAP, no empezaron hasta 1997.
+Dialogue: 0,0:01:23.41,0:01:24.90,Doc,,0,0,0,,Y en aquellas primeras pruebas,
+Dialogue: 0,0:01:24.95,0:01:28.62,Doc,,0,0,0,,coches que se vendían con total normalidad\Nsacaron resultados tan malos que
+Dialogue: 0,0:01:28.67,0:01:31.66,Doc,,0,0,0,,algunos fabricantes tuvieron\Nque rediseñarlos a toda prisa.
+Dialogue: 0,0:01:31.71,0:01:33.70,Doc,,0,0,0,,Si eso pasaba con coches de los noventa,
+Dialogue: 0,0:01:33.75,0:01:36.84,Doc,,0,0,0,,imagina lo que habría pasado\Ncon los de los sesenta.
+Dialogue: 0,0:01:36.89,0:01:38.08,Doc,,0,0,0,,Número diez.
+Dialogue: 0,0:01:38.13,0:01:40.28,Doc,,0,0,0,,El Renault 4, el «Cuatro Latas».
+Dialogue: 0,0:01:40.33,0:01:42.72,Doc,,0,0,0,,Valladolid, 1964.
+Dialogue: 0,0:01:42.77,0:01:45.49,Doc,,0,0,0,,En la fábrica de FASA-Renault empieza\Na fabricarse un coche que iba a
+Dialogue: 0,0:01:45.54,0:01:48.15,Doc,,0,0,0,,acompañar a los españoles\Ndurante más de treinta años.
+Dialogue: 0,0:01:48.20,0:01:49.47,Doc,,0,0,0,,El Renault 4.
+Dialogue: 0,0:01:49.52,0:01:53.83,Doc,,0,0,0,,Barato, práctico, con un portón trasero\Nenorme y una suspensión blanda que se
+Dialogue: 0,0:01:53.88,0:01:55.71,Doc,,0,0,0,,tragaba los baches de cualquier camino.
+Dialogue: 0,0:01:55.76,0:01:58.37,Doc,,0,0,0,,Lo llamaron el «Cuatro\NLatas», y por algo era.
+Dialogue: 0,0:01:58.42,0:02:01.45,Doc,,0,0,0,,La carrocería era de chapa\Nfina, casi sin refuerzos.
+Dialogue: 0,0:02:01.50,0:02:04.65,Doc,,0,0,0,,La palanca de cambios salía del\Nsalpicadero, como un bastón.
+Dialogue: 0,0:02:04.70,0:02:07.63,Doc,,0,0,0,,Y en sus primeros años no\Nllevaba cinturones de seguridad.
+Dialogue: 0,0:02:07.68,0:02:10.81,Doc,,0,0,0,,No tenía zonas de deformación\Ndiseñadas para absorber un choque,
+Dialogue: 0,0:02:10.86,0:02:14.55,Doc,,0,0,0,,ni barras de protección en las\Npuertas, ni airbag, ni nada parecido.
+Dialogue: 0,0:02:14.60,0:02:17.49,Doc,,0,0,0,,Fue un coche maravilloso:\Nel coche del médico rural,
+Dialogue: 0,0:02:17.54,0:02:20.81,Doc,,0,0,0,,del cartero, de la familia que\Niba a la playa con la baca llena.
+Dialogue: 0,0:02:20.86,0:02:22.47,Doc,,0,0,0,,Se fabricó en España durante décadas,
+Dialogue: 0,0:02:22.52,0:02:25.15,Doc,,0,0,0,,y en todo el mundo se\Nhicieron más de ocho millones.
+Dialogue: 0,0:02:25.20,0:02:27.03,Doc,,0,0,0,,Pero hoy, con la normativa actual,
+Dialogue: 0,0:02:27.08,0:02:29.67,Doc,,0,0,0,,un coche así no podría\Nni salir de la fábrica.
+Dialogue: 0,0:02:29.72,0:02:30.89,Doc,,0,0,0,,Número nueve.
+Dialogue: 0,0:02:30.94,0:02:35.57,Doc,,0,0,0,,El Citroën 2CV, el «Dos Caballos».
+Dialogue: 0,0:02:35.62,0:02:37.43,Doc,,0,0,0,,Y si el Cuatro Latas era sencillo,
+Dialogue: 0,0:02:37.48,0:02:40.15,Doc,,0,0,0,,el Dos Caballos era casi\Nuna bicicleta con techo.
+Dialogue: 0,0:02:40.20,0:02:42.51,Doc,,0,0,0,,Lo diseñó Citroën en\NFrancia para el campo.
+Dialogue: 0,0:02:42.56,0:02:47.81,Doc,,0,0,0,,Y desde 1958 también se fabricó en\NEspaña, en la fábrica de Citroën en Vigo.
+Dialogue: 0,0:02:47.86,0:02:50.93,Doc,,0,0,0,,El 2CV pesaba poco más\Nde quinientos kilos.
+Dialogue: 0,0:02:50.98,0:02:53.93,Doc,,0,0,0,,El techo era de lona, y se\Npodía enrollar hasta atrás.
+Dialogue: 0,0:02:53.98,0:02:55.61,Doc,,0,0,0,,Los asientos parecían hamacas.
+Dialogue: 0,0:02:55.66,0:02:57.19,Doc,,0,0,0,,El motor, de dos cilindros,
+Dialogue: 0,0:02:57.24,0:03:00.37,Doc,,0,0,0,,apenas pasaba de los diez o doce\Ncaballos en las primeras versiones.
+Dialogue: 0,0:03:00.42,0:03:03.39,Doc,,0,0,0,,Y la carrocería era tan fina\Nque se doblaba con la mano.
+Dialogue: 0,0:03:03.44,0:03:05.37,Doc,,0,0,0,,Era un coche genial para lo que se pensó:
+Dialogue: 0,0:03:05.42,0:03:06.51,Doc,,0,0,0,,llevar a un campesino,
+Dialogue: 0,0:03:06.56,0:03:09.97,Doc,,0,0,0,,una cesta de huevos y un saco de\Npatatas por un camino de tierra.
+Dialogue: 0,0:03:10.02,0:03:13.31,Doc,,0,0,0,,Pero en un choque, el ocupante\Ntenía muy poca protección.
+Dialogue: 0,0:03:13.36,0:03:17.03,Doc,,0,0,0,,Hoy, ningún coche con un techo de lona\Nsobre una estructura tan débil y sin
+Dialogue: 0,0:03:17.08,0:03:20.51,Doc,,0,0,0,,ningún sistema de seguridad podría\Nhomologarse como coche nuevo.
+Dialogue: 0,0:03:20.56,0:03:21.43,Doc,,0,0,0,,Y sin embargo,
+Dialogue: 0,0:03:21.48,0:03:24.99,Doc,,0,0,0,,en muchos pueblos de Galicia todavía\Nse ven Dos Caballos funcionando.
+Dialogue: 0,0:03:25.04,0:03:29.11,Doc,,0,0,0,,El último Dos Caballos salió de\Nuna fábrica de Portugal en 1990,
+Dialogue: 0,0:03:29.16,0:03:31.31,Doc,,0,0,0,,después de más de cuarenta\Naños de producción.
+Dialogue: 0,0:03:31.36,0:03:32.63,Doc,,0,0,0,,Prohibido hoy, sí.
+Dialogue: 0,0:03:32.68,0:03:34.37,Doc,,0,0,0,,Pero indestructible para el que lo cuida.
+Dialogue: 0,0:03:34.42,0:03:36.09,Doc,,0,0,0,,Y ahora salimos de España.
+Dialogue: 0,0:03:36.14,0:03:38.29,Doc,,0,0,0,,Porque los siguientes\Ncoches no eran humildes.
+Dialogue: 0,0:03:38.34,0:03:39.23,Doc,,0,0,0,,Eran rápidos.
+Dialogue: 0,0:03:39.28,0:03:40.56,Doc,,0,0,0,,Demasiado rápidos.
+Dialogue: 0,0:03:41.30,0:03:42.09,Doc,,0,0,0,,Número ocho.
+Dialogue: 0,0:03:42.14,0:03:46.95,Doc,,0,0,0,,El BMW 2002 Turbo.
+Dialogue: 0,0:03:47.00,0:03:49.73,Doc,,0,0,0,,Salón de Frankfurt, septiembre de 1973.
+Dialogue: 0,0:03:49.78,0:03:54.45,Doc,,0,0,0,,BMW presenta el primer coche de\Nserie europeo con turbocompresor:
+Dialogue: 0,0:03:54.50,0:03:55.77,Doc,,0,0,0,,el 2002 Turbo.
+Dialogue: 0,0:03:55.82,0:03:57.11,Doc,,0,0,0,,Una berlina compacta,
+Dialogue: 0,0:03:57.16,0:04:00.63,Doc,,0,0,0,,pero con un motor de dos litros que\Ndaba unos ciento setenta caballos.
+Dialogue: 0,0:04:00.68,0:04:02.85,Doc,,0,0,0,,Para la época, una barbaridad.
+Dialogue: 0,0:04:02.90,0:04:05.29,Doc,,0,0,0,,Pero lo que más llamó la\Natención no fue el motor.
+Dialogue: 0,0:04:05.34,0:04:07.21,Doc,,0,0,0,,Fue un detalle de la carrocería.
+Dialogue: 0,0:04:07.26,0:04:08.37,Doc,,0,0,0,,En el alerón delantero,
+Dialogue: 0,0:04:08.42,0:04:11.87,Doc,,0,0,0,,BMW escribió la palabra «turbo»\Nal revés, como en un espejo.
+Dialogue: 0,0:04:11.92,0:04:12.51,Doc,,0,0,0,,¿Por qué?
+Dialogue: 0,0:04:12.56,0:04:14.09,Doc,,0,0,0,,Para que el conductor de delante,
+Dialogue: 0,0:04:14.14,0:04:18.51,Doc,,0,0,0,,al mirar por el retrovisor, leyera\N«turbo» perfectamente… y se apartara.
+Dialogue: 0,0:04:18.56,0:04:21.65,Doc,,0,0,0,,La prensa alemana lo acusó de\Nprovocar agresividad en la carretera.
+Dialogue: 0,0:04:21.70,0:04:23.65,Doc,,0,0,0,,Y el momento no pudo ser peor:
+Dialogue: 0,0:04:23.70,0:04:27.41,Doc,,0,0,0,,menos de un mes después de su presentación\Nestalló la crisis del petróleo.
+Dialogue: 0,0:04:27.46,0:04:28.57,Doc,,0,0,0,,La gasolina se disparó,
+Dialogue: 0,0:04:28.62,0:04:31.87,Doc,,0,0,0,,y en Alemania llegaron a prohibir\Ncircular los domingos para ahorrar
+Dialogue: 0,0:04:31.92,0:04:33.03,Doc,,0,0,0,,combustible.
+Dialogue: 0,0:04:33.08,0:04:36.67,Doc,,0,0,0,,Según las fuentes, BMW acabó\Nquitando aquella palabra al revés.
+Dialogue: 0,0:04:36.72,0:04:39.81,Doc,,0,0,0,,Solo se fabricaron unas mil\Nseiscientas setenta unidades.
+Dialogue: 0,0:04:39.86,0:04:43.21,Doc,,0,0,0,,Hoy, un coche que lleve en el morro un\Nmensaje para intimidar al de delante
+Dialogue: 0,0:04:43.26,0:04:49.47,Doc,,0,0,0,,tendría todas las papeletas\Npara no pasar la homologación.
+Dialogue: 0,0:04:49.52,0:04:50.83,Doc,,0,0,0,,Número siete.
+Dialogue: 0,0:04:50.88,0:04:53.33,Doc,,0,0,0,,El Shelby Cobra 427.
+Dialogue: 0,0:04:53.38,0:04:56.29,Doc,,0,0,0,,Estados Unidos, 1965.
+Dialogue: 0,0:04:56.34,0:04:58.65,Doc,,0,0,0,,Un expiloto de carreras, Carroll Shelby,
+Dialogue: 0,0:04:58.70,0:05:03.17,Doc,,0,0,0,,que en 1959 había ganado las veinticuatro\Nhoras de Le Mans al volante de un
+Dialogue: 0,0:05:03.22,0:05:05.61,Doc,,0,0,0,,Aston Martin, tiene una idea muy sencilla:
+Dialogue: 0,0:05:05.66,0:05:08.25,Doc,,0,0,0,,coger un pequeño descapotable\Ninglés, el AC Ace,
+Dialogue: 0,0:05:08.30,0:05:10.49,Doc,,0,0,0,,y meterle el motor más grande que quepa.
+Dialogue: 0,0:05:10.54,0:05:13.45,Doc,,0,0,0,,El resultado fue el Cobra 427:
+Dialogue: 0,0:05:13.50,0:05:21.00,Doc,,0,0,0,,un coche que pesaba poco más de una\Ntonelada y llevaba un V8 de siete litros.
+Dialogue: 0,0:05:35.10,0:05:37.57,Doc,,0,0,0,,No tenía techo fijo, ni airbag,
+Dialogue: 0,0:05:37.62,0:05:41.01,Doc,,0,0,0,,ni control de tracción, ni nada\Nque te salvara de un error.
+Dialogue: 0,0:05:41.06,0:05:44.61,Doc,,0,0,0,,Algunas versiones llevaban los tubos\Nde escape saliendo por los laterales,
+Dialogue: 0,0:05:44.66,0:05:46.23,Doc,,0,0,0,,justo debajo de las puertas.
+Dialogue: 0,0:05:46.28,0:05:49.27,Doc,,0,0,0,,Al bajarte, si no tenías\Ncuidado, te quemabas la pierna.
+Dialogue: 0,0:05:49.32,0:05:54.49,Doc,,0,0,0,,Y el ruido era ensordecedor.
+Dialogue: 0,0:05:54.54,0:05:58.49,Doc,,0,0,0,,Hoy un Cobra 427 nuevo no\Npodría venderse en Europa.
+Dialogue: 0,0:05:58.54,0:06:00.97,Doc,,0,0,0,,No pasaría las normas de emisiones,
+Dialogue: 0,0:06:01.02,0:06:04.61,Doc,,0,0,0,,ni las de ruido, ni las de protección\Nde peatones, ni las de choque.
+Dialogue: 0,0:06:04.66,0:06:07.01,Doc,,0,0,0,,Es uno de los coches\Nmás deseados del mundo.
+Dialogue: 0,0:06:07.06,0:06:11.10,Doc,,0,0,0,,Y precisamente por eso, hoy cuesta\Nuna fortuna conseguir uno de verdad.
+Dialogue: 0,0:06:11.90,0:06:12.77,Doc,,0,0,0,,Número seis.
+Dialogue: 0,0:06:12.82,0:06:15.11,Doc,,0,0,0,,El Chevrolet Corvair.
+Dialogue: 0,0:06:15.16,0:06:17.69,Doc,,0,0,0,,Estados Unidos, 1960.
+Dialogue: 0,0:06:17.74,0:06:21.69,Doc,,0,0,0,,General Motors presenta un coche\Nrevolucionario para América: el Corvair.
+Dialogue: 0,0:06:21.74,0:06:23.59,Doc,,0,0,0,,Un compacto con el motor detrás,
+Dialogue: 0,0:06:23.64,0:06:26.41,Doc,,0,0,0,,refrigerado por aire, como\Nun Escarabajo gigante.
+Dialogue: 0,0:06:26.46,0:06:27.47,Doc,,0,0,0,,Se vendió muy bien.
+Dialogue: 0,0:06:27.52,0:06:29.15,Doc,,0,0,0,,Hasta que apareció un libro.
+Dialogue: 0,0:06:29.20,0:06:34.79,Doc,,0,0,0,,En 1965, un joven abogado llamado Ralph\NNader publicó «Inseguro a cualquier
+Dialogue: 0,0:06:34.84,0:06:35.79,Doc,,0,0,0,,velocidad».
+Dialogue: 0,0:06:35.84,0:06:38.35,Doc,,0,0,0,,El primer capítulo estaba\Ndedicado al Corvair.
+Dialogue: 0,0:06:38.40,0:06:40.89,Doc,,0,0,0,,Nader explicaba que, en\Nlas primeras versiones,
+Dialogue: 0,0:06:40.94,0:06:44.29,Doc,,0,0,0,,la suspensión trasera podía hacer que\Nel coche perdiera el control en una
+Dialogue: 0,0:06:44.34,0:06:48.67,Doc,,0,0,0,,curva, sobre todo si los neumáticos no\Ntenían la presión exacta recomendada.
+Dialogue: 0,0:06:48.72,0:06:51.21,Doc,,0,0,0,,Y que la columna de dirección\Nera una barra rígida que,
+Dialogue: 0,0:06:51.26,0:06:54.83,Doc,,0,0,0,,en un choque frontal, podía\Nclavarse en el conductor.
+Dialogue: 0,0:06:54.88,0:06:56.35,Doc,,0,0,0,,El libro fue un terremoto.
+Dialogue: 0,0:06:56.40,0:06:57.15,Doc,,0,0,0,,Y según se cuenta,
+Dialogue: 0,0:06:57.20,0:07:00.83,Doc,,0,0,0,,General Motors llegó a contratar detectives\Npara investigar la vida privada de
+Dialogue: 0,0:07:00.88,0:07:03.65,Doc,,0,0,0,,Nader, buscando algo con\Nlo que desacreditarlo.
+Dialogue: 0,0:07:03.70,0:07:04.51,Doc,,0,0,0,,Cuando se supo,
+Dialogue: 0,0:07:04.56,0:07:08.49,Doc,,0,0,0,,la empresa tuvo que pedir disculpas\Npúblicamente ante el Senado.
+Dialogue: 0,0:07:08.54,0:07:13.67,Doc,,0,0,0,,En 1966, Estados Unidos aprobó su primera\Ngran ley de seguridad del automóvil,
+Dialogue: 0,0:07:13.72,0:07:16.91,Doc,,0,0,0,,y nació la agencia que hoy obliga a\Nlos fabricantes a cumplir normas de
+Dialogue: 0,0:07:16.96,0:07:17.75,Doc,,0,0,0,,seguridad.
+Dialogue: 0,0:07:17.80,0:07:21.13,Doc,,0,0,0,,El Corvair se dejó de fabricar en 1969.
+Dialogue: 0,0:07:21.18,0:07:26.29,Doc,,0,0,0,,Hoy, una dirección rígida como aquella\Nsería ilegal en cualquier coche nuevo.
+Dialogue: 0,0:07:26.34,0:07:29.77,Doc,,0,0,0,,Y Ralph Nader se convirtió en el defensor\Nde los consumidores más famoso de
+Dialogue: 0,0:07:29.82,0:07:30.57,Doc,,0,0,0,,América.
+Dialogue: 0,0:07:30.62,0:07:34.19,Doc,,0,0,0,,Tanto, que años después llegó a presentarse\Nvarias veces a las elecciones a la
+Dialogue: 0,0:07:34.24,0:07:36.09,Doc,,0,0,0,,presidencia de Estados Unidos.
+Dialogue: 0,0:07:36.14,0:07:37.63,Doc,,0,0,0,,Todo empezó con un coche.
+Dialogue: 0,0:07:37.68,0:07:38.63,Doc,,0,0,0,,Número cinco.
+Dialogue: 0,0:07:38.68,0:07:40.55,Doc,,0,0,0,,El Ford Pinto.
+Dialogue: 0,0:07:40.60,0:07:43.05,Doc,,0,0,0,,Estados Unidos, 1971.
+Dialogue: 0,0:07:43.10,0:07:46.59,Doc,,0,0,0,,Ford necesita un coche pequeño y barato\Npara competir con los japoneses y con
+Dialogue: 0,0:07:46.64,0:07:47.61,Doc,,0,0,0,,el Escarabajo.
+Dialogue: 0,0:07:47.66,0:07:49.29,Doc,,0,0,0,,Lo desarrolla en tiempo récord.
+Dialogue: 0,0:07:49.34,0:07:51.67,Doc,,0,0,0,,Se llama Pinto, y se vende por millones.
+Dialogue: 0,0:07:51.72,0:07:53.71,Doc,,0,0,0,,Pero tenía un problema muy serio.
+Dialogue: 0,0:07:53.76,0:07:56.99,Doc,,0,0,0,,El depósito de gasolina estaba\Ncolocado detrás del eje trasero,
+Dialogue: 0,0:07:57.04,0:07:58.23,Doc,,0,0,0,,muy cerca del parachoques.
+Dialogue: 0,0:07:58.28,0:08:00.19,Doc,,0,0,0,,Y en algunos golpes por detrás,
+Dialogue: 0,0:08:00.24,0:08:02.21,Doc,,0,0,0,,incluso a velocidades no muy altas,
+Dialogue: 0,0:08:02.26,0:08:07.03,Doc,,0,0,0,,el depósito podía romperse, derramar\Ngasolina y provocar un incendio.
+Dialogue: 0,0:08:07.08,0:08:08.89,Doc,,0,0,0,,Y aquí viene lo más polémico.
+Dialogue: 0,0:08:08.94,0:08:14.33,Doc,,0,0,0,,En 1977, una revista americana publicó\Nuna investigación que acusaba a Ford de
+Dialogue: 0,0:08:14.38,0:08:16.85,Doc,,0,0,0,,haber hecho números:\Nsegún aquel reportaje,
+Dialogue: 0,0:08:16.90,0:08:20.11,Doc,,0,0,0,,a la empresa le salía más barato\Npagar las posibles indemnizaciones que
+Dialogue: 0,0:08:20.16,0:08:24.23,Doc,,0,0,0,,modificar todos los coches, una\Nreparación de pocos dólares por unidad.
+Dialogue: 0,0:08:24.28,0:08:25.49,Doc,,0,0,0,,Ford siempre lo negó,
+Dialogue: 0,0:08:25.54,0:08:28.73,Doc,,0,0,0,,y hay historiadores que creen que\Naquel documento se interpretó mal.
+Dialogue: 0,0:08:28.78,0:08:31.53,Doc,,0,0,0,,Pero la historia dio la vuelta al mundo.
+Dialogue: 0,0:08:31.58,0:08:36.25,Doc,,0,0,0,,En 1978, un jurado de California\Ncondenó a Ford a pagar una indemnización
+Dialogue: 0,0:08:36.30,0:08:40.15,Doc,,0,0,0,,enorme a un joven que había sufrido\Ngraves quemaduras en un Pinto.
+Dialogue: 0,0:08:40.20,0:08:43.45,Doc,,0,0,0,,La cifra inicial fue tan alta que\Nlos jueces la redujeron después,
+Dialogue: 0,0:08:43.50,0:08:44.99,Doc,,0,0,0,,pero el daño ya estaba hecho.
+Dialogue: 0,0:08:45.04,0:08:46.03,Doc,,0,0,0,,Ese mismo año,
+Dialogue: 0,0:08:46.08,0:08:49.39,Doc,,0,0,0,,Ford llamó a revisión alrededor de un\Nmillón y medio de Pintos para reforzar
+Dialogue: 0,0:08:49.44,0:08:50.57,Doc,,0,0,0,,el depósito.
+Dialogue: 0,0:08:50.62,0:08:53.75,Doc,,0,0,0,,El caso del Pinto se sigue estudiando\Nhoy en las facultades de ética
+Dialogue: 0,0:08:53.80,0:08:55.45,Doc,,0,0,0,,empresarial de todo el mundo.
+Dialogue: 0,0:08:55.50,0:08:58.15,Doc,,0,0,0,,Hoy, con las pruebas de\Nchoque trasero obligatorias,
+Dialogue: 0,0:08:58.20,0:09:01.67,Doc,,0,0,0,,un coche con ese depósito\Nno podría venderse.
+Dialogue: 0,0:09:01.72,0:09:05.69,Doc,,0,0,0,,Antes de seguir: ¿alguno de estos coches\Nlo conducía alguien de tu familia?
+Dialogue: 0,0:09:05.74,0:09:08.35,Doc,,0,0,0,,Seguro que el Cuatro Latas\No el Dos Caballos sí.
+Dialogue: 0,0:09:08.40,0:09:10.77,Doc,,0,0,0,,Cuéntamelo en los comentarios.
+Dialogue: 0,0:09:10.82,0:09:13.49,Doc,,0,0,0,,Y hasta aquí, coches peligrosos\Npara el que los conducía.
+Dialogue: 0,0:09:13.54,0:09:15.51,Doc,,0,0,0,,Pero los cuatro primeros son otra cosa.
+Dialogue: 0,0:09:15.56,0:09:17.21,Doc,,0,0,0,,A esos no los prohibió la ley.
+Dialogue: 0,0:09:17.26,0:09:19.20,Doc,,0,0,0,,Los prohibieron porque ganaban demasiado.
+Dialogue: 0,0:09:20.11,0:09:21.08,Doc,,0,0,0,,Número cuatro.
+Dialogue: 0,0:09:21.13,0:09:25.14,Doc,,0,0,0,,El Plymouth Superbird.
+Dialogue: 0,0:09:25.19,0:09:27.66,Doc,,0,0,0,,Estados Unidos, 1970.
+Dialogue: 0,0:09:27.71,0:09:29.02,Doc,,0,0,0,,En las carreras de la NASCAR,
+Dialogue: 0,0:09:29.07,0:09:31.64,Doc,,0,0,0,,los grandes fabricantes\Namericanos están en guerra.
+Dialogue: 0,0:09:31.69,0:09:33.82,Doc,,0,0,0,,Y Chrysler decide hacer algo nunca visto:
+Dialogue: 0,0:09:33.87,0:09:36.26,Doc,,0,0,0,,coge un coche de calle,\Nel Plymouth Road Runner,
+Dialogue: 0,0:09:36.31,0:09:39.22,Doc,,0,0,0,,le pone un morro puntiagudo\Ncomo el de un avión y,
+Dialogue: 0,0:09:39.27,0:09:43.14,Doc,,0,0,0,,detrás, un alerón gigantesco de\Nmás de medio metro de altura.
+Dialogue: 0,0:09:43.19,0:09:45.24,Doc,,0,0,0,,El resultado fue el Superbird.
+Dialogue: 0,0:09:45.29,0:09:46.62,Doc,,0,0,0,,En los circuitos ovalados,
+Dialogue: 0,0:09:46.67,0:09:50.10,Doc,,0,0,0,,aquellos coches alados se acercaban a\Nlos trescientos veinte kilómetros por
+Dialogue: 0,0:09:50.15,0:09:50.60,Doc,,0,0,0,,hora.
+Dialogue: 0,0:09:50.65,0:09:54.58,Doc,,0,0,0,,En 1970, su primo de\NDodge, el Charger Daytona,
+Dialogue: 0,0:09:54.63,0:09:57.86,Doc,,0,0,0,,fue el primer coche en superar las\Ndoscientas millas por hora en una pista de
+Dialogue: 0,0:09:57.91,0:09:58.70,Doc,,0,0,0,,la NASCAR.
+Dialogue: 0,0:09:58.75,0:10:01.34,Doc,,0,0,0,,Nadie había ido tan rápido\Nen un coche de serie.
+Dialogue: 0,0:10:01.39,0:10:03.54,Doc,,0,0,0,,Eran tan rápidos que\Ndominaban las carreras.
+Dialogue: 0,0:10:03.59,0:10:04.96,Doc,,0,0,0,,Y para poder correr con ellos,
+Dialogue: 0,0:10:05.01,0:10:07.78,Doc,,0,0,0,,las reglas obligaban a vender\Nversiones de calle al público.
+Dialogue: 0,0:10:07.83,0:10:09.70,Doc,,0,0,0,,Así que Plymouth fabricó casi dos mil,
+Dialogue: 0,0:10:09.75,0:10:13.44,Doc,,0,0,0,,que se vendieron en los concesionarios…\Ny que a mucha gente le parecieron tan
+Dialogue: 0,0:10:13.49,0:10:16.94,Doc,,0,0,0,,ridículos que algunos\Ntardaron meses en venderse.
+Dialogue: 0,0:10:16.99,0:10:20.42,Doc,,0,0,0,,Para 1971, la NASCAR cambió las reglas.
+Dialogue: 0,0:10:20.47,0:10:24.04,Doc,,0,0,0,,Los coches aerodinámicos como el\NSuperbird tendrían que correr con motores
+Dialogue: 0,0:10:24.09,0:10:26.12,Doc,,0,0,0,,mucho más pequeños, o con más peso.
+Dialogue: 0,0:10:26.17,0:10:28.46,Doc,,0,0,0,,En la práctica, era una prohibición.
+Dialogue: 0,0:10:28.51,0:10:31.54,Doc,,0,0,0,,Los coches alados\Ndesaparecieron de las pistas.
+Dialogue: 0,0:10:31.59,0:10:33.52,Doc,,0,0,0,,Hoy, un morro puntiagudo como aquel,
+Dialogue: 0,0:10:33.57,0:10:37.14,Doc,,0,0,0,,con ese alerón, no pasaría las\Nnormas de protección de peatones.
+Dialogue: 0,0:10:37.19,0:10:40.66,Doc,,0,0,0,,Pero un Superbird original se ha\Nllegado a vender por cientos de miles de
+Dialogue: 0,0:10:40.71,0:10:41.58,Doc,,0,0,0,,dólares.
+Dialogue: 0,0:10:41.63,0:10:45.90,Doc,,0,0,0,,El coche que nadie quería es hoy\Nuno de los más buscados de América.
+Dialogue: 0,0:10:45.95,0:10:46.94,Doc,,0,0,0,,Número tres.
+Dialogue: 0,0:10:46.99,0:10:48.14,Doc,,0,0,0,,El Porsche 917.
+Dialogue: 0,0:10:48.19,0:10:51.30,Doc,,0,0,0,,Le Mans, 1970.
+Dialogue: 0,0:10:51.35,0:10:54.56,Doc,,0,0,0,,Porsche gana por primera vez las\Nveinticuatro horas más famosas del mundo.
+Dialogue: 0,0:10:54.61,0:11:01.36,Doc,,0,0,0,,Y lo hace con un coche que asusta\Nhasta a sus propios pilotos: el 917.
+Dialogue: 0,0:11:01.41,0:11:02.96,Doc,,0,0,0,,Un motor de doce cilindros,
+Dialogue: 0,0:11:03.01,0:11:06.10,Doc,,0,0,0,,una carrocería ligerísima\Ny una velocidad punta que,
+Dialogue: 0,0:11:06.15,0:11:07.36,Doc,,0,0,0,,en la recta de Le Mans,
+Dialogue: 0,0:11:07.41,0:11:11.18,Doc,,0,0,0,,superaba los trescientos\Ncincuenta kilómetros por hora.
+Dialogue: 0,0:11:11.23,0:11:15.92,Doc,,0,0,0,,El 917 era tan dominante\Nque ganó también en 1971.
+Dialogue: 0,0:11:15.97,0:11:19.46,Doc,,0,0,0,,Fue tan famoso que el actor Steve\NMcQueen lo eligió como protagonista de su
+Dialogue: 0,0:11:19.51,0:11:23.62,Doc,,0,0,0,,película «Le Mans», rodada en\N1970 durante la propia carrera.
+Dialogue: 0,0:11:23.67,0:11:27.06,Doc,,0,0,0,,Pero las autoridades del automovilismo\Nya habían tomado una decisión:
+Dialogue: 0,0:11:27.11,0:11:29.16,Doc,,0,0,0,,a partir de 1972,
+Dialogue: 0,0:11:29.21,0:11:32.58,Doc,,0,0,0,,los motores de esa categoría\Nquedaban limitados a tres litros.
+Dialogue: 0,0:11:32.63,0:11:35.92,Doc,,0,0,0,,El 917, con cinco litros, quedaba fuera.
+Dialogue: 0,0:11:35.97,0:11:37.94,Doc,,0,0,0,,Y Porsche se lo llevó a América,
+Dialogue: 0,0:11:37.99,0:11:40.92,Doc,,0,0,0,,a la Can-Am, donde le añadió\Ndos turbos y llegó a superar,
+Dialogue: 0,0:11:40.97,0:11:43.52,Doc,,0,0,0,,según la marca, los mil caballos.
+Dialogue: 0,0:11:43.57,0:11:44.68,Doc,,0,0,0,,Allí volvió a arrasar.
+Dialogue: 0,0:11:44.73,0:11:48.40,Doc,,0,0,0,,Y otra vez cambiaron las reglas,\Nesta vez limitando el consumo.
+Dialogue: 0,0:11:48.45,0:11:52.48,Doc,,0,0,0,,El 917 es probablemente el único coche\Nde la historia al que echaron de dos
+Dialogue: 0,0:11:52.53,0:11:55.03,Doc,,0,0,0,,campeonatos distintos\Npor ser demasiado bueno.
+Dialogue: 0,0:11:55.80,0:11:58.67,Doc,,0,0,0,,Pero antes de llegar a los dos\Nprimeros, una mención especial.
+Dialogue: 0,0:11:58.72,0:12:02.13,Doc,,0,0,0,,Porque hay un coche que no\Nencaja en ninguna categoría.
+Dialogue: 0,0:12:02.18,0:12:04.43,Doc,,0,0,0,,Alemania, 1961.
+Dialogue: 0,0:12:04.48,0:12:08.73,Doc,,0,0,0,,Sale a la venta el Amphicar, un\Npequeño descapotable que… flotaba.
+Dialogue: 0,0:12:08.78,0:12:11.17,Doc,,0,0,0,,Tenía dos hélices debajo\Ndel parachoques trasero,
+Dialogue: 0,0:12:11.22,0:12:14.59,Doc,,0,0,0,,y se conducía en el agua usando\Nlas ruedas delanteras como timón.
+Dialogue: 0,0:12:14.64,0:12:19.35,Doc,,0,0,0,,Podías ir por la carretera, llegar a\Nun lago y meterte dentro sin parar.
+Dialogue: 0,0:12:19.40,0:12:22.21,Doc,,0,0,0,,Se vendieron unos pocos miles,\Nsobre todo en Estados Unidos.
+Dialogue: 0,0:12:22.26,0:12:25.79,Doc,,0,0,0,,Y su dueño más famoso fue el\Npresidente Lyndon Johnson,
+Dialogue: 0,0:12:25.84,0:12:26.93,Doc,,0,0,0,,que, según se cuenta,
+Dialogue: 0,0:12:26.98,0:12:29.25,Doc,,0,0,0,,disfrutaba llevando\Ninvitados por su rancho,
+Dialogue: 0,0:12:29.30,0:12:32.93,Doc,,0,0,0,,bajando hacia el lago y gritando que se\Nhabían quedado sin frenos… justo antes
+Dialogue: 0,0:12:32.98,0:12:34.39,Doc,,0,0,0,,de entrar en el agua.
+Dialogue: 0,0:12:34.44,0:12:37.93,Doc,,0,0,0,,Hoy, un coche que tiene que ser a la vez\Nbarco y automóvil tendría que cumplir
+Dialogue: 0,0:12:37.98,0:12:39.07,Doc,,0,0,0,,las normas de los dos.
+Dialogue: 0,0:12:39.12,0:12:40.61,Doc,,0,0,0,,Prácticamente imposible.
+Dialogue: 0,0:12:40.66,0:12:41.33,Doc,,0,0,0,,Número dos.
+Dialogue: 0,0:12:41.38,0:12:43.99,Doc,,0,0,0,,El Chaparral 2J, la primera aspiradora.
+Dialogue: 0,0:12:44.04,0:12:46.87,Doc,,0,0,0,,Estados Unidos, 1970.
+Dialogue: 0,0:12:46.92,0:12:50.97,Doc,,0,0,0,,Un ingeniero y piloto texano,\NJim Hall, tiene una idea genial.
+Dialogue: 0,0:12:51.02,0:12:54.11,Doc,,0,0,0,,¿Y si el coche, en vez de\Nempujar el aire, se lo tragara?
+Dialogue: 0,0:12:54.16,0:12:56.65,Doc,,0,0,0,,Construye un coche de\Ncarreras con forma de caja,
+Dialogue: 0,0:12:56.70,0:12:58.79,Doc,,0,0,0,,faldones de plástico\Nque rozan el asfalto y,
+Dialogue: 0,0:12:58.84,0:12:59.89,Doc,,0,0,0,,en la parte trasera,
+Dialogue: 0,0:12:59.94,0:13:03.35,Doc,,0,0,0,,dos grandes ventiladores movidos\Npor un pequeño motor independiente,
+Dialogue: 0,0:13:03.40,0:13:05.01,Doc,,0,0,0,,el de una moto de nieve.
+Dialogue: 0,0:13:05.06,0:13:08.13,Doc,,0,0,0,,Los ventiladores sacaban el aire de\Ndebajo del coche y lo pegaban al suelo
+Dialogue: 0,0:13:08.18,0:13:09.35,Doc,,0,0,0,,como una ventosa.
+Dialogue: 0,0:13:09.40,0:13:10.77,Doc,,0,0,0,,Daba igual la velocidad:
+Dialogue: 0,0:13:10.82,0:13:14.07,Doc,,0,0,0,,el 2J tenía un agarre que\Nningún otro coche podía igualar.
+Dialogue: 0,0:13:14.12,0:13:17.55,Doc,,0,0,0,,En la clasificación, era mucho\Nmás rápido que sus rivales.
+Dialogue: 0,0:13:17.60,0:13:19.03,Doc,,0,0,0,,Pero tenía problemas.
+Dialogue: 0,0:13:19.08,0:13:20.29,Doc,,0,0,0,,El motor auxiliar fallaba,
+Dialogue: 0,0:13:20.34,0:13:24.31,Doc,,0,0,0,,y los ventiladores lanzaban piedras y\Nsuciedad a los coches que iban detrás.
+Dialogue: 0,0:13:24.36,0:13:25.71,Doc,,0,0,0,,Los demás equipos protestaron.
+Dialogue: 0,0:13:25.76,0:13:27.49,Doc,,0,0,0,,Y al terminar la temporada,
+Dialogue: 0,0:13:27.54,0:13:31.01,Doc,,0,0,0,,los organizadores decidieron que\Naquellos ventiladores no eran legales.
+Dialogue: 0,0:13:31.06,0:13:33.61,Doc,,0,0,0,,El Chaparral 2J nunca volvió a correr.
+Dialogue: 0,0:13:33.66,0:13:34.97,Doc,,0,0,0,,Pero la idea no murió.
+Dialogue: 0,0:13:35.02,0:13:37.27,Doc,,0,0,0,,Ocho años después, alguien la recuperó.
+Dialogue: 0,0:13:37.32,0:13:38.19,Doc,,0,0,0,,En la Fórmula 1.
+Dialogue: 0,0:13:38.24,0:13:38.97,Doc,,0,0,0,,Y esta vez,
+Dialogue: 0,0:13:39.02,0:13:42.57,Doc,,0,0,0,,con uno de los mejores pilotos de la\Nhistoria al volante… y con un final que
+Dialogue: 0,0:13:42.62,0:13:44.10,Doc,,0,0,0,,todavía hoy se discute.
+Dialogue: 0,0:13:44.84,0:13:46.63,Doc,,0,0,0,,Y llegamos al número uno.
+Dialogue: 0,0:13:46.68,0:13:50.29,Doc,,0,0,0,,El Brabham BT46B, el coche aspiradora.
+Dialogue: 0,0:13:50.34,0:13:51.77,Doc,,0,0,0,,Volvemos al principio.
+Dialogue: 0,0:13:51.82,0:13:56.07,Doc,,0,0,0,,Suecia, circuito de\NAnderstorp, junio de 1978.
+Dialogue: 0,0:13:56.12,0:13:58.89,Doc,,0,0,0,,El equipo Brabham, dirigido\Npor un tal Bernie Ecclestone,
+Dialogue: 0,0:13:58.94,0:14:02.41,Doc,,0,0,0,,presenta un coche que lleva en la\Nparte trasera un ventilador enorme.
+Dialogue: 0,0:14:02.46,0:14:06.15,Doc,,0,0,0,,Su diseñador, Gordon Murray, juraba\Nque era para refrigerar el motor.
+Dialogue: 0,0:14:06.20,0:14:07.93,Doc,,0,0,0,,Pero todo el mundo sabía la verdad:
+Dialogue: 0,0:14:07.98,0:14:10.41,Doc,,0,0,0,,aquel ventilador hacía lo\Nmismo que el Chaparral.
+Dialogue: 0,0:14:10.46,0:14:13.30,Doc,,0,0,0,,Succionaba el aire de debajo del\Ncoche y lo pegaba al asfalto.
+Dialogue: 0,0:14:13.35,0:14:16.63,Doc,,0,0,0,,El piloto era Niki\NLauda, campeón del mundo.
+Dialogue: 0,0:14:16.68,0:14:19.45,Doc,,0,0,0,,Y en la carrera, cuando\NLauda pisaba el acelerador,
+Dialogue: 0,0:14:19.50,0:14:21.89,Doc,,0,0,0,,el coche literalmente se\Nhundía hacia el suelo.
+Dialogue: 0,0:14:21.94,0:14:22.95,Doc,,0,0,0,,Según se cuenta,
+Dialogue: 0,0:14:23.00,0:14:26.21,Doc,,0,0,0,,en los entrenamientos los mecánicos de\NBrabham habían cargado el depósito al
+Dialogue: 0,0:14:26.26,0:14:29.79,Doc,,0,0,0,,máximo para que nadie descubriera\Nlo rápido que podía ir de verdad.
+Dialogue: 0,0:14:29.84,0:14:32.59,Doc,,0,0,0,,Lauda ganó la carrera con\Nuna facilidad insultante.
+Dialogue: 0,0:14:32.64,0:14:34.59,Doc,,0,0,0,,Y entonces estalló la polémica.
+Dialogue: 0,0:14:34.64,0:14:36.85,Doc,,0,0,0,,Los demás equipos\Namenazaron con abandonar.
+Dialogue: 0,0:14:36.90,0:14:40.33,Doc,,0,0,0,,Decían que el ventilador lanzaba piedras\Na los coches de detrás y que era un
+Dialogue: 0,0:14:40.38,0:14:44.25,Doc,,0,0,0,,dispositivo aerodinámico móvil,\Nalgo que el reglamento no permitía.
+Dialogue: 0,0:14:44.30,0:14:46.71,Doc,,0,0,0,,Lo más curioso es que,\Nsegún varias fuentes,
+Dialogue: 0,0:14:46.76,0:14:49.85,Doc,,0,0,0,,la federación llegó a aceptar que el\Ncoche siguiera corriendo el resto de la
+Dialogue: 0,0:14:49.90,0:14:50.69,Doc,,0,0,0,,temporada.
+Dialogue: 0,0:14:50.74,0:14:53.97,Doc,,0,0,0,,Pero Ecclestone, que ya negociaba con\Nlos demás equipos el control del negocio
+Dialogue: 0,0:14:54.02,0:14:57.77,Doc,,0,0,0,,de la Fórmula 1, prefirió retirarlo\Npara no enfrentarse a todos.
+Dialogue: 0,0:14:57.82,0:15:02.37,Doc,,0,0,0,,El ventilador se quitó, y el\NBT46B nunca volvió a correr.
+Dialogue: 0,0:15:02.42,0:15:03.27,Doc,,0,0,0,,Piénsalo.
+Dialogue: 0,0:15:03.32,0:15:06.05,Doc,,0,0,0,,Un coche que corrió una sola\Ncarrera en toda su vida.
+Dialogue: 0,0:15:06.10,0:15:06.85,Doc,,0,0,0,,Que la ganó.
+Dialogue: 0,0:15:06.90,0:15:09.07,Doc,,0,0,0,,Y que fue retirado precisamente por eso.
+Dialogue: 0,0:15:09.12,0:15:10.57,Doc,,0,0,0,,Por ser demasiado bueno.
+Dialogue: 0,0:15:10.62,0:15:12.01,Doc,,0,0,0,,Así que ya lo ves.
+Dialogue: 0,0:15:12.06,0:15:15.33,Doc,,0,0,0,,Algunos de estos coches desaparecieron\Nporque eran peligrosos para quien los
+Dialogue: 0,0:15:15.38,0:15:16.29,Doc,,0,0,0,,conducía.
+Dialogue: 0,0:15:16.34,0:15:18.45,Doc,,0,0,0,,Otros, porque las normas cambiaron.
+Dialogue: 0,0:15:18.50,0:15:21.95,Doc,,0,0,0,,Y otros, porque ganaban tanto que\Nnadie podía competir contra ellos.
+Dialogue: 0,0:15:22.00,0:15:23.45,Doc,,0,0,0,,Y ahora te pregunto a ti:
+Dialogue: 0,0:15:23.50,0:15:26.51,Doc,,0,0,0,,de todos estos coches, ¿cuál\Nte habría gustado conducir?
+Dialogue: 0,0:15:26.56,0:15:28.17,Doc,,0,0,0,,¿El Cuatro Latas de tu padre,
+Dialogue: 0,0:15:28.22,0:15:31.35,Doc,,0,0,0,,el Cobra de siete litros… o\Nla aspiradora de Niki Lauda?
+Dialogue: 0,0:15:31.40,0:15:32.29,Doc,,0,0,0,,Te leo en los comentarios.
+Dialogue: 0,0:15:32.34,0:15:34.35,Doc,,0,0,0,,Y si te ha gustado el vídeo,
+Dialogue: 0,0:15:34.40,0:15:37.75,Doc,,0,0,0,,dale a me gusta y suscríbete para\Nmás historias de coches clásicos.
+Dialogue: 0,0:15:37.80,0:15:38.96,Doc,,0,0,0,,Nos vemos en el próximo.

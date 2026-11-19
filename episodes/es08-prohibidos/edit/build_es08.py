@@ -10,10 +10,10 @@ import aus_kit as A
 from aus_kit import P, photo, rank, stat, say, cta, title, ch, questions
 
 PHOTOS = {
-    "bt46": ["m_bt46b", "h_lauda"], "lauda": ["h_lauda", "m_bt46b"], "anderstorp": ["h_anderstorp"],
-    "r4": ["m_r4", "h_r4_interior"], "c2cv": ["m_2cv", "h_2cv_roof"],
-    "bmw": ["m_2002turbo"], "cobra": ["m_cobra427"], "corvair": ["m_corvair"], "nader": ["h_nader"],
-    "pinto": ["m_pinto"], "superbird": ["m_superbird"], "p917": ["m_porsche917", "h_lemans70"], "lemans": ["h_lemans70"],
+    "bt46": ["m_bt46b", "m_bt46_2", "h_lauda", "h_f1_1978"], "lauda": ["h_lauda", "m_bt46b"], "anderstorp": ["h_anderstorp"],
+    "r4": ["m_r4", "m_r4_2", "h_r4_interior"], "c2cv": ["m_2cv", "m_2cv_2", "h_2cv_roof"],
+    "bmw": ["m_2002turbo", "m_2002_2"], "cobra": ["m_cobra427", "m_cobra_2"], "corvair": ["m_corvair", "m_corvair_2"], "nader": ["h_nader"],
+    "pinto": ["m_pinto", "m_pinto_2"], "superbird": ["m_superbird", "m_superbird_2", "h_nascar70"], "p917": ["m_porsche917", "m_917_2", "h_lemans70", "h_canam"], "lemans": ["h_lemans70"],
     "chaparral": ["m_chaparral2j"], "amphi": ["m_amphicar"], "test": ["h_euroncap"],
     "old": ["m_r4", "m_2cv", "m_corvair", "m_pinto"], "fast": ["m_cobra427", "m_superbird", "m_porsche917", "m_2002turbo"],
 }
@@ -22,7 +22,7 @@ GENERIC = CLIPS.pop("_generic", [])
 FALLBACK = {k: ["fast"] for k in PHOTOS}
 FALLBACK.update({"fast": ["old"], "old": ["fast"], "r4": ["c2cv", "old"], "c2cv": ["r4", "old"], "test": ["old"],
                  "corvair": ["nader", "old"], "nader": ["corvair"], "pinto": ["old"], "lauda": ["bt46"], "bt46": ["lauda", "fast"],
-                 "anderstorp": ["bt46"], "lemans": ["p917"], "p917": ["lemans", "fast"], "chaparral": ["fast"], "amphi": ["old"]})
+                 "anderstorp": ["bt46"], "lemans": ["p917"], "p917": ["lemans", "fast"], "chaparral": ["p917", "superbird"], "amphi": ["old"]})
 RES = ["m_bt46b/4", "m_r4/3", "m_2cv/2", "m_2002turbo/1", "m_cobra427/1", "m_corvair/2", "m_pinto/3", "m_superbird/4",
        "m_porsche917/2", "m_chaparral2j/2", "m_amphicar/4", "h_nader/1", "h_lemans70/1", "h_lauda/1", "m_bt46b/1"]
 A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FALLBACK, ["fast", "old"], reserved=RES)

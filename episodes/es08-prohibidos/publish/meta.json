@@ -1,0 +1,11 @@
+{
+ "lang": "es",
+ "tagline": "Historia real del automóvil, con fuentes.",
+ "compact_credits": true,
+ "credits_file": "episodes/es08-prohibidos/publish/creditos_completos.txt",
+ "other_line": "Imágenes de archivo: Wikimedia Commons, Openverse e Internet Archive. Todas las imágenes son fotografías y filmaciones reales.",
+ "intro": "Hoy, para venderse, un coche tiene que superar decenas de normas: pruebas de choque, emisiones, ruido, protección de peatones. En los años 60 y 70 casi nada de eso existía. Del Renault 4 «Cuatro Latas» de Valladolid y el Citroën 2CV de Vigo al BMW 2002 Turbo con la palabra «turbo» al revés, el Shelby Cobra 427, el Chevrolet Corvair de Ralph Nader y el Ford Pinto. Y los coches que prohibieron por ganar demasiado: el Plymouth Superbird, el Porsche 917, el Chaparral 2J y el Brabham BT46B de Niki Lauda, el coche aspiradora que ganó su única carrera.\n\nVídeo divulgativo basado en fuentes publicadas. Los datos disputados se indican como tales.",
+ "chapters": ["El coche que ganó y nunca volvió a correr", "10 · Renault 4 y 9 · Citroën 2CV", "8 · BMW 2002 Turbo y 7 · Shelby Cobra 427", "6 · Chevrolet Corvair y 5 · Ford Pinto", "4 · Plymouth Superbird y 3 · Porsche 917", "Amphicar y 2 · Chaparral 2J", "1 · Brabham BT46B, el coche aspiradora"],
+ "sources": ["Wikipedia: Renault 4; Citroën 2CV; BMW 2002 Turbo (Motor1, Hagerty); Shelby Cobra", "Ralph Nader, «Unsafe at Any Speed» (1965); Wikipedia: Chevrolet Corvair", "Grimshaw v. Ford Motor Co. (1981); recall del Ford Pinto (1978)", "Wikipedia: Plymouth Superbird; Aero Warriors (Motor1)", "Wikipedia: Porsche 917; Chaparral 2J", "Motorsport.com / Motor Sport Magazine: Brabham BT46B", "Euro NCAP (1997)"],
+ "tags_line": "#cochesprohibidos #cochesclasicos #renault4 #porsche917 #historia"
+}

@@ -1,0 +1,1289 @@
+{
+ "output": "ES08_PROHIBIDOS.mp4",
+ "fps": 24,
+ "music": [
+  {
+   "file": "trilha.wav",
+   "start": 0,
+   "gain": -29,
+   "fade_in": 4,
+   "fade_out": 5
+  }
+ ],
+ "chapters": [
+  {
+   "audio": "audio/ch00_hook.flac",
+   "lead_in": 0,
+   "tail": 0.6,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/m_bt46b/4_commons.jpg",
+     "move": "in",
+     "caption": "Anderstorp|17 de junio de 1978",
+     "dur": 8.12,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_bt46/2_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 6.08,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Gan\u00f3. Y nunca volvi\u00f3 a correr.",
+     "highlight": "NUNCA",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 8.62,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_cobra427/10_commons.jpg",
+     "move": "in",
+     "dur": 4.56,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_pinto/1_commons.jpg",
+     "move": "left",
+     "dur": 3.94,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_corvair/3_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 3.34,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_porsche917/12_commons.jpg",
+     "move": "out",
+     "dur": 3.68,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_r4/7_commons.jpg",
+     "move": "right",
+     "dur": 5.24,
+     "fixed": true
+    },
+    {
+     "type": "title",
+     "title": "Hoy estar\u00edan prohibidos",
+     "subtitle": "10 coches de los a\u00f1os 60 y 70",
+     "tag": "1958 \u2013 1978",
+     "bg": "a/m_cobra427/2_commons.jpg",
+     "trans": "zoom",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0.6
+      }
+     ],
+     "dur": 1.48,
+     "fixed": true
+    },
+    {
+     "type": "questions",
+     "items": [
+      "Un dep\u00f3sito que ard\u00eda",
+      "Prohibido por ganar",
+      "Dos coches espa\u00f1oles"
+     ],
+     "starts": [
+      0,
+      41,
+      115
+     ],
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.7199999999999989
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 4.82
+      }
+     ],
+     "dur": 6.652,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch01.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/h_euroncap/2_commons.jpg",
+     "move": "up",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_euroncap/4_commons.jpg",
+     "move": "right",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_2cv/6_openverse.jpg",
+     "move": "in",
+     "dur": 8.5,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "1997",
+     "label": "primeras pruebas Euro NCAP",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "Euro NCAP",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_r4_2/5_commons.jpg",
+     "move": "up",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_r4_2/6_commons.jpg",
+     "move": "out",
+     "dur": 8.56,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 10,
+     "name": "Renault 4",
+     "photo": "a/m_r4/3_commons.jpg",
+     "credit": "Foto: DeFacto \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "FASA \u00b7 Valladolid \u00b7 1964",
+     "sub": "el \u00abCuatro Latas\u00bb",
+     "dur": 3.44,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_r4/8_openverse.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_r4_2/7_commons.jpg",
+     "move": "down",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_r4_2/9_commons.jpg",
+     "move": "in",
+     "dur": 4.09,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_r4/9_commons.jpg",
+     "move": "down",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_r4_interior/2_commons.jpg",
+     "move": "left",
+     "dur": 9.18,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_r4_2/10_commons.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_r4_interior/3_commons.jpg",
+     "move": "out",
+     "dur": 8.12,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 9,
+     "name": "Citro\u00ebn 2CV",
+     "photo": "a/m_2cv/2_openverse.jpg",
+     "credit": "Foto: Philippe Vieux-Jeanton \u00b7 CC0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "Vigo \u00b7 desde 1958",
+     "sub": "el \u00abDos Caballos\u00bb",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_2cv/7_commons.jpg",
+     "move": "right",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_2cv/9_commons.jpg",
+     "move": "in",
+     "dur": 4.14,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_2cv/10_openverse.jpg",
+     "move": "left",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_2cv_2/10_commons.jpg",
+     "move": "up",
+     "dur": 8.58,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_2cv/1_commons.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_2cv_2/2_openverse.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_2cv_2/3_commons.jpg",
+     "move": "down",
+     "dur": 7.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_2cv/3_commons.jpg",
+     "move": "right",
+     "dur": 9.383,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_cobra427/3_commons.jpg",
+     "move": "in",
+     "dur": 7.003,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch02.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 8,
+     "name": "BMW 2002 Turbo",
+     "photo": "a/m_2002turbo/1_commons.jpg",
+     "credit": "Foto: Spurzem - Lothar Spurzem \u00b7 CC BY-SA 2.0 de",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "Alemania \u00b7 1973",
+     "sub": "el \u00abturbo\u00bb escrito al rev\u00e9s",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_2002turbo/2_commons.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_2002turbo/3_commons.jpg",
+     "move": "left",
+     "dur": 7.48,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "\u00abTURBO\u00bb al rev\u00e9s, para leerlo por el retrovisor.",
+     "highlight": "RETROVISOR",
+     "size": 100,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_2002turbo/4_commons.jpg",
+     "move": "out",
+     "dur": 8.66,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_2002turbo/10_commons.jpg",
+     "move": "up",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_2002turbo/5_commons.jpg",
+     "move": "right",
+     "dur": 7.52,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "1.672",
+     "label": "BMW 2002 Turbo fabricados",
+     "count": true,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "BMW",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_2002turbo/6_commons.jpg",
+     "move": "in",
+     "dur": 9.44,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 7,
+     "name": "Shelby Cobra 427",
+     "photo": "a/m_cobra427/1_commons.jpg",
+     "credit": "Foto: JoachimKohler-HB \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "EE. UU. \u00b7 1965",
+     "sub": "siete litros sin protecci\u00f3n",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_cobra427/7_commons.jpg",
+     "move": "up",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_cobra427/8_commons.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_cobra427/9_commons.jpg",
+     "move": "down",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_cobra_2/10_commons.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_cobra_2/2_commons.jpg",
+     "move": "left",
+     "dur": 10.58,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_cobra427/4_commons.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_cobra_2/3_openverse.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_cobra_2/9_openverse.jpg",
+     "move": "right",
+     "dur": 5.44,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_cobra427/5_commons.jpg",
+     "move": "down",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_superbird/1_commons.jpg",
+     "move": "in",
+     "dur": 10.474,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch03.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 6,
+     "name": "Chevrolet Corvair",
+     "photo": "a/m_corvair/2_commons.jpg",
+     "credit": "Foto: Crisco 1492 \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "EE. UU. \u00b7 1960",
+     "sub": "\u00abInseguro a cualquier velocidad\u00bb",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_corvair/10_commons.jpg",
+     "move": "up",
+     "dur": 10.18,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_nader/1_commons.jpg",
+     "move": "in",
+     "caption": "Ralph Nader",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_corvair/1_commons.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_corvair/4_commons.jpg",
+     "move": "down",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_corvair/5_commons.jpg",
+     "move": "in",
+     "dur": 4.68,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_corvair/4_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_corvair/6_commons.jpg",
+     "move": "left",
+     "dur": 6.66,
+     "fixed": true
+    },
+    {
+     "type": "video",
+     "src": "a/video/v_pinto/2_archive.mp4",
+     "fit": "crop",
+     "start": 0,
+     "xfade": 0.35,
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_corvair/7_commons.jpg",
+     "move": "out",
+     "dur": 10.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_nader/2_commons.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_corvair/8_commons.jpg",
+     "move": "right",
+     "dur": 4.34,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 5,
+     "name": "Ford Pinto",
+     "photo": "a/m_pinto/3_commons.jpg",
+     "credit": "Foto: Michael Barera \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "EE. UU. \u00b7 1971",
+     "sub": "el dep\u00f3sito que pod\u00eda arder",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_pinto/6_openverse.jpg",
+     "move": "in",
+     "dur": 7.04,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_pinto/2_openverse.jpg",
+     "move": "left",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_pinto/7_commons.jpg",
+     "move": "up",
+     "dur": 8.36,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_pinto/5_commons.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_pinto/9_commons.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_pinto_2/6_commons.jpg",
+     "move": "down",
+     "dur": 10.5,
+     "fixed": true
+    },
+    {
+     "type": "stat",
+     "value": "\u22481.500.000",
+     "label": "Ford Pinto llamados a revisi\u00f3n \u00b7 1978",
+     "count": false,
+     "sfx": [
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 0.05
+      }
+     ],
+     "source": "NHTSA / Ford",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_corvair/9_commons.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_corvair_2/10_commons.jpg",
+     "move": "left",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_corvair_2/1_commons.jpg",
+     "move": "out",
+     "dur": 9.14,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_2cv/4_openverse.jpg",
+     "move": "right",
+     "dur": 9.1,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Los prohibieron porque ganaban demasiado.",
+     "highlight": "GANABAN",
+     "size": 110,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 9.415,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch04.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 4,
+     "name": "Plymouth Superbird",
+     "photo": "a/m_superbird/4_commons.jpg",
+     "credit": "Foto: MrWalkr \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "EE. UU. \u00b7 1970",
+     "sub": "el coche con alas",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_superbird/2_commons.jpg",
+     "move": "right",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_superbird/3_commons.jpg",
+     "move": "in",
+     "dur": 8.96,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_superbird/10_commons.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_superbird/5_commons.jpg",
+     "move": "up",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_superbird/6_commons.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_superbird/7_commons.jpg",
+     "move": "down",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_superbird/8_commons.jpg",
+     "move": "in",
+     "dur": 5.8,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_superbird/11_commons.jpg",
+     "move": "up",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_superbird/9_commons.jpg",
+     "move": "left",
+     "dur": 7.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_superbird/12_commons.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_superbird_2/10_commons.jpg",
+     "move": "out",
+     "dur": 7.36,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 3,
+     "name": "Porsche 917",
+     "photo": "a/m_porsche917/2_commons.jpg",
+     "credit": "Foto: Alexander Migl \u00b7 CC BY-SA 4.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "Le Mans \u00b7 1970",
+     "sub": "expulsado de dos campeonatos",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_porsche917/4_commons.jpg",
+     "move": "right",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_porsche917/5_commons.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_porsche917/6_commons.jpg",
+     "move": "up",
+     "dur": 4.28,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_lemans70/1_commons.jpg",
+     "move": "in",
+     "caption": "Porsche 917|Le Mans 1970",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_porsche917/7_commons.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_porsche917/8_commons.jpg",
+     "move": "down",
+     "dur": 10.74,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_porsche917/1_commons.jpg",
+     "move": "down",
+     "dur": 7.6,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_porsche917/3_commons.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_917_2/10_openverse.jpg",
+     "move": "in",
+     "dur": 5.345,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch05.flac",
+   "lead_in": 0,
+   "tail": 0.8,
+   "shots": [
+    {
+     "type": "image",
+     "src": "a/m_amphicar/4_commons.jpg",
+     "move": "in",
+     "caption": "Amphicar 770|Alemania, 1961",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_amphicar/3_commons.jpg",
+     "move": "left",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_amphicar/5_commons.jpg",
+     "move": "out",
+     "dur": 9.48,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_amphicar/1_commons.jpg",
+     "move": "left",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_amphicar/6_commons.jpg",
+     "move": "right",
+     "dur": 8.04,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_amphicar/2_commons.jpg",
+     "move": "out",
+     "dur": 6.22,
+     "fixed": true
+    },
+    {
+     "type": "rank",
+     "num": 2,
+     "name": "Chaparral 2J",
+     "photo": "a/m_chaparral2j/2_commons.jpg",
+     "credit": "Foto: Craig Howell \u00b7 CC BY 2.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "EE. UU. \u00b7 1970",
+     "sub": "la primera aspiradora",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_chaparral2j/4_commons.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_917_2/1_commons.jpg",
+     "move": "up",
+     "dur": 10.4,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_chaparral2j/1_commons.jpg",
+     "move": "right",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_917_2/2_openverse.jpg",
+     "move": "out",
+     "dur": 5.54,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_chaparral2j/3_commons.jpg",
+     "move": "in",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_917_2/3_commons.jpg",
+     "move": "down",
+     "dur": 9.06,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_bt46b/2_commons.jpg",
+     "move": "up",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_bt46b/7_commons.jpg",
+     "move": "in",
+     "dur": 4.299,
+     "fixed": false
+    }
+   ]
+  },
+  {
+   "audio": "audio/ch06.flac",
+   "lead_in": 0,
+   "tail": 2.5,
+   "shots": [
+    {
+     "type": "rank",
+     "num": 1,
+     "name": "Brabham BT46B",
+     "photo": "a/m_bt46b/1_commons.jpg",
+     "credit": "Foto: edvvc \u00b7 CC BY 2.0",
+     "trans": "wipe",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/hit.wav",
+       "gain": -22,
+       "at": 0.15
+      }
+     ],
+     "tag": "F\u00f3rmula 1 \u00b7 1978",
+     "sub": "el coche aspiradora",
+     "dur": 5.38,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_anderstorp/2_openverse.jpg",
+     "move": "out",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_bt46b/8_commons.jpg",
+     "move": "left",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_bt46b/9_commons.jpg",
+     "move": "out",
+     "dur": 9.013,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/h_lauda/1_commons.jpg",
+     "move": "in",
+     "caption": "Niki Lauda|Brabham BT46B",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_bt46_2/10_commons.jpg",
+     "move": "right",
+     "dur": 9.487,
+     "fixed": true
+    },
+    {
+     "type": "statement",
+     "text": "Una carrera. Una victoria. Retirado.",
+     "highlight": "RETIRADO",
+     "size": 120,
+     "sfx": [
+      {
+       "file": "sfx/hit.wav",
+       "gain": -20,
+       "at": 0
+      }
+     ],
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_bt46_2/4_commons.jpg",
+     "move": "in",
+     "dur": 7.46,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_bt46b/5_commons.jpg",
+     "move": "down",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_bt46_2/5_commons.jpg",
+     "move": "up",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_bt46_2/6_commons.jpg",
+     "move": "out",
+     "dur": 4.12,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_bt46b/6_commons.jpg",
+     "move": "in",
+     "dur": 8.2,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_cobra427/6_commons.jpg",
+     "move": "left",
+     "dur": 7.0,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_2002turbo/7_commons.jpg",
+     "move": "down",
+     "dur": 4.38,
+     "fixed": true
+    },
+    {
+     "type": "image",
+     "src": "a/m_2cv/5_commons.jpg",
+     "move": "out",
+     "dur": 10.34,
+     "fixed": true
+    },
+    {
+     "type": "cta",
+     "text": "Suscr\u00edbete",
+     "sub": "historias de coches cl\u00e1sicos",
+     "sfx": [
+      {
+       "file": "sfx/whoosh.wav",
+       "gain": -20,
+       "at": 0.0
+      },
+      {
+       "file": "sfx/pop.wav",
+       "gain": -22,
+       "at": 1.2
+      }
+     ],
+     "dur": 9.345,
+     "fixed": false,
+     "fade_out": 0
+    }
+   ]
+  }
+ ],
+ "size": [
+  1920,
+  1080
+ ],
+ "theme": "retro60",
+ "subtitles": "ES08.ass"
+}
