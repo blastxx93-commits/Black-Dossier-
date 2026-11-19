@@ -58,6 +58,11 @@ Mesmo motor (`engine/render_aus.py`, `engine/aus_kit.py`) e mesmas regras de mon
 
 ## 5. Voz
 - Voz masculina de narrador **com sotaque da Espanha** (Fish Audio ou ElevenLabs). Velocidade 1.0.
+- **Checagem obrigatória da narração (pedido do dono, 19/11/2026):** antes de editar, rodar
+  `python3 agent/check_narration.py <assets/ep> episodes/<ep>/narration` em toda narração. Ele aponta silêncios/ruído
+  longos, fala embaralhada (trechos que não batem com o roteiro) e distorção. Capítulo com problema é gerado de novo
+  (narrate.yml com `only`) até passar limpo. Nunca editar nem renderizar com narração reprovada.
+- Escrever por extenso o que a voz pode ler errado: siglas e modelos com números (ex.: "2CV" → "Dos Caballos").
 
 ## 6. Títulos e thumbnail (próprios do canal)
 - Fórmula: "Los [N] Coches MÁS [ADJETIVO] de los Años 50" / "[N] Coches de los Años 50 Que HOY Estarían PROHIBIDOS".
