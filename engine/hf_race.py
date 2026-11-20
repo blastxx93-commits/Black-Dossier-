@@ -78,33 +78,68 @@ class Comp:
         self.js.append(code)
 
     # ------------------------------------------------------------------ shots
+    # camera moves for photos (owner 20/11/2026: less "slideshow", more kinds of movement than zoom)
+    MOVES = [
+        ({"scale": 1.22, "x": -120, "y": 0, "rotation": 0}, {"scale": 1.22, "x": 120, "y": 0, "rotation": 0}),     # pan right
+        ({"scale": 1.24, "x": 0, "y": -80, "rotation": 0}, {"scale": 1.24, "x": 0, "y": 80, "rotation": 0}),       # tilt down
+        ({"scale": 1.04, "x": 0, "y": 0, "rotation": -1.6}, {"scale": 1.18, "x": 30, "y": 0, "rotation": 1.2}),     # push + roll
+        ({"scale": 1.22, "x": 120, "y": 0, "rotation": 0}, {"scale": 1.22, "x": -120, "y": 0, "rotation": 0}),     # pan left
+        ({"scale": 1.28, "x": 60, "y": 40, "rotation": 0}, {"scale": 1.06, "x": -40, "y": -20, "rotation": 0}),    # pull back
+        ({"scale": 1.2, "x": -90, "y": 60, "rotation": 0}, {"scale": 1.26, "x": 90, "y": -60, "rotation": 0}),     # diagonal drift
+        ({"scale": 1.24, "x": 0, "y": 80, "rotation": 0}, {"scale": 1.24, "x": 0, "y": -80, "rotation": 0}),       # tilt up
+    ]
+
+    @staticmethod
+    def _v(d):
+        return "{" + ",".join(f"{k}:{v}" for k, v in d.items()) + "}"
+
     def image(self, s, t, d, k):
         i = self.id("im")
         src = self.asset(s["src"])
         cred = credit_text(self.cr, s["src"])
-        self.els.append(f'<div class="clip" id="{i}" style="opacity:0"><div class="ph" id="{i}p" style="background-image:url({src})"></div>'
-                        f'<div class="ph ghost" id="{i}g" style="background-image:url({src})"></div>'
+        card = (k % 5 == 3) and d >= 3.0          # every few shots: the photo arrives as a tilted card over its own blurred copy
+        split = (k % 7 == 5) and d >= 4.5         # sometimes: split screen with two crops of the same photo
+        inner = (f'<div class="ph blur" style="background-image:url({src})"></div><div class="cardph" id="{i}p" style="background-image:url({src})"></div>'
+                 if card else f'<div class="ph" id="{i}p" style="background-image:url({src})"></div>')
+        extra = ""
+        if split:
+            extra = (f'<div class="half" id="{i}l" style="left:0;opacity:0"><div class="ph" style="background-image:url({src});background-position:30% 50%;inset:-10%"></div></div>'
+                     f'<div class="half" id="{i}r" style="left:50%;opacity:0"><div class="ph" style="background-image:url({src});background-position:75% 40%;inset:-30%"></div></div>'
+                     f'<div class="splitline" id="{i}s" style="opacity:0"></div>')
+        self.els.append(f'<div class="clip" id="{i}" style="opacity:0">{inner}'
+                        f'<div class="ph ghost" id="{i}g" style="background-image:url({src})"></div>{extra}'
                         + (f'<div class="credit">{cred}</div>' if cred else "") + '</div>')
         dr = 1 if k % 2 == 0 else -1
-        mv = s.get("move", "in")
         self.at(f'tl.set("#{i}",{{opacity:1}},{t:.3f});tl.set("#{i}",{{opacity:0}},{t + d:.3f});')
-        self.at(f'tl.fromTo("#{i}p",{{x:{260 * dr},scale:1.2}},{{x:0,scale:1.05,duration:.35,ease:"expo.out"}},{t:.3f});')
         self.at(f'tl.fromTo("#{i}g",{{opacity:.55,x:{120 * dr}}},{{opacity:0,x:0,duration:.3}},{t:.3f});')
         self.flash(t, dr)
-        # punch-ins inside long holds keep the cut rhythm fast
-        beats = max(1, int(d // 2.4))
+        if card:
+            self.at(f'tl.fromTo("#{i}p",{{x:{900 * dr},rotation:{6 * dr},scale:.9}},{{x:0,rotation:{-1.5 * dr},scale:1,duration:.45,ease:"expo.out"}},{t:.3f});'
+                    f'tl.to("#{i}p",{{rotation:{1.2 * dr},scale:1.07,x:{-40 * dr},duration:{d - .5:.3f},ease:"none"}},{t + .45:.3f});')
+            return self._caption(s, t, d)
+        # cut the hold into ~2.2 s beats, each with a different camera move
+        beats = max(1, int(d // 2.2))
         seg = d / beats
         for b in range(beats):
-            a = t + .35 + b * seg
-            dur = seg - (.35 if b == 0 else 0)
-            sc0, sc1 = (1.05, 1.13) if mv != "out" else (1.15, 1.05)
-            if b:
-                sc0 += .04 * (b % 2); sc1 += .04 * (b % 2)
-                self.at(f'tl.set("#{i}p",{{scale:{sc0:.3f},x:{(-90 if b % 2 else 90) * dr}}},{a:.3f});')
-                self.at(f'tl.fromTo("#speed",{{opacity:.5,x:0}},{{opacity:0,x:{-300 * dr},duration:.25}},{a:.3f});')
-            xs = {"left": 80, "right": -80}.get(mv, -50 * dr)
-            ys = {"up": -50, "down": 50}.get(mv, 0)
-            self.at(f'tl.to("#{i}p",{{scale:{sc1:.3f},x:"+={xs}",y:"+={ys}",duration:{max(.1, dur - .05):.3f},ease:"none"}},{a:.3f});')
+            a = t + b * seg
+            m0, m1 = self.MOVES[(k * 3 + b) % len(self.MOVES)]
+            if b == 0:
+                ent = dict(m0); ent["x"] = m0["x"] + 260 * dr; ent["scale"] = m0["scale"] + .08
+                self.at(f'tl.fromTo("#{i}p",{self._v(ent)},{{...{self._v(m0)},duration:.32,ease:"expo.out"}},{a:.3f});')
+                self.at(f'tl.to("#{i}p",{{...{self._v(m1)},duration:{max(.1, seg - .34):.3f},ease:"sine.inOut"}},{a + .32:.3f});')
+            else:
+                self.at(f'tl.set("#{i}p",{self._v(m0)},{a:.3f});')
+                self.at(f'tl.fromTo("#speed",{{opacity:.45,x:0}},{{opacity:0,x:{-300 * dr},duration:.22}},{a:.3f});')
+                self.at(f'tl.to("#{i}p",{{...{self._v(m1)},duration:{max(.1, seg - .02):.3f},ease:"sine.inOut"}},{a:.3f});')
+        if split:
+            a = t + min(seg, d - 2.0)
+            self.at(f'tl.set(["#{i}l","#{i}r","#{i}s"],{{opacity:1}},{a:.3f});'
+                    f'tl.fromTo("#{i}l",{{y:-1080}},{{y:0,duration:.35,ease:"expo.out"}},{a:.3f});'
+                    f'tl.fromTo("#{i}r",{{y:1080}},{{y:0,duration:.35,ease:"expo.out"}},{a:.3f});'
+                    f'tl.fromTo("#{i}s",{{scaleY:0}},{{scaleY:1,duration:.3}},{a + .1:.3f});')
+        self._caption(s, t, d)
+
+    def _caption(self, s, t, d):
         if s.get("caption"):
             a, _, b = s["caption"].partition("|")
             c = self.id("cap")
@@ -244,6 +279,11 @@ html, body {{ margin: 0; background: #000; }}
 .ph {{ position: absolute; inset: -7%; background-size: cover; background-position: center; }}
 .vid {{ position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }}
 .ghost {{ opacity: 0; mix-blend-mode: screen; }}
+.blur {{ filter: blur(28px) brightness(.55); transform: scale(1.1); }}
+.cardph {{ position: absolute; left: 13%; right: 13%; top: 11%; bottom: 11%; background-size: cover; background-position: center;
+          border: 8px solid #fff; box-shadow: 0 30px 80px rgba(0,0,0,.7); }}
+.half {{ position: absolute; top: 0; bottom: 0; width: 50%; overflow: hidden; }}
+.splitline {{ position: absolute; left: calc(50% - 5px); top: 0; bottom: 0; width: 10px; background: {RED}; transform-origin: top center; }}
 .grade {{ position: absolute; inset: 0; background: radial-gradient(ellipse at center, rgba(0,0,0,0) 45%, rgba(0,0,0,.7) 100%); }}
 #vig {{ position: absolute; inset: 0; background: radial-gradient(ellipse at center, rgba(0,0,0,0) 55%, rgba(0,0,0,.55) 100%); pointer-events: none; }}
 #speed {{ position: absolute; inset: 0; opacity: 0; background: repeating-linear-gradient(90deg, rgba(255,255,255,0) 0 140px, rgba(255,255,255,.18) 140px 146px, rgba(255,255,255,0) 146px 380px); }}

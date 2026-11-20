@@ -52,6 +52,11 @@ Mesmo motor (`engine/render_aus.py`, `engine/aus_kit.py`) e mesmas regras de mon
   vermelho #e10600, cartela do número com impacto e tremor, chip de local/ano, HUD com a posição da lista).
 - A montagem continua igual (build_esXX.py com aus_kit → episode.json); só o render final muda. es01–es09 ficam como estão.
 - A rotação de temas da seção 3b deixa de valer para os vídeos novos (o template Race é o visual do canal).
+- Movimento (20/11/2026): nada de "apresentação de slides". Cada foto troca de movimento a cada ~2,2 s (pan, tilt, push com
+  rotação, pull-back, diagonal), algumas entram como "card" inclinado sobre a própria foto desfocada e outras viram tela dividida.
+- **Primeiro minuto = clipes (20/11/2026):** o vídeo abre com clipes reais de arquivo (não fotos); o hook usa o máximo de clipes.
+  Só propor temas que tenham boa quantidade de clipes reais, principalmente para o hook (checar a disponibilidade antes do roteiro).
+- Temas diferenciados, fugindo do formato "lista de carros" de sempre; sempre trazer subtemas.
 - Trilha: trocar a sintetizada por música real com licença livre (crédito do compositor na descrição) assim que a busca estiver pronta.
 
 ## 4. Imagens e segurança
