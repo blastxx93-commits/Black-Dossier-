@@ -1,0 +1,148 @@
+{
+ "defaults": {
+  "n": 12,
+  "sources": [
+   "commons",
+   "openverse",
+   "loc"
+  ]
+ },
+ "shots": [
+  {
+   "id": "m_seat800",
+   "query": "SEAT 800",
+   "alt": [
+    "Seat 800 cuatro puertas",
+    "SEAT 800 Costa"
+   ],
+   "n": 18
+  },
+  {
+   "id": "m_seat600",
+   "query": "SEAT 600",
+   "alt": [
+    "SEAT 600 D",
+    "Seat 600 E"
+   ],
+   "n": 18
+  },
+  {
+   "id": "m_mini1275c",
+   "query": "Mini 1275 C",
+   "alt": [
+    "Authi Mini 1275 C",
+    "Morris Mini 1275 C",
+    "Authi Mini Cooper"
+   ],
+   "n": 18
+  },
+  {
+   "id": "m_dodge3700",
+   "query": "Dodge 3700 GT",
+   "alt": [
+    "Dodge 3700",
+    "Dodge Dart Barreiros"
+   ],
+   "n": 18
+  },
+  {
+   "id": "m_victoria",
+   "query": "Austin Victoria",
+   "alt": [
+    "Authi Austin Victoria",
+    "Austin Victoria 1300"
+   ],
+   "n": 18
+  },
+  {
+   "id": "m_adoaust",
+   "query": "Austin 1300",
+   "alt": [
+    "Morris 1100",
+    "MG 1100",
+    "Austin Apache"
+   ],
+   "n": 18
+  },
+  {
+   "id": "m_seat133",
+   "query": "SEAT 133",
+   "alt": [
+    "Seat 133 1974",
+    "Fiat 133"
+   ],
+   "n": 18
+  },
+  {
+   "id": "m_bocanegra",
+   "query": "SEAT 1200 Sport",
+   "alt": [
+    "SEAT 1200 Sport Bocanegra",
+    "SEAT 1430 Sport"
+   ],
+   "n": 18
+  },
+  {
+   "id": "m_r7",
+   "query": "Renault 7",
+   "alt": [
+    "Renault Siete",
+    "Renault 7 GTL",
+    "Renault 7 TL"
+   ],
+   "n": 18
+  },
+  {
+   "id": "m_r5",
+   "query": "Renault 5 1972",
+   "alt": [
+    "Renault 5 TL",
+    "Renault 5 FASA"
+   ],
+   "n": 18
+  },
+  {
+   "id": "m_pegaso",
+   "query": "Pegaso Z-102",
+   "alt": [
+    "Pegaso Z102"
+   ],
+   "n": 8
+  },
+  {
+   "id": "h_authi",
+   "query": "Authi Pamplona",
+   "alt": [
+    "Landaben Pamplona fábrica",
+    "Authi factory"
+   ],
+   "n": 6
+  },
+  {
+   "id": "h_fasa",
+   "query": "FASA Renault Valladolid",
+   "alt": [
+    "Renault Valladolid"
+   ],
+   "n": 6
+  },
+  {
+   "id": "h_spain70",
+   "query": "España años 70 calle coches",
+   "alt": [
+    "Madrid 1975 street",
+    "Barcelona 1970s street cars"
+   ],
+   "n": 10
+  },
+  {
+   "id": "h_concentracion",
+   "query": "concentración coches clásicos España",
+   "alt": [
+    "classic car meeting Spain",
+    "Seat clásicos club"
+   ],
+   "n": 8
+  }
+ ]
+}

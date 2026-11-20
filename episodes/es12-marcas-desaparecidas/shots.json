@@ -1,0 +1,163 @@
+{
+ "defaults": {
+  "n": 12,
+  "sources": [
+   "commons",
+   "openverse",
+   "loc"
+  ]
+ },
+ "shots": [
+  {
+   "id": "m_sava",
+   "query": "SAVA camión",
+   "alt": [
+    "SAVA furgoneta",
+    "SAVA J4",
+    "SAVA Austin"
+   ],
+   "n": 18
+  },
+  {
+   "id": "m_ptv",
+   "query": "PTV 250",
+   "alt": [
+    "PTV Manresa microcoche"
+   ],
+   "n": 10
+  },
+  {
+   "id": "m_biscuter",
+   "query": "Biscúter",
+   "alt": [
+    "Biscuter Autonacional",
+    "Voisin Biscooter"
+   ],
+   "n": 18
+  },
+  {
+   "id": "m_dkw_f1000",
+   "query": "DKW F1000",
+   "alt": [
+    "DKW F 1000 D furgoneta",
+    "IMOSA DKW",
+    "Mercedes N1000"
+   ],
+   "n": 18
+  },
+  {
+   "id": "h_vitoria",
+   "query": "Mercedes-Benz Vitoria",
+   "alt": [
+    "fábrica Mercedes Vitoria"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_authi",
+   "query": "Authi Mini",
+   "alt": [
+    "Authi MG 1100",
+    "Austin Victoria",
+    "Authi Morris 1300"
+   ],
+   "n": 18
+  },
+  {
+   "id": "h_landaben",
+   "query": "Volkswagen Navarra Landaben",
+   "alt": [
+    "Volkswagen Pamplona fábrica"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_barreiros",
+   "query": "Barreiros camión",
+   "alt": [
+    "Barreiros Diesel",
+    "Barreiros Azor",
+    "Barreiros Saeta"
+   ],
+   "n": 18
+  },
+  {
+   "id": "m_dodgedart",
+   "query": "Dodge Dart Barreiros",
+   "alt": [
+    "Dodge Dart España",
+    "Dodge 3700 GT"
+   ],
+   "n": 18
+  },
+  {
+   "id": "m_simca1000",
+   "query": "Simca 1000",
+   "alt": [
+    "Simca 1000 Barreiros"
+   ],
+   "n": 18
+  },
+  {
+   "id": "h_eduardo",
+   "query": "Eduardo Barreiros",
+   "alt": [
+    "Eduardo Barreiros Rodríguez"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_santana",
+   "query": "Land Rover Santana",
+   "alt": [
+    "Santana 88",
+    "Santana 109",
+    "Santana Motor"
+   ],
+   "n": 18
+  },
+  {
+   "id": "h_linares",
+   "query": "Santana Motor Linares",
+   "alt": [
+    "Linares Jaén"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_pegaso_truck",
+   "query": "Pegaso camión",
+   "alt": [
+    "Pegaso Comet",
+    "Pegaso Mofletes",
+    "Pegaso Barajas",
+    "Pegaso 1086"
+   ],
+   "n": 18
+  },
+  {
+   "id": "m_pegaso_z102",
+   "query": "Pegaso Z-102",
+   "alt": [
+    "Pegaso Z102"
+   ],
+   "n": 8
+  },
+  {
+   "id": "h_hispano",
+   "query": "Hispano-Suiza",
+   "alt": [
+    "Hispano-Suiza Barcelona"
+   ],
+   "n": 6
+  },
+  {
+   "id": "h_spain_road",
+   "query": "carretera España camión antiguo",
+   "alt": [
+    "Spanish road 1970s truck"
+   ],
+   "n": 8
+  }
+ ]
+}

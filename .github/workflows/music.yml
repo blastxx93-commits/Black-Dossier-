@@ -1,0 +1,33 @@
+name: Trilhas (música livre)
+
+# Baixa faixas CC BY 4.0 (Kevin MacLeod, incompetech.com) e publica em assets/music/.
+on:
+  workflow_dispatch:
+    inputs:
+      titles:
+        description: "Títulos separados por ; (como aparecem no incompetech)"
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  music:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: Baixar
+        working-directory: main
+        run: |
+          IFS=';' read -ra T <<< "${{ inputs.titles }}"
+          python3 agent/fetch_music.py ../out "${T[@]}"
+      - name: Publicar
+        if: ${{ !cancelled() }}
+        run: bash main/agent/publish_assets.sh "out/music" "music" "Trilhas livres"

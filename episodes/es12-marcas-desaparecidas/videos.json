@@ -1,0 +1,86 @@
+{
+ "defaults": {
+  "n": 4,
+  "clip": 8,
+  "per_film": 2,
+  "years": [
+   1900,
+   2030
+  ],
+  "sources": [
+   "commons",
+   "archive"
+  ]
+ },
+ "shots": [
+  {
+   "id": "v_pegaso",
+   "query": "Pegaso truck",
+   "alt": [
+    "Pegaso camion"
+   ],
+   "sources": [
+    "commons",
+    "archive"
+   ],
+   "years": [
+    1900,
+    2030
+   ],
+   "n": 4,
+   "per_film": 2
+  },
+  {
+   "id": "v_landrover",
+   "query": "Land Rover Series",
+   "alt": [
+    "Land Rover Santana"
+   ],
+   "sources": [
+    "commons",
+    "archive"
+   ],
+   "years": [
+    1900,
+    2030
+   ],
+   "n": 4,
+   "per_film": 2
+  },
+  {
+   "id": "v_dkw",
+   "query": "DKW F1000",
+   "alt": [
+    "DKW van"
+   ],
+   "sources": [
+    "commons",
+    "archive"
+   ],
+   "years": [
+    1900,
+    2030
+   ],
+   "n": 4,
+   "per_film": 2
+  },
+  {
+   "id": "v_spain",
+   "query": "Spain 1950s",
+   "alt": [
+    "Madrid 1950s",
+    "Barcelona 1950s"
+   ],
+   "sources": [
+    "commons",
+    "archive"
+   ],
+   "years": [
+    1900,
+    2030
+   ],
+   "n": 4,
+   "per_film": 2
+  }
+ ]
+}

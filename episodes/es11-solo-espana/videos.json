@@ -1,0 +1,86 @@
+{
+ "defaults": {
+  "n": 4,
+  "clip": 8,
+  "per_film": 2,
+  "years": [
+   1900,
+   2030
+  ],
+  "sources": [
+   "commons",
+   "archive"
+  ]
+ },
+ "shots": [
+  {
+   "id": "v_seat600",
+   "query": "SEAT 600",
+   "alt": [
+    "Seat 600 driving"
+   ],
+   "sources": [
+    "commons",
+    "archive"
+   ],
+   "years": [
+    1900,
+    2030
+   ],
+   "n": 4,
+   "per_film": 2
+  },
+  {
+   "id": "v_r7",
+   "query": "Renault 7",
+   "alt": [
+    "Renault Siete"
+   ],
+   "sources": [
+    "commons",
+    "archive"
+   ],
+   "years": [
+    1900,
+    2030
+   ],
+   "n": 4,
+   "per_film": 2
+  },
+  {
+   "id": "v_mini",
+   "query": "Mini Cooper 1960s",
+   "alt": [
+    "Morris Mini driving"
+   ],
+   "sources": [
+    "commons",
+    "archive"
+   ],
+   "years": [
+    1900,
+    2030
+   ],
+   "n": 4,
+   "per_film": 2
+  },
+  {
+   "id": "v_spain",
+   "query": "Spain 1960s",
+   "alt": [
+    "Madrid 1960s",
+    "Barcelona 1960s"
+   ],
+   "sources": [
+    "commons",
+    "archive"
+   ],
+   "years": [
+    1900,
+    2030
+   ],
+   "n": 4,
+   "per_film": 2
+  }
+ ]
+}
