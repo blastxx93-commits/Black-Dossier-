@@ -352,18 +352,41 @@ def main():
     ap.add_argument("--out", default="")
     ap.add_argument("--from", dest="t_from", type=float, default=0.0)
     ap.add_argument("--to", dest="t_to", type=float, default=None)
-    ap.add_argument("--workers", default="4")
+    ap.add_argument("--workers", default="3")
+    ap.add_argument("--chunk", type=float, default=120.0, help="seconds per resumable render chunk")
     ap.add_argument("--quality", default="standard")
     a = ap.parse_args()
     wd = os.path.abspath(a.workdir)
     ep = json.load(open(os.path.join(wd, a.episode)))
     out = os.path.abspath(a.out or os.path.join(wd, ep["output"]))
-    proj = os.path.join(wd, "hf_project")
-    shutil.rmtree(proj, ignore_errors=True)
-    total = build(wd, ep, proj, a.t_from, a.t_to)
     ensure_hf()
+    full = sum(float(s["dur"]) for c in ep["chapters"] for s in c["shots"])
+    t_to = a.t_to if a.t_to is not None else full
+    total = t_to - a.t_from
+    # render the visuals in resumable chunks (a container restart only loses the chunk in progress)
+    edges, acc = [], 0.0
+    for c in ep["chapters"]:
+        for s in c["shots"]:
+            acc += float(s["dur"]); edges.append(acc)
+    parts, t0, k = [], a.t_from, 0
+    while t0 < t_to - 1e-3:
+        # cut only on shot boundaries, so no shot is split between two chunks
+        t1 = next((e for e in edges if e >= t0 + a.chunk - 1e-6), t_to)
+        t1 = min(t_to, t1)
+        part = os.path.join(wd, f"hf_part{k:03d}_{t0:.0f}_{t1:.0f}.mp4")
+        if not os.path.exists(part):
+            proj = os.path.join(wd, "hf_project")
+            shutil.rmtree(proj, ignore_errors=True)
+            build(wd, ep, proj, t0, t1)
+            sh(["npx", "--prefix", HF, "hyperframes", "render", "-q", a.quality, "-w", a.workers, "-f", str(FPS),
+                "-o", part + ".tmp.mp4"], cwd=proj)
+            os.replace(part + ".tmp.mp4", part)
+        parts.append(part)
+        t0, k = t1, k + 1
     silent = os.path.join(wd, "hf_visual.mp4")
-    sh(["npx", "--prefix", HF, "hyperframes", "render", "-q", a.quality, "-w", a.workers, "-f", str(FPS), "-o", silent], cwd=proj)
+    lst = os.path.join(wd, "hf_parts.txt")
+    open(lst, "w").write("".join(f"file '{p}'\n" for p in parts))
+    sh(["ffmpeg", "-v", "error", "-y", "-f", "concat", "-safe", "0", "-i", lst, "-an", "-c", "copy", silent])
     wav = os.path.join(wd, "hf_mix.wav")
     mix_audio(wd, ep, wav, a.t_from, total)
     subs = os.path.join(wd, ep.get("subtitles", "")) if ep.get("subtitles") else ""
