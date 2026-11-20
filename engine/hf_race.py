@@ -381,15 +381,16 @@ def gsap_path():
 
 
 def mix_audio(wd, ep, out_wav, t_from, total):
-    """narration per chapter + sfx + music, the same placement render_aus uses"""
+    """narration per chapter + sfx + music; the music ducks under the voice (sidechain), so it never competes"""
     inputs, filters, t, n = [], [], 0.0, 0
+    vox, fxl, mus = [], [], None
     for ch in ep["chapters"]:
         dur = sum(float(s["dur"]) for s in ch["shots"])
         st = t + float(ch.get("lead_in", 0)) - t_from
         if st + dur > 0 and st < total:
             inputs += ["-i", os.path.join(wd, ch["audio"])]
             filters.append(f"[{n}:a]aresample=48000,aformat=channel_layouts=stereo,atrim=start={max(0, -st):.3f},adelay={max(0, st) * 1000:.0f}|{max(0, st) * 1000:.0f}[a{n}]")
-            n += 1
+            vox.append(f"a{n}"); n += 1
         tt = t
         for s in ch["shots"]:
             for fx in s.get("sfx", []):
@@ -397,7 +398,7 @@ def mix_audio(wd, ep, out_wav, t_from, total):
                 if 0 <= at < total and os.path.exists(os.path.join(wd, fx["file"])):
                     inputs += ["-i", os.path.join(wd, fx["file"])]
                     filters.append(f"[{n}:a]aresample=48000,aformat=channel_layouts=stereo,volume={fx.get('gain', -20)}dB,adelay={at * 1000:.0f}|{at * 1000:.0f}[a{n}]")
-                    n += 1
+                    fxl.append(f"a{n}"); n += 1
             tt += float(s["dur"])
         t += dur
     for m in ep.get("music", []):
@@ -405,10 +406,20 @@ def mix_audio(wd, ep, out_wav, t_from, total):
         if os.path.exists(mp):
             inputs += ["-stream_loop", "-1", "-i", mp]
             filters.append(f"[{n}:a]aresample=48000,aformat=channel_layouts=stereo,atrim=start={t_from:.3f}:duration={total:.3f},asetpts=PTS-STARTPTS,"
-                           f"volume={m.get('gain', -29)}dB,afade=t=out:st={max(0, total - 4):.3f}:d=4[a{n}]")
-            n += 1
-    mix = "".join(f"[a{i}]" for i in range(n))
-    filters.append(f"{mix}amix=inputs={n}:normalize=0,atrim=duration={total:.3f},loudnorm=I=-14:TP=-1.5:LRA=11[out]")
+                           f"volume={m.get('gain', -22)}dB,afade=t=in:d=2,afade=t=out:st={max(0, total - 4):.3f}:d=4[a{n}]")
+            mus = f"a{n}"; n += 1
+            break
+    filters.append("".join(f"[{v}]" for v in vox) + f"amix=inputs={len(vox)}:normalize=0[vox]")
+    parts = ["[voxo]"]
+    if mus:
+        filters.append("[vox]asplit=2[voxo][voxk]")
+        # duck the bed ~10 dB while the narrator speaks, let it breathe in the pauses
+        filters.append(f"[{mus}][voxk]sidechaincompress=threshold=0.015:ratio=10:attack=15:release=450:makeup=1[musd]")
+        parts.append("[musd]")
+    else:
+        filters.append("[vox]anull[voxo]")
+    parts += [f"[{x}]" for x in fxl]
+    filters.append("".join(parts) + f"amix=inputs={len(parts)}:normalize=0,atrim=duration={total:.3f},loudnorm=I=-14:TP=-1.5:LRA=11[out]")
     sh(["ffmpeg", "-v", "error", "-y"] + inputs + ["-filter_complex", ";".join(filters), "-map", "[out]", "-ar", "48000", out_wav])
 
 
