@@ -1,0 +1,176 @@
+[     0s] es11-solo-espana: 15 planos, limite 35.0 min
+[     0s] m_seat800: 'SEAT 800'
+[     1s]     commons: 8 candidatos em 0.6s
+[    28s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[    28s]     openverse: 0 candidatos em 27.1s
+[    62s]   ! www.loc.gov: HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out. (read timeout=15)
+[    62s]     loc: 0 candidatos em 34.1s
+[    67s]     commons: 0 candidatos em 0.4s
+[    73s]     openverse: 0 candidatos em 5.9s
+[   107s]   ! www.loc.gov: HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out. (read timeout=15)
+[   107s]     loc: 0 candidatos em 34.1s
+[   107s]     commons: 1 candidatos em 0.3s
+[   111s]     openverse: 0 candidatos em 4.3s
+[   146s]   ! www.loc.gov: HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out. (read timeout=15)
+[   146s]   ! www.loc.gov desligado nesta execucao (3 falhas seguidas)
+[   146s]     loc: 0 candidatos em 34.1s
+[   146s]   -> 9 imagens
+[   146s] m_seat600: 'SEAT 600'
+[   146s]     commons: 10 candidatos em 0.2s
+[   171s]   ! api.openverse.org: 504 Server Error: Gateway Timeout for url: https://api.openverse.org/v1/images/?q=SEAT+600&license=pdm%2Ccc0%2Cby%2Cby-sa&page_size=12&mature=false
+[   171s]     openverse: 0 candidatos em 25.0s
+[   171s]     loc: 0 candidatos em 0.0s
+[   178s]     commons: 12 candidatos em 0.4s
+[   205s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[   205s]     openverse: 0 candidatos em 27.2s
+[   205s]     loc: 0 candidatos em 0.0s
+[   210s]   -> 18 imagens
+[   210s] m_mini1275c: 'Mini 1275 C'
+[   210s]     commons: 11 candidatos em 0.5s
+[   229s]     openverse: 4 candidatos em 18.5s
+[   229s]     loc: 0 candidatos em 0.0s
+[   242s]     commons: 4 candidatos em 0.4s
+[   259s]     openverse: 0 candidatos em 16.8s
+[   259s]     loc: 0 candidatos em 0.0s
+[   260s]     commons: 12 candidatos em 0.5s
+[   294s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[   294s]     openverse: 0 candidatos em 34.0s
+[   294s]     loc: 0 candidatos em 0.0s
+[   296s]   -> 18 imagens
+[   296s] m_dodge3700: 'Dodge 3700 GT'
+[   296s]     commons: 12 candidatos em 0.3s
+[   323s]   ! api.openverse.org: 504 Server Error: Gateway Timeout for url: https://api.openverse.org/v1/images/?q=Dodge+3700+GT&license=pdm%2Ccc0%2Cby%2Cby-sa&page_size=12&mature=false
+[   323s]     openverse: 0 candidatos em 27.1s
+[   323s]     loc: 0 candidatos em 0.0s
+[   331s]     commons: 12 candidatos em 0.5s
+[   361s]   ! api.openverse.org: 500 Server Error: Internal Server Error for url: https://api.openverse.org/v1/images/?q=Dodge+3700&license=pdm%2Ccc0%2Cby%2Cby-sa&page_size=12&mature=false
+[   361s]   ! api.openverse.org desligado nesta execucao (3 falhas seguidas)
+[   361s]     openverse: 0 candidatos em 30.3s
+[   361s]     loc: 0 candidatos em 0.0s
+[   364s]   -> 18 imagens
+[   364s] m_victoria: 'Austin Victoria'
+[   365s]     commons: 12 candidatos em 0.9s
+[   365s]     openverse: 0 candidatos em 0.0s
+[   365s]     loc: 0 candidatos em 0.0s
+[   373s]     commons: 12 candidatos em 0.6s
+[   373s]     openverse: 0 candidatos em 0.0s
+[   373s]     loc: 0 candidatos em 0.0s
+[   398s]   ! commons.wikimedia.org: 429 rate limit
+[   398s]     commons: 0 candidatos em 24.0s
+[   398s]     openverse: 0 candidatos em 0.0s
+[   398s]     loc: 0 candidatos em 0.0s
+[   398s]   -> 13 imagens
+[   398s] m_adoaust: 'Austin 1300'
+[   422s]   ! commons.wikimedia.org: 429 rate limit
+[   422s]     commons: 0 candidatos em 24.0s
+[   422s]     openverse: 0 candidatos em 0.0s
+[   422s]     loc: 0 candidatos em 0.0s
+[   446s]   ! commons.wikimedia.org: 429 rate limit
+[   446s]   ! commons.wikimedia.org desligado nesta execucao (3 falhas seguidas)
+[   446s]     commons: 0 candidatos em 24.0s
+[   446s]     openverse: 0 candidatos em 0.0s
+[   446s]     loc: 0 candidatos em 0.0s
+[   446s]     commons: 0 candidatos em 0.0s
+[   446s]     openverse: 0 candidatos em 0.0s
+[   446s]     loc: 0 candidatos em 0.0s
+[   446s]     commons: 0 candidatos em 0.0s
+[   446s]     openverse: 0 candidatos em 0.0s
+[   446s]     loc: 0 candidatos em 0.0s
+[   446s]   -> 0 imagens
+[   446s] m_seat133: 'SEAT 133'
+[   446s]     commons: 0 candidatos em 0.0s
+[   446s]     openverse: 0 candidatos em 0.0s
+[   446s]     loc: 0 candidatos em 0.0s
+[   446s]     commons: 0 candidatos em 0.0s
+[   446s]     openverse: 0 candidatos em 0.0s
+[   446s]     loc: 0 candidatos em 0.0s
+[   446s]     commons: 0 candidatos em 0.0s
+[   446s]     openverse: 0 candidatos em 0.0s
+[   446s]     loc: 0 candidatos em 0.0s
+[   446s]   -> 0 imagens
+[   446s] m_bocanegra: 'SEAT 1200 Sport'
+[   446s]     commons: 0 candidatos em 0.0s
+[   446s]     openverse: 0 candidatos em 0.0s
+[   446s]     loc: 0 candidatos em 0.0s
+[   446s]     commons: 0 candidatos em 0.0s
+[   446s]     openverse: 0 candidatos em 0.0s
+[   446s]     loc: 0 candidatos em 0.0s
+[   446s]     commons: 0 candidatos em 0.0s
+[   446s]     openverse: 0 candidatos em 0.0s
+[   446s]     loc: 0 candidatos em 0.0s
+[   446s]   -> 0 imagens
+[   446s] m_r7: 'Renault 7'
+[   446s]     commons: 0 candidatos em 0.0s
+[   446s]     openverse: 0 candidatos em 0.0s
+[   446s]     loc: 0 candidatos em 0.0s
+[   446s]     commons: 0 candidatos em 0.0s
+[   446s]     openverse: 0 candidatos em 0.0s
+[   446s]     loc: 0 candidatos em 0.0s
+[   446s]     commons: 0 candidatos em 0.0s
+[   446s]     openverse: 0 candidatos em 0.0s
+[   446s]     loc: 0 candidatos em 0.0s
+[   446s]     commons: 0 candidatos em 0.0s
+[   446s]     openverse: 0 candidatos em 0.0s
+[   446s]     loc: 0 candidatos em 0.0s
+[   446s]   -> 0 imagens
+[   446s] m_r5: 'Renault 5 1972'
+[   446s]     commons: 0 candidatos em 0.0s
+[   446s]     openverse: 0 candidatos em 0.0s
+[   446s]     loc: 0 candidatos em 0.0s
+[   446s]     commons: 0 candidatos em 0.0s
+[   446s]     openverse: 0 candidatos em 0.0s
+[   446s]     loc: 0 candidatos em 0.0s
+[   446s]     commons: 0 candidatos em 0.0s
+[   446s]     openverse: 0 candidatos em 0.0s
+[   446s]     loc: 0 candidatos em 0.0s
+[   446s]   -> 0 imagens
+[   446s] m_pegaso: 'Pegaso Z-102'
+[   446s]     commons: 0 candidatos em 0.0s
+[   446s]     openverse: 0 candidatos em 0.0s
+[   446s]     loc: 0 candidatos em 0.0s
+[   446s]     commons: 0 candidatos em 0.0s
+[   446s]     openverse: 0 candidatos em 0.0s
+[   446s]     loc: 0 candidatos em 0.0s
+[   446s]   -> 0 imagens
+[   446s] h_authi: 'Authi Pamplona'
+[   446s]     commons: 0 candidatos em 0.0s
+[   446s]     openverse: 0 candidatos em 0.0s
+[   446s]     loc: 0 candidatos em 0.0s
+[   446s]     commons: 0 candidatos em 0.0s
+[   446s]     openverse: 0 candidatos em 0.0s
+[   446s]     loc: 0 candidatos em 0.0s
+[   446s]     commons: 0 candidatos em 0.0s
+[   446s]     openverse: 0 candidatos em 0.0s
+[   446s]     loc: 0 candidatos em 0.0s
+[   446s]   -> 0 imagens
+[   446s] h_fasa: 'FASA Renault Valladolid'
+[   446s]     commons: 0 candidatos em 0.0s
+[   446s]     openverse: 0 candidatos em 0.0s
+[   446s]     loc: 0 candidatos em 0.0s
+[   446s]     commons: 0 candidatos em 0.0s
+[   446s]     openverse: 0 candidatos em 0.0s
+[   446s]     loc: 0 candidatos em 0.0s
+[   446s]   -> 0 imagens
+[   446s] h_spain70: 'España años 70 calle coches'
+[   446s]     commons: 0 candidatos em 0.0s
+[   446s]     openverse: 0 candidatos em 0.0s
+[   446s]     loc: 0 candidatos em 0.0s
+[   446s]     commons: 0 candidatos em 0.0s
+[   446s]     openverse: 0 candidatos em 0.0s
+[   446s]     loc: 0 candidatos em 0.0s
+[   446s]     commons: 0 candidatos em 0.0s
+[   446s]     openverse: 0 candidatos em 0.0s
+[   446s]     loc: 0 candidatos em 0.0s
+[   446s]   -> 0 imagens
+[   446s] h_concentracion: 'concentración coches clásicos España'
+[   446s]     commons: 0 candidatos em 0.0s
+[   446s]     openverse: 0 candidatos em 0.0s
+[   446s]     loc: 0 candidatos em 0.0s
+[   446s]     commons: 0 candidatos em 0.0s
+[   446s]     openverse: 0 candidatos em 0.0s
+[   446s]     loc: 0 candidatos em 0.0s
+[   446s]     commons: 0 candidatos em 0.0s
+[   446s]     openverse: 0 candidatos em 0.0s
+[   446s]     loc: 0 candidatos em 0.0s
+[   446s]   -> 0 imagens
+[   448s] fim: 76 imagens
