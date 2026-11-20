@@ -27,6 +27,7 @@ CLIP_TARGET = 0.40
 MAX_HOLD, KEEP = 7.5, 5.0
 THEME = None  # es* builds pick a look from engine/themes.py (e.g. "retro60"); None keeps the original look
 SPLIT_BY_SUBJECT = False  # es* builds set True: long holds continue on the same car, not the chapter's car
+STRICT_POOLS = False  # True: never borrow a photo from an unrelated car when a pool runs dry
 ARCHIVE_OK = False  # period channels (es*) set True: archive newsreels are their best footage
 MOVES = ["in", "left", "out", "right", "in", "up", "out", "down"]
 _mv = [0]
@@ -107,7 +108,8 @@ def _pool(scene):
 
 
 def _photo(scene, move=None, cap=None, **kw):
-    for sc in [scene] + CFG["fallback"].get(scene, []) + CFG["any"] + list(CFG["photos"]):
+    tail = [] if STRICT_POOLS else list(CFG["photos"])
+    for sc in [scene] + CFG["fallback"].get(scene, []) + CFG["any"] + tail:
         pl = _pool(sc)
         while pl:
             f = pl.pop(0)

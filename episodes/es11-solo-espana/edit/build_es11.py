@@ -12,21 +12,22 @@ PHOTOS = {
     "s800": ["m_seat800"], "s600": ["m_seat600"], "mini": ["m_mini1275c"], "authi": ["h_authi"], "dodge": ["m_dodge3700"],
     "dint": ["h_spain70"], "vic": ["m_victoria"], "ado": ["m_adoaust"], "s133": ["m_seat133"], "boca": ["m_bocanegra"],
     "pegaso": ["m_pegaso"], "r7": ["m_r7"], "r5": ["m_r5"], "fasa": ["h_fasa"], "conc": ["h_concentracion"],
-    "mix": ["m_seat800", "m_bocanegra", "m_r7", "m_dodge3700", "m_victoria", "m_seat133"],
+    "mix": ["m_seat600", "h_concentracion"],
 }
 CLIPS = json.load(open(os.path.join(HERE, "clips.json")))
 GENERIC = CLIPS.pop("_generic", [])
-FALLBACK = {k: ["mix"] for k in PHOTOS}
-FALLBACK.update({"mix": ["s600", "r5"], "s800": ["s600"], "s600": ["s800"], "mini": ["authi"], "authi": ["mini", "vic"],
-                 "dodge": ["dint"], "dint": ["dodge"], "vic": ["ado"], "ado": ["vic"], "s133": ["s600"], "boca": ["mix"],
-                 "r7": ["r5", "fasa", "mix"], "r5": ["r7", "mix"], "fasa": ["r7", "r5", "mix"], "conc": ["s600"], "pegaso": ["mix"]})
+FALLBACK = {k: [] for k in PHOTOS}
+FALLBACK.update({"mix": [], "s800": ["s600"], "s600": ["s800"], "mini": ["authi"], "authi": ["mini", "vic"],
+                 "dodge": ["dint"], "dint": ["dodge"], "vic": ["ado"], "ado": ["vic"], "s133": ["s600"], "boca": [],
+                 "r7": ["fasa"], "r5": ["r7"], "fasa": ["r7"], "conc": ["s600", "mix"], "pegaso": []})
 RES = ["m_seat800/4", "m_mini1275c/3", "m_dodge3700/2", "m_victoria/1", "m_seat133/4", "m_bocanegra/12", "m_bocanegra/9",
        "m_r7/1", "m_pegaso/3", "m_seat800/7"]
-A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FALLBACK, ["mix", "s600"], reserved=RES)
+A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FALLBACK, [], reserved=RES)
 A.THEME = "race"
 A.CLIP_TARGET = 0.0
-A.MAX_HOLD, A.KEEP = 8.0, 5.5
+A.MAX_HOLD, A.KEEP = 12.0, 8.0
 A.ARCHIVE_OK = True
+A.STRICT_POOLS = True
 A.SPLIT_BY_SUBJECT = True
 chapters = []
 
