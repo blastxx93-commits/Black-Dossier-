@@ -29,7 +29,7 @@ jobs:
         run: |
           mapfile -t T < agent/music_titles.txt
           python3 agent/fetch_music.py ../out "${T[@]}"
-          bash agent/publish_assets.sh ../out/music music "Trilhas livres" || true
+          cd .. && bash main/agent/publish_assets.sh out/music music "Trilhas livres"
       - name: Buscar termos
         if: ${{ inputs.episode != '_music' }}
         continue-on-error: true
