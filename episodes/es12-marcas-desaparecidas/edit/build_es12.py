@@ -13,21 +13,22 @@ PHOTOS = {
     "authi": ["m_authi"], "barr": ["m_barreiros"], "dart": ["m_dodgedart"], "simca": ["m_simca1000"],
     "santana": ["m_santana"], "linares": ["h_linares"], "pegaso": ["m_pegaso_truck"], "z102": ["m_pegaso_z102"],
     "hispano": ["h_hispano"],
-    "mix": ["m_pegaso_truck", "m_santana", "m_biscuter", "m_dkw_f1000", "m_authi", "m_sava"],
+    "mix": ["h_spain_road", "h_linares", "h_hispano"],
 }
 CLIPS = json.load(open(os.path.join(HERE, "clips.json")))
 GENERIC = CLIPS.pop("_generic", [])
-FALLBACK = {k: ["mix"] for k in PHOTOS}
+FALLBACK = {k: [] for k in PHOTOS}
 FALLBACK.update({"mix": ["z102", "hispano"], "ptv": ["bisc"], "bisc": ["ptv"], "dkw": ["vitoria"], "vitoria": ["dkw"],
                  "barr": ["dart", "simca"], "dart": ["simca", "barr"], "simca": ["dart", "barr"], "santana": ["linares"],
                  "linares": ["santana"], "pegaso": ["z102", "hispano"], "z102": ["pegaso"], "hispano": ["pegaso"]})
 RES = ["m_pegaso_z102/3", "m_sava/1", "m_ptv/3", "m_biscuter/14", "m_dkw_f1000/12", "m_authi/2", "m_barreiros/1",
        "m_santana/10", "m_pegaso_truck/9", "m_dodgedart/9", "m_simca1000/3", "h_hispano/1", "h_vitoria/6"]
-A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FALLBACK, ["mix", "pegaso"], reserved=RES)
+A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FALLBACK, [], reserved=RES)
 A.THEME = "race"
 A.CLIP_TARGET = 0.0
-A.MAX_HOLD, A.KEEP = 6.0, 4.0
+A.MAX_HOLD, A.KEEP = 10.0, 7.0
 A.ARCHIVE_OK = True
+A.STRICT_POOLS = True
 A.SPLIT_BY_SUBJECT = True
 chapters = []
 
