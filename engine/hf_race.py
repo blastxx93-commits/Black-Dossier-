@@ -118,7 +118,7 @@ class Comp:
                     f'tl.to("#{i}p",{{rotation:{1.2 * dr},scale:1.07,x:{-40 * dr},duration:{d - .5:.3f},ease:"none"}},{t + .45:.3f});')
             return self._caption(s, t, d)
         # cut the hold into ~2.2 s beats, each with a different camera move
-        beats = max(1, int(d // 2.2))
+        beats = max(1, int(d // 1.8))
         seg = d / beats
         for b in range(beats):
             a = t + b * seg
@@ -166,8 +166,8 @@ class Comp:
         name = s["name"].split()
         n1, n2 = (name[0], " ".join(name[1:])) if len(name) > 1 else ("", name[0])
         cred = esc(s.get("credit", ""))
-        self.els.append(f'''<div class="clip card" id="{i}" style="opacity:0">
-  <div class="ph" id="{i}p" style="background-image:url({src});opacity:.42"></div><div class="grade"></div>
+        self.els.append(f'''<div class="clip ov" id="{i}" style="opacity:0">
+  <div class="ph" id="{i}p" style="background-image:url({src});opacity:.9"></div><div class="rgrad"></div>
   <div class="bar" id="{i}b" style="top:820px"></div>
   <div class="num" id="{i}n" style="left:110px;top:150px">{int(s["num"]):02d}</div>
   <div class="big" id="{i}a" style="left:660px;top:300px;font-size:140px">{esc(n1)}</div>
@@ -193,15 +193,17 @@ tl.to("#{i}",{{x:-1920,duration:.25,ease:"power3.in"}},{t + d - .25:.3f});tl.set
         self.hud.append(h)
 
     def stat(self, s, t, d, k):
+        self._under(s, t, d, k)
+        ov = min(d, 3.2)
         i = self.id("st")
         v = esc(s["value"])
         fs = 330 if len(s["value"]) <= 6 else (230 if len(s["value"]) <= 10 else 160)
-        self.els.append(f'''<div class="clip card" id="{i}" style="opacity:0">
+        self.els.append(f'''<div class="clip ov" id="{i}" style="opacity:0">
   <div class="bar" id="{i}b" style="top:700px;height:26px"></div>
   <div class="big center" id="{i}v" style="top:{450 - fs // 2}px;font-size:{fs}px">{v}</div>
   <div class="tag center" id="{i}l" style="top:760px">{esc(s["label"])}</div>
   <div class="src" id="{i}s">{("FUENTE: " + esc(s.get("source"))) if s.get("source") else ""}</div></div>''')
-        self.at(f'''tl.set("#{i}",{{opacity:1}},{t:.3f});tl.set("#{i}",{{opacity:0}},{t + d:.3f});
+        self.at(f'''tl.set("#{i}",{{opacity:1}},{t:.3f});tl.set("#{i}",{{opacity:0}},{t + ov:.3f});
 tl.fromTo("#{i}b",{{x:-2600}},{{x:0,duration:.3,ease:"power4.out"}},{t:.3f});
 tl.fromTo("#{i}v",{{scale:3,opacity:0}},{{scale:1,opacity:1,duration:.22,ease:"power4.in"}},{t + .1:.3f});
 tl.fromTo("#{i}l",{{opacity:0,y:20}},{{opacity:1,y:0,duration:.3}},{t + .45:.3f});
@@ -209,6 +211,8 @@ tl.fromTo("#speed",{{opacity:.8,x:0}},{{opacity:0,x:-800,duration:1.2}},{t + .3:
         self.shake(t + .32)
 
     def statement(self, s, t, d, k):
+        self._under(s, t, d, k)
+        ov = min(d, 3.2)
         i = self.id("sm")
         hl = set(w for w in re.sub(r"[^\w\s]", " ", (s.get("highlight") or "").upper()).split())
         words = []
@@ -216,17 +220,20 @@ tl.fromTo("#speed",{{opacity:.8,x:0}},{{opacity:0,x:-800,duration:1.2}},{t + .3:
             core = re.sub(r"[^\w]", "", w)
             words.append(f'<span style="color:{RED}">{esc(w)}</span>' if core and core in hl else esc(w))
         fs = 150 if len(s["text"]) < 28 else (118 if len(s["text"]) < 46 else 92)
-        self.els.append(f'<div class="clip card" id="{i}" style="opacity:0"><div class="stripe2" id="{i}b"></div>'
+        self.els.append(f'<div class="clip ov" id="{i}" style="opacity:0"><div class="stripe2" id="{i}b"></div>'
                         f'<div class="big center wrap" id="{i}x" style="top:330px;font-size:{fs}px">{" ".join(words)}</div></div>')
-        self.at(f'''tl.set("#{i}",{{opacity:1}},{t:.3f});tl.set("#{i}",{{opacity:0}},{t + d:.3f});
+        self.at(f'''tl.set("#{i}",{{opacity:1}},{t:.3f});tl.set("#{i}",{{opacity:0}},{t + ov:.3f});
 tl.fromTo("#{i}b",{{scaleX:0}},{{scaleX:1,duration:.3,ease:"power4.out"}},{t:.3f});
 tl.fromTo("#{i}x",{{scale:1.8,opacity:0}},{{scale:1,opacity:1,duration:.25,ease:"power4.in"}},{t + .05:.3f});''')
         self.shake(t + .3)
 
     def title(self, s, t, d, k):
+        if not s.get("bg"):
+            self._under(s, t, d, k)
+        ov = d
         i = self.id("tt")
         bg = self.asset(s["bg"]) if s.get("bg") else ""
-        self.els.append(f'''<div class="clip card" id="{i}" style="opacity:0">
+        self.els.append(f'''<div class="clip ov" id="{i}" style="opacity:0">
   {f'<div class="ph" id="{i}p" style="background-image:url({bg});opacity:.5"></div>' if bg else ''}<div class="grade"></div>
   <div class="bar" id="{i}b" style="top:760px"></div>
   <div class="big" id="{i}x" style="left:110px;top:330px;font-size:{170 if len(s["title"]) < 22 else 125}px">{esc(s["title"])}</div>
@@ -241,23 +248,34 @@ tl.fromTo("#{i}g",{{opacity:0}},{{opacity:1,duration:.3}},{t + .6:.3f});''')
         self.shake(t + .45)
 
     def questions(self, s, t, d, k):
+        self._under(s, t, d, k)
+        st_ = s.get("starts") or [0]
+        ov = min(d, max(st_) / FPS + 2.0)
         i = self.id("qs")
         rows = "".join(f'<div class="q" id="{i}q{j}"><span class="qn">{j + 1:02d}</span>{esc(x)}</div>' for j, x in enumerate(s["items"]))
-        self.els.append(f'<div class="clip card" id="{i}" style="opacity:0"><div class="qs">{rows}</div></div>')
-        self.at(f'tl.set("#{i}",{{opacity:1}},{t:.3f});tl.set("#{i}",{{opacity:0}},{t + d:.3f});')
+        self.els.append(f'<div class="clip ov" id="{i}" style="opacity:0"><div class="qs">{rows}</div></div>')
+        self.at(f'tl.set("#{i}",{{opacity:1}},{t:.3f});tl.set("#{i}",{{opacity:0}},{t + ov:.3f});')
         for j, st in enumerate(s.get("starts", [0] * len(s["items"]))):
             self.at(f'tl.fromTo("#{i}q{j}",{{x:-900,opacity:0}},{{x:0,opacity:1,duration:.3,ease:"power4.out"}},{t + st / FPS:.3f});')
 
     def cta(self, s, t, d, k):
+        self._under(s, t, d, k)
+        ov = min(d, 3.2)
         i = self.id("ct")
-        self.els.append(f'''<div class="clip card" id="{i}" style="opacity:0"><div class="bar" id="{i}b" style="top:470px;height:180px"></div>
+        self.els.append(f'''<div class="clip ov" id="{i}" style="opacity:0"><div class="bar" id="{i}b" style="top:470px;height:180px"></div>
   <div class="big center" id="{i}x" style="top:440px;font-size:200px">{esc(s["text"].upper())}</div>
   <div class="tag center" id="{i}s" style="top:700px">{esc(s.get("sub", ""))}</div></div>''')
-        self.at(f'''tl.set("#{i}",{{opacity:1}},{t:.3f});tl.set("#{i}",{{opacity:0}},{t + d:.3f});
+        self.at(f'''tl.set("#{i}",{{opacity:1}},{t:.3f});tl.set("#{i}",{{opacity:0}},{t + ov:.3f});
 tl.fromTo("#{i}b",{{x:-2600}},{{x:0,duration:.3,ease:"power4.out"}},{t:.3f});
 tl.fromTo("#{i}x",{{scale:2.5,opacity:0}},{{scale:1,opacity:1,duration:.25,ease:"power4.in"}},{t + .1:.3f});
 tl.fromTo("#{i}s",{{opacity:0}},{{opacity:1,duration:.3}},{t + .5:.3f});''')
         self.shake(t + .35)
+
+    def _under(self, s, t, d, k):
+        """a moving car photo under every graphic: never a black slide"""
+        bg = s.get("_bg")
+        if bg:
+            self.image({"src": bg}, t, d, k + 1)
 
     # ------------------------------------------------------------------ fx
     def flash(self, t, dr):
@@ -276,6 +294,8 @@ html, body {{ margin: 0; background: #000; }}
 #stage {{ position: absolute; inset: 0; }}
 .clip {{ position: absolute; inset: 0; overflow: hidden; }}
 .card {{ background: #0a0a0a; }}
+.ov {{ background: linear-gradient(180deg, rgba(0,0,0,.25), rgba(0,0,0,.72) 45%, rgba(0,0,0,.72) 60%, rgba(0,0,0,.3)); }}
+.rgrad {{ position: absolute; inset: 0; background: linear-gradient(90deg, rgba(0,0,0,.85) 0, rgba(0,0,0,.55) 45%, rgba(0,0,0,.15) 100%); }}
 .ph {{ position: absolute; inset: -7%; background-size: cover; background-position: center; }}
 .vid {{ position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }}
 .ghost {{ opacity: 0; mix-blend-mode: screen; }}
@@ -314,6 +334,13 @@ def build(wd, ep, proj, t_from=0.0, t_to=None):
         shutil.copy(os.path.join(HERE, "fonts", f), os.path.join(proj, "assets", f))
     c = Comp(proj, wd, credits_map(wd))
     c.hud = []
+    flat = [sh for ch in ep["chapters"] for sh in ch["shots"]]
+    pics = [(n, sh.get("src") if sh["type"] == "image" else sh.get("photo") if sh["type"] == "rank" else None) for n, sh in enumerate(flat)]
+    for n, sh in enumerate(flat):
+        if sh["type"] in ("stat", "statement", "questions", "cta", "title"):
+            prev = [p for m, p in pics[:n] if p]
+            nxt = [p for m, p in pics[n + 1:] if p]
+            sh["_bg"] = (nxt[0] if nxt else (prev[-1] if prev else None))
     t, k, total = 0.0, 0, 0.0
     for ch in ep["chapters"]:
         for s in ch["shots"]:

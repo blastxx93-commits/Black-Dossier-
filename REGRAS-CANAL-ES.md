@@ -54,6 +54,9 @@ Mesmo motor (`engine/render_aus.py`, `engine/aus_kit.py`) e mesmas regras de mon
 - A rotação de temas da seção 3b deixa de valer para os vídeos novos (o template Race é o visual do canal).
 - Movimento (20/11/2026): nada de "apresentação de slides". Cada foto troca de movimento a cada ~2,2 s (pan, tilt, push com
   rotação, pull-back, diagonal), algumas entram como "card" inclinado sobre a própria foto desfocada e outras viram tela dividida.
+- Sempre carro na tela (20/11/2026): cartelas (números, frases, perguntas, título) aparecem POR CIMA de foto de carro em
+  movimento e somem em ~3 s; nada de cartela sobre fundo preto. Planos curtos: MAX_HOLD ~6 s nos próximos vídeos, por isso
+  pedir o dobro de fotos por carro na busca (n 16–20) e o máximo de clipes.
 - **Primeiro minuto = clipes (20/11/2026):** o vídeo abre com clipes reais de arquivo (não fotos); o hook usa o máximo de clipes.
   Só propor temas que tenham boa quantidade de clipes reais, principalmente para o hook (checar a disponibilidade antes do roteiro).
 - Temas diferenciados, fugindo do formato "lista de carros" de sempre; sempre trazer subtemas.
