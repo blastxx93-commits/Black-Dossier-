@@ -20,7 +20,7 @@ L = {"tag": "Historia real, con fuentes." if ES else "Real 2026 news. No rumours
      "src": "Fuentes:" if ES else "Sources:", "cred": "Créditos de las fotos (Wikimedia Commons):" if ES else "Photo credits (Wikimedia Commons):",
      "other": ("Otras fotos e imágenes de archivo: {} (licencias libres). Algunas escenas son ilustraciones generadas por IA, no hechos reales."
                if ES else "Other photos and footage: {} (free licences). Some scenes are AI-generated illustrations, not real events."),
-     "music": "Música: pista original." if ES else "Music: original track.",
+     "music": meta.get("music") or ("Música: pista original." if ES else "Music: original track."),
      "full": ("Créditos completos de cada foto, con enlace: en los primeros comentarios del vídeo." if ES
               else "Full photo credits with links: see the pinned comment.")}
 out = [meta["intro"].strip(), "", meta.get("tagline", L["tag"]), "", L["ch"]]
