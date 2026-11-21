@@ -17,3 +17,12 @@ Fundo branco; título do bloco em caixa-alta no topo + subtítulo (data/local/fo
 1–3 imagens centrais; lower-thirds pretos; palavra-impacto verde grossa no canto inferior esquerdo (~1/min);
 cartões de documento bege com carimbo; troca de visual a cada ~5 s.
 Thumb (feita pelo dono): fundo branco, texto vermelho caixa-alta, colagem de recortes.
+
+## Controle de qualidade da narração (sempre)
+Todo capítulo gerado passa por `agent/audio_qa.py`:
+1. Limpeza: corte de ronco/chiado, redução de ruído, redução de eco/reverberação entre palavras, de-esser, nivelamento e limitador (sem clipping).
+2. Escuta automática (Whisper) e comparação palavra por palavra com o roteiro: palavra pulada, acrescentada, trocada ou embolada,
+   gagueira (frase repetida), silêncio morto > 1,6 s, velocidade fora de 120–205 wpm, clipping, início ou fim cortado.
+3. Capítulo reprovado é regerado automaticamente (até 3 tentativas) e fica a melhor versão.
+4. Relatório em `qa_narracao.md` (branch assets) e no resumo da execução. Se algo continuar com defeito, o workflow falha e avisa.
+Workflow: Actions → Gerar narração → lang = `it`, voice = ID acima.

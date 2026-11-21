@@ -7,10 +7,17 @@ with the channel voice. Writes:
     <out>/<ep>/audio/<chapter>.mp3              small mono copy, used by the transcription
 
 Needs env FISH_API_KEY and FISH_VOICE_ID (GitHub secrets); optional FISH_MODEL (default s2.1-pro).
-Usage: python3 agent/tts.py ep02-valachi [--out assets_out] [--only ch00_hook,ch03] [--speed 1.0]
+Every chapter is cleaned (noise/echo, agent/audio_qa.py). With --qa it is also listened to and compared
+with the script; a chapter with skipped/garbled words, stutter, dead air or clipping is re-generated
+(up to --takes times) and the best take is kept. Report: <out>/<ep>/qa_narracao.md
+
+Usage: python3 agent/tts.py ep02-valachi [--out assets_out] [--only ch00_hook,ch03] [--speed 1.0] [--qa --lang it]
 """
 import argparse, glob, os, shutil, subprocess, sys, time
 import requests
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import audio_qa
 
 
 def ffmpeg():
@@ -43,6 +50,9 @@ def main():
     ap.add_argument("--out", default="assets_out")
     ap.add_argument("--only", default="")
     ap.add_argument("--speed", type=float, default=1.0)
+    ap.add_argument("--qa", action="store_true", help="listen to every chapter and re-take the bad ones")
+    ap.add_argument("--lang", default="en")
+    ap.add_argument("--takes", type=int, default=3)
     a = ap.parse_args()
     key, voice = os.environ.get("FISH_API_KEY", "").strip(), os.environ.get("FISH_VOICE_ID", "").strip()
     if not key or not voice:
@@ -56,20 +66,51 @@ def main():
     small = os.path.join(a.out, a.episode, "audio")
     os.makedirs(full, exist_ok=True); os.makedirs(small, exist_ok=True)
     ff = ffmpeg()
+    report, failed = "# Checagem da narração\n\n", []
     for t in texts:
         name = os.path.splitext(os.path.basename(t))[0]
         if only and name not in only:
             continue
         text = open(t).read().strip()
-        wav = synth(key, voice, model, text, a.speed)
-        tmp = os.path.join(full, name + ".wav")
-        open(tmp, "wb").write(wav)
-        subprocess.run([ff, "-v", "error", "-y", "-i", tmp, os.path.join(full, name + ".flac")], check=True)
-        subprocess.run([ff, "-v", "error", "-y", "-i", tmp, "-ac", "1", "-ar", "16000", "-c:a", "libmp3lame",
+        final = os.path.join(full, name + ".flac")
+        best = None  # (score, take_path, ok, problems, metrics)
+        for take in range(1, (a.takes if a.qa else 1) + 1):
+            wav = synth(key, voice, model, text, a.speed)
+            raw = os.path.join(full, f"{name}.raw.wav")
+            open(raw, "wb").write(wav)
+            cand = os.path.join(full, f"{name}.take{take}.flac")
+            audio_qa.clean(raw, cand)
+            os.remove(raw)
+            if not a.qa:
+                best = (0, cand, True, [], None)
+                break
+            ok, probs, m, _ = audio_qa.check(cand, text, a.lang)
+            report += audio_qa.report_line(name, ok, probs, m, take)
+            print(f"{name} tentativa {take}: {'OK' if ok else 'REPROVADO'} · erro {m['erro_pct']}% · "
+                  f"{len(probs)} apontamentos", flush=True)
+            score = m["erro_pct"] + 5 * len(probs)
+            if best is None or score < best[0]:
+                if best:
+                    os.remove(best[1])
+                best = (score, cand, ok, probs, m)
+            else:
+                os.remove(cand)
+            if ok:
+                break
+        os.replace(best[1], final)
+        if not best[2]:
+            failed.append(name)
+        subprocess.run([ff, "-v", "error", "-y", "-i", final, "-ac", "1", "-ar", "16000", "-c:a", "libmp3lame",
                         "-b:a", "48k", os.path.join(small, name + ".mp3")], check=True)
-        os.remove(tmp)
-        print(f"{name}: {len(text.split())} palavras, {len(wav) / 88200:.0f}s", flush=True)
-
+        print(f"{name}: {len(text.split())} palavras, {audio_qa.stats(final)['duration']:.0f}s", flush=True)
+    if a.qa:
+        report += ("\n**Capítulos ainda com defeito depois de todas as tentativas:** " + ", ".join(failed) + "\n") \
+            if failed else "\n**Todos os capítulos aprovados.**\n"
+        open(os.path.join(a.out, a.episode, "qa_narracao.md"), "w").write(report)
+        if os.environ.get("GITHUB_STEP_SUMMARY"):
+            open(os.environ["GITHUB_STEP_SUMMARY"], "a").write(report)
+        if failed:
+            sys.exit(f"Narração com defeito em: {', '.join(failed)} (ver qa_narracao.md)")
 
 if __name__ == "__main__":
     main()
