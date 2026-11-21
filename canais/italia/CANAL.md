@@ -1,7 +1,7 @@
 # Canal Itália — formato "dossiê de museu"
 
 Modelo: vídeo "As balas mais cruéis da história e por que foram proibidas" (100 Anos Luz).
-Idioma: italiano. Duração: mínimo 8 min (roteiro de ~1.500–1.600 palavras; Fish ~170 wpm).
+Idioma: italiano. Duração: SEMPRE entre 10 e 15 min (roteiro de ~1.850–2.400 palavras; Fish ~170 wpm). Alvo padrão: ~11–12 min.
 
 ## Narração
 Fish Audio, voz italiana: `b60329816f6f4f04bf7555fe2354c468`.

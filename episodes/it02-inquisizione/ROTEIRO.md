@@ -1,5 +1,5 @@
 # IT02 — Le torture più crudeli dell'Inquisizione e perché furono abolite
-~1.500 palavras · ~8:50. Narração: `narration/ch*.txt`.
+~1.880 palavras · ~11:00 (regra do canal: 10–15 min). Narração: `narration/ch*.txt`.
 
 Retenção: hook no rogo de Giordano Bruno (Campo de' Fiori, 17/02/1600) + 2 promessas
 ("torture che non sono mai esistite" → ch05; "la Chiesa ha chiesto perdono… ma non a lui" → ch10).
