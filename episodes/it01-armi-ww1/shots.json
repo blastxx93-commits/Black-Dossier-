@@ -1,0 +1,30 @@
+{
+ "defaults": {"n": 3, "sources": ["commons", "loc", "openverse"]},
+ "shots": [
+  {"id": "san_michele", "query": "Monte San Michele Carso", "alt": ["San Michele del Carso 1916"], "n": 4},
+  {"id": "trincea_carso", "query": "Italian trench Carso 1916", "alt": ["trincea Carso", "Isonzo front trench"], "n": 5},
+  {"id": "gas_cloud", "query": "gas attack cloud World War I", "alt": ["poison gas cloud 1915"], "n": 4},
+  {"id": "mazza_ferrata", "query": "trench club World War I", "alt": ["mazza ferrata", "Austro-Hungarian trench club"], "n": 4},
+  {"id": "soldati_italiani", "query": "Italian soldiers World War I", "alt": ["Regio Esercito 1916"], "n": 5},
+  {"id": "aia_1899", "query": "Hague Peace Conference 1899", "alt": ["First Hague Conference"], "n": 3},
+  {"id": "aia_1907", "query": "Hague Conference 1907", "n": 2},
+  {"id": "sawback", "query": "sawback bayonet", "alt": ["German pioneer bayonet saw back"], "n": 4},
+  {"id": "propaganda_ww1", "query": "World War I British propaganda poster Germany", "n": 3},
+  {"id": "dumdum", "query": "expanding bullet", "alt": ["dum-dum bullet", ".303 hollow point"], "n": 4},
+  {"id": "amputati", "query": "World War I amputee soldier", "alt": ["war wounded 1918 prosthesis"], "n": 3},
+  {"id": "lanciafiamme", "query": "flamethrower World War I", "alt": ["Flammenwerfer 1915", "lanciafiamme italiano"], "n": 5},
+  {"id": "ypres_1915", "query": "Ypres 1915", "alt": ["Second Battle of Ypres"], "n": 4},
+  {"id": "bombole_gas", "query": "chlorine gas cylinders World War I", "n": 3},
+  {"id": "gassati", "query": "gassed soldiers World War I", "alt": ["gas casualties 1918"], "n": 4},
+  {"id": "maschera_gas", "query": "gas mask World War I", "alt": ["Italian gas mask 1916"], "n": 4},
+  {"id": "fosgene", "query": "phosgene", "alt": ["phosgene gas shell"], "n": 2},
+  {"id": "iprite", "query": "mustard gas burns soldier", "alt": ["mustard gas World War I"], "n": 4},
+  {"id": "ospedale", "query": "World War I field hospital", "n": 3},
+  {"id": "plezzo", "query": "Bovec 1917", "alt": ["Plezzo", "Battle of Caporetto"], "n": 4},
+  {"id": "caporetto", "query": "Battle of Caporetto 1917", "alt": ["Caporetto retreat"], "n": 5},
+  {"id": "gaswerfer", "query": "Livens projector", "alt": ["gas projector World War I"], "n": 3},
+  {"id": "ginevra_1925", "query": "Geneva 1925 League of Nations", "alt": ["Geneva Protocol"], "n": 3},
+  {"id": "etiopia_1935", "query": "Second Italo-Ethiopian War", "alt": ["Italian invasion of Ethiopia 1935"], "n": 5},
+  {"id": "aerei_1935", "query": "Italian aircraft Ethiopia 1936", "n": 3}
+ ]
+}
