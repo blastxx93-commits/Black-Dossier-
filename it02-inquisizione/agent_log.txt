@@ -1,384 +1,43 @@
-[     0s] it02-inquisizione: 52 planos, limite 35.0 min
-[     0s] campo_de_fiori: "Campo de' Fiori Rome"
-[     1s]     commons: 12 candidatos em 0.5s
-[    15s]     openverse: 8 candidatos em 14.9s
-[    19s]   -> 4 imagens
-[    19s] bruno_statue: 'Giordano Bruno statue Ettore Ferrari'
-[    19s]     commons: 6 candidatos em 0.5s
-[    47s]     openverse: 5 candidatos em 28.3s
-[    52s]   -> 4 imagens
-[    52s] bruno_portrait: 'Giordano Bruno portrait'
-[    52s]     commons: 7 candidatos em 0.4s
-[    75s]     openverse: 7 candidatos em 23.2s
-[    88s]   -> 4 imagens
-[    88s] bruno_rogo: 'Giordano Bruno burning stake'
-[    88s]     commons: 3 candidatos em 0.4s
-[   102s]     openverse: 7 candidatos em 14.0s
-[   106s]   -> 4 imagens
-[   106s] bruno_trial: 'Giordano Bruno trial relief'
-[   106s]     commons: 2 candidatos em 0.6s
-[   120s]     openverse: 1 candidatos em 13.3s
-[   123s]     commons: 0 candidatos em 0.4s
-[   130s]     openverse: 0 candidatos em 7.0s
-[   130s]   -> 3 imagens
-[   130s] nola: 'Nola Campania'
-[   131s]     commons: 9 candidatos em 0.8s
-[   145s]     openverse: 0 candidatos em 14.5s
-[   177s]     falhou download (commons) em 30.0s
-[   207s]     falhou download (commons) em 30.0s
-[   237s]     falhou download (commons) em 30.0s
-[   267s]     falhou download (commons) em 30.0s
-[   267s]     falhou download (commons) em 0.0s
-[   270s]   -> 4 imagens
-[   270s] strappado: 'strappado torture engraving'
-[   272s]     commons: 4 candidatos em 1.2s
-[   279s]     openverse: 0 candidatos em 7.7s
-[   282s]     falhou download (commons) em 0.0s
-[   282s]     commons: 5 candidatos em 0.6s
-[   291s]     openverse: 0 candidatos em 8.8s
-[   292s]   -> 4 imagens
-[   292s] torture_chamber: 'torture chamber engraving inquisition'
-[   292s]     commons: 1 candidatos em 0.4s
-[   321s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
-[   321s]     openverse: 0 candidatos em 28.3s
-[   322s]     commons: 5 candidatos em 0.5s
-[   357s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
-[   357s]     openverse: 0 candidatos em 34.1s
-[   359s]     commons: 1 candidatos em 0.5s
-[   363s]     openverse: 0 candidatos em 4.2s
-[   363s]     falhou download (commons) em 0.0s
-[   363s]   -> 3 imagens
-[   363s] inquisition_trial: 'Inquisition tribunal painting'
-[   365s]     commons: 6 candidatos em 1.3s
-[   370s]     openverse: 0 candidatos em 5.3s
-[   371s]     falhou download (commons) em 0.0s
-[   371s]     falhou download (commons) em 0.0s
-[   371s]     falhou download (commons) em 0.0s
-[   372s]     falhou download (commons) em 0.0s
-[   373s]     commons: 7 candidatos em 0.9s
-[   380s]     openverse: 0 candidatos em 6.3s
-[   386s]   -> 4 imagens
-[   386s] goya_inquisition: 'Goya Inquisition'
-[   387s]     commons: 10 candidatos em 0.6s
-[   400s]     openverse: 5 candidatos em 13.6s
-[   400s]     falhou download (openverse) em 0.0s
-[   405s]     falhou download (openverse) em 0.7s
-[   406s]   -> 4 imagens
-[   406s] notary_scribe: 'notary writing 16th century'
-[   406s]     commons: 1 candidatos em 0.4s
-[   412s]     openverse: 0 candidatos em 5.7s
-[   412s]     falhou download (commons) em 0.0s
-[   412s]     commons: 4 candidatos em 0.7s
-[   429s]     openverse: 0 candidatos em 17.1s
-[   432s]     falhou download (commons) em 0.0s
-[   433s]     commons: 1 candidatos em 0.6s
-[   438s]     openverse: 0 candidatos em 4.9s
-[   439s]   -> 4 imagens
-[   439s] marsili: 'Ippolito Marsili'
-[   440s]     commons: 2 candidatos em 0.9s
-[   446s]     openverse: 0 candidatos em 5.5s
-[   450s]     falhou download (commons) em 0.0s
-[   450s]     commons: 0 candidatos em 0.4s
-[   459s]     openverse: 0 candidatos em 8.8s
-[   459s]   -> 1 imagens
-[   459s] bologna_1500: 'Bologna Archiginnasio'
-[   460s]     commons: 12 candidatos em 0.6s
-[   484s]     openverse: 9 candidatos em 23.7s
-[   484s]     falhou download (openverse) em 0.0s
-[   485s]     falhou download (openverse) em 0.0s
-[   486s]     falhou download (openverse) em 0.0s
-[   487s]   -> 4 imagens
-[   487s] campanella: 'Tommaso Campanella portrait'
-[   488s]     commons: 4 candidatos em 1.1s
-[   494s]     openverse: 0 candidatos em 5.4s
-[   494s]     falhou download (commons) em 0.0s
-[   496s]     falhou download (commons) em 0.0s
-[   497s]     commons: 9 candidatos em 1.0s
-[   511s]     openverse: 10 candidatos em 13.8s
-[   512s]     falhou download (openverse) em 0.0s
-[   512s]     falhou download (commons) em 0.0s
-[   512s]     falhou download (openverse) em 0.0s
-[   513s]   -> 4 imagens
-[   513s] napoli_castel: 'Castel Nuovo Napoli'
-[   514s]     commons: 10 candidatos em 1.3s
-[   531s]     openverse: 8 candidatos em 17.2s
-[   534s]     falhou download (openverse) em 0.0s
-[   535s]   -> 4 imagens
-[   535s] prison_cell: 'inquisition prison cell'
-[   536s]     commons: 6 candidatos em 0.6s
-[   566s]     openverse: 2 candidatos em 30.5s
-[   566s]     falhou download (commons) em 0.0s
-[   567s]     falhou download (commons) em 0.0s
-[   569s]   -> 4 imagens
-[   569s] water_torture: 'water torture inquisition engraving'
-[   570s]     commons: 0 candidatos em 0.4s
-[   578s]     openverse: 0 candidatos em 8.0s
-[   578s]     commons: 0 candidatos em 0.3s
-[   583s]     openverse: 0 candidatos em 5.4s
-[   584s]     commons: 0 candidatos em 0.3s
-[   588s]     openverse: 0 candidatos em 4.4s
-[   588s]   -> 0 imagens
-[   588s] rack_torture: 'rack torture engraving'
-[   589s]     commons: 7 candidatos em 1.0s
-[   613s]     openverse: 12 candidatos em 24.0s
-[   614s]     falhou download (openverse) em 0.0s
-[   615s]     falhou download (openverse) em 0.0s
-[   618s]     falhou download (openverse) em 1.8s
-[   619s]   -> 4 imagens
-[   619s] torture_museum: 'torture museum San Gimignano'
-[   619s]     commons: 0 candidatos em 0.3s
-[   651s]   ! api.openverse.org: 504 Server Error: Gateway Timeout for url: https://api.openverse.org/v1/images/?q=torture+museum+San+Gimignano&license=pdm%2Ccc0%2Cby%2Cby-sa&page_size=12&matur
-[   651s]     openverse: 0 candidatos em 32.3s
-[   652s]     commons: 12 candidatos em 0.7s
-[   675s]     openverse: 0 candidatos em 22.6s
-[   675s]     falhou download (commons) em 0.0s
-[   675s]     falhou download (commons) em 0.0s
-[   678s]   -> 4 imagens
-[   678s] iron_maiden: 'iron maiden torture device'
-[   679s]     commons: 12 candidatos em 0.7s
-[   694s]     openverse: 3 candidatos em 14.6s
-[   695s]     falhou download (openverse) em 0.0s
-[   697s]   -> 4 imagens
-[   697s] pear_anguish: 'pear of anguish'
-[   698s]     commons: 8 candidatos em 0.6s
-[   710s]     openverse: 1 candidatos em 12.3s
-[   712s]     falhou download (openverse) em 0.0s
-[   715s]   -> 4 imagens
-[   715s] judas_cradle: 'Judas cradle'
-[   716s]     commons: 10 candidatos em 1.3s
-[   747s]   ! api.openverse.org: 504 Server Error: Gateway Timeout for url: https://api.openverse.org/v1/images/?q=Judas+cradle&license=pdm%2Ccc0%2Cby%2Cby-sa&page_size=12&mature=false
-[   747s]     openverse: 0 candidatos em 30.6s
-[   747s]     falhou download (commons) em 0.0s
-[   750s]   -> 4 imagens
-[   750s] galileo_portrait: 'Galileo Galilei portrait Sustermans'
-[   751s]     commons: 11 candidatos em 0.5s
-[   764s]     openverse: 4 candidatos em 13.9s
-[   766s]     falhou download (openverse) em 1.2s
-[   770s]   -> 4 imagens
-[   770s] galileo_trial: 'Galileo before the Holy Office'
-[   771s]     commons: 3 candidatos em 0.5s
-[   776s]     openverse: 0 candidatos em 5.4s
-[   779s]     commons: 2 candidatos em 0.4s
-[   784s]     openverse: 0 candidatos em 5.4s
-[   785s]     commons: 3 candidatos em 0.4s
-[   802s]     openverse: 1 candidatos em 17.1s
-[   802s]   -> 4 imagens
-[   802s] galileo_arcetri: 'Villa Il Gioiello Arcetri'
-[   803s]     commons: 4 candidatos em 0.5s
-[   824s]   ! api.openverse.org: 504 Server Error: Gateway Timeout for url: https://api.openverse.org/v1/images/?q=Villa+Il+Gioiello+Arcetri&license=pdm%2Ccc0%2Cby%2Cby-sa&page_size=12&mature=f
-[   824s]     openverse: 0 candidatos em 20.9s
-[   837s]     falhou download (commons) em 0.0s
-[   838s]     commons: 8 candidatos em 1.0s
-[   865s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
-[   865s]     openverse: 0 candidatos em 27.4s
-[   866s]   -> 4 imagens
-[   866s] galileo_telescope: 'Galileo telescope'
-[   867s]     commons: 12 candidatos em 0.8s
-[   881s]     openverse: 9 candidatos em 14.2s
-[   884s]   -> 4 imagens
-[   884s] dialogo: 'Dialogo sopra i due massimi sistemi'
-[   885s]     commons: 8 candidatos em 0.8s
-[   899s]     openverse: 7 candidatos em 14.2s
-[   900s]     falhou download (openverse) em 0.0s
-[   902s]     falhou download (commons) em 0.0s
-[   903s]   -> 4 imagens
-[   903s] santo_uffizio: "Palazzo del Sant'Uffizio"
-[   904s]     commons: 10 candidatos em 1.0s
-[   915s]     openverse: 5 candidatos em 11.2s
-[   916s]     falhou download (openverse) em 0.0s
-[   917s]     falhou download (openverse) em 0.0s
-[   917s]     falhou download (openverse) em 0.0s
-[   918s]   -> 4 imagens
-[   918s] auto_da_fe: 'auto da fe painting'
-[   919s]     commons: 10 candidatos em 1.1s
-[   922s]     openverse: 0 candidatos em 3.2s
-[   923s]     falhou download (commons) em 0.0s
-[   923s]     falhou download (commons) em 0.0s
-[   923s]     falhou download (commons) em 0.0s
-[   926s]   -> 4 imagens
-[   926s] auto_da_fe_engraving: 'auto da fe engraving'
-[   927s]     commons: 10 candidatos em 0.7s
-[   957s]     openverse: 1 candidatos em 30.3s
-[   961s]   -> 4 imagens
-[   961s] sambenito: 'sambenito'
-[   962s]     commons: 12 candidatos em 1.4s
-[   982s]     openverse: 0 candidatos em 19.2s
-[   985s]   -> 4 imagens
-[   985s] plaza_mayor: 'Plaza Mayor Madrid'
-[   986s]     commons: 12 candidatos em 0.7s
-[  1016s]     openverse: 10 candidatos em 30.1s
-[  1019s]   -> 4 imagens
-[  1019s] carlos_ii: 'Charles II of Spain portrait'
-[  1020s]     commons: 4 candidatos em 0.8s
-[  1052s]     openverse: 0 candidatos em 31.8s
-[  1054s]     falhou download (commons) em 0.0s
-[  1057s]     commons: 8 candidatos em 2.4s
-[  1072s]     openverse: 9 candidatos em 14.9s
-[  1073s]   -> 4 imagens
-[  1073s] burning_stake: 'burning at the stake engraving'
-[  1074s]     commons: 7 candidatos em 1.4s
-[  1091s]     openverse: 11 candidatos em 17.1s
-[  1092s]     falhou download (openverse) em 0.0s
-[  1093s]     falhou download (openverse) em 0.0s
-[  1093s]     falhou download (openverse) em 0.0s
-[  1095s]     falhou download (openverse) em 0.9s
-[  1095s]     falhou download (commons) em 0.0s
-[  1097s]   -> 4 imagens
-[  1097s] torquemada: 'Tomás de Torquemada'
-[  1099s]     commons: 6 candidatos em 1.7s
-[  1118s]     openverse: 3 candidatos em 19.8s
-[  1119s]     falhou download (openverse) em 0.0s
-[  1120s]     falhou download (openverse) em 0.0s
-[  1120s]     falhou download (commons) em 0.0s
-[  1120s]     falhou download (openverse) em 0.0s
-[  1122s]   -> 4 imagens
-[  1122s] spanish_inquisition: 'Spanish Inquisition'
-[  1122s]     commons: 11 candidatos em 0.7s
-[  1150s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
-[  1150s]     openverse: 0 candidatos em 27.3s
-[  1153s]   -> 4 imagens
-[  1153s] beccaria: 'Cesare Beccaria'
-[  1154s]     commons: 6 candidatos em 1.1s
-[  1182s]     openverse: 10 candidatos em 27.7s
-[  1183s]     falhou download (openverse) em 0.0s
-[  1184s]     falhou download (openverse) em 0.0s
-[  1185s]     falhou download (openverse) em 0.0s
-[  1185s]     falhou download (commons) em 0.0s
-[  1185s]     falhou download (openverse) em 0.0s
-[  1185s]     falhou download (commons) em 0.0s
-[  1185s]     falhou download (openverse) em 0.0s
-[  1186s]   -> 4 imagens
-[  1186s] dei_delitti: 'Dei delitti e delle pene'
-[  1187s]     commons: 8 candidatos em 1.1s
-[  1200s]     openverse: 6 candidatos em 12.7s
-[  1200s]     falhou download (commons) em 0.0s
-[  1200s]     falhou download (openverse) em 0.0s
-[  1200s]     falhou download (commons) em 0.0s
-[  1203s]   -> 4 imagens
-[  1203s] milano_1700: 'Milano settecento'
-[  1205s]     commons: 7 candidatos em 1.8s
-[  1217s]     openverse: 9 candidatos em 11.9s
-[  1217s]     falhou download (commons) em 0.0s
-[  1217s]     falhou download (openverse) em 0.0s
-[  1217s]     falhou download (commons) em 0.0s
-[  1217s]     falhou download (openverse) em 0.0s
-[  1219s]     falhou download (openverse) em 0.0s
-[  1219s]     falhou download (commons) em 0.0s
-[  1219s]     falhou download (openverse) em 0.0s
-[  1219s]     falhou download (commons) em 0.0s
-[  1219s]     falhou download (openverse) em 0.0s
-[  1219s]     falhou download (commons) em 0.0s
-[  1219s]     falhou download (openverse) em 0.0s
-[  1219s]     falhou download (commons) em 0.0s
-[  1219s]     falhou download (openverse) em 0.0s
-[  1219s]     falhou download (openverse) em 0.0s
-[  1219s]     falhou download (openverse) em 0.0s
-[  1220s]     commons: 11 candidatos em 0.8s
-[  1244s]     openverse: 4 candidatos em 24.2s
-[  1245s]     falhou download (openverse) em 0.0s
-[  1248s]     falhou download (openverse) em 0.0s
-[  1250s]   -> 4 imagens
-[  1250s] pietro_leopoldo: 'Pietro Leopoldo Granduca di Toscana'
-[  1252s]     commons: 8 candidatos em 2.0s
-[  1263s]     openverse: 1 candidatos em 10.9s
-[  1263s]     falhou download (openverse) em 0.0s
-[  1269s]   -> 4 imagens
-[  1269s] firenze_1786: 'Palazzo Pitti'
-[  1270s]     commons: 12 candidatos em 0.5s
-[  1284s]     openverse: 10 candidatos em 13.6s
-[  1286s]     falhou download (openverse) em 0.0s
-[  1287s]   -> 4 imagens
-[  1287s] pio_vii: 'Pope Pius VII portrait'
-[  1291s]     commons: 11 candidatos em 4.2s
-[  1325s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
-[  1325s]     openverse: 0 candidatos em 33.8s
-[  1328s]     falhou download (commons) em 0.0s
-[  1328s]     falhou download (commons) em 0.0s
-[  1328s]     falhou download (commons) em 0.0s
-[  1328s]     falhou download (commons) em 0.0s
-[  1328s]     falhou download (commons) em 0.0s
-[  1329s]   -> 4 imagens
-[  1329s] index_books: 'Index Librorum Prohibitorum'
-[  1329s]     commons: 8 candidatos em 0.7s
-[  1349s]     openverse: 5 candidatos em 19.7s
-[  1350s]     falhou download (openverse) em 0.0s
-[  1352s]   -> 4 imagens
-[  1352s] giovanni_paolo: 'Pope John Paul II 2000'
-[  1353s]     commons: 9 candidatos em 0.8s
-[  1367s]     openverse: 5 candidatos em 13.6s
-[  1367s]     falhou download (commons) em 0.0s
-[  1368s]     falhou download (openverse) em 0.0s
-[  1369s]     falhou download (openverse) em 0.0s
-[  1370s]   -> 4 imagens
-[  1370s] san_pietro: "St. Peter's Basilica interior"
-[  1371s]     commons: 12 candidatos em 1.1s
-[  1384s]     openverse: 8 candidatos em 12.6s
-[  1387s]   -> 4 imagens
-[  1387s] vatican_archive: 'Vatican Apostolic Archive'
-[  1388s]     commons: 10 candidatos em 0.5s
-[  1417s]     openverse: 2 candidatos em 29.8s
-[  1417s]     falhou download (commons) em 0.0s
-[  1417s]     falhou download (openverse) em 0.0s
-[  1418s]     falhou download (openverse) em 0.0s
-[  1418s]     falhou download (commons) em 0.0s
-[  1421s]   -> 4 imagens
-[  1421s] candles_church: 'Roman church interior candles'
-[  1421s]     commons: 11 candidatos em 0.7s
-[  1434s]     openverse: 5 candidatos em 12.9s
-[  1435s]     falhou download (openverse) em 0.0s
-[  1436s]     falhou download (openverse) em 0.0s
-[  1436s]     falhou download (openverse) em 0.0s
-[  1436s]     falhou download (commons) em 0.0s
-[  1436s]     falhou download (openverse) em 0.0s
-[  1438s]   -> 4 imagens
-[  1438s] rome_1600: 'Rome 1600 map'
-[  1439s]     commons: 12 candidatos em 1.3s
-[  1444s]     openverse: 0 candidatos em 4.7s
-[  1444s]     falhou download (commons) em 0.0s
-[  1444s]     falhou download (commons) em 0.0s
-[  1444s]     falhou download (commons) em 0.0s
-[  1444s]     falhou download (commons) em 0.0s
-[  1444s]     falhou download (commons) em 0.0s
-[  1444s]     falhou download (commons) em 0.0s
-[  1444s]     falhou download (commons) em 0.0s
-[  1444s]     falhou download (commons) em 0.0s
-[  1444s]     falhou download (commons) em 0.0s
-[  1444s]     falhou download (commons) em 0.0s
-[  1444s]     falhou download (commons) em 0.0s
-[  1444s]     falhou download (commons) em 0.0s
-[  1446s]     commons: 5 candidatos em 1.8s
-[  1456s]     openverse: 1 candidatos em 10.8s
-[  1456s]     falhou download (commons) em 0.0s
-[  1456s]     falhou download (openverse) em 0.0s
-[  1456s]     falhou download (commons) em 0.0s
-[  1456s]     falhou download (commons) em 0.0s
-[  1456s]     falhou download (commons) em 0.0s
-[  1462s]     commons: 10 candidatos em 4.3s
-[  1465s]     openverse: 0 candidatos em 3.3s
-[  1465s]     falhou download (commons) em 0.0s
-[  1471s]   -> 4 imagens
-[  1471s] venice_1592: 'Venezia cinquecento'
-[  1472s]     commons: 12 candidatos em 1.3s
-[  1483s]     openverse: 9 candidatos em 10.9s
-[  1491s]   -> 4 imagens
-[  1491s] crucifix: 'crucifix 17th century'
-[  1492s]     commons: 12 candidatos em 1.4s
-[  1502s]     openverse: 10 candidatos em 10.2s
-[  1507s]     falhou download (openverse) em 1.6s
-[  1512s]   -> 4 imagens
-[  1512s] monks_dominican: 'Dominican friars painting'
-[  1514s]     commons: 8 candidatos em 2.0s
-[  1524s]     openverse: 6 candidatos em 10.2s
-[  1525s]     falhou download (openverse) em 0.0s
-[  1525s]     falhou download (commons) em 0.0s
-[  1525s]     falhou download (openverse) em 0.0s
-[  1527s]     falhou download (commons) em 0.0s
-[  1527s]     falhou download (openverse) em 0.0s
-[  1528s]   -> 4 imagens
-[  1528s] manuscript_trial: 'inquisition trial manuscript'
-[  1528s]     commons: 0 candidatos em 0.3s
-[  1531s]     openverse: 0 candidatos em 3.0s
-[  1531s]     commons: 0 candidatos em 0.4s
-[  1535s]     openverse: 0 candidatos em 3.8s
-[  1535s]   -> 0 imagens
-[  1541s] fim: 195 imagens
+[     0s] it02-inquisizione: 9 planos, limite 35.0 min
+[     0s] aquelarre: 'Goya Aquelarre'
+[     2s]     commons: 11 candidatos em 1.6s
+[    36s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[    36s]     openverse: 0 candidatos em 34.1s
+[    39s]   -> 4 imagens
+[    39s] zugarramurdi: 'Zugarramurdi cave'
+[    39s]     commons: 12 candidatos em 0.6s
+[    60s]     openverse: 8 candidatos em 20.1s
+[    63s]   -> 4 imagens
+[    63s] logrono: 'Logroño'
+[    64s]     commons: 12 candidatos em 1.1s
+[    89s]     openverse: 7 candidatos em 24.6s
+[    92s]   -> 4 imagens
+[    92s] witches_engraving: 'witches sabbath engraving'
+[    98s]     commons: 11 candidatos em 6.4s
+[   121s]     openverse: 0 candidatos em 22.6s
+[   125s]   -> 4 imagens
+[   125s] witch_burning: 'witch burning engraving'
+[   126s]     commons: 4 candidatos em 0.5s
+[   151s]     openverse: 1 candidatos em 25.0s
+[   155s]   -> 4 imagens
+[   155s] basque_village: 'Basque village Navarre'
+[   155s]     commons: 12 candidatos em 0.8s
+[   174s]     openverse: 6 candidatos em 18.4s
+[   179s]   -> 4 imagens
+[   179s] edict_faith: 'edict of faith inquisition'
+[   180s]     commons: 1 candidatos em 0.4s
+[   185s]     openverse: 0 candidatos em 4.8s
+[   186s]     commons: 0 candidatos em 0.3s
+[   197s]     openverse: 0 candidatos em 10.8s
+[   197s]   -> 1 imagens
+[   197s] sermon_church: 'preacher sermon church engraving'
+[   198s]     commons: 5 candidatos em 1.4s
+[   215s]     openverse: 0 candidatos em 17.1s
+[   229s]   -> 4 imagens
+[   229s] neighbors_gossip: 'gossip engraving 17th century'
+[   229s]     commons: 0 candidatos em 0.4s
+[   236s]     openverse: 0 candidatos em 6.4s
+[   236s]     commons: 9 candidatos em 0.7s
+[   241s]     openverse: 0 candidatos em 4.7s
+[   246s]   -> 4 imagens
+[   247s] fim: 33 imagens
