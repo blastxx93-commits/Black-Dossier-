@@ -442,6 +442,82 @@
     "processo inquisizione documento"
    ],
    "n": 4
+  },
+  {
+   "id": "aquelarre",
+   "query": "Goya Aquelarre",
+   "alt": [
+    "Goya Witches Sabbath",
+    "El aquelarre Goya"
+   ],
+   "n": 4
+  },
+  {
+   "id": "zugarramurdi",
+   "query": "Zugarramurdi cave",
+   "alt": [
+    "cueva de las brujas Zugarramurdi"
+   ],
+   "n": 4
+  },
+  {
+   "id": "logrono",
+   "query": "Logroño",
+   "alt": [
+    "Logroño old town",
+    "Logroño cathedral"
+   ],
+   "n": 4
+  },
+  {
+   "id": "witches_engraving",
+   "query": "witches sabbath engraving",
+   "alt": [
+    "witch trial woodcut",
+    "witches flying engraving 17th century"
+   ],
+   "n": 4
+  },
+  {
+   "id": "witch_burning",
+   "query": "witch burning engraving",
+   "alt": [
+    "burning of witches woodcut"
+   ],
+   "n": 4
+  },
+  {
+   "id": "basque_village",
+   "query": "Basque village Navarre",
+   "alt": [
+    "Navarra pueblo",
+    "Baztan valley"
+   ],
+   "n": 4
+  },
+  {
+   "id": "edict_faith",
+   "query": "edict of faith inquisition",
+   "alt": [
+    "edicto de fe inquisición"
+   ],
+   "n": 4
+  },
+  {
+   "id": "sermon_church",
+   "query": "preacher sermon church engraving",
+   "alt": [
+    "predica in chiesa seicento"
+   ],
+   "n": 4
+  },
+  {
+   "id": "neighbors_gossip",
+   "query": "gossip engraving 17th century",
+   "alt": [
+    "peasants village engraving"
+   ],
+   "n": 4
   }
  ]
 }
