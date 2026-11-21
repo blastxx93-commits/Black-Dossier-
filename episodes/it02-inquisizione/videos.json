@@ -1,0 +1,96 @@
+{
+ "defaults": {
+  "n": 3,
+  "clip": 8,
+  "per_film": 2,
+  "years": null,
+  "sources": [
+   "archive",
+   "commons"
+  ]
+ },
+ "shots": [
+  {
+   "id": "v_rome_campo",
+   "query": "Campo de' Fiori",
+   "alt": [
+    "Rome market square",
+    "Roma piazza mercato"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_rome_old",
+   "query": "Rome 1920s",
+   "alt": [
+    "Roma città 1930",
+    "Vatican 1930"
+   ],
+   "n": 4,
+   "years": [
+    1900,
+    1950
+   ]
+  },
+  {
+   "id": "v_candles",
+   "query": "candles church",
+   "alt": [
+    "church candles prayer"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_fire",
+   "query": "fire flames burning",
+   "alt": [
+    "bonfire flames",
+    "burning wood fire"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_vatican",
+   "query": "Vatican St Peter's",
+   "alt": [
+    "St Peter's Square",
+    "pope Vatican"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_galileo",
+   "query": "Galileo",
+   "alt": [
+    "telescope astronomy history"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_spain_madrid",
+   "query": "Madrid Plaza Mayor",
+   "alt": [
+    "Madrid 1930",
+    "Spain old town"
+   ],
+   "n": 3,
+   "years": [
+    1900,
+    1960
+   ]
+  },
+  {
+   "id": "v_florence",
+   "query": "Florence Italy",
+   "alt": [
+    "Firenze",
+    "Florence 1930"
+   ],
+   "n": 3,
+   "years": [
+    1900,
+    1960
+   ]
+  }
+ ]
+}

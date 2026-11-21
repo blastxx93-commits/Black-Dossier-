@@ -1,0 +1,447 @@
+{
+ "defaults": {
+  "n": 4,
+  "sources": [
+   "commons",
+   "openverse"
+  ]
+ },
+ "shots": [
+  {
+   "id": "campo_de_fiori",
+   "query": "Campo de' Fiori Rome",
+   "alt": [
+    "Campo de Fiori statue Giordano Bruno",
+    "Campo dei Fiori Roma"
+   ],
+   "n": 4
+  },
+  {
+   "id": "bruno_statue",
+   "query": "Giordano Bruno statue Ettore Ferrari",
+   "alt": [
+    "monumento Giordano Bruno Campo de' Fiori"
+   ],
+   "n": 4
+  },
+  {
+   "id": "bruno_portrait",
+   "query": "Giordano Bruno portrait",
+   "alt": [
+    "Giordano Bruno engraving"
+   ],
+   "n": 4
+  },
+  {
+   "id": "bruno_rogo",
+   "query": "Giordano Bruno burning stake",
+   "alt": [
+    "rogo di Giordano Bruno",
+    "Giordano Bruno execution relief"
+   ],
+   "n": 4
+  },
+  {
+   "id": "bruno_trial",
+   "query": "Giordano Bruno trial relief",
+   "alt": [
+    "processo Giordano Bruno bassorilievo"
+   ],
+   "n": 4
+  },
+  {
+   "id": "nola",
+   "query": "Nola Campania",
+   "alt": [
+    "Nola città"
+   ],
+   "n": 4
+  },
+  {
+   "id": "strappado",
+   "query": "strappado torture engraving",
+   "alt": [
+    "tortura della corda",
+    "strappado woodcut",
+    "corda tortura medievale"
+   ],
+   "n": 4
+  },
+  {
+   "id": "torture_chamber",
+   "query": "torture chamber engraving inquisition",
+   "alt": [
+    "inquisition torture engraving",
+    "Inquisition torture chamber painting"
+   ],
+   "n": 4
+  },
+  {
+   "id": "inquisition_trial",
+   "query": "Inquisition tribunal painting",
+   "alt": [
+    "Tribunal of the Inquisition Goya",
+    "inquisition court engraving"
+   ],
+   "n": 4
+  },
+  {
+   "id": "goya_inquisition",
+   "query": "Goya Inquisition",
+   "alt": [
+    "Goya Tribunal de la Inquisición",
+    "Goya auto de fe"
+   ],
+   "n": 4
+  },
+  {
+   "id": "notary_scribe",
+   "query": "notary writing 16th century",
+   "alt": [
+    "medieval scribe manuscript",
+    "notaio cinquecento"
+   ],
+   "n": 4
+  },
+  {
+   "id": "marsili",
+   "query": "Ippolito Marsili",
+   "alt": [
+    "Bologna sixteenth century jurist"
+   ],
+   "n": 4
+  },
+  {
+   "id": "bologna_1500",
+   "query": "Bologna Archiginnasio",
+   "alt": [
+    "Bologna medieval towers engraving"
+   ],
+   "n": 4
+  },
+  {
+   "id": "campanella",
+   "query": "Tommaso Campanella portrait",
+   "alt": [
+    "Tommaso Campanella"
+   ],
+   "n": 4
+  },
+  {
+   "id": "napoli_castel",
+   "query": "Castel Nuovo Napoli",
+   "alt": [
+    "Castel Sant'Elmo Naples",
+    "Naples 17th century view"
+   ],
+   "n": 4
+  },
+  {
+   "id": "prison_cell",
+   "query": "inquisition prison cell",
+   "alt": [
+    "medieval dungeon",
+    "carcere del Sant'Uffizio",
+    "Palazzo del Sant'Uffizio Roma"
+   ],
+   "n": 4
+  },
+  {
+   "id": "water_torture",
+   "query": "water torture inquisition engraving",
+   "alt": [
+    "toca tortura acqua",
+    "waterboarding inquisition illustration"
+   ],
+   "n": 4
+  },
+  {
+   "id": "rack_torture",
+   "query": "rack torture engraving",
+   "alt": [
+    "potro tortura",
+    "rack medieval torture woodcut"
+   ],
+   "n": 4
+  },
+  {
+   "id": "torture_museum",
+   "query": "torture museum San Gimignano",
+   "alt": [
+    "museo della tortura",
+    "medieval torture museum"
+   ],
+   "n": 4
+  },
+  {
+   "id": "iron_maiden",
+   "query": "iron maiden torture device",
+   "alt": [
+    "Iron Maiden of Nuremberg",
+    "eiserne Jungfrau"
+   ],
+   "n": 4
+  },
+  {
+   "id": "pear_anguish",
+   "query": "pear of anguish",
+   "alt": [
+    "choke pear torture"
+   ],
+   "n": 4
+  },
+  {
+   "id": "judas_cradle",
+   "query": "Judas cradle",
+   "alt": [
+    "culla di Giuda"
+   ],
+   "n": 4
+  },
+  {
+   "id": "galileo_portrait",
+   "query": "Galileo Galilei portrait Sustermans",
+   "alt": [
+    "Galileo Galilei"
+   ],
+   "n": 4
+  },
+  {
+   "id": "galileo_trial",
+   "query": "Galileo before the Holy Office",
+   "alt": [
+    "Galileo trial painting Robert-Fleury",
+    "Galileo facing the Roman Inquisition"
+   ],
+   "n": 4
+  },
+  {
+   "id": "galileo_arcetri",
+   "query": "Villa Il Gioiello Arcetri",
+   "alt": [
+    "Galileo Arcetri"
+   ],
+   "n": 4
+  },
+  {
+   "id": "galileo_telescope",
+   "query": "Galileo telescope",
+   "alt": [
+    "Galileo telescopes museum"
+   ],
+   "n": 4
+  },
+  {
+   "id": "dialogo",
+   "query": "Dialogo sopra i due massimi sistemi",
+   "alt": [
+    "Galileo Dialogue frontispiece 1632"
+   ],
+   "n": 4
+  },
+  {
+   "id": "santo_uffizio",
+   "query": "Palazzo del Sant'Uffizio",
+   "alt": [
+    "Holy Office palace Rome"
+   ],
+   "n": 4
+  },
+  {
+   "id": "auto_da_fe",
+   "query": "auto da fe painting",
+   "alt": [
+    "auto de fe Plaza Mayor 1680",
+    "Francisco Rizi auto de fe"
+   ],
+   "n": 4
+  },
+  {
+   "id": "auto_da_fe_engraving",
+   "query": "auto da fe engraving",
+   "alt": [
+    "Inquisition auto-da-fé procession engraving"
+   ],
+   "n": 4
+  },
+  {
+   "id": "sambenito",
+   "query": "sambenito",
+   "alt": [
+    "sanbenito inquisition"
+   ],
+   "n": 4
+  },
+  {
+   "id": "plaza_mayor",
+   "query": "Plaza Mayor Madrid",
+   "alt": [
+    "Plaza Mayor Madrid 17th century"
+   ],
+   "n": 4
+  },
+  {
+   "id": "carlos_ii",
+   "query": "Charles II of Spain portrait",
+   "alt": [
+    "Carlos II de España"
+   ],
+   "n": 4
+  },
+  {
+   "id": "burning_stake",
+   "query": "burning at the stake engraving",
+   "alt": [
+    "heretic burned stake woodcut",
+    "execution by burning medieval"
+   ],
+   "n": 4
+  },
+  {
+   "id": "torquemada",
+   "query": "Tomás de Torquemada",
+   "alt": [
+    "Torquemada portrait"
+   ],
+   "n": 4
+  },
+  {
+   "id": "spanish_inquisition",
+   "query": "Spanish Inquisition",
+   "alt": [
+    "Inquisición española grabado"
+   ],
+   "n": 4
+  },
+  {
+   "id": "beccaria",
+   "query": "Cesare Beccaria",
+   "alt": [
+    "Cesare Beccaria portrait"
+   ],
+   "n": 4
+  },
+  {
+   "id": "dei_delitti",
+   "query": "Dei delitti e delle pene",
+   "alt": [
+    "Dei delitti e delle pene 1764 frontespizio"
+   ],
+   "n": 4
+  },
+  {
+   "id": "milano_1700",
+   "query": "Milano settecento",
+   "alt": [
+    "Milan 18th century view"
+   ],
+   "n": 4
+  },
+  {
+   "id": "pietro_leopoldo",
+   "query": "Pietro Leopoldo Granduca di Toscana",
+   "alt": [
+    "Leopold II Holy Roman Emperor portrait"
+   ],
+   "n": 4
+  },
+  {
+   "id": "firenze_1786",
+   "query": "Palazzo Pitti",
+   "alt": [
+    "Florence 18th century view"
+   ],
+   "n": 4
+  },
+  {
+   "id": "pio_vii",
+   "query": "Pope Pius VII portrait",
+   "alt": [
+    "Pio VII"
+   ],
+   "n": 4
+  },
+  {
+   "id": "index_books",
+   "query": "Index Librorum Prohibitorum",
+   "alt": [
+    "Indice dei libri proibiti"
+   ],
+   "n": 4
+  },
+  {
+   "id": "giovanni_paolo",
+   "query": "Pope John Paul II 2000",
+   "alt": [
+    "Giovanni Paolo II"
+   ],
+   "n": 4
+  },
+  {
+   "id": "san_pietro",
+   "query": "St. Peter's Basilica interior",
+   "alt": [
+    "Basilica di San Pietro"
+   ],
+   "n": 4
+  },
+  {
+   "id": "vatican_archive",
+   "query": "Vatican Apostolic Archive",
+   "alt": [
+    "Archivio Apostolico Vaticano"
+   ],
+   "n": 4
+  },
+  {
+   "id": "candles_church",
+   "query": "Roman church interior candles",
+   "alt": [
+    "chiesa romana barocca"
+   ],
+   "n": 4
+  },
+  {
+   "id": "rome_1600",
+   "query": "Rome 1600 map",
+   "alt": [
+    "Antonio Tempesta map Rome 1593",
+    "Roma seicento veduta"
+   ],
+   "n": 4
+  },
+  {
+   "id": "venice_1592",
+   "query": "Venezia cinquecento",
+   "alt": [
+    "Venice 16th century view",
+    "Palazzo Ducale Venezia"
+   ],
+   "n": 4
+  },
+  {
+   "id": "crucifix",
+   "query": "crucifix 17th century",
+   "alt": [
+    "crocifisso seicento"
+   ],
+   "n": 4
+  },
+  {
+   "id": "monks_dominican",
+   "query": "Dominican friars painting",
+   "alt": [
+    "frati domenicani"
+   ],
+   "n": 4
+  },
+  {
+   "id": "manuscript_trial",
+   "query": "inquisition trial manuscript",
+   "alt": [
+    "processo inquisizione documento"
+   ],
+   "n": 4
+  }
+ ]
+}
