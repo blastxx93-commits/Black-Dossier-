@@ -74,6 +74,21 @@ class Ctx:
     def p(self, v):
         return int(round(v * self.k))
 
+    def clip(self, path, w, h, fps):
+        """All frames of a clip, scaled/cropped to w x h (decoded once)."""
+        key = (path, w, h)
+        if key not in self.cache:
+            clips = [k for k in self.cache if isinstance(k, tuple)]
+            for k in clips[:-1]:
+                del self.cache[k]                        # keep at most 2 clips in memory (crossfades)
+            full = path if os.path.isabs(path) else os.path.join(self.base, path)
+            raw = subprocess.run(["ffmpeg", "-v", "error", "-i", full, "-vf",
+                                  f"fps={fps},scale={w}:{h}:force_original_aspect_ratio=increase,crop={w}:{h},format=rgb24",
+                                  "-f", "rawvideo", "-"], capture_output=True, check=True).stdout
+            n = len(raw) // (w * h * 3)
+            self.cache[key] = [Image.frombytes("RGB", (w, h), raw[i * w * h * 3:(i + 1) * w * h * 3]) for i in range(n)]
+        return self.cache[key]
+
     def img(self, path):
         if path not in self.cache:
             full = path if os.path.isabs(path) else os.path.join(self.base, path)
@@ -196,6 +211,22 @@ def render_shot(ctx, s, t, dur):
     frames = []
     if s.get("doc"):
         frames = [draw_doc(c, ctx, s["doc"], t)]
+    elif s.get("video"):
+        x0, y0, w0, h0 = layout(ctx, [Image.new("RGB", (16, 9))])[0]
+        frs = ctx.clip(s["video"], w0, h0, ctx.fps)
+        pic = frs[min(len(frs) - 1, int(t * ctx.fps))] if frs else Image.new("RGB", (w0, h0), (60, 60, 60))
+        if s.get("bw", True):
+            pic = pic.convert("L").convert("RGB")
+        e = ease(t / 0.4)
+        border = ctx.p(10)
+        framed = Image.new("RGB", (w0 + 2 * border, h0 + 2 * border), (255, 255, 255))
+        framed.paste(pic, (border, border))
+        layer = Image.new("RGBA", (ctx.W, ctx.H), (0, 0, 0, 0))
+        shadowed(layer, framed, x0 - border, y0 - border, ctx)
+        if e < 1:
+            layer.putalpha(layer.getchannel("A").point(lambda v: int(v * e)))
+        c.alpha_composite(layer)
+        frames = [(x0, y0, w0, h0)]
     elif s.get("images"):
         imgs = [ctx.img(p) for p in s["images"]]
         frames = layout(ctx, imgs)
@@ -279,6 +310,7 @@ def main():
     W, H = (960, 540) if a.preview else (1920, 1080)
     fps = spec.get("fps", 30)
     ctx = Ctx(W, H, base)
+    ctx.fps = fps
     words = json.load(open(os.path.join(base, spec["words"]))) if spec.get("words") else None
     shots = spec["shots"]
     t0 = spec.get("start", 0.0)
