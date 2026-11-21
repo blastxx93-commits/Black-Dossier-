@@ -1,5 +1,5 @@
 # IT01 — Le armi più crudeli della Prima guerra mondiale e perché furono vietate
-~1.280 palavras · ~7,5 min (Fish ~170 wpm). Narração: `narration/ch*.txt`.
+~1547 palavras · ~8,5–9 min (Fish ~170 wpm; mínimo do canal: 8 min). Narração: `narration/ch*.txt`.
 
 ## Mecânica de retenção
 - Hook (0:00–0:45) abre NO ataque de gás de San Michele, sem introdução, + promessa: "non era la peggiore" e
