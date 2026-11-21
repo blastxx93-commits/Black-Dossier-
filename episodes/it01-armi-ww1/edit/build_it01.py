@@ -147,6 +147,40 @@ SHOTS = {
  ],
 }
 
+
+def card(t, title, sub, head, lines, stamp="", **kw):
+    return {"t": t, "title": title, "sub": sub, "src": "", "doc": {"head": head, "lines": lines, "stamp": stamp}, **kw}
+
+
+# fills used when the AI scenes are not available (keeps every screen under ~10 s)
+EXTRA = {
+ "ch01_mazze": [card(5.0, "LA TRINCEA", "Spazio per combattere", "TRINCEA · FRONTE ITALIANO", ["Larghezza: circa 1 metro", "Fucile con baionetta: oltre 1,7 metri"], "1 METRO", impact="1 METRO", impact_at=3.0)],
+ "ch02_baionetta": [card(17.0, "LA VOCE", "Tra i soldati nemici", "VOCE DAL FRONTE", ["Chi aveva la baionetta a sega", "rischiava di non arrivare vivo", "al campo di prigionia."], "VOCE"),
+                    card(33.3, "IL RISULTATO", "Esercito tedesco", "ORDINE · 1917", ["Ritirare la baionetta a sega", "oppure limare i denti"], "RITIRATA")],
+ "ch03_dumdum": [card(25.4, "1914", "Accuse reciproche", "AGOSTO 1914", ["Germania: \"gli inglesi usano il dum-dum\"", "Gran Bretagna: \"i tedeschi lo usano\""], "ACCUSE"),
+                 card(32.3, "ANCORA OGGI", "Lo stesso principio", "PROIETTILI ESPANSIVI · OGGI", ["Guerra tra eserciti: vietati", "Polizia: permessi in molti paesi", "Motivo: non colpire chi sta dietro"], "OGGI", impact="PERMESSO", impact_at=9.0),
+                 card(46.7, "LA PROSSIMA ARMA", "Peggio del dum-dum", "IL PROBLEMA", ["Il dum-dum colpiva un uomo alla volta.", "Serviva qualcosa che ne bruciasse decine."], "?")],
+ "ch04_lanciafiamme": [card(4.5, "MALANCOURT", "26 febbraio 1915", "PRIMO ATTACCO", ["Getti di fuoco: oltre 20 metri", "Bersaglio: trincee francesi"], "1915", impact="20 METRI", impact_at=3.0),
+                       card(14.4, "IL LIQUIDO", "Non si spegne", "LIQUIDO INFIAMMATO", ["Cola nelle trincee", "Si attacca ai vestiti", "Entra nei rifugi"], "FUOCO"),
+                       card(19.3, "L'OPERATORE", "Il bersaglio più odiato", "L'OPERATORE", ["Serbatoi sulla schiena", "Riconoscibile da lontano", "Spesso non veniva fatto prigioniero"], "BERSAGLIO")],
+ "ch05_cloro": [{"t": 3.8, "title": "YPRES", "sub": "Il fronte · aprile 1915", "src": "Mappa d'epoca", "images": ["gas_cloud/1_commons.jpg"], "move": "in", "label": ["MIGLIAIA DI BOMBOLE", "lungo il fronte"], "label_at": 1.0},
+                {"t": 8.1, "title": "LA NUBE AVANZA", "sub": "Verso le trincee francesi", "src": "Mappa d'epoca", "images": ["gas_cloud/3_commons.jpg"], "move": "left"},
+                card(35.8, "RICONOSCERLO", "I soldati imparano", "IL CLORO", ["Colore: giallo-verde", "Odore: pungente"], "CLORO")],
+ "ch06_fosgene": [card(1.3, "INVISIBILE", "Il fosgene", "IL FOSGENE", ["Colore: nessuno", "Odore: fieno appena tagliato", "Effetto: ore dopo"], "INVISIBILE"),
+                  card(16.5, "UNA REGOLA CRUDELE", "Medici di trincea", "ISTRUZIONI MEDICHE", ["Esposto al gas?", "Restare immobile.", "Anche se ti senti bene."], "IMMOBILE"),
+                  card(42.3, "1917", "Un gas diverso", "UN NUOVO OBIETTIVO", ["Non uccidere il nemico,", "ma renderlo inutilizzabile."], "1917", impact="INUTILIZZABILE", impact_at=4.2)],
+ "ch07_iprite": [card(27.2, "POSTI DI MEDICAZIONE", "Infermieri ustionati", "POSTO DI MEDICAZIONE", ["Bastava togliere le divise ai feriti", "per ustionarsi le mani."], "CONTAMINATO"),
+                 card(44.1, "IL COLPO PEGGIORE", "Per l'Italia", "FRONTE ITALIANO · 1917", ["Il colpo più devastante", "doveva ancora arrivare."], "1917")],
+ "ch08_caporetto": [card(22.5, "AL LORO POSTO", "In pochi minuti", "CONCA DI PLEZZO", ["Centinaia di morti in pochi minuti,", "ancora al loro posto,", "con il fucile in mano."], "PLEZZO"),
+                    card(47.8, "DOPO LA GUERRA", "Fare qualcosa", "1918", ["Davanti a tutto questo,", "il mondo decide di intervenire."], "1918")],
+ "ch09_ginevra": [card(20.9, "I SOPRAVVISSUTI", "Per il resto della vita", "DOPO IL GAS", ["Tosse per tutta la vita", "Polmoni rovinati per sempre"], "1918"),
+                  card(26.1, "L'EUROPA VEDE", "La guerra chimica", "OPINIONE PUBBLICA", ["Per la prima volta l'Europa vede", "che cosa significa una guerra chimica."], "1919"),
+                  card(30.8, "I REDUCI CIECHI", "In fila", "NELLE CITTÀ", ["I reduci ciechi arrivano in fila,", "una mano sulla spalla di chi è davanti."], "CIECHI"),
+                  card(36.2, "IL PUNTO DEBOLE", "Uso vietato, produzione no", "PROTOCOLLO · IL LIMITE", ["Uso del gas: vietato", "Produzione: permessa", "Scorte nei magazzini: permesse"], "PERMESSO", impact="MAGAZZINI PIENI", impact_at=6.5)],
+}
+for k, v in EXTRA.items():
+    SHOTS[k] = sorted(SHOTS[k] + v, key=lambda x: x["t"])
+
 # join narration with short breaths between chapters
 parts, off, shots = [], 0.0, []
 for c in CH:
@@ -155,6 +189,11 @@ for c in CH:
                                capture_output=True, text=True).stdout)
     for s in SHOTS[c]:
         s = dict(s)
+        if any(not os.path.exists(os.path.join(A, q)) for q in s.get("images", [])):
+            if s["t"] == 0:
+                sys.exit(f"Falta a imagem de abertura do capítulo {c}")
+            print("sem imagem, plano retirado:", s["title"])
+            continue
         s["t"] = round(off + s["t"] + (0 if s["t"] == 0 or c == "ch00_hook" else -0.1), 3)
         shots.append(s)
     parts.append((path, dur))
