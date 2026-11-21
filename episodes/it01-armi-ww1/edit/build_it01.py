@@ -181,6 +181,56 @@ EXTRA = {
 for k, v in EXTRA.items():
     SHOTS[k] = sorted(SHOTS[k] + v, key=lambda x: x["t"])
 
+
+def ph(t, title, sub, path, move="in", src="Fotografia d'epoca", **kw):
+    return {"t": t, "title": title, "sub": sub, "src": src, "images": [path], "move": move, **kw}
+
+
+def vd(t, title, sub, path, src="Cinegiornale d'epoca", **kw):
+    return {"t": t, "title": title, "sub": sub, "src": src, "video": path, **kw}
+
+
+# v2: free archival photos and newsreel clips (replace a shot with the same start time, else add)
+V2 = {
+ "ch01_mazze": [ph(5.0, "LA TRINCEA", "Fronte italiano", "s2_isonzo_trench/1_commons.jpg", impact="1 METRO", impact_at=3.0),
+                ph(21.4, "INCURSIONI NOTTURNE", "Uccidere senza rumore", "s2_trench_raid/2_commons.jpg", "left", "Disegno d'epoca", impact="SILENZIO", impact_at=2.4),
+                ph(30.6, "SENZA DIFESA", "Terra di nessuno", "s2_barbed_wire/4_commons.jpg", "out", "Disegno d'epoca")],
+ "ch02_baionetta": [ph(9.6, "LA PROPAGANDA", "Manifesti alleati", "s2_propaganda_bayonet/1_commons.jpg", "in", "Manifesto d'epoca"),
+                    ph(21.0, "PRIGIONIERI", "Una voce terribile", "s2_pows_ww1/1_commons.jpg", "left"),
+                    vd(24.0, "IN MARCIA", "Fronte occidentale", "video/v_prisoners/2_archive.mp4")],
+ "ch03_dumdum": [ph(2.6, "UN FIORE DI METALLO", "Prima e dopo l'impatto", "s2_hollow_point/2_commons.jpg", "left", "Collezione", label=["PROIETTILE ESPANSIVO", "si apre nel corpo"], label_at=1.5),
+                 ph(11.4, "GRANDE COME UN PUGNO", "Il foro d'uscita", "s2_field_hospital/2_commons.jpg", "out"),
+                 vd(42.3, "UN UOMO ALLA VOLTA", "Il limite del dum-dum", "video/v_wounded/3_archive.mp4")],
+ "ch04_lanciafiamme": [ph(4.5, "GETTI DI FUOCO", "Più di 20 metri", "s2_flamethrower/1_commons.jpg", "in", impact="20 METRI", impact_at=3.0),
+                       ph(14.4, "NEI RIFUGI", "Il fuoco entra ovunque", "s2_flame_troops/1_commons.jpg", "left"),
+                       ph(19.3, "L'OPERATORE", "Il bersaglio più odiato", "s2_flamethrower/3_commons.jpg", "in", label=["SERBATOI SULLA SCHIENA", "riconoscibile da lontano"], label_at=2.5),
+                       vd(43.8, "NESSUN NASCONDIGLIO", "La prossima arma", "video/v_trenches/6_archive.mp4")],
+ "ch05_cloro": [ph(8.1, "LA NUBE GIALLO-VERDE", "Verso le trincee", "s2_gas_attack/3_commons.jpg", "left"),
+                ph(14.8, "TOSSISCONO", "Cercano aria", "s2_gas_attack/4_commons.jpg", "in"),
+                vd(20.5, "IL FRONTE SI APRE", "Per chilometri", "video/v_trenches/5_archive.mp4"),
+                ph(35.8, "RICONOSCERLO", "Colore e odore", "s2_italian_gasmask/1_commons.jpg", "in", label=["MASCHERE ANTIGAS", "soldati italiani"], label_at=1.5)],
+ "ch06_fosgene": [ph(5.6, "SENZA ACCORGERSENE", "Sentirsi quasi bene", "s2_isonzo_trench/2_commons.jpg", "left")],
+ "ch07_iprite": [ph(27.2, "POSTI DI MEDICAZIONE", "Infermieri ustionati", "s2_gassed_soldiers/3_openverse.jpg", "in"),
+                 ph(22.8, "NEL FANGO", "Per giorni", "s2_gassed_soldiers/4_commons.jpg", "left", "Dipinto d'epoca"),
+                 ph(32.1, "IL DOLORE", "Legati ai letti", "s2_mustard_burns/1_commons.jpg", "out", "Tavola medica d'epoca")],
+ "ch08_caporetto": [ph(12.5, "AL SEGNALE", "Tutti insieme", "s2_gaswerfer/2_commons.jpg", "in"),
+                    ph(22.5, "AL LORO POSTO", "Con il fucile in mano", "s2_gaswerfer/3_commons.jpg", "left"),
+                    ph(32.2, "I SOPRAVVISSUTI", "Raccontano", "s2_plezzo/4_commons.jpg", "in"),
+                    ph(47.8, "LA RITIRATA", "Ottobre 1917", "s2_caporetto_retreat/3_commons.jpg", "left", "Dipinto d'epoca")],
+ "ch09_ginevra": [ph(2.0, "I DELEGATI", "Ginevra · 1925", "s2_geneva_1925/1_commons.jpg", "left"),
+                  ph(20.9, "I SOPRAVVISSUTI", "Per il resto della vita", "s2_veterans/1_commons.jpg", "in"),
+                  ph(26.1, "L'EUROPA VEDE", "Gassed · 1919", "s2_gassed_soldiers/1_commons.jpg", "left", "John Singer Sargent", label=["GASSED", "John Singer Sargent, 1919"], label_at=1.2),
+                  ph(30.8, "I REDUCI CIECHI", "In fila", "s2_gassed_soldiers/2_commons.jpg", "in", impact="CIECHI", impact_at=2.6),
+                  ph(56.0, "SAN MARTINO DEL CARSO", "29 giugno 1916", "s2_carso_1916/1_openverse.jpg", "in", "Lapide commemorativa")],
+ "ch10_finale": [vd(5.4, "BOMBE ALL'IPRITE", "Regia Aeronautica", "video/v_ethiopia/5_archive.mp4", label=["IPRITE", "su soldati, villaggi e civili"], label_at=1.8),
+                 ph(9.3, "VILLAGGI E CIVILI", "Altopiano etiope", "s2_ethiopia_war/2_commons.jpg", "out"),
+                 vd(13.5, "NEGATO PER DECENNI", "1936 – 1996", "video/v_ethiopia/4_archive.mp4")],
+}
+for k, v in V2.items():
+    for n in v:
+        SHOTS[k] = [o for o in SHOTS[k] if abs(o["t"] - n["t"]) > 0.05] + [n]
+    SHOTS[k].sort(key=lambda x: x["t"])
+
 # join narration with short breaths between chapters
 parts, off, shots = [], 0.0, []
 for c in CH:
@@ -189,7 +239,7 @@ for c in CH:
                                capture_output=True, text=True).stdout)
     for s in SHOTS[c]:
         s = dict(s)
-        if any(not os.path.exists(os.path.join(A, q)) for q in s.get("images", [])):
+        if any(not os.path.exists(os.path.join(A, q)) for q in s.get("images", []) + ([s["video"]] if s.get("video") else [])):
             if s["t"] == 0:
                 sys.exit(f"Falta a imagem de abertura do capítulo {c}")
             print("sem imagem, plano retirado:", s["title"])
@@ -209,7 +259,7 @@ subprocess.run(cmd + ["-filter_complex", fl, "-map", "[out]", os.path.join(A, "f
 # no image may appear twice
 seen = {}
 for s in shots:
-    for p in s.get("images", []):
+    for p in s.get("images", []) + ([s["video"]] if s.get("video") else []):
         if p in seen:
             sys.exit(f"Imagem repetida: {p} ({seen[p]} e {s['title']})")
         seen[p] = s["title"]

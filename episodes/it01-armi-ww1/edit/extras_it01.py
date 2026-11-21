@@ -36,13 +36,16 @@ with open(os.path.join(A, "IT01_it.srt"), "w") as f:
         nxt = subs[k][0] if k < len(subs) else b
         f.write(f"{k}\n{ts(a)} --> {ts(min(b + 0.15, nxt - 0.02))}\n{t}\n\n")
 
-used = {p for s in json.load(open(os.path.join(A, "episode.json")))["shots"] for p in s.get("images", [])}
+used = {p for s in json.load(open(os.path.join(A, "episode.json")))["shots"] for p in s.get("images", []) + ([s["video"]] if s.get("video") else [])}
 lines = []
-for r in csv.DictReader(open(os.path.join(A, "credits.csv"))):
-    lic = r["license"]
+import glob
+rows = [r for f in sorted(glob.glob(os.path.join(A, "credits*.csv"))) + [os.path.join(A, "video_credits.csv")]
+        if os.path.exists(f) for r in csv.DictReader(open(f))]
+for r in rows:
+    lic = r.get("license", "")
     if r["file"] not in used or re.search(r"public|cc0|pdm", lic, re.I):
         continue                                      # public domain: no attribution required
-    author = " ".join(re.sub(r"<[^>]+>", "", r["author"] or "autore sconosciuto").split())[:45]
+    author = " ".join(re.sub(r"<[^>]+>", "", r.get("author") or "autore sconosciuto").split())[:45]
     lines.append(f"{author} ({lic})")
 txt = "Crediti immagini (Wikimedia Commons / Openverse): " + "; ".join(sorted(set(lines))) + \
       ". Le altre immagini sono di pubblico dominio."
