@@ -100,21 +100,33 @@ def shadowed(canvas, im, x, y, ctx):
     canvas.paste(im, (x, y))
 
 
-def kenburns(src, w, h, t, move, zoom=0.06):
-    """Crop of src with aspect w:h, slowly moving. t in 0..1."""
+def smooth(x):
+    x = max(0.0, min(1.0, x))
+    return x * x * (3 - 2 * x)
+
+
+def kenburns(src, w, h, t, move, dur=5.0):
+    """Crop of src with aspect w:h, moving smoothly (no jitter: float crop box). t in 0..1.
+    The move is clearly visible: about 2.5% zoom per second (12–24%) plus a pan on left/right."""
     sw, sh = src.size
     ar = w / h
     cw, ch = (sw, sw / ar) if sw / sh < ar else (sh * ar, sh)
-    z = {"in": 1 + zoom * t, "out": 1 + zoom * (1 - t)}.get(move, 1 + zoom)
+    zoom = max(0.12, min(0.24, 0.025 * dur))
+    e = 0.15 * t + 0.85 * smooth(t)                  # keeps moving from the first to the last frame
+    z = {"in": 1 + zoom * e, "out": 1 + zoom * (1 - e)}.get(move, 1 + zoom)
     cw2, ch2 = cw / z, ch / z
     cx, cy = sw / 2, sh / 2
-    slack = (cw - cw2) / 2
+    slack_x, slack_y = (cw - cw2) / 2, (ch - ch2) / 2
     if move == "left":
-        cx += slack * (1 - 2 * t)
+        cx += slack_x * (1 - 2 * e)
     elif move == "right":
-        cx -= slack * (1 - 2 * t)
+        cx -= slack_x * (1 - 2 * e)
+    elif move == "in":
+        cy -= slack_y * 0.5 * e                      # drift slightly up while pushing in
+    elif move == "out":
+        cy += slack_y * 0.5 * (1 - e)
     box = (cx - cw2 / 2, cy - ch2 / 2, cx + cw2 / 2, cy + ch2 / 2)
-    return src.resize((w, h), Image.BICUBIC, box=box)
+    return src.resize((w, h), Image.LANCZOS, box=box)
 
 
 def layout(ctx, imgs):
@@ -194,7 +206,7 @@ def render_shot(ctx, s, t, dur):
                 continue
             e = ease(ti / 0.4)
             sc = 0.96 + 0.04 * e
-            pic = kenburns(im, w, h, min(1, t / max(dur, 0.1)), move if i % 2 == 0 else {"in": "out", "out": "in"}.get(move, move))
+            pic = kenburns(im, w, h, min(1, t / max(dur, 0.1)), move if i % 2 == 0 else {"in": "out", "out": "in"}.get(move, move), dur)
             border = ctx.p(10)
             framed = Image.new("RGB", (w + 2 * border, h + 2 * border), (255, 255, 255))
             framed.paste(pic, (border, border))
@@ -231,7 +243,7 @@ def render_shot(ctx, s, t, dur):
             if l2:
                 bd.text((ctx.p(24), ctx.p(52)), l2, font=f2, fill=(200, 200, 200))
             c.alpha_composite(box, (bx, by))
-    # impact word (green pop + short shake)
+    # impact word (smooth pop, no shake)
     if s.get("impact"):
         it = t - s.get("impact_at", 1.0)
         if it > 0:
@@ -244,11 +256,16 @@ def render_shot(ctx, s, t, dur):
             ld.text((ctx.p(16), ctx.p(6)), word, font=f, fill=GREEN)
             sc = 1.25 - 0.25 * back(it / 0.28)
             lay = lay.resize((max(1, int(lay.width * sc)), max(1, int(lay.height * sc))), Image.BICUBIC)
-            shake = int(ctx.p(9) * math.sin(it * 70) * max(0, 1 - it / 0.35))
-            c.alpha_composite(lay, (ctx.p(90) + shake, ctx.H - ctx.p(225) - (lay.height - ctx.p(190)) // 2))
+            c.alpha_composite(lay, (ctx.p(90), ctx.H - ctx.p(225) - (lay.height - ctx.p(190)) // 2))
     # thin footer rule like the reference
     d.line([ctx.p(40), ctx.H - ctx.p(34), ctx.p(330), ctx.H - ctx.p(34)], fill=(200, 200, 196), width=ctx.p(2))
-    return c.convert("RGB")
+    out = c.convert("RGB")
+    if s.get("doc"):                                  # documents: slow continuous push-in (float box = no jitter)
+        z = 1 + 0.06 * (0.15 * min(1, t / max(dur, .1)) + 0.85 * smooth(t / max(dur, .1)))
+        bw, bh = ctx.W / z, ctx.H / z
+        out = out.resize((ctx.W, ctx.H), Image.BICUBIC, box=((ctx.W - bw) / 2, (ctx.H - bh) / 2 + (ctx.H - bh) * 0.1,
+                                                              (ctx.W + bw) / 2, (ctx.H + bh) / 2 + (ctx.H - bh) * 0.1))
+    return out
 
 
 def main():
