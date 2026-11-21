@@ -1,0 +1,1048 @@
+{
+ "gap": 0.45,
+ "chapters": [
+  {
+   "id": "ch00_hook",
+   "shots": [
+    {
+     "img": "campo_de_fiori/1",
+     "title": "ROMA, 17 FEBBRAIO 1600",
+     "sub": "Campo de' Fiori",
+     "src": "Campo de' Fiori, oggi",
+     "tag": "1600"
+    },
+    {
+     "img": "rome_1600/1",
+     "title": "ROMA",
+     "sub": "Pianta della città · fine Cinquecento",
+     "src": "Incisione d'epoca"
+    },
+    {
+     "img": "bruno_portrait/2",
+     "title": "GIORDANO BRUNO",
+     "sub": "Nola 1548 – Roma 1600",
+     "src": "Incisione"
+    },
+    {
+     "img": "bruno_rogo/1",
+     "title": "IL ROGO",
+     "sub": "Davanti alla folla",
+     "src": "Incisione ottocentesca",
+     "impact": "BRUCIATO VIVO",
+     "impact_at": 2.0
+    },
+    {
+     "img": "bruno_trial/1",
+     "title": "IL PROCESSO",
+     "sub": "Quasi otto anni",
+     "src": "Rilievo, monumento a Bruno"
+    },
+    {
+     "img": "strappado/1",
+     "title": "GLI STRUMENTI",
+     "sub": "La sala delle torture",
+     "src": "Incisione d'epoca"
+    },
+    {
+     "img": "iron_maiden/1",
+     "title": "MAI ESISTITE?",
+     "sub": "Torture famose",
+     "src": "Museo della tortura",
+     "label": [
+      "VERGINE DI NORIMBERGA",
+      "vera o falsa?"
+     ],
+     "label_at": 1.0
+    },
+    {
+     "img": "san_pietro/3",
+     "title": "IL PERDONO",
+     "sub": "Roma · 2000",
+     "src": "Basilica di San Pietro"
+    },
+    {
+     "img": "bruno_statue/4",
+     "title": "MA NON A LUI",
+     "sub": "Campo de' Fiori",
+     "src": "Monumento a Giordano Bruno",
+     "impact": "MA NON A LUI",
+     "impact_at": 1.2
+    }
+   ]
+  },
+  {
+   "id": "ch00b_denuncia",
+   "shots": [
+    {
+     "img": "edict_faith/1",
+     "title": "L'EDITTO DI FEDE",
+     "sub": "Letto in chiesa",
+     "src": "Documento d'epoca",
+     "tag": "ARCHIVIO"
+    },
+    {
+     "img": "milano_1700/1",
+     "title": "IN CHIESA",
+     "sub": "Davanti a tutti",
+     "src": "Chiesa barocca"
+    },
+    {
+     "title": "UN ELENCO DI COLPE",
+     "sub": "",
+     "doc": {
+      "head": "EDITTO DI FEDE",
+      "lines": [
+       "Frasi contro la Chiesa",
+       "Libri proibiti",
+       "Pratiche magiche",
+       "Carne nei giorni di digiuno"
+      ],
+      "stamp": "DENUNCIA"
+     }
+    },
+    {
+     "img": "monks_dominican/1",
+     "title": "GLI INQUISITORI",
+     "sub": "Frati domenicani",
+     "src": "Ritratto d'epoca"
+    },
+    {
+     "img": "rome_1600/4",
+     "title": "VICINI CONTRO VICINI",
+     "sub": "Fede, paura, vendetta",
+     "src": "Incisione d'epoca",
+     "impact": "DENUNCIA",
+     "impact_at": 2.0
+    },
+    {
+     "img": "notary_scribe/1",
+     "title": "TESTIMONI SEGRETI",
+     "sub": "Nessun nome",
+     "src": "Miniatura"
+    },
+    {
+     "img": "santo_uffizio/1",
+     "title": "IL SANT'UFFIZIO",
+     "sub": "Roma",
+     "src": "Palazzo del Sant'Uffizio"
+    },
+    {
+     "img": "inquisition_trial/3",
+     "title": "ACCUSE SENZA VOLTO",
+     "sub": "L'imputato non sa chi lo accusa",
+     "src": "Francisco Goya"
+    },
+    {
+     "img": "prison_cell/1",
+     "title": "CHIUSO IN UNA CELLA",
+     "sub": "Senza sapere perché",
+     "src": "Prigioni"
+    },
+    {
+     "img": "prison_cell/2",
+     "title": "IN ATTESA",
+     "sub": "Le risposte non convincono",
+     "src": "Ponte dei Sospiri, Venezia"
+    },
+    {
+     "img": "torture_chamber/2",
+     "title": "LA FASE SUCCESSIVA",
+     "sub": "Sempre lo stesso nome",
+     "src": "Incisione d'epoca"
+    }
+   ]
+  },
+  {
+   "id": "ch01_corda",
+   "shots": [
+    {
+     "img": "strappado/4",
+     "title": "LA CORDA",
+     "sub": "Tratti di corda",
+     "src": "Museo",
+     "tag": "MUSEO"
+    },
+    {
+     "img": "strappado/3",
+     "title": "I POLSI LEGATI",
+     "sub": "Dietro la schiena",
+     "src": "Incisione d'epoca",
+     "label": [
+      "LA CARRUCOLA",
+      "sollevato da terra"
+     ],
+     "label_at": 1.5
+    },
+    {
+     "img": "torture_museum/1",
+     "title": "IL PESO DEL CORPO",
+     "sub": "Tutto sulle spalle",
+     "src": "Museo della tortura, San Gimignano"
+    },
+    {
+     "img": "torture_museum/4",
+     "title": "POCHI MINUTI",
+     "sub": "Il dolore insopportabile",
+     "src": "Museo della tortura"
+    },
+    {
+     "img": "torture_museum/3",
+     "title": "LA CADUTA",
+     "sub": "Le spalle slogate",
+     "src": "Museo della tortura",
+     "impact": "SLOGATE",
+     "impact_at": 2.0
+    },
+    {
+     "img": "inquisition_trial/1",
+     "title": "LE REGOLE",
+     "sub": "Il tribunale",
+     "src": "Francisco Goya, Tribunale dell'Inquisizione"
+    },
+    {
+     "title": "LE REGOLE DELLA TORTURA",
+     "sub": "",
+     "doc": {
+      "head": "MANUALI DEI GIUDICI",
+      "lines": [
+       "Tempo limitato",
+       "Vietata a bambini, anziani e donne incinte",
+       "Un notaio scrive ogni parola"
+      ],
+      "stamp": "REGOLE"
+     }
+    },
+    {
+     "img": "monks_dominican/4",
+     "title": "IL GIUDICE",
+     "sub": "Ordina e osserva",
+     "src": "Ritratto d'epoca"
+    },
+    {
+     "img": "torture_museum/2",
+     "title": "NESSUN SEGNO",
+     "sub": "La prossima tortura",
+     "src": "Museo della tortura"
+    },
+    {
+     "img": "goya_inquisition/1",
+     "title": "MENO CRUDELE?",
+     "sub": "Le regole non bastano",
+     "src": "Francisco Goya"
+    }
+   ]
+  },
+  {
+   "id": "ch02_veglia",
+   "shots": [
+    {
+     "img": "marsili/1",
+     "title": "LA VEGLIA",
+     "sub": "Ippolito Marsili · Bologna",
+     "src": "Opere di Ippolito Marsili",
+     "tag": "1500"
+    },
+    {
+     "img": "bologna_1500/2",
+     "title": "BOLOGNA",
+     "sub": "Inizio Cinquecento",
+     "src": "Archiginnasio"
+    },
+    {
+     "img": "bologna_1500/3",
+     "title": "UN GIURISTA",
+     "sub": "Un'idea terribile",
+     "src": "Archiginnasio, Bologna"
+    },
+    {
+     "img": "judas_cradle/3",
+     "title": "LO SGABELLO",
+     "sub": "Alto e appuntito",
+     "src": "Museo della tortura",
+     "label": [
+      "SGABELLO",
+      "ricostruzione"
+     ],
+     "label_at": 1.5
+    },
+    {
+     "img": "bologna_1500/4",
+     "title": "LE GUARDIE",
+     "sub": "Si danno il cambio",
+     "src": "Bologna"
+    },
+    {
+     "img": "judas_cradle/4",
+     "title": "LE ORE",
+     "sub": "Dieci, venti, trenta",
+     "src": "Disegno",
+     "impact": "SENZA DORMIRE",
+     "impact_at": 1.8
+    },
+    {
+     "img": "campanella/1",
+     "title": "TOMMASO CAMPANELLA",
+     "sub": "Filosofo calabrese",
+     "src": "Incisione d'epoca"
+    },
+    {
+     "img": "napoli_castel/1",
+     "title": "NAPOLI, 1601",
+     "sub": "Il processo",
+     "src": "Castel Nuovo"
+    },
+    {
+     "img": "campanella/2",
+     "title": "QUARANTA ORE",
+     "sub": "Fingeva di essere pazzo",
+     "src": "Incisione d'epoca",
+     "impact": "40 ORE",
+     "impact_at": 1.5
+    },
+    {
+     "img": "napoli_castel/2",
+     "title": "SI SALVÒ",
+     "sub": "La vita, non il corpo",
+     "src": "Napoli, veduta d'epoca"
+    },
+    {
+     "img": "campanella/3",
+     "title": "IL CORPO DISTRUTTO",
+     "sub": "Ma vivo",
+     "src": "Monumento a Campanella"
+    },
+    {
+     "img": "napoli_castel/4",
+     "title": "IN SPAGNA",
+     "sub": "Un metodo più subdolo",
+     "src": "Castel Nuovo"
+    }
+   ]
+  },
+  {
+   "id": "ch03_toca",
+   "shots": [
+    {
+     "img": "spanish_inquisition/1",
+     "title": "LA TOCA",
+     "sub": "Inquisizione spagnola",
+     "src": "Emblema dell'Inquisizione",
+     "tag": "SPAGNA"
+    },
+    {
+     "img": "torquemada/2",
+     "title": "LA TAVOLA INCLINATA",
+     "sub": "Testa in basso",
+     "src": "Dipinto d'epoca"
+    },
+    {
+     "title": "LA TOCA",
+     "sub": "",
+     "doc": {
+      "head": "TORTURA DELL'ACQUA",
+      "lines": [
+       "Panno di lino in gola",
+       "Acqua versata da una brocca",
+       "Il corpo crede di annegare"
+      ],
+      "stamp": "ACQUA"
+     }
+    },
+    {
+     "img": "torquemada/3",
+     "title": "LE ISTRUZIONI",
+     "sub": "Del Sant'Uffizio spagnolo",
+     "src": "Copilación de las Instrucciones",
+     "impact": "ANNEGARE",
+     "impact_at": 3.0
+    },
+    {
+     "img": "goya_inquisition/4",
+     "title": "SENZA RESPIRO",
+     "sub": "Solo una brocca",
+     "src": "Francisco Goya"
+    },
+    {
+     "img": "torquemada/4",
+     "title": "IL SANGUE",
+     "sub": "Poi ricominciavano",
+     "src": "Incisione d'epoca"
+    },
+    {
+     "img": "monks_dominican/2",
+     "title": "LA CONFESSIONE",
+     "sub": "Il notaio aspetta",
+     "src": "El Greco"
+    },
+    {
+     "img": "crucifix/1",
+     "title": "UNA MACCHINA DI LEGNO",
+     "sub": "Nella stessa stanza",
+     "src": "Crocifisso seicentesco"
+    }
+   ]
+  },
+  {
+   "id": "ch04_potro",
+   "shots": [
+    {
+     "img": "rack_torture/1",
+     "title": "IL POTRO",
+     "sub": "Il cavalletto",
+     "src": "Incisione d'epoca",
+     "tag": "SPAGNA"
+    },
+    {
+     "img": "rack_torture/2",
+     "title": "LA MANOVELLA",
+     "sub": "Le corde si stringono",
+     "src": "Incisione ottocentesca",
+     "label": [
+      "CORDE",
+      "nella carne"
+     ],
+     "label_at": 2.0
+    },
+    {
+     "img": "burning_stake/2",
+     "title": "LE ARTICOLAZIONI",
+     "sub": "Tirate in direzioni opposte",
+     "src": "Incisione d'epoca"
+    },
+    {
+     "img": "goya_inquisition/2",
+     "title": "LE PAROLE",
+     "sub": "Trascritte una per una",
+     "src": "Incisione",
+     "impact": "CONFESSA",
+     "impact_at": 3.5
+    },
+    {
+     "img": "torture_chamber/3",
+     "title": "I VERBALI",
+     "sub": "Nomi gridati per far finire il dolore",
+     "src": "Frontespizio d'epoca"
+    },
+    {
+     "img": "witches_engraving/2",
+     "title": "UNA CONFESSIONE",
+     "sub": "Che cambia tutto",
+     "src": "Incisione d'epoca"
+    },
+    {
+     "img": "basque_village/4",
+     "title": "UN'INTERA VALLE",
+     "sub": "Paesi Baschi",
+     "src": "Navarra"
+    }
+   ]
+  },
+  {
+   "id": "ch04b_streghe",
+   "shots": [
+    {
+     "img": "logrono/1",
+     "title": "LOGROÑO, 1610",
+     "sub": "Spagna del nord",
+     "src": "Logroño, oggi",
+     "tag": "1610"
+    },
+    {
+     "img": "auto_da_fe_engraving/2",
+     "title": "DUE GIORNI",
+     "sub": "Auto da fé",
+     "src": "Relazione a stampa d'epoca"
+    },
+    {
+     "img": "zugarramurdi/1",
+     "title": "ZUGARRAMURDI",
+     "sub": "Paesi Baschi",
+     "src": "La grotta delle streghe"
+    },
+    {
+     "img": "basque_village/1",
+     "title": "UN PICCOLO VILLAGGIO",
+     "sub": "Vicino alla Francia",
+     "src": "Navarra"
+    },
+    {
+     "img": "zugarramurdi/2",
+     "title": "LE CONFESSIONI",
+     "sub": "Riunioni notturne",
+     "src": "La grotta delle streghe"
+    },
+    {
+     "img": "aquelarre/1",
+     "title": "IL DIAVOLO",
+     "sub": "Il sabba",
+     "src": "Francisco Goya, Il sabba delle streghe"
+    },
+    {
+     "img": "witches_engraving/4",
+     "title": "SEMPRE PIÙ NOMI",
+     "sub": "Sempre più dettagli",
+     "src": "Incisione d'epoca"
+    },
+    {
+     "img": "aquelarre/2",
+     "title": "VOLI E UNGUENTI",
+     "sub": "Bambini rapiti",
+     "src": "Francisco Goya, Il grande caprone",
+     "impact": "CONTAGIO",
+     "impact_at": 2.6
+    },
+    {
+     "img": "witches_engraving/1",
+     "title": "COME UN CONTAGIO",
+     "sub": "Accuse moltiplicate",
+     "src": "Hans Baldung Grien"
+    },
+    {
+     "img": "witch_burning/1",
+     "title": "UNDICI CONDANNATI",
+     "sub": "Logroño, novembre 1610",
+     "src": "Incisione d'epoca",
+     "impact": "11",
+     "impact_at": 1.0
+    },
+    {
+     "img": "witch_burning/4",
+     "title": "SEI ROGHI",
+     "sub": "Bruciate vive",
+     "src": "Incisione d'epoca"
+    },
+    {
+     "img": "witch_burning/2",
+     "title": "CINQUE IMMAGINI",
+     "sub": "Morte in prigione",
+     "src": "Incisione d'epoca"
+    },
+    {
+     "img": "aquelarre/4",
+     "title": "CHI NON CI CREDEVA",
+     "sub": "Un inquisitore",
+     "src": "Goya, fotografia d'archivio"
+    },
+    {
+     "img": "basque_village/3",
+     "title": "I VILLAGGI",
+     "sub": "Centinaia di interrogatori",
+     "src": "Navarra"
+    },
+    {
+     "img": "zugarramurdi/3",
+     "title": "NESSUNA PROVA",
+     "sub": "Solo paura",
+     "src": "La grotta di Zugarramurdi"
+    },
+    {
+     "title": "ALONSO DE SALAZAR FRÍAS",
+     "sub": "",
+     "doc": {
+      "head": "RAPPORTO · 1612",
+      "lines": [
+       "\"Non ci furono streghe né stregati",
+       "finché non si cominciò",
+       "a parlarne e a scriverne.\""
+      ],
+      "stamp": "NESSUNA PROVA"
+     }
+    },
+    {
+     "img": "basque_village/2",
+     "title": "LA CACCIA SI FERMA",
+     "sub": "In Spagna",
+     "src": "Navarra"
+    },
+    {
+     "img": "zugarramurdi/4",
+     "title": "IL PARADOSSO",
+     "sub": "Gli inquisitori fermano la caccia",
+     "src": "La grotta delle streghe",
+     "impact": "PARADOSSO",
+     "impact_at": 2.0
+    }
+   ]
+  },
+  {
+   "id": "ch05_falsi",
+   "shots": [
+    {
+     "img": "iron_maiden/2",
+     "title": "LA VERGINE DI NORIMBERGA",
+     "sub": "La più famosa",
+     "src": "Museo",
+     "tag": "MUSEO"
+    },
+    {
+     "img": "iron_maiden/3",
+     "title": "MAI USATA",
+     "sub": "Secondo gli storici",
+     "src": "Fotografia d'archivio",
+     "impact": "FALSO",
+     "impact_at": 2.0
+    },
+    {
+     "img": "iron_maiden/4",
+     "title": "MONTATA NELL'OTTOCENTO",
+     "sub": "Pezzi di epoche diverse",
+     "src": "Museo della tortura"
+    },
+    {
+     "img": "pear_anguish/1",
+     "title": "LA PERA DELL'ANGOSCIA",
+     "sub": "Storia piena di dubbi",
+     "src": "Museo"
+    },
+    {
+     "img": "pear_anguish/3",
+     "title": "NESSUN DOCUMENTO",
+     "sub": "Nei tribunali",
+     "src": "Museo"
+    },
+    {
+     "img": "judas_cradle/1",
+     "title": "LA CULLA DI GIUDA",
+     "sub": "Quasi nessuna prova",
+     "src": "Museo della tortura"
+    },
+    {
+     "img": "judas_cradle/2",
+     "title": "LO SPETTACOLO",
+     "sub": "La verità è meno spettacolare",
+     "src": "Museo della tortura"
+    },
+    {
+     "img": "pear_anguish/2",
+     "title": "MACCHINE FANTASIOSE",
+     "sub": "Non servivano",
+     "src": "Museo"
+    },
+    {
+     "img": "pear_anguish/4",
+     "title": "FAR VEDERE GLI STRUMENTI",
+     "sub": "Bastava questo",
+     "src": "Museo"
+    }
+   ]
+  },
+  {
+   "id": "ch06_galileo",
+   "shots": [
+    {
+     "img": "galileo_trial/4",
+     "title": "ROMA, GIUGNO 1633",
+     "sub": "Galileo davanti al Sant'Uffizio",
+     "src": "Cristiano Banti",
+     "tag": "1633"
+    },
+    {
+     "img": "galileo_portrait/1",
+     "title": "GALILEO GALILEI",
+     "sub": "Quasi settant'anni",
+     "src": "Justus Sustermans"
+    },
+    {
+     "img": "dialogo/2",
+     "title": "LA TERRA GIRA",
+     "sub": "Intorno al Sole",
+     "src": "Dialogo sopra i due massimi sistemi, 1632"
+    },
+    {
+     "img": "galileo_telescope/2",
+     "title": "I CANNOCCHIALI",
+     "sub": "Di Galileo",
+     "src": "Museo Galileo, Firenze"
+    },
+    {
+     "img": "galileo_trial/1",
+     "title": "21 GIUGNO 1633",
+     "sub": "L'esame rigoroso",
+     "src": "Joseph-Nicolas Robert-Fleury"
+    },
+    {
+     "title": "LA TERRITIO",
+     "sub": "",
+     "doc": {
+      "head": "ESAME RIGOROSO",
+      "lines": [
+       "Interrogatorio",
+       "con la minaccia della tortura",
+       "Mostrare la stanza, la corda, il giudice"
+      ],
+      "stamp": "MINACCIA"
+     }
+    },
+    {
+     "img": "santo_uffizio/3",
+     "title": "LA PAURA",
+     "sub": "Il Sant'Uffizio",
+     "src": "Palazzo del Sant'Uffizio"
+    },
+    {
+     "img": "galileo_portrait/3",
+     "title": "IN GINOCCHIO",
+     "sub": "Abiurò",
+     "src": "Ritratto d'epoca",
+     "impact": "ABIURÒ",
+     "impact_at": 1.5
+    },
+    {
+     "img": "galileo_arcetri/1",
+     "title": "ARCETRI",
+     "sub": "Arresti domiciliari",
+     "src": "Colline di Firenze"
+    },
+    {
+     "img": "galileo_arcetri/3",
+     "title": "FINO ALLA MORTE",
+     "sub": "Villa Il Gioiello",
+     "src": "Fotografia d'archivio"
+    },
+    {
+     "img": "galileo_arcetri/4",
+     "title": "CHI NON ABIURAVA",
+     "sub": "Un'ultima risposta",
+     "src": "Incisione"
+    }
+   ]
+  },
+  {
+   "id": "ch07_rogo",
+   "shots": [
+    {
+     "img": "auto_da_fe/1",
+     "title": "AUTO DA FÉ",
+     "sub": "Atto di fede",
+     "src": "Francisco Rizi, Auto da fé, 1683",
+     "tag": "MADRID"
+    },
+    {
+     "img": "auto_da_fe/2",
+     "title": "LA FOLLA",
+     "sub": "Nobili e re",
+     "src": "Dipinto d'epoca"
+    },
+    {
+     "img": "sambenito/1",
+     "title": "IL SAMBENITO",
+     "sub": "Abito giallo",
+     "src": "Sambenitos originali"
+    },
+    {
+     "img": "plaza_mayor/1",
+     "title": "MADRID, 1680",
+     "sub": "Plaza Mayor",
+     "src": "Plaza Mayor, oggi"
+    },
+    {
+     "img": "auto_da_fe_engraving/1",
+     "title": "DALLA MATTINA",
+     "sub": "Fino a notte fonda",
+     "src": "Incisione d'epoca"
+    },
+    {
+     "img": "carlos_ii/4",
+     "title": "CARLO II",
+     "sub": "Il giovane re",
+     "src": "Ritratto d'epoca"
+    },
+    {
+     "img": "sambenito/2",
+     "title": "FIAMME E DIAVOLI",
+     "sub": "Per i condannati a morte",
+     "src": "Sambenito originale",
+     "impact": "CONDANNATI",
+     "impact_at": 2.2
+    },
+    {
+     "img": "auto_da_fe/3",
+     "title": "UN DETTAGLIO",
+     "sub": "Spesso dimenticato",
+     "src": "Dipinto d'epoca"
+    },
+    {
+     "img": "auto_da_fe_engraving/3",
+     "title": "IL BRACCIO SECOLARE",
+     "sub": "Le autorità civili",
+     "src": "Incisione d'epoca",
+     "label": [
+      "MAI SANGUE",
+      "secondo i giudici"
+     ],
+     "label_at": 2.0
+    },
+    {
+     "img": "burning_stake/1",
+     "title": "IL FUOCO",
+     "sub": "Acceso dai civili",
+     "src": "Incisione d'epoca"
+    },
+    {
+     "img": "sambenito/3",
+     "title": "CHI SI PENTIVA",
+     "sub": "Strangolato prima",
+     "src": "Sambenitos originali"
+    },
+    {
+     "img": "burning_stake/3",
+     "title": "CHI NON SI PENTIVA",
+     "sub": "Bruciava vivo",
+     "src": "Incisione d'epoca"
+    },
+    {
+     "img": "auto_da_fe_engraving/4",
+     "title": "ROMA, FEBBRAIO 1600",
+     "sub": "Quella mattina",
+     "src": "Incisione ottocentesca"
+    }
+   ]
+  },
+  {
+   "id": "ch08_bruno",
+   "shots": [
+    {
+     "img": "nola/1",
+     "title": "NOLA",
+     "sub": "Vicino a Napoli",
+     "src": "Cartolina d'epoca",
+     "tag": "1548"
+    },
+    {
+     "img": "nola/2",
+     "title": "UN FRATE DOMENICANO",
+     "sub": "Giordano Bruno",
+     "src": "Nola, veduta d'epoca"
+    },
+    {
+     "img": "galileo_telescope/1",
+     "title": "UN UNIVERSO INFINITO",
+     "sub": "Altri mondi, altre stelle",
+     "src": "Cielo stellato",
+     "impact": "INFINITO",
+     "impact_at": 2.5
+    },
+    {
+     "img": "rome_1600/2",
+     "title": "VENEZIA, 1592",
+     "sub": "Arrestato",
+     "src": "Veduta d'epoca"
+    },
+    {
+     "img": "bruno_statue/1",
+     "title": "ANNI DI CARCERE",
+     "sub": "Interrogatori",
+     "src": "Monumento a Bruno"
+    },
+    {
+     "img": "bruno_trial/2",
+     "title": "NON RITRATTA",
+     "sub": "Più volte",
+     "src": "Rilievo, monumento a Bruno"
+    },
+    {
+     "title": "8 FEBBRAIO 1600",
+     "sub": "",
+     "doc": {
+      "head": "LA SENTENZA",
+      "lines": [
+       "\"Forse avete più paura voi",
+       "nel pronunciare questa sentenza",
+       "che io nel riceverla.\""
+      ],
+      "stamp": "CONDANNATO"
+     }
+    },
+    {
+     "img": "crucifix/4",
+     "title": "IL CROCIFISSO",
+     "sub": "Girò la testa",
+     "src": "Crocifisso"
+    },
+    {
+     "img": "campo_de_fiori/3",
+     "title": "CAMPO DE' FIORI",
+     "sub": "17 febbraio 1600",
+     "src": "Monumento a Giordano Bruno"
+    },
+    {
+     "img": "bruno_statue/3",
+     "title": "LE IDEE",
+     "sub": "Il rogo non le ferma",
+     "src": "Monumento a Giordano Bruno"
+    }
+   ]
+  },
+  {
+   "id": "ch09_beccaria",
+   "shots": [
+    {
+     "img": "beccaria/3",
+     "title": "CESARE BECCARIA",
+     "sub": "Milano, 1764",
+     "src": "Incisione d'epoca",
+     "tag": "1764"
+    },
+    {
+     "img": "dei_delitti/1",
+     "title": "DEI DELITTI E DELLE PENE",
+     "sub": "Un libro breve",
+     "src": "Prima edizione"
+    },
+    {
+     "img": "dei_delitti/3",
+     "title": "LA TORTURA NON SERVE",
+     "sub": "Il debole innocente confessa",
+     "src": "Edizione d'epoca",
+     "impact": "NON SERVE",
+     "impact_at": 3.0
+    },
+    {
+     "img": "index_books/2",
+     "title": "ALL'INDICE",
+     "sub": "Libro proibito",
+     "src": "Index Librorum Prohibitorum"
+    },
+    {
+     "img": "index_books/4",
+     "title": "TROPPO TARDI",
+     "sub": "Letto in tutta Europa",
+     "src": "Index Librorum Prohibitorum"
+    },
+    {
+     "img": "beccaria/4",
+     "title": "RE E FILOSOFI",
+     "sub": "Lo leggono tutti",
+     "src": "Monumento a Beccaria, Milano"
+    },
+    {
+     "img": "pietro_leopoldo/2",
+     "title": "PIETRO LEOPOLDO",
+     "sub": "Granduca di Toscana",
+     "src": "Ritratto d'epoca"
+    },
+    {
+     "title": "30 NOVEMBRE 1786",
+     "sub": "",
+     "doc": {
+      "head": "GRANDUCATO DI TOSCANA",
+      "lines": [
+       "Abolita la tortura",
+       "Abolita la pena di morte",
+       "Primo Stato al mondo"
+      ],
+      "stamp": "ABOLITA"
+     }
+    },
+    {
+     "img": "firenze_1786/1",
+     "title": "FIRENZE",
+     "sub": "Primo Stato al mondo",
+     "src": "Palazzo Pitti",
+     "impact": "PRIMI AL MONDO",
+     "impact_at": 2.0
+    },
+    {
+     "img": "pietro_leopoldo/3",
+     "title": "ANCORA OGGI",
+     "sub": "La Toscana festeggia",
+     "src": "Ritratto d'epoca"
+    },
+    {
+     "img": "pio_vii/1",
+     "title": "PIO VII, 1816",
+     "sub": "Tortura vietata",
+     "src": "Thomas Lawrence"
+    },
+    {
+     "img": "pio_vii/4",
+     "title": "NEI TRIBUNALI",
+     "sub": "Della Chiesa",
+     "src": "Ritratto d'epoca"
+    },
+    {
+     "img": "plaza_mayor/2",
+     "title": "SPAGNA, 1834",
+     "sub": "Inquisizione abolita",
+     "src": "Plaza Mayor, Madrid"
+    }
+   ]
+  },
+  {
+   "id": "ch10_finale",
+   "shots": [
+    {
+     "img": "san_pietro/4",
+     "title": "12 MARZO 2000",
+     "sub": "Basilica di San Pietro",
+     "src": "San Pietro",
+     "tag": "2000"
+    },
+    {
+     "img": "giovanni_paolo/3",
+     "title": "GIOVANNI PAOLO II",
+     "sub": "Chiede perdono",
+     "src": "Fotografia",
+     "impact": "PERDONO",
+     "impact_at": 2.0
+    },
+    {
+     "img": "vatican_archive/3",
+     "title": "GLI ARCHIVI",
+     "sub": "Aperti nel 1998",
+     "src": "Archivio Apostolico Vaticano"
+    },
+    {
+     "img": "galileo_portrait/2",
+     "title": "GALILEO",
+     "sub": "Riabilitato nel 1992",
+     "src": "Justus Sustermans"
+    },
+    {
+     "img": "vatican_archive/1",
+     "title": "E GIORDANO BRUNO?",
+     "sub": "Febbraio 2000",
+     "src": "Archivio Apostolico Vaticano"
+    },
+    {
+     "title": "MAI RIABILITATO",
+     "sub": "",
+     "doc": {
+      "head": "VATICANO · FEBBRAIO 2000",
+      "lines": [
+       "\"Un episodio triste e doloroso\"",
+       "Ma nessuna riabilitazione"
+      ],
+      "stamp": "MAI"
+     }
+    },
+    {
+     "img": "san_pietro/1",
+     "title": "LONTANE DALLA FEDE",
+     "sub": "Le sue idee",
+     "src": "San Pietro"
+    },
+    {
+     "img": "campo_de_fiori/2",
+     "title": "CAMPO DE' FIORI, OGGI",
+     "sub": "La statua di bronzo",
+     "src": "Campo de' Fiori"
+    },
+    {
+     "img": "bruno_rogo/2",
+     "title": "DOVE IL ROGO ARSE",
+     "sub": "Lo sguardo verso il Vaticano",
+     "src": "Roma, oggi",
+     "impact": "DOVE IL ROGO ARSE",
+     "impact_at": 1.5
+    },
+    {
+     "img": "san_pietro/2",
+     "title": "E TU?",
+     "sub": "Qual era la più crudele?",
+     "src": "San Pietro"
+    }
+   ]
+  }
+ ]
+}
