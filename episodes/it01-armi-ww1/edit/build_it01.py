@@ -160,14 +160,12 @@ for c in CH:
     parts.append((path, dur))
     off += dur + GAP
 
-lst = os.path.join(A, "full_concat.txt")
-sil = os.path.join(A, "gap.wav")
-subprocess.run(["ffmpeg", "-v", "error", "-y", "-f", "lavfi", "-i", f"anullsrc=r=44100:cl=mono", "-t", str(GAP), sil], check=True)
-with open(lst, "w") as f:
-    for p, _ in parts:
-        f.write(f"file '{os.path.abspath(p)}'\nfile '{os.path.abspath(sil)}'\n")
-subprocess.run(["ffmpeg", "-v", "error", "-y", "-f", "concat", "-safe", "0", "-i", lst, "-ac", "1", "-ar", "44100",
-                os.path.join(A, "full.flac")], check=True)
+cmd, fl = ["ffmpeg", "-v", "error", "-y"], ""
+for i, (p, _) in enumerate(parts):
+    cmd += ["-i", p]
+    fl += f"[{i}:a]aformat=sample_rates=44100:channel_layouts=mono,apad=pad_dur={GAP}[a{i}];"
+fl += "".join(f"[a{i}]" for i in range(len(parts))) + f"concat=n={len(parts)}:v=0:a=1[out]"
+subprocess.run(cmd + ["-filter_complex", fl, "-map", "[out]", os.path.join(A, "full.flac")], check=True)
 
 # no image may appear twice
 seen = {}
