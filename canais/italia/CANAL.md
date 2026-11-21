@@ -26,3 +26,11 @@ Todo capítulo gerado passa por `agent/audio_qa.py`:
 3. Capítulo reprovado é regerado automaticamente (até 3 tentativas) e fica a melhor versão.
 4. Relatório em `qa_narracao.md` (branch assets) e no resumo da execução. Se algo continuar com defeito, o workflow falha e avisa.
 Workflow: Actions → Gerar narração → lang = `it`, voice = ID acima.
+
+## Imagens e cartões (regra do dono, a partir do IT02)
+- Muita imagem: alvo de ~110–130 telas por vídeo de 9 min, quase todas fotos, pinturas, gravuras ou clipes de arquivo.
+- Cartões de documento: no máximo ~1 por minuto (≈ 8–10 por vídeo) e nunca dois seguidos.
+  Usar só para tratado, número-chave ou citação; o resto vira imagem com etiqueta preta.
+- Escolher temas com muito material visual livre (pinturas, gravuras, fotos de arquivo) e rodar o agente de imagens
+  com ~50 buscas (em inglês e italiano) logo no início, antes de montar a edição.
+- Sem IA por enquanto (Replicate sem saldo).
