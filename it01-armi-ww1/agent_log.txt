@@ -1,0 +1,206 @@
+[     0s] it01-armi-ww1: 25 planos, limite 35.0 min
+[     0s] san_michele: 'Monte San Michele Carso'
+[     1s]     commons: 11 candidatos em 0.6s
+[    12s]     loc: 0 candidatos em 11.3s
+[    14s]     openverse: 1 candidatos em 2.1s
+[    19s]   -> 4 imagens
+[    19s] trincea_carso: 'Italian trench Carso 1916'
+[    19s]     commons: 0 candidatos em 0.2s
+[    43s]   ! www.loc.gov: 429 rate limit
+[    43s]     loc: 0 candidatos em 24.0s
+[    44s]     openverse: 0 candidatos em 1.0s
+[    45s]     commons: 2 candidatos em 0.5s
+[    69s]   ! www.loc.gov: 429 rate limit
+[    69s]     loc: 0 candidatos em 24.0s
+[    96s]     openverse: 4 candidatos em 27.3s
+[   101s]   -> 5 imagens
+[   101s] gas_cloud: 'gas attack cloud World War I'
+[   103s]     commons: 11 candidatos em 1.9s
+[   127s]   ! www.loc.gov: 429 rate limit
+[   127s]   ! www.loc.gov desligado nesta execucao (3 falhas seguidas)
+[   127s]     loc: 0 candidatos em 24.0s
+[   136s]     openverse: 2 candidatos em 8.8s
+[   142s]   -> 4 imagens
+[   142s] mazza_ferrata: 'trench club World War I'
+[   143s]     commons: 9 candidatos em 1.4s
+[   143s]     loc: 0 candidatos em 0.0s
+[   167s]     openverse: 1 candidatos em 24.0s
+[   170s]   -> 4 imagens
+[   170s] soldati_italiani: 'Italian soldiers World War I'
+[   171s]     commons: 11 candidatos em 1.2s
+[   171s]     loc: 0 candidatos em 0.0s
+[   181s]     openverse: 12 candidatos em 9.8s
+[   184s]   -> 5 imagens
+[   184s] aia_1899: 'Hague Peace Conference 1899'
+[   186s]     commons: 9 candidatos em 2.3s
+[   186s]     loc: 0 candidatos em 0.0s
+[   190s]     openverse: 1 candidatos em 4.1s
+[   192s]   -> 3 imagens
+[   192s] aia_1907: 'Hague Conference 1907'
+[   193s]     commons: 4 candidatos em 0.7s
+[   193s]     loc: 0 candidatos em 0.0s
+[   203s]     openverse: 6 candidatos em 9.8s
+[   204s]   -> 2 imagens
+[   204s] sawback: 'sawback bayonet'
+[   207s]     commons: 12 candidatos em 2.9s
+[   207s]     loc: 0 candidatos em 0.0s
+[   217s]     openverse: 12 candidatos em 9.6s
+[   219s]   -> 4 imagens
+[   219s] propaganda_ww1: 'World War I British propaganda poster Germany'
+[   221s]     commons: 10 candidatos em 1.1s
+[   221s]     loc: 0 candidatos em 0.0s
+[   222s]     openverse: 0 candidatos em 1.9s
+[   223s]     falhou download (commons) em 0.1s
+[   225s]   -> 3 imagens
+[   225s] dumdum: 'expanding bullet'
+[   225s]     commons: 8 candidatos em 0.5s
+[   225s]     loc: 0 candidatos em 0.0s
+[   235s]     openverse: 10 candidatos em 9.7s
+[   265s]     falhou download (openverse) em 30.0s
+[   295s]     falhou download (commons) em 30.0s
+[   326s]     falhou download (commons) em 30.0s
+[   327s]   -> 4 imagens
+[   327s] amputati: 'World War I amputee soldier'
+[   328s]     commons: 8 candidatos em 0.7s
+[   328s]     loc: 0 candidatos em 0.0s
+[   333s]     openverse: 0 candidatos em 5.0s
+[   363s]     falhou download (commons) em 30.0s
+[   365s]   -> 3 imagens
+[   365s] lanciafiamme: 'flamethrower World War I'
+[   366s]     commons: 10 candidatos em 0.4s
+[   366s]     loc: 0 candidatos em 0.0s
+[   396s]     openverse: 3 candidatos em 29.8s
+[   397s]     falhou download (commons) em 0.0s
+[   397s]     falhou download (openverse) em 0.0s
+[   400s]     falhou download (openverse) em 0.0s
+[   402s]   -> 5 imagens
+[   402s] ypres_1915: 'Ypres 1915'
+[   403s]     commons: 10 candidatos em 1.0s
+[   403s]     loc: 0 candidatos em 0.0s
+[   417s]     openverse: 5 candidatos em 14.5s
+[   419s]     falhou download (commons) em 0.0s
+[   419s]     falhou download (commons) em 0.0s
+[   420s]   -> 4 imagens
+[   420s] bombole_gas: 'chlorine gas cylinders World War I'
+[   420s]     commons: 1 candidatos em 0.3s
+[   420s]     loc: 0 candidatos em 0.0s
+[   426s]     openverse: 0 candidatos em 6.1s
+[   427s]   -> 1 imagens
+[   427s] gassati: 'gassed soldiers World War I'
+[   428s]     commons: 7 candidatos em 0.5s
+[   428s]     loc: 0 candidatos em 0.0s
+[   441s]     openverse: 2 candidatos em 13.8s
+[   441s]     falhou download (commons) em 0.0s
+[   443s]     falhou download (commons) em 0.0s
+[   446s]   -> 4 imagens
+[   446s] maschera_gas: 'gas mask World War I'
+[   446s]     commons: 12 candidatos em 0.5s
+[   446s]     loc: 0 candidatos em 0.0s
+[   459s]     openverse: 4 candidatos em 12.7s
+[   460s]     falhou download (commons) em 0.0s
+[   462s]   -> 4 imagens
+[   462s] fosgene: 'phosgene'
+[   463s]     commons: 11 candidatos em 1.5s
+[   463s]     loc: 0 candidatos em 0.0s
+[   475s]     openverse: 6 candidatos em 12.3s
+[   475s]     falhou download (commons) em 0.0s
+[   475s]     falhou download (openverse) em 0.0s
+[   475s]     falhou download (commons) em 0.0s
+[   475s]     falhou download (openverse) em 0.0s
+[   475s]     falhou download (commons) em 0.0s
+[   475s]     falhou download (openverse) em 0.0s
+[   475s]     falhou download (commons) em 0.0s
+[   475s]     falhou download (openverse) em 0.0s
+[   475s]     falhou download (commons) em 0.0s
+[   477s]     falhou download (commons) em 0.0s
+[   477s]     falhou download (openverse) em 0.0s
+[   477s]     falhou download (commons) em 0.0s
+[   479s]   -> 2 imagens
+[   479s] iprite: 'mustard gas burns soldier'
+[   481s]     commons: 8 candidatos em 2.0s
+[   481s]     loc: 0 candidatos em 0.0s
+[   490s]     openverse: 3 candidatos em 9.4s
+[   490s]     falhou download (commons) em 0.0s
+[   490s]     falhou download (openverse) em 0.0s
+[   490s]     falhou download (commons) em 0.0s
+[   492s]     falhou download (commons) em 0.0s
+[   494s]   -> 4 imagens
+[   494s] ospedale: 'World War I field hospital'
+[   498s]     commons: 10 candidatos em 3.6s
+[   498s]     loc: 0 candidatos em 0.0s
+[   508s]     openverse: 9 candidatos em 10.2s
+[   510s]   -> 3 imagens
+[   510s] plezzo: 'Bovec 1917'
+[   511s]     commons: 12 candidatos em 0.7s
+[   511s]     loc: 0 candidatos em 0.0s
+[   541s]     openverse: 9 candidatos em 30.2s
+[   545s]   -> 4 imagens
+[   545s] caporetto: 'Battle of Caporetto 1917'
+[   546s]     commons: 6 candidatos em 0.7s
+[   546s]     loc: 0 candidatos em 0.0s
+[   560s]     openverse: 1 candidatos em 13.5s
+[   560s]     falhou download (commons) em 0.0s
+[   560s]     falhou download (openverse) em 0.0s
+[   560s]     falhou download (commons) em 0.0s
+[   560s]     falhou download (commons) em 0.0s
+[   560s]     falhou download (commons) em 0.0s
+[   561s]     commons: 7 candidatos em 0.4s
+[   561s]     loc: 0 candidatos em 0.0s
+[   573s]     openverse: 6 candidatos em 12.2s
+[   573s]     falhou download (openverse) em 0.0s
+[   573s]     falhou download (commons) em 0.0s
+[   573s]     falhou download (openverse) em 0.0s
+[   573s]     falhou download (commons) em 0.0s
+[   573s]     falhou download (openverse) em 0.0s
+[   573s]     falhou download (commons) em 0.0s
+[   573s]     falhou download (openverse) em 0.0s
+[   573s]     falhou download (commons) em 0.0s
+[   573s]     falhou download (openverse) em 0.0s
+[   573s]     falhou download (commons) em 0.0s
+[   573s]     falhou download (openverse) em 0.0s
+[   573s]     falhou download (commons) em 0.0s
+[   573s]   -> 2 imagens
+[   573s] gaswerfer: 'Livens projector'
+[   574s]     commons: 11 candidatos em 0.7s
+[   574s]     loc: 0 candidatos em 0.0s
+[   587s]     openverse: 7 candidatos em 12.5s
+[   587s]     falhou download (openverse) em 0.0s
+[   588s]     falhou download (openverse) em 0.0s
+[   589s]   -> 3 imagens
+[   589s] ginevra_1925: 'Geneva 1925 League of Nations'
+[   590s]     commons: 7 candidatos em 1.0s
+[   590s]     loc: 0 candidatos em 0.0s
+[   603s]     openverse: 0 candidatos em 13.2s
+[   603s]     falhou download (commons) em 0.0s
+[   603s]     falhou download (commons) em 0.0s
+[   603s]     falhou download (commons) em 0.0s
+[   603s]     falhou download (commons) em 0.0s
+[   603s]     falhou download (commons) em 0.0s
+[   603s]     falhou download (commons) em 0.0s
+[   604s]     commons: 12 candidatos em 0.7s
+[   604s]     loc: 0 candidatos em 0.0s
+[   616s]     openverse: 10 candidatos em 12.3s
+[   616s]     falhou download (commons) em 0.0s
+[   616s]     falhou download (openverse) em 0.0s
+[   616s]     falhou download (commons) em 0.0s
+[   617s]     falhou download (commons) em 0.0s
+[   618s]   -> 3 imagens
+[   618s] etiopia_1935: 'Second Italo-Ethiopian War'
+[   619s]     commons: 11 candidatos em 0.8s
+[   619s]     loc: 0 candidatos em 0.0s
+[   625s]     openverse: 5 candidatos em 6.9s
+[   625s]     falhou download (commons) em 0.0s
+[   626s]     falhou download (commons) em 0.0s
+[   626s]     falhou download (openverse) em 0.0s
+[   626s]     falhou download (commons) em 0.0s
+[   626s]     falhou download (openverse) em 0.0s
+[   626s]     falhou download (commons) em 0.0s
+[   626s]     falhou download (openverse) em 0.0s
+[   626s]     falhou download (commons) em 0.0s
+[   629s]   -> 5 imagens
+[   629s] aerei_1935: 'Italian aircraft Ethiopia 1936'
+[   629s]     commons: 0 candidatos em 0.5s
+[   629s]     loc: 0 candidatos em 0.0s
+[   643s]     openverse: 1 candidatos em 13.9s
+[   644s]   -> 1 imagens
+[   646s] fim: 86 imagens
