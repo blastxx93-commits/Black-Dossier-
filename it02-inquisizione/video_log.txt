@@ -1,0 +1,134 @@
+[     0s] it02-inquisizione: 8 planos de video
+[     1s]     archive erro: [BACKEND_ERROR] Invalid or no response from Elasticsearch
+[     2s]     archive erro: [BACKEND_ERROR] Invalid or no response from Elasticsearch
+[     2s]   v_rome_campo / archive: 0 filmes para "Campo de' Fiori"
+[     4s]   v_rome_campo / commons: 0 filmes para "Campo de' Fiori"
+[    11s]   v_rome_campo / archive: 3 filmes para 'Rome market square'
+[    12s]   v_rome_campo / commons: 0 filmes para 'Rome market square'
+[    19s]     + 1_archive.mp4 de 'Home Movie: Jay Hansell Collection: 003626' a partir de 276s
+[    23s]     + 2_archive.mp4 de 'Home Movie: Jay Hansell Collection: 003626' a partir de 2026s
+[    52s]     + 3_archive.mp4 de 'Home Movie: 004706' a partir de 751s
+[    67s]     + 4_archive.mp4 de 'Home Movie: 004706' a partir de 5509s
+[    70s]   v_rome_old / archive: 0 filmes para 'Rome 1920s'
+[    71s]   v_rome_old / commons: 0 filmes para 'Rome 1920s'
+[    74s]   v_rome_old / archive: 0 filmes para 'Roma città 1930'
+[    76s]   v_rome_old / commons: 10 filmes para 'Roma città 1930'
+[    76s]     corte falhou (Messter_Woche_Mackensen_in_Constantinople_1916_fil): ensen_in_Constantinople_1916_filmed_by_Nelson_Edwards.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[    76s]     corte falhou (Messter_Woche_Mackensen_in_Constantinople_1916_fil): ensen_in_Constantinople_1916_filmed_by_Nelson_Edwards.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[    76s]     corte falhou (WWI_occupation_of_Istanbul.ogv?utm_source=commons.): org/wikipedia/commons/3/3c/WWI_occupation_of_Istanbul.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[    76s]     corte falhou (WWI_occupation_of_Istanbul.ogv?utm_source=commons.): org/wikipedia/commons/3/3c/WWI_occupation_of_Istanbul.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[    77s]     corte falhou (I._Bartholomaiosz_konstantin%C3%A1polyi_p%C3%A1tri): tholomaiosz_konstantin%C3%A1polyi_p%C3%A1tri%C3%A1rka.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[    77s]     corte falhou (I._Bartholomaiosz_konstantin%C3%A1polyi_p%C3%A1tri): tholomaiosz_konstantin%C3%A1polyi_p%C3%A1tri%C3%A1rka.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[    77s]     corte falhou (%CE%A3%CF%85%CE%BD%CE%AC%CE%BD%CF%84%CE%B7%CF%83%C): F%81%CE%B8%CE%BF%CE%BB%CE%BF%CE%BC%CE%B1%CE%AF%CE%BF.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[    77s]     corte falhou (%CE%A3%CF%85%CE%BD%CE%AC%CE%BD%CF%84%CE%B7%CF%83%C): F%81%CE%B8%CE%BF%CE%BB%CE%BF%CE%BC%CE%B1%CE%AF%CE%BF.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[    77s]     corte falhou (Panorama_Golden_Horn_Instanbul_1897.webm?utm_sourc): dia/commons/f/f7/Panorama_Golden_Horn_Instanbul_1897.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[    77s]     corte falhou (Panorama_Golden_Horn_Instanbul_1897.webm?utm_sourc): dia/commons/f/f7/Panorama_Golden_Horn_Instanbul_1897.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[    78s]     corte falhou (Panorama_des_rives_du_Bosphore_1897.webm?utm_sourc): dia/commons/9/9e/Panorama_des_rives_du_Bosphore_1897.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[    78s]     corte falhou (Panorama_des_rives_du_Bosphore_1897.webm?utm_sourc): dia/commons/9/9e/Panorama_des_rives_du_Bosphore_1897.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[    78s]     corte falhou (Istanbul_03.ogv?utm_source=commons.wikimedia.org&u): load.wikimedia.org/wikipedia/commons/1/13/Istanbul_03.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[    78s]     corte falhou (Istanbul_03.ogv?utm_source=commons.wikimedia.org&u): load.wikimedia.org/wikipedia/commons/1/13/Istanbul_03.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[    78s]     corte falhou (Istanbul_02.ogv?utm_source=commons.wikimedia.org&u): load.wikimedia.org/wikipedia/commons/a/a8/Istanbul_02.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[    78s]     corte falhou (Istanbul_02.ogv?utm_source=commons.wikimedia.org&u): load.wikimedia.org/wikipedia/commons/a/a8/Istanbul_02.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[    78s]     corte falhou (Istanbul_01.ogv?utm_source=commons.wikimedia.org&u): load.wikimedia.org/wikipedia/commons/3/3c/Istanbul_01.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[    79s]     corte falhou (Istanbul_01.ogv?utm_source=commons.wikimedia.org&u): load.wikimedia.org/wikipedia/commons/3/3c/Istanbul_01.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[    79s]     corte falhou (Istanbuls_Entwicklung.webm?utm_source=commons.wiki): dia.org/wikipedia/commons/6/60/Istanbuls_Entwicklung.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[    79s]     corte falhou (Istanbuls_Entwicklung.webm?utm_source=commons.wiki): dia.org/wikipedia/commons/6/60/Istanbuls_Entwicklung.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[    82s]   v_rome_old / archive: 0 filmes para 'Vatican 1930'
+[    83s]   v_rome_old / commons: 0 filmes para 'Vatican 1930'
+[   105s]   v_candles / archive: 12 filmes para 'candles church'
+[   106s]   v_candles / commons: 10 filmes para 'candles church'
+[   110s]     + 1_archive.mp4 de 'Home Movie: Koura Collection: 005834' a partir de 235s
+[   113s]     + 2_archive.mp4 de 'Home Movie: Koura Collection: 005834' a partir de 1726s
+[   118s]     + 3_archive.mp4 de 'Home Movie: Hirota Collection: 071163' a partir de 197s
+[   134s]   v_fire / archive: 11 filmes para 'fire flames burning'
+[   135s]   v_fire / commons: 10 filmes para 'fire flames burning'
+[   148s]     + 1_archive.mp4 de 'Just a Spark!' a partir de 66s
+[   152s]     + 2_archive.mp4 de 'Just a Spark!' a partir de 483s
+[   157s]     + 3_archive.mp4 de 'More Dangerous Than Dynamite' a partir de 70s
+[   161s]     + 4_archive.mp4 de 'More Dangerous Than Dynamite' a partir de 515s
+[   170s]   v_vatican / archive: 5 filmes para "Vatican St Peter's"
+[   171s]   v_vatican / commons: 6 filmes para "Vatican St Peter's"
+[   175s]     + 1_archive.mp4 de 'Home Movie: 004697' a partir de 312s
+[   179s]     + 2_archive.mp4 de 'Home Movie: 004697' a partir de 2286s
+[   182s]     + 3_archive.mp4 de 'MICHELANGELO (Reel 3 of 3)' a partir de 62s
+[   185s]     + 4_archive.mp4 de 'MICHELANGELO (Reel 3 of 3)' a partir de 453s
+[   201s]   v_galileo / archive: 8 filmes para 'Galileo'
+[   202s]   v_galileo / commons: 10 filmes para 'Galileo'
+[   207s]     + 1_archive.mp4 de 'Home Movie: 001501' a partir de 219s
+[   211s]     + 2_archive.mp4 de 'Home Movie: 001501' a partir de 1609s
+[   220s]     + 3_archive.mp4 de 'On the Run (Part II)' a partir de 106s
+[   225s]   v_spain_madrid / archive: 0 filmes para 'Madrid Plaza Mayor'
+[   226s]   v_spain_madrid / commons: 10 filmes para 'Madrid Plaza Mayor'
+[   226s]     corte falhou (Plaza_Mayor_%28Madrid%29.ogv?utm_source=commons.wi): a.org/wikipedia/commons/0/00/Plaza_Mayor_%28Madrid%29.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   227s]     corte falhou (Plaza_Mayor_%28Madrid%29.ogv?utm_source=commons.wi): a.org/wikipedia/commons/0/00/Plaza_Mayor_%28Madrid%29.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   227s]     corte falhou (The_Main_Square_of_Tomasz%C3%B3w_Mazowiecki%2C_Kos): Tomasz%C3%B3w_Mazowiecki%2C_Kosciuszko_Square._Poland.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   227s]     corte falhou (The_Main_Square_of_Tomasz%C3%B3w_Mazowiecki%2C_Kos): Tomasz%C3%B3w_Mazowiecki%2C_Kosciuszko_Square._Poland.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   227s]     corte falhou (Bugle_call_on_the_Main_Square_in_Krakow_during_the): e_Main_Square_in_Krakow_during_the_COVID-19_pandemic.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   227s]     corte falhou (Bugle_call_on_the_Main_Square_in_Krakow_during_the): e_Main_Square_in_Krakow_during_the_COVID-19_pandemic.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   227s]     corte falhou (Tomasz%C3%B3w_Mazowiecki%2C_Poland._Residents_of_T): asz%C3%B3w_on_the_main_square_of_the_town._31.12.2022.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   227s]     corte falhou (Tomasz%C3%B3w_Mazowiecki%2C_Poland._Residents_of_T): asz%C3%B3w_on_the_main_square_of_the_town._31.12.2022.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   228s]     corte falhou (Main_square_in_Tomasz%C3%B3w_Mazowiecki%2C_Poland.): /14/Main_square_in_Tomasz%C3%B3w_Mazowiecki%2C_Poland.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   228s]     corte falhou (Main_square_in_Tomasz%C3%B3w_Mazowiecki%2C_Poland.): /14/Main_square_in_Tomasz%C3%B3w_Mazowiecki%2C_Poland.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   228s]     corte falhou (Main_Square_of_Tomasz%C3%B3w_Mazowiecki%2C_Poland.): of_Tomasz%C3%B3w_Mazowiecki%2C_Poland._June_2%2C_2023.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   228s]     corte falhou (Main_Square_of_Tomasz%C3%B3w_Mazowiecki%2C_Poland.): of_Tomasz%C3%B3w_Mazowiecki%2C_Poland._June_2%2C_2023.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   228s]     corte falhou (Main_Square_of_Tomasz%C3%B3w_Mazowiecki._Thursday%): _Tomasz%C3%B3w_Mazowiecki._Thursday%2C_June_8%2C_2023.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   228s]     corte falhou (Main_Square_of_Tomasz%C3%B3w_Mazowiecki._Thursday%): _Tomasz%C3%B3w_Mazowiecki._Thursday%2C_June_8%2C_2023.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   229s]     corte falhou (20260718_192952_Plac_Ko%C5%9Bciuszki%2C_main_squar): %2C_main_square_of_Tomasz%C3%B3w_Mazowiecki%2C_Poland.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   229s]     corte falhou (20260718_192952_Plac_Ko%C5%9Bciuszki%2C_main_squar): %2C_main_square_of_Tomasz%C3%B3w_Mazowiecki%2C_Poland.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   229s]     corte falhou (Protesta_contra_la_vacancia_presidencial_en_Trujil): _presidencial_en_Trujillo%2C_Per%C3%BA_-_Nov._9_2020.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   229s]     corte falhou (Protesta_contra_la_vacancia_presidencial_en_Trujil): _presidencial_en_Trujillo%2C_Per%C3%BA_-_Nov._9_2020.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   229s]     corte falhou (Comparsa_entrando_a_la_plaza.webm?utm_source=commo): /wikipedia/commons/9/9c/Comparsa_entrando_a_la_plaza.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   229s]     corte falhou (Comparsa_entrando_a_la_plaza.webm?utm_source=commo): /wikipedia/commons/9/9c/Comparsa_entrando_a_la_plaza.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original.
+Error opening input files: Server returned 429 Too Many Requests
+[   234s]   v_spain_madrid / archive: 1 filmes para 'Madrid 1930'
+[   235s]   v_spain_madrid / commons: 0 filmes para 'Madrid 1930'
+[   239s]     + 1_archive.mp4 de 'The Mystery of Puerta del Sol' a partir de 512s
+[   242s]     + 2_archive.mp4 de 'The Mystery of Puerta del Sol' a partir de 3758s
+[   248s]   v_spain_madrid / archive: 2 filmes para 'Spain old town'
+[   249s]   v_spain_madrid / commons: 10 filmes para 'Spain old town'
+[   254s]     + 3_archive.mp4 de 'Wonderful World' a partir de 312s
+[   263s]   v_florence / archive: 5 filmes para 'Florence Italy'
+[   265s]   v_florence / commons: 10 filmes para 'Florence Italy'
+[   275s]     trecho escuro em 125s, tentando mais adiante
+[   283s]     + 1_archive.mp4 de "Dr. Thomas Marion Williams's Travelogues" a partir de 333s
+[   288s]     + 2_archive.mp4 de "Dr. Thomas Marion Williams's Travelogues" a partir de 917s
+[   292s]     + 3_archive.mp4 de 'ALLIES LIBERATE FLORENCE [ETC.]' a partir de 59s
