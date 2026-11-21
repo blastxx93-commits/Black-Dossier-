@@ -1,0 +1,123 @@
+{
+ "defaults": {
+  "n": 4,
+  "clip": 8,
+  "per_film": 2,
+  "years": [
+   1910,
+   1940
+  ],
+  "sources": [
+   "archive",
+   "commons"
+  ]
+ },
+ "shots": [
+  {
+   "id": "v_gas_attack",
+   "query": "gas attack",
+   "alt": [
+    "poison gas World War",
+    "gas cloud 1915",
+    "gas masks war 1918"
+   ],
+   "n": 6,
+   "per_film": 3
+  },
+  {
+   "id": "v_gas_masks",
+   "query": "gas masks soldiers",
+   "alt": [
+    "gas mask drill",
+    "World War I gas"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_flamethrower",
+   "query": "flamethrower",
+   "alt": [
+    "flame thrower war",
+    "liquid fire"
+   ],
+   "n": 5,
+   "per_film": 3
+  },
+  {
+   "id": "v_trenches",
+   "query": "trenches World War",
+   "alt": [
+    "trench warfare 1917",
+    "western front trenches",
+    "no man's land"
+   ],
+   "n": 6,
+   "per_film": 3
+  },
+  {
+   "id": "v_italian_front",
+   "query": "Italian front",
+   "alt": [
+    "Italian army 1917",
+    "Isonzo",
+    "Alpini war",
+    "Italy war 1918"
+   ],
+   "n": 6,
+   "per_film": 3
+  },
+  {
+   "id": "v_artillery",
+   "query": "artillery barrage 1917",
+   "alt": [
+    "shell fire World War",
+    "bombardment western front"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_wounded",
+   "query": "wounded soldiers World War",
+   "alt": [
+    "field hospital 1918",
+    "stretcher bearers"
+   ],
+   "n": 4
+  },
+  {
+   "id": "v_prisoners",
+   "query": "prisoners of war 1918",
+   "alt": [
+    "captured soldiers World War"
+   ],
+   "n": 3
+  },
+  {
+   "id": "v_ethiopia",
+   "query": "Ethiopia war 1935",
+   "alt": [
+    "Abyssinia war",
+    "Italian Ethiopian war",
+    "Ethiopia Italy 1936"
+   ],
+   "n": 5,
+   "per_film": 3,
+   "years": [
+    1930,
+    1940
+   ]
+  },
+  {
+   "id": "v_league_nations",
+   "query": "League of Nations Geneva",
+   "alt": [
+    "Geneva conference 1925"
+   ],
+   "n": 3,
+   "years": [
+    1920,
+    1940
+   ]
+  }
+ ]
+}
