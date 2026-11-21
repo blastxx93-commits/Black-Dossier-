@@ -1,0 +1,13 @@
+{"fps":30,"audio":"narration_audio/ch00_hook.flac","start":0,"end":42.6,"shots":[
+ {"t":0,"title":"MONTE SAN MICHELE, 1916","sub":"Carso · 29 giugno 1916","src":"Archivio storico","images":["san_michele/1_commons.jpg"],"move":"in","tag":"ARCHIVIO","label":["MONTE SAN MICHELE","fronte dell'Isonzo"],"label_at":1.2},
+ {"t":4.0,"title":"LE TRINCEE ITALIANE","sub":"Carso · all'alba","src":"Trincee del Carso","images":["trincea_carso/4_openverse.jpg","trincea_carso/2_openverse.jpg"],"move":"left"},
+ {"t":6.35,"title":"LA NUBE","sub":"Cloro e fosgene","src":"Fotografia d'epoca","images":["gassati/3_commons.jpg"],"move":"in","tag":"1916","label":["NUBE VERDASTRA","bassa, dentro le buche"],"label_at":1.4},
+ {"t":10.2,"title":"IN POCHI MINUTI","sub":"Migliaia di soldati italiani","src":"Illustrazione d'epoca","images":["gassati/1_openverse.jpg"],"move":"out","impact":"SOFFOCARE","impact_at":2.6},
+ {"t":13.75,"title":"IL NEMICO ARRIVA","sub":"Dopo il gas","src":"Fotografia d'epoca","images":["maschera_gas/2_openverse.jpg"],"move":"in"},
+ {"t":16.4,"title":"LE MAZZE FERRATE","sub":"Esercito austro-ungarico","src":"Collezione museale","images":["mazza_ferrata/1_commons.jpg","mazza_ferrata/4_commons.jpg"],"move":"right","tag":"MUSEO","label":["MAZZA CHIODATA","per finire i sopravvissuti"],"label_at":1.6,"impact":"NESSUNA PIETÀ","impact_at":2.9},
+ {"t":21.1,"title":"DICHIARAZIONE DELL'AIA","sub":"L'Aia · 29 luglio 1899","src":"Dichiarazione IV, 2","doc":{"head":"DICHIARAZIONE IV, 2","lines":["Le Potenze contraenti si impegnano ad astenersi","dall'uso di proiettili che abbiano per unico scopo","la diffusione di gas asfissianti o deleteri."],"stamp":"VIETATO"}},
+ {"t":24.7,"title":"NON ERA LA PEGGIORE","sub":"1914 – 1918","src":"Fotografia d'epoca","images":["gassati/4_commons.jpg"],"move":"in"},
+ {"t":26.55,"title":"LE ARMI PIÙ CRUDELI","sub":"Prima guerra mondiale","src":"Collezioni museali","images":["sawback/4_openverse.jpg","dumdum/1_commons.jpg","lanciafiamme/1_commons.jpg"],"move":"in","impact":"1914–1918","impact_at":2.0},
+ {"t":31.8,"title":"PERCHÉ FURONO VIETATE?","sub":"Conferenza della pace · L'Aia","src":"Archivio","images":["aia_1899/1_commons.jpg"],"move":"out","label":["CONFERENZA DELL'AIA","1899"],"label_at":0.8},
+ {"t":34.3,"title":"IL DOSSIER FINALE","sub":"Un segreto che pochi raccontano","src":"","doc":{"head":"FASCICOLO RISERVATO","lines":["Oggetto: uso del gas dopo la guerra","Paese: ???","Anno: ???"],"stamp":"SEGRETO"},"impact":"QUALE PAESE?","impact_at":3.4}
+]}

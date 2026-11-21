@@ -78,6 +78,19 @@ def silences(path, min_len=MAX_SILENCE):
     return list(zip(starts, ends))
 
 
+def edge_silence(path, dur):
+    """Seconds of quiet (< -45 dB) at the start and end of the file. Whisper timestamps are not precise enough."""
+    r = subprocess.run([ffmpeg(), "-v", "info", "-i", path, "-af", "silencedetect=n=-45dB:d=0.01", "-f", "null", "-"],
+                       capture_output=True, text=True).stderr
+    st = [float(x) for x in re.findall(r"silence_start: ([-\d.]+)", r)]
+    en = [float(x) for x in re.findall(r"silence_end: ([\d.]+)", r)]
+    lead = en[0] if st and st[0] <= 0.005 and en else 0.0
+    tail = 0.0
+    if st and (len(en) < len(st) or en[-1] >= dur - 0.02):   # trailing silence runs to the end of the file
+        tail = dur - st[-1]
+    return lead, tail
+
+
 def stats(path):
     r = subprocess.run([ffmpeg(), "-v", "info", "-i", path, "-af", "astats=metadata=0,ebur128", "-f", "null", "-"],
                        capture_output=True, text=True).stderr
@@ -168,10 +181,11 @@ def check(audio_path, script_text, lang):
         problems.append(f"VELOCIDADE estranha: {wpm:.0f} palavras/min")
     if st["peak_db"] > -0.3:
         problems.append(f"CLIPPING: pico em {st['peak_db']:.1f} dBFS")
-    if heard and heard[0]["s"] < 0.02:
-        problems.append("INÍCIO cortado: a fala começa no primeiro milissegundo")
-    if heard and dur - heard[-1]["e"] < 0.05:
-        problems.append("FINAL cortado: a última palavra encosta no fim do arquivo")
+    lead, tail = edge_silence(audio_path, dur)
+    if lead < 0.01:
+        problems.append("INÍCIO cortado: o áudio já começa no meio de um som")
+    if tail < 0.01:
+        problems.append("FINAL cortado: o áudio termina no meio de um som")
 
     hard = err > MAX_ERR or worst_run >= MAX_RUN or gaps or st["peak_db"] > -0.3 \
         or not WPM_RANGE[0] <= wpm <= WPM_RANGE[1]

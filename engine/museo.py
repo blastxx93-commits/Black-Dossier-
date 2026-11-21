@@ -276,7 +276,7 @@ def main():
         cmd += ["-ss", str(t0), "-t", str(end - t0), "-i", os.path.join(base, spec["audio"])]
     cmd += ["-c:v", "libx264", "-preset", "medium", "-crf", "20", "-pix_fmt", "yuv420p"]
     if spec.get("audio"):
-        cmd += ["-c:a", "aac", "-b:a", "192k", "-af", "loudnorm=I=-14:TP=-1.5:LRA=11", "-shortest"]
+        cmd += ["-c:a", "aac", "-b:a", "192k", "-af", "loudnorm=I=-14:TP=-1.5:LRA=11,apad", "-t", f"{end - t0:.3f}"]
     cmd += [out]
     p = subprocess.Popen(cmd, stdin=subprocess.PIPE)
     XF = 0.3
