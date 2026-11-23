@@ -1,0 +1,106 @@
+{
+ "defaults": {
+  "n": 12,
+  "sources": [
+   "commons",
+   "openverse",
+   "loc"
+  ]
+ },
+ "shots": [
+  {
+   "id": "m_pegaso",
+   "query": "Pegaso Z-102",
+   "alt": [
+    "Pegaso Z102 Touring",
+    "Pegaso Z-102 Saoutchik",
+    "Pegaso Z102 Berlinetta"
+   ],
+   "n": 18
+  },
+  {
+   "id": "m_seat600",
+   "query": "SEAT 600",
+   "alt": [
+    "Seat 600 D",
+    "Seat 600 E",
+    "Seat 600 N"
+   ],
+   "n": 18
+  },
+  {
+   "id": "m_biscuter",
+   "query": "Biscúter",
+   "alt": [
+    "Biscuter Autonacional",
+    "Biscuter 200"
+   ],
+   "n": 18
+  },
+  {
+   "id": "m_bocanegra",
+   "query": "SEAT 1200 Sport",
+   "alt": [
+    "Seat 1200 Sport Bocanegra",
+    "Seat 1430 Sport"
+   ],
+   "n": 18
+  },
+  {
+   "id": "m_seat1430",
+   "query": "SEAT 1430",
+   "alt": [
+    "Seat 1430 Especial",
+    "Seat 1430 FU"
+   ],
+   "n": 16
+  },
+  {
+   "id": "m_124sport",
+   "query": "SEAT 124 Sport",
+   "alt": [
+    "Seat 124 Sport Coupe",
+    "Seat 124 Sport 1800",
+    "Fiat 124 Sport Coupe"
+   ],
+   "n": 18
+  },
+  {
+   "id": "m_r5copa",
+   "query": "Renault 5 Copa Turbo",
+   "alt": [
+    "Renault 5 Copa",
+    "Renault Supercinco GT Turbo",
+    "Renault 5 GT Turbo"
+   ],
+   "n": 18
+  },
+  {
+   "id": "h_auction",
+   "query": "classic car auction",
+   "alt": [
+    "subasta coches clasicos",
+    "concours d'elegance"
+   ],
+   "n": 10
+  },
+  {
+   "id": "h_concentracion",
+   "query": "concentración coches clásicos España",
+   "alt": [
+    "Seat 600 concentración",
+    "clásicos españoles exposición"
+   ],
+   "n": 10
+  },
+  {
+   "id": "h_desguace",
+   "query": "abandoned classic car barn",
+   "alt": [
+    "coche abandonado garaje",
+    "desguace coches antiguos"
+   ],
+   "n": 10
+  }
+ ]
+}
