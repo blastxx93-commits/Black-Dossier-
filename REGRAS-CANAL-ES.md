@@ -31,6 +31,8 @@ são próprios deste canal, baseados no nicho de clássicos (canal de referênci
     ("¿Desde dónde nos ves? Escríbelo en los comentarios: tu ciudad, tu pueblo o tu país") + pedido para se inscrever.
   - **CTA final**: pedido direto para **se inscrever no canal** (pode manter o "me gusta"; o foco é a inscrição).
 - Duração: **17–22 min** (~2.800–3.400 palavras). Vídeos de 27–28 min renderam pouco no canal de referência.
+- **Temas de valor/preço (pedido do dono, 23/11/2026)**: só entram carros com preço real e citável (leilão, estimativa de casa
+  de leilão ou anúncio datado). Carro sem preço encontrado fica fora da lista.
 - Fatos com fonte; afirmações disputadas com ressalva ("según…", "hay quien dice…"). Nada de inventar mortes ou recalls.
 
 ## 3. Edição (herdada do canal Austrália)
