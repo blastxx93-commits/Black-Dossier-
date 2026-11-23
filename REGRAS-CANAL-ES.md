@@ -25,8 +25,11 @@ são próprios deste canal, baseados no nicho de clássicos (canal de referênci
 - Toda lista tem **pelo menos 2 carros espanhóis ou fabricados na Espanha** (SEAT 600, Biscúter, Pegaso, Dauphine FASA,
   Renault 4CV "Pelotilla", carros da Guardia Civil etc.).
 - Estrutura do roteiro: abertura com a cena mais forte da lista → itens do 12 ao 1, cada um com o carro, o contexto da época e
-  o motivo concreto (o "porquê") → o número 1 é o mais surpreendente → fecho com pergunta para os comentários e pedido de inscrição.
-  Sem CTA no meio do vídeo.
+  o motivo concreto (o "porquê") → o número 1 é o mais surpreendente → fecho com pedido de inscrição.
+- **CTAs (pedido do dono, 23/11/2026)**:
+  - **CTA do meio** (por volta da metade, antes dos itens finais): interativo. Pergunta **de onde a pessoa está assistindo**
+    ("¿Desde dónde nos ves? Escríbelo en los comentarios: tu ciudad, tu pueblo o tu país") + pedido para se inscrever.
+  - **CTA final**: pedido direto para **se inscrever no canal** (pode manter o "me gusta"; o foco é a inscrição).
 - Duração: **17–22 min** (~2.800–3.400 palavras). Vídeos de 27–28 min renderam pouco no canal de referência.
 - Fatos com fonte; afirmações disputadas com ressalva ("según…", "hay quien dice…"). Nada de inventar mortes ou recalls.
 
