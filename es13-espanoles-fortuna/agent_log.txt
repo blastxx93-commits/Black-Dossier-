@@ -1,0 +1,125 @@
+[     0s] es13-espanoles-fortuna: 10 planos, limite 35.0 min
+[     0s] m_pegaso: 'Pegaso Z-102'
+[     1s]     commons: 12 candidatos em 0.8s
+[    28s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[    28s]     openverse: 0 candidatos em 27.5s
+[    50s]     loc: 0 candidatos em 21.6s
+[    59s]     commons: 12 candidatos em 0.6s
+[    86s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[    86s]     openverse: 0 candidatos em 27.3s
+[   106s]     loc: 0 candidatos em 20.3s
+[   120s]   -> 18 imagens
+[   120s] m_seat600: 'SEAT 600'
+[   120s]     commons: 10 candidatos em 0.5s
+[   141s]   ! api.openverse.org: 504 Server Error: Gateway Timeout for url: https://api.openverse.org/v1/images/?q=SEAT+600&license=pdm%2Ccc0%2Cby%2Cby-sa&page_size=12&mature=false
+[   141s]   ! api.openverse.org desligado nesta execucao (3 falhas seguidas)
+[   141s]     openverse: 0 candidatos em 20.4s
+[   165s]   ! www.loc.gov: 429 rate limit
+[   165s]     loc: 0 candidatos em 24.0s
+[   171s]     commons: 12 candidatos em 0.7s
+[   171s]     openverse: 0 candidatos em 0.0s
+[   196s]   ! www.loc.gov: 429 rate limit
+[   196s]     loc: 0 candidatos em 24.0s
+[   209s]   -> 18 imagens
+[   209s] m_biscuter: 'Biscúter'
+[   210s]     commons: 10 candidatos em 0.7s
+[   210s]     openverse: 0 candidatos em 0.0s
+[   234s]   ! www.loc.gov: 429 rate limit
+[   234s]   ! www.loc.gov desligado nesta execucao (3 falhas seguidas)
+[   234s]     loc: 0 candidatos em 24.0s
+[   246s]     commons: 10 candidatos em 0.5s
+[   246s]     openverse: 0 candidatos em 0.0s
+[   246s]     loc: 0 candidatos em 0.0s
+[   250s]     commons: 11 candidatos em 0.7s
+[   250s]     openverse: 0 candidatos em 0.0s
+[   250s]     loc: 0 candidatos em 0.0s
+[   256s]   -> 18 imagens
+[   256s] m_bocanegra: 'SEAT 1200 Sport'
+[   256s]     commons: 12 candidatos em 0.5s
+[   256s]     openverse: 0 candidatos em 0.0s
+[   256s]     loc: 0 candidatos em 0.0s
+[   289s]     falhou download (commons) em 30.0s
+[   293s]     commons: 9 candidatos em 0.3s
+[   293s]     openverse: 0 candidatos em 0.0s
+[   293s]     loc: 0 candidatos em 0.0s
+[   294s]     commons: 12 candidatos em 0.5s
+[   294s]     openverse: 0 candidatos em 0.0s
+[   294s]     loc: 0 candidatos em 0.0s
+[   326s]     falhou download (commons) em 30.0s
+[   330s]   -> 18 imagens
+[   330s] m_seat1430: 'SEAT 1430'
+[   330s]     commons: 12 candidatos em 0.6s
+[   330s]     openverse: 0 candidatos em 0.0s
+[   330s]     loc: 0 candidatos em 0.0s
+[   361s]     falhou download (commons) em 30.0s
+[   391s]     falhou download (commons) em 30.0s
+[   400s]     commons: 5 candidatos em 0.3s
+[   400s]     openverse: 0 candidatos em 0.0s
+[   400s]     loc: 0 candidatos em 0.0s
+[   404s]     commons: 0 candidatos em 0.2s
+[   404s]     openverse: 0 candidatos em 0.0s
+[   404s]     loc: 0 candidatos em 0.0s
+[   404s]   -> 13 imagens
+[   404s] m_124sport: 'SEAT 124 Sport'
+[   405s]     commons: 12 candidatos em 0.8s
+[   405s]     openverse: 0 candidatos em 0.0s
+[   405s]     loc: 0 candidatos em 0.0s
+[   416s]     commons: 11 candidatos em 0.5s
+[   416s]     openverse: 0 candidatos em 0.0s
+[   416s]     loc: 0 candidatos em 0.0s
+[   418s]     falhou download (commons) em 0.0s
+[   420s]   -> 18 imagens
+[   420s] m_r5copa: 'Renault 5 Copa Turbo'
+[   420s]     commons: 3 candidatos em 0.4s
+[   420s]     openverse: 0 candidatos em 0.0s
+[   420s]     loc: 0 candidatos em 0.0s
+[   423s]     commons: 10 candidatos em 0.5s
+[   423s]     openverse: 0 candidatos em 0.0s
+[   423s]     loc: 0 candidatos em 0.0s
+[   430s]     commons: 11 candidatos em 0.6s
+[   430s]     openverse: 0 candidatos em 0.0s
+[   430s]     loc: 0 candidatos em 0.0s
+[   437s]   -> 18 imagens
+[   437s] h_auction: 'classic car auction'
+[   437s]     commons: 12 candidatos em 0.4s
+[   437s]     openverse: 0 candidatos em 0.0s
+[   437s]     loc: 0 candidatos em 0.0s
+[   437s]     falhou download (commons) em 0.0s
+[   437s]     falhou download (commons) em 0.0s
+[   437s]     falhou download (commons) em 0.0s
+[   437s]     falhou download (commons) em 0.0s
+[   437s]     falhou download (commons) em 0.0s
+[   437s]     falhou download (commons) em 0.0s
+[   437s]     falhou download (commons) em 0.0s
+[   437s]     falhou download (commons) em 0.0s
+[   437s]     falhou download (commons) em 0.0s
+[   437s]     falhou download (commons) em 0.0s
+[   437s]     falhou download (commons) em 0.0s
+[   437s]     falhou download (commons) em 0.0s
+[   437s]     commons: 0 candidatos em 0.3s
+[   437s]     openverse: 0 candidatos em 0.0s
+[   437s]     loc: 0 candidatos em 0.0s
+[   438s]     commons: 12 candidatos em 0.9s
+[   438s]     openverse: 0 candidatos em 0.0s
+[   438s]     loc: 0 candidatos em 0.0s
+[   444s]   -> 10 imagens
+[   444s] h_concentracion: 'concentración coches clásicos España'
+[   445s]     commons: 0 candidatos em 0.4s
+[   445s]     openverse: 0 candidatos em 0.0s
+[   445s]     loc: 0 candidatos em 0.0s
+[   445s]     commons: 11 candidatos em 0.4s
+[   445s]     openverse: 0 candidatos em 0.0s
+[   445s]     loc: 0 candidatos em 0.0s
+[   451s]   -> 10 imagens
+[   451s] h_desguace: 'abandoned classic car barn'
+[   451s]     commons: 0 candidatos em 0.4s
+[   451s]     openverse: 0 candidatos em 0.0s
+[   451s]     loc: 0 candidatos em 0.0s
+[   452s]     commons: 0 candidatos em 0.4s
+[   452s]     openverse: 0 candidatos em 0.0s
+[   452s]     loc: 0 candidatos em 0.0s
+[   452s]     commons: 3 candidatos em 0.4s
+[   452s]     openverse: 0 candidatos em 0.0s
+[   452s]     loc: 0 candidatos em 0.0s
+[   456s]   -> 3 imagens
+[   459s] fim: 144 imagens
