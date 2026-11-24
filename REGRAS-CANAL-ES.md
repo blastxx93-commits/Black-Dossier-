@@ -27,8 +27,7 @@ são próprios deste canal, baseados no nicho de clássicos (canal de referênci
 - Estrutura do roteiro: abertura com a cena mais forte da lista → itens do 12 ao 1, cada um com o carro, o contexto da época e
   o motivo concreto (o "porquê") → o número 1 é o mais surpreendente → fecho com pedido de inscrição.
 - **CTAs (pedido do dono, 24/11/2026 — substitui a regra de 23/11)**:
-  - **CTA aos ~3 minutos**: pergunta **de onde a pessoa está assistindo** ("¿Desde dónde nos ves? ¿México, Colombia,
-    Argentina, España…? Escríbelo en los comentarios") + pedido de inscrição.
+  - **CTA aos ~3 minutos**: pergunta **de onde a pessoa está assistindo** ("¿Desde dónde nos estás viendo? Escríbelo en los comentarios" — **sem citar nomes de países**, pedido do dono 24/11) + pedido de inscrição.
   - **CTA final**: **agradece a quem ficou até o final**, pede inscrição de novo e pede **feedback** ("dime en los
     comentarios qué te ha parecido y qué tema quieres para el próximo vídeo").
 - **Público (pedido do dono, 24/11/2026)**: aprofundar no público **latino — México, Colômbia e Argentina** — além da Espanha.
