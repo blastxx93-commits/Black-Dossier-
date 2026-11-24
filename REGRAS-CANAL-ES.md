@@ -26,10 +26,17 @@ são próprios deste canal, baseados no nicho de clássicos (canal de referênci
   Renault 4CV "Pelotilla", carros da Guardia Civil etc.).
 - Estrutura do roteiro: abertura com a cena mais forte da lista → itens do 12 ao 1, cada um com o carro, o contexto da época e
   o motivo concreto (o "porquê") → o número 1 é o mais surpreendente → fecho com pedido de inscrição.
-- **CTAs (pedido do dono, 23/11/2026)**:
-  - **CTA do meio** (por volta da metade, antes dos itens finais): interativo. Pergunta **de onde a pessoa está assistindo**
-    ("¿Desde dónde nos ves? Escríbelo en los comentarios: tu ciudad, tu pueblo o tu país") + pedido para se inscrever.
-  - **CTA final**: pedido direto para **se inscrever no canal** (pode manter o "me gusta"; o foco é a inscrição).
+- **CTAs (pedido do dono, 24/11/2026 — substitui a regra de 23/11)**:
+  - **CTA aos ~3 minutos**: pergunta **de onde a pessoa está assistindo** ("¿Desde dónde nos ves? ¿México, Colombia,
+    Argentina, España…? Escríbelo en los comentarios") + pedido de inscrição.
+  - **CTA final**: **agradece a quem ficou até o final**, pede inscrição de novo e pede **feedback** ("dime en los
+    comentarios qué te ha parecido y qué tema quieres para el próximo vídeo").
+- **Público (pedido do dono, 24/11/2026)**: aprofundar no público **latino — México, Colômbia e Argentina** — além da Espanha.
+  Temas com carros e histórias desses países (ex.: VW Sedán/Vocho no México, Renault 4 e Simca na Colômbia, Ford Falcon,
+  IKA/Torino e Fiat 600 "Fitito" na Argentina) e listas que misturem Espanha + América Latina.
+- **CTR (pedido do dono, 24/11/2026)**: todo tema vem com 3–5 títulos fortes e 2–3 ideias de thumbnail chamativa
+  (no máximo 3–4 palavras, contraste forte, um carro grande e reconhecível, um elemento de curiosidade: preço, "PROHIBIDO",
+  seta, X vermelho, antes/depois).
 - Duração: **17–22 min** (~2.800–3.400 palavras). Vídeos de 27–28 min renderam pouco no canal de referência.
 - **Temas de valor/preço (pedido do dono, 23/11/2026)**: só entram carros com preço real e citável (leilão, estimativa de casa
   de leilão ou anúncio datado). Carro sem preço encontrado fica fora da lista.
