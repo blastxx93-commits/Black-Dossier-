@@ -10,7 +10,7 @@ from aus_kit import P, photo, rank, stat, say, cta, title, ch
 
 PHOTOS = {
     "bisc": ["m_biscuter"], "s600": ["m_seat600"], "dau": ["m_dauphine"], "2cv": ["m_2cv"], "vocho": ["m_vocho"],
-    "r4": ["m_r4"], "s124": ["m_seat124"], "s1430": ["m_seat1430"], "s1400": ["m_seat1400"], "pegaso": ["m_pegaso"],
+    "r4": ["m_r4"], "s124": ["m_seat124"], "s1430": ["m_seat1430"], "s1400": ["m_seat1400", "m_seat1400b"], "pegaso": ["m_pegaso"],
     "r5": ["m_r5"], "s127": ["m_seat127"],
     "mix": ["h_calle", "h_concesionario"],
 }
