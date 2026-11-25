@@ -212,8 +212,10 @@ def say(text, hl="", size=140):
     return {"type": "statement", "text": text, "highlight": hl, "size": size, "sfx": [fx("hit", 0, -4)]}
 
 
-def cta(text, sub):
-    return {"type": "cta", "text": text, "sub": sub, "sfx": [fx("whoosh"), fx("pop", 1.2)]}
+def cta(text, sub, tv=True, remote=False):
+    """tv: QR-code corner card for TV viewers (70% of the audience); remote: add the 'pause and press Subscribe' hint
+    (owner 25/11: only on the final CTA, where pausing can't hurt retention)"""
+    return {"type": "cta", "text": text, "sub": sub, "tv": tv, "remote": remote, "sfx": [fx("whoosh"), fx("pop", 1.2)]}
 
 
 def title(t, sub, tag, bg_scene):

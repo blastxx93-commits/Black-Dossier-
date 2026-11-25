@@ -293,6 +293,43 @@ tl.fromTo("#{i}b",{{x:-2600}},{{x:0,duration:.3,ease:"power4.out"}},{t:.3f});
 tl.fromTo("#{i}x",{{scale:2.5,opacity:0}},{{scale:1,opacity:1,duration:.25,ease:"power4.in"}},{t + .1:.3f});
 tl.fromTo("#{i}s",{{opacity:0}},{{opacity:1,duration:.3}},{t + .5:.3f});''')
         self.shake(t + .35)
+        if s.get("tv"):
+            self.tvqr(t + float(s.get("tv_at", 3.0)), float(s.get("tv_dur", 8)), s.get("remote", False))
+
+    # owner 25/11/2026: 70% watch on TV and can't click "subscribe" -> a QR code (opens the subscribe
+    # confirmation on the phone, the TV keeps playing, so retention is untouched) + optional remote hint
+    QR_URL = "https://www.youtube.com/@clasicossinfiltro?sub_confirmation=1"
+
+    def qr_asset(self):
+        name = "assets/qr_sub.png"
+        dst = os.path.join(self.proj, name)
+        if not os.path.exists(dst):
+            import qrcode
+            q = qrcode.QRCode(error_correction=qrcode.constants.ERROR_CORRECT_Q, box_size=8, border=2)
+            q.add_data(self.QR_URL); q.make(fit=True)
+            q.make_image(fill_color="black", back_color="white").save(dst)
+        return name
+
+    def tvqr(self, t, d, remote=False):
+        i = self.id("tv")
+        qr = self.qr_asset()
+        rem = (f'''<div class="tvrem" id="{i}r"><svg width="46" height="96" viewBox="0 0 46 96"><rect x="3" y="3" width="40" height="90" rx="18" fill="#222" stroke="#fff" stroke-width="3"/>
+  <circle id="{i}k" cx="23" cy="30" r="10" fill="{RED}"/><rect x="14" y="56" width="18" height="5" rx="2" fill="#777"/><rect x="14" y="68" width="18" height="5" rx="2" fill="#777"/></svg>
+  <div>o pausa y pulsa <b>Suscribirse</b></div></div>''' if remote else "")
+        self.els.append(f'''<div class="tvbox" id="{i}" style="opacity:0">
+  <div class="tvqr"><img src="{qr}"><div class="scan" id="{i}s"></div></div>
+  <div class="tvtx"><div class="chip" style="position:relative;display:inline-block;font-size:44px">¿Nos ves en la tele?</div>
+  <div class="tvl1">Escanea con tu móvil</div><div class="tvl2">y suscríbete en un segundo</div>{rem}</div>
+  <svg class="tvph" id="{i}p" width="120" height="210" viewBox="0 0 120 210"><rect x="4" y="4" width="112" height="202" rx="18" fill="#111" stroke="#fff" stroke-width="5"/>
+  <rect x="16" y="26" width="88" height="150" rx="6" fill="#1b1b1b"/><rect x="30" y="70" width="60" height="60" fill="none" stroke="{RED}" stroke-width="5"/></svg></div>''')
+        self.at(f'''tl.fromTo("#{i}",{{opacity:0,x:520}},{{opacity:1,x:0,duration:.45,ease:"power4.out"}},{t:.3f});
+tl.fromTo("#{i} .tvqr",{{scale:.6}},{{scale:1,duration:.5,ease:"back.out(2)"}},{t + .1:.3f});
+tl.fromTo("#{i}p",{{x:160,y:60,rotation:18,opacity:0}},{{x:0,y:0,rotation:-8,opacity:1,duration:.6,ease:"power3.out"}},{t + .6:.3f});
+tl.fromTo("#{i}s",{{top:"0%"}},{{top:"92%",duration:.9,ease:"sine.inOut",repeat:{max(1, int(d / .9) - 2)},yoyo:true}},{t + .5:.3f});
+tl.fromTo("#{i} .tvqr",{{boxShadow:"0 0 0px {RED}"}},{{boxShadow:"0 0 46px {RED}",duration:.6,repeat:{max(1, int(d / .6) - 2)},yoyo:true,ease:"sine.inOut"}},{t + .5:.3f});
+tl.to("#{i}",{{opacity:0,x:520,duration:.4,ease:"power3.in"}},{t + d - .4:.3f});''')
+        if remote:
+            self.at(f'tl.fromTo("#{i}k",{{attr:{{r:10}}}},{{attr:{{r:13}},duration:.35,repeat:{max(1, int(d / .35) - 4)},yoyo:true}},{t + 1:.3f});')
 
     def _under(self, s, t, d, k):
         """a moving car photo under every graphic: never a black slide"""
@@ -345,6 +382,16 @@ html, body {{ margin: 0; background: #000; }}
         background: rgba(0,0,0,.45); padding: 8px 16px; border-left: 6px solid {RED}; }}
 .credit {{ position: absolute; left: 40px; bottom: 20px; font-family: InterB; font-size: 15px; color: rgba(255,255,255,.65); }}
 .src {{ position: absolute; right: 70px; bottom: 50px; font-family: InterB; font-size: 20px; letter-spacing: 4px; color: rgba(255,255,255,.6); }}
+.tvbox {{ position: absolute; right: 60px; bottom: 150px; z-index: 50; display: flex; align-items: center; gap: 30px;
+          background: rgba(0,0,0,.72); padding: 26px 34px 26px 26px; border-left: 10px solid {RED}; }}
+.tvqr {{ position: relative; background: #fff; padding: 8px; overflow: hidden; line-height: 0; }}
+.tvqr img {{ image-rendering: pixelated; display: block; }}
+.scan {{ position: absolute; left: 0; right: 0; height: 3px; background: {RED}; opacity: .35; }}
+.tvtx {{ display: flex; flex-direction: column; gap: 8px; }}
+.tvl1 {{ font-family: Anton; color: #fff; font-size: 58px; text-transform: uppercase; transform: skewX(-10deg); line-height: 1.05; margin-top: 10px; }}
+.tvl2 {{ font-family: InterB; color: rgba(255,255,255,.85); font-size: 28px; }}
+.tvrem {{ display: flex; align-items: center; gap: 16px; font-family: InterB; color: #fff; font-size: 28px; margin-top: 12px; }}
+.tvph {{ position: absolute; left: -150px; bottom: -30px; }}
 .qs {{ position: absolute; left: 200px; top: 300px; }}
 .q {{ font-family: Anton; color: #fff; font-size: 92px; text-transform: uppercase; transform: skewX(-10deg); margin-bottom: 26px; }}
 .qn {{ background: {RED}; padding: 0 18px; margin-right: 30px; }}
@@ -368,7 +415,8 @@ def build(wd, ep, proj, t_from=0.0, t_to=None):
     for ch in ep["chapters"]:
         for s in ch["shots"]:
             d = float(s["dur"])
-            if (t_to is None or t < t_to) and t + d > t_from:
+            ext = max(d, float(s.get("tv_at", 3.0)) + float(s.get("tv_dur", 8))) if s.get("tv") else d
+            if (t_to is None or t < t_to) and t + ext > t_from:
                 getattr(c, s["type"], c.image)(s, t - t_from + OFFSET, d, k)
             t += d; k += 1
     total = (t_to if t_to is not None else t) - t_from
