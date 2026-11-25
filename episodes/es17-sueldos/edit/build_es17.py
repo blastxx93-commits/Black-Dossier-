@@ -19,7 +19,7 @@ GENERIC = CLIPS.pop("_generic", [])
 FALLBACK = {k: [] for k in PHOTOS}
 FALLBACK.update({"mix": ["dau", "s124"], "r5": ["s127"], "s127": ["r5"]})
 RES = ["m_vocho/10", "m_seat1400/2", "m_pegaso/5", "m_biscuter/5", "m_seat600/1", "m_dauphine/7", "m_2cv/1",
-       "m_vocho/1", "m_r4/9", "m_seat124/3", "m_seat1430/14", "m_seat1400/1", "m_pegaso/11"]
+       "m_vocho/1", "m_r4/9", "m_seat124/3", "m_seat1430/14", "m_seat1400/13", "m_pegaso/11"]
 A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FALLBACK, [], reserved=RES)
 A.THEME = "race"
 A.CLIP_TARGET = 0.0
@@ -78,7 +78,7 @@ c.at("Por eso el 1430", P("s1430"))
 chapters.append(c)
 
 c = ch("ch04")
-c.at(0, rank(2, "SEAT 1400", "m_seat1400", 1, "Barcelona · 1953", "el primer SEAT"))
+c.at(0, rank(2, "SEAT 1400", "m_seat1400", 13, "Barcelona · 1953", "el primer SEAT"))
 c.at("Su precio, según las fuentes", stat("≈10 años", "de salario por un SEAT 1400 (según algunas fuentes)", "según la fuente", count=False))
 c.at("Por eso el 1400", P("s1400"))
 c.at("Y ahora sí", P("pegaso"))
