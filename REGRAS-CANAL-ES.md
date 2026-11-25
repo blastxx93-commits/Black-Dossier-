@@ -102,3 +102,6 @@ Mesmo motor (`engine/render_aus.py`, `engine/aus_kit.py`) e mesmas regras de mon
 ## 7. Aval do dono (pontos de parada)
 1. Pauta + roteiro (antes de gastar com voz e IA).
 2. Vídeo pronto + título/thumbnail (antes de publicar).
+
+## Palavras-chave (25/11)
+Todo pacote de publicação leva `publish/palavras_chave.txt`, montado com pesquisa no vidIQ: termos de alta procura com volume e concorrência, termos de nicho e as tags prontas para copiar e colar. Dar prioridade a termos com volume alto e concorrência baixa (ex.: autos clásicos, autos de colección, autos antiguos, historia de autos).
