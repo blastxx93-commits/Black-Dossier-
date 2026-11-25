@@ -1,0 +1,25 @@
+{
+ "lang": "es",
+ "tagline": "Historia real del automóvil, con fuentes.",
+ "compact_credits": true,
+ "music": "Música: \"Movement Proposition\" — Kevin MacLeod (incompetech.com). Licencia: Creative Commons: By Attribution 4.0 — http://creativecommons.org/licenses/by/4.0/",
+ "credits_file": "episodes/es14-abuelo-latam/publish/creditos_completos.txt",
+ "other_line": "Imágenes: Wikimedia Commons y Openverse. Todas las imágenes son fotografías reales. Fechas y cifras de producción aproximadas, según las fuentes citadas.",
+ "intro": "El Vocho de México, el Renault 4 «amigo fiel» de Colombia, el Fitito y el Ford Falcon de Argentina, el Seiscientos de España… Los coches que tu abuelo tuvo y que hoy nadie olvida. De dónde salieron, por qué todo el mundo los quería y qué pasó con ellos: Datsun Bluebird, Simca 1000, Renault 12, SEAT 600, Fiat 600, Renault 4, Ford Falcon y Volkswagen Sedán.\n\nVídeo divulgativo basado en fuentes publicadas.",
+ "chapters": [
+  "Los coches de tu abuelo",
+  "8 · Datsun Bluebird · 7 · Simca 1000",
+  "6 · Renault 12 · 5 · SEAT 600 · 4 · Fiat 600 «Fitito»",
+  "3 · Renault 4 · 2 · Ford Falcon",
+  "1 · Volkswagen Sedán «Vocho»",
+  "¿Cuál tuvo tu familia?"
+ ],
+ "sources": [
+  "Expansión / Autocosmos: Datsun Bluebird y la planta CIVAC (1966)",
+  "El Carro Colombiano: Simca 1000, Renault 12 y Renault 4 en Colombia",
+  "Wikipedia: Renault 12, SEAT 600, Volkswagen Beetle in Mexico",
+  "El Cronista: el origen del Fitito",
+  "Uno TV / Xataka México: historia del Vocho en Puebla"
+ ],
+ "tags_line": "#autosclasicos #vocho #renault4 #fitito #fordfalcon"
+}
