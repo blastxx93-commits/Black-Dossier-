@@ -12,7 +12,7 @@ PHOTOS = {
     "bisc": ["m_biscuter"], "s600": ["m_seat600"], "dau": ["m_dauphine"], "2cv": ["m_2cv"], "vocho": ["m_vocho"],
     "r4": ["m_r4"], "s124": ["m_seat124"], "s1430": ["m_seat1430"], "s1400": ["m_seat1400"], "pegaso": ["m_pegaso"],
     "r5": ["m_r5"], "s127": ["m_seat127"],
-    "mix": ["m_seat1430", "m_2cv", "m_dauphine", "m_seat124"],
+    "mix": ["h_calle", "h_concesionario"],
 }
 CLIPS = json.load(open(os.path.join(HERE, "clips.json")))
 GENERIC = CLIPS.pop("_generic", [])
@@ -23,7 +23,7 @@ RES = ["m_vocho/10", "m_seat1400/2", "m_pegaso/5", "m_biscuter/5", "m_seat600/1"
 A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FALLBACK, [], reserved=RES)
 A.THEME = "race"
 A.CLIP_TARGET = 0.0
-A.MAX_HOLD, A.KEEP = 14.0, 10.0
+A.MAX_HOLD, A.KEEP = 12.0, 8.0
 A.ARCHIVE_OK = True
 A.STRICT_POOLS = True
 A.SPLIT_BY_SUBJECT = True
@@ -56,9 +56,11 @@ c.at("Número ocho", rank(8, "Renault Dauphine", "m_dauphine", 7, "FASA · 1958"
 c.at("Por eso el Dauphine", P("dau"))
 c.at("Número siete", rank(7, "Citroën 2CV", "m_2cv", 1, "Vigo", "más caro de lo que parecía"))
 c.at("Pero no era tan barato", stat("91.500 pts", "Citroën 2CV · +40 % que un SEAT 600", "Autofácil", count=False))
+c.at("un cuarenta por ciento más", P("2cv"))
 c.at("Aun así, se convirtió", P("2cv"))
 c.at("Número seis", rank(6, "Volkswagen Sedán", "m_vocho", 1, "México · 1964", "años de salario mínimo"))
 c.at("Con ese sueldo", stat("2 años y 7 meses – 4 años", "de salario mínimo íntegro por un Vocho", "Motorpasión México", count=False))
+c.at("Sin comer, sin pagar renta", P("vocho"))
 c.at("Por eso el Vocho", P("vocho"))
 c.at("Y para que te hagas una idea", P("vocho"))
 chapters.append(c)
@@ -82,6 +84,7 @@ c.at("Por eso el 1400", P("s1400"))
 c.at("Y ahora sí", P("pegaso"))
 c.at("Número uno", rank(1, "Pegaso Z-102", "m_pegaso", 11, "ENASA · años 50", "el más caro de todos"))
 c.at("¿Cuánto costaba?", stat("500.000 pts", "Pegaso Z-102 · un SEAT 600: ≈70.000", "según las fuentes", count=False))
+c.at("Es decir, con el dinero", P("pegaso"))
 c.at("Por eso casi nadie lo compró", P("pegaso"))
 c.at("Piénsalo un momento", P("bisc"))
 chapters.append(c)

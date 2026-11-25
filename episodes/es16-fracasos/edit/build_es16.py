@@ -12,18 +12,18 @@ PHOTOS = {
     "carab": ["m_carabela"], "ditella": ["m_ditella"], "autoar": ["m_autoar"], "cis": ["m_cisitalia"],
     "stude": ["m_studebaker"], "dart": ["m_dodgedart"], "authi": ["m_authi"], "vam": ["m_vam"],
     "just": ["m_justicialista"], "pegaso": ["m_pegaso"], "borg": ["m_borgward"], "fac": ["h_factory"],
-    "mix": ["h_factory", "m_vam", "m_studebaker", "m_ditella"],
+    "mix": ["h_factory", "m_authi", "m_ditella"],
 }
 CLIPS = json.load(open(os.path.join(HERE, "clips.json")))
 GENERIC = CLIPS.pop("_generic", [])
 FALLBACK = {k: [] for k in PHOTOS}
-FALLBACK.update({"autoar": ["cis"], "cis": ["autoar"], "mix": ["carab", "authi"]})
+FALLBACK.update({"autoar": ["cis"], "cis": ["autoar"], "mix": ["dart"]})
 RES = ["m_borgward/1", "m_justicialista/11", "m_pegaso/5", "m_carabela/5", "m_ditella/2", "m_autoar/1", "m_studebaker/3",
        "m_dodgedart/4", "m_authi/2", "m_vam/7", "m_justicialista/1", "m_pegaso/11", "m_borgward/15"]
 A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FALLBACK, [], reserved=RES)
 A.THEME = "race"
 A.CLIP_TARGET = 0.0
-A.MAX_HOLD, A.KEEP = 8.0, 5.5
+A.MAX_HOLD, A.KEEP = 14.0, 10.0
 A.ARCHIVE_OK = True
 A.STRICT_POOLS = True
 A.SPLIT_BY_SUBJECT = True
@@ -70,6 +70,7 @@ c.at(0, rank(4, "VAM", "m_vam", 7, "México", "el fabricante del Estado"))
 c.at("Pero VAM nunca logró competir", P("vam"))
 c.at("Número tres", rank(3, "IAME Justicialista", "m_justicialista", 1, "Argentina · 1953", "el coche de Perón"))
 c.at("El proyecto era ambicioso", stat("178", "sedanes Justicialista fabricados (hasta 1955)", "Gustavo Feder", count=True))
+c.at("Y cuando ese año cayó", P("just"))
 c.at("Solo la camioneta", P("just"))
 c.at("Y hubo incluso un Justicialista deportivo", P("just"))
 chapters.append(c)
@@ -77,6 +78,7 @@ chapters.append(c)
 c = ch("ch04")
 c.at(0, rank(2, "Pegaso Z-102", "m_pegaso", 11, "ENASA · 1951", "una obra de arte… y un mal negocio"))
 c.at("Como coche, fue una obra de arte", stat("500.000 pts", "Pegaso Z-102 · un SEAT 600: ≈70.000", "según las fuentes", count=False))
+c.at("Solo se fabricaron unas ochenta", P("pegaso"))
 c.at("Y aquí está la gran paradoja", P("pegaso"))
 c.at("Número uno", rank(1, "Borgward México", "m_borgward", 15, "Nuevo León · 1967 – 1970", "una fábrica que duró tres años"))
 c.at("Unos años después", P("borg"))
@@ -86,9 +88,12 @@ c.at("Hoy, los Borgward fabricados en México", P("borg"))
 chapters.append(c)
 
 c = ch("ch05", 2.5)
-c.at(0, P("mix"))
-c.at("Y hay una lección", P("mix"))
-c.at("Y ahora te pregunto a ti", P("mix"))
+c.at(0, P("borg"))
+c.at("Otros por ser demasiado caros", P("pegaso"))
+c.at("Otros por las deudas", P("ditella"))
+c.at("Y otros, por la política", P("just"))
+c.at("Y hay una lección", P("cis"))
+c.at("Y ahora te pregunto a ti", P("carab"))
 c.at("Y si has llegado hasta aquí", cta("Gracias por llegar al final", "suscríbete y déjame tu opinión"))
 chapters.append(c)
 
