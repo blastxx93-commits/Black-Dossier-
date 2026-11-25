@@ -1,0 +1,28 @@
+{
+ "lang": "es",
+ "tagline": "Historia real del automóvil, con fuentes.",
+ "compact_credits": true,
+ "music": "Música: \"Movement Proposition\" — Kevin MacLeod (incompetech.com). Licencia: Creative Commons: By Attribution 4.0 — http://creativecommons.org/licenses/by/4.0/",
+ "credits_file": "episodes/es15-latam-fortuna/publish/creditos_completos.txt",
+ "other_line": "Imágenes: Wikimedia Commons y Openverse. Todas las imágenes son fotografías reales. Los precios son referencias de subastas y anuncios (precio pedido, no siempre pagado); el valor real depende del estado de cada coche.",
+ "intro": "Se vendían por nada… y hoy valen una fortuna. El Fiat 600 «Fitito», el Vocho mexicano, el Renault 4 «amigo fiel» de Colombia, el Ford Falcon Sprint, el IKA Torino y el Chevrolet Chevy Coupé SS, que hoy se anuncia por hasta sesenta mil dólares.\n\nVídeo divulgativo basado en fuentes publicadas.",
+ "chapters": [
+  "Se vendían por nada… hoy valen una fortuna",
+  "6 · Fiat 600 · 5 · Vocho",
+  "4 · Renault 4",
+  "3 · Falcon Sprint · 2 · IKA Torino",
+  "1 · Chevy Coupé SS",
+  "¿Tienes uno en el garaje?"
+ ],
+ "sources": [
+  "Mercado Libre Argentina: anuncios de Fiat 600, Falcon Sprint y Chevy SS",
+  "SDP Noticias: subasta de vehículos en Los Pinos",
+  "Autocosmos México: Vocho taxi vendido en Bring a Trailer",
+  "Portafolio: precios del Renault 4 en Colombia",
+  "Artcurial / Motor1: Renault 4 Plein Air (Rétromobile 2026)",
+  "Infonegocios: precios del Ford Falcon Sprint",
+  "iProfesional y Aire de Santa Fe: precios del Torino",
+  "MDZ: Chevy Coupé SS 1971"
+ ],
+ "tags_line": "#autosclasicos #chevyss #torino #fordfalcon #vocho"
+}
