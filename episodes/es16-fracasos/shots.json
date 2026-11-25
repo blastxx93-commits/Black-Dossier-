@@ -1,0 +1,116 @@
+{
+ "defaults": {
+  "n": 12,
+  "sources": [
+   "commons",
+   "openverse",
+   "loc"
+  ]
+ },
+ "shots": [
+  {
+   "id": "m_carabela",
+   "query": "Kaiser Carabela",
+   "alt": [
+    "IKA Carabela",
+    "Kaiser Manhattan 1955"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_ditella",
+   "query": "Siam Di Tella 1500",
+   "alt": [
+    "Di Tella 1500",
+    "Siam Di Tella Argentina"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_autoar",
+   "query": "Autoar Argentina",
+   "alt": [
+    "Autoar sedan",
+    "Cisitalia Autoar"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_studebaker",
+   "query": "Studebaker Lark",
+   "alt": [
+    "Studebaker Lark 1962",
+    "Studebaker 1960 sedan"
+   ],
+   "n": 10
+  },
+  {
+   "id": "m_dodgedart",
+   "query": "Dodge Dart Barreiros",
+   "alt": [
+    "Dodge Dart España",
+    "Dodge Dart 270",
+    "Barreiros Dodge"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_authi",
+   "query": "Mini Authi",
+   "alt": [
+    "Austin Victoria",
+    "Authi Mini 1275",
+    "Morris 1100 Authi"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_vam",
+   "query": "VAM Lerma",
+   "alt": [
+    "VAM Rambler American",
+    "VAM American México",
+    "VAM Lerma 620"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_justicialista",
+   "query": "IAME Justicialista",
+   "alt": [
+    "Justicialista auto",
+    "Justicialista Sport",
+    "Institec Justicialista"
+   ],
+   "n": 12
+  },
+  {
+   "id": "m_pegaso",
+   "query": "Pegaso Z-102",
+   "alt": [
+    "Pegaso Z102 Touring",
+    "Pegaso Z-102 Saoutchik"
+   ],
+   "n": 16
+  },
+  {
+   "id": "m_borgward",
+   "query": "Borgward 230",
+   "alt": [
+    "Borgward P100",
+    "Borgward Grosser",
+    "Borgward México"
+   ],
+   "n": 16
+  },
+  {
+   "id": "h_factory",
+   "query": "vintage car assembly line 1960s",
+   "alt": [
+    "fábrica de automóviles antigua",
+    "car factory 1960"
+   ],
+   "n": 8
+  }
+ ]
+}
