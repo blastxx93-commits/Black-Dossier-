@@ -39,21 +39,24 @@
    "n": 18
   },
   {
-   "id": "m_superbee",
-   "query": "Valiant Super Bee",
+   "id": "m_superbee2",
+   "query": "Valiant Super Bee 1972",
    "alt": [
-    "Valiant Super Bee Mexico",
-    "Chrysler Valiant Super Bee",
-    "Dodge Valiant Super Bee"
+    "Valiant Super Bee México",
+    "Valiant Duster México",
+    "Chrysler de México Super Bee",
+    "Valiant Super Bee 1974"
    ],
    "n": 14
   },
   {
-   "id": "m_falcon",
-   "query": "Ford Falcon Sprint",
+   "id": "m_falcon2",
+   "query": "Ford Falcon argentino",
    "alt": [
-    "Ford Falcon Argentina",
-    "Ford Falcon Futura Sprint"
+    "Ford Falcon Futura 1978",
+    "Ford Falcon Sprint 1979",
+    "Ford Falcon Ghia Argentina",
+    "Ford Falcon Rural Argentina"
    ],
    "n": 18
   },
