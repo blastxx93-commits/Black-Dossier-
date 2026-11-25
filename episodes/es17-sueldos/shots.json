@@ -113,6 +113,25 @@
     "Renault 5 primera generación"
    ],
    "n": 10
+  },
+  {
+   "id": "h_calle",
+   "query": "Gran Vía Madrid 1960 coches",
+   "alt": [
+    "Barcelona 1960 tráfico",
+    "Madrid años 60 calle",
+    "Spain 1960s street cars"
+   ],
+   "n": 14
+  },
+  {
+   "id": "h_concesionario",
+   "query": "car dealership 1960s",
+   "alt": [
+    "concesionario coches años 60",
+    "salón del automóvil 1960"
+   ],
+   "n": 10
   }
  ]
 }
