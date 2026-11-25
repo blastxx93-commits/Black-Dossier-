@@ -9,7 +9,7 @@ import aus_kit as A
 from aus_kit import P, photo, rank, stat, say, cta, title, ch
 
 PHOTOS = {
-    "f600": ["m_fiat600"], "vocho": ["m_vocho"], "r4": ["m_r4"], "bee": ["m_superbee2"], "falcon": ["m_falcon", "m_falcon2"],
+    "f600": ["m_fiat600"], "vocho": ["m_vocho"], "r4": ["m_r4"], "falcon": ["m_falcon", "m_falcon2"],
     "torino": ["m_torino"], "chevy": ["m_chevy"], "barn": ["h_barn"],
     "mix": ["h_barn", "m_torino", "m_vocho"],
 }
@@ -38,11 +38,11 @@ c.at("Una advertencia antes de empezar", P("torino"))
 chapters.append(c)
 
 c = ch("ch01")
-c.at(0, rank(7, "Fiat 600", "m_fiat600", 4, "Argentina · 1960", "el «Fitito»"))
+c.at(0, rank(6, "Fiat 600", "m_fiat600", 4, "Argentina · 1960", "el «Fitito»"))
 c.at("Durante décadas, nadie le dio valor", P("f600"))
 c.at("En los anuncios de Mercado Libre", stat("2.800 – 16.000 US$", "Fiat 600 de 1965 · anuncios", "Mercado Libre", count=False))
 c.at("Nada mal para el coche", P("f600"))
-c.at("Número seis", rank(6, "Volkswagen Sedán", "m_vocho", 1, "México", "el «Vocho»"))
+c.at("Número cinco", rank(5, "Volkswagen Sedán", "m_vocho", 1, "México", "el «Vocho»"))
 c.at("Durante décadas fue tan común", P("vocho"))
 c.at("Pero en una subasta organizada en Los Pinos", stat("360.000 MXN", "Vocho de 1951 · subasta en Los Pinos", "según la fuente", count=False))
 c.at("Y en Estados Unidos", P("vocho"))
@@ -51,12 +51,9 @@ chapters.append(c)
 c = ch("ch02")
 c.at(0, say("¿Desde dónde nos estás viendo?", "VIENDO", 120))
 c.at("Y si todavía no estás suscrito", cta("Suscríbete", "historias de coches clásicos"))
-c.at("Número cinco", rank(5, "Renault 4", "m_r4", 3, "Envigado, Colombia · 1970", "el «amigo fiel»"))
+c.at("Número cuatro", rank(4, "Renault 4", "m_r4", 3, "Envigado, Colombia · 1970", "el «amigo fiel»"))
 c.at("Hoy, según un sondeo", stat("hasta 60 millones COP", "Renault 4 con placa de clásico · anuncios", "Portafolio", count=False))
 c.at("Y en Francia, una versión", stat("95.360 €", "Renault 4 Plein Air · Artcurial 2026", "Artcurial", count=False))
-c.at("Número cuatro", rank(4, "Valiant Super Bee", "m_superbee2", 1, "México · años 70", "el «muscle car» mexicano"))
-c.at("Muchos acabaron destrozados", P("bee"))
-c.at("Según el portal Autocosmos", stat("+400.000 MXN", "Valiant Super Bee mexicano (2022)", "Autocosmos", count=False))
 chapters.append(c)
 
 c = ch("ch03")
