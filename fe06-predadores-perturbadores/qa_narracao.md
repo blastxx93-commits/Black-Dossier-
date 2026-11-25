@@ -1,0 +1,37 @@
+# Conferência da narração (parágrafo a parágrafo)
+
+Temperatura 0.7, top_p 0.8, desvio máximo 2.0 semitom.
+
+| capítulo | parágrafo | tentativas | tom (Hz) | resultado |
+|---|---|---|---|---|
+| ch06 | 1 | 1 | 80 | ok |
+| ch06 | 2 | 1 | 120 | ok |
+| ch06 | 3 | 1 | 92 | ok |
+| ch06 | 4 | 1 | 93 | ok |
+| ch06 | 5 | 1 | 100 | ok |
+| ch06 | 6 | 1 | 96 | ok |
+| ch07 | 1 | 1 | 120 | ⚠ tom fora (120 Hz, +4.2 st) |
+| ch07 | 2 | 1 | 88 | ok |
+| ch07 | 3 | 1 | 93 | ok |
+| ch07 | 4 | 1 | 96 | ok |
+| ch07 | 5 | 1 | 96 | ok |
+| ch08 | 1 | 1 | 117 | ⚠ tom fora (117 Hz, +3.7 st) |
+| ch08 | 2 | 1 | 92 | ok |
+| ch08 | 3 | 1 | 82 | ⚠ tom fora (82 Hz, -2.1 st) |
+| ch08 | 4 | 1 | 96 | ok |
+| ch08 | 5 | 1 | 100 | ok |
+| ch08 | 6 | 1 | 107 | ok |
+| ch08 | 7 | 1 | 92 | ok |
+| ch09 | 1 | 1 | 119 | ⚠ tom fora (119 Hz, +3.8 st) |
+| ch09 | 2 | 1 | 97 | ok |
+| ch09 | 3 | 1 | 97 | ok |
+| ch09 | 4 | 1 | 103 | ok |
+| ch09 | 5 | 1 | 97 | ok |
+| ch09 | 6 | 1 | 89 | ok |
+| ch10 | 1 | 1 | 112 | ⚠ tom fora (112 Hz, +2.6 st) |
+| ch10 | 2 | 1 | 88 | ok |
+| ch10 | 3 | 1 | 105 | ok |
+| ch10 | 4 | 1 | 87 | ok |
+| ch10 | 5 | 1 | 87 | ok |
+| ch10 | 6 | 1 | 85 | ⚠ tom fora (85 Hz, -2.0 st) |
+| ch10 | 7 | 1 | 108 | ⚠ tom fora (108 Hz, +2.0 st) |
