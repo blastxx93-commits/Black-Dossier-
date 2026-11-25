@@ -1,0 +1,125 @@
+{
+ "defaults": {
+  "n": 3,
+  "sources": [
+   "commons",
+   "openverse",
+   "unsplash",
+   "pixabay"
+  ]
+ },
+ "shots": [
+  {
+   "id": "p_mantis",
+   "query": "praying mantis",
+   "alt": [
+    "Mantis religiosa"
+   ],
+   "n": 5
+  },
+  {
+   "id": "p_mantisbird",
+   "query": "mantis hummingbird",
+   "alt": [
+    "mantis eating"
+   ],
+   "n": 5
+  },
+  {
+   "id": "p_jwasp",
+   "query": "Ampulex compressa",
+   "alt": [
+    "emerald cockroach wasp"
+   ],
+   "n": 5
+  },
+  {
+   "id": "p_croc",
+   "query": "Crocodylus porosus",
+   "alt": [
+    "saltwater crocodile"
+   ],
+   "n": 5
+  },
+  {
+   "id": "p_komodo",
+   "query": "Varanus komodoensis",
+   "alt": [
+    "Komodo dragon"
+   ],
+   "n": 5
+  },
+  {
+   "id": "p_orca",
+   "query": "killer whale hunting",
+   "alt": [
+    "Orcinus orca"
+   ],
+   "n": 5
+  },
+  {
+   "id": "p_angler",
+   "query": "anglerfish",
+   "alt": [
+    "Melanocetus"
+   ],
+   "n": 5
+  },
+  {
+   "id": "p_spitting",
+   "query": "Scytodes",
+   "alt": [
+    "spitting spider"
+   ],
+   "n": 5
+  },
+  {
+   "id": "p_bolas",
+   "query": "bolas spider",
+   "alt": [
+    "Mastophora"
+   ],
+   "n": 5
+  },
+  {
+   "id": "p_anaconda",
+   "query": "Eunectes murinus",
+   "alt": [
+    "green anaconda"
+   ],
+   "n": 5
+  },
+  {
+   "id": "p_octopus",
+   "query": "octopus",
+   "alt": [
+    "Octopus vulgaris"
+   ],
+   "n": 5
+  },
+  {
+   "id": "p_cat",
+   "query": "cat hunting",
+   "alt": [
+    "cat with prey"
+   ],
+   "n": 5
+  },
+  {
+   "id": "p_seal",
+   "query": "seal on ice floe",
+   "alt": [
+    "leopard seal"
+   ],
+   "n": 5
+  },
+  {
+   "id": "p_komodoisland",
+   "query": "Komodo island",
+   "alt": [
+    "Komodo National Park"
+   ],
+   "n": 5
+  }
+ ]
+}

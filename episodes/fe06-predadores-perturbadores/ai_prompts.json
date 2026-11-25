@@ -1,0 +1,28 @@
+{
+ "model": "black-forest-labs/flux-1.1-pro-ultra",
+ "raw": true,
+ "n": 1,
+ "style": ", photorealistic wildlife documentary still, natural light, sharp focus, cinematic 16:9, no text, no watermark",
+ "shots": [
+  {
+   "id": "ai_wasp_roach",
+   "prompt": "Macro photo of an emerald jewel wasp (metallic green body, red thighs) leading a cockroach by its antenna into a burrow, realistic macro photography",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_angler",
+   "prompt": "Deep sea anglerfish in total darkness with a glowing lure above its huge mouth full of long needle teeth, realistic underwater photography",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_orca_wave",
+   "prompt": "Group of orcas swimming side by side creating a wave toward a seal on an ice floe, Antarctica, aerial realistic photo",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_mantis_bird",
+   "prompt": "Praying mantis holding a hummingbird near a bird feeder, realistic macro wildlife photo",
+   "tier": "cheap"
+  }
+ ]
+}

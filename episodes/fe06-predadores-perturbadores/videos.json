@@ -1,0 +1,306 @@
+{
+ "defaults": {
+  "n": 3,
+  "clip": 8,
+  "sources": [
+   "pexels",
+   "pixabay",
+   "coverr"
+  ]
+ },
+ "shots": [
+  {
+   "id": "v_mantis",
+   "query": "praying mantis",
+   "alt": [
+    "mantis insect"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 12
+  },
+  {
+   "id": "v_wasp",
+   "query": "wasp",
+   "alt": [
+    "wasp insect",
+    "jewel wasp"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 8
+  },
+  {
+   "id": "v_roach",
+   "query": "cockroach",
+   "alt": [
+    "cockroaches"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 6
+  },
+  {
+   "id": "v_croc",
+   "query": "crocodile",
+   "alt": [
+    "saltwater crocodile",
+    "crocodile water"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 14
+  },
+  {
+   "id": "v_zebra",
+   "query": "zebra river",
+   "alt": [
+    "wildebeest river crossing"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 6
+  },
+  {
+   "id": "v_komodo",
+   "query": "komodo dragon",
+   "alt": [
+    "komodo"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 12
+  },
+  {
+   "id": "v_monitor",
+   "query": "monitor lizard",
+   "alt": [
+    "varanus"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 6
+  },
+  {
+   "id": "v_orca",
+   "query": "orca",
+   "alt": [
+    "killer whale"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 14
+  },
+  {
+   "id": "v_seal",
+   "query": "seal ice",
+   "alt": [
+    "sea lion beach"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 8
+  },
+  {
+   "id": "v_deep",
+   "query": "deep sea",
+   "alt": [
+    "deep ocean",
+    "bioluminescence"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 10
+  },
+  {
+   "id": "v_angler",
+   "query": "anglerfish",
+   "alt": [
+    "deep sea fish"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 5
+  },
+  {
+   "id": "v_spider",
+   "query": "spider",
+   "alt": [
+    "spider web",
+    "jumping spider"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 14
+  },
+  {
+   "id": "v_anaconda",
+   "query": "anaconda",
+   "alt": [
+    "snake",
+    "boa constrictor"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 14
+  },
+  {
+   "id": "v_capybara",
+   "query": "capybara",
+   "alt": [
+    "capivara"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 8
+  },
+  {
+   "id": "v_caiman",
+   "query": "caiman",
+   "alt": [
+    "jacare"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 6
+  },
+  {
+   "id": "v_pantanal",
+   "query": "swamp river",
+   "alt": [
+    "wetland"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 6
+  },
+  {
+   "id": "v_octopus",
+   "query": "octopus",
+   "alt": [
+    "octopus hunting"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 14
+  },
+  {
+   "id": "v_crab",
+   "query": "crab",
+   "alt": [
+    "crab underwater"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 6
+  },
+  {
+   "id": "v_cat",
+   "query": "cat hunting",
+   "alt": [
+    "cat stalking",
+    "cat"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 14
+  },
+  {
+   "id": "v_bird",
+   "query": "bird",
+   "alt": [
+    "hummingbird",
+    "small bird"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 8
+  },
+  {
+   "id": "v_dark",
+   "query": "dark forest night",
+   "alt": [
+    "fog forest"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 6
+  },
+  {
+   "id": "v_reef",
+   "query": "coral reef",
+   "alt": [
+    "underwater fish"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 6
+  }
+ ]
+}
