@@ -17,6 +17,7 @@ from PIL import Image
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 W, H, FPS = 1920, 1080, 30
+OFFSET = 30.0  # seconds added to every inner-timeline position (a shot may start before its chunk)
 RED = "#e10600"
 
 
@@ -155,7 +156,9 @@ class Comp:
             self.at(f'tl.set(["#{i}l","#{i}r","#{i}s"],{{opacity:1}},{a:.3f});'
                     f'tl.fromTo("#{i}l",{{y:-1080}},{{y:0,duration:.5,ease:"power3.out"}},{a:.3f});'
                     f'tl.fromTo("#{i}r",{{y:1080}},{{y:0,duration:.5,ease:"power3.out"}},{a:.3f});'
-                    f'tl.fromTo("#{i}s",{{scaleY:0}},{{scaleY:1,duration:.4}},{a + .1:.3f});')
+                    f'tl.fromTo("#{i}s",{{scaleY:0}},{{scaleY:1,duration:.4}},{a + .1:.3f});'
+                    f'tl.fromTo("#{i}l .ph",{{x:40,scale:1}},{{x:-40,scale:1.08,duration:{max(.5, t + life - a):.3f},ease:"none"}},{a:.3f});'
+                    f'tl.fromTo("#{i}r .ph",{{x:-40,scale:1.08}},{{x:40,scale:1,duration:{max(.5, t + life - a):.3f},ease:"none"}},{a:.3f});')
         self._caption(s, t, d)
 
     def _caption(self, s, t, d):
@@ -173,7 +176,7 @@ class Comp:
         src = self.asset(s["src"])
         cred = esc((self.cr.get(s["src"], {}).get("license") or "").strip())
         self.els.append(f'<div class="clip" id="{i}" style="opacity:0"><video class="vid" id="{i}v" src="{src}" muted '
-                        f'data-start="{t:.3f}" data-duration="{d:.3f}" data-media-start="{s.get("start", 0)}"></video>'
+                        f'data-start="{t - OFFSET:.3f}" data-duration="{d:.3f}" data-media-start="{s.get("start", 0)}"></video>'
                         + (f'<div class="credit">{cred}</div>' if cred else "") + '</div>')
         self._enter(i, t, k, 1)
         self.at(f'tl.set("#{i}",{{opacity:0}},{t + d + self.OV:.3f});'
@@ -366,7 +369,7 @@ def build(wd, ep, proj, t_from=0.0, t_to=None):
         for s in ch["shots"]:
             d = float(s["dur"])
             if (t_to is None or t < t_to) and t + d > t_from:
-                getattr(c, s["type"], c.image)(s, t - t_from, d, k)
+                getattr(c, s["type"], c.image)(s, t - t_from + OFFSET, d, k)
             t += d; k += 1
     total = (t_to if t_to is not None else t) - t_from
     shutil.copy(gsap_path(), os.path.join(proj, "assets", "gsap.min.js"))
@@ -377,8 +380,11 @@ def build(wd, ep, proj, t_from=0.0, t_to=None):
 <script src="assets/gsap.min.js"></script><script>
 const tl = gsap.timeline({{ paused: true, defaults: {{ immediateRender: false }} }});
 {chr(10).join(c.js)}
-tl.set({{}}, {{}}, {total:.3f});
-window.__timelines = window.__timelines || {{}}; window.__timelines["root"] = tl;
+tl.set({{}}, {{}}, {OFFSET + total:.3f});
+// shots that started before this chunk sit at positive times thanks to OFFSET; the root timeline just plays the window
+const root = gsap.timeline({{ paused: true }});
+root.add(tl.tweenFromTo({OFFSET:.3f}, {OFFSET + total:.3f}, {{ ease: "none", duration: {total:.3f} }}), 0);
+window.__timelines = window.__timelines || {{}}; window.__timelines["root"] = root;
 </script></body></html>"""
     open(os.path.join(proj, "index.html"), "w").write(page)
     return total
@@ -475,9 +481,18 @@ def main():
         if not os.path.exists(part):
             proj = os.path.join(wd, "hf_project")
             shutil.rmtree(proj, ignore_errors=True)
-            build(wd, ep, proj, t0, t1)
+            # pre-roll: start the chunk 1 s early so the previous shot is on screen under the incoming
+            # transition, then trim that second off (otherwise every chunk boundary is a hard cut)
+            pre = min(1.0, t0 - a.t_from)
+            build(wd, ep, proj, t0 - pre, t1)
             sh(["npx", "--prefix", HF, "hyperframes", "render", "-q", a.quality, "-w", a.workers, "-f", str(FPS),
-                "-o", part + ".tmp.mp4"], cwd=proj)
+                "-o", part + ".raw.mp4"], cwd=proj)
+            if pre > 0:
+                sh(["ffmpeg", "-v", "error", "-y", "-i", part + ".raw.mp4", "-vf", f"trim=start_frame={round(pre * FPS)},setpts=PTS-STARTPTS",
+                    "-an", "-c:v", "libx264", "-preset", "fast", "-crf", "14", "-pix_fmt", "yuv420p", part + ".tmp.mp4"])
+                os.remove(part + ".raw.mp4")
+            else:
+                os.replace(part + ".raw.mp4", part + ".tmp.mp4")
             os.replace(part + ".tmp.mp4", part)
         parts.append(part)
         t0, k = t1, k + 1
