@@ -176,7 +176,7 @@ def build(wd, cards, proj, theme=None):
     if os.path.exists(proj):
         shutil.rmtree(proj)
     os.makedirs(os.path.join(proj, "m")); os.makedirs(os.path.join(proj, "fonts"))
-    for f in ("DMSerifDisplay-Regular.ttf", "Inter-SemiBold.otf", "Inter-Bold.otf", "InterDisplay-Black.otf", "BebasNeue-Regular.ttf"):
+    for f in ("DMSerifDisplay-Regular.ttf", "Inter-SemiBold.otf", "Inter-Bold.otf", "InterDisplay-Black.otf", "BebasNeue-Regular.ttf", "Oswald-SemiBold.ttf"):
         shutil.copy(os.path.join(HERE, "fonts", f), os.path.join(proj, "fonts", f))
     src = os.path.join(HF, "themes", theme) if theme else HF
     for f in ("cards.css", "cards.js"):

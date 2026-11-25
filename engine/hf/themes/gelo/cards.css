@@ -25,7 +25,7 @@ html, body { width: 1920px; height: 1080px; overflow: hidden; background: var(--
   color: var(--deep); background: var(--glacier); padding: 8px 16px 7px; }
 .chip.red { background: var(--red); color: var(--ice); } .chip.gold { background: var(--gold); }
 .line { height: 6px; background: var(--glacier); transform-origin: 0 50%; box-shadow: 0 0 18px rgba(124,200,242,.8); }
-.mask { display: inline-block; overflow: hidden; vertical-align: bottom; }
+.mask { display: inline-block; overflow: hidden; vertical-align: bottom; padding-top: .18em; margin-top: -.18em; }
 .mask > span { display: inline-block; }
 
 /* titulo */
