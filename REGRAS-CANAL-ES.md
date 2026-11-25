@@ -105,3 +105,8 @@ Mesmo motor (`engine/render_aus.py`, `engine/aus_kit.py`) e mesmas regras de mon
 
 ## Palavras-chave (25/11)
 Todo pacote de publicação leva `publish/palavras_chave.txt`, montado com pesquisa no vidIQ: termos de alta procura com volume e concorrência, termos de nicho e as tags prontas para copiar e colar. Dar prioridade a termos com volume alto e concorrência baixa (ex.: autos clásicos, autos de colección, autos antiguos, historia de autos).
+
+## Vocabulário: autos / carros / coches (25/11)
+- Título, thumbnail e tags: usar "autos" (às vezes "carros"). É o termo com mais busca e o que o público latino usa.
+- Narração: misturar. Usar "autos"/"carros" ao falar da América Latina e "coches" ao falar da Espanha.
+- Tags: sempre incluir as três formas (autos, carros, coches) para captar todas as buscas.
