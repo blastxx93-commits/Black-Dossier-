@@ -16,7 +16,7 @@ import argparse, csv, html, json, os, re, shutil, subprocess, sys
 from PIL import Image
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-W, H, FPS = 1920, 1080, 24
+W, H, FPS = 1920, 1080, 30
 RED = "#e10600"
 
 
@@ -93,6 +93,27 @@ class Comp:
     def _v(d):
         return "{" + ",".join(f"{k}:{v}" for k, v in d.items()) + "}"
 
+    # transitions between photos (owner 25/11/2026: no stutter, no jump cuts, more professional):
+    # the outgoing photo keeps moving under the incoming one for OV seconds while it blends in.
+    OV = 0.45
+    TRANS = ["fade", "whip", "wipe", "zoom", "fade", "wipe", "whip", "zoom"]
+
+    def _enter(self, i, t, k, dr):
+        kind = self.TRANS[k % len(self.TRANS)]
+        ov = self.OV
+        if kind == "fade":
+            self.at(f'tl.fromTo("#{i}",{{opacity:0}},{{opacity:1,duration:{ov},ease:"power1.inOut"}},{t:.3f});')
+        elif kind == "whip":
+            self.at(f'tl.set("#{i}",{{opacity:1}},{t:.3f});'
+                    f'tl.fromTo("#{i}",{{x:{1920 * dr},filter:"blur(22px)"}},{{x:0,filter:"blur(0px)",duration:{ov},ease:"power3.out"}},{t:.3f});'
+                    f'tl.fromTo("#speed",{{opacity:.5,x:0}},{{opacity:0,x:{-500 * dr},duration:{ov}}},{t:.3f});')
+        elif kind == "wipe":
+            frm = "inset(0% 100% 0% 0%)" if dr > 0 else "inset(0% 0% 0% 100%)"
+            self.at(f'tl.set("#{i}",{{opacity:1}},{t:.3f});'
+                    f'tl.fromTo("#{i}",{{clipPath:"{frm}"}},{{clipPath:"inset(0% 0% 0% 0%)",duration:{ov},ease:"power2.inOut"}},{t:.3f});')
+        else:  # zoom-through
+            self.at(f'tl.fromTo("#{i}",{{opacity:0,scale:1.18}},{{opacity:1,scale:1,duration:{ov},ease:"power2.out"}},{t:.3f});')
+
     def image(self, s, t, d, k):
         i = self.id("im")
         src = self.asset(s["src"])
@@ -100,43 +121,42 @@ class Comp:
         card = (k % 5 == 3) and d >= 3.0          # every few shots: the photo arrives as a tilted card over its own blurred copy
         split = (k % 7 == 5) and d >= 4.5         # sometimes: split screen with two crops of the same photo
         inner = (f'<div class="ph blur" style="background-image:url({src})"></div><div class="cardph" id="{i}p" style="background-image:url({src})"></div>'
-                 if card else f'<div class="ph" id="{i}p" style="background-image:url({src})"></div>')
+                 if card else f'<div class="ph" id="{i}w"><div class="ph" id="{i}p" style="inset:0;background-image:url({src})"></div></div>')
         extra = ""
         if split:
             extra = (f'<div class="half" id="{i}l" style="left:0;opacity:0"><div class="ph" style="background-image:url({src});background-position:30% 50%;inset:-10%"></div></div>'
                      f'<div class="half" id="{i}r" style="left:50%;opacity:0"><div class="ph" style="background-image:url({src});background-position:75% 40%;inset:-30%"></div></div>'
                      f'<div class="splitline" id="{i}s" style="opacity:0"></div>')
-        self.els.append(f'<div class="clip" id="{i}" style="opacity:0">{inner}'
-                        f'<div class="ph ghost" id="{i}g" style="background-image:url({src})"></div>{extra}'
+        self.els.append(f'<div class="clip" id="{i}" style="opacity:0">{inner}{extra}'
                         + (f'<div class="credit">{cred}</div>' if cred else "") + '</div>')
         dr = 1 if k % 2 == 0 else -1
-        self.at(f'tl.set("#{i}",{{opacity:1}},{t:.3f});tl.set("#{i}",{{opacity:0}},{t + d:.3f});')
-        self.at(f'tl.fromTo("#{i}g",{{opacity:.55,x:{120 * dr}}},{{opacity:0,x:0,duration:.3}},{t:.3f});')
-        self.flash(t, dr)
+        ov = self.OV
+        life = d + ov                              # stays visible (and moving) under the next shot's transition
+        self._enter(i, t, k, dr)
+        self.at(f'tl.set("#{i}",{{opacity:0}},{t + life:.3f});')
         if card:
-            self.at(f'tl.fromTo("#{i}p",{{x:{900 * dr},rotation:{6 * dr},scale:.9}},{{x:0,rotation:{-1.5 * dr},scale:1,duration:.45,ease:"expo.out"}},{t:.3f});'
-                    f'tl.to("#{i}p",{{rotation:{1.2 * dr},scale:1.07,x:{-40 * dr},duration:{d - .5:.3f},ease:"none"}},{t + .45:.3f});')
+            self.at(f'tl.fromTo("#{i}p",{{x:{700 * dr},rotation:{5 * dr},scale:.92}},{{x:0,rotation:{-1.5 * dr},scale:1,duration:.6,ease:"power3.out"}},{t:.3f});'
+                    f'tl.to("#{i}p",{{rotation:{1.2 * dr},scale:1.07,x:{-40 * dr},duration:{life - .6:.3f},ease:"none"}},{t + .6:.3f});')
             return self._caption(s, t, d)
-        # cut the hold into ~2.2 s beats, each with a different camera move
-        beats = max(1, int(d // 1.8))
-        seg = d / beats
-        for b in range(beats):
-            a = t + b * seg
-            m0, m1 = self.MOVES[(k * 3 + b) % len(self.MOVES)]
-            if b == 0:
-                ent = dict(m0); ent["x"] = m0["x"] + 260 * dr; ent["scale"] = m0["scale"] + .08
-                self.at(f'tl.fromTo("#{i}p",{self._v(ent)},{{...{self._v(m0)},duration:.32,ease:"expo.out"}},{a:.3f});')
-                self.at(f'tl.to("#{i}p",{{...{self._v(m1)},duration:{max(.1, seg - .34):.3f},ease:"sine.inOut"}},{a + .32:.3f});')
-            else:
-                self.at(f'tl.set("#{i}p",{self._v(m0)},{a:.3f});')
-                self.at(f'tl.fromTo("#speed",{{opacity:.45,x:0}},{{opacity:0,x:{-300 * dr},duration:.22}},{a:.3f});')
-                self.at(f'tl.to("#{i}p",{{...{self._v(m1)},duration:{max(.1, seg - .02):.3f},ease:"sine.inOut"}},{a:.3f});')
+        # one continuous camera move for the whole life of the photo (never stops, never jumps);
+        # its travel grows with the hold so short shots feel fast and long shots keep drifting
+        m0, m1 = self.MOVES[(k * 3) % len(self.MOVES)]
+        g = min(1.6, max(.8, life / 4.0))
+        a0 = {kk: (v if kk == "scale" else v * g) for kk, v in m0.items()}
+        a1 = {kk: (v if kk == "scale" else v * g) for kk, v in m1.items()}
+        self.at(f'tl.fromTo("#{i}p",{self._v(a0)},{{...{self._v(a1)},duration:{life:.3f},ease:"none"}},{t:.3f});')
+        # long holds: smooth punch-ins on the wrapper (separate element, so they blend with the pan, no cut)
+        n = int(d // 3.2)
+        for b in range(1, n + 1):
+            a = t + b * d / (n + 1)
+            sc = 1.07 if b % 2 else 1.0
+            self.at(f'tl.to("#{i}w",{{scale:{sc},duration:.9,ease:"power2.inOut"}},{a - .45:.3f});')
         if split:
-            a = t + min(seg, d - 2.0)
+            a = t + min(d / 2, d - 2.0)
             self.at(f'tl.set(["#{i}l","#{i}r","#{i}s"],{{opacity:1}},{a:.3f});'
-                    f'tl.fromTo("#{i}l",{{y:-1080}},{{y:0,duration:.35,ease:"expo.out"}},{a:.3f});'
-                    f'tl.fromTo("#{i}r",{{y:1080}},{{y:0,duration:.35,ease:"expo.out"}},{a:.3f});'
-                    f'tl.fromTo("#{i}s",{{scaleY:0}},{{scaleY:1,duration:.3}},{a + .1:.3f});')
+                    f'tl.fromTo("#{i}l",{{y:-1080}},{{y:0,duration:.5,ease:"power3.out"}},{a:.3f});'
+                    f'tl.fromTo("#{i}r",{{y:1080}},{{y:0,duration:.5,ease:"power3.out"}},{a:.3f});'
+                    f'tl.fromTo("#{i}s",{{scaleY:0}},{{scaleY:1,duration:.4}},{a + .1:.3f});')
         self._caption(s, t, d)
 
     def _caption(self, s, t, d):
@@ -156,9 +176,9 @@ class Comp:
         self.els.append(f'<div class="clip" id="{i}" style="opacity:0"><video class="vid" id="{i}v" src="{src}" muted '
                         f'data-start="{t:.3f}" data-duration="{d:.3f}" data-media-start="{s.get("start", 0)}"></video>'
                         + (f'<div class="credit">{cred}</div>' if cred else "") + '</div>')
-        self.at(f'tl.set("#{i}",{{opacity:1}},{t:.3f});tl.set("#{i}",{{opacity:0}},{t + d:.3f});'
-                f'tl.fromTo("#{i}v",{{scale:1.15}},{{scale:1.04,duration:{d:.3f},ease:"none"}},{t:.3f});')
-        self.flash(t, 1)
+        self._enter(i, t, k, 1)
+        self.at(f'tl.set("#{i}",{{opacity:0}},{t + d + self.OV:.3f});'
+                f'tl.fromTo("#{i}v",{{scale:1.15}},{{scale:1.04,duration:{d + self.OV:.3f},ease:"none"}},{t:.3f});')
 
     def rank(self, s, t, d, k):
         i = self.id("rk")
@@ -175,14 +195,15 @@ class Comp:
   <div class="tag" id="{i}t" style="left:680px;top:690px">{esc(s.get("tag", ""))}</div>
   <div class="tag small" id="{i}s" style="left:680px;top:740px">{esc(s.get("sub", ""))}</div>
   {f'<div class="credit">{cred}</div>' if cred else ""}</div>''')
-        self.at(f'''tl.set("#{i}",{{opacity:1,x:0}},{t:.3f});
-tl.fromTo("#{i}p",{{scale:1.3}},{{scale:1.05,duration:{d:.3f},ease:"power2.out"}},{t:.3f});
+        self.at(f'''tl.set("#{i}",{{opacity:1}},{t:.3f});
+tl.fromTo("#{i}",{{x:1920,filter:"blur(22px)"}},{{x:0,filter:"blur(0px)",duration:.42,ease:"power3.out"}},{t:.3f});
+tl.fromTo("#{i}p",{{scale:1.3}},{{scale:1.05,duration:{d:.3f},ease:"none"}},{t:.3f});
 tl.fromTo("#{i}b",{{x:-2600}},{{x:0,duration:.35,ease:"power4.out"}},{t + .05:.3f});
 tl.fromTo("#{i}n",{{scale:2.6,opacity:0}},{{scale:1,opacity:1,duration:.28,ease:"power4.in"}},{t + .15:.3f});
 tl.fromTo("#{i}a",{{x:300,opacity:0}},{{x:0,opacity:1,duration:.3,ease:"power3.out"}},{t + .6:.3f});
 tl.fromTo("#{i}c",{{x:500,opacity:0}},{{x:0,opacity:1,duration:.3,ease:"power3.out"}},{t + .75:.3f});
 tl.fromTo(["#{i}t","#{i}s"],{{opacity:0,y:20}},{{opacity:1,y:0,duration:.3}},{t + 1.0:.3f});
-tl.to("#{i}",{{x:-1920,duration:.25,ease:"power3.in"}},{t + d - .25:.3f});tl.set("#{i}",{{opacity:0}},{t + d:.3f});
+tl.to("#{i}",{{x:-1920,filter:"blur(22px)",duration:.4,ease:"power3.in"}},{t + d - .2:.3f});tl.set("#{i}",{{opacity:0}},{t + d + .2:.3f});
 ''')
         self.shake(t + .43)
         h = self.id("hud")
@@ -203,7 +224,7 @@ tl.to("#{i}",{{x:-1920,duration:.25,ease:"power3.in"}},{t + d - .25:.3f});tl.set
   <div class="big center" id="{i}v" style="top:{450 - fs // 2}px;font-size:{fs}px">{v}</div>
   <div class="tag center" id="{i}l" style="top:760px">{esc(s["label"])}</div>
   <div class="src" id="{i}s">{("FUENTE: " + esc(s.get("source"))) if s.get("source") else ""}</div></div>''')
-        self.at(f'''tl.set("#{i}",{{opacity:1}},{t:.3f});tl.set("#{i}",{{opacity:0}},{t + ov:.3f});
+        self.at(f'''tl.fromTo("#{i}",{{opacity:0}},{{opacity:1,duration:.3,ease:"power1.out"}},{t:.3f});tl.to("#{i}",{{opacity:0,duration:.3,ease:"power1.in"}},{t + ov - .3:.3f});
 tl.fromTo("#{i}b",{{x:-2600}},{{x:0,duration:.3,ease:"power4.out"}},{t:.3f});
 tl.fromTo("#{i}v",{{scale:3,opacity:0}},{{scale:1,opacity:1,duration:.22,ease:"power4.in"}},{t + .1:.3f});
 tl.fromTo("#{i}l",{{opacity:0,y:20}},{{opacity:1,y:0,duration:.3}},{t + .45:.3f});
@@ -222,7 +243,7 @@ tl.fromTo("#speed",{{opacity:.8,x:0}},{{opacity:0,x:-800,duration:1.2}},{t + .3:
         fs = 150 if len(s["text"]) < 28 else (118 if len(s["text"]) < 46 else 92)
         self.els.append(f'<div class="clip ov" id="{i}" style="opacity:0"><div class="stripe2" id="{i}b"></div>'
                         f'<div class="big center wrap" id="{i}x" style="top:330px;font-size:{fs}px">{" ".join(words)}</div></div>')
-        self.at(f'''tl.set("#{i}",{{opacity:1}},{t:.3f});tl.set("#{i}",{{opacity:0}},{t + ov:.3f});
+        self.at(f'''tl.fromTo("#{i}",{{opacity:0}},{{opacity:1,duration:.3,ease:"power1.out"}},{t:.3f});tl.to("#{i}",{{opacity:0,duration:.3,ease:"power1.in"}},{t + ov - .3:.3f});
 tl.fromTo("#{i}b",{{scaleX:0}},{{scaleX:1,duration:.3,ease:"power4.out"}},{t:.3f});
 tl.fromTo("#{i}x",{{scale:1.8,opacity:0}},{{scale:1,opacity:1,duration:.25,ease:"power4.in"}},{t + .05:.3f});''')
         self.shake(t + .3)
@@ -239,8 +260,8 @@ tl.fromTo("#{i}x",{{scale:1.8,opacity:0}},{{scale:1,opacity:1,duration:.25,ease:
   <div class="big" id="{i}x" style="left:110px;top:330px;font-size:{170 if len(s["title"]) < 22 else 125}px">{esc(s["title"])}</div>
   <div class="chip" id="{i}s" style="left:118px;top:580px">{esc(s.get("subtitle", ""))}</div>
   <div class="tag" id="{i}g" style="left:124px;top:680px">{esc(s.get("tag", ""))}</div></div>''')
-        self.at(f'''tl.set("#{i}",{{opacity:1}},{t:.3f});tl.set("#{i}",{{opacity:0}},{t + d:.3f});
-{f'tl.fromTo("#{i}p",{{scale:1.25}},{{scale:1.05,duration:{d:.3f}}},{t:.3f});' if bg else ''}
+        self.at(f'''tl.fromTo("#{i}",{{opacity:0}},{{opacity:1,duration:.3,ease:"power1.out"}},{t:.3f});tl.to("#{i}",{{opacity:0,duration:.3,ease:"power1.in"}},{t + d - .3:.3f});
+{f'tl.fromTo("#{i}p",{{scale:1.25}},{{scale:1.05,duration:{d:.3f},ease:"none"}},{t:.3f});' if bg else ''}
 tl.fromTo("#{i}b",{{x:-2600}},{{x:0,duration:.35,ease:"power4.out"}},{t:.3f});
 tl.fromTo("#{i}x",{{x:-1400}},{{x:0,duration:.35,ease:"expo.out"}},{t + .1:.3f});
 tl.fromTo("#{i}s",{{opacity:0,scale:.6}},{{opacity:1,scale:1,duration:.25,ease:"back.out(3)"}},{t + .45:.3f});
@@ -254,7 +275,7 @@ tl.fromTo("#{i}g",{{opacity:0}},{{opacity:1,duration:.3}},{t + .6:.3f});''')
         i = self.id("qs")
         rows = "".join(f'<div class="q" id="{i}q{j}"><span class="qn">{j + 1:02d}</span>{esc(x)}</div>' for j, x in enumerate(s["items"]))
         self.els.append(f'<div class="clip ov" id="{i}" style="opacity:0"><div class="qs">{rows}</div></div>')
-        self.at(f'tl.set("#{i}",{{opacity:1}},{t:.3f});tl.set("#{i}",{{opacity:0}},{t + ov:.3f});')
+        self.at(f'tl.fromTo("#{i}",{{opacity:0}},{{opacity:1,duration:.3,ease:"power1.out"}},{t:.3f});tl.to("#{i}",{{opacity:0,duration:.3,ease:"power1.in"}},{t + ov - .3:.3f});')
         for j, st in enumerate(s.get("starts", [0] * len(s["items"]))):
             self.at(f'tl.fromTo("#{i}q{j}",{{x:-900,opacity:0}},{{x:0,opacity:1,duration:.3,ease:"power4.out"}},{t + st / FPS:.3f});')
 
@@ -265,7 +286,7 @@ tl.fromTo("#{i}g",{{opacity:0}},{{opacity:1,duration:.3}},{t + .6:.3f});''')
         self.els.append(f'''<div class="clip ov" id="{i}" style="opacity:0"><div class="bar" id="{i}b" style="top:470px;height:180px"></div>
   <div class="big center" id="{i}x" style="top:440px;font-size:200px">{esc(s["text"].upper())}</div>
   <div class="tag center" id="{i}s" style="top:700px">{esc(s.get("sub", ""))}</div></div>''')
-        self.at(f'''tl.set("#{i}",{{opacity:1}},{t:.3f});tl.set("#{i}",{{opacity:0}},{t + ov:.3f});
+        self.at(f'''tl.fromTo("#{i}",{{opacity:0}},{{opacity:1,duration:.3,ease:"power1.out"}},{t:.3f});tl.to("#{i}",{{opacity:0,duration:.3,ease:"power1.in"}},{t + ov - .3:.3f});
 tl.fromTo("#{i}b",{{x:-2600}},{{x:0,duration:.3,ease:"power4.out"}},{t:.3f});
 tl.fromTo("#{i}x",{{scale:2.5,opacity:0}},{{scale:1,opacity:1,duration:.25,ease:"power4.in"}},{t + .1:.3f});
 tl.fromTo("#{i}s",{{opacity:0}},{{opacity:1,duration:.3}},{t + .5:.3f});''')
