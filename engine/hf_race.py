@@ -472,6 +472,15 @@ def main():
     for c in ep["chapters"]:
         for s in c["shots"]:
             acc += float(s["dur"]); edges.append(acc)
+    # chunks are reused only while the edit and the template are unchanged: otherwise a fixed photo
+    # would silently keep the old render
+    import glob, hashlib
+    key = hashlib.md5(json.dumps(ep, sort_keys=True).encode() + open(__file__, "rb").read()
+                      + f"{a.t_from}|{t_to}|{a.chunk}|{a.quality}".encode()).hexdigest()
+    kf = os.path.join(wd, "hf_parts.key")
+    if not os.path.exists(kf) or open(kf).read().strip() != key:
+        for f in glob.glob(os.path.join(wd, "hf_part*.mp4*")): os.remove(f)
+        open(kf, "w").write(key)
     parts, t0, k = [], a.t_from, 0
     while t0 < t_to - 1e-3:
         # cut only on shot boundaries, so no shot is split between two chunks
