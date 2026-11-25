@@ -1,0 +1,107 @@
+{
+ "defaults": {
+  "n": 12,
+  "sources": [
+   "commons",
+   "openverse",
+   "loc"
+  ]
+ },
+ "shots": [
+  {
+   "id": "m_datsun",
+   "query": "Datsun Bluebird 410",
+   "alt": [
+    "Datsun Bluebird 1966",
+    "Datsun 410 sedan"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_simca",
+   "query": "Simca 1000",
+   "alt": [
+    "Simca 1000 Colombia",
+    "Simca 1000 sedan 1970"
+   ],
+   "n": 16
+  },
+  {
+   "id": "m_r12",
+   "query": "Renault 12",
+   "alt": [
+    "Renault 12 TS",
+    "Renault 12 break familiar",
+    "Renault 12 Argentina"
+   ],
+   "n": 18
+  },
+  {
+   "id": "m_seat600",
+   "query": "SEAT 600",
+   "alt": [
+    "Seat 600 D",
+    "Seat 600 E"
+   ],
+   "n": 16
+  },
+  {
+   "id": "m_fiat600",
+   "query": "Fiat 600",
+   "alt": [
+    "Fiat 600 Argentina",
+    "Fiat 600 D",
+    "Fiat 600 R"
+   ],
+   "n": 18
+  },
+  {
+   "id": "m_r4",
+   "query": "Renault 4",
+   "alt": [
+    "Renault 4 GTL",
+    "Renault 4 Colombia",
+    "Renault 4L"
+   ],
+   "n": 18
+  },
+  {
+   "id": "m_falcon",
+   "query": "Ford Falcon Argentina",
+   "alt": [
+    "Ford Falcon Futura",
+    "Ford Falcon sedan 1970s",
+    "Ford Falcon 1962"
+   ],
+   "n": 18
+  },
+  {
+   "id": "m_vocho",
+   "query": "Volkswagen Sedán México",
+   "alt": [
+    "vocho taxi",
+    "Volkswagen Beetle Mexico",
+    "VW Sedan Puebla"
+   ],
+   "n": 18
+  },
+  {
+   "id": "h_vochotaxi",
+   "query": "vocho taxi Ciudad de México",
+   "alt": [
+    "Mexico City VW Beetle taxi",
+    "green beetle taxi Mexico"
+   ],
+   "n": 10
+  },
+  {
+   "id": "h_familia",
+   "query": "vintage family car 1960s",
+   "alt": [
+    "familia coche antiguo",
+    "classic car family photo"
+   ],
+   "n": 8
+  }
+ ]
+}

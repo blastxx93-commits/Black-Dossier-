@@ -1,0 +1,99 @@
+{
+ "defaults": {
+  "n": 12,
+  "sources": [
+   "commons",
+   "openverse",
+   "loc"
+  ]
+ },
+ "shots": [
+  {
+   "id": "m_fiat600",
+   "query": "Fiat 600",
+   "alt": [
+    "Fiat 600 Argentina",
+    "Fiat 600 D",
+    "Fiat 600 Abarth"
+   ],
+   "n": 18
+  },
+  {
+   "id": "m_vocho",
+   "query": "Volkswagen Sedán México",
+   "alt": [
+    "vocho",
+    "Volkswagen Beetle Mexico taxi",
+    "VW Beetle 1951"
+   ],
+   "n": 18
+  },
+  {
+   "id": "m_r4",
+   "query": "Renault 4",
+   "alt": [
+    "Renault 4 GTL",
+    "Renault 4 Plein Air",
+    "Renault 4L"
+   ],
+   "n": 18
+  },
+  {
+   "id": "m_superbee",
+   "query": "Valiant Super Bee",
+   "alt": [
+    "Valiant Super Bee Mexico",
+    "Chrysler Valiant Super Bee",
+    "Dodge Valiant Super Bee"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_falcon",
+   "query": "Ford Falcon Sprint",
+   "alt": [
+    "Ford Falcon Argentina",
+    "Ford Falcon Futura Sprint"
+   ],
+   "n": 18
+  },
+  {
+   "id": "m_torino",
+   "query": "IKA Torino",
+   "alt": [
+    "Torino 380W",
+    "IKA Torino coupe",
+    "Torino Nurburgring"
+   ],
+   "n": 18
+  },
+  {
+   "id": "m_chevy",
+   "query": "Chevrolet Chevy SS Argentina",
+   "alt": [
+    "Chevrolet Coupe SS",
+    "Chevy Coupé SS",
+    "Chevrolet Chevy 1970 Argentina"
+   ],
+   "n": 18
+  },
+  {
+   "id": "h_auction",
+   "query": "classic car auction",
+   "alt": [
+    "subasta autos clasicos",
+    "concours d'elegance"
+   ],
+   "n": 8
+  },
+  {
+   "id": "h_barn",
+   "query": "abandoned classic car",
+   "alt": [
+    "auto abandonado",
+    "barn find classic car"
+   ],
+   "n": 8
+  }
+ ]
+}
