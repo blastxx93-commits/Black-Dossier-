@@ -11,18 +11,18 @@ from aus_kit import P, photo, rank, stat, say, cta, title, ch
 PHOTOS = {
     "datsun": ["m_datsun"], "simca": ["m_simca"], "r12": ["m_r12"], "s600": ["m_seat600"], "f600": ["m_fiat600"],
     "r4": ["m_r4"], "falcon": ["m_falcon"], "vocho": ["m_vocho"], "taxi": ["h_vochotaxi"],
-    "mix": ["m_r12", "m_simca"],
+    "mix": ["m_r12", "m_simca", "m_datsun", "m_seat600"],
 }
 CLIPS = json.load(open(os.path.join(HERE, "clips.json")))
 GENERIC = CLIPS.pop("_generic", [])
 FALLBACK = {k: [] for k in PHOTOS}
-FALLBACK.update({"s600": ["f600"], "f600": ["s600"], "taxi": ["vocho"], "vocho": ["taxi"], "mix": ["datsun", "r4"]})
+FALLBACK.update({"s600": ["f600"], "f600": ["s600"], "taxi": ["vocho"], "vocho": ["taxi"], "mix": ["r4", "vocho"]})
 RES = ["m_vocho/1", "m_fiat600/7", "m_r4/2", "m_datsun/1", "m_simca/2", "m_r12/1", "m_seat600/1", "m_fiat600/13",
        "m_r4/5", "m_falcon/3", "m_vocho/16", "h_vochotaxi/3"]
 A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FALLBACK, [], reserved=RES)
 A.THEME = "race"
 A.CLIP_TARGET = 0.0
-A.MAX_HOLD, A.KEEP = 8.0, 5.5
+A.MAX_HOLD, A.KEEP = 10.0, 7.0
 A.ARCHIVE_OK = True
 A.STRICT_POOLS = True
 A.SPLIT_BY_SUBJECT = True
