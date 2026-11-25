@@ -79,14 +79,13 @@ class Comp:
 
     # ------------------------------------------------------------------ shots
     # camera moves for photos (owner 20/11/2026: less "slideshow", more kinds of movement than zoom)
+    # owner 25/11/2026: "a imagem vai indo e voltando" -> every move travels the SAME way (forward/left),
+    # always pushing in, never pulling back, and the direction never alternates between photos
     MOVES = [
-        ({"scale": 1.22, "x": -120, "y": 0, "rotation": 0}, {"scale": 1.22, "x": 120, "y": 0, "rotation": 0}),     # pan right
-        ({"scale": 1.24, "x": 0, "y": -80, "rotation": 0}, {"scale": 1.24, "x": 0, "y": 80, "rotation": 0}),       # tilt down
-        ({"scale": 1.04, "x": 0, "y": 0, "rotation": -1.6}, {"scale": 1.18, "x": 30, "y": 0, "rotation": 1.2}),     # push + roll
-        ({"scale": 1.22, "x": 120, "y": 0, "rotation": 0}, {"scale": 1.22, "x": -120, "y": 0, "rotation": 0}),     # pan left
-        ({"scale": 1.28, "x": 60, "y": 40, "rotation": 0}, {"scale": 1.06, "x": -40, "y": -20, "rotation": 0}),    # pull back
-        ({"scale": 1.2, "x": -90, "y": 60, "rotation": 0}, {"scale": 1.26, "x": 90, "y": -60, "rotation": 0}),     # diagonal drift
-        ({"scale": 1.24, "x": 0, "y": 80, "rotation": 0}, {"scale": 1.24, "x": 0, "y": -80, "rotation": 0}),       # tilt up
+        ({"scale": 1.10, "x": 110, "y": 0, "rotation": 0}, {"scale": 1.22, "x": -110, "y": 0, "rotation": 0}),     # push + travel left
+        ({"scale": 1.08, "x": 90, "y": 40, "rotation": 0}, {"scale": 1.24, "x": -90, "y": -40, "rotation": 0}),    # push + rise left
+        ({"scale": 1.06, "x": 60, "y": 0, "rotation": 0}, {"scale": 1.26, "x": -60, "y": 0, "rotation": 0}),       # strong push
+        ({"scale": 1.12, "x": 140, "y": -30, "rotation": 0}, {"scale": 1.20, "x": -140, "y": 30, "rotation": 0}),  # glide left
     ]
 
     @staticmethod
@@ -129,7 +128,7 @@ class Comp:
                      f'<div class="splitline" id="{i}s" style="opacity:0"></div>')
         self.els.append(f'<div class="clip" id="{i}" style="opacity:0">{inner}{extra}'
                         + (f'<div class="credit">{cred}</div>' if cred else "") + '</div>')
-        dr = 1 if k % 2 == 0 else -1
+        dr = 1
         ov = self.OV
         life = d + ov                              # stays visible (and moving) under the next shot's transition
         self._enter(i, t, k, dr)
@@ -140,7 +139,7 @@ class Comp:
             return self._caption(s, t, d)
         # one continuous camera move for the whole life of the photo (never stops, never jumps);
         # its travel grows with the hold so short shots feel fast and long shots keep drifting
-        m0, m1 = self.MOVES[(k * 3) % len(self.MOVES)]
+        m0, m1 = self.MOVES[k % len(self.MOVES)]
         g = min(1.6, max(.8, life / 4.0))
         a0 = {kk: (v if kk == "scale" else v * g) for kk, v in m0.items()}
         a1 = {kk: (v if kk == "scale" else v * g) for kk, v in m1.items()}
@@ -149,8 +148,8 @@ class Comp:
         n = int(d // 3.2)
         for b in range(1, n + 1):
             a = t + b * d / (n + 1)
-            sc = 1.07 if b % 2 else 1.0
-            self.at(f'tl.to("#{i}w",{{scale:{sc},duration:.9,ease:"power2.inOut"}},{a - .45:.3f});')
+            sc = 1 + .05 * b
+            self.at(f'tl.to("#{i}w",{{scale:{sc:.2f},duration:.9,ease:"power2.inOut"}},{a - .45:.3f});')
         if split:
             a = t + min(d / 2, d - 2.0)
             self.at(f'tl.set(["#{i}l","#{i}r","#{i}s"],{{opacity:1}},{a:.3f});'
