@@ -36,7 +36,8 @@ são próprios deste canal, baseados no nicho de clássicos (canal de referênci
 - **CTR (pedido do dono, 24/11/2026)**: todo tema vem com 3–5 títulos fortes e 2–3 ideias de thumbnail chamativa
   (no máximo 3–4 palavras, contraste forte, um carro grande e reconhecível, um elemento de curiosidade: preço, "PROHIBIDO",
   seta, X vermelho, antes/depois).
-- Duração: **17–22 min** (~2.800–3.400 palavras). Vídeos de 27–28 min renderam pouco no canal de referência.
+- Duração: **mínimo 12 min** (pedido do dono, 25/11/2026 — ~1.900–2.200 palavras de narração; a voz fala ~155 palavras/min).
+  Se faltar fato com fonte para chegar lá, aumentar a lista (10 itens) ou aprofundar cada item — nunca inventar.
 - **Temas de valor/preço (pedido do dono, 23/11/2026)**: só entram carros com preço real e citável (leilão, estimativa de casa
   de leilão ou anúncio datado). Carro sem preço encontrado fica fora da lista.
 - Fatos com fonte; afirmações disputadas com ressalva ("según…", "hay quien dice…"). Nada de inventar mortes ou recalls.
