@@ -1,0 +1,27 @@
+{
+ "lang": "es",
+ "tagline": "Historia real del automóvil, con fuentes.",
+ "compact_credits": true,
+ "music": "Música: \"Movement Proposition\" — Kevin MacLeod (incompetech.com). Licencia: Creative Commons: By Attribution 4.0 — http://creativecommons.org/licenses/by/4.0/",
+ "credits_file": "episodes/es16-fracasos/publish/creditos_completos.txt",
+ "other_line": "Imágenes: Wikimedia Commons y Openverse. Todas las imágenes son fotografías reales. Fechas y cifras aproximadas, según las fuentes citadas.",
+ "intro": "Fábricas enteras, gobiernos y millones invertidos… y coches que nadie quiso comprar. Del Kaiser Carabela y el Siam Di Tella de Argentina a Autoar, los Studebaker de Colombia, Barreiros y Authi en España, VAM en México, el Justicialista de Perón, el Pegaso Z-102… y Borgward México, la fábrica que solo duró tres años.\n\nVídeo divulgativo basado en fuentes publicadas.",
+ "chapters": [
+  "La fábrica que solo duró tres años",
+  "10 · Kaiser Carabela · 9 · Siam Di Tella",
+  "8 · Autoar · 7 · Studebaker Colombia · 6 · Barreiros · 5 · Authi",
+  "4 · VAM · 3 · Justicialista",
+  "2 · Pegaso Z-102 · 1 · Borgward México",
+  "La lección de los fracasos"
+ ],
+ "sources": [
+  "Valdés y Garza Guajardo, «Borgward en México» (Fondo Editorial Nuevo León) y revista Ingenierías UANL",
+  "La Nación / Parabrisas: el Justicialista (datos de Gustavo Feder)",
+  "Wikipedia: Kaiser Carabela, Siam Di Tella, Vehículos Automotores Mexicanos, Barreiros",
+  "El Cronista: historia de Siam Di Tella",
+  "Zwischengas / Autocosmos: Autoar y Piero Dusio",
+  "GM Colmotores (historia): Studebaker en Colombia",
+  "Diariomotor: el Dodge Dart español y Barreiros Diesel"
+ ],
+ "tags_line": "#autosclasicos #borgward #justicialista #pegaso #historia"
+}
