@@ -1,0 +1,87 @@
+[     0s] es17-sueldos: 12 planos, limite 35.0 min
+[     0s] m_biscuter: 'Biscúter'
+[     1s]     commons: 10 candidatos em 1.0s
+[     2s]     openverse: 12 candidatos em 0.8s
+[     8s]     loc: 0 candidatos em 6.2s
+[    27s]   -> 12 imagens
+[    27s] m_seat600: 'SEAT 600'
+[    27s]     commons: 10 candidatos em 0.4s
+[    27s]     openverse: 11 candidatos em 0.0s
+[    51s]   ! www.loc.gov: 429 rate limit
+[    51s]     loc: 0 candidatos em 24.0s
+[    59s]   -> 14 imagens
+[    59s] m_dauphine: 'Renault Dauphine'
+[    60s]     commons: 9 candidatos em 0.6s
+[    60s]     openverse: 9 candidatos em 0.6s
+[    84s]   ! www.loc.gov: 429 rate limit
+[    84s]     loc: 0 candidatos em 24.0s
+[    94s]   -> 14 imagens
+[    94s] m_2cv: 'Citroën 2CV'
+[    95s]     commons: 11 candidatos em 0.6s
+[    95s]     openverse: 12 candidatos em 0.3s
+[   119s]   ! www.loc.gov: 429 rate limit
+[   119s]   ! www.loc.gov desligado nesta execucao (3 falhas seguidas)
+[   119s]     loc: 0 candidatos em 24.0s
+[   129s]   -> 14 imagens
+[   129s] m_vocho: 'Volkswagen Sedán México'
+[   129s]     commons: 11 candidatos em 0.4s
+[   129s]     openverse: 1 candidatos em 0.1s
+[   129s]     loc: 0 candidatos em 0.0s
+[   165s]     falhou download (commons) em 30.0s
+[   167s]     commons: 12 candidatos em 0.6s
+[   167s]     openverse: 8 candidatos em 0.1s
+[   167s]     loc: 0 candidatos em 0.0s
+[   169s]   -> 14 imagens
+[   169s] m_r4: 'Renault 4'
+[   170s]     commons: 12 candidatos em 0.8s
+[   170s]     openverse: 10 candidatos em 0.4s
+[   170s]     loc: 0 candidatos em 0.0s
+[   179s]   -> 14 imagens
+[   179s] m_seat124: 'SEAT 124'
+[   179s]     commons: 11 candidatos em 0.4s
+[   180s]     openverse: 10 candidatos em 0.5s
+[   180s]     loc: 0 candidatos em 0.0s
+[   214s]     falhou download (commons) em 30.0s
+[   248s]     falhou download (openverse) em 30.0s
+[   278s]     falhou download (commons) em 30.0s
+[   279s]     falhou download (commons) em 0.0s
+[   279s]     falhou download (openverse) em 0.0s
+[   279s]   -> 14 imagens
+[   279s] m_seat1430: 'SEAT 1430'
+[   280s]     commons: 12 candidatos em 0.4s
+[   280s]     openverse: 12 candidatos em 0.4s
+[   280s]     loc: 0 candidatos em 0.0s
+[   284s]     falhou download (commons) em 0.0s
+[   284s]     falhou download (commons) em 0.0s
+[   284s]     falhou download (openverse) em 0.0s
+[   285s]     falhou download (openverse) em 0.0s
+[   286s]     falhou download (openverse) em 0.0s
+[   289s]   -> 14 imagens
+[   289s] m_seat1400: 'SEAT 1400'
+[   289s]     commons: 11 candidatos em 0.6s
+[   290s]     openverse: 12 candidatos em 0.2s
+[   290s]     loc: 0 candidatos em 0.0s
+[   294s]     falhou download (openverse) em 0.0s
+[   299s]   -> 14 imagens
+[   299s] m_pegaso: 'Pegaso Z-102'
+[   299s]     commons: 12 candidatos em 0.3s
+[   299s]     openverse: 11 candidatos em 0.3s
+[   299s]     loc: 0 candidatos em 0.0s
+[   302s]     falhou download (openverse) em 0.0s
+[   305s]     falhou download (openverse) em 0.0s
+[   307s]     falhou download (openverse) em 0.0s
+[   307s]   -> 14 imagens
+[   307s] m_seat127: 'SEAT 127'
+[   308s]     commons: 10 candidatos em 0.7s
+[   308s]     openverse: 9 candidatos em 0.3s
+[   308s]     loc: 0 candidatos em 0.0s
+[   315s]   -> 10 imagens
+[   315s] m_r5: 'Renault 5 1972'
+[   315s]     commons: 11 candidatos em 0.5s
+[   316s]     openverse: 12 candidatos em 0.4s
+[   316s]     loc: 0 candidatos em 0.0s
+[   319s]     falhou download (openverse) em 0.0s
+[   320s]     falhou download (commons) em 0.0s
+[   321s]     falhou download (commons) em 0.0s
+[   322s]   -> 10 imagens
+[   326s] fim: 158 imagens
