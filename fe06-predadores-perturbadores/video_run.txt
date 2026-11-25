@@ -1,0 +1,538 @@
+[     0s] fe06-predadores-perturbadores: 22 planos de video
+[     0s]   v_mantis / pexels: 0 filmes para 'praying mantis'
+[     1s]   v_mantis / pixabay: 12 filmes para 'praying mantis'
+[     2s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=praying+mantis&page_size=8&urls=true&api_key=e46f0775805a10c2dd344
+[     2s]   v_mantis / coverr: 0 filmes para 'praying mantis'
+[     6s]     + 1_pixabay.mp4 de 'prayer mantis, praying mantis, insect, flowers, society garl' a partir de 0s
+[    11s]     + 2_pixabay.mp4 de 'mantis, bug, insect, praying, creature, wild, nature, wildli' a partir de 15s
+[    17s]     + 3_pixabay.mp4 de 'praying mantis, insect, foliage, camouflage' a partir de 21s
+[    20s]     + 4_pixabay.mp4 de 'cross, jesus, jesus christ, christian background, christiani' a partir de 10s
+[    21s]     trecho escuro em 0s, tentando mais adiante
+[    29s]     + 5_pixabay.mp4 de 'praying mantis, insect anatomy, beautiful insect, insect det' a partir de 0s
+[    30s]     trecho escuro em 8s, tentando mais adiante
+[    30s]     trecho escuro em 8s, tentando mais adiante
+[    38s]     trecho escuro em 0s, tentando mais adiante
+[    44s]     + 6_pixabay.mp4 de 'praying mantis, insect anatomy, beautiful insect, insect det' a partir de 0s
+[    44s]     trecho escuro em 0s, tentando mais adiante
+[    54s]     + 7_pixabay.mp4 de 'praying mantis, insect anatomy, insect detail, insect world,' a partir de 0s
+[    56s]     trecho escuro em 8s, tentando mais adiante
+[    58s]     trecho escuro em 8s, tentando mais adiante
+[    66s]     + 8_pixabay.mp4 de 'self-knowledge, praying, meditation, lighting, zen' a partir de 21s
+[    70s]     + 9_pixabay.mp4 de 'worship, cross, church, prayer, bible, religion, faith, god,' a partir de 8s
+[    74s]     + 10_pixabay.mp4 de 'worship, cross, church, prayer, bible, religion, faith, god,' a partir de 8s
+[    74s]   v_mantis / pexels: 0 filmes para 'mantis insect'
+[    75s]   v_mantis / pixabay: 12 filmes para 'mantis insect'
+[    76s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=mantis+insect&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444
+[    76s]   v_mantis / coverr: 0 filmes para 'mantis insect'
+[    76s]     trecho escuro em 9s, tentando mais adiante
+[    77s]     trecho escuro em 14s, tentando mais adiante
+[    84s]     + 11_pixabay.mp4 de 'mantis, insect, animal, nature, to clean, hygiene, eyes' a partir de 8s
+[    88s]     + 12_pixabay.mp4 de 'mantis, insect, summer, natural, observation, silhouette, na' a partir de 9s
+[    88s]   v_wasp / pexels: 0 filmes para 'wasp'
+[    90s]   v_wasp / pixabay: 12 filmes para 'wasp'
+[    90s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=wasp&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e04d8
+[    90s]   v_wasp / coverr: 0 filmes para 'wasp'
+[    93s]     + 1_pixabay.mp4 de 'macro, insect, yard, wasp, colombia' a partir de 9s
+[   101s]     + 2_pixabay.mp4 de 'wasp, honeycomb, wasp nest, insect, dangerous, yellow, black' a partir de 10s
+[   101s]     trecho escuro em 14s, tentando mais adiante
+[   102s]     trecho escuro em 22s, tentando mais adiante
+[   110s]     + 3_pixabay.mp4 de 'wasp, insect, nature, macro, close up, foraging, wildlife' a partir de 30s
+[   110s]     trecho escuro em 9s, tentando mais adiante
+[   111s]     trecho escuro em 14s, tentando mais adiante
+[   114s]     + 4_pixabay.mp4 de 'wasp, wood, insect, nature, macro' a partir de 0s
+[   121s]     + 5_pixabay.mp4 de 'wasp, insect, grass, macro' a partir de 8s
+[   131s]     + 6_pixabay.mp4 de 'wasp, insect, animal, grass, macro' a partir de 8s
+[   134s]     + 7_pixabay.mp4 de 'insect, yard, wasp, armenia' a partir de 9s
+[   135s]     trecho escuro em 10s, tentando mais adiante
+[   135s]     trecho escuro em 15s, tentando mais adiante
+[   141s]     + 8_pixabay.mp4 de 'wasps, wasp nest, work, collaboration, eco system, community' a partir de 21s
+[   141s]   v_roach / pexels: 0 filmes para 'cockroach'
+[   143s]   v_roach / pixabay: 2 filmes para 'cockroach'
+[   143s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=cockroach&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85
+[   143s]   v_roach / coverr: 0 filmes para 'cockroach'
+[   151s]     + 1_pixabay.mp4 de 'insects, ants, armenia cockroach' a partir de 8s
+[   159s]     + 2_pixabay.mp4 de 'insect, field, ants, cockroach, colombia' a partir de 8s
+[   159s]   v_roach / pexels: 0 filmes para 'cockroaches'
+[   160s]   v_roach / pixabay: 2 filmes para 'cockroaches'
+[   161s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=cockroaches&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa
+[   161s]   v_roach / coverr: 0 filmes para 'cockroaches'
+[   161s]   v_croc / pexels: 0 filmes para 'crocodile'
+[   162s]   v_croc / pixabay: 12 filmes para 'crocodile'
+[   163s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=crocodile&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85
+[   163s]   v_croc / coverr: 0 filmes para 'crocodile'
+[   163s]     trecho escuro em 0s, tentando mais adiante
+[   164s]     trecho escuro em 0s, tentando mais adiante
+[   172s]     + 1_pixabay.mp4 de 'crocodile, animal, wildlife, nature' a partir de 0s
+[   181s]     + 2_pixabay.mp4 de 'crocodile, alligator, reptile, wild, wildlife, predator, gre' a partir de 8s
+[   182s]     trecho escuro em 0s, tentando mais adiante
+[   182s]     trecho escuro em 0s, tentando mais adiante
+[   191s]     + 3_pixabay.mp4 de 'crocodile, zoo, basel, visitors, dangerous, write, swim' a partir de 0s
+[   195s]     trecho escuro em 8s, tentando mais adiante
+[   199s]     trecho escuro em 8s, tentando mais adiante
+[   209s]     trecho escuro em 8s, tentando mais adiante
+[   218s]     trecho escuro em 8s, tentando mais adiante
+[   229s]     + 4_pixabay.mp4 de 'crocodile, beach, animal, water, alligator, sea, nature, tro' a partir de 0s
+[   229s]     trecho escuro em 0s, tentando mais adiante
+[   234s]     + 5_pixabay.mp4 de 'crocodile, reptiel, dangerous, predator, lizard, water, rept' a partir de 0s
+[   242s]     + 6_pixabay.mp4 de 'crocodile, swim, dandruff, reptile, teeth, dangerous, water,' a partir de 13s
+[   246s]     + 7_pixabay.mp4 de 'crocodiles, predator, alligator, savage, carnivorous, fauna' a partir de 0s
+[   252s]     + 8_pixabay.mp4 de 'crocodiles, alligators, reptiles, animals, predators, water,' a partir de 0s
+[   261s]     trecho escuro em 8s, tentando mais adiante
+[   270s]     trecho escuro em 8s, tentando mais adiante
+[   279s]     + 9_pixabay.mp4 de 'crocodile, alligator, predator, wild, nature, animal, reptil' a partir de 0s
+[   279s]   v_croc / pexels: 0 filmes para 'saltwater crocodile'
+[   280s]   v_croc / pixabay: 12 filmes para 'saltwater crocodile'
+[   281s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=saltwater+crocodile&page_size=8&urls=true&api_key=e46f0775805a10c2
+[   281s]   v_croc / coverr: 0 filmes para 'saltwater crocodile'
+[   282s]     trecho escuro em 0s, tentando mais adiante
+[   290s]     + 10_pixabay.mp4 de 'crocodile, river, reptile, animal, wildlife, saltwater, aust' a partir de 0s
+[   291s]     trecho escuro em 0s, tentando mais adiante
+[   297s]     + 11_pixabay.mp4 de 'ai generated, pipefish, nature, sea, water, ocean, underwate' a partir de 0s
+[   298s]     trecho escuro em 8s, tentando mais adiante
+[   298s]     trecho escuro em 10s, tentando mais adiante
+[   309s]     + 12_pixabay.mp4 de 'coastline, mediterranean, seascape, shore, idyllic, antique,' a partir de 14s
+[   309s]   v_croc / pexels: 0 filmes para 'crocodile water'
+[   310s]   v_croc / pixabay: 10 filmes para 'crocodile water'
+[   311s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=crocodile+water&page_size=8&urls=true&api_key=e46f0775805a10c2dd34
+[   311s]   v_croc / coverr: 0 filmes para 'crocodile water'
+[   312s]     trecho escuro em 0s, tentando mais adiante
+[   312s]     trecho escuro em 0s, tentando mais adiante
+[   321s]     + 13_pixabay.mp4 de 'crocodile, eye, dive, reptile, water, view, animal' a partir de 0s
+[   324s]     trecho escuro em 8s, tentando mais adiante
+[   327s]     trecho escuro em 8s, tentando mais adiante
+[   330s]     trecho escuro em 0s, tentando mais adiante
+[   330s]     trecho escuro em 0s, tentando mais adiante
+[   337s]     + 14_pixabay.mp4 de 'crocodile, river, rain, heavy rain, reptile, wildlife, natur' a partir de 0s
+[   337s]   v_zebra / pexels: 0 filmes para 'zebra river'
+[   339s]   v_zebra / pixabay: 12 filmes para 'zebra river'
+[   339s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=zebra+river&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa
+[   339s]   v_zebra / coverr: 0 filmes para 'zebra river'
+[   345s]     + 1_pixabay.mp4 de 'fairy tale, beautiful wallpaper, moon, river, waterfalls, ze' a partir de 28s
+[   351s]     + 2_pixabay.mp4 de 'river, beautiful wallpaper, castle, trees, zebra, birds, ani' a partir de 21s
+[   357s]     trecho escuro em 8s, tentando mais adiante
+[   364s]     trecho escuro em 8s, tentando mais adiante
+[   376s]     + 3_pixabay.mp4 de 'zebra, striped, black-and-white, plains zebra, strip, wildli' a partir de 8s
+[   386s]     + 4_pixabay.mp4 de 'river, stream, waterfall, trees, forest, mountain river, lan' a partir de 10s
+[   395s]     + 5_pixabay.mp4 de 'zebra, striped, animal, wildlife' a partir de 8s
+[   410s]     + 6_pixabay.mp4 de 'water, falls, waterfall, rivers, river, nature, landscape, f' a partir de 12s
+[   410s]   v_komodo / pexels: 0 filmes para 'komodo dragon'
+[   411s]   v_komodo / pixabay: 12 filmes para 'komodo dragon'
+[   412s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=komodo+dragon&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444
+[   412s]   v_komodo / coverr: 0 filmes para 'komodo dragon'
+[   415s]     trecho escuro em 8s, tentando mais adiante
+[   418s]     trecho escuro em 8s, tentando mais adiante
+[   426s]     + 1_pixabay.mp4 de 'komodo dragon, lizard, wild reptile, wild animals, prey, pre' a partir de 0s
+[   429s]     trecho escuro em 8s, tentando mais adiante
+[   432s]     trecho escuro em 8s, tentando mais adiante
+[   439s]     trecho escuro em 8s, tentando mais adiante
+[   442s]     trecho escuro em 8s, tentando mais adiante
+[   449s]     trecho escuro em 8s, tentando mais adiante
+[   453s]     trecho escuro em 8s, tentando mais adiante
+[   463s]     + 2_pixabay.mp4 de 'komodo dragon, dragon, lizard, reptile, wildlife, animal' a partir de 8s
+[   463s]     trecho escuro em 0s, tentando mais adiante
+[   464s]     trecho escuro em 0s, tentando mais adiante
+[   472s]     + 3_pixabay.mp4 de 'ai generated, komodo dragon, walking komodo dragon, komodo l' a partir de 0s
+[   473s]     trecho escuro em 8s, tentando mais adiante
+[   476s]     trecho escuro em 8s, tentando mais adiante
+[   479s]     trecho escuro em 0s, tentando mais adiante
+[   481s]     + 4_pixabay.mp4 de 'generated ai, komodo dragon, lizards, reptiles, animal, wild' a partir de 0s
+[   486s]     + 5_pixabay.mp4 de 'water dragon, lizard, chinese, physignathus, concincinus, wa' a partir de 8s
+[   486s]     trecho escuro em 8s, tentando mais adiante
+[   487s]     trecho escuro em 9s, tentando mais adiante
+[   492s]     + 6_pixabay.mp4 de 'dragon-fly, insect, animal, wildlife, nature' a partir de 12s
+[   493s]     trecho escuro em 8s, tentando mais adiante
+[   494s]     trecho escuro em 9s, tentando mais adiante
+[   502s]     + 7_pixabay.mp4 de 'dragon-fly, insect, water, nature, branch, animal, wing' a partir de 12s
+[   502s]   v_komodo / pexels: 0 filmes para 'komodo'
+[   503s]   v_komodo / pixabay: 11 filmes para 'komodo'
+[   504s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=komodo&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e04
+[   504s]   v_komodo / coverr: 0 filmes para 'komodo'
+[   508s]     + 8_pixabay.mp4 de 'ocean, beach, labuan bajo, beautiful, indonesia, tourism, is' a partir de 0s
+[   508s]     trecho escuro em 0s, tentando mais adiante
+[   510s]     + 9_pixabay.mp4 de 'coin, money, komodo, crypto currency, blockchain, digital, c' a partir de 0s
+[   510s]   v_monitor / pexels: 0 filmes para 'monitor lizard'
+[   511s]   v_monitor / pixabay: 12 filmes para 'monitor lizard'
+[   512s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=monitor+lizard&page_size=8&urls=true&api_key=e46f0775805a10c2dd344
+[   512s]   v_monitor / coverr: 0 filmes para 'monitor lizard'
+[   515s]     + 1_pixabay.mp4 de 'lizard, reptile, animal, nature, bangkok, tree, monitor, par' a partir de 22s
+[   515s]     trecho escuro em 8s, tentando mais adiante
+[   516s]     trecho escuro em 8s, tentando mais adiante
+[   524s]     trecho escuro em 8s, tentando mais adiante
+[   525s]     trecho escuro em 12s, tentando mais adiante
+[   535s]     + 2_pixabay.mp4 de 'bangkok, lumphini, park, animals, nature, city park, 4k, hdr' a partir de 16s
+[   543s]     trecho escuro em 8s, tentando mais adiante
+[   552s]     trecho escuro em 8s, tentando mais adiante
+[   559s]     trecho escuro em 0s, tentando mais adiante
+[   561s]     trecho escuro em 0s, tentando mais adiante
+[   564s]     trecho escuro em 8s, tentando mais adiante
+[   570s]     + 3_pixabay.mp4 de 'animal, wildlife, lizard, nature, wilderness, antelope, orie' a partir de 12s
+[   576s]     trecho escuro em 8s, tentando mais adiante
+[   582s]     trecho escuro em 8s, tentando mais adiante
+[   590s]     + 4_pixabay.mp4 de 'animal, lizard, nature, wild' a partir de 15s
+[   600s]     + 5_pixabay.mp4 de 'alert, alarm, war, danger, risk, worried, panic, disaster, c' a partir de 8s
+[   604s]     + 6_pixabay.mp4 de 'video, recording, cinema, camera, image, the media, technolo' a partir de 8s
+[   604s]   v_orca / pexels: 0 filmes para 'orca'
+[   605s]   v_orca / pixabay: 3 filmes para 'orca'
+[   606s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=orca&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e04d8
+[   606s]   v_orca / coverr: 0 filmes para 'orca'
+[   607s]     trecho escuro em 8s, tentando mais adiante
+[   607s]     trecho escuro em 8s, tentando mais adiante
+[   614s]     trecho escuro em 0s, tentando mais adiante
+[   614s]     trecho escuro em 0s, tentando mais adiante
+[   618s]     trecho escuro em 23s, tentando mais adiante
+[   621s]     trecho escuro em 37s, tentando mais adiante
+[   624s]   v_orca / pexels: 0 filmes para 'killer whale'
+[   625s]   v_orca / pixabay: 11 filmes para 'killer whale'
+[   626s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=killer+whale&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444a
+[   626s]   v_orca / coverr: 0 filmes para 'killer whale'
+[   627s]     trecho escuro em 0s, tentando mais adiante
+[   629s]     + 1_pixabay.mp4 de 'killer whale, sea, animal, jump, splash, power, cetaceans, w' a partir de 0s
+[   633s]     + 2_pixabay.mp4 de 'blue whale, whale, ocean, underwater, fauna' a partir de 8s
+[   643s]     + 3_pixabay.mp4 de 'whale, animal, ocean, wildlife, sea, safari, nature' a partir de 0s
+[   646s]     trecho escuro em 8s, tentando mais adiante
+[   649s]     trecho escuro em 8s, tentando mais adiante
+[   655s]     + 4_pixabay.mp4 de 'whale shark, blue whale, big blue whale, water, fish, big fi' a partir de 0s
+[   656s]     trecho escuro em 10s, tentando mais adiante
+[   656s]     trecho escuro em 16s, tentando mais adiante
+[   660s]     + 5_pixabay.mp4 de 'beluga, whale, underwater, nature, aquatic, animal, mammal, ' a partir de 0s
+[   667s]     + 6_pixabay.mp4 de 'boy, whale, sea, fish, stingray, ocean, underwater' a partir de 10s
+[   671s]     + 7_pixabay.mp4 de 'whale, water, animal' a partir de 8s
+[   678s]     + 8_pixabay.mp4 de 'dolphin, pool, water, animal, whale, shark' a partir de 9s
+[   678s]   v_seal / pexels: 0 filmes para 'seal ice'
+[   679s]   v_seal / pixabay: 8 filmes para 'seal ice'
+[   680s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=seal+ice&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e
+[   680s]   v_seal / coverr: 0 filmes para 'seal ice'
+[   680s]     trecho escuro em 0s, tentando mais adiante
+[   685s]     + 1_pixabay.mp4 de 'seal, baby seal, mammal, beach, sand, sea, animal, nature' a partir de 0s
+[   687s]     + 2_pixabay.mp4 de 'soap bubble, freeze, winter, cold, freezing, ice cream, froz' a partir de 14s
+[   695s]     + 3_pixabay.mp4 de 'seal, swimming, pool, zoo, animal, harbor seal, mammal' a partir de 19s
+[   703s]     + 4_pixabay.mp4 de 'waterfall, ice, water, melting, cold, spring, landscape, nat' a partir de 0s
+[   707s]     + 5_pixabay.mp4 de 'soap bubble, freeze, crystal formation, crystals, ice crysta' a partir de 8s
+[   709s]     trecho escuro em 0s, tentando mais adiante
+[   710s]     trecho escuro em 0s, tentando mais adiante
+[   712s]     trecho escuro em 0s, tentando mais adiante
+[   718s]     + 6_pixabay.mp4 de 'dollars, money, seal, print, business, success, usa dollars,' a partir de 0s
+[   725s]     + 7_pixabay.mp4 de 'seal, seals, water, sea, swim, slow motion, animal' a partir de 8s
+[   725s]   v_seal / pexels: 0 filmes para 'sea lion beach'
+[   727s]   v_seal / pixabay: 12 filmes para 'sea lion beach'
+[   727s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=sea+lion+beach&page_size=8&urls=true&api_key=e46f0775805a10c2dd344
+[   727s]   v_seal / coverr: 0 filmes para 'sea lion beach'
+[   741s]     + 8_pixabay.mp4 de 'sea lion, monterey, swimming, water, ocean, wildlife, beach,' a partir de 0s
+[   741s]   v_deep / pexels: 0 filmes para 'deep sea'
+[   742s]   v_deep / pixabay: 11 filmes para 'deep sea'
+[   743s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=deep+sea&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e
+[   743s]   v_deep / coverr: 0 filmes para 'deep sea'
+[   747s]     + 1_pixabay.mp4 de 'underwater, sea, ocean, water, air bubbles, blue, underwater' a partir de 9s
+[   753s]     + 2_pixabay.mp4 de 'water, dark, background, sea, deep, blue, wave, liquid, seas' a partir de 8s
+[   757s]     + 3_pixabay.mp4 de 'fish, aquarium, underwater, ocean, marine, coral, dive, reef' a partir de 17s
+[   760s]     trecho escuro em 19s, tentando mais adiante
+[   763s]     trecho escuro em 30s, tentando mais adiante
+[   772s]     + 4_pixabay.mp4 de 'scuba diving, divers, underwater, corals, fish, ocean, sea, ' a partir de 12s
+[   776s]     + 5_pixabay.mp4 de 'underwater, dive, diving, aquatic, coral, blue, swimming, oc' a partir de 8s
+[   784s]     + 6_pixabay.mp4 de 'landscape, sea, rocks, nature, waves, blue, deep' a partir de 16s
+[   790s]     trecho escuro em 0s, tentando mais adiante
+[   796s]     trecho escuro em 0s, tentando mais adiante
+[   809s]     + 7_pixabay.mp4 de 'underwater, rays, light, sun, reflection, diving, sea, ocean' a partir de 8s
+[   816s]     + 8_pixabay.mp4 de 'ocean, sea, waves, beach, corals, sand, surf, shore, travel,' a partir de 8s
+[   818s]     trecho escuro em 0s, tentando mais adiante
+[   821s]     trecho escuro em 0s, tentando mais adiante
+[   823s]   v_deep / pexels: 0 filmes para 'deep ocean'
+[   824s]   v_deep / pixabay: 11 filmes para 'deep ocean'
+[   825s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=deep+ocean&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa8
+[   825s]   v_deep / coverr: 0 filmes para 'deep ocean'
+[   835s]     + 9_pixabay.mp4 de 'aquarium, fish, sea, animal, ocean, exotic, tropical, nature' a partir de 13s
+[   846s]     + 10_pixabay.mp4 de 'ocean, coral, sea, that, aquarium, submarine, cliff, corals,' a partir de 21s
+[   846s]   v_angler / pexels: 0 filmes para 'anglerfish'
+[   847s]   v_angler / pixabay: 0 filmes para 'anglerfish'
+[   848s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=anglerfish&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa8
+[   848s]   v_angler / coverr: 0 filmes para 'anglerfish'
+[   848s]   v_angler / pexels: 0 filmes para 'deep sea fish'
+[   849s]   v_angler / pixabay: 12 filmes para 'deep sea fish'
+[   850s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=deep+sea+fish&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444
+[   850s]   v_angler / coverr: 0 filmes para 'deep sea fish'
+[   855s]     + 1_pixabay.mp4 de 'ocean, sea, underwater, aquarium, dive, reef, coral reef, la' a partir de 14s
+[   862s]     + 2_pixabay.mp4 de 'turtle, ocean, sun rays, depth, diving, flare, glow, rays, s' a partir de 20s
+[   862s]     trecho escuro em 8s, tentando mais adiante
+[   867s]     + 3_pixabay.mp4 de 'jellyfish, aquarium, blue, fish, underwater, water, sea, mar' a partir de 11s
+[   879s]     + 4_pixabay.mp4 de 'sea, blue, deep, turquoise, trip, summer, waves, that, natur' a partir de 10s
+[   879s]     trecho escuro em 8s, tentando mais adiante
+[   880s]     trecho escuro em 9s, tentando mais adiante
+[   886s]     + 5_pixabay.mp4 de 'jellyfish, nature, aquarium, water, underwater, blue, fish, ' a partir de 12s
+[   886s]   v_spider / pexels: 0 filmes para 'spider'
+[   887s]   v_spider / pixabay: 12 filmes para 'spider'
+[   888s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=spider&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e04
+[   888s]   v_spider / coverr: 0 filmes para 'spider'
+[   893s]     + 1_pixabay.mp4 de 'spider, arachnid, insect, octapod, animal, walking spider, w' a partir de 0s
+[   899s]     + 2_pixabay.mp4 de 'araneus, spider, spider web, web, insect' a partir de 10s
+[   910s]     + 3_pixabay.mp4 de 'spider, web, insect, nature, colombia' a partir de 8s
+[   912s]     trecho escuro em 8s, tentando mais adiante
+[   915s]     trecho escuro em 8s, tentando mais adiante
+[   918s]     trecho escuro em 13s, tentando mais adiante
+[   918s]     trecho escuro em 21s, tentando mais adiante
+[   924s]     + 4_pixabay.mp4 de 'araneus, spider, spider web, web, insect' a partir de 8s
+[   931s]     + 5_pixabay.mp4 de 'nature, insect, arachnid, bite, spider, colombia' a partir de 8s
+[   935s]     + 6_pixabay.mp4 de 'rain, spider, spider web, spiderweb, drops, web, nature, ins' a partir de 0s
+[   948s]     + 7_pixabay.mp4 de 'spider, spider web, forest, woods, arachnid, web, garden, na' a partir de 14s
+[   951s]     trecho escuro em 8s, tentando mais adiante
+[   953s]     trecho escuro em 8s, tentando mais adiante
+[   962s]     + 8_pixabay.mp4 de 'spider, spider web, insects, nature' a partir de 10s
+[   963s]     trecho escuro em 14s, tentando mais adiante
+[   964s]     trecho escuro em 22s, tentando mais adiante
+[   974s]     + 9_pixabay.mp4 de 'crab spider, insect, spider, nature, wildlife' a partir de 30s
+[   974s]   v_spider / pexels: 0 filmes para 'spider web'
+[   975s]   v_spider / pixabay: 11 filmes para 'spider web'
+[   976s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=spider+web&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa8
+[   976s]   v_spider / coverr: 0 filmes para 'spider web'
+[   982s]     + 10_pixabay.mp4 de 'nature, insects, spider, web, rain' a partir de 8s
+[   987s]     + 11_pixabay.mp4 de 'spiderweb, web, spider, attic, trap, spider web, net, insect' a partir de 13s
+[   993s]     + 12_pixabay.mp4 de 'spider, insects, web, spider web, hunter, prey, entomology' a partir de 8s
+[  1003s]     + 13_pixabay.mp4 de 'spider, web, nature' a partir de 10s
+[  1003s]     trecho escuro em 8s, tentando mais adiante
+[  1004s]     trecho escuro em 10s, tentando mais adiante
+[  1011s]     + 14_pixabay.mp4 de 'spider, web, lurks, close up, macro, legs, gruesome, insect,' a partir de 14s
+[  1011s]   v_anaconda / pexels: 0 filmes para 'anaconda'
+[  1012s]   v_anaconda / pixabay: 1 filmes para 'anaconda'
+[  1013s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=anaconda&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e
+[  1013s]   v_anaconda / coverr: 0 filmes para 'anaconda'
+[  1019s]     + 1_pixabay.mp4 de 'snake, reptile, scales, animal, python, viper, anaconda, poi' a partir de 0s
+[  1019s]   v_anaconda / pexels: 0 filmes para 'snake'
+[  1020s]   v_anaconda / pixabay: 12 filmes para 'snake'
+[  1021s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=snake&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e04d
+[  1021s]   v_anaconda / coverr: 0 filmes para 'snake'
+[  1021s]     trecho escuro em 10s, tentando mais adiante
+[  1022s]     trecho escuro em 15s, tentando mais adiante
+[  1026s]     + 2_pixabay.mp4 de 'snake, python, rare snake, rough-scaled python, reptile, sca' a partir de 21s
+[  1031s]     + 3_pixabay.mp4 de 'python, green python, green tree python, snake, reptile, gre' a partir de 8s
+[  1041s]     + 4_pixabay.mp4 de 'snake, cobra, serpent, snake tongue, reptile, animal' a partir de 10s
+[  1045s]     + 5_pixabay.mp4 de 'snake, wild, reptile, wild snake, wild animal' a partir de 9s
+[  1045s]     trecho escuro em 8s, tentando mais adiante
+[  1050s]     + 6_pixabay.mp4 de 'green snake, snake, dangerous' a partir de 13s
+[  1055s]     trecho escuro em 8s, tentando mais adiante
+[  1061s]     trecho escuro em 8s, tentando mais adiante
+[  1069s]     + 7_pixabay.mp4 de 'snake, animals, wild animal' a partir de 11s
+[  1074s]     + 8_pixabay.mp4 de 'snake, python, serpent, reptile, animal, wildlife' a partir de 8s
+[  1078s]     trecho escuro em 8s, tentando mais adiante
+[  1081s]     trecho escuro em 8s, tentando mais adiante
+[  1093s]     + 9_pixabay.mp4 de 'sea of flowers, flowers, mountains, alpine flowers, snake kn' a partir de 9s
+[  1099s]     + 10_pixabay.mp4 de 'snake, reptile, scales, fauna, animal' a partir de 11s
+[  1099s]     trecho escuro em 0s, tentando mais adiante
+[  1107s]     + 11_pixabay.mp4 de 'snake, reptile, scales, animal, wildlife, nature' a partir de 0s
+[  1107s]   v_anaconda / pexels: 0 filmes para 'boa constrictor'
+[  1109s]   v_anaconda / pixabay: 8 filmes para 'boa constrictor'
+[  1109s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=boa+constrictor&page_size=8&urls=true&api_key=e46f0775805a10c2dd34
+[  1109s]   v_anaconda / coverr: 0 filmes para 'boa constrictor'
+[  1110s]     trecho escuro em 28s, tentando mais adiante
+[  1110s]     trecho escuro em 44s, tentando mais adiante
+[  1119s]     trecho escuro em 8s, tentando mais adiante
+[  1128s]     trecho escuro em 8s, tentando mais adiante
+[  1142s]     trecho escuro em 8s, tentando mais adiante
+[  1150s]     trecho escuro em 8s, tentando mais adiante
+[  1160s]     + 12_pixabay.mp4 de 'saker falcon, falcon, constrictor, falconry, plumage, feathe' a partir de 9s
+[  1160s]     trecho escuro em 0s, tentando mais adiante
+[  1164s]     + 13_pixabay.mp4 de 'ai generated, igreja da boa morte, goiás velho, cidade de go' a partir de 0s
+[  1165s]     trecho escuro em 23s, tentando mais adiante
+[  1165s]     trecho escuro em 36s, tentando mais adiante
+[  1170s]     + 14_pixabay.mp4 de 'snake, reptile, nature, animal, wildlife, snakes, dangerous,' a partir de 8s
+[  1170s]   v_capybara / pexels: 0 filmes para 'capybara'
+[  1171s]   v_capybara / pixabay: 12 filmes para 'capybara'
+[  1172s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=capybara&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e
+[  1172s]   v_capybara / coverr: 0 filmes para 'capybara'
+[  1182s]     + 1_pixabay.mp4 de 'capybara, rodent, fur, brown, park, close up' a partir de 0s
+[  1188s]     + 2_pixabay.mp4 de 'capybara, nature, rodent, animal, mammal, fauna, animals, he' a partir de 8s
+[  1193s]     trecho escuro em 8s, tentando mais adiante
+[  1198s]     trecho escuro em 8s, tentando mais adiante
+[  1207s]     + 3_pixabay.mp4 de 'lake, island, capybaras, ducks, brazil, nature' a partir de 24s
+[  1207s]     trecho escuro em 0s, tentando mais adiante
+[  1214s]     + 4_pixabay.mp4 de 'ai generated, capybara, animal, reader, literature, library,' a partir de 0s
+[  1214s]     trecho escuro em 0s, tentando mais adiante
+[  1215s]     trecho escuro em 0s, tentando mais adiante
+[  1226s]     + 5_pixabay.mp4 de 'capybara, bird, animal, ibis' a partir de 0s
+[  1226s]     trecho escuro em 8s, tentando mais adiante
+[  1227s]     trecho escuro em 11s, tentando mais adiante
+[  1230s]     + 6_pixabay.mp4 de 'capybara, animal, apple, eat, cute, herbivore, natural, wild' a partir de 0s
+[  1233s]     + 7_pixabay.mp4 de 'generated ai, capybara, hot spring, open-air bath, animal, s' a partir de 0s
+[  1238s]     + 8_pixabay.mp4 de 'bird, wildlife, jacana, animal, pheasant-tailed jacana, pond' a partir de 0s
+[  1238s]   v_caiman / pexels: 0 filmes para 'caiman'
+[  1239s]   v_caiman / pixabay: 0 filmes para 'caiman'
+[  1240s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=caiman&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e04
+[  1240s]   v_caiman / coverr: 0 filmes para 'caiman'
+[  1240s]   v_caiman / pexels: 0 filmes para 'jacare'
+[  1241s]   v_caiman / pixabay: 0 filmes para 'jacare'
+[  1242s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=jacare&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e04
+[  1242s]   v_caiman / coverr: 0 filmes para 'jacare'
+[  1242s]   v_pantanal / pexels: 0 filmes para 'swamp river'
+[  1243s]   v_pantanal / pixabay: 12 filmes para 'swamp river'
+[  1244s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=swamp+river&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa
+[  1244s]   v_pantanal / coverr: 0 filmes para 'swamp river'
+[  1244s]     trecho escuro em 9s, tentando mais adiante
+[  1245s]     trecho escuro em 14s, tentando mais adiante
+[  1260s]     + 1_pixabay.mp4 de 'river, swamp, lake, trees, animal, boat, nature, ecuador' a partir de 10s
+[  1267s]     + 2_pixabay.mp4 de 'river, swamp, lake, trees, plants, moss, pond, nature' a partir de 0s
+[  1272s]     trecho escuro em 8s, tentando mais adiante
+[  1276s]     trecho escuro em 8s, tentando mais adiante
+[  1293s]     + 3_pixabay.mp4 de 'sea, swamp, landscape, nature, river, sky, drone' a partir de 8s
+[  1297s]     trecho escuro em 8s, tentando mais adiante
+[  1301s]     trecho escuro em 8s, tentando mais adiante
+[  1304s]     trecho escuro em 8s, tentando mais adiante
+[  1305s]     trecho escuro em 8s, tentando mais adiante
+[  1310s]     + 4_pixabay.mp4 de "river, forest, swamp, water, reflection, summer, bird's eye " a partir de 11s
+[  1311s]     trecho escuro em 21s, tentando mais adiante
+[  1311s]     trecho escuro em 32s, tentando mais adiante
+[  1312s]     trecho escuro em 10s, tentando mais adiante
+[  1313s]     trecho escuro em 16s, tentando mais adiante
+[  1322s]     + 5_pixabay.mp4 de "river, forest, swamp, water, reflection, summer, bird's eye " a partir de 22s
+[  1323s]     trecho escuro em 21s, tentando mais adiante
+[  1323s]     trecho escuro em 32s, tentando mais adiante
+[  1324s]   v_pantanal / pexels: 0 filmes para 'wetland'
+[  1325s]   v_pantanal / pixabay: 12 filmes para 'wetland'
+[  1326s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=wetland&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e0
+[  1326s]   v_pantanal / coverr: 0 filmes para 'wetland'
+[  1337s]     + 6_pixabay.mp4 de 'okanagan, aerial, landscape, pond, nature, cliff, spring, bc' a partir de 8s
+[  1337s]   v_octopus / pexels: 0 filmes para 'octopus'
+[  1338s]   v_octopus / pixabay: 12 filmes para 'octopus'
+[  1339s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=octopus&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e0
+[  1339s]   v_octopus / coverr: 0 filmes para 'octopus'
+[  1344s]     + 1_pixabay.mp4 de 'fair, folk festival, octopus, carousel, ride, fairground' a partir de 12s
+[  1350s]     + 2_pixabay.mp4 de 'octopus, walking, creature, animal, tentacles, underwater, o' a partir de 21s
+[  1350s]     trecho escuro em 0s, tentando mais adiante
+[  1352s]     + 3_pixabay.mp4 de 'octopus, santa, cartoon, 3d, octopuss, sea, ocean, water, ab' a partir de 0s
+[  1357s]     + 4_pixabay.mp4 de 'octopus, underwater, sea, coconut octopus, ocean, nature, an' a partir de 18s
+[  1368s]     + 5_pixabay.mp4 de 'ocean, octopus, marine, sea creatures, nature' a partir de 14s
+[  1372s]     + 6_pixabay.mp4 de 'bbq, squid, food, seafood, grill, grilled, barbecue, delicio' a partir de 9s
+[  1372s]     trecho escuro em 0s, tentando mais adiante
+[  1377s]     + 7_pixabay.mp4 de 'ai generated, octopus, nature, ocean, tentacles, kraken, fis' a partir de 0s
+[  1384s]     trecho escuro em 8s, tentando mais adiante
+[  1390s]     trecho escuro em 8s, tentando mais adiante
+[  1396s]     trecho escuro em 0s, tentando mais adiante
+[  1397s]     trecho escuro em 0s, tentando mais adiante
+[  1407s]     + 8_pixabay.mp4 de 'ai generated, octopus, monster, fantasy, mystical, animal, l' a partir de 0s
+[  1413s]     + 9_pixabay.mp4 de 'alien, monster, fantasy, futuristic, scary, man, night, octo' a partir de 0s
+[  1413s]     trecho escuro em 0s, tentando mais adiante
+[  1419s]     + 10_pixabay.mp4 de 'octopus, fantasy, mystical, animal, landscape, water, ai gen' a partir de 0s
+[  1426s]     + 11_pixabay.mp4 de 'octopus, nature, tentacles, sea, ocean, kraken, underwater, ' a partir de 0s
+[  1426s]   v_octopus / pexels: 0 filmes para 'octopus hunting'
+[  1427s]   v_octopus / pixabay: 12 filmes para 'octopus hunting'
+[  1428s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=octopus+hunting&page_size=8&urls=true&api_key=e46f0775805a10c2dd34
+[  1428s]   v_octopus / coverr: 0 filmes para 'octopus hunting'
+[  1435s]     + 12_pixabay.mp4 de 'egret, bird, hunting, watford, hertfordshire, fishing, water' a partir de 9s
+[  1443s]     + 13_pixabay.mp4 de 'cat, mammal, hunting, pet, animal, nature' a partir de 12s
+[  1453s]     + 14_pixabay.mp4 de 'lizard, wall lizard, hunt, insect hunting, huntress, hunter' a partir de 8s
+[  1453s]   v_crab / pexels: 0 filmes para 'crab'
+[  1454s]   v_crab / pixabay: 12 filmes para 'crab'
+[  1454s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=crab&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e04d8
+[  1454s]   v_crab / coverr: 0 filmes para 'crab'
+[  1457s]     + 1_pixabay.mp4 de 'crab, sand, crustacean, beach, ocean, shore crab, wildlife, ' a partir de 20s
+[  1458s]     trecho escuro em 27s, tentando mais adiante
+[  1458s]     trecho escuro em 42s, tentando mais adiante
+[  1463s]     + 2_pixabay.mp4 de 'crab, sand crab, aquatic, sand, beach, sea, wild, animals, w' a partir de 57s
+[  1467s]     + 3_pixabay.mp4 de 'crab, eating, riverside, nature, wildlife, algea, food' a partir de 8s
+[  1472s]     trecho escuro em 0s, tentando mais adiante
+[  1478s]     trecho escuro em 0s, tentando mais adiante
+[  1483s]     + 4_pixabay.mp4 de 'nebula, space, universe, nebula crab, space nebula, galaxy' a partir de 0s
+[  1484s]     trecho escuro em 8s, tentando mais adiante
+[  1484s]     trecho escuro em 8s, tentando mais adiante
+[  1488s]     + 5_pixabay.mp4 de 'crab, sand, beach, caribbean, nature, animal, curacao' a partir de 11s
+[  1492s]     + 6_pixabay.mp4 de 'crab, seafood, animal, sea, ocean, rocks, walking, water, da' a partir de 8s
+[  1492s]   v_cat / pexels: 0 filmes para 'cat hunting'
+[  1493s]   v_cat / pixabay: 7 filmes para 'cat hunting'
+[  1494s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=cat+hunting&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa
+[  1494s]   v_cat / coverr: 0 filmes para 'cat hunting'
+[  1499s]     + 1_pixabay.mp4 de 'tiger, cat, feline, predator, walking, animal, nature, dange' a partir de 0s
+[  1503s]     + 2_pixabay.mp4 de 'cat, pet, animal, dragonflies, insects, hunting, bugs' a partir de 8s
+[  1508s]     + 3_pixabay.mp4 de 'funny, cat, in the house, hunting, bird, adventure, computer' a partir de 19s
+[  1509s]     trecho escuro em 0s, tentando mais adiante
+[  1517s]     + 4_pixabay.mp4 de 'tabby cat, cat, walking, running, action, hunting, domestic ' a partir de 0s
+[  1522s]     + 5_pixabay.mp4 de 'lion, meal, big cat, zoo, animal, nature, hunting prey, wild' a partir de 15s
+[  1530s]     + 6_pixabay.mp4 de 'cheetah, savanna, africa, grassland, predator, wildlife, spo' a partir de 0s
+[  1530s]   v_cat / pexels: 0 filmes para 'cat stalking'
+[  1531s]   v_cat / pixabay: 8 filmes para 'cat stalking'
+[  1532s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=cat+stalking&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444a
+[  1532s]   v_cat / coverr: 0 filmes para 'cat stalking'
+[  1536s]     + 7_pixabay.mp4 de 'cat, animal, sleep, pet, cozyness, white cat, domestic cat' a partir de 0s
+[  1540s]     + 8_pixabay.mp4 de 'cat, pet, animal, orange cat, domestic cat, cute, redhead, w' a partir de 8s
+[  1548s]     + 9_pixabay.mp4 de 'cat, feline, animal, mammal, kitten, eyes, young, pet, hairy' a partir de 0s
+[  1552s]     + 10_pixabay.mp4 de 'cat, sleep, white cat, pet, domestic cat, animal, house cat' a partir de 0s
+[  1556s]     + 11_pixabay.mp4 de 'cat, white, pet, animal, white cat, domestic cat, house cat' a partir de 8s
+[  1561s]     + 12_pixabay.mp4 de 'advent, animal, christmas time, cat, british shorthair, pet,' a partir de 0s
+[  1564s]     + 13_pixabay.mp4 de 'cat, animal, sleep, fluffy, white cat, pet, domestic cat, ho' a partir de 8s
+[  1570s]     + 14_pixabay.mp4 de 'cute cat, funny cat, kitten, domestic, pet, adorable, small,' a partir de 8s
+[  1570s]   v_bird / pexels: 0 filmes para 'bird'
+[  1571s]   v_bird / pixabay: 11 filmes para 'bird'
+[  1571s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=bird&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa85e04d8
+[  1571s]   v_bird / coverr: 0 filmes para 'bird'
+[  1575s]     + 1_pixabay.mp4 de 'robin, bird, forest, nature, spring, fly, ali, animal' a partir de 8s
+[  1585s]     + 2_pixabay.mp4 de 'bird, blue-and-white fly, cyanoptila cyanomelana, male, whis' a partir de 8s
+[  1592s]     + 3_pixabay.mp4 de 'bird, blue tit, plumage, feeding place, bird watching, wildl' a partir de 8s
+[  1593s]     trecho escuro em 8s, tentando mais adiante
+[  1593s]     trecho escuro em 8s, tentando mais adiante
+[  1611s]     + 4_pixabay.mp4 de 'bird, seagull, boat, ocean, sea, wildlife, water, beach, wav' a partir de 17s
+[  1618s]     + 5_pixabay.mp4 de 'bird, bee-eater, feathers, colorful, thailand, nature' a partir de 10s
+[  1629s]     + 6_pixabay.mp4 de 'gull, bird, snow, plumage, sitting, winter, wildlife' a partir de 0s
+[  1635s]     + 7_pixabay.mp4 de 'siberian bird, fauna, water, mallard, siberian, bird, animal' a partir de 13s
+[  1643s]     + 8_pixabay.mp4 de 'humming bird, bird, wildlife, flying, small bird' a partir de 13s
+[  1643s]   v_dark / pexels: 0 filmes para 'dark forest night'
+[  1644s]   v_dark / pixabay: 12 filmes para 'dark forest night'
+[  1645s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=dark+forest+night&page_size=8&urls=true&api_key=e46f0775805a10c2dd
+[  1645s]   v_dark / coverr: 0 filmes para 'dark forest night'
+[  1648s]     trecho escuro em 10s, tentando mais adiante
+[  1652s]     + 1_pixabay.mp4 de 'full moon, night, spooky, woods, forest, moon, moonlight, da' a partir de 16s
+[  1660s]     trecho escuro em 11s, tentando mais adiante
+[  1667s]     + 2_pixabay.mp4 de 'fire, sparks, forest, night, dark, heat, glare, beautiful wa' a partir de 18s
+[  1670s]     + 3_pixabay.mp4 de 'trees, forest, magic forest, dark forest, night, mysterious,' a partir de 8s
+[  1674s]     + 4_pixabay.mp4 de 'trees, fog, forest, dark, nature, mysterious, night, landsca' a partir de 10s
+[  1677s]     + 5_pixabay.mp4 de 'forest, rain, fog, trees, night, nature, landscape, clouds, ' a partir de 14s
+[  1682s]     + 6_pixabay.mp4 de 'sky, stars, lake, landscape, night, nature, moon, water, inn' a partir de 0s
+[  1682s]   v_reef / pexels: 0 filmes para 'coral reef'
+[  1683s]   v_reef / pixabay: 12 filmes para 'coral reef'
+[  1684s]   ! coverr: 400 Client Error: Bad Request for url: https://api.coverr.co/videos?query=coral+reef&page_size=8&urls=true&api_key=e46f0775805a10c2dd3444aa8
+[  1684s]   v_reef / coverr: 0 filmes para 'coral reef'
+[  1685s]     trecho escuro em 8s, tentando mais adiante
+[  1685s]     trecho escuro em 9s, tentando mais adiante
+[  1695s]     + 1_pixabay.mp4 de 'reef, coral, sea, underwater, ocean, animals, sponges, scuba' a partir de 12s
+[  1709s]     + 2_pixabay.mp4 de 'sea, tropical, coral reef, boat, turquoise, widi archipelago' a partir de 9s
+[  1713s]     trecho escuro em 8s, tentando mais adiante
+[  1717s]     trecho escuro em 8s, tentando mais adiante
+[  1728s]     + 3_pixabay.mp4 de 'reef, ocean, jellyfish, marine, sea, underwater, water, cora' a partir de 10s
+[  1728s]     trecho escuro em 8s, tentando mais adiante
+[  1729s]     trecho escuro em 9s, tentando mais adiante
+[  1741s]     + 4_pixabay.mp4 de 'reef, coral, sea, underwater, ocean, corals, animals, sponge' a partir de 13s
+[  1741s]     trecho escuro em 8s, tentando mais adiante
+[  1742s]     trecho escuro em 8s, tentando mais adiante
+[  1757s]     + 5_pixabay.mp4 de 'coast, driftwood, tern, subtropical, coral reef, uninhabited' a partir de 12s
+[  1758s]     trecho escuro em 9s, tentando mais adiante
+[  1759s]     trecho escuro em 14s, tentando mais adiante
+[  1765s]     + 6_pixabay.mp4 de 'fish, aquarium, fish tank, angel fish, coral reef, banner fi' a partir de 8s
+# Videos — fe06-predadores-perturbadores
+
+- Planos: 22 · clipes: 184 · sem resultado: 1
+- Folhas: video_contact_sheet_1.jpg, video_contact_sheet_2.jpg, video_contact_sheet_3.jpg, video_contact_sheet_4.jpg, video_contact_sheet_5.jpg, video_contact_sheet_6.jpg, video_contact_sheet_7.jpg, video_contact_sheet_8.jpg, video_contact_sheet_9.jpg, video_contact_sheet_10.jpg, video_contact_sheet_11.jpg, video_contact_sheet_12.jpg, video_contact_sheet_13.jpg, video_contact_sheet_14.jpg, video_contact_sheet_15.jpg, video_contact_sheet_16.jpg, video_contact_sheet_17.jpg, video_contact_sheet_18.jpg, video_contact_sheet_19.jpg
+
+## Sem video livre (usar foto/IA)
+
+- `v_caiman`
+
+| plano | clipes |
+|---|---|
+| `v_mantis` | 12 |
+| `v_wasp` | 8 |
+| `v_roach` | 2 |
+| `v_croc` | 14 |
+| `v_zebra` | 6 |
+| `v_komodo` | 9 |
+| `v_monitor` | 6 |
+| `v_orca` | 8 |
+| `v_seal` | 8 |
+| `v_deep` | 10 |
+| `v_angler` | 5 |
+| `v_spider` | 14 |
+| `v_anaconda` | 14 |
+| `v_capybara` | 8 |
+| `v_caiman` | 0 |
+| `v_pantanal` | 6 |
+| `v_octopus` | 14 |
+| `v_crab` | 6 |
+| `v_cat` | 14 |
+| `v_bird` | 8 |
+| `v_dark` | 6 |
+| `v_reef` | 6 |
+
