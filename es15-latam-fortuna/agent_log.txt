@@ -1,116 +1,39 @@
-[     0s] es15-latam-fortuna: 9 planos, limite 35.0 min
-[     0s] m_fiat600: 'Fiat 600'
-[     0s]     commons: 12 candidatos em 0.4s
-[    31s]   ! api.openverse.org: 504 Server Error: Gateway Timeout for url: https://api.openverse.org/v1/images/?q=Fiat+600&license=pdm%2Ccc0%2Cby%2Cby-sa&page_size=12&mature=false
-[    31s]     openverse: 0 candidatos em 30.2s
-[    65s]   ! www.loc.gov: HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out. (read timeout=15)
-[    65s]     loc: 0 candidatos em 34.1s
-[    73s]     commons: 12 candidatos em 0.5s
-[    85s]     openverse: 11 candidatos em 12.2s
-[   119s]   ! www.loc.gov: HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out. (read timeout=15)
-[   119s]     loc: 0 candidatos em 34.1s
-[   123s]   -> 18 imagens
-[   123s] m_vocho: 'Volkswagen Sedán México'
-[   124s]     commons: 11 candidatos em 0.5s
-[   138s]     openverse: 1 candidatos em 14.4s
-[   172s]   ! www.loc.gov: HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out. (read timeout=15)
-[   172s]   ! www.loc.gov desligado nesta execucao (3 falhas seguidas)
-[   172s]     loc: 0 candidatos em 34.1s
-[   190s]     commons: 12 candidatos em 0.5s
-[   204s]     openverse: 8 candidatos em 13.9s
-[   204s]     loc: 0 candidatos em 0.0s
-[   208s]   -> 18 imagens
-[   208s] m_r4: 'Renault 4'
-[   209s]     commons: 12 candidatos em 0.8s
-[   221s]     openverse: 10 candidatos em 12.9s
-[   221s]     loc: 0 candidatos em 0.0s
-[   234s]   -> 18 imagens
-[   234s] m_superbee: 'Valiant Super Bee'
-[   234s]     commons: 2 candidatos em 0.4s
-[   249s]     openverse: 3 candidatos em 14.8s
-[   249s]     loc: 0 candidatos em 0.0s
-[   253s]     commons: 0 candidatos em 0.3s
-[   261s]     openverse: 0 candidatos em 7.2s
-[   261s]     loc: 0 candidatos em 0.0s
-[   261s]     commons: 2 candidatos em 0.4s
-[   273s]     openverse: 3 candidatos em 11.9s
-[   273s]     loc: 0 candidatos em 0.0s
-[   273s]     commons: 8 candidatos em 0.5s
-[   286s]     openverse: 3 candidatos em 12.1s
-[   286s]     loc: 0 candidatos em 0.0s
-[   289s]   -> 11 imagens
-[   289s] m_falcon: 'Ford Falcon Sprint'
-[   290s]     commons: 12 candidatos em 0.5s
-[   302s]     openverse: 12 candidatos em 12.4s
-[   302s]     loc: 0 candidatos em 0.0s
-[   335s]     falhou download (commons) em 30.0s
-[   366s]     falhou download (commons) em 30.0s
-[   397s]     falhou download (openverse) em 30.0s
-[   429s]     falhou download (commons) em 30.0s
-[   431s]     falhou download (commons) em 0.0s
-[   431s]     falhou download (openverse) em 0.0s
-[   431s]     falhou download (openverse) em 0.0s
-[   433s]     falhou download (commons) em 0.0s
-[   434s]     commons: 11 candidatos em 0.7s
-[   455s]   ! api.openverse.org: 500 Server Error: Internal Server Error for url: https://api.openverse.org/v1/images/?q=Ford+Falcon+Argentina&license=pdm%2Ccc0%2Cby%2Cby-sa&page_size=12&mature
-[   455s]     openverse: 0 candidatos em 20.6s
-[   455s]     loc: 0 candidatos em 0.0s
-[   455s]     falhou download (commons) em 0.0s
-[   455s]     falhou download (commons) em 0.0s
-[   455s]     falhou download (commons) em 0.0s
-[   455s]     falhou download (commons) em 0.0s
-[   455s]     falhou download (commons) em 0.0s
-[   455s]     falhou download (commons) em 0.0s
-[   455s]     falhou download (commons) em 0.0s
-[   455s]     falhou download (commons) em 0.0s
-[   455s]     falhou download (commons) em 0.0s
-[   455s]     falhou download (commons) em 0.0s
-[   456s]     commons: 12 candidatos em 0.8s
-[   476s]     openverse: 12 candidatos em 19.6s
-[   476s]     loc: 0 candidatos em 0.0s
-[   478s]   -> 18 imagens
-[   478s] m_torino: 'IKA Torino'
-[   478s]     commons: 9 candidatos em 0.2s
-[   503s]   ! api.openverse.org: 504 Server Error: Gateway Timeout for url: https://api.openverse.org/v1/images/?q=IKA+Torino&license=pdm%2Ccc0%2Cby%2Cby-sa&page_size=12&mature=false
-[   503s]     openverse: 0 candidatos em 25.3s
-[   503s]     loc: 0 candidatos em 0.0s
-[   506s]     falhou download (commons) em 0.0s
-[   506s]     falhou download (commons) em 0.0s
-[   506s]     falhou download (commons) em 0.0s
-[   507s]     commons: 12 candidatos em 0.3s
-[   521s]     openverse: 4 candidatos em 14.1s
-[   521s]     loc: 0 candidatos em 0.0s
-[   523s]     falhou download (openverse) em 0.0s
-[   524s]     falhou download (openverse) em 0.0s
-[   525s]     falhou download (openverse) em 0.0s
-[   530s]   -> 18 imagens
-[   530s] m_chevy: 'Chevrolet Chevy SS Argentina'
-[   531s]     commons: 12 candidatos em 0.6s
-[   551s]   ! api.openverse.org: 504 Server Error: Gateway Timeout for url: https://api.openverse.org/v1/images/?q=Chevrolet+Chevy+SS+Argentina&license=pdm%2Ccc0%2Cby%2Cby-sa&page_size=12&matur
-[   551s]     openverse: 0 candidatos em 20.3s
-[   551s]     loc: 0 candidatos em 0.0s
-[   563s]     commons: 12 candidatos em 0.8s
-[   582s]     openverse: 8 candidatos em 18.8s
-[   582s]     loc: 0 candidatos em 0.0s
-[   589s]   -> 18 imagens
-[   589s] h_auction: 'classic car auction'
-[   590s]     commons: 12 candidatos em 0.3s
-[   607s]     openverse: 12 candidatos em 17.1s
-[   607s]     loc: 0 candidatos em 0.0s
-[   607s]     falhou download (commons) em 0.0s
-[   607s]     falhou download (commons) em 0.0s
-[   608s]     falhou download (commons) em 0.0s
-[   609s]     falhou download (commons) em 0.0s
-[   610s]     falhou download (commons) em 0.0s
-[   610s]     falhou download (commons) em 0.0s
-[   611s]     falhou download (commons) em 0.0s
-[   612s]     falhou download (commons) em 0.0s
-[   612s]   -> 8 imagens
-[   612s] h_barn: 'abandoned classic car'
-[   613s]     commons: 12 candidatos em 0.4s
-[   630s]     openverse: 10 candidatos em 17.1s
-[   630s]     loc: 0 candidatos em 0.0s
-[   631s]     falhou download (openverse) em 0.0s
-[   635s]     falhou download (commons) em 0.0s
-[   636s]   -> 8 imagens
-[   639s] fim: 135 imagens
+[     0s] es15-latam-fortuna: 2 planos, limite 35.0 min
+[     0s] m_superbee2: 'Valiant Super Bee 1972'
+[     1s]     commons: 0 candidatos em 0.5s
+[    10s]     openverse: 0 candidatos em 9.4s
+[    44s]   ! www.loc.gov: HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out. (read timeout=15)
+[    44s]     loc: 0 candidatos em 34.1s
+[    45s]     commons: 0 candidatos em 0.5s
+[    48s]     openverse: 0 candidatos em 3.9s
+[    75s]     loc: 7 candidatos em 26.7s
+[   105s]     falhou download (loc) em 30.1s
+[   135s]     falhou download (loc) em 30.0s
+[   165s]     falhou download (loc) em 30.0s
+[   195s]     falhou download (loc) em 30.0s
+[   195s]     falhou download (loc) em 0.0s
+[   195s]     falhou download (loc) em 0.0s
+[   195s]     falhou download (loc) em 0.0s
+[   196s]     commons: 0 candidatos em 0.6s
+[   203s]     openverse: 0 candidatos em 6.7s
+[   227s]   ! www.loc.gov: 429 rate limit
+[   227s]     loc: 0 candidatos em 24.0s
+[   227s]     commons: 0 candidatos em 0.5s
+[   232s]     openverse: 0 candidatos em 4.9s
+[   256s]   ! www.loc.gov: 429 rate limit
+[   256s]     loc: 0 candidatos em 24.0s
+[   256s]     commons: 0 candidatos em 0.4s
+[   264s]     openverse: 0 candidatos em 7.9s
+[   288s]   ! www.loc.gov: 429 rate limit
+[   288s]   ! www.loc.gov desligado nesta execucao (3 falhas seguidas)
+[   288s]     loc: 0 candidatos em 24.0s
+[   288s]   -> 0 imagens
+[   288s] m_falcon2: 'Ford Falcon argentino'
+[   289s]     commons: 11 candidatos em 1.1s
+[   307s]     openverse: 12 candidatos em 17.1s
+[   307s]     loc: 0 candidatos em 0.0s
+[   370s]     falhou download (openverse) em 30.0s
+[   400s]     falhou download (openverse) em 30.0s
+[   432s]     falhou download (openverse) em 30.0s
+[   434s]   -> 18 imagens
+[   434s] fim: 18 imagens
