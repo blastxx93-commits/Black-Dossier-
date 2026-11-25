@@ -1,0 +1,114 @@
+[     0s] es14-abuelo-latam: 10 planos, limite 35.0 min
+[     0s] m_datsun: 'Datsun Bluebird 410'
+[     1s]     commons: 12 candidatos em 0.7s
+[     7s]     openverse: 0 candidatos em 6.4s
+[    41s]   ! www.loc.gov: HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out. (read timeout=15)
+[    41s]     loc: 0 candidatos em 34.1s
+[    49s]     commons: 8 candidatos em 0.6s
+[    83s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[    83s]     openverse: 0 candidatos em 34.0s
+[    89s]     loc: 0 candidatos em 5.6s
+[    90s]   -> 14 imagens
+[    90s] m_simca: 'Simca 1000'
+[    90s]     commons: 12 candidatos em 0.5s
+[   124s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[   124s]     openverse: 0 candidatos em 34.1s
+[   148s]   ! www.loc.gov: 429 rate limit
+[   148s]     loc: 0 candidatos em 24.0s
+[   157s]     commons: 1 candidatos em 0.5s
+[   162s]     openverse: 0 candidatos em 5.8s
+[   187s]   ! www.loc.gov: 429 rate limit
+[   187s]     loc: 0 candidatos em 24.0s
+[   188s]     commons: 3 candidatos em 1.3s
+[   193s]     openverse: 0 candidatos em 4.1s
+[   217s]   ! www.loc.gov: 429 rate limit
+[   217s]   ! www.loc.gov desligado nesta execucao (3 falhas seguidas)
+[   217s]     loc: 0 candidatos em 24.0s
+[   221s]   -> 16 imagens
+[   221s] m_r12: 'Renault 12'
+[   222s]     commons: 11 candidatos em 0.9s
+[   239s]     openverse: 12 candidatos em 17.1s
+[   239s]     loc: 0 candidatos em 0.0s
+[   251s]   -> 18 imagens
+[   251s] m_seat600: 'SEAT 600'
+[   251s]     commons: 10 candidatos em 0.3s
+[   264s]     openverse: 11 candidatos em 12.7s
+[   264s]     loc: 0 candidatos em 0.0s
+[   274s]   -> 16 imagens
+[   274s] m_fiat600: 'Fiat 600'
+[   274s]     commons: 12 candidatos em 0.3s
+[   293s]     openverse: 12 candidatos em 19.4s
+[   293s]     loc: 0 candidatos em 0.0s
+[   305s]   -> 18 imagens
+[   305s] m_r4: 'Renault 4'
+[   306s]     commons: 12 candidatos em 0.4s
+[   326s]   ! api.openverse.org: 504 Server Error: Gateway Timeout for url: https://api.openverse.org/v1/images/?q=Renault+4&license=pdm%2Ccc0%2Cby%2Cby-sa&page_size=12&mature=false
+[   326s]     openverse: 0 candidatos em 20.2s
+[   326s]     loc: 0 candidatos em 0.0s
+[   334s]     commons: 12 candidatos em 0.5s
+[   364s]     openverse: 12 candidatos em 29.9s
+[   364s]     loc: 0 candidatos em 0.0s
+[   368s]   -> 18 imagens
+[   368s] m_falcon: 'Ford Falcon Argentina'
+[   368s]     commons: 11 candidatos em 0.4s
+[   401s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[   401s]     openverse: 0 candidatos em 33.4s
+[   401s]     loc: 0 candidatos em 0.0s
+[   444s]     falhou download (commons) em 30.0s
+[   474s]     falhou download (commons) em 30.0s
+[   504s]     falhou download (commons) em 30.0s
+[   534s]     falhou download (commons) em 30.0s
+[   534s]     falhou download (commons) em 0.0s
+[   534s]     falhou download (commons) em 0.0s
+[   535s]     commons: 12 candidatos em 0.5s
+[   562s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[   562s]     openverse: 0 candidatos em 27.3s
+[   562s]     loc: 0 candidatos em 0.0s
+[   567s]     falhou download (commons) em 0.0s
+[   573s]     commons: 8 candidatos em 0.7s
+[   607s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[   607s]   ! api.openverse.org desligado nesta execucao (3 falhas seguidas)
+[   607s]     openverse: 0 candidatos em 34.1s
+[   607s]     loc: 0 candidatos em 0.0s
+[   609s]   -> 18 imagens
+[   609s] m_vocho: 'Volkswagen Sedán México'
+[   609s]     commons: 11 candidatos em 0.8s
+[   609s]     openverse: 0 candidatos em 0.0s
+[   609s]     loc: 0 candidatos em 0.0s
+[   612s]     falhou download (commons) em 0.0s
+[   613s]     falhou download (commons) em 0.0s
+[   613s]     falhou download (commons) em 0.0s
+[   615s]     commons: 2 candidatos em 0.3s
+[   615s]     openverse: 0 candidatos em 0.0s
+[   615s]     loc: 0 candidatos em 0.0s
+[   615s]     falhou download (commons) em 0.0s
+[   616s]     commons: 12 candidatos em 0.7s
+[   616s]     openverse: 0 candidatos em 0.0s
+[   616s]     loc: 0 candidatos em 0.0s
+[   622s]   -> 18 imagens
+[   622s] h_vochotaxi: 'vocho taxi Ciudad de México'
+[   623s]     commons: 0 candidatos em 0.6s
+[   623s]     openverse: 0 candidatos em 0.0s
+[   623s]     loc: 0 candidatos em 0.0s
+[   623s]     commons: 6 candidatos em 0.6s
+[   623s]     openverse: 0 candidatos em 0.0s
+[   623s]     loc: 0 candidatos em 0.0s
+[   625s]     falhou download (commons) em 0.0s
+[   626s]     commons: 9 candidatos em 0.7s
+[   626s]     openverse: 0 candidatos em 0.0s
+[   626s]     loc: 0 candidatos em 0.0s
+[   626s]     falhou download (commons) em 0.0s
+[   626s]     falhou download (commons) em 0.0s
+[   626s]   -> 4 imagens
+[   626s] h_familia: 'vintage family car 1960s'
+[   627s]     commons: 0 candidatos em 0.6s
+[   627s]     openverse: 0 candidatos em 0.0s
+[   627s]     loc: 0 candidatos em 0.0s
+[   627s]     commons: 0 candidatos em 0.5s
+[   627s]     openverse: 0 candidatos em 0.0s
+[   627s]     loc: 0 candidatos em 0.0s
+[   628s]     commons: 12 candidatos em 0.6s
+[   628s]     openverse: 0 candidatos em 0.0s
+[   628s]     loc: 0 candidatos em 0.0s
+[   634s]   -> 8 imagens
+[   639s] fim: 148 imagens
