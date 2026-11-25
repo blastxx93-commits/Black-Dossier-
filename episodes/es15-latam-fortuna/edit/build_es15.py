@@ -17,11 +17,11 @@ CLIPS = json.load(open(os.path.join(HERE, "clips.json")))
 GENERIC = CLIPS.pop("_generic", [])
 FALLBACK = {k: [] for k in PHOTOS}
 FALLBACK.update({"mix": ["f600", "r4"], "barn": ["mix"]})
-RES = ["m_chevy/10", "m_chevy/4", "m_fiat600/4", "m_vocho/1", "m_r4/3", "m_torino/1", "m_torino/3", "m_vocho/12"]
+RES = ["m_chevy/10", "m_chevy/4", "m_fiat600/4", "m_vocho/1", "m_r4/3", "m_r4/7", "m_torino/1", "m_torino/3", "m_vocho/12"]
 A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FALLBACK, [], reserved=RES)
 A.THEME = "race"
 A.CLIP_TARGET = 0.0
-A.MAX_HOLD, A.KEEP = 8.0, 5.5
+A.MAX_HOLD, A.KEEP = 10.0, 7.0
 A.ARCHIVE_OK = True
 A.STRICT_POOLS = True
 A.SPLIT_BY_SUBJECT = True
@@ -30,7 +30,7 @@ chapters = []
 c = ch("ch00_hook", 0.6)
 c.at(0, photo("m_chevy", 10, "in", cap="Chevrolet Chevy SS|Argentina"))
 c.at("En México, un Vocho", photo("m_vocho", 12, "in", cap="Volkswagen Sedán|México"))
-c.at("Y en Colombia, un Renault 4", photo("m_r4", 3, "in", cap="Renault 4|Colombia"))
+c.at("Y en Colombia, un Renault 4", photo("m_r4", 7, "in", cap="Renault 4|Colombia"))
 c.at("Coches que tu abuelo", P("barn"))
 c.at("Coches que nadie quería", P("barn"))
 c.at("Hoy vas a conocer", title("Hoy valen una fortuna", "coches de Latinoamérica", "México · Colombia · Argentina", "mix"))
@@ -41,10 +41,12 @@ c = ch("ch01")
 c.at(0, rank(6, "Fiat 600", "m_fiat600", 4, "Argentina · 1960", "el «Fitito»"))
 c.at("Durante décadas, nadie le dio valor", P("f600"))
 c.at("En los anuncios de Mercado Libre", stat("2.800 – 16.000 US$", "Fiat 600 de 1965 · anuncios", "Mercado Libre", count=False))
+c.at("Y las versiones deportivas", P("f600"))
 c.at("Nada mal para el coche", P("f600"))
 c.at("Número cinco", rank(5, "Volkswagen Sedán", "m_vocho", 1, "México", "el «Vocho»"))
 c.at("Durante décadas fue tan común", P("vocho"))
 c.at("Pero en una subasta organizada en Los Pinos", stat("360.000 MXN", "Vocho de 1951 · subasta en Los Pinos", "según la fuente", count=False))
+c.at("más de cien mil por encima", P("vocho"))
 c.at("Y en Estados Unidos", P("vocho"))
 chapters.append(c)
 
@@ -64,6 +66,7 @@ c.at("Número dos", rank(2, "IKA Torino", "m_torino", 1, "Argentina · 1966", "e
 c.at("Y en 1969, tres Torino", photo("m_torino", 3, "in", cap="IKA Torino|84 horas de Nürburgring, 1969"))
 c.at("Hoy el Torino es uno", P("torino"))
 c.at("Según los anuncios recogidos", stat("10.000 – 29.000 US$", "Torino · anuncios", "iProfesional", count=False))
+c.at("Otras fuentes hablan", P("torino"))
 c.at("Y ahora sí", P("chevy"))
 chapters.append(c)
 
@@ -82,5 +85,5 @@ c.at("Y ahora te pregunto a ti", P("mix"))
 c.at("Y si has llegado hasta aquí", cta("Gracias por llegar al final", "suscríbete y déjame tu opinión"))
 chapters.append(c)
 
-CTX = ["chevy", "f600", "r4", "falcon", "chevy", "mix"]
+CTX = ["chevy", "f600", "r4", "torino", "chevy", "mix"]
 print(A.finish(chapters, "ES15_LATAM_FORTUNA.mp4", CTX, subtitles="ES15.ass"))
