@@ -1,0 +1,122 @@
+{
+ "defaults": {
+  "n": 12,
+  "sources": [
+   "commons",
+   "openverse",
+   "loc"
+  ]
+ },
+ "shots": [
+  {
+   "id": "m_cupecita",
+   "query": "cupecita Turismo Carretera",
+   "alt": [
+    "Ford coupe Turismo Carretera",
+    "Chevrolet coupé Turismo Carretera",
+    "TC histórico cupecita"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_galera",
+   "query": "La Galera Emiliozzi",
+   "alt": [
+    "Emiliozzi Ford Turismo Carretera",
+    "Galera Ford TC"
+   ],
+   "n": 10
+  },
+  {
+   "id": "m_coloradita",
+   "query": "Coloradita Bordeu Chevrolet",
+   "alt": [
+    "Chevrolet Bordeu Turismo Carretera",
+    "Bordeu Chevrolet 1966"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_trueno",
+   "query": "Trueno Naranja Pairetti",
+   "alt": [
+    "Trueno Naranja Chevrolet",
+    "Pairetti Chevrolet prototipo"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_chevitu",
+   "query": "Chevitú Turismo Carretera",
+   "alt": [
+    "Chevrolet 400 Turismo Carretera",
+    "Chevitu"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_torinotc",
+   "query": "Torino 380W Nürburgring",
+   "alt": [
+    "IKA Torino Nürburgring 1969",
+    "Torino Turismo Carretera",
+    "Torino 380 W"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_falcontc",
+   "query": "Ford Falcon Turismo Carretera",
+   "alt": [
+    "Falcon TC",
+    "Ford Falcon carrera Argentina"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_chevytc",
+   "query": "Chevrolet Chevy Turismo Carretera",
+   "alt": [
+    "Chevy TC",
+    "Chevrolet Chevy coupé carrera Argentina"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_dodgetc",
+   "query": "Dodge GTX Turismo Carretera",
+   "alt": [
+    "Dodge Turismo Carretera",
+    "Dodge GTX Argentina"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_fangiochev",
+   "query": "Fangio Chevrolet 1940",
+   "alt": [
+    "Juan Manuel Fangio Chevrolet",
+    "Fangio coupé Chevrolet"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_galvez",
+   "query": "Gálvez Ford Turismo Carretera",
+   "alt": [
+    "Oscar Gálvez Ford",
+    "Juan Gálvez Ford"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_tcpublico",
+   "query": "Turismo Carretera público ruta",
+   "alt": [
+    "Turismo Carretera histórico",
+    "Gran Premio Turismo Carretera"
+   ],
+   "n": 10
+  }
+ ]
+}

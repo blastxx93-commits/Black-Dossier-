@@ -1,0 +1,78 @@
+{
+ "defaults": {
+  "n": 12,
+  "sources": [
+   "commons",
+   "openverse",
+   "loc"
+  ]
+ },
+ "shots": [
+  {
+   "id": "m_vocho",
+   "query": "Volkswagen Sedán México",
+   "alt": [
+    "Vocho",
+    "VW Sedan Mexico",
+    "Volkswagen Beetle Mexico"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_vochotaxi",
+   "query": "taxi vocho",
+   "alt": [
+    "Volkswagen Beetle taxi Mexico City",
+    "vocho taxi verde",
+    "VW Beetle taxi Mexico"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_ultima",
+   "query": "Volkswagen Sedán Última Edición",
+   "alt": [
+    "VW Beetle Ultima Edicion",
+    "Volkswagen Beetle Última Edición 2003"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_beetle50",
+   "query": "Volkswagen Beetle 1950s",
+   "alt": [
+    "Volkswagen Käfer 1953",
+    "VW Brezelkäfer",
+    "Volkswagen Beetle split window"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_vwpuebla",
+   "query": "Volkswagen Puebla planta",
+   "alt": [
+    "Volkswagen de México Puebla",
+    "Volkswagen Puebla plant"
+   ],
+   "n": 10
+  },
+  {
+   "id": "m_vochoclub",
+   "query": "vocho club exhibición",
+   "alt": [
+    "Volkswagen Sedan clasico exhibicion Mexico",
+    "vochos reunion"
+   ],
+   "n": 12
+  },
+  {
+   "id": "m_beetlemotor",
+   "query": "Volkswagen Beetle engine",
+   "alt": [
+    "VW Beetle air-cooled engine",
+    "Volkswagen flat four engine"
+   ],
+   "n": 10
+  }
+ ]
+}
