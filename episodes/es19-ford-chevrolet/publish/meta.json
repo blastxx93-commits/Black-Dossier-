@@ -1,0 +1,25 @@
+{
+ "lang": "es",
+ "tagline": "Historia real del automóvil, con fuentes.",
+ "compact_credits": true,
+ "music": "Música: \"Movement Proposition\" — Kevin MacLeod (incompetech.com). Licencia: Creative Commons: By Attribution 4.0 — http://creativecommons.org/licenses/by/4.0/",
+ "credits_file": "episodes/es19-ford-chevrolet/publish/creditos_completos.txt",
+ "other_line": "Imágenes: Wikimedia Commons y Openverse. Todas las imágenes son fotografías reales.",
+ "intro": "Ford o Chevrolet: la pregunta que dividió a la Argentina durante décadas. La historia de la gran rivalidad del Turismo Carretera: las cupecitas y los Gran Premio por rutas, los Gálvez y Fangio, La Galera de los Emiliozzi, La Coloradita de Bordeu, el Trueno Naranja, los Torino de Nürburgring, los Falcon, los Dodge… y Traverso, campeón con los dos.\n\nVídeo divulgativo basado en fuentes publicadas.",
+ "chapters": [
+  "Ford o Chevrolet",
+  "Las cupecitas y los Gálvez",
+  "El dominio de Ford",
+  "La Coloradita, el Torino y el Falcon",
+  "Dodge, los 90 y Traverso",
+  "¿Quién ganó la guerra?"
+ ],
+ "sources": [
+  "La Capital (Mar del Plata): Ford-Chevrolet, un duelo que le dio identidad al TC",
+  "Red Bull: TC, historia de una pasión",
+  "Automundo, El Litoral y El Gráfico: campeones y tabla histórica de títulos",
+  "Museo Fangio: Gran Premio de 1939",
+  "La Nación y Conclusión: 84 Horas de Nürburgring (1969)"
+ ],
+ "tags_line": "#turismocarretera #ford #chevrolet #autosclasicos #argentina"
+}
