@@ -8,7 +8,7 @@ sys.path.insert(0, os.path.join(HERE, "..", "..", "..", "engine"))
 import aus_kit as A
 from aus_kit import P, photo, rank, stat, say, cta, title, ch
 
-PHOTOS = {"r4": ["m_r4"], "r4c": ["m_r4copa"], "toca": ["m_tocancipa"], "med": ["m_medellin"], "rsr": ["m_rsr"],
+PHOTOS = {"r4": ["m_r4", "m_r4b"], "r4c": ["m_r4copa"], "toca": ["m_tocancipa"], "med": ["m_medellin"], "rsr": ["m_rsr"],
           "935": ["m_935"], "356": ["m_356"], "nap": ["m_napoles"], "hipo": ["m_hipo"], "bonnie": ["m_bonnie"],
           "ford36": ["m_ford36"], "cad": ["m_cadillac30"], "sl": ["m_300sl"], "600": ["m_600"]}
 CLIPS = json.load(open(os.path.join(HERE, "clips.json")))
@@ -19,7 +19,7 @@ RES = ["m_napoles/6", "m_napoles/1", "m_r4/13", "m_rsr/4", "m_356/11", "m_ford36
 A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FALLBACK, [], reserved=RES)
 A.THEME = "race"
 A.CLIP_TARGET = 0.0
-A.MAX_HOLD, A.KEEP = 12.0, 8.0
+A.MAX_HOLD, A.KEEP = 16.0, 11.0
 A.ARCHIVE_OK = True
 A.STRICT_POOLS = True
 A.SPLIT_BY_SUBJECT = True
