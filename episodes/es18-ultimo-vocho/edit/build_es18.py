@@ -8,7 +8,7 @@ sys.path.insert(0, os.path.join(HERE, "..", "..", "..", "engine"))
 import aus_kit as A
 from aus_kit import P, photo, stat, say, cta, title, ch
 
-PHOTOS = {"vocho": ["m_vocho"], "taxi": ["m_vochotaxi"], "ult": ["m_ultima"], "b50": ["m_beetle50"],
+PHOTOS = {"vocho": ["m_vocho", "m_vocho2", "m_vocho3"], "taxi": ["m_vochotaxi", "m_taxi2"], "ult": ["m_ultima"], "b50": ["m_beetle50"],
           "motor": ["m_beetlemotor"], "mix": ["m_vocho", "m_beetle50"]}
 CLIPS = json.load(open(os.path.join(HERE, "clips.json")))
 GENERIC = CLIPS.pop("_generic", [])
@@ -18,7 +18,7 @@ RES = ["m_ultima/2_openverse.jpg", "m_vochotaxi/10_openverse.jpg", "m_beetle50/1
 A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FALLBACK, [], reserved=[r.rsplit("_", 1)[0] for r in RES])
 A.THEME = "race"
 A.CLIP_TARGET = 0.0
-A.MAX_HOLD, A.KEEP = 16.0, 11.0
+A.MAX_HOLD, A.KEEP = 14.0, 10.0
 A.ARCHIVE_OK = True
 A.STRICT_POOLS = True
 A.SPLIT_BY_SUBJECT = True
