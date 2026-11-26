@@ -73,6 +73,37 @@
     "Volkswagen flat four engine"
    ],
    "n": 10
+  },
+  {
+   "id": "m_vocho2",
+   "query": "Volkswagen Sedan 1600i",
+   "alt": [
+    "VW Sedan Mexico 1990s",
+    "vocho clasico",
+    "Volkswagen escarabajo Mexico",
+    "Mexican Volkswagen Beetle"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_vocho3",
+   "query": "Volkswagen Käfer 1200",
+   "alt": [
+    "Volkswagen Beetle 1960s",
+    "VW Käfer 1967",
+    "Volkswagen 1300 Beetle"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_taxi2",
+   "query": "Mexico City taxi Volkswagen",
+   "alt": [
+    "taxi verde Ciudad de México vocho",
+    "vocho taxi DF",
+    "Volkswagen Beetle taxi green white"
+   ],
+   "n": 14
   }
  ]
 }
