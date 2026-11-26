@@ -1,0 +1,108 @@
+[     0s] fe07-animais-nao-tocar: 15 planos, limite 35.0 min
+[     0s] p_lion: 'Pterois volitans'
+[     0s]     commons: 12 candidatos em 0.4s
+[     1s]     openverse: 10 candidatos em 0.4s
+[     2s]     unsplash: 12 candidatos em 1.0s
+[     2s]     pixabay: 12 candidatos em 0.2s
+[     7s]   -> 6 imagens
+[     7s] p_scorp: 'Tityus serrulatus'
+[     8s]     commons: 9 candidatos em 0.8s
+[     8s]     openverse: 12 candidatos em 0.3s
+[     9s]     unsplash: 0 candidatos em 0.8s
+[     9s]     pixabay: 0 candidatos em 0.1s
+[    13s]   -> 6 imagens
+[    13s] p_scorpuv: 'scorpion ultraviolet'
+[    13s]     commons: 11 candidatos em 0.4s
+[    14s]     openverse: 8 candidatos em 0.3s
+[    14s]     unsplash: 0 candidatos em 0.9s
+[    15s]     pixabay: 12 candidatos em 0.1s
+[    19s]   -> 6 imagens
+[    19s] p_lonomia: 'Lonomia obliqua'
+[    19s]     commons: 8 candidatos em 0.9s
+[    20s]     openverse: 12 candidatos em 0.3s
+[    21s]     unsplash: 0 candidatos em 0.8s
+[    21s]     pixabay: 12 candidatos em 0.1s
+[    25s]   -> 6 imagens
+[    25s] p_cater: 'Megalopyge'
+[    26s]     commons: 11 candidatos em 0.7s
+[    26s]     openverse: 9 candidatos em 0.3s
+[    27s]     unsplash: 1 candidatos em 0.8s
+[    27s]     pixabay: 2 candidatos em 0.2s
+[    32s]   -> 6 imagens
+[    32s] p_ray: 'Potamotrygon'
+[    32s]     commons: 11 candidatos em 0.6s
+[    33s]     openverse: 12 candidatos em 0.3s
+[    34s]     unsplash: 0 candidatos em 0.9s
+[    34s]     pixabay: 1 candidatos em 0.2s
+[    49s]   -> 6 imagens
+[    49s] p_ray2: 'stingray'
+[    49s]     commons: 12 candidatos em 0.4s
+[    50s]     openverse: 12 candidatos em 0.7s
+[    51s]     unsplash: 12 candidatos em 0.7s
+[    51s]     pixabay: 12 candidatos em 0.1s
+[    55s]   -> 6 imagens
+[    55s] p_puffer: 'pufferfish'
+[    55s]     commons: 12 candidatos em 0.3s
+[    56s]     openverse: 10 candidatos em 0.2s
+[    56s]     unsplash: 12 candidatos em 0.8s
+[    56s]     pixabay: 12 candidatos em 0.1s
+[    61s]   -> 6 imagens
+[    61s] p_fugu: 'fugu dish'
+[    61s]     commons: 4 candidatos em 0.3s
+[    61s]     openverse: 10 candidatos em 0.4s
+[    62s]     unsplash: 12 candidatos em 0.9s
+[    62s]     pixabay: 12 candidatos em 0.2s
+[    67s]   -> 6 imagens
+[    67s] p_frog: 'Phyllobates terribilis'
+[    67s]     commons: 11 candidatos em 0.3s
+[    68s]     openverse: 10 candidatos em 0.3s
+[    69s]     unsplash: 12 candidatos em 0.8s
+[    69s]     pixabay: 2 candidatos em 0.2s
+[    73s]   -> 6 imagens
+[    73s] p_frog2: 'Dendrobates'
+[    74s]     commons: 12 candidatos em 0.5s
+[    74s]     openverse: 12 candidatos em 0.3s
+[    75s]     unsplash: 5 candidatos em 0.8s
+[    75s]     pixabay: 10 candidatos em 0.3s
+[   106s]     falhou download (openverse) em 30.0s
+[   110s]   -> 6 imagens
+[   110s] p_jelly: 'Chironex fleckeri'
+[   111s]     commons: 7 candidatos em 0.3s
+[   111s]     openverse: 10 candidatos em 0.3s
+[   112s]     unsplash: 0 candidatos em 0.8s
+[   112s]     pixabay: 0 candidatos em 0.1s
+[   143s]     falhou download (commons) em 30.0s
+[   174s]     falhou download (commons) em 30.0s
+[   204s]     falhou download (openverse) em 30.0s
+[   234s]     falhou download (commons) em 30.0s
+[   264s]     falhou download (openverse) em 30.0s
+[   266s]     falhou download (commons) em 0.0s
+[   269s]   -> 6 imagens
+[   269s] p_vinegar: 'stinger vinegar beach Australia'
+[   269s]     commons: 0 candidatos em 0.4s
+[   269s]     openverse: 1 candidatos em 0.3s
+[   270s]     unsplash: 0 candidatos em 0.9s
+[   270s]     pixabay: 12 candidatos em 0.2s
+[   275s]   -> 6 imagens
+[   275s] p_stone: 'Synanceia verrucosa'
+[   275s]     commons: 11 candidatos em 0.3s
+[   275s]     openverse: 11 candidatos em 0.3s
+[   276s]     unsplash: 0 candidatos em 0.8s
+[   276s]     pixabay: 12 candidatos em 0.1s
+[   277s]     falhou download (openverse) em 0.0s
+[   280s]   -> 6 imagens
+[   280s] p_stone2: 'Synanceia'
+[   281s]     commons: 12 candidatos em 0.6s
+[   281s]     openverse: 11 candidatos em 0.3s
+[   282s]     unsplash: 0 candidatos em 0.7s
+[   282s]     pixabay: 0 candidatos em 0.1s
+[   282s]     falhou download (commons) em 0.0s
+[   283s]     falhou download (openverse) em 0.0s
+[   283s]     falhou download (openverse) em 0.0s
+[   283s]     falhou download (openverse) em 0.0s
+[   283s]     falhou download (commons) em 0.0s
+[   285s]     falhou download (openverse) em 0.0s
+[   285s]     falhou download (commons) em 0.0s
+[   285s]     falhou download (commons) em 0.0s
+[   286s]   -> 6 imagens
+[   288s] fim: 90 imagens
