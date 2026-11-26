@@ -1,0 +1,22 @@
+# Conferência da narração (parágrafo a parágrafo)
+
+Temperatura 0.7, top_p 0.8, desvio máximo 2.0 semitom.
+
+| capítulo | parágrafo | tentativas | tom (Hz) | resultado |
+|---|---|---|---|---|
+| ch04 | 1 | 1 | 108 | ok |
+| ch04 | 2 | 1 | 89 | ok |
+| ch04 | 3 | 1 | 99 | ok |
+| ch04 | 4 | 1 | 93 | ok |
+| ch04 | 5 | 1 | 97 | ok |
+| ch04 | 6 | 1 | 95 | ok |
+| ch04 | 7 | 1 | 87 | ok |
+| ch08 | 1 | 1 | 124 | ⚠ tom fora (124 Hz, +4.6 st) |
+| ch08 | 2 | 1 | 101 | ok |
+| ch08 | 3 | 1 | 92 | ok |
+| ch08 | 4 | 1 | 96 | ok |
+| ch08 | 5 | 1 | 91 | ok |
+| ch08 | 6 | 1 | 89 | ok |
+| ch08 | 7 | 1 | 99 | ok |
+| ch08 | 8 | 1 | 93 | ok |
+| ch08 | 9 | 1 | 104 | ok |
