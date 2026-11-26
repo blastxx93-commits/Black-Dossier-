@@ -1,0 +1,145 @@
+{
+ "defaults": {
+  "n": 12,
+  "sources": [
+   "commons",
+   "openverse",
+   "loc"
+  ]
+ },
+ "shots": [
+  {
+   "id": "m_r4",
+   "query": "Renault 4 Colombia",
+   "alt": [
+    "Renault 4 GTL",
+    "Renault 4L",
+    "Renault 4 Sofasa"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_r4copa",
+   "query": "Renault 4 rally",
+   "alt": [
+    "Renault 4 racing",
+    "Renault 4 competición",
+    "Renault 4L course"
+   ],
+   "n": 10
+  },
+  {
+   "id": "m_rsr",
+   "query": "Porsche 911 RSR IROC",
+   "alt": [
+    "Porsche 911 Carrera RSR 3.0",
+    "Porsche RSR 1974",
+    "IROC Porsche"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_935",
+   "query": "Porsche 935",
+   "alt": [
+    "Porsche 935 K3",
+    "Porsche 935 1979"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_356",
+   "query": "Porsche 356",
+   "alt": [
+    "Porsche 356 A",
+    "Porsche 356 coupe",
+    "Porsche 356 B"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_napoles",
+   "query": "Hacienda Nápoles",
+   "alt": [
+    "Hacienda Napoles Escobar",
+    "Hacienda Nápoles Puerto Triunfo",
+    "Hacienda Napoles car"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_hipo",
+   "query": "Hacienda Nápoles hipopótamo",
+   "alt": [
+    "hippopotamus Colombia Magdalena",
+    "hipopótamos Doradal"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_ford36",
+   "query": "Ford 1936",
+   "alt": [
+    "1936 Ford sedan",
+    "Ford Model 48",
+    "Ford V8 1936"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_bonnie",
+   "query": "Bonnie and Clyde death car",
+   "alt": [
+    "Bonnie and Clyde car Primm",
+    "1934 Ford Bonnie Clyde"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_cadillac30",
+   "query": "Cadillac 1930s",
+   "alt": [
+    "Cadillac V16",
+    "Cadillac 1932",
+    "Cadillac 1930 sedan"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_300sl",
+   "query": "Mercedes-Benz 300 SL Gullwing",
+   "alt": [
+    "Mercedes 300 SL",
+    "Mercedes-Benz W198"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_600",
+   "query": "Mercedes-Benz 600 Pullman",
+   "alt": [
+    "Mercedes 600 Pullman",
+    "Mercedes-Benz W100"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_medellin",
+   "query": "Medellín años 70",
+   "alt": [
+    "Medellín 1970s",
+    "Medellin Colombia historic"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_tocancipa",
+   "query": "Autódromo de Tocancipá",
+   "alt": [
+    "Tocancipa autodromo",
+    "Tocancipá circuito"
+   ],
+   "n": 8
+  }
+ ]
+}
