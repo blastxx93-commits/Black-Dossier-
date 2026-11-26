@@ -1,0 +1,228 @@
+{
+ "theme": "sombrio",
+ "cards": [
+  {
+   "text": "Isso não é um filme de *terror.*",
+   "img": "a/FALTA/dark_1.jpg",
+   "kind": "frase",
+   "id": "hf01_frase",
+   "dur": 2.82
+  },
+  {
+   "kicker": "Era das Feras",
+   "title": "10 predadores|perturbadores",
+   "sub": "Caçadores que parecem saídos de um filme de terror",
+   "img": "a/p_croc/1_commons.jpg",
+   "blurin": true,
+   "kind": "titulo",
+   "id": "hf02_titulo",
+   "dur": 6.1
+  },
+  {
+   "num": 10,
+   "name": "Louva-a-deus",
+   "meta": [
+    [
+     "Arma",
+     "Patas-armadilha"
+    ],
+    [
+     "Ataque",
+     "< 0,1 s"
+    ]
+   ],
+   "img": "a/p_mantis/1_commons.jpg",
+   "label": "Caso",
+   "kind": "caso",
+   "id": "hf03_caso",
+   "dur": 5.4
+  },
+  {
+   "num": 9,
+   "name": "Vespa-joia",
+   "meta": [
+    [
+     "Arma",
+     "Veneno no cérebro"
+    ],
+    [
+     "Vítima",
+     "Barata"
+    ]
+   ],
+   "img": "a/p_jwasp/2_openverse.jpg",
+   "label": "Caso",
+   "kind": "caso",
+   "id": "hf04_caso",
+   "dur": 5.4
+  },
+  {
+   "num": 8,
+   "name": "Crocodilo-de-água-salgada",
+   "meta": [
+    [
+     "Tamanho",
+     "6+ m"
+    ],
+    [
+     "Técnica",
+     "Rolo da morte"
+    ]
+   ],
+   "img": "a/p_croc/2_openverse.jpg",
+   "label": "Caso",
+   "kind": "caso",
+   "id": "hf05_caso",
+   "dur": 5.4
+  },
+  {
+   "num": 7,
+   "name": "Dragão-de-komodo",
+   "meta": [
+    [
+     "Tamanho",
+     "3 m"
+    ],
+    [
+     "Arma",
+     "Veneno"
+    ]
+   ],
+   "img": "a/p_komodo/1_commons.jpg",
+   "label": "Caso",
+   "kind": "caso",
+   "id": "hf06_caso",
+   "dur": 5.4
+  },
+  {
+   "num": 6,
+   "name": "Orca",
+   "meta": [
+    [
+     "Habitat",
+     "Todos os oceanos"
+    ],
+    [
+     "Técnica",
+     "Caça em grupo"
+    ]
+   ],
+   "img": "a/p_orca/1_commons.jpg",
+   "label": "Caso",
+   "kind": "caso",
+   "id": "hf07_caso",
+   "dur": 5.4
+  },
+  {
+   "img": "a/FALTA/dark_2.jpg",
+   "text": "Curtindo o lado sombrio?",
+   "sub": "Deixa o like e se inscreve no canal",
+   "kind": "cta",
+   "id": "hf08_cta",
+   "dur": 5.8
+  },
+  {
+   "num": 5,
+   "name": "Peixe-pescador",
+   "meta": [
+    [
+     "Profundidade",
+     "1.000+ m"
+    ],
+    [
+     "Isca",
+     "Luz própria"
+    ]
+   ],
+   "img": "a/p_angler/3_unsplash.jpg",
+   "label": "Caso",
+   "kind": "caso",
+   "id": "hf09_caso",
+   "dur": 3.68
+  },
+  {
+   "num": 4,
+   "name": "Aranha-de-cuspe",
+   "meta": [
+    [
+     "Arma",
+     "Cola + veneno"
+    ],
+    [
+     "Teia",
+     "Não precisa"
+    ]
+   ],
+   "img": "a/p_spitting/1_commons.jpg",
+   "label": "Caso",
+   "kind": "caso",
+   "id": "hf10_caso",
+   "dur": 6.24
+  },
+  {
+   "num": 3,
+   "name": "Sucuri",
+   "meta": [
+    [
+     "Peso",
+     "100+ kg"
+    ],
+    [
+     "Habitat",
+     "Brasil"
+    ]
+   ],
+   "img": "a/p_anaconda/1_commons.jpg",
+   "label": "Caso",
+   "kind": "caso",
+   "id": "hf11_caso",
+   "dur": 5.64
+  },
+  {
+   "num": 2,
+   "name": "Polvo",
+   "meta": [
+    [
+     "Cérebros",
+     "9"
+    ],
+    [
+     "Arma",
+     "Bico + saliva tóxica"
+    ]
+   ],
+   "img": "a/p_octopus/1_commons.jpg",
+   "label": "Caso",
+   "kind": "caso",
+   "id": "hf12_caso",
+   "dur": 5.4
+  },
+  {
+   "num": 1,
+   "name": "Gato doméstico",
+   "meta": [
+    [
+     "Vítimas/ano",
+     "Bilhões"
+    ],
+    [
+     "Motivo",
+     "Instinto"
+    ]
+   ],
+   "img": "a/p_cat/3_unsplash.jpg",
+   "label": "Caso",
+   "kind": "caso",
+   "id": "hf13_caso",
+   "dur": 5.4
+  },
+  {
+   "img": "a/FALTA/cat_5.jpg",
+   "text": "Obrigado por assistir",
+   "sub": "Deixa o like e se inscreve no Era das Feras",
+   "kind": "cta",
+   "id": "hf14_cta",
+   "dur": 5.8
+  }
+ ]
+}

@@ -301,6 +301,99 @@
     "coverr"
    ],
    "n": 6
+  },
+  {
+   "id": "v_cat2",
+   "query": "cat",
+   "alt": [
+    "kitten playing",
+    "cat eyes"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 16
+  },
+  {
+   "id": "v_cat3",
+   "query": "cat outdoor",
+   "alt": [
+    "cat garden",
+    "cat jumping"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 12
+  },
+  {
+   "id": "v_croc2",
+   "query": "alligator",
+   "alt": [
+    "crocodile swimming"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 12
+  },
+  {
+   "id": "v_komodo2",
+   "query": "komodo dragon walking",
+   "alt": [
+    "varanus komodoensis"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 8
+  },
+  {
+   "id": "v_octo2",
+   "query": "octopus underwater",
+   "alt": [
+    "octopus sea"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 12
+  },
+  {
+   "id": "v_wasp2",
+   "query": "wasp nest",
+   "alt": [
+    "hornet"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 10
+  },
+  {
+   "id": "v_dark2",
+   "query": "storm night",
+   "alt": [
+    "dark clouds"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 6
   }
  ]
 }

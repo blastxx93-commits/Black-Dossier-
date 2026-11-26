@@ -105,6 +105,8 @@ def check_no_repeats(ep, allow=()):
                 f = s.get(k)
                 if not f or f in allow:
                     continue
+                if k == "src" and s.get("start"):   # a different segment of the same clip is a different shot
+                    f = f"{f}@{s['start']}"
                 if f in seen:
                     dup.append(f"{f}  (cap. {seen[f]} e cap. {ci})")
                 else:

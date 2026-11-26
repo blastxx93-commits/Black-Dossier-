@@ -124,8 +124,17 @@ def _clip_file(spec):
 
 def V(scene, cap=None, generic=False):
     for spec in CFG["clips"].get(scene, []) + (CFG["generic_clips"] if generic else []):
+        spec, _, st = spec.partition("@")      # "v_x/1@5": a second, non-overlapping segment of the same clip
         f = _clip_file(spec)
-        if f and claim(f):
+        if not f:
+            continue
+        if st:
+            key = f"{f}@{st}"
+            if key in USED or f not in USED:      # the segment only after the clip's first use
+                continue
+            USED.add(key); COUNT["vid"] += 1
+            return K.vid(f, cap=cap, fit="crop", start=float(st))
+        if claim(f):
             COUNT["vid"] += 1
             return K.vid(f, cap=cap, fit="crop")
     return None
@@ -254,9 +263,10 @@ def finish(chapters, output, ctx, subtitles=None, music_gain=-29):  # -29 dB: be
         for s in chap["shots"]:
             for k in ("src", "photo", "bg"):
                 if s.get(k):
-                    if s[k] in seen:
-                        sys.exit(f"IMAGEM REPETIDA: {s[k]} (cap. {seen[s[k]]} e {ci})")
-                    seen[s[k]] = ci
+                    key = s[k] + (f"@{s['start']}" if k == "src" and s.get("start") else "")
+                    if key in seen:
+                        sys.exit(f"IMAGEM REPETIDA: {key} (cap. {seen[key]} e {ci})")
+                    seen[key] = ci
     vid = sum(s["dur"] for c in ep["chapters"] for s in c["shots"] if s["type"] == "video")
     img = sum(s["dur"] for c in ep["chapters"] for s in c["shots"] if s["type"] == "image")
     n = sum(len(c["shots"]) for c in ep["chapters"])
