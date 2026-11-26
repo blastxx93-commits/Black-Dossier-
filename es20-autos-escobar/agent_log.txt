@@ -1,0 +1,159 @@
+[     0s] es20-autos-escobar: 14 planos, limite 35.0 min
+[     0s] m_r4: 'Renault 4 Colombia'
+[     1s]     commons: 12 candidatos em 0.7s
+[    35s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[    35s]     openverse: 0 candidatos em 34.1s
+[    69s]   ! www.loc.gov: HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out. (read timeout=15)
+[    69s]     loc: 0 candidatos em 34.1s
+[    90s]     commons: 12 candidatos em 0.6s
+[   111s]   ! api.openverse.org: 500 Server Error: Internal Server Error for url: https://api.openverse.org/v1/images/?q=Renault+4+GTL&license=pdm%2Ccc0%2Cby%2Cby-sa&page_size=12&mature=false
+[   111s]     openverse: 0 candidatos em 21.1s
+[   119s]     loc: 0 candidatos em 8.1s
+[   121s]   -> 14 imagens
+[   121s] m_r4copa: 'Renault 4 rally'
+[   122s]     commons: 12 candidatos em 0.9s
+[   156s]   ! api.openverse.org: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=15)
+[   156s]   ! api.openverse.org desligado nesta execucao (3 falhas seguidas)
+[   156s]     openverse: 0 candidatos em 34.1s
+[   180s]   ! www.loc.gov: 429 rate limit
+[   180s]     loc: 0 candidatos em 24.0s
+[   196s]   -> 10 imagens
+[   196s] m_rsr: 'Porsche 911 RSR IROC'
+[   197s]     commons: 5 candidatos em 0.5s
+[   197s]     openverse: 0 candidatos em 0.0s
+[   221s]   ! www.loc.gov: 429 rate limit
+[   221s]     loc: 0 candidatos em 24.0s
+[   226s]     commons: 12 candidatos em 0.6s
+[   226s]     openverse: 0 candidatos em 0.0s
+[   250s]   ! www.loc.gov: 429 rate limit
+[   250s]   ! www.loc.gov desligado nesta execucao (3 falhas seguidas)
+[   250s]     loc: 0 candidatos em 24.0s
+[   258s]   -> 14 imagens
+[   258s] m_935: 'Porsche 935'
+[   258s]     commons: 12 candidatos em 0.5s
+[   258s]     openverse: 0 candidatos em 0.0s
+[   258s]     loc: 0 candidatos em 0.0s
+[   269s]     commons: 12 candidatos em 0.5s
+[   269s]     openverse: 0 candidatos em 0.0s
+[   269s]     loc: 0 candidatos em 0.0s
+[   274s]   -> 14 imagens
+[   274s] m_356: 'Porsche 356'
+[   274s]     commons: 12 candidatos em 0.7s
+[   274s]     openverse: 0 candidatos em 0.0s
+[   274s]     loc: 0 candidatos em 0.0s
+[   285s]     commons: 12 candidatos em 0.5s
+[   285s]     openverse: 0 candidatos em 0.0s
+[   285s]     loc: 0 candidatos em 0.0s
+[   286s]   -> 14 imagens
+[   286s] m_napoles: 'Hacienda Nápoles'
+[   287s]     commons: 12 candidatos em 0.5s
+[   287s]     openverse: 0 candidatos em 0.0s
+[   287s]     loc: 0 candidatos em 0.0s
+[   319s]     falhou download (commons) em 30.0s
+[   350s]     falhou download (commons) em 30.0s
+[   354s]     commons: 12 candidatos em 0.7s
+[   354s]     openverse: 0 candidatos em 0.0s
+[   354s]     loc: 0 candidatos em 0.0s
+[   357s]   -> 14 imagens
+[   357s] m_hipo: 'Hacienda Nápoles hipopótamo'
+[   357s]     commons: 5 candidatos em 0.3s
+[   357s]     openverse: 0 candidatos em 0.0s
+[   357s]     loc: 0 candidatos em 0.0s
+[   390s]     falhou download (commons) em 30.0s
+[   391s]     commons: 0 candidatos em 0.3s
+[   391s]     openverse: 0 candidatos em 0.0s
+[   391s]     loc: 0 candidatos em 0.0s
+[   391s]     commons: 0 candidatos em 0.4s
+[   391s]     openverse: 0 candidatos em 0.0s
+[   391s]     loc: 0 candidatos em 0.0s
+[   391s]   -> 4 imagens
+[   391s] m_ford36: 'Ford 1936'
+[   392s]     commons: 11 candidatos em 1.2s
+[   392s]     openverse: 0 candidatos em 0.0s
+[   392s]     loc: 0 candidatos em 0.0s
+[   423s]     falhou download (commons) em 30.0s
+[   427s]     falhou download (commons) em 0.0s
+[   439s]     commons: 12 candidatos em 0.7s
+[   439s]     openverse: 0 candidatos em 0.0s
+[   439s]     loc: 0 candidatos em 0.0s
+[   440s]     falhou download (commons) em 0.0s
+[   448s]   -> 14 imagens
+[   448s] m_bonnie: 'Bonnie and Clyde death car'
+[   449s]     commons: 1 candidatos em 0.4s
+[   449s]     openverse: 0 candidatos em 0.0s
+[   449s]     loc: 0 candidatos em 0.0s
+[   449s]     falhou download (commons) em 0.0s
+[   449s]     commons: 0 candidatos em 0.3s
+[   449s]     openverse: 0 candidatos em 0.0s
+[   449s]     loc: 0 candidatos em 0.0s
+[   449s]     commons: 4 candidatos em 0.4s
+[   449s]     openverse: 0 candidatos em 0.0s
+[   449s]     loc: 0 candidatos em 0.0s
+[   449s]     falhou download (commons) em 0.0s
+[   452s]   -> 3 imagens
+[   452s] m_cadillac30: 'Cadillac 1930s'
+[   452s]     commons: 11 candidatos em 0.6s
+[   452s]     openverse: 0 candidatos em 0.0s
+[   452s]     loc: 0 candidatos em 0.0s
+[   454s]     falhou download (commons) em 0.0s
+[   461s]     commons: 12 candidatos em 0.6s
+[   461s]     openverse: 0 candidatos em 0.0s
+[   461s]     loc: 0 candidatos em 0.0s
+[   462s]     falhou download (commons) em 0.0s
+[   465s]   -> 14 imagens
+[   465s] m_300sl: 'Mercedes-Benz 300 SL Gullwing'
+[   466s]     commons: 12 candidatos em 0.6s
+[   466s]     openverse: 0 candidatos em 0.0s
+[   466s]     loc: 0 candidatos em 0.0s
+[   476s]     commons: 12 candidatos em 0.4s
+[   476s]     openverse: 0 candidatos em 0.0s
+[   476s]     loc: 0 candidatos em 0.0s
+[   476s]     falhou download (commons) em 0.0s
+[   477s]   -> 14 imagens
+[   477s] m_600: 'Mercedes-Benz 600 Pullman'
+[   478s]     commons: 10 candidatos em 0.9s
+[   478s]     openverse: 0 candidatos em 0.0s
+[   478s]     loc: 0 candidatos em 0.0s
+[   479s]     falhou download (commons) em 0.0s
+[   480s]     falhou download (commons) em 0.0s
+[   481s]     falhou download (commons) em 0.0s
+[   484s]     commons: 10 candidatos em 0.5s
+[   484s]     openverse: 0 candidatos em 0.0s
+[   484s]     loc: 0 candidatos em 0.0s
+[   484s]     falhou download (commons) em 0.0s
+[   486s]     commons: 12 candidatos em 0.6s
+[   486s]     openverse: 0 candidatos em 0.0s
+[   486s]     loc: 0 candidatos em 0.0s
+[   492s]   -> 14 imagens
+[   492s] m_medellin: 'Medellín años 70'
+[   492s]     commons: 10 candidatos em 0.7s
+[   492s]     openverse: 0 candidatos em 0.0s
+[   492s]     loc: 0 candidatos em 0.0s
+[   493s]     falhou download (commons) em 0.0s
+[   494s]     falhou download (commons) em 0.0s
+[   494s]     falhou download (commons) em 0.0s
+[   494s]     falhou download (commons) em 0.0s
+[   494s]     falhou download (commons) em 0.0s
+[   494s]     falhou download (commons) em 0.0s
+[   494s]     falhou download (commons) em 0.0s
+[   494s]     falhou download (commons) em 0.0s
+[   494s]     commons: 2 candidatos em 0.3s
+[   494s]     openverse: 0 candidatos em 0.0s
+[   494s]     loc: 0 candidatos em 0.0s
+[   497s]     commons: 12 candidatos em 0.7s
+[   497s]     openverse: 0 candidatos em 0.0s
+[   497s]     loc: 0 candidatos em 0.0s
+[   501s]   -> 8 imagens
+[   501s] m_tocancipa: 'Autódromo de Tocancipá'
+[   501s]     commons: 3 candidatos em 0.5s
+[   501s]     openverse: 0 candidatos em 0.0s
+[   501s]     loc: 0 candidatos em 0.0s
+[   504s]     commons: 3 candidatos em 0.4s
+[   504s]     openverse: 0 candidatos em 0.0s
+[   504s]     loc: 0 candidatos em 0.0s
+[   504s]     commons: 4 candidatos em 0.4s
+[   504s]     openverse: 0 candidatos em 0.0s
+[   504s]     loc: 0 candidatos em 0.0s
+[   504s]     falhou download (commons) em 0.0s
+[   504s]   -> 3 imagens
+[   510s] fim: 154 imagens
