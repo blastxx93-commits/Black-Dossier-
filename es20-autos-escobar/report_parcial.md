@@ -7,6 +7,6 @@
 
 | plano | imagens |
 |---|---|
-| `m_r4b` | 14 |
+| `m_napoles2` | 14 |
 
 Licenças e autores de cada arquivo estão em `credits.csv`. Itens da Library of Congress marcados 'verificar' precisam de uma olhada na página antes de usar.

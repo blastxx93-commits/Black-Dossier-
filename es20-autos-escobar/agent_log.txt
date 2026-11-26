@@ -1,8 +1,12 @@
 [     0s] es20-autos-escobar: 1 planos, limite 35.0 min
-[     0s] m_r4b: 'Renault 4L'
-[     0s]     commons: 9 candidatos em 0.4s
-[    19s]     openverse: 12 candidatos em 18.7s
-[    55s]   ! www.loc.gov: HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out. (read timeout=15)
-[    55s]     loc: 0 candidatos em 35.7s
-[    66s]   -> 14 imagens
-[    67s] fim: 14 imagens
+[     0s] m_napoles2: 'Parque Temático Hacienda Nápoles'
+[     1s]     commons: 12 candidatos em 0.9s
+[     5s]     openverse: 0 candidatos em 4.2s
+[    39s]   ! www.loc.gov: HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out. (read timeout=15)
+[    39s]     loc: 0 candidatos em 34.1s
+[    47s]     commons: 6 candidatos em 0.4s
+[    51s]     openverse: 0 candidatos em 4.2s
+[    85s]   ! www.loc.gov: HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out. (read timeout=15)
+[    85s]     loc: 0 candidatos em 34.1s
+[    86s]   -> 14 imagens
+[    87s] fim: 14 imagens
