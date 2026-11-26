@@ -154,7 +154,12 @@ def media(proj, wd, src, n):
     """Copies a picture into the project, shrunk to 1920 px wide (keeps the render light)."""
     from PIL import Image
     out = f"m/{n}.jpg"
-    im = Image.open(os.path.join(wd, src)).convert("RGB")
+    path = os.path.join(wd, src)
+    if path.lower().endswith((".mp4", ".mov", ".webm")):   # a card can get a clip: use a frame from its middle
+        fr = os.path.join(proj, "m", f"{n}_frame.jpg")
+        subprocess.run(["ffmpeg", "-v", "error", "-y", "-ss", "3", "-i", path, "-frames:v", "1", "-q:v", "2", fr], check=True)
+        path = fr
+    im = Image.open(path).convert("RGB")
     if im.width > 2200:
         im = im.resize((2200, round(im.height * 2200 / im.width)), Image.LANCZOS)
     im.save(os.path.join(proj, out), quality=92)
