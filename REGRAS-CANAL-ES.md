@@ -122,3 +122,8 @@ Durante a narração, a tela mostra SEMPRE o que está sendo falado. Nada de car
 - Uma âncora no build para cada mudança de assunto na narração (cada carro, pessoa ou lugar citado).
 - Se faltarem fotos de um assunto: buscar mais fotos dele. Nunca preencher com outro carro.
 - A conferência da grade de quadros verifica também se cada quadro corresponde à legenda daquele momento.
+
+## Próximos temas aprovados (26/11)
+- es21: Por qué estos autos NUNCA morían (Renault 4, Vocho, Falcon, Peugeot 404…) — curiosidade/técnica
+- es22: Inventos que llegaron 30 años antes (Citroën DS hidroneumática, faro direccional, inyección 300 SL, turbo 930…)
+Começar só depois de entregar o es20.
