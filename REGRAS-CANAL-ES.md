@@ -110,3 +110,6 @@ Todo pacote de publicação leva `publish/palavras_chave.txt`, montado com pesqu
 - Título, thumbnail e tags: usar "autos" (às vezes "carros"). É o termo com mais busca e o que o público latino usa.
 - Narração: misturar. Usar "autos"/"carros" ao falar da América Latina e "coches" ao falar da Espanha.
 - Tags: sempre incluir as três formas (autos, carros, coches) para captar todas as buscas.
+
+## Thumbnails (26/11)
+A partir do es19 o dono faz as thumbnails. Eu só entrego ideias de thumb (composição, texto curto, cores, fotos sugeridas) no pacote de publicação; não gerar thumbnail.jpg.
