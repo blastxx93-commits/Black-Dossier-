@@ -1,0 +1,190 @@
+{
+ "theme": "sombrio",
+ "cards": [
+  {
+   "text": "Os mais perigosos são *pequenos.*",
+   "img": "a/video/v_scorp2/1_pixabay.mp4",
+   "kind": "frase",
+   "id": "hf01_frase",
+   "dur": 6.22
+  },
+  {
+   "kicker": "Era das Feras",
+   "title": "Não toque|nesses animais",
+   "sub": "8 animais que ninguém deveria tocar",
+   "img": "a/p_frog/2_openverse.jpg",
+   "blurin": true,
+   "kind": "titulo",
+   "id": "hf02_titulo",
+   "dur": 5.3
+  },
+  {
+   "num": 8,
+   "name": "Peixe-leão",
+   "meta": [
+    [
+     "Arma",
+     "Espinhos venenosos"
+    ],
+    [
+     "Invasor",
+     "Atlântico"
+    ]
+   ],
+   "img": "a/p_lion/1_commons.jpg",
+   "label": "Caso",
+   "kind": "caso",
+   "id": "hf03_caso",
+   "dur": 6.28
+  },
+  {
+   "num": 7,
+   "name": "Escorpião-amarelo",
+   "meta": [
+    [
+     "Acidentes",
+     "100 mil+/ano"
+    ],
+    [
+     "Onde",
+     "Cidades"
+    ]
+   ],
+   "img": "a/p_scorp/1_commons.jpg",
+   "label": "Caso",
+   "kind": "caso",
+   "id": "hf04_caso",
+   "dur": 6.66
+  },
+  {
+   "num": 6,
+   "name": "Taturana (Lonomia)",
+   "meta": [
+    [
+     "Veneno",
+     "Anticoagulante"
+    ],
+    [
+     "Onde",
+     "Sul do Brasil"
+    ]
+   ],
+   "img": "a/p_lonomia/5_openverse.jpg",
+   "label": "Caso",
+   "kind": "caso",
+   "id": "hf05_caso",
+   "dur": 4.72
+  },
+  {
+   "num": 5,
+   "name": "Arraia",
+   "meta": [
+    [
+     "Arma",
+     "Ferrão serrilhado"
+    ],
+    [
+     "Onde",
+     "Rios e mar"
+    ]
+   ],
+   "img": "a/p_ray/2_openverse.jpg",
+   "label": "Caso",
+   "kind": "caso",
+   "id": "hf06_caso",
+   "dur": 6.0
+  },
+  {
+   "img": "a/video/v_scorp2/2_pixabay.mp4",
+   "text": "Está gostando?",
+   "sub": "Deixa o like e se inscreve no canal",
+   "kind": "cta",
+   "id": "hf07_cta",
+   "dur": 5.8
+  },
+  {
+   "num": 4,
+   "name": "Baiacu",
+   "meta": [
+    [
+     "Toxina",
+     "Tetrodotoxina"
+    ],
+    [
+     "Antídoto",
+     "Não existe"
+    ]
+   ],
+   "img": "a/p_puffer/1_commons.jpg",
+   "label": "Caso",
+   "kind": "caso",
+   "id": "hf08_caso",
+   "dur": 3.46
+  },
+  {
+   "num": 3,
+   "name": "Sapo-dardo",
+   "meta": [
+    [
+     "Tamanho",
+     "Ponta do dedo"
+    ],
+    [
+     "Veneno",
+     "Da dieta"
+    ]
+   ],
+   "img": "a/p_frog/3_unsplash.jpg",
+   "label": "Caso",
+   "kind": "caso",
+   "id": "hf09_caso",
+   "dur": 6.48
+  },
+  {
+   "num": 2,
+   "name": "Água-viva-caixa",
+   "meta": [
+    [
+     "Tentáculos",
+     "Até 3 m"
+    ],
+    [
+     "Olhos",
+     "24"
+    ]
+   ],
+   "img": "a/p_jelly/2_openverse.jpg",
+   "label": "Caso",
+   "kind": "caso",
+   "id": "hf10_caso",
+   "dur": 5.4
+  },
+  {
+   "num": 1,
+   "name": "Peixe-pedra",
+   "meta": [
+    [
+     "Espinhos",
+     "13"
+    ],
+    [
+     "Título",
+     "Peixe mais venenoso"
+    ]
+   ],
+   "img": "a/p_stone/3_commons.jpg",
+   "label": "Caso",
+   "kind": "caso",
+   "id": "hf11_caso",
+   "dur": 5.54
+  },
+  {
+   "img": "a/p_stone2/1_commons.jpg",
+   "text": "Obrigado por assistir",
+   "sub": "Deixa o like e se inscreve no Era das Feras",
+   "kind": "cta",
+   "id": "hf12_cta",
+   "dur": 5.699
+  }
+ ]
+}

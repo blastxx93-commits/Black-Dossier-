@@ -13,8 +13,9 @@ F.MOTION_CYCLE[:] = ["parallax", "push", "pan_l", "parallax", "pull", "diag", "p
 PHOTOS = {"lion": ["p_lion"], "scorp": ["p_scorp", "p_scorpuv"], "cater": ["p_lonomia", "p_cater", "ai:ai_lonomia_tree"], "ray": ["p_ray", "p_ray2"],
           "puffer": ["p_puffer", "p_fugu"], "frog": ["p_frog", "p_frog2"], "jelly": ["p_jelly", "p_vinegar"], "stone": ["p_stone", "p_stone2"], "dark": []}
 CL = json.load(open(os.path.join(HERE, "clips.json")))
-CLIPS = {"lion": CL["lion"] + CL["reef"][:5], "scorp": CL["scorp"], "cater": CL["cater"], "ray": CL["ray"] + CL["beach"][:4], "puffer": CL["puffer"] + CL["reef"][5:10],
+CLIPS = {"lion": CL["lion"] + CL["reef"][:5], "scorp": CL["scorp"], "cater": CL["cater"], "ray": CL["ray"] + CL["beach"][:4], "puffer": CL["puffer"] + ["v_puffer/1", "v_puffer/2"] + CL["reef"][5:10] + [c + "@4" for c in ["v_puffer/1", "v_puffer/2", "v_puffer/4"]],
          "frog": CL["frog"], "jelly": CL["jelly"], "stone": CL["reef"][10:] + CL["beach"][4:], "dark": CL["dark"]}
+CLIPS = {k: v + [c + o for o in ("@2.8", "@5.6") for c in v if "@" not in c] for k, v in CLIPS.items()}   # last resort: a later moment of the same clip
 FALLBACK = {k: ["dark"] for k in PHOTOS}
 A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, CL["dark"], FALLBACK, ["dark"])
 A.CLIP_TARGET = 0.75
@@ -60,9 +61,9 @@ for name, num, title, scene, meta in ROUNDS:
     cs = cues(name)
     if name == "ch05":   # subscribe call before the case
         c.at(0, hf("cta", img="scene:dark", text="Está gostando?", sub="Deixa o like e se inscreve no canal"))
-        i = next(k for k, p in enumerate(cs) if p.startswith("O baiacu."))
-        c.at(cs[i], hf("caso", num=num, name=title, meta=meta, img=f"scene:{scene}", label="Caso"))
-        cs = cs[i + 1:]
+        i = next(k for k, p in enumerate(cs) if p.startswith("Quando se sente"))
+        c.at("Número quatro", hf("caso", num=num, name=title, meta=meta, img=f"scene:{scene}", label="Caso"))
+        cs = cs[i:]
     else:
         c.at(0, hf("caso", num=num, name=title, meta=meta, img=f"scene:{scene}", label="Caso"))
         cs = cs[1:]
