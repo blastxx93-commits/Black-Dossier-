@@ -117,6 +117,44 @@
     "Gran Premio Turismo Carretera"
    ],
    "n": 10
+  },
+  {
+   "id": "m_falcon2",
+   "query": "Ford Falcon Argentina 1970",
+   "alt": [
+    "Ford Falcon Sprint",
+    "Ford Falcon argentino",
+    "Falcon Turismo Carretera histórico"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_chevy2",
+   "query": "Chevrolet Chevy coupé SS Argentina",
+   "alt": [
+    "Chevrolet Chevy Serie 2",
+    "Chevy Turismo Carretera histórico",
+    "Chevrolet 400 Argentina"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_chev40",
+   "query": "Chevrolet Master coupé 1940",
+   "alt": [
+    "Chevrolet 1939 coupe",
+    "Chevrolet coupé Turismo Carretera histórico"
+   ],
+   "n": 10
+  },
+  {
+   "id": "m_ford40",
+   "query": "Ford coupé 1939 Turismo Carretera",
+   "alt": [
+    "Ford 1940 coupe",
+    "Ford V8 coupe 1937"
+   ],
+   "n": 10
   }
  ]
 }
