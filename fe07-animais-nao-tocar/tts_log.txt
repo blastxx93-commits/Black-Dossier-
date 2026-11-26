@@ -1,0 +1,20 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+ch00_hook: 4 parágrafos, 41s, tom-alvo 95 Hz
+ch01 §1 tentativa 1: tom fora (110 Hz, +2.5 st)
+ch01 §4 tentativa 1: tom fora (84 Hz, -2.1 st)
+ch01: 7 parágrafos, 76s, tom-alvo 95 Hz
+ch02 §1 tentativa 1: tom fora (125 Hz, +4.7 st)
+ch02 §4 tentativa 1: tom fora (84 Hz, -2.2 st)
+ch02: 7 parágrafos, 84s, tom-alvo 96 Hz
+ch03 §1 tentativa 1: tom fora (109 Hz, +2.3 st)
+ch03: 7 parágrafos, 76s, tom-alvo 95 Hz
+ch04 §1 tentativa 1: tom fora (122 Hz, +4.3 st)
+Traceback (most recent call last):
+  File "/home/runner/work/Black-Dossier-/Black-Dossier-/main/agent/tts_stable.py", line 183, in <module>
+    main()
+  File "/home/runner/work/Black-Dossier-/Black-Dossier-/main/agent/tts_stable.py", line 143, in main
+    x, sr = pcm(synth(key, voice, model, ptxt, a.temperature, a.top_p))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Black-Dossier-/Black-Dossier-/main/agent/tts_stable.py", line 53, in synth
+    raise RuntimeError(f"Fish Audio {r.status_code}: {r.text[:300]}")
+RuntimeError: Fish Audio 402: {"status":402,"message":"Insufficient API credit for this model. For text-to-speech you can generate for free right now with the model s2.1-pro-free (send the header `model: s2.1-pro-free`). To use paid models, add API credit at https://fish.audio/app/developers/billing (API credit is separate from 
