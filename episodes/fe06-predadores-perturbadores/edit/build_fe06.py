@@ -14,7 +14,7 @@ PHOTOS = {"mantis": ["p_mantis", "p_mantisbird", "ai:ai_mantis_bird"], "wasp": [
           "orca": ["p_orca", "p_seal", "ai:ai_orca_wave"], "deep": ["p_angler", "ai:ai_angler"], "spider": ["p_spitting", "p_bolas"],
           "snake": ["p_anaconda"], "octo": ["p_octopus"], "cat": ["p_cat"], "dark": []}
 CL = json.load(open(os.path.join(HERE, "clips.json")))
-CL = {k: v + [c + "@4.5" for c in v] for k, v in CL.items()}   # each 8 s clip also gives a second segment
+CL = {k: v + [c + "@2.8" for c in v] + [c + "@5.6" for c in v] for k, v in CL.items()}   # each 8 s clip gives up to 3 non-overlapping segments
 CLIPS = {"mantis": CL["mantis"] + CL["bird"], "wasp": CL["wasp"] + CL["roach"], "croc": CL["croc"] + CL["zebra"], "komodo": CL["komodo"],
          "orca": CL["orca"] + CL["seal"], "deep": CL["deep"], "spider": CL["spider"], "snake": CL["snake"] + CL["capi"], "octo": CL["octo"],
          "cat": CL["cat"], "dark": CL["dark"]}

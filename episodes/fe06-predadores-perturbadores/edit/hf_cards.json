@@ -3,7 +3,7 @@
  "cards": [
   {
    "text": "Isso não é um filme de *terror.*",
-   "img": "a/FALTA/dark_1.jpg",
+   "img": "a/video/v_dark/1_pixabay.mp4",
    "kind": "frase",
    "id": "hf01_frase",
    "dur": 2.82
@@ -114,7 +114,7 @@
    "dur": 5.4
   },
   {
-   "img": "a/FALTA/dark_2.jpg",
+   "img": "a/video/v_dark/3_pixabay.mp4",
    "text": "Curtindo o lado sombrio?",
    "sub": "Deixa o like e se inscreve no canal",
    "kind": "cta",
@@ -191,7 +191,7 @@
      "Bico + saliva tóxica"
     ]
    ],
-   "img": "a/p_octopus/1_commons.jpg",
+   "img": "a/p_octopus/3_unsplash.jpg",
    "label": "Caso",
    "kind": "caso",
    "id": "hf12_caso",
@@ -217,7 +217,7 @@
    "dur": 5.4
   },
   {
-   "img": "a/FALTA/cat_5.jpg",
+   "img": "a/video/v_cat2/3_pixabay.mp4",
    "text": "Obrigado por assistir",
    "sub": "Deixa o like e se inscreve no Era das Feras",
    "kind": "cta",
