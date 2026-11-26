@@ -1,67 +1,37 @@
-[     0s] es18-ultimo-vocho: 7 planos, limite 35.0 min
-[     0s] m_vocho: 'Volkswagen Sedán México'
-[     1s]     commons: 11 candidatos em 0.7s
-[     1s]     openverse: 1 candidatos em 0.5s
-[    26s]     loc: 0 candidatos em 24.6s
-[    35s]     commons: 12 candidatos em 0.5s
-[    36s]     openverse: 8 candidatos em 0.4s
-[    40s]     loc: 0 candidatos em 4.4s
-[    42s]   -> 14 imagens
-[    42s] m_vochotaxi: 'taxi vocho'
-[    42s]     commons: 2 candidatos em 0.5s
-[    43s]     openverse: 6 candidatos em 0.6s
-[    51s]     loc: 0 candidatos em 8.4s
-[    58s]     commons: 9 candidatos em 0.5s
-[    58s]     openverse: 2 candidatos em 0.4s
-[    81s]     loc: 0 candidatos em 23.0s
-[    85s]   -> 14 imagens
-[    85s] m_ultima: 'Volkswagen Sedán Última Edición'
-[    85s]     commons: 9 candidatos em 0.5s
-[    86s]     openverse: 2 candidatos em 0.5s
-[   120s]   ! www.loc.gov: HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out. (read timeout=15)
-[   120s]     loc: 0 candidatos em 34.1s
-[   165s]     falhou download (commons) em 30.0s
-[   167s]     commons: 0 candidatos em 0.3s
-[   167s]     openverse: 0 candidatos em 0.2s
-[   181s]     loc: 0 candidatos em 14.4s
-[   182s]     commons: 0 candidatos em 0.4s
-[   182s]     openverse: 0 candidatos em 0.5s
-[   216s]   ! www.loc.gov: HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out. (read timeout=15)
-[   216s]     loc: 0 candidatos em 34.1s
-[   216s]   -> 9 imagens
-[   216s] m_beetle50: 'Volkswagen Beetle 1950s'
-[   217s]     commons: 12 candidatos em 0.5s
-[   217s]     openverse: 12 candidatos em 0.7s
-[   242s]     loc: 0 candidatos em 24.3s
-[   254s]   -> 14 imagens
-[   254s] m_vwpuebla: 'Volkswagen Puebla planta'
-[   254s]     commons: 0 candidatos em 0.4s
-[   254s]     openverse: 0 candidatos em 0.5s
-[   290s]   ! www.loc.gov: HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out.
-[   290s]     loc: 0 candidatos em 35.9s
-[   291s]     commons: 4 candidatos em 0.4s
-[   291s]     openverse: 11 candidatos em 0.5s
-[   302s]     loc: 0 candidatos em 10.3s
-[   309s]   -> 10 imagens
-[   309s] m_vochoclub: 'vocho club exhibición'
-[   310s]     commons: 0 candidatos em 0.3s
-[   310s]     openverse: 0 candidatos em 0.4s
-[   344s]   ! www.loc.gov: HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out. (read timeout=15)
-[   344s]     loc: 0 candidatos em 34.1s
-[   345s]     commons: 0 candidatos em 0.4s
-[   345s]     openverse: 0 candidatos em 0.4s
-[   370s]     loc: 0 candidatos em 25.2s
-[   371s]     commons: 0 candidatos em 0.4s
-[   371s]     openverse: 0 candidatos em 0.1s
-[   383s]     loc: 0 candidatos em 12.3s
-[   383s]   -> 0 imagens
-[   383s] m_beetlemotor: 'Volkswagen Beetle engine'
-[   383s]     commons: 12 candidatos em 0.4s
-[   384s]     openverse: 11 candidatos em 0.5s
-[   385s]     loc: 0 candidatos em 1.0s
-[   418s]     falhou download (openverse) em 30.1s
-[   449s]     falhou download (commons) em 30.0s
-[   479s]     falhou download (openverse) em 30.0s
-[   510s]     falhou download (openverse) em 30.0s
-[   513s]   -> 10 imagens
-[   515s] fim: 71 imagens
+[     0s] es18-ultimo-vocho: 3 planos, limite 35.0 min
+[     0s] m_vocho2: 'Volkswagen Sedan 1600i'
+[     1s]     commons: 5 candidatos em 0.7s
+[     1s]     openverse: 1 candidatos em 0.4s
+[    18s]     loc: 0 candidatos em 17.1s
+[    24s]     commons: 0 candidatos em 0.5s
+[    24s]     openverse: 0 candidatos em 0.6s
+[    41s]     loc: 0 candidatos em 17.0s
+[    42s]     commons: 0 candidatos em 0.4s
+[    42s]     openverse: 0 candidatos em 0.3s
+[    76s]   ! www.loc.gov: HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out. (read timeout=15)
+[    76s]     loc: 0 candidatos em 34.0s
+[    76s]     commons: 12 candidatos em 0.5s
+[    77s]     openverse: 0 candidatos em 0.8s
+[   107s]     loc: 0 candidatos em 29.4s
+[   112s]   -> 14 imagens
+[   112s] m_vocho3: 'Volkswagen Käfer 1200'
+[   112s]     commons: 11 candidatos em 0.5s
+[   112s]     openverse: 12 candidatos em 0.4s
+[   136s]   ! www.loc.gov: 429 rate limit
+[   136s]     loc: 0 candidatos em 24.0s
+[   146s]   -> 14 imagens
+[   146s] m_taxi2: 'Mexico City taxi Volkswagen'
+[   147s]     commons: 10 candidatos em 0.5s
+[   147s]     openverse: 3 candidatos em 0.3s
+[   171s]   ! www.loc.gov: 429 rate limit
+[   171s]     loc: 0 candidatos em 24.0s
+[   190s]     commons: 0 candidatos em 0.4s
+[   190s]     openverse: 0 candidatos em 0.3s
+[   214s]   ! www.loc.gov: 429 rate limit
+[   214s]   ! www.loc.gov desligado nesta execucao (3 falhas seguidas)
+[   214s]     loc: 0 candidatos em 24.0s
+[   215s]     commons: 0 candidatos em 0.4s
+[   215s]     openverse: 1 candidatos em 0.4s
+[   215s]     loc: 0 candidatos em 0.0s
+[   216s]   -> 14 imagens
+[   216s] fim: 42 imagens
