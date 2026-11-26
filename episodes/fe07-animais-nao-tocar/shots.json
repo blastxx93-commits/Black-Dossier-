@@ -1,0 +1,133 @@
+{
+ "defaults": {
+  "n": 3,
+  "sources": [
+   "commons",
+   "openverse",
+   "unsplash",
+   "pixabay"
+  ]
+ },
+ "shots": [
+  {
+   "id": "p_lion",
+   "query": "Pterois volitans",
+   "alt": [
+    "lionfish"
+   ],
+   "n": 6
+  },
+  {
+   "id": "p_scorp",
+   "query": "Tityus serrulatus",
+   "alt": [
+    "scorpion"
+   ],
+   "n": 6
+  },
+  {
+   "id": "p_scorpuv",
+   "query": "scorpion ultraviolet",
+   "alt": [
+    "scorpion fluorescence"
+   ],
+   "n": 6
+  },
+  {
+   "id": "p_lonomia",
+   "query": "Lonomia obliqua",
+   "alt": [
+    "Lonomia caterpillar"
+   ],
+   "n": 6
+  },
+  {
+   "id": "p_cater",
+   "query": "Megalopyge",
+   "alt": [
+    "hairy caterpillar"
+   ],
+   "n": 6
+  },
+  {
+   "id": "p_ray",
+   "query": "Potamotrygon",
+   "alt": [
+    "freshwater stingray"
+   ],
+   "n": 6
+  },
+  {
+   "id": "p_ray2",
+   "query": "stingray",
+   "alt": [
+    "Dasyatis"
+   ],
+   "n": 6
+  },
+  {
+   "id": "p_puffer",
+   "query": "pufferfish",
+   "alt": [
+    "Tetraodontidae"
+   ],
+   "n": 6
+  },
+  {
+   "id": "p_fugu",
+   "query": "fugu dish",
+   "alt": [
+    "fugu sashimi"
+   ],
+   "n": 6
+  },
+  {
+   "id": "p_frog",
+   "query": "Phyllobates terribilis",
+   "alt": [
+    "golden poison frog"
+   ],
+   "n": 6
+  },
+  {
+   "id": "p_frog2",
+   "query": "Dendrobates",
+   "alt": [
+    "poison dart frog"
+   ],
+   "n": 6
+  },
+  {
+   "id": "p_jelly",
+   "query": "Chironex fleckeri",
+   "alt": [
+    "box jellyfish"
+   ],
+   "n": 6
+  },
+  {
+   "id": "p_vinegar",
+   "query": "stinger vinegar beach Australia",
+   "alt": [
+    "box jellyfish warning sign"
+   ],
+   "n": 6
+  },
+  {
+   "id": "p_stone",
+   "query": "Synanceia verrucosa",
+   "alt": [
+    "stonefish"
+   ],
+   "n": 6
+  },
+  {
+   "id": "p_stone2",
+   "query": "Synanceia",
+   "alt": [
+    "reef stonefish"
+   ],
+   "n": 6
+  }
+ ]
+}

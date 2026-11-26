@@ -1,0 +1,23 @@
+{
+ "model": "black-forest-labs/flux-1.1-pro-ultra",
+ "raw": true,
+ "n": 1,
+ "style": ", photorealistic, natural light, sharp focus, cinematic 16:9, no text, no watermark",
+ "shots": [
+  {
+   "id": "ai_stone_foot",
+   "prompt": "A bare human foot about to step on a camouflaged stonefish hidden among rocks in shallow tropical water, close-up, realistic photo",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_lonomia_tree",
+   "prompt": "A cluster of spiky green-brown Lonomia caterpillars camouflaged on a tree trunk bark, close-up macro, realistic photo",
+   "tier": "cheap"
+  },
+  {
+   "id": "ai_box_jelly",
+   "prompt": "A nearly transparent box jellyfish with long tentacles in clear shallow ocean water, sunlight, realistic underwater photo",
+   "tier": "cheap"
+  }
+ ]
+}

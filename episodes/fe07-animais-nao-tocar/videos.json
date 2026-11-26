@@ -1,0 +1,268 @@
+{
+ "defaults": {
+  "n": 3,
+  "clip": 8,
+  "sources": [
+   "pexels",
+   "pixabay",
+   "coverr"
+  ]
+ },
+ "shots": [
+  {
+   "id": "v_lion",
+   "query": "lionfish",
+   "alt": [
+    "lion fish",
+    "scorpionfish"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 16
+  },
+  {
+   "id": "v_lion2",
+   "query": "lionfish reef",
+   "alt": [
+    "pterois"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 10
+  },
+  {
+   "id": "v_scorp",
+   "query": "scorpion",
+   "alt": [
+    "scorpion desert"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 16
+  },
+  {
+   "id": "v_scorp2",
+   "query": "scorpion uv",
+   "alt": [
+    "scorpion night"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 8
+  },
+  {
+   "id": "v_cater",
+   "query": "caterpillar",
+   "alt": [
+    "hairy caterpillar",
+    "larva"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 16
+  },
+  {
+   "id": "v_cater2",
+   "query": "caterpillar tree",
+   "alt": [
+    "moth caterpillar"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 10
+  },
+  {
+   "id": "v_ray",
+   "query": "stingray",
+   "alt": [
+    "ray fish",
+    "manta"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 16
+  },
+  {
+   "id": "v_ray2",
+   "query": "stingray sand",
+   "alt": [
+    "stingray underwater"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 10
+  },
+  {
+   "id": "v_puffer",
+   "query": "pufferfish",
+   "alt": [
+    "puffer fish",
+    "blowfish"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 16
+  },
+  {
+   "id": "v_puffer2",
+   "query": "puffer fish inflate",
+   "alt": [
+    "fugu"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 8
+  },
+  {
+   "id": "v_frog",
+   "query": "poison dart frog",
+   "alt": [
+    "frog colorful",
+    "tree frog"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 16
+  },
+  {
+   "id": "v_frog2",
+   "query": "frog rainforest",
+   "alt": [
+    "frog"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 12
+  },
+  {
+   "id": "v_jelly",
+   "query": "jellyfish",
+   "alt": [
+    "jelly fish",
+    "box jellyfish"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 16
+  },
+  {
+   "id": "v_jelly2",
+   "query": "jellyfish dark",
+   "alt": [
+    "jellyfish tentacles"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 12
+  },
+  {
+   "id": "v_stone",
+   "query": "stonefish",
+   "alt": [
+    "scorpionfish camouflage",
+    "reef fish camouflage"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 12
+  },
+  {
+   "id": "v_reef",
+   "query": "coral reef",
+   "alt": [
+    "reef underwater"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 12
+  },
+  {
+   "id": "v_beach",
+   "query": "beach waves",
+   "alt": [
+    "tropical beach",
+    "shallow water"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 10
+  },
+  {
+   "id": "v_rain",
+   "query": "amazon rainforest",
+   "alt": [
+    "jungle"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 10
+  },
+  {
+   "id": "v_city",
+   "query": "city night",
+   "alt": [
+    "drain"
+   ],
+   "sources": [
+    "pexels",
+    "pixabay",
+    "coverr"
+   ],
+   "n": 6
+  }
+ ]
+}
