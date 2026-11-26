@@ -113,3 +113,12 @@ Todo pacote de publicação leva `publish/palavras_chave.txt`, montado com pesqu
 
 ## Thumbnails (26/11)
 A partir do es19 o dono faz as thumbnails. Eu só entrego ideias de thumb (composição, texto curto, cores, fotos sugeridas) no pacote de publicação; não gerar thumbnail.jpg.
+
+## Imagem = narração (26/11)
+Durante a narração, a tela mostra SEMPRE o que está sendo falado. Nada de carros aleatórios.
+- Falou de um carro: mostrar fotos ou clipes desse carro (modelo e época certos).
+- Falou de uma pessoa, lugar, fábrica ou evento (ex.: Fangio, Puebla, táxi da capital, Nürburgring): mostrar isso, ou o carro ligado diretamente a isso.
+- Proibido usar pools "mix" ou genéricos com carros que não estão sendo citados. Fallback só para o MESMO carro.
+- Uma âncora no build para cada mudança de assunto na narração (cada carro, pessoa ou lugar citado).
+- Se faltarem fotos de um assunto: buscar mais fotos dele. Nunca preencher com outro carro.
+- A conferência da grade de quadros verifica também se cada quadro corresponde à legenda daquele momento.
