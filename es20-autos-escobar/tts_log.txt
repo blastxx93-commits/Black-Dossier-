@@ -1,0 +1,10 @@
+provedor: fish, modelo: s2.1-pro
+Traceback (most recent call last):
+  File "/home/runner/work/Black-Dossier-/Black-Dossier-/main/agent/tts.py", line 144, in <module>
+    main()
+  File "/home/runner/work/Black-Dossier-/Black-Dossier-/main/agent/tts.py", line 120, in main
+    open(pw, "wb").write(synth(key, voice, model, p, a.speed))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Black-Dossier-/Black-Dossier-/main/agent/tts.py", line 39, in synth
+    raise RuntimeError(f"Fish Audio {r.status_code}: {r.text[:300]}")
+RuntimeError: Fish Audio 402: {"status":402,"message":"Insufficient API credit for this model. For text-to-speech you can generate for free right now with the model s2.1-pro-free (send the header `model: s2.1-pro-free`). To use paid models, add API credit at https://fish.audio/app/developers/billing (API credit is separate from 
