@@ -14,12 +14,12 @@ PHOTOS = {"cup": ["m_cupecita", "m_tcpublico", "m_galera"], "ford": ["m_ford40",
 CLIPS = json.load(open(os.path.join(HERE, "clips.json")))
 GENERIC = CLIPS.pop("_generic", [])
 FALLBACK = {k: [] for k in PHOTOS}
-FALLBACK.update({"ford": ["cup"], "chev": ["chevy", "cup"], "trueno": ["chevy"], "fangio": ["chev"], "chevy": ["chev"], "falcon": ["ford"], "cup": ["ford", "chev"], "mix": ["torino", "dodge", "ford"]})
+FALLBACK.update({"ford": ["cup"], "chev": ["chevy", "cup"], "trueno": ["chevy", "chev"], "fangio": ["chev"], "chevy": ["chev", "cup"], "falcon": ["ford"], "cup": ["ford", "chev"], "mix": ["torino", "dodge", "ford"]})
 RES = ["m_cupecita/10", "m_galvez/4", "m_galera/5", "m_trueno/2", "m_torinotc/11", "m_dodgetc/1", "m_falcon2/10"]
 A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FALLBACK, [], reserved=RES)
 A.THEME = "race"
 A.CLIP_TARGET = 0.0
-A.MAX_HOLD, A.KEEP = 14.0, 10.0
+A.MAX_HOLD, A.KEEP = 16.0, 11.0
 A.ARCHIVE_OK = True
 A.STRICT_POOLS = True
 A.SPLIT_BY_SUBJECT = True
@@ -77,6 +77,7 @@ c.at("La guerra ya no era solo de dos", P("mix"))
 c.at("Según las fuentes, Emilio Satriano", P("chevy"))
 c.at("Y entonces llegó uno de los giros", P("falcon"))
 c.at("Y con Chevrolet, según las fuentes", stat("1995 · 1996 · 1997", "Traverso campeón con Chevrolet", "según las fuentes", count=False))
+c.at("Al año siguiente", P("chevy"))
 c.at("Pero la historia de Traverso", P("falcon"))
 c.at("Esa rivalidad se vivía", P("cup"))
 c.at("Y cuando la carrera pasaba", P("cup"))
@@ -92,5 +93,5 @@ c.at("Y ahora te pregunto a ti", P("mix"))
 c.at("Y si has llegado hasta aquí", cta("Gracias por llegar al final", "suscríbete y déjame tu opinión", tv=True, remote=True))
 chapters.append(c)
 
-CTX = ["cup", "cup", "ford", "torino", "dodge", "mix"]
+CTX = ["cup", "cup", "ford", "torino", "mix", "mix"]
 print(A.finish(chapters, "ES19_FORD_CHEVROLET.mp4", CTX, subtitles="ES19.ass"))
