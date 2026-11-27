@@ -15,7 +15,7 @@ FALLBACK = {k: [] for k in PHOTOS}
 FALLBACK.update({"taxi": ["w123"], "w123": ["taxi"], "mus": ["w123"], "2cvm": ["2cv"], "r4d": ["r4"], "vwm": ["vocho"]})
 RES = ["m_w123taxi/11", "m_2cv/13", "m_600b/2", "m_404/1", "m_falcon/13", "m_w123/1", "m_r4/10", "m_vocho/1"]
 A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FALLBACK, [], reserved=RES)
-A.THEME = "race"; A.CLIP_TARGET = 0.0; A.MAX_HOLD, A.KEEP = 12.0, 8.0
+A.THEME = "race"; A.CLIP_TARGET = 0.0; A.MAX_HOLD, A.KEEP = 14.0, 10.0
 A.ARCHIVE_OK = True; A.STRICT_POOLS = True; A.SPLIT_BY_SUBJECT = True
 chapters = []
 
