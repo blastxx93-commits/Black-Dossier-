@@ -1,0 +1,109 @@
+[     0s] es23-sovieticos-latam: 11 planos, limite 35.0 min
+[     0s] m_ladacuba: 'Lada Cuba'
+[     1s]     commons: 12 candidatos em 0.6s
+[     1s]     openverse: 11 candidatos em 0.7s
+[    15s]     loc: 0 candidatos em 14.1s
+[    37s]   -> 14 imagens
+[    37s] m_lada: 'Lada 2101'
+[    37s]     commons: 12 candidatos em 0.6s
+[    38s]     openverse: 11 candidatos em 0.8s
+[    62s]   ! www.loc.gov: 429 rate limit
+[    62s]     loc: 0 candidatos em 24.0s
+[    73s]   -> 14 imagens
+[    73s] m_fiat124: 'Fiat 124'
+[    74s]     commons: 12 candidatos em 0.5s
+[    74s]     openverse: 8 candidatos em 0.6s
+[    98s]   ! www.loc.gov: 429 rate limit
+[    98s]     loc: 0 candidatos em 24.0s
+[   106s]   -> 10 imagens
+[   106s] m_togliatti: 'AvtoVAZ Togliatti'
+[   107s]     commons: 12 candidatos em 0.6s
+[   108s]     openverse: 9 candidatos em 1.3s
+[   132s]   ! www.loc.gov: 429 rate limit
+[   132s]   ! www.loc.gov desligado nesta execucao (3 falhas seguidas)
+[   132s]     loc: 0 candidatos em 24.0s
+[   176s]     falhou download (commons) em 30.0s
+[   206s]     falhou download (openverse) em 30.0s
+[   237s]     falhou download (openverse) em 30.0s
+[   267s]     falhou download (commons) em 30.0s
+[   267s]     falhou download (openverse) em 0.0s
+[   268s]     falhou download (openverse) em 0.0s
+[   268s]     falhou download (commons) em 0.0s
+[   271s]     falhou download (commons) em 0.0s
+[   271s]     falhou download (openverse) em 0.0s
+[   272s]   -> 8 imagens
+[   272s] m_moskvich: 'Moskvitch 412'
+[   273s]     commons: 12 candidatos em 1.4s
+[   274s]     openverse: 12 candidatos em 0.7s
+[   274s]     loc: 0 candidatos em 0.0s
+[   276s]     falhou download (commons) em 0.0s
+[   277s]     falhou download (commons) em 0.0s
+[   277s]     falhou download (commons) em 0.0s
+[   277s]     falhou download (openverse) em 0.0s
+[   277s]     falhou download (commons) em 0.0s
+[   278s]     falhou download (commons) em 0.0s
+[   279s]     falhou download (commons) em 0.0s
+[   279s]     falhou download (openverse) em 0.0s
+[   279s]     falhou download (commons) em 0.0s
+[   279s]     falhou download (openverse) em 0.0s
+[   279s]     falhou download (commons) em 0.0s
+[   279s]     falhou download (openverse) em 0.0s
+[   279s]     falhou download (commons) em 0.0s
+[   279s]     falhou download (openverse) em 0.0s
+[   279s]     falhou download (commons) em 0.0s
+[   279s]     falhou download (openverse) em 0.0s
+[   279s]     falhou download (commons) em 0.0s
+[   279s]     falhou download (openverse) em 0.0s
+[   280s]     commons: 12 candidatos em 1.3s
+[   281s]     openverse: 12 candidatos em 0.8s
+[   281s]     loc: 0 candidatos em 0.0s
+[   282s]     falhou download (openverse) em 0.0s
+[   283s]     falhou download (openverse) em 0.0s
+[   284s]     falhou download (openverse) em 0.0s
+[   285s]     falhou download (openverse) em 0.0s
+[   285s]     falhou download (openverse) em 0.0s
+[   286s]     falhou download (openverse) em 0.0s
+[   286s]     falhou download (commons) em 0.0s
+[   286s]     falhou download (openverse) em 0.0s
+[   287s]     falhou download (openverse) em 0.0s
+[   288s]   -> 14 imagens
+[   288s] m_volga: 'GAZ-24 Volga'
+[   289s]     commons: 12 candidatos em 0.8s
+[   289s]     openverse: 12 candidatos em 0.6s
+[   289s]     loc: 0 candidatos em 0.0s
+[   292s]     falhou download (openverse) em 0.0s
+[   293s]     falhou download (openverse) em 0.0s
+[   298s]     falhou download (openverse) em 0.0s
+[   299s]     falhou download (openverse) em 0.0s
+[   300s]     falhou download (openverse) em 0.0s
+[   301s]   -> 14 imagens
+[   301s] m_polski: 'Polski Fiat 126p'
+[   302s]     commons: 12 candidatos em 0.6s
+[   302s]     openverse: 11 candidatos em 0.6s
+[   302s]     loc: 0 candidatos em 0.0s
+[   304s]     falhou download (commons) em 0.0s
+[   314s]   -> 14 imagens
+[   314s] m_niva: 'Lada Niva'
+[   315s]     commons: 11 candidatos em 0.5s
+[   315s]     openverse: 8 candidatos em 0.6s
+[   315s]     loc: 0 candidatos em 0.0s
+[   327s]   -> 14 imagens
+[   327s] m_samara: 'Lada Samara'
+[   327s]     commons: 12 candidatos em 0.7s
+[   328s]     openverse: 9 candidatos em 0.5s
+[   328s]     loc: 0 candidatos em 0.0s
+[   330s]     falhou download (commons) em 0.0s
+[   330s]     falhou download (commons) em 0.0s
+[   333s]     falhou download (commons) em 0.0s
+[   336s]   -> 10 imagens
+[   336s] m_habana: 'Havana classic cars street'
+[   337s]     commons: 12 candidatos em 1.2s
+[   338s]     openverse: 10 candidatos em 0.5s
+[   338s]     loc: 0 candidatos em 0.0s
+[   348s]   -> 14 imagens
+[   348s] m_laika: 'Lada Laika'
+[   349s]     commons: 12 candidatos em 0.8s
+[   349s]     openverse: 1 candidatos em 0.4s
+[   349s]     loc: 0 candidatos em 0.0s
+[   357s]   -> 10 imagens
+[   361s] fim: 136 imagens
