@@ -1,0 +1,145 @@
+[     0s] es22-inventos-adelantados: 16 planos, limite 35.0 min
+[     0s] m_ds: 'Citroën DS'
+[     0s]     commons: 10 candidatos em 0.4s
+[     1s]     openverse: 10 candidatos em 0.2s
+[    35s]   ! www.loc.gov: HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out. (read timeout=15)
+[    35s]     loc: 0 candidatos em 34.1s
+[    44s]   -> 14 imagens
+[    44s] m_dssusp: 'Citroën DS hydropneumatic sphere'
+[    44s]     commons: 7 candidatos em 0.5s
+[    45s]     openverse: 0 candidatos em 0.1s
+[    79s]   ! www.loc.gov: HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out. (read timeout=15)
+[    79s]     loc: 0 candidatos em 34.1s
+[    83s]     commons: 11 candidatos em 0.6s
+[    84s]     openverse: 10 candidatos em 0.7s
+[   102s]     loc: 0 candidatos em 17.9s
+[   103s]   -> 8 imagens
+[   103s] m_dsfaros: 'Citroën DS directional headlights'
+[   103s]     commons: 0 candidatos em 0.5s
+[   103s]     openverse: 0 candidatos em 0.1s
+[   109s]     loc: 0 candidatos em 6.0s
+[   110s]     commons: 9 candidatos em 0.5s
+[   110s]     openverse: 9 candidatos em 0.2s
+[   134s]   ! www.loc.gov: 429 rate limit
+[   134s]     loc: 0 candidatos em 24.0s
+[   163s]   -> 8 imagens
+[   163s] m_ctype: 'Jaguar C-Type'
+[   163s]     commons: 12 candidatos em 0.4s
+[   164s]     openverse: 10 candidatos em 0.2s
+[   188s]   ! www.loc.gov: 429 rate limit
+[   188s]     loc: 0 candidatos em 24.0s
+[   198s]   -> 14 imagens
+[   198s] m_disco: 'disc brake classic car'
+[   198s]     commons: 12 candidatos em 0.5s
+[   198s]     openverse: 9 candidatos em 0.2s
+[   222s]   ! www.loc.gov: 429 rate limit
+[   222s]   ! www.loc.gov desligado nesta execucao (3 falhas seguidas)
+[   222s]     loc: 0 candidatos em 24.0s
+[   252s]     falhou download (commons) em 30.0s
+[   258s]   -> 8 imagens
+[   258s] m_mini: 'Morris Mini Minor'
+[   258s]     commons: 12 candidatos em 0.4s
+[   258s]     openverse: 12 candidatos em 0.2s
+[   258s]     loc: 0 candidatos em 0.0s
+[   293s]     falhou download (commons) em 30.0s
+[   323s]     falhou download (openverse) em 30.0s
+[   353s]     falhou download (commons) em 30.0s
+[   353s]     falhou download (openverse) em 0.0s
+[   357s]     falhou download (openverse) em 0.0s
+[   361s]   -> 14 imagens
+[   361s] m_minimotor: 'Mini transverse engine'
+[   362s]     commons: 12 candidatos em 0.5s
+[   362s]     openverse: 12 candidatos em 0.4s
+[   362s]     loc: 0 candidatos em 0.0s
+[   369s]   -> 8 imagens
+[   369s] m_300sl: 'Mercedes-Benz 300 SL Gullwing'
+[   369s]     commons: 12 candidatos em 0.3s
+[   369s]     openverse: 11 candidatos em 0.3s
+[   369s]     loc: 0 candidatos em 0.0s
+[   378s]   -> 14 imagens
+[   378s] m_w111: 'Mercedes-Benz W111'
+[   378s]     commons: 12 candidatos em 0.2s
+[   379s]     openverse: 11 candidatos em 0.5s
+[   379s]     loc: 0 candidatos em 0.0s
+[   379s]     falhou download (openverse) em 0.0s
+[   381s]     falhou download (commons) em 0.0s
+[   381s]     falhou download (openverse) em 0.0s
+[   381s]     falhou download (openverse) em 0.0s
+[   383s]     falhou download (openverse) em 0.0s
+[   384s]     falhou download (openverse) em 0.0s
+[   384s]     falhou download (openverse) em 0.0s
+[   385s]     falhou download (openverse) em 0.0s
+[   386s]     falhou download (openverse) em 0.0s
+[   386s]     falhou download (openverse) em 0.0s
+[   387s]     commons: 11 candidatos em 0.5s
+[   388s]     openverse: 11 candidatos em 0.2s
+[   388s]     loc: 0 candidatos em 0.0s
+[   388s]   -> 14 imagens
+[   388s] m_barenyi: 'Béla Barényi'
+[   388s]     commons: 3 candidatos em 0.3s
+[   389s]     openverse: 3 candidatos em 0.1s
+[   389s]     loc: 0 candidatos em 0.0s
+[   389s]     falhou download (commons) em 0.0s
+[   390s]     falhou download (openverse) em 0.0s
+[   391s]     falhou download (openverse) em 0.0s
+[   391s]     commons: 3 candidatos em 0.4s
+[   391s]     openverse: 0 candidatos em 0.1s
+[   391s]     loc: 0 candidatos em 0.0s
+[   391s]   -> 3 imagens
+[   391s] m_w116: 'Mercedes-Benz W116'
+[   391s]     commons: 11 candidatos em 0.3s
+[   392s]     openverse: 11 candidatos em 0.4s
+[   392s]     loc: 0 candidatos em 0.0s
+[   392s]     falhou download (openverse) em 0.0s
+[   393s]     falhou download (openverse) em 0.0s
+[   395s]     falhou download (openverse) em 0.0s
+[   396s]     falhou download (commons) em 0.0s
+[   396s]     falhou download (openverse) em 0.0s
+[   397s]     falhou download (openverse) em 0.0s
+[   397s]     falhou download (commons) em 0.0s
+[   397s]     falhou download (openverse) em 0.0s
+[   397s]     falhou download (openverse) em 0.0s
+[   397s]     falhou download (commons) em 0.0s
+[   397s]     falhou download (openverse) em 0.0s
+[   398s]     falhou download (openverse) em 0.0s
+[   399s]     commons: 12 candidatos em 0.4s
+[   399s]     openverse: 12 candidatos em 0.2s
+[   399s]     loc: 0 candidatos em 0.0s
+[   400s]     falhou download (commons) em 0.0s
+[   401s]   -> 14 imagens
+[   401s] m_w126: 'Mercedes-Benz W126'
+[   402s]     commons: 12 candidatos em 0.5s
+[   402s]     openverse: 10 candidatos em 0.3s
+[   402s]     loc: 0 candidatos em 0.0s
+[   405s]     falhou download (openverse) em 0.0s
+[   409s]     falhou download (openverse) em 0.0s
+[   411s]     falhou download (openverse) em 0.0s
+[   411s]   -> 14 imagens
+[   411s] m_volvo: 'Volvo Amazon'
+[   411s]     commons: 12 candidatos em 0.2s
+[   412s]     openverse: 12 candidatos em 0.3s
+[   412s]     loc: 0 candidatos em 0.0s
+[   421s]   -> 14 imagens
+[   421s] m_930: 'Porsche 930 Turbo'
+[   422s]     commons: 12 candidatos em 0.3s
+[   422s]     openverse: 10 candidatos em 0.3s
+[   422s]     loc: 0 candidatos em 0.0s
+[   428s]     falhou download (openverse) em 0.0s
+[   428s]     falhou download (openverse) em 0.0s
+[   430s]     falhou download (openverse) em 0.0s
+[   431s]   -> 14 imagens
+[   431s] m_ro80: 'NSU Ro 80'
+[   431s]     commons: 10 candidatos em 0.2s
+[   431s]     openverse: 11 candidatos em 0.2s
+[   431s]     loc: 0 candidatos em 0.0s
+[   432s]     falhou download (openverse) em 0.0s
+[   433s]     falhou download (openverse) em 0.0s
+[   436s]     falhou download (openverse) em 0.0s
+[   439s]     falhou download (commons) em 0.0s
+[   441s]   -> 14 imagens
+[   441s] m_787b: 'Mazda 787B'
+[   441s]     commons: 12 candidatos em 0.2s
+[   441s]     openverse: 12 candidatos em 0.3s
+[   441s]     loc: 0 candidatos em 0.0s
+[   446s]   -> 8 imagens
+[   452s] fim: 183 imagens
