@@ -1,0 +1,25 @@
+{
+ "lang": "es",
+ "tagline": "Historia real del automóvil, con fuentes.",
+ "compact_credits": true,
+ "music": "Música: \"Movement Proposition\" — Kevin MacLeod (incompetech.com). Licencia: Creative Commons: By Attribution 4.0 — http://creativecommons.org/licenses/by/4.0/",
+ "credits_file": "episodes/es22-inventos-adelantados/publish/creditos_completos.txt",
+ "other_line": "Imágenes: Wikimedia Commons y Openverse. Todas las imágenes son fotografías reales.",
+ "intro": "Inventos que llegaron treinta años antes de tiempo: los frenos de disco del Jaguar C-Type en Le Mans (1953), el motor transversal del Mini (1959), la inyección directa del Mercedes 300 SL (1954), la zona de deformación de Béla Barényi, la suspensión hidroneumática y los faros direccionales del Citroën DS, el ABS (1978) y el airbag (1981)… y el cinturón de tres puntos, el turbo y el motor rotativo.\n\nVídeo divulgativo basado en fuentes publicadas.",
+ "chapters": [
+  "El auto que respiraba",
+  "8 · Frenos de disco · 7 · Motor transversal",
+  "6 · Inyección directa · 5 · Zona de deformación",
+  "4 · Suspensión hidroneumática · 3 · Faros direccionales",
+  "2 · ABS · 1 · Airbag",
+  "Cinturón, turbo y motor rotativo"
+ ],
+ "sources": [
+  "DPMA (oficina alemana de patentes): Béla Barényi y la zona de deformación (1951, W111 1959)",
+  "Historia de Mercedes-Benz: 300 SL, ABS (1978) y airbag (1981)",
+  "Historia de Citroën: DS (1955)",
+  "Historia de Jaguar: C-Type, Le Mans 1953",
+  "Historia de Volvo: cinturón de tres puntos (1959)"
+ ],
+ "tags_line": "#autosclasicos #inventos #citroends #mercedes #historia"
+}

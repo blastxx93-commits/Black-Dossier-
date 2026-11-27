@@ -1,0 +1,25 @@
+{
+ "lang": "es",
+ "tagline": "Historia real del automóvil, con fuentes.",
+ "compact_credits": true,
+ "music": "Música: \"Movement Proposition\" — Kevin MacLeod (incompetech.com). Licencia: Creative Commons: By Attribution 4.0 — http://creativecommons.org/licenses/by/4.0/",
+ "credits_file": "episodes/es21-nunca-morian/publish/creditos_completos.txt",
+ "other_line": "Imágenes: Wikimedia Commons y Openverse. Todas las imágenes son fotografías reales.",
+ "intro": "¿Por qué los autos de antes duraban toda la vida? Del Citroën Dos Caballos y el Fiat 600 al Peugeot 404, el Ford Falcon argentino, el Mercedes diésel que superó los 7 millones de km como taxi, el Renault 4 y el Vocho: los secretos técnicos de los autos que nunca morían.\n\nVídeo divulgativo basado en fuentes publicadas.",
+ "chapters": [
+  "El taxi de 7 millones de km",
+  "7 · Citroën 2CV · 6 · Fiat 600",
+  "5 · Peugeot 404 · 4 · Ford Falcon",
+  "3 · Mercedes 240 D · 2 · Renault 4",
+  "1 · Vocho y los secretos",
+  "Por qué no morían"
+ ],
+ "sources": [
+  "Diariomotor, Autofácil y Motor1: taxi Mercedes de Gran Canaria (7 millones de km)",
+  "Motor1 y Motorpasión México: Mercedes 240 D de 4,6 millones de km (Museo Mercedes-Benz)",
+  "Wikipedia, iProfesional y Autotest: Ford Falcon argentino (494.209 unidades)",
+  "El Colombiano y El Carro Colombiano: Renault 4 en Colombia",
+  "Stellantis y Autocosmos: Fiat 600 y Peugeot 404 en Argentina"
+ ],
+ "tags_line": "#autosclasicos #vocho #renault4 #fordfalcon #historia"
+}
