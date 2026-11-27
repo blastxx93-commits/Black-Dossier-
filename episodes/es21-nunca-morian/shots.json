@@ -1,0 +1,135 @@
+{
+ "defaults": {
+  "n": 12,
+  "sources": [
+   "commons",
+   "openverse",
+   "loc"
+  ]
+ },
+ "shots": [
+  {
+   "id": "m_w123taxi",
+   "query": "Mercedes-Benz W123 taxi",
+   "alt": [
+    "Mercedes 240D taxi",
+    "Mercedes W123 240 D"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_2cv",
+   "query": "Citroën 2CV",
+   "alt": [
+    "Citroen 2CV 6",
+    "Citroën 2CV Vigo",
+    "2CV Charleston"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_2cvmotor",
+   "query": "Citroën 2CV engine",
+   "alt": [
+    "2CV moteur",
+    "Citroen 2CV flat twin"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_600",
+   "query": "Fiat 600",
+   "alt": [
+    "Fiat 600 D",
+    "Fiat 600 Argentina",
+    "SEAT 600"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_404",
+   "query": "Peugeot 404",
+   "alt": [
+    "Peugeot 404 taxi",
+    "Peugeot 404 pick-up",
+    "Peugeot 404 Argentina"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_falcon",
+   "query": "Ford Falcon Argentina",
+   "alt": [
+    "Ford Falcon Futura",
+    "Ford Falcon argentino",
+    "Ford Falcon 1980 Argentina"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_falconmotor",
+   "query": "Ford Falcon 221 engine",
+   "alt": [
+    "Ford six cylinder 221",
+    "Ford Falcon motor"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_w123",
+   "query": "Mercedes-Benz W123",
+   "alt": [
+    "Mercedes 300 D W123",
+    "Mercedes-Benz 240 D"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_w123mus",
+   "query": "Mercedes-Benz Museum 240D taxi",
+   "alt": [
+    "Mercedes 240 D 4.6 million km",
+    "Mercedes-Benz Museum taxi"
+   ],
+   "n": 6
+  },
+  {
+   "id": "m_r4",
+   "query": "Renault 4",
+   "alt": [
+    "Renault 4L",
+    "Renault 4 GTL",
+    "Renault 4 Colombia"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_r4dash",
+   "query": "Renault 4 dashboard gear lever",
+   "alt": [
+    "Renault 4 interior",
+    "Renault 4L tableau de bord"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_vocho",
+   "query": "Volkswagen Sedán México",
+   "alt": [
+    "Vocho",
+    "VW Beetle Mexico",
+    "Volkswagen Beetle taxi Mexico"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_vwmotor",
+   "query": "Volkswagen Beetle engine",
+   "alt": [
+    "VW Beetle air-cooled engine",
+    "Volkswagen flat four"
+   ],
+   "n": 8
+  }
+ ]
+}

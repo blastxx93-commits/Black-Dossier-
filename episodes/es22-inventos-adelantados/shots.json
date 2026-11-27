@@ -1,0 +1,157 @@
+{
+ "defaults": {
+  "n": 12,
+  "sources": [
+   "commons",
+   "openverse",
+   "loc"
+  ]
+ },
+ "shots": [
+  {
+   "id": "m_ds",
+   "query": "Citroën DS",
+   "alt": [
+    "Citroen DS 21",
+    "Citroën DS 19",
+    "Citroen ID 19"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_dssusp",
+   "query": "Citroën DS hydropneumatic sphere",
+   "alt": [
+    "Citroen hydropneumatic suspension",
+    "Citroën DS low suspension"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_dsfaros",
+   "query": "Citroën DS directional headlights",
+   "alt": [
+    "Citroen DS 1968 headlights",
+    "Citroën DS Pallas front"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_ctype",
+   "query": "Jaguar C-Type",
+   "alt": [
+    "Jaguar C-Type 1953",
+    "Jaguar C-Type Le Mans"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_disco",
+   "query": "disc brake classic car",
+   "alt": [
+    "Jaguar disc brake",
+    "disc brake caliper vintage"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_mini",
+   "query": "Morris Mini Minor",
+   "alt": [
+    "Austin Mini 1959",
+    "Mini Cooper 1960s",
+    "Authi Mini"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_minimotor",
+   "query": "Mini transverse engine",
+   "alt": [
+    "BMC A-series engine Mini",
+    "Mini engine bay"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_300sl",
+   "query": "Mercedes-Benz 300 SL Gullwing",
+   "alt": [
+    "Mercedes 300 SL",
+    "Mercedes-Benz W198"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_w111",
+   "query": "Mercedes-Benz W111",
+   "alt": [
+    "Mercedes Heckflosse",
+    "Mercedes 220 SE fintail"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_barenyi",
+   "query": "Béla Barényi",
+   "alt": [
+    "Bela Barenyi"
+   ],
+   "n": 4
+  },
+  {
+   "id": "m_w116",
+   "query": "Mercedes-Benz W116",
+   "alt": [
+    "Mercedes 450 SEL W116",
+    "Mercedes S-Class 1978"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_w126",
+   "query": "Mercedes-Benz W126",
+   "alt": [
+    "Mercedes 500 SEL W126",
+    "Mercedes S-Class 1980s"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_volvo",
+   "query": "Volvo Amazon",
+   "alt": [
+    "Volvo PV544",
+    "Volvo Amazon 1959"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_930",
+   "query": "Porsche 930 Turbo",
+   "alt": [
+    "Porsche 911 Turbo 1975",
+    "Porsche 930"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_ro80",
+   "query": "NSU Ro 80",
+   "alt": [
+    "NSU Ro80",
+    "NSU Ro 80 Wankel"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_787b",
+   "query": "Mazda 787B",
+   "alt": [
+    "Mazda 787B Le Mans",
+    "Mazda rotary race car"
+   ],
+   "n": 8
+  }
+ ]
+}
