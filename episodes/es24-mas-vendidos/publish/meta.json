@@ -1,0 +1,25 @@
+{
+ "lang": "es",
+ "tagline": "Historia real del automóvil, con fuentes.",
+ "compact_credits": true,
+ "music": "Música: \"Movement Proposition\" — Kevin MacLeod (incompetech.com). Licencia: Creative Commons: By Attribution 4.0 — http://creativecommons.org/licenses/by/4.0/",
+ "credits_file": "episodes/es24-mas-vendidos/publish/creditos_completos.txt",
+ "other_line": "Imágenes: Wikimedia Commons y Openverse. Todas las imágenes son fotografías reales.",
+ "intro": "¿Cuál fue el auto más vendido de tu país? Un viaje década por década por España, México, Argentina y Colombia: del SEAT 600 y el SEAT 127 al Renault 5; del Vocho al Nissan Tsuru; del Fiat 600, el Falcon y el Renault 12 al Peugeot 504; y del Renault 4 al Mazda 323.\n\nVídeo divulgativo basado en fuentes publicadas. Las estadísticas de la época varían según la fuente.",
+ "chapters": [
+  "Cada país tiene su auto",
+  "España: Seiscientos, 127, Renault",
+  "México: Vocho y Tsuru",
+  "Argentina: Fitito, Falcon, R12, 504",
+  "Colombia: Renault 4, Sprint, Mazda 323",
+  "Lo que tienen en común"
+ ],
+ "sources": [
+  "Autofácil, Flexicar y Ayvens: coches más vendidos en España",
+  "El Universal, Dinero en Imagen y Looking Back: Vocho y Tsuru en México",
+  "Stellantis, Parabrisas, Estaciones y El Destape: autos más vendidos en Argentina",
+  "El Carro Colombiano y El Colombiano: Renault 4, Mazda 323 y Fiat 131 en Colombia",
+  "El Debate y BOE: Ford Almussafes (Decreto Ford)"
+ ],
+ "tags_line": "#autosclasicos #vocho #renault12 #seat600 #historia"
+}
