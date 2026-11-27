@@ -129,6 +129,6 @@ Durante a narração, a tela mostra SEMPRE o que está sendo falado. Nada de car
 Começar só depois de entregar o es20.
 
 ## Fila de temas (27/11)
-- es23: Por qué España tenía coches que NADIE más tenía (autarquia de Franco, licenças, adaptações)
-- es24: Los autos SOVIÉTICOS de Latinoamérica (Cuba: Lada, Moskvitch, Polski Fiat; outros países)
-- es25: El auto MÁS vendido de tu país, década por década (España, México, Argentina, Colombia, Chile)
+- (removido pelo dono: Por qué España tenía coches… — repetia o es11)
+- es23: Los autos SOVIÉTICOS de Latinoamérica (Cuba: Lada, Moskvitch, Polski Fiat; outros países)
+- es24: El auto MÁS vendido de tu país, década por década (España, México, Argentina, Colombia, Chile)
