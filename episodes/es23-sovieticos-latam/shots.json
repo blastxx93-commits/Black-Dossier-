@@ -1,0 +1,115 @@
+{
+ "defaults": {
+  "n": 12,
+  "sources": [
+   "commons",
+   "openverse",
+   "loc"
+  ]
+ },
+ "shots": [
+  {
+   "id": "m_ladacuba",
+   "query": "Lada Cuba",
+   "alt": [
+    "Lada Havana",
+    "Lada 2107 Cuba",
+    "Lada taxi Cuba"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_lada",
+   "query": "Lada 2101",
+   "alt": [
+    "VAZ-2101",
+    "Lada 2106",
+    "Lada 2107",
+    "Zhiguli"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_fiat124",
+   "query": "Fiat 124",
+   "alt": [
+    "Fiat 124 berlina",
+    "Fiat 124 1966"
+   ],
+   "n": 10
+  },
+  {
+   "id": "m_togliatti",
+   "query": "AvtoVAZ Togliatti",
+   "alt": [
+    "Togliatti car factory",
+    "VAZ factory"
+   ],
+   "n": 8
+  },
+  {
+   "id": "m_moskvich",
+   "query": "Moskvitch 412",
+   "alt": [
+    "Moskvich 408",
+    "Moskvich Cuba"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_volga",
+   "query": "GAZ-24 Volga",
+   "alt": [
+    "Volga GAZ 24",
+    "Volga Cuba"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_polski",
+   "query": "Polski Fiat 126p",
+   "alt": [
+    "Fiat 126p Cuba",
+    "Polski Fiat 126"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_niva",
+   "query": "Lada Niva",
+   "alt": [
+    "VAZ-2121",
+    "Lada Niva 4x4",
+    "Lada Niva Chile"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_samara",
+   "query": "Lada Samara",
+   "alt": [
+    "VAZ-2108",
+    "Lada Samara Chile"
+   ],
+   "n": 10
+  },
+  {
+   "id": "m_habana",
+   "query": "Havana classic cars street",
+   "alt": [
+    "La Habana autos clásicos",
+    "Havana street Chevrolet"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_laika",
+   "query": "Lada Laika",
+   "alt": [
+    "Lada 2105",
+    "Lada 2107"
+   ],
+   "n": 10
+  }
+ ]
+}

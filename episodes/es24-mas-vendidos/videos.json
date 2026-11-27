@@ -1,0 +1,59 @@
+{
+ "defaults": {
+  "n": 4,
+  "clip": 8,
+  "per_film": 2,
+  "sources": [
+   "commons",
+   "archive",
+   "pexels",
+   "pixabay"
+  ]
+ },
+ "shots": [
+  {
+   "id": "c_seat600",
+   "query": "SEAT 600 driving",
+   "alt": [
+    "Seat 600 rally",
+    "Fiat 600 driving"
+   ],
+   "n": 4
+  },
+  {
+   "id": "c_vocho",
+   "query": "Volkswagen Beetle driving",
+   "alt": [
+    "VW Beetle Mexico City",
+    "vocho"
+   ],
+   "n": 4
+  },
+  {
+   "id": "c_r4",
+   "query": "Renault 4 driving",
+   "alt": [
+    "Renault 4L",
+    "Renault 4 rally"
+   ],
+   "n": 4
+  },
+  {
+   "id": "c_r5",
+   "query": "Renault 5 driving",
+   "alt": [
+    "Renault 5 classic"
+   ],
+   "n": 4
+  },
+  {
+   "id": "c_traffic",
+   "query": "1970s city traffic",
+   "alt": [
+    "1980s traffic",
+    "old city traffic"
+   ],
+   "n": 4
+  }
+ ]
+}

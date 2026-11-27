@@ -1,0 +1,52 @@
+{
+ "defaults": {
+  "n": 4,
+  "clip": 8,
+  "per_film": 2,
+  "sources": [
+   "commons",
+   "archive",
+   "pexels",
+   "pixabay"
+  ]
+ },
+ "shots": [
+  {
+   "id": "c_havana",
+   "query": "Havana street cars",
+   "alt": [
+    "Cuba classic cars driving",
+    "Havana traffic"
+   ],
+   "n": 4
+  },
+  {
+   "id": "c_lada",
+   "query": "Lada car driving",
+   "alt": [
+    "Lada Zhiguli",
+    "Lada Niva driving",
+    "Soviet car"
+   ],
+   "n": 4
+  },
+  {
+   "id": "c_ussr",
+   "query": "Soviet automobile factory",
+   "alt": [
+    "Soviet car production",
+    "USSR car factory newsreel"
+   ],
+   "n": 4
+  },
+  {
+   "id": "c_cuba_mech",
+   "query": "Cuba mechanic car repair",
+   "alt": [
+    "Havana mechanic",
+    "classic car repair"
+   ],
+   "n": 4
+  }
+ ]
+}

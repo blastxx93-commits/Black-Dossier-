@@ -1,0 +1,175 @@
+{
+ "defaults": {
+  "n": 12,
+  "sources": [
+   "commons",
+   "openverse",
+   "loc"
+  ]
+ },
+ "shots": [
+  {
+   "id": "m_seat600",
+   "query": "SEAT 600",
+   "alt": [
+    "Seat 600 D",
+    "Seat 600 E"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_seat127",
+   "query": "SEAT 127",
+   "alt": [
+    "Seat 127 1974",
+    "Fiat 127"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_r5",
+   "query": "Renault 5",
+   "alt": [
+    "Renault 5 TL",
+    "Renault 5 Copa"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_r9",
+   "query": "Renault 9",
+   "alt": [
+    "Renault 9 GTL",
+    "Renault 9 Colombia"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_r19",
+   "query": "Renault 19",
+   "alt": [
+    "Renault 19 Chamade"
+   ],
+   "n": 10
+  },
+  {
+   "id": "m_clio",
+   "query": "Renault Clio 1991",
+   "alt": [
+    "Renault Clio I",
+    "Clio Williams"
+   ],
+   "n": 10
+  },
+  {
+   "id": "m_fiesta",
+   "query": "Ford Fiesta 1976",
+   "alt": [
+    "Ford Fiesta Mk1",
+    "Ford Fiesta 1977"
+   ],
+   "n": 10
+  },
+  {
+   "id": "m_vocho",
+   "query": "Volkswagen Sedán México",
+   "alt": [
+    "Vocho",
+    "VW Beetle Mexico"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_tsuru",
+   "query": "Nissan Tsuru",
+   "alt": [
+    "Nissan Tsuru taxi",
+    "Nissan Sentra B13",
+    "Nissan Tsuru Mexico"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_fiat600",
+   "query": "Fiat 600 Argentina",
+   "alt": [
+    "Fiat 600 D",
+    "Fitito"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_falcon",
+   "query": "Ford Falcon Argentina",
+   "alt": [
+    "Ford Falcon Futura",
+    "Ford Falcon argentino"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_r12",
+   "query": "Renault 12",
+   "alt": [
+    "Renault 12 Argentina",
+    "Renault 12 TL",
+    "Renault 12 Breck"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_504",
+   "query": "Peugeot 504",
+   "alt": [
+    "Peugeot 504 Argentina",
+    "Peugeot 504 taxi"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_duna",
+   "query": "Fiat Duna",
+   "alt": [
+    "Fiat Duna Argentina",
+    "Fiat Premio"
+   ],
+   "n": 10
+  },
+  {
+   "id": "m_r4",
+   "query": "Renault 4 Colombia",
+   "alt": [
+    "Renault 4 GTL",
+    "Renault 4L"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_131",
+   "query": "Fiat 131",
+   "alt": [
+    "Fiat 131 Mirafiori",
+    "SEAT 131"
+   ],
+   "n": 10
+  },
+  {
+   "id": "m_sprint",
+   "query": "Chevrolet Sprint",
+   "alt": [
+    "Suzuki Swift 1985",
+    "Chevrolet Sprint Colombia"
+   ],
+   "n": 10
+  },
+  {
+   "id": "m_323",
+   "query": "Mazda 323 1985",
+   "alt": [
+    "Mazda 323 sedan",
+    "Mazda 323 BF"
+   ],
+   "n": 10
+  }
+ ]
+}
