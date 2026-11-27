@@ -170,6 +170,26 @@
     "Mazda 323 BF"
    ],
    "n": 10
+  },
+  {
+   "id": "m_r4b",
+   "query": "Renault 4L",
+   "alt": [
+    "Renault 4 TL",
+    "Renault R4 1970",
+    "Renault 4 classic car"
+   ],
+   "n": 14
+  },
+  {
+   "id": "m_tsurub",
+   "query": "Nissan Tsuru taxi Mexico",
+   "alt": [
+    "Nissan Tsuru III",
+    "Nissan Sentra B13 1992",
+    "Nissan Tsuru 1995"
+   ],
+   "n": 14
   }
  ]
 }
