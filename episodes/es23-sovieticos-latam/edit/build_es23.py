@@ -15,13 +15,13 @@ FALLBACK = {k: [] for k in PHOTOS}
 FALLBACK.update({"ladacuba": ["lada", "laika"], "lada": ["laika"], "laika": ["lada"], "fiat": ["lada"], "vaz": ["lada"], "samara": ["niva"]})
 RES = ["m_ladacuba/11", "m_fiat124/2", "m_lada/1", "m_togliatti/3", "m_volga/12", "m_polski/2", "m_niva/12", "m_samara/6"]
 A.setup(sys.argv[1], os.path.join(HERE, "skip.json"), PHOTOS, CLIPS, GENERIC, FALLBACK, [], reserved=RES)
-A.THEME = "race"; A.CLIP_TARGET = 0.0; A.MAX_HOLD, A.KEEP = 12.0, 8.0
+A.THEME = "race"; A.CLIP_TARGET = 0.05; A.MAX_HOLD, A.KEEP = 16.0, 11.0
 A.ARCHIVE_OK = True; A.STRICT_POOLS = True; A.SPLIT_BY_SUBJECT = True
 chapters = []
 
 c = ch("ch00_hook", 0.6)
 c.at(0, P("habana"))
-c.at("Entre los famosos autos americanos", V("habana"))
+c.at("Entre los famosos autos americanos", P("habana"))
 c.at("Es cuadrado, sencillo", photo("m_ladacuba", 11, "in", cap="Lada|La Habana"))
 c.at("Es un Lada", P("ladacuba"))
 c.at("Pero la historia de los autos soviéticos", P("niva"))
